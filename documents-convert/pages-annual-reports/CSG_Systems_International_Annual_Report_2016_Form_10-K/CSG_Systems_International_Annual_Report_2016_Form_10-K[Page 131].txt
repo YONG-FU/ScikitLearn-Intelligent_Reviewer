@@ -1,0 +1,37 @@
+Pages where conﬁdential treatment has been requested are stamped “Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled
+with the Commission,” and places where information has been redacted have been marked with (***).
+Exhibit 10.23AV
+FIFTY-SIXTH AMENDMENT
+TO THE
+CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT
+BETWEEN
+CSG SYSTEMS, INC.
+AND
+DISH NETWORK L.L.C.
+THIS FIFTY-SIXTH AMENDMENT (this “ Amendment ”) is made by and between CSG Systems, Inc. , a Delaware corporation (“ CSG ”), and DISH Network
+L.L.C. , a Colorado limited liability company (“ Customer ”). This Amendment shall be effective as of the date last signed below (the “ Effective Date ”). CSG and
+Customer entered into a certain CSG Master Subscriber Management System Agreement (Document #2301656) effective as of January 1, 2010 (the “ Agreement ”), and
+now desire to further amend the Agreement in accordance with the terms and conditions set forth in this Amendment. If the terms and conditions set forth in this
+Amendment shall be in conﬂict with the Agreement, the terms and conditions of this Amendment shall control. Any terms in initial capital letters or all capital letters
+used as a defined term but not defined in this Amendment shall have the meaning set forth in the Agreement. Upon execution of this Amendment by the parties, any
+subsequent reference to the Agreement between the parties shall mean the Agreement as amended by this Amendment. Except as amended by this Amendment, the
+terms and conditions set forth in the Agreement shall continue in full force and effect according to their terms.
+CSG and Customer agree as follows as of the Effective Date:
+1. Customer desires to use, and CSG shall provide to Customer, CSG’S HTML Statement Feed (“ HTML ”). Therefore, SCHEDIILE,A,, “Services” of the
+Agreement is hereby AMENDED by adding “ HTML Statement Feed ” to the list of Additional Services and by adding the following description to EXHIBIT
+A-S to the section entitled “ Additional Services ” as follows:
+HTML Statement Feed . CSG’S HTML Statement Feed provides electronic statements in HTML format to be stored in Customer’s existing document system. CSG
+shall provide the HTML Statement Feed to Customer on a daily basis.
+2. SCHEDULE F , “FEES,” CSG SERVICES, Section III. entitled “Payment Procurement,” sub-section entitled A. Print and Mail Services, sub-section VII. entitled
+“Other print and mail ancillary service fees,” of the Agreement is hereby AMENDED to add a new sub-section D. entitled “HTML Statement Feed ” as follows:
+I Description of Item/Unit of Measure I Frequencyil Fee I
+ID.HTML Statement Feed I I I
+l 1. HTML Statement Feed — initial startup, implementation, and configuration (up to * I ***
+I 2. HTML Hosting Services ( Notei) I
+Note 1: The Hosting Services fees will be invoiced commencing upon the Completion Date provided in the SOW numbered CSG #4112817.
+IN WITNESS WHEREOF the parties hereto have caused this Amendment to be executed by their duly authorized representatives.
+DISH NETWORK L.L.C. CSG SYSTEMS, INC.
+By: /S/ Rob Dravenstott By: /S/ Gregory L. Cannon
+Name: Rob Dravenstott Name: Gregory L. Cannon
+Title: SVP and Chief Information Officer Title: SVP, Secretary & General Counsel
+Date: 11/29/16 Date: 11/29/2016

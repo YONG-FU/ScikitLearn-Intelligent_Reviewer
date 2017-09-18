@@ -1,0 +1,44 @@
+rated at least A— (or the then-equivalent grade) by S&P and A3 (or the then-equivalent grade) by Moody’s at the time of acquisition;
+(8) asset-backed securities having as the underlying asset securities issued or guaranteed by the Federal Home Loan Mortgage Corporation or the
+Federal National Mortgage Association rated at least A— (or the then-equivalent grade, in each case with stable outlook) by S&P and A3 (or the then—
+equivalent grade, in each case with case with stable outlook) by Moody’s at the time of acquisition and having maturities of not more than twenty-four
+(24) months from the date of acquisition; and
+(9) Investments, classiﬁed in accordance with GAAP as current assets of TLLP or any of its Subsidiaries, in money market mutual or similar ﬁJnds
+having assets in excess of $100,000,000, at least 95% of the assets of which are comprised of assets speciﬁed in clauses (1) through (8) above of this
+deﬁnition.
+“Change of Control” means the occurrence of any of the following:
+(1) the direct or indirect sale, lease, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of
+related transactions, of all or substantially all of the properties or assets of TLLP and its Subsidiaries taken as a whole (unless immediately following
+such sale, lease, transfer, conveyance or other disposition in compliance with this Indenture such assets are owned, directly or indirectly, by (A) T LLP
+or a Subsidiary of TLLP, (B) a Person controlled by TLLP or a Subsidiary of TLLP or (C) a Qualiﬁed Owner) to any “person” (as that term is used in
+Section 13(d) of the Exchange Act);
+(2) the adoption of a plan relating to the liquidation or dissolution of TLLP or the removal of the General Partner by the limited partners of TLLP;
+or
+(3) the consummation of any transaction (including, without limitation, any merger or consolidation), the result of which is that any “person” (as
+deﬁned above), other than a Qualiﬁed Owner, becomes the Beneﬁcial Owner, directly or indirectly, of more than 50% of the Voting Stock of the
+General Partner, measured by voting power rather than number of shares.
+Notwithstanding the preceding, (a) a conversion of TLLP from a limited partnership to a corporation, limited liability company or other form of entity
+or an exchange of all of the outstanding limited partnership interests for capital stock in a corporation, for member interests in a limited liability company or
+for Equity Interests in such other form of entity shall not constitute a Change of Control, so long as following such conversion or exchange the “persons” (as
+deﬁned above) who Beneﬁcially Owned the Capital Stock of TLLP immediately prior to such transactions continue to Beneﬁcially Own in the aggregate
+more than 5 0% of the Voting Stock of such entity, or continue to Beneﬁcially Own sufﬁcient Equity Interests in such entity to elect a majority of its
+directors, managers, trustees or other persons serving in a similar capacity for such entity and (b) a “person” or “group” shall not be deemed to Beneﬁcially
+Own securities subject to a stock or asset purchase agreement, merger agreement or similar agreement (or voting or option or similar agreement related
+thereto) until the consummation of the transactions contemplated by such agreement.
+“Change of Control Triggering Event” means the occurrence of both a Change of Control and a Rating Decline with respect to the Notes.
+“Clearstream” means Clearstream Banking, société anonyme, and its successors.
+“Code” means the Internal Revenue Code of 1986, as amended from time to time, and any successor statute.
+“ConsolidatedCashFlow” means, with respect to any speciﬁed Person for any period, the Consolidated Net Income of such Person for such period
+plus, without duplication:
+(1) an amount (to the extent not included in Consolidated Net Income) equal to the dividends or distributions paid during such period in cash or
+Cash Equivalents to such Person or any of its Restricted Subsidiaries by a Person that is not a Restricted Subsidiary of such Person; plus
+(2) an amount equal to (i) any extraordinary loss plus (ii) any net loss realized by such Person or any of its Restricted Subsidiaries in connection
+with sales of assets or the disposition of any securities by such Person or any of its Restricted Subsidiaries or the extinguishment of any Indebtedness of
+such Person or any of its Restricted Subsidiaries, in each case, to the extent such losses were deducted in computing such Consolidated Net Income;
+plus
+(3) provision for taxes based on income or proﬁts of such Person and its Restricted Subsidiaries for such period, to the extent that such provision
+for taxes was deducted in computing such Consolidated Net Income; plus
+(4) the Fixed Charges of such Person and its Restricted Subsidiaries for such period (together with items excluded from the deﬁnition of “Fixed
+Charges” pursuant to clauses (1)(a)(s) through (2) and clause (2) thereof), to the extent that any such Fixed Charges was deducted in computing such
+Consolidated Net Income; plus
+-4-

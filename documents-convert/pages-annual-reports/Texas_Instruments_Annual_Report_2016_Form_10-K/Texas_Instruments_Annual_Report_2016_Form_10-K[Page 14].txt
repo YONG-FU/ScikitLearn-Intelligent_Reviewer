@@ -1,0 +1,52 @@
+In particular, our manufacturing processes and critical manufacturing equipment require that certain key raw materials, natural
+resources and utilities be available. Limited or delayed access to and high costs of these items could adversely affect our results of
+operations. Our products contain materials that are subject to conflict minerals reporting requirements. Our relationships with
+customers and suppliers may be adversely affected if we are unable to describe our products as conflict-free. Additionally, our
+costs may increase if one or more of our customers demand that we change the sourcing of materials we cannot identify as
+conflict-free.
+Our inability to timely implement new manufacturing technologies or install manufacturing equipment could adversely affect our
+results of operations. We subcontract a portion of our wafer fabrication and assembly and testing of our products, and we depend
+on third parties to provide advanced logic manufacturing process technology development. We do not have long-term contracts
+'3 with all of these suppliers, and the number of alternate suppliers is limited. Reliance on these suppliers involves risks, including
+:1 possible shortages of capacity in periods of high demand, suppliers’ inability to develop and deliver advanced logic manufacturing
+f process technology in a timely, cost effective, and appropriate manner and the possibility of suppliers’ imposition of increased
+0 costs on us.
+5:
+Our operations could be affected by the complex laws, rules and regulations to which our business
+is subject.
+We are subject to complex laws, rules and regulations affecting our domestic and international operations relating to, for example,
+the environment, safety and health; exports and imports; bribery and corruption; tax; data privacy and protection; labor and
+employment; competition; and intellectual property ownership and infringement. Compliance with these laws, rules and regulations
+may be onerous and expensive and could restrict our ability to manufacture or ship our products and operate our business. If we
+fail to comply or if we become subject to enforcement activity, we could be subject to fines, penalties or other legal liability.
+Furthermore, should these laws, rules and regulations be amended or expanded, or new ones enacted, we could incur materially
+greater compliance costs or restrictions on our ability to manufacture our products and operate our business.
+Some of these complex laws, rules and regulations — for example, those related to environmental, safety and health requirements
+— may particularly affect us in the jurisdictions in which we manufacture products, especially if such laws and regulations: require
+the use of abatement equipment beyond what we currently employ; require the addition or elimination of a raw material or process
+to or from our current manufacturing processes; or impose costs, fees or reporting requirements on the direct or indirect use of
+energy, natural resources, or materials or gases used or emitted into the environment in connection with the manufacture of our
+products. A substitute for a prohibited raw material or process might not be available, or might not be available at reasonable cost.
+Our results of operations and our reputation could be affected by warranty claims, product liability
+claims, product recalls or legal proceedings.
+We could be subject to claims based on warranty, product liability, epidemic or delivery failures, or other grounds relating to our
+products, manufacturing, services, designs or communications that could lead to significant expenses as we defend such claims or
+pay damage awards or settlements. In the event of a claim, we may also incur costs if we decide to compensate the affected
+customer or end consumer. We maintain product liability insurance, but there is no guarantee that such insurance will be available
+or adequate to protect against all such claims. In addition, it is possible for one of our customers to recall a product containing a TI
+part, for example, with respect to products used in automotive applications or handheld electronics, which may cause us to incur
+costs and expenses relating to the recall. Any of these events could adversely affect our results of operations, financial condition
+and our reputation.
+Our results of operations could be affected by Changes in tax-related matters.
+We have facilities in more than 30 countries and as a result are subject to taxation and audit by a number of taxing authorities.
+Tax rates vary among the jurisdictions in which we operate. If our tax rate increases, our results of operations could be adversely
+affected. A number of factors could cause our taxes to increase, including a change in the jurisdictions in which our profits are
+earned and taxed; a change in the mix of profits from those jurisdictions; changes in available tax credits; changes in applicable
+tax rates; changes in tariff regulations or surcharges; or adverse resolution of audits by taxing authorities.
+In addition, we are subject to laws and regulations in various jurisdictions that determine how much profit has been earned and
+when it is subject to taxation in that jurisdiction. Changes in these laws and regulations could affect the locations where we are
+deemed to earn income, which could in turn affect our results of operations. We have deferred tax assets on our balance sheet.
+Changes in applicable tax laws and regulations or in our business performance could affect our ability to realize those deferred tax
+assets, which could also affect our results of operations. Each quarter we forecast our tax liability based on our forecast of our
+performance for the year. If that performance forecast changes, our forecasted tax liability will change.
+10 TEXAS INSTRUMENTS - 2016 FORM 10-K

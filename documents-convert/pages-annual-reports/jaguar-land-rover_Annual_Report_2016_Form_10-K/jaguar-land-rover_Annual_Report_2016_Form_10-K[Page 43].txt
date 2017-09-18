@@ -1,0 +1,56 @@
+1 1 4 | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+33 CAPITAL MANAGEMENT
+The Group’s objectives when managing capital are to ensure the going concern operation of its entities and to maintain an
+efﬁcient capital structure to reduce the cost of capital, support the corporate strategy and to meet shareholder expectations.
+The Group’s policy is to borrow primarily through capital market debt issues to meet anticipated funding requirements and
+maintain sufﬁcient liquidity. The Group also maintains certain undrawn committed credit facilities to provide additional
+liquidity. These borrowings, together with cash generated from operations, are loaned internally or contributed as equity to
+certain subsidiaries as required. Surplus cash in subsidiaries is pooled (where practicable) and invested to satisfy security,
+liquidity and yield requirements.
+The capital structure is governed according to Group policies approved by the Board and is monitored by various metrics such
+as interest cover, as per the debt covenants.
+Funding requirements are reviewed periodically with any debt issuances and capital distributions approved by the Board.
+The following table summarises the capital of the Group:
+' 2016 2015 2014
+AS at 31 March Em Em Em
+Short-term debt 121 160 172
+Long-term debt 2,379 2,390 1,856
+Total debt* 2,500 2,550 2,028
+Equity 7,614 6,040 5,864
+Total capital 10,114 8,590 7,892
+* Total debt includes ﬁnance lease obligations of £11 million (2015: £13 million, 2014: £18 million).
+34 FINANCIAL INSTRUMENTS
+This section gives an overview of the signiﬁcance of ﬁnancial instruments for the Group and provides additional information on
+balance sheet items that contain ﬁnancial instruments.
+The details of signiﬁcant accounting policies, including the criteria for recognition, the basis of measurement and the basis on
+which income and expenses are recognised, in respect of each class of ﬁnancial asset, fInancial liability and equity instrument
+are disclosed in note 2 to the consolidated ﬁnancial statements.
+(A) FINANCIAL ASSETS AND LIABILITIES
+The following table shows the carrying amounts and fair value of each category of ﬁnancial assets and liabilities as at
+31 March 2016:
+FINANCIAL ASSETS
+Derivatives in
+cash flow Fair value
+Loans and hedging through proﬁt Total carrying
+receivables relationship and loss value Total fair value
+_ Em Em Em Em Em
+Cash and cash equivalents 3,399 — — 3,399 3,399
+Short-term deposits 1,252 — — 1,252 1,252
+Trade receivables 1,078 — — 1,078 1,078
+Other ﬁnancial assets — current 64 54 19 137 137
+Other ﬁnancial assets — non—current 31 143 11 185 185
+Total ﬁnancial assets 5,824 197 30 6,051 6,051
+FINANCIAL LIABILITIES
+Derivatives in
+cash flow Fair value
+Other ﬁnancial hedging through proﬁt Total carrying
+liabilities relationship and loss value Total fair value
+_ Em Em Em Em Em
+Accounts payable 5,758 — — 5,758 5,758
+Short-term borrowings 116 — — 116 116
+Long-term borrowings 2,373 — — 2,373 2,398
+Other ﬁnancial liabilities — current 296 563 103 962 962
+Other ﬁnancial liabilities — non—current 8 752 57 817 817
+Total ﬁnancial liabilities 8,551 1,315 160 10,026 10,051

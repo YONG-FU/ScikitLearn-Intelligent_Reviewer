@@ -1,0 +1,45 @@
+In May 2014, we publicly announced that criminals were able to penetrate and steal certain
+data, including user names, encrypted user passwords and other non-financial user data. Upon
+making this announcement, we required all buyers and sellers on our platform to reset their
+passwords in order to log into their account. The breach and subsequent password reset have
+negatively impacted the business. In July 2014, a putative class action lawsuit was filed against
+us for alleged violations and harm resulting from the breach. The lawsuit was recently
+dismissed with leave to amend. In addition, we have received requests for information and are
+subject to investigations regarding this incident from numerous regulatory and other
+government agencies across the world.
+We may also need to expend significant additional resources to protect against security
+breaches or to redress problems caused by breaches. These issues are likely to become more
+difficult and costly as we expand the number of markets where we operate. Additionally, our
+insurance policies carry low coverage limits, which may not be adequate to reimburse us for
+losses caused by security breaches and we may not be able to fully collect, if at all, under
+these insurance policies.
+Systems failures or cyberattacks and resulting interruptions in the availability of or
+degradation in the performance of our websites, applications, products or services could harm
+our business.
+Our systems may experience service interruptions or degradation due to of hardware and
+software defects or malfunctions, computer denial—of—service and other cyberattacks, human
+error, earthquakes, hurricanes, floods, fires, natural disasters, power losses, disruptions in
+telecommunications services, fraud, military or political conflicts, terrorist attacks, computer
+viruses, or other events. Our systems are also subject to break—ins, sabotage and intentional
+acts of vandalism. Some of our systems are not fully redundant and our disaster recovery
+planning is not sufficient for all eventualities.
+We have experienced and will likely continue to experience system failures, denial of
+service attacks and other events or conditions from time to time that interrupt the availability
+or reduce the speed or functionality of our websites and mobile applications. These events
+have resulted and likely will result in loss of revenue. A prolonged interruption in the availability
+or reduction in the speed or other functionality of our websites and mobile applications could
+materially harm our business. Frequent or persistent interruptions in our services could cause
+current or potential users to believe that our systems are unreliable, leading them to switch to
+our competitors or to avoid our sites, and could permanently harm our reputation and brands.
+Moreover, to the extent that any system failure or similar event results in damages to our
+customers or their businesses, these customers could seek significant compensation from us
+for their losses and those claims, even if unsuccessful, would likely be time—consuming and
+costly for us to address. We also rely on facilities, components and services supplied by third
+parties and our business may be materially adversely affected to the extent these components
+or services do not meet our expectations or these third parties cease to provide the services
+or facilities. In particular, a decision by any of our third party hosting providers to close a facility
+that we use could cause system interruptions and delays, result in loss of critical data and
+cause lengthy interruptions in our services. We do not carry business interruption insurance
+sufficient to compensate us for losses that may result from interruptions in our service as a
+result of systems failures and similar events.
+27

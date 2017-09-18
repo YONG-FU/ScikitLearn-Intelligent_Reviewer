@@ -1,0 +1,52 @@
+Geo-political events such as the United Kingdom's vote in June 2016 to withdraw from the European Union, commonly
+referred to as Brexit, may increase the likelihood of certain of these risks materializing or heighten their impact on us in
+affected regions. In particular, it is possible that the level of economic activity in the United Kingdom and the rest of Europe
+will be adversely impacted and that we will face increased regulatory and legal complexities, including those related to tax,
+trade, security and employees as a result of Brexit. Such changes could be costly and potentially disruptive to our operations
+and business relationships in affected markets.
+In addition, compliance with complex foreign and US. laws and regulations that apply to our international operations
+increases our cost of doing business. These numerous, rapidly-changing and sometimes conﬂicting laws and regulations include
+internal control and disclosure rules, data privacy and filtering requirements, anti-corruption laws, such as the US. Foreign
+Corrupt Practices Act, or FCPA, the UK Bribery Act and local laws prohibiting corrupt payments to governmental officials, and
+antitrust and competition regulations, among others. Violations of these laws and regulations by our employees or partners
+could result in fines and penalties, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of
+our business and on our ability to offer our products and services in one or more countries, and could also materially affect our
+brand, our global operations, any international expansion efforts, our ability to attract and retain employees, our business, and
+our financial statements. Although we have implemented policies and procedures designed to ensure compliance with these
+laws and regulations, there can be no assurance that our employees, contractors or agents will not violate our policies or
+applicable laws.
+We entered into a Non-Prosecution Agreement with the Commission in June 2016 in connection with the previously-
+disclosed investigation relating to sales practices in a country outside the US. In the event we violate the terms of this Non—
+Prosecution Agreement, we could be subject to additional investigation or enforcement by the Commission or the Department
+of Justice. In addition, whether by virtue of disclosure of the Non-Prosecution Agreement or otherwise, we may be subject to
+investigations by foreign governments. Any such investigations or enforcement actions could have a material adverse effect on
+us.
+Defects or disruptions in our services could diminish demand for our solutions or subject us to substantial liability.
+Our services are highly complex and are designed to be deployed in and across numerous large and complex networks that
+we do not control. From time to time, we have needed to correct errors and defects in the software that underlies our services
+and platform that have given rise to service incidents. We have also experienced customer dissatisfaction with the quality of
+some of our media delivery and other services, which has led to loss of business and could lead to loss of customers in the
+future. There may be additional errors and defects in our software that may adversely affect our operations. We may not have in
+place adequate quality assurance procedures to ensure that we detect errors in our software in a timely manner, and we may
+have insufficient resources to efficiently cope with multiple service incidents happening simultaneously or in rapid succession.
+If we are unable to efficiently and cost-effectively fix errors or other problems that may be identified and improve the quality of
+our services, or if there are unidentified errors that allow persons to improperly access our services, we could experience loss of
+revenue and market share, damage to our reputation, increased expenses, delayed payments and legal actions by our customers.
+Government regulation is evolving, and unfavorable changes could harm our business.
+Laws and regulations that apply to communications and commerce over the Internet are becoming more prevalent. In
+particular, domestic and foreign government attempts to regulate the operation of the Internet could negatively impact our
+business. While regulations recently adopted by the US. Federal Communications Commission that govern certain aspects of
+the operation of the Internet (such as content blocking and throttling and paid prioritization) do not apply to content delivery
+network providers like us, there is no guarantee that future regulatory and legislative initiatives or changes, including as a result
+of the election of the new US. presidential administration, will not impact our business. In particular, it is difficult to predict
+how the regulatory environment in the US. will change as a result of the new presidential administration or whether any
+changes will have an adverse or favorable impact on our business.
+Increasing regulatory focus on privacy issues and expanding laws and regulations could expose us to increased liability.
+Privacy laws, including the new European Union General Data Protection Regulation, are rapidly changing and evolving
+globally. Governments, privacy advocates and class action attorneys are increasingly scrutinizing how companies collect,
+process, use, store, share and transmit personal data. New laws and industry self-regulatory codes have been enacted and more
+are being considered that may affect our ability to reach current and prospective customers, to understand how our products and
+services are being used, to respond to customer requests allowed under the laws, and how we use data generated from our
+network. Any perception that our business practices, data collection activities or how our services operate represent an invasion
+of privacy, whether or not consistent with current regulations and industry practices, may subject us to public criticism (or
+17

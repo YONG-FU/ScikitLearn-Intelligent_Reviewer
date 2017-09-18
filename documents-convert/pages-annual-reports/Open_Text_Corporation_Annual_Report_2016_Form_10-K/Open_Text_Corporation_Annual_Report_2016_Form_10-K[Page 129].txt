@@ -1,0 +1,50 @@
+Rights of return and other incentives
+We do not generally offer rights of return or any other incentives such as concessions, product rotation, or price protection
+and, therefore, do not provide for or make estimates of rights of return and similar incentives.
+Research and development costs
+Research and development costs internally incurred in creating computer software to be sold, licensed or otherwise
+marketed are expensed as incurred unless they meet the criteria for deferral and amortization, as described in ASC Topic
+985-20, “Costs of Software to be Sold, Leased, or Marketed” (Topic 985-20). In accordance with Topic 985-20, costs related to
+research, design and development of products are charged to expense as incurred and capitalized between the dates that the
+product is considered to be technologically feasible and is considered to be ready for general release to customers. In our
+historical experience, the dates relating to the achievement of technological feasibility and general release of the product have
+substantially coincided. In addition, no significant costs are incurred subsequent to the establishment of technological
+feasibility. As a result, we do not capitalize any research and development costs relating to internally developed software to be
+sold, licensed or otherwise marketed.
+Income taxes
+We account for income taxes in accordance with ASC Topic 740, “Income Taxes” (Topic 740). Deferred tax assets and
+liabilities arise from temporary differences between the tax bases of assets and liabilities and their reported amounts in the
+Consolidated Financial Statements that will result in taxable or deductible amounts in future years. These temporary differences
+are measured using enacted tax rates. A valuation allowance is recorded to reduce deferred tax assets to the extent that we
+consider it is more likely than not that a deferred tax asset will not be realized. In determining the valuation allowance, we
+consider factors such as the reversal of deferred income tax liabilities, projected taxable income, and the character of income
+tax assets and tax planning strategies. A change to these factors could impact the estimated valuation allowance and income tax
+expense.
+We account for our uncertain tax provisions by using a two-step approach to recognizing and measuring uncertain tax
+positions. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence
+indicates it is more likely than not, based solely on the technical merits, that the position will be sustained on audit, including
+resolution of related appeals or litigation processes, if any. The second step is to measure the appropriate amount of the benefit
+to recognize. The amount of benefit to recognize is measured as the maximum amount which is more likely than not to be
+realized. The tax position is derecognized when it is no longer more likely than not that the position will be sustained on audit.
+On subsequent recognition and measurement the maximum amount which is more likely than not to be recognized at each
+reporting date will represent the Company's best estimate, given the information available at the reporting date, although the
+outcome of the tax position is not absolute or final. We recognize both accrued interest and penalties related to liabilities for
+income taxes within the "Provision for Income Taxes" line of our Consolidated Statements of Income (see note 14 for more
+details).
+Fair value of ﬁnancial instruments
+Carrying amounts of certain financial instruments, including cash and cash equivalents, accounts receivable and accounts
+payable (trade and accrued liabilities) approximate their fair value due to the relatively short period of time between origination
+of the instruments and their expected realization.
+The fair value of our total long-term debt approximates its carrying value since the interest rate is at market.
+We apply the provisions of ASC 820, “Fair Value Measurements and Disclosures”, to our derivative financial instruments
+that we are required to carry at fair value pursuant to other accounting standards (see note 15 for more details).
+Foreign currency
+Our Consolidated Financial Statements are presented in US. dollars. In general, the functional currency of our
+subsidiaries is the local currency. For each subsidiary, assets and liabilities denominated in foreign currencies are translated into
+US dollars at the exchange rates in effect at the balance sheet dates and revenues and expenses are translated at the average
+exchange rates prevailing during the month of the transaction. The effect of foreign currency translation adjustments not
+affecting net income are included in Shareholders' equity under the “Cumulative translation adjustment” account as a
+component of “Accumulated other comprehensive income”. Transactional foreign currency gains (losses) included in the
+Consolidated Statements of Income under the line item “Other income (expense) net” for Fiscal 2016, Fiscal 2015 and Fiscal
+2014 were $(1.9) million, $(31.0) million and $4.0 million, respectively.
+12 1

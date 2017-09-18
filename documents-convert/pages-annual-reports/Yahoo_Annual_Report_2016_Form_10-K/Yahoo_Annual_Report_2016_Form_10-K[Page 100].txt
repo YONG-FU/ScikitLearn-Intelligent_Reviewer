@@ -1,0 +1,39 @@
+Table,0f,C,ontents
+Yahoo! Inc.
+Consolidated Statements of Cash Flows
+Years Ended December 31,
+2014 2015 2016
+_ W, _ _ _ _ W, __ , _ W ,, _ ,2, _ _ (in_tho_u§_&md,sl
+CASH FLOWS FROM OPERATING ACTIVITIES: |
+Net income (loss) $ 1,532,142 $ (4,351,101) $ (299,463)
+:Adjustments to reconcile net income (loss) to net cash provided by (used in) operating l
+militias:
+Diepﬁciation 7 1 475,931 472_,_8_94 401,341
+| Amortization of intangible assets 131,537 138,3 9 100,214 I
+Accretion of convertible notes discount 59,838 63,961 69,161
+| Stock-based compensation expense 420,114 459,858 499,216 I
+Non-cash asse’gmpairment charge — 44,381 —
+| Non—cash goodwill impairment charge 88,414 4,469,837 394,901 I
+Non-cash intangible assets impairment charge — 15,g3 81,335
+| Non-cash restructuring_(reversals) charges (3,394) 3, 159 1,227 l
+Non-cash accretion on marketable securities 3_0_,_818 47,218 29,180
+| F0919delcnaggeiossjgﬂi) 15,918 437.6 (22,428) I
+Gain on sale ofiaisﬁsets and otheg _ (1_1,_3_8_3) (1,818) (3,316)
+| Gain on sale of Alibaba Group ADSs (10,319,437) — — I
+(38111 on sales 01 patents and land (91,8_9_4) (11,109) (121,359)
+| (Gain) loss on Hortonworks warrants (98,062) 19,199 59,046 I
+Earniﬂgsjrﬁqujy interEStS (1.951893) (393.53) (3_6_3_,.2_8_3)
+| Tax beneﬁts from stock-based awards 145,711 41,129 6,153 l
+E1cess tax beneﬁts from stock-based awards (119,581) (59,181) (1_8_,_0_01)
+| Deferred income taxes 465,813 (42,341) (224,137) I
+Dividends received fromegu_ity investee_s 7 1 8_3,_6_8_5 142,015 15_6_,9_6_8
+| Changes in assets and liabilities, net of effects of acquisitions: |
+Accounts receivable 1 29,§8 (39,965) (43,919)
+| Prepaid expenses and other (82,419) 21,842 316,351 I
+Accounts {@yable 14,165 (59,965) (4,559)
+| Ac91ue1d1e1<p1e1s1e1s1a1d1otﬂer lia1b1iti1es 158,307 1_0_9,7_7_8 105,877 I
+“Eomes taxes p_ayable related to sale of Alibaba Group ADSs 3,181,193 (3,181,193) —
+| Deferred revenue (194,920) (195,328) (3,098) l
+Net cash provided by (used in) operating activities 916,350 (1,383,422) 1,248,863
+The accompanying notes are an integral part of these consolidated ﬁnancial statements.
+99

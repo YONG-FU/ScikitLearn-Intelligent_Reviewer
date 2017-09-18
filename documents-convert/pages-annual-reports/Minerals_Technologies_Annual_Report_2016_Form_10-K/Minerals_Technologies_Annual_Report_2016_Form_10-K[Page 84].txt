@@ -1,0 +1,55 @@
+MINERALS TECHNOLOGIES INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+customer's contractual obligation to purchase products made using those assets. The Company's sales of PCC are
+predominantly pursuant to long-term evergreen contracts, initially ten years in length, with paper mills at which the Company
+operates satellite PCC plants. The terms of many of these agreements have been extended, often in connection with an
+expansion of the satellite PCC plant. Failure of a PCC customer to renew an agreement or continue to purchase PCC from a
+Company facility could result in an impairment of assets charge or accelerated depreciation at such facility.
+Depletion of mineral reserves is determined on a unit-of—extraction basis for financial reporting purposes, based upon
+proven and probable reserves, and on a percentage depletion basis for tax purposes.
+Stripping Costs Incurred During Production
+Stripping costs are those costs incurred for the removal of waste materials for the purpose of accessing ore body that will
+be produced commercially. Stripping costs incurred during the production phase of a mine are variable costs that are
+included in the costs of inventory produced during the period that the stripping costs are incurred.
+Accounting for the Impairment of Long-Lived Assets
+Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying
+amount of an asset may not be recoverable. If events or changes in circumstances indicate that the carrying amount of an
+asset may not be recoverable, the Company estimates the undiscounted future cash ﬂows (excluding interest), resulting from
+the use of the asset and its ultimate disposition. If the sum of the undiscounted cash ﬂows (excluding interest) is less than the
+carrying value, the Company recognizes an impairment loss, measured as the amount by which the carrying value exceeds
+the fair value of the asset, determined principally using discounted cash ﬂows.
+Goodwill and Other Intangible Assets
+Goodwill represents the excess of purchase price and related costs over the value assigned to the net tangible and
+identiﬁable intangible assets of businesses acquired. Goodwill is not amortized, but instead assessed for impairment.
+Intangible assets with estimable useful lives are amortized on a straight-line basis over their respective estimated lives to the
+estimated residual values, and reviewed for impairment.
+The Company performs a qualitative assessment for each of its reporting units to determine if the two step process for
+impairment testing is required. If the Company determines that it is more likely than not that the fair value of a reporting unit
+is less than its carrying amount, the Company would then evaluate the recoverability of goodwill using a two-step
+impairment test approach at the reporting unit level. In the first step, the fair value for the reporting unit is compared to its
+book value including goodwill. In the case that the fair value of the reporting unit is less than book value, a second step is
+performed which compares the fair value of the reporting unit's goodwill to the book value of the goodwill. The fair value
+for the goodwill is determined based on the difference between the fair values of the reporting unit and the net fair values of
+the identiﬁable assets and liabilities of such reporting unit. If the fair value of the goodwill is less than the book value, the
+difference is recognized as impairment.
+Investment in joint ventures
+The Company uses the equity method of accounting to incorporate the results of its investments in companies in which it
+has significant inﬂuence, but does not control; and cost method of accounting in companies in which it cannot exercise
+significant control. The Company records the equity in earnings of its investments in joint ventures on a one month lag. At
+December 31, 2016, the book value of Company’s equity method investment was $14.4 million. The Company had no cost
+method investments at December 31, 2016.
+Accounting for Asset Retirement Obligations
+The Company provides for obligations associated with the retirement of long-lived assets and the associated asset
+retirement costs. The fair value of a liability for an asset retirement obligation is recognized in the period in which it is
+incurred if a reasonable estimate of fair value can be made. The associated asset retirement costs are capitalized as part of the
+carrying amount of the long-lived asset. The Company also provides for legal obligations to perform asset retirement
+activities where timing or methods of settlement are conditional on future events.
+The Company also records liabilities related to land reclamation as a part of the asset retirement obligations. The Company
+mines land for various minerals using a surface-mining process that requires the removal of overburden. In many instances,
+the Company is obligated to restore the land upon completion of the mining activity. As the overburden is removed, the
+Company recognizes this liability for land reclamation based on the estimated fair value of the obligation. The obligation is
+adjusted to reﬂect the passage of time and changes in estimated future cash outﬂows.
+Fair Value of Financial Instruments
+The recorded amounts of cash and cash equivalents, receivables, short-term borrowings, accounts payable, accrued
+interest, and variable-rate long-term debt approximate fair value because of the short maturity of those instruments or the
+F-8

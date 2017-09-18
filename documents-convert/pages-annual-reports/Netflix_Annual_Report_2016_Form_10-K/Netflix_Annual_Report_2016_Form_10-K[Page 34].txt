@@ -1,0 +1,43 @@
+Table of Contents
+Based on investment positions as of December 31, 2016 , a hypothetical 100 basis point increase in interest rates across all maturities would result in a $3.9
+million incremental decline in the fair market value of the portfolio. As of December 31, 2015 , a similar 100 basis point increase in the yield curve would have
+resulted in a $6.6 million incremental decline in the fair market value of the portfolio. Such losses would only be realized if the Company sold the investments
+prior to maturity.
+As of December 31, 2016 , we had $3.4 billion of debt, consisting of fixed rate unsecured debt in five tranches. Refer to Note 4 to the consolidated ﬁnancial
+statements for details about all issuances. The fair value of our debt will ﬂuctuate with movements of interest rates, increasing in periods of declining rates of
+interest and declining in periods of increasing rates of interest.
+Foreign Currency Risk
+International revenues and cost of revenues account for 36% and 48% , respectively, of consolidated amounts for the year ended December 31, 2016 . The
+majority of international revenues and a smaller portion of expenses are denominated in currencies other than the US. dollar and we therefore have foreign
+currency risk related to these currencies, which are primarily the euro, the British pound, the Canadian dollar, the Australian dollar and the Brazilian real.
+Accordingly, changes in exchange rates, and in particular a weakening of foreign currencies relative to the US. dollar may negatively affect our revenue and
+contribution proﬁt (loss) of our International streaming segment as expressed in US. dollars. For the year ended December 31, 2016 , we believe our international
+revenues would have been approximately $174.4 million higher had foreign currency exchange rates remained consistent with those for the year ended
+December 31, 2015 .
+We have also experienced and will continue to experience ﬂuctuations in our net income as a result of gains (losses) on the settlement and the remeasurement
+of monetary assets and liabilities denominated in currencies that are not the functional currency. In the year ended December 31, 2016 , we recognized a $22.8
+million foreign exchange gain which resulted primarily from the remeasurement of significant content liabilities denominated in currencies other than functional
+currencies.
+We do not use foreign exchange contracts or derivatives to hedge any foreign currency exposures. The volatility of exchange rates depends on many factors
+that we cannot forecast with reliable accuracy. Our continued international expansion increases our exposure to exchange rate ﬂuctuations and as a result such
+ﬂuctuations could have a signiﬁcant impact on our future results of operations.
+Item 8. Financial Statements and Supplementary Data
+The consolidated ﬁnancial statements and accompanying notes listed in Part IV, Item 15(a)(1) of this Annual Report on Form 10-K are included immediately
+following Part IV hereof and incorporated by reference herein.
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A. Controls and Procedures
+(a) Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer and Chief Financial Ofﬁcer, evaluated the effectiveness of our disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of the end of the period covered by this
+Annual Report on Form 10-K. Based on that evaluation, our Chief Executive Ofﬁcer and Chief Financial Ofﬁcer concluded that our disclosure controls and
+procedures as of the end of the period covered by this Annual Report on Form 10-K were effective in providing reasonable assurance that information required to
+be disclosed by us in reports that we file or submit under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported
+within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to
+our management, including our Chief Executive Officer and Chief Financial Ofﬁcer, as appr0priate, to allow timely decisions regarding required disclosures.
+Our management, including our Chief Executive Ofﬁcer and Chief Financial Ofﬁcer, does not expect that our disclosure controls and procedures or our
+internal controls will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute,
+assurance that the objectives of the control system are met. Further, the design of a control system must reﬂect the fact that there are resource constraints, and the
+beneﬁts of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide
+absolute assurance that all control issues and instances of fraud, if any, within Netﬂix have been detected.
+3 1

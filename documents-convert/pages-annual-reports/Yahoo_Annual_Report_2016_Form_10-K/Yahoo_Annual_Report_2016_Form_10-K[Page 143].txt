@@ -1,0 +1,36 @@
+Table,0f,C,ontents
+Foreign currency derivative activity for the year ended December 31, 2016 was as follows (in millions):
+Gain (Loss) Gain (Loss) Gain
+Settlement Recorded in Recorded in (Loss)
+Payment Other Income Other Recorded
+Beginning (Receipt), (Expense), Comprehensive in Ending Fair
+Fair Value Net Net Income (Loss) Revenue Value
+Derivatives designated as hedging ‘
+instruments:
+Ni investment hedges $ 74 $ (3_0) $ — $ (5_3) (1‘) $ — $ (9)
+| Cash ﬂow hedges s 2 s 5 s 1 s (1) $ (7) $ — l
+Derivatives not designated as
+hedging instruments:
+I Balance sheet hedges $ 2 $ (1) $ 13 $ — $ — $ 11 I
+(*) This amount does not reﬂect the tax impact of $19 million recorded during the twelve months ended December 31, 2016. The $34 million after tax impact
+of the loss recorded within other comprehensive income (loss) was included in accumulated other comprehensive income on the Company’s
+consolidated balance sheets as of December 31, 2016.
+Foreign currency derivative contracts balance sheet location and ending fair value was as follows (in millions):
+Balance Sheet December 31, December 31 ,
+Location 2015 2016
+(Deriv_atives designated as hedging instruments: |
+Net investment hedges Assetﬂ) , $ 779, $ —”
+| Liability_(-Z) $ (5) $ (9) 1
+Cash ﬂow hedges Ass_et_(1 )7 7 $ 2 $ —
+| Liability_(-3) $ — $ — l
+Derivaitives not designated as hedgi_ng instruments:
+| Balance sheet hedges As_s_et_(1)_» $ 3 $ 1,2 l
+Liability (2) $ (1) $ (1)
+(1) Included in prepaid expenses and other current assets or other long-term assets and investments on the consolidated balance sheets.
+(2) Included in other accrued expenses and current liabilities or other long-term liabilities on the consolidated balance sheets.
+See the Foreign Currency and Derivative Financial Instruments section within Note 1—“The Company and Summary of Signiﬁcant Accounting Policies” for
+additional information.
+Note 10 Credit Agreement
+On May 18, 2016, the Company delivered notice to Citibank to terminate its credit agreement with Citibank, N.A., as Administrative Agent, entered into on
+October 19, 2012 (as amended on October 10,
+142

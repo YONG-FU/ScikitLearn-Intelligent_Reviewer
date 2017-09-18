@@ -1,0 +1,43 @@
+The net losses on foreign currency derivative contracts were partially offset by net gains and losses on the underlying monetary assets and liabilities. The net
+foreign currency gains or losses on those underlying monetary assets and liabilities included in “foreign currency exchange loss, net” in the consolidated statements
+of operations are as follows (in thousands):
+Year Ended December 31,
+2016 _ 2015 _ 2014
+'Total gain (loss) $ (37) $ 179 $ 4,391 l
+The following table presents gross amounts, amounts offset and net amounts presented in the consolidated balance sheets for the Company’s derivative
+instruments measured at fair value (in thousands):
+December 31, 2015
+’Gross amounts of recognized asset $ 66 ‘
+Gross amounts offset (50)
+'Net amount of recognized asset $ 16 l
+The Company had the legal right to offset these recognized assets and liabilities upon settlement of the derivative instruments. For additional information,
+refer to Note 7, Fair Value Measurements .
+Note 9—Stock Plans
+Equity Incentive Plans
+The Company has two active share-based compensation plans as of December 31, 2016 : the 2004 Employee Stock Purchase Plan (“ESPP”) and the 2013
+Omnibus Equity Incentive Plan (the “Incentive Plan”), as approved by the stockholders. Under the Incentive Plan, incentive stock options, non-qualified stock
+options, restricted stock awards (“RSAS”) and restricted stock units (“RSUs”) have been granted to employees and non-employee directors. Generally, these
+awards vest over periods of one to four years. In addition, equity awards have been issued to senior management where vesting of the award is tied to Company
+performance or market conditions. The Company’s policy is to issue new shares of its common stock upon the exercise of stock options, vesting of restricted stock
+units, granting of restricted stock awards or ESPP purchases.
+The Company’s Incentive Plan currently provides for an equity incentive pool of 4,900,000 shares. Shares reserved for issuance are replenished by forfeited
+shares from the Incentive Plan. Additionally, equity awards forfeited under the Company’s former 2005 equity incentive plan and shares that were available under
+other predecessor plans are included in the total shares available for issuance under the Incentive Plan.
+For the year ended December 31, 2016 , the tax benefit associated with stock option exercises, restricted stock unit vesting, restricted stock grants, and
+disqualifying dispositions of both incentive stock options and stock issued under the Company’s ESPP, was approximately $1.7 million . No tax benefits were
+recognized in the years ended December 31, 2016 , 2015 and 2014 because excess tax benefits were not realized by the Company.
+Stock Options
+The Company grants stock options to its employees and executive management on a discretionary basis. The following table summarizes total aggregate
+stock option activity for the year ended December 31, 2016 (in thousands, except for per share data):
+Weighted
+Average
+Weighted Remaining
+Average Contractual Aggregate
+Number of Exercise Term Intrinsic
+Shares _ Price _ (in years) _ Value
+’Balance at December 31, 2015 931 $ 10.19 ‘
+Cancelled (517) 1 1.17
+’Balance at December 31, 2016 414 $ 8.97 6.03 $ 23 ‘
+Vested or expected to vest at December 31, 2016 7 398 7 7$ 9.08 r 7 5.13 7$ 21 r
+’Exercisable at December 31, 2016 i 246 :_:$ 1069 it 4,04:—:$ 6 l
+66

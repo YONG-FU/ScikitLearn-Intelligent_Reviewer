@@ -1,0 +1,45 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Stock Option Awards
+For the year ended December 31, 2016, the six months ended December 31, 2015, the six months ended June 30, 2015 and the year ended December
+31,2014, we recognized $2.8 million, $1.0 million, $1.5 million and $4.0 million, respectively, in share-based compensation expense related to stock
+options. The amounts recognized in our consolidated statement of comprehensive (loss) income for tax beneﬁts related to share-based payment arrangements
+in 2016, 2015 and 2014 were not material. We include substantially all share-based compensation expense as a component of selling, general and
+administrative expenses. As of December 31, 2016, there was $4.1 million in unrecognized compensation cost related to non-vested employee stock option
+awards. We expect this cost to be recognized over a weighted average period of 1.72 years. The amount of cash paid for exercises under all share-based
+payment arrangements was immaterial for the year ended December 31, 2016, the six months ended December 31, 2015, the six months ended June 30, 2015
+and the year ended December 31, 2014.
+As a result of the Company's emergence from Chapter 11 proceedings, all prior stock option awards granted under the 2012 Incentive Compensation
+Plan were canceled. Our stock options generally vest thirty-three percent per year over a three-year period. The following table summarizes stock option
+activity under the 2015 Incentive Compensation Plan:
+Weighted Average
+Number of Exercise Price Weighted Average Aggregate Intrinsic
+Options _ per Option _ Remaining Life _ Value
+l0utstanding, December 31, 2015 3,627,489 $ 11.53 ‘
+Granted 553,280 $ 3.83
+l Exercised — — ‘
+Forfeited (904,664) $ 11.86
+l0utstanding,December31,2016 3,276,105 $ 10.14 7.74 — ‘
+Exercisable, December 31, 2016 997,926 $ 10.80 6.94 —
+There were no options exercised during the year ended December 31, 2016. As of December 31, 2016, our vested stock options had an intrinsic value of
+zero. Generally, our stock options are non—transferable, except by will or laws of descent or distribution, and the actual value of the stock options that a
+recipient may realize, if any, will depend on the excess of the market price on the date of exercise over the exercise price. If a participant's employment is
+terminated without cause prior to the date options are available to be exercised, the participant shall receive stock options on a pro-rata basis based on the
+fraction of the performance period that has elapsed from the beginning of the performance period until the participant's termination. If the participant does
+not exercise the pro-rata shares within 90 days of the employee's termination, the options are considered forfeited and are available for reissuance under the
+terms of the 2015 Incentive Compensation Plan.
+The weighted average fair value of the stock option awards on their grant dates using the Black-Scholes—Merton option-pricing model was $1.48 for
+each option granted during the year ended December 31, 2016 and $2.98 for the period from June 26, 2015 to December 31, 2015, based on the following
+assumptions:
+Successor Company
+Year Ended Period from June 26, 2015
+December 31, 2016 to December 31, 2015
+[Risk free interest rate 1.53% — 1.90% 1.71% — 2.05% 1
+Expected stock price volatility 40.71% - 40.87% 31.73% - 41.92%
+[Expected term in years 5.16 5.16 — 6.00 1
+Expected dividend yield — —
+The expected term of stock option awards granted represents the period that we expect our stock option awards will be outstanding and was determined
+based on a Monte Carlo model of stock prices and option disposition intensity. The intensity is based on models of stock price path, time dependent
+suboptimal voluntary exercise and post-vest termination. The risk free interest rate for the grant date of options granted is consistent with the zero—coupon
+US. Treasury rate curve. Expected volatility takes into consideration a blended historical and implied volatility of comparable companies' option contracts.
+F—38

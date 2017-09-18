@@ -1,0 +1,40 @@
+Table of Contents
+good faith and fair dealing, and declaratory relief, generally alleging that Toshiba underpaid royalties and failed to cooperate with audits conducted pursuant to the
+parties’ license agreement.
+On June 8, 2015, Toshiba removed the action to the U.S. District Court for the Northern District of California.
+On June 18, 2015, Toshiba filed its answer, affirmative defenses, and counterclaims to Tessera, Inc.’s complaint. Toshiba alleges counterclaims for declaratory
+judgment and breach of the implied warranty of good faith and fair dealing. The counterclaims seek, among other things, judicial determinations about the
+interpretation of the parties’ agreement, termination of the agreement, an accounting of the amount of alleged overpayments by Toshiba, restitution, and damages.
+On July 10, 2015, Tessera, Inc. ﬁled its answer and afﬁrmative defenses to Toshiba’s counterclaims.
+On October 15, 2015, the Court held an initial case management conference and established the case schedule. An initial summary judgment hearing on contract
+issues is scheduled for September 22, 2016. The fact discovery cutoff is October 31, 2016, and the expert discovery cutoff is January 23, 2017. A hearing on any
+remaining motions for summary judgment is set for March 16, 2017. Trial is scheduled to begin on June 19, 2017.
+Ziptronix, Inc. v. Omnivision Technologies, Inc. et al. , Civil Action No. 4:10-cv—05525 (N.D. Cal.)
+On December 6, 2010 Ziptronix, Inc. (“Ziptronix”) ﬁled a complaint against Omnivision Technologies, Inc. (“Omnivision”), Taiwan Semiconductor
+Manufacturing Corporation, Ltd. and TSMC North America Corp. (collectively, “TSMC”) in the U.S. District Court for the Northern District of California.
+Ziptronix’s complaint asserted that Omnivision and TSMC infringed Ziptronix’s U.S. Patent Nos. 6,864,585, 7,037,755, 7,335,572, 7,387,944, 7,553,744,
+7,807,549.
+On May 4, 2011, Omnivision and TSMC ﬁled their answers and affirmative defenses to Ziptronix’s first amended complaint, and TSMC asserted counterclaims
+alleging that Ziptronix infringed TSMC’s U.S. Patent Nos. 6,682,981, 7,307,020, 6,765,279, 7,385,835, and 6,350,694. All of these TSMC patents, except for U.S.
+Patent No. 6,350,694, have expired. On November 8, 2011, TSMC amended its counterclaims, and Ziptronix answered TSMC’s amended counterclaims on
+December 9, 2011.
+On April 24, 2012, Ziptronix sought leave to file a second amended complaint asserting that Omnivision and TSMC also infringed Ziptronix’s U.S. Patent Nos.
+7,871,898, 8,053,329, and 8,153,505. The Court granted Ziptronix leave to ﬁle its second amended complaint on August 2, 2012.
+On January 22, 2014, TSMC filed a motion for summary judgment arguing that any allegedly infringing activities of TSMC do not occur in the United States and
+thus such activities are not subject to the U.S. patent laws. The Court granted TSMC’s motion on September 30, 2014. On October 22, 2014, Omnivision ﬁled a
+similar motion for summary judgment concerning certain of its allegedly extraterritorial infringing activities. The Court granted Omnivision’s motion on March 2,
+2015. Neither TSMC’s nor Omnivision’s motions for summary judgment, nor the Court’s related orders, addressed substantive issues of infringement (i.e. whether
+TSMC’s or Omnivision’s products practice Ziptronix’s patents), or the validity of the asserted Ziptronix patents.
+Claim construction issues were fully briefed as of November 2012, and are under submission. Fact and expert discovery remain open. A case management
+conference is currently scheduled for March 16, 2016. No trial date has been scheduled.
+Reexamination Proceedings
+U.S. Patent No. 6,465,893
+On February 15, 2007, Siliconware Precision Industries Co. Ltd and Siliconware USA Inc. (collectively “SPIL”) filed with the U.S. Patent and Trademark Ofﬁce
+(“PTO”) a request for inter partes reexamination relating to US Patent No. 6,465,893. On May 4, 2007, the PTO granted the request. On February 15, 2008, the
+PTO issued an official action, denominated as an action closing prosecution, rejecting a number of patent claims of U.S. Patent No. 6,465,893. Following
+additional proceedings, a Right of Appeal Notice was issued on February 18, 2011.
+Tessera, Inc. ﬁled a Notice of Appeal on March 3, 2011, and SPIL ﬁled a Notice of Cross Appeal on March 7, 2011. On December 21, 2012, the Patent Trial and
+Appeal Board issued a Decision on Appeal, affirming the Examiner’s previous holding of unpatentability as to some claims, reversing the Examiner’s favorable
+decision of patentability as to other claims by rejecting those claims on new grounds of rejection, and affirming the Examiner’s favorable decision of patentability
+as to still other claims. On May 9, 2013, SPIL withdrew from the inter partes reexamination of U.S. Patent No. 6,465,893.
+23

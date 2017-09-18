@@ -1,0 +1,48 @@
+ITEM 6. Selected Financial Data.
+For Years Ended December 31,
+2016 2015 2014 2013 2012
+(Millions of dollars, except share and per-share amounts)
+Cash flow data:
+Cash flows from operating activities (a) . . . . . . . . . . . . . . . . . . . . $ 4,614 $ 4,397 $ 4,054 $ 3,514 $ 3,483
+Capitalexpenditures.................................. 531 551 385 412 495
+Freecashflow(a)(b)................................. 4,083 3,846 3,669 3,102 2,988
+Dividendspaid...................................... 1,646 1,444 1,323 1,175 819 x
+Stockrepurchases................................... 2,132 2,741 2,831 2,868 1,800 5
+Income statement data: E
+1:
+Revenue by segment: 0
+8,536 8,339 8,104 7,194 6,998 “'
+Embedded Processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,023 2,787 2,740 2,450 2,257
+1,811 1,874 2,201 2,561 3,570
+13,370 13,000 13,045 12,205 12,825
+Grossprofit........................................ 8,240 7,560 7,427 6,364 6,368
+Operating expenses (R&D and 868A) . . . . . . . . . . . . . . . . . . . . . 3,137 3,028 3,201 3,380 3,681
+Acquisitioncharges.................................. 319 329 330 341 450
+Restructuring charges/other . . . . . . . . . . . . . . . . . . . . . . . . . . . . (15) (71) (51) (189) 264
+Operatingprofit..................................... 4,799 4,274 3,947 2,832 1,973
+Netincome(c)...................................... $3,595 $2,986 $2,821 $2,162 $1,759
+As a result of accounting rule A80 260, which requires a portion of Net income to be allocated to unvested restricted stock units
+(RSUs) on which we pay dividend equivalents, diluted earnings per share (EPS) is calculated using the following: ‘
+Netincome(c)...................................... $3,595 $2,986 $2,821 $2,162 $1,759
+lncomeallocatedtoRSUs.............................. (44) (42) (43) (36) (31)
+Income allocated to common shares for diluted EPS (c) . . . . . . . . $ 3,551 $ 2,944 $ 2,778 $ 2,126 $ 1,728
+Average diluted shares outstanding, in millions (c) . . . . . . . . . . . 1,021 1,043 1,080 1,113 1,146
+DilutedEPS(c)...................................... $ 3.48 $ 2.82 $ 2.57 $ 1.91 $ 1.51
+Cash dividends declared per common share . . . . . . . . . . . . . . . . $ 1.64 $ 1.40 $ 1.24 $ 1.07 $ 0.72
+(a) Prior periods reclassified to conform to the 2016 presentation, having adopted ASU 2016-09. See Note 2.
+(b) Free cash flow is a non-GAAP measure derived by subtracting Capital expenditures from Cash flows from operating activities.
+(0) 2016 amounts reflect the adoption of ASU 2016-09. See Note 2.
+December 31,
+2016 2015 2014 2013 2012
+(Millions of dollars, except Other data items)
+Balance sheet data:
+Cash, cash equivalents and short-term investments . . . . . . . . . . $ 3,490 $ 3,218 $ 3,541 $ 3,829 $ 3,965
+Totalassets........................................ 16,431 16,230 17,372 18,554 19,565
+Current portion of long-term debt and commercial paper
+borrowings....................................... 631 1,000 1,001 1,000 1,500
+Long-termdebt..................................... 2,978 3,120 3,630 4,145 4,175
+Other data — Number of:
+Employees......................................... 29,865 29,977 31,003 32,209 34,151
+Stockholdersofrecord 14,910 15,563 16,361 17,213 18,128
+See Notes to the financial statements and Management’s discussion and analysis of financial condition and results of operations.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 15

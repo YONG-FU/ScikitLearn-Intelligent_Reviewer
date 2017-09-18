@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Revenue Recognition for Software Products and Software Related Services (Software Elements)
+New software licenses revenues primarily represent fees earned from granting customers licenses to use our database, middleware, application and industry-speciﬁc
+software products and exclude cloud SaaS and PaaS revenues and revenues derived from software license updates, which are included in software license updates
+and product support revenues. The basis for our new software licenses revenue recognition is substantially governed by the accounting guidance contained in ASC
+985-605, Software-Revenue Recognition. We exercise judgment and use estimates in connection with the determination of the amount of software and software
+related services revenues to be recognized in each accounting period.
+For software license arrangements that do not require significant modification or customization of the underlying software, we recognize new software licenses
+revenues when: (1) we enter into a legally binding arrangement with a customer for the license of software; (2) we deliver the products; (3) the sale price is fixed or
+determinable and free of contingencies or significant uncertainties; and (4) collection is probable. Revenues that are not recognized at the time of sale because the
+foregoing conditions are not met, are recognized when those conditions are subsequently met.
+Substantially all of our software license arrangements do not include acceptance provisions. However, if acceptance provisions exist as part of public policy (for
+example, in agreements with government entities where acceptance periods are required by law, or within previously executed terms and conditions that are
+referenced in the current agreement and are short-term in nature), we generally recognize revenues upon delivery provided the acceptance terms are perfunctory
+and all other revenue recognition criteria have been met. If acceptance provisions are not perfunctory (for example, acceptance provisions that are long-term in
+nature or are not included as standard terms of an arrangement), revenues are recognized upon the earlier of receipt of written customer acceptance or expiration of
+the acceptance period.
+The vast majority of our software license arrangements include software license updates and product support contracts, which are entered into at the customer’s
+option, and the related fees are recognized ratably over the term of the arrangement, typically one year. Software license updates provide customers with rights to
+unspeciﬁed software product upgrades, maintenance releases and patches released during the term of the support period. Product support includes internet access to
+technical content, as well as internet and telephone access to technical support personnel. Software license updates and product support contracts are generally
+priced as a percentage of the net new software licenses fees and are generally invoiced in full at the beginning of the support term. Substantially all of our
+customers renew their software license updates and product support contracts annually.
+RexenueRecognitionfonMu1tiple:Element,Arrangements:S,oﬁ:ware,Bro,ducts,and,S,oftware,Relate,d,S,ervic,es,(S,oftware,Arrangements)
+We often enter into arrangements with customers that purchase both software related products and software related services from us at the same time, or within
+close proximity of one another (referred to as software related multiple-element arrangements). Such software related multiple-element arrangements include the
+sale of our software products, software license updates and product support contracts and other software related services whereby software license delivery is
+followed by the subsequent or contemporaneous delivery of the other elements. For those software related multiple-element arrangements, we have applied the
+residual method to determine the amount of new software license revenues to be recognized pursuant to ASC 985-605. Under the residual method, if fair value
+exists for undelivered elements in a multiple-element arrangement, such fair value of the undelivered elements is deferred with the remaining portion of the
+arrangement consideration generally recognized upon delivery of the software license. We allocate the fair value of each element of a software related multiple-
+element arrangement based upon its fair value as determined by our vendor-specific objective evidence (VSOE—described further below), with any remaining
+amount allocated to the software license.
+93

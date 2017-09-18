@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+We transact business in various foreign currencies and have international revenue, as well as costs denominated in foreign currencies. This exposes us to the
+risk of ﬂuctuations in foreign currency exchange rates.
+We had net realized and unrealized foreign currency transaction gains of $4 million for the year ended December 31, 2016 and losses of $22 million and
+$15 million for the years ended December 31, 2015 and 2014, respectively, which include the impact of balance sheet hedging and remeasurements of foreign
+denominated assets and liabilities on the balance sheets of the Company and our subsidiaries.
+Translation Exposure. We are also exposed to foreign exchange rate ﬂuctuations as we convert the ﬁnancial statements of our foreign subsidiaries and our
+investments in equity interests into U.S. dollars in consolidation. If there is a change in foreign currency exchange rates, the conversion of the foreign
+subsidiaries’ ﬁnancial statements into U.S. dollars results in a gain or loss which is recorded as foreign currency translation adjustments, net of tax within
+accumulated other comprehensive income which is part of stockholders’ equity.
+A Value-at-Risk (“VaR”) sensitivity analysis was performed on all of our foreign currency derivative positions to assess the potential impact of ﬂuctuations in
+exchange rates. The VaR model uses a Monte Carlo simulation to generate thousands of random price paths assuming normal market conditions. The VaR is
+the maximum expected one day loss in fair value, for a given statistical conﬁdence level, to our foreign currency derivative positions due to adverse movements
+in rates. The VaR model is used as a risk management tool and is not intended to represent either actual or forecasted losses. Based on the results of the model
+using a 99 percent conﬁdence interval, we estimate the maximum one-day loss in the net investment hedge portfolio was $6 million and $45 million at
+December 31, 2016 and 2015, respectively. The maximum one-day loss in the cash ﬂow hedge portfolio was $1 million and $3 million at December 31, 2016 and
+2015, respectively. The maximum one-day loss in the balance sheet hedge portfolio was $5 million at December 31, 2016 compared to a $11 million and
+$2 million loss at December 31 , 2015 and 2014, respectively. Actual future gains and losses associated with our derivative positions may differ materially from
+the sensitivity analysis performed as of December 31, 2016 due to the inherent limitations associated with predicting the timing and amount of changes in foreign
+currency exchange rates and our actual exposures and positions. In addition, the VaR sensitivity analysis may not reﬂect the complex market reactions that may
+arise from the market shifts modeled within this VaR sensitivity analysis.
+Revenue ex—TAC and related expenses generated from our international subsidiaries are generally denominated in the currencies of the local countries. Primary
+currencies include Australian dollars, British pounds, Euros, Japanese yen, Taiwan dollars, Hong Kong dollars, Canadian dollars and Singapore dollars. The
+statements of operations of our international operations are translated into U.S. dollars at exchange rates indicative of market rates during each applicable
+period. To the extent the U.S. dollar strengthens against foreign currencies, the translation of these foreign currency-denominated transactions results in reduced
+consolidated revenue and operating expenses. Conversely, our consolidated revenue and operating expenses will increase if the U.S. dollar weakens against
+foreign currencies. Using the foreign currency exchange rates from the year ended December 31, 2015, revenue ex-TAC for the Americas segment for the year
+ended December 31, 2016 would have been higher than we reported by $5 million; revenue ex—TAC for the EMEA segment would have been higher than we
+reported by $19 million; and revenue ex-TAC for the Asia Paciﬁc segment would have been lower than we reported by $4 million. Using the foreign currency
+exchange rates from the year ended December 31, 2015, direct costs for the Americas segment for the year ended December 31, 2016 would have been higher
+than we reported by $2 million; direct costs for the EMEA segment would have been higher than we reported by $4 million; and direct costs for the Asia Pacific
+segment would have been higher than we reported by $4 million.
+90

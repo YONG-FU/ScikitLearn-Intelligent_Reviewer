@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+The Amended Stock Purchase Agreement may be terminated by us or Verizon in certain circumstances. If the Amended Stock Purchase Agreement is
+terminated, we may be required to pay Verizon a termination fee of $134,274,000 (which was reduced from $144,744,000 pursuant to the SPA Amendment) in
+certain circumstances, including if we terminate the Amended Stock Purchase Agreement to enter into a superior proposal satisfying certain requirements.
+Under the terms of the Amended Stock Purchase Agreement, each of our stock options outstanding immediately prior to the closing will, if not already vested,
+become fully vested as of the closing and will remain outstanding in accordance with its terms, and we will retain all liabilities and obligations with respect to such
+outstanding stock options. Each restricted stock unit (an “RSU”) of the Company that is outstanding immediately prior to the closing generally will be replaced
+with a cash-settled Verizon RSU award, and will be subject to the same vesting and other terms and conditions as the Yahoo RSUs.
+The Sale is expected to close in the second quarter of 2017.
+We ﬁled a preliminary proxy statement regarding the Sale with the US. Securities and Exchange Commission on September 9, 2016.
+Security Incidents
+Description of Events
+On September 22, 2016, we disclosed that a copy of certain user account information for approximately 500 million user accounts was stolen from Yahoo’s
+network in late 2014 (the “2014 Security Incident”). The Company believes the user account information was stolen by a state-sponsored actor. The user
+account information taken included names, email addresses, telephone numbers, dates of birth, hashed passwords (the vast majority with the “bcrypt” hashing
+algorithm) and, in some cases, encrypted or unencrypted security questions and answers. Our forensic investigation indicates that the stolen information did not
+include unprotected passwords, payment card data, or bank account information. Payment card data and bank account information are not stored in the system
+that the investigation found to be affected. We have no evidence that the state-sponsored actor is currently in or accessing the Company’s network.
+On December 14, 2016, we disclosed that, based on our outside forensic expert’s analysis of data ﬁles provided to the Company in November 2016 by law
+enforcement, we believe an unauthorized third party stole data associated with more than one billion user accounts in August 2013 (the “2013 Security
+lncident”). We have not been able to identify the intrusion associated with this theft, and we believe this incident is likely distinct from the 2014 Security Incident.
+For potentially affected accounts, the user account information stolen included names, email addresses, telephone numbers, dates of birth, hashed passwords
+(using the MD5 algorithm) and, in some cases, encrypted or unencrypted security questions and answers. The stolen information did not include passwords in
+clear text, payment card data, or bank account information.
+In November and December 2016, we disclosed that our outside forensic experts were investigating the creation of forged cookies that could allow an intruder to
+access users’ accounts without a password. Based on the investigation, we believe an unauthorized third party accessed the Company’s proprietary code to
+learn how to forge certain cookies. The outside forensic experts have identified approximately 32 million user accounts for which they believe forged cookies
+were used or taken in 2015 and 2016 (the “Cookie Forging Activity”). We believe that some of this activity is connected to the same state-sponsored actor
+believed to be responsible for the 2014 Security Incident. The forged cookies have been invalidated by the Company so they cannot be used to access user
+accounts.
+45

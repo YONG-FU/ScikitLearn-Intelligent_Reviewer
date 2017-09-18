@@ -1,0 +1,50 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. ORGANIZATION
+CitriX Systems, Inc. ("CitriX" or the "Company"), is a Delaware corporation founded on April 17, 1989. Citrix delivers
+solutions to make applications secure and easy to access, anywhere, anytime and on any device or network.
+CitriX markets and licenses its products directly to customers, over the Web, and through systems integrators ("81s"), in
+addition to indirectly through value-added resellers ("VARs"), value-added distributors ("VADs"), original equipment
+manufacturers ("OEMs"), and service providers.
+The Company's revenues are derived from sales of Enterprise and Service Provider products which include Workspace
+Services solutions, Delivery Networking products, Cloud Services products and related License updates and maintenance and
+Professional services and sales of the GoTo Business service oﬁerings, which are delivered as cloud-based SaaS, and include
+Communications Cloud and Workﬂow Cloud service offerings. The Enterprise and Service Provider and the GoTo Business
+segment (formerly Mobility Apps) constitute the Company's two reportable segments. See Note 11 for more information on the
+Company's segments.
+As part of the Company's continued transformation, effective January 1, 2016, the Company reorganized a part of its
+business by creating a new Cloud Services product grouping that primarily includes the ShareFile product line. Prior to 2016,
+the ShareFile product line was included within the Company's Workﬂow Cloud products under the GoTo Business segment.
+The Company's management has changed how it views the business primarily due to operational initiatives announced in 2015,
+which include increased emphasis and investments in core enterprise products for secure and reliable application and data
+delivery. As a result, the Company realigned its Cloud Services products and services to be included in the Enterprise and
+Service Provider segment effective January 1, 2016 in contemplation of the strategic shift and the separation of the GoTo
+Business. See Note 18 for more information on the Company's separation of its GoTo Business.
+2. SIGNIFICANT ACCOUNTING POLICIES
+Consolidation Policy
+The consolidated financial statements of the Company include the accounts of its wholly-owned subsidiaries in the
+Americas, Europe, the Middle East and Africa (“EMEA”) and Asia-Pacific. All significant transactions and balances between
+the Company and its subsidiaries have been eliminated in consolidation.
+Cash and Cash Equivalents
+Cash and cash equivalents at December 31, 2016 and 2015 include marketable securities, which are primarily money
+market funds, commercial paper, agency, and government securities, municipal securities and corporate securities with initial or
+remaining contractual maturities when purchased of three months or less.
+Available-for—sale Investments
+Short-term and long-term investments at December 31, 2016 and 2015 primarily consist of agency securities, corporate
+securities, municipal securities and government securities. Investments classified as available-for—sale are stated at fair value
+with unrealized gains and losses, net of taxes, reported in Accumulated other comprehensive loss. The Company classiﬁes its
+available-for—sale investments as current and non-current based on their actual remaining time to maturity. The Company does
+not recognize changes in the fair value of its available-for—sale investments in income unless a decline in value is considered
+other-than-temporary in accordance with the authoritative guidance.
+The Company’s investment policy is designed to limit exposure to any one issuer depending on credit quality. The
+Company uses information provided by third parties to adjust the carrying value of certain of its investments to fair value at the
+end of each period. P air values are based on a variety of inputs and may include interest rates, known historical trades, yield
+curve information, benchmark data, prepayment speeds, credit quality and broker/dealer quotes. See Note 4 for investment
+information.
+Accounts Receivable
+The Company’s accounts receivable are attributable primarily to direct sales to end customers via the Web or through
+independent software vendors, or ISVs, in addition to indirectly through value-added resellers, or VARs, value-added
+distributors, or VADs, systems integrators, or SIs, original equipment manufacturers, or OEMs and service providers. Collateral
+is generally not required. The Company also maintains allowances for doubtful accounts for estimated losses resulting from the
+inability of the Company’s customers to make payments which includes both general and specific reserves. The Company
+F-8

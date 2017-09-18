@@ -1,0 +1,46 @@
+Derivative Financial Instruments
+Cash Flow Hedges
+In November 2015, we implemented a program to hedge the foreign currency exposure risk related to certain forecasted
+inventory purchases denominated in Japanese yen. The derivative instruments we use are foreign currency forward contracts and are
+designated as cash ﬂow hedges with maturity dates of 12 months or less. We do not enter into derivative contracts for trading or
+speculative purposes.
+The bank counterparties in all contracts expose Tesla to credit-related losses in the event of their nonperformance. However, to
+mitigate that risk, Tesla only contracts with counterparties who meet the Company’s minimum requirements under its counterparty
+risk assessment process. Tesla monitors ratings, credit spreads, and potential downgrades on at least a quarterly basis. Based on our
+on-going assessment of counterparty risk, the Company will adjust its exposure to various counterparties. We generally enter into
+master netting arrangements, which reduce credit risk by permitting net settlement of transactions with the same counterparty.
+However, we do not have any master netting arrangements in place with collateral features.
+We document each hedge relationship and assess its initial effectiveness at the inception of the hedge contract and we measure
+its ongoing effectiveness on a quarterly basis using regression analysis. During the term of an effective hedge contract, we record
+gains and losses within accumulated other comprehensive income (loss). We reclassify these gains or losses to costs of automotive
+revenues in the period the related finished goods inventory is sold or as cost of automotive leasing revenue over the depreciation
+period for those sales accounted for as leases. Although our contracts are considered effective hedges, we may experience small
+amounts of ineffectiveness due to timing differences between our actual inventory purchases and the settlement date of the related
+foreign currency forward contracts. We have recorded no amounts related to hedge ineffectiveness within other income (expense), net
+in our Consolidated Statements of Operations, during the years ended December 31, 2016 and 2015.
+There were no outstanding hedging contracts as of December 31, 2016. The net notional amount of these contracts was $322.6
+million at December 31, 2015. Outstanding contracts are recognized as either assets or liabilities on the Consolidated Balance Sheet at
+fair value within prepaid expenses and other current assets or within accrued liabilities and other, depending on our net position. The
+net gain of $5.6 million in accumulated other comprehensive income (loss) as of December 31, 2016, is expected to be recognized to
+costs of automotive sales in the period the related finished goods inventory is sold or over the depreciation period for those sales
+accounted for as leases in the next twelve months. The total fair values of foreign currency contracts designated as cash ﬂow hedges as
+of December 31, 2016 and December 31, 2015 was zero and $7.3 million and was determined using Level II inputs and recorded in
+prepaid expenses and other current assets on our Consolidated Balance Sheets. During the year ended December 31, 2016, we
+reclassified $44.9 million of gains from accumulated other comprehensive income (loss) into cost of automotive revenue. No amounts
+were reclassified from accumulated other comprehensive income (loss) into earnings for the year ended December 31, 2015.
+Interest Rate Swaps
+SolarCity enters into fixed-for-ﬂoating interest rate swap agreements to swap variable interest payments on certain debt for
+fixed interest payments, as required by its lenders. These interest rate swaps are not designated as hedging instruments. Accordingly,
+all interest rate swaps are recognized at fair value on our Consolidated Balance Sheets within other assets or other long-term liabilities,
+with any changes in fair value recognized as other income (expense), net in our Consolidated Statements of Operations and with any
+cash ﬂows recognized as investing activities in our Consolidated Statements of Cash ﬂows. As of December 31, 2016, the aggregate
+notional amount of these interest rate swaps, the gross asset at fair value, and the gross liability at fair value was $789.6 million, $10.6
+million, and $12.1 million, respectively. During the year ended December 31, 2016, we recognized $7.0 million of gains related to
+these interest rate swaps.
+Fair Value Disclosure
+Our financial instruments that are not re-measured at fair value include accounts receivable, customer notes receivable, rebates
+receivable, accounts payable, accrued liabilities, customer deposits, convertible senior notes, participation interest, solar asset-backed
+notes, solar loan-backed notes, Solar Bonds and long-term debt. The carrying values of these financial instruments other than
+customer notes receivable, convertible senior notes, the participation interest, solar asset-backed notes, Solar Bonds, and long-term
+debt approximated their fair value.
+77

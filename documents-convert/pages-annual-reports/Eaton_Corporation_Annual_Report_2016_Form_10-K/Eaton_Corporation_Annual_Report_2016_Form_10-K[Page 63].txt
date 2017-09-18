@@ -1,0 +1,42 @@
+The impact of derivative instruments to the Consolidated Statements of Income and Comprehensive Income follow:
+Location of gain (loss)
+Gain (loss) recognized in reclassiﬁed from Gain (loss) reclassiﬁed
+other comprehensive Accumulated other from Accumulated other
+7 (loss) income 7 7 comprehensive loss 7 7 comprehensive loss 7
+7 2016 H 2015 7 7 2016 if 2015 7
+JDerivatives designated as cash ﬂow hedges J
+Forward starting ﬂoating-to-ﬁxed interest
+rate swaps $ 18 $ Interest expense - net $ $
+J Currency exchange contracts 7 (39), 7 20 7 Cost of products sold 7 (8) 7 16 J
+Total :$ (21): :$ 20: :$ (8): :$ 16:
+Amounts recognized in net income follow:
+: 2016 :_: 2015 :
+JDerivatives designated as fair value hedges J
+Fixed-to-ﬂoating interest rate swaps $ (3 6) $ 20
+Related long-term debt converted to ﬂoating interest
+rates by interest rate swaps 7 36 7 7 (20),
+: $ : : $ :
+Gains and losses described above were recognized in Interest expense - net.
+Note 14. ACCOUNTS RECEIVABLE AND INVENTORY
+Accounts Receivable
+Eaton performs ongoing credit evaluation of its customers and maintains sufﬁcient allowances for potential credit losses.
+The Company evaluates the collectability of its accounts receivable based on the length of time the receivable is past due and
+any anticipated future write-off based on historic experience. Accounts receivable balances are written off against an allowance
+for doubtful accounts after a ﬁnal determination of uncollectability has been made. Accounts receivable are net of an allowance
+for doubtful accounts of $50 at December 31, 2016 and 2015.
+Inventory
+Inventory is carried at lower of cost or market. Inventory in the United States is generally accounted for using the last-in,
+ﬁrst-out (LIFO) method. Remaining United States and non-United States inventory is accounted for using the ﬁrst-in, ﬁrst-out
+(FIFO) method. Cost components include raw materials, purchased components, direct labor, indirect labor, utilities,
+depreciation, inbound freight charges, purchasing and receiving costs, inspection costs, warehousing costs, and costs of the
+distribution network.
+The components of inventory follow:
+7 2016 if 2015 7
+JRaw materials $ 880 $ 885 J
+Work-in-process 396 412
+JFinished goods 7 1,074 7 7 1,131 J
+Inventory at FIFO 2,350 2,428
+JExcess of FIFO over LIFO cost f (96), f (105)J
+Total inventory :$ 2,254 : :$ 2,323 :
+Inventory at FIFO accounted for using the LIFO method was 44% and 43% at the end of 2016 and 2015, respectively.
+56

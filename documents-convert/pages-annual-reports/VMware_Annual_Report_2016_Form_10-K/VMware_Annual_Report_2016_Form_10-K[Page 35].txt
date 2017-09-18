@@ -1,0 +1,39 @@
+IablrebﬂContents
+ITEM 6. SELECTED FINANCIAL DATA
+FIVE-YEAR SELECTED CONSOLIDATED FINANCIAL DATA
+(amounts in millions, except per share amounts, and shares in thousands)
+For the Year Ended December 31,
+2016 2015 2014 2013 2012
+ISummary of Operations: — — — — I
+Revenue:
+I License 3; 2,794 $ 2,720 $ 2,591 $ 2,270 $ 2,087 I
+Services 4,299 3,927 3,444 2,937 2,518
+I GSA settlement — (76) — — — I
+Total revenue $ 7,093 $ 6,571 $ 6,035 $ 5,207 $ 4,605
+I Operating income 1,439 1,197 1,027 1,093 872 I
+Net income 1,186 997 886 1,014 746
+I Net income per weighted average share, basic, for Class A and I
+Class B $ 2.82 $ 2.35 $ 2.06 $ 2.36 $ 1.75
+Net income per weighted average share, diluted, for Class A
+and Class B $ 2.78 $ 2.34 $ 2.04 $ 2.34 $ 1.72
+I Weighted average shares, basic, for Class A and Class B 420,520 424,003 430,355 429,093 426,658 I
+Weighted average shares, diluted, for Class A and Class B 423,994 426,547 434,513 433,415 433,974
+December 31,
+2016 2015 2014 2013 2012
+IBalance Sheet Data: — — — — I
+Cash, cash equivalents and short-term investments (1) $ 7,985 $ 7,509 $ 7,075 $ 6,175 $ 4,631
+IWorking capital (1) 5,781 5,231 4,886 4,198 2,982 I
+Total assets 16,643 15,746 15,216 12,327 10,596
+ITotal unearned revenue 5,624 5,076 4,833 4,092 3,461 I
+Long-term obligations (2) 1,500 1,500 1,500 450 450
+ITotal stockholders’ equity 8,097 7,923 7,586 6,816 5,740 I
+Cash Flow Data:
+:Net cash provided by operating activities $ 2,381 $ 1,899 $ 2,180 $ 2,535 $ 1,897 I
+(1) In 2012, we acquired all of the outstanding capital stock of Nicira, Inc. (“Nicira”) for $1,100 million, net of cash acquired, consisting of $1,083 million in cash
+and $17 million for the fair value of assumed equity attributed to pre-combination services.
+(2) On January 21, 2014, in connection with our agreement to acquire A.W.S. Holding, LLC (“AirWatch Holding”), the sole member and equity holder of
+AirWatch LLC (“AirWatch”), we entered into a note exchange agreement with EMC providing for the issuance of three promissory notes in the aggregate
+principal amount of $1,500 million. The total debt of $1,500 million includes $450 million that was exchanged for the $450 million promissory note
+outstanding in prior years. Refer to Note B to the consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K for further
+information.
+34

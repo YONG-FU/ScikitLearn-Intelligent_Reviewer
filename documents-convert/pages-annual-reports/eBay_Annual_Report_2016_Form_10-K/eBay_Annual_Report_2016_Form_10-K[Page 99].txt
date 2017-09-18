@@ -1,0 +1,42 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 7 — Investments
+The following tables summarize the unrealized gains and losses and estimated fair value of
+our investments classified as available—for—sale as of December 31, 2016 and 2015 (in millions):
+7 December 31, 2016 7
+7 Gross Gross Gross 7
+Amortized Unrealized Unrealized Estimated
+: Cost :_: Gains :_: Losses :_:Fair Value
+I Short-term investments: I
+Restricted cash $ 19 $ — $ — $ 19
+I Corporate debt securities 5,203 44 (1) 5,246 I
+Government and agency securities 63 5 — 68
+I $5,285 $ 49 $ (1) $5,333]
+Long—term investments:
+I Corporate debt securities 3,848 15 (12) 3,851J
+$3,848 $ 15 $ (12) $ 3,851
+7 December 31, 2015 7
+7 Gross Gross Gross 7
+Amortized Unrealized Unrealized Estimated
+: Cost :_: Gains :_: Losses :_:Fair Value
+I Short-term investments: I
+Restricted cash $ 28 $ — $ — $ 28
+I Corporate debt securities 3,302 1 (16) 3,287 I
+Government and agency securities 55 — — 55
+I Equity instruments 9 920 — 929J
+$3,394 $ 921 $ (16) $4,299
+I Long—term investments: 7
+Corporate debt securities 3,327 7 (67) 3,267
+I $3,327 $ 7 $ (57) $3,267]
+In the fourth quarter of 2016, we sold our equity holdings of MercadoLibre, Inc., which was
+included in our short—term marketable equity instruments for net proceeds of $1.3 billion. The
+pre—tax gain of $1.3 billion was reclassified out of accumulated other comprehensive income
+into interest and other, net on our consolidated statement of income.
+Investment securities in a continuous loss position for greater than 12 months had an
+estimated fair value $123 million and an immaterial amount of unrealized losses as of
+December 31, 2016 and an estimated fair value of $769 million and unrealized losses of
+$40 million as of December 31, 2015. As of December 31, 2016, these securities had a weighted
+average remaining duration of approximately 12 months. Refer to “Note 17 — Accumulated
+Other Comprehensive Income” for amounts reclassified to earnings from unrealized gains and
+losses.
+F—23

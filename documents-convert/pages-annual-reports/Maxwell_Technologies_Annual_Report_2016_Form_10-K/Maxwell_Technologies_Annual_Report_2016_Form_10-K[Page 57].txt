@@ -1,0 +1,38 @@
+MAXWELL TECHNOLOGIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Unless the context otherwise requires, all references to “Maxwell,” the “Company,” “we,” “us,” and “our” refer to Maxwell Technologies, Inc. and its
+subsidiaries, and all references to “Maxwell SA” refer to our Swiss subsidiary, Maxwell Technologies, SA.
+Note 1—Description of Business and Summary of Signiﬁcant Accounting Policies
+Description of Business
+Maxwell Technologies, Inc. is a Delaware corporation originally incorporated in 1965 under the name Maxwell Laboratories, Inc. In 1983, the Company
+completed an initial public offering, and in 1996, changed its name to Maxwell Technologies, Inc. The Company is headquartered in San Diego, California, and
+has two manufacturing facilities located in Rossens, Switzerland and Peoria, Arizona. In April 2016, the Company exited its manufacturing facility in San Diego,
+California. In addition, the Company has two contract manufacturers located in China. Maxwell operates as one operating segment, which is comprised of two
+product lines:
+° Ultracapacitors: Ultracapacitors are energy storage devices that possess a unique combination of high power density, extremely long operational life
+and the ability to charge and discharge very rapidly. The Company’s ultracapacitor cells, multi-cell packs and modules provide highly reliable energy
+storage and power delivery solutions for applications in multiple industries, including automotive, bus, rail and truck in transportation and grid energy
+storage, and wind in renewable energy. The Company has been focusing on developing complementary lithium-ion capacitors which are cost efﬁcient
+energy storage devices with the power characteristics of an ultracapacitor combined with enhanced energy storage capacity. They are uniquely designed
+to address a variety of applications in the rail, grid, and industrial markets where energy density and weight are differentiating factors.
+0 High- Voltage Capacitors: The Company’s CONDIS ® high-voltage capacitors are designed and manufactured to perform reliably for decades in all
+climates. These products include grading and coupling capacitors and capacitive voltage dividers that are used to ensure the safety and reliability of
+electric utility infrastructure and other applications involving tranSport, distribution and measurement of high-voltage electrical energy.
+In April 2016, the Company sold substantially all of the assets and liabilities of a third product line, radiation-hardened microelectronics. The Company’s
+radiation-hardened microelectronic products for satellites and spacecraft included single board computers and components, such as high-density memory and
+power modules.
+The Company’s products are designed and manufactured to perform reliably for the life of the products and systems into which they are integrated. The
+Company achieves high reliability through the application of proprietary technologies and rigorously controlled design, development, manufacturing and test
+processes.
+Financial Statement Presentation
+The accompanying consolidated ﬁnancial statements include the accounts of Maxwell Technologies, Inc. and its subsidiaries and have been prepared in
+accordance with accounting principles generally accepted in the United States (“US GAAP”). All intercompany transactions and account balances have been
+eliminated in consolidation.
+Liquidity
+As of December 31, 2016 , the Company had approximately $25.4 million in cash and cash equivalents, and working capital of $53.1 million . In July 2015,
+the Company entered into a loan agreement with East West Bank (“EWB”), whereby EWB made available to the Company a secured credit facility in the form of a
+revolving line of credit which is available up to a maximum of the lesser of: (a) $25.0 million ; or (b) a certain percentage of domestic and foreign trade
+receivables. As of December 31, 2016 , no amounts have been borrowed under this revolving line of credit and the amount available was $11.4 million .
+Management believes the available cash balance, along with the available borrowings under the revolving line of credit, will be sufficient to fund operations,
+obligations as they become due, and capital investments for at least the next twelve months.
+54

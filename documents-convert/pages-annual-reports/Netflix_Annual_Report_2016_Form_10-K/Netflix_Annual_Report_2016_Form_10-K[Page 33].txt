@@ -1,0 +1,40 @@
+Table of Contents
+° Suboptimal Exercise Factor: Our computation of the suboptimal exercise factor is based on historical and estimated option exercise behavior. An
+increase/decrease in the suboptimal exercise factor of 10% would increase/decrease the total stock-based compensation expense by approximately $6.0
+million for the year ended December 31, 2016 .
+Recent Accounting Pronouncements
+The information set forth under Note 1 to the consolidated financial statements under the caption “Basis of Presentation and Summary of Significant
+Accounting Policies” is incorporated herein by reference.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+We are exposed to market risks related to interest rate changes and the corresponding changes in the market values of our investments, debt and foreign
+currency ﬂuctuations.
+Interest Rate Risk
+The primary objective of our investment activities is to preserve principal, while at the same time maximizing income we receive from investments without
+significantly increased risk. To achieve this objective, we follow an established investment policy and set of guidelines to monitor and help mitigate our exposure
+to interest rate and credit risk. The policy sets forth credit quality standards and limits our exposure to any one issuer, as well as our maximum exposure to various
+asset classes. We maintain a portfolio of cash equivalents and short-term investments in a variety of securities. These securities are classified as available-for—sale
+and are recorded at fair value with unrealized gains and losses, net of tax, included in “Accumulated other comprehensive loss” within Stockholders' equity in the
+Consolidated Balance Sheets.
+For the year ended December 31, 2016 , we had no impairment charges associated with our short-term investment portfolio. Although we believe our current
+investment portfolio has very little risk of material impairment, we cannot predict future market conditions or market liquidity and can provide no assurance that
+our investment portfolio will remain materially unimpaired. Some of the securities we invest in may be subject to market risk due to changes in prevailing interest
+rates which may cause the principal amount of the investment to ﬂuctuate. For example, if we hold a security that was issued with a ﬁxed interest rate at the then-
+prevailing rate and the prevailing interest rate later rises, the value of our investment will decline. At December 31, 2016 , our cash equivalents were generally
+invested in money market funds, which are not subject to market risk because the interest paid on such funds ﬂuctuates with the prevailing interest rate. Our short-
+term investments were comprised of corporate debt securities, government and agency securities and asset backed securities.
+Changes in interest rates could adversely affect the market value of the securities we hold that are classified as short-term investments. The table below
+separates these investments, based on stated maturities, to show the approximate exposure to interest rates as of December 31, 2016 .
+(in thousands)
+[Due within one year $ 61,833 1
+Due after one year and through 5 years 204,373
+'Total $ 266,206 1
+A sensitivity analysis was performed on our investment portfolio as of December 31, 2016 . The analysis is based on an estimate of the hypothetical changes
+in market value of the portfolio that would result from an immediate parallel shift in the yield curve of various magnitudes. This methodology assumes a more
+immediate change in interest rates to reﬂect the current economic environment.
+The following table presents the hypothetical fair values of our debt securities classiﬁed as short—term investments assuming immediate parallel shifts in the
+yield curve of 50 basis points (“BPS”), 100 BPS and 150 BPS. The analysis is shown as of December 31, 2016 :
+Fair Value as of December 31, 2016
+(in thousands)
+-150 BPS -100 BPS -50 BPS +50 BPS +100 BPS +150 BPS
+IS 271,745 $ 270,151 $ 268,180 $ 264,234 $ 262,261 $ 260,289 ‘
+30

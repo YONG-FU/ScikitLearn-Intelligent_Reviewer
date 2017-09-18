@@ -1,0 +1,38 @@
+Table,0f,C,ontents
+For 2014, potentially dilutive securities representing approximately 3 million were excluded from the computation of diluted earnings per share for these periods
+because their effect would have been anti—dilutive.
+The Company has the option to pay cash, issue shares of common stock or any combination thereof for the aggregate amount due upon conversion of the
+Notes. The Company’s intent is to settle the principal amount of the Notes in cash upon conversion. As a result, upon conversion of the Notes, only the amounts
+payable in excess of the principal amounts of the Notes are considered in diluted earnings per share under the treasury stock method.
+The denominator for diluted net income (loss) per share also does not include any effect from the note hedges. In future periods, the denominator for diluted net
+income (loss) per share will exclude any effect of the note hedges, if their effect would be anti—dilutive. In the event an actual conversion of any or all of the Notes
+occurs, the shares that would be delivered to the Company under the note hedges are designed to reduce the dilutive effect of the shares that the Company
+would issue under the Notes. See Note 11—”Convertible Notes” for additional information.
+The following table sets forth the computation of basic and diluted net income (loss) per share (in thousands, except per share amounts):
+Yeais Ended Deﬁciembieri 31 ,
+2014 2015 2016
+Basic: l
+Numeratqr; , , W ,
+I Netjncpmej|.QS,s)_att[ib_utab|e_to_)(aho_o_!_|np. 9 7,521,131 $ (4,359,092) 9 (2.143294
+___Less: Net incgneﬂocagyopartiqmting securities____ i (g) — (g)
+I Netijcpmej|98_S)_éﬂtﬂhlﬂgbiejplahow,n943.0,m,m99819_c£boid.eLS:bqsic 9 7.521.663 9 (4.359.082) 9 (214.325):
+Deﬂomirlatpﬁ
+T V_V_eighte‘d_average_c,omrmo_n_shares : 987,819 : 939,141 : 949,843 4‘
+Net income (loss) attributable to Yahoo! Inc. common stockholders per share—basic 9 7.61 9 (4.64) 9 (0.23)
+ﬂuted: l
+Numeiator: , , W ,
+T Netjncome_(loss)_att[ib_utable_to_)(ahoo_!_lnc. $ 2,521,231 $ (4,359,082) $ (213,321 )J
+L_e_s_SI_N,eti_nc_0me_al0_qé¥99_to_pattiqip_attng_s_e_quﬁti9_s (6]) — —
+| Les‘s_:_E,f_fAe_ct_of_dilutive_s_e_cu[ities_iss_ued_by_e_quity_investe_es (473,689) — — 4‘
+Net income (loss) attributable to Yahoo! Inc. common
+stockholders—diluted 9 7,477,975 9 (4,359,082) 9 (214,321)
+Denominator; l
+DemmmqtpoOLbﬁSiCﬁaiCU[alipi_ ._, -, 3181.819 939.141 9993813
+I Wejgmedjxanage_eﬁe_ct_oflabop,L|,n,0;dltﬂme_s§qumie.s; l
+R_e_s_tric_t_e_d_s_tp_cLun_it_S, 12.395 — —
+| Sto.cl_<_opti,Qnos_and_emplayegstqck.purchaseplan W 3.924 — — J
+Denominator for diluted calculation : 1,004,108 : 939,141 : 949,843
+| SlimmingIQS,S)_atttifb_utaﬁle;015ho_o_!:|np._chmo_n_sto_c|§tﬁlﬂets_p_eLS,hare:dliQI,ute.d 9 7.45 9 (4.64) 9 (0.294
+(*) At the beginning of the ﬁrst quarter of 2015, the Company discontinued the offering of the Employee Stock Purchase Plan to its employees. See Note 14
+—“Employee Beneﬁts” for additional information.
+137

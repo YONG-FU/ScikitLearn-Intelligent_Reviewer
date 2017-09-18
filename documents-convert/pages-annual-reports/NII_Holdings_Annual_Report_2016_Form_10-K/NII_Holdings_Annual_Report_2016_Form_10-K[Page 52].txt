@@ -1,0 +1,39 @@
+° replaced Nextel Brazil’s controller and improved the number and quality of other key individuals within Nextel Brazil’s accounting ﬁanction;
+- provided continued training to Nextel Brazil personnel on US. generally accepted accounting principles;
+- made design improvements to numerous process level controls including those over revenue, accounts receivable, and bad debt expense; and
+- implemented new contract and purchase order review controls.
+As a result of these actions, we believe that we have remediated the control deﬁciencies pertaining to the previously disclosed material weakness
+related to an organizational structure with insufﬁciently trained resources where supervisory roles, responsibilities and monitoring activities were not aligned
+with ﬁnancial reporting objectives. However, as described below, a material weakness in internal control over ﬁnancial reporting continues to exist as of
+December 31, 2016.
+In addition, we completed a ﬁnancial reporting risk assessment for recent signiﬁcant and unusual transactions, and as a result, we implemented or
+enhanced existing controls related to the completeness and accuracy of inputs to asset impairment calculations and the accounting for Nextel Brazil’s
+roaming and RAN sharing agreements.
+These changes, as well as those discussed below, have materially affected, or are reasonably likely to materially affect, the Company's internal control
+over ﬁnancial reporting.
+Management 's Report on Internal Control over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over ﬁnancial reporting (as deﬁned in Rule 13a-15(f) and Rule
+15d-15(f) under the Securities Exchange Act of 1934, as amended). Because of its inherent limitations, internal control over ﬁnancial reporting may not
+prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+In order to evaluate the effectiveness of internal control over ﬁnancial reporting, management conducted an assessment using the criteria established
+in Internal Control - Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission, or COSO. Based on
+this assessment, management concluded that the Company’s internal control over ﬁnancial reporting was not effective as of December 31, 2016 due to a
+material weakness in Nextel Brazil’s control environment and information and communication processes. Speciﬁcally:
+- The control environment was not effective because an appropriate tone at the top was not established at Nextel Brazil, which could result in
+management override of internal control over ﬁnancial reporting.
+- The information and communication process was not effective because we did not identify information necessary to account for leases, certain
+accrued liabilities and operating expenses. As a result, we did not design and operate effective process level controls over the completeness and
+accuracy of data and assumptions used to support accounting analyses and reconciliations for the related accounts.
+The control deﬁciencies described above resulted in certain immaterial misstatements to the consolidated ﬁnancial statements and create a reasonable
+possibility that a material misstatement to our consolidated ﬁnancial statements will not be prevented or detected on a timely basis.
+KPMG LLP, an independent registered public accounting ﬁrm, has expressed an adverse report in the operating effectiveness of our internal control
+over ﬁnancial reporting as of December 31, 2016. KPMG LLP’s report appears on Page F—2 of this annual report on Form 10-K
+Plan for Remediation of Nextel Brazil ’s Material Weakness
+Management is committed to remediating the material weakness in Nextel Brazil's internal control over ﬁnancial reporting. We have modiﬁed the
+reporting structure between Nextel Brazil and our corporate headquarters and provided training to senior leadership in Nextel Brazil related to Sarbanes-
+Oxley and other SEC rules and regulations, and we are continuing to reinforce compliance with our code of conduct. Also, we will implement controls to
+identify and evidence the completeness and accuracy of data and assumptions used to support accounting analyses and reconciliations.
+Item 9B. Other Information
+None.
+52

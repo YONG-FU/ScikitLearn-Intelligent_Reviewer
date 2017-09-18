@@ -1,0 +1,42 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+The condensed consolidating financial information reﬂects the investments of SGC in SGI and in the Guarantor
+Subsidiaries and Non-Guarantor Subsidiaries using the equity method of accounting. They also reﬂect the investments of the
+Guarantor Subsidiaries in the Non-Guarantor Subsidiaries. Net changes in intercompany due from/due to accounts are reported
+in the accompanying Supplemental Condensed Consolidating Statements of Cash Flows as investing activities if the applicable
+entities have a net investment (asset) in intercompany accounts and as a ﬁnancing activity if the applicable entities have a net
+intercompany borrowing (liability) balance.
+SUPPLEMENTAL CONDENSED CONSOLIDATIN G BALANCE SHEET
+December 31, 2016
+SGC Non-
+(Parent and Guarantor Guarantor Eliminating
+7 Issuerl) (Issuerz) Subsidiaries subsidiaries Entries Consolidated,
+I Assets I
+Cash and cash equivalents $ 32.7 $ 1.7 $ — $ 81.8 $ (1.1) $ 115.1
+I Restricted cash — — 24.6 0.1 — 24.7 I
+Accounts receivable, net — 61.4 199.2 234.4 — 495.0
+I Notes receivable, net — — 94.4 31.0 — 125.4 I
+Inventories — 40.3 83.1 138.1 (19.2) 242.3
+Prepaid expenses, deposits and other current
+assets 11.6 15.7 45.6 41.2 — 114.1
+Property and equipment, net 5.6 98.4 369.3 154.9 (16.0) 612.2
+I Investment in subsidiaries 3,000.7 926.7 944.0 — (4,871.4) — I
+Goodwill — 188.3 1,931.6 768.5 — 2,888.4
+I Intangible assets, net 185.8 37.5 1,343.0 202.0 — 1,768.3 I
+Intercompany balances — 5,415.1 — 116.6 (5 ,5 3 1 .7) —
+I Software, net 74.7 21.4 264.6 48.4 — 409.1 I
+Other assets 7 233.6 236.5 50.8 173.5 (401.6)? 292.87
+I Total assets $ 3,544.7 _$ 7,043.0 _$ 5,350.2 _$ 1,990.5 _$ (10,8410) _$ 7,087.4 I
+Liabilities and stockholders’ (deﬁcit) equity
+I Current portion of long-term debt $ — $ 43.0 $ — $ 6.3 $ — $ 49.3 I
+Other current liabilities 100.5 158.7 216.3 168.7 (1.1) 643.1
+I Long-term debt, excluding current portion 248.7 7,767.3 — 8.9 — 8,024.9 I
+Other long-term liabilities 159.0 12.4 468.8 67.2 (401.6) 305 .8
+I Intercompany balances 4,972.2 — 559.5 — (5,531.7) — I
+Stockholders’ (deficit) equity 7 (1,935.7) 7 (938.4) 7 4,105.6 7 7 1,739.4 7 7 (4,906.6) 7 (1,935.7)
+Total liabilities and stockholders”
+(deﬁcityqquity __ $ 3,544.7 ._ $ 7,043.0 __ $ 5,350.2 _$ 1,990.5 __ $ (10,841.0)_ $ 7,087.4
+1 - Issuer of obligations under the 2018 Notes.
+2 - Issuer of obligations under the 2020 Notes, the 2021 Notes, the Secured Notes and the Unsecured Notes.
+120

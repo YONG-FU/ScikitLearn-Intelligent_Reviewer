@@ -1,0 +1,38 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+May 31, 2016
+1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+Oracle Corporation develops, manufactures, markets, sells, hosts and supports application, platform and infrastructure technologies for information technology (IT)
+environments including database and middleware software, application software, cloud infrastructure and hardware—including Oracle Engineered Systems,
+computer server, storage, networking and industry-specific hardware products—and related services that are engineered to work together in cloud-based and on-
+premise IT environments. We offer our customers the option to deploy our comprehensive set of cloud services offerings including Oracle Software as a Service
+(SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) or to purchase our software and hardware products and related services to manage their
+own cloud-based or on-premise IT environments. Customers that purchase our software products may elect to purchase software license updates and product
+support contracts, which provide our customers with rights to unspecified software product upgrades and maintenance releases issued during the support period as
+well as technical support assistance. Customers that purchase our hardware products may elect to purchase hardware support contracts, which provide customers
+with software updates for software components that are essential to the functionality of our hardware products, such as Oracle Solaris and certain other software
+products, and can include product repairs, maintenance services, and technical support services. We also offer customers a broad set of services offerings that are
+designed to improve customer utilization of their investments in Oracle application, platform and infrastructure technologies including consulting services,
+advanced customer support services and education services.
+Oracle Corporation conducts business globally and was incorporated in 2005 as a Delaware corporation and is the successor to operations originally begun in June
+1 977.
+Basis of Financial Statements
+The consolidated financial statements included our accounts and the accounts of our wholly- and majority-owned subsidiaries. Noncontrolling interest positions of
+certain of our consolidated entities are reported as a separate component of consolidated equity from the equity attributable to Oracle’s stockholders for all periods
+presented. The noncontrolling interests in our net income were not significant to our consolidated results for the periods presented and therefore have been included
+as a component of non-operating income (expense), net in our consolidated statements of operations. Intercompany transactions and balances have been eliminated.
+Certain other prior year balances have been reclassified to conform to the current year presentation. Such reclassifications did not affect total revenues, operating
+income or net income.
+Included in acquisition related and other expenses as presented in our consolidated statements of operations for fiscal 2016 and 2015 are an acquisition related
+benefit of $19 million and a litigation related benefit of $53 million, respectively. Further, acquisition related and other expenses for fiscal 2015 included $186
+million related to a goodwill impairment loss (refer to Note 7 below for additional information).
+In fiscal 2016, we adopted Accounting Standards Update (ASU) 2015-17, Income Taxes (Topic 740): Balance Sheet Classiﬁcation of Deferred Taxes (ASU 2015-
+17) on a retrospective basis. As required by ASU 2015-17, all deferred tax assets and liabilities are classified as non-current in our consolidated balance sheets,
+which is a change from our historical presentation whereby certain of our deferred tax assets and liabilities were classified as current and the remainder were
+classified as non-current. Upon adoption of ASU 2015-17, current deferred tax assets of $663 million and current deferred tax liabilities of $85 million in our May
+31, 2015 consolidated balance sheet were reclassiﬁed as non-current and certain related reclassification entries were also recorded.
+In addition, in ﬁscal 2016, we also adopted the following Accounting Standards Updates, none of which had a material impact to our reported ﬁnancial position or
+results of operations and cash ﬂows:
+0 ASU 2016-O7, Investments—Equity Method and Joint Ventures (Topic 323): Simplifying the Transition to the Equity Method of Accounting ;
+91

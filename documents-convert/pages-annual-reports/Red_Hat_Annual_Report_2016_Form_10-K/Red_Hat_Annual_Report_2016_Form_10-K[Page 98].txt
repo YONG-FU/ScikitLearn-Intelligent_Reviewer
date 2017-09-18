@@ -1,0 +1,42 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+The Company reviews its non-marketable cost-basis investments in equity securities for other than
+temporary declines in fair value based on prices recently paid for shares in that company, as well as changes in
+market conditions. The carrying values are not necessarily representative of the amounts that the Company could
+realize in a current transaction. The company recognized losses of $2.8 million and $4.6 million on certain
+investments during the years ended February 29, 2016 and February 28, 2015, respectively. During the year
+ended February 28, 2014, no significant losses were recognized on similar investments.
+NOTE 9—Accounts Payable and Accrued Expenses
+Accounts payable and accrued expenses were comprised of the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Accountspayable....................................................... $ 63,268 $ 31,017
+Accrued wages and other compensation related expenses . . . . . . . . . . . . . . . . . . . . . . . 137,738 126,378
+Accruedothertradepayables.............................................. 45,785 40,400
+Accruedincomeandothertaxespayable 37,069 39,596
+Accruedother.......................................................... 942 342
+Accounts payable and accrued expenses ..................................... $284,802 $237,733
+NOTE 10—Derivative Instruments
+The Company transacts business in various foreign countries and is, therefore, subject to risk of foreign
+currency exchange rate ﬂuctuations. The Company from time to time enters into forward contracts to
+economically hedge transactional exposure associated with commitments arising from trade accounts receivable,
+trade accounts payable and ﬁxed purchase obligations denominated in a currency other than the functional
+currency of the respective operating entity. All derivative instruments are recorded on the Consolidated Balance
+Sheets at their respective fair market values. The Company has elected not to prepare and maintain the
+documentation required to qualify for hedge accounting treatment and, therefore, changes in fair value are
+recorded in the Consolidated Statements of Operations.
+The effects of derivative instruments on the Company’s Consolidated Financial Statements are as follows as
+of February 29, 2016 and for the year then ended (in thousands):
+: Year ended February 29, 2016 :
+Class'f‘cat'o of Ga' A ount of Gain
+: As Of February 29’ 2016 : (Lossl) Relzcblgnizedm (Ldlsls) Recognized
+Balance Fair Notional in Income on in Income on
+: Sheet Classiﬁcation : :Value: : Value : : Derivatives : : Derivatives :
+Assets—foreign currency forward
+contracts not designated as Other income
+hedges . . . . . . . . . . . . . . . . . . . . . . Other current assets $ 566 $31,390 (expense), net $ 1,226
+Liabilities—foreign currency Accounts payable
+forward contracts not designated and accrued Other income
+as hedges . . . . . . . . . . . . . . . . . . . . expenses (452) 41,214 (expense), net (1,195)
+$114 $72,604 $ 31
+94

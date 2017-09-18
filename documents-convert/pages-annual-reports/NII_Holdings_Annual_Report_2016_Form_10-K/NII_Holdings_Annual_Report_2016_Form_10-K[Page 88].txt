@@ -1,0 +1,40 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+8. Fair Value Measurements
+Nextel Argentina.
+On September 11, 2015, two of our indirect subsidiaries entered into a binding agreement with Grupo Clarin relating to the sale of all of the outstanding
+equity interests of Nextel Argentina. In connection with the initial agreement, we issued a non-recourse promissory note in the amount of $85.0 million and
+pledged the remaining 51% of the equity interests in Nextel Argentina to Grupo Clarin. We recorded our retained 51% interest in Nextel Argentina as an
+equity method investment under the fair value option, which is included as a component of other assets in our consolidated balance sheet. As of December
+31, 2015, we estimated the fair value of this investment to be $108.1 million. In addition, as of December 31, 2015, we recorded the non-recourse promissory
+note as a component of other long-term liabilities in our consolidated balance sheet at its estimated fair value of $108.1 million. This fair value estimate was
+based on the $178.0 million purchase price paid by Grupo Clarin, as adjusted for changes in excess cash from September 11, 2015 through December 31,
+2015. On January 27, 2016, the agreement was amended to permit Grupo Clarin or any of its afﬁliates to exercise the right to acquire the remaining 51%
+equity interest prior to receiving regulatory approval, and Grupo Clarin and its afﬁliate immediately acquired the remaining 51% of Nextel Argentina for no
+additional proceeds. In connection with the completion of this transaction, the promissory note was canceled on January 27, 2016.
+Available-for-Sale Securities.
+As of December 31, 2016 and 2015, available-for—sale securities held by Nextel Brazil included $73.8 million and $56.2 million, respectively, in
+investment funds. As of December 31, 2015, available-for—sale securities held by Brazil also included $9.3 million in certiﬁcates of deposit with a Brazilian
+bank. These funds invest primarily in Brazilian government bonds, long-term, low-risk bank certiﬁcates of deposit and Brazilian corporate debentures.
+During the year ended December 31, 2016, the six months ended December 31, 2015 and the six months ended June 30, 2015, as well as during the year
+ended December 31, 2014, we did not have any material unrealized gains or losses associated with these investments.
+We account for our available-for—sale securities at fair value. The fair value of our Brazilian certiﬁcates of deposit is based on their current redemption
+amount and we classify these certiﬁcates of deposit within Level 2 of the fair value hierarchy. The fair value of Nextel Brazil's investment ﬁmds is measured
+based on the funds' net asset value as a practical expedient, which is excluded from the fair value hierarchy.
+Held-t0 -Maturity Investments.
+We periodically invest some of our cash holdings in certain securities that we intend to hold to maturity. As of December 31, 2015, held-to-maturity
+investments included $18.1 million in short-term investments at NIIT in US. treasury notes. We account for held—to-maturity securities at amortized cost,
+which approximates the fair value observed in the market. These securities matured in February 2016. As of December 31, 2015, the fair value of our held-to-
+maturity investments was $18.0 million.
+Debt Instruments.
+The carrying amounts and estimated fair values of our debt instruments are as follows:
+December 31,
+2016 2015
+Carrying Estimated Carrying Estimated
+Amount Fair Value Amount Fair Value
+(in thousands)
+’Brazil equ_ipment ﬁnancing $ 291,597 $ 280,893 $ 339,850 $ 340,189 ‘
+Bank loans and other 242,313 221,45 8 240,922 229,3 66
+’Brazil spectrum ﬁnancing 125,684 _ 117,059 _ — _ — ‘
+$ 659,594 $ 619,410 $ 580,772 $ 569,555
+F—3 1

@@ -1,0 +1,56 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Impairment Assessment. The Corporation tests assets or groups of assets for recoverability whenever events or circumstances
+indicate that the carrying amounts may not be recoverable. Among the events or changes in circumstances which could indicate
+that the carrying value of an asset or asset group may not be recoverable are the following:
+o a significant decrease in the market price of a long-lived asset;
+o a significant adverse change in the extent or manner in which an asset is being used or in its physical condition including a
+significant decrease in current and projected reserve volumes;
+0 a significant adverse change in legal factors or in the business climate that could affect the value, including an adverse
+action or assessment by a regulator;
+0 an accumulation of project costs significantly in excess of the amount originally expected;
+0 a current-period operating loss combined with a history and forecast of operating or cash ﬂow losses; and
+o a current expectation that, more likely than not, a long-lived asset will be sold or otherwise disposed of significantly before
+the end of its previously estimated useful life.
+The Corporation performs asset valuation analyses on an ongoing basis as a part of its asset management program. These analyses
+and other profitability reviews assist the Corporation in assessing whether the carrying amounts of any of its assets may not be
+recoverable.
+In general, the Corporation does not view temporarily low prices or margins as an indication of impairment. Management does
+not believe that lower prices are sustainable if energy is to be delivered with supply security to meet global demand over the long
+term. Although prices will occasionally drop significantly, industry prices over the long term will continue to be driven by market
+supply and demand. On the supply side, industry production from mature fields is declining, but this is being offset by production
+from new discoveries and field developments. OPEC production policies also have an impact on world oil supplies. The demand
+side is largely a function of global economic growth. Because the lifespans of the vast majority of the Corporation’s major assets
+are measured in decades, the value of these assets is predominantly based on long-term views of future commodity prices and
+production costs. During the lifespan of these major assets, the Corporation expects that oil and gas prices will experience
+significant volatility, and consequently these assets will experience periods of higher earnings and periods of lower earnings, or
+even losses. In assessing whether the events or changes in circumstances indicate the carrying value of an asset may not be
+recoverable, the Corporation considers recent periods of operating losses in the context of its longer-term view of prices. While
+near-term prices are subject to wide ﬂuctuations, longer term price views are more stable and meaningful for purposes of
+assessing future cash ﬂows.
+When the industry experiences a prolonged and deep reduction in commodity prices, the market supply and demand conditions
+may result in changes to the Corporation’s long-term price or margin assumptions it uses for its capital investment decisions. To
+the extent those changes result in a significant reduction in the mid-point of its long-term oil, natural gas price or margin ranges,
+the Corporation may consider that situation, in conjunction with other events and changes in circumstances such as a history of
+operating losses, an indicator of potential impairment for certain assets.
+In the Upstream, the standardized measure of discounted cash ﬂows included in the Supplemental Information on Oil and Gas
+Exploration and Production activities is required to use prices based on the average of first-of-month prices. These prices
+represent discrete points in time and could be higher or lower than the Corporation’s long-term price assumptions which are used
+for impairment assessments. The Corporation believes the standardized measure does not provide a reliable estimate of the
+expected future cash ﬂows to be obtained from the development and production of its oil and gas properties or of the value of its
+oil and gas reserves and therefore does not consider it relevant in determining whether events or changes in circumstances
+indicate the need for an impairment assessment.
+If events or circumstances indicate that the carrying value may not be recoverable, the Corporation estimates the future
+undiscounted cash ﬂows of the affected properties to judge the recoverability of carrying amounts. In performing this assessment,
+assets are grouped at the lowest level for which there are identifiable cash ﬂows that are largely independent of the cash ﬂows of
+other groups of assets. Cash ﬂows used in recoverability assessments are based on the Corporation’s assumptions which are
+developed in the annual planning and budgeting process, and are consistent with the criteria management uses to evaluate
+investment opportunities. These evaluations make use of the Corporation’s assumptions of future crude oil and natural gas
+commodity prices, refining and chemical margins, volumes, costs, and foreign currency exchange rates. Volumes are based on
+projected field and facility production profiles, throughput, or sales. Where unproved reserves exist, an appropriately risk-
+adjusted amount of these reserves may be included in the evaluation. Cash ﬂow estimates for impairment testing exclude the
+effects of derivative instruments.
+An asset group is impaired if its undiscounted cash ﬂows are less than the asset’s carrying value. Impairments are measured by
+the amount by which the carrying value exceeds fair value. Fair value is based on market prices if an active market exists for the
+asset group, or discounted cash ﬂows using a discount rate commensurate with the risk. Significant unproved properties are
+assessed for impairment individually, and valuation allowances against the capitalized costs are recorded based on the estimated
+72

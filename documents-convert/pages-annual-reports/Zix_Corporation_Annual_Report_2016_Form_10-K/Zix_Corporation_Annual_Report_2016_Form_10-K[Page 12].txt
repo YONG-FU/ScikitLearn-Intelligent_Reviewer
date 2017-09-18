@@ -1,0 +1,40 @@
+If our products do not work properly or have security vulnerabilities, our reputation, business, ﬁnancial condition and ﬁnancial results could be
+negatively affected and we could experience negative publicity, declining sales and legal liability.
+The threats facing our customers are constantly evolving and the techniques used by experienced hackers to access or sabotage data change
+frequently, often are not recognized until launched against a target, and may originate from less regulated or remote areas around the world. As a result, we
+must constantly update our product solutions to respond to these threats. We produce complex solutions that incorporate leading-edge technology,
+including both hardware and software, that must operate in a wide variety oftechnology environments. Software may contain defects or “bugs” that can
+interfere with expected operations or introduce security vulnerabilities that can lead to unauthorized use or data loss. There can be no assurance that our
+testing programs will be adequate to detect all defects prior to the product being introduced, which might decrease customer satisfaction with our products
+and services. The product reengineering cost to remedy a product defect or mitigate vulnerabilities could be material to our operating results. Our inability to
+cure a product defect could result in the temporary or permanent withdrawal of a product or service from the market, a security breach, negative publicity,
+damage to our reputation, failure to achieve market acceptance, lost revenue and increased expense, any of which could have a material adverse effect on our
+reputation, business, ﬁnancial condition and ﬁnancial results.
+Our transmission and storage of personally identiﬁable information including the personal data of European data subjects and other conﬁdential
+information, and inadvertent exposure of P11 or Cl, could cause us to violate data privacy laws or lose customers and could negatively affect our
+business, ﬁnancial condition and ﬁnancial results.
+We transmit and store large amounts of personally identiﬁable information (“P11”) about individuals, which may include healthcare or ﬁnancial
+information, and other conﬁdential information (“CI”). Although we have established, and continue to develop and enhance, security measures and controls
+to help protect against unauthorized disclosure of such PII and other CI, an inadvertent disclosure of, or unauthorized third-party access to, P11 or CI, could
+disrupt our operations, damage our reputation and subject us to claims or other liabilities.
+In addition, our processing and storage of certain types of data is subject to conﬁdentiality agreements with our clients and handling P11 is
+increasingly subject to a variety of changing privacy and data security regulations around the world, such as the European Union’s Data Protection Directive
+and the forthcoming European Union Data Protection Regulation. Such laws and regulations are subject to new and differing interpretations and may be
+inconsistent among jurisdictions. For example, in October 2015, the European Court of Justice invalidated the U.S.-EU Safe Harbor framework that had been
+in place since 2000, which allowed companies including us to meet certain European legal requirements for the transfer of personal data from the European
+Economic Area to the United States. In the wake of that decision, we decided to participate in the new EU—U.S. Privacy Shield framework established by the
+US. Department of Commerce and the European Commission and opened for participation on August 1, 2016. We applied for and were approved for
+certiﬁcation and are now an Active Participant in the Privacy Shield program. Our Privacy Shield self-certiﬁcation was ﬁnalized by the Department of
+Commerce and became effective as of November 9, 2016. This will allow us to transfer personal data of European data subjects that we receive from
+customers to the United States, in compliance with the Privacy Shield principles. While our Privacy Shield certiﬁcation and other mechanisms (such as
+Model Clauses) to lawfully transfer such data remain, Privacy Shield and other transfer mechanisms are also subject to pending legal challenges and these
+legal challenges may result in different European data protection regulators applying differing standards for the transfer of personal data. Future changes in
+requirements under these regulations may be inconsistent with our existing data management practices. If so, we could be required to fundamentally change
+our business activities and practices or modify our software, which could have an adverse effect on our business, including increased cost of compliance and
+limitations on data transfer for us and our customers.
+Any inability to adequately address privacy concerns, even if unfounded, or to comply with applicable privacy or data protection laws, regulations
+and policies, could result in additional costs and liability to us, damage our reputation, inhibit sales and harm our business. Furthermore, any inadvertent
+disclosure of, or unauthorized access (including due to a cyber—attack) to, PH or other CI or other failure by us to comply with data privacy requirements
+could subject us to signiﬁcant penalties, damages, remediation and other expenses, and damage our reputation, any of which could have a material adverse
+effect on our business, ﬁnancial condition and ﬁnancial results.
+12

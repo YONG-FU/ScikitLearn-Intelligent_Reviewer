@@ -1,0 +1,42 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+5. Lease Termination and Impairment Charges (Continued)
+liabilities within this hierarchy is based upon the lowest level of input that is significant to the
+measurement of fair value. The three levels of the hierarchy consist of the following:
+° Level 1—Inputs to the valuation methodology are unadjusted quoted prices in active markets for
+identical assets or liabilities that the Company has the ability to access at the measurement date.
+° Level 2—Inputs to the valuation methodology are quoted prices for similar assets and liabilities
+in active markets, quoted prices in markets that are not active or inputs that are observable for
+the asset or liability, either directly or indirectly, for substantially the full term of the instrument.
+° Level 3—Inputs to the valuation methodology are unobservable inputs based upon
+management’s best estimate of inputs market participants could use in pricing the asset or
+liability at the measurement date, including assumptions about risk.
+Long-lived non-financial assets are measured at fair value on a nonrecurring basis for purposes of
+calculating impairment using Level 2 and Level 3 inputs as defined in the fair value hierarchy. The fair
+value of long-lived assets using Level 2 inputs is determined by evaluating the current economic
+conditions in the geographic area for similar use assets. The fair value of long-lived assets using Level 3
+inputs is determined by estimating the amount and timing of net future cash ﬂows (which are
+unobservable inputs) and discounting them using a risk-adjusted rate of interest (which is Level 1). The
+Company estimates future cash ﬂows based on its experience and knowledge of the market in which
+the store is located. Significant increases or decreases in actual cash ﬂows may result in valuation
+changes.
+The table below sets forth by level within the fair value hierarchy the long-lived assets as of the
+impairment measurement date for which an impairment assessment was performed and total losses as
+of February 27, 2016 and February 28, 2015:
+Quoted Prices in Signiﬁcant Fair Values
+Active Markets Other Signiﬁcant as of Total Charges
+for Identical Observable Unobservable Impairment February 27,
+Assets (Level 1) Inputs (Level 2) Inputs (Level 3) Date 2016
+Long-lived assets held and used . . . . $— $3,641 $17,645 $21,286 $(16,672)
+Long-lived assets held for sale . . . . . — 3,283 189 3,472 (547)
+Total . . . . . . . . . . . . . . . . . . . . . . . $— $6,924 $17,834 $24,758 $(17,219)
+Quoted Prices in Signiﬁcant Fair Values
+Active Markets Other Signiﬁcant as of Total Charges
+for Identical Observable Unobservable Impairment February 28,
+Assets (Level 1) Inputs (Level 2) Inputs (Level 3) Date 2015
+Long-lived assets held and used . . . . $— $3,692 $16,992 $20,684 $(12,503)
+Long-lived assets held for sale . . . . . — 6,024 — 6,024 (1,935)
+Total . . . . . . . . . . . . . . . . . . . . . . . $— $9,716 $16,992 $26,708 $(14,438)
+108

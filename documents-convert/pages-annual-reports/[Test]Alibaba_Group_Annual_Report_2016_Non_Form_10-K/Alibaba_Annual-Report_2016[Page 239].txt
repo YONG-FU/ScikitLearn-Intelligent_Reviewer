@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(i) Product development expenses (Continued)
+The Company expenses all costs that are incurred in connection with the planning and implementation phases
+of development and costs that are associated with repair or maintenance of the existing websites or the
+development of software and website content. Costs incurred in the development phase are capitalized and
+amortized over the estimated product life. However, since the inception of the Company, the amount of costs
+qualifying for capitalization has been insignificant and as a result, all website and software development costs
+have been expensed as incurred.
+(i) Sales and marketing expenses
+Sales and marketing expenses consist primarily of online and ofﬂine advertising expenses, promotion expenses,
+sales commissions, staff costs and share-based compensation expense and other related incidental expenses
+that are incurred directly to attract or retain consumers and merchants for the Company’s marketplaces.
+The Company expenses the costs of producing advertisements at the time production occurs, and expenses the
+costs of delivering advertisements in the period in which the advertising space or airtime is used. Advertising
+and promotional expenses totaled RMB2,022 million, RMB4,090 million and RMB5,524 million during the
+years ended March 31, 2014, 2015 and 2016, respectively.
+(k) Share-based compensation
+Share-based awards granted to the Company’s employees are measured at fair value on grant date and share-
+based compensation expense is recognized (i) immediately at the grant date if no vesting conditions are
+required, or (ii) using the accelerated attribution method, net of estimated forfeitures, over the requisite
+service period. The fair value of share options is determined using the Black-Scholes valuation model and the
+fair value of restricted shares and restricted share units (“RSUs”) is determined with reference to the fair
+value of the underlying shares. Share-based awards granted to non-employees are initially measured at fair
+value on the grant date and re-measured at each reporting date through the vesting date. Such value is
+recognized as expense over the respective service period, net of estimated forfeitures. Share-based
+compensation expense, when recognized, is charged to the consolidated income statements with the
+corresponding entry to additional paid-in capital or noncontrolling interests as disclosed in Note 2(d).
+At each date of measurement, the Company reviews internal and external sources of information to assist in
+the estimation of various attributes to determine the fair value of the share-based awards granted by the
+Company, including but not limited to the fair value of the underlying shares, expected life, expected volatility
+and expected forfeiture rates. As the Company was a private company prior to its initial public offering
+(Note 4(a)), the sources utilized to determine those attributes at the date of measurement were subjective in
+nature and required the Company to use judgment in applying such information to the share valuation
+models. The Company was required to consider many factors and made certain assumptions during this
+assessment. If any of the assumptions used to determine the fair value of the share-based awards changes
+significantly, share-based compensation expense may differ materially in the future from that recorded in the
+current reporting period.
+(1) Other employee benefits
+The Company’s subsidiaries and VIEs in the PRC participate in a government-mandated multi-employer
+defined contribution plan pursuant to which certain retirement, medical and other welfare benefits are
+F-23

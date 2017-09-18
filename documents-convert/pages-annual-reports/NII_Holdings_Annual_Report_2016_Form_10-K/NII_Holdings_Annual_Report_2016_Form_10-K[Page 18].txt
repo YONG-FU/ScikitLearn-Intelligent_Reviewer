@@ -1,0 +1,38 @@
+7. Our business could be negatively impacted by our reliance on indirect distribution channels for a significant portion of our sales.
+Our business depends upon third party distribution channels for securing a portion of the new customers to our services. In some instances, we rely on
+these third party dealers and retailers to serve as the primary contact between us and the customer and to interact with other third parties on our behalf. As a
+result, there may be risks associated with the actions taken by our distributors or the operators of our other retail channels, including potential risks associated
+with the failure of our distributors or other retail channels to follow regulatory requirements. The volume of our new customer additions, our ability to retain
+customers and our proﬁtability could also be adversely affected if these third party dealers or retailers terminate their relationship with us, if there are adverse
+changes in our relationships with them, if we alter our compensation arrangements with these dealers or retailers or if the ﬁnancial condition of these dealers
+or retailers deteriorates.
+8. If our licenses to provide mobile services are not renewed, or are modiﬁed or revoked, our business may be restricted.
+Wireless communications licenses and spectrum allocations are subject to ongoing review and, in some cases, to modiﬁcation or early termination for
+failure to comply with applicable regulations. IfNextel Brazil fails to comply with the terms of its licenses and other regulatory requirements, including
+installation deadlines and minimum loading or service availability requirements, they could be ﬁned or their licenses could be revoked. This is particularly
+true with respect to the grants of licenses for spectrum we use to support our WCDMA network in Brazil, which impose strict deadlines for the construction of
+network infrastructure and supporting systems as a condition of the license. We expect that when we complete the implementation of our RAN sharing
+agreement with Telefonica, Nextel Brazil will be in compliance with the applicable operational requirements of its licenses in all material respects. Further,
+compliance with these requirements is a condition for eligibility for license renewal. Most of our wireless communications licenses have ﬁxed terms and are
+not renewed automatically. Because governmental authorities have discretion to grant or renew licenses, our licenses may not be renewed or, if renewed,
+renewal may not be on acceptable economic terms. In addition, regulations in Brazil permit third parties, including our competitors, to challenge the award
+and use of our licenses. If our competitors are successful in pursuing claims such as these, or if regulators in Brazil take actions modifying or revoking our
+licenses in response to these claims, our ability to grow our business and improve our results of operations could be materially adversely affected.
+9. If we are not able to manage changes to our business, our operating results will suﬁ’er.
+Our ability to achieve our long-range business goals and to grow proﬁtably is dependent on our ability to manage changes to our business model and
+cost structure that are necessary to allow us to pursue our plans to expand both our service offerings and our targeted customer segments, including by
+implementing new and more efﬁcient supporting business systems and processes. Our inability to complete these efforts in a timely fashion, or to manage the
+related costs, could have an adverse impact on our business.
+a. We may be limited in our ability to grow unless we successfully expand network capacity and launch competitive services.
+To continue to successfully retain our existing customers, increase our customer base and grow our business, we must economically:
+° expand the capacity and coverage of our network in Brazil;
+° secure sufficient transmitter and receiver sites at appropriate locations to meet planned system coverage and capacity targets;
+- obtain adequate quantities of base radios and other system infrastructure equipment; and
+- obtain an adequate volume and mix of handsets to meet customer demand.
+In particular, the deployment and expansion of the coverage and capacity of our WCDMA network and the deployment of LTE technology in Brazil
+has required us to deploy new transmitter and receiver sites in order to meet the expanded coverage and capacity requirements for those networks resulting
+from differences in our commercial strategies, differences in the propagation characteristics of the spectrum bands being used to support our network in Brazil
+and the coverage requirements associated with the spectrum licenses being utilized to support our services. In some areas that we serve, individuals and
+governments are opposing new tower construction and supporting laws restricting the construction of towers and other transmitter and receiver sites.
+Compliance with such laws could increase the time and costs associated with our planned network deployments. The effort required
+1 8

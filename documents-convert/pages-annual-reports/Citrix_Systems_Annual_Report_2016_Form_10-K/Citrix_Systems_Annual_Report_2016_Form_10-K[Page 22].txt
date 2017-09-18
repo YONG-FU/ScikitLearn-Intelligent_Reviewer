@@ -1,0 +1,54 @@
+Our success depends on our ability to attract and retain and further access large enterprise customers.
+We must retain and continue to expand our ability to reach and access large enterprise customers by adding effective
+value-added distributors, or VADS, system integrators, or SIS, and other partners, as well as expanding our direct sales teams
+and consulting services. Our inability to attract and retain large enterprise customers could have a material adverse effect on our
+business, results of operations and financial condition. Large enterprise customers usually request special pricing and purchase
+of multiple years of subscription and maintenance up-front and generally have longer sales cycles. By allowing these customers
+to purchase multiple years of subscription or maintenance up-front and by granting special pricing, such as bundled pricing or
+discounts, to these large customers, we may have to defer recognition of some or all of the revenue from such sales. This
+deferral, compounded with the longer sales cycles, could reduce our revenues and operating profits for a given reporting period
+and make revenues difficult to predict.
+Changes to our licensing or subscription renewal programs, or bundling of our products, could negatively impact the timing
+of our recognition of revenue.
+We continually re-evaluate our licensing programs and subscription renewal programs, including specific license models,
+delivery methods, and terms and conditions, to market our current and future products and services. We could implement new
+licensing programs and subscription renewal programs, including promotional trade-up programs or offering specified
+enhancements to our current and future product and service lines. Such changes could result in deferring revenue recognition
+until the specified enhancement is delivered or at the end of the contract term as opposed to upon the initial shipment or
+licensing of our software product. We could implement different licensing models in certain circumstances, for which we would
+recognize licensing fees over a longer period, including offering additional products in a SaaS model. Changes to our licensing
+programs and subscription renewal programs, including the timing of the release of enhancements, upgrades, maintenance
+releases, the term of the contract, discounts, promotions and other factors, could impact the timing of the recognition of revenue
+for our products, related enhancements and services and could adversely affect our operating results and financial condition.
+Further, we may be required to defer the recognition of revenue that we receive from the sale of certain bundled products
+if we have not established vendor specific objective evidence, or VSOE, for the undelivered elements in the arrangement in
+accordance with generally accepted accounting principles in the United States, or GAAP. A delay in the recognition of revenue
+from sales of these bundled products may cause ﬂuctuations in our quarterly financial results and may adversely aﬁect our
+operating margins. Similarly, companies that we acquire may operate with different cost and margin structures, which could
+further cause ﬂuctuations in our operating results and adversely affect our operating margins. Moreover, if our quarterly
+financial results or our predictions of future financial results fail to meet the expectations of securities analysts and investors,
+our stock price could be negatively aﬁected.
+Sales and renewals of our license updates and maintenance products constitute a large portion of our deferred revenue.
+We anticipate that sales and renewals of our license updates and maintenance products will continue to constitute a
+substantial portion of our deferred revenue. Our ability to continue to generate both recognized and deferred revenue from our
+license updates and maintenance products will depend on our customers continuing to perceive value in automatic delivery of
+our software upgrades and enhancements. Further, our customers began migrating to our new maintenance service oﬁering,
+Citrix Customer Success Services. While this oﬁering provides greater benefits to our customers, it results in a price increase.
+We may experience a decrease in renewal rate due to the price increase and perceived value of Customer Success Services
+offerings. Additionally, a decrease in demand for our license updates and maintenance products could occur as a result of a
+decrease in demand for our Workspace Services, Delivery Networking and Cloud Services solutions. If our customers do not
+continue to purchase our license updates and maintenance products, our deferred revenue would decrease significantly and our
+results of operations and financial condition would be adversely aﬁected.
+Our international presence subjects us to additional risks that could harm our business.
+We conduct significant sales and customer support, development and engineering operations in countries outside of the
+United States. During the year ended December 31, 2016, we derived approximately 40.7% of our revenues from sales outside
+the United States. Potential growth and profitability could require us to further expand our international operations. To
+successfully maintain and expand international sales, we may need to establish additional foreign operations, hire additional
+personnel and recruit additional international resellers. In addition, there is significant competition for entry into high growth
+markets where we may seek to expand, such as China, the Middle East and Eastern Europe. Our international operations are
+subject to a variety of risks, which could adversely affect the results of our international operations. These risks include:
+° compliance with foreign regulatory and market requirements;
+0 variability of foreign economic, political, labor conditions and global policy uncertainty (including the impact of
+the proposed exit of the United Kingdom from the European Union, commonly referred to as “Brexit”);
+° changing restrictions imposed by regulatory requirements, tariﬁs or other trade barriers or by US. export laws;
+1 8

@@ -1,0 +1,45 @@
+Table of Contents
+Summary of Critical Accounting Estimates
+Management strives to report our financial results in a clear and understandable manner, although in some cases accounting and disclosure rules are complex and
+require us to use technical terminology. In preparing the Company's Consolidated Financial Statements, we follow accounting principles generally accepted in the
+US. These principles require us to make certain estimates and apply judgments that affect our financial position and results of operations as reﬂected in our
+ﬁnancial statements. These judgments and estimates are based on past events and expectations of future outcomes. Actual results may differ from our estimates.
+Management continually reviews our accounting policies, how they are applied and how they are reported and disclosed in our financial statements. Following is a
+summary of our critical accounting estimates and how they are applied in preparation of the ﬁnancial statements.
+Inventories
+We value inventories at the lower of cost or market as determined primarily by the retail method of accounting, using the last-in, ﬁrst-out ("LIFO") method for
+substantially all of the Walmart U.S. segment's inventories. The inventory at the Walmart International segment is valued primarily by the retail inventory method
+of accounting, using the ﬁrst-in, first-out ("FIFO") method. The retail method of accounting results in inventory being valued at the lower of cost or market since
+permanent markdowns are immediately recorded as a reduction of the retail value of inventory. The inventory at the Sam's Club segment is valued based on the
+weighted-average cost using the LIFO method.
+Under the retail method of accounting, inventory is valued at the lower of cost or market, which is determined by applying a cost-to-retail ratio to each
+merchandise grouping's retail value. The FIFO cost-to-retail ratio is generally based on the ﬁscal year purchase activity. The cost-to-retail ratio for measuring any
+LIFO provision is based on the initial margin of the ﬁscal year purchase activity less the impact of any permanent markdowns. The retail method of accounting
+requires management to make certain judgments and estimates that may significantly impact the ending inventory valuation at cost, as well as the amount of gross
+profit recognized. Judgments made include recording markdowns used to sell inventory and shrinkage. When management determines the ability to sell inventory
+has diminished, markdowns for clearance activity and the related cost impact are recorded. Factors considered in the determination of markdowns include current
+and anticipated demand, customer preferences and age of merchandise, as well as seasonal and fashion trends. Changes in weather and customer preferences could
+cause material changes in the amount and timing of markdowns from year to year.
+When necessary, we record a LIFO provision for the estimated annual effect of inﬂation, and these estimates are adjusted to actual results determined at year-end.
+Our LIFO provision is calculated based on inventory levels, markup rates and internally generated retail price indices. At January 31, 2016 and 2015 , our
+inventories valued at LIFO approximated those inventories as if they were valued at FIFO.
+We provide for estimated inventory losses, or shrinkage, between physical inventory counts on the basis of a historical percentage of sales. Following annual
+inventory counts, the provision is adjusted to reﬂect updated historical results.
+Impairment of Assets
+We evaluate long-lived assets other than goodwill and assets with indefinite lives for indicators of impairment whenever events or changes in circumstances
+indicate their carrying amounts may not be recoverable. Management's judgments regarding the existence of impairment indicators are based on market conditions
+and operational performance, such as operating income and cash ﬂows. The evaluation for long-lived assets is performed at the lowest level of identiﬁable cash
+ﬂows, which is generally at the individual store level or, in certain markets, at the market group level. The variability of these factors depends on a number of
+conditions, including uncertainty about future events and changes in demographics. Thus, our accounting estimates may change from period to period. These
+factors could cause management to conclude that indicators of impairment exist and require impairment tests be performed, which could result in management
+determining the value of long-lived assets is impaired, resulting in a write-down of the related long-lived assets.
+Goodwill and other indeﬁnite-lived acquired intangible assets are not amortized, but are evaluated for impairment annually or whenever events or changes in
+circumstances indicate that the value of a certain asset may be impaired. Generally, this evaluation begins with a qualitative assessment to determine whether a
+quantitative impairment test is necessary. If we determine, after performing an assessment based on the qualitative factors, that the fair value of the reporting unit is
+more likely than not less than the carrying amount, or that a fair value of the reporting unit substantially in excess of the carrying amount cannot be assured, then a
+quantitative impairment test would be performed. The quantitative test for impairment requires management to make judgments relating to future cash ﬂows,
+growth rates and economic and market conditions. These evaluations are based on determining the fair value of a reporting unit or asset using a valuation method
+such as discounted cash ﬂow or a relative, market-based approach. Historically, our reporting units have generated sufficient returns to recover the cost of goodwill
+and other indefinite-lived acquired intangible assets. Because of the nature of the factors used in these tests, if different conditions occur in future periods, future
+operating results could be materially impacted.
+2 1

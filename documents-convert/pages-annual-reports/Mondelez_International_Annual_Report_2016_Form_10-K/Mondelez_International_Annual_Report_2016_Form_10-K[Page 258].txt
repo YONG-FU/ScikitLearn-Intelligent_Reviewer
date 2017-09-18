@@ -1,0 +1,28 @@
+SECTION 9.12 Conﬁdentialityi. None of the Agents nor any Lender shall disclose any conﬁdential information relating to Mondeléz or any
+Borrower to any other Person without the consent of Mondeléz, other than (a) to such Agent’s or such Lender’s affiliates and their ofﬁcers, directors, employees,
+agents, advisors, insurers and re-insurers, rating agencies, market data collectors, credit insurance providers, any direct, indirect, actual or prospective counterparty
+(and its advisor) to any swap, derivative or securitization transaction related to the obligations under this Agreement and, as contemplated by Section 9.07(f), to
+actual or prospective assignees and participants, and then, in each such case, only on a conﬁdential basis; provided , however , that such actual or prospective
+assignee or participant shall have been made aware of this Section 9.12 and shall have agreed to be bound by its provisions as if it were a party to this Agreement,
+(b) as required by any law, rule or regulation or judicial process, (0) as requested or required by any state, federal or foreign authority or examiner regulating banks
+or banking or other financial institutions, including in connection with the creation of security interests as contemplated by Section 9.07(g) and (d) in connection
+with enforcing or administering this Agreement.
+SECTION 9.13 No Fiduciary Relationship: . Each Borrower acknowledges and agrees that (a) no fiduciary, advisory or agency relationship between
+the Borrowers, on the one hand, and any Agent or any Lender, on the other hand, is intended to be or has been created in respect of any of the financing transactions
+contemplated by this Agreement, irrespective of whether any Agent or any Lender has advised or is advising Mondeléz on other matters (it being understood and
+agreed that nothing in this provision will relieve any Agent or any Lender of any advisory or fiduciary responsibilities it may have in connection with other
+transactions) and (b) each Agent and each Lender may have economic interests that conﬂict with those of the Borrowers and the transactions contemplated by this
+Agreement (including the exercise of rights and remedies hereunder and thereunder) are arm’s-length commercial transactions between the Agents and the Lenders,
+on the one hand, and the Borrowers, on the other. Each Borrower acknowledges and agrees that it has consulted its own legal and ﬁnancial advisors in connection
+with the transactions contemplated hereby to the extent it deemed appropriate and that it is responsible for making its own independent judgment with respect to
+such transactions and the process leading thereto. Each Borrower agrees that it will not claim that any Lender has rendered advisory services of any nature or
+reSpect, or owes a ﬁduciary or similar duty to such Borrower, in connection with such transaction or the process leading thereto.
+SECTION 9.14 Integration . This Agreement and the Notes represent the agreement of Mondeléz, the other Borrowers, the Administrative Agent
+and the Lenders with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent,
+Mondeléz, the other Borrowers or any Lender relative to the subject matter hereof not expressly set forth or referred to herein or in the Notes other than the matters
+referred to in Sections 2.09(b) and 9.04(a), the Fee Letter and any other fee letters entered into among Mondeléz and the Joint Bookrunners, if any, and except for
+any confidentiality agreements entered into by Lenders in connection with this Agreement or the transactions contemplated hereby. The amendment and restatement
+of the Existing Credit Agreement effected hereby will not constitute a novation of the obligations of Mondeléz or the other Borrowers under the Existing Credit
+Agreement, which shall (except as paid or discharged in connection with the effectiveness hereof) continue as obligations of Mondeléz or the other Borrowers
+hereunder.
+-62-

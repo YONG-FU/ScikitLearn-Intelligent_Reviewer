@@ -1,0 +1,44 @@
+OPEN TEXT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended June 30, 2016
+(Tabular amounts in thousands, except share and per share data)
+NOTE 1—BASIS OF PRESENTATION
+The accompanying Consolidated Financial Statements include the accounts of Open Text Corporation and our
+subsidiaries, collectively referred to as "OpenText" or the "Company". We wholly own all of our subsidiaries with the
+exception of Open Text South Africa Proprietary Ltd. (OT South Africa), GXS, Inc. (GXS Korea) and ECl Pte. Ltd. (GXS
+Singapore), which as of June 30, 2016, were 90%, 85% and 81% owned, respectively, by OpenText. All inter-company
+balances and transactions have been eliminated.
+These Consolidated Financial Statements are expressed in US. dollars and are prepared in accordance with United States
+generally accepted accounting principles (US. GAAP). The information furnished reﬂects all adjustments necessary for a fair
+presentation of the results for the periods presented and includes the financial results of Daegis Inc. (Daegis), with effect from
+November 23, 2015, certain customer experience software and services assets and liabilities acquired from HP Inc. (CEM
+Business), with effect from April 30, 2016, and ANXe Business Corporation (ANX) with effect from May 1, 2016 (see note
+1 8).
+Use of estimates
+The preparation of financial statements in conformity with US. GAAP requires us to make estimates, judgments and
+assumptions that affect the amounts reported in the Consolidated Financial Statements. These estimates, judgments and
+assumptions are evaluated on an ongoing basis. We base our estimates on historical experience and on various other
+assumptions that we believe are reasonable at that time, the results of which form the basis for making judgments about the
+carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from those
+estimates. In particular, significant estimates, judgments and assumptions include those related to: (i) revenue recognition,
+(ii) allowance for doubtful accounts, (iii) testing of goodwill for impairment, (iv) the valuation of acquired intangible assets,
+(v) the valuation of long-lived assets, (vi) the recognition of contingencies, (vii) restructuring accruals, (viii) acquisition
+accruals and pre-acquisition contingencies, (ix) the realization of investment tax credits, (x) the valuation of stock options
+granted and obligations related to share-based payments, including the valuation of our long-term incentive plan, (xi) the
+valuation of pension assets and obligations, and (xii) accounting for income taxes.
+Reclassiﬁcations
+Certain prior period balances have been reclassified to conform to the current period presentation including the
+reclassification related to a change in the method of allocating certain operating expenses within the Company. As a result of
+such reclassifications, the following expenses have been reclassified for Fiscal 2015 and Fiscal 2014 as follows:
+7 Year Ended June 30, 7
+2015 _ 2014
+IReclassiﬁcations Within cost of revenue I
+Decrease to cost of revenue - Cloud services and subscriptions $ (2,409) $ (473)
+IIncrease (decrease) to cost of revenue - Customer support 39 (310) $ 89 I
+Decrease to cost of revenue - Professional services and other 55 (657) $ (544)
+IReclassiﬁcations Within Operating expenses I
+Decrease to operating expense - General and administrative $ (314) $ (370)
+IIncrease to operating expense - Sales and marketing 33 3,690 $ 1,298 I
+There was no change to income from operations, net income or net income per share in any of the periods presented as a
+result of these reclassifications.
+1 15

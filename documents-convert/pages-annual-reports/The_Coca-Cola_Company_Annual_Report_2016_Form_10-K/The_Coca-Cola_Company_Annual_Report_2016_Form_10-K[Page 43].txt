@@ -1,0 +1,55 @@
+Income Taxes
+Our annual tax rate is based on our income, statutory tax rates and tax planning opportunities available to us in the various
+jurisdictions in which we operate. Significant judgment is required in determining our annual tax expense and in evaluating our
+tax positions. We establish reserves to remove some or all of the tax benefit of any of our tax positions at the time we determine
+that the position becomes uncertain based upon one of the following: (1) the tax position is not "more likely than not" to be
+sustained, (2) the tax position is "more likely than not" to be sustained, but for a lesser amount, or (3) the tax position is "more
+likely than not" to be sustained, but not in the financial period in which the tax position was originally taken. For purposes of
+evaluating whether or not a tax position is uncertain, (1) we presume the tax position will be examined by the relevant taxing
+authority that has full knowledge of all relevant information, (2) the technical merits of a tax position are derived from
+authorities such as legislation and statutes, legislative intent, regulations, rulings and case law and their applicability to the facts
+and circumstances of the tax position, and (3) each tax position is evaluated without considerations of the possibility of oﬁset
+or aggregation with other tax positions taken. We adjust these reserves, including any impact on the related interest and
+penalties, in light of changing facts and circumstances, such as the progress of a tax audit. Refer to the heading "Operations
+Review — Income Taxes" below and Note 14 of Notes to Consolidated Financial Statements.
+On September 17, 2015, the Company received a Notice from the IRS for the tax years 2007 through 2009, after a five-year
+audit. In the Notice, the IRS claims that the Company's United States taxable income should be increased by an amount that
+creates a potential additional federal income tax liability of approximately $3.3 billion for the period, plus interest. No penalties
+were asserted in the Notice. The disputed amounts largely relate to a transfer pricing matter involving the appropriate amount
+of taxable income the Company should report in the United States in connection with its licensing of intangible property to
+certain related foreign licensees regarding the manufacturing, distribution, sale, marketing and promotion of products in
+overseas markets. The IRS designated the matter for litigation on October 15, 2015. The Company firmly believes that the IRS'
+claims are without merit and plans to pursue all available administrative and judicial remedies necessary to resolve this matter.
+To that end, the Company filed a petition in the US. Tax Court on December 14, 2015, and the IRS filed its answer on
+February 12, 2016. A trial date has been set for March 5, 2018. The Company believes that the final adjudication of this matter
+will not have a material impact on its consolidated financial position, results of operations or cash ﬂows. However, the ultimate
+outcome of disputes of this nature is uncertain, and if the IRS were to prevail on its assertions, the additional tax, interest and
+any potential penalties could have a material adverse impact on the Company's financial position, results of operations and cash
+ﬂows. Refer to Note 11 of Notes to Consolidated Financial Statements for additional information.
+A number of years may elapse before a particular matter for which we have established a reserve is audited and finally
+resolved. The number of years with open tax audits varies depending on the tax jurisdiction. The tax benefit that has been
+previously reserved because of a failure to meet the "more likely than not" recognition threshold would be recognized in our
+income tax expense in the first interim period when the uncertainty disappears under any one of the following conditions:
+(1) the tax position is "more likely than not" to be sustained, (2) the tax position, amount, and/or timing is ultimately settled
+through negotiation or litigation, or (3) the statute of limitations for the tax position has expired. Settlement of any particular
+issue would usually require the use of cash.
+Tax law requires items to be included in the tax return at different times than when these items are reﬂected in the consolidated
+ﬁnancial statements. As a result, the annual tax rate reﬂected in our consolidated financial statements is diﬁerent from that
+reported in our tax return (our cash tax rate). Some of these differences are permanent, such as expenses that are not deductible
+in our tax return, and some differences reverse over time, such as depreciation expense. These timing differences create
+deferred tax assets and liabilities. Deferred tax assets and liabilities are determined based on temporary differences between the
+ﬁnancial reporting and tax bases of assets and liabilities. The tax rates used to determine deferred tax assets or liabilities are the
+enacted tax rates in effect for the year and manner in which the differences are expected to reverse. Based on the evaluation of
+all available information, the Company recognizes future tax benefits, such as net operating loss carryforwards, to the extent
+that realizing these benefits is considered more likely than not.
+We evaluate our ability to realize the tax benefits associated with deferred tax assets by analyzing our forecasted taxable
+income using both historical and projected future operating results; the reversal of existing taxable temporary differences;
+taxable income in prior carryback years (if permitted); and the availability of tax planning strategies. A valuation allowance is
+required to be established unless management determines that it is more likely than not that the Company will ultimately realize
+the tax benefit associated with a deferred tax asset. As of December 31, 2016, the Company's valuation allowances on deferred
+tax assets were $530 million and were primarily related to uncertainties regarding the future realization of recorded tax benefits
+on tax loss carryforwards generated in various jurisdictions. Current evidence does not suggest we will realize suﬁicient taxable
+income of the appropriate character within the carryforward period to allow us to realize these deferred tax benefits. If we were
+to identify and implement tax planning strategies to recover these deferred tax assets or generate sufficient income of the
+appropriate character in these jurisdictions in the future, it could lead to the reversal of these valuation allowances and a
+41

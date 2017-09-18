@@ -1,0 +1,46 @@
+Fixed income securities consist primarily of US. government and agency bonds and US. corporate bonds. Fixed income
+securities are valued at closing prices reported in active markets or based on yields currently available on comparable securities
+of issuers with similar credit ratings. When quoted prices are not available for identical or similar bonds, the bond is valued
+under a discounted cash ﬂow approach that maximizes observable inputs, such as current yields of similar instruments, and may
+include adjustments, for certain risks that may not be observable, such as credit and liquidity risks.
+Pooled investment funds consist of mutual and collective investment funds that invest primarily in publicly traded non-
+U.S. equity and fixed income securities. Pooled investment funds are valued at net asset values calculated by the fund manager
+based on fair value of the underlying securities. The underlying securities are generally valued at closing prices reported in
+active markets, quoted prices of similar securities, or discounted cash ﬂows approach that maximizes observable inputs such as
+current value measurement at the reporting date.
+Insurance contracts are valued in accordance with the terms of the applicable collective pension contract. The fair value
+of the plan assets equals the discounted value of the expected cash ﬂows of the accrued pensions which are guaranteed by the
+counterparty insurer.
+Cash equivalents consist primarily of money market and similar temporary investment funds. Cash equivalents are valued
+at closing prices reported in active markets.
+The preceding methods may produce fair value measurements that are not indicative of net realizable value or reﬂective
+of future fair values. Although we believe the valuation methods are appropriate and consistent with other market participants,
+the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a
+different fair value measurement at the reporting date.
+The following table presents a reconciliation of Level 3 assets:
+Insurance
+(In thousands) 7 Contracts 1: Other :
+[Balance January 1, 2015 $ 15,069 $ 753 j
+Net realized and unrealized losses included in earnings (1,526) (64)
+{Net purchases, issuances and settlements 138 (184)}
+Transfers out of Level 3 _ (505)
+[Balance December 31, 2015 : 13,681 T: —J
+Net realized and unrealized gains included in earnings 975 _
+{Net purchases, issuances and settlements 292 —]
+Transfers out of Level 3 — —
+[Balance December 31, 2016 $ 14,948 _$ —|
+We expect to make net contributions of $5.9 million to our pension plans in 2017 which are primarily associated with our
+International segment.
+For the 2016 beginning of the year measurement purposes (net periodic beneﬁt expense), 6.5% increase in the costs of
+covered health care benefits was assumed decreasing by 0.5% for each successive year to 4.5% in 2020 and thereafter. For the
+2016 end of the year measurement purposes (benefit obligation), 6.0% increase in the costs of covered health care beneﬁts was
+assumed decreasing by 0.5% for each successive year to 4.5% in 2021 and thereafter. A one-percentage-point change in
+assumed health care cost trend rates would have increased or decreased the other post-retirement beneﬁt obligations and current
+year plan expense by approximately $810 thousand and $55 thousand, respectively.
+Expense for defined contribution pension plans was $5.1 million in 2016, $6.8 million in 2015 and $6.5 million in 2014 .
+Estimated pension benefits to be paid under our deﬁned beneﬁt pension plans during the next five years are $20.9 million
+in 2017, $21.6 million in 2018, $22.2 million in 2019, $23.7 million in 2020, $24.6 million in 2021, and are expected to
+aggregate $138.5 million for the ﬁve years thereafter. Estimated other post-retirement benefits to be paid during the next ﬁve
+years are $1.7 million in 2017, $1.7 million in 2018, $1.9 million in 2019, $1.8 million in 2020, $1.9 million in 2021, and are
+expected to aggregate $8.1 million for the ﬁve years thereafter.
+72

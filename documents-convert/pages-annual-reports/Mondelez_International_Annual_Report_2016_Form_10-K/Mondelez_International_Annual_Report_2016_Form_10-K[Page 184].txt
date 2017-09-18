@@ -1,0 +1,45 @@
+As used herein, the term “United States Alien” means a person that is not a United States person. The term “United States person” means a citizen or resident
+of the United States or a corporation or partnership created or organized in or under the laws of the United States or any political subdivision thereof, an estate the
+income of which is subject to United States federal income taxation regardless of its source, a trust subject to the supervision of a court within the United States and
+the control of the United States person as described in Section 7701(a)(30) of the Code, or a trust that existed on August 20, 1996, and elected to continue its
+treatment as a domestic trust. “United States” means the United States of America (including the States and the District of Columbia), its territories, its possessions
+and other areas subject to its jurisdiction (including the Commonwealth of Puerto Rico).
+Whenever in this Indenture there is mentioned, in any context, the payment of principal of, and premium, if any, and interest, if any, on any Security of any
+series, such mention shall be deemed to include mention of the payment of additional amounts provided for in the terms of such Securities and this Section to the
+extent that, in such context, additional amounts are, were or would be payable in respect thereof pursuant to the provisions of this Section and express mention of
+the payment of additional amounts (if applicable) in any provisions hereof shall not be construed as excluding additional amounts in those provisions hereof where
+such express mention is not made.
+If the Securities of a series provide for the payment of additional amounts as contemplated by Section 301(20), at least 10 days prior to the ﬁrst Interest
+Payment Date with respect to that series of Securities (or if the Securities of that series will not bear interest prior to maturity, the ﬁrst day on which a payment of
+principal and any premium is made), and at least 10 days prior to each date of payment of principal, premium, if any, and interest, if any, if there has been any
+change with reSpect to the matters set forth in the below mentioned Ofﬁcers’ Certificate, the Company will furnish the Trustee for that series of Securities and the
+Company’s principal Paying Agent or Paying Agents, if other than such Trustee, with an Ofﬁcers’ Certiﬁcate instructing such Trustee and such Paying Agent or
+Paying Agents whether such payment of principal of, and premium, if any, and interest, if any, on the Securities of that series shall be made to Holders of Securities
+of that series who are United States Aliens without withholding for or on account of any tax, assessment or other governmental charge referred to above or
+described in the Securities of that series. If any such withholding shall be required, then such Ofﬁcers’ Certificate shall specify by country the amount, if any,
+required to be withheld on such payments to such Holders of Securities and the Company will pay to the Trustee for such series of Securities or such Paying Agent
+such additional amounts as may be required pursuant to the terms applicable to such series. The Company covenants to indemnify the Trustee for such series of
+Securities and any Paying Agent for, and to hold them harmless against, any loss, liability or expense reasonably incurred without gross negligence or willful
+misconduct on their part arising out of or in connection with actions taken or omitted by any of them in reliance on any Ofﬁcers’ Certificate furnished pursuant to
+this Section 1010. For the avoidance of doubt, the Trustee shall not at any time be under any duty or responsibility to any Holder to determine the additional
+amounts, or with respect to the nature, extent, or calculation of the amount of any additional amounts owed, or with respect to the method employed in such
+calculation of any additional amounts.
+SECTION 1011. Calculation of Original Issue Discount.
+The Company shall ﬁle with the Trustee promptly at the end of each calendar year (i) a written notice specifying the amount of original issue discount
+(including daily rates and accrual periods) accrued on Outstanding Securities as of the end of such year and (ii) such other speciﬁc information relating to such
+original issue discount as may then be relevant under the Internal Revenue Code of 1986, as amended from time to time.
+Article Eleven
+REDEMPTION OF SECURITIES
+SECTION 1101. Applicability of This Article.
+Redemption of Securities of any series (whether by operation of a sinking fund or otherwise) as permitted or required by any form of Security issued pursuant
+to this Indenture shall be made in accordance with such form of Security and this Article, provided, however, that if any provision of any such form of Security
+shall conﬂict with any provision of this Article, the provision of such form of Security shall govern.
+SECTION 1102. Election to Redeem; Notice to Trustee.
+The election of the Company to redeem any Securities of any series shall be evidenced by or pursuant to a Board Resolution. In case of any redemption at the
+election of the Company of the Securities of any particular series, the Company shall, at least 60 days prior to the Redemption Date ﬁxed by the Company (unless a
+shorter notice shall be satisfactory to the Trustee for the Securities of such series) notify such Trustee by Company Request of such Redemption Date and of the
+principal amount of Securities of that series to be redeemed and shall deliver to such Trustee such documentation and records as shall enable such Trustee to select
+the Securities to be redeemed pursuant to Section 1103. In the case of any redemption of Securities of any series prior to the expiration of any restriction on such
+redemption provided in the terms of such Securities or elsewhere in this Indenture, the Company shall furnish the Trustee for Securities of such series with an
+Ofﬁcers’ Certificate evidencing compliance with such restriction.
+45

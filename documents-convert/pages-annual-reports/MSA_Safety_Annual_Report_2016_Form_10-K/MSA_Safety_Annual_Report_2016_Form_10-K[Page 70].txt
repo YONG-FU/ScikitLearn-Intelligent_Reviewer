@@ -1,0 +1,42 @@
+A summary of option activity follows:
+Weighted
+Average Exercisable at
+Shares Exercise Price Year-end
+10utstanding January 1, 2014 : 1,695,380 34.55 1
+Granted 138,519 51.69
+1 Exercised (190,743) 36.31 1
+Expired (1,071) 45.68
+1Forfeited (23,524) 38.82 1
+Outstanding December 31, 2014 : 1,618,561 35.74 : 1,147,712
+1Granted 170,683 48.64 1
+Exercised (64,752)‘ 38.59--
+1Expired (1,109) 44.36 1
+Forfeited (28,708) 49.71
+1 Outstanding December 31, 2015 : 1,694,675 36.69 : 1,280,665 1
+Granted 235,233 44.50
+1Exercised (341,063) 37.34 1
+Forfeited (12,753) 46.11
+1 Outstanding December 31, 2016 : 1,576,092 37.63 : 1,098,615 1
+For various exercise price ranges, characteristics of outstanding and exercisable stock options at December 31, 2016 were
+as follows:
+7 Stock Options Outstanding 7
+7 Weighted-Average 7
+Range of Exercise Prices Shares Exercise Price Remaining Life
+1$17.83 — $33.00 456,938 $ 21.66 2.641
+$33.01 — $45.00 566,173 39.60 6.06
+1$45.01—$51.69 552,981 48.82 5.691
+$17.83 — $51.69 : 1,576,092 37.63 4.94:
+7 Stock Options Exercisable 7
+7 Weighted-Average 7
+Range of Exercise Prices Shares Exercise Price Remaining Life
+1$17.83 — $33.00 456,938 $ 21.66 2.641
+$33.01 — $45.00 346,157 36.49 4.09
+1 $45.01 — $51.69 295,520 47.84 3.911
+$17.83 — $51.69 : 1,098,615 33.37 3.44:
+Cash received from the exercise of stock options was $12.5 million, $1.9 million and $6.9 million for the years ended
+December 31, 2016, 2015 and 2014, respectively. The tax benefit (provision) we realized from these exercises was $0.6 million,
+$(0. 1) million and $1.0 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+Stock options become exercisable when they are vested. The aggregate intrinsic value of stock options exercisable at
+December 31, 2016 was $39.5 million. The aggregate intrinsic value of all stock options outstanding at December 31, 2016 was
+$50.0 million.
+62

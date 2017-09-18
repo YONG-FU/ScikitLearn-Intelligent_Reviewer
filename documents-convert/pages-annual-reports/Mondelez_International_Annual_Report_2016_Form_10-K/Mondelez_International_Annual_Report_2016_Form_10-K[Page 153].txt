@@ -1,0 +1,55 @@
+Except in the case of temporary Securities in global form (which shall be exchanged only in accordance with the provisions of the following paragraphs), if
+temporary Securities of any particular series are issued, the Company will cause deﬁnitive Securities of that series to be prepared without unreasonable delay. After
+the preparation of such deﬁnitive Securities, the temporary Securities of such series shall be exchangeable for such definitive Securities and of a like Stated
+Maturity and with like terms and provisions upon surrender of the temporary Securities of such series, at the office or agency of the Company in a Place of Payment
+for that series, without charge to the Holder. Upon surrender for cancellation of any one or more temporary Securities of any particular series, the Company shall
+execute and (in accordance with a Company Order delivered at or prior to the authentication of the ﬁrst definitive Security of such series) the Trustee for the
+Securities of such series or the Global Exchange Agent shall authenticate and deliver in exchange therefor a like principal amount of definitive Securities of
+authorized denominations of the same series and of a like Stated Maturity and with like terms and provisions. Until exchanged as hereinabove provided, the
+temporary Securities of any series shall in all respects be entitled to the same beneﬁts under this Indenture as definitive Securities of the same series and with like
+terms and conditions, except as to payment of interest, if any, authenticated and delivered hereunder.
+Any temporary Global Security and any permanent Global Security shall, unless otherwise provided therein, be delivered to a Depositary designated pursuant
+to Section 301.
+Without unnecessary delay but in any event not later than the date speciﬁed in or determined pursuant to the terms of any such temporary Global Security
+(the “Exchange Date”), the Securities represented by any temporary Global Security may be exchanged for deﬁnitive Securities (subject to the second succeeding
+paragraph) or Securities to be represented thereafter by one or more permanent Global Securities. On or after the Exchange Date such temporary Global Security
+shall be surrendered by the Depositary to the Trustee for such Security, as the Company’s agent for such purpose, or the agent appointed by the Company pursuant
+to Section 301 to effect the exchange of the temporary Global Security for deﬁnitive Securities (the “Global Exchange Agent”), and following such surrender, such
+Trustee or the Global Exchange Agent (as appointed by the Trustee as an Authenticating Agent pursuant to Section 614) shall (1) endorse the temporary Global
+Security to reﬂect the reduction of its principal amount by an equal aggregate principal amount of such Security, (2) endorse the applicable permanent Global
+Security, if any, to reﬂect the initial amount, or an increase in the amount of Securities represented thereby, (3) manually authenticate such definitive Securities or
+such permanent Global Security, as the case may be, (4) subject to Section 303, deliver such definitive Securities to the Holder thereof or, as the case may be,
+deliver such permanent Global Security to the Depositary to be held outside the United States for the accounts of Euroclear and Clearstream, for credit to the
+respective accounts at Euroclear and Clearstream, designated by or on behalf of the beneﬁcial owners of such Securities (or to such other accounts as they may
+direct) and (5) redeliver such temporary Global Security to the Depositary, unless such temporary Global Security shall have been canceled in accordance with
+Section 309 hereof; provided, however, that, unless otherwise specified in such temporary Global Security, upon such presentation by the Depositary, such
+temporary Global Security shall be accompanied by a certiﬁcate dated the Exchange Date or a subsequent date and signed by Euroclear as to the portion of such
+temporary Global Security held for its account then to be exchanged for deﬁnitive Securities or one or more permanent Global Securities, as the case may be, and a
+certificate dated the Exchange Date or a subsequent date and signed by Clearstream, as to the portion of such temporary Global Security held for its account then to
+be exchanged for deﬁnitive Securities or one or more permanent Global Securities, as the case may be, each substantially in the form set forth in Exhibit B to this
+Indenture. Each certiﬁcate substantially in the form of Exhibit B hereto of Euroclear or Clearstream, as the case may be, shall be based on certiﬁcates of the account
+holders listed in the records of Euroclear or Clearstream, as the case may be, as being entitled to all or any portion of the applicable temporary Global Security. An
+account holder of Euroclear or Clearstream, as the case may be, desiring to effect the exchange of interest in a temporary Global Security for an interest in deﬁnitive
+Securities or one or more permanent Global Securities shall instruct Euroclear or Clearstream, as the case may be, to request such exchange on its behalf and shall
+deliver to Euroclear or Clearstream, as the case may be, a certiﬁcate substantially in the form of Exhibit A hereto and dated no earlier than 15 days prior to the
+Exchange Date. Until so exchanged, temporary Global Securities shall in all respects be entitled to the same beneﬁts under this Indenture as definitive Securities
+and permanent Global Securities of the same series authenticated and delivered hereunder, except as provided in the fourth succeeding paragraph.
+The delivery to the Trustee for the Securities of the appr0priate series or the Global Exchange Agent by Euroclear or Clearstream of any certiﬁcate
+substantially in the form of Exhibit B hereto may be relied upon by the Company and such Trustee or the Global Exchange Agent as conclusive evidence that a
+corresponding certiﬁcate or certificates has or have been delivered to Euroclear or to Clearstream, as the case may be, pursuant to the terms of this Indenture.
+On or prior to the Exchange Date, the Company shall deliver to the Trustee for the Securities of the appropriate series or the Global Exchange Agent deﬁnitive
+Securities in aggregate principal amount equal to the principal amount of such temporary Global Security, executed by the Company. At any time, on or after the
+Exchange Date, upon 30 days’ notice to the Trustee for the Securities of the appr0priate series or the Global Exchange Agent by Euroclear or Clearstream, as the
+case may be, acting at the request of or on behalf of the beneficial owner, a Security represented by a temporary Global Security or a permanent Global Security, as
+the case may be, may be exchanged, in whole or from time to time in part, for definitive Securities without charge and such Trustee or the Global Exchange Agent
+shall authenticate and deliver, in exchange for each portion of such temporary Global Security or such permanent Global Security, an equal aggregate principal
+amount of definitive Securities of the same series of authorized denominations and with like terms and provisions as the portion of such temporary Global Security
+or such permanent Global Security to be exchanged, which, shall be in the form of Registered Securities. On or prior to the thirtieth day following receipt by the
+Trustee for the Securities of the appr0priate series or the Global Exchange Agent of such notice with respect to a Security, or, if such day is not a Business Day, the
+next succeeding Business Day, the temporary Global Security or the permanent Global Security, as the case may be, shall be surrendered by the Depositary to such
+Trustee, as the Company’s agent for such purpose, or the Global Exchange Agent to be exchanged in whole, or from time to time in part, for definitive Securities
+without charge following such surrender, upon the request of Euroclear or Clearstream, as the case may be, and such Trustee or the Global Exchange Agent shall
+(1) endorse the applicable temporary Global Security or the permanent Global Security to reﬂect the reduction of its principal amount by the aggregate principal
+amount of such Security, (2) in accordance with procedures acceptable to the Trustee cause the terms of such Security to be entered on a definitive Security, and
+(3) manually authenticate such deﬁnitive Security.
+1 5

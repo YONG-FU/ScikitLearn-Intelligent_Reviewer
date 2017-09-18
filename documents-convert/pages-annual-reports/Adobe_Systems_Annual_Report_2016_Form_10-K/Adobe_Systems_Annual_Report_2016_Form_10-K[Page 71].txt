@@ -1,0 +1,45 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Internal Use Software
+We capitalize costs associated with customized internal-use software systems that have reached the application development
+stage. Such capitalized costs include external direct costs utilized in developing or obtaining the applications and payroll and
+payroll-related expenses for employees who are directly associated with the development of the applications. Capitalization of
+such costs begins when the preliminary project stage is complete and ceases at the point in which the project is substantially
+complete and is ready for its intended purpose.
+Income Taxes
+We use the asset and liability method of accounting for income taxes. Under this method, income tax expense is recognized
+for the amount of taxes payable or refundable for the current year. In addition, deferred tax assets and liabilities are recognized
+for expected future tax consequences of temporary differences between the ﬁnancial reporting and tax bases of assets and liabilities,
+and for operating losses and tax credit carryforwards. We record a valuation allowance to reduce deferred tax assets to an amount
+for which realization is more likely than not.
+Taxes Collected from Customers
+We net taxes collected from customers against those remitted to government authorities in our financial statements.
+Accordingly, taxes collected from customers are not reported as revenue.
+Treasury Stock
+We account for treasury stock under the cost method. When treasury stock is re-issued at a price higher than its cost, the
+difference is recorded as a component of additional paid-in—capital in our Consolidated Balance Sheets. When treasury stock is
+re-issued at a price lower than its cost, the diﬁerence is recorded as a component of additional paid-in—capital to the extent that
+there are previously recorded gains to oﬂset the losses. If there are no treasury stock gains in additional paid-in—capital, the losses
+upon re-issuance of treasury stock are recorded as a reduction of retained earnings in our Consolidated Balance Sheets.
+Advertising Expenses
+Advertising costs are expensed as incurred. Advertising expenses for fiscal 2016, 2015 and 2014 were $135.8 million,
+$113.6 million and $87.9 million, respectively.
+Foreign Currency Translation
+We translate assets and liabilities of foreign subsidiaries, whose functional currency is their local currency, at exchange
+rates in effect at the balance sheet date. We translate revenue and expenses at the monthly average exchange rates. We include
+accumulated net translation adjustments in stockholders’ equity as a component of accumulated other comprehensive income
+(loss).
+Foreign Currency and Other Hedging Instruments
+In countries outside the United States, we transact business in US. Dollars and in various other currencies. We use foreign
+exchange option and forward contracts for revenue denominated in Euros, British Pounds and Yen. We hedge our net recognized
+foreign currency assets and liabilities with foreign exchange forward contracts to reduce the risk that our earnings and cash ﬂows
+will be adversely affected by changes in exchange rates.
+We recognize all derivative instruments as either assets or liabilities in our Consolidated Balance Sheets and measure them
+at fair value. Gains and losses resulting from changes in fair value are accounted for depending on the use of the derivative and
+whether it is designated and qualiﬁes for hedge accounting. Contracts that do not qualify for hedge accounting are adjusted to fair
+value through earnings. See Note 5 for information regarding our hedging activities.
+Gains and losses from foreign exchange forward contracts which hedge certain balance sheet positions are recorded each
+period as a component of interest and other income, net in our Consolidated Statements of Income. Foreign exchange option
+contracts hedging forecasted foreign currency revenue are designated as cash ﬂow hedges with gains and losses recorded net of
+71

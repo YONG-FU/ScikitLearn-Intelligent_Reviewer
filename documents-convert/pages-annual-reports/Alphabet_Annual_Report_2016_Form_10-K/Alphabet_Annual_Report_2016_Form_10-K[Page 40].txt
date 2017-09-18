@@ -1,0 +1,53 @@
+IaibleiofiCiontents Alphabet Inc.
+Business Combinations
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and
+intangible assets acquired based on their estimated fair values. The excess of the fair value of purchase consideration
+over the fair values of these identifiable assets and liabilities is recorded as goodwill. When determining the fair values
+of assets acquired and liabilities assumed, management makes significant estimates and assumptions, especially with
+respect to intangible assets.
+Critical estimates in valuing certain intangible assets include but are not limited to future expected cash ﬂows
+from customer relationships and acquired patents and developed technology and discount rates. Management’s
+estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and
+unpredictable and, as a result, actual results may differ from estimates.
+Other estimates associated with the accounting for acquisitions may change as additional information becomes
+available regarding the assets acquired and liabilities assumed, as more fully discussed in Note 6 of Notes to
+Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Goodwill
+Goodwill is allocated to reporting units expected to beneﬁt from the business combination. We evaluate our
+reporting units when changes in our operating structure occur, and if necessary, reassign goodwill using a relative fair
+value allocation approach. We test goodwill for impairment at the reporting unit level at least annually, or more frequently
+if events or changes in circumstances indicate that the asset may be impaired. Goodwill impairment tests require
+judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment
+of goodwill to reporting units, and determination of the fair value of each reporting unit.
+Long-lived Assets
+Long-lived assets, including property and equipment, long-term prepayments, and intangible assets, excluding
+goodwill, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount
+of an asset may not be recoverable. The evaluation is performed atthe lowest level of identiﬁable cash flows independent
+of other assets. An impairment loss would be recognized when estimated undiscounted future cash flows generated
+from the assets are less than their carrying amount. Measurement of an impairment loss would be based on the excess
+of the carrying amount of the asset group over its fair value.
+Impairment of Marketable and Non-Marketable Securities
+We periodically review our marketable and non-marketable securities for impairment. If we conclude that any of
+these investments are impaired, we determine whether such impairment is other-than-temporary. Factors we consider
+to make such determination include the duration and severity of the impairment, the reason for the decline in value
+and the potential recovery period and our intent to sell. For marketable debt securities, we also consider whether (1)
+it is more likely than not that we will be required to sell the security before recovery of its amortized cost basis, and
+(2) the amortized cost basis cannot be recovered as a result of credit losses. If any impairment is considered other-
+than-temporary, we will write down the asset to its fair value and record the corresponding charge as other income
+(expense), net.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We are exposed to ﬁnancial market risks, including changes in currency exchange rates and interest rates.
+Foreign Currency Exchange Risk
+We transact business globally in multiple currencies. Our international revenues, as well as costs and expenses
+denominated in foreign currencies, expose us to the risk of ﬂuctuations in foreign currency exchange rates against the
+US. dollar. We are a net receiver of foreign currencies and therefore benefit from a weakening of the US. dollar and
+are adversely affected by a strengthening of the US. dollar relative to the foreign currency. As of December 31, 2016,
+our most signiﬁcant currency exposures are the British pound, Euro, and Japanese yen.
+In the fourth quarter of 2016, we began using foreign exchange fonNard contracts in addition to the existing
+foreign exchange option contracts, to protect our forecasted U.S. dollar-equivalent earnings from changes in foreign
+currency exchange rates. When the US. dollar strengthens, gains from foreign currency options and forwards
+reduce the foreign currency losses related to our earnings. When the US. dollar weakens, losses from foreign
+currency fonNards offset the foreign currency gains related to our earnings. These hedging contracts reduce, but do
+not entirely eliminate, the impact of currency exchange rate movements. We designate these contracts as cash flow
+hedges for accounting purposes. We record spot-to-spot foreign currency exchange rate changes of these
+37

@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For a derivative instrument
+designated as a fair value hedge, the gain or loss is recognized in earnings in the period of change. The loss or gain attributable to the risk being hedged is
+recognized in earnings with an offset recorded to the item for which the risk is being hedged. For a derivative instrument designated as a cash ﬂow hedge, each
+reporting period we record the change in fair value on the effective portion of the derivative to accumulated other comprehensive loss in our consolidated balance
+sheets, and an amount is reclassified out of accumulated other comprehensive loss into earnings to offset the earnings impact that is attributable to the risk being
+hedged. For the non-derivative ﬁnancial instrument designated as a net investment hedge for our investments in certain of our international subsidiaries, the change
+on account of remeasurement of the effective portion for each reporting period is recorded to accumulated other comprehensive loss in our consolidated balance
+sheets.
+We perform the effectiveness testing of our aforementioned designated hedges on a quarterly basis and the changes in ineffective portions of the derivatives, if any,
+are recognized immediately in earnings.
+Legal Contingencies
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each significant matter and assess our potential financial
+exposure. A description of our accounting policies associated with contingencies assumed as a part of a business combination is provided under “Business
+Combinations” above. For legal and other contingencies that are not a part of a business combination or related to income taxes, we accrue a liability for an
+estimated loss if the potential loss from any claim or legal proceeding is considered probable, and the amount can be reasonably estimated. Note 18 below provides
+additional information regarding certain of our legal contingencies.
+Shipping and Handling Costs
+Our shipping and handling costs for hardware products sales are included in hardware products expenses for all periods presented.
+Foreign Currency
+We transact business in various foreign currencies. In general, the functional currency of a foreign operation is the local country’s currency. Consequently,
+revenues and expenses of operations outside the United States are translated into US. Dollars using weighted-average exchange rates while assets and liabilities of
+operations outside the United States are translated into US Dollars using exchange rates at the balance sheet date. The effects of foreign currency translation
+adjustments are included in stockholders” equity as a component of accumulated other comprehensive loss in the accompanying consolidated balance sheets and
+related periodic movements are summarized as a line item in our consolidated statements of comprehensive income. Net foreign exchange transaction losses
+included in non-operating income (expense), net in the accompanying consolidated statements of operations were $110 million, $157 million and $375 million in
+fiscal 2016, 2015 and 2014, respectively.
+Stock-Based Compensation
+We account for share-based payments to employees, including grants of service-based restricted stock awards, performance-based restricted stock awards (PSUs),
+service-based employee stock options, and purchases under employee stock purchase plans, in accordance with ASC 718, Compensation — Stock Compensation,
+which requires that share-based payments (to the extent they are compensatory) be recognized in our consolidated statements of operations based on their fair
+values and the estimated number of shares we ultimately expect will vest. For our PSUs, we recognize stock-based compensation expense on a straight-line basis
+over the service period for each separately vesting tranche, which is generally twelve months, as the performance conditions to evaluate attainment of each tranche
+for each participant are independent of the performance conditions for the other tranches. The amount of stock-based compensation expense, net of forfeitures,
+recorded as of the end of
+1 O 1

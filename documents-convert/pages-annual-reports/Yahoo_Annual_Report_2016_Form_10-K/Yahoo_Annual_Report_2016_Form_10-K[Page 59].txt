@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+$218 million and $36 million, respectively. The decline in fees revenue was primarily due to the completion of recognition of deferred revenue under the TIPLA
+with Alibaba Group pursuant to which we recognized $199 million in the year ended December 31, 2015. The decline in listings—based revenue for the year
+ended December 31, 2016 was primarily attributable to a decline in e—commerce revenue and a directory product that we shut down in 2015.
+Other revenue for the year ended December 31, 2015 decreased $137 million, or 15 percent, compared to 2014, primarily attributable to a decline in fees and
+listings-based revenue of $79 million and $59 million, respectively. The decline in fees revenue was primarily attributable to a decline in Alibaba Group royalty
+revenue pursuant to the TIPLA, for which we ceased recognizing fees revenue in September 2014 due to the Alibaba Group lPO. The decline in listings—based
+revenue was attributable to a decline in auction and exchange fees, shopping traffic, and expiration of a partner agreement. The decline in fees and listings—
+based revenue was also attributable to declines in Yahoo Small Business associated with a reduction in its subscriber base.
+The decline in other revenue for the year ended December 31, 2015 described above included the impact of unfavorable foreign exchange ﬂuctuations of
+$10 million using the foreign currency exchange rates from the year ended December 31, 2014.
+Search and Display Metrics
+We present information below regarding the number of “Paid Clicks” and “Price-per—Click” for search and the number of “Ads Sold” and “Price-per—Ad” for
+display. This information is derived from internal data.
+“Paid Clicks” are deﬁned as clicks by end-users on sponsored search listings (excluding native ad units, which are deﬁned as display ads that appear in the
+content streams viewed by users) on Yahoo Properties and Afﬁliate sites. Advertisers generally pay for sponsored search listings on a per—click basis. “Search
+click-driven revenue” is gross search revenue (GAAP search revenue plus the related revenue share with third parties), excluding search revenue from Yahoo
+Japan. “Price-per—Click” is deﬁned as search click-driven revenue divided by our total number of Paid Clicks.
+“Ads Sold” consist of display ad impressions for paying advertisers on Yahoo Properties and Affiliate sites. “Price-per—Ad” is deﬁned as display revenue from
+Yahoo Properties and Afﬁliate sites divided by our total number of Ads Sold. Our price and volume metrics for display are based on display revenue which we
+report on a gross basis (before TAC), and include data for graphical, sponsorship, and native ad units on Yahoo Properties and Afﬁliate sites.
+We periodically review, reﬁne and update our methodologies for monitoring, gathering, and counting number of Paid Clicks and Ads Sold and for calculating
+search click—driven revenue, Price—per—Click, and Price-per—Ad. Commencing in the ﬁrst quarter 2015, our display price and volume metrics (Price-per-Ad and
+Ads Sold) include (a) results from Yahoo Properties worldwide (other than Japan, where Yahoo branded sites are operated by third-party licensees), whereas
+previously those metrics excluded countries and regions where historical data was not previously retained in a manner that would support
+period—to-period comparisons; (b) results from Afﬁliate sites (including Afﬁliates of Flurry and BrightRoll) and (c) historical Tumblr data. Prior period amounts have
+been updated to conform to the current presentation.
+Search Metrics
+For the year ended December 31, 2016, Paid Clicks decreased 22 percent and Price-per—Click increased 10 percent, compared to 2015. The decline in Paid
+Clicks was primarily due to a decline in
+58

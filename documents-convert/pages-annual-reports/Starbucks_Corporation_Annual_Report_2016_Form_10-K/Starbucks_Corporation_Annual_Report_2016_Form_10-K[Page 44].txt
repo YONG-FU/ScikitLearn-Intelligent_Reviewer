@@ -1,0 +1,48 @@
+FINANCIAL RISK MANAGEMENT
+Market risk is defined as the risk of losses due to changes in commodity prices, foreign currency exchange rates, equity
+security prices and interest rates. We manage our exposure to various market-based risks according to a market price risk
+management policy. Under this policy, market-based risks are quantified and evaluated for potential mitigation strategies, such
+as entering into hedging transactions. The market price risk management policy governs how hedging instruments may be used
+to mitigate risk. Risk limits are set annually and prohibit speculative trading activity. We also monitor and limit the amount of
+associated counterparty credit risk, which we consider to be low. In general, hedging instruments do not have maturities in
+excess of three years. Refer to Note 1, Summary of Significant Accounting Policies, and Note 3, Derivative Financial
+Instruments, to the consolidated financial statements included in Item 8 of Part II of this 10-K for further discussion of our
+hedging instruments.
+The sensitivity analyses disclosed below provide only a limited, point-in-time View of the market risk of the financial
+instruments discussed. The actual impact of the respective underlying rates and price changes on the financial instruments may
+differ significantly from those shown in the sensitivity analyses.
+Commodity Price Risk
+We purchase commodity inputs, primarily coffee, dairy products, diesel and other commodities, that are used in our operations
+and are subject to price ﬂuctuations that impact our financial results. We use a combination of pricing features embedded
+within supply contracts, such as fixed-price and price-to-be-fixed contracts for coffee purchases, and financial derivatives to
+manage our commodity price risk exposure.
+The following table summarizes the potential impact as of October 2, 2016 to Starbucks future net earnings and other
+comprehensive income ("OCI") from changes in commodity prices. The information provided below relates only to the
+hedging instruments and does not represent the corresponding changes in the underlying hedged items (in millions):
+[ @MEamtﬁga ] [ (to ]
+man man man may
+[Commodity hedges $ 12 $ (12) $ 1 s (1)}
+Foreign Currency Exchange Risk
+The majority of our revenue, expense and capital purchasing activities are transacted in US. dollars. However, because a
+portion of our operations consists of activities outside of the US, we have transactions in other currencies, primarily the
+Canadian dollar, Japanese yen, Chinese renminbi, British pound, South Korean won and euro. To reduce cash ﬂow volatility
+from foreign currency ﬂuctuations, we enter into derivative instruments to hedge portions of cash ﬂows of anticipated
+intercompany royalty payments, inventory purchases, intercompany borrowing and lending activities and certain other
+transactions in currencies other than the functional currency of the entity that enters into the arrangements, as well as the
+translation risk of certain balance sheet items. See Note 3, Derivative Financial Instruments, to the consolidated financial
+statements included in Item 8 of Part II of this 10-K for further discussion.
+The following table summarizes the potential impact as of October 2, 2016 to Starbucks future net earnings and other
+comprehensive income from changes in the fair value of these derivative financial instruments due to a change in the value of
+the US. dollar as compared to foreign exchange rates. The information provided below relates only to the hedging instruments
+and does not represent the corresponding changes in the underlying hedged items (in millions):
+[ )mmmﬂamtﬁga ] [ (to ]
+man man man may
+[Foreign currency hedges $ 9 $ (9) $ 126 $ (126)]
+Equity Security Price Risk
+We have minimal exposure to price ﬂuctuations on equity mutual funds and equity exchange-traded ﬂJnds within our trading
+securities portfolio. Trading securities are recorded at fair value with unrealized holding gains and losses recorded in interest
+income and other, net in the consolidated statements of earnings. Our trading securities portfolio approximates a portion of our
+liability under our Management Deferred Compensation Plan ("MDCP"), which is included in accrued compensation and
+related costs, within accrued liabilities on the consolidated balance sheets. Changes in our MDCP liability are recorded in
+general and administrative expenses in the consolidated statements of earnings.
+40 Starbucks Corporation 2016 Form 10-K

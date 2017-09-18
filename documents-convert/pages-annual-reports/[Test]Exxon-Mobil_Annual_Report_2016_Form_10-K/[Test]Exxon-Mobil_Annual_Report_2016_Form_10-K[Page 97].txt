@@ -1,0 +1,37 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The 2016 fair value of the beneﬁt plan assets, including the level within the fair value hierarchy, is shown in the tables below:
+U.S. Pension N0n-U.S. Pension
+Fair Value Measurement Fair Value Measurement
+at December 31, 2016, Using: at December 31, 2016, Using:
+Net Net
+Asset Asset
+Level 1 Level 2 Level 3 Value (1) Total Level 1 Level 2 Level 3 Value (1) Total
+(millions of dollars)
+Asset category:
+Equity securities
+U.S. - - - 2,347 2,347 - - - 3,343 3,343
+Non-US. - - - 2,126 2,126 142 (2) 2 (3) - 3,632 3,776
+Private equity - - - 553 553 - - - 539 539
+Debt securities
+Corporate - 4,978 (4) - 1 4,979 - 123 (4) - 4,075 4,198
+Government - 2,635 (4) - 1 2,636 167 (5) 32 (4) - 6,753 6,952
+Asset-backed - 3 (4) - 1 4 - 35 (4) - 72 107
+Real estate funds - - - - - - - - - -
+Cash - - - 137 137 23 9 (6) - 73 105
+Total at fair value - 7,616 - 5,166 12,782 332 201 - 18,487 19,020
+Insurance contracts
+at contract value 1 1 23
+Total plan assets : 12,793 : : 19,043:
+(1) Per AS U 2015-07, certain instruments that are measured at fair value using the Net Asset Value (NAV) per share practical
+expedient have not been categorized in the fair value hierarchy. The fair value amounts presented in this table are intended
+to permit reconciliation of the fair value hierarchy to the total value of plan assets.
+(2) For non-US. equity securities held in separate accounts, fair value is based on observable quoted prices on active
+exchanges.
+(3) For US. and non-US. equity securities held in the form of fund units that are redeemable at the measurement date, the
+published unit value is treated as a Level 2 input. T he fair value of the securities owned by the funds is based on observable
+quoted prices on active exchanges, which are Level 1 inputs.
+(4) For corporate, government and asset-backed debt securities, fair value is based on observable inputs of comparable market
+transactions.
+(5) For government debt securities that are traded on active exchanges, fair value is based on observable quoted prices.
+(6) For cash balances that are subject to withdrawal penalties or other adjustments, the fair value is treated as a Level 2 input.
+93

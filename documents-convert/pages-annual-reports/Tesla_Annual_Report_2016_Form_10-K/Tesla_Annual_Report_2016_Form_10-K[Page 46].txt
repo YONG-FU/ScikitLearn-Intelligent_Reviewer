@@ -1,0 +1,46 @@
+Principles of Consolidation
+Our consolidated financial statements reﬂect our accounts and operations and those of our subsidiaries in which we have a
+controlling financial interest. In accordance with the provisions of Financial Accounting Standards Board, or FASB, ASC 810
+Consolidation, we consolidate any variable interest entity, or VIE, of which we are the primary beneficiary. We form VIEs with our
+ﬁnancing fund investors in the ordinary course of business in order to facilitate the funding and monetization of certain attributes
+associated with our solar energy systems. The typical condition for a controlling financial interest ownership is holding a majority of
+the voting interests of an entity; however, a controlling financial interest may also exist in entities, such as VIEs, through
+arrangements that do not involve controlling voting interests. ASC 810 requires a variable interest holder to consolidate a VIE if that
+party has the power to direct the activities of the VIE that most significantly impact the VIE’s economic performance and the
+obligation to absorb losses of the VIE that could potentially be significant to the VIE or the right to receive benefits from the VIE that
+could potentially be significant to the VIE. We do not consolidate a VIE in which we have a majority ownership interest when we are
+not considered the primary beneficiary. We have determined that we are the primary beneficiary of a number of VIEs. We evaluate
+our relationships with all the VIEs on an ongoing basis to ensure that we continue to be the primary beneficiary. All intercompany
+transactions and balances have been eliminated in consolidation.
+Noncontrolling Interests and Redeemable Noncontrolling Interests
+Noncontrolling interests and redeemable noncontrolling interests represent third-party interests in the net assets under certain
+funding arrangements, or funds, that SolarCity enters into to finance the costs of solar energy systems under operating leases. We have
+determined that the contractual provisions of the funds represent substantive profit sharing arrangements. We have further determined
+that the apprOpriate methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that
+reﬂects the substantive proﬁt sharing arrangements is a balance sheet approach using the HLBV method. We, therefore, determine the
+amount of the noncontrolling interests and redeemable noncontrolling interests in the net assets of the funds at each balance sheet date
+using the HLBV method, which is presented on our Consolidated Balance Sheets as noncontrolling interests in subsidiaries and
+redeemable noncontrolling interests in subsidiaries. Under the HLBV method, the amounts reported as noncontrolling interests and
+redeemable noncontrolling interests in our consolidated balance sheets represent the amounts the third-parties would hypothetically
+receive at each balance sheet date under the liquidation provisions of the funds, assuming the net assets of the funds were liquidated at
+their recorded amounts determined in accordance with GAAP and distributed to the third-parties. The third-parties” interests in the
+results of operations of the funds are determined as the difference in the noncontrolling interest and redeemable noncontrolling interest
+balances in our Consolidated Balance Sheets between the start and end of each reporting period, after taking into account any capital
+transactions between the funds and the third-parties. However, the redeemable noncontrolling interest balance is at least equal to the
+redemption amount. The redeemable noncontrolling interest balance is presented as temporary equity in the mezzanine section of our
+Consolidated Balance Sheets since these third-parties have the right to redeem their interests in the funds for cash or other assets.
+Business Combinations
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets
+acquired based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these
+identifiable assets and liabilities is recorded as goodwill. The excess of the fair values of these identifiable assets and liabilities over
+the fair value of purchase consideration is recorded as gain from bargain purchase in other income and expense, net in our
+Consolidated Statements of Operations. When determining the fair values of assets acquired and liabilities assumed, management
+makes significant estimates and assumptions, especially with respect to intangible assets and certain tangible assets such as solar
+energy systems acquired as part of our SolarCity acquisition.
+Critical estimates in valuing certain tangible and intangible assets include but are not limited to future expected cash ﬂows from
+the underlying assets and discount rates. Management’s estimates of fair value are based upon assumptions believed to be reasonable,
+but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.
+Other estimates associated with the accounting for acquisitions may change as additional information becomes available
+regarding the assets acquired and liabilities assumed, as more fully discussed in Note 3 of Notes to Consolidated Financial Statements
+included in Item 8 of this Annual Report on Form 10-K.
+43

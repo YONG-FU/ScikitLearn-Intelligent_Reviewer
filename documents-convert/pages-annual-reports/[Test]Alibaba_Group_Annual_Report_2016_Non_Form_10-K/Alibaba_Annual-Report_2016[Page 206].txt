@@ -1,0 +1,28 @@
+Depositary fees payable upon the issuance and cancellation of ADSs are typically paid to the depositary bank
+by the brokers (on behalf of their clients) receiving the newly issued ADSs from the depositary bank and by the
+brokers (on behalf of their clients) delivering the ADSs to the depositary bank for cancellation. The brokers in
+turn charge these fees to their clients. Depositary fees payable in connection with distributions of cash or securities
+to ADS holders and the depositary services fee are charged by the depositary bank to the holders of record of
+ADSs as of the applicable ADS record date.
+The Depositary fees payable for cash distributions are generally deducted from the cash being distributed. In
+the case of distributions other than cash (i.e., stock dividend, rights), the depositary bank charges the applicable fee
+to the ADS record date holders concurrent with the distribution. In the case of ADSs registered in the name of
+the investor (whether certificated or uncertificated in direct registration), the depositary bank sends invoices to the
+applicable record date ADS holders. In the case of ADSs held in brokerage and custodian accounts (via DTC), the
+depositary bank generally collects its fees through the systems provided by DT C (whose nominee is the registered
+holder of the ADSs held in DTC) from the brokers and custodians holding ADSs in their DT C accounts. The
+brokers and custodians who hold their clients’ ADSs in DT C accounts in turn charge their clients’ accounts the
+amount of the fees paid to the depositary banks.
+In the event of refusal to pay the depositary fees, the depositary bank may, under the terms of the deposit
+agreement, refuse the requested service until payment is received or may set off the amount of the depositary fees
+from any distribution to be made to the ADS holder.
+Note that the fees and charges you may be required to pay may vary over time and may be changed by us and
+by the depositary. You will receive prior notice of such changes.
+Fees and Payments from the Depositary to Us
+Our depositary has agreed to reimburse us for certain expenses we incur that are related to the administration
+and maintenance of the ADS program. There are limits on the amount of expenses for which the depositary will
+reimburse us, but the amount of reimbursement available to us is not related to the amounts of fees the depositary
+collects from investors. The depositary has reimbursed us for any expenses related to the administration and
+maintenance of the facility in an amount of US$137 million, after deduction of applicable US. taxes, for the year
+ended March 31, 2016.
+201

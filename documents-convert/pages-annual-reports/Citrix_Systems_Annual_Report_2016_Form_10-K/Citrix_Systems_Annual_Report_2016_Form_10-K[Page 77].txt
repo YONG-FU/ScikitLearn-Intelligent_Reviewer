@@ -1,0 +1,54 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Intangible assets consist of the following (in thousands):
+December 31, 2016
+i Weighted- 7
+Gross Carrying Accumulated Average Life
+Amount Amortization OK ears)
+Product related intangible assets is 602,060 i is 509,706 i 5.54
+Other 450,813 315,174 6.87
+Total is 1,052,873 i is 824,880 i 6.11
+December 31, 2015
+i Weighted- 7
+Gross Carrying Accumulated Average Life
+Amount Amortization OK ea rs)
+Product related intangible assets 7$ 589,847 7 7$ 476,141 7 i 5 .677
+Other 447,816 278,104 6.48
+Total is 1,037,663 i is 754,245 i 6.27
+Amortization and impairment of product related intangible assets, which consists primarily of product-related
+technologies and patents, was $60.4 million and $131.2 million for the year ended December 31, 2016 and 2015, respectively,
+and is classified as a component of Cost of net revenues in the accompanying consolidated statements of income. Amortization
+and impairment of other intangible assets, which consist primarily of customer relationships, trade names and covenants not to
+compete was $29.2 million and $108.8 million for the year ended December 31, 2016 and 2015, respectively, and is classified
+as a component of Operating expenses in the accompanying consolidated statements of income.
+The Company monitors its intangible assets for indicators of impairment. If the Company determines that an impairment
+has occurred, it will write-down the intangible asset to its fair value. For certain intangible assets where the unamortized
+balances exceed the undiscounted future net cash ﬂows, the Company measures the amount of the impairment by calculating
+the amount by which the carrying values exceed the estimated fair values, which are based on projected discounted future net
+cash ﬂows. During the year ended December 31, 2015, the Company tested certain intangible assets for recoverability due to
+changes in facts and circumstances associated with the shift in strategic focus and reduced profitability expectations. As a
+result, due to disruptions in the business as a result of the announced plan to explore strategic alternatives, the Company
+identified certain definite-lived intangible assets, primarily customer relationships from the acquisition of ByteMobile, that
+were impaired within the Enterprise and Service Provider segment and recorded non-cash impairment charges of $123.0 million
+to write down the intangible assets to their estimated fair value of $26.8 million. Of the impairment charge, $67.1 million is
+included in Impairment of other intangible assets and $55.9 million is included in Impairment of product related intangible
+assets in the accompanying consolidated statements of income. This non-recurring fair value measurement was categorized as
+Level 3, as significant unobservable inputs were used in the valuation analysis. Key assumptions used in the valuation include
+forecasts of revenue and expenses over an extended period of time, customer retention rates, tax rates, and estimated costs of
+debt and equity capital to discount the projected cash ﬂows. Certain of these assumptions involve significant judgment, are
+based on management’s estimate of current and forecasted market conditions and are sensitive and susceptible to change,
+therefore, further disruptions in the business could potentially result in additional amounts becoming impaired.
+Estimated future amortization expense of intangible assets with finite lives as of December 31, 2016 is as follows (in
+thousands):
+Year ending December 31,
+2017 $ 69,792
+2018 62,291
+2019 39,750
+2020 21,101
+2021 1 1,657
+Thereafter 23,402
+Total is 227,993 i
+Software Development Costs
+The authoritative guidance requires certain internal software development costs related to software to be sold to be
+capitalized upon the establishment of technological feasibility. The Company's software development costs incurred subsequent
+F - 1 1

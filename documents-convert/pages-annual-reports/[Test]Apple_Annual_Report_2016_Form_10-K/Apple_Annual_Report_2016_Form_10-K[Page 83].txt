@@ -1,0 +1,52 @@
+(b) Dividend Equivalent Rights Distributions. As of any date that the Company pays
+an ordinary cash dividend on its Common Stock, the Company shall credit the Participant with a dollar amount
+equal to (i) the per share cash dividend paid by the Company on its Common Stock on such date, multiplied
+by (ii) the total number of Stock Units (with such total number adjusted pursuant to Section 11 of the Plan)
+subject to the Award that are outstanding immediately prior to the record date for that dividend (a “Dividend
+Equivalent Right”). Any Dividend Equivalent Rights credited pursuant to the foregoing provisions of this
+Section 5(b) shall be subject to the same vesting, payment and other terms, conditions and restrictions as
+the original Stock Units to which they relate; provided, however, that the amount of any vested Dividend
+Equivalent Rights shall be paid in cash. No crediting of Dividend Equivalent Rights shall be made pursuant
+to this Section 5(b) with respect to any Stock Units which, immediately priorto the record date forthat dividend,
+have either been paid pursuant to Section 7 or terminated pursuant to Section 8.
+6. Restrictions on Transfer. Except as provided in Section 4(c) of the Plan, neither the Award,
+nor any interest therein or amount or Shares payable in respect thereof may be sold, assigned, transferred,
+pledged or otherwise disposed of, alienated or encumbered, either voluntarily or involuntarily.
+7. Timing and Manner of Payment of Stock Units. On or as soon as administratively practical
+following each vesting of the applicable portion of the total Award pursuant to Section 3 or Section 8 (and in
+all events not later than two and one-half (2 1/2) months after such vesting event), the Company shall deliver
+to the Participant a number of Shares (either by delivering one or more certificates for such Shares or by
+entering such Shares in book entry form, as determined by the Company in its discretion) equal to the number
+of Stock Units subject to the Award that vest on the applicable Vesting Date, less Tax-Related Items (as
+defined in Section 11 below), unless such Stock Units terminate prior to the given Vesting Date pursuant to
+Section 8. The Company’s obligation to deliver Shares or otherwise make payment with respect to vested
+Stock Units is subject to the condition precedent that the Participant or other person entitled under the Plan
+to receive any Shares with respect to the vested Stock Units deliver to the Company any representations or
+other documents or assurances required pursuant to Section 13(c) of the Plan. The Participant shall have
+no further rights with respect to any Stock Units that are paid or that terminate pursuant to Section 8.
+8. Effect of Termination of Service. Except as expressly provided below in this Section 8, the
+Participant’s Stock Units (as well as the related Dividend Equivalent Rights) shall terminate to the extent
+such Stock Units have not become vested prior to the Participant’s Termination of Service, meaning the first
+date the Participant is no longer employed by or providing services to the Company or one of its Subsidiaries
+(the “Severance Date”), regardless of the reason for the Participant’s Termination of Service, whether with
+or without cause, voluntarily or involuntarily. Notwithstanding the foregoing, in the event the Participant’s
+Termination of Service is due to the Participant’s Disability at a time when Stock Units remain outstanding
+and unvested under the Award, (a) the Award shall vest with respect to the number of Stock Units determined
+by multiplying (i) the number of then-outstanding and unvested Stock Units subject to the Award that would
+have otherwise vested pursuant to Section 3 on the next Vesting Date following the Severance Date but for
+such Termination of Service, by (ii) a fraction, the numerator of which shall be the number of days that have
+elapsed between the Vesting Date that immediately preceded the Severance Date (or, in the case of a
+Termination of Service prior to the initial Vesting Date, the Vesting Commencement Date) and the Severance
+Date, and the denominator of which shall be the number of days between the Vesting Date that immediately
+preceded the Severance Date (or, in the case of a Termination of Service prior to the initial Vesting Date, the
+Vesting Commencement Date) and the next Vesting Date following the Severance Date that would have
+occurred but for such Termination of Service; and (b) any Stock Units (as well as the related Dividend
+Equivalent Rights) that are not vested after giving effect to the foregoing clause (a) shall terminate on the
+Severance Date. Further, in the event the Participant’s Termination of Service is due to the Participant’s
+death, any then-outstanding and unvested Stock Units subject to the Award shall be fully vested as of the
+Severance Date, and any Dividend Equivalent Rights credited to the Participant shall be paid. If any unvested
+Stock Units are terminated hereunder, such Stock Units (as well as the related Dividend Equivalent Rights)
+shall automatically terminate and be cancelled as of the applicable Severance Date without payment of any
+consideration by the Company and without any other action by the Participant or the Participant’s personal
+representative, as the case may be.
+2

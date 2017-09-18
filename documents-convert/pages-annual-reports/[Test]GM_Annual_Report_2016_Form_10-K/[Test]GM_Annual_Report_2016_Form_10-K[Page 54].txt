@@ -1,0 +1,44 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+which is supplemented by management judgment. GM Financial uses a combination of forecasting models to determine the allowance for loan losses. Factors
+that are considered when estimating the allowance include historical delinquency migration to loss, probability of default and loss given default. The loss
+conﬁrmation period is a key assumption within the models and represents the average amount of time from when a loss event ﬁrst occurs to when the
+receivable is charged off. GM Financial also considers an evaluation of overall portfolio credit quality based on various indicators.
+Retail ﬁnance receivables that become classiﬁed as troubled debt restructurings (TDRs) are separately assessed for impairment. A speciﬁc allowance is
+estimated based on the present value of the expected future cash ﬂows of the receivable discounted at the loan's original effective interest rate. Finance
+charge income from loans classiﬁed as TDRs is accounted for in the same manner as other accruing loans. Cash collections on these loans are allocated
+according to the same payment hierarchy methodology applied to loans that are not classiﬁed as TDRs.
+Retail ﬁnance receivables are generally charged off in the month in which the account becomes 120 days contractually delinquent if GM Financial has not
+yet recorded a repossession charge-off. A charge-off generally represents the difference between the estimated net sales proceeds and the amount of the
+contract, including accrued interest.
+Inventories Inventories are stated at the lower of cost or net realizable value. Net realizable value is the estimated selling price in the ordinary course of
+business less cost to sell, and considers general market and economic conditions, periodic reviews of current proﬁtability of vehicles, product warranty costs
+and the effect of current and expected incentive offers at the balance sheet date. Net realizable value for off-lease and other vehicles is current auction sales
+proceeds less disposal and warranty costs. Productive material, work in process, supplies and service parts are reviewed to determine if inventory quantities
+are in excess of forecasted usage or if they have become obsolete.
+Equipment on Operating Leases Equipment on operating leases, net is reported at cost, less accumulated depreciation and impairment, net of origination
+fees or costs and lease incentives. Estimated income from operating lease assets, which includes lease origination fees, net of lease origination costs, is
+recorded as operating lease revenue on a straight-line basis over the term of the lease agreement. Leased vehicles are depreciated on a straight-line basis to an
+estimated residual value over the term of the lease agreements.
+We have signiﬁcant investments in vehicle operating lease portfolios, which consist of vehicle leases to retail customers with lease terms of two to ﬁve
+years and vehicles leased to rental car companies with lease terms that average eight months. We are exposed to changes in the residual values of these assets.
+For impairment purposes the residual values represent estimates of the values of the vehicles leased at the end of the lease contracts and are determined based
+on forecasted auction proceeds when there is a reliable basis to make such a determination. Realization of the residual values is dependent on the future
+ability to market the vehicles under prevailing market conditions. The adequacy of the estimate of the residual value is evaluated over the life of the lease
+and adjustments may be made to the extent the expected value of the vehicle at lease termination changes. Adjustments may be in the form of revisions to the
+depreciation rate or recognition of an impairment charge. Impairment is determined to exist if an impairment indicator exists and the expected ﬁlture cash
+ﬂows, which include estimated residual values, are lower than the carrying amount of the vehicles leased. If the carrying amount is considered impaired an
+impairment charge is recorded for the amount by which the carrying amount exceeds fair value. Fair value is determined primarily using the anticipated cash
+ﬂows, including estimated residual values.
+In our automotive operations when a leased vehicle is returned the asset is reclassiﬁed from Equipment on operating leases, net to Inventories at the lower
+of cost or estimated selling price, less cost to sell. Upon disposition, proceeds are recorded in Automotive net sales and revenue and costs are recorded in
+Automotive cost of sales. In our automotive ﬁnance operations when a leased vehicle is returned or repossessed the asset is recorded in Other assets at the
+lower of cost or estimated selling price, less costs to sell. Upon disposition a gain or loss is recorded in GM Financial interest, operating and other expenses
+for any difference between the net book value of the leased asset and the proceeds from the disposition of the asset.
+Depreciation expense and impairment charges related to Equipment on operating leases, net are recorded in Automotive cost of sales or GM Financial
+interest, operating and other expenses.
+Valuation of Cost and Equity Method Investments When events and circumstances warrant, investments accounted for under the cost or equity method of
+accounting are evaluated for impairment. An impairment charge is recorded whenever a decline in value of an investment below its carrying amount is
+determined to be other-than-temporary. Impairment charges related to equity
+5 1

@@ -1,0 +1,45 @@
+On October 23, 2015, the Ministry of Culture promulgated the Notice on Further Strengthening and
+Improving the Content Review of Online Music, which took effect on January 1, 2016. According to this notice,
+ICP operators are required to submit their content administrative system, review procedures, and work standards
+to the provincial culture administrative department where they are located for filing within a prescribed period.
+Regulations on Producing Audio/Video Programs
+On July 19, 2004, the SARFT promulgated the Administrative Measures on the Production and Operation of
+Radio and Television Programs, effective as of August 20, 2004 and amended on August 28, 2015. These Measures
+provide that anyone who wishes to produce or operate radio or television programs must first obtain an operating
+permit.
+On February 1, 2002, the State Council promulgated the Regulations for the Administration of Films, or the
+Film Regulations, effective as of February 1, 2002. The Film Regulations set forth the general regulatory guidelines
+for China’s film industry and address practical issues with respect to production, censorship, distribution and
+screening. They also establish the SARFT as the sector’s regulatory authority, and serve as the foundation for all
+other legislation promulgated in this area. The Film Regulations provide the framework for an industry-wide
+licensing system operated by the SARFT, under which separate permits (and permit application procedures) apply.
+Regulation of Internet Security
+The Decision in Relation to Protection of the Internet Security enacted by the Standing Committee of the
+National People’s Congress of China on December 28, 2000 provides that the following activities conducted
+through the Internet are subject to criminal punishment:
+0 gaining improper entry into a computer or system of strategic importance;
+0 disseminating politically disruptive information or Obscenities;
+° leaking State secrets;
+0 spreading false commercial information; or
+0 infringing intellectual property rights.
+The Administrative Measures on the Security Protection of Computer Information Network with International
+Connections, issued by the Ministry of Public Security on December 16, 1997 and amended on January 8, 2011,
+prohibit the use of the Internet in a manner that would result in the leakage of State secrets or the spread of
+socially destabilizing content. The Provisions on Technological Measures for Internet Security Protection, or the
+Internet Security Protection Measures, promulgated on December 13, 2005 by Ministry of Public Security require
+all ICPs to keep records of certain information about its users (including user registration information, log-in and
+log-out time, IP address, content and time of posts by users) for at least 60 days and submit the above information
+as required by laws and regulations. Under these measures, the value-added telecommunications services license
+holders must regularly update information security and content control systems for their websites and must also
+report any public dissemination of prohibited content to local public security authorities. If a value-added
+telecommunications services license holder violates these measures, the Ministry of Public Security and the local
+security bureaus may revoke its operating license and shut down its websites.
+The Communication Network Security Protection Administrative Measures, which was promulgated by the
+MIIT on January 21, 2010, require that all communication network operators including telecommunications
+services providers and Internet domain name service providers divide their own communication networks into
+units. Such communication network units shall be rated in accordance with degree of damage to national security,
+economic operation, social order and public interest assuming such units is damaged. The communication network
+operators must file the division and ratings of their communication network with MIIT or its local counterparts. If
+a communication network operator violates these measures, the MIIT or its local counterparts may order
+rectification or impose a fine up to RMB30,000 in case such violation is not duly rectified.
+91

@@ -1,0 +1,44 @@
+On a quarterly basis, the Company receives from its independent pricing service a list of fixed maturity securities, if any,
+that were priced solely from broker quotes. For these securities, fair value may be determined using the broker quotes, or by
+the Company using similar pricing techniques as the Company’s independent pricing service. Depending on the level of
+observable inputs, these securities would be classified as Level 2 or Level 3 fair value measurements. At December 31, 2016
+and 2015, the Company had no securities priced solely from broker quotes.
+Essentially all securities in the Company’s investment portfolios have transparent pricing. All equity securities (with
+two exceptions) are traded on national exchanges with observable prices. Fixed maturity securities are typically high quality,
+liquid issues with daily pricing from the Company’s independent pricing source. Prices are validated through a variety of
+techniques. When performing these validations, the Company uses graduated tolerance levels for determining exceptions.
+Equity securities and US. treasury and government-sponsored agency fixed maturity securities have the highest transparency in
+pricing, and therefore have the smallest tolerance levels for variance. These are followed by (in order of decreasing
+transparency/increasing tolerance levels) mortgage-backed, corporate, municipal, and finally high-yield fixed maturity
+securities. The validations performed include:
+1. Comparisons of the prices reported by the independent pricing source to daily runs of offerings and bids from
+several brokers for a sample of securities.
+2. Comparison of the prices reported by the independent pricing source to prices realized from the Company’s own
+purchase and sale transactions.
+3. Comparison of the prices reported by the independent pricing source to prices from the Company’s investment
+custodian. It should be noted that the independent pricing source used by the Company is often the same source
+used by the Company’s investment custodian, thus limiting the confidence gained from this validation technique.
+Rarely are the independent pricing source’s prices outside of tolerance levels. This is most likely to occur in less
+frequently traded municipal fixed maturity securities, where the price reported by the independent pricing source may have
+become stale due to a lack of recent trading activity. If it is believed that the price reported by the independent pricing source
+does not reﬂect the quality, maturity, optionality and liquidity characteristics of the fixed maturity security, alternative pricing
+sources are examined, including Bloomberg matrix pricing, regression pricing, and broker runs for oﬁering prices of similar
+securities. A judgment is then made as to what price best reﬂects the characteristics of the security, and if the result is
+materially different than the fair value reported by the independent pricing source for that security, then management’s
+judgment of the fair value is used in the financial statements.
+Investment I mpairments
+The Company regularly monitors its investments which have a fair value that is less than the amortized cost for
+indications of “other-than—temporary” impairment. Several factors are used to determine whether the amortized cost of an
+individual security has been “other-than-temporarily” impaired. Such factors include, but are not limited to (l) the security’s
+value and performance in the context of the overall markets, (2) length of time and extent the security’s fair value has been
+below amortized cost, (3) key corporate events, and (4) for equity securities, the ability and intent to hold the security until
+recovery to its cost basis.
+The evaluation of an impaired fixed maturity security includes an assessment of whether the Company has the intent to
+sell the security, and whether it is more likely than not that the Company will be required to sell the security before recovery of
+its amortized cost basis. In addition, if the present value of cash ﬂows expected to be collected is less than the amortized cost
+of the security, a credit loss is deemed to exist and the security is considered “other-than-temporarily” impaired. The portion of
+the impairment related to credit loss is recognized through earnings, and the portion of the impairment related to other factors,
+if any, is recognized through “other comprehensive income”.
+When an equity security is deemed to be “other-than-temporarily” impaired, the amortized cost is reduced to fair value
+and a realized loss is recognized through earnings.
+72

@@ -1,0 +1,58 @@
+(FINANCIAL STATEMENTS — NOTE 5 i)
+7 December 31, 2015 r
+7 Level 1 Level 2 Level 3 Total 7
+(In thousands)
+Fair value assets:
+Available—for—sale fixed—maturity securities:
+US. government and agencies $ — $ 20,659 $— $ 20,659
+Foreign government — 120,216 — 120,216
+States and political subdivisions — 40,565 — 40,565
+Corporates 2,146 1,299,613 3 1,301,762
+Residential mortgage—backed securities — 100,493 732 101,225
+Commercial mortgage—backed securities — 99,986 — 99,986
+Other asset—backed securities — 47,046 — 47,046
+Total available—for—sale fixed—maturity securities 2,146 1,728,578 735 1,731,459
+Equity securities 41,341 6,450 48 47,839
+Trading securities — 5,358 — 5,358
+Separate accounts — 2,063,899 — 2,063,899
+Total fair value assets $43,487 $3,804,285 $783 $3,848,555
+Fair value liabilities:
+Separate accounts $ — $2,063,899 $— $2,063,899
+Total fair value liabilities $ — $2,063,899 $— $2,063,899
+In assessing fair value of our investments, we use selected securities. Our review activities include
+a third—party pricing service for approximately obtaining detailed information about the
+95% of our securities that are measured at fair assumptions, inputs and methodologies used in
+value on a recurring basis. The remaining pricing the security; documenting this
+securities are primarily thinly traded securities information; and corroborating it by comparison
+such as private placements and are valued using to independently obtained prices and or
+models based on observable inputs on public independently developed pricing
+corporate spreads having similar characteristics methodologies.
+(.e’gi’ fecto'” aYerage me and qua.hty rajung) and Furthermore, we perform internal
+liqUIdIty and yield based on quallty rating, .
+. . reasonableness assessments on faIr value
+average life and treasury yields. All observable . . . . .
+. . determinatlons Withm our portfolio throughout
+data Inputs are corroborated by independent . . . .
+. . . the quarter and at quarter—end, Includlng pricmg
+thIrd—party data. In the absence of suffICIent . . .
+. . . . . variance analyses and comparisons to alternatlve
+observable inputs, we utilize non—binding broker . . .
+. . prlcmg sources and benchmark returns. If a faIr
+quotes, which are reflected In our Level 3 .
+. . . value appears unusual relative to these
+claSSIfication as we are unable to evaluate the . . .
+. . . . . . assessments, we Will re—examine the inputs and
+valuation technlque(s) or Significant Inputs used .
+may challenge a fair value assessment made by
+to develop the quotes. Therefore, we do not . . . . . .
+. . . the pricmg serVIce. If there IS a known pricmg
+Internally develop the quantltatlve unobservable .
+. . . . error, we Will request a reassessment by the
+inputs used in measuring the fair value of Level 3 . . . . . . .
+. prlcmg sewice. If the pricmg serVIce IS unable to
+investments. However, we do corroborate . .
+. . . . . . perform the reassessment on a timely baSIS, we
+prlcmg Information prOVIded by our third—party . . . .
+. . . . . . wnll determine the appropriate price by
+prlcmg serVICIng by performing a reVIew of
+Primerica 2016 Annual Report 119

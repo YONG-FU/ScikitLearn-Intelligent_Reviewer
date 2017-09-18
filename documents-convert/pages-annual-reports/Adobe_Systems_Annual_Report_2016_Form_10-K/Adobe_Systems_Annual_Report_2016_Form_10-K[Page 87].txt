@@ -1,0 +1,48 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Accounting for Uncertainty in Income Taxes
+During fiscal 2016 and 2015, our aggregate changes in our total gross amount of unrecognized tax benefits are summarized
+as follows (in thousands):
+7 2016 7 7 2015 7
+{Beginning balance $ 258,718 $ 148,848 1
+Gross increases in unrecognized tax benefits — prior year tax positions 6,047 3,784
+1 Gross decreases in unrecognized tax benefits — prior year tax positions (67,870) — ‘
+Gross increases in unrecognized tax benefits — current year tax positions 23,068 129,358
+I Settlements with taxing authorities (33,265) (11,548):
+Lapse of statute of limitations (8,456) (2,687)
+I Foreign exchange gains and losses 7 171 7 7 (9,037):
+Ending balance $ 178,413 $ 258,718
+As of December 2, 2016, the combined amount of accrued interest and penalties related to tax positions taken on our tax
+returns and included in non-current income taxes payable was approximately $22.4 million.
+We file income tax returns in the United States on a federal basis and in many US. state and foreign jurisdictions. We are
+subject to the continual examination of our income tax returns by the IRS and other domestic and foreign tax authorities. Our
+major tax jurisdictions are Ireland, California and the United States. For Ireland, California and the United States, the earliest
+ﬁscal years open for examination are 2008, 2010 and 2013, respectively. We regularly assess the likelihood of outcomes resulting
+from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments
+that may result from the current examinations. We believe such estimates to be reasonable; however, there can be no assurance
+that the final determination of any of these examinations will not have an adverse effect on our operating results and financial
+position.
+The timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments
+that are part of any audit settlement process. These events could cause large ﬂuctuations in the balance of current and non-current
+assets, liabilities and income taxes payable. We believe that within the next 12 months, it is reasonably possible that either certain
+audits will conclude or statutes of limitations on certain income tax examination periods will expire, or both. Given the uncertainties
+described above, we can only determine a range of estimated potential decreases in underlying unrecognized tax benefits ranging
+from $0 to approximately $10 million.
+NOTE 10. BENEFIT PLANS
+Retirement Savings Plan
+In 1987, we adopted an Employee Investment Plan, qualified under Section 401(k) of the Internal Revenue Code, which is
+a retirement savings plan covering substantially all of our U. S. employees, now referred to as the Adobe 401(k) Retirement Savings
+Plan. Under the plan, eligible employees may contribute up to 65% of their pretax or after-tax salary, subject to the Internal Revenue
+Service annual contribution limits. In fiscal 2016, we matched 50% of the first 6% of the employee’s eligible compensation. We
+contributed $33.4 million, $25.7 million and $24.8 million in fiscal 2016, 2015 and 2014, respectively. We are under no obligation
+to continue matching future employee contributions and, at our discretion, may change our practices at any time.
+Deferred Compensation Plan
+On September 21, 2006, the Board of Directors approved the Adobe Systems Incorporated Deferred Compensation Plan,
+effective December 2, 2006 (the “Deferred Compensation Plan”). The Deferred Compensation Plan is an unfunded, non-qualified,
+deferred compensation arrangement under which certain executives and members of the Board of Directors are able to defer a
+portion of their annual compensation. Participants may elect to contribute up to 75% of their base salary and 100% of other specified
+compensation, including commissions, bonuses, performance-based and time-based restricted stock units, and directors’
+fees. Participants are able to elect the payment of benefits to begin on a specified date at least three years after the end of the plan
+year in which election is made. For cash benefit elections, distributions are made in the form of a lump sum or annual installments
+87

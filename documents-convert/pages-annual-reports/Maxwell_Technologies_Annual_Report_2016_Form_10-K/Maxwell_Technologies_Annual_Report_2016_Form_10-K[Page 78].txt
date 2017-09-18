@@ -1,0 +1,47 @@
+The components of net periodic pension cost and other amounts recognized in other comprehensive income (loss) before taxes are as follows (in thousands):
+Years ended December 31,
+2016 2015 2014
+IComponents of net periodic pension cost: — _ I
+Service cost $ 1,171 $ 958 $ 846
+I Interest cost 246 332 697 I
+Expected return on plan assets (1,175) (1,551) (1,784)
+I Prior service cost amortization 150 136 140 I
+Deferred loss amortization 243 45 —
+I Settlement cost — 492 420 I
+Net periodic pension cost $ 635 _ $ 412 _ $ 319
+IOther amounts recognized in other comprehensive income (loss) before income taxes are as — _ I
+follows:
+Prior service cost amortization $ (150) $ (136) $ (140)
+I (Gain) loss on value of plan assets (476) 1,131 (1,695) I
+Actuarial (gain) loss on benefit obligation (2,425) 1,262 4,975
+I Plan change — 83 — I
+Settlement — (492) (420)
+I Deferred loss amortization (243) (45) — I
+Total recognized in other comprehensive income (loss), before taxes $ (3,294) _ $ 1,803 _ $ 2,720
+ITotal recognized in net periodic pension cost and other comprehensive income (loss), before taxes $ (2,659) — $ 2,215 — $ 3,039 I
+Assumptions used to determine the benefit obligation and net periodic pension cost are as follows:
+Years ended December 31,
+2016 2015
+IWeighted-average assumptions used to determine beneﬁt obligation: — I
+Discount rate 0.75% 0.75%
+I Rate of compensation increase 2.00% 2.50%I
+Measurement date 1 1/30/2016 1 1/30/2015
+IWeighted-average assumptions used to determine net periodic pension cost: I
+Discount rate 0.75% 1.00%
+I Expected long-term return on plan assets 3.00% 3.75%I
+Rate of compensation increase 2.50% 2.50%
+IPercentage of the fair value of total plan assets held in each major category of plan assets: I
+I Equity securities 29% 29%I
+Debt securities 23% 23%
+I Real estate investment funds 43% 43%I
+Other 5% 5%
+I Total 100% 100%I
+The pension plan’s overall strategy and investment policy is managed by the board of the plan. The overall long-term rate is based on the target asset
+allocation of 14% Swiss bonds, 10% non-Swiss hedged bonds, 10% Swiss equities, 15% global equities, 5% emerging market equities, 4% alternative investments,
+40% real estate and 2% cash and equivalents.
+The 2017 expected future long-term rate of return is estimated to be 2.50% , which is based on historical asset rates of return for each asset allocation
+classification of (1 .1 1)% for Swiss bonds, (1 .20)% for non-Swiss hedged bonds, 3.00% for Swiss equities, 4.80% for global equities, 5.00% for emerging market
+equities, 1.80% for alternative investments, 2.10% for real estate and (0.20)% for cash and equivalents. The 2016 expected long-term rate of return was 3.00% and
+was based on the historical asset rates of return of 0.21% for Swiss bonds, 0% for non-Swiss hedged bonds, 3.52% for Swiss equities, 5.21% for global equities,
+5 .21% for emerging market equities, 1.23% for alternative investments, 2.54% for real estate and 0.23% for cash and equivalents.
+75

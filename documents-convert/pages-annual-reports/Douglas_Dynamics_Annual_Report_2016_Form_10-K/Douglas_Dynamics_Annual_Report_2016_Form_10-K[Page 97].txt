@@ -1,0 +1,38 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+10. Income Taxes (Continued)
+Significant components of the Company’s deferred tax liabilities and assets are as follows:
+December 31,
+2016 2015
+Deferred tax assets:
+Allowancefordoubtfulaccounts $ 393 $ 492
+Inventoryreserves............................... 1,111 928
+Warrantyliability................................ 2,244 2,717
+Deferredcompensation............................ 548 733
+Earnoutliabilities................................ 242 1,367
+Pension and retiree health benefit obligations. . . . . . . . . . . . 5,432 3,375
+Accruedvacation................................ 866 720
+Medicalclaimsreserve............................ 72 75
+Statenetoperatinglosses.......................... 2,853 3,164
+Otheraccruedliabilities........................... 2,967 3,229
+Valuation allowance for state net operating losses. . . . . . . . . (640) (647)
+Totaldeferredtaxassets............................. 16,088 16,153
+Deferred tax liabilities:
+Tax deductible goodwill and other intangibles . . . . . . . . . . . . (63,324) (57,496)
+Accelerated depreciation. . . . . . . . . . . . . . . . . . . . . . . . . . . (7,176) (7,239)
+(151) (196)
+Total deferred tax liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . (70,651) (64,931)
+Net deferred tax liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . $(54,563) $(48,778)
+Deferred income tax balances reﬂect the effects of temporary differences between the carrying
+amount of assets and liabilities and their tax basis and are stated at enacted tax rates expected to be in
+effect when taxes are actually paid or recovered.
+State operating loss carry forwards for tax purposes will result in future tax benefits of
+approximately $2,853. These loss carry-forwards will begin to expire in 2021. The Company evaluated
+the need to maintain a valuation allowance against certain deferred tax assets. Based on this evaluation,
+which included a review of recent profitability, future projections of profitability, and future deferred
+tax liabilities, the Company concluded that a valuation allowance of approximately $640 is necessary at
+December 31, 2016 for the state net operating loss carry-forwards which are likely to expire prior to the
+Company’s ability to use the tax benefit.
+F-34

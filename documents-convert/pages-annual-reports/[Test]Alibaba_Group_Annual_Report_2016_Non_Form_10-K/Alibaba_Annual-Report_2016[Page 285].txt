@@ -1,0 +1,40 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+12. Investment securities and fair value disclosure (Continued)
+The following table summarizes the Company’s assets and liabilities that are measured at fair value on a
+recurring basis and are categorized using the fair value hierarchy:
+As of March 31, 2015
+Level 1 Level 2 Level 3 Total
+(in millions of RMB)
+Assets
+Short-term investments 14,148 — — 14,148
+Restricted cash 2,297 — — 2,297
+Trading securities:
+Listed equity securities 676 — — 676
+Financial derivatives — 617 — 617
+Available-for-sale securities:
+Listed equity securities 11,637 — — 11,637
+Equity fund 236 — — 236
+Convertible bond accounted for under the fair value option — — 3,719 3,719
+28,994 617 3,719 33,330
+Liabilities
+Contingent consideration in relation to investments and acquisitions — — 1,278 1,278
+As of March 31, 2016
+Level 1 Level 2 Level 3 Total
+(in millions of RMB)
+Assets
+Short-term investments 4,700 — — 4,700
+Restricted cash 1,346 — — 1,346
+Trading securities:
+Listed equity securities 771 — — 771
+Financial derivatives — 178 — 178
+Available-for-sale securities:
+Listed equity securities 17,246 — — 17,246
+Convertible bond accounted for under the fair value option — — 4,622 4,622
+24,063 178 4,622 28,863
+Liabilities
+Forward exchange contracts — 461 — 461
+Contingent consideration in relation to investments and acquisitions — — 1,264 1,264
+— 461 1,264 1,725
+F-69

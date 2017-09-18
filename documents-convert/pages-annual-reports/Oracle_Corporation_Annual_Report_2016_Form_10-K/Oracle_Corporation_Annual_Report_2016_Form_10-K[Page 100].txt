@@ -1,0 +1,41 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Costs to exit or restructure certain activities of an acquired company or our internal operations are accounted for as termination and exit costs pursuant to ASC 420,
+Exit or Disposal Cost Obligations , and are accounted for separately from the business combination. A liability for costs associated with an exit or disposal activity
+is recognized and measured at its fair value in our consolidated statement of operations in the period in which the liability is incurred. When estimating the fair
+value of facility restructuring activities, assumptions are applied regarding estimated sub-lease payments to be received, which can differ materially from actual
+results. This may require us to revise our initial estimates which may materially affect our results of operations and financial position in the period the revision is
+made.
+For a given acquisition, we may identify certain pre-acquisition contingencies as of the acquisition date and may extend our review and evaluation of these pre-
+acquisition contingencies throughout the measurement period in order to obtain sufficient information to assess whether we include these contingencies as a part of
+the fair value estimates of assets acquired and liabilities assumed and, if so, to determine their estimated amounts.
+If we cannot reasonably determine the fair value of a pre-acquisition contingency (non-income tax related) by the end of the measurement period, which is
+generally the case given the nature of such matters, we will recognize an asset or a liability for such pre-acquisition contingency if: (1) it is probable that an asset
+existed or a liability had been incurred at the acquisition date and (2) the amount of the asset or liability can be reasonably estimated. Subsequent to the
+measurement period, changes in our estimates of such contingencies will affect earnings and could have a material effect on our results of operations and ﬁnancial
+position.
+In addition, uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are initially estimated as of the
+acquisition date. We reevaluate these items quarterly based upon facts and circumstances that existed as of the acquisition date with any adjustments to our
+preliminary estimates being recorded to goodwill if identiﬁed within the measurement period. Subsequent to the measurement period or our ﬁnal determination of
+the tax allowance’s or contingency’s estimated value, whichever comes first, changes to these uncertain tax positions and tax related valuation allowances will
+affect our provision for income taxes in our consolidated statement of operations and could have a material impact on our results of operations and ﬁnancial
+position.
+Marketable and N on-Marketable Securities
+In accordance with ASC 320, Investments — Debt and Equity Securities, and based on our intentions regarding these instruments, we classify substantially all of
+our marketable debt and equity securities as available-for—sale. Marketable debt and equity securities classified as available-for—sale are reported at fair value, with
+all unrealized gains (losses) reﬂected net of tax in stockholders” equity on our consolidated balance sheets, and as a line item in our consolidated statements of
+comprehensive income. If we determine that an investment has an other than temporary decline in fair value, we recognize the investment loss in non-operating
+income (expense), net in the accompanying consolidated statements of operations. We periodically evaluate our investments to determine if impairment charges are
+required. Substantially all of our marketable debt and equity investments are classiﬁed as current based on the nature of the investments and their availability for
+use in current operations.
+We hold investments in certain non-marketable equity securities in which we do not have a controlling interest or signiﬁcant inﬂuence. These equity securities are
+recorded at cost and included in other assets in the accompanying consolidated balance sheets. If based on the terms of our ownership of these non-marketable
+securities, we determine that we exercise signiﬁcant inﬂuence on the entity to which these non-marketable securities relate, we apply the requirements of ASC 323,
+Investments — Equity Method and Joint Ventures , to account for such investments . Our non-marketable securities are subject to periodic impairment reviews.
+Fair Values of Financial Instruments
+We apply the provisions of ASC 820, Fair Value Measurement (ASC 820), to our assets and liabilities that we are required to measure at fair value pursuant to
+other accounting standards, including our investments in marketable debt and equity securities and our derivative financial instruments.
+The additional disclosures regarding our fair value measurements are included in Note 4.
+98

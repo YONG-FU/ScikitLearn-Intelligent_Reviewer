@@ -1,0 +1,50 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+believes that it is not reasonably possible that the ultimate outcomes will materially and adversely affect its business, financial
+position, results of operations or cash ﬂows.
+Guarantees
+The authoritative guidance requires certain guarantees to be recorded at fair value and requires a guarantor to make
+disclosures, even when the likelihood of making any payments under the guarantee is remote. For those guarantees and
+indemnifications that do not fall within the initial recognition and measurement requirements of the authoritative guidance, the
+Company must continue to monitor the conditions that are subject to the guarantees and indemniﬁcations, as required under
+existing generally accepted accounting principles, to identify if a loss has been incurred. If the Company determines that it is
+probable that a loss has been incurred, any such estimable loss would be recognized. The initial recognition and measurement
+requirements do not apply to the provisions contained in the majority of the Company’s software license agreements that
+indemnify licensees of the Company’s software from damages and costs resulting from claims alleging that the Company’s
+software infringes the intellectual property rights of a third party. The Company has not made material payments pursuant to
+these provisions as of December 31, 2016. The Company has not identiﬁed any losses that are probable under these provisions
+and, accordingly, the Company has not recorded a liability related to these indemnification provisions.
+Purchase Obligations
+The Company has agreements with suppliers to purchase inventory and estimates its non-cancelable obligations under
+these agreements for the ﬁscal year ended December 31, 2017 to be approximately $18.3 million. The Company also has
+contingent obligations to purchase inventory for the fiscal year ended December 31, 2017, which are based on amount of usage,
+of approximately $24.5 million. The Company does not have any purchase obligations beyond December 31, 2017.
+10. INCOME TAXES
+The United States and foreign components of income before income taxes are as follows:
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 (In thousands) 7 7 7
+United States 55 150,067 $ (3,332) $ 82,032
+Foreign 7 466,697 7 315,209 7 193,674
+Total $ 616,764 $ 311,877 $ 275,706
+The components of the provision for income taxes are as follows:
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 (In thousands) 7 7 7
+Current:
+Federal $ 58,109 $ 27,860 $ 22,377
+Foreign 52,380 43,796 30,878
+State 7 11,267 7 10,238 7 7 7,710 7
+Total current *8 121,756 '$ 81,894 * *$ 60,965 *
+Deferred:
+Federal (26,886) (75,479) (26,922)
+Foreign (3,621) (2,746) (1,023)
+State 7 (10,597) 7 (11,153) 7 (9,037)
+Total deferred * (41,104) * (89,378) ' (36,982)
+Total provision $ 80,652 $ (7,484) $ 23,983
+The following table presents the breakdown of net deferred tax assets:
+7 December 31, 7
+7 2016 7 7 2015 7
+7 (In thousands) 7
+Deferred tax assets $ 252,396 $ 215,196
+Deferred tax liabilities 7 (2,578) 7 (3,903)
+Total net deferred tax assets 8 249,818 $ 211,293
+F-27

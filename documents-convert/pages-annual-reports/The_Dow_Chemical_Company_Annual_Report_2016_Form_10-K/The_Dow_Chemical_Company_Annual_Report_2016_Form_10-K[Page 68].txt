@@ -1,0 +1,50 @@
+The following information relates to the US. plans only; a similar approach is used for the Company’s non—U.S. plans.
+The Company determines the expected long-term rate of return on assets by performing a detailed analysis of
+historical and expected returns based on the strategic asset allocation approved by the Company's Investment
+Committee and the underlying return fundamentals of each asset class. The Company’s historical experience with the
+pension fund asset performance is also considered. The expected return of each asset class is derived from a forecasted
+future return confirmed by historical experience. The expected long-term rate of return is an assumption and not what
+is expected to be earned in any one particular year. The weighted-average long-term rate of return assumption used for
+determining net periodic pension expense for 2016 was 7.77 percent. The assumption used for determining 2017 net
+periodic pension expense is 7.91 percent. Future actual pension expense will depend on future investment
+performance, changes in future discount rates and various other factors related to the population of participants in the
+Company’s pension plans.
+The discount rates utilized to measure the pension and other postretirement obligations of the US. qualified plans are
+based on the yield on high—quality corporate fixed income investments at the measurement date. Future expected
+actuarially determined cash ﬂows for Dow’s US. plans are individually discounted at the spot rates under the Willis
+Towers Watson U.S. RATE2Link 60-90 corporate yield curve (based on 60th to 90th percentile high-quality corporate
+bond yields) to arrive at the plan’s obligations as of the measurement date. The weighted average discount rate
+decreased to 4.11 percent at December 31, 2016, from 4.40 percent at December 31, 2015.
+At December 31, 2016, the US. qualified plans were underfunded on a projected benefit obligation basis by
+$5.1 billion. The underfunded amount increased approximately $1.3 billion compared with December 31, 2015. The
+increase in the underfunded amount in 2016 was primarily due to the pension plan assets and obligations assumed
+from Dow Corning and the change in the discount rate. The Company contributed $350 million to the US. qualified
+plans in 2016.
+The assumption for the long-term rate of increase in compensation levels for the principal U.S. qualified plans was
+4.25 percent. The Company uses a generational mortality table to determine the duration of its pension and other
+postretirement obligations.
+The following discussion relates to the Company’s significant pension plans.
+The Company bases the determination of pension expense on a market-related valuation of plan assets that reduces
+year-to-year volatility. This market-related valuation recognizes investment gains or losses over a five-year period
+from the year in which they occur. Investment gains or losses for this purpose represent the diﬁerence between the
+expected return calculated using the market-related value of plan assets and the actual return based on the market value
+of plan assets. Since the market-related value of plan assets recognizes gains or losses over a five-year period, the
+future value of plan assets will be impacted when previously deferred gains or losses are recorded. Over the life of the
+plans, both gains and losses have been recognized and amortized. At December 31, 2016, net losses of $520 million
+remain to be recognized in the calculation of the market-related value of plan assets. These net losses will result in
+increases in future pension expense as they are recognized in the market-related value of assets.
+The decrease in the market-related value of assets due to the recognition of prior losses is presented in the following
+table:
+Decrease in Market-Related Asset Value Due to
+Recognition of Prior Losses
+In millions
+|2017 $ 94 l
+2018 148
+|2019 241 l
+2020 37 7
+[Total $ 520
+On January 1, 2016, the Company adopted the spot rate approach to determine the discount rate utilized to measure the
+service cost and interest cost components of net periodic pension and other postretirement benefit costs for the US.
+and other selected countries. Under the spot rate approach, the Company calculates service costs and interest costs by
+applying individual spot rates from the Willis Towers Watson RATE2Link yield curve (based on high—quality corporate
+60

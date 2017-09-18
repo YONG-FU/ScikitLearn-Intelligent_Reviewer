@@ -1,0 +1,50 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The Company expects the total amount of unrecognized tax beneﬁts will change significantly in the first quarter of 2017
+pursuant to the spin-OE and subsequent merger transaction with LogMeIn. See Note 18 for more information on the Company's
+separation of its GoTo Business and Note 20 for more information on the R&D tax credit.
+11. SEGMENT INFORMATION
+The Enterprise and Service Provider and the GoTo Business segment constitute the Company’s two reportable segments.
+The Company does not engage in intercompany revenue transfers between segments. The Company’s chief operating decision
+maker (“CODM”) evaluates the Company’s performance based primarily on profitability from its Enterprise and Service
+Provider and GoTo Business segment products. The Company's CEO is the CODM. Segment profit for each segment includes
+certain research and development, sales, marketing, and services and general and administrative expenses directly attributable
+to the segment as well as other corporate costs allocated to the segment and excludes certain expenses that are managed outside
+of the reportable segments. Costs excluded from segment profit primarily consist of certain restructuring charges, stock-based
+compensation costs, charges or benefits related to significant litigation that are not anticipated to be ongoing costs, amortization
+and impairment of product related and other intangible assets, net interest and other expense, and separation costs. Accounting
+policies of the Company’s segments are the same as its consolidated accounting policies.
+As part of its continued transformation, effective January 1, 2016, the Company reorganized a part of its business by
+creating a new Cloud Services product grouping that primarily includes the ShareFile product line. Prior to 2016, the ShareFile
+product line was included within the Company's Workﬂow Cloud products under the GoTo Business segment. The Company's
+CODM has changed how it views the business primarily due to operational initiatives announced in 2015, which include
+increased emphasis and investments in core enterprise products for secure and reliable application and data delivery. As a result,
+the Company realigned its Cloud Services products and services to the Enterprise and Service Provider segment effective
+January 1, 2016 in contemplation of the strategic shift and the separation of the GoTo Business. See Note 18 for more
+information on the Company's separation of its GoTo Business. In addition, previously reported segment results have been
+recasted to conform to current year presentation.
+On January 31, 2017, Citrix completed the separation of the GoTo Business. As a result, the Company will reevaluate its
+operating segments in the first quarter of 20 17.
+International revenues (sales outside of the United States) accounted for approximately 40.7%, 43.1% and 45.2% of the
+Company’s net revenues for the year ended December 31, 2016, 2015, and 2014, respectively.
+Net revenues and segment profit, classified by the Company’s two reportable segments were as follows:
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 (In thousands) 7 7 7
+Net revenues:
+Enterprise and Service Provider $ 2,736,080 $ 2,646,154 $ 2,563,064
+GoTo Business 7 682,185 7 7 629,440 7 7 579,792,
+Consolidated $ 3,418,265 $ 3,275,594 $ 3,142,856
+Segment profit: : i l i l 77
+Enterprise and Services Provider 5}; 891,187 $ 702,229 $ 558,069
+GoTo Business 160,098 140,920 147,005
+Unallocated expenses 0):
+Amortization and impairment of intangible assets (89,592) (239,915) (192,325)
+Stock-based compensation (184,788) (147,368) (169,287)
+Restructuring (71,122) (100,41 1) (20,424)
+Separation costs (56,624) (6,352) —
+Patent litigation charge — — (20,727)
+Other — 982 —
+Net interest and other expense (32,395) (38,208) (26,605)
+Consolidated income before income taxes 758 616,764 7 758 311,877 7 758 275,706 7
+0' Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments.
+F-30

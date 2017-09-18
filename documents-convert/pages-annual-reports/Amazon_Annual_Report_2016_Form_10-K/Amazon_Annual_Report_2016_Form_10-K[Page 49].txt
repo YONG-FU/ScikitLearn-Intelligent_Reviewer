@@ -1,0 +1,37 @@
+Table of Contents
+The inclusion of excess tax beneﬁts and deﬁciencies as a component of our income tax expense will increase volatility within our provision for income
+taxes as the amount of excess tax beneﬁts or deﬁciencies from stock-based compensation awards are dependent on our stock price at the date the awards vest.
+Based on our current stock price, we would expect this change to have a material impact to our provision for income taxes. As a measure of sensitivity, had
+we adopted this ASU at the beginning of 20 1 6, our income tax expense would have decreased by approximately $750 million, which reﬂects the amount of
+excess tax beneﬁts generated during the year ended December 31, 2016.
+In October 2016, the FASB issued an ASU amending the accounting for income taxes. The new guidance requires the recognition of the income tax
+consequences of an intercompany asset transfer, other than transfers of inventory, when the transfer occurs. For intercompany transfers of inventory, the
+income tax effects will continue to be deferred until the inventory has been sold to a third party. The ASU is effective for reporting periods beginning after
+December 15, 2017, with early adoption permitted. We are currently evaluating the impact and expect the ASU will have a material impact on our
+consolidated ﬁnancial statements.
+In November 2016, the FASB issued an ASU amending the presentation of restricted cash within the statement of cash ﬂows. The new guidance requires
+that restricted cash be included within cash and cash equivalents on the statement of cash ﬂows. The ASU is effective retrospectively for reporting periods
+beginning after December 15, 2017, with early adoption permitted.
+Note 2—CASH, CASH EQUIVALENTS, AND MARKETABLE SECURITIES
+As of December 31, 2015 and 2016, our cash, cash equivalents, and marketable securities primarily consisted of cash, US. and foreign government and
+agency securities, AAA—rated money market ﬁnds, and other investment grade securities. Cash equivalents and marketable securities are recorded at fair
+value. The following table summarizes, by major security type, our cash, cash equivalents, and marketable securities that are measured at fair value on a
+recurring basis and are categorized using the fair value hierarchy (in millions):
+December 31, 2015
+Cost or Gross Gross Total
+Amortized Unrealized Unrealized Estimated
+Cost _ Gains _ Losses _ Fair Value
+1 Cash 8 6,201 $ — $ — $ 6,201 1
+Level 1 securities:
+1 Money market funds 8,025 — — 8,025 1
+Equity securities 4 1 1 — 15
+lLeve12 securities: 1
+Foreign government and agency securities 49 — — 49
+1 US. government and agency securities 5,171 1 (5) 5,167 1
+Corporate debt securities 479 — (2) 477
+l Asset-backed securities 1 18 — (1) 1 17 1
+Other ﬁxed income securities 42 _ — _ — _ 42
+1 $ 20,089 $ 12 $ (8) $ 20,093 1
+Less: Restricted cash, cash equivalents, and marketable securities (1) (285)
+1 Total cash, cash equivalents, and marketable securities $ 19,808 1
+49

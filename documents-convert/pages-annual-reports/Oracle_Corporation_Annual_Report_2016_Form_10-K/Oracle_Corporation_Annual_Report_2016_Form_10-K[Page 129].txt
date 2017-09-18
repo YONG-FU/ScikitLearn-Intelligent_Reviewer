@@ -1,0 +1,41 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Our net deferred tax assets were $1.1 billion and $993 million as of May 31, 2016 and 2015, respectively. We believe it is more likely than not that the net deferred
+tax assets will be realized in the foreseeable future. Realization of our net deferred tax assets is dependent upon our generation of sufﬁcient taxable income in future
+years in appropriate tax jurisdictions to obtain beneﬁt from the reversal of temporary differences, net operating loss carryforwards and tax credit carryforwards. The
+amount of net deferred tax assets considered realizable is subject to adjustment in future periods if estimates of future taxable income change.
+The valuation allowance was $1.2 billion and $1.0 billion at May 31, 2016 and 2015, respectively. Substantially all of the valuation allowances as of May 31, 2016
+and 2015 relate to tax assets established in purchase accounting. Any subsequent reduction of that portion of the valuation allowance and the recognition of the
+associated tax benefits associated with our acquisitions will be recorded to our provision for income taxes subsequent to our ﬁnal determination of the valuation
+allowance or the conclusion of the measurement period (as defined above), whichever comes ﬁrst.
+At May 31, 2016, we had federal net operating loss carryforwards of approximately $758 million. These losses expire in various years between fiscal 2017 and
+fiscal 2035 and are subject to limitations on their utilization. We had state net operating loss carryforwards of approximately $2.7 billion at May 31, 2016, which
+expire between ﬁscal 2017 and ﬁscal 2035 and are subject to limitations on their utilization. We had total foreign net operating loss carryforwards of approximately
+$1.6 billion at May 31, 2016, which are subject to limitations on their utilization. Approximately $1.4 billion of these foreign net operating losses are not currently
+subject to expiration dates. The remainder of the foreign net operating losses, approximately $240 million, expire between ﬁscal 2017 and ﬁscal 2036. We had tax
+credit carryforwards of approximately $1.2 billion at May 31, 2016, which are subject to limitations on their utilization. Approximately $652 million of these tax
+credit carryforwards are not currently subject to expiration dates. The remainder of the tax credit carryforwards, approximately $541 million, expire in various
+years between ﬁscal 2017 and fiscal 2035.
+We classify our unrecognized tax beneﬁts as either current or non-current income taxes payable in the accompanying consolidated balance sheets. The aggregate
+changes in the balance of our gross unrecognized tax benefits, including acquisitions, were as follows:
+Year Ended May j,
+(in millions) _ 2016 2015 2014
+Cross unrecognized tax beneﬁts as of June 1 $ 4,038 $ 3,838 $ 3,601 T
+Increases related to tax positions from prior ﬁscal years 350 119 94
+Decreases related to tax positions from prior ﬁscal years (111) (1_7) (116M
+Increases related to tax positions taken during current ﬁscal year 461 316 307
+IS ettlements with tax authorities (a) (Q) (2U
+Lapses of statutes of limitation (E) (g) (2)
+[Cumulative translation adjustments and other, net (31) (134) 7]
+Total gross unrecognized tax beneﬁts as of May 31 $ 4,561 $ 4,038 $ 3,838
+As of May 31, 2016, 2015 and 2014, $3.1 billion, $2.8 billion and $2.6 billion, respectively, of unrecognized beneﬁts would affect our effective tax rate if
+recognized. We recognized interest and penalties related to uncertain tax positions in our provision for income taxes line of our consolidated statements of
+operations of $26 million, $102 million and $24 million during ﬁscal 2016, 2015 and 2014, respectively. Interest and penalties accrued as of May 31, 2016 and
+2015 were $765 million and $756 million, respectively.
+Domestically, US. federal and state taxng authorities are currently examining income tax returns of Oracle and various acquired entities for years through ﬁscal
+2015. Many issues are at an advanced stage in the examination process, the most significant of which include the deductibility of certain royalty payments, transfer
+pricing, extraterritorial income exemptions, domestic production activity, foreign tax credits, and research and development credits taken. Other issues are related
+to years with expiring statutes of limitation. With all of these
+127

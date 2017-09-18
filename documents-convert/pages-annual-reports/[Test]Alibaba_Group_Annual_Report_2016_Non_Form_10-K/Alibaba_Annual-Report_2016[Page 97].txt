@@ -1,0 +1,46 @@
+Internet security in China is also regulated and restricted from a national security standpoint. On July 1, 2015,
+the National People’s Congress Standing Committee promulgated the New National Security Law which took effect
+on the same date replaced the former National Security Law promulgated in 1993. According to the New National
+Security Law, the state shall ensure that the information system and data in important areas are secure and
+controllable. In addition, according to the New National Security Law, the state shall establish national security
+review and supervision institutions and mechanisms, and conduct national security reviews of key technologies and
+IT products and services that affect or may affect national security. There are uncertainties on how the
+New National Security Law will be implemented in practice.
+Regulation of Privacy Protection
+Under the ICP Measures, ICPs are prohibited from producing, copying, publishing or distributing information
+that is humiliating or defamatory to others or that infringes upon the lawful rights and interests of others.
+Depending on the nature of the violation, ICPs may face criminal charges or sanctions by PRC security authorities
+for such acts, and may be ordered to suspend temporarily their services or have their licenses revoked.
+Under the Several Provisions on Regulating the Market Order of Internet Information Services, issued by the
+MIIT on December 29, 2011, ICPs are also prohibited from collecting any user personal information or providing
+any such information to third parties without the consent of a user. ICPs must expressly inform the users of the
+method, content and purpose of the collection and processing of such user personal information and may only
+collect such information necessary for its services. ICPs are also required to properly maintain the user personal
+information, and in case of any leak or likely leak of the user personal information, ICPs must take remedial
+measures immediately and report any material leak to the telecommunications regulatory authority.
+In addition, the Decision on Strengthening Network Information Protection promulgated by the Standing
+Committee of the National People’s Congress on December 28, 2012 emphasizes the need to protect electronic
+information that contains individual identification information and other private data. The decision requires ICPs
+to establish and publish policies regarding the collection and use of personal electronic information and to take
+necessary measures to ensure the security of the information and to prevent leakage, damage or loss. Furthermore,
+MIIT’s Rules on Protection of Personal Information of Telecommunications and Internet Users promulgated on
+July 16, 2013 contain detailed requirements on the use and collection of personal information as well as the
+security measures to be taken by ICPs.
+The PRC government retains the power and authority to order ICPs to provide an Internet user’s personal
+information if such user posts any prohibited content or engages in any illegal activities through the Internet.
+Regulation of Consumer Protection
+Our online and mobile commerce business is subject to a variety of consumer protection laws, including the
+PRC Consumer Rights and Interests Protection Law, as amended and effective as of March 15, 2014, and the
+Administrative Measures for Online Trading, both of which have provided stringent requirements and obligations
+on business operators, including Internet business operators and platform service providers like us. For example,
+consumers are entitled to return goods purchased online, subject to certain exceptions, within seven days upon
+receipt of such goods for no reason. To ensure that merchants and service providers comply with these laws and
+regulations, we, as platform operators, are required to implement rules governing transactions on our platform,
+monitor the information posted by merchants and service providers, and report any violations by such merchants or
+service providers to the relevant authorities. In addition, online marketplace platform providers may, pursuant to
+PRC consumer protection laws, be exposed to liabilities if the lawful rights and interests of consumers are
+infringed in connection with consumers’ purchase of goods or acceptance of services on online marketplace
+platforms and the platform service providers fail to provide consumers with the contact information of the
+merchant or manufacturer. In addition, platform service providers may be jointly and severally liable with
+merchants and manufacturers if they are aware or should be aware that the merchant or manufacturer is using the
+92

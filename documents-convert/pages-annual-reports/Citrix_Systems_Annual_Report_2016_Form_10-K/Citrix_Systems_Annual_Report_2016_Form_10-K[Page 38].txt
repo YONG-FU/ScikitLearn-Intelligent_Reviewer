@@ -1,0 +1,54 @@
+VSOE as our selling price. When we are unable to establish selling price using VSOE for our support and services, we use ESP
+in our allocation of arrangement consideration.
+The GoTo Business and Cloud Services products are considered hosted service arrangements per the authoritative
+guidance; accordingly, fees related to online service agreements are recognized ratably over the contract term. In addition, SaaS
+revenues may also include set-up fees, which are recognized ratably over the contract term or the expected customer life,
+whichever is longer. Generally, GoTo Business products were sold separately and not bundled with Enterprise and Service
+Provider products and services. See Note 2 to our consolidated financial statements included in this Annual Report on Form 10-
+K for the year ended December 31, 2016 for further information on our revenue recognition.
+Valuation and Classification of Investments
+The authoritative guidance defines fair value as the price that would be received to sell an asset or paid to transfer a
+liability in an orderly transaction between market participants at the measurement date (an exit price). Our available-for-sale
+investments are measured to fair value on a recurring basis. In addition, we hold investments that are accounted for based on
+the cost method. These investments are periodically reviewed for impairment and when indicators of impairment exist, are
+measured to fair value as appropriate on a non-recurring basis. In determining the fair value of our investments we are
+sometimes required to use various alternative valuation techniques. The authoritative guidance establishes a hierarchy for
+inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs
+by requiring that the most observable inputs be used when available.
+The authoritative guidance establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair
+value as follows: Level 1, observable inputs such as quoted prices in active markets for identical assets or liabilities, Level 2,
+inputs, other than quoted prices in active markets, that are observable either directly or indirectly, and Level 3, unobservable
+inputs in which there is little or no market data, which requires us to develop our own assumptions. Observable inputs are those
+that market participants would use in pricing the asset or liability that are based on market data obtained from independent
+sources, such as market quoted prices. When Level 1 observable inputs for our investments are not available to determine their
+fair value, we must then use other inputs which may include indicative pricing for securities from the same issuer with similar
+terms, yield curve information, benchmark data, prepayment speeds and credit quality or unobservable inputs that reﬂect our
+estimates of the assumptions market participants would use in pricing the investments based on the best information available
+in the circumstances. When valuation techniques, other than those described as Level 1 are utilized, management must make
+estimations and judgments in determining the fair value for its investments. The degree to which management’s estimation and
+judgment is required is generally dependent upon the market pricing available for the investments, the availability of
+observable inputs, the frequency of trading in the investments and the investment’s complexity. If we make diﬁerent judgments
+regarding unobservable inputs we could potentially reach different conclusions regarding the fair value of our investments.
+After we have determined the fair value of our investments, for those that are in an unrealized loss position, we must then
+determine if the investment is other-than-temporarily impaired. We review our investments quarterly for indicators of other-
+than—temporary impairment. This determination requires significant judgment and if different judgments are used the
+classification of the losses related to our investments could differ. In making this judgment, we employ a systematic
+methodology that considers available quantitative and qualitative evidence in evaluating potential impairment of our
+investments. If the carrying value of an available-for—sale investment exceeds its fair value, we evaluate, among other factors,
+general market conditions, the duration and extent to which the fair value is less than carrying value our intent to retain or sell
+the investment and whether it is more likely than not that we will not be required to sell the investment before the recovery of
+its amortized cost basis, which may not be until maturity. We also consider specific adverse conditions related to the financial
+health of and business outlook for the issuer, including industry and sector performance, rating agency actions and changes in
+credit default swap levels. For our cost method investments, our quarterly review of impairment indicators encompasses the
+analysis of specific criteria of the entity, such as cash position, financing needs, operational performance, management changes,
+competition and turnaround potential. If any of the above impairment indicators are present, we further evaluate whether an
+other-than-temporary impairment should be recorded. Once a decline in fair value is determined to be other-than-temporary, an
+impairment charge is recorded and a new cost basis in the investment is established. See Notes 4 and 5 to our consolidated
+financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2016 and “Liquidity and
+Capital Resources” for more information on our investments and fair value measurements.
+Intangible Assets
+We have acquired product related technology assets and other intangible assets from acquisitions and other third party
+agreements. We allocate the purchase price of acquired intangible assets acquired through third party agreements based on their
+estimated relative fair values. We allocate a portion of purchase price of acquired companies to the product related technology
+assets and other intangible assets acquired based on their estimated fair values. We typically engage third party appraisal firms
+34

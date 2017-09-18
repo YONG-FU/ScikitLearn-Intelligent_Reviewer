@@ -1,0 +1,15 @@
+Reconciliation of EBITDA
+(millions of dollars) Year Ended
+Dec. 31, Dec. 31,
+2016 2015
+Income from continuing operations before provision
+for taxes and equity in earnings $ 170.3 $ 132.6
+Add back interest, depreciation & amortization and special items:
+Interest expense 54.4 60.9
+Premium on early extinguishment of debt 0.0 4.5
+Depreciation & amortization 91.9 98.3
+Restructuring and other charges 28.3 45.2
+Acquisition related transaction and integration costs 8.0 11.8
+Write-down of investment 0.0 7.6
+Other 0.1 0.1
+Consolidated $ 353.0 $ 361.0

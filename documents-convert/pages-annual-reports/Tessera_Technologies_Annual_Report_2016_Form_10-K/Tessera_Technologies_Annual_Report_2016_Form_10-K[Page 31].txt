@@ -1,0 +1,42 @@
+Table of Contents
+Years ended December 31,
+2015 _ 2014 _ 2013
+IRevenues: I
+Royalty and license fees (1) 100% 100 % 100 %
+I Total Revenues 100 100 100 I
+Operating expenses:
+I Cost of revenues — — — I
+Research, development and other related costs 12 12 17
+I Selling, general and administrative 16 17 37 I
+Amortization expense 8 7 11
+I Litigation expense 5 9 36 I
+Restructuring, impairment of long-lived assets and other charges — (4) 3
+I Total operating expenses 41 — 41 — 104 I
+Operating income (loss) from continuing operations 59 59 (4)
+IOther income and expense, net 1 1 1 I
+Income (loss) from continuing operations before taxes 60 6O (3)
+IProvision for (beneﬁt from) income taxes 17 (3) 21 I
+Income (loss) from continuing operations 43 63 (24)
+ILoss from discontinued operations, net of tax — (2) (86) I
+Net income (loss) 43% 61 % (1 10)%
+(1) Revenue as part of a settlement of a patent infringement dispute from previously unlicensed parties was previously classiﬁed as past production payments,
+which was deﬁned as royalty payments for the use of our intellectual property. This revenue has been reclassiﬁed and is included in "Royalty and license fees."
+The following table sets forth our revenues by year (in thousands, except for percentages):
+Years Ended December 31,
+Increase/ %
+2015 _ 2014 _ (Decrease) _ Change
+IRoyalty and license fees $ 273,300 $ 278,807 $ (5,507) (2)% I
+The $5.5 million or 2% decrease in revenues was due to a decrease in episodic revenue of $98.0 million which was partially offset by an increase in recurring
+revenue of $92.5 million for the year ended December 31, 2015 compared to the year ended December 31, 2014. Recurring revenue was up $92.5 million primarily
+as a result of our settlement agreements with Amkor and PTI and the license agreements entered into with Micron in July 2014. The episodic revenue decrease was
+primarily the result of aggregate episodic payments of $96.0 million made by PTI in the first and third quarter of 2014 in connection with Tessera, Inc.'s settlement
+with PTI, and an episodic payment made in connection with the execution of a license agreement in the ﬁrst quarter of 20 14, which was partially offset by a $27.0
+million episodic payment made by ASE in the ﬁrst quarter of 2015.
+Cost of Revenues
+Cost of revenues consists of direct compensation and related expenses to provide non-recurring engineering ("NRE") services. We anticipate these expenses will
+continue to be a low percentage of total revenue as our NRE services are not a signiﬁcant portion of our revenues.
+Cost of revenues for the year ended December 31, 2015 was $0.6 million, as compared to $0.4 million for the year ended December 31, 2014, an increase of $0.2
+million, or 47%. The increase related to direct labor from non-recurring engineering services associated with a contract that was signed in the fourth quarter of
+20 14.
+Research, Development and Other Related Costs
+30

@@ -1,0 +1,45 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Automotive We utilize options, swaps and forward contracts to manage foreign currency and commodity price risks. The change in fair value of option and
+forward contracts not designated as hedges is recorded in Interest income and other non-operating income, net. Cash ﬂows for all derivative ﬁnancial
+instruments are classiﬁed in cash ﬂows from operating activities. At December 31, 2016 and 2015 we had derivative instruments not designated as hedges in
+asset positions with notional amounts of $5.7 billion and $6.8 billion and in liability positions with notional amounts of $651 million and $264 million. The
+fair value of these derivative instruments was insigniﬁcant at December 31, 2016 and 2015.
+Certain foreign currency and commodity forward contracts have been designated as cash ﬂow hedges. The risk being hedged is the foreign currency and
+commodity price risk related to forecasted transactions. If the contract has been designated as a cash ﬂow hedge, the effective portion of changes in the fair
+value of the cash ﬂow hedge is deferred in Accumulated other comprehensive loss and is recognized in Automotive cost of sales when the hedged item affects
+earnings. Any ineffective portion is recorded in Automotive cost of sales in the period of remeasurement. At December 31, 2016 the notional amount of these
+derivative instruments in asset positions was $909 million and was insigniﬁcant at December 31, 2015. The fair value of these derivative instruments was
+insigniﬁcant at December 31, 2016 and 2015 .
+Automotive Financing - GM Financial GM Financial utilizes interest rate option and swap agreements to manage interest rate risk and foreign currency
+swap agreements to manage foreign currency risk. The change in fair value of the option and swap agreements not designated as hedges is recorded in GM
+Financial interest, operating and other expenses. Cash ﬂows for all derivative ﬁnancial instruments are classiﬁed in cash ﬂows from operating activities. At
+December 31, 2016 and 2015 GM Financial had derivative instruments not designated as hedges in asset positions with notional amounts of $20.7 billion
+and $11.9 billion and liability positions with notional amounts of $20.6 billion and $13.9 billion. The fair value of these derivatives was insigniﬁcant at
+December 31, 2016 and 2015.
+Certain interest rate swap agreements have been designated as fair value hedges of ﬁxed-rate debt. At December 31, 2016 and 2015 the notional amounts of
+these instruments in liability positions were $7.7 billion and $1.0 billion. The fair value of these derivative instruments in liability positions was $276
+million at December 31, 2016 and was insigniﬁcant at December 31, 2015. The risk being hedged is the risk of changes in the fair value of the hedged debt
+attributable to changes in the benchmark interest rate. If the swap has been designated as a fair value hedge, the changes in the fair value of the hedged debt
+are recorded in Interest expense. The change in fair value of the related derivative (excluding accrued interest) is also recorded in Interest expense.
+Beginning in 2016 certain interest rate swap and foreign currency swap agreements have been designated as cash ﬂow hedges. At December 31, 2016 the
+notional amount of these designated instruments in asset positions was $3.5 billion and in liability positions was $2.1 billion. The fair value of these
+derivative instruments was insigniﬁcant at December 31, 2016. The risk being hedged is the foreign currency and interest rate risk related to forecasted
+transactions. If the contract has been designated as a cash ﬂow hedge, the effective portion of changes in the fair value of the cash ﬂow hedge is deferred in
+Accumulated other comprehensive loss and is recognized in GM Financial interest, operating and other expenses when the hedged item affects earnings. Any
+ineffective portion is recorded in GM Financial interest, operating and other expenses in the period of remeasurement.
+The gains or losses on all derivative instruments included in the consolidated income statements and Accumulated other comprehensive loss were
+insigniﬁcant in the years ended December 31, 2016, 2015 and 2014.
+Recently Adopted Accounting Standards Effective January 1, 2016 we retrospectively adopted Accounting Standards Update (ASU) 2015-17, "Balance
+Sheet Classiﬁcation of Deferred Taxes", which requires all deferred tax assets and liabilities to be classiﬁed as non-current. As a result current Deferred
+income taxes and Accrued liabilities decreased by $8.6 billion and $249 million and non-current Deferred income taxes increased by $8.4 billion at
+December 31, 2015 in our consolidated balance sheets.
+In November 2016 the Financial Accounting Standards Board (FASB) issued ASU 2016-18, "Statement of Cash Flows (Topic 230): Restricted Cash" (ASU
+2016-18), which clariﬁes the presentation of restricted cash and restricted cash equivalents in the statements of cash ﬂows. Under ASU 2016-18 restricted
+cash and restricted cash equivalents are included with cash and cash equivalents when reconciling the beginning-of—period and end-of—period total amounts
+shown on the statements of cash ﬂows. We adopted ASU 2016-18 during the three months ended December 31, 2016 on a retrospective basis. As a result Net
+cash provided by operating activities decreased by $287 million in the year ended December 31, 2015 and increased by an insigniﬁcant amount in the year
+ended December 31, 2014. Net cash used in investing activities decreased by $325 million and $339 million in the years ended December 31, 2015 and 2014
+and beginning-of—period cash, cash equivalents and restricted cash increased by $2.1 billion, $2.2 billion and $2.0 billion in 2016, 2015 and 2014.
+55

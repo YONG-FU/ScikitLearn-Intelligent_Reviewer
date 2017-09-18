@@ -1,0 +1,31 @@
+Income Taxes
+The Company records a tax provision for the anticipated tax consequences of its reported operating results.The provision for income
+taxes is computed using the asset and liability method, under which deferred tax assets and liabilities are recognized for the expected
+future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for
+operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates
+that apply to taxable income in effect for the years in which those tax assets and liabilities are expected to be realized or settled.
+The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be
+realized.
+The Company recognizes tax benefits from uncertain tax positions only if it is more likely than not that the tax position will be
+sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the
+financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of
+being realized upon ultimate settlement.
+Management believes it is more likely than not that forecasted income, including income that may be generated as a result of certain
+tax planning strategies, together with future reversals of existing taxable temporary differences, will be sufficient to fully recover the
+deferred tax assets. In the event that the Company determines all or part of the net deferred tax assets are not realizable in the
+future, the Company will record an adjustment to the valuation allowance that would be charged to earnings in the period such
+determination is made. In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of
+uncertainties in the application of GAAP and complex tax laws. Resolution of these uncertainties in a manner inconsistent with
+management’s expectations could have a material impact on the Company’s financial condition and operating results.
+Legal and Other Contingencies
+As discussed in Part I, Item 3 of this Form 10-K under the heading “Legal Proceedings” and in Part II, Item 8 of this Form 10-K in
+the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies,” the Company is subject to various
+legal proceedings and claims that arise in the ordinary course of business. The Company records a liability when it is probable that
+a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. In the
+opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material
+loss in excess of a recorded accrual, with respect to loss contingencies for asserted legal and other claims. However, the outcome
+of legal proceedings and claims brought against the Company is subject to significant uncertainty. Therefore, although management
+considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against the Company
+in a reporting period for amounts in excess of management’s expectations, the Company’s consolidated financial statements for
+that reporting period could be materially adversely affected.
+Apple Inc. I 2016 Form 10-K I 35

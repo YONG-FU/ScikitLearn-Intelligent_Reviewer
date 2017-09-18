@@ -1,0 +1,43 @@
+Table of Contents
+Strategy
+Our strategy consists primarily of two initiatives:
+- licensing our semiconductor packaging, circuitry, and interconnect technologies from Invensas and our Tessera, Inc. subsidiary to semiconductor
+companies and OSATS.
+- licensing our F otoNation image processing products to OEMs and platform providers.
+For our semiconductor business, we invest in the development of new advanced packaging and interconnect technologies to enable the next generation of mobile,
+consumer and computing products. Leveraging our extensive design, simulation and prototyping capability, we partner with leaders throughout the semiconductor
+ecosystem to develop, demonstrate, optimize and commercialize our technologies. As a component of our commercialization effort, we transfer our technologies to
+customer-selected manufacturing sites and OSATS.
+In addition, we have developed signiﬁcant capabilities in the technical analysis of intellectual property and its embodiment in commercial products. We generally
+encourage customers to broaden their adoption of (and license to) our array of innovative technologies in conjunction with licensing patented technologies from us.
+To increase the likelihood that our technologies are adopted, we lead with technology and then seek to negotiate reasonable royalties for our patented inventions.
+Successful negotiation of these royalties is generally dependent on
+- Explaining the benefits of new technology, including any size, power and performance benefits;
+- Explaining the value proposition over existing or alternative technologies;
+- Explaining the manufacturability of the technologies;
+0 Countering bias against externally developed solutions; and
+0 Providing technical and market data supporting the royalties we are seeking.
+Although we are engaged with and have licensed our technologies to many semiconductor companies, some of the companies that use our patented technologies
+have nonetheless chosen not to enter into license agreements with us. Consequently, we have necessarily developed signiﬁcant abilities to plan, to execute, and to
+sustain litigation activities. We view litigation as a tool to be used only when necessary and only when other business approaches have failed. Although we have
+settled a substantial majority of our outstanding litigation over the past several years, if we are unable to secure license agreements on favorable terms through
+negotiations, we might have to file new litigation to enforce our rights. See Part 1, Item 3- Legal Proceedings. We believe that holding a significant cash and cash
+equivalents position is essential to maintaining the credibility of our litigation capabilities.
+In our F otoNation image processing business, we have ongoing investment in world-class R&D supported by strong relationships with key OEMs and platform
+providers in consumer electronics. We have an assortment of powerful products and technologies, which we demonstrate to prospective customers to develop their
+interest in licensing those offerings from us. By combining proprietary hardware design with software development, we aim to offer advantages in both processing
+speed and low power, providing distinctive features to battery-powered devices, such as smartphones. We license our hardware designs to customers who, in turn,
+typically embed the hardware as modules within a larger chip. Our software typically runs on a microprocessor with capabilities that are augmented by our
+hardware within a customer’s system.
+Image processing integrates several advanced engineering and scientific disciplines, and the resulting products are of interest in a broad variety of application
+domains, ranging from cellphones to automotive, biometrics, photography, drones, robotics, and others. As such, we continue our ongoing development of strong
+technical and business relationships with both current and prospective customers across these diverse industries. Those customer relationships provide not only a
+source of ongoing and growing revenue but also insights into industry trends that help us build desirable products. We are aggressive in continuing to invent new
+technologies for image processing and object recognition, while staying apprised of potentially relevant technical advances from elsewhere.
+Competition
+We compete with internal design groups at semiconductor manufacturers, assemblers, and electronic component and system manufacturers, who may create their
+own packaging solutions that compete with our technologies that we license. We also face a form of competition known as royalty stacking. Royalty stacking
+refers to situations in which a single product potentially infringes on many patents, and thus may bear multiple royalty burdens. Our customers’ willingness and
+ability to pay reasonable royalties is, in part, affected by the number of patents infringed by a particular customer product, the concentration of the holders of those
+patents, the customer’s cost of licensing those patents, and the profitability of the infringing product. We
+6

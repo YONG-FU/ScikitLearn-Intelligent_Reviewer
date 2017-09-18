@@ -1,0 +1,47 @@
+These estimates are inherently uncertain and changes to our historical or projected warranty experience may cause material
+changes to our warranty reserve in the future. For the solar energy systems that we sell, we provide a warranty on the installation and
+components for periods typically between 10 to 30 years. The manufacturer’s warranty on the solar energy systems” components,
+which is typically passed-through to customers, ranges from 5 to 30 years. The portion of the warranty provision expected to be
+incurred within 12 months is classified as a current liability.
+Our warranty reserves do not include projected warranty costs associated with our vehicles and solar energy systems accounted
+for as operating leases or collateralized debt arrangements. Any costs to repair these vehicles and systems are expensed as incurred.
+Warranty expense is recorded as a component of cost of automotive revenue for Automotive related sale and cost of energy generation
+and storage revenue for solar energy and storage systems.
+Stock-Based Compensation
+We use the fair value method of accounting for our stock options and restricted stock units (RSUs) granted to employees and
+our Employee Stock Purchase Plan (ESPP) to measure the cost of employee services received in exchange for the stock-based awards.
+The fair value of stock options and ESPP are estimated on the grant date and offering date using the Black-Scholes option-pricing
+model. The fair value of RSUs is measured on the grant date based on the closing fair market value of our common stock. The
+resulting cost is recognized over the period during which an employee is required to provide service in exchange for the awards,
+usually the vesting period which is generally four years for stock options and RSUs and six months for the ESPP. Stock-based
+compensation expense is recognized on a straight-line basis, net of estimated forfeitures.
+The Black-Scholes option-pricing model requires inputs such as the risk-free interest rate, expected term and expected volatility.
+Further, the forfeiture rate also affects the amount of aggregate compensation. These inputs are subjective and generally require
+significant judgment.
+We estimate our forfeiture rate based on an analysis of our actual forfeiture experience and will continue to evaluate the
+appropriateness of the forfeiture rate based on actual forfeiture experience, analysis of employee turnover behavior and other factors.
+Quarterly changes in the estimated forfeiture rate can have a significant effect on reported stock-based compensation expense, as the
+cumulative effect of adjusting the rate for all expense amortization is recognized in the period the forfeiture estimate is changed. If a
+revised forfeiture rate is higher than the previously estimated forfeiture rate, an adjustment is made that will result in a decrease to the
+stock-based compensation expense recognized in the consolidated ﬁnancial statements. If a revised forfeiture rate is lower than the
+previously estimated forfeiture rate, an adjustment is made that will result in an increase to the stock-based compensation expense
+recognized in the consolidated ﬁnancial statements.
+As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our
+common stock, we may calculate significantly different volatilities, expected lives and forfeiture rates, which could materially impact
+the valuation of our stock-based awards and the stock-based compensation expense that we will recognize in future periods. Stock-
+based compensation expense is recorded in our cost of revenues, research and development expenses, and selling, general and
+administrative expenses.
+In August 2012, our Board of Directors granted 5,274,901 stock options to our CEO (the “2012 CEO Grant”). The 2012 CEO
+Grant consists of ten vesting tranches with a vesting schedule based entirely on the attainment of both performance conditions and
+market conditions, assuming continued employment and service to us through each vesting date.
+Each of the ten vesting tranches requires a combination of one of the ten pre—determined performance milestones and an
+incremental increase in our market capitalization of $4.0 billion, as compared to the initial market capitalization of $3.2 billion
+measured at the time of the 2012 CEO Grant.
+The term of the 2012 CEO Grant is ten years, so any tranches that remain unvested at the expiration of the 2012 CEO Grant will
+be forfeited. In addition, unvested options will be forfeited if our CEO is no longer in that role, whether for cause or otherwise.
+We measured the fair value of the 2012 CEO Grant using a Monte Carlo simulation approach with the following assumptions:
+risk-free interest rate of 1.65%, expected term of ten years, expected volatility of 55% and dividend yield of 0%.
+Stock-based compensation expense associated with the 2012 CEO Grant is recognized for each pair of performance and market
+conditions over the longer of the expected achievement period of the performance and market conditions, beginning at the point in
+time that the relevant performance condition is considered probable of being met.
+41

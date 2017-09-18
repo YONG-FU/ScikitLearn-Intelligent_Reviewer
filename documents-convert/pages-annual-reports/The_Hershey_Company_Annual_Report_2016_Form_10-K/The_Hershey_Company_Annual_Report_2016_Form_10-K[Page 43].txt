@@ -1,0 +1,48 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT [WARKE T RISK
+We use certain derivative instruments to manage our interest rate, foreign currency exchange rate and commodity price
+risks. We monitor and manage these exposures as part of our overall risk management program.
+We enter into interest rate swap agreements and foreign currency forward exchange contracts and options for periods
+consistent with related underlying exposures. We enter into commodities futures and options contracts and other
+derivative instruments for varying periods. These commodity derivative instruments are intended to be, and are
+effective as, economic hedges of market price risks associated with anticipated raw material purchases, energy
+requirements and transportation costs. We do not hold or issue derivative instruments for trading purposes and are not
+a party to any instruments with leverage or prepayment features.
+In entering into these contracts, we have assumed the risk that might arise from the possible inability of counterparties
+to meet the terms of their contracts. We mitigate this risk by entering into exchange-traded contracts with collateral
+posting requirements and/or by performing financial assessments prior to contract execution, conducting periodic
+evaluations of counterparty performance and maintaining a diverse portfolio of qualified counterparties. We do not
+expect any significant losses from counterparty defaults.
+Refer to Note 1 and Note 5 to the Consolidated Financial Statements for further discussion of these derivative
+instruments and our hedging policies.
+Interest Rate Risk
+In order to manage interest rate exposure, we may periodically enter into interest rate swap agreements including
+fixed-to-ﬂoating interest rate swaps to achieve a desired proportion of variable versus fixed rate debt based on current
+and projected market conditions and forward starting interest rate swap agreements to reduce interest volatility
+associated with certain anticipated debt issues. When utilized, the notional amount, interest payment and maturity date
+of these swaps generally match the principal, interest payment and maturity date of the related debt, and the swaps are
+valued using observable benchmark rates.
+The total notional amount of interest rate swaps outstanding at December 31, 2016 and 2015 was $350 million and
+$850 million, respectively. We had one forward starting interest rate swap agreement in a cash ﬂow hedging
+relationship with a notional amount of $500 million at December 31, 2015. This interest rate swap agreement was
+settled in connection with the issuance of debt in August 2016, resulting in a payment of approximately $87 million
+which is reﬂected within operating activities in the Consolidated Statement of Cash Flows. The notional amount at
+December 31, 2016 and 2015 includes $350 million of fixed-to-ﬂoating interest rate swaps that convert a comparable
+amount of fixed-rate debt to variable-rate debt. A hypothetical 100 basis point increase in interest rates applied to this
+now variable-rate debt as of December 31, 2016 would have increased interest expense by approximately $3.6 million
+for the full year 2016 and 2015, respectively.
+We consider our current risk related to market ﬂuctuations in interest rates on our remaining debt portfolio, excluding
+fixed-rate debt converted to variable rates with fixed-to-ﬂoating instruments, to be minimal since this debt is largely
+long-term and fixed-rate in nature. Generally, the fair market value of fixed-rate debt will increase as interest rates fall
+and decrease as interest rates rise. A 100 basis point increase in market interest rates would decrease the fair value of
+our fixed-rate long-term debt at December 31, 2016 and December 31, 2015 by approximately $142 million and $76
+million, respectively. However, since we currently have no plans to repurchase our outstanding fixed-rate instruments
+before their maturities, the impact of market interest rate ﬂuctuations on our long-term debt does not affect our results
+of operations or financial position.
+Foreign Currency Exchange Rate Risk
+We are exposed to currency ﬂuctuations related to manufacturing or selling products in currencies other than the US.
+dollar. We may enter into foreign currency forward exchange contracts and options to reduce ﬂuctuations in our long
+or short currency positions relating primarily to purchase commitments or forecasted purchases for equipment, raw
+materials and finished goods denominated in foreign currencies. We also may hedge payment of forecasted
+intercompany transactions with our subsidiaries outside of the United States. We generally hedge foreign currency
+price risks for periods from 3 to 12 months.
+4 1

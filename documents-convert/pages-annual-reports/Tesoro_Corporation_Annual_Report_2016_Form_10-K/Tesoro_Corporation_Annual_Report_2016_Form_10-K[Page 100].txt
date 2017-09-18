@@ -1,0 +1,38 @@
+[ WEED GONSOA WWW-Em ]
+With the acquisition of Virent, we acquired federal and state Net Operating Losses ("NOLs”), as well as federal and state credit carryforwards. We have
+recorded a valuation allowance as of December 31, 2016 for most of the federal NOLs, all of the state NOLs, and all of the acquired federal and state credit
+carryforwards due to certain tax restrictions placed on Virent’s carryovers after the change in control. Further, we continue to have a valuation allowance on
+other state credit carryforwards, which after estimating future taxable income in various jurisdictions, we believe will expire unused. The valuation allowance
+reduces the beneﬁt of the credit carryforwards to the amount that will more likely than not be realized. The realization of our other deferred tax assets depends
+on Tesoro’s ability to generate future taxable income. Although realization is not assured, we believe it is more likely than not that we will realize those deferred
+tax assets.
+We adopted ASU 2016-09 as of January 1, 2016, which resulted in a $16 million reduction in our income tax provision for the year. See Note 1 for further
+discussion.
+RECONCILIATION OF INCOME TAX EXPENSE FROM CONTINUING OPERATIONS (in millions)
+Years Ended December 31,
+2016 2015 2014
+Income tax expense at US. federal statutory rate $ 447 $ 921 $ 512
+Effect of:
+State income taxes, net of federal income tax effect 45 105 59
+Manufacturing activities deduction (5) (43) (21)
+Earnings attributable to noncontrolling interest (44) (53) (16)
+Excess tax benefits from stock-based compensation arrangements (16) — —
+Other — 6 13
+Income Tax Expense $ 427 $ 936 $ 547
+INCOME TAX CREDIT AND LOSS CARRYFORWARDS AS OF DECEMBER 31, 2016 (in millions)
+Amount Expiration
+Federal NOLs $ 58 2027 - 2036
+Federal income tax credits $ 1 2026 - 2033
+State NOLs $ 53 2027 - 2036
+State income tax credits $ 12 2017 - 2028
+We are subject to income taxes in the U.S., multiple state jurisdictions, and a few foreign jurisdictions. Our unrecognized tax beneﬁts totaled $182 million
+and $181 million as of December 31, 2016 and 2015, respectively, of which $6 million and $5 million each year have been recognized as tax liabilities. Included
+in unrecognized tax beneﬁts as of both December 31, 2016 and 2015 are $172 million (net of the tax benefit on state issues), which would reduce the effective
+tax rate if recognized.
+It is reasonably possible that unrecognized tax beneﬁts could decrease by as much as $13 million in the next twelve months, related primarily to state
+apportionment matters, none of which is recognized as a liability. We had accrued $2 million at both December 31, 2016 and 2015, respectively, for interest and
+penalties. We did not recognize an increase or reduction in interest and penalties associated with unrecognized tax beneﬁts during the years ended
+December 31, 2016, 2015, or 2014. For interest and penalties relating to income taxes we recognize accrued interest in net interest and ﬁnancing costs and
+penalties in selling, general and administrative expenses in the statements of consolidated operations. The tax years 2009 forward remain open to examination
+by the Federal and State taxing authorities, except for California, which remains open from the year 2006.
+December 31, 2016 | 95

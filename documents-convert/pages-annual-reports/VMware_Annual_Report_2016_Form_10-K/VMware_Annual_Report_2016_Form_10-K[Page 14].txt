@@ -1,0 +1,47 @@
+Iablre,of,C,ontents
+private and hybrid cloud solutions and our client virtualization and mobile device management solutions. As the market for our server virtualization products
+continues to mature, and the scale of our business has increased, our rate of revenue growth increasingly depends upon the success of our newer product and
+service offerings. To the extent that our emerging products and services are adopted more slowly than revenue growth in our established server virtualization
+offerings declines, our revenue growth rates may slow materially or our revenue may decline substantially, we may fail to realize returns on our investments in new
+initiatives and our operating results could be materially adversely affected.
+A signiﬁcant decrease in demand for our server virtualization products would adversely affect our operating results.
+A significant portion of our revenue is derived, and will for the foreseeable future continue to be derived, from our server virtualization products. As more and
+more businesses achieve high levels of virtualization in their data centers, the market for our VMware vSphere product continues to mature. Additionally, as
+businesses increasingly utilize public cloud and SaaS-based offerings, they are building more of their new compute workloads off-premises and may also shift
+some of their existing workloads to public cloud providers, thereby limiting growth, and potentially reducing, the market for on-premises deployments of VMware
+vSphere. Although sales of VMware vSphere have declined as a portion of our overall business, and we expect this trend to continue, VMware vSphere remains
+key to our future growth, as it serves as the foundation for our newer SDDC, network virtualization and our planned new cross-cloud offerings. Although we are
+deve10ping products to extend our vSphere-based SDDC offerings to the public cloud due to our product concentration, a significant decrease in demand for our
+server virtualization products would adversely affect our operating results.
+We face intense competition that could adversely affect our operating results.
+The virtualization, cloud computing, end-user computing and software-defined data center industries are interrelated and rapidly evolving, and we face intense
+competition across all the markets for our products and services. Many of our current or potential competitors have longer operating histories, greater name
+recognition, larger customer bases and significantly greater financial, technical, sales, marketing and other resources than we do. Additionally, the adoption of
+public cloud, micro-services, containers, and open source technologies has the potential to erode our profitability.
+We face competition from, among others:
+Providers of public cloud infrastructure and SaaS-based offerings. As businesses increasingly utilize public cloud and SaaS-based offerings, they are building
+more of their new compute workloads off-premises and may also shift some of their existing workloads. As a result, the demand for on-premises IT resources is
+expected to slow, and our products and services will need to increasingly compete for customers’ IT workloads with off-premises public cloud and SaaS-based
+offerings. If we fail to develop products and services that address evolving customer requirements and that complement and or compete with off-premises compute
+resources offered by competitors, the demand for VMware’s virtualization products and services may decline, and we could experience lower growth.
+Additionally, vCloud Air Network offerings from our partners and certain vCloud Air offerings may compete directly with infrastructure-as-a service (“IaaS”)
+offerings from various public cloud providers such as Amazon Web Services (“AWS”) and Microsoft. In October 2016, we announced a strategic alliance with
+AWS to deliver a vSphere-based cloud service running on AWS. Although we expect our strategic alliance to provide significant advantages to customers when it
+is generally available, our strategic alliance with Amazon and our vCloud Air Network offerings from our other partners may not prevent or completely offset a
+decline in demand for our virtualization products and services. Our strategic alliance with Amazon may also be seen as competitive with vCloud Air Network
+offerings and adversely affect our relationship with vCloud Air Network partners.
+Large, diversiﬁed enterprise software and hardware companies . These competitors supply a wide variety of products and services to, and have well-
+established relationships with, our current and prospective end users. For example, small- to medium-sized businesses and companies in emerging markets that are
+evaluating the adoption of virtualization-based technologies and solutions may be inclined to consider Microsoft solutions because of their existing use of
+Windows and Ofﬁce products. Some of these competitors have in the past and may in the future take advantage of their existing relationships to engage in business
+practices that make our products and services less attractive to our end users. Other competitors have limited or denied support for their applications running in
+VMware virtualization environments. In addition, these competitors could integrate competitive capabilities into their existing products and services and make
+them available without additional charge. For example, Oracle provides free server virtualization software intended to support Oracle and non-Oracle applications,
+and Microsoft offers its own server, network and storage virtualization software packaged with its Windows Server product and offers built-in virtualization in the
+client version of Windows. As a result, existing and prospective VMware customers may elect to use products that are perceived to be “free” or “very low cost”
+instead of purchasing VMware products and services for certain applications where they do not believe that more advanced and robust capabilities are required.
+Companies offering competing platforms based on open source technologies . Open source technologies for virtualization, containerization and cloud
+platforms such as Xen, KVM, Docker, Rocket and OpenStack appear to provide pricing competition and enable competing vendors to leverage these open source
+technologies to compete directly with our SDDC initiative. Enterprises and service providers have shown interest in building their own clouds based on open
+source projects such as
+1 3

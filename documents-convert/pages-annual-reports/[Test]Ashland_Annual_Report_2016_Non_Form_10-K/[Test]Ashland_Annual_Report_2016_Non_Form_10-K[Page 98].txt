@@ -1,0 +1,45 @@
+NOTE A — SIGNIFICANT ACCOUNTING POLICIES (continued)
+with the customer and changes in customer payment terms when determining whether the collection of a receivable is reasonably
+assured. Past due balances over 90 days and over a specified amount are reviewed individually for collectibility. The allowance
+for doubtful accounts is adjusted when it becomes probable a receivable will not be recovered.
+A progression of activity in the allowance for doubtful accounts is presented in the following table.
+(In millions) 2016 2015 2014
+Allowance for doubtful accounts - beginning of year EB 11 $ 13 $ 12
+Adjustments to net income 5 2 5
+Reserves utilized (2) (3) (4)
+Other changes 7 — (1) —7
+Allowance for doubtful accounts - end of year $ 14 : 77$ 11 : 77$ 13
+Inventories
+Inventories are carried at the lower of cost or market. Inventories are primarily stated at cost using the weighted—average cost
+method. In addition, certain chemicals and lubricants with a replacement cost of $162 million at September 30, 2016 and $170
+million at September 30, 2015 are valued at cost using the last-in, first-out (LIFO) method.
+The following summarizes Ashland’s inventories as of the Consolidated Balance Sheet dates.
+(In millions) 2016 2015
+Finished products 39 516 $ 542 7
+Raw materials, supplies and work in process 184 198
+LIFO reserves (29) (34)
+j$ 671 j$ 706i
+A progression of activity in the inventory reserves, which reduce the amounts of finished products and raw materials, supplies
+and work in process reported, is presented in the following table.
+(In millions) 2016 2015 2014 7
+Inventory reserves - beginning of year $ 35 $ 53 $ 59 7
+Adjustments to net income 6 9 4
+Reserves utilized (5) (6) (10)
+Dispositions and other changes — (21) —
+Inventory reserves - end of year 77$ 36 i 77$ 35 i 77$ 53 i
+Property, plant and equipment
+The cost of property, plant and equipment is depreciated by the straight-line method over the estimated useful lives of the
+assets. Buildings are depreciated principally over 25 to 35 years and machinery and equipment principally over 2 to 25 years. Such
+costs are periodically reviewed for recoverability when impairment indicators are present. Such indicators include, among other
+factors, operating losses, unused capacity, market value declines and technological obsolescence. Recorded values of asset groups
+of property, plant and equipment that are not expected to be recovered through undiscounted future net cash ﬂows are written
+down to current fair value, which generally is determined from estimated discounted future net cash ﬂows (assets held for use) or
+net realizable value (assets held for sale).
+Goodwill and other intangibles
+Ashland tests goodwill and other indefinite-lived intangible assets for impairment annually as of July 1 and when events and
+circumstances indicate an impairment may have occurred. Ashland reviews goodwill for impairment based on its identiﬁed
+reporting units, which are defined as operating segments or groupings of businesses one level below the operating segment
+level. Ashland tests goodwill for impairment by comparing the carrying value to the estimated fair value of its reporting units,
+determined using a combination of discounted cash ﬂow models and valuations based on earnings multiples for guideline public
+companies in each reporting unit’s industry peer group, when externally quoted market prices are not readily available. If this
+F-11

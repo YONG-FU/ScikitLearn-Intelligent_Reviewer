@@ -1,0 +1,49 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 1: Overview and Summary of Signiﬁcant Accounting Policies (Continued)
+Costs to produce advertising are expensed as incurred during production. Costs to communicate advertising are expensed
+when the advertising is first run. Such costs totaled approximately $586 million in fiscal year 2016, $635 million in fiscal year
+2015 and $614 million in fiscal year 2014.
+Restructuring and Other Charges
+HP records charges associated with management-approved restructuring plans to reorganize one or more of HP’s business
+segments, to remove duplicative headcount and infrastructure associated with business acquisitions or to simplify business
+processes and accelerate innovation. Restructuring charges can include severance costs to eliminate a specified number of
+employees, infrastructure charges to vacate facilities and consolidate operations, and contract cancellation costs. HP records
+restructuring charges based on estimated employee terminations and site closure and consolidation plans. HP accrues for
+severance and other employee separation costs under these actions when it is probable that benefits will be paid and the amount
+is reasonably estimable. The rates used in determining severance accruals are based on existing plans, historical experiences
+and negotiated settlements. Other charges include non-recurring costs that are distinct from ongoing operational costs such as
+information technology costs incurred in connection with the Separation.
+Taxes on Earnings
+HP recognizes deferred tax assets and liabilities for the expected tax consequences of temporary differences between the
+tax bases of assets and liabilities and their reported amounts using enacted tax rates in effect for the year the differences are
+expected to reverse. HP records a valuation allowance to reduce the deferred tax assets to the amount that is more likely than
+not to be realized.
+HP records accruals for uncertain tax positions when HP believes that it is not more likely than not that the tax position
+will be sustained on examination by the taxing authorities based on the technical merits of the position. HP makes adjustments
+to these accruals when facts and circumstances change, such as the closing of a tax audit or the refinement of an estimate. The
+provision for income taxes includes the effects of adjustments for uncertain tax positions, as well as any related interest and
+penalties.
+Accounts Receivable
+HP establishes an allowance for doubtful accounts for accounts receivable. HP records a specific reserve for individual
+accounts when HP becomes aware of specific customer circumstances, such as in the case of a bankruptcy filing or
+deterioration in the customer ’5 operating results or financial position. If there are additional changes in circumstances related to
+the specific customer, HP further adjusts estimates of the recoverability of receivables. HP maintains bad debt reserves for all
+other customers based on a variety of factors, including the use of third-party credit risk models that generate quantitative
+measures of default probabilities based on market factors, the financial condition of customers, the length of time receivables
+are past due, trends in the weighted-average risk rating for the portfolio, macroeconomic conditions, information derived from
+competitive benchmarking, significant one-time events and historical experience. The past due or delinquency status of a
+receivable is based on the contractual payment terms of the receivable.
+HP has third-party short-term financing arrangements intended to facilitate the working capital requirements of certain
+customers. These financing arrangements, which in certain cases provide for partial recourse, result in the transfer of HP’s trade
+receivables to a third party. HP reﬂects amounts transferred to, but not yet collected from, the third party in accounts receivable
+in the Consolidated Balance Sheets. For arrangements involving an element of recourse, the fair value of the recourse
+obligation is measured using market data from similar transactions and reported as a current liability in the Consolidated
+Balance Sheets.
+Concentrations of Risk
+Financial instruments that potentially subject HP to significant concentrations of credit risk consist principally of cash and
+cash equivalents, investments, receivables from trade customers and contract manufacturers and derivatives.
+HP maintains cash and cash equivalents, investments, derivatives and certain other financial instruments with various
+financial institutions. These financial institutions are located in many diﬁerent geographic regions, and HP’s policy is designed
+65

@@ -1,0 +1,43 @@
+200 countries all over the world. Buyers are typically trade agents, wholesalers, retailers, manufacturers and SMEs
+engaged in the import and export business.
+Through OneTouch, an Internet-based integrated services platform, we offer members of Alibaba.com and
+other SMEs services relating to import/export transactions, including customs clearance, VAT refund, trade
+financing and logistics. In the twelve months ended March 31, 2016, OneTouch processed over US$15 billion in
+import/export transaction volume. In 2015, Alibaba.com began offering Trade Assurance, a service through which
+we will compensate a buyer for damages arising from a seller’s breach of contract terms. The amount of coverage
+is based on the seller’s credit profile generated from data on our platforms. As of March 31, 2016, Alibaba.com
+had over 137,000 paying members.
+Lazada
+We acquired a controlling stake in Lazada, a leading e-commerce platform across Southeast Asia, in
+April 2016. Lazada operates e-commerce platforms in Indonesia, Malaysia, the Philippines, Singapore, Thailand
+and Vietnam, with local language websites and mobile apps in each of the six markets. Lazada offers third-party
+brands and merchants a marketplace solution with simple and direct access to consumers in these six countries
+through one retail channel. Lazada also sells products owned by its retail operations. It has developed its own
+logistics infrastructure with warehouses and a last-mile delivery ﬂeet to offer quick and reliable delivery to its
+customers. According to Internet Live Stats’ estimates, the six countries in which Lazada operates have a combined
+population of approximately 560 million and an Internet user base of approximately 200 million in 2016.
+Cloud Computing
+Alibaba Cloud is China’s largest provider of public cloud services in 2015 by revenue, according to IDC. The
+technologies that power Alibaba Cloud grew out of our own need to operate the massive scale and complexity of
+our core commerce business. In 2009, we founded Alibaba Cloud to make these technologies available for third-
+party customers.
+Alibaba Cloud offers a complete suite of cloud services, including elastic computing, database, storage and
+content delivery network (CDN), large scale computing, security and management and application services.
+Products that differentiate Alibaba Cloud from our domestic peers include proprietary security and middleware
+products, large scale computing services and analytic capabilities provided by our big data platform. These products
+enable customers to build IT infrastructure quickly on-line without having to work on-premise.
+We offer our cloud computing services to merchants doing business on our marketplaces, start-ups,
+corporations and government organizations. We charges fees that are primarily based on time and usage. As of
+March 31, 2016, Alibaba Cloud had over 2.3 million customers, including over 500,000 paying customers.
+Customers, including China Railway, Weibo and Beijing Genomics Institute, use our elastic computing services,
+security and artificial intelligence capabilities for data storage, transmission and analysis. Customers, such as
+Sinopec and BYD, also use our middleware services to upgrade their application infrastructures. Entertainment
+platforms, including CCTV and Mango TV, use our content delivery networks for live and on-demand video
+business. China Customs and China Meteorological Administration use our big data solutions to improve
+efficiency.
+Our cloud computing platform supported our annual Singles Day promotion when record traffic and
+transactions occur. On Singles Day in 2015, Alibaba Cloud successfully processed peak transactions of
+140,000 orders per second, demonstrating the platform’s reliability and scalability. Alibaba Cloud’s distributed
+computation framework, FuxiSort, set new world records in the Sort Benchmark contest in 2015, a further
+demonstration of our leadership in general-purpose computing systems.
+72

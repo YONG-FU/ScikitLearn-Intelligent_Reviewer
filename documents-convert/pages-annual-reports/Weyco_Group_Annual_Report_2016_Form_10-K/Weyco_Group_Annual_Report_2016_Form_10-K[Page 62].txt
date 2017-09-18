@@ -1,0 +1,46 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+17. STOCK-BASED COMPENSATION PLANS — (continued)
+stock awards granted in the years 2013 through 2016 which is expected to be recognized over the
+weighted-average remaining vesting period of 2.7 years.
+The following weighted-average assumptions were used to determine compensation expense
+related to stock options in 2016, 2015 and 2014:
+2016 2015 2014
+Risk-free interest rate . . . . . . . . . . . . . . . . . . . 1.09% 1.36% 1.45%
+Expected dividend yield . . . . . . . . . . . . . . . . . 3.29% 3.12% 2.81%
+Expectedterm 4.3years 4.3years 4.3years
+Expected volatility ..................... 21.3% 21.6% 17.8%
+The risk-free interest rate is based on US. Treasury bonds with a remaining term equal to the
+expected term of the award. The expected dividend yield is based on the Company’s expected
+annual dividend as a percentage of the market value of the Company’s common stock in the year of
+grant. The expected term of the stock options is determined using historical experience. The
+expected volatility is based upon historical stock prices over the most recent period equal to the
+expected term of the award.
+The following tables summarize stock option activity under the Company’s plans:
+Stock Options
+Years ended December 31,
+2016 2015 2014
+Weighted Weighted Weighted
+Average Average Average
+Exercise Exercise Exercise
+Stock Options Shares Price Shares Price Shares Price
+Outstanding at beginning of
+year . . . . . . . . . . . . . . . . . . 1,351,826 $26.09 1,355,416 $25.36 1,260,866 $24.41
+Granted . . . . . . . . . . . . . . . . . 277,800 25.51 299,700 25.64 331,600 27.04
+Exercised . . . . . . . . . . . . . . . . (123,294) 24.28 (279,090) 22.02 (218,150) 22.37
+Forfeited or expired . . . . . . . . (20,075) 26.52 (24,200) 26.58 (18,900) 25.71
+Outstanding at end of year . . . 1,486,257 $26.13 1,351,826 $26.09 1,355,416 $25.36
+Exercisable at end of year . . . 762,132 $26.07 594,906 $25.55 603,834 $23.66
+Weighted average fair market
+value of options granted . . . $ 3.05 $ 3.30 $ 2.93
+Weighted Average
+Remaining
+Contractual Life Aggregate
+(in Years) Intrinsic Value
+Outstanding — December 31, 2016 . . . . . . . . . . 3.6 $7,686,000
+Exercisable — December 31, 2016 . . . . . . . . . . 2.6 $3,989,000
+The aggregate intrinsic value of outstanding and exercisable stock options is defined as the
+difference between the market value of the Company’s stock on December 30, 2016 of $31.30 and
+the exercise price multiplied by the number of in-the-money outstanding and exercisable stock
+opﬁons.
+58

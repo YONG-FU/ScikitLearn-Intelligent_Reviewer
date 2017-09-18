@@ -1,0 +1,41 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 6: Stock-Based Compensation (Continued)
+In fiscal year 2015, HP assumed approximately 8 million shares of restricted stock units through acquisition with a
+weighted-average grant date fair value of $33 per share.
+The total grant date fair value of restricted stock awards vested in fiscal years 2016, 2015 and 2014 was $54 million, $889
+million and $338 million, respectively. As of October 31, 2016, total unrecognized pre-tax stock-based compensation expense
+related to non-vested restricted stock awards for continuing operations was $180 million, which is expected to be recognized
+over the remaining weighted-average vesting period of 1.4 years.
+Stock Options
+HP utilizes the Black-Scholes—Merton option pricing formula to estimate the fair value of stock options subject to service-
+based vesting conditions. HP estimates the fair value of stock options subject to performance-contingent vesting conditions
+using a combination of a Monte Carlo simulation model and a lattice model as these awards contain market conditions. The
+weighted-average fair value and the assumptions used to measure fair value were as follows:
+For the ﬁscal years ended
+7 October 31 7
+7 2016 2015 2014 ’
+{Weighted-average fair value“) $ 4 $ 8 $ 7 1
+Expected volatilitym 36.2% 26.8% 33.1%
+{Risk-free interest rate” 1.8% 1.7% 1.8%}
+Expected dividend yield“) 3.5% 1.8% 2.1%
+I Expected term in years(5) 6.0 5.9 5.7 l
+(I) The weighted-average fair value was based on stock options granted during the period.
+(2) For all awards granted in fiscal year 2016, expected volatility was estimated using the leverage-adjusted average of the
+term-matching volatilities of peer companies due to the lack of volume of forward traded options, which precluded the use
+of implied volatility. For all awards granted in fiscal year 2015, expected volatility was estimated using the implied
+volatility derived from options traded on HP’s common stock. For awards granted in fiscal year 2014, expected volatility
+for awards subject to service-based vesting was estimated using the implied volatility derived from options traded on HP’s
+common stock, whereas for performance-contingent awards, expected volatility was estimated using the historical
+volatility of HP’s common stock.
+(3) The risk-free interest rate was estimated based on the yield on US. Treasury zero-coupon issues.
+(4) The expected dividend yield represents a constant dividend yield applied for the duration of the expected term of the
+award.
+(5) For awards subject to service-based vesting, due to the lack of historical exercise and post-vesting termination patterns of
+the post—Separation employee base, the expected term was estimated using a simplified method for all awards granted in
+fiscal year 2016 and the expected term was estimated using historical exercise and post-vesting termination patterns for all
+awards granted in fiscal years 2015 and 2014; and for performance-contingent awards, the expected term represents an
+output from the lattice model.
+A summary of stock options activity is as follows:
+87

@@ -1,0 +1,46 @@
+Non-GAAP financial information
+This MD&A includes references to free cash flow and ratios based on that measure. These are financial measures that were not
+prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated
+by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also
+referred to as cash flow from operations). We believe that free cash flow and the associated ratios provide insight into our liquidity,
+our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our
+financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures. Reconciliation to the most
+directly comparable GAAP-based measures is provided in the table below.
+For Years Ended December 31, :5
+2016 2015 2014 g
+Cashflowfromoperations(GAAP) $ 4,614 $ 4,397 $ 4,054 5
+Capitalexpenditures..................................................... (531) (551) (385) g
+Freecashflow(non-GAAP)................................................. $ 4,033 $ 3,846 $ 3,669 "'
+Revenue $13,370 $13,000 $13,045
+Cash flow from operations as a percent of revenue (GAAP) . . . . . . . . . . . . . . . . . . . . . . . . . 34.5% 33.8% 31.1%
+Free cash flow as a percent of revenue (non-GAAP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30.5% 29.6% 28.1%
+Long-term contractual obligations
+Payments Due by Period
+Contractual Obligations 2017 2018/2019 2020/2021 Thereafter Total
+Long-termdebt(a)....................................... $692 $1,350 $806 $1,021 $3,869
+Purchasecommitments(b)................................ 132 173 26 5 336
+0peratingleases(c)...................................... 67 75 41 57 240 I
+Deferredcompensationplans(d)............................ 18 38 37 99 192
+$909 $1,636 $910 $1,182 $4,637
+(a) Includes the related interest payments and amounts classified as the current portion of long-term debt, specifically
+obligations that will mature within 12 months.
+(b) Includes payments for software licenses and contractual arrangements with suppliers where there is a fixed, non-cancellable
+payment schedule or minimum payments due with a reduced delivery schedule. Excluded from the table are cancellable
+arrangements. However, depending on when certain purchase arrangements may be cancelled, an additional $3 million of
+cancellation penalties may be required to be paid, which are not reflected in the table.
+(c) Includes minimum payments for leased facilities and equipment and purchases of industrial gases under contracts accounted
+for as operating leases.
+(d) Includes an estimate of payments for certain liabilities that existed at December 31, 2016.
+(e) Excluded from the table are $243 million of uncertain tax liabilities under A80 740, as well as any planned future funding
+contributions to retirement benefit plans. Amounts associated with uncertain tax liabilities have been excluded because of the
+difficulty in making reasonably reliable estimates of the timing of cash settlements with the respective taxing authorities.
+Regarding future funding of retirement benefit plans, we plan to contribute about $100 million in 2017, but funding
+projections beyond 2017 are not practical to estimate due to the rules affecting tax-deductible contributions and the impact
+from the plans’ asset performance, interest rates and potential U.S. and non-U.S. legislation.
+Critical accounting policies
+In preparing our consolidated financial statements in conformity with accounting principles generally accepted in the United States,
+we use statistical analyses, estimates and projections that affect the reported amounts and related disclosures and may vary from
+actual results. We consider the following accounting policies to be those that are most important to the portrayal of our financial
+condition and that require the most subjective judgment. If actual results differ significantly from management’s estimates and
+projections, there could be a significant effect on our financial statements.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 21

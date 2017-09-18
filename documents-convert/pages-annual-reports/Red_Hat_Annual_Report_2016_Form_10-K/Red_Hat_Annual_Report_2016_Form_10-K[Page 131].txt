@@ -1,0 +1,23 @@
+EXHIBIT 32.1
+CERTIFICATIONS OF JAMES M. WHITEHURST, PRESIDENT AND EXECUTIVE
+OFFICER, AND FRANK A. CALDERON I, EXECUTIVE VICE PRESIDENT, OPERATIONS AND
+CHIEF FINANCIAL OFFICER, PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED
+PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+Each of the undersigned hereby certifies, for the purposes of section 1350 of chapter 63 of title 18 of the
+United States Code, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, in his capacity as an
+ofﬁcer of Red Hat, Inc. (“Red Hat”), that, to his knowledge, the Annual Report of Red Hat on Form 10-K for the
+year ended February 29, 2016 (the “Report”), as filed with the Securities and Exchange Commission, fully
+complies with the requirements of Section 13(a) of the Securities and Exchange Act of 1934 and that the
+information contained in the Report fairly presents, in all material respects, the financial condition and results of
+operations of Red Hat.
+Date: April 26, 2016
+By: /s/ JAMES M. WHITEHURST
+James M. Whitehurst
+President and Chief Executive Ofﬁcer
+(Principal Executive Ofﬁcer)
+Date: April 26, 2016
+By: /S/ FRANK A. CALDERONI
+Frank A. Calderoni
+Executive Vice President, Operations and Chief
+Financial Ofﬁcer
+(Principal Financial Ofﬁcer)

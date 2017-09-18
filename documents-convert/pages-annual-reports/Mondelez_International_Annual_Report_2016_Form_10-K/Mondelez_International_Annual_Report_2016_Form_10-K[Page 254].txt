@@ -1,0 +1,34 @@
+Each Lender that sells a participation shall, acting solely for this purpose as a non-fiduciary agent of the relevant Borrower, maintain a register on
+which it enters the name and address of each participant and the principal and interest amounts of each participant’s interest in the Advances or other obligations
+under this Agreement (the “ ParticipantRegisteri”). The entries in the Participant Register shall be conclusive absent manifest error, and such Lender shall treat
+each person whose name is recorded in the Participant Register as the owner of such participation for all purposes of this Agreement notwithstanding any notice to
+the contrary. No Lender shall have any obligation to disclose all or any portion of a Participant Register to any Person (including the identity of any Participant or
+any information relating to a Participant’s interest in any Commitments, Advances or its other Obligations under this Agreement) except to the extent that such
+disclosure is necessary to establish that such Commitment, Advance or other Obligation is in registered form under Section 5f.103(c) of the United States Treasury
+Regulations or, if different, under Sections 871(h) or 881(0) of the Code.
+(f) Disclosureon Information. Any Lender may, in connection with any assignment or participation or proposed assignment or participation
+pursuant to this Section 9.07, disclose to the assignee or participant or pr0posed assignee or participant, any information relating to Mondeléz or any Borrower
+furnished to such Lender by or on behalf of Mondeléz or any Borrower; provided that, prior to any such disclosure, the assignee or participant or proposed assignee
+or participant shall agree to preserve the confidentiality of any confidential information relating to Mondeléz or any Borrower or any of their respective Subsidiaries
+received by it from such Lender.
+(g) Regulation A Security Interest . Notwithstanding any other provision set forth in this Agreement, any Lender may at any time create a security
+interest in all or any portion of its rights under this Agreement (including, without limitation, the Advances owing to it and any Note or Notes held by it) in favor of
+any Federal Reserve Bank or central bank performing similar functions in accordance with applicable law.
+(h) RieplacementofLenders. In the event that (i) any Lender shall have delivered a notice pursuant to Section 2.13, (ii) any Borrower shall be
+required to make additional payments to or for the account of any Lender under Section 2.12 or 2.15, (iii) any Lender (a “ Non;Consenting,Lenden”) shall withhold
+its consent to any amendment that requires the consent of all the Lenders and that has been consented to by the Required Lenders or (iv) any Lender shall become a
+Defaulting Lender, Mondeléz shall have the right, at its own expense, upon notice to such Lender and the Administrative Agent, (A) to terminate the Commitment
+of such Lender or (B) to require such Lender to transfer and assign at par and without recourse (in accordance with and subject to the restrictions contained in
+Section 9.07) all its interests, rights and obligations under this Agreement to one or more other ﬁnancial institutions acceptable to Mondeléz and approved by the
+Administrative Agent (such approval not to be unreasonably withheld or delayed), which shall assume such obligations; provided , that (x) in the case of any
+replacement of a Non-Consenting Lender, each assignee shall have consented to the relevant amendment, (y) no such termination or assignment shall conﬂict with
+any law or any rule, regulation or order of any Governmental Authority and (z) the Borrowers or the assignee (or assignees), as the case may be, shall pay to each
+affected Lender in immediately available funds on the date of such termination or assignment the principal of and interest accrued to the date of payment on the
+Advances made by it hereunder and all other amounts accrued for its account or owed to it hereunder. Mondeléz will not have the right to terminate the
+commitment of any Lender, or to require any Lender to assign its rights and interests hereunder, if, prior to such termination or assignment, as a result of a waiver
+by such Lender or otherwise, the circumstances entitling Mondeléz to require such termination or assignment cease to apply. Each Lender agrees that, if Mondeléz
+elects to replace such Lender in accordance with this Section 9.07, it shall promptly execute and deliver to the Administrative Agent an Assignment and Acceptance
+to evidence the assignment and shall deliver to the Administrative Agent any Note (if Notes have been issued in respect of such Lender’s Advances) subject to such
+Assignment and Acceptance; providedthat the failure of any such Lender to execute an Assignment and Acceptance shall not render such assignment invalid and
+such assignment shall be recorded in the Register.
+-5 8-

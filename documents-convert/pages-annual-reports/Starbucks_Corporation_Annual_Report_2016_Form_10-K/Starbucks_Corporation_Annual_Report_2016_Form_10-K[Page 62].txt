@@ -1,0 +1,52 @@
+expense equal to the present value of the remaining lease payments to the landlord less any projected sublease income at the
+cease-use date.
+Lease Financing Arrangements
+We are sometimes involved in the construction of leased buildings, primarily stores. When we qualify as the deemed owner of
+these buildings due to significant involvement during the construction period under build-to-suit lease accounting requirements
+and do not qualify for sales recognition under sales-leaseback accounting guidance, we record the cost of the related buildings
+in property, plant and equipment. The offsetting lease financing obligations are recorded in other long-term liabilities, with the
+current portion recorded in in accrued occupancy costs within accrued liabilities on our consolidated balance sheets. These
+assets and obligations are amortized in depreciation and amortization and interest expense, respectively, on our consolidated
+statements of earnings based on the terms of the related lease agreements.
+Asset Retirement Obligations
+We recognize a liability for the fair value of required asset retirement obligations ("ARO") when such obligations are incurred.
+Our AROs are primarily associated with leasehold improvements, which, at the end of a lease, we are contractually obligated to
+remove in order to comply with the lease agreement. At the inception of a lease with such conditions, we record an ARO
+liability and a corresponding capital asset in an amount equal to the estimated fair value of the obligation. We estimate the
+liability using a number of assumptions, including store closing costs, cost inﬂation rates and discount rates, and accrete the
+liability to its projected future value over time. The capitalized asset is depreciated using the same depreciation convention as
+leasehold improvement assets. Upon satisfaction of the ARO conditions, any difference between the recorded ARO liability and
+the actual retirement costs incurred is recognized as a gain or loss in cost of sales including occupancy costs on our
+consolidated statements of earnings. As of October 2, 2016 and September 27, 2015, our net ARO assets included in property,
+plant and equipment were $9.3 million and $5.8 million, respectively, and our net ARO liabilities included in other long-term
+liabilities were $67.9 million and $60.1 million, respectively. .
+Stock-based Compensation
+We maintain several equity incentive plans under which we may grant non-qualified stock options, incentive stock options,
+restricted stock, restricted stock units ("RSUs") or stock appreciation rights to employees, non-employee directors and
+consultants. We also have an employee stock purchase plan ("ESPP"). RSUs issued by us are equivalent to nonvested shares
+under the applicable accounting guidance. We record stock-based compensation expense based on the fair value of stock
+awards at the grant date and recognize the expense over the related service period following a graded vesting expense schedule.
+Expense for performance-based RSUs is recognized when it is probable the performance goal will be achieved. Performance
+goals are determined by the Board of Directors and may include measures such as earnings per share, operating income and
+return on invested capital. The fair value of each stock option granted is estimated on the grant date using the Black-Scholes-
+Merton option valuation model. The assumptions used to calculate the fair value of options granted are evaluated and revised,
+as necessary, to reﬂect market conditions and our historical experience. The fair value of RSUs is based on the closing price of
+Starbucks common stock on the award date, less the present value of expected dividends not received during the vesting period.
+Compensation expense is recognized over the requisite service period for each separately vesting portion of the award, and only
+for those awards expected to vest, with forfeitures estimated at the date of grant based on our historical experience and ﬁJture
+expectations.
+Foreign Currency Translation
+Our international operations generally use their local currency as their functional currency. Assets and liabilities are translated
+at exchange rates in effect at the balance sheet date. Income and expense accounts are translated at the average monthly
+exchange rates during the year. Resulting translation adjustments are reported as a component of OCI and recorded in AOCI on
+our consolidated balance sheets.
+Income Taxes
+We compute income taxes using the asset and liability method, under which deferred income taxes are recognized based on the
+differences between the financial statement carrying amounts and the respective tax basis of our assets and liabilities. Deferred
+tax assets and liabilities are measured using current enacted tax rates expected to apply to taxable income in the years in which
+we expect the temporary differences to reverse. The effect of a change in tax rates on deferred taxes is recognized in income in
+the period that includes the enactment date.
+We routinely evaluate the likelihood of realizing the benefit of our deferred tax assets and may record a valuation allowance if,
+based on all available evidence, we determine that some portion of the tax benefit will not be realized. In evaluating our ability
+to recover our deferred tax assets within the jurisdiction from which they arise, we consider all available positive and negative
+58 Starbucks Corporation 2016 Form 10-K

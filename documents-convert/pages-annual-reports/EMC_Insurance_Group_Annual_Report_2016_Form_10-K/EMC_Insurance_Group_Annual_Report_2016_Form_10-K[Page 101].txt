@@ -1,0 +1,43 @@
+Following is a schedule of the length of time securities have continuously been in an unrealized loss position as of
+December 31, 2016.
+Less than twelve months Twelve months or longer Total
+: Fair Unrealized : : Fair Unrealized : : Fair Unrealized :
+($ in thousands) values losses values losses values losses
+Fixed maturity securities:
+1 US. treasury $ 7,830 $ 11 8 — $ — $ 7,830 $ 11 1
+US. government-sponsored agencies 202,900 10,609 — — 202,900 10,609
+1 Obligations of states and political 1
+subdivisions 43,777 940 — — 43,777 940
+Commercial mortgage-backed 21,695 1,133 — — 21,695 1,133
+1 Residential mortgage-backed 26,217 1,232 23,625 6,076 49,842 7,308 1
+Other asset-backed 19,091 931 — — 19,091 931
+1 Corporate 82,657 1,273 8,625 106 91,282 1,379 1
+Total ﬁxed maturity securities : 404,167 16,129 32,250 6,182 436,417 22,311 :
+1Equity securities: : 1
+Common stocks:
+1 Financial services 1,462 12 908 198 2,370 210 1
+Information technology 1,947 29 — — 1,947 29
+1 Healthcare 3,585 85 — — 3,585 85 1
+Consumer staples 2,427 125 — — 2,427 125
+1 Consumer discretionary 1,637 163 — — 1,637 163 1
+Energy 1,621 33 1,188 45 2,809 78
+1 Industrials 779 18 — — 779 18 1
+Other 1,472 32 — — 1,472 32
+1 Non-redeemable preferred stocks 3,356 44 1,877 123 5,233 167 1
+Total equity securities : 18,286 541 3,973 366 22,259 907 :
+1 Total temporarily impaired _ _ _ _ _
+securities $ 422,453 $ 16,670 $ 36,223 $ 6,548 $ 458,676 $ 23,218
+Following is a schedule of the maturity dates of the fixed maturity securities presented in the above table.
+Gross
+unrealized
+($ in thousands) Book value Fair value loss
+1Due in one year or less :55 5,493 5,459 341
+Due after one year through five years 24,444 24,390 54
+1Due after ﬁve years through ten years 101,023 99,306 1,717 1
+Due after ten years 245,100 233,045 12,055
+1Securities not due at a single maturity date 82,668 74,217 8,451 1
+$ 458,728 _$ 436,417 _$ 22,311
+The Company does not purchase non-investment grade ﬁxed maturity securities. Any non-investment grade fixed
+maturity securities held are the result of rating downgrades that occurred subsequent to their purchase. At December 31, 2016,
+the Company held $3.0 million of non-investment grade fixed maturity securities in a net unrealized gain position of $50,000.
+90

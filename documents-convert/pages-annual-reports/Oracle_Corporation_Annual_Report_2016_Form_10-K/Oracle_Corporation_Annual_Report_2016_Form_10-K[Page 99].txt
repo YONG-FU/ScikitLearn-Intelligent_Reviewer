@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+undertaken by the governmental entity. If we determine upon execution of these arrangements that the likelihood of cancellation is remote, we then recognize
+revenues once all of the criteria described above have been met. If such a determination cannot be made, revenues are recognized upon the earlier of cash receipt or
+approval of the applicable funding provision by the governmental entity.
+We assess whether fees are fixed or determinable at the time of sale and recognize revenues if all other revenue recognition requirements are met. Our standard
+payment terms are net 30 days. However, payment terms may vary based on the country in which the agreement is executed. We evaluate non-standard payment
+terms based on whether we have successful collection history on comparable arrangements (based upon similarity of customers, products, and license economics)
+and, if so, generally conclude such payment terms are ﬁxed and determinable and thereby satisfy the required criteria for revenue recognition.
+While most of our arrangements for sales within our businesses include short-term payment terms, we have a standard practice of providing long-term financing to
+creditworthy customers primarily through our financing division. Since fiscal 1989, when our financing division was formed, we have established a history of
+collection, without concessions, on these receivables with payment terms that generally extend up to five years from the contract date. Provided all other revenue
+recognition criteria have been met, we recognize new software licenses revenues and hardware products revenues for these arrangements upon delivery, net of any
+payment discounts from financing transactions. We have generally sold receivables financed through our financing division on a non-recourse basis to third-party
+financing institutions within 90 days of the contracts’ dates of execution and we classify the proceeds from these sales as cash ﬂows from operating activities in our
+consolidated statements of cash ﬂows. We account for the sales of these receivables as “true sales” as defined in ASC 860, Transfers and Servicing , as we are
+considered to have surrendered control of these financing receivables. We sold $1.8 billion of our financing receivables to financial institutions during each of
+fiscal 2016 and 2015, and $2.0 billion during fiscal 2014.
+Our customers include several of our suppliers and, occasionally, we have purchased goods or services for our operations from these vendors at or about the same
+time that we have sold our products to these same companies (Concurrent Transactions). Software license agreements, sales of hardware or sales of services that
+occur within a three-month time period from the date we have purchased goods or services from that same customer are reviewed for appropriate accounting
+treatment and disclosure. When we acquire goods or services from a customer, we negotiate the purchase separately from any sales transaction, at terms we
+consider to be at arm’s length and settle the purchase in cash. We recognize revenues from Concurrent Transactions if all of our revenue recognition criteria are met
+and the goods and services acquired are necessary for our current operations.
+Business Combinations
+We apply the provisions of ASC 805, Business Combinations , in accounting for our acquisitions. It requires us to recognize separately from goodwill the assets
+acquired and the liabilities assumed at the acquisition date fair values. Goodwill as of the acquisition date is measured as the excess of consideration transferred
+over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately
+value assets acquired and liabilities assumed at the acquisition date as well as any contingent consideration, where applicable, our estimates are inherently uncertain
+and subject to reﬁnement. As a result, during the measurement period, which may be up to one year from the acquisition date, we record adjustments to the assets
+acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of
+assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our consolidated statements of operations.
+97

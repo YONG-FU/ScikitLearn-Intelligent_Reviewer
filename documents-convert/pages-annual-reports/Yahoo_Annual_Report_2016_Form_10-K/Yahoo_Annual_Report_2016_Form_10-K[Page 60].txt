@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+Paid Clicks on Afﬁliate sites and Yahoo Properties, including on desktop, due to a decline in trafﬁc. The increase in Price-per—Click was due to a mix shift toward
+Yahoo Properties and higher monetizing Afﬁliate clicks, which resulted from a signiﬁcant reduction in lower monetizing Afﬁliate clicks. Search click-driven
+revenue declined 14 percent for the year ended December 31, 2016, as compared to the same period of 2015, driven by the decline in trafﬁc on Yahoo
+Properties and Afﬁliate sites.
+For the year ended December 31, 2015, Paid Clicks increased 6 percent and Price-per—Click increased 2 percent, compared to 2014. The increase in Paid Clicks
+for the year ended December 31, 2015 was primarily attributable to an increase in Paid Clicks on Yahoo Properties in the Americas segment, attributable to our
+agreements with Mozilla and other distribution partners, partially offset by a decline in Paid Clicks from Afﬁliate and Yahoo trafﬁc. The increase in
+Price-per—Click for year ended December 31, 2015 was attributable to a higher mix of trafﬁc from the Americas segment, which is higher monetizing as compared
+to other segments, as well as improved pricing from Afﬁliate trafﬁc. Improvements in the search metrics resulted in year—over—year growth of 9 percent in search
+click—driven revenue for the year ended December 31, 2015.
+Display Metrics
+For the year ended December 31, 2016, number of Ads Sold increased 4 percent and Price-per-Ad decreased 8 percent, compared to 2015. The increase in
+number of Ads Sold was primarily due to an increase in native and audience Ads Sold, partially offset by a decline in premium Ads Sold. Native ad units
+represented approximately 46 percent of total Ads Sold for the year ended December 31, 2016 compared to 44 percent of total Ads Sold for the year ended
+December 31, 2015. Native Ads Sold grew primarily due to our syndication (third-party, afﬁliate) business and an increase in native Ads Sold internationally. The
+decrease in Price-per—Ad was primarily due to a decline in overall pricing of premium, video and native Ads Sold, partially offset by an increase in pricing of
+audience Ads Sold on both Yahoo Properties and Afﬁliate sites.
+For the year ended December 31, 2015, number of Ads Sold increased 12 percent and Price-per-Ad increased 2 percent, compared to 2014. The increase in
+Ads Sold year—over—year for the year ended December 31, 2015 was attributable to an increase in native and video ad units sold which was partially offset by a
+decline in premium ad units sold. The increase in native ad units sold was primarily attributable to growth internationally and growth in our network of mobile
+apps. Native ad units represented approximately 44 percent of total Ads Sold for the year ended December 31, 2015, as compared to 31 percent of total Ads
+Sold for the year ended December 31, 2014. The increase in Price-per-Ad was due to improved pricing for native advertising and video representing a larger
+share of the inventory mix, partially offset by a shift in the mix of Ads Sold from premium advertising to native advertising.
+Operating Costs and Expenses
+Cost of Revenue— TAC
+Cost of revenue—TAC consists of payments made to third-party entities that have integrated our advertising offerings into their websites or other offerings and
+payments made to companies that direct consumer and business trafﬁc to Yahoo Properties. We enter into agreements of varying duration that involve TAC.
+There are generally two economic structures of the Afﬁliate agreements: (i) variable payments based on a percentage of our revenue or based on a certain
+metric, such as number of searches or paid clicks, or (ii) ﬁxed payments with or without a guaranteed minimum amount of trafﬁc delivered. We expense TAC
+under two different methods. Agreements based on a percentage of revenue, number of searches, or other metrics are expensed based on the volume of the
+underlying activity or revenue multiplied by the agreed—upon price or rate. Agreements with fixed
+59

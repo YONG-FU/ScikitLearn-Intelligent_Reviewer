@@ -1,0 +1,24 @@
+(FINANCIAL STATEMENTS — NOTE 5 i)
+The estimated fair value and hierarchy classifications for assets and liabilities that are measured at fair
+value on a recurring basis were as follows:
+December 31, 2016
+7 Level 1 Level 2 Level 3 Total 7
+7 (In thousands) 7
+Fair value assets:
+Available—for—sale fixed—maturity securities:
+US. government and agencies $ — $ 10,474 $ — $ 10,474
+Foreign government — 129,306 — 129,306
+States and political subdivisions — 45,724 — 45,724
+Corporates 3,113 1,322,257 3 1,325,373
+Residential mortgage—backed securities — 98,966 585 99,551
+Commercial mortgage—backed securities — 109,443 — 109,443
+Other asset—backed securities — 65,075 7,492 72,567
+Total available—for—sale fixed—maturity securities 3,113 1,781,245 8,080 1,792,438
+Equity securities 39,556 5,256 82 44,894
+Trading securities — 7,383 — 7,383
+Separate accounts — 2,287,953 — 2,287,953
+Total fair value assets $42,669 $4,081,837 $8,162 $4,132,668
+Fair value liabilities:
+Separate accounts $ — $2,287,953 $ — $2,287,953
+Total fair value liabilities $ — $2,287,953 $ — $2,287,953
+118 Freedom Lives Here“

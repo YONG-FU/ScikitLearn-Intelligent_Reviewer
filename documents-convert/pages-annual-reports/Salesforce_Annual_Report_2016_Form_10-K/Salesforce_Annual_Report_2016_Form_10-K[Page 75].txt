@@ -1,0 +1,39 @@
+The effects of dilutive securities were not included in the GAAP calculation of diluted earnings/loss per
+share for the years ended January 31, 2016, 2015 and 2014 because we had a net loss for those periods and the
+effect would have been anti-dilutive. The following table reﬂects the effect of the dilutive securities on the basic
+share count used in the GAAP earnings/loss per share calculation to derive the share count used for the non-
+GAAP diluted earnings per share:
+7 Fiscal Year Ended January 31, 7
+§upplemental Diluted Sharecount Information (in thousands):: 2016 : : 2015 : : 2014
+Weighted-average shares outstanding for GAAP basic
+earningspershare.............................. 661,647 624,148 597,613
+Effect of dilutive securities (1):
+Convertible senior notes (2) . . . . . . . . . . . . . . . . . . . . 1,302 5,381 14,550
+Warrants associated with the convertible senior note
+hedges(2)................................ 0 9,536 9,658
+Employee stock awards ....................... 13,881 12,469 13,867
+Adjusted weighted-average shares outstanding and
+assumed conversions for Non-GAAP diluted earnings
+pershare 676,830 651,534 635,688
+(1) The effects of these dilutive securities were not included in the GAAP calculation of diluted net loss per
+share because the effect would have been anti-dilutive.
+(2) Upon maturity in fiscal 2015, the convertible 0.75% senior notes and associated warrants were settled. The
+0.25% senior notes were not convertible, however, there is a dilutive effect for shares outstanding for the
+fiscal 2016.
+7 Fiscal Year Ended January 31, 7
+:Free cash ﬂow analysis:: 2016 : : 2015 : : 2014
+Operating cash flow
+GAAP net cash provided by operating
+activities $1,612,585 $1,173,714 $875,469
+Less:
+Capital expenditures . . . . . . . . . . . . . . . . . . . . . . . (284,476) (290,454) (299,110)
+Freecashflow............................ $1,328,109 $ 883,260 $576,359
+Supplemental Tax Expense (Beneﬁt) Information:
+As described above, beginning in February 2014, which was the start of our fiscal 2015, we changed the
+methodology used to calculate our non-GAAP tax expense. We computed and utilized a ﬁxed long-term
+projected non-GAAP tax rate of 36.5 percent for fiscal 2015. We moved to this long-term projected non-GAAP
+tax rate in order to provide better consistency across the interim reporting periods by eliminating the effects of
+non-recurring and period-specific items. As a result, we believe that starting in fiscal 2015, providing a tabular
+reconciliation of the non-GAAP financial measure of tax expense (benefit) to the comparable GAAP measure is
+not appropriate given our new methodology.
+68

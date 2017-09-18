@@ -1,0 +1,51 @@
+Table of Contents
+Digital Marketing
+Digital Marketing Opportunity
+Consumers today increasingly demand personalized content and experiences in their online interactions, across multiple
+channels and devices. As a result, any business or entity with an online presence must figure out how to best attract, engage, acquire
+and retain customers in a world where the reach and quality of experiences directly impacts success. Delivering the best experience
+to a consumer at a given moment requires the right combination of data, insights and content. Marketing executives are increasingly
+demanding solutions that optimize their consumers’ experiences and deliver the greatest return on their marketing spend so they
+can demonstrate the success of their programs using objective metrics.
+We believe there is a signiﬁcant opportunity to address these challenges and help customers transform their businesses.
+Chief Marketing Officers, digital marketers, advertisers and publishers are increasingly steering their marketing, advertising, and
+development budgets toward digital media. Many industry analysts predict more advertising dollars will be spent in digital than
+in traditional media in the future. As marketers make this move to digital, our opportunity is accelerating as customers look for
+vendors to help them navigate this transition. However, marketing in a digital world is not simply about executing campaigns in
+each digital channel. Marketers, and entire enterprises, also need to ensure they deliver meaningful experiences to their consumers
+across both digital and traditional channels and in areas such as sales, support, and product interactions where consumers expect
+experiences to be consistent and personalized.
+Our Digital Marketing business targets this large and growing opportunity by providing comprehensive solutions for data
+and analytics, advertising, personalization, and content delivery. Our solutions focused on these categories include features for
+web and mobile analytics, social marketing, targeting, advertising and media optimization, digital experience management, cross-
+channel campaign management, audience management, advertising and real-time bidding technology, premium video delivery
+and monetization. We deliver these capabilities through our Adobe Marketing Cloud, an integrated offering enabling marketers
+to measure, personalize and optimize marketing campaigns and digital experiences across channels for optimal business
+performance. With its broad set of solutions, including Adobe Analytics, Adobe Target, Adobe Social, Adobe Media Optimizer,
+Adobe Experience Manager, Adobe Campaign, Adobe Audience Manager and Adobe Primetime, as well as real-time dashboards
+and a collaborative interface, customers of Adobe Marketing Cloud are able to combine data, insights and digital content to deliver
+a personalized brand experience to their consumers. The artificial intelligence and machine learning framework enabled by our
+strategy with Adobe Sensei enhances Adobe Marketing Cloud. By building on existing features such as anomaly detection in
+Adobe Analytics and predictive outcome capabilities with solutions such as Adobe Campaign, we believe Sensei will increase the
+value we provide our customers and create a competitive differentiation in the market.
+In addition to Chief Marketing Officers and digital experience professionals, users of our Adobe Marketing Cloud solutions
+include marketing professionals such as search engine marketers, media managers, media buyers, marketing research analysts and
+customer analytics teams. Customers also include web content editors, web analysts, web marketing managers, email developers
+and mobile apps developers. These customers often are involved in workﬂows that utilize other Adobe products, such as our Digital
+Media offerings and our video workﬂow and delivery technologies. By combining the creativity of our Digital Media business
+with the science of our Digital Marketing business, we help our customers to more eﬁiciently and eﬁectively make, manage,
+measure and monetize their content across every channel with an end-to-end workﬂow and feedback loop.
+Our Digital Marketing segment also contains two legacy enterprise software offerings: our Adobe Connect web conferencing
+platform and Adobe LiveCycle, an enterprise document and forms platform. Since fiscal 2012, the focus of marketing and licensing
+these products has been to financial services and government markets, driven by a subset of our enterprise sales force. We have
+also been focused on migrating some legacy LiveCycle customers to an updated offering with similar capabilities based on our
+Adobe Experience Manager solution.
+Digital Marketing Strategy
+Our goal is to be the leading provider of marketing solutions and a standard for the way digital advertising and marketing
+is created, measured, managed, executed and optimized.
+We believe that our success will be driven by focusing our eﬁorts on making Adobe Marketing Cloud the most comprehensive
+and integrated marketing solution available. We focus on four key market opportunities: Personalization, Content, Advertising,
+and Data & Analytics. Our focus on these opportunities utilizes nine key solutions—Adobe Analytics, Adobe Target, Adobe Social,
+Adobe Media Optimizer, Adobe Experience Manager, Adobe Campaign, Adobe Audience Manager, Adobe Primetime and the
+TubeMogul advertising platform.
+6

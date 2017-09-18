@@ -1,0 +1,44 @@
+Table,of,C,ontents
+STRAYER EDUCATION, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+on its technical merits, is determined to be more likely than not to be sustained upon examination. Upon determination, uncertain
+tax positions are measured to determine the amount of benefit that is greater than 50% likely to be realized upon ultimate
+settlement with a taxing authority that has full knowledge of all relevant information. A tax position is derecognized if it no
+longer meets the more likely than not threshold of being sustained.
+The tax years 2013-2016 remain open for Federal tax examination and the tax years 2012-2016 remain open to examination
+by state and local taxing jurisdictions in which the Company is subject.
+Use of Estimates
+The preparation of ﬁnancial statements in conformity with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the
+date of the ﬁnancial statements and the reported amounts of expenses during the period reported. The most signiﬁcant
+management estimates included allowances for doubtful accounts, the useful lives of property and equipment, fair value of future
+contractual operating lease obligations, potential sublease income and vacancy periods, accrued expenses, forfeiture rates and the
+likelihood of achieving performance criteria for stock-based awards, value of free courses earned by students that will be
+redeemed in the future, valuation of goodwill, intangible assets and the interest rate swap arrangement, fair value of contingent
+consideration, and the provision for income taxes. Actual results could differ from those estimates.
+Comprehensive Income
+Comprehensive income consists of net income and the change in the fair value of the Company’s interest rate swap, net of
+income taxes.
+Recent Accounting Pronouncements
+In November 2015, the FASB issued ASU N0. 2015- 17, Income Taxes: Balance Sheet Classiﬁcation of Deferred Taxes
+(“ASU 2015-17”). The new guidance requires that deferred tax liabilities and assets be classiﬁed as noncurrent in a classified
+statement of ﬁnancial position. The Company adopted ASU 2015-17 effective January 1, 2016 and reclassiﬁed approximately
+$6.4 million of its deferred tax asset from current to non-current assets in the consolidated balance sheet as of December 31, 2015,
+to conform to the current period presentation.
+In February 2016, the FASB issued ASU No. 2016-02, Leases (“ASU 2016-02”). The new guidance requires the recognition
+of right-of-use assets and lease liabilities on the balance sheet for most leases. Under current guidance, operating leases are off-
+balance sheet. ASU 2016-02 also requires more extensive quantitative and qualitative disclosures about leasing arrangements.
+ASU 2016-02 applies to ﬁscal periods beginning after December 15, 2018, using the modiﬁed retrospective method, with early
+adoption permitted. The Company anticipates that the impact of ASU 2016-02 on its consolidated balance sheet will be material
+as the Company will record significant asset and liability balances in connection with its leased properties.
+In March 2016, the FASB issued ASU No. 2016-09, Compensation — Stock Compensation: Improvements to Employee
+Share-Based PaymentAccounting (“ASU 2016-09”). ASU 2016-09 impacts several aspects of the accounting for share-based
+payment transactions, including classiﬁcation of certain items on the consolidated statement of cash ﬂows and accounting for
+income taxes. Specifically, ASU 2016-09 requires excess tax beneﬁts and tax deﬁciencies to be recognized as income tax expense
+or benefit in earnings. In addition, ASU 2016-09 allows companies to recognize the impact of stock award forfeitures at the time
+of forfeiture, rather than as an estimate ratably over the life of awards. ASU 2016-09 is effective for fiscal years beginning after
+December 15, 2016, with early adoption permitted. The Company will adopt ASU 2016-09, effective January 1, 2017, which may
+introduce signiﬁcant volatility to the Company’s provision for income taxes
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (“ASU 2014-09”). The standard
+establishes a new recognition model that requires revenue to be recognized in a manner to depict the transfer of
+67

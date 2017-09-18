@@ -1,0 +1,35 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+12. INCOME TAXES — (continued)
+The net deferred tax liabilities are classified in the Consolidated Balance Sheets as follows:
+2016 2015
+(Dollars in thousands)
+Current deferred income tax liabilities . . . . . . . . . . . . . . . . . . . . . $ — $(1,537)
+Non-current deferred income tax benefits . . . . . . . . . . . . . . . . . . . 660 —
+Non-current deferred income tax liabilities . . . . . . . . . . . . . . . . . . (703) (70)
+Net deferred income tax liabilities . . . . . . . . . . . . . . . . . . . . . . . . $ (43) $(1,607)
+In 2015, the FASB issued guidance which simplified the presentation of deferred income taxes
+by requiring that deferred tax assets and liabilities be classified as non-current in a classified
+statement of financial position. The Company adopted this guidance for the year ended
+December 31, 2016 on a prospective basis. Prior period balances were not adjusted.
+Uncertain Tax Positions
+The Company accounts for its uncertain tax positions in accordance with ASC 740, Income
+Taxes (“ASC 740”). ASC 740 provides that the tax effects from an uncertain tax position can be
+recognized in the Company’s consolidated financial statements only if the position is more likely than
+not of being sustained on audit, based on the technical merits of the position.
+The following table summarizes the activity related to the Company’s unrecognized tax benefits:
+2016 2015 2014
+(Dollars in thousands)
+Unrecognized tax benefits balance at January 1, . . . . . $ 284 $ — $124
+Increases related to current year tax positions . . . . . . . 239 284 —
+Decreases related to prior period positions . . . . . . . . . — — (69)
+Decreases due to settlements of tax positions . . . . . . . (248) — (55)
+Unrecognized tax benefits balance at December 31, . . $ 275 $284 $ —
+The unrecognized tax benefits at December 31, 2016 and 2015, include $70,000 and $108,000,
+respectively, of interest related to such positions. The unrecognized tax benefits, if ultimately
+recognized, would reduce the Company’s annual effective tax rate. The liabilities for potential interest
+are included in the Consolidated Balance Sheets at December 31, 2016 and 2015.
+The Company files a U.S. federal income tax return, various U.S. state income tax returns and
+several foreign returns. In general, the 2014 through 2016 tax years remain subject to examination
+by those taxing authorities.
+53

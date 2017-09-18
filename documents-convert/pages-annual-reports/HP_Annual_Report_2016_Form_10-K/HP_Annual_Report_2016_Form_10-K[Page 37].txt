@@ -1,0 +1,49 @@
+HP INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+units exceeded their respective carrying values. As a result, we concluded that the first step of the goodwill impairment test was
+not necessary.
+Fair Value of Derivative Instruments
+We use derivative instruments to manage a variety of risks, including risks related to foreign currency exchange rates and
+interest rates. We use forwards, swaps and at times, options to hedge certain foreign currency and interest rate exposures. We do
+not use derivative instruments for speculative purposes. As of October 31, 2016, the gross notional value of our derivative
+portfolio was $17.9 billion. Assets and liabilities related to derivative instruments are measured at fair value, and were $325
+million and $97 million, respectively as of October 31, 2016.
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction between
+market participants at the measurement date. In the absence of active markets for the identical assets or liabilities, such
+measurements involve developing assumptions based on market observable data and, in the absence of such data, internal
+information that is consistent with what market participants would use in a hypothetical transaction that occurs at the
+measurement date. The determination of fair value often involves significant judgments about assumptions such as determining
+an appropriate discount rate that factors in both risk and liquidity premiums, identifying the similarities and diﬁerences in
+market transactions, weighting those differences accordingly and then making the appropriate adjustments to those market
+transactions to reﬂect the risks specific to the asset or liability being valued. We generally use industry standard valuation
+models to measure the fair value of our derivative positions. When prices in active markets are not available for the identical
+asset or liability, we use industry standard valuation models to measure fair value. Where applicable, these models project
+future cash ﬂows and discount the future amounts to present value using market-based observable inputs, including interest rate
+curves, HP and counterparty credit risk, foreign currency exchange rates, and forward and spot prices.
+For a further discussion on fair value measurements and derivative instruments, refer to Note 10, “Fair Value” and
+Note 11, “Financial Instruments”, respectively, to the Consolidated Financial Statements in Item 8, which are incorporated
+herein by reference.
+Loss Contingencies
+We are involved in various lawsuits, claims, investigations and proceedings including those consisting of intellectual
+property (“1P”), commercial, securities, employment, employee beneﬁts and environmental matters that arise in the ordinary
+course of business. We record a liability when we believe that it is both probable that a liability has been incurred and the
+amount of loss can be reasonably estimated. Significant judgment is required to determine both the probability of having
+incurred a liability and the estimated amount of the liability. We review these matters at least quarterly and adjust these
+liabilities to reﬂect the impact of negotiations, settlements, rulings, advice of legal counsel and other updated information and
+events, pertaining to a particular case. Pursuant to the separation and distribution agreement, we share responsibility with
+Hewlett Packard Enterprise for certain matters, as discussed in Note 15, “Litigation and Contingencies” to the Consolidated
+Financial Statements in Item 8, which is incorporated herein by reference, and Hewlett Packard Enterprise has agreed to
+indemnify us in whole or in part with respect to certain matters. Based on our experience, we believe that any damage amounts
+claimed in the specific litigation and contingencies matters further discussed in Note 15, “Litigation and Contingencies”, are not
+a meaningful indicator of HP’s potential liability. Litigation is inherently unpredictable. However, we believe we have valid
+defenses with respect to legal matters pending against us. Nevertheless, cash ﬂows or results of operations could be materially
+affected in any particular period by the resolution of one or more of these contingencies. We believe we have recorded adequate
+provisions for any such matters and, as of October 31, 2016, it was not reasonably possible that a material loss had been
+incurred in excess of the amounts recognized in our financial statements.
+RECENT ACCOUNTING PRONOUNCEMENTS
+For a summary of recent accounting pronouncements applicable to our consolidated financial statements see Note 1,
+“Overview and Summary of Significant Accounting Policies” to the Consolidated Financial Statements in Item 8, which is
+incorporated herein by reference.
+RESULTS OF OPERATIONS
+37

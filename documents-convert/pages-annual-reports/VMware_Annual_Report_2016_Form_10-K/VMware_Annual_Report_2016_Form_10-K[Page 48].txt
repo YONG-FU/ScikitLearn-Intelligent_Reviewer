@@ -1,0 +1,45 @@
+Iablre,of,C,ontents
+(4) Consisting of various contractual agreements, which include commitments on the lease for our Washington data center facility and asset retirement
+obligations.
+(5) As of December 31, 2016, we had $260 million of gross uncertain tax beneﬁts, excluding interest and penalties. The timing of future payments relating to
+these obligations is highly uncertain. Based on the timing and outcome of examinations of our subsidiaries, the result of the expiration of statutes of limitations
+for speciﬁc jurisdictions or the timing and result of ruling requests from taxing authorities, it is reasonably possible that within the next 12 months total
+unrecognized tax benefits could be potentially reduced by approximately $8 million .
+Critical Accounting Policies and Estimates
+In preparing our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (“GAAP”), we
+are required to make estimates, assumptions and judgments that affect the amounts reported in our ﬁnancial statements and the accompanying disclosures.
+Estimates and assumptions about future events and their effects cannot be determined with certainty and therefore require the exercise of judgment. We base our
+estimates, assumptions and judgments on historical experience and various other factors that we believe to be reasonable under the circumstances. These estimates
+may change, as new events occur and additional information is obtained, and are recognized in the consolidated financial statements as soon as they become
+known. Actual results could differ from those estimates and any such differences may be material to our financial statements. We believe that the critical
+accounting policies and estimates set forth below involve a higher degree of judgment and complexity in their application than our other signiﬁcant accounting
+policies. Our senior management has reviewed our critical accounting policies and related disclosures with the Audit Committee of the Board of Directors.
+Historically, our assumptions, judgments and estimates relative to our critical accounting policies have not differed materially from actual results. Refer to Note A
+to the consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K for information on significant accounting policies and estimates used
+in the preparation of the consolidated financial statements.
+Revenue Recognition
+We derive revenue primarily from licensing our software under perpetual licenses, related software maintenance and support, training, consulting services and
+hosted services. Revenue is recognized when persuasive evidence of an arrangement exists, delivery has occurred or service has been provided, the sales price is
+ﬁxed or determinable, and collectibility is probable. Determining whether and when some of these criteria have been satisfied often involves assumptions and
+judgments that can have a signiﬁcant impact on the timing and amount of revenue recognized.
+We enter into multiple-element revenue arrangements in which a customer may purchase a combination of software, maintenance and support, training,
+consulting services, and hosted services. If a product or service included in a software-related multiple-element arrangement has not been delivered, and is not
+considered essential to the functionality of the delivered products or services, we must determine the fair value of each undelivered product or service using
+vendor-speciﬁc objective evidence (“VSOE”). Absent VSOE, revenue is deferred until VSOE of fair value exists for each of the undelivered products or services,
+or until all elements of the arrangement have been delivered. However, if the only undelivered element without VSOE is maintenance and support, the entire
+arrangement fee is recognized ratably over the performance period. Changes in assumptions or judgments or changes to the elements in a software arrangement
+could cause a material increase or decrease in the amount of revenue that we report in a particular period.
+VSOE of fair value for an undelivered element is generally based on historical stand-alone sales to third parties. In limited instances, for an offering that is not
+yet sold, VSOE is the price established by management if it is probable that the price will not change when introduced to the marketplace, including through the
+use of a contractual renewal rate. In determining VSOE of fair value, we require that the selling prices for a product or service fall within a reasonable pricing
+range. For multiple-element arrangements that contain software and non-software elements, we allocate revenue to software or software-related elements as a
+group and any non-software elements separately based on relative selling prices using the selling price hierarchy. The relative selling price for each deliverable is
+determined using VSOE, if it exists, or third-party evidence (“TPE”) of selling price. TPE of selling price is based on evaluation of prices charged for competitor
+products or services sold to similarly situated customers. As our offerings contain significant proprietary technology and provide different features and
+functionality, comparable prices of similar products typically cannot be obtained and relied upon. If neither VSOE nor TPE of selling price exist for a deliverable,
+best estimate of selling price (“BESP”) is used for that deliverable. We use BESP in allocation of arrangement consideration. We determine BESP by considering
+our overall pricing objectives and practices across different sales channels.
+A speciﬁed upgrade obligation is created in the event we publicly announce new specific features, functionalities or entitlements to software upgrades or
+license products that have not been made available. We generally do not have VSOE of fair value for speciﬁed upgrades or license products. Accordingly, revenue
+recognition is deferred for multiple-element
+47

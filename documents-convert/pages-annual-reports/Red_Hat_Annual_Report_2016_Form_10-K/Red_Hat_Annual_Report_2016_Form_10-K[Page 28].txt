@@ -1,0 +1,46 @@
+complex, we may find it increasingly difficult to maintain these beneficial aspects of our corporate culture. If we
+are unable to maintain our corporate culture, we may find it difficult to attract and retain motivated employees,
+continue to perform at current levels or execute on our business strategy. As a result, our business, financial
+condition, operating results and cash ﬂows could be adversely affected.
+Our emerging technology offerings are based on developing technologies and business models, and the
+potential market for these offerings remains uncertain.
+Our emerging technology offerings, which include our cloud, mobile and storage offerings, are based on
+developing technologies and business models, the success of which will depend on the technological and
+operational benefits and cost savings associated with the adoption of these technologies. These technologies are
+rapidly evolving, and their development is a complex and uncertain process requiring high levels of innovation
+and investment as well as the accurate anticipation of technology trends, market demand and customer needs. We
+expect competition to remain intense and, as with many emerging IT sectors, these technologies may be subject
+to a “first mover” effect pursuant to which certain product offerings rapidly capture a significant portion of
+market share and developer attention. Moreover, we may make errors in reacting to relevant business trends and
+predicting which technologies are successful or otherwise develop into industry standards.
+Adoption of emerging technologies may occur more slowly or less pervasively than we expect and the
+revenue growth associated with these offerings may be slower than currently expected. Moreover, even if
+emerging technologies are adopted widely by enterprises, our offerings in these areas may not attract a sufficient
+number of users or generate attractive financial results. We incur expenses associated with these offerings in
+advance of our ability to generate associated revenue. Demand for our emerging technology offerings may
+unfavorably impact demand for our other offerings, including software subscriptions and related professional
+services. If the market for our emerging technologies offerings fails to develop adequately, it could have an
+adverse effect on our business, financial condition, operating results and cash ﬂows.
+Our business model may encounter customer resistance or we may experience a decline in the demand for
+our offerings.
+We provide Red Hat enterprise technologies primarily under annual or multi-year subscriptions. A
+subscription generally entitles a customer to, among other things, a specified level of support, as well as security
+updates, fixes, functionality enhancements, upgrades to the technologies, each, if and when available, and
+compatibility with an ecosystem of certified hardware and software. While we believe this practice complies with
+the requirements of the GNU General Public License, and while we have reviewed this practice with the Free
+Software Foundation, the organization that maintains and provides interpretations of the GNU General Public
+License, customers may fail to honor the terms of our subscription agreements.
+Demand for our offerings depends substantially on the general demand for enterprise software, which
+ﬂuctuates based on numerous factors, including the spending levels and growth of our current and prospective
+customers, and general economic conditions. In addition, our customers generally undertake a significant
+evaluation process that may result in a lengthy sales cycle. We spend substantial time, effort, and money on our
+sales efforts, including developing and implementing appropriate go-to-market strategies and training our sales
+force and channel partners in order to effectively market new offerings, without any assurance that our efforts
+will produce any sales. The purchase of our offerings may be discretionary and can involve significant
+expenditures. If our current and prospective customers cut costs, then they may significantly reduce their
+enterprise software expenditures.
+As technologies and the markets for our enterprise offerings change, our annual or multi-year subscription-
+based business model may no longer meet the needs of our customers. For example, a business model based on
+annual or multi-year subscriptions may no longer be competitive in an environment where disruptive
+technologies (such as cloud computing) enable customers to consume computing resources on an hourly basis or
+24

@@ -1,0 +1,40 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+The following tables present details of the Company’s total intangible assets at September 30, 2016 and 2015:
+Accumulated
+Amortization
+at Balance at
+Life September 30, September 30,
+(in thousands) (years) Gross 2016 2016
+Amortizable:
+Loan origination fees 3 $ 312 $ 236 $ 76
+Customer relationships 10 2,605 723 1,882
+Software development costs 3 5 33 5 33 —
+Product rights 6 672 287 385
+4,122 1,779 2,343
+Non-amortizable goodwill 7 11,310 7 7 — 7 7 11,310 7
+Total $ 15,432 $ 1,779 $ 13,653
+Accumulated
+Amortization
+at Balance at
+Life September 30, September 30,
+(in thousands) (years) Gross 2015 2015
+Amortizable:
+Loan origination fees 3 $ 302 $ 190 $ 112
+Customer relationships 10 2,329 457 1,872
+Software development costs 3 533 429 104
+Product rights 6 672 164 508
+3,836 1,240 2,596
+Non-amortizable goodwill 7 10,853 7 7 —7 7 10,853 7
+Total 14,689 7 1,240 7 13,449 7
+Estimated amortization expense for each of the five subsequent fiscal years is expected to be (in thousands):
+Fiscal Year (in thousands)
+2017 $ 449
+201 8 406
+2019 362
+2020 302
+202 1 273
+Thereafter 7 5 5 1 7
+Total $ 2,343
+71

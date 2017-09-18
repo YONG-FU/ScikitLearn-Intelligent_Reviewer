@@ -1,0 +1,49 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Goodwill, Purchased Intangibles and Other Long-Lived Assets
+Goodwill is assigned to one or more reporting segments on the date of acquisition. We review our goodwill for impairment
+annually during our second quarter of each fiscal year. In performing our goodwill impairment test, we first evaluate goodwill to
+determine if it is more likely than not that the occurrence of an event or change in circumstances has reduced the fair value of a
+reporting segment below its carrying value. The qualitative assessment requires that we consider events or circumstances that may
+include macroeconomic conditions, industry and market considerations, cost factors, overall financial performance, changes in
+management or key personnel, changes in strategy, changes in customers, changes in the composition or carrying amount of a
+reporting segments ’ net assets, and changes in our stock price. If, after assessing the totality of events or circumstances, we determine
+that it is more likely than not that the fair value of our reporting segments are greater than the carrying amounts, then the two-step
+goodwill impairment test is not performed.
+If the qualitative assessment indicates that the two-step quantitative analysis should be performed, we evaluate goodwill
+for impairment by comparing the fair value of each of our reporting segments to its carrying value, including the associated
+goodwill. To determine the fair values, we use the equal weighting of the market approach based on comparable publicly traded
+companies in similar lines of businesses and the income approach based on estimated discounted future cash ﬂows. Our cash ﬂow
+assumptions consider historical and forecasted revenue, operating costs and other relevant factors.
+We completed our annual goodwill impairment test in the second quarter of ﬁscal 2016. We determined, after performing
+a qualitative review of each reporting segment, that it is more likely than not that the fair value of each of our reporting segments
+substantially exceeds the respective carrying amounts. Accordingly, there was no indication of impairment, and the two-step
+goodwill impairment test was not performed.
+We amortize intangible assets with finite lives over their estimated useful lives and review them for impairment whenever
+an impairment indicator exists. We continually monitor events and changes in circumstances that could indicate carrying amounts
+of our long-lived assets, including our intangible assets may not be recoverable. When such events or changes in circumstances
+occur, we assess recoverability by determining whether the carrying value of such assets will be recovered through the undiscounted
+expected future cash ﬂows. If the future undiscounted cash ﬂows are less than the carrying amount of these assets, we recognize
+an impairment loss based on any excess of the carrying amount over the fair value of the assets. We did not recognize any intangible
+asset impairment charges in ﬁscal 2016, 2015 or 2014.
+During fiscal 2016, our intangible assets were amortized over their estimated useful lives ranging from 1 to 14 years.
+Amortization is based on the pattern in which the economic benefits of the intangible asset will be consumed or on a straight-line
+basis when the consumption pattern is not apparent. The weighted average useful lives of our intangible assets were as follows:
+Weighted
+Average
+Useful Life
+7 (years) 7
+l Purchased technology 6 l
+Customer contracts and relationships 8
+l Trademarks 8 ‘
+Acquired rights to use technology 9
+l Localization l ‘
+Other intangibles 4
+Software Development Costs
+Capitalization of software development costs for software to be sold, leased, or otherwise marketed begins upon the
+establishment of technological feasibility, which is generally the completion of a working prototype that has been certified as
+having no critical bugs and is a release candidate. Amortization begins once the software is ready for its intended use, generally
+based on the pattern in which the economic benefits will be consumed. To date, software development costs incurred between
+completion of a working prototype and general availability of the related product have not been material.
+70

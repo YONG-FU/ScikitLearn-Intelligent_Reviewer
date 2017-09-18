@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Our sales to government clients expose us to business volatility and risks, including government budgeting cycles and appropriations, early termination, audits,
+investigations, sanctions and penalties. We derive revenues from contracts with the US. government, state and local governments, and foreign governments and
+their respective agencies, which may terminate most of these contracts at any time, without cause. There is increased pressure on governments and their agencies,
+both domestically and internationally, to reduce spending. Further, our US. federal government contracts are subject to the approval of appropriations made by the
+US. Congress to fund the expenditures under these contracts. Similarly, our contracts with US. state and local governments, foreign governments and their
+agencies are generally subject to government funding authorizations. Additionally, government contracts are generally subject to audits and investigations which
+could result in various civil and criminal penalties and administrative sanctions, including termination of contracts, refund of a portion of fees received, forfeiture
+of profits, suspension of payments, fines and suspensions or debarment from future government business.
+We may not receive significant revenues from our current research and development efforts for several years, if at all. Developing software, cloud and
+hardware offerings is expensive and the investment in the development of these offerings often involves a long return on investment cycle. An important element of
+our corporate strategy is to continue to make significant investments in research and development and related product and service opportunities both through
+internal investments and the acquisition of intellectual property from companies that we have acquired. Accelerated product and service introductions and short
+software and hardware life cycles require high levels of expenditures for research and development that could adversely affect our operating results if not offset by
+revenue increases. We believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our
+competitive position. However, we do not expect to receive significant revenues from these investments for several years, if at all.
+Business disruptions could adversely affect our operating results. A significant portion of our critical business operations are concentrated in a few geographic
+areas. We are a highly automated business and a disruption or failure of our systems could cause delays in completing sales and providing services, including some
+of our cloud offerings. A major earthquake, fire or other catastrophic event that results in the destruction or disruption of any of our critical business or IT systems
+could severely affect our ability to conduct normal business operations and, as a result, our future operating results could be materially and adversely affected.
+Adverse litigation results could affect our business. We are subject to various legal proceedings. Litigation can be lengthy, expensive and disruptive to our
+operations, and can divert our management’s attention away from running our core business. The results of our litigation also cannot be predicted with certainty.
+An adverse decision could result in monetary damages or injunctive relief that could affect our business, operating results or financial condition. Additional
+information regarding certain of the lawsuits we are involved in is discussed under Note 18 of Notes to Consolidated Financial Statements included elsewhere in
+this Annual Report.
+We may have exposure to additional tax liabilities. As a multinational corporation, we are subject to income taxes as well as non-income based taxes, in both
+the United States and various foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes and other tax
+liabilities. We are regularly under audit by tax authorities and those authorities often do not agree with positions taken by us on our tax returns.
+Changes in tax laws or tax rulings may have a significantly adverse impact on our effective tax rate. For example, the United States, many countries in the EU, and
+other countries where we do business, are actively considering or have enacted changes in relevant tax, accounting and other laws, regulations and interpretations,
+including changes to tax laws applicable to corporate multinationals, which could have a signiﬁcant adverse impact on our effective tax rate. Further, in the
+ordinary course of a global business, there are many intercompany transactions and calculations where the ultimate tax determination is uncertain. Our
+intercompany transfer pricing has been and is currently being reviewed by the US. Internal Revenue Service (IRS) and by foreign tax jurisdictions and will likely
+be subject to additional audits in the future. Although we have negotiated certain unilateral Advance Pricing Agreements with the IRS and certain selected bilateral
+Advance Pricing Agreements that cover some of our intercompany transfer pricing issues and preclude the relevant tax authorities from making a transfer pricing
+adjustment within the scope of these agreements, these agreements do not cover
+33

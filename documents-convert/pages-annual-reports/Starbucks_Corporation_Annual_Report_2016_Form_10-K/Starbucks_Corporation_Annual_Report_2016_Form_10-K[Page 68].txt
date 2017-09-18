@@ -1,0 +1,38 @@
+payments as a result of changes in foreign exchange rates. The difference between the US. dollar interest payments received
+from the swap counterparty and the US. dollar equivalent of the Japanese yen interest payments, as recognized in interest
+expense or interest income and other, net on our consolidated statements of earnings, is dependent on a number of market
+factors, including relevant interest rate differentials and foreign exchange rates. These swaps have been designated as cash ﬂow
+hedges and, based on the timing of the settlement of these intercompany loans, matured or will mature in September 2016 or
+November 2024. There are no credit-risk-related contingent features associated with these swaps, although we may hold or post
+collateral depending upon the gain or loss position of the swap agreements.
+We also enter into forward contracts to hedge the foreign currency exposure of our net investment in certain foreign operations.
+The effective portion of the derivative's gain or loss is recorded in AOCI and is subsequently reclassified to net earnings when
+the hedged net investment is either sold or substantially liquidated.
+To mitigate the foreign exchange risk of certain balance sheet items, we enter into foreign currency forward and swap contracts
+that are not designated as hedging instruments. Gains and losses from these derivatives are largely offset by the financial
+impact of translating foreign currency denominated payables and receivables; both are recorded in interest income and other,
+net.
+Commodities
+Depending on market conditions, we may enter into coffee futures contracts and collars to hedge a portion of anticipated cash
+ﬂows under our price-to-be-fixed green coffee contracts, which are described ﬁthher in Note 5, Inventories. The effective
+portion of each derivative's gain or loss is recorded in AOCI and is subsequently reclassified to cost of sales including
+occupancy costs when the hedged exposure affects net earnings.
+To mitigate the price uncertainty of a portion of our future purchases, primarily of dairy products, diesel fuel and other
+commodities, we enter into swap contracts, futures and collars that are not designated as hedging instruments. Gains and losses
+from these derivatives are recorded in interest income and other, net and help offset price ﬂuctuations on our beverage, food,
+packaging and transportation costs, which are included in cost of sales including occupancy costs on our consolidated
+statements of earnings.
+Gains and losses on derivative contracts designated as hedging instruments included in AOCI and expected to be reclassified
+into earnings within 12 months, net of tax (in millions):
+7 Rhi@::: ss 7 7 Losses 7 7 7
+I mm_-_f;” l Expected (me ) ,xwgimm
+l @132)» l l 63%?) I momma WEE—iv ﬂ
+, @365 'm—s ,
+[Cash Flow Hedges: J
+Interest rates $ 20.5 $ 30.1 s 2.9 0
+[ Cross-currency swaps (7.7) (27.8) r r 98 ]
+Foreign currency — other (0.4) 290 3_ 3 35
+[ Coffee (1.6) (5.7) (1.4) 6 ]
+Net Investment Hedges:
+[ Foreign currency 1.3 13 , , 0 l
+64 Starbucks Corporation 2016 Form 10-K

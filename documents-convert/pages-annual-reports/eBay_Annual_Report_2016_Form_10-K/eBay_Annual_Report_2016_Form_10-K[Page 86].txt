@@ -1,0 +1,44 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+To drive traffic to our platforms, we provide incentives to our users in the form of coupons
+and buyer and seller rewards. These incentives are generally treated as reductions in revenue.
+Internal use software and platform development costs
+Direct costs incurred to develop software for internal use and platform development costs
+are capitalized and amortized over an estimated useful life of one to five years. During the
+years ended December 31, 2016 and 2015, we capitalized costs, primarily related to labor and
+stock-based compensation, of $137 million and $136 million, respectively. Amortization of
+previously capitalized amounts was $149> million, $110 million and $115 million for 2016, 2015 and
+2014, respectively. Costs related to the design or maintenance of internal use software and
+platform development are expensed as incurred.
+Advertising expense
+We expense the costs of producing advertisements at the time production occurs and
+expense the cost of communicating advertisements in the period during which the advertising
+space or airtime is used, in each case as sales and marketing expense. Internet advertising
+expenses are recognized based on the terms of the individual agreements, which are
+generally over the greater of the ratio of the number of impressions delivered over the total
+number of contracted impressions, on a pay-per—click basis, or on a straight-line basis over the
+term of the contract. Advertising expense totaled $1.2 billion, $1.0 billion and $1.0 billion for the
+years ended December 31, 2016, 2015 and 2014, respectively.
+Stock-based compensation
+We have equity incentive plans under which we grant equity awards, including stock
+options, restricted stock units, performance—based restricted stock units, and performance
+share units, to our directors, officers and employees. We primarily issue restricted stock units.
+We determine compensation expense associated with restricted stock units based on the fair
+value of our common stock on the date of grant. We determine compensation expense
+associated with stock options based on the estimated grant date fair value method using the
+Black-Scholes valuation model. We generally recognize compensation expense using a
+straight-line amortization method over the respective vesting period for awards that are
+ultimately expected to vest. Accordingly, stock—based compensation expense for 2016, 2015
+and 2014 has been reduced for estimated forfeitures. When estimating forfeitures, we consider
+voluntary termination behaviors as well as trends of actual option forfeitures. We recognize a
+benefit from stock—based compensation in equity to the extent that an incremental tax benefit
+is realized by following the ordering provisions of the tax law. In addition, we account for the
+indirect effects of stock-based compensation on the research tax credit and the foreign tax
+credit through our consolidated statement of income.
+Provision for transaction losses
+Provision for transaction losses consists primarily of losses resulting from our customer
+protection programs, fraud and bad debt expense associated with our accounts receivable
+balance. Provisions for these items represent our estimate of actual losses based on our
+historical experience and many other factors including changes to our customer protection
+programs, the impact of regulatory changes as well as economic conditions.
+F—10

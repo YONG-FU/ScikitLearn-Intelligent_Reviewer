@@ -1,0 +1,23 @@
+(b) Other Fees . Mondeléz shall pay to the Administrative Agent for its own account or for the accounts of the Joint Lead Arrangers or Lenders, as
+applicable, such fees, and at such times, as shall have been separately agreed between Mondeléz and the Administrative Agent or the Joint Lead Arrangers.
+SECTION 2.10 thionaLTerminationoriReductioniofiCommitments,and,ExtensionofiTerminationDate,.
+(a) QptionaLTermination,oriReduction,ofiCommitments,. Mondeléz shall have the right, upon at least three Business Days’ notice to the
+Administrative Agent, to terminate in whole or reduce ratably in part the unused portions of the respective Commitments of the Lenders; providedthat each partial
+reduction shall be in the aggregate amount of no less than $50,000,000 or the remaining balance if less than $50,000,000, and provided further that the aggregate
+amount of the Commitments of the Lenders shall not be reduced to an amount that is less than the aggregate principal amount of the Competitive Bid Advances
+then outstanding.
+(b) Extension of Termination Date . (i) At least 30 days but not more than 60 days prior to each anniversary of the Effective Date (any such
+applicable anniversary of the Effective Date, the “ ExtensionDatef), Mondeléz, by written notice to the Administrative Agent, may request that each Lender
+extend the Termination Date for such Lender’s Commitment for an additional one-year period.
+(ii) The Administrative Agent shall promptly notify each Lender of such request and each Lender shall then, in its sole discretion, notify Mondeléz
+and the Administrative Agent in writing no later than 20 days prior to the Extension Date whether such Lender will consent to the extension (each such
+Lender consenting to the extension, an “ Extending Lender ”). The failure of any Lender to notify the Administrative Agent of its intent to consent to any
+extension shall be deemed a rejection by such Lender.
+(iii) Subject to satisfaction of the conditions in Section 3.03(a) and (b) as of the Extension Date, the Termination Date in effect at such time shall be
+extended for an additional one-year period; proxided, howeven, that (A) no such extension shall be effective (1) unless the Required Lenders agree thereto
+and (2) as to any Lender that does not agree to such extension (any such Lender, a “ Non-Extending Lender ”) and (B) Mondeléz may only request an
+extension of the Termination Date on the first two anniversaries of the Effective Date.
+(iv) To the extent that there are Non-Extending Lenders, the Administrative Agent shall promptly so notify the Extending Lenders, and each
+Extending Lender may, in its sole discretion, give written notice to Mondeléz and the Administrative Agent no later than 15 days prior to the Extension Date
+of the amount of the Commitments of the Non-Extending Lenders that it is willing to assume.
+-24-

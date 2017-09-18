@@ -1,0 +1,48 @@
+NOTE G — FAIR VALUE MEASUREMENTS (continued)
+:(In millions) 2016 2015 :
+Original cost $ 335 $ 335
+Accumulated investment income
+and disbursements, net 7 (3) 7 —7
+Adjusted cost (a) 7 3327 7 335 7
+Investment income (b) 8 3
+Unrealized gain 11 —
+Unrealized loss — (17)
+Settlement funds 4 —
+Disbursements 7 (33) 7 (6)
+Fair value :$ 322 : :$ 315 i
+(a) The adjusted cost in September 30, 2016 represents the carrying value of the demand deposit and the adjusted cost of the equity and corporate bond mutual
+funds as of September 30, 2015.
+(b) Investment income relates to the demand deposit and includes interest income as well as dividend income transferred from the equity and corporate bond
+mutual funds.
+The following table presents gross unrealized gains and losses for the available-for—sale securities as of September 30, 2016
+and 20 15 :
+Gross Gross
+(In millions) Adjusted Cost Unrealized Gain Unrealized Loss Fair Value
+As of September 30, 2016
+Demand Deposit 6 — — 6
+Equity Mutual Fund 1 85 8 — 193
+Corporate bond Mutual Fund 120 3 — 123
+Fairvalue :$ 311: :$ 11: :$ —: :$ 322:
+As of September 30, 2015
+Demand Deposit 17 — — 17
+Equity Mutual Fund 1 95 — (14) 1 8 1
+Corporate bond Mutual Fund 7 120 7 7 —7 7 (3) 7 117 7
+Fair value $ 332 $ — $ (17) s 315
+The unrealized gains and losses as of September 30, 2016 and 2015 were recognized within accumulated other comprehensive
+income (AOCI). Ashland invests in highly-rated investment grade mutual funds. No realized gain or loss was reclassified out of
+AOCI and no other-than—temporary impairment was recognized in AOCI during 2016 and 2015.
+Deferred compensation investments
+Deferred compensation investments consist of Level 1 and Level 2 measurements within the fair value hierarchy. Level 1
+investments consist primarily of fixed income US. government bonds while Level 2 investments are comprised primarily of a
+guaranteed interest fund, a common stock index fund and an intermediate government bond fund. Gains and losses related to
+deferred compensation investments are immediately recognized within the Statements of Consolidated Comprehensive Income.
+Derivative and hedging activities
+Currency hedges
+Ashland conducts business in a variety of foreign currencies. Accordingly, Ashland regularly uses foreign currency derivative
+instruments to manage exposure on certain transactions denominated in foreign currencies to curtail potential earnings volatility
+effects of certain assets and liabilities, including short-term inter-company loans, denominated in currencies other than Ashland’s
+functional currency of an entity. These derivative contracts generally require exchange of one foreign currency for another at a
+fixed rate at a future date and generally have maturities of less than twelve months. All contracts are valued at fair value with net
+changes in fair value recorded within the selling, general and administrative expense caption. The impacts of these contracts were
+largely offset by gains and losses resulting from the impact of changes in exchange rates on transactions denominated in non-
+F -24

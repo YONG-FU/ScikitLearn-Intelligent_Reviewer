@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Total amortization expense related to our intangible assets was $1.6 billion, $2.1 billion and $2.3 billion in ﬁscal 2016, 2015 and 2014, respectively. As of May 31,
+2016, estimated future amortization expenses related to intangible assets were as follows (in millions):
+Fiscal 2017 $ 1,026 1
+Fiscal 2018 878
+Fiscal 2019 770 1
+Fiscal 2020 621
+Fiscal 2021 476 l
+Thereafter 1,172
+l Total intangible assets, net 33 4,943]
+The changes in the carrying amounts of goodwill, net, which is generally not deductible for tax purposes, for our operating segments for fiscal 2016 and 2015 were
+as follows:
+Software
+Cloud License
+Software and Updates and
+On-Premise Product Hardware
+(in millions) Software Sugport Sugport Consulting Other, net (3) Total Goodwill, net
+Balances as of May 31, 2014 $ 13,139 $ 12,472 $ 2,082 $ 1,733 $ 226 $ 29,652)
+Goodwill from acquisitions 2,086 1,991 269 27 240 4,613
+l Goodwill adjustments, net (1) (8) (2) 19 (1) — 8 l
+Goodwill impairment (2) — — — — (186) (1 86)
+Balances as of May 31, 2015 15,217 14,461 2,370 1,759 280 34,087?
+Goodwill from acquisitions 518 — — — — 518
+l Goodwill adjustments, net (I) 12 (22) (3) — (2) (15))
+Balances as of May 31, 2016 $ 15,747 $ 14,439 $ 2,367 $ 1,759 $ 278 $ 34,590
+(1) Pursuant to our business combinations accounting policy, we recorded goodwill adjustments for the effects on goodwill of changes to net assets acquired during the period that such a change is identiﬁed,
+provided that any such change is within the measurement period (up to one year from the date of the acquisition).
+(2) During ﬁscal 2015, we recorded a $186 million goodwill impairment loss to our hardware products reporting unit. We considered several approaches to determine the fair value of our hardware products
+reporting unit as of March 1, 2015 and concluded the most appropriate to be the income approach. The fair value of our hardware products reporting unit pursuant to the income approach was impacted by
+lower forecasted operating results for this reporting unit, primarily caused by lower forecasted revenues and our continued investment in hardware products research and development activities. We compared
+the implied fair value of goodwill in our hardware products reporting unit to its carrying value, which resulted in the $186 million goodwill impairment loss and represented the aggregate amount of goodwill
+for our hardware products reporting unit. The aggregate hardware products reporting unit goodwill that was impaired in ﬁscal 2015 resulted from our acquisitions of Pillar Data Systems, Inc., Xsigo Systems,
+Inc., GreenBytes, Inc. and MICROS Systems, Inc. Such impairment loss was recorded to acquisition related and other expenses in our ﬁscal 2015 consolidated statement of operations. We did not recognize
+any goodwill impairment losses in fiscal 2016 or ﬁscal 2014.
+(3) Represents goodwill allocated to our other operating segments.
+1 10

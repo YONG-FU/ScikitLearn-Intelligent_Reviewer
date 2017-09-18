@@ -1,0 +1,40 @@
+NOTE 12 — FAIR VALUE MEASUREMENTS
+Fair Value Measurements on a Recurring Basis
+The following tables summarize the bases used to measure certain assets and liabilities at fair value on a recurring basis:
+Basis of Fair Value Measurements Quoted Prices Signiﬁcant
+on a Recurring Basis in Active Other Significant Counterparty
+at December 31, 2016 Markets for Observable Unobservable and Cash
+Identical Items Inputs Inputs Collateral
+1n minions (Level 1) (Level 2) (Level 3) Netting (1) Total
+|Assets at fair value: I
+Cash equivalents (g) $ 7 7 $ 500 $ 7 7 $ 7 7 $ 500
+[ Interests in trade accounts receivable I
+conduits (3) 7 7 7 7 1,237 ; 1,237
+quty securities (4) 619 87 7 7 7 7 706
+| Debt securities: (4) ‘
+Government debt (5) 7 7 608 7 7 7 7 608
+| Corporate bonds 7 7 645 ; ; 645 ‘
+Derivatives relating to: (6)
+| Commodities 48 29 4 (a) 56 l
+: Foreign currency 7 7 193 7 7 (109) 84 :
+[Total assets at fair value $ 667 $ 2,062 $ 1,237 $ (130) $ 3,836
+Liabilities at fair value:
+| Long-term debt (1) $ 7 7 $ 22,807 $ 4 $ 4 $ 22,807 I
+Derivatives relating to: (6)
+| Interest rates 7 7 5 ; ; 5 ‘
+Commodities 20 214 7 7 (a) 213
+i Foreign currency 7 7 139 ; (109) 30 i
+Total liabilities at fair value $ 20 $ 23,165 $ 7 7 $ (130) $ 23,055
+(1) Counterparty and cash collateral amounts represent the estimated net settlement amount when applying netting and set—oﬁ rights
+included in master netting arrangements between the Company and its counterparties and the cash collateral placed with the same
+counterparty.
+(2) Treasury Bills and money market funds included in "Cash and cash equivalents” in the consolidated balance sheets and held at amortized
+cost, which approximates fair value.
+(3) Included in "Accounts and notes receivable — Other" in the consolidated balance sheets. See Note 16 for additional information on
+transfers of financial assets.
+(4) The Company’s investments in equity and debt securities are primarily classified as available-for—sale and are included in “Other
+investments” in the consolidated balance sheets.
+(5) US. Treasury obligations, U.S. agency obligations, agency mortgage-backed securities and other municipalities’ obligations.
+(6) See Note 11 for the classification of derivatives in the consolidated balance sheets.
+(7) See Note 11 for information on fair value measurements of long-term debt.
+104

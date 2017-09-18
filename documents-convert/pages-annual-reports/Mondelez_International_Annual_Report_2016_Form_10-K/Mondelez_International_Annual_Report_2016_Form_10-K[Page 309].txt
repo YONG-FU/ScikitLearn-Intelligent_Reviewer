@@ -1,0 +1,27 @@
+(ii) with respect to each LIBO Rate Loan, such Loan will, on the last day of the then existing Interest Period therefor, be prepaid by the Borrower or
+be automatically Converted into a Base Rate Loan; and
+(iii) the obligation of the Lenders to make LIBO Rate Loans or to Convert Base Rate Loans into LIBO Rate Loans shall be suspended until the
+Administrative Agent shall notify the Borrower and the Lenders that the circumstances causing such suspension no longer exist.
+(0) Inadequate LIBO Rate . If, with respect to any LIBO Rate Loans, the Required Lenders notify the Administrative Agent that (i) they are unable
+to obtain matching deposits in the London interbank market at or about 11:00 am. (London time) on the second Business Day before the making of a Borrowing in
+sufﬁcient amounts to fund their respective LIBO Rate Loans as a part of such Borrowing during the Interest Period therefor or (ii) the LIBO Rate for any Interest
+Period for such Loans will not adequately reﬂect the cost to such Required Lenders of making, funding or maintaining their respective LIBO Rate Loans for such
+Interest Period, the Administrative Agent shall forthwith so notify the Borrower and the Lenders, whereupon (A) the Borrower of such LIBO Rate Loans will, on
+the last day of the then existing Interest Period therefor, either (x) prepay such Loans or (y) Convert such Loans into Base Rate Loans and (B) the obligation of the
+Lenders to make, or to Convert Base Rate Loans into, LIBO Rate Loans shall be suspended until the Administrative Agent shall notify Mondeléz and the Lenders
+that the circumstances causing such suspension no longer exist. In the case of clause (ii) above, each such Lender shall certify its cost of funds for each Interest
+Period to the Administrative Agent and Borrower as soon as practicable but in any event not later than 10 Business Days after the last day of such Interest Period.
+SECTION 2.09 Eees.
+(a) CommitmentFees.
+(i) Three-LYeariCommitmentsJ The Borrower agrees to pay to the Administrative Agent for the account of each Lender with a Three-Year
+Commitment a commitment fee (the “ Three-jieariCommitmentFee,”) on the aggregate amount of such Lender’s Three-Year Commitment from the date
+hereof in the case of each Initial Lender and from the effective date specified in the Assignment and Acceptance pursuant to which it became a Lender in the
+case of each other Lender until the earlier of (i) the Three-Year Funding Date, (ii) the last day of the Availability Period and (iii) the date of termination of
+the Three-Year Commitments by the Borrower hereunder, at the Applicable Commitment Fee Rate, and payable on such earliest date.
+(ii) Five-LYeariCommitmentsg The Borrower agrees to pay to the Administrative Agent for the account of each Lender with a Five-Year
+Commitment a commitment fee (the “ File-LYeariCommitmentFeef, and together with the Three-Year Commitment Fee, the “ CommitmentFeesf) on the
+aggregate amount of such Lender’s Five-Year Commitment from the date hereof in the case of each Initial Lender and from the effective date speciﬁed in the
+Assignment and Acceptance pursuant to which it became a Lender in the case of each other Lender until the earlier of (i) the F ive-Year Funding Date, (ii) the
+last day of the Availability Period and (iii) the date of termination of the Five-Year Commitments by the Borrower hereunder, at the Applicable Commitment
+Fee Rate and payable on such earliest date.
+-19-

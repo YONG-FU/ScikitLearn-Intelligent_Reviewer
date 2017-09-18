@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+revenue that we receive. In other cases, we agree that if the distributor does not realize specified minimum revenue we will adjust the distributor’s revenue-share
+percentage or provide make-whole arrangements.
+Some of our distribution agreements are not exclusive, have a short term, are terminable at will, or are subject to early termination provisions. The loss of
+distributors, increased distribution costs, or the renewal of distribution agreements on signiﬁcantly less favorable terms may cause our revenue to decline.
+If we are unable to license, acquire, create or aggregate compelling content and services at reasonable cost, or receive compelling content, the
+number of users of our services may not grow as anticipated, or may decline, or users’ level of engagement with our services may decline, all of
+which could harm our operating results.
+Our future success depends in part on our ability to aggregate compelling content and deliver that content through our online properties. We license from third
+parties much of the content and services on our online properties, such as news, stock quotes, weather, sports, video, and photos. In addition, our users also
+contribute content to us, and our employees and contractors produce unique content for us. We believe that users will increasingly demand high—quality content
+and services. We may need to make substantial payments to third parties from whom we license or acquire such content or services. Our ability to maintain and
+build relationships with such third—party providers is critical to our success. In addition, as users increasingly access the Internet via mobile and other alternative
+devices, we may need to enter into amended agreements with existing third-party providers to cover new devices. We may be unable to enter into new, or
+preserve existing, relationships with the third—parties whose content or services we seek to obtain. In addition, as competition for compelling content increases
+both domestically and internationally, our third-party providers may increase the prices at which they offer their content and services to us, stop offering their
+content or services to us, or offer their content and services on terms that are not agreeable to us. An increase in the prices charged to us by third-party
+providers or in the costs we incur to produce our own content could harm our operating results and ﬁnancial condition. Further, because many of our licenses for
+our content and services with third parties are non-exclusive, other media providers may be able to offer similar or identical content. This increases the
+importance of our ability to deliver compelling editorial content and personalization of this content for users in order to differentiate Yahoo from other businesses.
+If we are unable to license or acquire compelling content at reasonable cost, if other companies distribute content or services that are similar to or the same as
+that provided by us, or if we do not receive compelling content from our users, the number of users of our services may not grow as anticipated, or may decline,
+users’ level of engagement with our services may decline, clicks on our ads may decrease, or advertisers may reduce future purchases of our ads, all or any of
+which could harm our operating results.
+Interruptions, delays, or failures in the provision of our services could damage our reputation and harm our operating results.
+Delays or disruptions to our service, or the loss or compromise of data, could result from a variety of causes, including the following:
+- Our operations are susceptible to outages and interruptions due to ﬁre, ﬂood, earthquake, tsunami, other natural disasters, power loss, equipment or
+telecommunications failures, cyber attacks, terrorist attacks, political or social unrest, and other events over which we have little or no control. We do not
+have multiple site capacity for all of our services and some of our systems are not fully redundant in the event of delays or disruptions to service, so some
+data or systems may not be fully recoverable after such events.
+22

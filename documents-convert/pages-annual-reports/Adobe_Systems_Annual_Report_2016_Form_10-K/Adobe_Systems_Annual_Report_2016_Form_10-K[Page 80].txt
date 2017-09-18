@@ -1,0 +1,45 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Cash Flow Hedging—Hedges of F orecasted Foreign Currency Revenue and Interest Rate Risks
+In countries outside the United States, we transact business in US. Dollars and in various other currencies. We may use
+foreign exchange option contracts or forward contracts to hedge certain cash ﬂow exposures resulting from changes in these
+foreign currency exchange rates. These foreign exchange contracts, carried at fair value, have maturities of up to twelve months.
+We enter into these foreign exchange contracts to hedge a portion of our forecasted foreign currency denominated revenue in the
+normal course of business and accordingly, they are not speculative in nature.
+To receive hedge accounting treatment, all hedging relationships are formally documented at the inception of the hedge,
+and the hedges must be highly effective in offsetting changes to future cash ﬂows on hedged transactions. We record changes in
+the intrinsic value of these cash ﬂow hedges in accumulated other comprehensive income (loss) in our Consolidated Balance
+Sheets, until the forecasted transaction occurs. When the forecasted transaction occurs, we reclassify the related gain or loss on
+the cash ﬂow hedge to revenue. In the event the underlying forecasted transaction does not occur, or it becomes probable that it
+will not occur, we reclassify the gain or loss on the related cash ﬂow hedge from accumulated other comprehensive income (loss)
+to interest and other income (expense), net in our Consolidated Statements of Income at that time. If we do not elect hedge
+accounting, or the contract does not qualify for hedge accounting treatment, the changes in fair value from period to period are
+recorded in interest and other income (expense), net in our Consolidated Statements of Income.
+In December 2014, prior to issuing new long-term fixed rate debt, we entered into an interest rate lock agreement on a
+notional amount of $600 million to hedge against the variability of future interest payments due to changes in the benchmark
+interest rate. This instrument was designated as a cash ﬂow hedge. Upon issuance of our $1 billion of 3.25% senior notes due
+February 1, 2025 (the “2025 Notes”) in January 2015, we terminated the instrument and incurred a loss of $16.2 million. This loss
+was recorded in the stockholders’ equity section in our Consolidated Balance Sheets in accumulated other comprehensive income
+(loss) and will be reclassified to interest expense over a ten-year term consistent with the impact of the hedged item. See Note 15
+for further details regarding our debt.
+For fiscal 2016, there were no net gains or losses recognized in other income relating to hedges of forecasted transactions
+that did not occur. In ﬁscal 2015 and 2014 these net gains or losses were immaterial.
+Fair Value Hedging—Hedges of Interest Rate Risks
+During the third quarter of fiscal 2014, we entered into interest rate swaps designated as a fair value hedge related to our
+$900 million of 4.75% fixed interest rate senior notes due February 1, 2020 (the “2020 Notes”). In effect, the interest rate swaps
+convert the ﬁxed interest rate on our 2020 Notes to a ﬂoating interest rate based on the LIBOR. Under the terms of the swaps, we
+will pay monthly interest at the one-month LIBOR rate plus a fixed number of basis points on the $900 million notional amount
+through February 1, 2020. In exchange, we will receive 4.75% fixed rate interest from the swap counterparties. See Note I 5 for
+further details regarding our debt.
+The interest rate swaps are accounted for as fair value hedges and substantially offset the changes in fair value of the hedged
+portion of the underlying debt that are attributable to the changes in market risk. Therefore, the gains and losses related to changes
+in the fair value of the interest rate swaps are included in interest and other income (expense), net in our Consolidated Statements
+of Income. The fair value of the interest rate swaps is reﬂected in other assets in our Consolidated Balance Sheets.
+As of December 2, 2016, total notional amounts of outstanding contracts were $313.8 million which included the notional
+equivalent of $152.8 million in Euros, $33.6 million in British Pounds, $46.5 million in Japanese Yen, $26.4 million in Indian
+Rupees, and $54.5 million in other foreign currencies. As of November 27, 2015, total notional amounts of outstanding contracts
+were $228.3 million which included the notional equivalent of $75.8 million in Euros, $44.3 million in British Pounds, $37.8
+million in Australian Dollars, $28.8 million in Japanese Yen, and $41.6 million in other foreign currencies. At December 2, 2016
+and November 27, 2015, the outstanding balance sheet hedging derivatives had maturities of 180 days or less.
+80

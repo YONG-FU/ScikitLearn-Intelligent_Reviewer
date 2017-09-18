@@ -1,0 +1,44 @@
+Method of Accounting and OurAssumptions
+We account for our employee stock options under the fair value method of accounting using a Black-Scholes
+valuation model to measure stock option expense at the date of grant. The fair value of RSUs is measured
+at the market price of the Company’s stock on the date of grant. The fair value of PSUs is measured at the
+market price of the Company’s stock on the date of grant with the exception of market-based awards, for
+which we use the Monte-Carlo simulation model to determine the fair value. The Monte-Carlo simulation
+model uses the same input assumptions as the Black-Scholes model; however, it also further incorporates
+into the fair-value determination the possibility that the market condition may not be satisfied. Compensation
+costs related to these awards are recognized regardless of whether the market condition is satisfied, provided
+that the requisite service has been provided. Long-term cash awards that qualify as liability awards under
+share-based compensation guidance are valued through the end of the performance period on a mark-to-
+market basis using the Monte Carlo simulation model until actual performance is determined.
+All stock option grants have an exercise price equal to the fair market value of our common stock on the
+date of grant and generally have a 10-year term. We do not backdate, reprice or grant share-based compensation
+awards retroactively. Repricing of awards would require shareholder approval under the LTIP.
+The fair value of share-based award grants is amortized to expense over the vesting period, primarily three
+years. Awards to employees eligible for retirement prior to the award becoming fully vested are amortized
+to expense over the period through the date that the employee first becomes eligible to retire and is no longer
+required to provide service to earn the award. Executives who are awarded long-term incentives based on
+their performance may generally elect to receive their grant in the form of stock options or RSUs, or a
+combination thereof. Executives who elect stock options receive four stock options for every one RSU that
+would have otherwise been granted. Certain executive officers and other senior executives do not have a
+choice and, through 2015, were granted a combination of 60% PEPunits measuring both absolute and relative
+stock price performance and 40% long-term cash based on achievement of specific performance operating
+metrics. Beginning in 2016, certain executive officers and other senior executives were granted 66%
+performance stock units and 34% long-term cash, each of which are subject to pre-established performance
+targets. Certain executives are granted performance-based stock units which require the achievement of
+specified financial and/or operational performance metrics. The number of shares may be increased to the
+maximum or reduced to the minimum threshold based on the results of these performance metrics in
+accordance with the terms established at the time of the award.
+Our weighted-average Black-Scholes fair value assumptions are as follows:
+2016 2015 2014
+[Expected life 7 6 years 7 years 6 years‘
+Risk-free interest rate 1.4% 1.8% 1.9%
+[Expected volatility 12% 15% 16%}
+Expected dividend yield 2.7% 2.7% 2.9%
+The expected life is the period over which our employee groups are expected to hold their options. It is based
+on our historical experience with similar grants. The risk-free interest rate is based on the expected US.
+Treasury rate over the expected life. Volatility reﬂects movements in our stock price over the most recent
+historical period equivalent to the expected life. Dividend yield is estimated over the expected life based on
+our stated dividend policy and forecasts of net income, share repurchases and stock price. In addition, we
+use historical data to estimate forfeiture rates and record share-based compensation expense only for those
+awards that are expected to vest.
+102

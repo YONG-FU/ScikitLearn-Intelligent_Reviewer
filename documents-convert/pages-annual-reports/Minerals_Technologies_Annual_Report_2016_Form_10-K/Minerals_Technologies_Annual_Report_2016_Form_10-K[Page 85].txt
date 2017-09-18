@@ -1,0 +1,52 @@
+MINERALS TECHNOLOGIES INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+variable nature of underlying interest rates. Short-term investments are recorded at cost, which approximates fair market
+value.
+Derivative Financial Instruments
+The Company records derivative ﬁnancial instruments which are used to hedge certain foreign exchange risk at fair value
+on the balance sheet. See Note 11 for a full description of the Company's hedging activities and related accounting policies.
+Revenue Recognition
+Revenue from sale of products is recognized when title passes to the customer, the customer assumes the risks and
+rewards of ownership, and collectability is reasonably assured; generally, this occurs when the goods are shipped to the
+customer. In most of the Company's PCC contracts, the price per ton is based upon the total number of tons sold to the
+customer during the year. Under those contracts the price billed to the customer for shipments during the year is based on
+periodic estimates of the total annual volume that will be sold to such customer. Revenues are adjusted at the end of each
+year to reﬂect the actual volume sold. The Company also has consignment arrangements with certain customers in our
+Refractories segment. Revenues for these transactions are recorded when the consigned products are consumed by the
+customer.
+Revenue from sales of equipment is recorded upon completion of installation and receipt of customer acceptance.
+Revenue from services is recorded when the services have been performed and collectability is reasonably assured.
+Revenue from long-term construction contracts is recorded using the percentage-of—completion method. Progress is
+generally based upon costs incurred to date as compared to the total estimated costs to complete the work under the contract
+or the amount of product installed in relation to the total amount expected to be installed. All known or anticipated losses on
+contracts are provided when they become evident. Cost adjustments that are in the process of being negotiated with
+customers for extra work or changes in scope of work are included in revenue when collection is reasonably assured.
+Foreign Currency
+The assets and liabilities of the Company's international subsidiaries are translated into US. dollars using exchange rates
+at the respective balance sheet date. The resulting translation adjustments are recorded in accumulated other comprehensive
+income (loss) in shareholders' equity. Income statement items are generally translated at monthly average exchange rates
+prevailing during the period. International subsidiaries operating in highly inﬂationary economies translate non-monetary
+assets at historical rates, while net monetary assets are translated at current rates, with the resulting translation adjustments
+included in net income. At December 31, 2016, the Company had no international subsidiaries operating in highly
+inﬂationary economies.
+Income Taxes
+Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences
+between the ﬁnancial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates in effect for the year in which those temporary differences are
+expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in
+income in the period that includes the enactment date.
+The Company operates in multiple taxing jurisdictions, both within the US. and outside the US. In certain situations, a
+taxing authority may challenge positions that the Company has adopted in its income tax ﬁlings. The Company regularly
+assesses its tax position for such transactions and includes reserves for those differences in position. The reserves are utilized
+or reversed once the statute of limitations has expired or the matter is otherwise resolved.
+The application of income tax law is inherently complex. Laws and regulations in this area are voluminous and are often
+ambiguous. As such, we are required to make many subjective assumptions and judgments regarding our income tax
+exposures. Interpretations of and guidance surrounding income tax laws and regulations change over time. As such, changes
+in our subjective assumptions and judgments can materially affect amounts recognized in the consolidated balance sheets and
+statements of operations. The Company's accounting policy is to recognize interest and penalties as part of its provision for
+income taxes. See Note 7 for additional detail on our uncertain tax positions.
+The accompanying ﬁnancial statements do not include a provision for US. income taxes on international subsidiaries'
+unremitted earnings, which are expected to be permanently reinvested overseas.
+Research and Development
+Research and development costs are expensed as incurred.
+F-9

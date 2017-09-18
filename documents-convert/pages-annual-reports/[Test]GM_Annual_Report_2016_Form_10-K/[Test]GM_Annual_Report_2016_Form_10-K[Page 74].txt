@@ -1,0 +1,41 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+In setting new strategic asset mixes, consideration is given to the likelihood that the selected asset mixes will effectively ﬁnd the projected pension plan
+liabilities, while aligning with the risk tolerance of the plans' ﬁduciaries. The strategic asset mixes for U.S. deﬁned beneﬁt pension plans are increasingly
+designed to satisfy the competing objectives of improving funded positions (market value of assets equal to or greater than the present value of the liabilities)
+and mitigating the possibility of a deterioration in funded status.
+Derivatives may be used to provide cost effective solutions for rebalancing investment portfolios, increasing or decreasing exposure to various asset classes
+and for mitigating risks, primarily interest rate and currency risks. Equity and ﬁxed income managers are permitted to utilize derivatives as efﬁcient
+substitutes for traditional securities. Interest rate derivatives may be used to adjust portfolio duration to align with a plan's targeted investment policy.
+Alternative investment managers are permitted to employ leverage, including through the use of derivatives, which may alter economic exposure.
+In December 2016 an investment policy study was completed for the U.S. pension plans. The study resulted in new target asset allocations being approved
+for the U.S. pension plans with resulting changes to the expected long-term rate of return on assets. The weighted-average long-term rate of return on assets
+decreased from 6.3% at December 31, 2015 to 6.2% at December 31, 2016. The expected long-term rate of return on plan assets used in determining pension
+expense for non—U.S. plans is determined in a similar manner to the U.S. plans.
+Target Allocation Percentages The following table summarizes the target allocations by asset category for U.S. and non-U.S. deﬁned beneﬁt pension
+plans:
+December 31, 2016 December 31, 2015
+U.S. Non-U.S. U.S. Non-U.S.
+{Equity 15% 21% 14% 21%
+Debt 61% 50% 62% 50%
+{Other(a) 24% _ 29% _ 24% _ 29%
+Total 100% 100% 100% 100%
+includes private equity, real estate and absolute return strategies which mainly consist of hedge funds.
+Assets and Fair Value Measurements The following tables summarize the fair value of U.S. and non-U.S. deﬁned beneﬁt pension plan assets by asset class:
+December 31, 2016 December 31, 2015
+Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total
+U.S. Pension Plan Assets
+{Common and preferred stocks $ 8,288 $ 35 $ 3 $ 8,326 $ 7,637 $ 18 $ 8 $ 7,663 {
+Government and agency debt securities(a) — 1 1,3 74 — 11,374 — 14,318 — 14,318
+{Corporate and other debt securities — 25,452 — 25 ,452 — 22,963 1 22,964 {
+Other investments, net 486 288 403 1,177 466 130 472 1,068
+{Net plan assets subject to leveling $ 8,774 $ 37,149 $ 406 46,329 $ 8,103 $ 37,429 $ 481 46,013 {
+Plan assets measured at net asset value
+{Investment funds 6,509 6,321 {
+Private equity and debt investments 4,012 4,529
+{Real estate investments 3,634 3,828 {
+Total plan assets measured at net asset value 14,155 14,678
+{Other plan assets, net(b) 1,138 381 {
+Net plan assets 8 61,622 r 3 61,072 r
+71

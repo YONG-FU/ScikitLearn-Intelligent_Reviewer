@@ -1,0 +1,39 @@
+INDENTURE dated as of December 2, 2016 among T esoro Logistics LP, a Delaware limited partnership (“ILLP”), and Tesoro Logistics Finance Corp.
+(“EinanceiCorpf’ and, together with TLLP, the “Issu,ers,”), the Guarantors (as deﬁned herein) and US. Bank National Association, a national banking
+association, as trustee.
+The Issuers, the Guarantors and the Trustee agree as follows for the beneﬁt of each other and for the equal and ratable beneﬁt of the Holders (as deﬁned
+herein) of the 5.25 % Senior Notes due 2025 (the “Notes,”):
+ARTICLE 1
+DEFINITIONS AND INCORPORATION
+BY REFERENCE
+Section 1.01 Deﬁnitions.
+“Acquired Debt” means, with respect to any speciﬁed Person:
+(1) Indebtedness of any other Person existing at the time such other Person is merged with or into or became a Restricted Subsidiary of such
+speciﬁed Person, whether or not such Indebtedness is incurred in connection with, or in contemplation of, such other Person merging with or into, or
+becoming a Restricted Subsidiary of, such speciﬁed Person, but excluding Indebtedness which is extinguished, retired or repaid in connection with
+such Person merging with or becoming a Restricted Subsidiary of such speciﬁc Person; and
+(2) Indebtedness secured by a Lien encumbering any asset acquired by such speciﬁed Person, but excluding Indebtedness which is extinguished,
+retired or repaid in connection with such asset being acquired by such Person.
+“Acquisition” means the acquisition of QEP Field Services, LLC pursuant to the Acquisition Agreement.
+“Acquisition Agreement” means the Membership Interest Purchase Agreement, dated as of October 19, 2014, by and between Tesoro Logistics LP and
+QEP Field Services Company.
+"AdditionaLNotes” means additional Notes (other than the applicable Initial Notes) issued under this Indenture in accordance with Sections,2.0,2, 2,1,3,
+and 4,09, hereof, as part of the same series of the Initial Notes.
+“Afﬁliate” of any speciﬁed Person means any other Person directly or indirectly controlling or controlled by or under direct or indirect common control
+with such speciﬁed Person. For purposes of this deﬁnition, “control,” as used with respect to any Person, means the possession, directly or indirectly, of the
+power to direct or cause the direction of the management or policies of such Person, whether through the ownership of voting securities, by agreement or
+otherwise. For purposes of this deﬁnition, the terms “controlling,” “controﬁedibyf and “undenoommonoontrol with” have correlative meanings.
+“Agent” means any Registrar, co-registrar, Paying Agent or additional paying agent.
+“ApplicablePremium” means, with respect to any Note on any Redemption Date, the greater of:
+(l) 1.0% of the principal amount of the Note; and
+(2) the excess of: (a) the present value at such Redemption Date of (i) the Redemption Price of such Note at January 15, 2021 (such redemption
+price being described in Section 3.07(a)(2)) plus (ii) all required interest payments due on such Note through January 15, 2021 (excluding accrued and
+unpaid interest to, but excluding, the Redemption Date), computed using a discount rate equal to the Treasury Rate as of such Redemption Date plus
+50 basis points; over (b) the principal amount of the Note.
+“ApplicableProcedures," means, with respect to any transfer or exchange of or for beneﬁcial interests in any Global Note, the rules and procedures of
+the Depositary, Euroclear and Clearstream that apply to such transfer or exchange.
+“Asset Sale” means:
+(1) the sale, lease, conveyance or other disposition of any assets or rights of TLLP or any of its Restricted Subsidiaries; provided that the sale,
+lease, conveyance or other disposition of all or substantially all of the assets of TLLP and its Restricted Subsidiaries taken as a whole will be governed
+by Section 4.15 hereof and/or Section 5 .01 hereof and not by Section 4.10 hereof; and
+-2-

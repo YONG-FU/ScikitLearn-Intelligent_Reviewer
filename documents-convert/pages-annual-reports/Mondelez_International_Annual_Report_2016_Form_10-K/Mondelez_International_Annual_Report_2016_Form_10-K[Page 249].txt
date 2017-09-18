@@ -1,0 +1,27 @@
+(b) Effectiveness of Notices . All such notices and communications shall, when mailed, telecopied or emailed, be effective when deposited in the
+mail, telecopied or emailed, respectively, except that notices and communications to the Administrative Agent, pursuant to Article II, III or VII shall not be
+effective until received by the Administrative Agent, or if the date of receipt is not a Business Day, as of 9:00 am. (New York City time) on the next succeeding
+Business Day. Delivery by telecopier or email of an executed counterpart of any amendment or waiver of any provision of this Agreement or of any Exhibit hereto
+to be executed and delivered hereunder shall be effective as delivery of a manually executed counterpart thereof.
+SECTION 9.03 HoiWaiver;Remedies. No failure on the part of any Lender or the Administrative Agent to exercise, and no delay in exercising, any
+right hereunder or under any Note shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise
+thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies provided by law.
+SECTION 9.04 C,osts,and,Exp,enses,.
+(a) AdministrativeiAgent;,Enforcement,. Mondeléz agrees to pay on demand all reasonable costs and expenses in connection with the preparation,
+execution, delivery, administration (excluding any cost or expenses for administration related to the overhead of the Administrative Agent), modification and
+amendment of this Agreement and the documents to be delivered hereunder, including, without limitation, the reasonable fees and out-of-pocket expenses of
+counsel for the Administrative Agent and the Joint Bookrunners with respect thereto and with respect to advising the Administrative Agent as to its rights and
+responsibilities under this Agreement (which, insofar as such costs and expenses relate to the preparation, execution and delivery of this Agreement and the closing
+hereunder, shall be limited to the reasonable fees and expenses of Cahill, Gordon & Reindel LLP), and all costs and expenses of the Lenders and the Administrative
+Agent, if any (including, without limitation, reasonable counsel fees and expenses of the Lenders and the Administrative Agent), in connection with the
+enforcement (whether through negotiations, legal proceedings or otherwise) of this Agreement and the other documents to be delivered hereunder.
+(b) Prepayment of LIBO Rate Advances or Floating Rate Bid Advances . If any payment of principal of LIBO Rate Advance or Floating Rate Bid
+Advance is made other than on the last day of the Interest Period for such Advance or at its maturity, as a result of a payment pursuant to Section 2.11, acceleration
+of the maturity of the Advances pursuant to Section 6.02, an assignment made as a result of a demand by Mondeléz pursuant to Section 9.07(a) or for any other
+reason, Mondeléz shall, upon demand by any Lender (with a copy of such demand to the Administrative Agent), pay to the Administrative Agent for the account of
+such Lender any amounts required to compensate such Lender for any additional losses, costs or expenses which it may reasonably incur as a result of such
+payment, including, without limitation, any loss (excluding loss of anticipated profits), cost or expense incurred by reason of the liquidation or reemployment of
+deposits or other funds acquired by any Lender to fund or maintain such Advance. Without prejudice to the survival of any other agreement of any Borrower or
+Mondeléz hereunder, the agreements and obligations of each Borrower and Mondeléz contained in Section 202(0), 2.05, 2.12, 2.15, this Section 9.04(b) and
+Section 9.04(c) shall survive the payment in full of principal and interest hereunder.
+-53-

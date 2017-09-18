@@ -1,0 +1,22 @@
+SECTION 9.05 Igght of Set-Off . Upon (i) the occurrence and during the continuance of any Event of Default and (ii) the making of the request or
+the granting of the consent specified by Section 6.02 to authorize the Administrative Agent to declare the Loans due and payable pursuant to the provisions of
+Section 6.02, each Lender is hereby authorized at any time and from time to time after providing written notice to the Administrative Agent of its intention to do so,
+to the fullest extent permitted by law, to set off and apply any and all deposits (general or special, time or demand, provisional or ﬁnal) at any time held and other
+indebtedness at any time owing by such Lender or any of its afﬁliates to or for the credit or the account of Mondeléz or the Borrower against any and all of the
+obligations of the Borrower or Mondelez now or hereafter existing under this Agreement, whether or not such Lender shall have made any demand under this
+Agreement and although such obligations may be unmatured. Each Lender shall promptly notify the appropriate Borrower or Mondeléz, as the case may be, after
+any such set-off and application, provided that the failure to give such notice shall not affect the validity of such set-off and application. The rights of each Lender
+and its affiliates under this Section 9.05 are in addition to other rights and remedies (including, without limitation, other rights of set-off) that such Lender and its
+affiliates may have.
+SECTION 9.06 Binding Effect . This Agreement shall be binding upon and inure to the benefit of Mondeléz, the Borrower, the Administrative
+Agent and each Lender and their respective successors and assigns, except that neither the Borrower nor Mondeléz shall have the right to assign its rights hereunder
+or any interest herein without the prior written consent of each of the Lenders.
+SECTION 9.07 Assignments and Participations .
+(a) Assignment of Lender Obligations . Each Lender may assign to one or more Persons all or a portion of its rights and obligations under this
+Agreement (including, without limitation, all or a portion of its Three-Year Commitment, F ive-Year Commitment , Three-Year Loans and/or Five-Year Loans
+owing to it, as the case may be), subject to the following:
+(i) the amount of the Commitment of the assigning Lender being assigned pursuant to each such assignment (determined as of the date of the
+Assignment and Acceptance with respect to such assignment) shall in no event, other than with respect to assignments to other Lenders, or affiliates of
+Lenders, or assignment of the entire Commitment or Loan amount held by such Lender, be less than $5,000,000, subject in each case to reduction at the sole
+discretion of Mondeléz, and shall be an integral multiple of $1,000,000;
+-47-

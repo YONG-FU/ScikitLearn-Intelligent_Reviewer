@@ -1,0 +1,39 @@
+Treasury
+c P 'd-' Rt ' d 6
+Consolidated Statements of Stockholders’ Equity cglpitgi 5331233 Aocl
+(Millions of dollars, except per-share amounts)
+Balance,December31,2013 $1,741 $1,211 $28,173 $(19,790) $(528)
+2014
+Netincome.......................................... — — 2,821 — —
+Dividends declared and paid ($1.24 per share) — — (1,323) — —
+1‘ Common stock issued for stock-based awards — (226) — 781 —
+o Stockrepurchases..................................... — — — (2,831) —
+g Stockcompensation................................... — 277 — — —
+.. Excess tax benefitfor stock compensation — 110 — — —
+z Othercomprehensive income (loss), netoftaxes — — — — (4)
+Dividend equivalents paid onrestricted stock units — — (18) — —
+— (4) — — —
+Balance, December31,2014............................... 1,741 1,368 29,653 (21,840) (532)
+2015
+Netincome.......................................... — — 2,986 — —
+Dividends declared and paid ($1.40 per share) — — (1,444) — —
+Common stock issued for stock-based awards — (116) — 513 —
+Stockrepurchases..................................... — — — (2,741) —
+Stockcompensation................................... — 286 — — —
+Excess tax benefit for stock compensation — 90 — — —
+Othercomprehensive income (loss), netoftaxes — — — — —
+Dividend equivalents paid onrestricted stock units — — (19) — —
+— 1 — — —
+Balance,December31,2015 1,741 1,629 31,176 (24,068) (532)
+2016
+Netincome.......................................... — — 3,595 — —
+Dividends declared and paid ($1.64 per share) — — (1,646) — —
+Common stock issued for stock-based awards — (204) — 677 —
+Stockrepurchases.................................... — — — (2,132) —
+Stockcompensation.................................. — 252 — — —
+Other comprehensive income (loss), net of taxes . . . . . . . . . . . . — — — — 6
+Dividend equivalents paid on restricted stock units . . . . . . . . . . — — (18) — —
+— (3) — — —
+Balance,December31,2016 $1,741 $1,674 $33,107 $(25,523) $(526)
+See accompanying notes.
+30 TEXAS INSTRUMENTS - 2016FORM10-K

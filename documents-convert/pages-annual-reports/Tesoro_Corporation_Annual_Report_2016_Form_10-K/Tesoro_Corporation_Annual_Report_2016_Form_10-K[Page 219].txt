@@ -1,0 +1,39 @@
+After an amendment, supplement or waiver becomes effective, it shall bind every Holder, unless it makes a change described in any of the clauses
+(1) through (9) of Section 9.02, in which case, the amendment, supplement or waiver shall bind only each Holder of a note who has consented to it and every
+subsequent Holder of a Note or portion of a Note that evidences the same indebtedness as the consenting Holder’s Note.
+Section 9.05 Notation on or Exchange of Notes.
+The Trustee may place an appropriate notation about an amendment, supplement or waiver on any Note thereafter authenticated. The Issuers in
+exchange for all Notes may issue and the Trustee shall, upon receipt of an Authentication Order, authenticate new Notes that reﬂect the amendment,
+supplement or waiver.
+Failure to make the appropriate notation or issue a new Note will not affect the validity and effect of such amendment, supplement or waiver.
+Section 9.06 Trustee to Sign Amendments, etc.
+The Trustee will sign any amended or supplemental indenture authorized pursuant to this Article 9 if the amendment or supplement does not adversely
+affect the rights, duties, liabilities or immunities of the Trustee. The Issuers may not sign an amended or supplemental indenture until the Boards of Directors
+of each of the Issuers approves it. In executing any amended or supplemental indenture, the Trustee will be entitled to receive and (subject to Section 7.01
+hereof) will be fully protected in relying upon, in addition to the documents required by Section 12.04 hereof, an Ofﬁcers’ Certiﬁcate and an Opinion of
+Counsel stating that the execution of such amended or supplemental indenture is authorized or permitted by this Indenture. Notwithstanding the foregoing,
+neither an Opinion of Counsel nor an Ofﬁcers’ Certiﬁcate, nor a board resolution, shall be required for the Trustee to execute any supplemental indenture to
+this Indenture, the form of which is attached as EXhibiLB hereto, adding a new Guarantor under this Indenture.
+ARTICLE 10
+NOTE GUARANTEES
+Section 10.01 Guarantee.
+(a) Subject to this Article 10, each of the Guarantors hereby, jointly and severally, unconditionally guarantees, on an unsecured senior basis, to each
+Holder of a Note authenticated and delivered by the Trustee and to the Trustee and its successors and assigns, irrespective of the validity and enforceability
+of this Indenture, the Notes or the obligations of the Issuers hereunder or thereunder, that:
+(1) the principal of, premium, if any, and interest on, the Notes will be promptly paid in ﬁlll when due, whether at maturity, by acceleration,
+redemption or otherwise, and interest on the overdue principal of and interest on the Notes, if any, if lawﬁll, and all other obligations of the Issuers to
+the Holders or the Trustee hereunder or thereunder will be promptly paid in full or performed, all in accordance with the terms hereof and thereof; and
+(2) in case of any extension of time of payment or renewal of any Notes or any of such other obligations, that same will be promptly paid in ﬁlll
+when due or performed in accordance with the terms of the extension or renewal, whether at stated maturity, by acceleration or otherwise.
+Failing payment when due of any amount so guaranteed or any performance so guaranteed for whatever reason, the Guarantors will be jointly and
+severally obligated to pay the same immediately. Each Guarantor agrees that this is a guarantee of payment and not a guarantee of collection.
+(b) The Guarantors hereby agree that their obligations hereunder are unconditional, irrespective of the validity, regularity or enforceability of the Notes
+or this Indenture, the absence of any action to enforce the same, any waiver or consent by any Holder with respect to any provisions hereof or thereof, the
+recovery of any judgment against the Issuers, any action to enforce the same or any other circumstance (other than complete performance) which might
+otherwise constitute a legal or equitable discharge or defense of a Guarantor. Each Guarantor further, to the extent permitted by law, hereby waives diligence,
+presentment, demand of payment, ﬁling of claims with a court in the event of insolvency or bankruptcy of an Issuer, any right to require a proceeding ﬁrst
+against an Issuer, protest, notice and all demands whatsoever and covenants that its Note Guarantee will not be discharged except by complete performance
+of the obligations contained in the Notes and this Indenture.
+(c) If any Holder or the Trustee is required by any court or otherwise to return to an Issuer, the Guarantors or any custodian, trustee, liquidator or other
+similar ofﬁcial acting in relation to any of the Issuers or the Guarantors, any amount paid by an Issuer or
+-5 5-

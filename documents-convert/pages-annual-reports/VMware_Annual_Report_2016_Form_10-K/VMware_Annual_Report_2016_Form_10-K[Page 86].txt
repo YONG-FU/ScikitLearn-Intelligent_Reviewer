@@ -1,0 +1,33 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+reinvested in VMware’s foreign operations and no provision for US. taxes has been provided with respect to such income. At this time, it is not practicable to
+estimate the amount of tax that may be payable if VMware were to repatriate these earnings.
+Tax Sharing Agreement with Dell
+On September 6, 2016, VMware entered into an amended tax sharing agreement with Dell, in connection with, and effective as of, the Dell Acquisition. The
+amended tax sharing agreement amends and restates the tax sharing agreement dated August 13, 2007 between VMware and EMC. Key contractual terms of the
+amended tax sharing agreement are substantially unchanged from the original agreement with EMC.
+Although VMware’s results are included in the Dell consolidated return for US. federal income tax purposes, VMware’s income tax provision is calculated
+primarily as though VMware were a separate taxpayer. However, certain transactions that VMware and Dell are parties to are assessed using consolidated tax
+return rules.
+VMware has made payments to Dell pursuant to the tax sharing agreement. The following table summarizes the payments made during the years ended
+December 31, 2016 , 2015 , and 2014 (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+[Payments from VMware to Dell 3; 373 $ 144 $ 150 1
+Payments from VMware to Dell under the tax sharing agreement relate to VMware’s estimated portion of federal income taxes on Dell’s consolidated tax
+return as well as the state payments for combined states. The timing of the tax payments due to and from Dell is governed by the tax sharing agreement. The
+amounts that VMware owes to Dell for the estimated portion of federal income taxes on Dell’s consolidated tax return differ from the amounts VMware would
+owe on a separate return basis and the difference is presented as a component of stockholders’ equity. In the years ended December 31, 2016 , 2015 and 2014 , the
+difference between the amount of tax calculated on a separate return basis and the amount of tax calculated per the tax sharing agreement was recorded in
+stockholders’ equity as an increase of $15 million and $13 million , and a decrease of $12 million , respectively.
+As a result of the activity under the tax sharing agreement with Dell, amounts due to and from Dell, net as of December 31, 2016 and 2015 consisted of the
+following (table in millions):
+December 31,
+2016 2015
+’Income tax-related asset, net $ 181 $ — 1
+Income tax due to Dell — (18)
+VMware’s expected tax obligation includes two US. tax return periods in 2016 as a result of the Dell acquisition. Cash payments to Dell for taxes reﬂect
+expected tax obligations for the tax return period prior to the Dell acquisition and the period from the date of the Dell acquisition through the end of Dell’s fiscal
+year end. The $181 million asset shown in the table above was included in other current assets on VMware’s consolidated balance sheets as of December 31, 2016.
+83

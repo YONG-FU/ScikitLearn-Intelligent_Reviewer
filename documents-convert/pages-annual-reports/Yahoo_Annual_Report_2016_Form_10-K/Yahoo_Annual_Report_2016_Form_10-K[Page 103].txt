@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+The fair value of the equity investments in Alibaba Group and Hortonworks will vary over time and is subject to a variety of risks including: company
+performance, macro-economic, regulatory, industry, and systemic risks of the equity markets overall. Consequently, the carrying value of the Company’s
+investment portfolio will vary over time as the value of the Company’s investments in marketable equity securities fluctuates, including Alibaba Group and
+Hortonworks changes.
+Accounts receivable are typically unsecured and are derived from revenue earned from customers. The Company performs ongoing credit evaluations of its
+customers and maintains allowances for potential credit losses.
+The Company’s derivative instruments, including the convertible note hedge transactions, expose the Company to credit risk to the extent that its derivative
+counterparties become unable to meet their ﬁnancial obligations under the terms of the agreements. The Company seeks to mitigate this risk by limiting its
+derivative counterparties to major ﬁnancial institutions and by spreading the risk across several major ﬁnancial institutions. In addition, the potential risk of loss
+with any one counterparty resulting from this type of credit risk is monitored on an ongoing basis. See “Note 9—Foreign Currency Derivative Financial
+Instruments” for additional information related to the Company’s derivative instruments.
+The Company also holds warrants in Hortonworks, which expose the Company to variability in fair value based on changes in the stock price and volatility as
+inputs to the Black-Scholes model.
+Revenue under the Company’s Search and Advertising Services and Sales Agreement (as amended, “Microsoft Search Agreement”) with Microsoft Corporation
+(“Microsoft”) represented approximately 35 percent, 35 percent, and 37 percent of the Company’s revenue for the years ended December 31, 2014, 2015, and
+2016, respectively, and no other individual customer accounted for 10 percent or more of the Company’s revenue for 2014, 2015, or 2016. As of December 31,
+2015 and 2016, no one customer accounted for 10 percent or more of the accounts receivable balance.
+Comprehensive Income (Loss). Comprehensive income (loss) consists of two components, net income (loss) and other comprehensive income (loss). Other
+comprehensive income (loss) refers to revenue, expenses, and gains and losses that under GAAP are recorded as an element of stockholders’ equity but are
+excluded from net income (loss). The Company’s other comprehensive income (loss) consists of foreign currency translation adjustments from subsidiaries or
+equity method investments where the local currency is the functional currency, from unrealized gains and losses on marketable securities classiﬁed as
+available-for-sale, unrealized gains and losses on cash flow hedges, net changes in fair value of derivative instruments related to the Company’s net investment
+hedges, as well as the Company’s share of its equity investees’ other comprehensive income.
+Foreign Currency. The functional currency of the Company’s international subsidiaries is evaluated on a case-by-case basis and is often the local currency.
+The ﬁnancial statements of these subsidiaries are translated into U.S. dollars using period—end rates of exchange for assets and liabilities, historical rates of
+exchange for equity, and average rates of exchange for the period for revenue and expenses. Translation gains (losses) are recorded in accumulated other
+comprehensive income as a component of stockholders’ equity. In addition, the Company records translation gains (losses) related to its foreign equity method
+investments in accumulated other comprehensive income. The Company records foreign currency transaction gains and losses, realized and unrealized and
+foreign exchange gains and losses due to re-measurement of monetary assets and liabilities denominated in non-functional currencies in other income
+(expense), net in the consolidated statements of operations. The Company recorded $15 million and $22 million net losses in 2014 and 2015, respectively, and a
+$4 million net gain in 2016.
+102

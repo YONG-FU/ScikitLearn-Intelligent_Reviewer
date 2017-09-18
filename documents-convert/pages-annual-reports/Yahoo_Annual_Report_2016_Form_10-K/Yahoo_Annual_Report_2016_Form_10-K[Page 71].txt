@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+sale of 140 million Alibaba Group ADSs sold in the Alibaba Group IPO that took place during the year ended December 31 , 2014. Any taxes assessed and paid
+in China are expected to be ultimately offset and recovered in the U.S. through the use of foreign tax credits.
+Tax authorities from the Brazilian State of Sao Paulo have assessed certain indirect taxes against our Brazilian subsidiary, Yahoo! do Brasil Internet Ltda.,
+related to online advertising services. The assessment is for calendar years 2008 through 2012 and as of December 31, 2016 totals approximately $140 million.
+We currently believe the assessment is without merit. We believe the risk of loss is remote and have not recorded an accrual for the assessment.
+Earnings in Equity Interests
+We record our share of the results of earnings in equity interests, including tax impacts, one quarter in arrears, within earnings in equity interests in the
+consolidated statements of operations.
+The following table presents earnings in equity interests for the periods presented (in thousands):
+Years Ended December 31,
+2014 2015 2016
+Earnings in equity interests 8 1,057,863 8 383,571 $ 363,283 l
+The decrease for the year ended December 31, 2016, compared to 2015, was due primarily to the financial performance of Yahoo Japan. The decrease for the
+year ended December 31, 2015, compared to 2014, was due primarily to the change in accounting for our investment in Alibaba Group, which we now record as
+a marketable equity security. Commencing with the Alibaba Group lPO in September 2014, we no longer use the equity method to account for our interest in
+Alibaba Group, and our earnings in equity interests and net income have been and will continue to be materially lower.
+See Note 8—“lnvestments in Equity Interests Accounted for Using the Equity Method of Accounting” in the Notes to our consolidated ﬁnancial statements for
+additional information.
+Noncontrolling Interests
+Noncontrolling interests represent the noncontrolling holders’ percentage share of income or losses from the subsidiaries in which we hold a majority, but less
+than 100 percent, ownership interest and the results of which are consolidated in our consolidated ﬁnancial statements. Noncontrolling interests were
+approximately $5 million in 2016, compared to $8 million in 2015 and $10 million in 2014. Noncontrolling interests recorded in 2016, 2015, and 2014 were related
+to the Yahoo!7 venture in Australia and New Zealand.
+Net Income (Loss) Attributable to Yahoo! Inc.
+Net loss attributable to Yahoo! Inc. for the year ended December 31, 2016 was $214 million compared to a loss of $4.4 billion in 2015, a decline of $4.1 billion
+year—over—year, primarily due to a signiﬁcant decrease in goodwill and asset impairment charges, and to a lesser extent, a decrease in sales and marketing
+expense, product development expense, general and administrative expense, cost of revenue—other, a gain on sale of land in 2016, and a decline in TAC
+(excluding the impact of the change in revenue presentation associated with the Eleventh Amendment). This was partially offset by a decrease in revenue
+(excluding the impact of the change in revenue presentation associated with the Eleventh Amendment) and an increase in intangible assets impairment charge.
+70

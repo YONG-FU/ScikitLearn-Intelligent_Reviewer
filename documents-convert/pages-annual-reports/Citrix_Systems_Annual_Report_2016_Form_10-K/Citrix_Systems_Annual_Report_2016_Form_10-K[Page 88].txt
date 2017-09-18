@@ -1,0 +1,55 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+options of the Company's common stock based on third party volatility quotes. The Company's decision to use implied
+volatility was based upon the availability of actively traded options on the Company's common stock and its assessment that
+implied volatility is more representative of future stock price trends than historical volatility. The risk-free interest rate was
+based on a US. Treasury instrument whose term is consistent with the expected term of the stock options. The Company's
+expected dividend yield input was zero as it has not historically paid, nor expects in the future to pay, cash dividends on its
+common stock. The expected term is based on the term of the purchase period for grants made under the ESPP.
+Expense Information under the Authoritative Guidance
+As required by the authoritative guidance, the Company estimates forfeitures of stock awards and recognizes
+compensation costs only for those awards expected to vest. Forfeiture rates are determined based on historical experience. The
+Company also considers whether there have been any significant changes in facts and circumstances that would affect its
+forfeiture rate quarterly. Estimated forfeitures are adjusted to actual forfeiture experience as needed. The Company recorded
+stock-based compensation costs, related deferred tax assets and tax benefits of $184.8 million, $61.5 million and $66.1 million,
+respectively, in 2016, $147.4 million, $46.1 million and $52.7 million, respectively, in 2015 and $169.3 million, $46.9 million
+and $43.9 million, respectively, in 2014.
+The detail of the total stock-based compensation recognized by income statement classification is as follows (in
+thousands):
+Income Statement Classiﬁcations 2016 2015 2014
+Cost of services and maintenance revenues $ 3,433 $ 2,940 $ 2,560
+Research and development 49,290 47,723 559560
+Sales, marketing and services 54,785 49,315 61,925
+General and administrative 77,280 47,390 49,242
+Total 7$ 184,788, 7$ 147,368, 7$ 169,287,
+Non-vested Stock Units
+Performance, Market Performance and Service Condition Stock Units
+In January 2016, the Company granted its Chief Executive Officer 220,235 non-vested stock units that vest based on
+certain target performance conditions; and in March 2016, the Company granted senior level employees 234,816 non-vested
+stock units that vest based on certain target performance conditions. The attainment level under the awards will be based on the
+Company's compound annualized total return to stockholders over a three-year performance period, with 100% of such stock
+units earned if the Company achieves total shareholder return of 10% over the performance period. Further, if the Company
+achieves annualized total shareholder return of less than 10% during the performance period, the awardees may earn all or a
+portion of the target award, but not in excess of 100% of such stock units, depending upon the Company’s relative total
+shareholder return compared to companies listed in the S&P Computer Software Select Index. If the Company's compound
+annualized total shareholder return is 5% or above, the number of non-vested stock units earned will be based on interpolation,
+with the maximum number of non-vested stock units earned capped at 200% of the target number of non-vested stock units for
+a compound annualized total return to stockholders of 30% over a three-year performance period as set forth in the award
+agreement. Within sixty days following an interim measurement period of 18 months, the Compensation Committee will
+determine the number of restricted stock units that would be deemed earned based on performance to date, and up to 33% of the
+target award may be earned based on such performance; however, any stock units that are deemed earned will remain subject to
+continued service vesting until the end of the three-year performance period, or a change in control, if earlier. Within sixty days
+following the conclusion of the performance period, the Company’s Compensation Committee will determine the number of
+restricted stock units that would vest upon the final day of the performance period based on the Company ’3 performance during
+the period and in accordance with the terms of the award. On the vesting date, the greater of the full period restricted stock
+units, or the interim earned restricted stock units, will vest in one installment.
+In March 2015 and 2014, the Company granted senior level employees non-vested stock unit awards representing, in the
+aggregate, 393,464 and 378,022 non-vested stock units that vest based on certain target market performance and service
+conditions. The number of non-vested stock units underlying each award will be determined within sixty days of the calendar
+year following the end of a three-year performance period ending December 31, 2017 for the March 2015 awards and
+December 31, 2016 for the March 2014 awards. The attainment level under the award will be based on the Company's total
+return to stockholders over the performance period compared to the return on the Nasdaq Composite Total Return Index (the
+"XCMP"). If the Company's return is positive and meets or exceeds the indexed return, the number of non-vested stock units
+earned will be based on interpolation, with the maximum number of non-vested stock units earned pursuant to the award
+capped at 200% of the target number of non-vested stock units set forth in the award agreement if the Company's return exceeds
+F-22

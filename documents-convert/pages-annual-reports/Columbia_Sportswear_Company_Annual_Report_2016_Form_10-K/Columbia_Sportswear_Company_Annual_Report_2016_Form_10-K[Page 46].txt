@@ -1,0 +1,48 @@
+the estimated fair value of the reporting unit exceeded its carrying value by approximately 13%, and as such the reporting
+unit’s goodwill balance of $ 12.2 million was not impaired. While no impairment was indicated during our 2016 tests, if the
+Mountain Hardwear brand’s actual or projected future performance deteriorates from the modest projections considered in
+our 2016 tests, it is possible that an impairment charge would be required.
+Our impairment tests and related fair value estimates are based on a number of factors, including assumptions and
+estimates for projected sales, income, cash ﬂows, discount rates, market-based multiples, remaining useful lives, and
+other operating performance measures. Changes in estimates or the application of alternative assumptions could produce
+significantly different results. These assumptions and estimates may change in the future due to changes in economic
+conditions, changes in our ability to meet sales and profitability objectives or changes in our business operations or
+strategic direction.
+Acquisition Accounting
+We account for business combinations using the purchase method, which requires us to allocate the cost of an acquired
+business to the acquired assets and liabilities based on their estimated fair values at the acquisition date. We recognize the
+excess of an acquired business' cost over the fair value of the acquired assets and liabilities as goodwill. Determining the
+fair value of certain assets and liabilities acquired is judgmental in nature and often involves the use of significant estimates
+and assumptions. We use a variety of information sources to determine the fair value of acquired assets and liabilities and
+we generally use third party appraisers to assist us in the determination of the fair value and useful lives of identifiable
+intangible assets.
+Income Taxes
+We use the asset and liability method of accounting for income taxes. Under this method, we recognize income tax
+expense for the amount of taxes payable or refundable for the current year and for the amount of deferred tax liabilities and
+assets for the future tax consequences of events that have been recognized in our financial statements or tax returns. We
+make assumptions, judgments and estimates to determine our current provision for income taxes, our deferred tax assets
+and liabilities and our uncertain tax positions. Our judgments, assumptions and estimates relative to the current provision
+for income tax take into account current tax laws, our interpretation of current tax laws and possible outcomes of current
+and future audits conducted by foreign and domestic tax authorities. Changes in tax law or our interpretation of tax laws
+and the resolution of current and future tax audits could significantly affect the amounts provided for income taxes in our
+consolidated financial statements. Our assumptions, judgments and estimates relative to the value of a deferred tax asset
+take into account predictions of the amount and category of future taxable income. Actual operating results and the underlying
+amount and category of income in future years could cause our current assumptions, judgments and estimates of recoverable
+net deferred taxes to be inaccurate. Changes in any of the assumptions, judgments and estimates mentioned above could
+cause our actual income tax obligations to differ from our estimates, which could materially affect our financial position,
+results of operations and cash ﬂows.
+Our tax provision for interim periods is determined using an estimate of our annual effective tax rate, adjusted for
+discrete items, if any, that are taken into account in the relevant period. As the calendar year progresses, we periodically
+reﬁne our estimate based on actual events and earnings by jurisdiction. This ongoing estimation process can result in changes
+to our expected effective tax rate for the full calendar year. When this occurs, we adjust the income tax provision during
+the quarter in which the change in estimate occurs so that our year-to-date provision equals our expected annual effective
+tax rate.
+Stock-Based Compensation
+Stock-based compensation cost is estimated at the grant date based on the awards fair value and is recognized as
+expense over the requisite service period using the straight-line attribution method. We estimate stock-based compensation
+for stock awards granted using the Black-Scholes option pricing model, which requires various subjective assumptions,
+including volatility and expected option life. Further, we estimate forfeitures for stock-based awards granted, but which are
+not expected to vest. If any of these inputs or assumptions changes significantly, stock-based compensation expense may
+differ materially in the future from that recorded in the current period.
+Recent Accounting Pronouncements
+4O

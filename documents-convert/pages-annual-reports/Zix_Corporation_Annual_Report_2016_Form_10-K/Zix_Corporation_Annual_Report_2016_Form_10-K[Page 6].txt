@@ -1,0 +1,37 @@
+Research and Development
+We incurred research and development expenses of $9.6 million, $8.3 million, and $9.1 million for the twelve-month periods ended December 31,
+2016, 2015, and 2014, respectively.
+Over the course of 2016 we continued to make investments toward strengthening and expanding our service portfolio. We added new external sender
+capabilities, web authorization options, access security features and STEM (Security Information and Event Monitoring) data feeds to ZixPort and invested in
+capacity and performance enhancements across our core suite of hosted services. We also migrated the Cisco SMIME and PGP capabilities from their legacy
+code base into our ZCT (ZixGateway with Cisco Technology) and enhanced the foreign language handling capabilities of that system. ZixOne was upgraded
+to align with the iPhone and Android evolutions and beneﬁted from a number of stability enhancements.
+On the ZixHosted front, we advanced deployment and upgrade automation capabilities for ZixGateway cloud instances and added ZixQuarantine
+ﬁmctionality into our SMB (Small and Medium Business) product environment. We laid the foundation for better feature alignment between our premises
+and hosted ZixGateways, which will be leveraged as we move into 2017.
+The following are registered trademarks of ours and certain of our subsidiaries: “Zix,” “ZixGateway,” “ZixDirectory,” “ZixIt”, and “ZixPort,”.
+Intellectual Property
+We depend upon our ability to develop, maintain and protect our proprietary technology and our related intellectual property rights. We rely on a
+combination of patent, trademark, trade secret and copyright law and contractual restrictions to protect the proprietary aspects of our technology and related
+property rights and to defend against inﬁingement and/ or misappropriation claims from others. We own 26 U.S. patents (including U.S. pending patents) with
+expiration dates ranging from 2019 through 2036. We have a program to ﬁle applications for and obtain patents and trademarks in the United States and in
+speciﬁc foreign countries where we believe ﬁling for such protection is appropriate. While intellectual property rights are generally important to our
+business, we do not believe that our business is dependent on any single item of intellectual property, or that any single item of intellectual property is
+material to the operation of our business. Rather, we believe that our intellectual property rights provide us with a competitive advantage, and from time to
+time we have taken steps to enforce our intellectual property rights as a means of protecting that competitive advantage.
+Please see generally the risks that are more fully disclosed in “Item 1A. Risk Factors” for risks related to our intellectual property.
+Compliance with Environmental Regulations
+We have not incurred, and do not expect to incur, any material expenditures or obligations related to environmental compliance issues.
+Governmental Contracts
+We have contracts with many local, state and federal agencies and regulators, which in the aggregate contribute approximately 7 percent of our annual
+revenue.
+Signiﬁcant Customers
+In each of 20 1 6, 2015, and 2014, no single customer accounted for 10% or more of our total revenues.
+Backlog
+Our backlog is comprised of contractual commitments that we expect to recognize as revenue in the ﬁiture. Our backlog was $81.7 million at
+December 31, 2016, compared to $74.2 million at December 31, 2015.
+As of December 31, 2016, our backlog is comprised of the following elements: $27.2 million of deferred revenue that has been billed and paid, $7.1
+million billed but unpaid, and approximately $47.4 million of unbilled contracts.
+The backlog is recognized into revenue ratably as the services are performed. Approximately 57% of our total backlog at December 31, 2016, is
+expected to be recognized as revenue during 2017.
+6

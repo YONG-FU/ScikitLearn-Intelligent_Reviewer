@@ -1,0 +1,52 @@
+derivatives used for this purpose are not designated as hedges. The potential impact of creating such additional exposures is not
+material to the Company ’s results.
+The Company’s risk management program for interest rate, foreign currency and commodity risks is based on fundamental,
+mathematical and technical models that take into account the implicit cost of hedging. Risks created by derivative instruments
+and the mark-to-market valuations of positions are strictly monitored at all times, using value-at-risk and stress tests.
+Counterparty credit risk arising from these contracts is not significant because the Company minimizes counterparty
+concentration, deals primarily with major financial institutions of solid credit quality, and the majority of its hedging
+transactions mature in less than three months. In addition, the Company minimizes concentrations of credit risk through its
+global orientation by transacting with large, internationally diversified financial counterparties. It is the Company’s policy to
+not have credit-risk-related contingent features in its derivative instruments. No significant concentration of counterparty credit
+risk existed at December 31, 2016. The Company does not anticipate losses from credit risk, and the net cash requirements
+arising from counterparty risk associated with risk management activities are not expected to be material in 2017.
+The Company revises its strategies as market conditions dictate and management reviews its overall financial strategies and the
+impacts from using derivatives in its risk management program with the Company’s Board of Directors.
+Interest Rate Risk Management
+The Company enters into various interest rate contracts with the objective of lowering funding costs or altering interest rate
+exposures related to fixed and variable rate obligations. In these contracts, the Company agrees with other parties to exchange,
+at specified intervals, the difference between fixed and ﬂoating interest amounts calculated on an agreed-upon notional
+principal amount. At December 31, 2016, the Company had open interest rate swaps with maturity dates that extend to 2021.
+Foreign Currency Risk Management
+The Company’s global operations require active participation in foreign exchange markets. The Company enters into foreign
+exchange forward contracts and options, and cross-currency swaps to hedge various currency exposures or create desired
+exposures. Exposures primarily relate to assets, liabilities and bonds denominated in foreign currencies, as well as economic
+exposure, which is derived from the risk that currency ﬂuctuations could affect the dollar value of future cash ﬂows related to
+operating activities. The primary business objective of the activity is to optimize the US. dollar value of the Company’s assets,
+liabilities and future cash ﬂows with respect to exchange rate ﬂuctuations. Assets and liabilities denominated in the same
+foreign currency are netted, and only the net exposure is hedged. At December 31, 2016, the Company had forward contracts,
+options and cross-currency swaps to buy, sell or exchange foreign currencies. These contracts had various expiration dates,
+through the first quarter of 20 1 8.
+Commodity Risk Management
+The Company has exposure to the prices of commodities in its procurement of certain raw materials. The primary purpose of
+commodity hedging activities is to manage the price volatility associated with these forecasted inventory purchases. At
+December 31, 2016, the Company had futures contracts, options and swaps to buy, sell or exchange commodities. These
+agreements had various expiration dates through the fourth quarter of 2020.
+Accounting for Derivative Instruments and Hedging Activities
+Cash Flow Hedges
+For derivatives that are designated and qualify as cash ﬂow hedging instruments, the effective portion of the gain or loss on the
+derivative is recorded in “Accumulated other comprehensive loss” (“AOCL”); it is reclassified to “Cost of sales” in the same
+period or periods that the hedged transaction affects income. The unrealized amounts in AOCL ﬂuctuate based on changes in
+the fair value of open contracts at the end of each reporting period. The Company anticipates volatility in AOCL and net
+income from its cash ﬂow hedges. The amount of volatility varies with the level of derivative activities and market conditions
+during any period. Gains and losses on the derivatives representing either hedge ineffectiveness or hedge components excluded
+from the assessment of effectiveness are recognized in current period income.
+The Company had open interest rate derivatives designated as cash ﬂow hedges at December 31, 2016, with a net loss of
+$4 million after tax and a notional US. dollar equivalent of $245 million (net loss of $3 million after tax and a notional US.
+dollar equivalent of $338 million at December 31, 2015).
+Current open foreign currency forward contracts hedge the currency risk of forecasted feedstock purchase transactions until
+September 2017. The effective portion of the mark-to-market effects of the foreign currency contracts is recorded in AOCL; it
+is reclassified to income in the same period or periods that the underlying feedstock purchase affects income. The net gain from
+the foreign currency hedges included in AOCL at December 31, 2016 was $22 million after tax (net gain of $4 million after tax
+at December 31, 2015). In 2016, 2015 and 2014, there was no material impact on the consolidated financial statements due to
+101

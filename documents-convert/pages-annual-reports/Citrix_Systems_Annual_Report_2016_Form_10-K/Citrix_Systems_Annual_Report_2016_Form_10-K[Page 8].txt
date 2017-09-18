@@ -1,0 +1,52 @@
+- XenDesktop is a fully-integrated, cloud-enabled desktop virtualization solution that gives customers the ﬂexibility to
+deliver desktops and applications as a service - from any cloud, on-premises datacenters or both. XenDesktop includes
+HDX technologies to give users a high-definition experience - even when using multimedia, real-time voice and video
+collaboration, USB devices and 3D graphics content - while consuming less bandwidth than competing solutions.
+XenDesktop is available in multiple editions designed for different requirements, from simple VDI-only deployments
+to sophisticated, enterprise-class desktop and application delivery services that can meet the needs of everything from
+basic call center environments to high-powered graphics workstations. In XenDesktop Enterprise and Platinum
+editions, customers also receive the industry-leading Citrix XenApp to manage and mobilize Windows applications.
+- XenApp is a widely deployed solution that allows Windows applications to be delivered as cloud services to Android
+and iOS mobile devices, Macs, PCs and thin clients. XenApp enables people to work better by running applications in
+the security of the data center, or cloud, and using HDX technologies to deliver a superior user experience to any
+device, anywhere. XenApp optimizes the application experience for smartphones, tablets and touchscreen laptops,
+providing intuitive touch capabilities for the latest generation of devices. Keeping applications under the centralized
+control of IT administrators enhances data security and reduces the costs of managing applications on every PC.
+XenApp runs on all current versions of Microsoft Windows Server and tightly integrates with the Microsoft Desktop
+Optimization Pack, Microsoft App-V, and Microsoft System Center. Our joint solution lowers the cost of delivering
+and maintaining Windows applications for all users in the enterprise. The capabilities of XenApp are available
+standalone as well as integrated within XenDesktop Enterprise and Platinum editions.
+Entelprise Mobility Management
+Increasingly, for many employees, mobile devices are their workspaces. Our XenMobile solutions are designed to
+increase productivity and security with mobile device management (MDM), mobile application management (MAM), mobile
+content management (MCM), secure network gateway, and enterprise-grade mobile apps in one comprehensive solution.
+- XenMobile includes mobile device management (MDM), mobile application management (MAM), mobile content
+management (MCM), unified endpoint management (UEM), mobile productivity apps and end-to-end security. These
+capabilities allow IT to meet mobile device security and compliance requirements for "bring your own device"
+programs and corporate devices while enabling user productivity. In addition, XenMobile helps IT securely deliver
+business applications, including native mobile, Web, SaaS and virtual apps (through XenApp and XenDesktop
+integration) to mobile users on nearly any device. XenMobile also provides strong security with an additional layer of
+application encryption and network protection with Citrix NetScaler Gateway integration.
+Citrix Workspace Suite
+We offer customers the opportunity to acquire our mobility, desktop and app products through a single comprehensive
+integrated product offering - Citrix Workspace Suite, which includes our XenApp, XenDesktop, XenMobile, ShareFile and
+NetScaler SD-WAN products. Citrix Workspace Suite securely delivers the apps, desktops, branch networking and WAN,
+enterprise mobility management and data people need for business productivity. We offer the industry’s most complete and
+integrated digital workspace that’s streamlined for IT control and easily accessible for users.
+° Citrix Workspace Suite delivers the user experience for any app or desktop using a universal client, Citrix Receiver,
+which is available on tablets, smartphones, PCs, Macs or thin clients. IT can securely deliver content over low-
+bandwidth high-latency WANs, highly variable 3G/4G mobile networks or a reliable corporate LAN to improve end-
+user experience while oﬁering enterprise-grade security to data and applications. Citrix Workspace Suite provides a
+single, ﬂexible solution that can streamline application and desktop deployment and lifecycle management to reduce
+IT costs, and offers choice of device, cloud and network, and can be deployed on-premises, via Citrix Cloud or as a
+hosted service.
+Delivery Networking
+Our Delivery Networking products allow organizations to deliver apps and data with the security, reliability, and speed
+trusted by thousands of customers worldwide.
+- NetScaler ADC is a software-defined application delivery controller (ADC) and load balancer designed to improve
+application performance and reliability for mobile, remote and branch users; allow customers to transition their
+infrastructure to an app-driven, software-defined network; eliminate multiple remote access solutions for improved
+security; and consolidate data centers for greater efficiency. Additionally, we extend the platform with best-of-breed
+web application firewall (WAF) capabilities that protects web applications and sites from both known and unknown
+attacks, including application-layer and zero-day threats.
+4

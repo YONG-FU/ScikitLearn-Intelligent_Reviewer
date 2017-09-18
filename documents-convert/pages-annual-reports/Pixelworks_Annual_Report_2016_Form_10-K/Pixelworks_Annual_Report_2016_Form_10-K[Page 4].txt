@@ -1,0 +1,42 @@
+PART I
+Item 1. Business.
+Overview
+Pixelworks designs, develops and markets Video processing semiconductors, intellectual property cores, software and custom ASIC solutions for high-quality
+energy efﬁcient digital Video applications. Our products enable our customers to deliver the highest energy efﬁcient video quality on their devices. Our core
+video display processing technology intelligently processes video signals ﬂom a variety of sources and optimizes the image for the viewer. The rapid growth
+in video—capable consumption devices, especially mobile, has increased the demand for Video display processing technology in recent years. Our
+technologies can be applied to a wide range of devices ﬂom large-screen projectors to low power mobile tablets and smartphones. Our products are
+architected and optimized for power, cost, bandwidth, and overall system performance, according to the application requirements. Our primary target markets
+include digital projection systems, tablets, and smartphones.
+As of December 31, 2016, we held an intellectual property portfolio of 148 patents related to the Visual display of digital image data. We focus our research
+and development efforts on developing video algorithms that improve quality, and architectures that reduce system power, cost, bandwidth and increase
+overall system performance and device ﬂinctionality. We seek to expand our technology portfolio through internal development and co—development with
+business partners, and we continually evaluate acquisition opportunities and other ways to leverage our technology into other high-value markets.
+High-Resolution Displays
+Display technologies have recently begun to transition ﬂom an era of higher resolutions, response times and ﬂame rates, with lower power and thinner form
+factors, to one focused on higher contrast and more colors.
+In mobile devices, Apple Inc. has brought wide color gamut to many of their devices including the iPhone, iPad Pro, MacBook Pro and iMac. These devices
+deliver the same color gamut used in digital cinema theatres ("DCI—P3"). Meanwhile, television ("TV") manufacturers including Samsung, Sony and LG are
+bringing high contrast, high brightness (High Dynamic Range or "HDR") TVs based on OLED and local—dimming LCD panels to the living room.
+Several HDR, DCI—P3 capable mobile devices are expected to arrive during 2017. For example, Qualcomm’s latest mobile application processor supports
+HDR and wide color gamut, and the UHD Alliance (of which Pixelworks is a contributing member) has stated that they will announce a mobile standard at the
+end ofFebruary 2017.
+Hardware improvements in color and contrast are of little value without content that can take advantage of them. In fact, a signiﬁcant gap now exists between
+the vast majority of video content available to consumers, and these emerging display devices.
+0 Contrast and Brightness: Almost all movies available to consumers today use the "Rec.709" ITU standard format. This format deﬁnes brightness
+levels up to around 100 "nits" (a standard measure of brightness), whereas HDR TVs are ﬁve to ten times brighter (ﬂom 540 nits upwards). Most
+mobile devices support over 400 nits and sometimes over 600 nits.
+0 Color Gamut: DCI—P3 has a 25% larger color gamut than Rec.709.
+- Frame Rate: Most movies are available in 24 or 25 ﬂames per second, a rate at which the human eye still perceives judder, but cannot identify
+individual still images or ﬂames and sees a Video instead. Mobile devices on the other hand have displays that run at 60 frames per second, and TVs
+commonly display 120 frames per second - ﬂame rates at which the eye perceives smooth motion. In addition to the display ﬂame rate discrepancy,
+the transmission rates vary based on various factors such as available bandwidth. Standard ﬂame rate conversion requires the original content ﬂames
+being repeated or dropped in order to match the ﬂame rate of the display. This causes the Video to appear to judder. Judder is a common problem in
+Video systems and occurs when there is a sudden jump or discontinuity in motion ﬂom one ﬂame of a motion video sequence to the next. This can
+be caused by content being created at a ﬂame rate per second that is too low, or the original content ﬂames are being repeated or dropped in order to
+match either a transmission standard or the playback ﬂame rate of the display.
+0 Resolution: Finally, TVs have achieved 4k resolutions (3840x2160) and mobile devices commonly achieve 2560x1440, and while some content is
+available in 4k resolution, most movies are only available in FHD or HD resolutions (typically 1920x1080 and 1280x720 respectively).
+This gap between display capabilities and available content brings signiﬁcant challenges to video display device manufacturers. Sophisticated video
+processing is required to accurately reproduce the intended video on today’s displays.
+4

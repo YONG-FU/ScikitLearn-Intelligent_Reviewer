@@ -1,0 +1,40 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+18. Changes in Accumulated Other Comprehensive Loss by Component (Continued)
+Changes to accumulated other comprehensive loss by component for the year ended December 31,
+2015 is as follows:
+Unrealized Retiree
+Net Loss on Health
+Interest Rate Beneﬁt Pension
+Swap Obligation Obligation Total
+Balance at December 31, 2014 . . . . . . . . . . . . . . . . . . . . $ — $ 807 $(6,835) $(6,028)
+Other comprehensive gain (loss) before reclassifications . . (937) 285 (112) (764)
+Amounts reclassified from accumulated other
+comprehensive loss:(1) . . . . . . . . . . . . . . . . . . . . . . . . — (44) 653 609
+Balance at December 31, 2015 . . . . . . . . . . . . . . . . . . . . $(937) $1,048 $(6,294) $(6,183)
+(1) Amounts reclassified from accumulated other
+comprehensive loss:
+Amortization of Other Postretirement Benefit items:
+Actuarialgain(a)........................... (68)
+Taxexpense............................... 24
+Reclassificationnetoftax $(44)
+Amortization of pension obligation:
+Actuariallosses(a).......................... 1,020
+TaXbenefit (367)
+Reclassificationnetoftax..................... $653
+(a) These components are included in the computation of benefit plan costs in Note 11.
+19. Quarterly Financial Information (Unaudited)
+2016
+First Second Third Fourth
+Netsales..................................... $48,789 $113,763 $123,573 $130,143
+Grossprofit................................... $14,131 $41,521 $36,644 $41,678
+Incomebeforetaxes............................. $8,606 $25,551 $11,873 $17,666
+Netincome $5,278 $16,328 $7,302 $10,101
+Basic net earnings per common share attributable to
+commonshareholders $0.23 $ 0.72 $ 0.32 $ 0.44
+Earnings per common share assuming dilution attributable
+tocommonshareholders........................ $0.23 $ 0.71 $ 0.32 $ 0.44
+Dividendspershare............................. $0.24 $ 024$ 024$ 0.24
+F-52

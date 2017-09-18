@@ -1,0 +1,28 @@
+Table of Contents
+Stock-Based Compensation
+Stock options granted are exercisable for the full ten year contractual term regardless of employment status. The following table summarizes the assumptions
+used to value option grants using the lattice-binomial model and the valuation data:
+Year Ended December 31,
+2016 _ 2015 _ 2014
+’Dividend yield —% —% —%1
+Expected volatility 40% - 50% 36% - 53% 41% - 48%
+’Risk-free interest rate 1.57% - 2.04% 2.03% - 2.29% 2.39% - 2.83% ‘
+SubOptimal exercise factor 2.48 2.47 - 2.48 2.66 - 5.44
+’Valuation data: ‘
+Weighted-average fair value (per share) $ 48.85 $ 39.22 $ 30.17
+'Total stock-based compensation expense (in thousands) 173,675 124,725 115,239 ‘
+Total income tax impact on provision (in thousands) 65,173 47,125 43,999
+The Company considers several factors in determining the suboptimal exercise factor, including the historical and estimated option exercise behavior and the
+employee groupings. Prior to January 1, 2015, the Company bifurcated its option grants into two employee groupings (executive and non-executive) to determine
+the suboptimal exercise factor. Beginning on January 1, 2015, the Company began aggregating employee groupings for its determination of the suboptimal
+exercise factor as the previous bifurcation into two groupings did not have a material impact on the fair value of the options granted.
+Prior to January 1, 2015, the Company's computation of expected volatility was based on a blend of historical volatility of its common stock and implied
+volatility of tradable forward call options to purchase shares of its common stock, as low trade volume of its tradable forward call options prior to 2011 precluded
+sole reliance on implied volatility. Beginning on January 1, 2015, expected volatility is based solely on implied volatility. The Company believes that implied
+volatility of publicly traded options in its common stock is more reﬂective of market conditions, and given consistently high trade volumes of the options, can
+reasonably be expected to be a better indicator of expected volatility than historical volatility of its common stock.
+In valuing shares issued under the Company’s employee stock option plans, the Company bases the risk-free interest rate on US. Treasury zero-coupon
+issues with terms similar to the contractual term of the options. The Company does not anticipate paying any cash dividends in the foreseeable future and therefore
+uses an expected dividend yield of zero in the option valuation model. The Company does not use a post-vesting termination rate as options are fully vested upon
+grant date.
+55

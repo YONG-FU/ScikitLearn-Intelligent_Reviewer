@@ -1,0 +1,48 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+currency risk. We use foreign currency exchange contracts, primarily short-term in nature,
+generally one month to one year in duration but with maturities up to 18 months, to reduce the
+volatility of cash flows primarily related to forecasted revenues, expenses, assets and liabilities
+denominated in foreign currencies. The objective of the foreign exchange contracts is to
+better ensure that ultimately the U.S. dollar-equivalent cash flows are not adversely affected by
+changes in the applicable U.S. dollar/foreign currency exchange rate. For derivative
+instruments that are designated as cash flow hedges, the effective portion of the derivative’s
+gain or loss is initially reported as a component of accumulated other comprehensive income
+(loss) and subsequently reclassified into earnings in the same period the forecasted
+transaction affects earnings. The ineffective portion of the unrealized gains and losses on
+these contracts, if any, is recorded immediately in earnings. We evaluate the effectiveness of
+our foreign exchange contracts on a quarterly basis. We do not use any foreign exchange
+contracts for trading purposes. Derivative instruments designated as cash flow hedges must
+be de—designated as hedges when it is probable the forecasted hedged transaction will not
+occur in the initially identified time period or within a subsequent two—month time period.
+Unrealized gains and losses in AOCl associated with such derivative instruments are
+immediately reclassified into earnings.
+As of December 31, 2016, we have estimated that approximately $51 million of net
+derivative gains related to our cash flow hedges included in accumulated other
+comprehensive income will be reclassified into earnings within the next 12 months. For our
+derivative instruments designated as cash flow hedges, the amounts recognized in earnings
+related to the ineffective portion were not material in each of the periods presented, and we
+did not exclude any component of the changes in fair value of the derivative instruments from
+the assessment of hedge effectiveness.
+Interest Rate Contracts
+In connection with the July 2014 issuance of our fixed rate notes due 2019, 202i and 2024,
+we entered into certain interest rate swap agreements that have the economic effect of
+modifying the fixed interest obligations associated with $2.4 billion of these notes so that the
+interest payable on these senior notes effectively became variable based on London lnterBank
+Offered Rate (“LIBOR”) plus a spread. We have designated these swap agreements as
+qualifying hedging instruments and are accounting for them as fair value hedges. These
+transactions are characterized as fair value hedges for financial accounting purposes because
+they protect us against changes in the fair value of certain of our fixed rate borrowings due to
+benchmark interest rate movements. Changes in the fair values of these interest rate swap
+agreements are recognized in other assets or other liabilities with a corresponding increase or
+decrease in long-term debt. Each quarter we pay interest based on LIBOR plus a spread to the
+counterparty and on a semi—annual basis receive interest from the counterparty per the fixed
+rate of these senior notes. The net amount is recognized as interest expense in interest and
+other, net. The ineffective portion of the unrealized gains and losses on these contracts, if any,
+is recorded immediately in earnings. We evaluate the effectiveness of our contracts on a
+quarterly basis. We do not use any interest rate swap agreements for trading purposes.
+For our derivative instruments designated as fair value hedges, the amounts recognized in
+earnings related to the ineffective portion were not material in each of the periods presented,
+and we did not exclude any component of the changes in fair value of the derivative
+instruments from the assessment of hedge effectiveness.
+F-27

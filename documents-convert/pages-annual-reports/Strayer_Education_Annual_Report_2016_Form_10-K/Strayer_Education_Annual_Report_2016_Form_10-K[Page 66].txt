@@ -1,0 +1,42 @@
+Table,of,Contents
+STRAYER EDUCATION, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+qualitative assessment as of September 30 and December 31, the Company determined it was not more likely than not that the fair
+value of its goodwill for JW MI and NYCDA was less than the carrying amount and, accordingly, no impairment existed in 2016.
+The Company tested its intangible assets concurrently with goodwill and determined that no impairment existed in 2016.
+The following table presents changes in goodwill for the years ended December 31, 2015 and 2016 (in thousands):
+I 2,015 _ 2016
+Balanc_e_as_oﬂhe_beginningof p_er_io_d $ 6,800 $ 6,800 |
+Acqusiticmsep th_e_3_) — 142242 I
+LMeasurementperindﬁdjustments — _ (298)
+Balance as of the end of period 6,800: 20,744:
+Long-Term Liabilities
+Included in the Company’s long-term liabilities are amounts related to the Company’s operating leases, deferred payments
+related to an acquisition completed in 2011, and the non-current portion of deferred revenue. In conjunction with the opening of
+some campuses and other facilities, the Company was reimbursed by the lessors for improvements made to those leased
+properties. In accordance with the Operating Leases Subtopic, ASC 840-20 (“ASC 840-20”), these underlying assets were
+capitalized as leasehold improvements and a liability was established for the reimbursements. The leasehold improvements and
+the liability are amortized on a straight-line basis over the corresponding lease terms, which generally range from five to ten
+years. In accordance with ASC 840-20, the Company records rent expense on a straight-line basis over the initial term of a lease.
+The cumulative difference between the rent payment and the straight-line rent expense is recorded as a liability. The Company
+also recorded the non-current portion of the gain related to the sale and lease back of a campus facility as a long-term liability.
+Accounting for Derivative Instruments and Hedging Activities
+On the date that the Company enters into a derivative contract, it designates the derivative as a hedge of (a) a forecasted
+transaction or (b) the variability of cash ﬂows that are to be received or paid in connection with a recognized asset or liability (a
+cash ﬂow hedge). All derivatives are recognized in the balance sheet at their fair value.
+Changes in the fair value of a derivative that is highly effective and that is designated and qualifies as a cash ﬂow hedge, to
+the extent that the hedge is effective, are recorded, net of income tax, in other comprehensive income, until earnings are affected
+by the variability of cash flows of the hedged transaction (e. g., until periodic settlements of a variable-rate asset or liability are
+recorded in earnings). Any hedge ineffectiveness (which represents the amount by which the changes in the fair value of the
+derivative exceed the variability in the cash flows of the forecasted transaction) is recorded in current-period earnings.
+The Company formally documents all relationships between hedging instruments and hedged items, as well as its risk-
+management objective and strategy for undertaking various hedge transactions. The Company also formally assesses (both at the
+hedge’s inception and on an ongoing basis) whether the derivatives that are used in hedging transactions have been highly
+effective in offsetting changes in the fair value or cash ﬂows of hedged items and whether those derivatives may be expected to
+remain highly effective in future periods. When it is determined that a derivative is not (or has ceased to be) highly effective as a
+hedge, the Company discontinues hedge accounting prospectively.
+Authorized Stock
+The Company has authorized 20,000,000 shares of common stock, par value $.01, of which 11,027,177 and 11,093,489
+shares were issued and outstanding as of December 31, 2015 and 2016, respectively. The Company also has authorized 8,000,000
+shares of preferred stock, none of which has been issued or outstanding since 2004. Before any
+65

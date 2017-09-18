@@ -1,0 +1,47 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+(a) Amounts include automotive interest payments based on contractual terms and current interest rates on our debt and capital lease obligations. Automotive interest payments
+based on variable interest rates were determined using the interest rate in effect at December 31, 2016.
+(b) GM Financial interest payments were determined using the interest rate in effect at December 31, 2016 for ﬂoating rate debt and the contractual rates for ﬁxed rate debt. GM
+Financial interest payments on ﬂoating rate tranches of the securitization notes payable were converted to a ﬁxed rate based on the ﬂoating rate plus any expected hedge
+payments.
+(c) Amounts include OPEB payments under the current U.S. contractual labor agreements through 2019 and Canada labor agreements through 2020. These agreements are
+generally renegotiated in the year of expiration. Amounts do not include pension funding obligations, which are discussed in Note 14 to our consolidated ﬁnancial statements.
+((1) Amounts do not include future cash payments for long-term purchase obligations and other accrued expenditures (unless speciﬁcally listed in the table above) which were
+recorded in Accounts payable or Accrued liabilities at December 31, 2016.
+(6) Amounts include all expected future payments for both current and expected future service at December 31, 2016 for OPEB obligations for salaried and hourly employees
+extending beyond the current North American union contract agreements. Amounts do not include pension funding obligations, which are discussed in Note 14 to our
+consolidated ﬁnancial statements.
+The table above does not reﬂect product warranty and related liabilities of $9.7 billion and unrecognized tax beneﬁts of $ 1 .2 billion due to the uncertainty
+regarding the ﬁiture cash outﬂows potentially associated with these amounts.
+Critical Accounting Estimates Accounting estimates are an integral part of the consolidated ﬁnancial statements. These estimates require the use of
+judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the
+ﬁnancial statements and the reported amounts of revenues and expenses in the periods presented. We believe the accounting estimates employed are
+appropriate and the resulting balances are reasonable; however, due to the inherent uncertainties in developing estimates actual results could differ from the
+original estimates, requiring adjustments to these balances in ﬁiture periods. Refer to Note 2 to our consolidated ﬁnancial statements for our signiﬁcant
+accounting policies related to our critical accounting estimates.
+Pension and OPEB Plans Our deﬁned beneﬁt pension plans are accounted for on an actuarial basis, which requires the selection of various assumptions,
+including an expected long-term rate of return on plan assets, a discount rate, mortality rates of participants and expectation of mortality improvement. The
+expected long-term rate of return on U.S. plan assets that is utilized in determining pension expense is derived from periodic studies, which include a review
+of asset allocation strategies, anticipated future long-term performance of individual asset classes, risks using standard deviations and correlations of returns
+among the asset classes that comprise the plans' asset mix. While the studies give appropriate consideration to recent plan performance and historical returns,
+the assumptions are primarily long-term, prospective rates of return.
+In December 2016 an investment policy study was completed for the U.S. pension plans. The study resulted in new target asset allocations being approved
+for the U.S. pension plans with resulting changes to the expected long-term rate of return on assets. The weighted-average long-term rate of return on assets
+decreased from 6.3% at December 31, 2015 to 6.2% at December 31, 2016. The expected long-term rate of return on plan assets used in determining pension
+expense for non—U.S. plans is determined in a similar manner to the U.S. plans.
+Another key assumption in determining net pension and OPEB expense is the assumed discount rate used to discount plan obligations. We estimate the
+assumed discount rate for U.S. plans using a cash ﬂow matching approach, which uses projected cash ﬂows matched to spot rates along a high quality
+corporate yield curve to determine the weighted-average discount rate for the calculation of the present value of cash ﬂows. Effective 2016 we applied the
+individual annual yield curve rates instead of the assumed discount rate to determine the service cost and interest cost. This reﬁnement more speciﬁcally
+links the cash ﬂows related to service cost and interest cost to bonds maturing in their year of payment. The reﬁnement reduced the service cost and interest
+cost in 2016 by $0.8 billion. There was no effect on the determination of the plan obligations which continues to be calculated using the assumed discount
+rate.
+We have reviewed and incorporated the mortality improvement tables published by the Society of Actuaries in the three months ended December 31, 2016
+that lowered life expectancies and thereby indicated the amount of estimated aggregate beneﬁt payments to our U.S. pension plans' participants was
+decreasing. This change in assumption decreased the December 31, 2016 U.S. pension and OPEB plans’ beneﬁt obligations by $0.9 billion.
+Signiﬁcant differences in actual experience or signiﬁcant changes in assumptions may materially affect the pension obligations. The eﬁ‘ects of actual
+results differing from assumptions and the changing of assumptions are included in unamortized net actuarial gains and losses that are subject to amortization
+to pension expense over future periods. The unamortized pre-tax actuarial loss on our pension plans was $4.8 billion and $3.7 billion at December 31, 2016
+and 2015. The year-over—year change is primarily due
+37

@@ -1,0 +1,29 @@
+We considered the historical trends in currency exchange rates and determined that it was reasonably possible that adverse
+changes in exchange rates of 10% for all currencies could be experienced in the near term. These reasonably possible adverse changes
+in exchange rates of 10% were applied to total monetary assets and liabilities denominated in currencies other than the functional
+currencies as of December 31, 2016 to compute the adverse impact these changes would have had on our income before income taxes
+in the near term. These changes would have resulted in an adverse impact on income before income taxes of approximately $41.6
+million, recorded to other income (expense), net, principally from intercompany and cash balances.
+In November 2015, we implemented a program to hedge the foreign currency exposure risk related to certain forecasted
+inventory purchases denominated in Japanese yen. The derivative instruments we use are foreign currency forward contracts and are
+designated as cash ﬂow hedges with maturity dates of 12 months or less. We do not enter into derivative contracts for trading or
+speculative purposes. We document each hedge relationship and assess its initial effectiveness at the inception of the hedge contract
+and we measure its ongoing effectiveness on a quarterly basis using regression analysis. During the term of an effective hedge
+contract, we record gains and losses within accumulated other comprehensive loss. We reclassify these gains or losses to costs of
+automotive sales in the period the related finished goods inventory is sold or over the depreciation period for those sales accounted for
+as leases. Although our contracts are considered effective hedges, we may experience small amounts of ineffectiveness due to timing
+differences between our actual inventory purchases and the settlement date of the related foreign currency forward contracts.
+Ineffectiveness related to the hedges is immaterial as of December 31, 2016. As of December 31, 2016, we have no outstanding
+foreign currency forward contracts, and had recorded a cumulative gain of $5.6 million to AOCI related to our outstanding foreign
+currency cash ﬂow hedges.
+Interest Rate Risk
+We had cash and cash equivalents totaling $3.4 billion as of December 31, 2016. A significant portion of our cash equivalents
+were invested in money market funds. Cash and cash equivalents are held for working capital purposes. We do not enter into
+investments for trading or speculative purposes. We do not have any material exposure to changes in the fair value of our cash
+equivalents as a result of changes in interest rates due to the short-term nature of our cash equivalents.
+We are exposed to interest rate risk for our borrowings that bear interest at ﬂoating rates plus a speciﬁed margin. Pursuant to our
+risk management policies, in certain cases, we utilize derivative instruments to manage some of our exposures to ﬂuctuations in
+interest rates on certain ﬂoating-rate debt. We do not enter into any derivative instruments for trading or speculative purposes. In
+particular, a hypothetical 10% change in our interest rates would have immaterial impact on interest expense for the year ended
+December 31, 2016.
+52

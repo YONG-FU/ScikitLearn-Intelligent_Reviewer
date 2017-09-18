@@ -1,0 +1,37 @@
+(FINANCIAL STATEMENTS — NOTE 11 i)
+(11) Income Taxes
+Income tax expense (benefit) from continuing operations consists of the following:
+7 Current Deferred Total 7
+7 (In thousands) 7
+Year ended December 31, 2016
+Federal $47,980 $50,758 $ 98,738
+Foreign 23,102 (4,710) 18,392
+State and local 2,783 (1,732) 1,051
+Total tax expense $73,865 $44,316 $118,181
+Year ended December 31, 2015
+Federal $46,175 $36,723 $ 82,898
+Foreign 14,600 3,161 17,761
+State and local 2,043 (1,592) 451
+Total tax expense $62,818 $38,292 $101,110
+Year ended December 31, 2014
+Federal $44,356 $31,590 $ 75,946
+Foreign 24,403 (4,826) 19,577
+State and local 1,372 (1,007) 365
+Total tax expense $70,131 $25,757 $ 95,888
+Total income tax expense from continuing operations is different from the amount determined by
+multiplying income from continuing operations before income taxes by the statutory federal tax rate of
+35%. The reconciliation for such difference follows:
+7 Year ended December 31, r
+: 2016 r r 2015 r r 2014 :
+7 Amount Percentage 7 Amount Percentage VAmount Percentage
+(Dollars in thousands) 7
+Computed tax expense $118,450 35.0% $101,843 35.0% $96,503 35.0%
+Difference between foreign
+statutory rate and US. statutory
+rate (5,665) (1.7)% (5,531) (1.9)% (6,271) (2.3)%
+Residual US. income taxes on
+foreign earnings not
+permanently reinvested 3,855 1.1% 3,810 1.3% 3,067 1.1%
+Other 1,541 0.6% 988 0.3% 2,589 1.0%
+Total tax expense / effective rate $118,181 35.0% $101,110 34.7% $95,888 34.8%
+Primerica 2016 Annual Report 129

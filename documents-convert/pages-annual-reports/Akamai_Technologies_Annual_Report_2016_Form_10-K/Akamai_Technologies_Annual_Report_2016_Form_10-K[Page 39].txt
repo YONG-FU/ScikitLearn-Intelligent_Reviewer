@@ -1,0 +1,43 @@
+The following table reconciles GAAP net income to non-GAAP net income for the years ended December 31, 2016, 2015
+and 2014 (in thousands):
+2016 2015 2014
+Net income is 316,132 is 321,406i is 333,948i
+Amortization of acquired intangible assets 26,642 27,067 32,057 I
+i Stock-based compensation 144,506 126,677 111,996 i
+Amortization of capitalized stock-based compensation and capitalized interest I
+expense 15,439 13,618 10,506
+i Restructuring charges 10,301 767 1,189 I
+Acquisition-related costs 1,064 865 4,807 I
+I Legal matter costs 890 3,291 285 i
+Benefit from adoption of software development activities 7 7 7 7 (2,670)
+Amortization of debt discount and issuance costs 18,638 18,525 15,463 i
+(Gain) loss on investments (4,807) 25 443 i
+I Income taX effect of above non-GAAP adjustments and certain discrete taX items (52,661) (58,309) (59,202)
+' Non-GAAP net income s 476,144 s 453,932 s 448,822
+The following table reconciles GAAP net income per diluted share to non-GAAP net income per diluted share for the years
+ended December 31, 2016, 2015 and 2014 (share in thousands):
+2016 2015 2014
+GAAP net income per diluted share i$ 1.79 i i$ 1.78 i i 1.84 i
+Amortization of acquired intangible assets 0.14 0.16 0.17 I
+Stock-based compensation 0.82 0.70 0.62 i
+Amortization of capitalized stock-based compensation and capitalized interest I
+expense 0.09 0.08 0.06
+Restructuring charges 0.06 7 7 0.01 i
+Acquisition-related costs 0.01 7 7 0.03 I
+'Legal matter costs 0.01 0.02 7 7 I
+Benefit from adoption of software development activities 7 7 7 7 (0.01)
+Amortization of debt discount and issuance costs 0.11 0.10 0.09 i
+(Gain) loss on investments (0.03) 7 7 ; I
+I Income taX effect of above non-GAAP adjustments and certain discrete taX items (0.30) (0.32) (0.33)
+i Non-GAAP net income per diluted share $ 2.70 $ 2.52 $ 2.48
+I Shares used in per share calculations 176,215 180,415 181,186 I
+Non-GAAP net income per diluted share is calculated as non-GAAP net income divided by diluted weighted average
+common shares outstanding. GAAP diluted weighted average shares outstanding are adjusted in non-GAAP per share
+calculations for the shares that would be delivered to us pursuant to the note hedge transactions entered into in connection with
+the issuance of our convertible senior notes. Under GAAP, shares delivered under hedge transactions are not considered
+offsetting shares in the fully-diluted share calculation until they are delivered. However, we would receive a benefit from the
+note hedge transactions and would not allow the dilution to occur, so management believes that adjusting for this benefit
+provides a meaningful view of net income per share. Unless and until our weighted average stock price is greater than $89.56,
+the initial conversion price, there will be no difference between our GAAP and non-GAAP diluted weighted average common
+shares outstanding.
+37

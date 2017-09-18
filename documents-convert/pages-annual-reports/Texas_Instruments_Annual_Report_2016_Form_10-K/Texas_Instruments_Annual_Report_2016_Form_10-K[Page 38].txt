@@ -1,0 +1,47 @@
+Earnings per share (EPS)
+Unvested share-based payment awards that contain non-forfeitable rights to receive dividends or dividend equivalents, such as
+our restricted stock units (RSUs), are considered to be participating securities and the two-class method is used for purposes of
+calculating EPS. Under the two-class method, a portion of Net income is allocated to these participating securities and, therefore,
+is excluded from the calculation of EPS allocated to common stock, as shown in the table below.
+Computation and reconciliation of earnings per common share are as follows (shares in millions):
+For Years Ended December 31,
+2016 2015 2014
+11 Net Net Net
+0 Income Shares EPS Income Shares EPS Income Shares EPS
+1' .
+3 33810 EPS:
+3 Netincome................... $3,595 $2,986 $2,821
+5': Income allocated to RSUs . . . . . . . . (45) (43) (44)
+Income allocated to common stock for
+basic EPS calculation . . . . . . . . . . . $ 3,550 1,003 $ 3.54 $ 2,943 1,030 $ 2.86 $ 2,777 1,065 $ 2.61
+Adjustment for dilutive shares:
+Stock compensation plans . . . . . . . . 18 13 15
+Diluted EPS:
+Netincome................... $3,595 $2,986 $2,821
+Income allocated to RSUs . . . . . . . . (44) (42) (43)
+Income allocated to common stock for
+diluted EPS calculation . . . . . . . . . . $ 3,551 1,021 $ 3.48 $ 2,944 1,043 $ 2.82 $ 2,778 1,080 $ 2.57
+No potentially dilutive securities were excluded from the computation of diluted earnings per common share during 2016.
+Potentially dilutive securities representing 12 million and 11 million shares of common stock that were outstanding in 2015 and
+2014, respectively, were excluded from the computation of diluted earnings per common share for these periods because their
+effect would have been anti-dilutive.
+Investments
+We present investments on our Consolidated Balance Sheets as cash equivalents, short-term investments or long-term
+investments. Specific details are as follows:
+0 Cash equivalents and short-term investments: We consider investments in debt securities with maturities of 90 days or less
+from the date of our investment to be cash equivalents. We consider investments in debt securities with maturities beyond
+90 days from the date of our investment as being available for use in current operations and include them in short-term
+investments. The primary objectives of our cash equivalent and short-term investment activities are to preserve capital and
+maintain liquidity while generating appropriate returns.
+0 Long-term investments: Long-term investments consist of mutual funds, venture capital funds and non-marketable equity
+secunﬁes.
+0 Classification of investments: Depending on our reasons for holding the investment and our ownership percentage, we
+classify our investments as either available for sale, trading, equity method or cost method, which are more fully described
+in Note 8. We determine cost or amortized cost, as appropriate, on a specific identification basis.
+Inventories
+Inventories are stated at the lower of cost or estimated net realizable value. Cost is generally computed on a currently adjusted
+standard cost basis, which approximates cost on a first-in first-out basis. Standard cost is based on the normal utilization of
+installed factory capacity. Cost associated with underutilization of capacity is expensed as incurred. Inventory held at consignment
+locations is included in our finished goods inventory. Consigned inventory was $334 million and $275 million as of
+December 31, 2016 and 2015, respectively.
+34 TEXAS INSTRUMENTS - 2016 FORM 10-K

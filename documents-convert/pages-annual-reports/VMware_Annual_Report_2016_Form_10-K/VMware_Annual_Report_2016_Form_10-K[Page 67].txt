@@ -1,0 +1,45 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+provisions in the year in which the credits arise. The measurement of deferred tax assets is reduced by a valuation allowance if, based upon available evidence, it is
+more likely than not that some or all of the deferred tax assets will not be realized.
+VMware does not provide for a US. income tax liability on undistributed earnings of VMware’s non-US. subsidiaries. The earnings of non-US. subsidiaries,
+which reﬂect full provision for non-US income taxes, are currently indefinitely reinvested in foreign operations or will be remitted substantially free of additional
+tax. If these overseas funds are needed for its operations in the United States, VMware would be required to accrue and pay U.S. taxes on substantially all
+undistributed earnings to repatriate these funds. However, VMware’s intent is to indefinitely reinvest its non-US. earnings in its foreign operations and VMware’s
+current plans do not demonstrate a need to repatriate them to fund its US. Operations. At this time, it is not practicable to estimate the amount of tax that may be
+payable if VMware were to repatriate these funds.
+The difference between the income taxes payable or receivable that is calculated on a separate return basis and the amount actually paid to or received from
+Dell pursuant to VMware’s tax sharing agreement is presented as a component of additional paid-in capital. Refer to Note M for further information.
+Net Income Per Share
+Basic net income per share is calculated using the weighted-average number of shares of VMware’s common stock outstanding during the period. Diluted net
+income per share is calculated using the weighted-average number of common shares, including the dilutive effect of equity awards as determined under the
+treasury stock method. VMware has two classes of common stock, Class A and Class B common stock. For purposes of calculating net income per share, VMware
+uses the two-class method. As both classes share the same rights in dividends, basic and diluted net income per share are the same for both classes.
+Concentrations of Risks
+Financial instruments, which potentially subject VMware to concentrations of credit risk, consist principally of cash and cash equivalents, short-term
+investments and accounts receivable. Cash on deposit with banks may exceed the amount of insurance provided on such deposits. These deposits may be redeemed
+upon demand. VMware places cash and cash equivalents and short-term investments primarily in money market funds and fixed income securities and limits the
+amount of investment with any single issuer and any single financial institution. VMware holds a diversified portfolio of money market funds and fixed income
+securities, which primarily consist of various highly liquid debt instruments of the US. government and its agencies, municipal obligations, and US. and foreign
+corporate debt securities. VMware’s fixed income investment portfolio is denominated in US. dollars and consists of securities with various maturities.
+VMware manages counterparty risk through adequate diversification of the investment portfolio among various financial institutions and by entering into
+derivative contracts with financial institutions that are of high credit quality.
+VMware provides credit to its customers, including distributors, original equipment manufacturers (“OEMs”), resellers, and end-user customers, in the normal
+course of business. To reduce credit risk, the Company performs periodic credit evaluations, which consider the customer’s payment history and financial stability.
+As of December 31, 2016 and 2015 , one distributor accounted for 19% and 18% , respectively, of VMware's accounts receivable balance, and another
+distributor accounted for 13% and 15% , respectively, of VMware's accounts receivable balance. A third distributor accounted for 13% and 11% of VMware's
+accounts receivable balance as of December 31, 2016 and 2015 .
+One distributor accounted for 15% of revenue in each of the years ended December 31, 2016 , 2015 and 2014 , and another distributor accounted for 12% ,
+12% and 13% of revenue in the years ended December 31, 2016 , 2015 and 2014 , respectively. A third distributor accounted for 10% , 11% and 11% of revenue in
+the years ended December 31, 2016 , 2015 and 2014 .
+Accounting for Stock-Based Compensation
+VMware restricted stock, including performance stock unit (“PSU”) awards, are valued based on the Company’s stock price on the date of grant. For those
+awards expected to vest which only contain a service vesting feature, compensation cost is recognized on a straight-line basis over the awards’ requisite service
+periods.
+PSU awards will vest if certain VMware-designated performance targets are achieved. If minimum performance thresholds are achieved, each PSU award will
+convert into VMware’s Class A common stock at a defined ratio depending on the degree of achievement of the performance target designated by each individual
+award. If minimum performance thresholds are not achieved, then no shares will be issued. Based upon the expected levels of achievement, stock-based
+compensation is recognized on a straight-line basis over the PSUs’ requisite service periods. The expected levels of achievement are reassessed over the requisite
+service periods and, to the extent that the expected levels of achievement change, stock-based compensation
+64

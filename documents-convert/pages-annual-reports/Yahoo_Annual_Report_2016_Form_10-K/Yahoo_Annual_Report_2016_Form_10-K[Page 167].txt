@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+Years Ended December 31,
+2014 2015 2016
+Revenue (1)1 l
+U-S- $ 3,189.310 $ 3,8_6_5,ZZ $ 4.918,1_5_6
+international 1,237,823 1,102,529 1,120,979 4‘
+Total revenue $ 4,618,133 $ 4,968,301,: $ 5,169,135
+(1) Commencing in the second quarter of 2016, TAC payments related to the Microsoft Search Agreement, which previously would have been recorded as a
+reduction to revenue, began to be recorded as cost of revenue—TAC due to a required change in revenue presentation. See Note 1—“The Company
+and Summary of Significant Accounting Policies” and Note 19—“Microsoft Search Agreement” for additional information.
+(2) At the beginning of 2016, the Company reclassiﬁed certain amounts from other revenue to either search or display revenue. Prior period amounts have
+been revised to conform to the current presentation as follows: for the year ended December 31, 2014, the Company reclassiﬁed $39.1 million and
+$12.1 million to search and display revenue, respectively, previously included in other revenue; and for the year ended December 31, 2015, the
+Company reclassified $29.7 million and $11.6 million to search and display revenue, respectively, previously included in other revenue.
+Revenue is attributed to individual countries according to the online property that generated the revenue. No single foreign country accounted for more than
+10 percent of the Company’s revenue in 2014, 2015, and 2016, respectively.
+Note 19 Microsoft Search Agreement
+On December 4, 2009, the Company entered into the Microsoft Search Agreement. On February 18, 2010, the Company received regulatory clearance from
+both the U.S. Department of Justice and the European Commission and on February 23, 2010 the Company commenced implementation of the Microsoft
+Search Agreement on a market-by—market basis.
+On April 15, 2015, the Company and Microsoft entered into the Eleventh Amendment, pursuant to which the terms of the Microsoft Search Agreement were
+amended. Previously under the Microsoft Search Agreement, Microsoft was the exclusive algorithmic and paid search services provider to Yahoo on personal
+computers for Yahoo Properties and for search services provided by Yahoo to Afﬁliate sites. Microsoft was the non-exclusive provider on mobile devices.
+Pursuant to the Eleventh Amendment, Microsoft will provide such services on a non-exclusive basis for Yahoo Properties and Afﬁliate sites on all devices.
+Commencing on May 1, 2015, Yahoo agreed to the Volume Commitment and displays only Microsoft’s paid search results on such search result pages.
+Prior to the Eleventh Amendment, the Company was entitled to receive the Revenue Share Rate with respect to revenue generated from paid search results on
+Yahoo Properties and on Afﬁliate sites after deduction of the Afﬁliate sites’ share of revenue and certain Microsoft costs. The Revenue Share Rate was
+88 percent for the ﬁrst ﬁve years of the Microsoft Search Agreement and then increased to 90 percent on February 23, 2015. Pursuant to the Eleventh
+Amendment, the Revenue Share Rate increased to 93 percent, but Microsoft now receives its 7 percent revenue share before deduction of the Afﬁliate site’s
+share of revenue. The Company is responsible for paying the Afﬁliate for the Afﬁliate site’s share of revenue.
+Additionally, pursuant to the Eleventh Amendment, the Company has the ability in response to queries on both personal computers and mobile devices to
+request algorithmic listings only, paid
+166

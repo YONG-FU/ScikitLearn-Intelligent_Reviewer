@@ -1,0 +1,35 @@
+Year ended December 31,
+($ in thousands, except per share amounts) 2016 2015 2014
+Consolidated
+REVENUES
+[Premiums earned $ 592,408 $ 570,266 $ 540,722 [
+Net investment income 47,490 45,582 46,465
+[Realized investment gains 4,074 6,153 4,349 [
+Other income 1,01 1 1,725 2,931
+[ 7 644,983 623,726 594,467 [
+LOSSES AND EXPENSES
+[Losses and settlement expenses 386,897 370,736 385,474 [
+Acquisition and other expenses 191,815 178,307 165,372
+[Interest expense 337 337 337 [
+Other expense 2,727 2,690 2,377
+[ 7 581,776 552,070 553,560 [
+[Income before income tax expense 63,207 71,656 40,907 [
+Income tax expense 7 17,004 7 7 21,494 7 7 10,915 7
+[Net income 8 46,203 $ 50,162 $ 29,992 [
+[Net income per share 755 2.20 7 758 2.43 7 7$ 1.48 [
+[GAAP ratios: [
+Loss and settlement expense ratio 65.3% 65.0% 71.3%
+[ Acquisition expense ratio 7 32.4% 7 31.3% 7 30.6%[|
+Combined ratio 977% 96.3% 101.9%
+Losses and settlement expenses:
+[ Insured events of current year $ 427,838 $ 405,850 $ 406,266 [
+Decrease in provision for insured events of prior years 7 (40,941) 7 7 (35,114) 7 7 (20,792) 7
+Total losses and settlement expenses 755 386,897 7 758 370,736 7 733 385,474 7
+Catastrophe and storm losses 7$ 47,907 7 758 44,374 7 733 57,251 7
+Large losses1 7 N/A7 758 34,239 7 733 35,673 7
+1 Large losses are defined as reported current accident year losses greater than $500 for the EMC Insurance Companies' pool,
+excluding catastrophe and storm losses. Under the property and casualty insurance segment's prior reserving methodology,
+large losses had a direct impact on earnings. Under the new reserving methodology, large losses are taken into consideration
+when establishing the current accident year ultimate estimates of losses, but there is no longer a direct relationship between
+large losses and earnings. As a result, it is no longer meaningful to report large losses separately.
+77

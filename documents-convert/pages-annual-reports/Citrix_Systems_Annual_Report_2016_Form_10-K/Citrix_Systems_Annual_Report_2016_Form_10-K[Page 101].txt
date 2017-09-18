@@ -1,0 +1,53 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+14. DERIVATIVE FINANCIAL INSTRUMENTS
+Derivatives Designated as Hedging Instruments
+As of December 31, 2016, the Company’s derivative assets and liabilities primarily resulted from cash ﬂow hedges
+related to its forecasted operating expenses transacted in local currencies. A substantial portion of the Company ’s overseas
+expenses are and will continue to be transacted in local currencies. To protect against ﬂuctuations in operating expenses and the
+volatility of future cash ﬂows caused by changes in currency exchange rates, the Company has established a program that uses
+foreign exchange forward contracts to hedge its exposure to these potential changes. The terms of these instruments, and the
+hedged transactions to which they relate, generally do not exceed twelve months.
+Generally, when the dollar is weak, foreign currency denominated expenses will be higher, and these higher expenses will
+be partially offset by the gains realized from the Company’s hedging contracts. Conversely, if the dollar is strong, foreign
+currency denominated expenses will be lower. These lower expenses will in turn be partially offset by the losses incurred from
+the Company ’s hedging contracts. The change in the derivative component in Accumulated other comprehensive loss includes
+unrealized gains or losses that arose from changes in market value of the effective portion of derivatives that were held during
+the period, and gains or losses that were previously unrealized but have been recognized in the same line item as the forecasted
+transaction in current period net income due to termination or maturities of derivative contracts. This reclassiﬁcation has no
+effect on total comprehensive income or equity.
+The total cumulative unrealized loss on cash ﬂow derivative instruments was $3.1 million at December 31, 2016 and $2.3
+million at December 31, 2015, and is included in Accumulated other comprehensive loss in the accompanying consolidated
+balance sheets. See Note 16 for more information related to comprehensive income. The net unrealized loss as of December 31,
+2016 is expected to be recognized in income over the next 12 months at the same time the hedged items are recognized in
+income.
+Derivatives not Designated as Hedging Instruments
+A substantial portion of the Company’s overseas assets and liabilities are and will continue to be denominated in local
+currencies. To protect against ﬂuctuations in earnings caused by changes in currency exchange rates when remeasuring the
+Company’s balance sheet, it utilizes foreign exchange forward contracts to hedge its exposure to this potential volatility.
+These contracts are not designated for hedge accounting treatment under the authoritative guidance. Accordingly, changes
+in the fair value of these contracts are recorded in Other expense, net.
+Fair Values of Derivative Instruments
+7 Asset Derivatives 7 7 Liability Derivatives 7
+7 (In thousands) 7
+7 December 31, 2016 7 7 December 31, 2015 7 7 December 31, 2016 7 7 December 31, 2015 7
+Derivatives 7 7 7 7 7 7 7 7
+Designated as Balance Sheet Fair Balance Sheet Fair Balance Sheet Fair Balance Sheet Fair
+HedgiingInstruments 7 Location 7 7 Value 7 7 Location 7 7 Value 7 7 Location 7 7 Value 7 7 Location 7 7 Value 7
+Prepaid Prepaid Accrued Accrued
+expenses expenses expenses expenses
+and other and other and other and other
+Foreign currency current current current current
+forward contracts assets $460 assets $436 liabilities $3,816 liabilities $2,895
+7 Asset Derivatives 7 7 Liability Derivatives 7
+7 (In thousands) 7
+7 December 31, 2016 7 7 December 31, 2015 7 7 December 31, 2016 7 7 December 31, 2015 7
+Derivatives Not 7 7 7 7 7 7 7 7
+Designated as Balance Sheet Fair Balance Sheet Fair Balance Sheet Fair Balance Sheet Fair
+HedgiingInstruments 7 Location 7 7 Value 7 7 Location 7 7 Value 7 7 Location 7 7 Value 7 7 Location 7 7 Value 7
+Prepaid Prepaid Accrued Accrued
+expenses expenses expenses expenses
+and other and other and other and other
+Foreign currency current current current current
+forward contracts assets $2,046 assets $627 liabilities $619 liabilities $783
+F-35

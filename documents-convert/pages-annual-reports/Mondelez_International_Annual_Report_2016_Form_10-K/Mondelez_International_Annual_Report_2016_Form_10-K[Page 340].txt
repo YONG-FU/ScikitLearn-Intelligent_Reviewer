@@ -1,0 +1,28 @@
+(e) Sale of Participation . Each Lender may sell participations to one or more banks or other entities in or to all or a portion of its rights and
+obligations under this Agreement (including, without limitation, all or a portion of its Commitment, the Loans owing to it and any Note or Notes held by it), subject
+to the following:
+(i) such Lender’s obligations under this Agreement (including, without limitation, its Commitment to the Borrower hereunder) shall remain
+unchanged,
+(ii) such Lender shall remain solely responsible to the other parties hereto for the performance of such obligations,
+(iii) Mondeléz, the Borrower, the Administrative Agent and the other Lenders shall continue to deal solely and directly with such Lender in
+connection with such Lender’s rights and obligations under this Agreement,
+(iv) each participant shall be entitled to the beneﬁts of Sections 2.12 and 2.15 (subject to the limitations and requirements of those Sections,
+including the requirements to provide forms and/or certificates pursuant to Section 2.15(e), (f) or (g)) to the same extent as if it were a Lender and had
+acquired its interest by assignment pursuant to paragraph (e) of this Section,
+(v) no participant under any such participation shall have any right to approve any amendment or waiver of any provision of this Agreement, or any
+consent to any departure by the Borrower or Mondeléz therefrom, except to the extent that such amendment, waiver or consent would reduce the principal of,
+or interest on, the Loans or any fees or other amounts payable hereunder, in each case to the extent subject to such participation, or postpone any date ﬁxed
+for any payment of principal of, or interest on, the Loans or any fees or other amounts payable hereunder, in each case to the extent subject to such
+participation, and
+(vi) a participant shall not be entitled to receive any greater payment under Sections 2.12 and 2.15 than the applicable Lender would have been
+entitled to receive with reSpect to the participation sold to such participant, unless the sale of the participation to such participant is made with the Borrower’s
+prior written consent (not to be unreasonably withheld or delayed).
+Each Lender that sells a participation shall, acting solely for this purpose as a non-fiduciary agent of the Borrower, maintain a register on which it
+enters the name and address of each participant and the principal and interest amounts of each participant’s interest in the Loans or other obligations under this
+Agreement (the “ Participant Register ”). The entries in the Participant Register shall be conclusive absent manifest error, and such Lender shall treat each person
+whose name is recorded in the Participant Register as the owner of such participation for all purposes of this Agreement notwithstanding any notice to the contrary.
+No Lender shall have any obligation to disclose all or any portion of a Participant Register to any Person (including the identity of any Participant or any
+information relating to a Participant’s interest in any Commitments, Loans or its other Obligations under this Agreement) except to the extent that such disclosure is
+necessary to establish that such Commitment, Loan or other Obligation is in registered form under Section 5f103(c) of the United States Treasury Regulations or, if
+different, under Sections 871(h) or 881(0) of the Code.
+-50-

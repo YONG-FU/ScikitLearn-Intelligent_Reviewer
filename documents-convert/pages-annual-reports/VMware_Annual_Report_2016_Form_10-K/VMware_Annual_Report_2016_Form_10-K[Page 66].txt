@@ -1,0 +1,45 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+VMware uses significant estimates and assumptions, including fair value estimates, to determine the fair value of assets acquired and liabilities assumed and
+the related useful lives of the acquired assets, when applicable, as of the acquisition date. When those estimates are provisional, VMware refines them as necessary
+during the measurement period. The measurement period is the period after the acquisition date, not to exceed one year, in which VMware may gather and analyze
+the necessary information about facts and circumstances that existed as of the acquisition date to adjust the provisional amounts recognized. Measurement period
+adjustments are recorded during the period in which the adjustment amount is determined. All other adjustments are recorded to the consolidated statements of
+income.
+Businesses acquired from Dell are accounted for as a business combination between entities under common control. VMware includes the results of operations
+of the acquired businesses under common control, if significant, in the period of acquisition as if it had occurred at the beginning of the period and also
+retrospectively adjusts the financial statement information presented for prior years to reﬂect the business as if it had been acquired at the beginning of the ﬁnancial
+period presented. VMware recognizes the net assets under common control at Dell’s carrying values as of the date of the transfer and records the difference
+between the carrying value and the cash consideration as an equity transaction.
+Costs to effect an acquisition are recorded in general and administrative expenses on the consolidated statements of income as the expenses are incurred.
+Purchased Intangible Assets and Goodwill
+Goodwill is evaluated for impairment during the fourth quarter of each year or more frequently if events or changes in circumstances indicate that the carrying
+value of the asset may not be recoverable. VMware elected to perform a quantitative assessment of goodwill with respect to its one reporting unit. In doing
+so, VMware compared the enterprise fair value to the carrying amount of the reporting unit, including goodwill. VMware concluded that, to date, there have been
+no impairments of goodwill.
+Purchased intangible assets with finite lives are generally amortized over their estimated useful lives using the straight-line method. VMware reviews
+intangible assets for impairment whenever events or changes in business circumstances indicate that the carrying amounts of the assets may not be fully
+recoverable or that the useful lives of these assets are no longer appr0priate.
+Derivative Instruments and Hedging Activities
+Derivative instruments are measured at fair value and reported as current assets and current liabilities on the consolidated balance sheets, as applicable.
+In order to manage VMware’s exposure to foreign currency ﬂuctuations, VMware enters into forward contracts to hedge a portion of VMware’s net
+outstanding monetary asset and liability positions. These forward contracts are generally entered into on a monthly basis, with a typical contractual term of one
+month. These forward contracts are not designated as hedging instruments under applicable accounting guidance and therefore are adjusted to fair value through
+other income (expense), net on the consolidated statements of income.
+Additionally, VMware enters into forward contracts which it designates as cash ﬂow hedges to manage the volatility of cash ﬂows that relate to operating
+expenses denominated in certain foreign currencies. These forward contracts are entered into annually, have maturities of twelve months or less, and are adjusted to
+fair value through accumulated other comprehensive income (loss), net of tax, on the consolidated balance sheets. When the underlying expense transaction occurs,
+the gains or losses on the forward contract are subsequently reclassified from accumulated other comprehensive income to the related operating expense line item
+on the consolidated statements of income.
+The Company does not, and does not intend to, use derivative financial instruments for trading or speculative purposes.
+Advertising
+Advertising costs are expensed as incurred. Advertising expense was $21 million , $22 million and $29 million in the years ended December 31, 2016 , 2015
+and 2014 , respectively.
+Income Taxes
+Income taxes as presented herein are calculated on a separate tax return basis, although VMware is included in the consolidated tax return of Dell. However,
+certain transactions that VMware and Dell are parties to are assessed using consolidated tax return rules. Deferred tax assets and liabilities are recognized for the
+expected future tax consequences of events that have been included in the financial statements or tax returns. Deferred tax assets and liabilities are determined
+based on the difference between the tax basis of assets and liabilities and their reported amounts using enacted tax rates in effect for the year in which the
+differences are expected to reverse. Tax credits are generally recognized as reductions of income tax
+63

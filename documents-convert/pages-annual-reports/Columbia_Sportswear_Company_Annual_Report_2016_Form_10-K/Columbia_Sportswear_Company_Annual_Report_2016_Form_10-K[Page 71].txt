@@ -1,0 +1,42 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(Continued)
+The fair value of service-based and performance-based restricted stock units is discounted by the present value of the
+estimated future stream of dividends over the vesting period using the Black-Scholes model. The relevant inputs and
+assumptions used in the Black-Scholes model to compute the discount are the vesting period, expected annual dividend
+yield and closing price of the Company's common stock on the date of grant.
+The following table presents the weighted average assumptions for the years ended December 31:
+2016 2015 2014
+lVestingperiod.................................................. 3.57years 3.82years 3.83years‘
+Expecteddividendyield.......................................... 1.08% 1.14% 1.33%
+{Estimated average fair value per restricted stock unit granted . . . . . . . . . . . . . $55.93 $51.07 $38.98 ‘
+The following table summarizes the restricted stock unit activity under the Plan:
+Weighted Average
+Number of Grant Date Fair
+: Shares Value PerShare :
+{Restricted stock units outstanding at January 1, 2014. . . . . . . . . . . . . . . . . . . . . . . . . . 674,494 $ 2567‘
+272,642 38.98
+I (220,348) 25.21)
+(68,028) 28.51
+{Restricted stock units outstanding at December 31, 2014. . . . . . . . . . . . . . . . . . . . . . . 658,760 31.03 i
+207,040 51.07
+J (243,765) 2809‘
+(68,746) 34.57
+lRestricted stock units outstanding at December 31, 2015. . . . . . . . . . . . . . . . . . . . . . . 553,289 38.85 i
+205,734 55.93
+I (235,059) 3398‘
+(57,489) 46.35
+{Restricted stock units outstanding at December 31, 2016. . . . . . . . . . . . . . . . . . . . . . . j 466,475 i $ 47.23 ‘
+Restricted stock unit compensation expense for the years ended December 31, 2016, 2015 and 2014 was $7,090,000,
+$8,035,000 and $7,533,000, respectively. At December 31, 2016, unrecognized costs related to restricted stock units totaled
+approximately $12,430,000, before any related tax benefit. The unrecognized costs related to restricted stock units are being
+amortized over the related vesting period using the straight-line attribution method. These unrecognized costs at December
+31, 2016 are expected to be recognized over a weighted average period of 1.94 years. The total grant date fair value of
+restricted stock units vested during the years ended December 31, 2016, 2015 and 2014 was $7,988,000, $6,848,000 and
+$5,554,000, respectively.
+NOTE 16—EARNIN GS PER SHARE
+Earnings per share ("EPS ") is presented on both a basic and diluted basis. Basic EPS is based on the weighted average
+number of common shares outstanding. Diluted EPS reﬂects the potential dilution that could occur if outstanding securities
+or other contracts to issue common stock were exercised or converted into common stock. For the calculation of diluted
+EPS, the basic weighted average number of shares is increased by the dilutive effect of stock options and restricted stock
+units determined using the treasury stock method.
+65

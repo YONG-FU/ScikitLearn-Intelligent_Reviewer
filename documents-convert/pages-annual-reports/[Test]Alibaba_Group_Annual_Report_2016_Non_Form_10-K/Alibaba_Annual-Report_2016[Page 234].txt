@@ -1,0 +1,45 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(c) Consolidation (Continued)
+Unrecognized revenue-producing assets held by the VIEs include certain Internet content provision and other
+licenses, domain names and trademarks. The Internet content provision and other licenses are required under
+relevant PRC laws, rules and regulations for the operation of Internet businesses in the PRC, and therefore
+are integral to the Company’s operations. The Internet content provision licenses require that core PRC
+trademark registrations and domain names are held by the VIEs that provide the relevant services.
+(d) Business combinations and noncontrolling interests
+The Company accounts for its business combinations using the acquisition method of accounting in accordance
+with Accounting Standards Codification (“ASC”) 805 “Business Combinations.” The cost of an acquisition is
+measured as the aggregate of the acquisition date fair values of the assets transferred and liabilities incurred
+by the Company to the sellers and equity instruments issued. Transaction costs directly attributable to the
+acquisition are expensed as incurred. Identifiable assets and liabilities acquired or assumed are measured
+separately at their fair values as of the acquisition date, irrespective of the extent of any noncontrolling
+interests. The excess of (i) the total costs of acquisition, fair value of the noncontrolling interests and
+acquisition date fair value of any previously held equity interest in the acquiree over (ii) the fair value of the
+identifiable net assets of the acquiree is recorded as goodwill. If the cost of acquisition is less than the fair
+value of the net assets of the subsidiary acquired, the difference is recognized directly in the consolidated
+income statements. During the measurement period, which can be up to one year from the acquisition date,
+the Company may record adjustments to the assets acquired and liabilities assumed with the corresponding
+offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of
+assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the
+consolidated statements of operations.
+In a business combination achieved in stages, the Company re-measures the previously held equity interest in
+the acquiree immediately before obtaining control at its acquisition-date fair value and the re-measurement
+gain or loss, if any, is recognized in the consolidated income statements.
+When there is a change in ownership interests that result in a loss of control of a subsidiary, the Company
+deconsolidates the subsidiary from the date control is lost. Any retained noncontrolling investment in the
+former subsidiary is measured at fair value and is included in the calculation of the gain or loss upon
+deconsolidation of the subsidiary.
+For the Company’s majority-owned subsidiaries and VIEs, a noncontrolling interest is recognized to reﬂect the
+portion of their equity which is not attributable, directly or indirectly, to the Company. Consolidated net
+income (loss) on the consolidated income statements includes the net income (loss) attributable to
+noncontrolling interests and mezzanine equity holders when applicable. Net income (loss) attributable to
+mezzanine equity holders is included in net income (loss) attributable to noncontrolling interests on the
+consolidated income statements, while it is excluded from the consolidated statements of changes in
+shareholders’ equity. The cumulative results of operations attributable to noncontrolling interests, along with
+adjustments for share-based compensation expense arising from outstanding share—based awards relating to
+subsidiaries’ shares, are also recorded as noncontrolling interests in the Company’s consolidated balance
+sheets. Cash ﬂows related to transactions with noncontrolling interests are presented under financing activities
+in the consolidated statements of cash ﬂows.
+F-18

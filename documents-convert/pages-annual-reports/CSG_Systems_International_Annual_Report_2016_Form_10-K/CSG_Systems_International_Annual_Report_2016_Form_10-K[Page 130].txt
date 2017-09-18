@@ -1,0 +1,49 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+retrieval for ( ** ) . Thereafter, files are archived for ( ** ) . Should Customer require CSG to restore an archived data ﬁle, Customer shall
+pay the Data File Restoration fee.
+Note 16: The Mail Trace Mailer Identifier Fee is a USPS subscription fee for the CONFIRM service. Customer may have **** than *** ***, in which case Customer shall
+pay the *** The fee reﬂected above is the from the **** (which is a ***). In the event the USPS either increases
+or decreases this fee, CSG shall have the right to pass along such changes to Customer.
+Note 17: Allows Customer to view in ACSR a speciﬁc subscriber’s account scan data.
+Note 18: Additional RIM (Remit in Mail) ﬁelds in CCS® allow Customer to (i) select which delinquency actions to suspend, and (ii) identify the time period for
+suspension. Provides Customer with additional RIM fields in SSB_TABLE in CSG Vantage® that correspond to the S 12 screen and are updated * with
+Fields include:
+(a) RIM_CNT_SBB: Shows the number of remits CSG has received for the account.
+(b) RIM_CURR_DTE_SBB: Shows the date of the most recent remit that CSG has received.
+(c) RIM_ORIG_DTE_SBB: Identiﬁes the date of the ﬁrst remit that CSG received.
+Note 19: *** is provided to Customer at ** If the highlight color printer is unavailable due to downtime, Customer agrees that Enhanced Past Due
+Notices will be printed in ***** ***
+Note 20: The data frame charge is assessed against the statement data frame count excluding *****, ** and If a backer
+page or ad page contains subscriber statement data, it will be counted as a billable data frame. A data frame represents a logical statement page or image. As an example, a
+**>l< ******** **>l<>l< ********* ********* ****** on all *>l<>l<* ***** would represent **** **** ******.
+Note 21: PDF data ﬁles are available for a period of (*) Thereafter, ﬁles are archived. In the event CSG is asked to restore an archived data ﬁle, Customer shall
+pay the Data File Restoration Fee. The restoration ﬁle will consist of all the *** that were included in the
+Restoration ﬁles will be made available to the Customer upon request and will be placed back on the SFTP server for retrieval by the third-party vendor.
+Note 22: Braille and large print statements are not printed by CSG. Customer must contract with a third-party print vendor who can provide print processing for Braille and
+large print statements. CSG can provide the contact information for a preferred provider upon Customer request.
+Note 23: SmartColor Printing fees are in addition to all other fees under Schedule F , including fees for Statement Processing described in Section III.A.II above. SmartColor
+Printing will be deployed to all Customer statements (including English and Spanish, but excluding Account Hierarchy statement volumes and Customer Letter volumes).
+Note 24: Customer acknowledges that *** (***%) of Customer’s SmartColor Printing statement volume, for Customer’s subscribers processing on CSG’s
+billing platform, will be produced out of *** Should an event require activation of ***** ****, or in the of **
+********** or ********* ****** ********* ********** ********, Customer acknowledges and agrees during such event(s) ********** be ******* *****
+*****/***** ***** **********_ In such event(s), ******** Shall not be ******* the ********** ******** **>l< for the ********** ******* using *****/***** *****
+* * >l< * >3 * >l< >l< >3 * .
+Note 25: SmartColor Printing is available on both sides of each physical statement page. The fee shall be assessed against Customer’s total physical page count on a
+basis regardless of the ****** ****** of ******** ***** ******** ***** ********** the *** is ******** ******* **>l< ******** **** receives ***** or
+***). Prior to commencing SmartColor Printing, CSG will work with Customer to design the subscriber statement such that the smart color ink coverage is within the
+(**%) In the event Customer desires to make any statement format change that impacts SmartColor ink coverage, CSG shall work with Customer to ensure
+that the modiﬁcations requested will not cause the SmartColor ink coverage to exceed percent (**%), and in the event SmartColor ink coverage exceeds
+(**%), CSG will require written acknowledgement (which may be in e-mail form) from Customer that (i) the ink coverage is greater than percent (**%) and (ii)
+provides the approval of the associated additional fees. In all circumstances when Customer desires to produce Ad Pages, CSG shall work with Customer on the design of the
+Ad Pages to keep the SmartColor ink coverage at or below percent (**%), or obtain written acknowledgement from Customer (which may be in e-mail form) that (i)
+the Ad Page will exceed the SmartColor ink coverage threshold of percent (**%) and (ii) provides the approval of the associated additional fees.
+Note 26: SmartColor coverage exceeding percent (**%) will require
+Note 27: All start-up fees and the associated work shall be set forth in a separately executed Statement of Work.
+Note 28: The term “ Subscriber Agreements ” includes, but is not limited to, Customer’s service agreement, DHA24 promotional agreement and Flex24
+agreements. Customer will put the necessary ﬁles on its SFTP site ***** for CSG pick up and processing. The subscriber’s address will be printed to show through CSG’s
+generic windowed envelope. There will be no color or logos added to envelope. Multiple agreements for a single subscriber will be mailed in a single envelope. The rates set
+forth herein are for volumes of to . Customer agrees to provide CSG with an image ﬁle in Portable Document Format (PDF) and a single .csv ﬁle
+containing the subscriber address in the same zipped ﬁle with a unique name per job. Format shall use an “xxx dd mm yy.zip’> (name day month year) naming convention.
+Note 29: Processing shall be cut-sheet, duplex print in black toner on 8-1/2 x 14 plain white paper. Fee includes paper and CSG’s generic #10 double windowed carrier
+envelope. Postage is additional.
+Note 30: Customer acknowledges that the fees include paper and envelopes.

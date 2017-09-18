@@ -1,0 +1,44 @@
+ﬁ© GONSOA ]
+Our derivative instruments can include Forward Contracts, Futures Contracts, over-the-counter swaps, including swap Contracts, Options, and OTC Option
+Contracts. Forward Contracts are agreements to buy or sell the commodity at a predetermined price at a speciﬁed future date. Futures Contracts are
+standardized agreements, traded on a futures exchange, to buy or sell the commodity at a predetermined price at a specified future date. Options provide the
+right, but not the obligation to buy or sell the commodity at a speciﬁed price in the future. Swap Contracts and OTC Option Contracts require cash settlement for
+the commodity based on the difference between a contracted ﬁxed or ﬂoating price and the market price on the settlement date. Certain of these contracts
+require cash collateral to be received or paid if our asset or liability position, respectively, exceeds speciﬁed thresholds. We believe that we have minimal credit
+risk with respect to our counterparties.
+The following table presents the fair value of our derivative instruments as of December 31, 2016 and 2015. The fair value amounts below are presented on
+a gross basis and do not reflect the netting of asset and liability positions permitted under the terms of our master netting arrangements including cash collateral
+on deposit with, or received from, brokers. We offset the recognized fair value amounts for multiple derivative instruments executed with the same counterparty
+in our ﬁnancial statements when a legal right of offset exists. As a result, the asset and liability amounts below will not agree with the amounts presented in our
+consolidated balance sheets.
+DERIVATIVE ASSETS AND LIABILITIES (in millions)
+Derivative Assets Derivative Liabilities
+December 31, December 31, December 31, December 31,
+Balance Sheet Location 2016 2015 2016 2015
+Prepayments and other
+Commodity Futures Contracts current assets S 821 $ 711 $ 871 S 673
+Prepayments and other
+Commodity Swap Contracts current assets 11 15 13 14
+Commodity Swap Contracts Receivables — 7 — —
+Commodity Swap Contracts Accounts payable — — 2 —
+Prepayments and other
+Commodity Option Contracts current assets 1 — — —
+Commodity Forward Contracts Receivables 6 2 — —
+Commodity Forward Contracts Accounts payable — — 2 4
+Total Gross Mark-to-Market
+Derivatives 839 735 888 691
+Less: Counterparty Netting and Cash
+Collateral (a) (744) (675) (832) (687)
+Total Net Fair Value of Derivatives S 95 $ 60 $ 56 S 4
+(a) Certain of our derivative contracts, under master netting arrangements, include both asset and liability positions. We offset both the fair value amounts and any
+related cash collateral amounts recognized for multiple derivative instruments executed with the same counterparty when there is a legally enforceable right and
+an intention to settle net or simultaneously. As of December 31, 2016 and December 31, 2015, we had provided cash collateral amounts of $88 million and $12
+million, respectively, related to our unrealized derivative positions. Cash collateral amounts are netted with mark-to-market derivative assets.
+GAIN (LOSSES) ON MARK-TO-MARKET DERIVATIVES (in millions)
+Years Ended December 31,
+2016 2015 2014
+Commodity Contracts $ (67) $ 279 $ 482
+Foreign Currency Forward Contracts (a) — (6) (5)
+Total Gain (Loss) Mark-to-Market Derivatives $ (67) $ 273 $ 477
+(a) Losses for our foreign currency fon/vard contracts are located in other income, net in our statements of consolidated operations.
+84 | Tesoro Corporation

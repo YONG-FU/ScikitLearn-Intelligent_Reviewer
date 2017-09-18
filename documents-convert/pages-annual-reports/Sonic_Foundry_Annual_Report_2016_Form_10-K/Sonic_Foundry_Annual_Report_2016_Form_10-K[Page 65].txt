@@ -1,0 +1,46 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+Privacy concerns and laws, evolving regulation of cloud computing, cross-border data transfer restrictions and other domestic
+or foreign regulations may limit the use and adoption of our solutions and adversely affect our business.
+Regulation related to the provision of services on the Internet is increasing, as federal, state and foreign governments continue to
+adopt new laws and regulations addressing data privacy and the collection, processing, storage and use of personal information,
+including health data. In some cases foreign data privacy laws and regulations, such as the European Union’s Data Protection
+Directive, and the country-specific regulations that implement that directive, also govern the processing of personal information.
+While our European customers can conﬁrm our participation in the EU Privacy Shield program as support that we comply with
+the European Union Directive on the protection of personal data, they may still have concerns about our processing of personal
+data and may decide note to host content with us. Further, laws are increasingly aimed at the use of personal information for
+marketing purposes, such as the European Union’s e-Privacy Directive, and the country-specific regulations that implement that
+directive. Such laws and regulations are subject to differing interpretations and may be inconsistent among jurisdictions. These
+and other requirements could reduce demand for our solutions, restrict our ability to support our customers, or even offer our
+services and solutions in certain locations. We expect to acquire software and hardware in ﬁscal 2017 in order to enhance our
+ability to defend and to detect intrusions to our network infrastructure. These enhancements will be expensive and require
+significant staff time to deploy and develop, and there is no assurance that they will be eﬁective.
+In addition to government activity, privacy advocacy and other industry groups have established or may establish new self-
+regulatory standards that may place additional burdens on us. Many of our customers in the European Union face increasingly
+complex procurement requirements that have delayed some projects and caused us not to be successful in winning other
+opportunities. If we are unable to maintain these certifications or meet these standards, it could adversely affect our ability to
+provide our solutions to certain customers and could harm our business.
+Our customers and potential customers do business in a variety of industries, including financial services, the public sector,
+healthcare and telecommunications. Regulators in certain industries have adopted and may in the future adopt regulations or
+interpretive positions regarding the use of cloud computing and other outsourced services. The costs of compliance with, and
+other burdens imposed by, industry-specific laws, regulations and interpretive positions may limit customers’ use and adoption
+of our services and reduce overall demand for our services.
+The costs of compliance with and other burdens imposed by laws, regulations and standards may limit the use and adoption of
+our service and reduce overall demand for it, or lead to significant fines, penalties or liabilities for any noncompliance.
+Furthermore, concerns regarding data privacy may cause the users of our customers’ data to resist providing the data necessary
+to allow our customers to use our service effectively. Even the perception that the privacy of personal information is not
+satisfactorily protected or does not meet regulatory requirements could inhibit sales of our products or services, and could limit
+adoption of our cloud-based solutions.
+Operational failures in our network infrastructure could disrupt our remote hosting services, cause us to lose clients and sales
+to potential clients and result in increased expenses and reduced revenues.
+Unanticipated problems affecting our network systems could cause interruptions or delays in the delivery of the hosting services
+we provide to some of our clients. We are not equipped to provide full disaster recovery to all of our hosted clients. If there are
+operational failures in our network infrastructure that cause interruptions, slower response times, loss of data or extended loss of
+service for our remotely hosted clients, we may be required to issue credits or pay penalties, current clients may terminate their
+contracts or elect not to renew them and we may lose sales to potential clients. We have recently acquired additional hardware
+and systems, expect to make more significant investments in hardware (primarily for storage) and outsourced most aspects of our
+network infrastructure to three providers. As a result, we are reliant on third parties for network availability so outages may be
+outside our control and we may need to acquire additional hardware in order to provide an appropriate level of redundancy
+required by our customers.
+25

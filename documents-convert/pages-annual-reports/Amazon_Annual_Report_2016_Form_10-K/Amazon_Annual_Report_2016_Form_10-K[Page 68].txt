@@ -1,0 +1,43 @@
+Table of Contents
+Net sales by groups of similar products and services are as follows (in millions):
+Year Ended December 31,
+2014 _ 2015 _ 2016
+Net Sales: i
+Retail products (1) $ 68,513 $ 76,863 $ 91,431
+l Retail third-party seller services (2) 11,747 16,086 22,993 ‘
+Retail subscription services (3) 2,762 4,467 6,394
+l AWS 4,644 7,880 12,219 l
+Other (4) 1,322 _ 1,710 _ 2,950
+l 8 88,988 $ 107,006 $ 135,987 l
+(T3:I:l:uidieisiip:$67ti§es and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of
+consumable and durable goods that includes electronics and general merchandise as well as media products available in both a physical and digital
+format, such as books, music, Video, games, and software. These product sales include digital products sold on a transactional basis; digital product
+subscriptions that provide unlimited viewing or usage rights are included in Retail subscription services.
+(2) Includes commissions, related fulﬁllment and shipping fees, and other third-party seller services.
+(3) Includes annual and monthly fees associated with Amazon Prime membership, as well as audiobook, e-book, digital video, digital music, and other
+subscription services.
+(4) Includes sales not otherwise included above, such as certain advertising services and our co-branded credit card agreements.
+Net sales generated from our intemationally-focused websites are denominated in local functional currencies. Revenues are translated at average rates
+prevailing throughout the period. Net sales attributed to countries that represent a signiﬁcant portion of consolidated net sales are as follows (in millions):
+Year Ended December 31,
+2014 _ 2015 _ 2016
+lUnited States 8 54,717 $ 70,537 $ 90,349 1
+Germany 11,919 11,816 14,148
+lUnited Kingdom 8,341 9,033 9,547 1
+Japan 7,912 8,264 10,797
+[Rest ofworld 6,099 _ 7,356 _ 11,146 l
+Consolidated r$ 88,988 r 735 107,006 r r$ 135,987 7
+Total segment assets exclude corporate assets, such as cash and cash equivalents, marketable securities, other long-term investments, corporate
+facilities, goodwill and other acquired intangible assets, capitalized intemal—use software and website development costs, and tax assets. Technology
+infrastructure assets are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total segment assets reconciled to
+consolidated amounts are as follows (in millions):
+December 31,
+2014 _ 2015 _ 2016
+North America (1) $ 13,257 $ 16,772 $ 22,225 1
+International (1) 6,747 7,754 10,429
+lAws (2) 6,981 9,787 12,698 1
+Corporate 27,520 _ 30,434 _ 38,050
+] Consolidated $ 54,505 $ 64,747 $ 83,402 I
+(Ti):I\Ii6r:th;E:67a:id—Intemational segment assets primarily consist of property and equipment, inventory, and accounts receivable.
+(2) AWS segment assets primarily consist of property and equipment and accounts receivable.
+68

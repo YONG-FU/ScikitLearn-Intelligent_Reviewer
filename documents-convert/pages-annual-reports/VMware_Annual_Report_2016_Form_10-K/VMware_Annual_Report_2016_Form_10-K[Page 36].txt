@@ -1,0 +1,42 @@
+Iablre,of,C,ontents
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following management's discussion and analysis (“MD&A”) is provided in addition to the accompanying consolidated ﬁnancial statements and notes to
+assist in understanding our results of operations and financial condition.
+Period-over—period changes are calculated based upon the respective underlying, non-rounded data. Unless the context requires otherwise, we are referring to
+VMware, Inc. and its consolidated subsidiaries when we use the terms “VMware,” the “Company,” “we,” “our” or “us.”
+Overview
+The information technology (“IT”) industry is transforming, moving from a hardware-based traditional model to one of a software-deﬁned infrastructure. We
+are a leader in virtualization and cloud infrastructure solutions utilized by organizations to help transform the way they build, deliver and consume IT resources.
+Over the years, we have increased our product offerings beyond compute virtualization to include offerings that allow organizations to manage IT resources
+across private clouds and complex multi-cloud, multi—device environments by leveraging synergies across three product categories: Software-Defined Data Center
+(SDDC), Hybrid Cloud Computing and End-User Computing. Our portfolio supports and addresses the four key IT priorities of our customers: modernizing data
+centers, integrating public clouds, empowering digital workspaces and transforming security.
+We sell our solutions using enterprise agreements (“EAs”) or as part of our non-EA, or transactional, business. EAs are comprehensive volume license
+offerings, offered both directly by us and through certain channel partners that also provide for multi-year maintenance and support. We continue to experience
+strong renewals, including of our EAs, resulting in additional license sales of both our existing and newer products and solutions.
+SDDC or Software-Deﬁned Data Center
+Our SDDC technologies are the basis for the private cloud environment and provide the capabilities for our customers to extend their private cloud to the
+public cloud and to help them run, manage, secure and connect all their applications across all clouds and devices. While sales of our VMware vSphere
+(“vSphere”) offerings have remained strong, the majority of our license sales originate from products and services solutions across our portfolio beyond our
+compute products. We continue to experience growth in sales of VMware NSX (“NSX”), our network virtualization solution, and VMware vSAN (“vSAN”)
+products.
+Hybrid Cloud Computing
+Our overarching cloud strategy contains three key components: (i) continue to expand beyond compute virtualization in the private cloud, (ii) extend the
+private cloud into the public cloud and (iii) connect and secure endpoints across a range of public clouds.
+Hybrid cloud computing is comprised of VMware vCloud Air Network (“vCAN”) and VMware vCloud Air (“vCloud Air”) offerings. We continue to see
+growth in revenue derived from vCAN. We have narrowed the focus of vCloud Air to provide specialized cloud software and services unique to VMware that are
+distinct from those offered by other cloud providers.
+End-User Computing
+Our End-User Computing solution consists of VMware WorkSpace ONE, our digital workspace platform, which includes VMware AirWatch (“AirWatch”)
+and VMware Horizon. Our AirWatch business model includes an on-premises solution that we offer through the sale of perpetual licenses and an off-premises
+solution that we offer as software-as-a-service (“SaaS”). AirWatch products and services continued to contribute to the growth of our end-user computing product
+group during the year ended December 31, 2016.
+Dell and EM C Merger
+In October 2015, EMC Corporation (“EMC”) and Dell Technologies Inc. (“Dell”) (formerly Denali Holdings Inc.) entered into a definitive merger agreement,
+pursuant to which Dell acquired EMC in a transaction that closed on September 7, 2016 (the “Dell Acquisition”).
+As a result of the Dell Acquisition, VMware became an indirectly held, majority-owned subsidiary of Dell. As of December 31, 2016 , Dell controlled 82.8%
+of our outstanding common stock and 97.7% of the combined voting power of our outstanding common stock, including 38 million shares of our Class A common
+stock and all of our Class B common stock. We continue to Operate as a publicly traded company.
+On October 25, 2016, our Board of Directors approved a change to our fiscal year from a fiscal year ending on December 31 of each calendar year to a fiscal
+year consisting of a 52- or 53-week period ending on the Friday nearest to
+35

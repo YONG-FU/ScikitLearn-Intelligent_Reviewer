@@ -1,0 +1,56 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE (LOSS) INCOME
+(in thousands, except per share amounts)
+Successor Company Predecessor Company
+Year Ended Six Months Ended Six Months Ended Year Ended
+December 31, December 31, June 30, December 31,
+2016 2015 2015 2014
+Operating revenues
+I Service and other revenues $ 963,209 $ 501,130 $ 643,904 $ 1,691,849 I
+Handset and accessory revenues 21,837 28,304 39,807 157,105
+I Operating revenues 985,046 : 529,434 683,711 1,848,954 I
+Operating expenses
+I Cost of service (exclusive of depreciation and amortization I
+included below) 364,648 212,852 256,085 692,601
+Cost of handsets and accessories 29,273 46,904 121,143 415,450
+I Selling,_ general and administrative 560,760 311,703 419,699 997,735 I
+Impairment, restructuring and other charges 1,3 84,811 32,308 36,792 105,664
+I Depreciation 135,429 64,108 126,789 340,159 I
+Amortization 36,954 21,256 27,089 53,902
+I 2,511,875 : 689,131 987,597 2,605,511 I
+Operating loss (1,526,829) (159,697) (303,886) (756,557)
+IOther (expense) income — _ _ — I
+Interest expense, net (113,732) (55,563) (82,820) (372,904)
+I Interest income 37,689 17,200 15,327 38,345 I
+Foreign currency transaction gains (losses), net 76,615 (99,737) (63,948) (51,149)
+I Other expense, net (9,711) _ (1,176) _ _ (137) _ (5,829) I
+(9,139) (139,276) (131,578) (391,537)
+ILoss from continuing operations before reorganization items and income tax — _ _ — I
+beneﬁt (provision) (1,535,968) (298,973) (435,464) (1,148,094)
+Reorganization items (Note 3) (803) 1,467 1,956,874 (71,601)
+IIncome tax beneﬁt (provision) (Note 11) 2,892 _ 5,015 _ _ (2,009) _ (4,976) I
+Net (loss) income from continuing operations (1,533,879) (292,491) 1,519,401 (1,224,671)
+l(Loss) income from discontinued operations, net of income taxes I
+I (Note Q (19,994) _ 11,608 _ _ 221,114 _ (733,027)
+Net (loss) income $ (1,553,873) $ (280,883) $ 1,740,515 $ (1,957,698)
+|Net (loss) income from continuing operations per common share, I
+basic $ (15.32) $ (2.93) $ 8.73 $ (7.11)
+IN et (loss) income from discontinued operations per common I
+share, basic (0.20) _ 0.12 _ _ 1.27 _ (4.25)
+Net (loss) income per common share, basic 8 (15.52) r 8 (2.81) r 8 10.00 7 8 (11.36) V
+I 1
+Net (loss) income from continuing operations per common share,
+diluted $ (15.32) $ (2.93) $ 8.71 $ (7.11)
+IN et (loss) income from discontinued operations per common share, diluted (0.20) _ 0.12 _ _ 1.27 _ (4.25) I
+Net (loss) income per common share, diluted 8 (15.52) r 8 (2.81) r S 9.98 r 8 (11.36) V
+IWeighted average number of common shares outstanding, basic 7 100,098 r r 100,000 r r 172,363 r r 172,283 I
+Weighted average number of common shares outstanding, diluted 7 100,098 r_r 100,000 r_ _r 172,691 r_r 172,283 r
+| ' ' ' ' ' ' ' 1
+Comprehensive (loss) income, net of income taxes
+I Foreign currency translation adjustment $ 169,785 $ (248,781) $ (205,899) $ (340,847) I
+Reclassiﬁcation adjustment for sale of Nextel Argentina, Nextel Mexico and Nextel
+Chile (Note 6) — (1,672) 421,953 (33,885)
+I Other — _ 4,734 _ _ 2,956 _ (544) I
+Other comprehensive income (loss) 169,785 (245,719) 219,010 (375,276)
+I Net (1oss) income (1,553,873) _ (280,883) _ _ 1,740,515 _ (1,957,698) I
+Total comprehensive (loss) income $ (1,384,088) $ (526,602) $ 1,959,525 $ (2,332,974)

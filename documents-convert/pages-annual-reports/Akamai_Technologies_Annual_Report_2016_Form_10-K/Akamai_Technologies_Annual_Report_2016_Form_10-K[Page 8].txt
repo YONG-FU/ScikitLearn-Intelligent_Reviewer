@@ -1,0 +1,47 @@
+based on real-time data center performance health and global Internet conditions to help ensure user requests are
+routed to the most appropriate data center for that user at that moment.
+- Image Manager — To help our customers cope with the multitude of devices used by their consumers and varying
+connection quality, Image Manager automatically optimizes online images for the best combination of size, quality,
+and file format suited for each image and device and ofﬂoads the artistic transformation of derivative assets to the
+cloud.
+- Cloudlets — Cloudlets are applications that provide our customers with self-serviceable controls and capabilities
+designed to help simplify web operations and improve user experiences. Examples include Visitor Prioritization for
+managing potentially overloaded applications, Image Converter to improve delivery of images particularly to mobile
+devices and IP/Geo Access to handle access restrictions.
+Cloud Security Solutions
+Our Cloud Security Solutions are designed to defend websites, applications and data centers against a multitude of cyber
+attacks through solutions such as:
+- Kona Site Defender — Kona Site Defender is a cloud computing security solution that defends against network and
+application layer distributed denial of service, or DDoS, attacks, web application attacks and direct-to-origin attacks.
+By leveraging our distributed network and proprietary technology, Akamai can absorb traffic targeted at the
+application layer, deﬂect DDoS traffic targeted at the network layer, such as SYN Floods or UDP Floods, and
+authenticate valid traffic at the network edge.
+- Bot Manager — As websites attract users, they also place business information where it can be easily accessed by other
+entities — often using automated tools known as “bots.” Our Bot Manager offering provides organizations with a
+ﬂexible framework to better manage the wide array of bots accessing their website every day. It offers the ability to
+identify bots as they first arrive, categorize different types of bots, and apply the most appropriate management policy
+for each category.
+- Fast DNS — The Domain Name System, or DNS, translates human-readable domain names into numerical IP addresses
+to enable individuals who type in a website name to reach the desired location on the Internet. Our Fast DNS offering
+is a DNS resolution solution that is designed to quickly and dependably direct individuals to our customers' websites.
+Importantly, we have architected this service to protect against DNS-based DDoS attacks.
+- Prolexic Routed — Prolexic Routed is designed to protect web- and IP-based applications in data centers from the
+threat of DDoS attacks by preventing attacks before they reach the data center. It provides protection against high—
+bandwidth, sustained web attacks as well as potentially crippling DDoS attacks that target specific applications and
+services.
+- Client Reputation — Client Reputation provides an additional layer of protection against DDoS and web application
+attacks by allowing customers to automatically block requests from IP addresses. Client Reputation leverages
+advanced algorithms to compute a risk score based on prior behavior as observed over the Akamai network. The
+algorithms use both legitimate and attack traffic to profile the behavior of attacks, clients and applications. Based on
+this information, Akamai assigns risk scores to each IP address and allows customers to choose which actions they
+wish to have Kona Site Defender perform on an IP address with specific risk scores.
+Enterprise Solutions
+Our Enterprise offerings are designed to help customers boost productivity by facilitating third-party access to applications,
+accelerating those applications, reducing bandwidth costs and extending the Internet and public clouds into private wide area
+networks, or WANs. Our key enterprise solutions offerings include:
+- Enterprise Application Access —- Using technology gained through our acquisition of Soha Systems, Inc., this offering
+enables remote access to applications behind the firewall without providing users access to the entire network without
+external hardware or software.
+- Akamai Cloud Connect —- By combining WAN optimization and intelligent caching directly into a Cisco router in
+enterprise branch locations, Akamai Connect extends the Akamai Intelligent Platform directly into the branch. The
+6

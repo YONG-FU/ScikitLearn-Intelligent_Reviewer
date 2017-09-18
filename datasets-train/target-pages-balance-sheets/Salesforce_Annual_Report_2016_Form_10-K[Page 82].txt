@@ -1,0 +1,48 @@
+salesforce.com, inc.
+Consolidated Balance Sheets
+(in thousands, except per share data)
+January 31, January 31,
+: 2016 : : 2015 :
+Assets
+Current assets:
+Cashandcashequivalents.......................................... $1,158,363 $ 908,117
+Short-termmarketablesecurities..................................... 183,018 87,312
+Accounts receivable, net of allowance for doubtful accounts of $10,488 and
+$8,146 atJanuary 31,2016 and2015,respectively 2,496,165 1,905,506
+Deferredcommissions............................................. 259,187 225,386
+Prepaid expenses and othercurrent assets 250,594 245,026
+Landandbuildingimprovementsheldforsale.......................... 0 143,197
+Totalcurrentassets 4,347,327 3,514,544
+Marketablesecurities,noncurrent........................................ 1,383,996 894,855
+Propertyandequipment,net............................................ 1,715,828 1,125,866
+Deferredcommissions,noncurrent....................................... 189,943 162,796
+Capitalizedsoftware,net............................................... 384,258 433,398
+3,849,937 3,782,660
+Strategicinvestments 520,721 175,774
+Otherassets,net...................................................... 378,762 460,219
+Restrictedcash....................................................... 0 115,015
+Totalassets $12,770,772 $10,665,127
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable, accrued expenses and other liabilities $ 1,349,338 $ 1,103,335
+Deferredrevenue................................................. 4,267,667 3,286,768
+Totalcurrentliabilities 5,617,005 4,390,103
+Convertible 0.25% seniornotes,net 1,095,059 1,070,692
+Loanassumedon50Fremont........................................... 198,888 0
+Revolvingcreditfacility 0 300,000
+Deferredrevenue,noncurrent........................................... 23,886 34,681
+Othernoncurrentliabilities............................................. 833,065 894,468
+Totalliabilities 7,767,903 6,689,944
+Stockholders’ equity:
+Preferred stock, $0.001 par value; 5,000 shares authorized and none issued
+andoutstanding................................................ 0 0
+Common stock, $0.001 par value; 1,600,000 shares authorized, 670,929 and
+650,596 issued and outstanding at January 31, 2016 and 2015,
+respectively................................................... 671 651
+Additionalpaid-incapital 5,705,386 4,604,485
+Accumulated othercomprehensiveloss (49,917) (24,108)
+Accumulateddeficit (653,271) (605,845)
+Totalstockholders’equity.............................................. 5,002,869 3,975,183
+Totalliabilities and stockholders’ equity $12,770,772 $10,665,127
+See accompanying Notes.
+75

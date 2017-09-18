@@ -1,0 +1,42 @@
+(5) Excludable transaction costs in 2013 were from the Central Acquisition, in which Swift and Central incurred financial
+advisory, severance, and other professional fees related to the transaction.
+(6) Mark-to-market adjustment of interest rate swaps reflects the portion of the change in fair value of these financial
+instruments that was recorded in earnings in 2013 and excludes the portion recorded in AOCI under cash flow hedge
+accounﬁng.
+(7) Amortization of unrealized losses on interest rate swaps reflects the non-cash amortization expense of $5.1 million
+in 2012 included in derivative interest expense in the consolidated income statements. Non-cash amortization
+expense was comprised of previous losses recorded in AOCI related to the interest rate swaps we terminated upon
+our IPO and concurrent refinancing transactions in December 2010. Such losses were incurred in prior periods when
+hedge accounting applied to the swaps and were expensed in relation to the hedged interest payments through the
+original maturity of the swaps in August 2012.
+(8) "Amortization of certain intangibles" specifically reflects the non-cash amortization expense relating to certain
+intangible assets identified in the 2007 Transactions through which Swift Corporation acquired Swift Transportation
+Co.
+(9) Refer to the discussion "Salaries, Wages, and Employee Benefits" for the year ended December 31, 2016 under
+"Results of Operations — Consolidated Operating and Other Expenses," below.
+(10) Provision for income tax expense at effective rate was based on the following:
+- 2014 through 2016: GAAP effective tax rate.
+- Prior to 2014: GAAP expected effective tax rate:
+6 In 2013, we used a 38.5% rate, as there were variations in the GAAP effective tax rate primarily due to a
+new tax rate in Mexico, Central's conversion to a C-Corporation from an S-Corporation, fixed asset basis
+differences and state tax rate changes, Central Acquisition-related costs, as well as the benefit realized from
+Central's designation as an S-corporation prior to the Central Acquisition.
+o In 2012, we used a 39.0% rate, due to amortization of deferred tax assets related to our pre-IPO interest rate
+swaps and other items causing fluctuations in the GAAP effective tax rate.
+Adjusted Operating Ratio —Our definition of the non-GAAP measure, Adjusted Operating Ratio, starts with (a) operating
+expense and (b) operating revenue, which are GAAP financial measures. We subtract the following items from (a) to
+arrive at (c) adjusted operating expense:
+(i) fuel surcharge revenue,
+(ii) amortization of the intangibles from the 2007 Transactions,
+(iii) non-cash operating impairment charges,
+(iv) other special non-cash items,
+(v) excludable transaction costs, and
+(vi) severance expense, including cash and equity award impact, related to the departure of certain executive leadership.
+We then subtract fuel surcharge revenue from (b) to arrive at (d) Revenue xFSR. Adjusted Operating Ratio is equal to
+(c) adjusted operating expense as a percentage of (d) Revenue xFSR.
+We net fuel surcharge revenue against fuel expense in the calculation of our Adjusted Operating Ratio, thereby excluding
+fuel surcharge revenue from operating revenue in the denominator. Because fuel surcharge revenue is so volatile, we
+believe excluding it provides for more transparency and comparability. Additionally, we believe that comparability of our
+performance is improved by excluding impairments, non-comparable intangibles from the 2007 Transactions and other
+special items.
+48

@@ -1,0 +1,42 @@
+Except as otherwise provided in Section 10.05 hereof, no Guarantor may sell or otherwise dispose of all or substantially all of its assets to, or
+consolidate with or merge with or into (whether or not such Guarantor is the surviving Person) another Person, other than the Issuers or another Guarantor,
+unless:
+(1) immediately after giving effect to such transaction, no Default or Event of Default exists; and
+(2) either:
+(a) subject to Section 10.05 hereof, the Person acquiring the property in any such sale or disposition or the Person formed by or surviving
+any such consolidation or merger is a Guarantor, or unconditionally assumes all the obligations of that Guarantor under this Indenture and its
+Note Guarantee on the terms set forth herein or therein, pursuant to a supplemental indenture in form and substance reasonably satisfactory to the
+Trustee; or
+(b) the Net Proceeds of such sale or other disposition are applied in accordance with the applicable provisions of this Indenture, including
+without limitation, Section A .10 hereof.
+In case of any such consolidation, merger, sale or conveyance and upon the assumption by the successor Person, by supplemental indenture, executed
+and delivered to the Trustee and satisfactory in form to the Trustee, of the Note Guarantee endorsed upon the Notes and the due and punctual performance of
+all of the covenants and conditions of this Indenture to be performed by the Guarantor, such successor Person will succeed to and be substituted for the
+Guarantor with the same effect as if it had been named herein as a Guarantor. Such successor Person thereupon may cause to be signed any or all of the Note
+Guarantees to be endorsed upon all of the Notes issuable hereunder which theretofore shall not have been signed by the Issuers and delivered to the Trustee.
+All the Note Guarantees so issued will in all respects have the same legal rank and beneﬁt under this Indenture as the Note Guarantees theretofore and
+thereafter issued in accordance with the terms of this Indenture as though all of such Note Guarantees had been issued at the date of the execution hereof.
+Except as set forth in Articles 4 and i hereof, and notwithstanding clauses 2(a) and (b) above, nothing contained in this Indenture or in any of the Notes
+will prevent any consolidation or merger of a Guarantor with or into the Issuers or another Guarantor, or will prevent any sale or conveyance of the property
+of a Guarantor as an entirety or substantially as an entirety to the Issuers or another Guarantor.
+Section 10.06 Releases.
+The Note Guarantee of a Guarantor will be released:
+(1) in connection with any sale or other disposition of all or substantially all of the assets of that Guarantor
+(including by way of merger or consolidation) to a Person that is not (either before or after giving effect to such transaction) TLLP or a Restricted
+Subsidiary of TLLP, if the sale or other disposition is not prohibited by Section A .10, hereof;
+(2) in connection with any sale or other disposition of the Capital Stock of that Guarantor after which the applicable Guarantor is no longer a
+Restricted Subsidiary of TLLP, if the sale or other disposition is not prohibited by Section 4.10 hereof;
+(3) if TLLP designates any Restricted Subsidiary that is a Guarantor to be an Unrestricted Subsidiary in accordance with Section All hereof;
+(4) upon the release or discharge of the guarantee by such Guarantor with respect to the Indebtedness under the Credit Agreements or the
+guarantee that resulted in the creation of such Guarantee; provided, however, that release or discharge of the guarantee by such Guarantor with respect
+to Indebtedness under the Existing Notes occurs prior to or contemporaneously therewith; provided, further, however, that if, at any time following
+such release, that Guarantor later guarantees Indebtedness of any Issuer under the Credit Agreements, then such Guarantor shall provide a Note
+Guarantee at such time if required in accordance with Section 4.16 hereof;
+(5) upon the merger, amalgamation or consolidation of such Guarantor with and into an Issuer or another Guarantor that is the surviving Person in
+such merger, amalgamation or consolidation, or upon the liquidation or dissolution of such Guarantor;
+(6) upon Legal Defeasance or Covenant Defeasance in accordance with Article 8 hereof or upon satisfaction and discharge in accordance with
+Articleill hereof; or
+(7) in accordance with Article 9 hereof.
+Any Guarantor not released from its obligations under its Note Guarantee as provided in this Section 10.06 will remain liable for the full amount of
+principal of and interest and premium, if any, on the Notes and for the other obligations of any Guarantor under this Indenture as provided in this Articleilo;
+-57-

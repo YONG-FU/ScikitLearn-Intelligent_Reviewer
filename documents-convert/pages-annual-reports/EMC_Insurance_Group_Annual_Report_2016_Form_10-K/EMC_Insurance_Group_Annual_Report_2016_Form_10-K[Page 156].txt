@@ -1,0 +1,34 @@
+The amortized cost and estimated fair values of fixed maturity securities at December 31, 2016, by contractual maturity,
+are shown below. Expected maturities may differ from contractual maturities because borrowers may have the right to call or
+prepay obligations, with or without call or prepayment penalties.
+Amortized Estimated
+($ in thousands) 7 cost 7 7 fair value 7
+Securities available-for—sale:
+I Due in one year or less $ 45,253 $ 45,945 I
+Due after one year through ﬁve years 153,990 160,471
+I Due after five years through ten years 339,635 344,243 I
+Due after ten years 507,687 512,355
+I Securities not due at a single maturity date 7 142,960 7 7 136,685 I
+Totals :$ 1,189,525: :$ 1,199,699:
+A summary of realized investment gains and (losses) is as follows:
+7 Year ended December 31, 7
+($ in thousands) 2016 2015 2014
+Fixed maturity securities available-for—sale:
+I Gross realized investment gains $ 2,054 $ 725 $ 979 I
+Gross realized investment losses (2,829) (251) (92)
+I "Other-than—temporary" impairments — — (1)I
+IEquity securities available-for—sale: I
+Gross realized investment gains 15,078 12,741 8,913
+I Gross realized investment losses (2,675) (4,110) (1,727)I
+"Other-than—temporary" impairments (1,055) (1,481) (877)
+Other long-term investments, net (6,499) (1,471) (2,846)
+I Totals $ 4,074 _ $ 6,153 _ $ 4,349 I
+Gains and losses realized on the disposition of investments are included in net income. The cost of investments sold is
+determined on the specific identification method using the highest cost basis first. The Company did not have any outstanding
+cumulative credit losses on fixed maturity securities that have been recognized in earnings from “other-than—temporary”
+impairments during any of the reported periods. The amounts reported as “other-than—temporary” impairments on equity
+securities do not include any individually significant items. The net realized investment losses recognized on other long-term
+investments primarily represent changes in the carrying value of a limited partnership that is used solely to support an equity
+tail-risk hedging strategy, but for 2016 also includes an "other-than—temporary" impairment loss of $209,000 on a new
+investment that conveys investment tax credits.
+145

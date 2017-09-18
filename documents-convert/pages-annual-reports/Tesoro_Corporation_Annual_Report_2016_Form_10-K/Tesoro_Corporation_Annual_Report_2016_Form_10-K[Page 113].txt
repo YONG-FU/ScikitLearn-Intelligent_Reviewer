@@ -1,0 +1,40 @@
+tu©eo~s<9A ]
+WEIGHTED AVERAGE ASSUMPTIONS USED TO MEASURE MARKET STOCK UNITS GRANTED
+Years Ended December 31,
+2016 2015 2014
+Expected volatility 35% 35% 44%
+Expected dividend yield 2% 2% 2%
+Risk-free interest rate 1.1% 1.1% 0.7%
+RESTRICTED COMMON STOCK
+The fair value of each restricted share on the grant date is equal to the market price of our common stock on that date. The estimated fair value of our
+restricted common stock is amortized over the vesting period primarily using the straight-line method. These awards primarily vest in annual increments ratably
+over 3 years. The total fair value of restricted shares vested was $2 million, $4 million and $2 million in 2016, 2015 and 2014, respectively. The weighted-average
+grant-date fair value per share of restricted common stock granted during 2016, 2015 and 2014 was $85.51, $90.40 and $61.76, respectively. Unrecognized
+compensation cost related to our non-vested restricted common stock totaled $4 million as of December 31, 2016. This cost is expected to be recognized over a
+weighted-average period of 1.6 years. The fair value of non-vested restricted common stock, as of December 31, 2016, totaled $10 million.
+SUMMARY OF RESTRICTED COMMON STOCK ACTIVITY (shares in thousands)
+Number of Restricted Weighted-Average
+Shares Grant-Date Fair Value
+Nonvested atJanuary 1, 2016 105 $57.58
+Granted 50 $85.51
+Vested (44) $53.71
+Forfeited — $—
+Nonvested at December 31, 2016 111 $71.45
+STOCK OPTIONS
+Under the terms of our stock option plans, the exercise price of options granted is equal to the market price of our common stock on the date of grant. The
+fair value of each option is estimated on the grant date using the Black-Scholes option-pricing model. The estimated fair value of these stock options is amortized
+over the vesting period using the straight-line method. There were no options granted to our employees during 2016, 2015 or 2014.
+Our options primarily become exercisable after one year in 33% annual increments and expire 10 years from the date of grant. The total intrinsic value for
+options exercised during 2016, 2015 and 2014 was $3 million, $19 million and $25 million, respectively. There were no non-vested stock options as of
+December 31, 2016. The reduction in current taxes payable from tax deductions associated with stock options exercised during 2016 totaled $1 million.
+SUMMARY OF STOCK OPTION ACTIVITY FOR ALL PLANS (options in thousands)
+Weighted-Average
+Weighted-Average Remaining Contractual Aggregate Intrinsic
+Number of Options Exercise Price Term Value (in millions)
+Outstanding at January 1, 2016 344 $26.55 3.0 years $27
+Exercised (70) $39.64
+Forfeited or expired — $—
+Outstanding at December 31, 2016 274 $23.20 2.5 years $18
+Vested or expected to vest at December 31, 2016 274 $23.20 2.5 years $18 7
+Exercisable at December 31, 2016 274 $23.20 2.5 years $18 7
+108 | Tesoro Corporation

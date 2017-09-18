@@ -1,0 +1,49 @@
+° our products and services may rely on the technology of others and, therefore, require us to obtain intellectual
+property licenses from third parties in order for us to commercialize our products or services and we may not be
+able to obtain or continue to obtain licenses from these third parties on reasonable terms; and
+0 the unauthorized or improperly licensed use of third-party code in our products.
+Further, responding to any infringement claim, regardless of its validity or merit, could result in costly litigation. Further,
+intellectual property litigation could compel us to do one or more of the following:
+0 pay damages (including the potential for treble damages), license fees or royalties (including royalties for past
+periods) to the party claiming infringement;
+° cease selling products or services that use the challenged intellectual property;
+° obtain a license from the owner of the asserted intellectual property to sell or use the relevant technology, which
+license may not be available on reasonable terms, or at all; or
+- redesign the challenged technology, which could be time consuming and costly, or not be accomplished.
+If we were compelled to take any of these actions, our business, results of operations or financial condition may be impacted.
+Our use of “open source” software could negatively impact our ability to sell our products and subject us to possible
+litigation.
+The products or technologies acquired, licensed or developed by us may incorporate so-called “open source” software,
+and we may incorporate open source software into other products in the future. Such open source software is generally licensed
+by its authors or other third parties under open source licenses, including, for example, the GNU General Public License, the
+GNU Lesser General Public License, “Apache-style” licenses, “Berkeley Software Distribution,” “BSD-style” licenses, and
+other open source licenses. Even though we attempt to monitor our use of open source software in an effort to avoid subjecting
+our products to conditions we do not intend, it is possible that not all instances of our open source code usage are properly
+reviewed. Further, although we believe that we have complied with our obligations under the various applicable licenses for
+open source software that we use such that we have not triggered any of these conditions, there is little or no legal precedent
+governing the interpretation or enforcement of many of the terms of these types of licenses. If an author or other third party that
+distributes open source software were to allege that we had not complied with the conditions of one or more of these licenses,
+we could be required to incur significant legal expenses defending against such allegations. If our defenses were not successful,
+we could be subject to significant damages, enjoined from the distribution of our products that contained open source software,
+and required to comply with the terms of the applicable license, which could disrupt the distribution and sale of some of our
+products. In addition, if we combine our proprietary software with open source software in an unintended manner, under some
+open source licenses we could be required to publicly release the source code of our proprietary software, offer our products
+that use the open source software for no cost, make available source code for modifications or derivative works we create based
+upon incorporating or using the open source software, and/or license such modifications or derivative works under the terms of
+the particular open source license.
+In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of
+third-party commercial software, as open source licensors generally do not provide technology support, maintenance,
+warranties or assurance of title or controls on the origin of the software.
+If we lose access to third-party licenses, releases of our products could be delayed
+We believe that we will continue to rely, in part, on third-party licenses to enhance and differentiate our products. Third-
+party licensing arrangements are subject to a number of risks and uncertainties, including:
+0 undetected errors or unauthorized use of another person’s code in the third party’s software;
+0 disagreement over the scope of the license and other key terms, such as royalties payable and indemnification
+protection;
+- infringement actions brought by third-parties;
+0 that third parties will create solutions that directly compete with our products; and
+0 termination or expiration of the license.
+If we lose or are unable to maintain any of these third-party licenses or are required to modify software obtained under
+third-party licenses, it could delay the release of our products. Any delays could have a material adverse effect on our business,
+results of operations and financial condition.
+23

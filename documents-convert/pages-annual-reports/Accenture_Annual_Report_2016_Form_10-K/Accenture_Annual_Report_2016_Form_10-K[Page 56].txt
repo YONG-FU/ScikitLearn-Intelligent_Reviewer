@@ -1,0 +1,51 @@
+Table of Contents
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+All of our market risk sensitive instruments were entered into for purposes other than trading.
+Foreign Currency Risk
+We are exposed to foreign currency risk in the ordinary course of business. We hedge material cash flow exposures
+when feasible using fonNard contracts. These instruments are subject to ﬂuctuations in foreign currency exchange
+rates and credit risk. Credit risk is managed through careful selection and ongoing evaluation ofthe ﬁnancial institutions
+utilized as counterparties.
+Certain of these hedge positions are undesignated hedges of balance sheet exposures such as intercompany
+loans and typically have maturities of less than one year. These hedges—primarily U.S. dollar/Indian rupee, US. dollar/
+Euro, US. dollar/Japanese yen, U.S. dollar/U.K. pound, U.S. dollar/Brazilian real, U.S. dollar/Swiss franc, US. dollar/
+Philippine peso and US. dollar/Non/vegian krone—are intended to offset remeasurement of the underlying assets and
+liabilities. Changes in the fair value of these derivatives are recorded in Other expense, net in the Consolidated Income
+Statement. Additionally, we have hedge positions that are designated cash flow hedges of certain intercompany charges
+relating to our Global Delivery Network. These hedges—U.S. dollar/Indian rupee, U.S. dollar/Philippine peso, Euro/
+Indian rupee, U.K. pound/Indian rupee and Japanese yen/Chinese yuan, which typically have maturities not exceeding
+three years—are intended to partially offset the impact of foreign currency movements on future costs relating to
+resources supplied by our Global Delivery Network. For additional information, see Note 7 (Derivative Financial
+Instruments) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+For designated cash flow hedges, gains and losses currently recorded in Accumulated other comprehensive loss
+will be reclassiﬁed into earnings at the time when certain anticipated intercompany charges are accrued as Cost of
+services. As of August 31, 2016, it was anticipated that approximately $61 million of net gains, net of tax, currently
+recorded in Accumulated other comprehensive loss will be reclassiﬁed into Cost of services within the next 12 months.
+We use sensitivity analysis to determine the effects that market foreign currency exchange rate ﬂuctuations may
+have on the fair value of our hedge portfolio. The sensitivity of the hedge portfolio is computed based on the market
+value of future cash ﬂows as affected by changes in exchange rates. This sensitivity analysis represents the hypothetical
+changes in value of the hedge position and does not reflect the offsetting gain or loss on the underlying exposure. A
+10% change in the levels of foreign currency exchange rates against the US. dollar (or other base currency of the
+hedge if not a US. dollar hedge) with all other variables held constant would have resulted in a change in the fair value
+of our hedge instruments of approximately $328 million and $305 million as ofAugust 31 , 2016 and 2015, respectively.
+Interest Rate Risk
+The interest rate risk associated with our borrowing and investing activities as of August 31, 2016 is not material
+in relation to our consolidated ﬁnancial position, results of operations or cash ﬂows. While we may do so in the future,
+we have not used derivative financial instruments to alter the interest rate characteristics of our investment holdings
+or debt instruments.
+Other Market Risk
+The privately held companies in which we invest are often in a start-up or development stage, which is inherently
+risky. The technologies or products these companies have under development are typically in the early stages and
+may never materialize, which could result in a loss of a substantial part of our investment in these companies. The
+evaluation of privately held companies is based on information that we request from these companies, which is not
+subject to the same disclosure regulations as US. publicly traded companies, and as such, the basis for these
+evaluations is subject to the timing and accuracy of the data received from these companies. We have minimal exposure
+on our long-term investments in privately held companies as these investments were insignificant as of August 31,
+2016.
+Equity Price Risk
+The equity price risk associated with our marketable equity securities that are subject to market price volatility is
+not material in relation to our consolidated ﬁnancial position, results of operations or cash ﬂows.
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+See the Index to Consolidated Financial Statements and ﬁnancial statements commencing on page F-1, which
+are incorporated herein by reference.
+46

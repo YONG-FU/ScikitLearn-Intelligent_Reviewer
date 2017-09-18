@@ -1,0 +1,41 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+The components of our deferred tax assets and liabilities consist of the following:
+Successor Company
+December 31,
+2016 2015
+(in thousands)
+Deferred tax assets:
+I Net operating losses and capital loss carryforwards $ 6,363,915 $ 5,094,306 I
+Allowance for doubtful accounts 17,867 13,644
+I Accrued expenses 54,263 54,823 I
+Accrual for contingent liabilities 24,669 18,413
+I Intangible assets 130,983 — I
+Property, plant and equipment 253,882 147,774
+I Leasing related activity 25,822 3,543 I
+Equity compensation 1,182 701
+I Long term debt 53,159 68,159 I
+Inventory reserve 1,729 1,982
+I Other 17,573 _ 34,033 I
+6,945,044 5,437,378
+I Valuation allowance (6,945 ,044) _ (5,290,813) I
+Total deferred tax asset — _ 146,565
+IDeferred tax liabilities: I
+Intangible assets — _ 149,749
+I Total deferred tax liability — _ 149,749 I
+Net deferred tax liability i$ — g :$ (3,184) i
+As of December 31, 2016, we had $1.4 billion of net operating loss carryforwards for US. Federal and state income tax purposes, which expire in various
+amounts beginning in 2027 through 2036. Due to our emergence from bankruptcy on June 26, 2015, the timing and manner in which we will utilize the net
+operating loss carryforwards in any year will be limited relating to changes in our ownership. The annual limitation is $40.2 million, and some of our net
+operating loss carryforwards will expire before use in the future due to this limitation. As a result of this limitation, our net operating loss carryforwards for
+US. Federal and state income tax purposes are $888.1 million.
+As of December 31, 2016, our Brazilian subsidiaries had $1.6 billion of net operating loss carryforwards that can be carried forward indeﬁnitely, but the
+amount that we can utilize annually is limited to 30% of Brazilian taxable income before the net operating loss deduction. Our foreign subsidiaries' ability to
+utilize the foreign tax net operating losses in any single year ultimately depends upon their ability to generate sufﬁcient taxable income.
+As of December 31, 2016, our holding companies in Luxembourg each had net operating losses ranging from $1.2 billion to $8.5 billion that can be
+carried forward indeﬁnitely. Our holding companies in Spain had $847.9 million of net operating loss carryforwards that can be carried forward 18 years, and
+our holding company in the Netherlands had an immaterial amount of net operating loss carryforwards that can be carried forward nine years. Given the
+nature of activities that are considered taxable in these jurisdictions and the activities engaged in by the holding companies, these net operating loss
+carryforwards will never be utilized by our holding companies.
+The deferred tax asset valuation allowances that our subsidiaries and holding companies had as of December 31, 2016 and 2015 are as follows:
+F—36

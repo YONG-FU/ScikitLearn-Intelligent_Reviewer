@@ -1,0 +1,31 @@
+The following tables set forth the estimated fair values and gross unrealized losses associated with investment securities
+that were in an unrealized loss position as of December 31, 2016 and 2015, listed by length of time the securities were in an
+unrealized loss position.
+December 31, 2016 Less than twelve months Twelve months or longer Total
+: Fair Unrealized : : Fair Unrealized : : Fair Unrealized :
+($ in thousands) values losses values losses values losses
+Fixed maturity securities: : : : : : : : : : : : :
+[ U.S. treasury $ 7,830 $ 11 $ — $ — $ 7,830 $ 11 ]
+U.S. government-sponsored agencies 202,900 10,609 — — 202,900 10,609
+[ Obligations of states and political ]
+subdivisions 43,777 940 — — 43,777 940
+Commercial mortgage-backed 21,695 1,133 — — 21,695 1,133
+[ Residential mortgage-backed 26,217 1,232 23,625 6,076 49,842 7,308 I
+Other asset-backed 19,091 931 — — 19,091 931
+[ Corporate 82,657 1,273 8,625 106 91,282 1,379 1
+Total ﬁxed maturity securities : 404,167 16,129 32,250 6,182 436,417 22,311 :
+{Equity securities: : ‘
+Common stocks:
+[ Financial services 1,462 12 908 198 2,370 210 I
+Information technology 1,947 29 — — 1,947 29
+[ Healthcare 3,585 85 — — 3,585 85 ]
+Consumer staples 2,427 125 — — 2,427 125
+[ Consumer discretionary 1,637 163 — — 1,637 163 I
+Energy 1,621 33 1,188 45 2,809 78
+[ Industrials 779 18 — — 779 18 1
+Other 1,472 32 — — 1,472 32
+[ Non-redeemable preferred stocks 3,356 44 1,877 123 5,233 167 1
+Total equity securities : 18,286 541 3,973 366 22,259 907 :
+[ Total temporarily impaired :
+secur1t1es S 422,453, 8 16,6707 8 36,2237 8 6,5487 8 458,676, 8 23,218
+143

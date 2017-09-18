@@ -1,0 +1,50 @@
+foreign currency hedge ineﬁectiveness. At December 31, 2016, the Company had open contracts with various expiration dates
+to buy, sell or exchange foreign currencies with a notional US. dollar equivalent of $1,411 million ($398 million at
+December 31, 2015).
+Commodity swaps, futures and option contracts with maturities of not more than 48 months are utilized and designated as cash
+ﬂow hedges of forecasted commodity purchases. Current open contracts hedge forecasted transactions until December 2020.
+The effective portion of the mark-to-market effect of the cash ﬂow hedge instrument is recorded in AOCL; it is reclassified to
+income in the same period or periods that the underlying commodity purchase affects income. The net loss from commodity
+hedges included in AOCL at December 31, 2016 was $99 million after tax ($180 million after tax loss at December 31, 2015).
+In 2016, 2015 and 2014, there was no material impact on the consolidated financial statements due to commodity hedge
+ineffectiveness. At December 31, 2016 and 2015, the Company had the following gross aggregate notionals of outstanding
+commodity forward, options and futures contracts to hedge forecasted purchases:
+Dec 31, Dec 31,
+Commodity 2016 2015 Notional Volume Unit
+| Corn 0.4 1.0 million bushels 1
+Crude Oil 0.6 0.4 million barrels
+l Ethane 3.6 ; million barrels ‘
+Natural Gas 78.6 257.4 million British thermal units
+l Propane 1.5 ; million barrels ‘
+,Soybeans T 7 1.4 million bushels 7
+The net after-tax amounts to be reclassified from AOCL to income within the next 12 months are a $14 million gain for
+commodity contracts, a $22 million gain for foreign currency contracts and a $2 million loss for interest rate contracts.
+Fair Value Hedges
+For derivative instruments that are designated and qualify as fair value hedges, the gain or loss on the derivative as well as the
+offsetting loss or gain on the hedged item attributable to the hedged risk are recognized in current period income and reﬂected
+as “Interest expense and amortization of debt discount” in the consolidated statements of income. The short-cut method is used
+when the criteria are met. During 2015, the Company entered into and subsequently terminated an interest rate swap designated
+as a fair value hedge of an underlying fixed rate debt obligation with a maturity date of May 2019. The fair value adjustment
+resulting from this swap was a gain on the derivative of less than $1 million. At December 31, 2016 and 2015, the Company
+had no open interest rate swaps designated as fair value hedges of underlying fixed rate debt obligations.
+Net Foreign Investment Hedges
+For derivative instruments that are designated and qualify as net foreign investment hedges, the effective portion of the gain or
+loss on the derivative is included in “Cumulative Translation Adjustments” in AOCL. The Company had open foreign currency
+contracts designated as net foreign investment hedges with a gross notional US. dollar equivalent of $2,641 million at
+December 31, 2016 (zero at December 31, 2015). In addition, at December 31, 2016, the Company had outstanding foreign-
+currency denominated debt designated as a hedge of net foreign investment of $172 million ($166 million at December 31,
+2015). The results of hedges of the Company’s net investment in foreign operations included in “Cumulative Translation
+Adjustments” in AOCL was a net gain of $1 million after tax for the period ended December 31, 2016 (net gain of $1 million
+after tax for the period ended December 31, 2015). In 2016, 2015 and 2014 there was no material impact on the consolidated
+financial statements due to hedge ineﬁectiveness. See Note 24 for further detail on changes in AOCL.
+0th er Derivative Instruments
+The Company utilizes futures, options and swap instruments that are effective as economic hedges of commodity price
+exposures, but do not meet hedge accounting criteria for derivatives and hedging. At December 31, 2016 and 2015, the
+Company had the following gross aggregate notionals of outstanding commodity contracts:
+Dec 31, Dec 31,
+Commodity 2016 2015 Notional Volume Unit
+[Ethane 2.6 7 7 million barrels
+Gasoline 30.0 r 7 kilotons
+lNaphtha Price Spread 50.0 15.0 kilotons ‘
+Propane 2.7 0.5 million barrels
+102

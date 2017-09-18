@@ -1,0 +1,48 @@
+The decrease in the provision for income taxes in 2015 as compared to 2014 was mainly due to the retroactive application
+of a US. tax court ruling with respect to the treatment of stock-based compensation in intercompany arrangements and the
+composition of income from foreign jurisdictions with lower tax rates than the statutory tax rates in the US. These benefits
+were partially offset by the effects of accounting for stock-based compensation in accordance with the authoritative guidance
+for share-based payments.
+Our effective income tax rate may ﬂuctuate between fiscal years and from quarter to quarter due to items arising from
+discrete events, such as tax benefits from the disposition of employee equity awards, settlements of tax audits and assessments
+and tax law changes. Our effective income tax rate is also impacted by, and may ﬂuctuate in any given period because of, the
+composition of income in foreign jurisdictions where tax rates differ depending on the local statutory rates.
+Non-GAAP Financial Measures
+In addition to providing financial measurements based on accounting principles generally accepted in the U.S., or GAAP,
+we publicly discuss additional financial measures that are not prepared in accordance with GAAP, or non-GAAP financial
+measures. Management uses non-GAAP financial measures, in addition to GAAP financial measures, to understand and
+compare operating results across accounting periods, for financial and operational decision-making, for planning and
+forecasting purposes, to measure executive compensation and to evaluate our financial performance. These non-GAAP
+financial measures are: non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP
+net income per diluted share, Adjusted EBITDA, Adjusted EBITDA margin and impact of foreign currency exchange rates, as
+discussed below.
+Management believes that these non-GAAP financial measures reﬂect our ongoing business in a manner that facilitates
+meaningful comparisons and analysis of trends in the business, as they assist in the comparison of financial results across
+accounting periods and to those of our peer companies. Management also believes that these non-GAAP financial measures
+enable investors to evaluate our operating results and future prospects in the same manner as management. These non-GAAP
+financial measures may also exclude expenses and gains that may be unusual in nature, infrequent or not reﬂective of our
+ongoing operating results.
+The non-GAAP financial measures do not replace the presentation of our GAAP financial measures and should only be
+used as a supplement to, not as a substitute for, our financial results presented in accordance with GAAP.
+The non-GAAP adjustments, and our basis for excluding them from non-GAAP financial measures, are outlined below:
+- Amortization of acquired intangible assets —- We have incurred amortization of intangible assets, included in our
+GAAP financial statements, related to various acquisitions we have made. The amount of an acquisition's purchase
+price allocated to intangible assets and term of its related amortization can vary significantly and are unique to each
+acquisition; therefore, we exclude amortization of acquired intangible assets from our non-GAAP financial measures
+to provide investors with a consistent basis for comparing pre- and post-acquisition operating results.
+° Stock-based compensation and amortization of capitalized stock-based compensation — Although stock-based
+compensation is an important aspect of the compensation paid to our employees, the grant date fair value varies based
+on the stock price at the time of grant, varying valuation methodologies, subjective assumptions and the variety of
+award types. This makes the comparison of our current financial results to previous and future periods difficult to
+evaluate; therefore, we believe it is useful to exclude stock-based compensation and amortization of capitalized stock-
+based compensation from our non-GAAP financial measures in order to highlight the performance of our core business
+and to be consistent with the way many investors evaluate our performance and compare our operating results to peer
+companies.
+- Acquisition-related costs — Acquisition-related costs include transaction fees, advisory fees, due diligence costs and
+other direct costs associated with strategic activities. In addition, subsequent adjustments to our initial estimated
+amounts of contingent consideration and indemnification associated with specific acquisitions are included within
+acquisition-related costs. These amounts are impacted by the timing and size of the acquisitions. We exclude
+acquisition-related costs from our non-GAAP financial measures to provide a useful comparison of our operating
+results to prior periods and to our peer companies because such amounts vary significantly based on the magnitude of
+our acquisition transactions.
+35

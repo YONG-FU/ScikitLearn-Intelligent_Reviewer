@@ -1,0 +1,38 @@
+Table of Contents
+December 31, 2016
+Cost or Gross Gross Total
+Amortized Unrealized Unrealized Estimated
+Cost Gains Losses Fair Value
+I Cash 8 6,883 $ — $ — $ 6,883 I
+Level 1 securities:
+I Money market ﬁlnds 11,940 — — 1 1,940 I
+Equity securities 20 3 1 — 51
+ILevel 2 securities: I
+Foreign government and agency securities 337 — — 337
+I US. government and agency securities 4,821 2 (7) 4,816 I
+Corporate debt securities 2,105 1 (2) 2,104
+I Asset-backed securities 355 — (2) 353 I
+Other ﬁxed income securities 97 _ — _ — _ 97
+I 8 26,558 $ 34 $ (11) $ 26,581 I
+Less: Restricted cash, cash equivalents, and marketable securities (1) i i i i i i i (600):
+I Total cash, cash equivalents, and marketable securities $ 25,981 I
+(Ti):ﬁ:a:rieqﬁii:clitc:ledge or otherwise restrict a portion of our cash, cash equivalents, and marketable securities as collateral for standby and trade letters
+of credit, guarantees, debt, real estate leases, and amounts due to third-party sellers in certain jurisdictions. We classify cash, cash equivalents, and
+marketable securities with use restrictions of less than twelve months as “Accounts receivable, net and other” and of twelve months or longer as non-
+current “Other assets” on our consolidated balance sheets. See “Note 7—Commitments and Contingencies.”
+The following table summarizes gross gains and gross losses realized on sales of available-for—sale marketable securities (in millions):
+Year Ended December 31,
+2014 2015 2016
+IRealized gains $ 8 — $ 2 — $ 3 I
+Realized losses 5 7 1 1
+The following table summarizes the contractual maturities of our cash equivalents and marketable ﬁxed-income securities as of December 31, 2016 (in
+millions):
+Amortized Estimated
+Cost Fair Value
+IDue within one year $ 16,532 — $ 16,531 I
+Due after one year through ﬁve years 2,766 2,760
+IDue after ﬁve years through ten years 203 202 I
+Due after ten years 15 5 154
+I Total $ 19,656 $ 19,647 I
+Actual maturities may diﬁ‘er from the contractual maturities because borrowers may have certain prepayment conditions.
+50

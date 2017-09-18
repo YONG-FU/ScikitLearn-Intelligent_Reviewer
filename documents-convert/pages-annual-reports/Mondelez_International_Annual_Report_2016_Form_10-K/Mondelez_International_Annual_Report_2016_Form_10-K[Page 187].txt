@@ -1,0 +1,41 @@
+SECTION 1202. Satisfaction of Sinking Fund Payments With Securities.
+The Company (1) may deliver Outstanding Securities of a series (other than any previously called for redemption), and (2) may apply as a credit Securities of
+a series which have been redeemed either at the election of the Company pursuant to the terms of such Securities or through the application of permitted optional
+sinking fund payments pursuant to the terms of such Securities, in each case in satisfaction of all or any part of any sinking fund payment with respect to the
+Securities of such series required to be made pursuant to the terms of such Securities as provided for by the terms of such series; provided, however, that such
+Securities have not been previously so credited. Such Securities shall be received and credited for such purpose by the Trustee for such Securities at the principal
+amount thereof and the amount of such sinking fund payment shall be reduced accordingly.
+SECTION 1203. Redemption of Securities for Sinking Fund.
+Not less than 60 days prior to each sinking fund payment date for any particular series of Securities, the Company will deliver to the Trustee for the
+Securities of such series an Officers’ Certificate specifying the amount of the next ensuing mandatory sinking fund payment for that series pursuant to the terms of
+that series, the portion thereof, if any, which is to be satisfied by payment of cash in the currency or currency unit in which the Securities of that series are payable
+(except as otherwise specified pursuant to Section 301 for the Securities of that series and except as provided in Sections 311(b) and 311(d)) and the portion thereof,
+if any, which is to be satisfied by delivering and crediting Securities of that series pursuant to Section 1202 and shall state the basis for such credit and that such
+Securities have not previously been so credited and will also deliver to such Trustee any Securities to be so delivered. Such Trustee shall select the Securities to be
+redeemed upon such sinking fund payment date in the manner speciﬁed in Section 1103 and cause notice of the redemption thereof to be given in the name of and
+at the expense of the Company in the manner provided in Section 1104. Such notice having been duly given, the redemption of such Securities shall be made upon
+the terms and in the manner stated in Sections 1106 and 1107.
+Article Thirteen
+MEETINGS OF HOLDERS OF SECURITIES
+SECTION 1301. Purposes for Which Meetings May Be Called.
+A meeting of Holders of Securities of such series may be called at any time and from time to time pursuant to this Article to make, give or take any request,
+demand, authorization, direction, notice, consent, waiver or other action provided by this Indenture to be made, given or taken by Holders of Securities of such
+series.
+SECTION 1302. Call, Notice and Place of Meetings.
+(a) The Trustee for any series of Securities, may at any time call a meeting of the Holders of Securities of such series for any purpose specified in
+Section 1301, to be held at such time and at such place in the Borough of Manhattan, The City of New York, or in London, as such Trustee shall determine. Notice
+of every meeting of Holders of Securities of such series, setting forth the time and the place of such meeting and in general terms the action proposed to be taken at
+such meeting, shall be given, in the manner provided in Section 106, not less than 20 nor more than 180 days prior to the date fixed for the meeting.
+(b) In case at any time the Company, pursuant to a Board Resolution, or the Holders of at least 10% in principal amount of the Outstanding Securities of any
+such series shall have requested the Trustee for any such series to call a meeting of the Holders of Securities of such series for any purpose specified in
+Section 1301, by written request setting forth in reasonable detail the action proposed to be taken at the meeting, and such Trustee shall not have made the first
+publication of the notice of such meeting within 30 days after receipt of such request or shall not thereafter proceed to cause the meeting to be held as provided
+herein, then the Company or the Holders of Securities of such series in the amount above speciﬁed, as the case may be, may determine the time and the place in the
+Borough of Manhattan, The City of New York, or in London, for such meeting and may call such meeting for such purposes by giving notice thereof as provided in
+subsection (a) of this Section.
+SECTION 1303. Persons Entitled to Vote at Meetings.
+To be entitled to vote at any meeting of Holders of Securities of any series, a Person shall be (1) a Holder of one or more Outstanding Securities of such
+series, or (2) a Person appointed by an instrument in writing as proxy for a Holder or Holders of one or more Outstanding Securities of such series by such Holder
+or Holders. The only Persons who shall be entitled to be present or to speak at any meeting of Holders of Securities of any series shall be the Persons entitled to
+vote at such meeting and their counsel, any representatives of the Trustee for such series and its counsel and any representatives of the Company and its counsel.
+48

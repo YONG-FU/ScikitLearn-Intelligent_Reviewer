@@ -1,0 +1,38 @@
+Reclassiﬁcations
+“Amortization of prepaid debt costs” for the years ended December 31, 2015 and 2014 has been reclassiﬁed to “interest expense, net” and “changes in
+operating assets and liabilities,” in the consolidated statements of operations and consolidated statements of cash ﬂows, respectively, to conform to the current
+period presentation. In accordance with the Company’s early adoption of ASU No. 2016-18, changes in restricted cash for the years ended December 2016 and
+2015 have been reclassiﬁed in the consolidated statements of cash flows and restricted cash balances have been included with beginning and ending cash and cash
+equivalent balances in the consolidated statements of cash flows. These reclassiﬁcations do not impact reported net loss and do not otherwise have a material
+impact on the presentation of the overall financial statements.
+Use of Estimates
+The preparation of ﬁnancial statements in conformity with US. GAAP requires management to make estimates and assumptions that affect reported amounts
+and related disclosures. These estimates include, but are not limited to, assessing the collectability of accounts receivable, applied and unapplied production costs,
+production capacities, the usage and recoverability of inventories and long-lived assets, deferred income taxes, the incurrence of warranty obligations, impairment
+of goodwill, estimation of the cost to complete certain projects, estimation of pension assets and liabilities, accruals for estimated losses for legal matters, and
+estimation of the value of stock-based compensation awards, including the probability that the performance criteria of restricted stock units awards will be met.
+Revenue Recognition
+Revenue is derived primarily from the sale of manufactured products directly to customers. Product revenue is recognized, according to the guidelines of the
+Securities and Exchange Commission (“SEC”) Staff Accounting Bulletin (“SAB”) Numbers 101, Revenue Recognition in Financial Statements , and 104, Revenue
+Recognition , when all of the following criteria are met: (1) persuasive evidence of an arrangement exists (upon contract signing or receipt of an authorized
+purchase order from a customer); (2) title passes to the customer at either shipment from the Company’s facilities or receipt at the customer facility, depending on
+shipping terms; (3) customer payment is deemed ﬁxed or determinable and free of contingencies or significant uncertainties; and (4) collectability is reasonably
+assured. This policy has been consistently applied from period to period.
+A portion of our sales revenue is derived from sales to distributors. Distributor revenue is recognized when all of the criteria for revenue recognition are met,
+which is generally the time of shipment to the distributor; all returns and credits are estimable and not significant.
+Revenue from production-type contracts, which represent less than five percent of total revenue, is recognized using the percentage of completion method.
+The degree of completion is determined based on costs incurred as a percentage of total costs anticipated, excluding costs that are not representative of progress to
+completion.
+Total deferred revenue and customer deposits in the consolidated balance sheets as of December 31, 2016 and 2015 was $4.0 million and $3.1 million ,
+respectively, and primarily relates to cash received from a customer in connection with a production-type contract, for which revenue is recognized using the
+percentage of completion method, and payments received under a joint development agreement, which are recognized as an offset to research and development
+expense as services are performed.
+Cash and Cash Equivalents
+Cash and cash equivalents consist primarily of cash in readily available checking accounts. Cash equivalents consist of highly liquid investments that are
+readily convertible to cash and that mature within three months or less from the date of purchase. The carrying amounts approximate fair value due to the short
+maturities of these instruments.
+Accounts Receivable and Allowance for Doubtful Accounts
+Trade receivables are stated at gross invoiced amount less an allowance for uncollectible accounts. The allowance for doubtful accounts reﬂects
+management’s best estimate of probable losses inherent in the accounts receivable balance. Management determines the allowance for doubtful accounts based on
+known troubled accounts, historical experience and other currently available evidence.
+55

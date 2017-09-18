@@ -1,0 +1,39 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Deferred taxes reﬂect temporary differences between the tax basis and financial statement carrying value of assets and
+liabilities. The significant temporary differences that comprised the deferred tax assets and liabilities are as follows:
+December 31, 2016 2015
+lDeferred tax assets: l
+Post-retirement benefit obligations $ 90,584 $ 95,763
+I Accrued expenses and other reserves 141,228 163,908 ‘
+Stock-based compensation 48,500 46,665
+I Derivative instruments 44,010 8,858 ‘
+Pension 14,662 28,940
+I Lease financing obligation 18,950 18,947 l
+Accrued trade promotion reserves 50,463 36,501
+I Net operating loss carryforwards 143,085 99,155 l
+Capital loss carryforwards 38,691 44,546
+] Other 14,452 14,444 l
+Gross deferred tax assets : 604,625 557,727 :
+l Valuation allowance (235,485) (207,05 5):
+Total deferred tax assets : 369,140 350,672 :
+l Deferred tax liabilities: : l
+Property, plant and equipment, net 202,300 218,729
+I Acquired intangibles 113,074 120,420 ‘
+Inventories 27,608 20,063
+] Other 8,884 8,258 l
+Total deferred tax liabilities : 351,866 367,470 :
+lNet deferred tax assets (liabilities) $ 17,274 _$ (16,798)
+Included in: l L l L
+Non-current deferred tax assets, net 56,861 36,390
+I Non-current deferred tax liabilities, net (39,587) (5 3,188):
+Net deferred tax assets (liabilities) $ 17,274 _ $ (16,798)
+We believe that it is more likely than not that the results of future operations will generate sufficient taxable income to
+realize the net deferred tax assets. Changes in deferred tax assets for net operating loss carryforwards resulted
+primarily from current year losses in foreign jurisdictions. Changes in deferred tax assets for derivative instruments
+resulted primarily from the tax impact of our payment to settle an interest rate swap in 2016.
+The valuation allowances as of December 31, 2016 and 2015 are primarily related to US. capital loss carryforwards
+and various foreign jurisdictions' net operating loss carryforwards and other deferred tax assets that we do not expect
+to realize.
+73

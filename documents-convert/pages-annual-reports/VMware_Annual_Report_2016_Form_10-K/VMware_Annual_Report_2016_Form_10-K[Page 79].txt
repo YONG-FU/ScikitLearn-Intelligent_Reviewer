@@ -1,0 +1,44 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+$35 million and $20 million as of December 31, 2016 and 2015 , respectively, and are included in other assets and other liabilities on the consolidated balance
+sheets.
+Assets Measured and Recorded at Fair Value on a Non-Recurring Basis
+VMware holds strategic investments in its portfolio accounted for using the cost method. These strategic investments are periodically assessed for other-than-
+temporary impairment. VMware uses Level 3 inputs as part of its impairment analysis, including, pre- and post-money valuations of recent financing events, the
+impact of financing events on its ownership percentages, and other available information relevant to the issuer’s historical and forecasted performance. The
+estimated fair value of these investments is considered in VMware’s impairment review if any events or changes in circumstances occur that might have a
+significant adverse effect on their value. If VMware determines that an other-than-temporary impairment has occurred, VMware writes down the investments to
+their fair value.
+During the years ended December 31, 2016 and 2015 , VMware determined that certain strategic investments were considered to be other-than-temporarily
+impaired and accordingly, approximately $14 million and $5 million , respectively, were recognized as impairment charges. There was no impairment charge
+during the year ended December 31, 2014. Strategic investments are included in other assets on the consolidated balance sheets. The carrying value of VMware’s
+strategic investments was $139 million and $103 million as of December 31, 2016 and December 31, 2015 , respectively.
+H. Derivatives and Hedging Activities
+VMware conducts business on a global basis in multiple foreign currencies, subjecting the Company to foreign currency risk. To mitigate a portion of this risk,
+VMware utilizes hedging contracts as described below, which potentially expose the Company to credit risk to the extent that the counterparties may be unable to
+meet the terms of the agreement. VMware manages counterparty risk by seeking counterparties of high credit quality, by monitoring credit ratings and credit
+Spreads of, and other relevant public information about its counterparties. VMware does not, and does not intend to, use derivative instruments for trading or
+speculative purposes.
+Cash Flow Hedges
+To mitigate its exposure to foreign currency ﬂuctuations resulting from certain Operating expenses denominated in certain foreign currencies, VMware enters
+into forward contracts that are designated as cash ﬂow hedging instruments as the accounting criteria for such designation have been met. Therefore, the effective
+portion of gains or losses resulting from changes in the fair value of these instruments is initially reported in accumulated other comprehensive income (loss) on the
+consolidated balance sheets and is subsequently reclassified to the related operating expense line item on the consolidated statements of income in the same period
+that the underlying expenses are incurred. During the years ended December 31, 2016 , 2015 and 2014 , the effective portion of gains or losses reclassified to the
+consolidated statements of income was not signiﬁcant. Interest charges or “forward points” on VMware’s forward contracts are excluded from the assessment of
+hedge effectiveness and are recorded in other income (expense), net on the consolidated statements of income as incurred.
+These forward contracts have contractual maturities of twelve months or less, and as of December 31, 2016 and 2015 , outstanding forward contracts had a
+total notional value of $22 million and $213 million , respectively. The notional value represents the gross amount of foreign currency that will be bought or sold
+upon maturity of the forward contract.
+During the years ended December 31, 2016 and 2015 , all cash ﬂow hedges were considered effective.
+Forward Contracts Not Designated as Hedges
+VMware has established a program that utilizes forward contracts to offset the foreign currency risk associated with net outstanding monetary asset and
+liability positions. These forward contracts are not designated as hedging instruments under applicable accounting guidance, and therefore all changes in the fair
+value of the forward contracts are reported in other income (expense), net on the consolidated statements of income.
+These forward contracts have a contractual maturity of one month, and as of December 31, 2016 and 2015 , outstanding forward contracts had a total notional
+value of $875 million and $721 million , respectively. The notional value represents the gross amount of foreign currency that will be bought or sold upon maturity
+of the forward contract.
+During the years ended December 31, 2016 , 2015 and 2014 , VMware recognized a gain of $23 million , $36 million and $48 million , respectively, relating
+to the settlement of forward contracts. Gains and losses are recorded in other income (expense), net on the consolidated statements of income.
+76

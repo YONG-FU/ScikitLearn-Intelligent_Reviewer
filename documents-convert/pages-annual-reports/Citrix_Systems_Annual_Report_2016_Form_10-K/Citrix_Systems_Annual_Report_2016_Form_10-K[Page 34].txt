@@ -1,0 +1,50 @@
+ITEM 7. MANA GEMENT ’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+Overview
+Citrix delivers solutions to make applications secure and easy to access, anywhere, anytime and on any device or
+network. Our mission is to power a world where people, organizations and things are securely connected and accessible.
+We market and license our products directly to customers, over the Web, and through systems integrators, or SIS, in
+addition to indirectly through value-added resellers, or VARs, value-added distributors, or VADs, original equipment
+manufacturers, or OEMs and service providers.
+We are a Delaware corporation founded on April 17, 1989.
+Executive Summary
+Our products and services mobilize desktops, apps and data to help our customers drive value. We continue driving
+innovation in the datacenter with our products and services across both physical and software defined networking platforms
+while powering some of the world’s largest clouds and giving enterprises the capabilities to combine best-in—class application
+networking services on a single, consolidated footprint. Our work with Citrix Service Providers, or CSPs, to deliver our
+products in the cloud is how we are meeting customer demand for subscription-based services for the delivery of apps from
+Windows to web to mobile.
+During the year ended December 31, 2016, we delivered solid progress on our operational initiatives designed to improve
+scalability of our infrastructure and cost saving efficiencies. This included restructuring programs, changes in our field and
+channel strategies and continued focus on our core strategy, the secure delivery of apps and data. Our efforts have contributed
+to higher operating margins and a foundation for sustained profitable growth of our business.
+On January 25, 2017, we announced that our Board approved an increase of $500 million to our existing share repurchase
+program, bringing the total current authorization to over $900 million.
+On January 31, 2017, we completed the spin-off of our GoTo Business (the “Spin-off”) and subsequent merger of that
+business with LogMeIn, Inc. ( “LogMeIn”) pursuant to the terms of (1) an Agreement and Plan of Merger, dated as of July 26,
+2016 (the “Merger Agreement”), by and among Citrix, GetGo, Inc., a wholly-owned subsidiary of Citrix (“GetGo”), LogMeIn,
+and a wholly-owned subsidiary of LogMeIn (“Merger Sub”), and (2) a Separation and Distribution Agreement, dated as of July
+26, 2016, by and among Citrix, LogMeIn and GetGo. Under the Spin-oﬁ", we distributed approximately 26.9 million shares of
+GetGo common stock to our stockholders of record as of the close of business on January 20, 2017. We delivered the shares of
+GetGo common stock to our transfer agent, who held such shares for the benefit of our stockholders. Immediately thereafter,
+Merger Sub was merged with and into GetGo, with GetGo continuing as a wholly owned subsidiary of LogMeIn (the
+“Merger”). As a result of the Merger, each share of GetGo common stock was converted into the right to receive one share of
+LogMeIn common stock. As a result of these transactions, our stockholders received approximately 26.9 million shares of
+LogMeIn common stock in the aggregate, or 0.171844291 of a share of LogMeIn common stock for each share of Citrix
+common stock held of record by our stockholders as of the close of business on January 20, 2017. No fractional shares of
+LogMeIn were issued, and our stockholders instead received cash in lieu of any fractional shares. The distribution of the shares
+of GetGo common stock to our stockholders also resulted in an adjustment to the conversion rate for our 0.500% Convertible
+Notes due 2019 (the “Convertible Notes”) under the terms of the related indenture. As a result of this adjustment, the
+conversion rate for the Convertible Notes in effect as of the opening of business on February 1, 2017 was 13.9061 shares of
+Citrix common stock per $1,000 principal amount of Convertible Notes.
+Summary of Results
+For the year ended December 31, 2016 compared to the year ended December 31, 2015, we delivered the following
+financial performance:
+0 Product and license revenue increased 0.9% to $883.3 million;
+° Software as a service revenue increased 11.6% to $816.4 million;
+0 License updates and maintenance revenue increased 4.4% to $1.6 billion;
+0 Professional services revenue decreased 11.0% to $131.2 million;
+° Gross margin as a percentage of revenue increased 2.4% to 83.6%;
+° Operating income increased 85.4% to $649.2 million; and
+- Diluted earnings per share increased 71.4% to $3.41.
+30

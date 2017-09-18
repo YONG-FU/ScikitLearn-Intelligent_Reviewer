@@ -1,0 +1,42 @@
+TablebﬁContents
+In November 2015, the F ASB issued ASU 2015-17, Balance Sheet Classiﬁcation of Deferred Taxes . The amendment in this ASU requires that deferred tax assets
+and liabilities, along with any related valuation allowance, be classified as noncurrent in a classified statement of ﬁnancial position. The guidance becomes
+effective for annual reporting periods beginning after December 15, 2016 with early adoption permitted. Management elected to adopt the standard in the ﬁrst
+quarter of 2016, with retrospective application to prior period balances presented. The adoption of ASU 2015-17 merely resulted in the reclassiﬁcation within the
+asset section of the balance sheet and did not have a material impact on the Company’s working capital or consolidated financial statements.
+Note 2—Changes in Accumulated Other Comprehensive Income by Component
+US. GAAP establishes standards for presenting information about significant items reclassified out of accumulated other comprehensive income by component.
+As of December 31, 2016 and 2015 , respectively, we generated other comprehensive income from one component. This component relates to the unrealized gains
+and losses from our available for sale marketable securities during a given reporting period.
+The following table provides a summary of changes in accumulated other comprehensive income, net of taxes:
+Unrealized Gains and (Losses)(l())n Available for Sale Securities
+2016 2015 2014
+(in thousands)
+lAccumulated other comprehensive income - beginning balance $ 543 $ 25 $ 49 ‘
+Other comprehensive (loss) income before reclassiﬁcations (1,005) 535 (16)
+’Amounts reclassiﬁed from accumulated other comprehensive (loss) income (2X3) 143 (17) (8) 1
+Net current period change in other comprehensive (loss) income (4) $ (862) $ 518 $ (24)
+iAccumulated other comprehensive (loss) income - ending balance $ (319) $ 543 $ 25 l
+(1) All amounts are net of tax.
+(2) Realized gains and losses are recorded pre-tax in the other income - investment and interest caption in our consolidated statements of comprehensive
+income.
+(3) For the year ended December 31, 2016 , the Company recorded $0.2 million of realized losses from the sale of available for sale securities. For the years
+ended December 31, 2015 and 2014 , the Company recorded less than $0.1 million of realized gains for the sale of available for sale securities. Refer to
+Note 5 herein for further information.
+(4) For the years ended December 31, 2016 , 2015 and 2014 , these changes in other comprehensive income were net of tax effects of $0.5 million , $0.3 million
+and $0.1 million , respectively.
+Note 3—Property and Equipment
+Property and equipment are recorded at cost. Depreciation is recorded over the estimated useful life of each class of depreciable assets, and is computed using the
+straight-line method. Leasehold improvements are amortized over the shorter of the estimated asset life or term of the lease. Repairs and maintenance costs are
+charged to expense as incurred.
+The following table sets forth the amounts of property and equipment by each class of depreciable assets as of December 31, 2016 and December 31, 2015 :
+December 31, 2016 December 31, 2015
+(in thousands)
+Housekeeping and Dietary equipment 55 21,136 $ 19,445 ‘
+Computer hardware and software 11,750 10,528
+)Otherm 1,133 1,134 1
+Total property and equipment, at cost $ 34,019 $ 31,107
+iLess accumulated depreciation 20,564 _ 18,021 1
+Total property and equipment, net $ 13,455 $ 13,086
+(1) Includes furniture and fixtures, leasehold improvements and autos and trucks.
+42

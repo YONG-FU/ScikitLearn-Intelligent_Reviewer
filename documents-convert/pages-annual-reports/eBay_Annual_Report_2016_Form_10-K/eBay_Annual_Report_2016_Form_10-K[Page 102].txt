@@ -1,0 +1,42 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Our financial assets and liabilities are valued using market prices on both active markets
+(“Level 1”) and less active markets (“Level 2”). Level 1 instrument valuations are obtained from
+real-time quotes for transactions in active exchange markets involving identical assets. Level 2
+instrument valuations are obtained from readily available pricing sources for comparable
+instruments, identical instruments in less active markets, or models using market observable
+inputs. The majority of our derivative instruments are valued using pricing models that take into
+account the contract terms as well as multiple inputs where applicable, such as equity prices,
+interest rate yield curves, option volatility and currency rates. We did not have any transfers of
+financial instruments between valuation levels during 2016 or 2015.
+Cash and cash equivalents are short—term, highly liquid investments with original or
+remaining maturities of three months or less when purchased and are primarily comprised of
+bank deposits, certificates of deposit and commercial paper.
+In addition, we had cost and equity method investments of approximately $118 million and
+$124 million included in long—term investments on our consolidated balance sheet as of
+December 31, 2016 and 2015, respectively.
+Our derivative instruments vary in duration depending on contract type. Our foreign
+exchange derivative contracts are primarily short-term in nature, generally one month to one
+year in duration. Certain foreign currency contracts designated as cash flow hedges may have
+a duration of up to 18 months. The duration of our interest rate derivative contracts match the
+duration of the fixed rate notes due 2019, 2021 and 2024.
+Other financial instruments, including accounts receivable and accounts payable are
+carried at cost, which approximates their fair value because of the short—term nature of these
+instruments.
+Note 9 — Derivative Instruments
+Summary of Derivative Instruments
+Our primary objective in holding derivatives is to reduce the volatility of earnings and cash
+flows associated with changes in foreign currency exchange rates and interest rates. Our
+derivatives expose us to credit risk to the extent that the counterparties may be unable to
+meet the terms of the arrangement. We seek to mitigate such risk by limiting our
+counterparties to, and by spreading the risk across, major financial institutions. In addition, the
+potential risk of loss with any one counterparty resulting from this type of credit risk is
+monitored on an ongoing basis. To further limit credit risk, we also enter into collateral security
+arrangements related to certain interest rate derivative instruments whereby collateral is
+posted between counterparties if the fair value of the derivative instrument exceeds certain
+thresholds. Additional collateral would be required in the event of a significant credit
+downgrade by either party.
+Foreign Exchange Contracts
+We transact business in various foreign currencies and have significant international
+revenues as well as costs denominated in foreign currencies, which subjects us to foreign
+F-26

@@ -1,0 +1,51 @@
+Table of Contents
+Forward-Looking Statements
+In addition to historical information, this Annual Report on Form 1 0-K contains forward-looking statements, including
+statements regarding product plans, future growth, market opportunities, strategic initiatives, industry positioning, customer
+acquisition, the amount of recurring revenue and revenue growth. In addition, when used in this report, the words “will, ” “expects, ”
+“could, ” “would, ” “may, ” “anticipates, ” “intends, ” “plans, ” “believes, ” “seeks, ” “targets, ” “estimates, ” “looks for ” “looks
+to, ” “continues ” and similar expressions, as well as statements regarding our focus for the future, are generally intended to identify
+forward-looking statements. Each of the forward-looking statements we make in this report involves risks and uncertainties that
+could cause actual results to dijfer materially from these forward-looking statements. Factors that might cause or contribute to
+such diﬂerences include, but are not limited to, those discussed in the section entitled “Risk Factors” in Part I, Item IA of this
+report. You should carefully review the risks described herein and in other documents we ﬁle from time to time with the US.
+Securities and Exchange Commission (the “SEC ”), including our Quarterly Reports on Form 1 O-Q to be ﬁled in 2 01 7. You should
+not place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report on Form 10-
+K. We undertake no obligation to publicly release any revisions to the forward-looking statements or reﬂect events or circumstances
+after the date of this document, except as required by law.
+PART I
+ITEM 1. BUSINESS
+Founded in 1982, Adobe Systems Incorporated is one of the largest and most diversified software companies in the world.
+We offer a line of products and services used by creative professionals, marketers, knowledge workers, application developers,
+enterprises and consumers for creating, managing, delivering, measuring, optimizing and engaging with compelling content and
+experiences across personal computers, devices and media. We market and license our products and services directly to enterprise
+customers through our sales force and to end users through app stores and our own website at www.adobe.com. We offer many
+of our products Via a Software-as-a—Service (“S aaS”) model or a managed services model (both of which are referred to as a hosted
+or cloud-based model) as well as through term subscription and pay-per-use models. We also distribute certain products and
+services through a network of distributors, value-added resellers (“VARs”), systems integrators (“SIS”), independent software
+vendors (“ISVs”), retailers, software developers and original equipment manufacturers (“OEMs”). In addition, we license our
+technology to hardware manufacturers, software developers and service providers for use in their products and solutions. Our
+products run on personal and server-based computers, as well as on smartphones, tablets and other devices, depending on the
+product. We have operations in the Americas, Europe, Middle East and Africa (“EMEA”) and Asia-Pacific (“APAC”). See Note
+I 7 of our Notes to Consolidated Financial Statements for further geographical information.
+Adobe was originally incorporated in California in October 1983 and was reincorporated in Delaware in May 1997. We
+maintain executive offices and principal facilities at 345 Park Avenue, San Jose, California 95110-2704. Our telephone number
+is 408-536-6000 and our website is www.adobe.com. Investors can obtain copies of our SEC filings from this site free of charge,
+as well as from the SEC website at www.sec. gov. The information posted to our website is not incorporated into this Annual Report
+on Form lO-K.
+BUSINESS OVERVIEW
+For over 30 years, Adobe’s innovations have transformed how individuals, teams, businesses and governments interact.
+Across these markets, we help our customers create and deliver the most compelling experiences in a streamlined workﬂow, and
+optimize those experiences for greater return on investment. Our solutions turn ordinary interactions into valuable digital
+experiences, across media and devices, anywhere, anytime.
+While we continue to offer a broad portfolio of products, services, and solutions, we focus our investments in two strategic
+growth areas:
+Digital Media—providing tools, services and solutions that enable individuals, small and medium businesses and enterprises
+to create, publish and promote their content anywhere. Our customers include content creators, web designers, app developers
+and digital media professionals, as well as management in marketing departments and agencies, companies and publishers. Our
+customers also include knowledge workers who create, collaborate and distribute documents. This is the core of what we have
+delivered for over 25 years, and we have evolved our business model rapidly to provide these customers with a more complete
+and integrated workﬂow across the variety of new devices, formats and business models that continue to emerge.
+Digital Marketing—providing solutions and services for creating, managing, executing, measuring and optimizing digital
+advertising and marketing campaigns across multiple channels. Our customers include marketers, advertisers, agencies, publishers,
+3

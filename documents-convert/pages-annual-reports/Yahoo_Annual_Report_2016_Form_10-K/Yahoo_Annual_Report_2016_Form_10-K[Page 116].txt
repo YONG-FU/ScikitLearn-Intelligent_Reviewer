@@ -1,0 +1,35 @@
+Table,0f,C,ontents
+goodwill allocated to that reporting unit. Additionally, an entity should consider income tax effects from any tax deductible goodwill on the carrying amount of the
+reporting unit when measuring the goodwill impairment loss, if applicable. The ASU also eliminated the requirements for any reporting unit with a zero or
+negative carrying amount to perform a qualitative assessment and, if it fails that qualitative test, to perform Step 2 of the goodwill impairment test. Therefore, the
+same impairment assessment applies to all reporting units. An entity is required to disclose the amount of goodwill allocated to each reporting unit with a zero or
+negative carrying amount of net assets. An entity still has the option to perform the qualitative assessment for a reporting unit to determine if the quantitative
+impairment test is necessary. The ASU is effective for reporting periods beginning after December 15, 2019 with early adoption permitted for interim or annual
+goodwill impairment tests performed on testing dates after January 1, 2017. The Company is currently evaluating the effects, if any, that the adoption of this
+guidance will have on the Company’s consolidated ﬁnancial position, results of operations and cash ﬂows.
+Note 2 illiarketable Securities, Investments and Fair Value Disclosures
+The following tables summarize the available-for—sale securities (in thousands):
+December 31, 2015
+Gross Gross
+Cost Unrealized Unrealized Estimated
+Basis Gains Losses Fair Value
+government and agency securities 8 6_1_6,5_0_1 8 24 8 (6535) 8 6_1_5,8_9_0 l
+Corporate debt securities, commercial paper, time deposits, and bank
+certiﬁcates of deposit 4,_5_8_9,Z9_9 292 (4,9_0_8) 4,5_8_5,1_8_3
+NibﬁLQéLGLOHP—eqlﬂyzsﬁﬁuﬂiqs 2,713,485 28,458,817 — 31,112,351 I
+Hortonworks equ_ityisecuritiesi 2§,&6 51,977 — 84,23
+bther corporate equ_ity securities 298 — (101) 197J
+Total available-for—sale marketable securities 8 7,946,328 8 28,517,170 8 (5,644) 8 36,457,854
+December 31, 2016
+Gross Gross
+Cost Unrealized Unrealized Estimated
+Basis Gains Losses Fair Value
+government and agency securities 8 650,344 8 43 8 (903) 8 649,484 I
+Corporate debt securities, commercial paper, time deposits, and bank
+certj'icates of degsit 7 6,144,991 812 (4,655) 6_,141,ﬂ8
+Alibaba Group iequ_ity securities 2,7_1_3,4_84 39,961,395 — 3_3,6_8_0,8_7_9 l
+Hortonworks equ_ity_securities 26,&6 5,33 — 31,959
+Other corporate equ_ity securities 8,093 69 (5,057) (f) 5,105J
+Total available-for—sale marketable securities 8 9,543,158 8 30,974,032 8 (8,615) 8 40,508,575
+(*) Relates to the other corporate equity securities in an unrealized loss position for less than 12 months.
+115

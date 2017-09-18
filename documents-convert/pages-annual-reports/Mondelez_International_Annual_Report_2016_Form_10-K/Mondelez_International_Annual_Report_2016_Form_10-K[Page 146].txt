@@ -1,0 +1,43 @@
+SECTION 104. Acts of Holders.
+(a) Any request, demand, authorization, direction, notice, consent, waiver or other action provided by this Indenture to be given or taken by Holders
+may be embodied in and evidenced by one or more instruments of substantially similar tenor signed by such Holders in person or by one or more agents duly
+appointed in writing.
+The Company may at its discretion set a record date for purposes of determining the identity of Holders of Registered Securities entitled to vote or consent to
+any action by vote or consent authorized or permitted under this Indenture, but the Company shall have no obligation to do so. If not set by the Company prior to
+the first solicitation of Holders of Registered Securities of a particular series made by any Person in respect of any such action or, in the case of any such vote, prior
+to such vote, the record date for any such action or vote shall be 30 days prior to the ﬁrst solicitation of such vote or consent. Upon the ﬁxing of such a record date
+those Persons who were Holders of Registered Securities at such record date (or their duly designated proxies), and only those Persons, shall be entitled with respect
+to such Registered Securities to take such action by vote or consent or to revoke any vote or consent previously given, whether or not such Persons continue to be
+Holders after such record date.
+(b) The fact and date of the execution by any Person of any such instrument or writing may be proved by the afﬁdavit of a witness of such execution or
+by the certificate of any notary public or other officer authorized by law to take acknowledgments of deeds, certifying that the individual signing such instrument or
+writing acknowledged to him the execution thereof. Where such execution is by an ofﬁcer of a corporation or association or a member of a partnership, or an
+official of a public or governmental body, on behalf of such corporation, association, partnership or public or governmental body or by a ﬁduciary, such certificate
+or affidavit shall also constitute sufﬁcient proof of his authority.
+(c) The fact and date of the execution by any Person of any such instrument or writing, or the authority of the Person executing the same, may also be
+proved in any other manner which the Trustee for the apprOpriate series of Securities deems sufﬁcient.
+(d) The principal amount and serial numbers of Registered Securities held by any Person, and the date of holding the same, shall be proved by the
+Security Register.
+(e) Reserved.
+(f) Subject to Section 115, in determining whether the Holders of the requisite principal amount of Outstanding Securities have given any request,
+demand, authorization, direction, notice, consent or waiver under this Indenture, the principal amount of an OID Security that may be counted in making such
+determination and that shall be deemed to be Outstanding for such purposes shall be equal to the amount of the principal thereof that would be due and payable
+upon a declaration of acceleration of the Maturity thereof pursuant to Section 502 at the time the taking of such action by the Holders of such requisite principal
+amount is evidenced to the Trustee for such Securities.
+(g) Any request, demand, authorization, direction, notice, consent, waiver or other action by the Holder of any Security shall bind every future Holder
+of the same Security and the Holder of every Security issued upon the registration of transfer thereof or in exchange therefor or in lieu thereof in respect of anything
+done, omitted or suffered to be done by the Trustee for such Securities, the Security Registrar, any Paying Agent or the Company in reliance thereon, whether or not
+notation of such action is made upon such Security.
+SECTION 105. Notices, Etc., to Trustee and the Company.
+Any request, demand, authorization, direction, notice, consent, waiver or Act of Holders or other documents provided or permitted by this Indenture to be
+made upon, given or furnished to, or ﬁled with,
+(a) the Trustee for a series of Securities by any Holder or by the Company shall be sufﬁcient for every purpose hereunder if made, given, furnished or
+ﬁled in writing, to or with such Trustee at its Corporate Trust Ofﬁce, Attention: Corporates Team/ Mondeléz International, Inc., or if sent by facsimile transmission
+or email in PDF format, to a facsimile number or email address, as the case may be, provided by the Trustee, with a copy sent, ﬁrst class postage prepaid, to the
+Trustee addressed to it as provided above, or
+(b) the Company by such Trustee or by any Holder shall be sufficient for every purpose hereunder (except as provided in paragraphs (3), (4) and (5) of
+Section 501) if furnished in writing and sent, ﬁrst class postage prepaid, addressed to the Company at the address of its principal ofﬁce specified in the ﬁrst
+paragraph of this instrument or at any other address previously furnished in writing to such Trustee by the Company, or if sent by facsimile transmission or email in
+PDF format, to a facsimile number or email address, as the case may be, provided to the Trustee by the Company, with a copy sent, ﬁrst class postage prepaid, to
+the Company addressed to it as provided above.
+8

@@ -1,0 +1,40 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Restricted Stock Unit Activity
+The following table presents RSU activity (including performance—based RSUs that have
+been earned) under our equity incentive plans as of and for the year ended December 31, 2016
+(in millions except per share amounts):
+Weighted Average
+Grant-Date Fair
+:Units:_: Value (per share) :
+I Outstanding as of January 1, 2016 36 $22.50 I
+Awarded and assumed 30 $ 24.41
+I Vested (16) $ 22.15 I
+Forfeited (6) $23.09
+I Outstanding as of December 31, 2016 44 $24.00 I
+Expected to vest as of December 31, 2016 38
+During the years 2016, 2015 and 2014, the aggregate intrinsic value of RSUs vested under
+our equity incentive plans was $418 million, $697 million and $759 million, respectively.
+Stock-Based Compensation Expense
+The following table presents stock-based compensation expense for the years ended
+December 31, 2016,2015 and 2014 (in millions):
+7 Year Ended December 31, 7
+;2016: :2015: :2014;
+I Cost of net revenues $ 34 $ 38 $ 33I
+Sales and marketing 95 94 93
+I Product development 158 108 116 I
+General and administrative 129 139 102
+I Total stock-based compensation expense $416 $379 $344]
+Capitalized in product development $ 13 $ 13 $ 12
+As of December 31, 2016, there was approximately $749 million of unearned stock-based
+compensation that will be expensed from 2017 through 2020. If there are any modifications or
+cancellations of the underlying unvested awards, we may be required to accelerate, increase
+or cancel all or a portion of the remaining unearned stock-based compensation expense.
+Future unearned stock-based compensation will increase to the extent we grant additional
+equity awards, change the mix of grants between stock options and restricted stock units or
+assume unvested equity awards in connection with acquisitions.
+Stock Option Valuation Assumptions
+We calculated the fair value of each stock option award on the date of grant using the
+Black-Scholes option pricing model. Our computation of expected volatility is based on a
+combination of historical and market-based implied volatility from traded options on our
+F—42

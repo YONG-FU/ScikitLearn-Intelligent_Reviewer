@@ -1,0 +1,51 @@
+@WW ]
+SEGMENT INFORMATION RELATED TO CONTINUING OPERATIONS
+Years Ended December 31,
+2016 2015 2014
+Revenues (in millions)
+Refining:
+Refined products S 21,213 S 25,443 S 37,365
+Crude oil resales and other 1,043 946 1,456
+TLLP:
+Gathering 339 339 135
+Processing 276 278 23
+Terminalling and transportation 605 495 442
+Marketing:
+Fuel (a) 15,405 18,081 23,701
+Other non-fuel 85 63 240
+Intersegment sales (14,384) (16,934) (22,729)
+Total Revenues S 24,582 S 28,711 S 40,633
+:Segment Operating Income :
+Refining (b) S 535 S 1,871 S 1,193
+TLLP (c) 487 393 164
+Marketing (b) 830 899 553
+Total Segment Operating Income 1,852 3,163 1,910
+Corporate and unallocated costs (371) (336) (278)
+Operating Income 1,481 2,827 1,632
+Interest and financing costs, net (274) (217) (235)
+Equity in earnings of equity method investments 13 7 10
+Other income, net 57 13 57
+Earnings Before Income Taxes S 1,277 S 2,630 S 1,464
+:Depreciation and Amortization Expense :
+Refining S 588 S 504 S 420
+TLLP 190 187 85
+Marketing 49 46 42
+Corporate 24 19 15
+Total Depreciation and Amortization Expense S 851 S 756 S 562
+:Capital Expenditures :
+Refining S 519 S 530 S 423
+TLLP 273 386 272
+Marketing 34 34 54
+Corporate 122 56 30
+Total Capital Expenditures S 948 S 1,006 S 779
+(a) Federal and state motor fuel taxes on sales by our Marketing segment are included in both revenues and cost of sales in our statements of consolidated
+operations. These taxes totaled $577 million, $561 million and $581 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+(b) Our Reﬁning segment uses Rle to satisfy its obligations under the Renewable Fuels Standard, in addition to physically blending required biofuels. At the end of
+2014, given the price of Rle had become more transparent in the price of biofuels, we determined our intersegment pricing methodology should include the
+market value of Rle as a reduction to the price our Marketing segment pays to our Reﬁning segment. We made this change effective January 1, 2015. We have
+not adjusted ﬁnancial information presented for our Reﬁning and Marketing segments for the year ended December 31, 2014. Had we made this change effective
+January 1, 2014, operating income in our Reﬁning segment would have been reduced by $125 million with a corresponding increase to operating income in our
+Marketing segment for the year ended December 31, 2014.
+(c) We present TLLP’s segment operating income net of general and administrative expenses totaling $53 million, $54 million and $39 million representing TLLP’s
+corporate costs that are not allocated to TLLP’s operating segments for the years ended December 31, 2016, 2015 and 2014, respectively.
+110 | Tesoro Corporation

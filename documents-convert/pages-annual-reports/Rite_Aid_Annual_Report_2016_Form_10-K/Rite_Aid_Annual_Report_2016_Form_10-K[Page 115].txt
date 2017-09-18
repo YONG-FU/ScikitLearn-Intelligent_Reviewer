@@ -1,0 +1,43 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+9. Medicare Part D (Continued)
+The Company has recorded estimates of various assets and liabilities arising from its participation
+in the Medicare Part D program based on information in its claims management and enrollment
+systems. Significant estimates arising from its participation in this program include: (i) estimates of
+low-income cost subsidies, reinsurance amounts, and coverage gap discount amounts ultimately payable
+to CMS based on a detailed claims reconciliation that will occur in the following year; (ii) an estimate
+of amounts receivable from CMS under a risk-sharing feature of the Medicare Part D program design,
+referred to as the risk corridor and (iii) estimates for claims that have been reported and are in the
+process of being paid or contested and for our estimate of claims that have been incurred but have not
+yet been reported.
+As of February 27, 2016, accounts receivable, net included $275,032 due from CMS and accrued
+salaries, wages and other current liabilities included $166,238 of EIC liabilities under certain
+reinsurance contracts. EIC limits its exposure to loss and recovers a portion of benefits paid by utilizing
+quota—share reinsurance with a commercial reinsurance company.
+10. Inventory
+At February 27, 2016 and February 28, 2015, inventories were $1,006,396 and $997,528,
+respectively, lower than the amounts that would have been reported using the first-in, first-out
+(“FIFO”) cost ﬂow assumption. The Company calculates its FIFO inventory valuation using the retail
+method for store inventories and the cost method for distribution facility inventories. The Company
+recorded a LIFO charge for fiscal year 2016 of $11,163, compared to a LIFO credit of $18,857 for
+fiscal year 2015 and a LIFO charge of $104,142 for fiscal year 2014. During fiscal 2016, 2015 and 2014,
+a reduction in inventories related to working capital initiatives resulted in the liquidation of applicable
+LIFO inventory quantities carried at lower costs in prior years. This LIFO liquidation resulted in a
+$60,653, $38,867 and $13,894 cost of revenues decrease, with a corresponding reduction to the
+adjustment to LIFO for fiscal 2016, fiscal 2015 and fiscal 2014, respectively.
+11. Property, Plant and Equipment
+Following is a summary of property, plant and equipment, including capital lease assets, at
+February 27, 2016 and February 28, 2015:
+2016 2015
+Land $ 221,409 $232,785
+764,497 761,262
+Leasehold improvements . . . . . . . . . . . . . . . . . . . . . . . . 2,245,307 2,078,974
+Equipment.................................. 2,416,316 2,377,481
+Software.................................... 6,111 —
+Construction in progress . . . . . . . . . . . . . . . . . . . . . . . . 153,236 95,672
+5,806,876 5,546,174
+Accumulated depreciation . . . . . . . . . . . . . . . . . . . . . . . (3,551,478) (3,454,805)
+Property, plant and equipment, net. . . . . . . . . . . . . . . . . $ 2,255,398 $ 2,091,369
+115

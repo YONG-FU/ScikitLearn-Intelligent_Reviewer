@@ -1,0 +1,37 @@
+Table of Contents
+Years Ended December 31,
+2015 2014 2013
+IRevenues: I
+Product and service revenues $ — $ 32 $ 6,524
+I Total revenues — 32 6,524 I
+Operating expenses:
+I Cost of revenues — 21 12,276 I
+Research, development and other related costs — 6,190 60,117
+I Selling, general and administrative 389 6,254 11,833 I
+Restructuring, impairment of long-lived assets and other charges and gain
+on sale of patents (371) (3,178) (1) 72,280 (2)
+I Impairment of goodwill — — 6,548 (3)I
+Total operating expenses 18 9,287 163,054
+I Other income and (expense), net — 629 572 I
+Operating loss before taxes (18) (8,626) (155,958)
+IExpense (benefit) from income taxes 83 (4,137) (11,312) I
+Net loss from discontinued operations $ (101) $ (4,489) $ (144,646)
+(1) As noted above, the Company has undergone significant restructuring activities in 2014. The majority of restructuring, impairment and other charges occurred
+during 2013. In 2014, the company sold assets and the proceeds are netted against expenses.
+(2) As noted above, the Company has undergone restructuring activities in 2013. The majority of restructuring, impairment and other charges occurred during
+2013. In 2013, the Company incurred $45.0 million in the impairment of fixed assets which primarily consisted of manufacturing equipment used in both the
+Zhuhai and Taiwan facilities, $16.6 million in the impairment of intangible assets which included the Eyesquad and Siimpel portfolios and $4.7 million of
+severance costs due to the related reductions in force.
+(3) See Note 9 — "Goodwill and Identiﬁed Intangible Assets. "
+The current assets and current liabilities of discontinued operations were as follows (in thousands):
+December 31, December 31,
+2015 2014
+IAccounts receivable and other assets, net 8 — $ 390 I
+Property and equipment, net — —
+I Total assets of discontinued operations 33 — $ 390 I
+IAccrued liabilities (1) $ — $ 2,873 I
+Total liabilities of discontinued operations $ — 33 2,87 3
+(1) The December 31, 2014 balances relate to the cessation of all memslcam manufacturing operations. This amount included lease obligations and employee
+severance which were settled in cash in the ﬁrst half of 20 1 5. This amount is included in "Other current liabilities " on the condensed consolidated balance
+sheet.
+F - 15

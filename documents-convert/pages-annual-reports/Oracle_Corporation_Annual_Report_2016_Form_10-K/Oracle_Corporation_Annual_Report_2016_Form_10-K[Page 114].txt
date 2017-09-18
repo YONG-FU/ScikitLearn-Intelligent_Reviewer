@@ -1,0 +1,39 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+(3) In connection with the issuance of the January 2021 Notes, we entered into certain cross-currency swap agreements that have the economic effect of converting our fixed-rate, Euro-denominated debt,
+including annual interest payments and the payment of principal at maturity, to a ﬁxed-rate, U.S. Dollar-denominated debt of $1.6 billion with a ﬁxed annual interest rate of 3.53% (see Note 11 for additional
+information).
+(4) We designated the July 2025 Notes as a net investment hedge of our investments in certain of our international subsidiaries that use the Euro as their functional currency in order to reduce the volatility in
+stockholders’ equity caused by the changes in foreign currency exchange rates of the Euro with respect to the US. Dollar (see Note 11 for additional information).
+Senior Notes and Other Borrowings
+In January 2016, our $2.0 billion of 5.25% senior notes due January 2016 matured and were repaid. In July 2014, our $1.5 billion of 3.75% senior notes due July
+2014 (July 2014 Notes) matured and were repaid (we also settled the ﬁxed to variable interest rate swap agreements associated with the July 2014 Notes).
+Interest is payable semi-annually for the senior notes except for the Euro Notes for which interest is payable annually and the ﬂoating-rate senior notes for which
+interest is payable quarterly. We may redeem some or all of the senior notes of each series prior to their maturity, subject to certain restrictions, and the payment of
+an applicable make-whole premium in certain instances except for the ﬂoating-rate senior notes which may not be redeemed prior to their maturity.
+The senior notes rank pari passu with any other notes we may issue in the future pursuant to our commercial paper program (see additional discussion regarding our
+commercial paper program below) and all existing and future unsecured senior indebtedness of Oracle Corporation. All existing and future liabilities of the
+subsidiaries of Oracle Corporation are or will be effectively senior to the senior notes and any future issuances of commercial paper notes. We were in compliance
+with all debt-related covenants at May 31, 2016.
+Future principal payments (adjusted for the effects of the cross-currency swap agreements associated with the January 2021 Notes) for all of our borrowings at May
+31, 2016 were as follows (in millions):
+Fiscal 2017 $ 3,750 \
+Fiscal 2018 6,000
+Fiscal 2019 2,000 l
+Fiscal 2020 4,500
+Fiscal 2021 2,655 \
+Thereafter 25,336
+1 Total $ 44,241]
+Revolving Credit Agreements
+In May 2016, we entered into three revolving credit agreements with JPMorgan Chase Bank, NA, as initial lender and administrative agent (the 2016 Credit
+Agreements) and borrowed $3.8 billion pursuant to these agreements. The 2016 Credit Agreements provided us with short-term borrowings for working capital and
+other general corporate purposes. Interest for the 2016 Credit Agreements is based on either (1) a LIBOR—based formula or (2) the Base Rate formula, each as set
+forth in the 2016 Credit Agreements. The borrowings are due and payable on June 27, 2016, which is the termination date of the 2016 Credit Agreements.
+In April 2013, we entered into a $3.0 billion Revolving Credit Agreement with Wells Fargo Bank, NA, Bank of America, NA, BNP Paribas, JPMorgan Chase
+Bank, NA. and certain other lenders (the 2013 Credit Agreement). The 2013 Credit Agreement provides for an unsecured 5-year revolving credit facility to be used
+for general corporate purposes including back-stOpping any commercial paper notes that we may issue. Subject to certain conditions stated in the 2013 Credit
+Agreement, we may borrow, prepay and re-borrow amounts under the 2013 Credit Agreement at any time during the term of the 2013 Credit Agreement. Interest
+under the 2013 Credit Agreement is based on either (a) a LIBOR—based formula or (b) the Base Rate formula, each as set forth in the
+112

@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+Note 5 Goodwill
+The changes in the carrying amount of goodwill for the years ended December 31, 2015 and 2016 were as follows (in thousands):
+Americas (1) EMEA (2) Asia Pacific (3) Total
+Net balance aS 01‘ JanuarY_1. 2015 $ 4,322,219 $_5_32,4_6.9 $ 291,882 $ 5,152,510 l
+Acquisitions and related adjustments 13_Q,45_0 21,5933 — 152,_0_5_6
+.Goodwill impairment charge (3,929,516) (531,261) — (4,4_6_0,83_7.)J
+Foreigicurrency translation adjustments (4,207) (2,814) (3,654) (35,675)
+| Net balance as of December 31,2015 $ 513,855 $ — $ 239,228 $ 8_0_3,1 7174?
+Goodwill impairment charge 7 (3_94,_9_0_1) — — (3_94,9_0_1)
+Foreign currency translation adjustments — — 2,596 2,5961
+Net balance as of December 31, 2016 $ 123,985: $ — : $ 291,824 $ 415,809
+(1) Gross goodwill balances for the Americas segment were $4.3 billion as of January 1, 2015 and $4.4 billion as of December 31, 2016. The Americas
+segment includes accumulated impairment losses of $4.3 billion as of December 31, 2016.
+(2) Gross goodwill balances for the EMEA segment were $1.2 billion as of January 1, 2015 and December 31, 2016. The EMEA segment includes
+accumulated impairment losses of $630 million as of January 1, 2015, and $1.2 billion as of December 31, 2016.
+(3) Gross goodwill balances for the Asia Paciﬁc segment were $457 million as of January 1, 2015 and $451 million as of December 31, 2016. The Asia
+Paciﬁc segment includes accumulated impairment losses of $159 million as of January 1, 2015 and December 31, 2016.
+Goodwill Impairment Testing
+Goodwill is not amortized but is tested for impairment annually (as of October 31) at the reporting unit level or whenever the Company identiﬁes certain triggering
+events or circumstances that would more likely than not reduce the estimated fair value of a reporting unit below its carrying amount. Events or circumstances
+that might indicate an interim evaluation is warranted include, among other things, unexpected adverse business conditions, regulatory changes, loss of key
+personnel and reporting unit and macro-economic factors such as deterioration in general economic conditions, limitations on accessing capital, ﬂuctuations in
+foreign exchange rates, or other developments in equity and credit markets.
+Goodwill is tested for impairment at the reporting unit level, which is at or one level below the Company’s operating segments. The Company identiﬁed U.S. &
+Canada, Latin America, and Tumblr as the reporting units below the Americas operating segment; EMEA is the reporting unit as well as the operating segment;
+and Taiwan, Hong Kong, Australia & New Zealand, India & Southeast Asia as the reporting units below the Asia Paciﬁc operating segment. These operating
+segments are the same as the Company’s reportable segments.
+To test for impairment, the Company uses the two-step quantitative test.
+Step One
+The ﬁrst step of the quantitative test involves comparing the estimated fair value of the Company’s reporting units to their carrying values, including goodwill.
+132

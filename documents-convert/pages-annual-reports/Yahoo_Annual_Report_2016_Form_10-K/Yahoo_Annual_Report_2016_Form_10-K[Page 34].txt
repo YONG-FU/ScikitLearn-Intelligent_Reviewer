@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+technology from accessing the content of such documents. The providers of the software applications used to create these documents could engineer the
+document format to prevent or interfere with the process of indexing the document contents with search technology. This would mean that the document
+contents would not be included in search results even if the contents were directly relevant to a search. The software providers may also seek to require us to
+pay them royalties in exchange for giving us the ability to search documents in their format. If the search platform technology we employ is unable to index
+proprietary format web documents as effectively as our competitors’ technology, usage of our search services might decline, which could cause our revenue to
+fall.
+Adverse macroeconomic conditions could cause decreases or delays in spending by our advertisers and could harm our ability to generate revenue
+and our results of operations.
+Advertising expenditures tend to be cyclical, reflecting overall economic conditions and budgeting and buying patterns. Since we derive most of our revenue from
+advertising, adverse macroeconomic conditions have caused, and future adverse macroeconomic conditions could cause, decreases or delays in advertising
+spending and negatively impact our advertising revenue and short-term ability to grow our revenue. Further, any decreased collectability of accounts receivable
+or early termination of agreements, whether resulting from customer bankruptcies or othenNise due to adverse macroeconomic conditions, could negatively
+impact our results of operations.
+Our stock price has been volatile historically and may continue to be volatile regardless of our operating performance.
+The trading price of our common stock has been and may continue to be subject to broad ﬂuctuations. During the twelve months ended December 31, 2016, the
+closing sale price of our common stock on the NASDAQ Global Select Market ranged from $26.76 to $44.71 per share and the closing sale price on
+February 10, 2017 was $45.03 per share. Our stock price may ﬂuctuate in response to a number of events and factors, such as variations in quarterly operating
+results or announcements of technological innovations, signiﬁcant transactions, or new features, products or services by us or our competitors; changes in
+ﬁnancial estimates and recommendations by securities analysts; the operating and stock price performance of, or other developments involving, other
+companies that investors may deem comparable to us; trends in our industry; general economic conditions; and the operating performance and market valuation
+of Alibaba Group Holding Limited (“Alibaba Group”) and Yahoo Japan in which we have investments. Following the closing of the Sale transaction with Verizon,
+our stock price will be materially impacted by the operating performance and market valuation of Alibaba Group and Yahoo Japan. The equity valuation of our
+investment in Yahoo Japan may be impacted due to ﬂuctuations in foreign currency exchange rates. We present our investment in Alibaba Group on our
+consolidated balance sheet as an available-for—sale marketable security. Consequently, the carrying value of this investment on our consolidated balance sheet
+will vary over time and fluctuations in its valuation may cause our stock price to ﬂuctuate.
+In addition, the stock market in general, and the market prices for companies in our industry, have experienced volatility that often has been unrelated to
+operating performance. These broad market and industry ﬂuctuations may adversely affect the price of our stock, regardless of our operating performance. A
+decrease in the market price of our common stock would likely adversely impact the trading price of the 0.00% Convertible Senior Notes due 2018 that we
+issued in November 2013 (the “Notes”). Volatility or a lack of positive performance in our stock price may also adversely affect our ability to retain key employees
+who have been granted stock options or other stock-based awards. A sustained decline in our stock price and market capitalization could lead to an impairment
+charge to our long-lived assets.
+33

@@ -1,0 +1,54 @@
+The vote by the United Kingdom to leave the EU could adversely affect us
+The recent United Kingdom referendum on its membership in the EU resulted in a majority of United Kingdom voters
+voting to exit the EU (Brexit). We have operations in the United Kingdom and the EU, and as a result, we face risks associated
+with the potential uncertainty and disruptions that may follow Brexit, including with respect to volatility in exchange rates and
+interest rates and potential material changes to the regulatory regime applicable to our operations in the United Kingdom.
+Brexit could adversely affect European or worldwide political, regulatory, economic or market conditions and could contribute
+to instability in global political institutions, regulatory agencies and financial markets. For example, depending on the terms of
+Brexit, the United Kingdom could also lose access to the single EU market and to the global trade deals negotiated by the EU
+on behalf of its members. Disruptions and uncertainty caused by Brexit may also cause our customers to closely monitor their
+costs and reduce their spending budget on our products and services. Any of these effects of Brexit, and others we cannot
+anticipate or that may evolve over time, could adversely affect our business, operating results and financial condition.
+Our software products and services may contain defects that could harm our reputation, be costly to correct, delay revenues,
+and expose us to litigation
+Our software products and services are highly complex and sophisticated and, from time to time, may contain design
+defects, software errors, hardware failures or other computer system failures that are difficult to detect and correct. Errors may
+be found in new software products or services or improvements to existing products or services after delivery to our customers.
+If these defects are discovered, we may not be able to successfully correct such errors in a timely manner. In addition, despite
+the extensive tests we conduct on all our software products or services, we may not be able to fully simulate the environment in
+which our products or services will operate and, as a result, we may be unable to adequately detect the design defects or
+software or hardware errors which may become apparent only after the products are installed in an end-user's network, and
+users have transitioned to our services. The occurrence of errors and failures in our software products or services could result in
+the delay or the denial of market acceptance of our products and alleviating such errors and failures may require us to make
+significant expenditure of our resources. Customers often use our services and solutions for critical business processes and as a
+result, any defect or disruption in our solutions, any data breaches or misappropriation of proprietary information, or any error
+in execution, including human error or intentional third-party activity such as denial of service attacks or hacking, may cause
+customers to reconsider renewing their contract with us. The errors in or failure of our software products and services could
+also result in us losing customer transaction documents and other customer files, causing significant customer dissatisfaction
+and possibly giving rise to claims for monetary damages. The harm to our reputation resulting from product and service errors
+and failures may be materially damaging. Since we regularly provide a warranty with our software products, the financial
+impact of fulfilling warranty obligations may be significant in the future. Our agreements with our strategic partners and end-
+users typically contain provisions designed to limit our exposure to claims. These agreements regularly contain terms such as
+the exclusion of all implied warranties and the limitation of the availability of consequential or incidental damages. However,
+such provisions may not effectively protect us against claims and the attendant liabilities and costs associated with such claims.
+Any claims for actual or alleged losses to our customers’ businesses may require us to spend significant time and money in
+litigation or arbitration or to pay significant settlements or damages. Defending a lawsuit, regardless of merit, can be costly and
+would divert management’s attention and resources. Although we maintain errors and omissions insurance coverage and
+comprehensive liability insurance coverage, such coverage may not be adequate to cover all such claims. Accordingly, any such
+claim could negatively affect our business, operating results or financial condition.
+Our software products rely on the stability of infrastructure software that, if not stable, could negatively impact the
+effectiveness of our products, resulting in harm to our reputation and business
+Our development of Internet and intranet applications depend on the stability, functionality and scalability of the
+infrastructure software of the underlying intranet, such as the infrastructure software produced by Hewlett-Packard, Oracle,
+Microsoft and others. If weaknesses in such infrastructure software exist, we may not be able to correct or compensate for such
+weaknesses. If we are unable to address weaknesses resulting from problems in the infrastructure software such that our
+software products do not meet customer needs or expectations, our reputation, and consequently, our business may be
+significantly harmed.
+Risks associated with the evolving use of the Internet, including changing standards, competition, and regulation and
+associated compliance efforts, may adversely impact our business
+The use of the Internet as a vehicle for electronic data interchange (EDI), and related services currently raises numerous
+issues, including reliability, data security, data integrity and rapidly evolving standards. New competitors, which may include
+media, software vendors and telecommunications companies, offer products and services that utilize the Internet in competition
+with our products and services and may be less expensive or process transactions and data faster and more eﬂiciently. Internet-
+based commerce is subject to increasing regulation by Canadian, US. federal and state and foreign governments, including in
+20

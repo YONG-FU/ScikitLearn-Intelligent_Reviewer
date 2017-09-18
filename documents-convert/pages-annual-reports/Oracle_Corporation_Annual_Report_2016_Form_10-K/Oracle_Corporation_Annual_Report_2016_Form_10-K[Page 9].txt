@@ -1,0 +1,36 @@
+Table,0f,C,ontents
+- Oracle Inventory Management Cloud, which is designed to provide Visibility and management of material ﬂows, warehouse work and product costs
+across the supply chain;
+° Oracle Order Management Cloud, which is designed to enable customer order management from order capture channels and to orchestrate the entire order
+to cash process;
+° Oracle Order Manufacturing Cloud, which is designed for customers to run manufacturing systems and streamline manufacturing processes; and
+- Oracle Logistics Cloud, which is designed to enable management of all tran3portation modes within and across borders to reduce costs, increase
+efficiency and ensure compliance.
+Oracle Cloud Industry Solutions
+Oracle Cloud Industry Solutions are industry-specific SaaS applications that are designed to address the distinct requirements of the communications, financial
+services, healthcare, hospitality and retail, manufacturing and utilities sectors, among others.
+Oracle Data Cloud
+Oracle Data Cloud is designed to enable organizations to leverage consumer data to inform and measure marketing strategies and programs. Oracle Data Cloud
+includes Oracle Data as a Service (DaaS), which is an offering that provides a centralized way to source, manage and furnish external data to business users through
+a cloud service for marketing and customer intelligence purposes.
+Oracle Applications
+We license Oracle Applications software for use in data centers and related on-premise IT environments to manage and automate core business functions across the
+enterprise, including human capital and talent management; customer experience and customer relationship management; financial management and governance,
+risk and compliance; procurement; project portfolio management; supply chain management; business analytics and enterprise performance management; and
+industry-specific applications, among others. Our Oracle Applications software strategy is designed to provide customers with complete choice and a secure path to
+benefit from the latest technological advances.
+Our Oracle Applications Unlimited program is Oracle’s commitment to ongoing investment and innovation in our current application offerings including our
+Oracle E-Business Suite, Siebel, PeopleSoft and JD Edwards application software products, among others. Since announcing the Oracle Applications Unlimited
+program in 2005, we have delivered major releases of all application product lines by combining business functionality with innovative technologies, providing
+customers with more adaptive industry processes, business intelligence and optimal end-user productivity.
+Platform Technologies
+Our comprehensive platform technologies include license and subscription-based database, middleware and development software offerings including Oracle
+Database software, the world’s most popular enterprise database, and Java, the computer industry’s most widely-used software development language, among
+others. Our platform technologies are designed to provide a cost-effective, standards-based, high-performance platform for running and managing business
+applications for midsize businesses, as well as large, global enterprises. Our customers are increasingly focused on reducing the total cost of their IT infrastructure
+and we believe that our platform technologies help them achieve this goal.
+Our platform technologies are designed to accommodate demanding, non-stop business environments using clustered middleware and database servers and storage.
+These clusters are designed to scale incrementally as required to address our customers” IT capacity requirements, satisfy their planning and procurement needs,
+support their business applications with a standardized platform architecture, reduce their risk of data loss and IT infrastructure downtime and efficiently utilize
+available IT resources to meet quality of service expectations.
+7

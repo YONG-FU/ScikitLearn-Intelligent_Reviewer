@@ -1,0 +1,44 @@
+Trading Securities
+As of December 31, 2016 and 2015, our trading securities had a fair value of $384 million and $322 million, respectively, and
+consisted primarily of equity securities. The Company had net unrealized gains on trading securities of $39 million, $19 million
+and $40 million as of December 31, 2016, 2015 and 2014, respectively.
+The Company's trading securities were included in the following line items in our consolidated balance sheets (in millions):
+iDecember 31, 2016 2015 7
+Marketable securities $ 282 $ 229
+Other assets 102 93 7
+Total $ 384 $ 322 7
+Available-for-Sale and H eld-to-Maturig) Securities
+As of December 31, 2016 and 2015, the Company did not have any held-to-maturity securities. Available-for—sale securities
+consisted of the following (in millions):
+Gross Unrealized Estimated Fair
+: Cost Gains Losses Value :
+2016
+Available-for—sale securities:1
+Equity securities $ 1,252 $ 425 $ (22) $ 1,655
+7 Debt securities 4,700 89 (31) 4,758 7
+Total $ 5,952 $ 514 s (53) $ 6,413 i
+*2015 *
+Available-for—sale securities:1
+Equity securities $ 3,573 $ 485 $ (84) $ 3,974
+Debt securities 4,593 64 (25) 4,632
+Total $ 8,166 $ 549 $ (109) $ 8,606 7
+1 Refer to Note 16 for additional information related to the estimated fair value.
+The sale and/or maturity of available-for—sale securities resulted in the following realized activity (in millions):
+iYear Ended December 31, 2016 2015 2014 7
+Gross gains $ 152 $ 103 $ 38
+Gross losses (51) (42) (21)
+iProceeds 11,540 4,043 4,157 r
+In 2016 and 2015, the Company had investments classified as available-for—sale securities in which our cost basis exceeded the
+fair value of our investment. Management assessed each of these investments on an individual basis to determine if the decline
+in fair value was other than temporary. Management's assessment as to the nature of a decline in fair value is based on, among
+other things, the length of time and the extent to which the market value has been less than our cost basis; the financial
+condition and near-term prospects of the issuer; and our intent and ability to retain the investment for a period of time suﬁicient
+to allow for any anticipated recovery in market value. As a result of these assessments, management determined that the decline
+in fair value of these investments was not other than temporary and did not record any impairment charges.
+The Company uses insurance captives to reinsure group annuity insurance contracts that cover the pension obligations of
+certain of our European and Canadian pension plans. In accordance with local insurance regulations, our insurance captive is
+required to meet and maintain minimum solvency capital requirements. The Company elected to invest its solvency capital in a
+portfolio of available-for—sale securities, which have been classified in the line item other assets in our consolidated balance
+sheets because the assets are not available to satisfy our current obligations. As of December 31, 2016 and 2015, the Company's
+available-for—sale securities included solvency capital funds of $985 million and $804 million, respectively.
+94

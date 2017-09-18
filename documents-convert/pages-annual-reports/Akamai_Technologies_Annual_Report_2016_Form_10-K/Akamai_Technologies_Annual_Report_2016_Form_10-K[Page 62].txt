@@ -1,0 +1,49 @@
+Uncertainty in income taxes is recognized in the Company's consolidated financial statements using a two-step process. First,
+the tax position must be evaluated to determine the likelihood that it will be sustained upon external examination. If the tax
+position is deemed more-likely-than—not to be sustained, the tax position is then assessed to determine the amount of benefit to
+recognize in the financial statements. The amount of the benefit that may be recognized is the largest amount that has a greater
+than 50% likelihood of being realized upon ultimate settlement.
+The Company has elected to account for the indirect income tax effects of stock-based compensation as provision for income
+taxes. This primarily includes the impact of the research and development tax credit and the domestic production activities
+deduction.
+N ewly—Adopted Accounting Pronouncements
+In April 2015, the Financial Accounting Standards Board (“FASB”) issued updated guidance to simplify the presentation of
+debt issuance costs on the balance sheets. This guidance moved debt issuance costs from the assets section of the balance sheet to
+the liabilities section as a direct deduction from the carrying amount of the debt issued. The Company retrospectively adopted the
+guidance on January 1, 2016. The prior period consolidated balance sheet presented, as of December 31, 2015, was revised to
+reclassify $6.2 million of debt issuance costs included in other assets to convertible senior notes. This had the impact of reducing
+the Company's total assets and total liabilities by $6.2 million, as of December 31, 2015. This reclassification did not have a
+material impact on the Company's consolidated financial statements.
+In September 2015, the FASB issued updated guidance that eliminates the requirement that an acquirer in a business
+combination account for measurement period adjustments retrospectively. In an effort to reduce complexity in financial reporting,
+the new guidance requires that the cumulative impact of a measurement period adjustment, including the impact on prior periods,
+be recognized in the reporting period in which the adjustment is identified. The standard was effective for and adopted by the
+Company on January 1, 2016. This guidance did not have an impact on the Company's consolidated financial statements as the
+measurement periods for the Company's 2015 acquisitions were closed as of December 31, 2015.
+Recent Accounting Pronouncements
+In May 2014, the FASB issued updated guidance and disclosure requirements for recognizing revenue. The new revenue
+recognition standard provides a five-step model for recognizing revenue from contracts with customers. The core principle is that
+a company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reﬂects
+the consideration to which the entity expects to be entitled in exchange for those goods or services. The new standard can be
+adopted using one of two methods: retrospectively to each prior period presented or a modified retrospective application by
+recognizing a cumulative-effect adjustment as a component of equity as of the date of adoption.
+The updated guidance modifies certain judgments and estimates that the Company currently makes as it relates to
+recognizing revenue. Upon adoption of the new revenue standard, integration fee revenue that was previously recognized ratably
+over the estimated life of the customer arrangement will be recognized when integration has been completed, which will have the
+effect of accelerating revenue from integration fees. In addition, the Company currently establishes a reserve for cash basis
+customers if collectability is not reasonably assured and recognizes revenue as cash is collected. Upon adoption of the new
+standard, revenue will be recognized for those customers when collectability becomes probable, rather than as cash is collected.
+The Company is also assessing the impact of capitalizing costs associated with obtaining customer contracts, specifically
+commission and incentive payments. Currently, these payments are expensed in the period they are incurred. Under the updated
+guidance, these payments will be deferred on the Company's consolidated balance sheets and amortized over the expected life of
+the customer contract.
+This standard will be effective for the Company on January 1, 2018. The Company continues to evaluate the potential
+impact of adopting this new accounting guidance on its consolidated financial statements.
+In February 2016, the FASB issued guidance that requires companies to present assets and liabilities arising from leases with
+a term greater than 12 months on the consolidated balance sheets. The updated standard aims to increase transparency and
+comparability among organizations by requiring lessees to recognize right-of-use assets and lease liabilities on the balance sheet
+and requiring disclosure of key information about leasing arrangements. This will impact all leases, which include leases for real
+estate and co—location facilities, among other arrangements currently under evaluation. The Company plans to adopt this standard
+in the first quarter of 2019 and expects to record significant right-of-use assets and lease liabilities on its consolidated balance
+sheets.
+60

@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+attributable to the $1.4 billion liability component are being amortized to expense over the term of the Notes, and issuance costs attributable to the $306 million
+equity component were included with the equity component in stockholders’ equity. Additionally, the Company recorded a deferred tax liability of $37 million on a
+portion of the equity component transaction costs which are deductible for tax purposes.
+The Notes consist of the following (in thousands):
+December 31, 2015 December 31, 2016
+Liability component: i
+Principal 7 $ 1,431,509 $ 1,431,509
+| Less: note discount (204,015) (137,555) I
+Net carrying amount $ 1,233,485: $ 1,299,945
+EqLLitUpmppﬁem W 5 305,569: 5 305,559 I
+(*) Recorded on the consolidated balance sheet within additional paid-in capital.
+The following table sets forth total interest expense recognized related to the Notes (in thousands):
+Years Ended December 31,
+2014 2015 2016
+[Accretion of convertible note discount $759,839 $763,061: $ 676,461: J
+The estimated fair value of the Notes, which was determined based on inputs that are observable in the market (Level 2), and the carrying value of debt
+instruments (the carrying value excludes the equity component of the Notes classiﬁed in equity) were as follows (in thousands):
+December 31, 2015 December 31, 2016
+Fair Value Carryﬂg Value Fair Value Carrygg Value
+Convertible senior notes $ 1,250,124 $ 1,233,485 $ 1,314,876 $ 1,299,945 l
+Note Hedge Transactions and Warrant Transactions
+The Company entered into note hedge transactions with certain option counterparties (the “Counterparties”) to reduce the potential dilution with respect to
+Yahoo’s common stock upon conversion of the Notes or to offset any cash payment the Company is required to make in excess of the principal amount of
+converted Notes. Separately, the Company also entered into privately negotiated warrant transactions with the Counterparties giving them the right to purchase
+common stock from the Company. The warrant transactions could separately have a dilutive effect with respect to Yahoo’s common stock to the extent that the
+market price per share of its common stock exceeds the strike price of the warrants. The initial strike price of the warrants was $71.24. Counterparties to the
+warrants may make adjustments to certain terms of the warrants upon the occurrence of speciﬁed events, including the announcement of the Stock Purchase
+Agreement, if the event results in a material change to the trading price of Yahoo’s common stock or the value of the warrants. To date, two Counterparties have
+given the Company notices of adjustments reducing their warrant exercise prices. The warrants begin to expire in March 2019.
+144

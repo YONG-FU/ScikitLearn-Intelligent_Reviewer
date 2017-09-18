@@ -1,0 +1,52 @@
+I No. I Process I Category I Item I Qty Needed I Asset # if Transfer to SRI I
+4_1 Machine *** Machine 1 ***
+Welding
+*** Machine *** ***
+I 4'2 I Welding I I I 1 I
+*** Machine *** ***
+I 4'3 I Welding I I I 1 I
+4.4 Machine *** Transformer 1 N I A __ ***
+Welding
+4.5 Machine *** Transformer 1 ***
+Welding
+4.6 Machine *** Transformer 1 ***
+Welding
+4_7 Machine *** Machine 1 ***
+Welding
+I 4'8 I Welding I I I 1 I
+*** Cart *** Fixture ***
+l l l l l 1 l l
+I 4'10 I Welding I I I 1 I
+*** Cart *** Fixture ***
+l l l l l 1 l l
+*** ' *** ' __ ***
+4.13 _ Fixture Fixture 2 ***
+Welding
+*** ' *** ' __ ***
+4.14 . F'Xture F'Xture 2 Share with *** , but need modify
+Welding
+4.15 Fixture *** Fixture -- *** 1 N A
+Welding
+4.16 Fixture *** Fixture -- *** 1 N A
+Welding
+4.18 Dewce *** Power Meter 1 ***
+Welding
+I 6.3 I *** Assembly I PC IPC I 1 I*** with test program installed I
+I 6.4 I *** Assembly I Device I*** I 1 I*** wire tester, no asset # as *** I
+I 7.4 I *** Assembly I Jig IScrew Assemble Assist Arm I 1 I*** I
+I 9.1 I *** Test I Device I*** Tester I 1 I*** I
+I 9.2 I *** Test I PC IPC I 1 Iwith *** program installed I
+I 10.4 I Functional Test I Machine I*** Functional Test I 1 I*** I
+I 10.5 I Functional Test I Cart ITest Cart I 1 INormal I
+I 10.6 I Functional Test I Machine I*** Test Machine I 1 I*** I
+I 10.11 I Functional Test I Machine I*** Tester I 1 I*** I
+I 10.12 I Functional Test I Machine IPC I 1 I*** I
+| 11-3 | | 119 I*** | 1 | |
+| 13.1 | *** | Jig |*** | 1 INormal |
+I 6.2 I *** Assembly I Device I*** I 1 I*** , no asset # as *** . I
+I 7.6 I *** Assembly I Jig IGage I 1 INormal I
+I 14.1 I Packing I PC IPC I 1 Iwith packaging program installed I
+ANNEX A: Equipment
+Conﬁdenﬁal
+Maxwell Agreement No.: 00000453.0
+Localization Agreement — SRI-Maxwell 23

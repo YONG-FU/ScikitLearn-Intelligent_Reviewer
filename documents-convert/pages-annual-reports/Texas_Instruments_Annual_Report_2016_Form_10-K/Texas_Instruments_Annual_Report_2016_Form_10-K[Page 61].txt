@@ -1,0 +1,38 @@
+Details on amounts reclassiﬁed out of Accumulated other comprehensive income (loss), net of taxes, to Net income
+Our Consolidated Statements of Comprehensive Income include items that have been recognized within Net income in 2016, 2015
+and 2014. The table below details where these transactions are recorded in our Consolidated Statements of Income.
+For Years Ended I u
+December 31’ Relatgllpgfateoment
+Details about AOCI Components 2016 2015 2014 of Income Line
+Net actuarial gains (losses) of defined benefit plans:
+Recognized net actuarial loss and Settlement losses (a) . . $ 76 $ 78 $ 63 Increase to Pension expense (b)
+Taxeffect (25) (25) (21) DecreasetoProvisionforincometaxes
+a:
+Recognized within Net income, net of taxes . . . . . . . . . . . $ 51 $ 53 $ 42 Decrease to Net income 5
+Prior service (cost) credit of defined benefit plans: 5
+Amortization of prior service cost (credit) and g
+Curtailment gain (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . $ (5) $ — $ — Decrease to Pension expense (b) u-
+Taxeffect 2 — — lncreasetoProvisionforincometaxes
+Recognized within Net income, net of taxes . . . . . . . . . . . $ (3) $ — $ — Increase to Net income
+Derivative instruments:
+Amortization of treasury-rate locks . . . . . . . . . . . . . . . . . . $ 1 $ 2 $ 2 Increase to Interest and debt expense
+Taxeffect — (1) (1) DecreasetoProvisionforincometaxes
+Recognized within Net income, net of taxes . . . . . . . . . . . $ 1 $ 1 $ 1 Decrease to Net income
+(a) Detailed in Note 10.
+(b) Pension expense is included in COR, R&D, 368A and Restructuring charges/other.
+14. Quarterly financial data (unaudited)
+As a result of our early adoption of ASU 2016-09, we have recast Net income and EPS for the first three quarters of 2016 to ‘
+conform to the new presentation. See Note 2 for additional information, including the effects of the change on previously reported
+quarterly data.
+2016 Quarters 2015 Quarters
+4th 3rd 2nd 1st 4th 3rd 2nd 1st
+Revenue..................... $3,414 $3,675 $3,273 $3,008 $3,189 $3,429 $3,232 $3,150
+Gross profit . . . . . . . . . . . . . . . . . . 2,133 2,280 2,003 1,824 1,866 1,997 1,881 1,816
+Included in Operating profit:
+Acquisition charges . . . . . . . . . . 80 80 79 80 81 83 82 83
+Restructuring charges/other . . . . (20) 1 2 2 (68) — (1) (2)
+Operating profit ............... 1,319 1,395 1,117 968 1,142 1,164 1,010 958
+Net income 1,047 1,018 819 711 836 798 696 656
+BasicEPS................... $1.04 $1.00 $0.81 $0.70 $0.81 $0.77 $0.66 $0.62
+DilutedEPS $1.02 $ 0.98 $ 0.79 $ 0.69 $ 0.80 $ 0.76 $ 0.65 $ 0.61
+TEXAS INSTRUMENTS - 2016 FORM 10-K 57

@@ -1,0 +1,55 @@
+Reinsurance
+The IBNR loss reserves for the HORAD book of business are determined and booked each quarter along with the ceding
+companies” reported reserves. The methodologies used to establish the IBNR loss reserves produce a range of indicated
+reserves for each contract type and contract year. Employers Mutual’s actuaries examine the reasonableness of each range, and
+then select a point estimate within those ranges. For the more recent contract years, the selected IBNR loss reserve estimate
+tends to be higher in the range, typically in the fourth quartile, due to the considerable uncertainty associated with these
+immature contract years. The IBNR loss reserve selected for the more mature contract years tends to be at, or slightly above,
+the midpoint of the range of reasonable reserves. In addition to the actuarially determined reserves, an additional IBNR loss
+reserve is established when large catastrophic events occur, based on an examination of impacted contracts/exposures and
+reported industry-wide loss estimates. In aggregate, the IBNR loss reserve selected using these methods and procedures,
+combined with reserves reported by the ceding companies, becomes management’s best estimate of the reinsurance segment’s
+overall liability. The next several paragraphs provide addition detail on the HORAD reserving process.
+Reserves for the HORAD book of business are reviewed quarterly. Contract years 1988 and subsequent are reviewed
+every quarter, while accident years 1981-1987, for which detailed contract year information is not available, are reviewed
+separately during the fourth quarter. Management segregates claims data associated with specified catastrophe occurrences
+expected to exceed $2.0 million in losses, and establishes a catastrophe specific IBNR loss reserve based upon an evaluation of
+the exposed reinsurance contracts. Once established, catastrophe specific IBNR reserves are taken down as claims are
+reported, unless the ultimate expected loss is adjusted by management.
+Premium, loss and settlement expense data is generally reported by ceding companies on a contract year basis; however,
+some loss and settlement expense data is reported on an accident year basis. Some ceding companies also report IBNR loss
+reserves. The reinsurance segment books these IBNR loss reserve amounts, and then deducts them from the indicated IBNR
+loss reserves calculated by Employers Mutual’s actuaries. The reinsurance segment may also book “additional case loss
+reserves” for ceding companies whose reported case loss reserves related to certain claims are believed to be less than
+adequate.
+Using the reported data, excluding the reported IBNR loss reserves, Employers Mutual's actuaries develop an indicated
+ultimate loss, and corresponding IBNR loss reserve, by type of contract (property/casualty/excess/pro rata/multi-line) and by
+contract year. The actuaries employ the standard paid and incurred chain ladder (triangle) development methods and the
+Bornheutter-Furguson method to produce the indicated ultimate loss, and corresponding IBNR loss reserves. In addition, a loss
+ratio approach and judgment are applied to a few minor contract types which represent an insignificant portion of the totals.
+For the major contract types, the reinsurance subsidiary uses its own paid and incurred development data aggregated on
+a contract year basis. The reason for aggregating by contract year, rather than accident year, is to ensure an accurate
+aggregation, as ceding companies have not always provided sufficient detail to determine the proper accident year assignment.
+In addition, the reinsurance subsidiary uses Reinsurance Association of America (RAA) development triangles to assist in
+estimating reserves for casualty excess contracts.
+The expected loss ratios used in the Bornheutter—Ferguson method for the current contract year are calculated by contract
+type during the first quarter. Once established, the expected loss ratios for the various contract years are generally not revised.
+The expected loss ratios are calculated by dividing the projected ultimate losses for contract years having at least five years of
+maturity by the contract-year earned premiums brought to the current rate—level. The current rate-level loss ratios are then
+trended to the current contract period. In addition, when large accounts are first written, there is generally some underwriting
+or reserving data available from which an expected loss ratio may be determined.
+After establishing the ultimate loss, and corresponding IBNR loss reserve, by treaty type and contract year, an allocation
+must be made in order to book the IBNR loss reserves by accident year and line-of—business. This is accomplished by a
+historical study of the ultimate accident year distribution of reported losses and reported loss types (for those treaty types which
+may cover multiple lines of business). For the latest contract years, consideration is also given to the distribution of the
+contract effective dates and the expected earnings patterns of the contract types (occurrence vs. risks attaching contracts).
+The reinsurance subsidiary also books earned but not reported (EBNR) premiums on pro rata contracts, and accrued
+reinstatement premiums on catastrophe excess contracts. EBNR premium is estimated by applying selected earnings patterns
+to the expected ultimate contract year premium associated with each individual pro rata account, and netting the reported-to-
+date amount from the estimated earned-to-date amount. The account level earnings patterns are selected from an examination
+of all available information regarding distribution of risk attachment dates during the contract period and a review of each
+ceding company's historical reporting patterns. It is important to note that whenever EBNR premium is booked, there is an
+associated IBNR loss reserve established as well. Accrued reinstatement premiums are estimated by applying a historically
+selected ratio of ultimate reinstatement premiums to incurred losses to the expected ultimate incurred catastrophe loss by
+contract year. Netting the reported reinstatement premiums-to-date from this ultimate produces the recorded amount.
+16

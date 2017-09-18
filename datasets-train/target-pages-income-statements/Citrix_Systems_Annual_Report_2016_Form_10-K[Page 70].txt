@@ -1,0 +1,42 @@
+CITRIX SYSTEMS, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+2016 7 7 2015 7 7 2014
+(In thousands, except per share information)
+Revenues:
+Product and licenses $ 883,329 $ 875,807 $ 899,736
+Software as a service 816,436 731,292 651,562
+License updates and maintenance 1,587,271 1,521,007 1,416,017
+Professional services 13 1,229 147,488 175,541
+Total net revenues : 3,418,265 : : 3,275,594 : : 3,142,856 :
+Cost of net revenues: : : : : : :
+Cost of product and license revenues 121,391 118,265 124,110
+Cost of services and maintenance revenues 377,731 364,916 349,683
+Amortization of product related intangible assets 59,291 74,912 93,431
+Impairment of product related intangible assets 1,128 56,271 52,995
+Total cost of net revenues : 559,541 : : 614,364 : : 620,219 :
+Gross margin 2,858,724 2,661,230 2,522,637
+Operating expenses: : : : : : :
+Research and development 489,265 563,975 553,817
+Sales, marketing and services 1,185,814 1,195,362 1,280,265
+General and administrative 377,568 336,313 3 19,922
+Amortization of other intangible assets 29,173 41,595 39,577
+Impairment of other intangible assets — 67,137 6,321
+Restructuring 71, 122 100,41 1 20,424
+Separation 56,624 6,352 —
+Total operating expenses : 2,209,566 : : 2,311,145 : : 2,220,326 :
+Income from operations 649,158 350,085 302,311
+Interest income 16,686 1 1,675 9,421
+Interest expense 44,949 44,153 28,332
+Other expense, net (4,131) (5,730) (7,694)
+Income before income taxes : 616,764 311,877 : : 275,706 :
+Income tax expense (beneﬁt) 80,652 (7,484) 23,983
+Net income :$ 536,112 :$ 319,361 : is 251,723 :
+Earnings per share: : i l i l :
+Basic 78 3.46 7 78 2.01 7 78 1.48 7
+Diluted s 3.41 s 1.99 s 1.47
+Weighted average shares outstanding:
+Basic 155,134 158,874 169,879
+Diluted 157,084 160,362 171,270
+See accompanying notes.
+F-4

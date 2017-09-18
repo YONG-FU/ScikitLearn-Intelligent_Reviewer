@@ -1,0 +1,51 @@
+Cash, Cash Equivalents and Investments
+7 December 31, 7 2016
+2016 2015 (30%ng to
+7 7 7 (In thousands) 7 7 7
+Cash, cash equivalents and investments $ 2,664,171 $ 1,763,334 $ 900,837
+The increase in cash, cash equivalents and investments at December 31, 2016 as compared to December 31, 2015, is
+primarily due to cash provided by our operating activities of $1.12 billion and proceeds from the issuance of common stock
+under our employee stock-based compensation plans of $41.2 million, partially offset by purchases of property and equipment
+of $134.2 million, cash paid for tax withholding on vested stock awards of $66.6 million, cash paid for stock repurchases of
+$28.7 million, cash paid for licensing agreements and technology of $26.3 million, and cash paid for acquisitions, net of cash
+acquired, of $13.2 million. As of December 31, 2016, $2.08 billion of the $2.66 billion of cash, cash equivalents and
+investments was held by our foreign subsidiaries. If these funds are needed for our operations in the United States, we would be
+required to accrue and pay U.S. taxes to repatriate these funds. Our current plans are not expected to require repatriation of cash
+and investments to fund our US. operations and, as a result, we intend to permanently reinvest our foreign earnings. See “—
+Liquidity and Capital Resources.” We generally invest our cash and cash equivalents in investment grade, highly liquid
+securities to allow for ﬂexibility in the event of immediate cash needs. Our short-term and long-term investments primarily
+consist of interest-bearing securities.
+Fair Value Measurements
+The authoritative guidance defines fair value as an exit price, representing the amount that would either be received to
+sell an asset or be paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a
+market-based measurement that should be determined based on assumptions that market participants would use in pricing an/
+asset or liability. As a basis for considering such assumptions, the guidance establishes a three-tier fair value hierarchy, which
+prioritizes the inputs used in measuring fair value as follows:
+0 Level 1. Observable inputs such as quoted prices in active markets for identical assets or liabilities;
+- Level 2. Inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and
+0 Level 3. Unobservable inputs in which there is little or no market data, which require the reporting entity to develop
+its own assumptions.
+Available-for—sale securities included in Level 2 are valued utilizing inputs obtained from an independent pricing service,
+or the Service, which uses quoted market prices for identical or comparable instruments rather than direct observations of
+quoted prices in active markets. The Service gathers observable inputs for all of our fixed income securities from a variety of
+industry data providers including, for example, large custodial institutions and other third-party sources. Once the observable
+inputs are gathered by the Service, all data points are considered and an average price is determined. The Service’s providers
+utilize a variety of inputs to determine their quoted prices. These inputs may include interest rates, known historical trades,
+yield curve information, benchmark data, prepayment speeds, credit quality and broker/dealer quotes. Substantially all of our
+available-for-sale investments are valued utilizing inputs obtained from the Service and accordingly are categorized as Level 2
+in the table below. We periodically independently assess the pricing obtained from the Service and historically have not
+adjusted the Service's pricing as a result of this assessment. Available-for—sale securities are included in Level 3 when relevant
+observable inputs for a security are not available.
+Our assessment of the significance of a particular input to the fair value measurement requires judgment and may affect
+the classification of assets and liabilities within the fair value hierarchy. In certain instances, the inputs used to measure fair
+value may meet the definition of more than one level of the fair value hierarchy. The input with the lowest level priority is used
+to determine the applicable level in the fair value hierarchy.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Our fixed income available-for-sale security portfolio generally consists of high quality, investment grade securities from
+diverse issuers with a minimum credit rating of A-/A3 and a minimum weighted-average credit rating of AA—/Aa3. We values
+these securities based on pricing from the Service, whose sources may use quoted prices in active markets for identical assets
+(Level 1 inputs) or inputs other than quoted prices that are observable either directly or indirectly (Level 2 inputs) in
+determining fair value, and accordingly, we classify all of our fixed income available-for-sale securities as Level 2. See Note 4
+to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2016
+for more information regarding our available-for-sale investments.
+48

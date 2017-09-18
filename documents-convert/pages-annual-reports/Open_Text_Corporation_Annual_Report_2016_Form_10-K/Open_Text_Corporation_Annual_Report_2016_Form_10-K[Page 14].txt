@@ -1,0 +1,63 @@
+At its core, EIM is about helping organizations get the most out of information. Our EIM oﬁerings include Enterprise
+Content Management, Business Process Management, Customer Experience Management, Business Network, Discovery and
+Analytics, and are designed to deliver to our customers:
+(i) Increased compliance and information governance resulting in reduced exposure to risk of regulatory sanctions
+related to how information is handled and protected;
+(ii) Improved operating efficiency through process digitization and automation;
+(iii) Better customer engagement through improved and integrated digital experiences and content delivery;
+(iv) Lower cost of storage and management of information through improved classification and archiving strategies;
+(v) Reduced infrastructure costs due to, among other factors, legacy decommissioning capabilities of EIM and cloud
+and hosted services deployment models;
+(vi) Improved innovation, productivity and time-to-market as a result of letting employees, trading partners and
+customers work with information and collaborate in ways which are intuitive, automated, and ﬂexible; and
+(vii) Increased revenue streams with the enablement of easy expansion across new channels and, ultimately, new
+markets.
+' (anus-I lineman} I him I E
+ﬁbﬁiﬂri-‘l: :E'LiEl-ii "1'13 Eiaipnmlﬁnﬁn iEﬂlEE] 'ﬁiE-f . sinriljﬁiiilE'Ea‘Euilti ﬁE-I Ermine-ﬁr; Igﬁaijttunﬁrw’lﬁﬂ
+Eff,n"l£i!53Fliﬁﬂﬁllligﬂ-SFEI .i'l-iEFIIIE—ﬁﬁ'lic'ﬂ __ "'E:i:_r=cr,l‘nz::'é:t:-§Slsﬁu Fla-titan]? _F'rL:=::;'m:_EJaii,-i Ffﬁ‘t-irnn tﬁsjlaﬁazn:Euiii'iiigiﬂggni Lugjuraj'ﬁie‘Timeﬁ
+!' Emmi-emf ; ! Elmuu‘émuéﬁsrtﬁaﬁr .2 magnesium m Ezfmy'rtaﬁmﬁm: Elmajawkﬁﬁeia;
+F§$- ‘ a aw “ ' ' '
+:himﬁ'j" ” ' ‘ ‘=" '=- ant-:Eai‘iinEwmhnmt ! ‘-Ey§*&ni;iﬁ=§aﬁ§i-Eaf “ " I ‘ ,
+’Li.§31§ijﬂ§aﬁf ' ‘ a. is '!!g!ﬁi;§;.>}jg§ifﬁgi§27 ' ' ' "‘ " uni-31,3111 ‘ _' _. ._ a“! .s‘lﬂhﬁﬁﬂgﬁﬂ'ﬁﬁﬂi‘ :'
+-
+‘1" ' 12:. " ‘ i ' ﬂit-713.33 !_’.-E'::=f:mi£en':ar:- Lieufﬁ.|‘-il~t‘4$-i_mi.ﬁ$‘“ “ ~ v -v
+lfrﬂﬁﬁi'ﬁmﬂaﬂ' Iii—Emil: i: “a m Eigeteéalkﬁﬁn'ﬁ 5443':
+. » . . = - ,.E-=mIJ-I¢M,rt-i=-'.- my. ,. . --
+wﬁﬁgeiazw H ' ﬁiﬁmm . iiiﬁ-‘fﬁil‘gmﬁi'aﬁﬁ E
+, _ rearrange; , . a. - gqg-“m'mgwiﬁ m antenna; n ,Si-pﬁa-Eé'iﬁlﬂ'ﬂnﬁm
+a‘ . .. ,.
+,_ . i ,. , . . i‘ﬁiéigﬂjrm . :‘ m ewremﬁrwaea .Ei-WS‘H-Fimﬁmi
+5* E?ﬁ?¢f:‘iil1‘!’-Jﬁ€li'iﬂ%ﬁi {interimﬁféﬁﬂgérml- Efﬁﬁmwkﬁgiﬁé} , ,_ Efl'ﬁ‘f?" . _ ,
+” E‘E‘Z'Ef'é'ﬂb'ﬁiﬁi‘wma *Eﬂiitiﬁuﬁn‘es
+Errata-Izﬁilﬂ: rem: Ecé; .utjzjs'ieatﬁzﬁcermsr-
+' in
+! ﬁﬂﬂé'llll'éiﬁaﬁiﬁﬁi : “i'E'jEﬁ-Ytiiﬁﬂ‘cﬁtnztéiiﬁzﬂh
+mimﬁnxj - ‘ ' '
+" Emittﬁ'f-Efé'e-‘iigeﬁFﬁ-f '" ' iP-ﬂﬁiﬁhﬁnﬂﬂnﬁ ”
+9‘ :Eis-‘fiii'li-ngiirMLWI'EE‘ !
+’. . i a': {I .:. .1
+“ 95:.Et‘g-Zghiufmpyg‘ﬂhi! E-ﬁikrn' '
+:unmriemeﬁtcﬁﬂ ‘:‘ -.
+i 'Er-témilletmyrﬁ
+- Pr: -'
+>“F or illustrative purposes only and is not an exhaustive list of our product offerings.
+Release 16 helps organizations with their digital transformation by digitizing information, experiences, processes and
+supply chains, to create a better way to work within their enterprise. Release 16 also has a major focus on analysis and
+reporting across all product lines and use cases. It offers customers a coordinated platform for digital transformation that is
+intended to yield the benefits of scale and single-vendor interaction. We have made significant investments to our cloud
+infrastructure over the past couple of years, and now with Release 16 virtually all of our products are available in the
+"OpenText Cloud".
+Our portfolio is comprised of capabilities in the following areas:
+Enterprise Content Management
+We facilitate ECM with an integrated set of technologies that manage information throughout its lifecycle and improve
+business productivity, all while mitigating the risk and controlling the costs of growing volumes of content. Our ECM
+solutions, which are available on-premises and increasingly in the cloud, include:
+° Content Management provides a repository for business documents (such as those created with Microsoft Office,
+AutoCAD and Adobe Acrobat/PDF) and allows for the organizing, displaying, classifying, access control, version
+control, event auditing, rendition, and search of documents and other content types.
+- Records Management enables control of the complete lifecycle of content management by associating retention and
+disposition rules to control if and when content can or must be deleted or archived on storage media.
+- Archiving helps reduce storage expenses through optimization of storage use. It manages content storage policies
+according to business context, optimizes storage use, and provides high-end storage services to reduce future storage
+demands.
+6

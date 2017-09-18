@@ -1,0 +1,43 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+17. Goodwill
+The changes in the carrying amount of goodwill for the years ended March 31, 2015 and 2016 were as follows:
+Amounts
+(in millions of RMB)
+Balance as of April 1, 2014 11,793
+Additions 30,319
+Deconsolidation of a subsidiary (4)
+Impairment (175)
+Foreign currency translation adjustments —
+Balance as of March 31, 2015 41,933
+Additions 50,723
+Deconsolidation of a subsidiary (Note 4(e)) (10,556)
+Impairment (455)
+Foreign currency translation adjustments —
+Balance as of March 31, 2016 81,645
+Gross goodwill balances were RMB44,928 million and RMB85,095 million as of March 31, 2015 and 2016,
+respectively. Accumulated impairment losses were RMB2,995 million and RMB3,450 million as of the
+same dates, respectively.
+In the annual impairment assessment of goodwill, the Company concluded that the carrying amounts of
+respective reporting units exceeded its fair value and recorded an impairment charge of RMB44 million,
+RMB175 million and RMB455 million during the years ended March 31, 2014, 2015 and 2016, respectively.
+The impairment losses were resulted from a revision of long-term financial outlook and the change in business
+model of those reporting units. The impairment charge was determined by comparing the carrying amount of
+goodwill associated with that reporting unit with the implied fair value of the goodwill.
+18. Deferred revenue and customer advances
+Deferred revenue and customer advances primarily represent service fees prepaid by merchants for which the
+relevant services have not been provided. The respective balances are as follows:
+As of March 31,
+2015 2016
+(in millions of RMB)
+Deferred revenue 5,781 7,236
+Customer advances 2,578 3,479
+8,359 10,715
+Less: current portion (7,914) (10,297)
+Non-current portion 445 418
+All service fees received in advance are initially recorded as customer advances. These amounts are
+transferred to deferred revenue upon commencement of the provision of services by the Company and are
+recognized in the consolidated income statements in the period in which the services are provided. In general,
+service fees received in advance are non-refundable after such amounts are transferred to deferred revenue.
+F-75

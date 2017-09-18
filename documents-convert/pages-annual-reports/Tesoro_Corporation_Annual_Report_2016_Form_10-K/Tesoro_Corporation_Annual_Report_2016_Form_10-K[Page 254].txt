@@ -1,0 +1,42 @@
+“Global Notes” means, individually and collectively, each of the Notes issued or issuable in the global form of Exhibit A hereto issued in accordance
+with Section 2.01 or 2.06 hereof.
+“Government Securities” means direct obligations of, or obligations guaranteed by, the United States of America for the payment of which guarantee or
+obligations the ﬁll faith and credit of the United States of America is pledged.
+“Guarantee” means a guarantee other than by endorsement of negotiable instruments for collection in the ordinary course of business, direct or indirect,
+in any manner including, without limitation, by way of a pledge of assets or through letters of credit or reimbursement agreements in respect thereof, of all or
+any part of any Indebtedness.
+“Guarantors” means each of:
+(1) the Subsidiaries of TLLP, other than Finance Corp., executing this Indenture as initial Guarantors;
+(2) each of TLLP’s Restricted Subsidiaries that becomes a guarantor of the Notes pursuant to Section 4.16 hereof; and
+(3) each other Person executing a supplemental indenture in which such Person agrees to be bound by the terms of this Indenture; provided that
+any Person constituting a Guarantor as described above shall cease to constitute a Guarantor when its respective Guarantee is released in accordance
+with the terms of this Indenture.
+“HedgiingObligations” means, with respect to any speciﬁed Person, the obligations of such Person incurred not for speculative purposes under:
+(1) interest rate swap agreements (Whether from ﬁxed to ﬂoating or from ﬂoating to ﬁxed), interest rate cap agreements and interest rate collar
+agreements;
+(2) other agreements or arrangements designed to manage interest rates or interest rate risk; and
+(3) other agreements or arrangements designed to protect such Person against ﬂuctuations in currency exchange rates or commodity prices.
+“Holder” means a Person in whose name a Note is registered.
+“Indebtedness” means, with respect to any speciﬁed Person, any indebtedness of such Person, whether or not contingent:
+(1) in respect of borrowed money;
+(2) evidenced by bonds, notes, debentures or similar instruments;
+(3) reimbursement obligations in respect of bankers’ acceptances or letters of credit;
+(4) representing Financing Lease Obligations or Attributable Debt in respect of sale and leaseback transactions;
+(5) representing the balance deferred and unpaid of the purchase price of any property or services due more than six months after such property is
+acquired or such services are completed, except any earn-out obligations until after becoming due and payable, has not been paid and such obligation
+becomes a liability on the balance sheet of such Person in accordance with GAAP; or
+(6) representing any Hedging Obligations,
+if and to the extent any of the preceding items (other than letters of credit, Attributable Debt and Hedging Obligations), but excluding amounts recorded in
+accordance with Accounting Standards Codiﬁcation No. 815, would appear as a liability upon a balance sheet of the speciﬁed Person prepared in accordance
+with GAAP. In addition, the term “Indebtedness” includes (i) all Indebtedness of others secured by a Lien on any asset (other than Liens on and pledges of the
+Equity Interests of any Unrestricted Subsidiary or any Joint Venture owned by TLLP or any Restricted Subsidiary of TLLP, in each case, securing
+Indebtedness of such Unrestricted Subsidiary or Joint Venture, as applicable) of the speciﬁed Person (whether or not such Indebtedness is assumed by the
+speciﬁed Person); provided that the amount of such Indebtedness will be the lesser of the amount of such Person’s obligation or indebtedness and the Fair
+Market Value of such assets and (ii) to the extent not otherwise included, the Guarantee by the speciﬁed Person of any Indebtedness of any other Person.
+Notwithstanding the foregoing, the following shall not constitute “Indebtedness”:
+(1) accrued expenses and trade accounts payable arising in the ordinary course of business;
+(2) the incurrence by TLLP or any of its Restricted Subsidiaries of Indebtedness in respect of bid, performance, surety, appeal, payment, insurance
+contracts and similar bonds issued for the account of TLLP and any of its Restricted Subsidiaries in the ordinary course of business, including
+guarantees and obligations of TLLP or any of its Restricted Subsidiaries with respect to letters of credit supporting such obligations (in each case other
+than an obligation for money borrowed);
+-10-

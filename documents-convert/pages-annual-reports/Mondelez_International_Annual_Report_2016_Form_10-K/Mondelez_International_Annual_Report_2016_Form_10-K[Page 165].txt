@@ -1,0 +1,38 @@
+SECTION 504. Trustee May File Proofs of Claim.
+In case of any judicial proceeding relative to the Company (or any other obligor upon the Securities of any series), its property or its creditors, the Trustee for
+the Securities of such series irrespective of whether the principal (or, if the Securities of such series are (i) OID Securities or (ii) Indexed Securities, such amount as
+may be due and payable with respect to such Securities pursuant to a declaration in accordance with Section 502) on any Security of such series shall then be due
+and payable as therein expressed or by declaration or otherwise and irrespective of whether such Trustee shall have made any demand on the Company for the
+payment of overdue principal or interest shall be entitled and empowered, by intervention in such proceeding or otherwise:
+(i) to file and prove a claim for the whole amount of principal (or, if the Securities of such series are (i) OID Securities or (ii) Indexed Securities, such
+amount as may be due and payable with respect to such Securities pursuant to a declaration in accordance with Section 502), premium, if any, and interest, if
+any, owing and unpaid in reSpect of the Securities of such series and to file such other papers or documents as may be necessary or advisable in order to have
+the claims of such Trustee (including any claim for the reasonable compensation, expenses, disbursements and advances of such Trustee, its agents and
+counsel and all other amounts due to such Trustee under Section 607) and of the Holders of the Securities of such series allowed in such judicial proceeding;
+(ii) to collect and receive any moneys or other property payable or deliverable on any such claims and to distribute the same; and
+(iii) unless prohibited by law or applicable regulations, to vote on behalf of the Holders of the Securities of such series in any election of a trustee in
+bankruptcy or other person performing similar functions;
+and any receiver, assignee, trustee, liquidator, sequestrator (or other similar official) in any such judicial proceeding is hereby authorized by each Holder of
+Securities to make such payments to such Trustee, and in the event that such Trustee shall consent to the making of such payments directly to the Holders of
+Securities, to pay to such Trustee any amount due to it for the reasonable compensation, expenses, disbursements and advances of such Trustee, its agents and
+counsel, and any other amounts due such Trustee under Section 607. Nothing herein contained shall be deemed to authorize the Trustee for the Securities of any
+series to authorize or consent to or accept or adopt on behalf of any Holder of a Security any plan of reorganization, arrangement, adjustment or composition
+affecting the Securities of such series or the rights of any Holder thereof, or to authorize the Trustee for the Securities of any series to vote in respect of the claim of
+any Holder in any such proceeding, except as aforesaid, for the election of a trustee in bankruptcy or other person performing similar functions.
+SECTION 505. Trustee May Enforce Claims Without Possession of Securities.
+All rights of action and claims under this Indenture or the Securities of any series may be prosecuted and enforced by the Trustee for the Securities of any
+series without the possession of any of the Securities of such series or the production thereof in any proceeding relating thereto, and any such proceeding instituted
+by such Trustee shall be brought in its own name as trustee of an express trust, and any recovery of judgment shall, after provision for the payment of the reasonable
+compensation, expenses, disbursements and advances of such Trustee, its agents and counsel and all other amounts due to such Trustee under Section 607, be for
+the ratable beneﬁt of the Holders of the Securities of such series in respect of which such judgment has been recovered.
+SECTION 506. Application of Money Collected.
+Any money collected by the Trustee for the Securities of any series pursuant to this Article with respect to the Securities of such series shall be applied in the
+following order, at the date or dates fixed by such Trustee and, in case of the distribution of such money on account of principal or premium, if any, or interest, if
+any, upon presentation of the Securities of such series, or both, as the case may be, and the notation thereon of the payment if only partially paid and upon surrender
+thereof if fully paid:
+First: to the payment of all amounts due such Trustee and its agents under Section 607;
+Second: to the payment of the amounts then due and unpaid upon the Securities of such series for principal of, and premium, if any, and interest, if any, on
+such Securities in respect of which or for the benefit of which such money has been collected, ratably, without preference or priority of any kind, according to the
+amounts due and payable on such Securities for principal, and premium, if any, and interest, if any, respectively; and
+Third: the balance, if any, to the Person or Persons entitled thereto.
+27

@@ -1,0 +1,42 @@
+I tem 1A. Risk Factors
+We or our representatives from time-to-time may make or may have made certain forward-looking statements, whether orally or in writing, including without limitation,
+any such statements made or to be made in MD&A contained in our various SEC ﬁlings or orally in conferences or teleconferences. We wish to ensure that such
+statements are accompanied by meaningful cautionary statements, so as to ensure, to the fullest extent possible, the protections of the safe harbor established in the
+Private Securities Litigation Reform Act of 1995.
+Accordingly, the forward-looking statements are qualified in their entirety by reference to and are accompanied by the following meaningful cautionary statements
+identifying certain important risk factors that could cause actual results to differ materially from those in such forward-looking statements. This list of risk factors is
+likely not exhaustive. We operate in rapidly changing and evolving markets throughout the world addressing the complex needs of communication service providers,
+financial institutions, and many others, and new risk factors will likely emerge. Further, as we enter new market sectors such as ﬁnancial services, as well as new
+geographic markets, we are subject to new regulatory requirements that increase the risk of non-compliance and the potential for economic harm to us and our clients.
+Management cannot predict all of the important risk factors, nor can it assess the impact, if any, of such risk factors on our business or the extent to which any risk factor,
+or combination of risk factors, may cause actual results to differ materially from those in any forward-looking statements. Accordingly, there can be no assurance that
+forward-looking statements will be accurate indicators of future actual results, and it is likely that actual results will differ from results projected in forward-looking
+statements and that such differences may be material.
+We Derive a Significant Portion of Our Revenues From a Limited Number of Clients, and the Loss of the Business of a Significant Client Could Have a Material
+Adverse Effect on Our Financial Position and Results of Operations.
+Over the past decade, the worldwide communications industry has experienced significant consolidation, resulting in a large percentage of the market being served by a
+limited number of service providers with greater size and scale, and there are possibilities of further consolidation. Consistent with this market concentration, we generate
+approximately 60% of our revenues from our three largest clients, which are (in order of size) Comcast, Charter (to include the recently acquired Time Warner business),
+and DISH, which each individually accounted for 10% or more of our total revenues. See the Significant Client Relationships section of MD&A for key renewal dates
+and a brief summary of our business relationship with these clients.
+There are inherent risks whenever a large percentage of total revenues are concentrated with a limited number of clients. One such risk is that a signiﬁcant client could:
+(i) undergo a formalized process to evaluate alternative providers for services we provide; (ii) terminate or fail to renew their contracts with us, in whole or in part for any
+reason; (iii) significantly reduce the number of customer accounts processed on our solutions, the price paid for our services, or the scope of services that we provide; or
+(iv) experience signiﬁcant ﬁnancial or operating difficulties. Any such development could have a material adverse effect on our financial position and results of
+operations and/or trading price of our common stock.
+Our industry is highly competitive, and as a result, it is possible that a competitor could increase its footprint and share of customers serviced at our expense or a service
+provider could develop their own internal solutions. While our clients may incur some costs in switching to our competitors or their own internally-developed solutions,
+they may do so for a variety of reasons, including: (i) price; (ii) dissatisfaction with our solutions or service levels; or (iii) dissatisfaction with our relationships.
+We May Not Realize Our Anticipated Growth With Comcast Related to New Customer Account Conversion Opportunities.
+In July 2014, we entered into an expanded and extended contract with our largest client, Comcast. The expanded contract provides the framework for Comcast to
+consolidate its residential business onto our billing solution. Since that time, Comcast has added approximately seven million residential customer accounts onto our
+billing solution. We believe we have the opportunity to convert up to an additional two to three million Comcast customer accounts that are currently on one of our
+competitor’s platforms onto our solution over the next year as part of Comcast’s future standardization initiatives for their residential business.
+Although Comcast has expressed to us their intention to consolidate their residential customer accounts to our platform, they have no ﬁnancial or legal requirement to do
+so. The timing of and the number of customer accounts to be converted to CSG, if any, is at the discretion of Comcast. There can be no assurances, therefore, as to the
+timing or the number of any new customer accounts converted to us by Comcast.
+We May Not Be Able to Efficiently and Effectively Implement New Solutions or Convert Clients onto Our Solutions.
+Our continued growth plans include the implementation of new solutions, as well as migrating both new and existing clients to our solutions. Such implementations or
+conversions (collectively referred to hereafter in this section as “implementations”), regardless of whether they involve new solutions or new customers, have become
+increasingly more difficult because of the sophistication,
+8

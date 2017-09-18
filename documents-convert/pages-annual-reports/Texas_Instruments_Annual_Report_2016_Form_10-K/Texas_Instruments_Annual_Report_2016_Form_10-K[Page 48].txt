@@ -1,0 +1,46 @@
+The primary components of deferred income tax assets and liabilities are as follows:
+December 31,
+2016 2015
+Deferred income tax assets:
+Stockcompensation $ 220 $ 244
+Accruedexpenses.................................................................. 219 215
+DeferredlossandtaxcreditcarryfonNards................................................ 214 226
+lnventoriesandrelatedreserves....................................................... 145 147
+Retirement costs for defined benefit and retiree health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 87
+'3 81 101
+g Total deferred income tax assets, before valuation allowance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 961 1,020
+.. Valuationallowance................................................................... (128) (186)
+O
+5: Total deferred income tax assets, after valuation allowance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 833 834
+Deferred income tax liabilities:
+Acquisition-related intangibles and fair-value adjustments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (460) (565)
+lnternationalearnings............................................................... (32) (105)
+Totaldeferredincometaxliabilities....................................................... (492) (670)
+Netdeferredincometaxasset $ 341 $164
+The deferred income tax assets and liabilities based on taxjurisdictions are presented on our Consolidated Balance Sheets as
+follows:
+December 31,
+2016 2015
+Deferredincometaxassets $ 374 $ 201
+Deferredincometaxliabilities.......................................................... (33) (37)
+Netdeferredincometaxasset $ 341 $164
+We make an ongoing assessment regarding the realization of U.S. and non-U.S. deferred tax assets. This assessment is based on
+our evaluation of relevant criteria, including the existence of deferred tax liabilities that can be used to absorb deferred tax assets,
+taxable income in prior carryback years and expectations for future taxable income. Changes in valuation allowance balances in
+2016 and 2015 of $58 million and $9 million, respectively, impacted Net income by $63 million and $0 million, respectively.
+We have U.S. and non-U.S. tax loss carryfonNards of approximately $12 million, none of which will expire before the year 2026.
+A provision has been made for deferred taxes on undistributed earnings of non-U.S. subsidiaries to the extent that dividend
+payments from these subsidiaries are expected to result in additional tax liability. The remaining undistributed earnings of
+approximately $9.03 billion as of December 31, 2016, have been indefinitely reinvested outside of the United States; therefore, no
+U.S. tax provision has been made for taxes due upon remittance of these earnings. The indefinitely reinvested earnings of our
+non-U.S. subsidiaries are primarily invested in working capital and property, plant and equipment. Determination of the amount of
+unrecognized deferred income tax liability is not practical because of the complexities associated with its hypothetical calculation.
+Cash payments made for income taxes, net of refunds, were $1.15 billion, $1.17 billion and $1.10 billion in 2016, 2015 and
+2014, respectively.
+Uncertain tax positions
+We operate in a number of tax jurisdictions, and our income tax returns are subject to examination by tax authorities in those
+jurisdictions who may challenge any item on these tax returns. Because the matters challenged by authorities are typically
+complex, their ultimate outcome is uncertain. Before any benefit can be recorded in our financial statements, we must determine
+that it is “more likely than not” that a tax position will be sustained by the appropriate tax authorities. We recognize accrued
+interest related to uncertain tax positions and penalties as components of 0l&E.
+44 TEXAS INSTRUMENTS - 2016 FORM 10-K

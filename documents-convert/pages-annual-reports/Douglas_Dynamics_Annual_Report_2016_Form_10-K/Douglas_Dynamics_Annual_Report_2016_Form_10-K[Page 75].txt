@@ -1,0 +1,45 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+2. Summary of Significant Accounting Policies (Continued)
+Interest Rate Swap
+As required by the Company’s prior debt agreement the Company entered into an interest rate
+swap agreement in the second quarter of 2011 to hedge against the potential impact on earnings from
+increases in market interest rates. Under the interest rate swap agreement, effective as of July 18, 2011,
+the Company either received or made payments on a monthly basis based on the differential between
+6.335% and LIBOR plus 4.25% (with a LIBOR ﬂoor of 1.5%). The interest rate swap agreement
+expired in December of 2014. On December 31, 2014, the Company amended its senior credit facility,
+which no longer required the Company to have a hedge agreement in place.
+The Company is a counterparty to interest-rate swap agreements to hedge against the potential
+impact on earnings from increases in market interest rates. The Company entered into three interest
+rate swap agreements during the first quarter of 2015 with notional amounts of $45,000, $90,000 and
+$135,000 effective for the periods December 31, 2015 through March 29, 2018, March 29, 2018 through
+March 31, 2020 and March 31, 2020 through June 30, 2021, respectively. Under the interest rate swap
+agreement, effective as of December 31, 2015 the Company will either receive or make payments on a
+monthly basis based on the differential between 6.105% and LIBOR plus 4.25% (with a LIBOR ﬂoor
+of 1.0%). Under the interest rate swap agreement, effective as of March 29, 2018 the Company will
+either receive or make payments on a monthly basis based on the differential between 6.916% and
+LIBOR plus 4.25% (with a LIBOR ﬂoor of 1.0%). Under the interest rate swap agreement effective as
+of March 31, 2020 the Company will either receive or make payments on a monthly basis based on the
+differential between 7.168% and LIBOR plus 4.25% (with a LIBOR ﬂoor of 1.0%). The negative fair
+value of the interest rate swap, net of tax, of ($1,195) and ($937) at December 31, 2016 and
+December 31, 2015, respectively, is included in Accumulated other comprehensive loss on the balance
+sheet. This fair value was determined using Level 2 inputs as defined in Accounting Standards
+Codification Topic (“ASC”) 820—Fair Value Measurements and Disclosures.
+Inventories
+Inventories are stated at the lower of cost or market. Market is determined based on estimated
+realizable values. Inventory costs are primarily determined by the first-in, first—out (FIFO) method. The
+Company periodically reviews its inventory for slow moving, damaged and discontinued items and
+provides reserves to reduce such items identified to their recoverable amounts.
+The Company records inventories to include truck chassis inventory financed through a ﬂoor plan
+financing agreement as discussed in Note 7. The Company takes title to truck chassis upon receipt of
+the inventory through their ﬂoor plan agreement and performs up-fitting service installations to the
+truck chassis inventory during the installation period. The ﬂoor plan obligation is then assumed by the
+dealer customer upon delivery. At December 31, 2016, the Company had $3,939 of chassis inventory
+and related ﬂoor plan financing obligation. The Company recognizes revenue associated with up-fitting
+and service installations net of the truck chassis. As the Company acquired Dejana in the year ended
+December 31, 2016, the Company did not have any chassis inventory at December 31, 2015.
+The Company receives, on consignment, truck chassis on which it performs up-fitting service
+installations under “bailment pool” arrangements with major truck manufacturers. The Company never
+F-12

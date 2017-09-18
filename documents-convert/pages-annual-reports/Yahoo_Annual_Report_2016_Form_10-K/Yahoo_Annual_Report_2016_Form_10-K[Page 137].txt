@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+intangible asset with its carrying amount is performed. The Company estimates the fair value of indeﬁnite-lived purchased intangible assets using an income
+approach. Measurement of any impairment losses on both definite-lived and indeﬁnite-lived intangible assets are based on the excess of the carrying value of
+the asset over its fair value.
+As a result of the impairment testing performed in the fourth quarter of 2015, the entire carrying value of the indeﬁnite-lived intangible assets were fully impaired
+as of December 31, 2015, and the Company did not purchase any indeﬁnite-lived intangibles during 2016. As of December 31, 2016, the Company only had
+deﬁnite-lived intangible assets.
+2016 Testing
+During the second quarter of 2016, the Company reviewed its Tumblr asset group for impairment as there were events and changes in circumstances that
+indicated that the carrying value of the long-lived assets may not be recoverable. As a result, the Company performed a quantitative test comparing the fair value
+of the Tumblr long-lived assets with the carrying amounts and recorded a partial impairment charge of $87 million associated with its deﬁnite-lived intangible
+assets, which were included within customer, afﬁliate, and advertiser related relationships and tradenames, trademarks, and domain names in the Americas
+segment.
+In the fourth quarter of 2016, the Company reviewed its definite-lived intangible assets for impairment. No impairment was identiﬁed for deﬁnite—lived intangibles.
+2015 Testing
+In the fourth quarter of 2015, the Company reviewed both deﬁnite-lived and indeﬁnite-lived intangible assets for impairment. No impairment was identiﬁed for
+deﬁnite-lived intangibles. For indeﬁnite-lived intangibles, the Company performed a quantitative test comparing the fair value of the indeﬁnite-lived intangible
+assets with their carrying amount and recorded an impairment charge of $15 million related to certain indeﬁnite-lived intangible assets in the EMEA segment. As
+a result, the entire carrying value of the indefinite-lived intangible assets was fully impaired as of December 31, 2015.
+Note 7 Basic and Diluted Net Income (Loss) Attributable to Yahoo! Inc. Common
+Stockholders Per Share
+Basic and diluted net income (loss) attributable to Yahoo! Inc. common stockholders per share is computed using the weighted average number of common
+shares outstanding during the period, excluding net income attributable to participating securities (restricted stock units granted under the Directors’ Stock Plan
+(the “Directors’ Plan”)). Diluted net income (loss) per share is computed using the weighted average number of common shares and, if dilutive, potential common
+shares outstanding during the period. Potential common shares are calculated using the treasury stock method and consist of unvested restricted stock and
+shares underlying unvested restricted stock units, the incremental common shares issuable upon the exercise of stock options, and shares to be purchased
+under the 1996 Employee Stock Purchase Plan (the “Employee Stock Purchase Plan”). The Company calculates potential tax windfalls and shortfalls by
+including the impact of deferred tax assets.
+The Company takes into account the effect on consolidated net income (loss) per share of dilutive securities of entities in which the Company holds equity
+interests that are accounted for using the equity method.
+136

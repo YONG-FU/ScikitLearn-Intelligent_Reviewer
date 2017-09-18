@@ -1,0 +1,48 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 15: Litigation and Contingencies (Continued)
+similar to CERCLA, and may become a party to, or otherwise involved in, proceedings brought by private parties for
+contribution towards clean-up costs. HP is also conducting environmental investigations or remediations at several current or
+former operating sites pursuant to administrative orders or consent agreements with state environmental agencies.
+The separation and distribution agreement includes provisions that provide for the allocation of environmental
+liabilities between HP and Hewlett Packard Enterprise including certain remediation obligations; responsibilities arising from
+the chemical and materials composition of their respective products, their safe use and their energy consumption; obligations
+under product take back legislation that addresses the collection, recycling, treatment and disposal of products, and other
+environmental matters. HP will generally be responsible for environmental liabilities related to the properties and other assets,
+including products, allocated to HP under the separation and distribution agreement and other ancillary agreements. Under these
+agreements, HP will indemnify Hewlett Packard Enterprise for liabilities for specified ongoing remediation projects, subject to
+certain limitations, and Hewlett Packard Enterprise has a payment obligation for a specified portion of the cost of those
+remediation projects. In addition, HP will share with Hewlett Packard Enterprise other environmental liabilities as set forth in
+the separation and distribution agreement. HP is indemnified in whole or in part by Hewlett Packard Enterprise for liabilities
+arising from the assets assigned to Hewlett Packard Enterprise and for certain environmental matters as detailed in the
+separation and distribution agreement.
+Note 16: Guarantees, Indemniﬁcations and Warranties
+Guarantees
+In the ordinary course of business, HP may issue performance guarantees to certain of its clients, customers and other
+parties pursuant to which HP has guaranteed the performance obligations of third parties. Some of those guarantees may be
+backed by standby letters of credit or surety bonds. In general, HP would be obligated to perform over the term of the guarantee
+in the event a specified triggering event occurs as defined by the guarantee. HP believes the likelihood of having to perform
+under a material guarantee is remote.
+Indemniﬁcations
+In the ordinary course of business, HP enters into contractual arrangements under which HP may agree to indemnify a
+third party to such arrangement from any losses incurred relating to the services they perform on behalf of HP or for losses
+arising from certain events as defined within the particular contract, which may include, for example, litigation or claims
+relating to past performance. HP also provides indemnifications to certain vendors and customers against claims of IP
+infringement made by third parties arising from the vendors’ and customers’ use of HP’s software products and services and
+certain other matters. Some indemnifications may not be subject to maximum loss clauses. Historically, payments made related
+to these indemnifications have been immaterial.
+Cross-Indemniﬁcations with Hewlett Packard Enterprise
+Under the separation and distribution agreement, HP agreed to indemnify Hewlett Packard Enterprise, each of its
+subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out
+of or resulting from, among other matters, the liabilities allocated to HP as part of the Separation. Hewlett Packard Enterprise
+similarly agreed to indemnify HP, each of its subsidiaries and each of their respective directors, officers and employees from
+and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to Hewlett
+Packard Enterprise as part of the Separation. HP expects Hewlett Packard Enterprise to fully perform under the terms of the
+separation and distribution agreement.
+For information on the cross-indemnifications related to the tax matter agreements and litigations eﬁective upon the
+Separation on November 1, 2015, see Note 7, “Taxes on Earnings” and Note 15, “Litigation and Contingencies”, respectively.
+Warranties
+HP accrues the estimated cost of product warranties at the time it recognizes revenue. HP engages in extensive product
+quality programs and processes, including actively monitoring and evaluating the quality of its component suppliers; however,
+117

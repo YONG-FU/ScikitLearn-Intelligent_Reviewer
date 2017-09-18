@@ -1,0 +1,33 @@
+Premiums - Amounts paid by policyholders to purchase insurance coverages.
+Premiums Earned - The recognition of the portion of premiums written directly related to the expired
+portion of an insurance policy for a given reporting period.
+Net Premiums Written - Premiums written during a given reporting period, net of assumed and ceded
+reinsurance, which correlate directly to the insurance coverage provided.
+Unearned Premium - The portion of premiums written which would be returned to a policyholder upon
+cancellation.
+Premiums Written - The cost of insurance coverage. Premiums written refer to premiums for all policies
+sold during a speciﬁed accounting period.
+Quota Share Reinsurance Agreement — A form of reinsurance in which the reinsurer assumes a stated percentage
+of all premiums, losses and related expenses in a given class of business.
+Realized Investment Gains/Losses - The amount of net gains/losses realized when an investment is sold at a
+price higher or lower than its original cost or carrying amount. Also the amount of loss recognized when an
+investment’s carrying value is reduced to fair value due to an other—than-temporary impairment in the fair value
+of that investment.
+Reinsurance - The contractual arrangement by which one or more insurers, called reinsurers, in exchange for
+premium payments, agree to assume all or part of a risk originally undertaken by another insurer. Reinsurance
+“spreads risk” among insurance enterprises, allowing individual companies to reduce exposure to losses and provide
+additional capacity to write insurance.
+Reserves - The provision for the estimated future cost of all unpaid claims. The total includes known claims as well
+as amounts for claims that have occurred but have not been reported to the insurer (IBNR).
+Return on Equity (ROE) - Net income divided by average stockholders” equity.
+Risk-Based Capital - A model developed by the National Association of Insurance Commissioners which attempts
+to measure the minimum statutory capital needs of property and casualty insurance companies based upon the risks
+in a company’s mix of products and investment portfolio.
+Settlement Expenses - Expenses incurred in the process of investigating and settling claims.
+Statutory Accounting - Accounting practices used by insurance companies to prepare ﬁnancial statements
+submitted to state regulatory authorities. Statutory accounting differs from GAAP in that it stresses insurance
+company solvency rather than the matching of revenues and expenses.
+Underwriting Gain/Loss - Represents insurance premium income less insurance claims, settlement and
+underwriting expenses.
+Unrealized Holding Gains/Losses on Investments - Represents the difference between the current market
+value of investments and the basis at the end of a reporting period.

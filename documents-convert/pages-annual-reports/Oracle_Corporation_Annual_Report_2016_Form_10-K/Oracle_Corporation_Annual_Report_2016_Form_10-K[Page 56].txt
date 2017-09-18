@@ -1,0 +1,38 @@
+Table,of,C,ontents
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. In order for us to realize our deferred tax
+assets, we must be able to generate sufficient taxable income in those jurisdictions where the deferred tax assets are located. We consider future growth, forecasted
+earnings, future taxable income, the mix of earnings in the jurisdictions in which we operate, historical earnings, taxable income in prior years, if carryback is
+permitted under the law and prudent and feasible tax planning strategies in determining the need for a valuation allowance. In the event we were to determine that
+we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets valuation allowance would be charged
+to earnings in the period in which we make such a determination, or goodwill would be adjusted at our final determination of the valuation allowance related to an
+acquisition within the measurement period. If we later determine that it is more likely than not that the net deferred tax assets would be realized, we would reverse
+the applicable portion of the previously provided valuation allowance as an adjustment to earnings at such time.
+We calculate our current and deferred tax provision based on estimates and assumptions that could differ from the actual results reﬂected in income tax returns ﬁled
+during the subsequent year. Adjustments based on filed returns are generally recorded in the period when the tax returns are filed and the global tax implications are
+known, which can materially impact our effective tax rate.
+The amount of income tax we pay is subject to ongoing audits by federal, state and foreign tax authorities, which often result in proposed assessments. Our estimate
+of the potential outcome for any uncertain tax issue is highly judgmental. A description of our accounting policies associated with tax related contingencies
+assumed as a part of a business combination is provided under “Business Combinations” above. For those tax related contingencies that are not a part of a business
+combination, we account for these uncertain tax issues pursuant to ASC 740, Income Taxes , which contains a two-step approach to recognizing and measuring
+uncertain tax positions taken or expected to be taken in a tax return. The ﬁrst step is to determine if the weight of available evidence indicates that it is more likely
+than not that the tax position will be sustained in an audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax
+benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. Although we believe that we have adequately reserved for our
+uncertain tax positions, no assurance can be given with respect to the final outcome of these matters. We adjust reserves for our uncertain tax positions due to
+changing facts and circumstances, such as the closing of a tax audit, judicial rulings, and reﬁnement of estimates or realization of earnings or deductions that differ
+from our estimates. To the extent that the final outcome of these matters is different than the amounts recorded, such differences generally will impact our provision
+for income taxes in the period in which such a determination is made. Our provisions for income taxes include the impact of reserve provisions and changes to
+reserves that are considered appropriate and also include the related interest and penalties.
+In addition, as a part of our accounting for business combinations, intangible assets are recognized at fair values and goodwill is measured as the excess of
+consideration transferred over the net estimated fair values of assets acquired. Impairment charges associated with goodwill are generally not tax deductible and
+will result in an increased effective income tax rate in the period that any impairment is recorded. Amortization expenses associated with acquired intangible assets
+are generally not tax deductible pursuant to our existing tax structure; however, deferred taxes have been recorded for non-deductible amortization expenses as a
+part of the accounting for business combinations. We have taken into account the allocation of these identified intangibles among different taxing jurisdictions,
+including those with nominal or zero percent tax rates, in establishing the related deferred tax liabilities.
+Legal and Other Contingencies
+We are currently involved in various claims and legal proceedings. Quarterly, we review the status of each signiﬁcant matter and assess our potential ﬁnancial
+exposure. A description of our accounting policies associated with contingencies assumed as a part of a business combination is provided under “Business
+Combinations” above. For legal and other contingencies that are not a part of a business combination, we accrue a liability for an estimated loss if the potential loss
+from any claim or legal proceeding is considered probable, and the amount can be reasonably estimated. Signiﬁcant judgment is required in both the determination
+of probability and the determination as to whether the amount of an exposure is reasonably estimable. Because of uncertainties related to these matters, accruals are
+based only on the best information available at the time the accruals are made. As
+54

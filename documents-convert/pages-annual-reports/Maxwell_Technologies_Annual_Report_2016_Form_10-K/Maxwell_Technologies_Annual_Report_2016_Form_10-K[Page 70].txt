@@ -1,0 +1,43 @@
+The weighted-average grant date fair value of stock options granted during the year ended December 31, 2015 was $3.34 . No stock options were granted
+during the years ended December 31, 2016 and 2014 . The total intrinsic value of options exercised during the years ended December 31, 2016 , 2015 and 2014
+was $0 , $16,000 and $0.6 million , respectively. There were no option exercises for the year ended December 31, 2016 .
+The fair value of the stock options granted during the years ended December 31, 2015 was estimated using the Black-Scholes valuation model using the
+following assumptions:
+Year Ended
+December 31,
+2015
+’Expected dividends —%1
+Expected volatility range 60% to 61%
+’Expected volatility weighted average 60%‘
+Risk-free interest rate 1.6%
+’Expected life/term weighted average (in years) 4.9 l
+The expected dividend yield is zero because the Company has never paid cash dividends and has no present intention to pay cash dividends. The expected
+term is based on the Company’s historical experience from previous stock option grants. Expected volatility is based on the historical volatility of the Company’s
+stock measured over a period commensurate with the expected option term. The Company does not consider implied volatility due to the low volume of publicly
+traded options in the Company’s stock. The risk-free interest rate is derived from the zero coupon rate on US. Treasury instruments with a term comparable to the
+option’s expected term.
+As of December 31, 2016 , there was $0.4 million of total unrecognized compensation cost related to stock options. The cost is expected to be recognized
+over a weighted average period of 2.3 years .
+Restricted Stock Awards
+During the year ended December 31, 2014, the Company ceased granting RSAS and began granting RSUS to employees and executive management as part of
+its annual equity incentive award program.
+The following table summarizes RSA activity for the year ended December 31, 2016 (in thousands, except for per share data):
+Weighted Average
+Grant Date
+Shares _ Fair Value
+'Nonvested at December 31, 2015 245 $ 13.87 ‘
+Vested (105) 14.86
+{Forfeited (52) 12.73 1
+Nonvested at December 31, 2016 88 $ 13.37
+The weighted average grant date fair value of RSAs granted during the year ended December 31, 2014 was $14.21 . No RSAs were granted during the years
+ended December 31, 2016 and 2015 .
+The vest date fair value of RSAs vested in 2016 , 2015 and 2014 was $0.6 million , $1.2 million and $0.9 million , respectively. As of December 31, 2016 ,
+there was $0.6 million of unrecognized compensation cost related to nonvested RSAs expected to be recognized over a weighted average period of 0.9 years.
+Restricted Stock Units
+Non-employee directors receive annual RSU awards, normally in February of each year, as partial consideration for their annual retainer compensation.
+These awards vest in full one year from the date of grant provided the non-employee director provides continued service. Additionally, new directors normally
+receive RSUs upon their election to the board. The Company also grants RSUs to employees as part of its annual equity incentive award program, with vesting
+typically in equal annual installments over four years of continuous service. Additionally, the Company grants performance-based restricted stock units (“PSUs”)
+to executives with vesting contingent on continued service and achievement of specified performance objectives or stock price performance. Each RSU represents
+the right to receive one unrestricted share of the Company’s common stock upon vesting.
+67

@@ -1,0 +1,45 @@
+Interest Rate Sensitivity
+A portion of our long-term bank debt bears interest at variable rates (see Note 14 to the Consolidated Financial Statements) and our
+results of operations would be affected by interest rate changes to such bank debt outstanding. The Company utilizes interest rate
+swaps to limit exposure to market ﬂuctuations on ﬂoating-rate debt. During the second quarter of 2016, the Company entered into a
+ﬂoating to ﬁxed interest rate swap for an initial aggregate notional amount of $300 million. An immediate 10% increase in the
+interest rates would not have a material effect on our results of operations over the next ﬁscal year. A one percentage point change in
+interest rates would cost $5.6 million in incremental interest charges on an annual basis.
+Credit Risk
+We are exposed to credit risk on certain assets, primarily accounts receivable. We provide credit to customers in the ordinary
+course of business and perform ongoing credit evaluations. Concentrations of credit risk with respect to trade receivables are limited
+due to the large number of customers comprising our customer base. We currently believe our allowance for doubtful accounts is
+sufﬁcient to cover customer credit risks. Our accounts receivable ﬁnancial instruments are carried at amounts that approximate fair
+value.
+Euro & Sovereign Debt Risk
+Certain countries that have adopted the Euro as their currency have experienced recent ﬁnancial difﬁculty and are in the process of
+stabilizing their ﬁnances through various measures, which may include such drastic measures as defaulting on their debt or adopting a
+different currency as their national currency. While we do not believe we have signiﬁcant ﬁnancial risk resulting from any of these
+situations, we cannot predict the disruption that would occur to the European markets in which we compete if such drastic measures
+were taken.
+We do not have any material credit risk with sovereign governments currently facing this situation as we do not sell our products to
+them. We do, however, sell to customers in these countries, but we believe our risk associated with these customers is not material.
+Item 8. Financial Statements and Supplementary Data
+The ﬁnancial information required by Item 8 is contained in Item 15 of Part IV of this report.
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A. Controls and Procedures
+Disclosure Controls and Procedures
+As of the end of the period covered by this report, and under the supervision and with participation of the Company’s management,
+including the Chief Executive Ofﬁcer and the Chief Financial Ofﬁcer, the Company carried out an evaluation of the effectiveness of
+the design and operation of the Company’s disclosure controls and procedures, pursuant to Exchange Act Rule l3a—15(b). Based upon
+that evaluation, the Chief Executive Ofﬁcer and Chief Financial Ofﬁcer concluded that the Company’s disclosure controls and
+procedures were effective as of December 31, 2016.
+The Company continues to implement a global enterprise resource planning (“ERP”) system for the businesses acquired from
+AMCOL. As of December 31, 2016, primarily all of the domestic and European locations of the acquired businesses were
+implemented on the new system. The worldwide implementation is expected to be substantially completed over the next six to nine
+months and involves changes in the systems that include internal controls. Although the transition has proceeded to date without
+material adverse effects, the possibility exists that our migration to the new ERP system could adversely affect the Company’s internal
+controls over ﬁnancial reporting and procedures. We are reviewing each system as it is being implemented and the controls affected
+by the implementation of the new systems, and are making appropriate changes to the affected internal controls as we implement the
+new systems. We believe that the controls as modiﬁed are appropriate and functioning effectively.
+Pursuant to Section 404 of the Sarbanes-Oxley Act of 2002, we have included a report of management's assessment of the design
+and operating effectiveness of our internal controls as part of this report. Management's report is included in our consolidated ﬁnancial
+statements beginning on page F -1 of this report under the caption entitled "Management's Report on Internal Control Over Financial
+Reporting."
+44

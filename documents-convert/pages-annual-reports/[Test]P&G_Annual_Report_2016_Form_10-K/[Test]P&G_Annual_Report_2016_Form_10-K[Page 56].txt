@@ -1,0 +1,44 @@
+52 The Procter & Gamble Company
+Amounts expected to be amortized from AOCI into net periodic benefit cost during the year ending June 30, 2017, are as follows:
+Pension Benefits _ Other Retiree Benefits
+lNet actuarial loss $ 400 $ 126 1
+Prior service cost/(credit) 28 (45)
+Assumptions. We determine our actuarial assumptions on an annual basis. These assumptions are weighted to reﬂect each country that may have
+an impact on the cost of providing retirement benefits. The weighted average assumptions used to determine benefit obligations recorded on the
+Consolidated Balance Sheets as of June 30, were as follows: (1)
+Pension Benefits Other Retiree Benefits
+2016 _ 2015 _ 2016 _ 2015
+lDiscount rate 2.1% 3.1% 3.6% 4.5%
+Rate of compensation increase 2.9% 3.1% N/A N/A
+Health care cost trend rates assumed for next year N/A N/A 7.2% 6.8%
+Rate to which the health care cost trend rate is assumed to decline (ultimate trend rate) N/A N/A 4.9% 5.0%
+lYear that the rate reaches the ultimate trend rate N/A N/A 2021 2021 l
+(I) Determined as of end of year.
+The weighted average assumptions used to determine net benefit cost recorded on the Consolidated Statement of Earnings for the years ended
+June 30, were as follows: (1)
+Pension Benefits Other Retiree Benefits
+:Ynea[siendednlunejﬂ 2016 _ 2015 _ 2014 _ 2016 _ 2015 _ 2014
+lDiscount rate 3.1% _ 3.5%_ 4.0%_ 4.5% _ 4.4% _ 48%
+Expected return on plan assets 7 .2% 7.2% 7.2% 8.3% 8.3% 8.3%
+[Rate of compensation increase 3.1% 3.2% 3.2% N/A N/A N/A 1
+(I) Determined as of beginning of year and adjusted for acquisitions.
+Several factors are considered in developing the estimate for the long-term expected rate of return on plan assets. For the defined benefit retirement
+plans, these factors include historical rates of return of broad equity and bond indices and projected long-term rates of return obtained from
+pension investment consultants. The expected long-term rates of return for plan assets are 8 - 9% for equities and 5 - 6% for bonds. For other retiree
+benefit plans, the expected long-term rate of return reﬂects that the assets are comprised primarily of Company stock. The expected rate of return on
+Company stock is based on the long-term projected return of 8.5% and reﬂects the historical pattern of returns.
+Assumed health care cost trend rates could have a significant effect on the amounts reported for the other retiree benefit plans. A one percentage
+point change in assumed health care cost trend rates would have the following effects:
+One-Percentage One-Percentage
+Point Increase _ Point Decrease
+Effect on the total service and interest cost components $ 80 $ (59) 1
+Effect on the accumulated postretirement benefit obligation 1,057 (809)
+Plan Assets. Our investment objective for defined benefit retirement plan assets is to meet the plans' benefit obligations, while minimizing the
+potential for future required Company plan contributions. The investment strategies focus on asset class diversification, liquidity to meet benefit
+payments and an apprOpriate balance of long-term investment return and risk. Target ranges for asset allocations are determined by matching the
+actuarial projections of the plans' future liabilities and benefit payments with expected long-term rates of return on the assets, taking into account
+investment return volatility and correlations across asset classes. Plan assets are diversified across several investment managers and are generally
+invested in liquid funds that are selected to track broad market equity and bond indices. Investment risk is carefully controlled with plan assets
+rebalanced to target allocations on a periodic basis and with continual monitoring of investment managers’ performance relative to the investment
+guidelines established with each investment manager.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

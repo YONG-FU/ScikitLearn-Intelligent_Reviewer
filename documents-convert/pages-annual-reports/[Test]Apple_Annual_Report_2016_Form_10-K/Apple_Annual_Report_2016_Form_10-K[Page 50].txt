@@ -1,0 +1,46 @@
+The following table shows the computation of basic and diluted earnings per share for 2016, 2015 and 2014 (net income in millions
+and shares in thousands):
+2016 2015 2014
+Numerator: 7 7 7 7 7 7
+' Net income 3 45,687 $ 53,394 $ 39,510
+I Denominator: I
+Weighted-average shares outstanding 5,470,820 5,753,421 6,085,572
+I Effect of dilutive securities 29,461 39,648 37,091 I
+Weighted-average diluted shares 7 5,500,281 7 7 5,793,069, 7 6,122,663,
+Basic earnings per share $ 8.35 $ 9.28 $ 6.49 I
+I Diluted earnings per share $ 8.31 $ 9.22 $ 6.45
+Potentially dilutive securities whose effect would have been antidilutive are excluded from the computation of diluted earnings per
+share.
+Financial Instruments
+Cash Equivalents and Marketable Securities
+All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents. The
+Company’s marketable debt and equity securities have been classified and accounted for as available-for-sale. Management
+determines the appropriate classification of its investments at the time of purchase and reevaluates the classifications at each
+balance sheet date. The Company classifies its marketable debt securities as either short-term or long-term based on each
+instrument’s underlying contractual maturity date. Marketable debt securities with maturities of 12 months or less are classified as
+short-term and marketable debt securities with maturities greater than 12 months are classified as long-term. Marketable equity
+securities, including mutual funds, are classified as either short-term or long-term based on the nature of each security and its
+availability for use in current operations.The Company’s marketable debt and equity securities are carried at fairvalue, with unrealized
+gains and losses, net of taxes, reported as a component of accumulated other comprehensive income (‘AOCI”) in shareholders’
+equity, with the exception of unrealized losses believed to be other-than-temporary which are reported in earnings in the current
+period. The cost of securities sold is based upon the specific identification method.
+Derivative Financial Instruments
+The Company accounts for its derivative instruments as either assets or liabilities and carries them at fair value.
+For derivative instruments that hedge the exposure to variability in expected future cash flows that are designated as cash flow
+hedges, the effective portion of the gain or loss on the derivative instrument is reported as a component of AOCl in shareholders’
+equity and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings. The
+ineffective portion of the gain or loss on the derivative instrument, if any, is recognized in earnings in the current period. To receive
+hedge accounting treatment, cash flow hedges must be highly effective in offsetting changes to expected future cash flows on hedged
+transactions. For options designated as cash flow hedges, changes in the time value are excluded from the assessment of hedge
+effectiveness and are recognized in earnings.
+For derivative instruments that hedge the exposure to changes in the fair value of an asset or a liability and that are designated as
+fair value hedges, both the net gain or loss on the derivative instrument as well as the offsetting gain or loss on the hedged item
+are recognized in earnings in the current period.
+For derivative instruments and foreign currency debt that hedge the exposure to changes in foreign currency exchange rates used
+for translation of the net investment in a foreign operation and that are designated as a net investment hedge, the net gain or loss
+on the effective portion of the derivative instrument is reported in the same manner as a foreign currency translation adjustment.
+For forward exchange contracts designated as net investment hedges, the Company excludes changes in fair value relating to
+changes in the fonNard carry component from its definition of effectiveness. Accordingly, any gains or losses related to this forward
+carry component are recognized in earnings in the current period.
+Derivatives that do not qualify as hedges are adjusted to fair value through earnings in the current period.
+Apple Inc. | 2016 Form 10-K l 47

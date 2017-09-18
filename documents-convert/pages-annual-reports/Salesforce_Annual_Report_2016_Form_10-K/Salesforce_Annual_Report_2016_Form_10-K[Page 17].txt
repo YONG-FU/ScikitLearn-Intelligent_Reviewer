@@ -1,0 +1,40 @@
+We continue to invest in developing additional distribution channels for our subscription service.
+Marketing
+Our marketing strategy is to promote our brand and generate demand for our offerings. We use a variety of
+marketing programs across traditional and social channels to target our prospective and current customers,
+partners, and developers.
+Our primary marketing activities include:
+0 Press and industry analyst relations to garner third-party validation and generate positive coverage for
+our company, offerings and value proposition;
+0 User conferences and events, such as Dreamforce, as well as participation in trade shows and industry
+events, to create customer and prospect awareness;
+- Content marketing and engagement on social channels like Facebook, Twitter, LinkedIn and YouTube;
+0 Search engine marketing and advertising to drive traffic to our Web properties;
+0 Web site development to engage and educate prospects and generate interest through product
+information and demonstrations, free trials, case studies, white papers, and marketing collateral;
+- Multi-channel marketing campaigns;
+0 Customer testimonials; and
+0 Sales tools and field marketing events to enable our sales organization to more effectively convert
+leads into customers.
+Customer Service and Support
+Our global customer support group responds to both business and technical inquiries about the use of our
+products via the web, telephone, email, social networks and other channels. We provide standard customer
+support during regular business hours at no charge to customers who purchase any of our paying subscription
+editions. We also offer premier customer support that is either included in a premium offering or sold for an
+additional fee, which can include services such as priority access to technical resources, developer support, and
+system administration. In addition, we offer a mission critical support add-on that is designed to provide
+customers with responses for incidents from a dedicated team knowledgeable about the customer’s specific
+enterprise architecture, and which offers instruction to optimize their usage of our products.
+Seasonality
+Our fourth quarter has historically been our strongest quarter for new business and renewals, and our first
+quarter is our largest collections and operating cash ﬂow quarter. For a more detailed discussion, see the
+“Seasonal Nature of Deferred Revenue and Accounts Receivable” discussion in Management’s Discussion and
+Analysis.
+Competition
+The market for our service offerings is highly competitive, rapidly evolving and fragmented, and subject to
+changing technology and frequent introductions of new products and services. Many prospective customers have
+invested substantial personnel and financial resources to implement and integrate their current enterprise software
+into their businesses and therefore may be reluctant or unwilling to migrate away from their current solution to an
+enterprise cloud computing application service. Additionally, third-party developers may be reluctant to build
+application services on our platform since they have invested in other competing technology platforms.
+10

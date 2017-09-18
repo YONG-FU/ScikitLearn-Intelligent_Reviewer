@@ -1,0 +1,55 @@
+The amount of impairment loss is determined in Step Two by comparing the implied fair value of reporting unit goodwill
+with the carrying amount of goodwill.
+The Company has six reporting units; PCC, Processed Minerals, Refractories, Performance Materials, Construction
+Technologies and Energy Services. We identify our reporting units by assessing whether the components of our operating
+segments constitute businesses for which discrete ﬁnancial information is available and management regularly reviews the
+operating results of those components. In the fourth quarter of 2016, the Company performed a qualitative assessment of each
+of its reporting units and determined it was not more likely than not that the fair value of any of its reporting units was less
+than their carrying values.
+0 Accounting for income taxes: As part of the process of preparing our consolidated ﬁnancial statements, we are required to
+estimate our income taxes in each of the jurisdictions in which we operate. This process involves estimating current tax
+expense together with assessing temporary differences resulting from differing treatments of items for tax and accounting
+purposes. These differences result in deferred tax assets and liabilities, which are included in the consolidated balance sheet.
+We must then assess the likelihood that our deferred tax assets will be recovered from future taxable income, and to the
+extent we believe that recovery is not likely, we must establish a valuation allowance. To the extent we establish a valuation
+allowance or change this allowance in a period, we must include an expense within the tax provision in the Consolidated
+Statements of Income.
+Deferred tax liabilities represents amount of income taxes payable in future periods. Such liabilities arise because of
+temporary differences between the ﬁnancial reporting and tax bases of assets and liabilities. Deferred income tax assets
+represent amounts available to reduce income taxes payable on taxable income in future years. Such assets arise because of
+temporary differences between the ﬁnancial reporting and tax bases of assets and liabilities, as well as from net operating
+loss. We evaluate the recoverability of these future tax deductions by assessing the adequacy of future expected taxable
+income from all sources, including reversal of taxable temporary differences and forecasted operating earnings. These
+sources of income inherently rely heavily on estimates. We use our historical experience and business forecasts to provide
+insight. The amount recorded for the net deferred tax liability was $211.7 million and $221.4 million at December 31, 2016
+and 2015, respectively.
+The application of income tax law is inherently complex. Laws and regulations in this area are voluminous and are often
+ambiguous. As such, we are required to make many subjective assumptions and judgments regarding our income tax
+exposures. Interpretations of and guidance surrounding income tax laws and regulations change over time. As such, changes
+in our subjective assumptions and judgments can materially affect amounts recognized in the consolidated balance sheets and
+statements of operations. See Note 7 to the Consolidated Financial Statements for additional detail on our uncertain tax
+positions.
+0 Pension Beneﬁts: We sponsor pension and other retirement plans in various forms covering the majority of employees who
+meet eligibility requirements, including plans we assumed in the AMCOL acquisition. Several statistical and actuarial
+models which attempt to estimate future events are used in calculating the expense and liability related to the plans. These
+models include assumptions about the discount rate, expected return on plan assets and rate of future compensation increases
+as determined by us, within certain guidelines. Our assumptions reﬂect our historical experience and management's best
+judgment regarding future expectations. In addition, our actuarial consultants also use subjective factors such as withdrawal
+and mortality rates to estimate these assumptions. The actuarial assumptions used by us may differ materially from actual
+results due to changing market and economic conditions, higher or lower withdrawal rates or longer or shorter life spans of
+participants, among other things. Differences from these assumptions may result in a signiﬁcant impact to the amount of
+pension expense/liability recorded by us follows:
+A one percentage point change in our major assumptions would have the following effects:
+Effect on Expense
+Discount Salary Return on
+(millions of dollars) 7 Rate 7 7 Scale 7 7 Asset 7
+1% $ (4.1 ) $ 0.9 $ (2.0)
+1% decrease........................................ $ 6.2 $ (0.8) $ 2.0
+Effect on Projected Beneﬁt Obligation
+Discount Salary
+(millions of dollars) 7 Rate 7 7 Scale 7
+1% $ (42.3) $ 5.0
+1% decrease........................................ $ 52.3 $ (4.4)
+The investment strategy for pension plan assets is to maintain a broadly diversiﬁed portfolio designed to both preserve
+and grow plan assets to meet future plan obligations. The Company's average rate of return on assets from inception
+40

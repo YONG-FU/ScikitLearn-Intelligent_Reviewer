@@ -1,0 +1,43 @@
+CRITICAL ACCOUNTING ESTIMATES
+We prepare our consolidated financial statements in accordance with accounting principles generally
+accepted in the US. (“U.S. GAAP”). Our significant accounting policies are disclosed in NOTE 2—Summary of
+Significant Accounting Policies to our Consolidated Financial Statements and describe our methods for applying
+U.S. GAAP in areas such as revenue recognition, deferred selling costs, fair value measurements, and foreign
+currency translation among other areas deemed significant. In applying certain significant accounting policies,
+we have to make estimates and assumptions that affect our reported amounts of assets, liabilities, revenue, and
+expenses, as well as related disclosure of contingent assets and liabilities. In some cases, changes in the
+accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ
+materially from our estimates. To the extent that there are material differences between these estimates and actual
+results, our financial condition, results of operations or cash ﬂows could be adversely affected. We base our
+estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and
+we evaluate these estimates on an ongoing basis. We refer to accounting estimates of this type as critical
+accounting estimates, which we discuss further below. Critical accounting estimates are applied in the following
+areas:
+0 Revenue recognition;
+° Goodwill and other long-lived assets;
+° Share-based compensation;
+- Income taxes; and
+° Loss contingencies.
+Revenue recognition
+Application of accounting principles related to the measurement and recognition of revenue requires
+judgment. For example, in transactions that include multiple elements, we must exercise judgment in determining
+whether adequate vendor-speciﬁc objective evidence (“VSOE”) of fair value exists for each undelivered element.
+Changes to the elements in a transaction, the ability to identify VSOE for those elements, and changes in the fair
+value of the respective elements could materially impact the amount of earned and unearned revenue.
+In addition, complex arrangements with nonstandard terms and conditions may require significant contract
+interpretation to determine appropriate accounting, including whether the deliverables specified in a multiple
+element transaction should be treated as separate units of accounting.
+We also derive a portion of our revenue from certified cloud and service providers (“CCSPs”) that provide
+public clouds with and allow users to consume computing resources as a service. We earn revenue based on
+subscription units consumed by the CCSP or its end users. These cloud-usage services began expanding
+significantly in fiscal 2013 and have continued to grow.
+For periods prior to March 1, 2015, we recognized cloud-usage revenue upon receipt of usage reports from
+the CCSPs, which typically report fees owed to us one month or more after the fees have been earned. Effective
+March 1, 2015, we believed that we had sufficient historical data and experience to estimate this cloud-usage
+revenue and have begun estimating the amount of and recognizing such revenue in the period earned. The
+estimates are based on the historical cloud-usage data available.
+Goodwill and other long-lived assets
+We make judgments about the recoverability of goodwill, identifiable intangible assets and other long-lived
+assets, including capitalized software purchased or developed for internal use. The assumptions and estimates
+used to determine recoverability of goodwill, identiﬁable intangible assets and other long-lived assets are
+54

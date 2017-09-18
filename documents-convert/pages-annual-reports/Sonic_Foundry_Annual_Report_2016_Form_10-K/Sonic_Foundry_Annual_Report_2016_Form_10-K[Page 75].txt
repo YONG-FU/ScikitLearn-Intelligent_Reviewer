@@ -1,0 +1,47 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+Products
+Products are considered delivered, and revenue is recognized, when title and risk of loss have been transferred to the customer or
+upon customer acceptance if non-delivered products or services are essential to the functionality of delivered products. Under the
+terms and conditions of the sale, this occurs at the time of shipment to the customer. Product revenue currently represents sales
+of our Mediasite recorders and Mediasite related products such as our server software and other software licenses. If a license is
+time-based, the revenue is recognized over the term of the license agreement.
+Services
+The Company sells support and content hosting contracts to our customers, typically one year in length, and records the related
+revenue ratably over the contractual period. Our support contracts cover phone and electronic technical support availability over
+and above the level provided by our distributors, software upgrades on a when and if available basis, advance hardware
+replacement and an extension of the standard hardware warranty from 90 days to one year. The manufacturers the Company
+contracts with to build the units provide a limited one-year warranty on the hardware. The Company also sells installation,
+training, event webcasting, and customer content hosting services. Revenue for those services is recognized when performed in
+the case of installation, training and event webcasting services. Occasionally, the Company will sell customization services to
+enhance the server software. Revenue from those services is recognized when performed, if perfunctory, or under contract
+accounting. Service amounts invoiced to customers in excess of revenue recognized are recorded as deferred revenue until the
+revenue recognition criteria are met.
+Revenue Arrangements that Include Multiple Elements
+Sales of software, with or without installation, training, and post customer support fall within the scope of the software revenue
+recognition rules. Under the software revenue recognition rules, the fee from a multiple-deliverable arrangement is allocated to
+each of the undelivered elements based upon vendor-specific objective evidence (VSOE), which is limited to the price charged
+when the same deliverable is sold separately, with the residual value from the arrangement allocated to the delivered element.
+The portion of the fee that is allocated to each deliverable is then recognized as revenue when the criteria for revenue recognition
+are met with respect to that deliverable. If VSOE does not exist for all of the undelivered elements, then all revenue from the
+arrangement is typically deferred until all elements have been delivered to the customer.
+In the case of the Company’s hardware products with embedded software, the Company has determined that the hardware and
+software components function together to deliver the product’s essential functionality, and therefore, the revenue from the sale of
+these products is accounted for under the revenue recognition rules for tangible products whereby the fee from a multiple-
+deliverable arrangement is allocated to each of the deliverables based upon their relative selling prices as determined by a selling-
+price hierarchy. A deliverable in an arrangement qualifies as a separate unit of accounting if the delivered item has value to the
+customer on a stand-alone basis. A delivered item that does not qualify as a separate unit of accounting is combined with the other
+undelivered items in the arrangement and revenue is recognized for those combined deliverables as a single unit of accounting.
+The selling price used for each deliverable is based upon VSOE if available, from third-party evidence (TPE) if VSOE is not
+available, and best estimate of selling price (ESP) if neither VSOE nor TPE are available. TPE is the price of the Company’s or
+any competitor’s largely interchangeable products or services in stand-alone sales to similarly situated customers. ESP is the price
+at which the Company would sell the deliverable if it were sold regularly on a stand-alone basis, considering market conditions
+and entity-specific factors. All revenue arrangements, excluding the sale of all software-only products and associated services,
+have been accounted for under this guidance.
+The selling prices used in the relative selling price allocation method are as follows: (1) the Company’s products and services are
+based upon VSOE and (2) hardware products with embedded software, for which VSOE does not exist, are based upon ESP. The
+Company does not believe TPE exists for any of these products and services because they are differentiated from competing
+products and services in terms of functionality and performance and there are no competing products or services that are largely
+interchangeable. Management establishes ESP for hardware products with embedded software using a cost plus margin approach
+35

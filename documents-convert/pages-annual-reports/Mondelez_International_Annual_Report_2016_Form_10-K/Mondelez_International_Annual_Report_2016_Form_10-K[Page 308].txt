@@ -1,0 +1,24 @@
+SECTION 2.06 Conversion of Loans .
+(a) Conversion upon Absence of Interest Period . If the Borrower shall fail to select the duration of any Interest Period for any LIBO Rate Loans in
+accordance with the provisions contained in the deﬁnition of the term “Interest Period,” the Administrative Agent will forthwith so notify the Borrower and the
+Lenders and such Loans will automatically, on the last day of the then existing Interest Period therefor, Convert into Base Rate Loans.
+(b) Conversion upon Event of Default . Upon the occurrence and during the continuance of any Event of Default under Section 6.01(a), the
+Administrative Agent or the Required Lenders may elect that (i) each LIBO Rate Loan be, on the last day of the then existing Interest Period therefor, Converted
+into Base Rate Loans and (ii) the obligation of the Lenders to make, or to Convert Loans into LIBO Rate Loans be suspended.
+(c) Voluntary Conversion . Subject to the provisions of Sections 2.06(b), 2.08(c) and 2.13, the Borrower may Convert all of its Loans of one Type
+constituting the same Borrowing into Loans of the other Type on any Business Day, upon notice given to the Administrative Agent not later than 11:00 am. (New
+York City time) on the third Business Day prior to the date of the proposed Conversion; provided, howeven, that the Conversion of a LIBO Rate Loan into a Base
+Rate Loan may be made on, and only on, the last day of an Interest Period for such LIBO Rate Loan. Each such notice of a Conversion shall, within the restrictions
+specified above, specify
+(i) the date of such Conversion;
+(ii) the Loans to be Converted; and
+(iii) if such Conversion is into LIBO Rate Loans, the duration of the Interest Period for each such Loan.
+SECTION 2.07 [Reserved]
+SECTION 2.08 LIBO Rate Determination .
+(a) MethodsitoiDetermineiLIBpiRate,. The Administrative Agent shall determine the LIBO Rate by using the methods described in the deﬁnition of
+the term “LIBO Rate,” and shall give prompt notice to the Borrower and Lenders of each such LIBO Rate.
+(b) Inabilityitolletermine,LIBQLRate,. In the event that the LIBO Rate cannot be determined by the methods described in clause (a), (b), (c) or (d) of
+the definition of “LIBO Rate,” then:
+(i) the Administrative Agent shall forthwith notify the Borrower and the Lenders that the interest rate cannot be determined for such LIBO Rate
+Loan;
+-18-

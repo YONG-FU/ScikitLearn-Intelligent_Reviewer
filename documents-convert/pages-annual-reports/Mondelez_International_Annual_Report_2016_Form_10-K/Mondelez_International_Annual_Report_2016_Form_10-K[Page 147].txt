@@ -1,0 +1,39 @@
+SECTION 106. Notice to Holders; Waiver.
+Where this Indenture provides for notice to Holders of any event, such notice shall be sufﬁciently given (unless otherwise herein expressly provided) to
+Holders of Registered Securities if in writing and sent, ﬁrst class postage prepaid, or by email in PDF format to each Holder affected by such event, at his physical
+address or email address as it appears in the Security Register, not later than the latest date, and not earlier than the earliest date, prescribed for the giving of such
+notice.
+In any case where notice to Holders of Registered Securities is given by mail, neither the failure to send such notice, nor any defect in any notice so mailed,
+to any particular Holder of a Registered Security shall affect the sufficiency of such notice with respect to other Holders of Registered Securities. Any notice sent in
+the manner prescribed by this Indenture shall be deemed to have been given whether or not received by any particular Holder. In case by reason of the suspension of
+regular mail service or by reason of any other cause it shall be impracticable to give such notice to Holders of Registered Securities by mail, then such notiﬁcation
+as shall be made with the approval of the Trustee for such Securities shall constitute sufficient notice to such Holders.
+Where this Indenture provides for notice in any manner, such notice may be waived in writing by the Person entitled to receive such notice, either before or
+after the event, and such waiver shall be the equivalent of such notice. Waivers of notice by Holders shall be filed with the Trustee for such Securities, but such
+ﬁling shall not be a condition precedent to the validity of any action taken in reliance upon such waiver.
+SECTION 107. Conﬂict With Trust Indenture Act.
+If any provision hereof limits, qualiﬁes or conﬂicts with the duties imposed by any of Sections 310 through 317, inclusive, of the Trust Indenture Act through
+the operation of Section 318(0) thereof, such imposed duties shall control.
+SECTION 108. Effect of Headings and Table of Contents.
+The Article and Section headings herein and the Table of Contents are for convenience only and shall not affect the construction hereof
+SECTION 109. Successors and Assigns.
+All covenants and agreements in this Indenture by the Company shall bind its successors and assigns, whether so expressed or not.
+SECTION 110. Separability Clause.
+If any provision in this Indenture or in the Securities shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining
+provisions shall not in any way be affected or impaired thereby.
+SECTION 111. Beneﬁts of Indenture.
+Nothing in this Indenture or in the Securities, expressed or implied, shall give to any Person, other than the parties hereto, any Paying Agent, any Security
+Registrar and their successors hereunder and the Holders of Securities, any beneﬁt or any legal or equitable right, remedy or claim under this Indenture.
+SECTION 112. Governing Law; Waiver of Jury Trial.
+This Indenture and the Securities shall be governed by and construed in accordance with the laws of the State of New York.
+EACH OF THE COMPANY AND THE TRUSTEE HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE
+LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS IN DENTURE, THE
+SECURITIES OR THE TRANSACTION CONTEMPLATED HEREBY.
+SECTION 113. Non—Business Day.
+Unless otherwise stated with respect to Securities of any series, in any case where any Interest Payment Date, Redemption Date or Stated Maturity of a
+Security of any particular series shall not be a Business Day at any Place of Payment with respect to Securities of that series, then (notwithstanding any other
+provision of this Indenture or of the Securities) payment of principal, and premium, if any, and interest, if any, with respect to such Security need not be made at
+such Place of Payment on such date, but may be made on the next succeeding Business Day at such Place of Payment with the same force and effect as if made on
+the Interest Payment Date or Redemption Date, or at the Stated Maturity, provided that no interest shall accrue with reSpect to such payment for the period from and
+after such Interest Payment Date, Redemption Date or Stated Maturity, as the case may be.
+9

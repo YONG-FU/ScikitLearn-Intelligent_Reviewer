@@ -1,0 +1,45 @@
+The Company adopted this guidance at the beginning of 2016. Accordingly, DLCs, except for those associated
+with the Company's New Revolver, are presented as direct deductions from the face amount of the related debt.
+The Company retrospectively adjusted the December 31 , 2015 consolidated balance sheet to align with the current
+period presentation, as follows:
+December 31, 2015
+: Unadjusted Adjusted :
+Consolidated Reclassification Consolidated
+iFinancial Statement Caption 7 : Balance Sheet : : Adjustments : : Balance Sheet :
+(In thousands)
+ASSETS:
+Other assets $ 29,353 $ (2,768) $ 26,585
+LIABILITIES:
+Current portion of long-term debt 3; 35,582 $ (68) $ 35,514
+Long-term debt, less current portion 645,290 (1,627) 643,663
+Accounts receivable securitization 225,000 (1,073) 223,927
+Beginning in 2015, the Company made the following changes in presentation:
+~ Excess tax benefits from stock-based compensation are separately presented within "Net cash provided by
+operating activities" in the consolidated statements of cash flows. The prior period presentation has been
+retrospectively adjusted to reclassify the amount out of "Accounts payable, accrued and other liabilities" and
+into the new line item "Excess tax benefits from stock-based compensation." The change in presentation has
+no net impact on "Net cash provided by operating activities."
+~ Gross amounts of investment in securities activities are presented as "Proceeds from maturities of investments"
+and "Purchases of investments" in the consolidated statements of cash flows. The prior period presentation
+has been retrospectively adjusted to accommodate this gross presentation. The change in presentation has
+no net impact on "Net cash used in investing activities."
+~ "Operating revenue" in the consolidated income statements is disaggregated into the line items "Revenue,
+excluding fuel surcharge revenue" and "Fuel surcharge revenue." The change in presentation has no net
+impact on "Operating revenue."
+Note 2 — Summary of Significant Accounting Policies
+Use of Estimates — The preparation of the consolidated financial statements, in accordance with US-GAAP,
+requires management to make estimates and assumptions about future events that affect the amounts reported in
+the Company's consolidated financial statements and accompanying notes. On an ongoing basis, management
+evaluates and periodically adjusts its estimates and assumptions, based on historical experience, the impact of the
+current economic environment, and other key factors. Volatile energy markets, as well as changes in consumer
+spending have increased the inherent uncertainty in such estimates and assumptions. As future events and their
+effects cannot be determined with precision, actual results could differ significantly from these estimates. Significant
+items subject to such estimates and assumptions include:
+- carrying amount of property and equipment, intangibles, and goodwill;
+o valuation allowances for receivables, inventories, and deferred income tax assets;
+- valuation of financial instruments;
+~ calculation of stock-based compensation;
+~ estimates of claims accruals;
+~ leases,and
+~ contingent obligations.
+88

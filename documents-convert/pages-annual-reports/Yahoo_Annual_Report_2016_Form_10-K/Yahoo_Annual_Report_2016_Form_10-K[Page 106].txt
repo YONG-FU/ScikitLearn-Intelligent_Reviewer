@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+Capitalized Software and Labor. The Company capitalized certain software and labor costs totaling approximately $85 million, $31 million, and $25 million
+during 2014, 2015, and 2016, respectively. The Company capitalizes eligible costs to acquire or develop internal-use software that are incurred subsequent to
+the preliminary project stage through the development stage. The estimated useful life of costs capitalized is evaluated for each speciﬁc project and ranges from
+one to three years. Actual economic lives may differ from estimated useful lives. Periodic reviews could result in a change in estimated useful lives and therefore
+amortization expense in future periods. During 2014, 2015, and 2016, the amortization of capitalized costs totaled approximately $161 million, $144 million, and
+$85 million, respectively. Capitalized software and labor costs are included in property and equipment, net. Included in the capitalized amounts above are
+$12 million, $5 million, and $4 million, respectively, of stock—based compensation expense in the years ended December 31, 2014, 2015, and 2016.
+Goodwill. Goodwill represents the excess of the purchase price over the fair value of the net tangible and intangible assets acquired in a business
+combination. Goodwill is not amortized, but is tested for impairment on an annual basis and more frequently if impairment indicators are present. The Company’s
+reporting units are one level below the operating segments level. The reporting unit’s carrying value is compared to its fair value. The estimated fair values of the
+reporting units are determined using either the market approach, income approach or a combination of the market and income approach. Goodwill is considered
+impaired if the carrying value of the reporting unit exceeds its estimated fair value. The income approach uses expected future operating results and failure to
+achieve these expected results may cause a future impairment of goodwill at the reporting unit. If the carrying value of the reporting unit exceeds its estimated
+fair value, the second step of the goodwill impairment test is performed by comparing the carrying value of the goodwill in the reporting unit to its implied fair
+value. The implied fair value is calculated by allocating all of the assets and liabilities of the reporting unit, including any unrecognized intangible assets, in a
+hypothetical analysis that calculates the implied fair value of goodwill in the same manner as if the reporting unit was being acquired in a business combination.
+An impairment charge is recognized for the excess of the carrying value of goodwill over its implied estimated fair value. The Company conducted its annual
+goodwill impairment test as of October 31, 2016. See Note 5—“Goodwill” for results of the goodwill impairment test.
+Intangible Assets. Deﬁnite-lived intangible assets are carried at cost and are amortized over their estimated useful lives, generally on a straight-line basis
+over one to seven years as the pattern of use is ratable. The Company reviews identiﬁable amortizable intangible assets to be held and used for impairment
+whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. Determination of recoverability is based on
+the lowest level of identiﬁable estimated undiscounted cash ﬂows resulting from use of the asset and its eventual disposition. Intangible assets with indefinite
+useful lives are not amortized but are reviewed for impairment whenever events or changes in circumstances indicate that it is more likely than not that the fair
+value is less than its carrying amount. If the Company determines that an intangible asset with an indeﬁnite life is more likely than not impaired, a quantitative
+test comparing the fair value of the indeﬁnite-lived purchased intangible asset with its carrying amount is performed. The Company estimates the fair value of
+indeﬁnite-lived purchased intangible assets using an income approach. Measurement of any impairment losses on both deﬁnite-lived and indeﬁnite-lived
+intangible assets are based on the excess of the carrying value of the asset over its fair value. See Note 6—“lntangible Assets, Net” for additional information.
+Originally Developed Content and Acquired Content. Originally developed content and acquired content are both carried at cost. Originally developed
+content is amortized based on the expected pattern of viewing. Acquired content is amortized on a straight-line basis over the shorter of each program’s
+contractual window of availability or estimated period of use, beginning with the month of ﬁrst availability. Marketing and general and administrative costs are
+expensed as incurred.
+105

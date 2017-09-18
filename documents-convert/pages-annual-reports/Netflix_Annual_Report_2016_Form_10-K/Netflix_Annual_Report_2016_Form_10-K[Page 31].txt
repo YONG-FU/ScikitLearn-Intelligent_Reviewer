@@ -1,0 +1,40 @@
+Table of Contents
+(3) Lease obligations include lease financing obligations of $18.5 million related to our current Los Gatos, California headquarters for which we are the deemed
+owner for accounting purposes, commitments of $530.2 million for our expanded headquarters in Los Gatos, California, and our new office space in Los
+Angeles, California and other commitments of $92.1 million for facilities under non-cancelable operating leases. These leases have expiration dates varying
+through approximately 2027.
+(4) Other purchase obligations include all other non-cancelable contractual obligations. These contracts are primarily related to streaming delivery, DVD
+content acquisition, and miscellaneous open purchase orders for which we have not received the related services or goods.
+As of December 31, 2016 , we had gross unrecognized tax benefits of $19.7 million which was classiﬁed in “Other non-current liabilities” and a reduction to
+deferred tax assets which was classiﬁed as "Other non-current assets" in the consolidated balance sheets. At this time, an estimate of the range of reasonably
+possible adjustments to the balance of unrecognized tax benefits cannot be made.
+OﬁCBalan ce Sheet Arrangements
+We do not have transactions with unconsolidated entities, such as entities often referred to as structured finance or special purpose entities, whereby we have
+ﬁnancial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose us to material continuing risks,
+contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides ﬁnancing, liquidity, market risk, or credit risk
+support to us.
+Indemniﬁcations
+The information set forth under Note 6 to the consolidated ﬁnancial statements under the caption “Indemnification” is incorporated herein by reference.
+Critical Accounting Policies and Estimates
+The preparation of consolidated ﬁnancial statements in conformity with accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date
+of the ﬁnancial statements, and the reported amounts of revenues and expenses during the reported periods. The Securities and Exchange Commission ("SEC") has
+defined a company’s critical accounting policies as the ones that are most important to the portrayal of a company’s ﬁnancial condition and results of operations,
+and which require a company to make its most difﬁcult and subjective judgments. Based on this definition, we have identified the critical accounting policies and
+judgments addressed below. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the
+circumstances. Actual results may differ from these estimates.
+Streaming Content
+We acquire, license and produce content, including original programing, in order to offer our members unlimited viewing of TV shows and ﬁlms. The content
+licenses are for a fixed fee and speciﬁc windows of availability. Payment terms for certain content licenses and the production of content require more upfront cash
+payments relative to the amortization expense. Payments for content, including additions to streaming assets and the changes in related liabilities, are classiﬁed
+within "Net cash used in (provided by) operating activities" on the Consolidated Statements of Cash Flows.
+For licenses we capitalize the fee per title and record a corresponding liability at the gross amount of the liability when the license period begins, the cost of
+the title is known and the title is accepted and available for streaming. The portion available for streaming within one year is recognized as “Current content assets,
+net” and the remaining portion as “Non-current content assets, net” on the Consolidated Balance Sheets.
+For productions, we capitalize costs associated with the production, including development cost and direct costs. We include these amounts in "Non-current
+content assets, net" on the Consolidated Balance Sheets. Participations and residuals are expensed in line with the amortization of production costs.
+Based on factors including historical and estimated viewing patterns, we amortize the content assets (licensed and produced) in “Cost of revenues” on the
+Consolidated Statements of Operations, over the shorter of each title's contractual window of availability or estimated period of use, beginning with the month of
+ﬁrst availability. The amortization period typically ranges from six months to ﬁve years. For content where we expect more upfront viewing, for instance due to
+additional merchandising and marketing efforts, we amortize on an accelerated basis. We review factors that impact the
+28

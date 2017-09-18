@@ -1,0 +1,44 @@
+Iablre,of,C,ontents
+services that could be exploited by hackers or others. We may also inherit unknown security vulnerabilities when we integrate the products or services of other
+companies into VMware products or services. Actual or perceived errors, defects or security vulnerabilities in our products or services could harm our reputation
+and lead some customers to return products or services, reduce or delay future purchases or use competitive products or services.
+Failure to effectively manage our product and service lifecycles could harm our business.
+As part of the natural lifecycle of our products and services, we periodically inform customers that products or services will be reaching their end of life or end
+of availability and will no longer be supported or receive updates and security patches. To the extent these products or services remain subject to a service contract
+with the customer, we offer to transition the customer to alternative products or services. Failure to effectively manage our product and service lifecycles could
+lead to customer dissatisfaction and contractual liabilities, which could adversely affect our business and operating results.
+Our success depends on the interoperability of our products and services with those of other companies.
+The success of our products depends upon the cooperation of hardware and software vendors to ensure interoperability with our products and offer compatible
+products and services to end users. In addition, we intend to extend the functionality of various products to work with native public cloud applications, which may
+require the cooperation of public cloud vendors. To the extent that hardware, software and public cloud vendors perceive that their products and services compete
+with ours or those of our controlling stockholder, Dell, which completed its acquisition of EMC in September 2016, they may have an incentive to withhold their
+cooperation, decline to share access or sell to us their proprietary APIs, protocols or formats, or engage in practices to actively limit the functionality, compatibility
+and certification of our products. In addition, vendors may fail to certify or support or continue to certify or support our products for their systems. If any of the
+foregoing occurs, our product development efforts may be delayed or foreclosed and it may be difficult and more costly for us to achieve functionality and service
+levels that would make our services attractive to end users, any of which could negatively impact our business and operating results.
+Disruptions to our distribution channels could harm our business.
+Our future success is highly dependent on our relationships with distributors, resellers, system vendors and systems integrators, which account for a significant
+portion of our revenue. Recruiting and retaining qualified channel partners and training them in the use of our technology and product offerings requires significant
+time and resources. Our failure to maintain good relationships with channel partners would likely lead to a loss of end users of our products and services, which
+would adversely affect our revenue. We generally do not have long-term contracts or minimum purchase commitments with our distributors, resellers, system
+vendors and systems integrators, and our contracts with these channel partners do not prohibit them from offering products or services that compete with ours.
+Three of our distributors each accounted for 10% or more of our consolidated revenue during the year ended December 31, 2016 . Although we believe that
+we have in place, or would have in place by the date of any such termination, agreements with replacement distributors sufficient to maintain our revenue from
+distribution, if we were to lose the distribution services of a signiﬁcant distributor, such loss could have a negative impact on our operating results until such time
+as we arrange to replace these distribution services with the services of existing or new distributors.
+Our vCloud Air and SaaS offerings rely on third-party providers for data center space and colocation services.
+Our vCloud Air and SaaS offerings rely upon third-party providers to supply data center space, equipment maintenance and other colocation services.
+Although we have entered into various agreements for the lease of data center space, equipment maintenance and other services, third parties could fail to live up to
+the contractual obligations under those agreements. The failure of a third-party provider to prevent service disruptions, data losses or security breaches may require
+us to issue credits or refunds or indemnify or otherwise be liable to customers or third parties for damages that may occur. Additionally, if these third-party
+providers fail to deliver on their obligations, our reputation could be damaged, our customers could lose confidence in us and our ability to maintain and expand
+our vCloud Air and SaaS offerings would be impaired.
+Joint ventures may not yield expected beneﬁts and outcomes.
+As we expand our offerings into new technologies such as the public cloud and seek more efficient methods of marketing our products and services in regions
+where local partners can operate more easily, we sometimes rely upon joint ventures with established providers of IT products and services in particular regions,
+for example as go-to-market and channel partners. Joint ventures are inherently risky and the requirements for close ongoing cooperation and commitments from
+the joint venture partners to devote adequate resources often present significant challenges. Joint ventures can also be difficult to manage, given the potentially
+different interests of joint venture partners. Accordingly, there can be no guarantee that our joint ventures will achieve their intended objectives. If we are unable to
+continue our strategic alignment with joint venture partners or obtain the cooperation and commitments we are relying upon, our ability to successfully expand our
+offerings globally and in certain regions may diminish.
+20

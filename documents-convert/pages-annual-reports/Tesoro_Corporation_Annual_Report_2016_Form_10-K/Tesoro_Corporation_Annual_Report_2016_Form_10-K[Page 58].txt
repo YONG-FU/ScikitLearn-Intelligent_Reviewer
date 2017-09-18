@@ -1,0 +1,43 @@
+l
+PENSION FUNDING
+We provide a qualiﬁed deﬁned beneﬁt retirement plan for all eligible employees, with beneﬁts based age and compensation. Our long-term expected return
+on plan assets is 6.50% as of December 31, 2016, and the actual return on our funded employee pension plan assets was a $30 million, or 7.1%, gain in 2016
+and a $15 million, or 3.8%, loss in 2015. Based on a 4.12% discount rate and fair values of plan assets as of December 31, 2016, the assets in our funded
+employee pension plan were equal to approximately 54% of the projected beneﬁt obligation. For funding purposes, the Moving Ahead for Progress in the let
+Century Act, as signed into law in July 2012 and later modiﬁed by the Bipartisan Budget Act of 2015 (“BBA”) stipulates that the discount rate must remain within
+a speciﬁed corridor of a 25-year average corporate bond rate, with such corridor widening from 10% to 30% between 2012 and 2024. On the BBA basis, the
+adjusted funding target attainment percentage (a funding status measure deﬁned under applicable pension funding regulations) was 101% at January 1, 2016.
+Although our funded employee retirement plan fully meets all of the funding requirements under applicable laws and regulations, we contributed $60 million
+during 2016 to improve the plan’s funded status. Future contributions are affected by returns on plan assets, discount rates, employee demographics, regulatory
+environments and other factors. See Note 14 to our consolidated financial statements in Item 8 for additional information on our benefit plans.
+ACCOUNTING STANDARDS
+CRITICAL ACCOUNTING POLICIES
+Our signiﬁcant accounting policies are described in Note 1 to our consolidated ﬁnancial statements in Item 8. We prepare our consolidated ﬁnancial
+statements in conformity with US. GAAP, which require us to make estimates and assumptions about future events that affect the amounts reported in the
+consolidated ﬁnancial statements and accompanying footnotes. Actual results could differ from those estimates. For additional information concerning certain
+estimates and assumptions, see the respective footnotes to our consolidated ﬁnancial statements in Item 8. We believe that the following discussion addresses
+our most critical accounting policies, which are those that are most important to the portrayal of our ﬁnancial condition and results of operations and require
+management’s most difficult, subjective and complex judgments.
+IMPAIRMENT OF LONG-LIVED ASSE‘dSﬁg-lived assets (which include property, plant, and equipment, intangible assets with deﬁned useful lives, deferred
+reﬁnery turnaround and catalyst costs) are evaluated for potential impairment when an asset disposition is probable or when there are indicators of impairment
+(for example, current period operating losses combined with a history of operating losses or a temporary shutdown of a reﬁnery) and, if so, assessing whether
+the asset net book values are recoverable from estimated future undiscounted cash ﬂows. The actual amount of an impairment loss to be recorded, if any, is
+equal to the amount by which the asset’s net book value exceeds its fair market value. Fair market value is based on the present values of estimated future cash
+flows in the absence of quoted market prices. Estimates of future cash ﬂows and fair market values of assets require subjective assumptions with regard to
+several factors, including an assessment of global market conditions, future operating results and forecasts of the remaining useful lives of the assets. Actual
+results could differ from those estimates. Providing sensitivity analysis if other assumptions were used in performing the impairment evaluations is not
+practicable due to the significant number of assumptions involved in the estimates.
+GOODWILL AND OTHER IDENTIFIED INTANGIBLE ASSETS WITH IN DEFINITCEobMEHJepresents the excess of the consideration paid over the fair
+value of the net assets acquired in a business combination. Goodwill acquired in a business combination is not amortized, but instead tested for impairment at
+least annually or more frequently should an event occur or circumstances indicate that the carrying amount may be impaired. Such events or circumstances may
+be a signiﬁcant change in business climate, economic and industry trends, legal factors, negative operating performance indicators, signiﬁcant competition,
+changes in strategy, or disposition of a reporting unit or a portion thereof. Goodwill impairment testing is performed at the reporting unit level on November 1
+of each year and when circumstances change that might indicate impairment.
+We test goodwill for impairment by performing an optional qualitative assessment process and/or using a two-step quantitative assessment process. If we
+choose to perform a qualitative assessment process and determine it is more likely than not (that is, a likelihood of more than 50 percent) that the carrying value
+of the net assets is more than the fair value of the reporting unit, the two-step quantitative assessment process is then performed; otherwise, no further testing is
+required. We may elect not to perform the qualitative assessment process and, instead, proceed directly to the two-step quantitative assessment process. For
+reporting units where the two-step quantitative assessment process is performed, the ﬁrst step involves comparing the carrying value of net assets, including
+goodwill, to the fair value of the reporting unit. If the fair value exceeds its carrying amount, goodwill is not considered impaired and the second step of the
+process is unnecessary. If the carrying amount of a reporting unit’s goodwill exceeds its fair value, the second step measures the impairment loss, if any.
+December 31, 2016 | 55

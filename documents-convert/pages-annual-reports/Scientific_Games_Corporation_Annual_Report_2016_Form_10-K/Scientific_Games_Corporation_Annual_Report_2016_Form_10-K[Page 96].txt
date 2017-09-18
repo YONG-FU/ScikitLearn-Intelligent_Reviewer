@@ -1,0 +1,42 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+Assets held for sale
+As of December 31, 2016 and 2015, we had $6.5 million and $16.7 million of assets held for sale, respectively. These
+assets held for sale are included within Prepaid expenses, deposits and other current assets and are reported at the lower of the
+carrying value or fair market value, less expected costs to sell.
+We measured the fair value of assets held for sale under a market approach and have categorized such measurements
+as Level 3 in the fair value hierarchy.
+(12) Software, net
+We capitalize direct costs of services used in the development of internal-use software. Amounts capitalized are
+amortized over a period of two to ten years on a straight-line basis.
+We purchase, license and incur costs to develop external use software to be used in the products we sell or provide to
+customers. Costs incurred in creating software are expensed when incurred as R&D until technological feasibility has been
+established, after which costs are capitalized up to the date the software is available for general release to customers. Generally,
+the software we develop reaches technological feasibility when a working model of the software is available. We capitalize the
+payments made for software that we purchase or license for use in our products that has previously met the technological
+feasibility criteria prior to our purchase or license. Amortization of capitalized software costs is recorded over the estimated
+economic life, which is typically eight to ten years.
+For our game themes, we have determined that such products reach technological feasibility when internal testing is
+complete and the product is ready to be submitted to gaming regulators for approval. We incur and capitalize regulatory
+approval costs for our game themes after technological feasibility is achieved. Amortization of regulatory approval costs is
+recorded over the estimated economic life, which is typically two to four years.
+Software, net consisted of the following:
+7 As of December 31, 7
+k f 2016 2015 i
+1 Software 8 924.8 s 854.2 1
+Accumulated amortization (515.7) (368.3)
+1 Software, net $ 409.1 _$ 485.9 1
+In the years ended December 31, 2016 and 2015, we capitalized $74.4 million and $70.9 million, respectively, of
+software.
+The following reﬂects amortization of software included within D&A:
+7 Year Ended December 31, 7
+7 2016 2015 2014 7
+1 Amortization expense $ 158.9 $ 174.4 $ 91.9 1
+(13) Equity Investments
+We account for our equity investments where we own a non-controlling interest, but exercise significant inﬂuence,
+under the equity method of accounting. Under the equity method of accounting, our original cost of the investment is adjusted
+for our share of equity in the earnings of the equity investee and reduced by dividends and distributions of capital received.
+We evaluate our investments in unconsolidated affiliates for impairment whenever events or changes in circumstances
+indicate that the carrying value of the investment may have experienced an "other-than-temporary" decline in value. If such
+96

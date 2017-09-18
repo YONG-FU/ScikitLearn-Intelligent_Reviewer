@@ -1,0 +1,42 @@
+Use of Non- GAAP Financial Measures
+In addition to reporting financial results in accordance with US. GAAP, the Company provides certain financial measures
+that are not in accordance with US. GAAP (Non-GAAP). These Non-GAAP financial measures have certain limitations in that
+they do not have a standardized meaning and thus the Company's definition may be different from similar Non-GAAP financial
+measures used by other companies and/or analysts and may differ from period to period. Thus it may be more difficult to
+compare the Company's financial performance to that of other companies. However, the Company's management compensates
+for these limitations by providing the relevant disclosure of the items excluded in the calculation of these Non-GAAP financial
+measures both in its reconciliation to the US. GAAP financial measures and its Consolidated Financial Statements, all of
+which should be considered when evaluating the Company's results.
+The Company uses these Non-GAAP financial measures to supplement the information provided in its Consolidated
+Financial Statements, which are presented in accordance with US. GAAP. The presentation of Non-GAAP financial measures
+are not meant to be a substitute for financial measures presented in accordance with US. GAAP, but rather should be evaluated
+in conjunction with and as a supplement to such US. GAAP measures. OpenText strongly encourages investors to review its
+financial information in its entirety and not to rely on a single financial measure. The Company therefore believes that despite
+these limitations, it is apprOpriate to supplement the disclosure of the US. GAAP measures with certain Non-GAAP measures
+defined below.
+Non-GAAP-based net income and Non-GAAP-based EPS are calculated as net income or earnings per share on a diluted
+basis, excluding the amortization of acquired intangible assets, other income (expense), share-based compensation, and Special
+charges (recoveries), all net of tax. Non-GAAP-based gross profit is the arithmetical sum of GAAP-based gross profit and the
+amortization of acquired technology-based intangible assets and share-based compensation within cost of sales. Non-GAAP-
+based gross margin is calculated as Non-GAAP-based gross profit expressed as a percentage of total revenue. Non-GAAP-
+based income from operations is calculated as income from operations, excluding the amortization of acquired intangible
+assets, Special charges (recoveries), and share-based compensation expense. Non-GAAP-based operating margin is calculated
+as Non-GAAP-based income from operations expressed as a percentage of total revenue.
+The Company's management believes that the presentation of the above defined Non-GAAP financial measures provides
+useful information to investors because they portray the financial results of the Company before the impact of certain non-
+operational charges. The use of the term “non-operational charge” is defined for this purpose as an expense that does not impact
+the ongoing operating decisions taken by the Company's management and is based upon the way the Company's management
+evaluates the performance of the Company's business for use in the Company's internal reports. In the course of such evaluation
+and for the purpose of making operating decisions, the Company's management excludes certain items from its analysis,
+including amortization of acquired intangible assets, Special charges (recoveries), share-based compensation, other income
+(expense), and the taxation impact of these items. These items are excluded based upon the manner in which management
+evaluates the business of the Company and are not excluded in the sense that they may be used under US. GAAP.
+The Company believes the provision of supplemental Non-GAAP measures allow investors to evaluate the operational
+and financial performance of the Company's core business using the same evaluation measures that management uses, and is
+therefore a useful indication of OpenText's performance or expected performance of future operations and facilitates period-to-
+period comparison of operating performance (although prior performance is not necessarily indicative of future performance).
+As a result, the Company considers it appropriate and reasonable to provide, in addition to US. GAAP measures,
+supplementary Non-GAAP financial measures that exclude certain items from the presentation of its financial results.
+The following charts provide unaudited reconciliations of US. GAAP-based financial measures to Non-GAAP-based
+financial measures for the following periods presented:
+53

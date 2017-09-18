@@ -1,0 +1,50 @@
+In March 2016, the Financial Accounting Standards Board issued Accounting Standards Update 2016-09, Compensation-
+Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting, (ASU 2016-09). The
+standard is intended to simplify several areas of accounting for share-based compensation arrangements, including the income
+tax impact, classiﬁcation on the statement of cash ﬂows and forfeitures. The new standard eliminates the accounting for excess
+tax beneﬁts to be recognized in equity, and tax deﬁciencies recognized in either equity or the income tax provision. ASU
+2016-09 is effective for annual and interim reporting periods beginning after December 15, 2016. The Company will adopt the
+new standard in the ﬁrst quarter of 2017. Upon adoption, the Company anticipates recognizing deferred tax assets for all excess
+tax beneﬁts that had not been previously recognized. This will be accomplished through a cumulative-effect adjustment to
+retained earnings and is not expected to have a material impact to the consolidated ﬁnancial statements.
+Note 2. ACQUISITIONS AND SALES OF BUSINESSES
+Acquisition of Ephesus Lighting, Inc.
+On October 28, 2015, Eaton acquired Ephesus Lighting, Inc. (Ephesus). Ephesus is a leader in LED lighting for stadiums
+and other high lumen outdoor and industrial applications. Its sales for the 12 months ended September 30, 2015 were $23.
+Ephesus is reported within the Electrical Products business segment.
+Acquisition of UK Safety Technology Manufacturer Oxalis Group Ltd.
+On January 12, 2015, Eaton acquired Oxalis Group Ltd. (Oxalis). Oxalis is a manufacturer of closed-circuit television
+camera stations, public address and general alarm systems and other electrical products for the hazardous area, marine and
+industrial communications markets. Its sales for the 12 months ended December 31, 2014 were $9. Oxalis is reported within the
+Electrical Systems and Services business segment.
+Sale of Aerospace Power Distribution Management Solutions and Integrated Cockpit Solutions
+On May 9, 2014, Eaton sold the Aerospace Power Distribution Management Solutions and Integrated Cockpit Solutions
+businesses to Safran for $270, which resulted in a pre-tax gain of $154.
+Note 3. ACQUISITION INTEGRATION CHARGES
+Eaton incurs integration charges related to acquired businesses. A summary of these charges follows:
+2016 2015 2014
+[Electrical Products $ 3 $ 25 $ 66 J
+Electrical Systems and Services 1 15 51
+[Hydraulics 7 7 7 2 7 7 12 1
+Total business segments 4 42 129
+[Corporate 7 5 T 25 1
+Total acquisition integration charges before income taxes 4 47 154
+[Income taxes 7 1 7 7 167 7 521
+Total after income taxes 7$ 3 r r$ 31 7 r$ 102 7
+[Per ordinary share - diluted 7$ 0.01 7 7$ 0.07 7 7$ 0.21 J
+Business segment acquisition integration charges in 2016 related to the integration of Ephesus Lighting, Inc. and Oxalis
+Group Ltd., which were acquired in 2015. The charges associated with Ephesus were included in Cost of products sold and
+Selling and administrative expense, while the charges associated with Oxalis were included in Cost of products sold. Business
+segment acquisition charges in 2015 related primarily to the integration of Cooper Industries plc, which was acquired in 2012.
+Business segment acquisition integration charges in 2014 related primarily to the integrations of Cooper and Polimer Kaucuk
+Sanayi ve Pazarlama A.S., which was acquired in 2012. The charges in 2015 and 2014 were included in Cost of products sold
+or Selling and administrative expense, as appropriate. In Business Segment Information, the charges reduced Operating proﬁt
+of the related business segment.
+The integration of Cooper included costs related to restructuring activities Eaton undertook in an effort to gain efﬁciencies
+in selling, marketing, traditional back-ofﬁce functions and manufacturing and distribution. These actions resulted in charges of
+$20 during 2015, comprised of severance costs and other expense totaling $1 and $19, respectively, of which $14 were incurred
+in the Electrical Products segment, and $6 were incurred in the Electrical Systems and Services segment. In 2014, we incurred
+$95 of charges related to Cooper restructuring activities, comprised of severance costs totaling $69 and other expenses totaling
+$26, of which $53 and $42 were recognized in the Electrical Products and Electrical Systems and Services business segments,
+respectively.
+25

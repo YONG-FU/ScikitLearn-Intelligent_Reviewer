@@ -1,0 +1,62 @@
+salesforce.com, inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+7 Fiscal Year Ended January 31, 7
+7 2016 7 7 2015 7 7 2014 7
+Operating activities:
+$ (47,426) $(262,688) $(232,175)
+Adjustments to reconcile net loss to net cash provided by operating activities:
+Depreciationandamortization................................................. 525,750 448,296 369,423
+Amortization of debt discount and transaction costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27,467 39,620 49,582
+Gain on sales of land and building improvements .................................. (21,792) (15,625) 0
+50Fremontleasetermination.................................................. (36,617) 0 0
+Lossonconversionsofconvertibleseniornotes.................................... 0 10,326 214
+Amortizationofdeferredcommissions........................................... 319,074 257,642 194,553
+Expenses related to employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 593,628 564,765 503,280
+Excess tax benefits from employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (59,496) (7,730) (8,144)
+Changes in assets and liabilities, net of business combinations:
+Accountsreceivable,net.................................................. (582,425) (544,610) (424,702)
+Deferredcommissions.................................................... (380,022) (320,904) (265,080)
+Prepaid expenses and other current assets and other assets . . . . . . . . . . . . . . . . . . . . . . . 50,772 45,819 105,218
+Accounts payable, accrued expenses and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . 253,986 159,973 (29,043)
+Deferredrevenue........................................................ 969,686 798,830 612,343
+Net cash provided by operating activities ..................................... 1,612,585 1,173,714 875,469
+Investing activities:
+Business combinations, net ofcash acquired .......................................... (58,680) 38,071 (2,617,302)
+Proceeds from land and building improvements held for sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127,066 223,240 0
+PurchaseofSOFremontlandandbuilding............................................ (425,376) 0 0
+Deposit and withdrawal for purchase of 50 Fremont land and building . . . . . . . . . . . . . . . . . . . . . . 115,015 (126,435) 0
+Non-refundable amounts received for sale of land and building . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,284 0 0
+Strategicinvestments............................................................. (366,519) (93,725) (31,160)
+Purchasesofmarketablesecurities (1,139,267) (780,540) (558,703)
+Salesofmarketablesecurities...................................................... 500,264 243,845 1,038,284
+Maturitiesofmarketablesecurities.................................................. 37,811 87,638 36,436
+Capitalexpenditures............................................................. (284,476) (290,454) (299,110)
+Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (1,487,878) (698,360) (2,431,555)
+Financing activities:
+Proceeds from borrowings on convertible senior notes, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 0 1,132,750
+Proceedsfromissuanceofwarrants................................................. 0 0 84,800
+Purchaseofconvertiblenotehedge.................................................. 0 0 (153,800)
+Proceeds from (payments on) revolving credit facility, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (300,000) 297,325 0
+Proceedsfrom(paymentson)termloan,net........................................... 0 (285,000) 283,500
+Proceedsfromemployeestockplans................................................ 455,482 308,989 289,931
+Excesstaxbenefitsfromemployeestockplans 59,496 7,730 8,144
+Paymentsonconvertibleseniornotes................................................ 0 (568,862) (5,992)
+Principal payments on capital lease obligations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (82,330) (70,663) (41,099)
+Net cash provided by (used in) financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132,648 (310,481) 1,598,234
+Effectofexchangeratechanges................................................... (7,109) (38,391) (7,758)
+Netincreaseincashandcashequivalents........................................... 250,246 126,482 34,390
+Cash and cash equivalents, beginning ofperiod...................................... 908,117 781,635 747,245
+Cashandcashequivalents,endofperiod........................................... $1,158,363 $ 908,117 $ 781,635
+Supplemental cash ﬂow disclosure:
+Cash paid during the period for:
+$ 37,954 $ 24,684 $ 21,503
+Incometaxes,netoftaxrefunds................................................ $ 31,462 $ 36,219 $ 28,870
+Non-cash ﬁnancing and investing activities:
+Fixed assets acquired under capital leases ........................................ $ 12,948 $ 124,099 $ 492,810
+Building in progress—leased facility acquired under ﬁnancing obligation . . . . . . . . . . . . . . . $ 77,057 $ 85,118 $ 40,171
+Fairvalueofequityawardsassumed............................................ $ 0 $ 1,050 $ 19,037
+Fair value of common stock issued as consideration for business combinations . . . . . . . . . . . $ 0 $ 338,033 $ 69,533
+Fairvalueofloanassumedon50Fremont........................................ $ 198,751 $ 0 $ 0
+See accompanying Notes.
+79

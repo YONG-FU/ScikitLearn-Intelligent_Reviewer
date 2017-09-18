@@ -1,0 +1,43 @@
+Article Four
+SATISFACTION AND DISCHARGE
+SECTION 401. Option to Effect Legal Defeasance or Covenant Defeasance.
+The Company may, at the option of its Board of Directors evidenced by a Board Resolution, at any time, with respect to the Securities of any series, unless
+otherwise speciﬁed pursuant to Section 301 with respect to a particular series of Securities, elect to have either Section 402 or 403 be applied to all of the
+Outstanding Securities of that series upon compliance with the conditions set forth below in this Article Four.
+SECTION 402. Legal Defeasance and Discharge.
+Upon the Company’s exercise under Section 401 of the option applicable to this Section 402, the Company shall be deemed to have been discharged from its
+obligations with respect to all Outstanding Securities of the particular series on the date the conditions set forth below are satisﬁed (hereinafter, “Legal
+Defeasance”). For this purpose, such Legal Defeasance means that the Company shall be deemed to have paid and discharged all the obligations relating to the
+Outstanding Securities of that series and the Securities of that series shall thereafter be deemed to be “outstanding” only for the purposes of Section 406,
+Section 408 and the other Sections of this Indenture referred to below in this Section 402, and to have satisﬁed all of its other obligations under such Securities and
+this Indenture and cured all then existing Events of Default (and the Trustee, on demand of and at the expense of the Company, shall execute proper instruments
+acknowledging the same), except for the following which shall survive until otherwise terminated or discharged hereunder: (a) the rights of Holders of outstanding
+Securities of the particular series to receive payments in reSpect of principal of, and premium, if any, and interest, if any, on such Securities when such payments are
+due or on the Redemption Date solely out of the trust created pursuant to this Indenture, (b) the Company’s obligations with respect to such Securities concerning
+issuing temporary Securities of that series, or, where relevant, registration of such Securities, mutilated, destroyed, lost or stolen Securities of that series and the
+maintenance of an office or agency for payment and money for Security payments held in trust; (0) the rights, powers, trusts, duties and immunities of the Trustee
+for the Securities of that series, and the Company’s obligations in connection therewith; and (d) this Article Four and the obligations set forth in Section 406 hereof.
+Subject to compliance with this Article Four, the Company may exercise its option under Section 402 notwithstanding the prior exercise of its option under
+Section 403 with respect to the Securities of a particular series.
+SECTION 403. Covenant Defeasance.
+Upon the Company’s exercise under Section 401 of the option applicable to this Section 403, the Company shall be released from any obligations under the
+covenants contained in Sections 704, 801, 1007 and 1008 hereof with respect to the Outstanding Securities of the particular series on and after the date the
+conditions set forth below are satisfied (hereinafter, “Covenant Defeasance”), and the Securities of that series shall thereafter be deemed not “Outstanding” for the
+purposes of any direction, waiver, consent or declaration or act of Holders (and the consequences of any thereof) in connection with such covenants, but shall
+continue to be deemed “Outstanding” for all other purposes hereunder (it being understood that such Securities shall not be deemed outstanding for accounting
+purposes). For this purpose, such Covenant Defeasance means that, with respect to the Outstanding Securities of that series, the Company may omit to comply with
+and shall have no liability in respect of any term, condition or limitation set forth in any such covenant, whether directly or indirectly, by reason of any reference
+elsewhere herein to any such covenant or by reason of any reference in any such covenant to any other provision herein or in any other document and such omission
+to comply shall not constitute a default or Event of Default under subsection 501(3) but, except as speciﬁed above, the remainder of this Indenture and the
+Securities of that series shall be unaffected thereby.
+SECTION 404. Conditions to Legal or Covenant Defeasance.
+The following shall be the conditions to the application of either Section 402 or Section 403 to the outstanding Securities of a particular series:
+(a) the Company must irrevocably deposit, or cause to be irrevocably deposited, with the Trustee for the Securities of that series, in trust, for the
+beneﬁt of the Holders of the Securities of that series, cash in the currency or currency unit in which the Securities of that series are payable (except as otherwise
+speciﬁed pursuant to Section 301 for the Securities of that series and except as provided in Sections 311(b) and 311(d), in which case the deposit to be made with
+reSpect to Securities for which an election has occurred pursuant to Section 311(b), or a Conversion Event has occurred as provided in Section 311(d), shall be
+made in the currency or currency unit in which the Securities of that series are payable as a result of such election or Conversion Event), Government Obligations or
+a combination thereof in such amounts as will be sufﬁcient, in the opinion of an internationally recognized ﬁrm of independent public accountants, to pay principal,
+and premium, if any, and interest, if any, due on the outstanding Securities of that series at the Stated Maturity, or on the applicable Redemption Date, as the case
+may be, with respect to the outstanding Securities of that series;
+22

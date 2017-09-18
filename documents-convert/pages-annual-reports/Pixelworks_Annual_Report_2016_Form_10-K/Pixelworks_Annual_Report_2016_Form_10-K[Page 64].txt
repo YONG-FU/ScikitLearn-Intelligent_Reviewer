@@ -1,0 +1,24 @@
+Stock-Based Compensation Expense
+The fair value of stock-based compensation was determined using the Black-Scholes option pricing model and the following weighted average assumptions:
+Year Ended December 31,
+2016 _ 2015 _ 2014
+’Stock Option Plans: ‘
+Risk free interest rate 1.37% 1.52% 1.64%
+1 Expected dividend yield 0% 0% 0%{
+Expected term (in years) 5.00 5.00 5.00
+] Volatility 74% 68% 73%
+Emp1_oyee Stock Purchase Plan:
+I Risk free interest rate 0.20% 0.28% 0.22%‘
+Expected dividend yield 0% 0% 0%
+I Expected term (in years) 1.12 1.10 1.02 ‘
+Volatility 84% 89% 82%
+The weighted average fair value of options granted during the years ended December 31, 2016, 2015 and 2014 was $1.41, $2.93 and $3 .50, respectively. The
+risk free interest rate is estimated using an average of treasury bill interest rates. The expected dividend yield is zero as we have not paid any dividends to
+date and do not expect to pay dividends in the future. Expected volatility is estimated based on the historical volatility of our common stock over the
+expected term as this represents our best estimate of future volatility. Subsequent to the May 2009 amendment of our 2006 Stock Incentive Plan, which
+shortened the contractual life of newly issued stock options from ten to six years, we have elected to use the "simpliﬁed method" to estimate expected term.
+Under the simpliﬁed method, an option's expected term is calculated as the average of its vesting period and original contractual life. The expected term of
+ESPP purchase rights is based on the estimated weighted average time to purchase.
+As of December 31, 2016, unrecognized stock-based compensation expense is $3,049, which is expected to be recognized as stock-based compensation
+expense over a weighted average period of 2.80 years.
+64

@@ -1,0 +1,54 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+24. Guarantor and Non-Guarantor Condensed Consolidating Financial Information (Continued)
+non-guarantor subsidiaries at February 27, 2016 and for the fiscal year ended February 27,
+2016. Separate financial statements for Subsidiary Guarantors are not presented.
+Rite Aid Corporation
+Condensed Consolidating Balance Sheet
+February 27, 2016
+Rite Aid
+Corporation Non-
+(Parent Subsidiary Guarantor
+Company Only) Guarantors Subsidiaries Eliminations Consolidated
+(in thousands)
+ASSETS
+Current assets:
+Cash and cash equivalents . . . . . . . . . . . $ — $ 90,569 $ 33,902 $ — $ 124,471
+Accounts receivable, net . . . . . . . . . . . . — 1,316,797 284,211 — 1,601,008
+Intercompany receivable . . . . . . . . . . . . — 224,220 — (224,220)(a) —
+Inventories, net of LIFO reserve of $0,
+$1,006,396, $0, $0, and $1,006,396 . . . . . — 2,697,104 — — 2,697,104
+Prepaid expenses and other current assets . — 121,684 6,460 — 128,144
+Total current assets . . . . . . . . . . . . . . — 4,450,374 324,573 (224,220) 4,550,727
+Property, plant and equipment, net . . . . . . . — 2,255,398 — — 2,255,398
+Goodwill — 1,713,475 — — 1,713,475
+Other intangibles, net . . . . . . . . . . . . . . . — 948,451 55,928 — 1,004,379
+Deferred taX assets . . . . . . . . . . . . . . . . . — 1,539,141 — — 1,539,141
+Investment in subsidiaries . . . . . . . . . . . . . 14,832,523 57,167 — (14,889,690)(b) —
+Intercompany receivable. . . . . . . . . . . . . . — 7,270,869 — (7,270,869)(a) —
+Other assets . . . . . . . . . . . . . . . . . . . . . — 207,821 6,069 — 213,890
+Total assets . . . . . . . . . . . . . . . . . . . $14,832,523 $18,442,696 $386,570 $(22,384,779) $11,277,010
+LIABILITIES AND STOCKHOLDERS’
+EQUITY
+Current liabilities:
+Current maturities of long-term debt and
+lease financing obligations. . . . . . . . . . $ 90 $ 26,758 $ — $ — $ 26,848
+Accounts payable. . . . . . . . . . . . . . . . . — 1,541,984 813 — 1,542,797
+Intercompany payable . . . . . . . . . . . . . . — — 224,220 (224,220)(a) —
+Accrued salaries, wages and other current
+liabilities. . . . . . . . . . . . . . . . . . . . . 65,743 1,274,074 87,433 — 1,427,250
+Total current liabilities . . . . . . . . . . . . 65,833 2,842,816 312,466 (224,220) 2,996,895
+Long—term debt, less current maturities . . . . 6,914,393 — — — 6,914,393
+Lease financing obligations, less current
+maturities..................... — 52,895 — — 52,895
+Intercompany payable . . . . . . . . . . . . . . . 7,270,869 — — (7,270,869)(a) —
+Other noncurrent liabilities . . . . . . . . . . . . — 714,462 16,937 — 731,399
+Total liabilities . . . . . . . . . . . . . . . . . 14,251,095 3,610,173 329,403 (7,495,089) 10,695,582
+Commitments and contingencies. . . . . . . . . — — — — —
+Total stockholders’ equity . . . . . . . . . . . . . 581,428 14,832,523 57,167 (14,889,690) 581,428
+Total liabilities and stockholders’ equity . $14,832,523 $18,442,696 $386,570 $(22,384,779) $11,277,010
+(a) Elimination of intercompany accounts receivable and accounts payable amounts.
+(b) Elimination of investments in consolidated subsidiaries.
+150

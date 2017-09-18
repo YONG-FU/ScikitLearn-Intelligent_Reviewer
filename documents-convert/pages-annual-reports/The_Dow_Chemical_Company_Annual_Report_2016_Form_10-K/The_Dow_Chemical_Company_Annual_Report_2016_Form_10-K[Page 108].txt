@@ -1,0 +1,51 @@
+The following tables provide the fair value and gross unrealized losses of the Company’s investments that were deemed to be
+temporarily impaired at December 31, 2016 and 2015, aggregated by investment category:
+Temporarily Impaired Securities at December 31, 2016 7
+7 Less than 12 months 7 7 12 months or more 7 7 Total 7
+Fair Unrealized Fair Unrealized Unrealized
+In millions Value Losses Value Losses Fall” Value Losses
+|Government debt (1) $ 351 $ (2) $ ; $ 7 7 $ 351 $ (2)
+Corporate bonds 193 (4) 16 (1) 209 (5)
+Equity securities 48 (6) 163 (44) 211 (50)?
+Total temporarily impaired securities $ 592 $ (22) $ 179 $ (45) $ 771 $ (67)
+(1) US. Treasury obligations, U.S. agency obligations, agency mortgage-backed securities and other municipalities’ obligations.
+Temporarily Impaired Securities at December 31, 2015 7
+7 Less than 12 months 7 7 12 months or more 7 7 Total 7
+7 Fair Unrealized 7 7 Fair Unrealized 7 7 Unrealized 7
+71B millions Value Losses Value Losses Fall” Value Losses
+[Government debt (1) $ 251 $ (7) $ 1 $ * * $ 252 $ (7)]
+Corporate bonds 175 (s) 1 e e 176 (§)
+lEqiuty securities 197 (54) 10 (g) 207 (60)]
+7Tota1 temporarily impaired securities $ 623 $ (69) $ 12 $ (6) $ 635 $ (75)
+(1) US. Treasury obligations, U.S. agency obligations, agency mortgage-backed securities and other municipalities’ obligations.
+Portfolio managers regularly review the Company ’s holdings to determine if any investments are other-than-temporarily
+impaired. The analysis includes reviewing the amount of the impairment, as well as the length of time it has been impaired. In
+addition, specific guidelines for each instrument type are followed to determine if an other-than-temporary impairment has
+occurred.
+For debt securities, the credit rating of the issuer, current credit rating trends, the trends of the issuer’s overall sector, the ability
+of the issuer to pay expected cash ﬂows and the length of time the security has been in a loss position are considered in
+determining whether unrealized losses represent an other-than-temporary impairment. The Company did not have any credit-
+related losses during 2016, 2015 or 2014.
+For equity securities, the Company’s investments are primarily in Standard & Poor’s (“S&P”) 500 companies; however, the
+Company’s policies allow investments in companies outside of the S&P 500. The largest holdings are Exchange Traded Funds
+that represent the S&P 500 index or an S&P 500 sector or subset; the Company also has holdings in Exchange Traded Funds
+that represent emerging markets. The Company considers the evidence to support the recovery of the cost basis of a security
+including volatility of the stock, the length of time the security has been in a loss position, value and growth expectations, and
+overall market and sector fundamentals, as well as technical analysis, in determining whether unrealized losses represent an
+other-than-temporary impairment. In 2016, there were no other-than-temporary impairment write-downs on investments still
+held by the Company ($2 million in 2015).
+The aggregate cost of the Company's cost method investments totaled $120 million at December 31, 2016 ($157 million at
+December 31, 2015). Due to the nature of these investments, either the cost basis approximates fair market value or fair value is
+not readily determinable. These investments are reviewed quarterly for impairment indicators. In 2016, a write-down of
+$4 million was recorded as part of the 2016 restructuring charge. In 2015, a write-down of $55 million was recorded as part of
+the 2015 restructuring charge. See Note 3 for more information on the Company's restructuring activities. The Company's
+impairment analysis resulted in no additional reductions in the cost basis of these investments for the year ended December 31,
+2016; the analysis in 2015 resulted in additional reductions of less than $1 million for the year ended December 31, 2015.
+Risk Management
+Dow’s business operations give rise to market risk exposure due to changes in interest rates, foreign currency exchange rates,
+commodity prices and other market factors such as equity prices. To manage such risks effectively, the Company enters into
+hedging transactions, pursuant to established guidelines and policies, which enable it to mitigate the adverse effects of financial
+market risk. Derivatives used for this purpose are designated as cash ﬂow, fair value or net foreign investment hedges where
+appropriate. Accounting guidance requires companies to recognize all derivative instruments as either assets or liabilities at fair
+value. A secondary objective is to add value by creating additional nonspecific exposures within established limits and policies;
+100

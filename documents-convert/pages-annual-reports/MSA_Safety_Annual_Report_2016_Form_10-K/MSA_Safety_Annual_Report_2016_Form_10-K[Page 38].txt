@@ -1,0 +1,52 @@
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+We prepare our consolidated financial statements in accordance with US. generally accepted accounting principles
+(GAAP). The preparation of these financial statements requires us to make estimates and judgments that affect the reported
+amounts of assets, liabilities, revenues and expenses and the related disclosures. We evaluate these estimates and judgments on
+an on-going basis based on historical experience and various assumptions that we believe to be reasonable under the
+circumstances. However, diﬁerent amounts could be reported if we had used diﬁerent assumptions and in light of different facts
+and circumstances. Actual amounts could differ from the estimates and judgments reﬂected in our consolidated financial
+statements. A summary of the Company's significant accounting policies is included in Note 1 to the Consolidated Financial
+Statements in Part II, Item 8 of this Form 10-K.
+We believe that the following are the more critical judgments and estimates used in the preparation of our consolidated
+financial statements.
+Accounting for contingencies. We accrue for contingencies when we believe that it is probable that a liability or loss has
+been incurred and the amount can be reasonably estimated. Contingencies relate to uncertainties that require our judgment both
+in assessing whether or not a liability or loss has been incurred and in estimating the amount of the probable loss. Significant
+contingencies affecting our consolidated financial statements include pending or threatened litigation, including product
+liability claims and product warranties.
+Product liability. We face an inherent business risk of exposure to product liability claims arising ﬁom the alleged failure
+of our products to prevent the types of personal injury or death against which they are designed to protect. The Company
+categorizes the product liability losses of its subsidiary MSA LLC into two main categories: single incident and cumulative
+trauma.
+Single incident claims. Single incident product liability claims involve incidents of short duration that are typically
+known to us when they occur and involve observable injuries, which provide an objective basis for quantifying damages. MSA
+LLC estimates its liability for single incident product liability claims based on expected settlement costs for reported claims and
+an estimate of costs for unreported claims (claims incurred but not reported or IBNR). The estimate for IBNR claims is based
+on experience, sales volumes, and other relevant information. The reserve for single incident product liability claims, which
+includes reported and IBNR claims, was $3.4 million at December 31, 2016 and $3.5 million at December 31, 2015. Single
+incident product liability expense during the year ended December 31, 2016 was $0.8 million and was $0.9 million for the year
+ended December 31, 2015. Single incident product liability exposures are evaluated on an annual basis, or more frequently if
+changing circumstances warrant. Adjustments are made to the reserve as apprOpriate.
+Cumulative trauma claims. Cumulative trauma product liability claims involve exposures to harmful substances (e. g.,
+silica, asbestos and coal dust) that occurred many years ago and may have developed over long periods of time into diseases
+such as silicosis, asbestosis, mesothelioma, or coal worker ’s pneumoconiosis. MSA LLC is presently named as a defendant in
+1,794 lawsuits comprised of 3,023 claims. These lawsuits mainly involve respiratory protection products allegedly
+manufactured and sold by MSA LLC or its predecessors. The products at issue were manufactured many years ago and are not
+currently oﬁered by MSA LLC. Although there is year over year variability in the number and quality of claims defended and
+resolved, MSA LLC’s aggregate spend for cumulative trauma product liability claims (inclusive of settlements and defense
+costs) for the three years ended December 31, 2016, totaled approximately $150.9 million, substantially all of which was
+recorded as insurance receivables because the amounts are believed to be recoverable under insurance.
+More than half of the open lawsuits at December 31, 2016 have had a de minimis level of activity over the last 5 years. It
+is possible that these cases could become active again at any time due to changes in circumstances.
+Management works with its outside valuation consultant and outside legal counsel to review its cumulative trauma
+product liability exposure on an annual basis, or more frequently if changing circumstances or developments in existing cases
+make an interim review apprOpriate. The review process takes into account the number and composition of pending claims,
+outcomes of matters resolved during current and prior periods, and variances associated with different plaintiffs’ counsel and
+venues, as well as other information known about the current docket.
+Cumulative trauma product liability litigation is inherently unpredictable. Factors that can limit our ability to estimate
+potential liability include the lack of claims experience with applicable plaintiffs’ counsel, as claims experience can vary
+significantly among different counsel, low volume of resolution, lack of confidence with the consistency of claims composition,
+or other factors. With respect to the risk associated with any particular case, it has typically not been until very late in the legal
+process that it can be reasonably determined whether it is probable that any such case will ultimately result in a liability. This
+uncertainty is caused by many factors, including consideration of the applicable statute of limitations, the sufficiency of product
+30

@@ -1,0 +1,48 @@
+For the U.S. qualified pension and retiree health care plans, the expected return on plan assets component of net periodic benefit
+cost is based upon a market-related value of assets. In accordance with U.S. GAAP, the market-related value of assets is the fair
+value adjusted by a smoothing technique whereby certain gains and losses are phased in over a period of three years.
+Changes in the benefit obligations and plan assets for defined benefit and retiree health care benefit plans are as follows:
+U.S. U.S. Non-U.S.
+Defined Benefit Retiree Health Care Defined Benefit
+2016 2015 2016 2015 2016 2015
+Change in plan benefit obligation
+.31 Benefit obligation at beginning of year: . . . . . . . . . . . . . . . . $1,033 $ 1,076 $ 463 $ 513 $ 2,231 $ 2,316
+g Servicecost.................................. 22 22 5 5 34 35
+3 lnterestcost.................................. 42 43 20 20 52 53
+3 Participantcontributions......................... — — 10 19 6 6
+5: Benefitspaid................................. (9) (8) (38) (46) (77) (73)
+Medicaresubsidy.............................. — — 1 3 — —
+Actuarialloss(gain) 27 (6) (27) (21) 259 14
+Settlements.................................. (85) (94) — — (8) (18)
+Planamendments............................. — — — (30) — —
+Effects of exchange rate changes . . . . . . . . . . . . . . . . . . — — — — (136) (102)
+Benefit obligation at end of year (BO) . . . . . . . . . . . . . . . . . $1,030 $ 1,033 $ 434 $ 463 $ 2,361 $ 2,231
+Change in plan assets
+Fair value of plan assets at beginning of year: . . . . . . . . . . . $1,019 $ 1,082 $ 441 $ 497 $ 2,134 $ 2,213
+Actual return on plan assets . . . . . . . . . . . . . . . . . . . . . . 79 (24) 20 — 227 25
+Employer contributions (funding of qualified plans) . . . . . 15 52 1 1 160 72
+Employer contributions (payments for non-qualified
+15 11 — — — —
+Participantcontributions......................... — — 10 19 6 6
+Benefitspaid................................. (9) (8) (38) (46) (77) (73)
+Settlements.................................. (85) (94) — — (8) (18)
+Effects of exchange rate changes . . . . . . . . . . . . . . . . . . — — — — (133) (91)
+— — — (30) — —
+Fair value of plan assets at end of year (FVPA) . . . . . . . . . . . $1,034 $ 1,019 $ 434 $ 441 $ 2,309 $ 2,134
+Funded status (FVPA— BO) at end of year . . . . . . . . . . . . . . . . $ 4 $ (14) $ — $ (22) $ (52) $ (97)
+Amounts recognized on our Consolidated Balance Sheets as of December 31, are as follows:
+U.S. Defined U.S. Retiree Non-U.S.
+Benefit Health Care Defined Benefit Total
+2016
+Overfundedretirementplans............................... $66 $ 3 $ 27 $ 96
+Accrued expenses and other liabilities & Deferred credits and other
+liabilities............................................. (9) — (6) (15)
+Underfunded retirement plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (53) (3) (73) (129)
+Fundedstatus(FVPA—B0)atend0f2016 $ 4 $— $ (52) $ (48)
+2015
+Overfundedretirementplans................................. $51 $— $ 34 $ 85
+Accrued expenses and other liabilities & Deferred credits and other
+liabilities............................................. (16) — (6) (22)
+Underfundedretirementplans................................ (49) (22) (125) (196)
+Fundedstatus(FVPA—BO)atendof2015 $(14) $(22) $ (97) $(133)
+50 TEXAS INSTRUMENTS - 2016 FORM 10-K

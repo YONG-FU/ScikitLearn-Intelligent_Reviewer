@@ -1,0 +1,24 @@
+(k) If any Lender or the Administrative Agent, as the case may be, obtains a refund of any Tax for which payment has been made pursuant to this
+Section 2.15, or, in lieu of obtaining such refund, such Lender or the Administrative Agent applies the amount that would otherwise have been refunded as a credit
+against payment of a liability in respect of taxes, which refund or credit in the good faith judgment of such Lender or the Administrative Agent, as the case may be,
+(and without any obligation to disclose its tax records) is allocable to such payment made under this Section 2.15, the amount of such refund or credit (together with
+any interest received thereon and reduced by reasonable out-of-pocket costs incurred in obtaining such refund or credit and by any applicable taxes) promptly shall
+be paid to the applicable Borrower to the extent payment has been made in full by such Borrower pursuant to this Section 2.15.
+SECTION 2.16 Sharing,of,Payments,,Etc,. If any Lender shall obtain any payment (whether voluntary, involuntary, through the exercise of any right
+of set-off, or otherwise) on account of the Pro Rata Advances owing to it (other than pursuant to Section 2.12, 2.15 or 9.04(b) or (0)) in excess of its ratable share of
+payments on account of the Pro Rata Advances obtained by all the Lenders, such Lender shall forthwith purchase from the other Lenders such participations in the
+Pro Rata Advances made by them as shall be necessary to cause such purchasing Lender to share the excess payment ratably with each of them; provided, however
+, that if all or any portion of such excess payment is thereafter recovered from such purchasing Lender, such purchase from each Lender shall be rescinded and such
+Lender shall repay to the purchasing Lender the purchase price to the extent of such recovery together with an amount equal to such Lender’s ratable share
+(according to the proportion of (i) the amount of such Lender’s required repayment to (ii) the total amount so recovered from the purchasing Lender) of any interest
+or other amount paid or payable by the purchasing Lender in respect of the total amount so recovered. Each Borrower agrees that any Lender so purchasing a
+participation from another Lender pursuant to this Section 2.16 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of
+set-oft) with reSpect to such participation as fully as if such Lender were the direct creditor of such Borrower in the amount of such participation.
+SECTION 2.17 EvidencecﬁDebt.
+(a) LenderiRecords;,Bro,Rata,N,otes,. Each Lender shall maintain in accordance with its usual practice an account or accounts evidencing the
+indebtedness of each Borrower to such Lender resulting from each Pro Rata Advance owing to such Lender from time to time, including the amounts of principal
+and interest payable and paid to such Lender from time to time hereunder in respect of Pro Rata Advances. Each Borrower shall, upon notice by any Lender to such
+Borrower (with a copy of such notice to the Administrative Agent) to the effect that a Pro Rata Note is required or appropriate in order for such Lender to evidence
+(whether for purposes of pledge, enforcement or otherwise) the Pro Rata Advances owing to, or to be made by, such Lender, promptly execute and deliver to such
+Lender a Pro Rata Note payable to such Lender (or its registered assigns) in a principal amount up to the Commitment of such Lender.
+-32-

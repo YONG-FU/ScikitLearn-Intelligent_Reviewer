@@ -1,0 +1,31 @@
+58 The Procter & Gamble Company
+NOTE 11
+ACCUMULATED OTHER COMPREHENSIVE INCOME/(LOSS)
+The table below presents the changes in Accumulated other comprehensive income/(loss) (AOCI), including the reclassifications out of
+Accumulated other comprehensive income/(loss) by component:
+Changes in Accumulated Other Comprehensive Income/(Loss) by Component
+Investment Pension and Other Financial Statement
+Hedges _ Securities _ Retiree Benefits _ Translation _ Total
+lBALANCE at JUNE 30, 2014 $ (3,876) $ (18) $ (5,165) $ 1,397 $ (7,662) l
+OCI before reclassifications (1) 1,390 26 563 (7,475) (5,496)
+1 Amounts reclassified from AOCI <2> <5) (6) (156) _ (2) _ 281 _ 255 _ 378 1
+Net current period OCI 1,234 _ 24 _ 844 _ (7,220) _ (5,118)
+lBALANCE at JUNE 30, 2015 (2,642) 6 (4,321) (5,823) (12,780) l
+OCI before reclassifications (3) (103) 29 (1,710) (1,679) (3,463)
+1 Amounts reclassified from AOCI «0 (S) 104 _ (1) _ 233 _ — _ 336 1
+Net current period OCI 1 _ 28 _ (1,477) _ (1,679) _ (3,127)
+lBALANCE at JUNE 30, 2016 $ (2,641) _ $ 34 _ $ (5,798) _ $ (7,502) _ $ (15,907) l
+(1) Net of tax (beneﬁt) / expense of $741, $1 and $219 for gains/losses on hedges, investment securities and pension and other retiree benefit items, respectively,
+for the period ended June 30, 2015.
+(2) Net of tax (benefit) / expense of $(2), $(1), and $109 for gains/losses on hedges, investment securities and pension and other retiree beneﬁt items, respectively,
+for the period ended June 30, 2015.
+(3) Net of tax (beneﬁt) / expense of $6, $7, and $(708) for gains/losses on hedges, investment securities and pension and other retiree benefit items, respectively,
+for the period ended June 30, 2016.
+(4) Net of tax (beneﬁt) / expense of $(1), $0, and $87 for gains/losses on hedges, investment securities and pension and other retiree benefit items, respectively, for
+the period ended June 30, 2016.
+(5) See Note 9 for classification of gains and losses from hedges in the Consolidated Statements of Earnings. Gains and losses on investment securities are
+reclassiﬁed from AOCI into Other non-operating income, net. Gains and losses on pension and other retiree benefits are reclassified from AOCI into Cost of
+products sold and SG&A, and are included in the computation of net periodic pension cost (see Note 8 for additional details).
+(6) Amounts reclassiﬁed from AOCI for ﬁnancial statement translation relate to the foreign currency losses written off as part of the deconsolidation of our
+Venezuelan subsidiaries in ﬁscal 2015. These losses were reclassified into the Venezuela deconsolidation charge in the Consolidated Statements of Earnings.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

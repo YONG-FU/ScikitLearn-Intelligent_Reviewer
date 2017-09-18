@@ -1,0 +1,11 @@
+7 Year Ended June 30, 2016 7
+7 Per share diluted 7
+GAAP-based net income, attributable to OpenText 284,477 $ 2.33 7
+Add:
+Amortization 187,439 1.54
+Share-based compensation 25,978 0.21
+Special charges (recoveries) 34,846 0.29
+Other (income) expense, net 1,423 0.01
+GAAP-based provision for (recovery of) income taxes 6,282 0.05
+Non-GAAP based provision for income taxes 7 (108,075) (0.89)
+Non-GAAP-based net income, attributable to OpenText 432,370 $ 3.54 7

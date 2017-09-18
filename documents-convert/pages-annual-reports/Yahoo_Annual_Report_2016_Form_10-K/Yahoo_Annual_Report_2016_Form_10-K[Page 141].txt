@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+(loss), net of tax. See Note 2—“Marketable Securities, Investments and Fair Value Disclosures” and the consolidated statements of comprehensive income
+(loss) for additional information. The Company does not currently intend to sell its shares of Alibaba Group in response to changes in the market price of the
+shares.
+Technology and Intellectual Property License Agreement. As a result of the Alibaba Group IPO, Alibaba Group’s obligation to make royalty payments
+under the TlPLA ceased on September 24, 2014 and the Company’s recognition of the remaining TlPLA deferred revenue was completed on September 18,
+2015. The Company recognized approximately $281 million and $199 million for the years ended December 31, 2014 and 2015, respectively, related to the
+TlPLA.
+Note 9 Foreign Currency Derivative Financial Instruments
+The Company uses derivative ﬁnancial instruments, primarily fonNard contracts (and previously including option contracts), to mitigate risk associated with
+adverse movements in foreign currency exchange rates.
+The Company records all derivatives in the consolidated balance sheets at fair value, with assets included in prepaid expenses and other current assets or other
+long-term assets, and liabilities included in accrued expenses and other current liabilities or other long-term liabilities. The Company’s accounting treatment for
+these instruments is based on whether or not the instruments are designated as a hedging instrument. The effective portions of net investment hedges are
+recorded in other comprehensive income (expense) as a part of the cumulative translation adjustment. The effective portions of cash ﬂow hedges are recorded
+in accumulated other comprehensive income until the hedged item is recognized in revenue on the consolidated statements of operations when the underlying
+hedged revenue is recognized. Any ineffective portions of net investment hedges and cash ﬂow hedges are recorded in other income (expense), net on the
+Company’s consolidated statements of operations. For balance sheet hedges, changes in the fair value are recorded in other income (expense), net on the
+Company’s consolidated statements of operations.
+The Company has master netting arrangements, which are designed to reduce credit risk by permitting net settlement of foreign exchange contracts with the
+same counterparty, subject to applicable requirements. The Company presents its derivative assets and liabilities at their gross fair values on the consolidated
+balance sheets. The Company is not required to pledge, and is not entitled to receive, cash collateral related to these derivative transactions.
+Designated as Hedging Instruments
+Net Investment Hedges. The Company currently hedges, on an after-tax basis, a portion of its net investment in Yahoo Japan with fonNard contracts to
+reduce the risk that its investment in Yahoo Japan will be adversely affected by foreign currency exchange rate fluctuations. The total of the after-tax net
+investment hedge was less than the Yahoo Japan investment balance as of both December 31, 2015 and 2016. As such, the net investment hedge was
+considered to be effective.
+Cash Flow Hedges. The Company entered into foreign currency fonNard contracts designated as cash ﬂow hedges of varying maturities through January 31,
+2017. The cash flow hedges were considered to be effective as of December 31, 2014, 2015, and 2016. All of the fon/vard contracts designated as cash ﬂow
+hedges that were settled were reclassiﬁed to revenue within ﬁscal years 2014, 2015 and 2016, and the Company recognized the hedge forecasted revenue
+related to these contacts as of December 31, 2014, 2015, and 2016. These trades were de-designated as of December 31, 2016 and all current outstanding
+cash flow hedges have been reclassiﬁed into revenue
+140

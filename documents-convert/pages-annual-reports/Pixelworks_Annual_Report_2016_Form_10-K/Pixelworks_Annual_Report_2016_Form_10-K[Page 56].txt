@@ -1,0 +1,37 @@
+NOTE 4. FAIR VALUE MEASUREMENTS
+Fair value is deﬁned as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. Three levels of inputs may be used to measure fair value:
+Level 1: Valuations based on quoted prices in active markets for identical assets and liabilities.
+Level 2: Valuations based on inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or
+indirectly.
+Level 3: Valuations based on unobservable inputs in which there is little or no market data available, which require the reporting entity to develop
+its own assumptions.
+The following table presents information about our assets measured at fair value on a recurring basis in the consolidated balance sheets as of December 31,
+2016 and 2015:
+Level 1 _ Level 2 _ Level 3 _ Total
+lAs ofDecember31,2016: ‘
+Money market funds $ 17,960 $ — $ — $ 17,960
+lAs ofDecember31,2015: 1
+Money market funds $ 25,343 $ — $ — $ 25,343
+We primarily use the market approach to determine the fair value of our ﬁnancial assets. The fair value of our current assets and liabilities, including accounts
+receivable and accounts payable approximates the carrying value due to the short-term nature of these balances. We have currently chosen not to elect the
+fair value option for any items that are not already required to be measured at fair value in accordance with US. GAAP.
+NOTE 5: RESTRUCTURING
+In April 2016, we executed a restructuring plan to streamline the Company’s operations and product offerings and to align the Company’s expenses with
+current revenue levels. The plan included an approximately 24% reduction in workforce, primarily in the area of development, however, it also impacted
+operations, sales and marketing. The plan also included abandonment of certain assets resulting in impairment charges to write off the assets associated with
+markets we are no longer pursuing.
+Total restructuring expense included in our statement of operations for the years ended December 31, 2016, 2015 and 2014 is comprised of the following:
+Year Ended December 31,
+2016 _ 2015 _ 2014
+{C0 st of revenue — restructuring: ‘
+Tooling and inventory write offs $ 1,679 $ — $ —
+I Emplioyee severance and beneﬁts 105 _ — _ — 1
+1,784 — —
+Operating expenses — restructuring:
+l Empl_oyee severance and beneﬁts $ 2,513 $ — $ — 1
+Licensed technology and other asset write offs 65 — —
+1 Other 30 _ — _ — 1
+2,608 _ — _ —
+I Total restructuring expense $ 4,392 $ — $ — l
+5 6

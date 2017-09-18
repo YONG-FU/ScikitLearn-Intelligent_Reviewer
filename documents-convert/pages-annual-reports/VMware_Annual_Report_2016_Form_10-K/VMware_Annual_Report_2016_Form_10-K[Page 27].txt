@@ -1,0 +1,43 @@
+Iablrebeontents
+Dell has the ability to prevent a change-in-control transaction and may sell control of VMware without beneﬁting other stockholders.
+Dell’s voting control and its additional rights described above give Dell the ability to prevent transactions that would result in a change of control of VMware,
+including transactions in which holders of our Class A common stock might otherwise receive a premium for their shares over the then-current market price. In
+addition, Dell is not prohibited from selling a controlling interest in us to a third party and may do so without the approval of the holders of our Class A common
+stock and without providing for a purchase of any shares of Class A common stock held by persons other than Dell. Accordingly, shares of Class A common stock
+may be worth less than they would be if Dell did not maintain voting control over us or if Dell did not have the additional rights described above.
+If Dell’s level of ownership signiﬁcantly increases, Dell could unilaterally effect a merger of VMware into Dell without a vote of VMware stockholders or
+the VMware Board of Directors at a price per share that might not reﬂect a premium to then-current market prices.
+As of December 31, 2016 , Dell controlled 82.8% of VMware’s outstanding common stock, and Dell’s percentage ownership of VMware common stock could
+increase as a result of repurchases by VMware of our Class A common stock or purchases by Dell. Section 253 of the Delaware General Corporation Law permits
+a parent company, when it owns 90% or more of each class of a subsidiary’s stock that generally would be entitled to vote on a merger of that subsidiary with the
+parent, to unilaterally effect a merger of the subsidiary into the parent without a vote of the subsidiary’s board or stockholders. Accordingly, if Dell becomes the
+holder of at least 90% of VMware’s outstanding stock, neither VMware’s board of directors nor VMware’s stockholders would be entitled to vote on a merger of
+VMware into Dell (the “short-form merger”). Moreover, a short-form merger is not subject to the stringent “entire fairness” standard and the parent company is not
+required to negotiate with a special committee of disinterested directors that would serve to approximate arm’s length negotiations designed to ensure that a fair
+price is paid. Rather, a minority stockholder’s sole remedy in the context of a short-form merger is to exercise appraisal rights under Delaware law. In such a
+proceeding, petitioning stockholders may be awarded more or less than the merger price or the amount they would have received in a merger negotiated between
+the parent and a disinterested special committee advised by independent financial and legal advisors. Dell is prohibited through September 7, 2018 under its charter
+from purchasing or otherwise acquiring any shares of common stock of VMware if such acquisition would cause the common stock of VMware to no longer be
+publicly traded on a US. securities exchange or VMware to no longer be required to file reports under Sections 13 and 15(d) of the Exchange Act, in each case,
+unless such acquisition of VMware common stock is required in order for VMware to continue to be a member of the afﬁliated group of corporations filing a
+consolidated tax return with Dell.
+We engage in related persons transactions with Dell that may divert our resources, create opportunity costs and prove to be unsuccessful.
+We currently engage in a number of related persons transactions with Dell that include joint product development, go-to-market, branding, sales, customer
+service activities, real estate and various support services, and we expect to engage in additional related persons transactions with Dell to leverage the benefits of
+our strategic alignment. Additionally, we contributed technology and transferred employees to Pivotal Software, Inc. (“Pivotal”) in 2013 and continue to hold a
+significant ownership interest in Pivotal. For more information, refer to Note B to the consolidated financial statements in Part II, Item 8 and “Our Relationship
+with Dell” in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of this Annual report on Form 10-K and
+“Transactions with Related Persons” in the proxy statement for our 2016 annual meeting of stockholders.
+We believe that these related persons transactions provide us a unique opportunity to leverage the respective technical expertise, product strengths and market
+presence of Dell and its subsidiaries for the benefit of our customers and stockholders while enabling us to compete more effectively with competitors who are
+much larger than us. However, these transactions may prove not to be successful and may divert our resources or the attention of our management from other
+opportunities. Negotiating and implementing these arrangements can be time consuming and cause delays in the introduction of joint product and service offerings
+and disruptions to VMware’s business. We cannot predict whether our stockholders and industry or securities analysts who cover us will react positively to
+announcements of new related persons transactions with Dell, and such announcements could have a negative impact on our stock price. Our participation in these
+transactions may also cause certain of our other vendors and ecosystem partners who compete with Dell and its subsidiaries to also View us as their competitors.
+Additionally, if Pivotal requires additional funding, we may be asked to contribute capital resources to Pivotal or accept dilution in our ownership interest, and we
+may be unable to realize any value from the technology and resources that we contributed to Pivotal.
+Our business and Dell’s businesses overlap, and Dell may compete with us, which could reduce our market share.
+We and Dell are IT infrastructure companies providing products and services that overlap in various areas, including software-based storage, management,
+hyper-converged infrastructure and cloud computing. Dell competes with us in these
+26

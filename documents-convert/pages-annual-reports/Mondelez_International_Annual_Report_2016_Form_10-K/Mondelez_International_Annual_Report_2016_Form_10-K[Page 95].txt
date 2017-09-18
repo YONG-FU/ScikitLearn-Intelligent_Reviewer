@@ -1,0 +1,48 @@
+Iable,of,C0ntents
+We record pre-tax and after-tax (i) gains or losses reclassiﬁed from accumulated other comprehensive earnings / (losses) into earnings, (ii) gains or
+losses on ineffectiveness and (iii) gains or losses on amounts excluded from effectiveness testing in:
+o cost of sales for commodity contracts;
+° cost of sales for currency exchange contracts related to forecasted transactions; and
+o interest and other expense, net for interest rate contracts and currency exchange contracts related to intercompany loans.
+Based on current market conditions, we would expect to transfer losses of $31 million (net of taxes) for commodity cash flow hedges, unrealized
+gains of $10 million (net of taxes) for currency cash flow hedges and unrealized losses of $2 million (net of taxes) for interest rate cash flow hedges
+to earnings during the next 12 months.
+Hedge Coverage:
+As of December 31, 2016, we hedged transactions forecasted to impact cash ﬂows over the following periods:
+° commodity transactions for periods not exceeding the next 12 months;
+° interest rate transactions for periods not exceeding the next 6 years and 10 months; and
+o currency exchange transactions for periods not exceeding the next 12 months.
+Fair Value Hedges:
+Pre-tax gains / (losses) due to changes in fair value of our interest rate swaps and related hedged long-term debt were recorded in interest and other
+expense,net
+For the Years Ended December 31,
+2016 2015 2014
+(in millions)
+Derivatives $ (6) $ (1) $ 13 l
+Borrowings 6 1 (13)
+Fair value hedge ineffectiveness and amounts excluded from effectiveness testing were not material for all periods presented.
+Economic Hedges:
+Pre-tax gains / (losses) recorded in net earnings for economic hedges were:
+Location of
+Gain I (Loss)
+Foﬂheleais Ended Deﬁciembieri 31 , Recognized
+2016 2015 2014 in Earnings
+(in millions)
+Currency exchange contracts: l
+lntercompany loans and Interest and other
+forecasted interest p_ayments $ 21 $ 29 $ 4 eXp_e_rJ_s_e._ne_t
+I Forecasted transactions (7_6) 29 29 C_o_st_of_sa|es 7
+Interest and other
+Forecasted transactions 11 435 610 _exp_eﬂs_e,ﬂej_
+Selling, general
+and administrative
+l Forecasted transactions 7 (Q) (4) expenses l
+Commodity contracts (101) (g) (136) Cost of sales
+|Total $ (138) $ 443 $ 503 I
+In connection with the coffee business transactions, we entered into a number of consecutive euro to US. dollar currency exchange fon/vard
+contracts in 2015 and 2014 to lock in an equivalent expected value in U.S. dollars. The mark-to-market gains and losses on the derivatives were
+recorded in earnings. We recorded net gains of $436 million for the year ended December 31, 2015 and $628 million for the year ended
+December 31, 2014 within interest and other expense, net in connection with the fonNard contracts and the transferring of proceeds to our
+subsidiaries where coffee net assets and shares were deconsolidated. The currency hedge and related gains and losses were recorded within
+interest and other expense, net. See Note 2, Divestitures and Acquisitions — JDE Coffee Business Transactions , for additional information.
+92

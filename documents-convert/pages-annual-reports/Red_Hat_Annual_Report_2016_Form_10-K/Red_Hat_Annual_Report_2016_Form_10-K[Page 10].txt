@@ -1,0 +1,41 @@
+We believe that open source software is a viable and arguably superior alternative to traditional proprietary
+software. Open source software, as compared to proprietary software, offers a number of benefits to customers,
+including:
+° enabling a customer’s in-house development team to collaborate and innovate with a global community
+of independent developers and testers;
+- providing a customer’s in-house development team access to both binary and source code, and broader
+rights to copy, modify and redistribute the software;
+- offering a customer greater ﬂexibility through open rather than proprietary protocols and formats;
+- permitting a customer ongoing access to improvements and fixes made to the software that are
+distributed by others; and
+° allowing a customer to inspect and help diagnose problems more easily and customize the software to
+suit its particular needs.
+Subscription business model
+We provide our software offerings to our customers primarily under annual or multi-year subscriptions as
+well as on-demand through CCSPs. Our subscription business model is designed to provide customers with a
+comprehensive technology solution for the duration of their subscription. A subscription generally entitles a
+customer to, among other things, a specified level of support, as well as security updates, fixes, functionality
+enhancements, upgrades to the technologies, each if and when available, and compatibility with an ecosystem of
+certified hardware and software. A subscription also includes access to the Red Hat Customer Portal, which
+provides customers with services such as our knowledge base, product usage documentation and account
+management tools. We offer customers subscription options that provide varying levels of customer support. In
+addition, our customers are eligible to participate in Red Hat’s Open Source Assurance program, which provides
+certain protections in the event of an intellectual property infringement claim based on our offerings.
+Our subscription business model contrasts with the typical proprietary software license model from a
+revenue recognition perspective. Under a proprietary software license model, the vendor typically recognizes
+license revenue in the period that the software is initially licensed. In contrast, under our subscription model, we
+generally defer revenue when we bill the customer and recognize revenue over the life of the subscription term.
+Distribution of Red Hat offerings
+We make Red Hat offerings available directly to customers and indirectly through various channels of
+distribution. Our direct sales channels include our sales force and our web store. Our indirect sales channels
+include CCSPs, distributors, embedded technology partners, independent software vendors (“ISVs”), systems
+integrators (“SIS”) and value added resellers (“VARs”). In addition, hardware original equipment manufacturers
+(“OEMs”) pre-load and support Red Hat offerings on their hardware products and sell their hardware together
+with Red Hat offerings as part of pre-configured solutions.
+With the support and tools we make available, many of these companies have engineered and certified that
+their technologies run on or with Red Hat offerings, and, in some cases, independent hardware vendors (“II-IVs”)
+and ISVs have built their products and solutions using our offerings. Our offerings can also be used on an on-
+demand basis through our CCSPs, allowing our customers to utilize their subscriptions with increased ﬂexibility.
+We believe widespread support from these companies helps to increase the level of market acceptance and
+adoption of our offerings.
+6

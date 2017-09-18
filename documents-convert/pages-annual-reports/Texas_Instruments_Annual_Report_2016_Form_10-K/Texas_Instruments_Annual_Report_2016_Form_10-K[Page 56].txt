@@ -1,0 +1,49 @@
+December 31, 2015
+Level 1 Level 2 Level 3 Other (a) Total
+Assets of U.S. defined benefit plan:
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ — $ 249 $ — $ 415 $ 664
+Equitysecurities............................................ — — — 355 355
+Total $ — $249 $— $ 770 $1,019
+Assets of U.S. retiree health care plan:
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ 178 $ 5 $ — $ 37 $ 220
+Equitysecurities............................................ — — — 221 221
+'3 Total $178 $ 5 $— $ 258 $ 441
+:0
+3 Assets of non-U.S. defined benefit plans:
+3 Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ 4 $109 $ — $1,385 $1,498
+5: Equitysecurities............................................ 6 18 — 608 632
+— — 4 — 4
+Total $10 $127 $ 4 $1,993 $2,134
+(a) Consists of bond index and equity index funds, measured at net asset value per share.
+The investments in our major benefit plans largely consist of low-cost, broad-market index funds to mitigate risks of concentration
+within market sectors. Our investment policy is designed to better match the interest rate sensitivity of the plan assets and
+liabilities. The appropriate mix of equity and bond investments is determined primarily through the use of detailed asset-liability
+modeling studies that look to balance the impact of changes in the discount rate against the need to provide asset growth to
+cover future service cost. Most of our plans around the world have a greater proportion of fixed income securities with return
+characteristics that are more closely aligned with changes in the liabilities caused by discount rate volatility. For the U.S. plans,
+we utilize an option collar strategy to reduce the volatility of returns on investments in U.S. equity funds.
+The only Level 3 asset in our worldwide benefit plans for the periods presented is a diversified property fund in a non-U.S. pension
+plan. These investments are valued using inputs from the fund managers and internal models. Changes to the fair value of this
+fund since December 31, 2014, have not been material, and are due to redemptions.
+Assumptions and investment policies
+U.S. Defined U.S. Retiree Non-U.S.
+Benefit Health Care Defined Benefit
+2016 2015 2016 2015 2016 2015
+Weighted average assumptions used to determine benefit obligations:
+Discountrate 4.29% 4.62% 4.08% 4.40% 1.76% 2.41%
+Long-termpayprogression.................................... 3.30% 3.30% n/a n/a 3.11% 3.21%
+Weighted average assumptions used to determine net periodic
+benefit cost:
+Discountrate 4.40% 4.33% 4.40% 4.15% 2.41% 2.34%
+Long-term rate of return on plan assets . . . . . . . . . . . . . . . . . . . . . . . . . . 4.60% 5.10% 4.40% 4.70% 3.18% 3.55%
+Long-termpayprogression.................................... 3.30% 3.30% n/a n/a 3.21% 3.27%
+We utilize a variety of methods to select an appropriate discount rate depending on the depth of the corporate bond market in the
+country in which the benefit plan operates. In the United States, we use a settlement approach whereby a portfolio of bonds is
+selected from the universe of actively traded high-quality U.S. corporate bonds. The selected portfolio is designed to provide cash
+flows sufficient to pay the plan’s expected benefit payments when due. The resulting discount rate reflects the rate of return of the
+selected portfolio of bonds. For our non-U.S. locations with a sufficient number of actively traded high-quality bonds, an analysis is
+performed in which the projected cash flows from the defined benefit plans are discounted against a yield curve constructed with
+an appropriate universe of high-quality corporate bonds available in each country. In this manner, a present value is developed.
+The discount rate selected is the single equivalent rate that produces the same present value. For countries that lack a sufficient
+corporate bond market, a government bond index adjusted for an appropriate risk premium is used to establish the discount rate.
+52 TEXAS INSTRUMENTS - 2016 FORM 10-K

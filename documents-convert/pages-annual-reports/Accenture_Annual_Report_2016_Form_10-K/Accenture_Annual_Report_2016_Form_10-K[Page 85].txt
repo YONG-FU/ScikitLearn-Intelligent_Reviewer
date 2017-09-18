@@ -1,0 +1,45 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+in Other expense, net in the Consolidated Income Statement and for ﬁscal 2016, 2015 and 2014, was not material. In
+addition, the Company did not discontinue any cash ﬂow hedges during fiscal 2016 and 2015 or 2014.
+Other Derivatives
+The Company also uses foreign currency forward contracts, which have not been designated as hedges, to hedge
+balance sheet exposures, such as intercompany loans. These instruments are generally short-term in nature, with
+typical maturities of less than one year, and are subject to fluctuations in foreign exchange rates. Realized gains or
+losses and changes in the estimated fair value of these derivatives were a net loss of $84,293 and $257,783 for fiscal
+2016 and 2015, respectively, and a net gain of $78,446 for ﬁscal 2014. Gains and losses on these contracts are recorded
+in Other expense, net in the Consolidated Income Statement and are offset by gains and losses on the related hedged
+items.
+Fair Value of Derivative Instruments
+The notional and fair values of all derivative instruments were as follows:
+August 31, August 31 ,
+7 2016 77 2015 7
+IAssets 7 7 7 I
+Cash Flow Hedges
+I Other current assets $ 71,955 $ 28,282 I
+Other non-current assets 45,683 13,503
+I Other Derivatives I
+Other current assets 11,965 18,233
+ITotal assets 6 129,603 8 60,018 I
+Liabilities
+I Cash Flow Hedges I
+Other accrued liabilities $ 10,820 $ 48,583
+I Other non-current liabilities 5,547 43,746 I
+Other Derivatives
+I Other accrued liabilities 17,407 31,862 I
+Total liabilities ’3 33,774 37$ 129,291 3
+I Total fair value $ 95,829 _$ (59,273)}
+Total notional value 7$ 7,604,485 fi$ 6,353,110,
+The Company utilizes standard counterparty master agreements containing provisions for the netting of certain
+foreign currency transaction obligations and for the set-off of certain obligations in the event of an insolvency of one
+of the parties to the transaction. In the Consolidated Balance Sheets, the Company records derivative assets and
+liabilities at gross fair value. The potential effect of netting derivative assets against liabilities under the counterparty
+master agreements was as follows:
+August 31 , August 31 ,
+7 2016 77 2015 7
+INet derivative assets 8 114,785 $ 36,661 I
+Net derivative liabilities 7 18,9567 7 105,934 7
+I Total fair value 77$ 95,829 777$ (69,273)!
+F- 21

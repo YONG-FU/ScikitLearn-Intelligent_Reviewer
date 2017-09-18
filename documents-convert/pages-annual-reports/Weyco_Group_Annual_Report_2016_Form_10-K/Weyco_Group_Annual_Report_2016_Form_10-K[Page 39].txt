@@ -1,0 +1,55 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the years ended December 31, 2016, 2015 and 2014
+2016 2015 2014
+(Dollars in thousands)
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Netearnings....................................$16,993 $18,153 $19,824
+Adjustments to reconcile net earnings to net cash provided
+by (used for) operating activities —
+Depreciation.................................. 3,670 3,612 3,659
+Amortization................................... 387 426 361
+Baddebtexpense.............................. 76 235 240
+Deferredincometaxes........................... (2,645) 346 1,115
+Net (gains) losses on remeasurement of contingent
+consideration................................ — (458) 611
+Net foreign currency transaction (gains) losses . . . . . . . . . (513) 961 268
+Stock-based compensation . . . . . . . . . . . . . . . . . . . . . . . . 1,559 1,559 1,465
+Pension contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2,400) (2,633) (1,300)
+Pensionexpense............................... 3,184 3,699 2,212
+Impairment of property, plant and equipment . . . . . . . . . . . 113 — —
+lmpairmentoftrademark......................... 1,770 — —
+Increase in cash surrender value of life insurance . . . . . . . (573) (573) (552)
+Changes in operating assets and liabilities —
+Accountsreceivable............................. 3,179 1,009 (6,787)
+Inventories.................................... 27,313 (28,282) (5,807)
+Prepaid expenses and other assets . . . . . . . . . . . . . . . . . (1,595) 2,237 (901)
+Accountspayable............................... (1,389) (2,326) 1,626
+Accrued liabilities and other . . . . . . . . . . . . . . . . . . . . . . . (1,447) (3,587) 604
+Accruedincometaxes........................... (811) (105) 1,205
+Net cash provided by (used for) operating activities . . . . 46,871 (5,727) 17,843
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of marketable securities . . . . . . . . . . . . . . . . . . . . (6,287) (3,033) (8,427)
+Proceeds from maturities of marketable securities . . . . . . . . 5,745 8,191 8,177
+Life insurance premiums paid . . . . . . . . . . . . . . . . . . . . . . . (155) (155) (155)
+Purchase of property, plant and equipment . . . . . . . . . . . . . . (5,992) (2,481) (2,890)
+Net cash (used for) provided by investing activities . . . . (6,689) 2,522 (3,295)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Cashdividendspaid (8,720) (8,452) (8,029)
+Cash dividends paid to noncontrolling interest of subsidiary . . (170) — (198)
+Shares purchased and retired . . . . . . . . . . . . . . . . . . . . . . . (10,967) (9,858) (7,984)
+Proceeds from stock options exercised . . . . . . . . . . . . . . . . . 2,994 6,144 4,881
+Payment of contingent consideration . . . . . . . . . . . . . . . . . . (5,217) — —
+Proceeds from bank borrowings . . . . . . . . . . . . . . . . . . . . . . 121,959 160,534 101,200
+Repayments of bank borrowings . . . . . . . . . . . . . . . . . . . . . (144,340) (139,290) (107,795)
+Income tax benefits from stock-based compensation . . . . . . . 20 391 133
+Net cash (used for) provided by financing activities . . . . (44,441) 9,469 (17,792)
+Effect of exchange rate changes on cash and cash
+equivalents................................... 43 (837) (226)
+Net (decrease) increase in cash and cash equivalents . . . . . $ (4,216) $ 5,427 $ (3,470)
+CASH AND CASH EQUIVALENTS at beginning of year . . . . . . 17,926 12,499 15,969
+CASH AND CASH EQUIVALENTS at end of year . . . . . . . . . . $ 13,710 $ 17,926 $ 12,499
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Income taxes paid, net of refunds . . . . . . . . . . . . . . . . . . . . $ 8,505 $ 10,341 $ 8,875
+lnterestpaid....................................$ 436 $ 181$ 127
+The accompanying notes to consolidated financial statements are an integral part of these financial statements.
+35

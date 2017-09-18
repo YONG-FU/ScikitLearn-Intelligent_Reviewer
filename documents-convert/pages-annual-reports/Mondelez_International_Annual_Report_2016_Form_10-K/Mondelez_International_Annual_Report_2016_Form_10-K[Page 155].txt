@@ -1,0 +1,44 @@
+If at any time the Depositary for Securities of a series in registered form notiﬁes the Company that it is unwilling or unable to continue as Depositary for the
+Securities of such series or if at any time the Depositary for the Securities of such series shall no longer be eligible under Section 303, the Company shall appoint a
+successor Depositary with respect to the Securities for such series. If (i) a successor Depositary for the Securities of such series is not appointed by the Company
+within 90 days after the Company receives such notice or becomes aware of such ineligibility, (ii) the Company delivers to the Trustee for Securities of such series
+in registered form a Company Order stating that the Securities of such series shall be exchangeable, or (iii) an Event of Default under Section 501 hereof has
+occurred and is continuing with respect to the Securities of such series, the Company’s election pursuant to Section 301 shall no longer be effective with respect to
+the Securities for such series and the Company will execute, and the Trustee, upon receipt of a Company Order for the authentication and delivery of deﬁnitive
+Securities of such series, will authenticate and deliver Securities of such series in deﬁnitive form in an aggregate principal amount equal to the principal amount of
+the Global Security or Securities representing such series in exchange for such Global Security or Securities.
+The Company may at any time and in its sole discretion determine that the Registered Securities of any series issued in the form of one or more Global
+Securities shall no longer be represented by such Global Security or Securities. In such event the Company will execute, and the Trustee, upon receipt of a
+Company Order for the authentication and delivery of definitive Registered Securities of such series, will authenticate and deliver, Registered Securities of such
+series in definitive form and in an aggregate principal amount equal to the principal amount of the Global Security or Securities representing such series in
+exchange for such Global Security or Securities. If specified by the Company pursuant to Section 301 with respect to a series of Securities in registered form, the
+Depositary for such series of Securities may surrender a Global Security for such series of Securities in exchange in whole or in part for Securities of such series of
+like tenor and terms and in definitive form on such terms as are acceptable to the Company and such Depositary. Thereupon the Company shall execute, and the
+Trustee shall authenticate and deliver, without service charge, (i) to each Person specified by such Depositary a new Security or Securities of the same series, of like
+tenor and terms and of any authorized denomination as requested by such Person in aggregate principal amount equal to and in exchange for such Person’s
+beneﬁcial interest in the Global Security and (ii) to such Depositary a new Global Security of like tenor and terms and in a denomination equal to the difference, if
+any, between the principal amount of the surrendered Global Security and the aggregate principal amount of Securities delivered to Holders thereof
+Upon the exchange of a Global Security for Securities in deﬁnitive form, such Global Security shall be canceled by the Trustee. Registered Securities issued
+in exchange for a Global Security pursuant to this Section shall be registered in such names and in such authorized denominations as the Depositary for such Global
+Security, pursuant to instructions from its direct or indirect participants or otherwise, shall instruct the Trustee in writing. The Trustee shall deliver such Registered
+Security to the persons in whose names such Securities are so registered.
+All Securities issued upon any registration of transfer or exchange of Securities shall be the valid obligations of the Company, evidencing the same debt, and
+entitled to the same beneﬁts under this Indenture, as the Securities surrendered upon such registration of transfer or exchange.
+Every Security presented or surrendered for registration of transfer or exchange shall (if so required by the Company or the Trustee for such Security) be duly
+endorsed, or be accompanied by a written instrument of transfer in form satisfactory to the Company and the Security Registrar for such series duly executed, by the
+Holder thereof or his attorney duly authorized in writing.
+No service charge shall be made for any registration of transfer or exchange of Securities, but the Company may require payment of a sum sufficient to cover
+any tax or other governmental charge that may be imposed in connection with any registration of transfer or exchange of Securities, other than exchanges pursuant
+to Section 304, 906 or 1107 not involving any transfer.
+The Company shall not be required (i) to issue, register the transfer of or exchange Securities of any series during a period beginning at the opening of
+business 15 days before the day of the mailing of a notice of redemption of Securities of that series selected for redemption under Section 1104 and ending at the
+close of business on the day of the mailing of the relevant notice of redemption, or (ii) to register the transfer of or exchange any Registered Security so selected for
+redemption as a whole or in part, except the unredeemed portion of any Security being redeemed in part.
+Furthermore, notwithstanding any other provision of this Section 305, the Company will not be required to exchange any Securities if, as a result of the
+exchange, the Company would suffer adverse consequences under any United States law or regulation.
+The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Indenture
+or under applicable law with respect to any transfer of any interest in any Security (including any transfers between or among Depositary participants or beneficial
+owners of interests in any Global Security) other than to require delivery of such certiﬁcates and other documentation or evidence as are expressly required by, and
+to do so if and when expressly required by the terms of, this Indenture, and to examine the same to determine substantial compliance as to form with the express
+requirements hereof.
+17

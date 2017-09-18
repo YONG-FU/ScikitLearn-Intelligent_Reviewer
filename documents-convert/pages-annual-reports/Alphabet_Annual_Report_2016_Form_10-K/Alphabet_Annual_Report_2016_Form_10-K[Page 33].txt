@@ -1,0 +1,52 @@
+IaibleiofiCiontents Alphabet Inc.
+The aggregate TAC rate remained relatively ﬂat from 2015 to 2016 primarily as a result of a shift of mix from
+Google Network Members' properties revenue to Google properties revenue. Our aggregate TAC rate was also
+impacted by the increase in mobile and programmatic advertising buying, which generally carry overall higher TAC.
+The increase in Google properties TAC rate was primarily driven by a shift to mobile and more mobile searches
+are subject to TAC. The increase in Network Members' TAC rate was primarily driven by the shift in advertising buying
+from our traditional network business to programmatic advertising buying.
+Cost of revenues increased $2,473 million from 2014 to 2015. The increase was primarily due to data center
+costs and an increase in content acquisition costs as a result of increased activities related to YouTube and digital
+content. The remaining increase was driven by increases in trafﬁc acquisition costs of $846 million, resulting from more
+advertiser fees generated through our AdSense program driven primarily by an increase in advertising revenues, as
+well as more fees paid to our distribution partners for additional traffic directed to our websites. Additionally, there was
+an impairment charge of $378 million recognized in 2014 related to a patent licensing royalty asset acquired in
+connection with the Motorola acquisition that did not recur in 2015.
+The decrease in aggregate TAC rate from 2014 to 2015 was primarily a result of a shift of mix from Google
+Network Members' properties revenue to Google properties revenue.
+We expect cost of revenues to increase in dollar amount and as a percentage of total revenues in 2017 and
+future periods based on a number of factors, including the following:
+- The relative revenue growth rates of Google properties and our Google Network Members' properties;
+- Traffic acquisition costs paid to our distribution partners, which are affected by changes in device mix between
+mobile, desktop, and tablet, partner mix, partner agreement terms such as revenue share arrangements, and
+the percentage of queries channeled through paid access points;
+- Traffic acquisition costs paid to Google Network Members, which are affected by ongoing adoption of
+programmatic advertising buying and changes in partner agreement terms;
+- The growth rates of expenses associated with our data center operations, content acquisition costs, as well
+as our hardware inventory and related costs; and
+- Increased proportion of non-advertising revenues as part of our total revenues.
+Research and Development
+The following table presents our R&D expenses (in millions) for the periods presented:
+7 Year Ended December 31, 7
+2014 2015 2016
+[Research and development expenses $ 9,832 $ 12,282 $ 13,948 I
+Research and development expenses as a percentage of revenues 14.9% 16.3% 15.5%
+R&D expenses consist primarily of:
+- Labor and facilities-related costs for employees responsible for R&D of our existing and new products and
+services;
+- Depreciation and equipment-related expenses; and
+- Stock-based compensation expense.
+R&D expenses increased $1,666 million from 2015 to 2016. The increase was primarily due to an increase in
+stock-based compensation expense of $667 million and an increase in labor and facilities-related costs of $326 million
+both largely as a result of a 16% increase in R&D headcount partially offset by higher expenses resulting from project
+milestones in Other Bets in 2015. In addition, there was an increase in depreciation and equipment-related expenses
+of approximately $388 million and an increase in professional services of $267 million due to additional expenses
+incurred for consulting, outsourced services, and temporary services.
+R&D expenses increased $2,450 million and increased as a percentage of revenues from 2014 to 2015.
+These increases were primarily due to an increase in labor and facilities-related costs of $1 ,502 million and an increase
+in stock-based compensation expense of $487 million, both largely as a result of a 16% increase in R&D headcount.
+The increase in labor and facilities-related costs was also impacted by expenses resulting from project milestones in
+Other Bets established several years ago. In addition, there was an increase in depreciation and equipment-related
+expenses of approximately $248 million and an increase in professional services of $174 million due to additional
+expenses incurred for consulting and outsourced services.
+30

@@ -1,0 +1,40 @@
+Acquisition-related costs
+Included within "Special charges (recoveries)" for the year ended June 30, 2016 are costs incurred directly in relation to
+acquisitions in the amount of $7.7 million (June 30, 2015—$4.5 million, June 30, 2014—55101 million).
+Other charges (recoveries)
+ERP Implementation Costs
+We are currently involved in a one-time project to implement a broad enterprise resource planning (ERP) system. The
+project is expected to be completed within our fiscal year ended June 30, 2017.
+For the year ended June 30, 2016, we incurred costs of $8.5 million relating to this project (June 30, 2015—nil, June 30,
+20 14—nil).
+Other costs
+For the year ended June 30, 2016, "Other costs" primarily include (i) a charge of $4.8 million relating to post-acquisition
+integration costs necessary to streamline an acquired company into our operations and costs incurred to reorganize certain legal
+entities including consolidation of intellectual property, (ii) $1.1 million relating to assets disposed in connection with a
+restructured facility and (iii) $0.3 million of other miscellaneous charges. These charges were offset by (i) a recovery of $5.7
+million relating to certain pre-acquisition sales and use tax liabilities being released upon settlement or becoming statute barred
+and (ii) a recovery of $0.5 million relating to interest and pre-acquisition liabilities being released on becoming statute barred.
+Included within "Other charges (recoveries)" for the year ended June 30, 2015 is (i) a recovery of $11.5 million relating
+to certain pre-acquisition sales and use tax liabilities being released upon settlement or becoming statute barred and (ii) a
+recovery of $1.4 million relating to interest released on certain pre-acquisition liabilities. These recoveries were offset by (i)
+$2.9 million relating to the write-off of unamortized debt issuance costs associated with the repayment of a $600 million term
+loan facility, (ii) $2.1 million relating to post-business combination compensation obligations associated with the acquisition of
+Actuate Corporation and (iii) $1.2 million relating to a reduction in leasehold improvements associated with a restructured
+facility. The remaining amounts relate to miscellaneous other charges.
+Included within "Other charges (recoveries)" for the year ended June 30, 2014 is a net recovery of $7.0 million relating to
+a reduction of certain pre-acquisition tax liabilities, along with the associated interest accrual. This recovery was oﬁset by a
+charge of $1.4 million relating to a settlement agreement reached in connection with the acquisition of IXOS Software AG in
+February 2004.
+NOTE 18—ACQUISITIONS
+Fiscal 2016 Acquisitions
+Acquisition of ANXe Business Corporation
+On May 1, 2016, we acquired all of the equity interest in ANXe Business Corporation (ANX), a leading provider of
+cloud-based information exchange services to the automotive and healthcare industries, for approximately $104.6 million. In
+accordance with Topic 805 "Business Combinations" (Topic 805), this acquisition was accounted for as a business
+combination. We believe this acquisition will strengthen our industry presence and reach in the automotive and healthcare
+industries through strong customer relationships and targeted business partner collaboration solutions.
+The results of operations of ANX have been consolidated with those of OpenText beginning May 1, 2016.
+Preliminary Purchase Price Allocation
+The recognized amounts of identifiable assets acquired and liabilities assumed, based upon their preliminary fair values
+as of May 1, 2016, are set forth below:
+145

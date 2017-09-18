@@ -1,0 +1,42 @@
+[ mseussmw ammo]
+ON E-PERCENTAGE-POINT CHANGE IN EXPECTED RATE OF RETURN AND DISCOUNT RATE
+1-Percentage- 1-Percentage-
+Point Increase Point Decrease
+Expected Rate of Return:
+Effect on net periodic pension expense S (4) S 4
+Discount Rate:
+Effect on net periodic pension expense S (6) S 9
+Effect on projected benefit obligation (77) 110
+See Note 14 to our consolidated financial statements in Item 8 for more information regarding costs and assumptions.
+ENVIRONMENTAL LIABILITIES. We record environmental liabilities when environmental assessments and/or proposed environmental remedies are probable
+and can be reasonably estimated. Usually, the timing of our accruals coincides with assessing the liability and then completing a feasibility study or committing to
+a formal plan of action. When we complete our analysis or when we commit to a plan of action, we accrue a liability based on the minimum range of the
+expected costs, unless we consider another amount more likely. We base our cost estimates on the extent of remedial actions required by applicable governing
+agencies, experience gained from similar environmental projects and the amounts to be paid by other responsible parties.
+Accruals for our environmental liabilities require judgment due to the uncertainties related to the magnitude of the liability and timing of the remediation
+effort. Our environmental liability estimates are subject to change due to potential changes in environmental laws, regulations or interpretations, additional
+information related to the extent and nature of the liability, and potential improvements in remediation technologies. We do not discount our estimated liabilities
+to present value. An estimate of the sensitivity for changes in those factors is not practicable clue to the number of contingencies that must be assessed, the
+number of underlying assumptions, and the wide range of possible outcomes.
+ACQUISITIONS. We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed, and intangible assets acquired based
+on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as
+goodwill. Determining the fair value of these items requires management’s judgment, the utilization of independent valuation experts, and involves the use of
+signiﬁcant estimates and assumptions with respect to the timing and amounts of future cash inﬂows and outflows, discount rates, market prices, and asset lives,
+among other items. The judgments made in the determination of the estimated fair value assigned to the assets acquired and the liabilities assumed, as well as the
+estimated useful life of each asset and the duration of each liability, can materially impact the financial statements in periods after acquisition, such as through
+depreciation and amortization.
+While management believes those expectations and assumptions are reasonable, they are inherently uncertain. Unanticipated market or macroeconomic
+events and circumstances may occur, which could affect the accuracy or validity of the estimates and assumptions.
+NEW ACCOUNTING STANDARDS AND DISCLOSURES
+New accounting standards and disclosures are discussed in Note 1 to our consolidated financial statements in Item 8.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+RISK MANAGEMENT
+We have established a risk committee comprised of senior level leadership from our financial, strategic, governance, administrative and operational
+functions. The risk committee’s responsibilities include performing an annual review to assess and prioritize the Company’s risks in coordination with our subject
+matter experts, assessing the status and effectiveness of risk prevention and mitigation activities, identifying emerging risks and facilitate management’s
+development of risk assessment and management practices. The risk committee is also responsible for assessing and advising management on our system of
+controls to ensure policies and procedures are properly followed and appropriate accountability is present. Our controls are designed to:
+0 create and maintain a comprehensive risk management framework;
+0 provide for authorization by the appropriate levels of management;
+0 provide for segregation of duties;
+December 31, 2016 | 57

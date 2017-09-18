@@ -1,0 +1,49 @@
+After-tax impact on earnings
+($ in thousands) from a one percent variance
+Line of business in loss reserves
+[Personal auto liability 7 7 $(63) to $64 [
+Commercial auto liability (584) to 596
+[Auto physical damage (10) to 10 [
+Workers' compensation (795) to 81 1
+[Other liability (796) to 812 [
+Property (228) to 232
+[Homeowners (25) to 25 [
+Similar to the loss reserving process, the Company uses standard actuarial methods to produce estimates of ultimate
+ratios by accident year and line of business for allocated settlement expenses. Underlying each selection are explicit
+assumptions regarding the ultimate claim frequency and settlement expense severity associated with the selected estimated
+ultimate ratio. As the assumptions are based on estimates made at a specific point in time, it is likely that the ultimate allocated
+settlement expense ratios will vary upwards or downwards from prior estimates. The expected variation will be greater for less
+mature accident years, and decreases as each accident year ages. This uncertainty is reﬂected in the unpaid allocated settlement
+expense estimates underlying the selected estimated ultimate ratios, which produce the carried allocated settlement expense
+reserves. Assuming the unpaid allocated settlement expense estimates are unbiased, the cumulative impact on the Company's
+results of operations of a one percent variance in the associated allocated settlement expense reserves over the lifetime of the
+underlying claims is shown below. A variance in carried allocated settlement expense reserves would also affect the
+Company’s financial position in that the Company’s equity would be impacted by an amount equivalent to the change in net
+income. A one percent variance in the unpaid allocated settlement expense estimates underlying the selected estimated ultimate
+allocated settlement expense ratios is considered reasonably likely based on the range of actuarial indications developed during
+the analysis of the property and casualty insurance segment’s carried allocated settlement expense reserves.
+After-tax impact on earnings
+from a one percent variance
+($ in thousands) in allocated settlement
+Line of business expense reserves
+[Personal auto liability 7 7 33(6) to $6 [
+Commercial auto liability (66) to 67
+[Auto physical damage (2) to 2 [
+Workers' compensation (7 l) to 73
+[Other liability (309) to 315 1
+Property (32) to 33
+[ Homeowners (3) to 3 [
+One of the variables impacting the estimation of loss reserves is the assumption that the vast majority of future
+construction defect losses will continue to occur in those states in which most construction defect claims have historically
+arisen. Since the vast majority of these losses have been confined to a relatively small number of states, which is consistent
+with industry experience, there is no provision in the loss reserve for a significant spread of construction defect claims to other
+states. It is also assumed that various underwriting initiatives implemented in recent years will gradually mitigate the amount
+of construction defect losses experienced. These initiatives include exclusionary endorsements, increased care regarding
+additional insured endorsements, a general reduction in the amount of contractor business written relative to the total
+commercial lines book of business, and underwriting restrictions on the writing of residential contractors. The estimation of the
+Company’s loss reserves also does not contemplate substantial losses from potential mass torts such as Methyl Tertiary Butyl
+Ether (a gasoline additive that reduces emissions, but causes pollution), tobacco, silicosis, cell phones and lead. Further,
+consistent with general industry practice, the loss reserve for all liability lines does not provide for any significant retroactive
+expansion of coverage through judicial interpretation. If these assumptions prove to be incorrect, ultimate paid amounts on
+losses may differ substantially from the carried loss reserves.
+63

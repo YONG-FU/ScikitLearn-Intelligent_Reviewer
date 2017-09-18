@@ -1,0 +1,52 @@
+There were no transfers between Levels 1 and 2 during the years ended December 31, 2016 and December 31, 2015.
+For assets classified as Level 3 measurements, the fair value is based on significant unobservable inputs including assumptions
+where there is little, if any, market activity. The fair value of the Company’s interests held in trade receivable conduits is
+determined by calculating the expected amount of cash to be received using the key input of anticipated credit losses in the
+portfolio of receivables sold that have not yet been collected. Given the short-term nature of the underlying receivables,
+discount rate and prepayments are not factors in determining the fair value of the interests. See Note 16 for further information
+on assets classified as Level 3 measurements.
+The following table summarizes the changes in fair value measurements using Level 3 inputs for the years ended December 31,
+2016 and 2015:
+Fair Value Measurements Using Level 3 Inputs for 7
+Interests Held in Trade Receivable Conduits (1)
+In millions 2016 2015 7
+|Balance at January 1 $ 943 $ 1,328 l
+Gain (Loss) included in eamings_(2) (1) 2
+l Purchases 1,552 647 ‘
+:Settlements (1,257) (1,034)
+[Balance at December 31 $ 1,237 $ 943
+(1) Included in "Accounts and notes receivable — Other" in the consolidated balance sheets.
+(2) Included in "Selling, general and administrative expenses” in the consolidated statements
+of income.
+Fair Value Measurements on a Nonreeurring Basis
+The following table summarizes the basis used to measure certain assets and liabilities at fair value on a nonrecurring basis in
+the consolidated balance sheets in 2016, 2015 and 2014:
+Basis of Fair Value Measurements on a Nonreeurring Basis Quoted Prices Signiﬁcant 7
+at December 31 in Active Other
+Markets for Unobservable
+Identical Items Inputs
+In millions (Level 1) (Level 3) Total Losses
+|20I6 l
+Assets at fair value:
+l Long-lived assets, other assets and equity method investments 33 46 $ * * $ (296)1
+’2015 *
+lAssets at fair value: ‘
+Long-lived assets, equity method investments, investments and other
+assets 33 " ’ $ 24 $ (313)
+[2014 1
+Assets at fair value:
+l Long-lived assets and other assets 33 * * $ 4 $ (73)1
+2016 Fair Value Measurements on a Nonrecurring Basis
+As part of the 2016 restructuring plan, the Company has or will shut down a number of manufacturing and corporate facilities.
+The manufacturing facilities and related assets, corporate facilities and data centers associated with this plan were written down
+to zero in the second quarter of 2016. The Company also rationalized its aircraft ﬂeet in the second quarter of 2016. Certain
+aircraft, classified as a Level 3 measurement, were considered held for sale and written down to fair value, using unobservable
+inputs, including assumptions a market participant would use to measure the fair value of the aircraft. The aircraft were
+subsequently sold during the second half of 20 16. The impairment charges related to the 2016 restructuring plan, totaling
+$153 million, were included in "Restructuring charges (credits)” in the consolidated statements of income. See Note 3 for
+additional information on the Company's restructuring activities.
+The Company recognized an impairment charge of $143 million in the fourth quarter of 20 16, related to its equity interest in
+AFSI. This investment, classified as a Level 1 measurement, was written down to $46 million using quoted prices in an active
+market. The impairment charge was included in “Sundry income (expense) - net" in the consolidated statements of income and
+reﬂected in Agricultural Sciences. See Notes 5, 9 and 13 for additional information.
+106

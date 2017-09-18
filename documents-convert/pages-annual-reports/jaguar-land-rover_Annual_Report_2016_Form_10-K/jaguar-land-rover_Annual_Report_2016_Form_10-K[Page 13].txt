@@ -1,0 +1,49 @@
+8 4 | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+2 ACCOUNTING POLICIES (CONTINUED)
+PROVISIONS
+A provision is recognised if, as a result of a past event, the Group has a present legal or constructive obligation that can
+be estimated reliably, and it is probable that an outflow of economic beneﬁts will be required to settle the obligation.
+Provisions are held for product warranties, legal and product liabilities, residual risks and environmental risks as detailed
+in note 26 to the consolidated ﬁnancial statements.
+LONG-TERM INCENTIVE PLAN (‘LTIP’)
+The Group operates a LTIP arrangement for certain employees. The scheme provides a cash payment to the employee
+based on a speciﬁc number of phantom shares at grant date and the share price of Tata Motors Limited at the vesting date,
+subject to proﬁtability and employment conditions. These are accounted for as cash—settled arrangements, whereby a
+liability is recognised at fair value at the date of grant, using a Black—Scholes model. At each balance sheet date until the
+liability is settled, the fair value of the liability is remeasured, with any changes in fair value recognised in the consolidated
+income statement.
+LEASES
+At the inception of a lease, the lease arrangement is classiﬁed as either a ﬁnance lease or an operating lease, based on the
+terms and substance of the lease arrangement.
+ASSETS TAKEN ON FINANCE LEASE
+A ﬁnance lease is recognised as an asset and a liability at the commencement of the lease, at the lower of the fair value of the
+asset and the present value of the minimum lease payments. Initial direct costs, if any, are also capitalised and, subsequent to
+initial recognition, the asset is accounted for in accordance with the accounting policy applicable to that asset. Minimum lease
+payments made under ﬁnance leases are apportioned between the ﬁnance expense and the reduction of the outstanding
+liability. The ﬁnance expense is allocated to each year during the lease term so as to produce a constant periodic rate of
+interest on the remaining balance of the liability.
+ASSETS TAKEN ON OPERATING LEASE
+Leases other than ﬁnance leases are operating leases, and the leased assets are not recognised on the Group’s balance sheet.
+Payments made under operating leases are recognised in the consolidated income statement on a straight—line basis over the
+term of the lease in ‘Other expenses’.
+EMPLOYEE BENEFITS
+PENSION PLANS
+The Group operates several deﬁned beneﬁt pension plans, which were previously contracted out of the second state pension
+scheme until 5 April 2016. The assets ofthe plans are held in separate trustee administered funds. The plans provide for
+monthly pension after retirement based on salary and service as set out in the rules of each plan.
+Contributions to the plans by the Group take into consideration the results of actuarial valuations. The plans with a surplus
+position at the balance sheet date have been limited to the maximum economic beneﬁt available from unconditional rights to
+refund from the scheme or reduction in future contributions. Where the subsidiary group is considered to have a contractual
+obligation to fund the pension plan above the accounting value of the liabilities, an onerous obligation is recognised.
+The UK deﬁned beneﬁt schemes were closed to newjoiners in April 2010.
+For deﬁned beneﬁt retirement beneﬁt schemes, the cost of providing beneﬁts is determined using the projected unit credit
+method, with actuarial valuations being carried out at the end of each reporting period.
+Remeasurement comprising actuarial gains and losses, the effect of the asset ceiling and the return on scheme assets
+(excluding interest) are recognised immediately in the balance sheet with a charge or credit to the consolidated statement
+of comprehensive income in the period in which they occur. Remeasurement recorded in the statement of comprehensive
+income is not recycled.
+Past service cost, including curtailment gains and losses, is generally recognised in proﬁt or loss in the period of scheme
+amendment. Net interest is calculated by applying the discount rate at the beginning of the period to the net deﬁned
+beneﬁt liability.

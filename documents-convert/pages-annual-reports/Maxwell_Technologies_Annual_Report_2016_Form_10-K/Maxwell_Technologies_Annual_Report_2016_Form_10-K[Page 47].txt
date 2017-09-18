@@ -1,0 +1,38 @@
+In March 2016, the FASB issued ASU No. 2016-09, Improvements to Employee Share-Based PaymentAccounting which changes the accounting for
+employee share-based payments, including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classiﬁcation in the
+Statements of Cash Flows. Under the new guidance, excess tax benefits associated with share-based payment awards will be recognized in the income statement
+when the awards vest or settle, rather than in stockholders’ equity. In addition, it will increase the number of shares an employer can withhold to cover income
+taxes on share-based payment awards and still qualify for the exemption to liability classiﬁcation. The guidance will be effective for us in the first quarter of ﬁscal
+2017. We expect that the adoption of this standard will result in the recognition of approximately $10.0 million of deferred tax assets related to stock-based
+compensation and a corresponding increase in our valuation allowance, which will be disclosed in our notes to consolidated financial statements. We do not expect
+that the adoption of this standard will have a material effect on our consolidated ﬁnancial statements.
+In August, 2016, the F ASB issued ASU No. 2016-15, Classification of Certain Cash Receipts and Cash Payments, which provides guidance on the
+presentation and classiﬁcation in the statement of cash ﬂows for eight specific cash ﬂow issues. The guidance will be effective for us in the ﬁrst quarter of fiscal
+2018. Early adoption is permitted in any annual or interim period. We have not identified any of the eight speciﬁc cash ﬂow issues within our consolidated
+ﬁnancial statements, therefore we do not expect the adoption of this standard to have a material effect on our consolidated statements of cash ﬂows.
+In November 2016, the F ASB issued ASU 2016-18, Statement of Cash Flows - Restricted Cash , which requires entities to show the changes in the total of
+cash, cash equivalents, restricted cash and restricted cash equivalents in the statement of cash ﬂow. The guidance will be effective for us in the ﬁrst quarter of fiscal
+2018. Early adoption is permitted, including adoption in an interim period, but any adjustments must be reﬂected as of the beginning of the ﬁscal year that includes
+that interim period. The new standard must be adopted retrospectively. We early adopted this standard in the fourth quarter of 2016 resulting in the reclassiﬁcation
+of restricted cash in the presentation of our consolidated statements of cash ﬂows.
+In January 2017, the FASB issued ASU 2017 No. 2017-04, Intangibles - Goodwill ana1 Other, which eliminates step two from the
+annual goodwill impairment test. The standard is effective for us in the first quarter of 2020, with early adoption permitted as of January 1, 2017, and is to be
+applied on a prospective basis. The adoption of the standard will not materially impact our consolidated ﬁnancial statements unless step one of the annual goodwill
+impairment test fails. We are currently evaluating the timing of our planned adoption of this standard.
+Off Balance Sheet Arrangements
+None.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+We face exposure to financial market risks, including adverse movements in foreign currency exchange rates and changes in interest rates. These exposures
+may change over time and could have a material adverse impact on our ﬁnancial results. We have not entered into or invested in any instruments that are subject to
+market risk, except as follows:
+Foreign Currency Risk
+Our primary foreign currency exposure is related to our subsidiary in Switzerland. Maxwell SA has Euro and local currency (Swiss Franc) revenue and
+Operating expenses, as well as local currency loans. Changes in these currency exchange rates impact the reported amount (US. dollar) of revenue, expenses and
+debt.
+As of December 31, 2016 , the impact of a theoretical detrimental change in foreign currency exchange rates of 10% would result in a hypothetical loss of
+$0.1 million. For local currency debt carried by our Swiss subsidiary, the impact of a hypothetical 10% detrimental change in foreign currency exchange rates
+would result in a hypothetical loss of $8,000 , which would be recorded in accumulated other comprehensive income on the consolidated balance sheet.
+Interest Rate Risk
+At December 31, 2016 , we had approximately $83,000 in debt, $43,000 of which is classiﬁed as long-term debt. Debt outstanding is related to vehicle
+ﬁnancing agreements and due to the minimal amounts outstanding any changes in interest rates would not signiﬁcantly impact our financial results.
+45

@@ -1,0 +1,44 @@
+[ WWW “M‘
+TESORO CORPORATION
+STATEMENTS OF CONSOLIDATED OPERATIONS
+Years Ended December 31,
+Note 2016 2015 2014
+(in millions except per share amounts)
+Revenues (a) $ 24,582 $ 28,711 $ 40,633
+Cost and Expenses:
+Cost of sales (excluding the lower of cost or market inventory valuation adjustment) (a) 19,658 21,928 35,603
+Lower of cost or market inventory valuation adjustment 5 (359) 317 42
+Operating expenses 2,541 2,455 2,444
+Selling, general and administrative expenses 401 386 346
+Depreciation and amortization expense 851 756 562
+Loss on asset disposals and impairments 9 42 4
+Operating Income 1,481 2,827 1,632
+Interest and financing costs, net (274) (217) (235)
+Equity in earnings of equity method investments 8 13 7 10
+Other income, net 57 13 57
+Earnings Before Income Taxes 1,277 2,630 1,464
+Income tax expense 13 427 936 547
+Net Earnings from Continuing Operations 850 1,694 917
+Earnings (loss) from discontinued operations, net of tax 4 10 (4) (29)
+Net Earnings 860 1,690 888
+Less: Net earnings from continuing operations attributable to noncontrolling interest 126 150 45
+Net Earnings Attributable to Tesoro Corporation $ 734 $ 1,540 $ 843
+Net Earnings (Loss) Attributable to Tesoro Corporation:
+Continuing operations $ 724 $ 1,544 $ 872
+Discontinued operations 10 (4) (29)
+Total $ 734 $ 1,540 $ 843
+Net Earnings (Loss) Per Share - Basic:
+Continuing operations $ 6.11 $ 12.53 $ 6.79
+Discontinued operations 0.08 (0.03) (0.23)
+Total $ 6.19 $ 12.50 $ 6.56
+: Weighted average common shares outstanding - Basic 16 118.5 123.2 128.5 :
+Net Earnings (Loss) Per Share - Diluted:
+Continuing operations $ 6.04 $ 12.39 $ 6.67
+Discontinued operations 0.08 (0.03) (0.23)
+Total $ 6.12 $ 12.36 $ 6.44
+: Weighted average common shares outstanding - Diluted 16 119.9 124.6 130.8 :
+Dividends per Share $ 2.10 $ 1.85 $ 1.10
+Supplemental Information:
+(a) Includes excise taxes collected by our Marketing segment $ 577 $ 561 $ 581
+The accompanying notes are an integral part of these consolidated financial statements.
+December 31, 2016 | 61

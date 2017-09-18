@@ -1,0 +1,37 @@
+The decrease in the valuation allowance of $41.6 million is primarily attributable to the Company's reorganization of
+intellectual property in the first quarter of Fiscal 2017, as well as the integration of recently completed acquisitions, supporting
+the assessment that the Company will more likely than not realize the value of certain deferred tax assets within a reasonable
+timeframe. For more details see note 23 “Subsequent Events".
+We have approximately $53.3 million of domestic non-capital loss carryforwards. In addition, we have $621.8 million of
+foreign non-capital loss carryforwards of which $63.2 million have no expiry date. The remainder of the domestic and foreign
+losses expires between 2017 and 2036. In addition, investment tax credits of $45.9 million will expire between 2027 and 2036.
+The primary components of the deferred tax assets and liabilities are as follows, for the periods indicated below:
+7 June 30, 7
+7 2016 7 7 2015
+Deferred tax assets
+{Non-capital loss carryforwards $ 230,936 $ 223,812 I
+Capital loss carryforwards 473 3,470
+{Undeducted scientific research and development expenses 92,595 80,804 I
+Depreciation and amortization 20,977 25,974
+[Restructuring costs and other reserves 16,008 17,271 I
+Deferred revenue 72,537 75,067
+[Other 7 41,985 7 7 47,581 1
+Total deferred tax asset $ 475,511 $ 473,979
+[Valuation allowance $ (88,208) $ (133,459)}
+Deferred tax liabilities
+[ Scientific research and development tax credits $ (11,478) $ (6,831)}
+Acquired intangibles (145,891) (180,457)
+[Other 7 (68,004)7_7 (37,292)l
+Deferred tax liabilities 7$ (225,373) 755 (224,580)
+{Net deferred tax asset $ 161,930 $ 115,940 l
+Comprised of:
+{Long-term assets 241,161 181,587 1
+Long-term liabilities 7 (79,231) 7 (65,647)
+[ 8 161,930 7_7$ 115,9401
+We believe that sufficient uncertainty exists regarding the realization of certain deferred tax assets that a valuation
+allowance is required. We continue to evaluate our taxable position quarterly and consider factors by taxng jurisdiction,
+including but not limited to factors such as estimated taxable income, any historical experience of losses for tax purposes and
+the future growth of OpenText.
+The aggregate changes in the balance of our gross unrecognized tax benefits (including interest and penalties) were as
+follows:
+1 3 9

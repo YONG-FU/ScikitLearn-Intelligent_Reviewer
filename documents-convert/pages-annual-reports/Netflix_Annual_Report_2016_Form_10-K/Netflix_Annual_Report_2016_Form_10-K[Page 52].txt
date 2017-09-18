@@ -1,0 +1,46 @@
+Table of Contents
+Year ended December 31,
+2016 2015 2014
+(in thousands)
+1Employee stock options 1,545 517 917 1
+Stock-Based Compensation
+The Company grants fully vested non-qualiﬁed stock options to its employees on a monthly basis. As a result of immediate vesting, stock-based
+compensation expense is fully recognized on the grant date, and no estimate is required for post-vesting option forfeitures. See Note 7 to the consolidated ﬁnancial
+statements for further information regarding stock-based compensation.
+2. Short-term Investments
+The Company’s investment policy is consistent with the definition of available-for-sale securities. The Company does not buy and hold securities principally
+for the purpose of selling them in the near future. The Company’s policy is focused on the preservation of capital, liquidity and return. From time to time, the
+Company may sell certain securities but the objectives are generally not to generate profits on short-term differences in price. The following tables summarize, by
+major security type, the Company’s assets that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy and where they are
+classified on the Consolidated Balance Sheets.
+As of December 31, 2016
+Gross Gross Non-
+Amortized Unrealized Unrealized Estimated Cash and cash Short-term current
+Cost Gains Losses Fair Value equivalents investments assets (1)
+(in thousands)
+1Cash $ 1,267,523 $ — $ — $ 1,267,523 $ 1,264,126 $ — $ 3,397 1
+Level 1 securities:
+1 Money market funds 204,967 — — 204,967 203,450 — 1,517 1
+Level 2 securities:
+1 Corporate debt securities 199,843 1 10 (731) 199,222 — 199,222 — 1
+Government securities 35,944 — (128) 35,816 — 35,816 —
+1 Certiﬁcate of deposit 9,833 — — 9,833 — 9,833 — 1
+Agency securities 21,563 — (228) 21,335 — 21,335 —
+1Total $ 1,739,673 _ $ 110 _ $ (1,087) _ $ 1,738,696 $ 1,467,576 $ 266,206 $ 4,914 1
+As of December 31, 2015
+Gross Gross
+Amortized Unrealized Unrealized Estimated Cash and cash Short-term Non-current
+Cost Gains Losses Fair Value equivalents investments assets (1)
+(in thousands)
+1Cash $ 1,708,220 $ — $ — $ 1,708,220 $ 1,706,592 $ — $ 1,628 1
+Level 1 securities:
+1 Money market funds 107,199 — — 107,199 102,738 — 4,461 1
+Level 2 securities:
+1 Corporate debt securities 240,867 154 (409) 240,612 — 240,612 — 1
+Government securities 235,252 — (1,046) 234,206 — 234,206 —
+1 Agency securities 26,576 _ — _ (9) _ 26,567 — 26,567 — 1
+Total $ 2,318,114 $ 154 $ (1,464) $ 2,316,804 $ 1,809,330 $ 501,385 $ 6,089
+(1) Primarily restricted cash that is related to workers compensation deposits and letter of credit agreements.
+Fair value is a market-based measurement that should be determined based on the assumptions that market participants would use in pricing an asset or
+liability. The hierarchy level assigned to each security in the Company’s available-for—sale
+49

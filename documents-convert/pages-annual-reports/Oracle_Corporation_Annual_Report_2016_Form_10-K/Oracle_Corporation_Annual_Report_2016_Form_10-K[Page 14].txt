@@ -1,0 +1,38 @@
+Table,0f,C,ontents
+Oracle Fusion Middleware
+We license our Oracle Fusion Middleware software, which is a broad family of integrated application infrastructure software products. These products are designed
+to form a reliable and scalable foundation on which customers can build, deploy, secure, access and integrate business applications and automate their business
+processes. Built with our Java technology platform, Oracle Fusion Middleware products can be used as a foundation for custom, packaged and composite
+applications—or applications that can be deployed in cloud environments including a set of capabilities that allow for better integration with the Oracle Cloud.
+Oracle Fusion Middleware software is designed to protect customers’ IT investments and work with both Oracle and non-Oracle database, middleware and
+application software through its open architecture and adherence to industry standards. Specifically, Oracle Fusion Middleware software is designed to enable
+customers to integrate Oracle and non-Oracle business applications, automate business processes, scale applications to meet customer demand, simplify security
+and compliance, manage lifecycles of documents and get actionable, targeted business intelligence; all while continuing to utilize their existing IT systems. In
+addition, Oracle Fusion Middleware software supports multiple development languages and tools, which enables developers to build and deploy web services,
+websites, portals and web-based applications.
+Oracle Fusion Middleware software is available in various software products and suites, including the following:
+° Oracle WebLogic Server and Oracle Cloud Application Foundation, designed to be the most complete, best-of-breed platform for developing cloud
+applications;
+° Oracle SOA Suite of software products, which are used to create, deploy and manage applications on an SOA;
+- Oracle Data Integration software products, which are designed to enable pervasive and continuous access to timely and trusted data across heterogeneous
+systems, including real-time and bulk data movement, transformation, bi-directional replication, data services and data quality for customer and product
+domains;
+- Oracle Business Process Management Suite software products, which are designed to enable businesses and IT professionals to design, implement,
+automate and evolve business processes and workﬂows within and across organizations;
+° Oracle WebCenter software products, a complete set of web experience management, portals, content management and social networks software, which
+are designed to help people work together more efficiently through contextual collaboration tools that optimize connections between people, information
+and applications and to ensure users have access to the right information in the context of the business process in which they are engaged;
+- Oracle Business Intelligence Suite, a comprehensive set of analytic software products, which are designed to provide customers with the information they
+need to make better business decisions;
+- Oracle Identity Management software, which is designed to enable customers to manage internal and external users, to secure corporate information from
+potential software threats and to streamline compliance initiatives while lowering the total cost of their security and compliance initiatives; and
+- Development Tools for application development, database development and business intelligence, including Oracle JDeveloper, an integrated software
+environment, which are designed to facilitate rapid development of applications using Oracle Fusion Middleware and popular open source technologies.
+Mobile Computing
+Among its other middleware offerings, Oracle provides a wide range of software for mobile computing to address the development needs of businesses that are
+increasingly focused on delivering mobile device applications to their customers. For example, Oracle Mobile Platform enables developers to build and extend
+enterprise applications for popular mobile devices from a single code base. Oracle Mobile Platform supports access to native device services, enables ofﬂine
+applications and is designed to protect enterprise investments from future technology shifts. Oracle Mobile Security offers comprehensive mobile identity and
+application management for provisioning of trusted access. Oracle Business Intelligence Mobile provides business intelligence functionality, from interactive
+dashboards to location intelligence, while enabling users to initiate business processes from a mobile device.
+12

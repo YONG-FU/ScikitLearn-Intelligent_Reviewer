@@ -1,0 +1,50 @@
+The following table summarizes stock option and RSU activity under the 2010 Plan:
+Outstanding Stock Options Outstanding RSUs
+Weighted- Weighted-
+Weighted- Average Average
+Average Remaining *Aggregate Grant
+Number of Exercise Contractual Intrinsic Number Date Fair
+Options Price Life (Years) Value of RSUs Value
+Balance, December 31, 2015 20,015,180 $ 46.14 2,439,674 $ 219.90
+Assumed through acquisition........... 1,304,104 283.35 382,611 185.04
+853,960 211.10 2,797,973 202.59
+(8,735,830) 12.84 — —
+Cancelled......................................... (561,992) 218.58 (519,908) 215.07
+Released........................................... — — (1,018,261) 212.96
+Balance, December 31, 2016 7 12,875,422 $ 96.50 5.8 $ 1.72 r 4,082,089? $ 207.11
+Vested and expected to vest,
+December 31,2016....................... 12,875,422 $ 96.50 5.8 $ 1.72 4,082,089
+Exercisable and vested,
+December 31,2016....................... 7,817,124 $ 77.70 5.2 $ 1.19 —
+*Aggregate intrinsic value in billions
+The aggregate intrinsic value represents the total pretax intrinsic value (i.e., the difference between our common stock price and
+the exercise price, multiplied by the number of in—the-money options) that would have been received by the option holders had all
+option holders exercised their options. The total intrinsic value of options exercised was $1.68 billion, $395.6 million and $446.9
+million for the years ended December 31, 2016, 2015 and 2014.
+Fair Value Assumptions
+We utilize the fair value method in recognizing stock-based compensation expense. Under the fair value method, we estimated
+the fair value of each option award and the ESPP on the grant date generally using the Black-Scholes option pricing model and the
+weighted-average assumptions noted in the following table.
+Year Ended December 31,
+2016 2015 2014
+Risk-free interest rate:
+1.5% 1.6% 1.9%
+Expected term (in years):
+6.2 5.4 6.0
+Expected volatility:
+47% 48% 55%
+Dividend yield:
+0.0% 0.0% 0.0%
+The risk-free interest rate that we use is based on the United States Treasury yield in effect at the time of grant for zero coupon
+United States Treasury notes with maturities approximating each grant’s expected life. Given our limited history with employee
+grants, we use the “simplified” method in estimating the expected term for our employee grants. The “simplified” method, as
+permitted by the SEC Staff, is calculated as the average of the time-to-vesting and the contractual life of the options.
+Beginning in 2015, our expected volatility is derived from our implied volatility on publicly traded options of our common stock
+and the historical volatility of our common stock. Prior to 2015, our expected volatility was derived from our implied volatility on
+publicly traded options of our common stock and the historical volatilities of several unrelated public companies within industries
+related to our business, including the automotive OEM, automotive retail, automotive parts and battery technology industries, because
+we had limited trading history on our common stock. When making the selections of our peer companies within industries related to
+our business to be used in the volatility calculation, we also considered the stage of development, size and ﬁnancial leverage of
+potential comparable companies. Our historical volatility and implied volatility are weighted based on certain qualitative factors and
+combined to produce a single volatility factor.
+91

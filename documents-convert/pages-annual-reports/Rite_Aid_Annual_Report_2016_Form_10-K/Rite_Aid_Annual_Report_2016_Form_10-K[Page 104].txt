@@ -1,0 +1,43 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+4. Income Per Share (Continued)
+stock were exercised or converted into common stock or resulted in the issuance of common stock that
+then shared in the income of the Company subject to anti- dilution limitations.
+Year Ended
+February 27, February 28, March 1,
+2016 2015 2014
+(52 Weeks) (52 Weeks) (52 Weeks)
+Numerator for income per share:
+Netincome $ 165,465 $2,109,173 $249,414
+Accretion of redeemable preferred stock . . . . — — (77)
+Cumulative preferred stock dividends . . . . . . — — (8,318)
+Conversion of Series G and H preferred
+— — (25,603)
+Income attributable to common stockholders—
+$165,465 $2,109,173 $215,416
+Add back—interest on convertible notes . . . . . . — 5,456 5,456
+Income attributable to common stockholders—
+diluted $ 165,465 $2,114,629 $220,872
+Denominator:
+Basic weighted average shares . . . . . . . . . . . 1,024,377 971,102 922,199
+Outstanding options and restricted shares, net 17,985 21,967 32,093
+Convertible notes. . . . . . . . . . . . . . . . . . . . . — 24,792 24,800
+Diluted weighted average shares . . . . . . . . . . 1,042,362 1,017,861 979,092
+Basic income per share . . . . . . . . . . . . . . . . $ 0.16 $ 2.17 $ 0.23
+Diluted income per share . . . . . . . . . . . . . . . $ 0.16 $ 2.08 $ 0.23
+Due to their anti-dilutive effect, the following potential common shares have been excluded from
+the computation of diluted income per share as of February 27, 2016, February 28, 2015 and March 1,
+2014:
+Year Ended
+February 27, February 28, March 1,
+2016 2015 2014
+(52 Weeks) (52 Weeks) (52 Weeks)
+Stockoptions......................... 3,464 2,777 4,044
+On September 30, 2013, the Company redeemed all of its outstanding Series G and Series H
+Convertible Preferred Stock (collectively the “Convertible Preferred Stock”) at the Company’s election.
+The Convertible Preferred Stock was convertible into common stock of the Company, at the holder’s
+option, at a conversion rate of $5.50 per share or 34,621,117 shares of common stock on September 30,
+2013. The Convertible Preferred Stock was redeemable by the Company for cash at 105% of the
+104

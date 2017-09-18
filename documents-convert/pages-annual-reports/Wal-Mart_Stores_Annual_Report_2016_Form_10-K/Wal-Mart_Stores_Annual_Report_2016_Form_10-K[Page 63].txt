@@ -1,0 +1,30 @@
+2.28 “Restricted Stock,” or “Restricted Shares” means Shares awarded to a Recipient pursuant to a Plan Award of Restricted
+Stock that are subject to a Restriction and all non-cash proceeds of those Shares that are subject to a Restriction.
+2.29 “Restricted Stock Unit” or “RSU” means a right denominated in Shares, awarded under the Plan that, subject to Section
+8.2, may result in payment to the Recipient in Shares or cash upon, but not before, the lapse of Restrictions related thereto. To the
+extent that Notices of Plan Award granted prior to the 2013 Restatement use the term “Restricted Stock Right,” the term “Restricted
+Stock Right” as used in such Notices of Plan Award shall, without formal amendment, be deemed to refer to Restricted Stock Units
+(as defined above) payable in Shares. To the extent that Notices of Plan Award granted prior to the 2013 Restatement use the term
+“Restricted Stock Unit,” the term “Restricted Stock Unit” as used in such Notices of Plan Award shall, without formal amendment,
+be deemed to refer to Restricted Stock Units (as defined above) to be settled in cash.
+2.30 “ Restriction” means any restriction on a Recipient’s free enjoyment of the Shares or other rights underlying a Plan Award.
+Restrictions may be based on the passage of time or the satisfaction of performance criteria or the occurrence of one or more events
+or conditions, and shall lapse separately or in combination upon such conditions and at such time or times, in installments or
+otherwise, as the Committee shall specify. Plan Awards subject to a Restriction shall be forfeited if the Restriction does not lapse
+prior to such date or the occurrence of such event or the satisfaction of such other criteria as the Committee shall determine.
+2.31 “Rule 16b-3” means Rule 16b-3 promulgated by the SEC under the Exchange Act, as amended from time to time, together
+with any successor rule, as in effect from time to time.
+2.32 “SEC” means the United States Securities and Exchange Commission, or any successor thereto.
+2.33 “Section 16 Person” means any individual who is required to file reports under Section 16 of the Exchange Act.
+2.34 “Securities Act” means the Securities Act of 1933, as amended and the rules and regulations adopted thereunder.
+2.35 “Share” means a share of the common stock, $.10 par value per share, of Walmart.
+2.36 “Stock Appreciation Right” means a right granted to a Recipient pursuant to the Stock Appreciation Rights feature of the
+Plan.
+2.37 “Subject Shares” means such term as defined in Section 3.1.
+SHARES SUBJECT TO THE PLAN
+3.1 Shares Subject to the Plan. Subject to Section 11.9, the sum of (a) 50,000,000 Shares plus (b) the number of remaining
+Shares under the 2005 Plan (not subject to outstanding Plan Awards and not delivered out of Shares reserved thereunder) as of the
+date of stockholder approval of the Plan (collectively, the “Subject Shares”) are reserved for delivery under the Plan. The Subject
+Shares may be authorized, but unissued Shares, treasury Shares held by Walmart or an Affiliate, or Shares acquired on the open
+market, including shares acquired on the open market by forwarding cash to an independent broker who will purchase Shares on
+behalf, and in the name of the Recipient. Shares reserved for delivery pursuant to a Plan Award or any rights

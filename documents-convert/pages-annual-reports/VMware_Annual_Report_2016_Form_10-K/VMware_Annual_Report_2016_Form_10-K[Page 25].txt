@@ -1,0 +1,48 @@
+Iablrebeontents
+guidelines and proposals during October 2015 that may change how our tax obligations are determined in many of the countries in which we do business. These
+changes could adversely affect our effective tax rate or result in higher cash tax liabilities.
+Catastrophic events or geo-political conditions could disrupt our business.
+Our corporate headquarters are located in the San Francisco Bay Area, a region known for seismic activity. A signiﬁcant natural disaster, such as an
+earthquake, fire, ﬂood or other act of God, could have a material adverse impact on our business and operating results. Abrupt political change, terrorist activity
+and armed conﬂict pose a risk of general economic disruption in affected countries, and disease pandemics could temporarily sideline a substantial part of our or
+our customers’ workforce at any particular time, any of which could disrupt our business. Furthermore, some of our new product initiatives and business functions
+are hosted and carried out by third parties that may be vulnerable to disruptions of these sorts, many of which may be beyond our control. Unanticipated
+disruptions in services provided through localized physical infrastructure, such as utility or telecommunication outages, can curtail the functioning of local offices
+as well as critical components of our information systems, and adversely affect our ability to process orders, provide services, respond to customer requests and
+maintain local and global business continuity. To the extent that such disruptions result in delays or cancellations of customer orders, or the deployment or
+availability of our products and services, our revenue would be adversely affected. Additionally, any such catastrophic event could cause us to incur significant
+costs to repair damages to our facilities, equipment and infrastructure.
+Changes in accounting principles and guidance could result in unfavorable accounting charges or effects.
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States. These principles are
+subject to interpretation by the SEC and various bodies formed to create and interpret apprOpriate accounting principles and guidance. A change in these principles
+or guidance, or in their interpretations, may have a material effect on our reported results, as well as our processes and related controls, and may retroactively affect
+previously reported results. For example, during May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”)
+No. 2014-09, Revenue from Contracts with Customers (Topic 606). We plan to adopt Topic 606 using the full retrospective transition method when it becomes
+effective for us in the ﬁrst fiscal quarter of 2019, under the Company’s new fiscal calendar. While we are continuing to assess the potential impacts of Topic 606,
+we currently expect unearned license revenue related to the sale of perpetual licenses will decline signiﬁcantly upon adoption. Currently, we defer all license
+revenue related to the sale of perpetual licenses in the event certain revenue recognition criteria are not met. However, under T0pic 606 we would generally expect
+that substantially all license revenue related to sale of perpetual licenses will be recognized upon delivery. We are continuing to evaluate the effect that Topic 606
+will have on our financial statements and related disclosures, and preliminary assessments are subject to change.
+Risks Related to Our Relationship with Dell
+Our stock price ﬂuctuated signiﬁcantly following the announcement of the Dell Acquisition, and our future relationship with Dell may adversely impact
+our business and stock price in the future.
+In October 2015, EMC and Dell announced the Dell Acquisition, pursuant to which Dell acquired EMC in a transaction that closed on September 7, 2016. In
+connection with the Dell Acquisition, Dell issued a tracking stock to EMC shareholders, Class V common stock, that is intended to reﬂect our economic
+performance as partial consideration to the EMC shareholders. The Class V common stock tracks the performance of an approximately 53% economic interest in
+our business.
+Our stock price ﬂuctuated signiﬁcantly following the announcement of the Dell Acquisition. A number of factors relating to our future relationship with Dell
+could adversely affect our business or our stock price in the future, including:
+0 Dell is able to control matters requiring our stockholders’ approval, including the election of a majority of our directors and the other matters over which
+EMC formerly had control, as described in the risk factors below.
+0 Dell could implement changes to our business, including changing our commercial relationship with Dell or taking other corporate actions that our other
+stockholders may not view as beneficial.
+0 We have arrangements with a number of companies that compete with Dell, and the completion of the Dell Acquisition could adversely affect our
+relationship with these companies or other customers, suppliers and partners.
+0 Dell has a right to approve certain matters under our certiﬁcate of incorporation, including acquisitions or investments in excess of $100 million, and Dell
+may choose not to consent to matters that our board of directors believes are in the best interests of VMware.
+0 We anticipate certain synergies and beneﬁts from the Dell Acquisition that may not be realized.
+0 The Class V common stock issued by Dell on September 7, 2016, while not a VMware issued security, increases the supply of publicly traded securities
+that track VMware’s economic performance and may create the perception that the Class V common stock dilutes the holdings of our public stockholders,
+both of which may put downward pressure on our stock price. While the price of Class V common stock has initially been relatively stable, it may be
+volatile from
+24

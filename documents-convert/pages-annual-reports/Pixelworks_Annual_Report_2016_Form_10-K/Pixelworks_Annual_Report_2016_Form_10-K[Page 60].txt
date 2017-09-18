@@ -1,0 +1,32 @@
+NOTE 7. COMlVIITMENTS AND CONTINGENCIES
+Royalties
+We license technology from third parties and have agreed to pay certain suppliers a royalty based on the number of chips sold or manufactured, the net sales
+price of the chips containing the licensed technology or a ﬁxed non-cancelable fee. Royalty expense is recognized based on our estimated average unit cost
+for royalty contracts with non—cancelable prepayments and the stated contractual per unit rate for all other agreements. Royalty expense was $722, $826 and
+$977 for the years ended December 31, 2016, 2015 and 2014, respectively, which is included in cost of revenue in our consolidated statements of operations.
+401(k) Plan
+We sponsor a 401 (k) plan for eligible employees. Participants may defer a percentage of their annual compensation on a pre-tax basis, not to exceed the
+dollar limit that is set by law. A discretionary matching contribution by the Company is allowed and is equal to a uniform percentage of the amount of salary
+reduction elected to be deferred, which percentage will be determined each year by the Company. We made no contributions to the 40 1 (k) plan during the
+years ended December 31, 2016, 2015 or 2014.
+Leases
+We acquire rights to use certain software engineer design tools under software licenses, accounting for such arrangements is similar to capital leases.
+Our various ofﬁce space and equipment leases are classiﬁed as operating leases. Certain of our leases for ofﬁce space contain provisions under which monthly
+rent escalates over time and certain leases also contain provisions for reimbursement of a speciﬁed amount of leasehold improvements. When lease
+agreements contain escalating rent clauses, we recognize rent expense on a straight-line basis over the term of the lease. When lease agreements provide
+allowances for leasehold improvements, we capitalize the leasehold improvement assets and amortize them on a straight-line basis over the lesser of the lease
+term or the estimated useﬁll life of the asset, and reduce rent expense on a straight-line basis over the term of the lease by the amount of the asset capitalized.
+When lease agreements provide rent holidays, we reduce rent expense on a straight-line basis over the term of the lease by the amount of the rent holiday.
+As of December 31, 2016, future minimum payments under non-cancelable software licenses and operating lease agreements are as follows:
+Year Ending December 31, _ Software licenses _ Operating leases _ Total
+I 2017 $ 418 $ 2,329 $ 2,747 l
+2018 — 1,732 1,732
+I 2019 — 914 914 l
+2020 — _ 192 _ 192
+I 418 $ 5,167 _$ 5,585 1
+Less: Interest component (29)
+’Present value of minimum software license payments 3 89 ‘
+Less: Current portion (389)
+’Long-term portion of obligations $ — ‘
+Rent expense for the years ended December 31, 2016, 2015 and 2014 was $1,770, $1,735 and $1,740, respectively.
+60

@@ -1,0 +1,44 @@
+Our valuation techniques used to measure the fair values of the derivative instruments, the counterparty to which has high
+credit ratings, were derived from pricing models including discounted cash ﬂow techniques, with all significant inputs derived
+from or corroborated by observable market data, as no quoted market prices exist for these instruments. Our discounted cash
+ﬂow techniques use observable market inputs, such as, where applicable, foreign currency spot and forward rates.
+Our cash and cash equivalents, along with our accounts receivable and accounts payable and accrued liabilities balances,
+are measured and recognized in our Consolidated Financial Statements at an amount that approximates their fair value (a Level
+2 measurement) due to their short maturities.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+We measure certain assets at fair value on a nonrecurring basis. These assets are recognized at fair value when they are
+deemed to be other-than-temporarily impaired. During the years ended June 30, 2016 and 2015, no indications of impairment
+were identified and therefore no fair value measurements were required.
+If applicable, we will recognize transfers between levels within the fair value hierarchy at the end of the reporting period
+in which the actual event or change in circumstance occurs. During the years June 30, 2016 and 2015, we did not have any
+transfers between Level 1, Level 2 or Level 3.
+Short-term Investments
+Short-term investments are classified as available for sale securities and are recorded on our Consolidated Balance Sheets
+at fair value with unrealized gains or losses reported as a separate component of Accumulated Other Comprehensive Income.
+A summary of our short-term investments outstanding as of June 30, 2016 and 2015 is as follows:
+7 As of June 30, 2016 7 7 As of June 30, 2015 7
+Gross Gross Gross Gross
+Unrealized Unrealized Estimated Unrealized Unrealized Estimated
+7 Cost 7 7 Gains 7 7 (Losses) 7 7 Fair Value 7 7 Cost 7 7 Gains 7 7 (Losses) 7 7 Fair Value 7
+Short-term
+investments 733 11,406 7 733 436 7 733 (3) 8 11,839 7 8 20,286 7 S 2 7 733 (14) 73; 20,274 7
+NOTE 16—DERIVATIVE INSTRUMENTS AND HEDGIN G ACTIVITIES
+Foreign Currency Forward Contracts
+We are engaged in hedging programs with relationship banks to limit the potential foreign exchange ﬂuctuations incurred
+on future cash ﬂows relating to a portion of our Canadian dollar payroll expenses. We operate internationally and are therefore
+exposed to foreign currency exchange rate ﬂuctuations in the normal course of our business, in particular to changes in the
+Canadian dollar on account of large costs that are incurred from our centralized Canadian operations, which are denominated in
+Canadian dollars. As part of our risk management strategy, we use foreign currency forward contracts to hedge portions of our
+payroll exposure with typical maturities of between one and twelve months. We do not use derivatives for speculative purposes.
+We have designated these transactions as cash ﬂow hedges of forecasted transactions under ASC Topic 815 “Derivatives
+and Hedging” (Topic 815). As the critical terms of the hedging instrument, and of the entire hedged forecasted transaction, are
+the same, in accordance with Topic 815 we have been able to conclude that changes in fair value or cash ﬂows attributable to
+the risk being hedged are expected to completely oﬁset at inception and on an ongoing basis. Accordingly, quarterly unrealized
+gains or losses on the effective portion of these forward contracts have been included within other comprehensive income. The
+fair value of the contracts, as of June 30, 2016, is recorded within "Prepaid expenses and other current assets”.
+As of June 30, 2016, the notional amount of forward contracts we held to sell US. dollars in exchange for Canadian
+dollars was $33.2 million (June 30, 2015—$76.4 million).
+Fair Value of Derivative Instruments and Effect of Derivative Instruments on Financial Performance
+The effect of these derivative instruments on our Consolidated Financial Statements for the periods indicated below were
+as follows (amounts presented do not include any income tax eﬁects).
+142

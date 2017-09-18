@@ -1,0 +1,45 @@
+[Current assets $ 9,712 [
+Non-current tangible assets 51 1
+[Intangible customer assets 49,700 [
+Intangible technology assets 5,600
+[Liabilities assumed 7 (26,190)]l
+Total identifiable net assets 39,333
+[Goodwill 65,237 [
+Net assets acquired 7$ 104,570 7
+The goodwill of $65.2 million is primarily attributable to the synergies expected to arise after the acquisition. Of this
+goodwill, approximately $7.0 million is expected to be deductible for tax purposes.
+The fair value of current assets acquired includes accounts receivable with a fair value of $5.7 million. The gross amount
+receivable was $5.8 million of which $0.1 million of this receivable was expected to be uncollectible.
+The finalization of the purchase price allocation is pending the finalization of the fair value for taxation-related balances
+and for potential adjustments to assets and liabilities. We expect to finalize this determination on or before March 31, 2017.
+Acquisition-related costs for ANX included in Special charges (recoveries) in the Consolidated Statements of Income for
+the year ended June 30, 2016 were $0.9 million.
+The acquisition had no significant impact on revenues and net earnings for the year ended June 30, 2016, since the date of
+acquisition.
+Purchase of an Asset Group Constituting a Business
+On April 30, 2016, we acquired certain customer experience software and services assets and liabilities from HP Inc.
+(CEM Business) for approximately $160.0 million, of which $7.3 million is currently held back and unpaid in accordance with
+the terms of the purchase agreement. In accordance with Topic 805, this acquisition was accounted for as a business
+combination. We believe this acquisition will complement our current software portfolio, particularly our Customer Experience
+Management and Cloud oﬁerings.
+The results of operations of this acquisition have been consolidated with those of OpenText beginning April 30, 2016.
+Preliminary Purchase Price Allocation
+The recognized amounts of identifiable assets acquired and liabilities assumed, based upon their preliminary fair values
+as of April 30, 2016, are set forth below:
+[Current assets 33 2,333 [
+Non-current tangible assets 12,041
+[Intangible customer assets 33,000 [
+Intangible technology assets 47,000
+[Liabilities assumed 7 (25,086)]|
+Total identifiable net assets ’ 69,288 ’
+[Goodwill f 90,712 [
+Net assets acquired :$ 160,000 :
+The goodwill of $90.7 million is primarily attributable to the synergies expected to arise after the acquisition. Of this
+goodwill, approximately $77.0 million is expected to be deductible for tax purposes.
+The finalization of the purchase price allocation is pending the finalization of the fair value for assets acquired, including
+intangible assets and liabilities assumed.
+Acquisition-related costs for CEM Business included in Special charges (recoveries) in the Consolidated Statements of
+Income for the year ended June 30, 2016 were $2.8 million.
+The acquisition had no significant impact on revenues and net earnings for the year ended June 30, 2016 since the date of
+acquisition.
+146

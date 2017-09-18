@@ -1,0 +1,50 @@
+Our current practice is to issue shares of common stock from treasury shares upon exercise of stock options, distribution of
+director deferred compensation and vesting of RSUs. The following table reflects the changes in our treasury shares:
+Treasury
+Stock Options RSUs Shares
+Balance,December31,2013........................................ 658,012,970
+Repurchases 61,665,209
+Shares used for:
+Stockoptions/RSUs............................................. (19,503,382) (5,609,627)
+Stockappliedtoexercisesortaxes.................................. 6,618 1,408,701
+1‘ (1,784,184) —
+g Directordeferredstock.......................................... — — (7,178)
+3 Totalissued..................................................... (21,280,948) (4,200,926) (25,481,874)
+3,; Balance,December31,2014........................................ 694,189,127
+z Repurchases.................................................... 51,384,339
+Shares used for:
+Stockoptions/RSUs............................................. (11,953,455) (3,386,415)
+Stockappliedtoexercisesortaxes.................................. 8,562 845,164
+(1,532,264) —
+Directordeferredstock.......................................... — — (7,531)
+Totalissued..................................................... (13,477,157) (2,541,251) (16,018,408)
+Balance,December31,2015........................................ 729,547,527
+Repurchases 35,480,036
+Shares used for:
+Stockoptions/RSUs............................................ (14,516,606) (5,639,666)
+Stockappliedtoexercisesortaxes — 1,336,476
+(1,362,202) —
+Directordeferredstock......................................... — — (13,587)
+Totalissued.................................................... (15,878,808) (4,303,190) (20,181,998)
+Balance,December31,2016....................................... 744,831,978
+Shares available for future grants and reserved for issuance are as follows:
+December 31, 2016
+Employee
+Long-Term Director Stock
+Incentive Compensation Purchase
+Shares Plans Plans (a) Plan Total
+Reserved for issuance 123,296,771 2,341,272 36,670,572 162,308,615
+Shares to be issued upon exercise of outstanding options
+and RSUs (63,715,186) (1,026,626) (283,400) (65,025,212)
+Available forfuture grants 59,581,585 1,314,646 36,387,172 97,283,403
+(a) Includes 143,645 shares credited to directors’ deferred stock accounts that settle in shares of TI common stock. These
+shares are not included as grants outstanding as of December 31, 2016.
+The effects on cash flows are as follows:
+For Years Ended December 31,
+2016 2015 2014
+Proceedsfromcommonstocktransactions(a) $472 $396 $554
+Taxbenefitrealizedfromstockcompensation $ 255 $171 $ 218
+Reductiontodeferredincometaxasset.............................................. (105) (81) (108)
+Excesstaxbenefitforstockcompensation $150 $ 90 $110
+(a) Net of taxes paid for employee shares withheld of $70 million in 2016, $46 million in 2015 and $62 million in 2014.
+42 TEXAS INSTRUMENTS - 2016 FORMfo-K

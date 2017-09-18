@@ -1,0 +1,42 @@
+Goodwill Impairment
+Nature of Estimates Required . We review goodwill annually at the reporting unit level at the same time every year or when an event occurs or circumstances
+change such that it is reasonably possible that an impairment may exist. We have established December 31 as the annual impairment test date. We first make a
+qualitative assessment as to whether goodwill is impaired and if it is more likely than not that goodwill is impaired, we perform a two-step quantitative impairment
+analysis to determine if goodwill is impaired. We may also determine to skip the qualitative assessment in any year and move directly to the quantitative test. For
+the quantitative test, we determine the fair value of the reporting unit, then compare the fair value of the reporting unit to its carrying value. If carrying value
+exceeds fair value for the reporting unit, then we calculate and compare the implied fair value of goodwill to the carrying amount of goodwill and record an
+impairment charge for any excess of carrying value over implied fair value.
+Assumptions and Approach Used . The determination of fair value requires a number of significant assumptions and judgments, including assumptions about
+future economic conditions, revenue growth, operating margins, and discount rates.
+In 2016, we performed a qualitative analysis on our high voltage reporting unit and concluded that it was more likely than not that its fair value exceeded its
+carrying value and therefore did not perform quantitative testing for this reporting unit. For our ultracapacitor reporting unit, which was associated with $2.3
+million of goodwill, we skipped the qualitative analysis and performed the first step of the quantitative analysis.
+For the quantitative step one goodwill impairment analysis of our ultracapacitor reporting unit, we utilized a discounted cash flow model to calculate the fair
+value of the reporting unit which required us to make significant assumptions and estimates about the extent and timing of future cash ﬂows, discount rates and
+growth rates. The basis of the goodwill impairment analysis is our annual budget and long-range cash ﬂow projections. Because cash ﬂows are estimated over a
+significant future period of time, the estimates and assumptions are subject to a high degree of uncertainty. Our revenue growth assumptions are internally
+developed based on detailed market and opportunity analysis and include the successful execution of our long-term growth strategies such as the localization of
+ultracapacitor modules for the China bus market. We believe the assumptions and estimates used in the analysis to estimate fair value are reasonable. The use of
+different estimates or assumptions within a discounted cash ﬂow model, or the use of a methodology other than a discounted cash ﬂow model, could result in a
+significantly different fair value for the reporting unit. The impairment testing we conducted in 2016 indicated that the fair value of the ultracapacitor reporting unit
+was in excess of its carrying value, as such, we concluded that the goodwill assigned to the ultracapacitor reporting unit was not impaired and no further
+quantitative testing was performed. No impairments of goodwill were reported during the years ended December 31, 2016 , 2015 and 2014 .
+Stock-Based Compensation
+Nature of Estimates Required . Our stock-based compensation awards include stock options, restricted stock, restricted stock units, and shares issued under
+our employee stock purchase plan (“ESPP”). We record compensation expense for our stock-based compensation awards in accordance with the criteria set forth in
+the Stock Compensation Subtopic of the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”). Under the guidance, the
+fair value of each employee stock option is estimated on the date of grant using an option pricing model that meets certain requirements. We use the Black-Scholes
+option pricing model to estimate the fair value of stock option grants. The determination of the fair value of stock options utilizing the Black-Scholes model is
+affected by our stock price and a number of assumptions, including expected volatility, expected life, risk-free interest rate and expected dividends.
+The fair value of restricted stock awards (“RSAS”) and restricted stock unit awards (“RSUS”) is based on the closing market price of our common stock on
+the date of grant. Compensation expense equal to the fair value of each RSA or RSU is recognized ratably over the requisite service period. For RSUs with vesting
+contingent on the achievement of Company performance conditions, we use the requisite service period that is most likely to occur. The requisite service period is
+estimated based on the performance period as well as any time-based employee service requirements. If it is unlikely that a performance condition will be achieved,
+no compensation expense is recognized unless it is later determined that achievement of the performance condition is likely. Expense may be adjusted for changes
+in the expected outcomes of the related performance conditions, with the impact of such changes recognized as a cumulative adjustment in the consolidated
+statement of operations in the period in which the expectation changes.
+In 2016 and 2014, we issued market-condition RSUs to certain members of executive management. Since the vesting of the market-condition RSUs is
+dependent on stock price performance, the fair value of these awards was estimated using a Monte-Carlo valuation model. The determination of the fair value of
+market-condition RSUs utilizing a Monte-Carlo valuation model was affected by our stock price and a number of assumptions, including expected volatility,
+expected life, risk-free interest rate and expected dividends.
+42

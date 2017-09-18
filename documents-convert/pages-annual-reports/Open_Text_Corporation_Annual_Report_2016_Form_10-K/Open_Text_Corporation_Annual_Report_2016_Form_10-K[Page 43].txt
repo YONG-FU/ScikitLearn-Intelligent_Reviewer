@@ -1,0 +1,51 @@
+relationships and targeted business partner collaboration solutions. The results of operations of ANX have been consolidated
+with those of OpenText beginning May 1, 2016.
+Acquisition of Certain Customer Experience Software Assets from HP Inc.
+On April 30, 2016, we acquired certain customer experience software and services assets and liabilities from HP Inc.
+(CEM Business) for approximately $160.0 million, of which $7.3 million is currently held back and unpaid in accordance with
+the terms of the purchase agreement. We believe that the acquisition will complement our current software portfolio,
+particularly our Customer Experience Management and Cloud offerings. The results of operations have been consolidated with
+those of OpenText beginning April 30, 2016.
+Acquisition of Daegis Inc.
+On November 23, 2015, we acquired Daegis Inc. (Daegis), a global information governance, data migration solutions and
+development company, based in Irvine, Texas, United States. Total consideration for Daegis was $23.3 million ($22.1 million -
+net of cash acquired). We believe this acquisition enables OpenText to strengthen our current information governance
+capabilities. The results of operations of Daegis have been consolidated with those of OpenText beginning November 23, 2015.
+We believe our acquisitions support our long-term strategic direction, strengthen our competitive position, expand our
+customer base, provide greater scale to accelerate innovation, grow our earnings and provide superior shareholder value. We
+expect to continue to strategically acquire companies, products, services and technologies to augment our existing business.
+Our acquisitions, particularly significant ones, can affect the period-to-period comparability of our results. See note 18
+"Acquisitions" to our Consolidated Financial Statements for more details.
+Outlook for Fiscal 2017
+While we continue to oﬂ?er on-premises solutions, we realize that the EIM market is broad and we are agnostic to whether
+a customer prefers an on-premises solution, cloud solution, or combination of both (hybrid). We believe giving customer choice
+and ﬂexibility will help us to strive to obtain long-term customer value. We measure long-term value by looking at our
+recurring revenue, earnings and operating cash ﬂow. We define recurring revenue as the sum of our “Cloud services and
+subscriptions revenue”, “Customer support revenue” and “Professional services revenue”. In Fiscal 2016 recurring revenue was
+$1,541 million, which represented 84% of our total revenues and was relatively stable (down 1.1%) compared to Fiscal 2015.
+Our Cloud services and subscriptions revenues was also relatively stable (down 0.7%) in Fiscal 2016 compared to Fiscal 2015.
+Our net income for Fiscal 2016 was up 21% compared to Fiscal 2015 and our operating cash ﬂow was relatively ﬂat, growing
+1% over the same period. We believe customers are looking for choice and ﬂexibility in how they consume technology and we
+look to continue to provide long term value to our customers.
+Additionally, Customer support revenues, which are a recurring source of income for us, make up a significant portion of
+our revenue mix. Our management reviews our Customer support renewal rates on a quarterly basis and we use these rates as a
+method of monitoring our customer service performance. For the three months ended June 30, 2016, our Customer support
+renewal rate was approximately 90%, consistent with the Customer support renewal rate during the three months ended
+June 30, 2015.
+We expect to continue to pursue strategic acquisitions in the future to strengthen our service offerings in the EIM market.
+We believe we are a value oriented and disciplined acquirer, having efficiently deployed $3.7 billion on acquisitions over the
+last 10 years. We see our ability to successfully integrate acquired companies and assets into our business as a strength and
+pursuing strategic acquisitions is an important aspect to our growth strategy. In Fiscal 2016, we further demonstrated the
+implementation of this strategy by acquiring Daegis, ANX, and CEM Business. On June 20, 2016 we announced that we
+entered into a definitive agreement to acquire customer communication management assets from HP Inc. for approximately
+$315 million. On July 20, 2016, we closed our previously announced acquisition of Recommind Inc., a leading provider of
+eDiscovery and Information analytics. For additional details, please refer to note 23 "Subsequent Events" to our Consolidated
+Financial Statements.
+While continuing to acquire companies is our leading growth driver, our growth strategy also includes organic growth
+through internal innovation. Over the last three fiscal years, we have invested approximately $567 million in research and
+development (R&D) and we typically target to spend approximately 10% to 12% of revenues for R&D. We believe our ability
+to leverage our global presence is helpful to our ability to grow organically.
+In April, 2016 we introduced "OpenText Release 16" (Release 16), which is an integrated digital information platform
+that manages and analyzes the entire ﬂow of information, addressing key areas of the user experience, machine-to-machine
+integration, automation and other aspects of managing unstructured data in a digital first organization.
+35

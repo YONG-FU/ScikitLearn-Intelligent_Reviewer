@@ -1,0 +1,41 @@
+Iable,of,ContentS
+Interest and Other Expense, net:
+Interest and other expense, net within our results of continuing operations consisted of:
+For the Years Ended December 31,
+2016 2015 2014
+(in millions)
+I Interest expense, debt $ 515 $ 609 $ 778 I
+Loss onidebt extinguishment and related expenses 427 753 495
+I JDE coffee business transactions currency-related net gains — (436) (628)I
+Loss related to interest rate swaps 97 34 —
+I Other expense, net 76 53 43I
+Interest and other expense, net 8 1,115 $ 1,013 $ 688
+See Note 2, Divestitures and Acquisitions, and Note 8, Financial Instruments, for information on the currency exchange forward contracts associated
+with the JDE coffee business transactions. Also see Note 8, Financial Instruments , for information on the loss related to U.S. dollar interest rate
+swaps no longer designated as accounting cash ﬂow hedges during the ﬁrst quarters of 2016 and 2015.
+Note 8. Financial Instruments
+Fair Value of Derivative Instruments:
+Derivative instruments were recorded at fair value in the consolidated balance sheets as follows:
+Asiof Deﬁciem bieri31,
+2016 2015
+Asset Liability Asset Liability
+Derivatives Derivatives Derivatives Derivatives
+(in millions)
+Derivatives designated as accounting hedges: I
+Currency exchange contracts $ 19 $ 8 $ 20 $ 7
+Commodity contracts 17 22 37 35 I
+Interest rate contracts 108 19 12 57
+| $ 144 $ 49 $ 69 $ 99]
+Derivatives not designated as accounting
+hedges:
+Currency exchange contracts $ 29 $ 43 $ 61 $ 33 I
+Commodity contracts 112 167 70 56
+Interest rate contracts 27 19 43 28I
+$ 168 $ 229 $ 174 $ 117
+ITotal fair value Is 312* $ 278 Is 243 $ 216]
+During 2016 and 2015, derivatives designated as accounting hedges include cash ﬂow and fair value hedges and derivatives not designated as
+accounting hedges include economic hedges. Non-U.S. dollar denominated debt designated as a hedge of our net investments in non-U.S.
+operations is not reﬂected in the table above, but is included in long-term debt summarized in Note 7, Debt and Borrowing Arrangements . We record
+derivative assets and liabilities on a gross basis in our consolidated balance sheet. The fair value of our asset derivatives is recorded within other
+current assets and the fair value of our liability derivatives is recorded within other current liabilities.
+89

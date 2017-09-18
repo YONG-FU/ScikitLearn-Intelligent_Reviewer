@@ -1,0 +1,48 @@
+KELLY SERVICES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+carrying value of a reporting unit’s goodwill exceeds its implied fair value, goodwill is deemed impaired and is written down to
+the extent of the difference.
+Accounts Payable Included in accounts payable are book overdrafts, which are outstanding checks in excess of funds on
+deposit. Such amounts totaled $8.8 million and $4.4 million at year-end 2016 and 2015, respectively.
+Accrued Payroll and Related Taxes Included in accrued payroll and related taxes are book overdrafts, which are outstanding
+checks in excess of funds on deposit. Such amounts totaled $18.4 million and $4.9 million at year-end 2016 and 2015,
+respectively. Payroll taxes for temporary employees are recognized proportionately to direct wages for interim periods based
+on expected full-year amounts.
+Income Taxes The Company accounts for income taxes using the liability method. Under this method, deferred tax assets and
+liabilities are recognized for the expected tax consequences of temporary differences between the tax bases of assets and
+liabilities and their reported amounts. Valuation allowances are provided against deferred tax assets when it is more likely than
+not that some portion or all of the deferred tax asset will not be realized.
+The US. work opportunity credit is allowed for wages earned by employees in certain targeted groups. The actual amount of
+creditable wages in a particular period is estimated, since the credit is only available once an employee reaches a minimum
+employment period and the employee’s inclusion in a targeted group is certified by the applicable state. As these events often
+occur after the period the wages are earned, judgment is required in determining the amount of work opportunity credits
+accrued for in each period. We evaluate the accrual regularly throughout the year and make adjustments as needed.
+Uncertain tax positions that are taken or expected to be taken in a tax return are recognized in the financial statements when it
+is more likely than not (i.e., a likelihood of more than ﬁfty percent) that the position would be sustained upon examination by
+tax authorities that have full knowledge of all relevant information. A recognized tax position is then measured at the largest
+amount of benefit that is greater than fifty percent likely of being realized upon ultimate settlement.
+Interest and penalties related to income taxes are classiﬁed as income tax expense.
+Stock-Based Compensation The Company may grant restricted stock awards and units (collectively, “restricted stock”), stock
+options (both incentive and nonqualified), stock appreciation rights and performance awards to key employees associated with
+the Company’s Class A stock. The Company utilizes the market price on the date of grant as the fair value for restricted stock
+and the market price on the date of grant less the present value of the expected dividends not received during the vesting period
+for performance awards. The Company also estimates a fair value of performance awards related to relative total shareholder
+return using a Monte Carlo simulation model. The Company estimates the fair value of stock option awards on the date of
+grant using an option-pricing model. The value of awards that are ultimately expected to vest is recognized as expense over the
+requisite service periods in SG&A expense in the Company’s consolidated statements of earnings.
+Earnings Per Share Restricted stock that entitle their holders to receive nonforfeitable dividends before vesting are considered
+participating securities and, therefore, are included in the calculation of earnings per share using the two-class method. The
+two-class method is an earnings allocation formula that determines earnings per share for each class of common stock and
+participating security according to dividends declared and participation rights in undistributed earnings. Under this method,
+earnings from continuing operations (or net earnings) is reduced by the amount of dividends declared, and the remaining
+undistributed earnings is allocated to common stock and participating securities based on the proportion of each class’s
+weighted average shares outstanding to the total weighted average shares outstanding. The calculation of diluted earnings per
+share includes the effect of potential common shares outstanding in the average weighted shares outstanding.
+Workers’ Compensation The Company establishes accruals for workers’ compensation claims utilizing actuarial methods to
+estimate the undiscounted future cash payments that will be made to satisfy the claims. The estimates are based both on
+historical experience as well as current legal, economic and regulatory factors. When claims exceed the applicable loss limit or
+self-insured retention and realization of recovery of the claim from existing insurance policies is deemed probable, the
+Company records a receivable from the insurance company for the excess amount. The receivable is included in prepaid
+expenses and other current assets and other assets in the consolidated balance sheet at year end. The Company regularly
+updates its estimates, and the ultimate cost of these claims may be greater than or less than the established accrual.
+56

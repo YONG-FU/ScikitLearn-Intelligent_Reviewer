@@ -1,0 +1,45 @@
+Annual Active Buyers
+The following chart sets forth the number of active buyers on our China retail marketplaces for the periods
+indicated:
+Twelve months ended
+Jun. 30, Sep. 30, Dec. 31, Mar. 31, Jun. 30, Sep. 30, Dec. 31, Mar. 31,
+2014 2014 2014 2015 2015 2015 2015 2016
+(in millions)
+Annual active buyers . . . . . . . . . . . . . . 279 307 334 350 367 386 407 423
+Mobile
+The following charts set forth the mobile GMV, mobile revenue, mobile monetization rates realized and
+mobile MAUs in respect of our China retail marketplaces for the periods indicated:
+Three months ended
+Jun 30, Sep 30, Dec 31, Mar 31, Jun 30, Sep 30, Dec 31, Mar 31,
+2014 2014 2014 2015 2015 2015 2015 2016
+(in millions of RMB, except percentages)
+China retail marketplaces:
+GMV . . . . . . . . . . . . . . . . . . 500,916 555,666 787,047 600,092 673,198 712,933 964,317 741,937
+Mobile GMV . . . . . . . . . . . 164,428 199,054 326,889 303,772 370,578 440,113 651,139 541,024
+as a percentage of GMV . . . . 33% 36% 42% 51% 55% 62% 68% 73%
+Revenue . . . . . . . . . . . . . . . . 12,639 12,769 21,275 13,049 15,712 17,267 28,714 18,340
+Mobile revenue . . . . . . . . . 2,454 3,719 6,420 5,247 7,987 10,520 18,746 13,084
+as a percentage of revenue . . . 19% 29% 30% 40% 51% 61% 65% 71%
+Monetization rate. . . . . . . . . . 2.52% 2.30% 2.70% 2.17% 2.33% 2.42% 2.98% 2.47%
+Mobile monetization rate . . . . 1.49% 1.87% 1.96% 1.73% 2.16% 2.39% 2.88% 2.42%
+Month ended
+Jun 30, Sep 30, Dec 31, Mar 31, Jun 30, Sep 30, Dec 31, Mar 31,
+2014 2014 2014 2015 2015 2015 2015 2016
+(in millions)
+Mobile MAUs. . . . . . . . . . . . . . . . . . . . . 188 217 265 289 307 346 393 410
+Revenue per Active Buyer / Mobile Revenue per Mobile MAU
+The following chart sets forth annual China commerce retail revenue per annual active buyer and annualized
+mobile revenue per mobile MAU from China commerce retail for the periods indicated:
+Twelve months ended
+Jun 30, Sep 30, Dec 31, Mar 31, Jun 30, Sep 30, Dec 31, Mar 31,
+2014 2014 2014 2015 2015 2015 2015 2016
+(in RMB)
+Annual China commerce retail revenue per
+annual active buyer“) . . . . . . . . . . . . . . . 168 166 168 171 171 174 184 189
+Mobile revenue per mobile MAU from
+China commerce retail — annualizeda). . . 27 39 52 62 76 87 108 123
+(1) Annual China commerce retail revenue per annual active buyer for each of the above periods is calculated by dividing the China commerce
+retail revenue for the previous twelve months by the annual active buyers for the same period.
+(2) Mobile revenue per mobile MAU from China commerce retail, annualized is calculated by dividing mobile revenue from China commerce
+retail for the previous twelve months by the mobile MAUs at the end of the same period.
+7

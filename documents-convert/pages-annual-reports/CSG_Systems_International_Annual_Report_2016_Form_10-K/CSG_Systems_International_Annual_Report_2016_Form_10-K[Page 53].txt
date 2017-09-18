@@ -1,0 +1,38 @@
+The fair value for our Credit Agreement was estimated using a discounted cash ﬂow methodology, while the fair value for our convertible debt was estimated based upon
+quoted market prices or recent sales activity, both of which are considered Level 2 inputs. See Note 5 for discussion regarding our debt.
+Concentrations of Credit Risk. In the normal course of business, we are exposed to credit risk. The principal concentrations of credit risk relate to cash deposits, cash
+equivalents, short-term investments, and accounts receivable. We regularly monitor credit risk exposures and take steps to mitigate the likelihood of these exposures
+resulting in a loss. We hold our cash deposits, cash equivalents, and short-term investments with financial institutions we believe to be of sound ﬁnancial condition.
+We generally do not require collateral or other security to support accounts receivable. We evaluate the credit worthiness of our clients in conjunction with our revenue
+recognition processes, as well as through our ongoing collectability assessment processes for accounts receivable. We maintain an allowance for doubtful accounts
+receivable based upon factors surrounding the credit risk of speciﬁc clients, historical trends, and other information. We use various judgments and estimates in
+determining the adequacy of the allowance for doubtful accounts receivable. See Note 3 for additional details of our concentration of accounts receivable.
+The activity in our allowance for doubtful accounts receivable is as follows (in thousands):
+2016 2015 2014
+Balance,beginning o_f year $ 3,600 $ 3,323 $ 2,359 T
+Additions to expense 614 533 1,406
+Write-offs (1,102) (318) (465 )j
+Recoveries — 89 —
+other (32) (27) 23 j
+Balance, end of year $ 3,080 $ 3,600 $ 3,323
+Property and Equipment . Property and equipment are recorded at cost (or at estimated fair value if acquired in a business combination) and are depreciated over their
+estimated useful lives ranging from three to ten years. Leasehold improvements are depreciated over the shorter of their economic life or the lease term. Depreciation
+expense is computed using the straight-line method for financial reporting purposes. Depreciation expense for all property and equipment is reﬂected in our
+accompanying Consolidated Statements of Income (“Income Statements”) separately in the aggregate and is not included in the cost of revenues or the other components
+of operating expenses. Depreciation for income tax purposes is computed using accelerated methods.
+Software. We expend substantial amounts on R&D, particularly for new products and services, or for enhancements of existing products and services. For development
+of software products that are to be licensed by us, we expense all costs related to the development of the software until technological feasibility is established. For
+development of software to be used internally (e.g., cloud-based systems software), we expense all costs prior to the application development stage.
+During 2016, 2015, and 2014, we expended $98.7 million, $102.0 million, and $104.7 million, respectively, on R&D projects. We did not capitalize any R&D costs in
+2016, 2015, and 2014, as the costs subject to capitalization during these periods were not material. We did not have any capitalized R&D costs included in our
+December 31, 2016 and 2015 Balance Sheets.
+Realizability of Long-Lived Assets. We evaluate our long-lived assets, other than goodwill, for possible impairment whenever events or changes in circumstances indicate
+that the carrying value of these assets may not be recoverable. A long-lived asset is impaired if estimated future undiscounted cash ﬂows associated with that asset are
+insufficient to recover the carrying amount of the long-lived asset. If deemed impaired, the long-lived asset is written down to its fair value.
+Goodwill. We evaluate our goodwill for impairment on an annual basis. In addition, we evaluate our goodwill on a more periodic basis (e. g., quarterly) if events occur or
+circumstances change that could indicate a potential impairment may have occurred. Goodwill is considered impaired if the carrying value of the reporting unit which
+includes the goodwill is greater than the estimated fair value of the reporting unit.
+Contingencies. We accrue for a loss contingency when: (i) it is probable that an asset has been impaired, or a liability has been incurred; and (ii) the amount of the loss
+can be reasonably estimated. The determination of accounting for loss contingencies is subject to various judgments and estimates. We do not record the benefit from a
+gain contingency until the benefit is realized.
+52

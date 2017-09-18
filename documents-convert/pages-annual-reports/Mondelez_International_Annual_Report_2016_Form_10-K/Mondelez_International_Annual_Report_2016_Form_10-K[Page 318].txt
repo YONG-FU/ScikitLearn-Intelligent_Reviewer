@@ -1,0 +1,26 @@
+(b) the Commitment and Loans of such Defaulting Lender shall not be included in determining whether the Required Lenders, Required Three-Year
+Lenders or Required F ive-Year Lenders have taken or may take any action hereunder (including any consent to any amendment, waiver or modification of this
+Agreement pursuant to Section 9.01); providedthat any amendment, waiver or modification requiring the consent of all Lenders or each affected Lender shall
+require the consent of such Defaulting Lender.
+In the event that each of the Administrative Agent and Mondeléz agree that a Defaulting Lender has adequately remedied all matters that caused such
+Lender to be a Defaulting Lender, then such Lender shall purchase at par such of the Loans of the other Lenders as the Administrative Agent shall determine may
+be necessary in order for such Lender to hold such Loans in accordance with its pro rata portion of the total Commitments and clauses (a) and (b) above shall cease
+to apply.
+ARTICLE III
+Conditions to Effectiveness and Lending
+SECTION 3.01 Conditions Precedent to Effectiveness . This Agreement and the obligations of the Lenders to make Loans shall become effective on
+and as of the ﬁrst date (the “ EffectiveIDatef) on which the following conditions precedent have been satisﬁed, or waived in accordance with Section 9.01:
+(a) the Borrower shall have notified each Lender and the Administrative Agent in writing as to the proposed Effective Date.
+(b) On the Effective Date, the following statements shall be true and the Administrative Agent shall have received for the account of each Lender a
+certificate signed by a duly authorized officer of the Borrower, dated the Effective Date, stating that:
+(i) the representations and warranties contained in Section 4.01 are correct on and as of the Effective Date, and
+(ii) no event has occurred and is continuing on and as of the Effective Date that constitutes a Default or Event of Default.
+(c) [reserved].
+((1) [reserved].
+(e) The Administrative Agent shall have received on or before the Effective Date the following, each dated such day, in form and substance
+satisfactory to the Administrative Agent:
+(i) Certified copies of (X) the resolutions of the Board of Directors of Mondeléz and (y) (1) a copy of the constitutional documents of the
+Borrower and (2) a copy of a resolution of the board of directors of the Borrower approving the terms of, and the transactions contemplated by, this
+Agreement, in each case approving this Agreement, and of all documents evidencing other necessary corporate action and governmental approvals, if
+any, with respect to this Agreement.
+-28-

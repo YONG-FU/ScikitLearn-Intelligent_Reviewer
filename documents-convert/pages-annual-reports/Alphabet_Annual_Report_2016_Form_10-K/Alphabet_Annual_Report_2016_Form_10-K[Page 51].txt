@@ -1,0 +1,54 @@
+IaibleiofiCiontents Alphabet Inc.
+properties. Our customers generally purchase ads through AdWords, DoubleClick Bid Manager, and DoubleClick
+AdExchange, among others. Most of our customers pay us on a cost-per—click basis, which means that an advertiser
+pays us only when a user engages with the ads by clicking on an ad on Google properties or Google Network Members'
+properties or by viewing YouTube engagement ads like TrueView (counted as an engagement when the user chooses
+not to skip the ad). We also offer advertising on other bases such as cost-per—impression, which enables our brand
+advertisers to pay us based on the number of times their ads are displayed on Google properties and Google Network
+Members’ properties.
+Revenue from advertising is recognized when the goods or services have been delivered or provided, the amounts
+we charge are fixed or determinable, we and our advertisers or other customers understand the speciﬁc nature and
+terms of the agreed upon transactions, and collectability is reasonably assured. We recognize as revenues the amounts
+charged to advertisers each time a user engages with ads that appears next to the search results or content on Google
+properties or Google Network Members’ properties. For those advertisers using our cost-per-impression pricing, we
+recognize as revenues the amounts charged to advertisers each time their ads are displayed on Google properties or
+Google Network Members’ properties. We generally report revenues from ads placed on Google Network Members'
+properties on a gross basis principally because we are the primary obligor to our advertisers.
+Revenue from hardware sales to end customers or through distribution channels is generally recognized when
+the product has been shipped, risk of loss has transferred to the customer, objective evidence exists that customer
+acceptance provisions have been met, no significant obligations remain and allowances for discounts, price protection,
+returns and customer incentives, if applicable, can be reasonably and reliably estimated. Revenues are reported net
+of these allowances.
+For the sale of certain third-party products and services, we evaluate whether it is appropriate to recognize
+revenue based on the gross amount billed to the customers or the net amount earned as revenue share. Generally,
+when we record revenue on a gross basis, we are the primary obligor in a transaction, and have also considered other
+factors, including whether we are subject to inventory risk or have latitude in establishing prices.
+For multi-element arrangements, including those that contain software essential to hardware products’ functionality
+and services, we allocate revenue to each unit of accounting based on their relative selling prices. In such circumstances,
+we use a hierarchy to determine the selling prices to be used for allocating revenue: (i) vendor-speciﬁc objective
+evidence of fair value (VSOE), (ii) third-party evidence of selling price, and (iii) best estimate of the selling price (ESP).
+VSOE generally exists only when we sell the deliverable separately and is the price actually charged by us for that
+deliverable. ESPs reflect our best estimates of what the selling price of the deliverable would be if it was sold regularly
+on a stand-alone basis.
+We record deferred revenues when cash payments are received in advance of our performance in the underlying
+agreement on the accompanying Consolidated Balance Sheets.
+Cost of Revenues
+Cost of revenues consists of trafﬁc acquisition costs which are paid to Google Network Members primarily for
+ads displayed on their properties and amounts paid to our distribution partners who make available our search access
+points and services. Our distribution partners include browser providers, mobile carriers, original equipment
+manufacturers, and software developers.
+Additionally, other costs of revenues include the following:
+- The expenses associated with the operation of our data centers (including depreciation, labor, energy, and
+bandwidth costs);
+- Content acquisition costs primarily related to payments to certain content providers from whom we license
+their video and other content for distribution on YouTube and Google Play (we pay fees to these content
+providers based on revenues generated or a ﬂat fee);
+- Credit card and other transaction fees related to processing customer transactions;
+- Stock-based compensation expense;
+- Inventory related costs for hardware we sell; and
+- Amortization of certain intangible assets.
+Stock-based Compensation
+Stock-based compensation includes restricted stock units (RSUs) that will be settled in Alphabet stock as well
+as awards we expect to ultimately settle in cash. RSUs are measured at the fair market value of the underlying stock
+at the grant date. Liability classified awards are remeasured at fair value through settlement. We recognize stock-
+48

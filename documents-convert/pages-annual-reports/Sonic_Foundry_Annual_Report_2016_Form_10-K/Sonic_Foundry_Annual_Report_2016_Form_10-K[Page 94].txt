@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+development costs qualifying for capitalization are typically immaterial and are generally expensed to research and development
+costs. During 2013, the Company’s My Mediasite product release required software capitalization since there was a longer period
+between technological feasibility and the general availability of the product. Upon product release, the amortization of software
+development costs is determined annually as the greater of the amount computed using the ratio of current gross revenues for the
+products to their total of current and anticipated future gross revenues or the straight-line method over the estimated economic
+life of the products, expected to be three years. Amortization expense of software development costs of $104 thousand and $178
+thousand is included in Cost of Revenue — Product for each of the years ending September 30, 2016 and 2015, respectively. The
+gross amount of capitalized external and internal development costs was $533 thousand at September 30, 2016 and 2015. There
+were no software development efforts that qualified for capitalization for the years ended September 30, 2016 or 2015,
+respectively.
+Property and Equipment
+Property and equipment are recorded at cost and are depreciated using the straight-line method for financial reporting purposes.
+The estimated useful lives used to calculate depreciation are as follows:
+: Years :
+Leasehold improvements 5 to 10 years
+Computer equipment 3 to 5 years
+Furniture and ﬁxtures 5 to 7 years
+Impairment of Long-Lived Assets
+Goodwill has an indefinite useful life and is recorded at cost and not amortized but, instead, tested at least annually for impairment.
+We assess the impairment of goodwill on an annual basis or whenever events or changes in circumstances indicate that the fair
+value of these assets is less than the carrying value. If a qualitative assessment is used and the Company determines that the fair
+value of goodwill is more likely than not (i.e., a likelihood of more than 50%) less than its carrying amount, a quantitative
+impairment test will be performed. If goodwill is quantitatively assessed for impairment, a two-step approach is applied. First,
+the Company compares the estimated fair value of the goodwill to its carrying value. The second step, if necessary, measures the
+amount of impairment, if any, by comparing the implied fair value of goodwill to its carrying value.
+In ﬁscal 2016 and 2015, we performed the two-step goodwill test and determined that the fair value of goodwill is more than the
+carrying value. For purposes of the ﬁscal 2016 and 2015 tests, goodwill balances are evaluated within three separate reporting
+units. The Company has recognized no impairment charges as of September 30, 2016 or as of September 30, 2015.
+If we had determined that the fair value of goodwill was less than its carrying value, based upon the annual test or the existence
+of one or more indicators of impairment, we would then measure impairment based on a comparison of the implied fair value of
+goodwill with the carrying amount of goodwill. To the extent the carrying amount of goodwill is greater than the implied fair
+value of goodwill, we would record an impairment charge for the diﬁerence.
+Long-lived assets and intangible assets other than goodwill are evaluated for impairment whenever events or changes in
+circumstances indicate that the carrying value of an asset may not be recoverable based on expected undiscounted cash ﬂows
+attributable to that asset. For the years ended September 30, 2016 and 2015, no events or changes in circumstances occurred that
+required this analysis.
+Comprehensive Loss
+Comprehensive loss includes disclosure of financial information that historically has not been recognized in the calculation of
+net income. Our comprehensive loss encompasses net loss and foreign currency translation adjustments. Assets and liabilities of
+international operations that have a functional currency that is not in US. dollars are translated into US. dollars at year-end
+54

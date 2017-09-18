@@ -1,0 +1,47 @@
+deve10ping new systems, maintaining and upgrading current systems and preventing security breaches. Among other things,
+our systems are susceptible to outages due to ﬁre, ﬂoods, power loss, break-ins, cyber—attacks, network penetration, denial of
+service attacks and similar events. While we have and will continue to implement network security measures and data
+protection safeguards, our servers and other computer systems are vulnerable to viruses, malicious software, hacking, break-ins
+or theft, data privacy or security breaches, third-party security breaches, employee error or malfeasance and similar events.
+Failures in our systems or services or unauthorized access to or tampering with our systems and databases could have a
+material adverse effect on our business, reputation, results of operations, cash ﬂows and financial condition. Any failures in our
+computer systems or telecommunications services could affect our ability to operate our linked games or otherwise conduct
+business.
+Portions of our information technology infrastructure also may experience interruptions, delays or cessations of
+service or produce errors in connection with systems integration or migration work that takes place from time to time. We may
+not be successful in implementing new systems and transitioning data, which could cause business disruptions and be more
+expensive, time consuming, disruptive and resource-intensive. Such disruptions could materially and adversely impact our
+ability to deliver products to customers and interrupt other processes. If our information systems do not allow us to transmit
+accurate information, even for a short period of time, to key decision makers, the ability to manage our business could be
+disrupted and our results of operations, cash ﬂows and financial condition could be materially and adversely affected. Failure to
+properly or adequately address these issues could impact our ability to perform necessary business operations, which could
+materially and adversely affect our reputation, competitive position, results of operations, cash ﬂows and ﬁnancial condition.
+If we are unable to successfully implement our new global enterprise resource planning system, it could disrupt our
+business or have a material adverse effect on our results of operations, cash flows and financial condition.
+We are engaged in a multi-year implementation of a new global enterprise resource planning system (“ERP”). The
+ERP system is designed to accurately maintain the Company’s books and records and provide information on our operations to
+the Company’s management. The Company’s ERP system implementation will continue to require significant investment of
+human and financial resources. There are inherent risks associated with upgrading or changing systems, including inaccurate
+data or reporting. The process of upgrading and standardizing our ERP system is complex, time-consuming and expensive.
+Although we believe we are taking appropriate action to mitigate these risks through, among other things, testing, training and
+staging implementations, we cannot assure that we will not experience data loss, disruptions, delays or negative business
+impacts from the upgrades. Any operational disruptions during the course of this process and any delays or deficiencies in the
+design and implementation of the new ERP system or in the performance of our legacy systems could materially and adversely
+affect our ability to operate our businesses. Additionally, while we have spent considerable eﬁorts to plan and budget for the
+implementation of the new ERP system, changes in scope, timeline or cost could have a material adverse effect on our results
+of operations, cash ﬂows and financial condition.
+If we are not able to maintain adequate internal control over our financial reporting, it could adversely affect our reputation
+and business.
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting. If
+we cannot maintain and execute adequate internal control over ﬁnancial reporting or when necessary implement new or
+improved controls that provide reasonable assurance of the reliability of the financial reporting and preparation of our ﬁnancial
+statements for external use, we may suffer harm to our reputation, fail to meet our public reporting requirements on a timely
+basis or be unable to properly report on our business and our results of operations, cash ﬂows and financial condition.
+Additionally, the inherent limitations of internal controls over ﬁnancial reporting may not prevent or detect all misstatements or
+fraud, regardless of the adequacy of those controls. We have previously reported material weaknesses; for instance in our 2015
+Form 10-K, we concluded that our disclosure controls and procedures were not effective due to a material weakness in our
+goodwill impairment testing. As of the date of this Annual Report on Form lO-K, we have completed measures which
+successfully remediated this material weakness. However, we are currently undertaking an ERP implementation in our largest
+business segment which will materially change our controls. We therefore cannot assure that additional material weaknesses
+will not be identified in the future. Please refer to Item 9A “Controls and Procedures.”
+28

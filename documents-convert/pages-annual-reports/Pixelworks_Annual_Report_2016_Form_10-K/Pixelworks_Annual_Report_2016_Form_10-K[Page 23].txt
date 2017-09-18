@@ -1,0 +1,43 @@
+Our developed software may be incompatible with industry standards and challenging and costly to implement, which could slow product development or
+cause us to lose customers and design wins.
+We provide our customers with software development tools and with software that provides basic functionality for our integrated circuits and enables
+enhanced connectivity of our customers’ products. Software development is a complex process and we are dependent on software development languages
+and operating systems from vendors that may limit our ability to design software in a timely manner. Also, as software tools and interfaces change rapidly,
+new software languages introduced to the market may be incompatible with our existing systems and tools, requiring signiﬁcant engineering efforts to
+migrate our existing systems in order to be compatible with those new languages. Software development disruptions could slow our product development or
+cause us to lose customers and design wins. The integration of software with our products adds complexity, may extend our internal development programs
+and could impact our customers’ development schedules. This complexity requires increased coordination between hardware and software development
+schedules and increases our operating expenses without a corresponding increase in product revenue. This additional level of complexity lengthens the sales
+cycle and may result in customers selecting competitive products requiring less software integration.
+The competitiveness and viability of our products could be harmed if necessary licenses of third-party technology are not available to us on terms that are
+acceptable to us or at all.
+We license technology from independent third parties that is incorporated into our products or product enhancements. Future products or product
+enhancements may require additional third—party licenses that may not be available to us on terms that are acceptable to us or at all. In addition, in the event
+of a change in control of one of our licensors, it may become difﬁcult to maintain access to its licensed technology. If we are unable to obtain or maintain any
+third-party license required to develop new products and product enhancements, we may have to obtain substitute technology with lower quality or
+performance standards, or at greater cost, either of which could seriously harm the competitiveness of our products.
+Our limited ability to protect our IP and proprietary rights could harm our competitive position by allowing our competitors to access our proprietary
+technology and to introduce similar products.
+Our ability to compete effectively with other companies depends, in part, on our ability to maintain the proprietary nature of our technology, including our
+semiconductor designs and software code. We provide the computer pro gramming code for our software to customers in connection with their product
+development efforts, thereby increasing the risk that customers will misappropriate our proprietary software. We rely on a combination of patent, copyright,
+trademark and trade secret laws, as well as nondisclosure agreements and other methods, to help protect our proprietary technologies. As of December 31,
+2016, we held 148 patents and had 20 patent applications pending for protection of our signiﬁcant technologies. Competitors in both the US. and foreign
+countries, many of whom have substantially greater resources than we do, may apply for and obtain patents that will prevent, limit or interfere with our ability
+to make and sell our products, or they may develop similar technology independently or design around our patents. Effective patent, copyright, trademark
+and trade secret protection may be unavailable or limited in foreign countries and, thus, make the possibility of piracy of our technology and products more
+likely in these countries.
+We cannot assure you that the degree of protection offered by patent or trade secret laws will be sufﬁcient. Furthermore, we cannot assure you that any patents
+will be issued as a result of any pending applications or that any claims allowed under issued patents will be sufﬁciently broad to protect our technology. We
+may incur signiﬁcant costs to stop others from infringing our patents. In addition, it is possible that existing or future patents may be invalidated, diluted,
+circumvented, challenged or licensed to others.
+Others may bring infringement or indemnification actions against us that could be time-consuming and expensive to defend.
+We may become subject to claims involving patents or other intellectual property rights. In recent years, there has been signiﬁcant litigation in the US. and
+in other jurisdictions involving patents and other intellectual property rights. This litigation is particularly prevalent in the semiconductor industry, in which
+a number of companies aggressively use their patent portfolios to bring infringement claims. In recent years, there has been an increase in the ﬁling of so-
+called "nuisance suits," alleging infringement of intellectual property rights. These claims may be asserted initially or as counterclaims in response to claims
+made by a company alleging inﬁingement of intellectual property rights. These suits pressure defendants into entering settlement arrangements to quickly
+dispose of such suits, regardless of merit. We may also face claims brought by companies that are organized solely to hold and enforce patents. In addition,
+we may be required to indemnify our customers against IP claims related to their usage of our products as certain of our agreements include indemniﬁcation
+provisions from third parties relating to our intellectual property.
+23

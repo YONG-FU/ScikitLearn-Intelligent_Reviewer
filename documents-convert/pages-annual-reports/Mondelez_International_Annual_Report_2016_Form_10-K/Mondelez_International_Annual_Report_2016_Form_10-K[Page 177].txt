@@ -1,0 +1,43 @@
+With respect to the foregoing clauses (1) and (2), the Company may file all information, documents and reports required by this Section 704 by email in PDF
+format; provided, however, that upon the Trustee’s written request, the Company shall provide the Trustee with physical copies of such information, documents or
+reports.
+Delivery of such reports, information and documents to the Trustee is for informational purposes only and the Trustee’s receipt of such shall not constitute
+constructive notice of any information contained therein or determinable from information contained therein, including the Company’s compliance with any of its
+covenants hereunder (as to which the Trustee is entitled to rely exclusively on Officers’ Certificates).
+Article Eight
+CONSOLIDATION, MERGER, CONVEYAN CE OR TRANSFER
+SECTION 801. Company May Consolidate, Etc., Only on Certain Terms.
+The Company shall not consolidate with or merge into any other corporation or convey or transfer its properties and assets substantially as an entirety to any
+Person unless:
+(1) the corporation formed by such consolidation or into which the Company is merged or the Person which acquires by conveyance or transfer the
+properties and assets of the Company substantially as an entirety shall be a corporation organized and existing under the laws of the United States of
+America, any State thereof or the District of Columbia, and shall expressly assume, by an indenture supplemental hereto, executed and delivered to the
+Trustee for each series of Securities, in form satisfactory to each such Trustee, the due and punctual payment of principal of, and premium, if any, and
+interest, if any, (including all additional amounts, if any, payable pursuant to Sections 516 or 1010) on all the Securities and the performance of every
+covenant of this Indenture on the part of the Company to be performed or observed;
+(2) immediately after giving effect to such transaction, no Event of Default with respect to any series of Securities, and no event which, after notice or
+lapse of time, or both, would become an Event of Default with respect to any series of Securities, shall have happened and be continuing; and
+(3) the Company has delivered to the Trustee for each series of Securities an Officers’ Certificate and an Opinion of Counsel each stating that such
+consolidation, merger, conveyance or transfer and such supplemental indenture comply with this Article and that all conditions precedent herein provided for
+relating to such transaction have been complied with.
+SECTION 802. Successor Corporation Substituted.
+Upon any consolidation or merger, or any conveyance or transfer of the properties and assets of the Company substantially as an entirety in accordance with
+Section 801, the successor corporation formed by such consolidation or into which the Company is merged or to which such conveyance or transfer is made shall
+succeed to, and be substituted for, and may exercise every right and power of, the Company under this Indenture with the same effect as if such successor
+corporation had been named as the Company herein and thereafter the predecessor corporation shall be relieved of all obligations and covenants under this
+Indenture, the Securities and, in the event of any such consolidation, merger, conveyance or transfer, the Company as the predecessor corporation may thereupon or
+at any time thereafter be dissolved, wound up, or liquidated.
+Article Nine
+SUPPLEMENTAL INDENTURES
+SECTION 901. Supplemental Indentures Without Consent of Holders.
+Without the consent of any Holders of Securities, the Company, when authorized by a Board Resolution, and the Trustee for the Securities of any or all
+series, at any time and from time to time, may enter into one or more indentures supplemental hereto, in form satisfactory to such Trustee, for any of the following
+purposes:
+(1) to evidence the succession of another corporation to the Company, and the assumption by any such successor of the covenants of the Company
+herein and in the Securities; or
+(2) to add to the covenants of the Company, for the beneﬁt of the Holders of all or any particular series of Securities (and, if such covenants are to be
+for the benefit of fewer than all series of Securities, stating that such covenants are being included solely for the benefit of such series), or to surrender any
+right or power herein conferred upon the Company; or
+(3) to add any additional Events of Default with respect to any or all series of Securities (and, if any such Event of Default applies to fewer than all
+series of Securities, stating each series to which such Event of Default applies); or
+38

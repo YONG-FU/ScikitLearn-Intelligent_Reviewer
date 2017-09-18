@@ -1,0 +1,33 @@
+As of January 31, 2017, the notional amount of foreign exchange forward contracts accounted for as cash flow
+hedges was as follows:
+(in millions) Notional Amount USD Equivalent,
+Derivatives designated as hedging instruments:
+Japanese yen ¥ 16,6690 $ 156.1
+British pound £3 13.3 17.5
+Derivatives not designated as hedging instruments:
+U.S. dollar $ 58.3 $ 58.3
+Euro € 28.0 29.7
+British pound £3 5.5 6.8
+Japanese yen ¥ 952.8 8.4
+7 Korean won 150116 12.5
+Mexican peso Ti“ 167.1 7.7
+New Zealand dollar NZ$ 11.7 8.4
+Singapore dollar S$ 25.1 17.7
+:0
+Z Swiss franc Fr. 4.3 4.2
+ﬂ
+3 The maximum term of the Company's outstanding foreign exchange forward contracts as of January 31, 2017 is 12
+months.
+Precious Metal Collars and Forward Contracts — The Company periodically hedges a portion of its forecasted
+purchases of precious metals for use in its internal manufacturing operations in order to manage the effect of
+volatility in precious metal prices. The Company may use either a combination of call and put option contracts in
+net-zero-cost collar arrangements ("precious metal collars") or forward contracts. For precious metal collars, if the
+price of the precious metal at the time of the expiration of the precious metal collar is within the call and put price,
+the precious metal collar expires at no cost to the Company. The Company accounts for its precious metal collars
+and forward contracts as cash flow hedges. The Company assesses hedge effectiveness based on the total changes in
+the precious metal collars' and forward contracts' cash flows. As of January 31, 2017, the maximum term over which
+the Company is hedging its exposure to the variability of future cash flows for all forecasted transactions is 24
+months. As of January 31, 2017, there were precious metal derivative instruments outstanding for approximately
+72,000 ounces of platinum, 1,440,000 ounces of silver and 51,500 ounces of gold.
+TIFFANY & co.
+K-70

@@ -1,0 +1,47 @@
+[ WW“ “M‘
+TESORO CORPORATION
+CONSOLIDATED BALANCE SHEETS
+December 31,
+Note 2016 2015
+(in millions, except share data)
+ASSETS
+Current Assets
+Cash and cash equivalents (TLLP: $688 and $16, respectively) 5 3,295 $ 942
+Receivables, net of allowance for doubtful accounts 5 1,108 792
+Inventories, net of lower of cost or market valuation 5 2,640 2,302
+Prepayments and other current assets 371 271
+Total Current Assets 7,414 4,307
+Property, Plant and Equipment, Net
+Property, plant and equipment, at cost 13,472 12,562
+Accumulated depreciation and amortization (3,496) (3,021)
+Property, Plant and Equipment, Net (TLLP: $3,444 and $3,681, respectively) 6 9,976 9,541
+Other Noncurrent Assets
+Acquired intangibles, net (TLLP: $947 and $976, respectively) 7 1,277 1,211
+Other, net (TLLP: $531 and $222, respectively) 9 1,731 1,273
+Total Other Noncurrent Assets 3,008 2,484
+Total Assets $ 20,398 $ 16,332
+:LIABILITIES AND EQUITY :
+Current Liabilities
+Accounts payable 5 2,032 $ 1,568
+Current maturities of debt 12 465 6
+Other current liabilities 9 1,057 956
+Total Current Liabilities 3,554 2,530
+Deferred Income Taxes 13 1,428 1,222
+Debt, Net of Unamortized Issuance Costs (TLLP: $4,053 and $2,844, respectively) 12 6,468 4,067
+Other Noncurrent Liabilities 9 821 773
+Total Liabilities 12,271 8,592
+Commitments and Contingencies 15
+Equity
+Tesoro Corporation Stockholder’s Equity
+Common stock, par value $0.162/3; authorized 200,000,000 shares; 159,474,572 shares issued
+(158,457,663 in 2015) 27 26
+Additional paid-in capital 1,473 1,391
+Retained earnings 6,437 5,954
+Treasury stock, 42,574,625 common shares (39,064,342 in 2015), at cost (2,284) (2,009)
+Accumulated other comprehensive loss, net of tax (188) (149)
+Total Tesoro Corporation Stockholders’ Equity 5,465 5,213
+Noncontrolling Interest 16 2,662 2,527
+Total Equity 8,127 7,740
+Total Liabilities and Equity 5 20,398 $ 16,332
+The accompanying notes are an integral part of these consolidated financial statements.
+December 31, 2016 | 63

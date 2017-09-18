@@ -1,0 +1,35 @@
+Pension Plan Assets
+The following table summarizes the levels within the fair value hierarchy for our pension plan assets as of December 31, 2016
+and 2015 (in millions):
+7 December 31, 2016 7 7 December 31, 2015 7
+7 7 Level 1 Level 2 Level 3 Other 1 Totali 7 Level 1 Level 2 Level 3 Other 1 Total:
+Cash and cash equivalents $ 373 $ 29 $ — $ — $ 402 $ 128 $ 148 $ — $ — $ 276
+Equity securities:
+U.S.-based companies 1,812 1 14 — 1,827 1,562 — 1 — 1,563
+International-based companies 935 4 — — 939 802 5 10 — 8 17
+Fixed-income securities:
+Government bonds — 525 1 — 526 — 736 1 — 737
+Corporate bonds and debt
+securities — 978 18 — 996 — 1,171 2 — 1,173
+Mutual, pooled and commingled
+funds 91 20 — 1,022 3 1,133 77 15 — 1,031 3 1,123
+Hedge funds/limited partnerships — — — 1,213 4 1,213 — — — 764 4 764
+Real estate — — 2 521 5 523 — — 2 462 5 464
+iOther — 3 211 2 598 6 812 — 9 219 2 544 6 772 7
+Total $3,211 $1,560 $ 246 $3,354 $8,371 $2,569 $2,084 33 235 $2,801 $7,689 7
+1 Certain investments that are measured at fair value using the net asset value per share (or its equivalent) practical expedient have not been
+categorized in the fair value hierarchy but are included to reconcile to the amounts presented in Note 13.
+2 Includes purchased annuity insurance contracts.
+3 This class of assets includes actively managed emerging markets equity funds and a collective trust fund for qualified plans, invested
+primarily in equity securities of companies in the developed and emerging markets. There are no liquidity restrictions on these investments.
+4 This class of assets includes hedge funds that can be subject to redemption restrictions, ranging from monthly to semi—annually with a
+redemption notice period of up to 181 days and/or initial lock—up periods of up to one year, and private equity funds that are primarily
+closed-end funds in which the Company's investments are generally not eligible for redemption. Distributions from these private equity
+funds will be received as the underlying assets are liquidated or distributed.
+5 This class of assets includes funds invested in real estate, including a privately held real estate investment trust, a real estate commingled
+pension trust fund, infrastructure limited partnerships and commingled investment funds. These funds seek current income and capital
+appreciation through the investments and can be subject to redemption restrictions, ranging from quarterly to semi-annually with a
+redemption notice period of up to 90 days.
+6 This class of assets includes segregated portfolios of private investment funds that are invested in a portfolio of insurance—linked securities.
+These assets can be subject to a semi-annual redemption, with a redemption notice period of 90 days, subject to certain gate restrictions.
+1 3 0

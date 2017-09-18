@@ -1,0 +1,45 @@
+Table of Contents
+Our computer systems and those of third parties we use in our operations are vulnerable to cybersecurity risks, including cyber—attacks such as computer
+viruses, denial of service attacks, physical or electronic break-ins and similar disruptions. These systems periodically experience directed attacks intended to lead
+to interruptions and delays in our service and operations as well as loss, misuse or theft of data. Any attempt by hackers to obtain our data (including member and
+corporate information) or intellectual property (including digital content assets), disrupt our service, or otherwise access our systems, or those of third parties we
+use, if successful, could harm our business, be expensive to remedy and damage our reputation. We have implemented certain systems and processes to thwart
+hackers and protect our data and systems. To date hackers have not had a material impact on our service or systems however this is no assurance that hackers may
+not be successful in the future. Our insurance does not cover expenses related to such disruptions or unauthorized access. Efforts to prevent hackers from disrupting
+our service or otherwise accessing our systems are expensive to implement and may limit the functionality of or otherwise negatively impact our service offering
+and systems. Any significant disruption to our service or access to our systems could result in a loss of memberships and adversely affect our business and results
+of operation.
+We utilize our own communications and computer hardware systems located either in our facilities or in that of a third-party Web hosting provider. In
+addition, we utilize third-party “cloud” computing services in connection with our business operations. We also utilize our own and third-party content delivery
+networks to help us stream TV shows and movies in high volume to Netﬂix members over the internet. Problems faced by us or our third-party Web hosting,
+"cloud" computing, or other network providers, including technological or business-related disruptions, as well as cybersecurity threats, could adversely impact the
+experience of our members.
+We rely upon Amazon Web Services to operate certain aspects of our service and any disruption of or interference with our use of the Amazon Web
+Services operation would impact our operations and our business would be adversely impacted.
+Amazon Web Services ("AWS") provides a distributed computing infrastructure platform for business operations, or what is commonly referred to as a
+"cloud" computing service. We have architected our software and computer systems so as to utilize data processing, storage capabilities and other services
+provided by AWS. Currently, we run the vast majority of our computing on AWS. Given this, along with the fact that we cannot easily switch our AWS operations
+to another cloud provider, any disruption of or interference with our use of AWS would impact our operations and our business would be adversely impacted.
+While the retail side of Amazon competes with us, we do not believe that Amazon will use the AWS operation in such a manner as to gain competitive advantage
+against our service.
+If the technology we use in operating our business fails, is unavailable, or does not operate to expectations, our business and results of operation could be
+adversely impacted.
+We utilize a combination of proprietary and third party technology to Operate our business. This includes the technology that we have developed to
+recommend and merchandise content to our consumers as well as enable fast and efficient delivery of content to our members and their various consumer
+electronic devices. For example, we have built and deployed our own content-delivery network (“CDN”). To the extent Internet Service Providers ("ISPs") do not
+interconnect with our CDN, or if we experience difficulties in its operation, our ability to efficiently and effectively deliver our streaming content to our members
+could be adversely impacted and our business and results of operation could be adversely affected. Likewise, if our recommendation and merchandising
+technology does not enable us to predict and recommend titles that our members will enjoy, our ability to attract and retain members may be adversely affected.
+We also utilize third party technology to help market our service, process payments, and otherwise manage the daily operations of our business. If our technology
+or that of third parties we utilize in our operations fails or otherwise operates improperly, our ability to operate our service, retain existing members and add new
+members may be impaired. Also, any harm to our members' personal computers or other devices caused by software used in our operations could have an adverse
+effect on our business, results of operations and ﬁnancial condition.
+If government regulations relating to the internet or other areas of our business change, we may need to alter the manner in which we conduct our
+business, or incur greater operating expenses.
+The adoption or modification of laws or regulations relating to the internet or other areas of our business could limit or otherwise adversely affect the manner
+in which we currently conduct our business. In addition, the continued growth and development of the market for online commerce may lead to more stringent
+consumer protection laws, which may impose additional burdens on us. If we are required to comply with new regulations or legislation or new interpretations of
+existing regulations or legislation, this compliance could cause us to incur additional expenses or alter our business model.
+Changes in laws or regulations that adversely affect the growth, popularity or use of the internet, including laws impacting net neutrality, could decrease the
+demand for our service and increase our cost of doing business. Certain laws
+7

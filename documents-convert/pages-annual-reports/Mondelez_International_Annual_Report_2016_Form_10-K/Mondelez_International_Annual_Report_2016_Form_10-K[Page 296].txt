@@ -1,0 +1,23 @@
+“ EEA Financial Institution ” means (a) any credit institution or investment ﬁrm established in any EEA Member Country which is subject to the
+supervision of an EEA Resolution Authority, (b) any entity established in an EEA Member Country which is a parent of an institution described in clause (a) of this
+deﬁnition, or (c) any financial institution established in an EEA Member Country which is a subsidiary of an institution described in clauses (a) or (b) of this
+deﬁnition and is subject to consolidated supervision with its parent;
+“ EEA,Memb,eriC,ountry:” means any of the member states of the European Union, Iceland, Liechtenstein, and Norway.
+“ EEA Resolution Authority: ” means any public administrative authority or any person entrusted with public administrative authority of any EEA
+Member Country (including any delegee) having responsibility for the resolution of any EEA Financial Institution.
+“ Effective Date ” has the meaning specified in Section 3.01.
+“ ﬂgibleAssignee,” means (i) a commercial bank organized under the laws of the United States, or any State thereof, and having total assets in excess
+of $5,000,000,000; (ii) a commercial bank organized under the laws of any other country which is a member of the Organization for Economic Cooperation and
+DeveIOpment (or any successor) (“ OECD ”), or a political subdivision of any such country, and having total assets in excess of $5,000,000,000, provided that such
+bank is acting through a branch or agency located in the country in which it is organized or another country which is also a member of the OECD or the Cayman
+Islands; (iii) the central bank of any country which is a member of the OECD; (iv) a commercial finance company or ﬁnance Subsidiary of a corporation organized
+under the laws of the United States, or any State thereof, and having total assets in excess of $3,000,000,000; (v) an insurance company organized under the laws of
+the United States, or any State thereof, and having total assets in excess of $5,000,000,000; (vi) any Lender; (Vii) an affiliate of any Lender; and (viii) any other
+bank, commercial ﬁnance company, insurance company or other Person approved in writing by Mondeléz (such approval not to be unreasonably withheld, delayed
+or conditioned), which approval shall be notiﬁed to the Administrative Agent; provided, that none of Mondeléz or its Subsidiaries, a Defaulting Lender or a natural
+person shall be permitted to be an Eligible Assignee.
+“ ERISA,” means the Employee Retirement Income Security Act of 1974, as amended from time to time, and the regulations promulgated and rulings
+issued thereunder.
+“ ERISAAffiliate,” means any Person that for purposes of Title IV of ERISA is a member of any Obligor’s controlled group, or under common
+control with any Obligor, within the meaning of Section 414 of the Internal Revenue Code.
+-6-

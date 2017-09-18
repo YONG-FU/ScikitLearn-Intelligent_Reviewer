@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+As of December 31, 2016, there was $497 million of unamortized stock—based compensation expense related to unvested restricted stock and restricted stock
+units, which is expected to be recognized over a weighted average period of 2.3 years.
+The total fair value of restricted stock awards vested during the years ended December 31, 2014, 2015, and 2016 was $415 million, $502 million, and
+$470 million, respectively.
+During the year ended December 31, 2016, 14 million shares that were subject to previously granted restricted stock units vested. These vested restricted stock
+awards were net share settled. The Company withheld 5 million shares based upon the Company’s closing stock price on the vesting date, to satisfy the
+Company’s tax withholding obligation relating to the employees’ minimum statutory obligation for the applicable income and other employment taxes. The
+Company then remitted cash to the appropriate taxing authorities.
+Total payments for the employees’ tax obligations to the relevant taxing authorities were $209 million for the year ended December 31, 2016 and are reﬂected as
+a ﬁnancing activity within the consolidated statements of cash ﬂows. The payments were used for tax withholdings related to the net share settlements of
+restricted stock units. The payments had the effect of share repurchases by the Company as they reduced the number of shares that would have othen/vise been
+issued on the vesting date and were recorded as a reduction of additional paid-in capital.
+In 2014, 2015, and 2016, $150 million, $58 million, and $18 million, respectively, of excess tax benefits from stock-based awards for options exercised and
+restricted stock awards that vested in current and prior periods were included as a source of cash ﬂows from ﬁnancing activities. These excess tax benefits
+represent the reduction in income taxes othen/vise payable during the period, attributable to the actual gross tax benefits in excess of the expected tax benefits
+for options exercised and restricted stock awards that vested in current and prior periods. The Company has accumulated excess tax deductions relating to stock
+options exercised and restricted stock awards that vested prior to January 1, 2006 available to reduce income taxes othenNise payable. To the extent such
+deductions reduce income taxes payable in the current year, they are reported as ﬁnancing activities in the consolidated statements of cash ﬂows.
+Performance-Based Executive Incentive Equity Awards
+Performance Options. The ﬁnancial performance stock options awarded by the Company in November 2012 to Ms. Mayer and Mr. Goldman include multiple
+performance periods. The number of stock options that ultimately vest for each performance period will range from 0 percent to 100 percent of the target amount
+for such period stated in each executive’s award agreement based on the Company’s performance relative to goals. The ﬁnancial performance goals are
+established at the beginning of each performance period and the portion (or “tranche”) of the award related to each performance period is treated as a separate
+grant for accounting purposes. In March 2016, the Compensation Committee established performance goals under these stock options for the 2016 performance
+year. The 2016 ﬁnancial performance metrics (and their weightings) under the performance stock options are GAAP revenue (one-third), revenue ex-TAC
+(one-third), and adjusted EBITDA (one-third). The grant date fair value of the 2016 tranche of the November 2012 ﬁnancial performance stock options was
+$13 million, and is being recognized over the twelve-month service period. The Company began recording stock—based compensation expense for this tranche in
+March 2016, when the ﬁnancial performance goals were established.
+Performance RSUs. In March 2016, the Compensation Committee approved additional annual ﬁnancial performance-based RSU awards to Ms. Mayer and
+other senior ofﬁcers, and established the 2016 annual performance goals for these awards as well as for the similar performance-based RSUs
+155

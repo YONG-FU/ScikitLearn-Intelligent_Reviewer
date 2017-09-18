@@ -1,0 +1,46 @@
+In general, compensation reported in the Summary Compensation Table at PS-68 as "Salary", "Bonus" or "Non-Equity
+Incentive Plan Compensation" is compensation for purposes of the Plans; amounts attributable to the exercise of stock
+options or to the vesting of restricted stock are not included. However, Internal Revenue Code requirements limit the
+amount of compensation that may be included in calculating the benefit under the Pension Plan.
+Pension Plan
+These are the key features of the Pension Plan:
+0 it is a "tax-qualified" plan, that is, it is designed to comply with those provisions of the Internal Revenue Code
+applicable to retirement plans;
+0 it is a "funded" plan (money has been deposited into a trust that is insulated from the claims of the Company's
+creditors);
+o it is available at no cost to US. employees hired by Tiffany before January 1, 2006;
+0 executive officers hired before January 1, 2006 are participants;
+0 benefits vest after five years of service;
+0 benefits are based on the participant's average final compensation and years of service;
+0 benefits are subject to Internal Revenue Code limitations on the total benefit and the amount that may be
+included in average final compensation; and
+o benefits are not offset by Social Security.
+The benefit formula under the Pension Plan first calculates an annual amount based on average final compensation
+and then multiplies it by years of service. This is the formula: [[(average final compensation less covered compensation)
+x 0.015] plus [(average final compensation up to covered compensation) x 0.01]] X years of service. "Covered
+compensation" varies by the participant's birth date and is an average of taxable wage bases calculated for Social
+Security purposes.
+Exampie: covered compensation for a person born in 1952 is $79,824. This person has average final compensation of
+$100,000 and 25 years of service. The Pension benefit at age 65 would be calculated as follows: [[($100,000 - .
+$79,824) x 0.015] plus [($79,824) x 0.01]] x 25 = $27,522 annual benefit for a single life annuity.
+The form of benefit elected can reduce the amount of benefit. The highest benefit is available for an unmarried participant
+who elects to take the benefit over the course of his or her own life (a single-life annuity). A person who elects to take
+the benefit over the course of two lives, such as a 100% annuity over the lives of the participant and his or her spouse,
+will experience an actuarial reduction in the amount of his or her benefit. g
+Excess Plan Q
+C3)
+These are the key features of the Excess Plan: E
+o it is not a qualified plan and is not subject to Internal Revenue Code limitations;
+0 it is not funded (benefits are paid out of the Company's general assets, which are subject to the claims of the ‘
+Company's creditors);
+o it is available only to officers and other select management employees whose benefits under the Pension Plan
+are affected by Internal Revenue Code limitations, including executive officers who participate in the Pension
+Plan;
+0 it uses the same retirement benefit formula as is set forth in the Pension Plan, but includes in average final
+compensation earnings that are excluded under the Pension Plan due to Internal Revenue Code Limitations;
+0 benefits are offset by benefits payable under the Pension Plan;
+0 benefits are not offset by benefits payable under Social Security;
+0 benefits vest after five years of service;
+0 benefits are subject to forfeiture if employment is terminated for cause;
+TIFFANY & co.
+PS-85

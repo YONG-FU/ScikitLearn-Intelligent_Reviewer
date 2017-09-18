@@ -1,0 +1,35 @@
+The changes in the benefit obligation and plan assets and other amounts recognized in other comprehensive
+income / loss were as follows:
+December 25, December 27,
+7 (In thousands) 2016 2015 7
+[Change in benefit obligation [
+Benefit obligation at beginning of year $ 71,047 $ 81,054
+[Service cost 417 588[
+Interest cost 1,979 2,794
+[Plan participants’ contributions 4,409 4,230[
+Actuarial loss/(gain) 28 (5,543)
+[Plan amendments — 1,145 [
+Benefits paid (12,838) (13,221)
+[Benefit obligation at the end of year 65,042 71 ,047[
+Change in plan assets
+[Fair value of plan assets at beginning of year — —[
+Employer contributions 8,429 8,991
+[Plan participants’ contributions 4,409 4,230[
+Benefits paid (12,838) (13,221)
+[Fair value of plan assets at end of year — —[
+jNet amount recognized $ (65,042) $ (71 ,047)
+[Amount recognized in the Consolidated Balance Sheets [
+Current liabilities $ (7,043) $ (8,168)
+[Noncurrent liabilities (57,999) (62,879)[
+Net amount recognized $ (65,042) $ (71 ,047)
+[Amount recognized in accumulated other comprehensive loss [
+Actuarial loss $ 22,522 $ 26,599
+[Prior service credit (32,870) (41 ,309)[
+:Total $ (10,348) $ (14,710):
+Weighted-average assumptions used in the actuarial computations to determine the postretirement benefit
+obligations were as follows:
+December 25, December 27,
+7 2016 2015 7
+[Discount rate 3.94% 4.04%[
+iEstimated increase in compensation level 3.50% 3.50%
+P. 86 — THE NEW YORK TIMES COMPANY

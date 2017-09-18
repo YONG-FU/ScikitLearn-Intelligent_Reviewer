@@ -1,0 +1,42 @@
+Note 11. EQUITY-BASED COMPENSATION
+Restricted Stock Units and Awards
+Restricted stock units (RSUs) and restricted stock awards (RSAS) have been issued to certain employees and
+directors. Participants awarded RSUs do not receive dividends; therefore, the fair value is determined by reducing the closing
+market price of the Company’s ordinary shares on the date of grant by the present value of the estimated dividends had they
+been paid. The RSUs entitle the holder to receive one ordinary share for each RSU upon vesting, generally over three years.
+The fair value of RSAS is determined based on the closing market price of the Company’s ordinary shares at the date of grant.
+RSAS are issued and outstanding at the time of grant, but remain subject to forfeiture until vested, generally over three or four
+years. A summary of the RSU and RSA activity for 2016 follows:
+Number of restricted Weighted-average fair
+(Restricted stock units and awards in millions) 7 stock units and awards 7 value per unit and award 7
+[Non-vested at January 1 2.1 $ 65.06 J
+Granted 1.6 52.80
+[ Vested (0.9) 64.11 ]
+Forfeited 7 (0.2), 7 59.89 7
+[Non-vested at December 31 r 2.6 : :$ 57.87 I
+Information related to RSUs and RSAS follows:
+7 2016 H 2015 H 2014 7
+[Pretax expense for RSUs and RSAS $ 65 $ 68 $ 81 J
+After-tax expense for RSUs and RSAS 42 44 53
+[Fair value of vested RSUs and RSAS 71 110 105 ]
+As of December 31, 2016, total compensation expense not yet recognized related to non-vested RSUs and RSAS was $87,
+and the weighted—average period in which the expense is expected to be recognized is 2.5 years. Excess tax beneﬁt for RSUs
+and RSAS totaled $5 for 2014. There was no excess tax beneﬁt for RSUs and RSAS in 2016 and 2015.
+Performance Share Units
+In February 2016, the Compensation and Organization Committee of the Board of Directors approved the grant of
+performance share units (PSUs) to certain employees that vest based on the satisfaction of a three-year service period and total
+shareholder return relative to that of a group of peers. Awards earned at the end of the three-year vesting period range from 0%
+to 200% of the targeted number of PSUs granted based on the ranking of total shareholder return of the Company, assuming
+reinvestment of all dividends, relative to a defined peer group of companies. Equity-based compensation expense for these
+PSUs is recognized over the period during which an employee is required to provide service in exchange for the award. Upon
+vesting, dividends that have accumulated during the vesting period are paid on earned awards.
+The Company uses a Monte Carlo simulation to estimate the fair value of PSUs with market conditions. The principal
+assumptions utilized in valuing these PSUs include the expected stock price volatility (based on the most recent 3-year period
+as of the grant date) and the risk-free interest rate (an estimate based on the yield of United States Treasury zero coupon bonds
+with a 3-year maturity as of the grant date). A summary of the assumptions used in determining fair value of these PSUS
+follows:
+7 2016 7
+[Expected volatility 24%}
+Risk-free interest rate 0.88%
+[Weighted-average fair value of PSUs granted $ 76.41 ]
+49

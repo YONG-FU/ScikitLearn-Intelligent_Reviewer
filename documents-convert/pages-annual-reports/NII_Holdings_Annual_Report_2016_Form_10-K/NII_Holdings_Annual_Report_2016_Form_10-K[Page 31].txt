@@ -1,0 +1,49 @@
+Allowance for Doubtful Accounts. We establish an allowance for doubtful accounts receivable sufficient to cover probable and reasonably estimable
+losses. We estimate this allowance based on historical experience, aging of accounts receivable and collections trends. Actual write-offs in the ﬁiture could be
+impacted by general economic and business conditions, as well as ﬂuctuations in subscriber deactivations, that are difficult to predict and therefore may
+differ from our estimates. A 10% increase in our consolidated allowance for doubtful accounts as of December 31, 2016 would have resulted in $5.4 million
+of additional bad debt expense for the year ended December 31, 2016.
+Depreciation of Property, Plant and Equipment. We record our network assets and other improvements that extend the useﬁJl lives of the underlying
+assets at cost and depreciate those assets over their estimated useful lives with the exception of property, plant and equipment owned as of the date of our
+implementation of fresh start accounting. As of June 30, 2015, as a result of the application of fresh start accounting in connection with our emergence from
+Chapter 11, we adjusted all existing property, plant and equipment to its estimated fair value and revised the associated depreciable lives. See Note 3 to our
+consolidated ﬁnancial statements for more information. We calculate depreciation using the straight-line method based on estimated useful lives ranging
+from 3 to 30 years for network equipment, communication towers and network software and 3 to 10 years for software, office equipment, furniture and
+ﬁxtures, and other, which includes non-network internal use software. We amortize leasehold improvements over the shorter of the lease terms or the useful
+lives of the improvements. Our networks are highly complex and, due to constant innovation and enhancements, certain components of those networks may
+lose their utility sooner than expected. We periodically reassess the economic life of these components and make adjustments to their useful lives after
+considering historical experience and capacity requirements, consulting with the vendor and assessing new product and market demands and other factors.
+When our assessment indicates that the economic life of a network component is shorter than originally anticipated, we depreciate its remaining book value
+over its revised useful life. Further, the deployment of any new technologies could adversely affect the estimated remaining useful lives of our network assets,
+which could signiﬁcantly impact future results of operations.
+Amortization of Intangible Assets. Prior to the implementation of fresh start accounting in connection with our emergence from Chapter 11, our
+intangible assets primarily consisted of our telecommunications licenses. As a result of the implementation of fresh start accounting in connection with our
+emergence from Chapter 11, we recorded our intangible assets, which consisted of our telecommunications licenses, our exclusive right to use the Nextel
+tradename in Brazil and our customer relationships, at their estimated fair values. We calculate amortization on our licenses and our tradename using the
+straight-line method based on estimated useful lives of 26 to 30 years. We calculate amortization on our customer relationships using the straight—line
+method based on an estimated useﬁal life of 4 years. While the terms of our licenses, including renewals, range from 10 to 40 years, the political and
+regulatory environment in Brazil is continuously changing and, as a result, the cost of renewing our licenses beyond that range could be signiﬁcant. In
+addition, the wireless telecommunications industry is experiencing signiﬁcant technological change, and the commercial life of any particular technology is
+difﬁcult to predict. In light of these uncertainties, we classify our licenses as deﬁnite lived intangible assets. Many of our licenses are subject to renewal after
+the initial term, provided that we have complied with applicable rules and policies in each of our markets. We intend to comply, and believe we have
+complied, with these rules and policies in all material respects as they relate to licenses that are material to our business. However, because governmental
+authorities have discretion as to the renewal of licenses, our licenses may not be renewed or we may be required to pay signiﬁcant renewal fees, either of
+which could have a signiﬁcant impact on the estimated useful lives of our licenses, which could signiﬁcantly impact ﬁlture results of operations. As a result
+of the implementation of fresh start accounting, we revised the remaining estimated useful lives of our licenses to include renewal periods in cases where it is
+probable that a renewal will occur.
+Valuation of Long-Lived Assets. We review long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying
+amount may not be recoverable. If the total of the expected undiscounted future cash ﬂows is less than the carrying value of our assets, we recognize a loss for
+the difference between the estimated fair value and the carrying value of the assets.
+During 2016, we reviewed our Nextel Brazil segment for potential impairment. While we are focused on effectively managing our business in Brazil, we
+are also considering potential strategic alternatives with third parties. Taking into consideration the current macroeconomic conditions in Brazil, our history
+of operating losses and the available sources of capital to fund our business plan, we currently believe that the most likely outcome for the future of our
+business is the sale of Nextel Brazil. During 2016, we compared the carrying value of Nextel Brazil's long-lived assets to our estimate of undiscounted future
+cash ﬂows. Our estimate of undiscounted ﬁlture cash ﬂows was probability-weighted and took into consideration our ability to obtain capital necessary to
+ﬁnd our business plan. In addition, we assumed that the proceeds from any potential sale of Nextel Brazil would be signiﬁcantly less than its carrying value.
+Based on our estimates, we determined that the carrying value of our Nextel Brazil segment was not fully recoverable.
+As a result, in 2016, we recorded a non-cash asset impairment charge of $1.34 billion to reduce the carrying values of Nextel Brazil's long-lived assets
+to their respective fair values. We estimated the fair value of our Nextel Brazil segment using a market approach. While we may ultimately complete a sale
+with a third party that is valued at more or less than our current market value, we estimated the fair value of our equity based on our market capitalization and
+combined it with the fair value of our outstanding debt obligations to determine the impairment charge. See Note 8 to our consolidated ﬁnancial statements
+for more information
+3 l

@@ -1,0 +1,48 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+16. COMPREHENSIVE INCOME
+The changes in Accumulated other comprehensive loss by component, net of tax, are as follows:
+Unrealized Unrealized Other
+loss on loss on comprehensive
+available-for— derivative loss on pension
+: Foreign currency sale securities instruments liability Total :
+(In thousands)
+Balance at December 31> 2015 $ (16,346) $ (2,900) $ (2,255) $ (7,026) $ (28,527)
+Other comprehensive income (loss)
+before reclassifications — 996 (2,63 8) 906 (736)
+Amounts reclassified from accumulated
+other comprehensive loss — (1,204) 1,763 — 559
+Net current period other comprehensive 7 7 7 7 7 7 7 7 7 7
+(loss) income 7 —7 7 (208) 7 (875) 7 9067 7 (177)
+Balance at December 31, 2016 :$ (16,346): :$ (3,108): :$ (3,130): :$ (6,120): :$ (28,704):
+Income tax expense or benefit allocated to each component of other comprehensive loss is not material.
+Reclassifications out of Accumulated other comprehensive loss are as follows:
+7 For the Twelve Months Ended December 31, 2016 7
+(In thousands)
+Details about accumulated other comprehensive loss Amount reclassiﬁed from Accumulated Affected line item in the
+components other comprehensive loss, net of tax Consolidated Statements of Income :
+Unrealized net gains on available-for—sale
+securities $ (1,204) Other expense, net
+Unrealized net losses on cash ﬂow hedges 7 1,763 7 Operating expenses *
+77$ 559 i
+* Operating expenses amounts allocated to Research and development, Sales, marketing and services, and General and
+administrative are not individually significant.
+17. RESTRUCTURING
+The Company has implemented multiple restructuring plans to reduce its cost structure, align resources with its product
+strategy and improve efficiency, which has resulted in workforce reductions and the consolidation of certain leased facilities.
+For the years ended December 31, 2016, 2015 and 2014, restructuring charges were comprised of the following (in thousands):
+Year Ended December 31,
+7 2016 2015 2014 7
+Employee severance and related costs 7$ 44,909 $ 76,629 $ 20,424
+Consolidation of leased facilities 28,858 22,100 —
+Reversal of previous charges (2,645) (286) —
+Other — 1,968 —
+Total Restructuring charges :$ 71,122 : :$ 100,411 : :$ 20,424 :
+During the years ended December 31, 2016 and 2015, the Company incurred costs of $45.5 million and $29.7 million
+primarily related to its announced plan in November 2015 to simplify the Company’s enterprise go-to-market motion and roles
+while improving coverage, reﬂect changes in the Company’s product focus, and balance resources with demand across the
+Company’s marketing, general and administration areas. The charges are primarily related to employee severance,
+outplacement, professional service fees, and facility closing costs. The majority of the activities related to this program were
+substantially completed as of the end of the first quarter of 2016. As of December 31, 2016, total charges related to this
+program incurred since inception were $75.2 million.
+F-38

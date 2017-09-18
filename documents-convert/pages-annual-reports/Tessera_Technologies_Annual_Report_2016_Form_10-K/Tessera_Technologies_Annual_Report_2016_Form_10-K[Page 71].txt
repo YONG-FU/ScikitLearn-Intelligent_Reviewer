@@ -1,0 +1,39 @@
+Table of Contents
+Individuals who own less than 5% of the Company’s voting stock, are scheduled to work more than 20 hours per week and whose customary employment is for
+more than five months in any calendar year may join an offering period on the first day of the offering period or the beginning of any semi-annual purchase period
+within that period. Individuals who become eligible employees after the start date of an offering period may join the ESPP at the beginning of any subsequent
+semi-annual purchase period.
+Participants may contribute up to 20% of their cash earnings through payroll deductions, and the accumulated deductions will apply to the purchase of shares on
+each semi-annual purchase date. The purchase price per share will equal 85% of the fair market value per share on the participant’s entry date into the offering
+period or, if lower, 85% of the fair market value per share on the semi-annual purchase date.
+An eligible employee’s right to buy the Company’s common stock under the ESPP may not accrue at a rate in excess of $25,000 of the fair market value of such
+shares per calendar year for each calendar year of an offering period.
+If the fair market value per share of the Company’s common stock on any purchase date is less than the fair market value per share on the start date of the 24 -
+month offering period, then that offering period will automatically terminate and a new 24 -month offering period will begin on the next business day. All
+participants in the terminated offering will be transferred to the new offering period.
+As of December 31, 2015, there were approximately 496,440 shares reserved for grant under the ESPP and the International ESPP, collectively.
+Dividends
+Stockholders of the Company’s common stock are entitled to receive dividends when declared by the Company’s Board of Directors. The Company began paying
+a $0.10 quarterly dividend in the second quarter of 20 12 and also paid special dividends in 2013 and 2014. In February 2015, the Company updated its capital
+allocation strategy. Given the change in business approach that moves us away from backward looking “episodic” payments, the Company discontinued the once-
+a-year payment of special dividends on episodic proceeds and instead doubled the quarterly dividend to $0.20 per share effective in March 2015. Dividends
+declared were $0.80 , $0.92 and $0.70 per common share in 2015, 2014 and 2013, respectively.
+NOTE 12 — STOCK-BASED COMPENSATION EXPENSE
+The effect of recording stock-based compensation expense for the years ended December 31, 2015, 2014 and 2013 is as follows (in thousands):
+Years Ended December 31,
+2015 2014 2013
+{Cost of revenues $ — $ 18 $ 50 ‘
+Research, development and other related costs 4,005 2,823 3,591
+lSelling, general and administrative 7,512 10,428 9,862 1
+Total stock-based compensation expense 11,517 13,269 13,503
+’Tax effect on stock-based compensation expense (3,107) (1,968) — l
+Net effect on net income (loss) $ 8,410 $ 11,301 $ 13,503
+Stock-based compensation expense categorized by various equity components for the years ended December 31, 2015, 2014 and 2013 is summarized in the table
+below (in thousands):
+Years Ended December 31,
+2015 2014 2013
+[Employee stock options $ 2,676 $ 3,336 $ 7,815 1
+Restricted stock awards and units 8,232 9,322 4,317
+’Employee stock purchase plan 609 611 1,371 l
+Total stock-based compensation expense $ 11,517 $ 13,269 $ 13,503
+F - 23

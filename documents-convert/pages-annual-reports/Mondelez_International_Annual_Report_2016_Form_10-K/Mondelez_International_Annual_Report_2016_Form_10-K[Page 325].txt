@@ -1,0 +1,26 @@
+(ix) precautionary Liens provided by Mondeléz, the Borrower or any Major Subsidiary in connection with the sale, assignment, transfer or
+other disposition of assets by Mondeléz, the Borrower or such Major Subsidiary which transaction is determined by the Board of Directors of
+Mondeléz, the Borrower or such Major Subsidiary to constitute a “sale” under accounting principles generally accepted in the United States; and
+(x) any extension, renewal or replacement of the foregoing, providedthat (A) such Lien does not extend to any additional assets (other than a
+substitution of like assets), and (B) the amount of Debt secured by any such Lien is not increased.
+(b) MergersLEtc. (i) In the case of Mondeléz, consolidate with or merge into, or convey or transfer, or permit one or more of its Subsidiaries to
+convey or transfer, the properties and assets of Mondeléz and its Subsidiaries substantially as an entirety to, any Person unless, immediately before and after
+giving effect thereto, no Default or Event of Default would exist and, in the case of any merger or consolidation to which Mondeléz is a party, the surviving
+corporation is organized and existing under the laws of the United States of America or any State thereof or the District of Columbia and assumes all of
+Mondeléz’s obligations under this Agreement (including without limitation the covenants set forth in Article V) by the execution and delivery of an
+instrument in form and substance satisfactory to the Required Lenders; and (ii) in the case of the Borrower, consolidate with or merge into, or convey or
+transfer, or permit one or more of its Subsidiaries to convey or transfer, the properties and assets of the Borrower and its Subsidiaries substantially as an
+entirety to, any Person unless, immediately before and after giving effect thereto, no Default or Event of Default would exist and, in the case of any merger or
+consolidation to which the Borrower is a party, the surviving Person is organized and existing under the laws of the Netherlands or of a jurisdiction in the
+United States and assumes all of the Borrower’s obligations under this Agreement and Mondeléz provides confirmation of its continuing guaranty hereunder
+(including without limitation the covenants set forth in Article V) by the execution and delivery of an instrument in form and substance satisfactory to the
+Required Lenders.
+(c) Ownership. Permit the Borrower to cease to be wholly-owned, directly or indirectly, by Mondeléz (other than with respect to directors’ qualifying
+shares and nominal investments by foreign nationals to the extent mandated by applicable law).
+ARTICLE VI
+Events of Default
+SECTION 6.01 Events of Default . Each of the following events (each an “ Event of Default ”) shall constitute an Event of Default:
+(a) The Borrower shall fail to pay any principal of any Loan when the same becomes due and payable, or the Borrower shall fail to pay interest on
+any Loan, or the Borrower shall fail to pay any fees payable under Section 2.09, within ten days after the same becomes due and payable (or after notice from
+the Administrative Agent in the case of fees referred to in Section 2.09(b)); or
+-3 5-

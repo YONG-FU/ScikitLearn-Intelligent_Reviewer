@@ -1,0 +1,50 @@
+Inventories
+Inventories are stated at the lower of cost or current market value. Inventory cost is generally based on the last-
+in, first-out (“LIFO”) method for newsprint and the first-in, first-out (“FIFO”) method for other inventories.
+Investments
+Investments in which we have at least a 20%, but not more than a 50%, interest are generally accounted for
+under the equity method. Investment interests below 20% are generally accounted for under the cost method, except
+if we could exercise significant inﬂuence, the investment would be accounted for under the equity method.
+We evaluate whether there has been an impairment of our cost and equity method investments annually or in
+an interim period if circumstances indicate that a possible impairment may exist.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost. Depreciation is computed by the straight-line method over the
+shorter of estimated asset service lives or lease terms as follows: buildings, building equipment and improvements —
+10 to 40 years; equipment — 3 to 30 years; and software — 2 to 5 years. We capitalize interest costs and certain staffing
+costs as part of the cost of major projects.
+We evaluate whether there has been an impairment of long-lived assets, primarily property, plant and
+equipment, if certain circumstances indicate that a possible impairment may exist. These assets are tested for
+impairment at the asset group level associated with the lowest level of cash ﬂows. An impairment exists if the
+carrying value of the asset (1) is not recoverable (the carrying value of the asset is greater than the sum of
+undiscounted cash ﬂows) and (2) is greater than its fair value.
+Goodwill and Intangibles
+Goodwill is the excess of cost over the fair value of tangible and intangible net assets acquired. Goodwill is not
+amortized but tested for impairment annually or in an interim period if certain circumstances indicate a possible
+impairment may exist. Our annual impairment testing date is the first day of our fiscal fourth quarter.
+We test for goodwill impairment at the reporting unit level, which is our single operating segment. We first
+perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit
+is less than its carrying value. The qualitative assessment includes, but is not limited to, the results of our most recent
+quantitative impairment test, consideration of industry, market and macroeconomic conditions, cost factors, cash
+ﬂows, changes in key management personnel and our share price. The result of this assessment determines whether it
+is necessary to perform the goodwill impairment two-step test. For the 2016 annual impairment testing, based on our
+qualitative assessment, we concluded that it is more likely than not that goodwill is not impaired.
+If we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying
+value, in the first step, we compare the fair value of the reporting unit with its carrying amount, including goodwill.
+Fair value is calculated by a combination of a discounted cash ﬂow model and a market approach model. In
+calculating fair value for our reporting unit, we generally weigh the results of the discounted cash ﬂow model more
+heavily than the market approach because the discounted cash ﬂow model is specific to our business and long-term
+projections. If the fair value exceeds the carrying amount, goodwill is not considered impaired. If the carrying amount
+exceeds the fair value, the second step must be performed to measure the amount of the impairment loss, if any. In the
+second step, we compare the implied fair value of the reporting unit’s goodwill with the carrying amount of that
+goodwill. An impairment loss would be recognized in an amount equal to the excess of the carrying amount of the
+goodwill over the implied fair value of the goodwill.
+Intangible assets that are not amortized (i.e., trade names) are tested for impairment at the asset level by
+comparing the fair value of the asset with its carrying amount. If the fair value, which is based on future cash ﬂows,
+exceeds the carrying value, the asset is not considered impaired. If the carrying amount exceeds the fair value, an
+impairment loss would be recognized in an amount equal to the excess of the carrying amount of the asset over the
+fair value of the asset.
+Intangible assets that are amortized (i.e., customer lists, non-competes, etc.) are tested for impairment at the
+asset level associated with the lowest level of cash ﬂows. An impairment exists if the carrying value of the asset (1) is
+not recoverable (the carrying value of the asset is greater than the sum of undiscounted cash flows) and (2) is greater
+than its fair value.
+THE NEW YORK TIMES COMPANY — P. 61

@@ -1,0 +1,57 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Successor Company Predecessor Company
+Year Ended Six Months Ended Six Months Ended Year Ended
+December 31, December 31, June 30, December 31,
+2016 2015 2015 2014
+Cash flows from operating activities:
+Net (loss) income $ (1,553,873) $ (280,883) $ 1,740,515 $ (1,957,698) ‘
+Adjustments to reconcile net (loss) income to net cash used in operating activities:
+l Loss (income) from discontinued operations 19,994 (11,608) (221,114) 733,027 ‘
+Amortization of debt (premiums) discounts and ﬁnancing costs (4,570) 181 18,753 14,889
+I Depreciation and amortization 172,383 85,364 153,878 394,061 1
+Provision for losses on accounts receivable 77,883 32,279 65,396 57,418
+i Provision for inventory obsolescence 1,731 2,156 — 29,308 ‘
+Foreign currency transaction (gains) losses, net (76,615) 99,737 63,948 51,149
+i Impairment charges, restructuring charges and losses on disposal of ﬁxed assets 1,352,667 13,354 31,471 79,929 ‘
+Deferred income tax (beneﬁt) provision (3,183) (2,513) 905 2,052
+l Share-based compensation expense 6,076 2,923 5,239 10,041 ‘
+Reorganization items in connection with emergence from Chapter 1 1 — — (1,775,787) 54,851
+i Fresh start adjustments, net — — (248,709) — ‘
+Other, net 1,898 (3,829) (11,083) (9,560)
+l Changes in assets and liabilities: l
+Accounts receivable (58,951) (3 8,756) (35,013) (73,430)
+i Prepaid value-added taxes 15,894 9,311 50,5 64 (72,657) ‘
+Handset and accessory inventory 17,273 13,940 7,513 (32,963)
+i Prepaid expenses and other 8,903 (21,027) (26,688) (18,426) ‘
+Other long-term assets (41,447) 20,981 47,253 (136,056)
+l Accrued value-added taxes (7,565) (285) (7,941) (1,772) ‘
+Other long-term liabilities 41,851 23,876 (32,819) (5 34)
+l Accounts Eyable, accrued expenses and other (15,554) _ (46,674) _ _ 18,565 _ 281,919 l
+Total operating cash used in continuing operations (45,205) (101,473) (155,154) (594,452)
+l Total operating cash provided by (used in) discontinued operations — 22,988 _ _ (99,603) _ (34,264) l
+Net cash used in operating activities (45 ,205) — (78,485) (254,757) _ (628,716)
+{Cash ﬂows from investing activities: 1
+Capital expenditures (61,291) (76,630) (88,485) (326,246)
+l Purchases of investments (1,075,119) (558,883) (757,714) (1,593,250) ‘
+Proceeds from sales of investments 1,102,492 575,838 756,546 2,092,459
+l Purchase of licenses (16,936) (4,018) (5,391) (31,861) ‘
+Costs related to sale of towers, net — — — (15,517)
+i Change in restricted cash and other deposits 67,894 (51,235) (57,074) (132,080) ‘
+Proceeds from sale of corporate aircraft — — — 32,390
+1 Other, net (2,243) 4,697 _ _ 3,501 _ (782) 1
+Total investing cash provided by (used in) continuing operations 14,797 — (110,231) (148,617) 25,113
+i Total investing cash provided by (used in) discontinued operations 39,653 _ 109,255 _ _ 1,176,438 _ (372,651) l
+Net cash provided by (used in) investing activities 54,450 _ (976) _ _ 1,027,821 _ (347,538)
+l Cash ﬂows from ﬁnancing activities: ‘
+Repayments under equipment ﬁnancing facility and local bank loans (90,843) (24,452) (124) (54,067)
+i Repayments under capital leases and other (2,161) (616) (1,884) (53,032) ‘
+Claﬁns paid to senior noteholders — — (745,221) —
+l Net proceeds from debtor-in-possession loan — — 340,375 — ‘
+Repayment of debtor-in-possession loan — — (340,3 75) —
+l Borrowings under equipment ﬁnancing facilities and other — — — 14,590 ‘
+Other, net — — (4,291) (396)
+l Total ﬁnancing cash used in continuing operations (93,004) — (25,068) — — (751,520) — (92,905) I
+Total ﬁnancing cash used in discontinu; operations — — (26,711) (35,367)
+i Net cash used in ﬁnancing activities (93,004) : (25,068) : : (778,231) : (128,272) l

@@ -1,0 +1,40 @@
+The Company's process for determining its ESP for deliverables without VSOE or T PE considers multiple factors that may vary depending upon the unique
+facts and circumstances related to each deliverable. The key factors considered by the Company in developing the ESPs include the nature and complexity of
+the licensed technologies, our cost to provide the deliverables, the availability of substitute technologies in the marketplace and the Company's historical
+pricing practices. We then recognize revenue for each unit of accounting depending on the nature of the deliverable(s) comprising the unit of accounting in
+accordance with the revenue recognition criteria mentioned above.
+Fees under these agreements generally include (a) license fees relating to our IP, (b) engineering services, and (c) support services. Historically, each of these
+elements have standalone value and therefore each are treated as separate units of accounting. Any future licensing arrangements will be analyzed based on
+the speciﬁc facts and circumstances which may be different than our historical licensing arrangements.
+For deliverables related to licenses of our technology that involve signiﬁcant engineering services, we recognize revenue in accordance with the provisions
+of the proportional performance method. We determine costs associated with engineering services using actual labor dollars incurred and estimated other
+direct or incremental costs allocated based on the percentage of time the engineer(s) spent on the project. These costs are deferred until revenue recognition
+criteria have been met, at which time they are reclassiﬁed as cost of revenue.
+Warranty Program
+We warrant that our products will be free from defects in material and workmanship for a period of twelve months from delivery. Warranty repairs are
+guaranteed for the remainder of the original warranty period. Our warranty is limited to repairing or replacing products, or refunding the purchase price. At the
+end of each reporting period, we estimate a reserve for warranty returns based on historical experience and knowledge of any applicable events or
+transactions. The reserve for warranty returns is included in accrued liabilities in our consolidated balance sheets.
+Stock-Based Compensation
+We currently sponsor a stock incentive plan that allows for issuance of employee stock options and restricted stock awards, including restricted stock units.
+We also have an employee stock purchase plan for all eligible employees. The fair value of share-based payment awards is expensed straight-line over the
+requisite service period, which is generally the vesting period, for the entire award. Additionally, any modiﬁcation of an award that increases its fair value
+will require us to recognize additional expense.
+The fair value of our stock option grants and purchase rights under our employee stock purchase plan are estimated as of the grant date using the Black-
+Scholes option pricing model which is aﬁ‘ected by our estimates of the risk free interest rate, our expected dividend yield, expected term and the expected
+share price volatility of our common shares over the expected term. The fair value of our restricted stock awards are based on the market value of our stock on
+the date of grant, adjusted for the effect of estimated forfeitures.
+Research and Development
+Costs associated with research and development activities are expensed as incurred, except for items with alternate future uses which are capitalized and
+depreciated over their estimated useful lives.
+On occasion, we enter into co—development arrangements with current or prospective integrated circuit ("IC") customers to defray a portion of the research
+and development expenses we expect to incur in connection with our development of an IC product. As amounts become due and payable without recourse
+under co-development agreements, they are offset against research and development expense up to the amount of related costs incurred.
+Income Taxes
+We account for income taxes under the asset and liability method. This approach requires the recognition of deferred tax assets and liabilities for the
+expected ﬁlture tax consequences of temporary differences between ﬁnancial statement carrying amounts and tax bases of assets and liabilities. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected
+to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the
+enactment date. We establish a valuation allowance to reduce deferred tax assets if it is "more likely than not" that a portion or all of the asset will not be
+realized in ﬁlture tax returns.
+50

@@ -1,0 +1,47 @@
+Item 1A. Risk Factors
+The following are important factors that could cause our actual operating results to differ materially from those indicated or
+suggested by forward-looking statements made in this annual report on Form 10-K or presented elsewhere by management
+from time to time.
+If we do not continue to innovate and develop solutions and technologies that are useful for our customers or that improve
+our operating efficiencies, our operating results may suﬂer.
+We have been in business for nearly two decades and consider ourselves pioneers in the development of content and
+application delivery solutions. As the information technology industry evolves, however, it may become increasingly difficult
+for us to maintain a technological advantage. In particular, our traditional offerings risk becoming commoditized as competitors
+or even current or former customers seek to replicate them such that we must lower the prices we charge, reducing the
+profitability of such offerings, or risk losing such business. We believe, therefore, that developing or acquiring innovative, high-
+margin solutions is key to our revenue growth and profitability. We must do so in a rapidly-changing technology environment
+where it can be difficult to anticipate the needs of potential customers, where competitors may develop products and services
+that are, or may be viewed as, better than ours and where it can be costly to acquire other companies. The process of developing
+new solutions is complex and uncertain; we must commit significant resources to developing new services or features without
+knowing whether our investments will result in services the market will accept. This could cause our expenses to grow more
+rapidly than our revenue. There is often a lengthy period between commencing development initiatives and bringing new or
+improved solutions to market. During this time, the technology preferences, customer demand and market for our solutions, or
+those introduced by our competitors, may move in directions that we had not anticipated. Furthermore, we may not
+successfully execute our technology initiatives because of errors in planning, timing or execution, technical or operational
+hurdles that we fail to overcome in a timely fashion or a lack of appropriate resources. Failure to adequately develop, on a cost-
+effective basis, innovative new or enhanced solutions that are attractive to customers and to keep pace with rapid technological
+and market changes could have a material effect on our business, results of operations, financial condition and cash ﬂows.
+Slower traﬂic growth on our network and numerous other factors could cause our revenue growth rate to slow and
+proﬁtability to decline.
+Increasing traffic on our network is key to our revenue growth and profitability. Numerous factors can impact traffic
+growth including:
+° the pace of introduction of over-the-top (often referred to as OTT) video delivery initiatives by our customers;
+° the popularity of our customers' streaming offerings as compared to those offered by companies that do not use our
+services;
+° customers, particularly large Internet platform companies, utilizing their own data centers and implementing delivery
+approaches that limit or eliminate reliance on third party providers like us; and
+- macro-economic market and industry pressures.
+We base our decisions about expense levels and investments on estimates of our future revenue and future anticipated rate of
+growth. Many of our expenses are fixed cost in nature for some minimum amount of time, such as with co—location and
+bandwidth providers, so it may not be possible to reduce costs in a timely manner or without the payment of fees to exit certain
+obligations early. If we experience slower traffic growth on our network than we expect or than we have experienced in recent
+years, our revenue growth rate will slow, and we may not be able to maintain our current level of profitability in 2017 or on a
+quarterly or annual basis thereafter.
+Our profitability may also decline in future periods as a result of a number of other factors unrelated to traffic growth,
+including:
+- inability to increase sales of our core services and advanced features;
+0 increased headcount expenses;
+° changes in our customers' business models that we do not fully anticipate or that we fail to address adequately; and
+0 increased reliance by customers on our secure socket layer, or SSL, network which is more expensive to maintain and
+operate.
+1 1

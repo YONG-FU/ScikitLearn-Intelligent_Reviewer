@@ -1,0 +1,49 @@
+Each reporting period we review all of our investments in equity and debt securities, except for those classified as trading, to
+determine whether a significant event or change in circumstances has occurred that may have an adverse effect on the fair value
+of each investment. When such events or changes occur, we evaluate the fair value compared to our cost basis in the
+investment. We also perform this evaluation every reporting period for each investment for which our cost basis exceeded the
+fair value. The fair values of most of our investments in publicly traded companies are often readily available based on quoted
+market prices. For investments in nonpublicly traded companies, management's assessment of fair value is based on valuation
+methodologies including discounted cash ﬂows, estimates of sales proceeds, and appraisals, as appropriate. We consider the
+assumptions that we believe hypothetical marketplace participants would use in evaluating estimated future cash ﬂows when
+employing the discounted cash ﬂow or estimates of sales proceeds valuation methodologies.
+In the event the fair value of an investment declines below our cost basis, management is required to determine if the decline in
+fair value is other than temporary. If management determines the decline is other than temporary, an impairment charge is
+recorded. Management's assessment as to the nature of a decline in fair value is based on, among other things, the length of
+time and the extent to which the market value has been less than our cost basis; the financial condition and near-term prospects
+of the issuer; and our intent and ability to retain the investment for a period of time sufﬁcient to allow for any anticipated
+recovery in market value.
+Trade Accounts Receivable
+We record trade accounts receivable at net realizable value. This value includes an appropriate allowance for estimated
+uncollectible accounts to reﬂect any loss anticipated on the trade accounts receivable balances and charged to the provision for
+doubtful accounts. We calculate this allowance based on our history of write-offs, the level of past-due accounts based on the
+contractual terms of the receivables, and our relationships with, and the economic status of, our bottling partners and
+customers. We believe our exposure to concentrations of credit risk is limited due to the diverse geographic areas covered by
+our operations. Activity in the allowance for doubtful accounts was as follows (in millions):
+iYear Ended December 31, 2016 2015 2014 7
+Balance at beginning of year $ 352 $ 331 $ 61
+Net charges to costs and expenses1 126 45 308
+Write-offs (10) (10) (13)
+iOtherz (2) (14) (25)
+Balance at end of year $ 466 $ 352 $ 331 7
+1 The increases in 2016 and 2014 were primarily related to concentrate sales receivables from our bottling partner in Venezuela. See
+Hyperinﬂationary Economies discussion below for additional information.
+2 Other includes foreign currency translation adjustments and the impact of reclassifying certain assets to assets held for sale. See Note 2.
+A significant portion of our net operating revenues and corresponding accounts receivable is derived from sales of our products
+in international markets. Refer to Note 19. We also generate a significant portion of our net operating revenues by selling
+concentrates and syrups to bottlers in which we have a noncontrolling interest, including Coca-Cola FEMSA, S.A.B. de CV.
+("Coca-Cola FEMSA"), Coca-Cola European Partners plc ("CCEP"), Coca-Cola HBC AG ("Coca-Cola Hellenic"), and
+Coca-Cola Icecek A.S. ("Coca-Cola Icecek"). Refer to Note 6.
+Inventories
+Inventories consist primarily of raw materials and packaging (which includes ingredients and supplies) and finished goods
+(which include concentrates and syrups in our concentrate operations and finished beverages in our finished product
+operations). Inventories are valued at the lower of cost or market. We determine cost on the basis of the average cost or first-in,
+ﬁrst-out methods. Refer to Note 4.
+Derivative Instruments
+Our Company, when deemed appropriate, uses derivatives as a risk management tool to mitigate the potential impact of certain
+market risks. The primary market risks managed by the Company through the use of derivative instruments are foreign
+currency exchange rate risk, commodity price risk and interest rate risk. All derivatives are carried at fair value in our
+consolidated balance sheets in the following line items, as applicable: prepaid expenses and other assets; other assets, accounts
+payable and accrued expenses, and other liabilities. The cash ﬂow impact of the Company's derivative instruments is primarily
+included in our consolidated statements of cash ﬂows in net cash provided by operating activities. Refer to Note 5.
+82

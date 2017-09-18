@@ -1,0 +1,42 @@
+When the Trustee incurs expenses or renders services in connection with an Event of Default speciﬁed in Section 501(4) or (5), the expenses (including the
+reasonable and documented fees and expenses of its counsel) and the compensation for the services are intended to constitute expenses of administration under any
+bankruptcy law.
+The Company’s obligations under this Section 607 and any lien arising hereunder shall survive the resignation or removal of the Trustee, the discharge of the
+Company’s obligations pursuant to Article Four of this Indenture and/or the termination of this Indenture.
+SECTION 608. Disqualiﬁcation; Conﬂicting Interests.
+The Trustee for the Securities shall be subject to the provisions of Section 310(b) of the Trust Indenture Act during the period of time required thereby.
+Nothing herein shall prevent the Trustee from ﬁling with the Commission the application referred to in the penultimate paragraph of Section 310(b) of the Trust
+Indenture Act. In determining whether the Trustee has a conﬂicting interest as deﬁned in Section 310(b) of the Trust Indenture Act with respect to the Securities of
+any series, there shall be excluded Securities of any particular series of Securities other than that series.
+SECTION 609. Corporate Trustee Required; Different Trustees for Different Series; Eligibility.
+There shall at all times be a Trustee hereunder which shall be
+(i) a corporation organized and doing business under the laws of the United States of America, any State thereof, or the District of Columbia,
+authorized under such laws to exercise corporate trust powers, and subject to supervision or examination by federal or State authority, or
+(ii) a corporation or other Person organized and doing business under the laws of a foreign government that is permitted to act as Trustee pursuant to a
+rule, regulation, or other order of the Commission, authorized under such laws to exercise corporate trust powers, and subject to supervision or examination
+by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States
+institutional trustees,
+having a combined capital and surplus of at least $50,000,000. If such corporation publishes reports of condition at least annually, pursuant to law or to
+requirements of the aforesaid supervising or examining authority, then for the purposes of this Section, the combined capital and surplus of such corporation shall
+be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published. Neither the Company nor any Person directly or
+indirectly controlling, controlled by, or under the common control with the Company shall serve as Trustee for the Securities. If at any time the Trustee shall cease
+to be eligible in accordance with the provisions of this Section, it shall resign immediately in the manner and with the effect hereunder specified in this Article.
+A different Trustee may be appointed by the Company for each series of Securities prior to the issuance of such Securities. If the initial Trustee for any series
+of Securities is to be other than Deutsche Bank Trust Company Americas, the Company and such Trustee shall, prior to the issuance of such Securities, execute and
+deliver an indenture supplemental hereto, which shall provide for the appointment of such Trustee as Trustee for the Securities of such series and shall add to or
+change any of the provisions of this Indenture as shall be necessary to facilitate the administration of the trusts hereunder by more than one Trustee, it being
+understood that nothing herein or in such supplemental indenture shall constitute such Trustees co-trustees of the same trust and that each such Trustee shall be
+trustee of a trust or trusts hereunder separate and apart from any trust or trusts hereunder administered by any other such Trustee.
+SECTION 610. Resignation and Removal; Appointment of Successor.
+(a) No resignation or removal of the Trustee for the Securities of any series and no appointment of a successor Trustee pursuant to this Article shall become
+effective until the acceptance of appointment by the successor Trustee in accordance with the applicable requirements of Section 611.
+(b) The Trustee for the Securities of any series may resign at any time with respect to the Securities of such series by giving written notice thereof to the
+Company. If the instrument of acceptance by a successor Trustee required by Section 611 shall not have been delivered to the Trustee for the Securities of such
+series within 30 days after the giving of such notice of resignation, the resigning Trustee may petition any court of competent jurisdiction, at the expense of the
+Company, for the appointment of a successor Trustee with respect to the Securities of such series.
+(0) The Trustee for the Securities of any series may be removed at any time with respect to the Securities of such series by Act of the Holders of a majority in
+principal amount of the Outstanding Securities of such series, delivered to such Trustee and to the Company. If the instrument of acceptance by a successor Trustee
+required by Section 611 shall not have been delivered to the Trustee for the Securities of such series within 30 days after the giving of such notice of removal, the
+Trustee being removed may petition any court of competent jurisdiction, at the expense of the Company, for the appointment of a successor Trustee with respect to
+the Securities of such series.
+33

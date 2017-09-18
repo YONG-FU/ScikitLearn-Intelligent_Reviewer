@@ -1,0 +1,18 @@
+Tesla, Inc.
+Consolidated Statements of Comprehensive Loss
+(in thousands)
+Year Ended December 31,
+2016 2015 2014
+Net loss attributable to common stockholders.................................................. $ (674,914) $ (888,663) $ (294,040)
+Other comprehensive gain (loss), net of tax:
+Unrealized gains (losses) on derivatives and short-term
+marketable securities:
+Changein netunrealized gain 43,220 7,443 _
+Less: Reclassiﬁcation adjustment for net (gains) losses into net loss (44,904) 22 (22)
+Net unrealized gain (loss) on derivatives and short-term marketable
+(1,684) 7,465 (22)
+Foreign currency translation (18,500) (10,999) —
+Other comprehensive (20,184) (3,534) (22)
+Comprehensive $ (695,098) $ (892,197) $ (294,062)
+The accompanying notes are an integral part of these consolidated ﬁnancial statements.
+57

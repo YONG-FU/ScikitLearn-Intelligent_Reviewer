@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+7. Income tax expenses (Continued)
+Composition of deferred tax assets and liabilities
+As of March 31,
+2015 2016
+(in millions of RMB)
+Deferred tax assets
+Current:
+Deferred revenue and customer advances 24 15
+Tax losses carried forward and others (i) 381 767
+405 782
+Less: Valuation allowance (149) (331)
+Total deferred tax assets, current portion (Note 13) 256 451
+Non-current:
+Deferred revenue and customer advances 31 17
+Property and equipment 14 25
+Tax losses carried forward and others (i) 1,139 1,021
+1,184 1,063
+Less: Valuation allowance (1,027) (1,033)
+Total deferred tax assets, non-current portion (Note 13) 157 30
+Total deferred tax assets 413 481
+Deferred tax liabilities
+Current:
+Others (17) (9)
+Non-current:
+Withholding tax on undistributed earnings (ii) (3,891) (5,452)
+Identifiable intangible assets (575) (508)
+Available-for-sale securities — (488)
+Others (27) (23)
+Total deferred tax liabilities, non current portion (4,493) (6,471)
+Total deferred tax liabilities (4,510) (6,480)
+Net deferred tax liabilities (4,097) (5,999)
+(i) Others primarily represent accrued expenses which are not deductible until paid under PRC tax laws.
+(ii) The related deferred tax liabilities as of March 31, 2015 and 2016 were provided on the assumption that
+100% of the distributable reserves of the major PRC subsidiaries will be distributed as dividends, except
+for those undistributed earnings that the Company intends to invest indefinitely in the PRC of
+RMB13.6 billion.
+Valuation allowances have been provided on the deferred tax assets mainly related to the tax losses carried
+forward due to the uncertainty surrounding their realization. If events occur in the future that improve the
+certainty of realization, an adjustment to the valuation allowances will be made and consequently reduce the
+income tax expenses.
+F-58

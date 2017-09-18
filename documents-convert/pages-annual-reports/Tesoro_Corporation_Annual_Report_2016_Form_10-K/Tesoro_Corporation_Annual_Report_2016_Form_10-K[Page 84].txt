@@ -1,0 +1,29 @@
+[ mmeonso/a
+INVENTORIES
+COMPONENTS OF INVENTORIES (in millions)
+December 31,
+2016 2015
+Domestic crude oil and refined products $ 2,099 $ 2,142
+Foreign subsidiary crude oil 310 325
+Materials and supplies 149 140
+Oxygenates and by-products 81 54
+Merchandise 1 —
+Less: Lower of cost or market reserve — (359)
+Total Inventories, Net $ 2,640 $ 2,302
+The replacement cost of our crude oil and reﬁned product inventories exceeded carrying value by approximately $107 million at December 31, 2016. We
+recorded a lower of cost or market reserve of $359 million at December 31, 2015 to cost of sales for our crude oil, refined products, oxygenates and by-product
+inventories to adjust the carrying value of our inventories to reﬂect replacement cost. We reverse any lower of cost or market reserve in the subsequent period
+because the inventories are sold or used and then perform a complete lower of cost or market assessment of ending inventories at the end of each reporting
+period to determine if a reserve is required.
+NOTE 6 — PROPERTY, PLANT AND EQUIPMENT
+PROPERTY, PLANT AND EQUIPMENT (in millions)
+December 31,
+2016 2015
+Refining $ 8,067 $ 7,189
+TLLP 4,059 4,162
+Marketing 934 915
+Corporate 412 296
+Property, Plant and Equipment, at Cost 13,472 12,562
+Accumulated depreciation (3,496) (3,021)
+Property, Plant and Equipment, Net $ 9,976 $ 9,541
+December 31, 2016 | 79

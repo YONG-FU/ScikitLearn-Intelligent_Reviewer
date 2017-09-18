@@ -1,0 +1,45 @@
+Support by leading technology providers
+To facilitate the widespread deployment of Red Hat offerings, we have focused on gaining broad support for
+our offerings from technology providers that are critical to enterprises. For example, leading ISVs with
+applications that run on, or with, our technologies include BMC Software, Inc. (“BMC”), CA, Inc. (“CA”), EMC
+Corporation (“EMC”), Hewlett Packard Enterprise Company (“HPE”), International Business Machines
+Corporation (“IBM”), Microsoft Corporation (“Microsoft”), Oracle Corporation (“Oracle”), SAP AG (“SAP”),
+SAS Institute Inc. (“SAS”), Symantec Corporation (“Symantec”) and VMware, Inc. (“VMware”). In addition, we
+have certification and pre—load arrangements with leading hardware vendors including Cisco Systems, Inc.
+(“Cisco”), Dell Inc. (“Dell”), Fujitsu Limited (“Fujitsu”), HPE, Hitachi, Ltd (“Hitachi”), IBM, Lenovo Group
+Limited (“Lenovo”), and NEC Corporation (“NEC”). We also have certification agreements with leading
+networking, storage and telecommunication companies including Cisco, EMC, Ericsson Inc., HPE, Huawei
+Technologies Co., Ltd., NetApp, Inc. (“NetApp”) and Nokia Corporation. We have strategic relationships with
+leading semiconductor and technology companies, such as Advanced Micro Devices, Inc., ARM Holdings plc,
+Intel Corporation and IBM, and CCSPs, such as Alphabet Inc. (“Alphabet”), formerly known as Google Inc.,
+Amazon.com, Inc. (“Amazon”), Fujitsu, IBM, Microsoft and Rackspace Hosting, Inc. (“Rackspace”). We also
+have relationships with a number of global SIs such as Accenture plc (“Accenture”), Atos ES, Computer
+Sciences Corporation, HPE, IBM, Tata Consultancy Services Limited (“TCS”), Tech Mahindra Limited and
+Wipro Limited.
+Factors inﬂuencing our success
+We believe our success is inﬂuenced by:
+° the extent to which we can expand the breadth and depth of our offerings;
+° our ability to enhance the value of our offerings through frequent and continuing innovation while
+maintaining stable platforms over multi-year periods;
+° the extent to which adoption of our emerging technology offerings by enterprises and similar institutions
+continues to increase;
+- our involvement and leadership in key open source communities, which enable us to develop, enhance
+and maintain our offerings;
+° our ability to generate increasing revenue directly and through partners and other strategic relationships,
+including CCSPs, distributors, embedded technology partners, IHVs, ISVs, OEMs, SIs, and VARs;
+° our ability to generate new and recurring revenue for our offerings;
+° the widespread and increasing deployment of open source technologies by enterprises and similar
+institutions;
+° our software, hardware, application and cloud service certiﬁcation programs, which are intended to
+create an ecosystem of technologies that are compatible with our offerings and supported by us; and
+° our ability to provide customers with consulting and training services that generate additional
+subscription revenue.
+Geographic areas and segment reporting
+As of February 29, 2016, Red Hat had more than 85 locations around the world, including offices in North
+America, South America, Europe, Asia and Australia. Red Hat has three geographic operating segments: the
+Americas (US, Canada and Latin America), EMEA (Europe, Middle East and Africa) and Asia Paciﬁc. These
+segments are aggregated into one reportable segment due to the similarity in the nature of offerings, financial
+performance, economic characteristics (e.g., revenue growth and gross margin), methods of production and
+distribution and customer classes (e. g., CCSPs, distributors, resellers and enterprise). See NOTE 2—Summary of
+Significant Accounting Policies and NOTE 20—Segment Reporting to our Consolidated Financial Statements for
+7

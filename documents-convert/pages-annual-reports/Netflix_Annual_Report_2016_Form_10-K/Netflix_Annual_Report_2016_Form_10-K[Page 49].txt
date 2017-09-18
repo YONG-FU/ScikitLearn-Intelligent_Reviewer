@@ -1,0 +1,42 @@
+Table of Contents
+upon future stock option exercises which can not be predicted. However, the Company is expecting the adoption of the ASU to have a material impact on net
+income, basic and diluted earnings per share, deferred tax assets and net cash from operations and the effective tax rate may be reduced.
+In November 2016, the FASB issued ASU 2016-18, Restricted Cash , which requires amounts generally described as restricted cash and restricted cash
+equivalents be included with cash and cash equivalents when reconciling the total beginning and ending amounts for the periods shown on the statement of cash
+ﬂows. ASU 2016-08 is effective for fiscal years beginning after December 15, 2018 (including interim periods within those periods) using a retrospective transition
+method to each period presented. The Company does not expect the impact on its consolidated financial statements to be material.
+Cash Equivalents and Short-term Investments
+The Company considers investments in instruments purchased with an original maturity of 90 days or less to be cash equivalents. The Company also
+classiﬁes amounts in transit from payment processors for customer credit card and debit card transactions as cash equivalents.
+The Company classiﬁes short-term investments, which consist of marketable securities with original maturities in excess of 90 days as available-for-sale.
+Short—term investments are reported at fair value with unrealized gains and losses included in “Accumulated other comprehensive loss” within Stockholders’ equity
+in the Consolidated Balance Sheets. The amortization of premiums and discounts on the investments, realized gains and losses, and declines in value judged to be
+other-than-temporary on available-for—sale securities are included in “Interest and other income (expense)” in the Consolidated Statements of Operations. The
+Company uses the specific identification method to determine cost in calculating realized gains and losses upon the sale of short-term investments.
+Short-term investments are reviewed periodically to identify possible other-than-temporary impairment. When evaluating the investments, the Company
+reviews factors such as the length of time and extent to which fair value has been below cost basis, the ﬁnancial condition of the issuer, the Company’s intent to
+sell, or whether it would be more likely than not that the Company would be required to sell the investments before the recovery of their amortized cost basis.
+Streaming Content
+The Company acquires, licenses and produces content, including original programming, in order to offer members unlimited viewing of TV shows and films.
+The content licenses are for a fixed fee and speciﬁc windows of availability. Payment terms for certain content licenses and the production of content require more
+upfront cash payments relative to the amortization expense. Payments for content, including additions to streaming assets and the changes in related liabilities, are
+classified within "Net cash (used in) provided by operating activities" on the Consolidated Statements of Cash Flows.
+For licenses, the Company capitalizes the fee per title and records a corresponding liability at the gross amount of the liability when the license period begins,
+the cost of the title is known and the title is accepted and available for streaming. The portion available for streaming within one year is recognized as “Current
+content assets, net” and the remaining portion as “Non-current content assets, net” on the Consolidated Balance Sheets.
+For productions, the Company capitalizes costs associated with the production, including development costs and direct costs. These amounts are included in
+"Non-current content assets, net" on the Consolidated Balance Sheets. Participations and residuals are expensed in line with the amortization of production costs.
+Based on factors including historical and estimated viewing patterns, the Company amortizes the content assets (licensed and produced) in “Cost of revenues”
+on the Consolidated Statements of Operations over the shorter of each title's contractual window of availability or estimated period of use, beginning with the
+month of ﬁrst availability. The amortization period typically ranges from six months to five years. For content where the Company expects more upfront viewing,
+for instance due to additional merchandising and marketing efforts, the amortization is on an accelerated basis. The Company reviews factors impacting the
+amortization of the content assets on a regular basis. The Company's estimates related to these factors require considerable management judgment. In the third
+quarter of 2016, the Company changed the amortization method of certain content given changes in estimated viewing patterns of this content. The effect of this
+change in estimate was a $19.8 million decrease in operating income and a $12.3 million decrease in net income for the year ended December 31, 2016. The effect
+on both basic earnings per share and diluted earnings per share was a decrease of $0.03 for the year ended December 31, 2016. Changes in estimates could have a
+signiﬁcant impact on the Company's future results of operations.
+The Company's business model is subscription based as opposed to a model generating revenues at a specific title level. Therefore, content assets, both
+licensed and produced are reviewed in aggregate at the operating segment level when an event or change in circumstances indicates a change in the expected
+usefulness of the content or that the fair value may be less than amortized cost. To date, we have not identified any such event or changes in circumstances. If such
+changes are identiﬁed in the future, these aggregated content assets will be stated at the lower of unamortized cost, net realizable value or fair value. In
+46

@@ -1,0 +1,48 @@
+Direct Vehicle Leasing Program
+We offer a leasing program in the United States, Canada, the UK and Germany. Qualifying customers are permitted to lease a
+vehicle directly from Tesla generally for 36 or 48 months. At the end of the lease term, customers have the option of either returning
+the vehicle to us or purchasing it for a determined residual value. We account for these leasing transactions as operating leases and
+recognize leasing revenues over the contractual term and record the depreciation of these vehicles to cost of automotive leasing
+revenues. As of December 31, 2016 and December 31, 2015, we had deferred $67.2 million and $25.8 million of lease-related upfront
+payments which will be recognized on a straight-line basis over the contractual term of the individual leases. Lease revenues are
+recorded in automotive leasing revenue and for the years ended December 31, 2016, 2015 and 2014, we recognized $112.7 million
+and $41.2 million and $4.4 million.
+Regulatory Credits
+California and certain other states have laws in place requiring vehicle manufacturers to ensure that a portion of the vehicles
+delivered for sale in that state during each model year are zero emission vehicles. These laws and regulations provide that a manufacturer
+of zero emission vehicles may earn regulatory credits (ZEV credits) and may sell excess credits to other manufacturers who apply such
+credits to comply with these regulatory requirements. Similar regulations exist at the federal level that require compliance related to
+greenhouse gas emissions and also allow for the sale of excess credits by one manufacturer to other manufacturers. As a manufacturer
+solely of zero emission vehicles, we have earned emission credits, such as ZEV and GHG credits on vehicles, and we expect to continue
+to earn these credits in the future. We enter into contractual agreements with third parties to purchase our regulatory credits.
+We recognize revenue on the sale of these credits at the time legal title to the credits is transferred to the purchasing party as
+automotive revenue in our Consolidated Statements of Operations. Revenue from the sale of regulatory credits totaled $302.3 million,
+$168.7 million, and $216.3 million for the years ended December 31, 2016, 2015 and 2014.
+Additionally, we have entered into agreements with the State of Nevada and Storey County in Nevada that will provide
+abatements for sales and use taxes, real and personal property taxes, and employer excise taxes, discounts to the base tariff energy
+rates, and transferable tax credits. These incentives are available for the applicable periods beginning on October 17, 2014 and ending
+on June 30, 2034, subject to capital investments by Tesla and its partners for Gigafactory 1 of at least $3.5 billion in the aggregate on
+or before June 30, 2024, and certain other conditions specified in the agreements. If we do not satisfy one or more conditions under the
+agreement, Tesla will be required to repay to the respective taxing authorities the amounts of the tax incentives incurred, plus interest.
+As of December 31, 2016, we have earned $45 million of transferable tax credits under these agreements. We record these credits as
+earned when we have evidence there is a market for their sale. Credits are applied as a cost offset to either employee expense or to
+capital assets, depending on the source of the credits. Credits earned ﬁom employee hires or capital spending by our partners at
+Gigafactory 1 are recorded as a reduction to operating expenses.
+Energy Generation and Storage Revenue
+For solar energy systems and components sales wherein customers pay the full purchase price, either directly or through the
+Solar Loan program, revenue is recognized when we install a solar energy system and the solar energy system passes inspection by the
+utility or the authority having jurisdiction, provided all other revenue recognition criteria have been met. In instances where there are
+multiple deliverables in a single arrangement, we allocate the arrangement consideration to the various elements in the arrangement
+based on the relative selling price method. Costs incurred on residential installations before the solar energy systems are completed are
+included in inventories as work in progress in our consolidated balance sheets. However, any fees that are paid or payable by us to a
+Solar Loan lender would be recognized as an offset against solar energy systems and components sales revenue, in accordance with
+ASC 605-50, Customer Payments and Incentives.
+For revenue arrangements where we are the lessor under operating lease agreements for solar energy systems, we record lease
+revenue from minimum lease payments, including upfront rebates and incentives earned from such systems, on a straight-line basis
+over the life of the lease term, assuming all other revenue recognition criteria are met. For incentives that are earned based on the
+amount of electricity generated by the system, we record revenue as the amounts are earned. The difference between the payments
+received and the revenue recognized is recorded as deferred revenue on our Consolidated Balance Sheets.
+For solar energy systems where customers purchase electricity from us under power purchase agreements, we have determined
+that these agreements should be accounted for, in substance, as operating leases pursuant to ASC 840. Revenue is recognized based on
+the amount of electricity delivered at rates speciﬁed under the contracts, assuming all other revenue recognition criteria are met.
+64

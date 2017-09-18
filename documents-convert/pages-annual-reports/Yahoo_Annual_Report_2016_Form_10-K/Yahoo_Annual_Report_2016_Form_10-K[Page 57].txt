@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+The total increase in search revenue for the year ended December 31, 2015 described above included the impact of unfavorable foreign exchange ﬂuctuations
+of $41 million using the foreign currency exchange rates from the year ended December 31, 2014.
+Display Revenue
+Display revenue is generated from the display of graphical, non—graphical, and video advertisements (“display advertising”). We earn revenue from guaranteed or
+“premium” display advertising by delivering advertisements according to advertisers’ speciﬁed criteria, such as number of impressions during a ﬁxed period
+targeted to a speciﬁc audience or on a speciﬁc placement. Also, we earn revenue from non—guaranteed display advertising, which includes native advertising, by
+delivering advertisements on a preemptible basis.
+We recognize revenue from display advertising on Yahoo Properties and Afﬁliate sites as impressions of or clicks on display advertisements, including native
+advertising, are delivered. Impressions are delivered when a sold advertisement appears in pages viewed by users. Clicks are delivered when a user clicks on
+an advertisement. Arrangements for these services generally have terms of up to one year. For display advertising on Afﬁliate sites, we pay TAC to Afﬁliates for
+the revenue generated from the display of these advertisements on the Afﬁliate sites. The display revenue derived from these arrangements that involve trafﬁc
+supplied by Afﬁliates is reported on a gross basis (before deducting the TAC paid to Affiliates as cost of revenue—TAC) when we are the primary obligor to the
+advertisers who are the customers of the display advertising service.
+The following table presents display revenue and display revenue as a percentage of total revenue for the periods presented (dollars in thousands):
+Years Ended December 31,
+2014 2015 2016
+Display l
+Yahoo Properties $ 1,702,787 $ 1,4_9_Q,_6_5_0 $ 1,5_3_Q,0_94
+| Afﬁliate sites 177,330 595,104 451,441 I
+77 Total display revenue 8 1,880,117 8 2,085,754 8 1,981,535
+Displ_ay as a percentage of total revenue l
+Yahoo Properties 37_% 3914) 27914)
+| Afﬁliate sites 4% 12% 9% l
+Total display revenue : 41% : 48% : 378%
+During the ﬁrst quarter of 2016, we changed the account coding for certain transactions to properly reflect the allocation of display revenue between Yahoo
+Properties and Afﬁliate sites. Prior period amounts have been revised to conform to the current presentation.
+Display revenue for the year ended December 31, 2016 decreased $104 million, or 5 percent, compared to 2015, due to a decline in advertising revenue from
+Afﬁliate sites of $144 million, partially offset by an increase in advertising revenue from Yahoo Properties of $39 million. The decline in display revenue on
+Afﬁliate sites was attributable to a decline in video advertising driven by volume and pricing declines. The increase in display revenue on Yahoo Properties was
+primarily due to an increase in audience advertising driven by increases in volume and pricing, partially offset by a decline in volume and pricing of premium
+advertising.
+56

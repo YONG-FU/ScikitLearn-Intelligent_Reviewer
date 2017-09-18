@@ -1,0 +1,24 @@
+(ii) each such assignment shall be to an Eligible Assignee;
+(iii) each such assignment shall require the prior written consent of (x) the Administrative Agent, and (y) unless an Event of Default under Sections
+6.01(a) or (e) has occurred and is continuing, the Borrower (such consents not to be unreasonably withheld or delayed and such consents by the Borrower
+shall be deemed given if no objection is received by the assigning Lender and the Administrative Agent from the Borrower within twenty (20) Business Days
+after written notice of such proposed assignment has been delivered to the Borrower); provided, that no consent of the Administrative Agent or the Borrower
+shall be required for an assignment to another Lender or an affiliate of a Lender; and
+(iv) the parties to each such assignment shall execute and deliver to the Administrative Agent for its acceptance and recording in the Register, an
+Assignment and Acceptance, together with a processing and recordation fee of $3,500 (unless such assignment is made to an affiliate of the transferring
+Lender) provided, that, if such assignment is made pursuant to Section 9.07(h), Mondeléz shall pay or cause to be paid such $3,500 fee.
+Upon such execution, delivery, acceptance and recording, from and after the effective date specified in each Assignment and Acceptance, (x) the assignee
+thereunder shall be a party hereto and, to the extent that rights and obligations hereunder have been assigned to it pursuant to such Assignment and Acceptance,
+have the rights and obligations of a Lender hereunder and (y) the assigning Lender thereunder shall, to the extent that rights and obligations hereunder have been
+assigned by it pursuant to such Assignment and Acceptance, relinquish its rights (other than those provided under Section 9.04 and, with respect to the period
+during which it is a Lender, Sections 2.12 and 2.15) and be released from its obligations under this Agreement (and, in the case of an Assignment and Acceptance
+covering all or the remaining portion of an assigning Lender’s rights and obligations under this Agreement, such Lender shall cease to be a party hereto), other than
+Section 9.12. Notwithstanding the foregoing, an assignment, sale, transfer, delegation or other disposition under this Section 9.07 may only be made to a person
+who is a “Non-Public Lender” (as defined below). For the purpose of this Section 9.07, “Non-Public Lender” means (i) until the publication of an interpretation of
+“public” as referred to in the CR by the competent authority/ies: an entity which (x) assumes rights and/or obligations vis-a-vis a Borrower, the value of which is
+at least EUR 100,000 (or its equivalent in another currency), (y) provides repayable funds for an initial amount of at least EUR 100,000 (or its equivalent in another
+currency) or (2) otherwise qualiﬁes as not forming part of the public and (ii) as soon as the interpretation of the term “public” as referred to in the CR has been
+published by the competent authority/ies: an entity which is not considered to form part of the public on the basis of such interpretation. “CRR” means the
+Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment
+firms and amending Regulation (EU) No. 648/2012.
+-48-

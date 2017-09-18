@@ -1,0 +1,47 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+NOTE 18—Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following table summarizes the composition and fair value hierarchy of the Company’s financial assets
+and liabilities at February 29, 2016 (in thousands):
+Quoted Prices In Signiﬁcant
+As of Active Markets Other Signiﬁcant
+February 29, for Identical Observable Unobservable
+: 2016 : :Assets (Level 1): Inputs (Level 2) Inputs (Level 3)
+Assets:
+Money markets (1) ..................... $ 221,970 $221,970 $ — $—
+Available-for—sale securities (1):
+US. agency securities ............... 331,117 — 331,117 —
+Corporate securities . . . . . . . . . . . . . . . . 736,495 — 736,495 —
+Foreign currency derivatives (2) . . . . . . . . . . . 566 — 566 —
+Liabilities:
+Foreign currency derivatives (3) . . . . . . . . . . . (452) — (452) —
+$1,289,696 $221,970 $1,067,726 $—
+(1) Included in Cash and cash equivalents, Investments in debt securities, short-term or Investments in debt
+securities, long-term in the Company’s Consolidated Balance Sheet at February 29, 2016 in addition to
+$705.8 million of cash.
+(2) Included in Other current assets in the Company’s Consolidated Balance Sheet at February 29, 2016.
+(3) Included in Accounts payable and accrued expenses in the Company’s Consolidated Balance Sheet at
+February 29, 2016.
+The following table summarizes the composition and fair value hierarchy of the Company’s financial assets
+and liabilities at February 28, 2015 (in thousands):
+Quoted Prices In Signiﬁcant
+As of Active Markets Other Signiﬁcant
+February 28, for Identical Observable Unobservable
+: 2015 : :Assets (Level 1): Inputs (Level 2) Inputs (Level 3)
+Assets:
+Money markets (1) . . . . . . . . . . . . . . . . . . . .. $ 369,926 $369,926 $ = $—
+Interest—bearing deposits (1) . . . . . . . . . . . . . . 39 — 39 —
+Available-for—sale securities (1):
+Commercial paper . . . . . . . . . . . . . . . . . . 29,994 — 29,994 —
+U.S. agency securities . . . . . . . . . . . . . . . 276,287 — 276,287 —
+Corporate securities . . . . . . . . . . . . . . . . 421,200 — 421,200 —
+Foreign government securities . . . . . . . . 63,744 — 63,744 —
+Equitysecurities(1).................... = — —
+Foreign currency derivatives (2) . . . . . . . . . . . 74 74
+Liabilities:
+Foreign currency derivatives (3) . . . . . . . . . . . (738) — (738) —
+$1,160,526 $369,926 $790,600 $—
+(1) Included in Cash and cash equivalents, Investments in debt securities, short-term or Investments in debt
+securities, long-term in the Company’s Consolidated Balance Sheet at February 28, 2015, in addition to
+$647.6 million of cash.
+107

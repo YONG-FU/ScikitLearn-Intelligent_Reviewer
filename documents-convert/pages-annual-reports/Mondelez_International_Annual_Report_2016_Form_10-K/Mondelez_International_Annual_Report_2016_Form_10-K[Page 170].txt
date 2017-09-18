@@ -1,0 +1,41 @@
+(i) the Trustee shall not be liable for any action taken, suffered, or omitted to be taken by it in good faith and reasonably believed by it to be authorized
+or within the discretion or rights or powers conferred upon it by this Indenture;
+(j) in no event shall the Trustee be responsible or liable for special, indirect, punitive or consequential loss or damage of any kind whatsoever
+(including, but not limited to, loss of profit) irrespective of whether the Trustee has been advised of the likelihood of such loss or damage and regardless of the form
+of action;
+(k) the rights, privileges, protections, immunities and benefits given to the Trustee, including, without limitation, its right to be indemnified, are
+extended to, and shall be enforceable by, the Trustee in each of its capacities hereunder, and each agent, custodian and other Person employed to act hereunder;
+(l) the Trustee shall not be required to give any bond or surety in respect of the performance of its powers and duties hereunder; and
+(m) the Trustee may request that the Company deliver a certificate setting forth the names of individuals and/or titles of ofﬁcers authorized at such
+time to take specified actions pursuant to this Indenture.
+SECTION 604. Not Responsible for Recitals 0r Issuance of Securities.
+The recitals contained herein and in the Securities, except the Trustee’s certificates of authentication thereof, and neither the Trustee for any series of
+Securities, nor any Authenticating Agent assumes any responsibility for their correctness. The Trustee for any series of Securities makes no representations as to the
+validity or sufficiency of this Indenture or of the Securities of any series. Neither the Trustee for any series of Securities nor any Authenticating Agent shall be
+accountable for the use or application by the Company of Securities or the proceeds thereof
+SECTION 605. May Hold Securities.
+The Trustee for any series of Securities, any Authenticating Agent, Paying Agent, Security Registrar or any other agent of the Company or such Trustee, in
+its individual or any other capacity, may become the owner or pledgee of Securities and, subject to Sections 608 and 613, may otherwise deal with the Company
+with the same rights it would have if it were not such Trustee, Authenticating Agent, Paying Agent, Security Registrar or such other agent.
+SECTION 606. Money Held in Trust.
+Money held by the Trustee for any series of Securities in trust hereunder need not be segregated from other funds except as provided in Section 115 and
+except to the extent required by law. The Trustee for any series of Securities shall be under no liability for interest on any money received by it hereunder except as
+otherwise agreed in writing with the Company.
+SECTION 607. Compensation and Reimbursement.
+The Company agrees:
+(1) to pay to the Trustee for any series of Securities from time to time such compensation as the Company and the Trustee shall from time to time
+agree in writing for all services rendered by it hereunder (which compensation shall not be limited by any provision of law in regard to the compensation of a
+trustee of an express trust);
+(2) except as otherwise expressly provided herein, to reimburse the Trustee for any series of Securities in Dollars upon its request for all reasonable
+expenses, disbursements and advances incurred or made by such Trustee in accordance with any provision of this Indenture (including the compensation and
+the expenses and disbursements of its agents and counsel), except any such expense, disbursement or advance as may be attributable to its gross negligence
+or willful misconduct; and
+(3) to indemnify such Trustee or any predecessor Trustee and their agents in Dollars for, and to hold them harmless against, any loss, damage, claims,
+liability or expense, including taxes (other than taxes based upon, measured by or determined by the income of the Trustee) incurred without gross negligence
+or willful misconduct on their part, arising out of or in connection with the acceptance or administration of this trust, including the costs and expenses of
+defending themselves against any claim (whether or not asserted by the Company, or any Holder or any other Person) or liability in connection with the
+exercise or performance of any of their powers or duties hereunder; or in connection with enforcing the provisions of this Section.
+As security for the performance of the obligations of the Company under this Section the Trustee for any series of Securities shall have a lien prior to the
+Securities upon all property and funds held or collected by such Trustee as such, except funds held in trust for the payment of principal of, or premium, if any, or
+interest, if any, on particular Securities.
+32

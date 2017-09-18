@@ -1,0 +1,19 @@
+(v) Mondeléz shall be permitted to replace any Lender that is a Non-Extending Lender with a replacement financial institution or other entity (each, a
+“ Newienderf); providedthat (A) the New Lender shall purchase, at par, all Advances and other amounts owing to such replaced Lender on or prior to the
+date of replacement, (B) the Borrower shall be liable to such replaced Lender under Section 9.04(b) if any LIBO Rate Advance or Floating Rate Bid Advance
+owing to such replaced Lender shall be purchased other than on the last day of the Interest Period relating thereto, (C) the replaced Lender shall be obligated
+to assign its Commitment and Advances to the applicable replacement Lender or Lenders in accordance with the provisions of Section 9.07 ( provided that
+Mondeléz shall be obligated to pay the processing and recordation fee referred to therein), (D) until such time as such replacement shall be consummated, the
+Borrower shall pay all additional amounts (if any) required pursuant to Section 2.12 or 2.15(a), as the case may be and (E) any such replacement shall not be
+deemed to be a waiver of any rights that Mondelez, the Borrower, the Administrative Agent or any other Lender shall have against the replaced Lender.
+(vi) If the Extending Lenders and the New Lenders are willing to commit amounts that, in an aggregate, exceed the amount of the Commitments of
+the Non-Extending Lenders, Mondeléz and the Administrative Agent shall allocate the Commitments of the Non-Extending Lenders among them.
+(vii) If any financial institution or other entity becomes a New Lender or any Extending Lender’s Commitment is increased pursuant to this
+Section 2.10(b), (x) Pro Rata Advances made on or after the applicable Extension Date shall be made in accordance with the pro rata provisions of
+Section 2.01 based on the respective Commitments in effect on and after the applicable Extension Date and (y) if, on the date of such joinder or increase,
+there are any Pro Rata Advances outstanding, such Pro Rata Advances shall on or prior to such date be prepaid from the proceeds of new Pro Rata Advances
+made hereunder (reﬂecting such additional Lender or increase), which prepayment shall be accompanied by accrued interest on the Pro Rata Advances being
+prepaid and any costs incurred by any Lender in accordance with Section 9.04(b).
+(viii) In connection herewith, the Administrative Agent shall enter in the Register (A) the names of any New Lenders, (B) the respective allocations
+of any Extending Lenders and New Lenders effective as of each Extension Date and (C) the Termination Date applicable to each Lender.
+-25-

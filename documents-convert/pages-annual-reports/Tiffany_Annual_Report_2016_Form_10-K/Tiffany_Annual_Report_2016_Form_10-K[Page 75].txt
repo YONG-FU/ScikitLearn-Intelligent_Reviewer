@@ -1,0 +1,32 @@
+qualifying for hedge accounting must maintain a specified level of effectiveness between the hedge instrument and
+the item being hedged, both at inception and throughout the hedged period.
+Derivative Instruments Not Designated as Hedging Instruments. Derivative instruments which do not meet the
+criteria to be designated as a hedge are recorded on the consolidated balance sheet at their fair values, as either
+assets or liabilities, with an offset to current earnings.
+The Company does not use derivative financial instruments for trading or speculative purposes.
+Types of Derivative Instruments
+lnterest Rate Swaps — In 2012, the Company entered into forward-starting interest rate swaps to hedge the impact of
+interest rate volatility on future interest payments associated with the anticipated incurrence of $250.0 million of
+additional debt which was incurred in July 2012. The Company accounted for the forward-starting interest rate
+swaps as cash flow hedges. As of January 31, 2017, $19.8 million remains recorded as an unrealized loss in
+accumulated other comprehensive loss, which is being amortized over the term of the 2042 Notes to which the
+interest rate swaps related. ‘
+In 2014, the Company entered into forward-starting interest rate swaps to hedge the impact of interest rate volatility
+on future interest payments associated with the anticipated incurrence of long-term debt which was incurred shortly
+thereafter (refer to "Note C. Debt"). The Company accounted for the forward-starting interest rate swaps as cash flow %
+hedges. The Company settled the interest rate swaps in 2014 and recorded an unrealized loss within accumulated P
+other comprehensive loss. As of January 31, 2017, $3.8 million remains recorded as an unrealized loss and is being E
+amortized over the terms of the respective 2024 Notes or 2044 Notes to which the interest rate swaps related.
+Cross-currency Swag — In 2016, the Company entered into cross-currency swaps to hedge the foreign exchange risk
+associated with Japanese yen-denominated intercompany loans. These cross-currency swaps are designated and
+accounted for as cash flow hedges. As of January 31, 2017, the notional amount of cross-currency swaps accounted r ‘
+for as cash flow hedges was approximately ¥10.6 billion or $100.0 million. The cross-currency swaps have a term
+ending on October 1, 2024.
+Foreign Exchange Forward Contracts — The Company uses foreign exchange forward contracts to offset a portion of
+the foreign currency exchange risks associated with foreign currency-denominated liabilities, intercompany
+transactions and forecasted purchases of merchandise between entities with differing functional currencies. The
+Company assesses hedge effectiveness based on the total changes in the foreign exchange forward contracts' cash
+flows. These foreign exchange forward contracts are designated and accounted for as either cash flow hedges or
+economic hedges that are not designated as hedging instruments.
+TIFFANY & co.
+K-69

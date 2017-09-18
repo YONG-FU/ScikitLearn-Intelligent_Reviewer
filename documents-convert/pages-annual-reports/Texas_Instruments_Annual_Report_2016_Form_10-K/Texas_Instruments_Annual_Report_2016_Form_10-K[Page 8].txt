@@ -1,0 +1,51 @@
+Other
+We report the results of our remaining business activities in Other, which included operating segments that do not meet the
+quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other
+generated $1.81 billion of revenue in 2016 and included revenue from DLP® products (primarily used in projectors to create
+high-definition images), calculators, certain custom semiconductors known as application-specific integrated circuits (ASle)
+and royalties received from agreements involving license rights to our patent portfolio.
+In Other, we also included items that are not used in evaluating the results of or in allocating resources to our segments. Examples
+of these items include acquisition charges; restructuring charges; and certain corporate-level items, such as litigation expenses,
+'3 environmental costs, insurance settlements, and gains and losses from other activities, including asset dispositions.
+:u
+f Financial information with respect to our segments and our operations outside the United States is contained in Note 1 to the
+9 financial statements, which is included in Item 8, “Financial Statements and Supplementary Data.” Risks attendant to our foreign
+5‘ operations are described in Item 1A, “Risk Factors.”
+Markets for our products
+The table below lists the major markets that used our products in 2016 and the estimated percentage of our 2016 revenue that
+the market represented. The chart also lists, in declining order of our revenue, the sectors within each market.
+Market Sector
+Industrial Factory automation and control Electronic point of sale
+(33% of TI revenue) Medical/healthcare/fitness Appliances
+Building automation Power delivery
+Grid infrastructure Display
+Test and measurement Industrial transportation
+Space/avionics/defense Lighting
+Motor drives Industrial other
+Automotive Infotainment and cluster
+(18% of TI revenue) Passive safety
+Advanced Driver Assistance Systems (ADAS)
+Hybrid/electric vehicle and powertrain
+Body electronics and lighting
+Personal electronics Mobile phones
+(26% of TI revenue) Personal and notebook computers
+Storage
+Portable electronics
+Tablets
+Home theater and entertainment
+Printers and other peripherals
+TV
+Wearables (non-medical)
+Gaming
+Communications equipment Wireless infrastructure
+(13% of TI revenue) Telecom infrastructure
+Enterprise switching
+Residential
+Enterprise systems Projectors
+(6% of TI revenue) Servers
+High-performance computing
+Multi-function printers
+Thin client
+Other (calculators, royalties and other)
+(4% of TI revenue)
+4 TEXAS INSTRUMENTS - 2016 FORM 10-K

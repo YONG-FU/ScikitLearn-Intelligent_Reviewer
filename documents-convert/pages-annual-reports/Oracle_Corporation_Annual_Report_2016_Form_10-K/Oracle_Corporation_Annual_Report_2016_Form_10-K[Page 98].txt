@@ -1,0 +1,37 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+to the non-software elements. We then further allocate consideration within the software group to the respective elements within that group following the guidance
+in ASC 985-605 and our policies as described above. After the arrangement consideration has been allocated to the elements, we account for each respective
+element in the arrangement as described above.
+Other Revenue Recognition Policies Applicable to Software and Non-software Elements
+Many of our software arrangements include consulting implementation services sold separately under consulting engagement contracts and are included as a part of
+our services business. Consulting revenues from these arrangements are generally accounted for separately from new software licenses revenues because the
+arrangements qualify as services transactions as deﬁned in ASC 985-605. The more signiﬁcant factors considered in determining whether the revenues should be
+accounted for separately include the nature of services (i.e., consideration of whether the services are essential to the functionality of the licensed product), degree
+of risk, availability of services from other vendors, timing of payments and impact of milestones or acceptance criteria on the realizability of the software license
+fee. Revenues for consulting services are generally recognized as the services are performed. If there is a signiﬁcant uncertainty about the project completion or
+receipt of payment for the consulting services, revenues are deferred until the uncertainty is sufﬁciently resolved. We estimate the proportional performance on
+contracts with ﬁxed or “not to exceed” fees on a monthly basis utilizing hours incurred to date as a percentage of total estimated hours to complete the project. If
+we do not have a sufficient basis to measure progress towards completion, revenues are recognized when we receive ﬁnal acceptance from the customer that the
+services have been completed. When total cost estimates exceed revenues, we accrue for the estimated losses immediately using cost estimates that are based upon
+an average fully burdened daily rate applicable to the consulting organization delivering the services. The complexity of the estimation process and factors relating
+to the assumptions, risks and uncertainties inherent with the application of the proportional performance method of accounting affects the amounts of revenues and
+related expenses reported in our consolidated ﬁnancial statements. A number of internal and external factors can affect our estimates, including labor rates,
+utilization and efficiency variances and speciﬁcation and testing requirement changes.
+Our advanced customer support services are offered as standalone arrangements or as a part of arrangements to customers buying other software and non-software
+products and services. We offer these advanced support services, both on-premise and remote, to Oracle customers to enable increased performance and higher
+availability of their products and services. Depending upon the nature of the arrangement, revenues from these services are recognized as the services are
+performed or ratably over the term of the service period, which is generally one year or less.
+Education revenues are also a part of our services business and include instructor-led, media-based and internet-based training in the use of our software and
+hardware products. Education revenues are recognized as the classes or other education offerings are delivered.
+If an arrangement contains multiple elements and does not qualify for separate accounting for the product and service transactions, then new software licenses
+revenues and/or hardware products revenues, including the costs of hardware products, are generally recognized together with the services based on contract
+accounting using either the percentage-of-completion or completed-contract method. For the purposes of revenue classiﬁcation of the elements that are accounted
+for as a single unit of accounting, we allocate revenues to software and non-software elements based on a rational and consistent methodology utilizing our best
+estimate of the relative selling price of such elements.
+We also evaluate arrangements with governmental entities containing “fiscal funding” or “termination for convenience” provisions, when such provisions are
+required by law, to determine the probability of possible cancellation. We consider multiple factors, including the history with the customer in similar transactions,
+the “essential use” of the software or hardware products and the planning, budgeting and approval processes
+96

@@ -1,0 +1,48 @@
+ITEM 7. WNAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+OVERVIEW
+We are a leading global provider of open source software solutions, using a community-powered approach
+to develop and offer reliable and high-performing operating system, virtualization, management, middleware,
+cloud, mobile and storage technologies.
+Open source software is an alternative to proprietary software and represents a different model for the
+development and licensing of commercial software code than that typically used for proprietary software.
+Because open source software code is often freely shared, there are customarily no licensing fees for the use of
+open source software. Therefore, we do not recognize revenue from the licensing of the code itself. We provide
+value to our customers through the development, aggregation, integration, testing, certification, delivery,
+maintenance, enhancement and support of our Red Hat technologies, and by providing a level of performance,
+scalability, ﬂexibility, reliability and security for the technologies we package and distribute. Moreover, because
+communities of developers not employed by us assist with the creation of our open source offerings,
+opportunities for further innovation of our offerings are supplemented by these communities.
+We market our offerings primarily to customers in the form of annual or multi-year subscriptions, and we
+recognize revenue over the period of the subscription agreements with our customers. Our technologies are also
+offered by certified cloud and service providers (“CCSPs”) as a service available on demand, and this revenue is
+recognized by us upon delivery.
+We derive our revenue and generate cash from customers primarily from two sources: (i) subscription
+revenue and (ii) training and services revenue. These arrangements typically involve subscriptions to Red Hat
+technologies. Our revenue is affected by, among other factors, corporate, government and consumer spending
+levels. In evaluating the performance of our business, we consider a number of factors, including total revenue,
+deferred revenue, operating income, operating margin and cash ﬂows from operations. The arrangements with
+our customers that produce this revenue and cash are explained in further detail in Part II, Item 7 under “Critical
+Accounting Estimates” and in NOTE 2—Summary of Significant Accounting Policies to our Consolidated
+Financial Statements.
+We believe our success is inﬂuenced by: (i) the extent to which we can expand the breadth and depth of our
+offerings, (ii) our ability to enhance the value of our offerings through frequent and continuing innovation while
+maintaining stable platforms over multi-year periods, (iii) the extent to which adoption of our emerging
+technology offerings by enterprises and similar institutions continues to increase, (iv) our involvement and
+leadership in key open source communities, which enable us to develop, enhance and maintain our offerings,
+(v) our ability to generate increasing revenue directly and through partners and other strategic relationships,
+including CCSPs, distributors, embedded technology partners, independent hardware vendors, independent
+software vendors, original equipment manufacturers (“OEMs”), systems integrators, and value added resellers,
+(Vi) our ability to generate new and recurring revenue for our offerings, (vii) the widespread and increasing
+deployment of open source technologies by enterprises and similar institutions, (viii) our software, hardware,
+application and cloud service certification programs, which are intended to create an ecosystem of technologies
+that are compatible with our offerings and supported by us, and (ix) our ability to provide customers with
+consulting and training services that generate additional subscription revenue.
+In ﬁscal 2016 we focused on and in fiscal 2017 we expect to focus on, among other things: (i) driving the
+widespread adoption of our offerings, (ii) expanding our portfolio of technology offerings that enable cloud
+computing, (iii) investing in the development of open source technologies and promoting the use of our
+technologies by software developers globally, (iv) pursuing strategic acquisitions and alliances, (v) increasing
+revenue from our existing customer base, (vi) increasing revenue by promoting a range of services to help our
+customers derive additional value, (vii) expanding routes to market, and (viii) growing our presence in
+international markets.
+46

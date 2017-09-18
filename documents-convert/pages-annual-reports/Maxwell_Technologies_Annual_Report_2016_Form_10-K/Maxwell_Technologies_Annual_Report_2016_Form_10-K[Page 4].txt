@@ -1,0 +1,40 @@
+PART I
+Item 1. Business
+Introduction
+Maxwell was incorporated under the name Maxwell Laboratories, Inc. in 1965. The Company made an initial public offering of common stock in 1983, and
+changed its name to Maxwell Technologies, Inc. in 1996. Today, we develop, manufacture and market energy storage and power delivery products for
+transportation, industrial, information technology and other applications. Our products are designed and manufactured to perform reliably with minimal
+maintenance for the life of the applications into which they are integrated. We believe that this “life-of-the-application” reliability gives our products a competitive
+advantage and enables them to command higher profit margins than commodity products. We focus on the following lines of high-reliability products and
+technologies:
+° Ultracapacitors: Ultracapacitors are energy storage devices that possess a unique combination of high power density, extremely long operational life and
+the ability to charge and discharge very rapidly. Our ultracapacitor cells, multi—cell packs and modules provide highly reliable energy storage and power
+delivery solutions for applications in multiple industries, including automotive, bus, rail and truck in transportation, grid energy storage and renewable
+wind energy solutions. Our recently developed lithium-ion capacitors are energy storage devices with the power characteristics of an ultracapacitor
+combined with enhanced energy storage capacity approaching that of a battery. They are uniquely designed to address a variety of applications in the
+rail, grid, and industrial markets where energy density and weight are differentiating factors.
+0 Dry Battery Electrode Technology: We believe our dry electrode technology has the potential to be a revolutionary technology within the battery
+industry with a substantial market opportunity, particularly for use in electric vehicles. By applying our proprietary and fundamental dry electrode
+manufacturing technology and trade secrets to batteries of varying chemistries, we believe we can create signiﬁcant performance and cost benefits when
+compared with today’s state of the art wet electrode technology.
+0 High- Voltage Capacitors: Our CONDIS® high-voltage capacitors are designed and manufactured to perform reliably for decades in all climates. These
+products include grading and coupling capacitors and electric voltage transformers that are used to ensure the safety and reliability of electric utility
+infrastructure and other applications involving tranSport, distribution and measurement of high-voltage electrical energy.
+In April 2016, we sold substantially all assets and liabilities related to our radiation-hardened microelectronics product line. Our radiation-hardened
+microelectronic products for satellites and spacecraft included single board computers and components, such as high-density memory and data conversion modules.
+General Product Line and Technology Overview
+Ultracapacitors
+Ultracapacitors enhance the efficiency and reliability of devices or systems that generate or consume electrical energy. They differ from other energy storage
+and power delivery products by combining rapid charge/discharge capabilities typically associated with film and electrolytic capacitors with energy storage
+capacity generally associated with batteries. Although batteries store significantly more electrochemical energy than ultracapacitors, they cannot charge and
+discharge as rapidly and efficiently as ultracapacitors. Conversely, although electrolytic capacitors can deliver bursts of high power very rapidly, they have limited
+energy storage capacity, and therefore cannot sustain power delivery as long as ultracapacitors. Also, unlike batteries, which store energy by means of a chemical
+reaction and experience gradual depletion of their energy storage and power delivery capability over hundreds to a few thousand charge/discharge cycles,
+ultracapacitors’ energy storage and power delivery mechanisms involve minimal chemical reactions, so they can be charged and discharged hundreds of thousands
+to millions of times in typical operating environments with negligible performance degradation. This ability to store energy, deliver bursts of power and perform
+reliably for many years, with little or no maintenance, makes ultracapacitors an attractive and efﬁcient energy storage option for a wide range of energy-consuming
+and generating devices and applications.
+Based on potential volumes, we believe that the tranSportation industry represents the largest current market opportunity for ultracapacitors. Transportation
+applications include braking energy recuperation and torque-augmentation systems for hybrid-electric buses, trucks, autos and electric rail vehicles, vehicle power
+network smoothing and stabilization, and engine starting systems for light and heavy duty trucks to support anti-idle laws for emissions reduction.
+2

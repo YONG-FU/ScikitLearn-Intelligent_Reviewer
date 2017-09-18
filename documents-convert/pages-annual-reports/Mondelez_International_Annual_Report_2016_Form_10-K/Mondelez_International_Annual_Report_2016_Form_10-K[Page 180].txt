@@ -1,0 +1,45 @@
+Article Ten
+COVENANTS
+SECTION 1001. Payment of Principal, Premium, if any, and Interest, if any.
+The Company agrees, for the benefit of each particular series of Securities, that it will duly and punctually pay in the currency or currency unit in which the
+Securities of such series are payable (except as otherwise speciﬁed pursuant to Section 301 for the Securities of such series and except as provided in Sections
+311(b) and 311(d)) principal of, and premium, if any, and interest, if any, on that series of Securities in accordance with the terms of the Securities of such series,
+and this Indenture. On or before 10:00 am, New York City time, on the applicable payment date, the Company shall deposit with the Paying Agent money
+sufﬁcient to pay the principal of and interest, if any, on the Securities of each Series in accordance with the terms of such Securities and this Indenture. The interest,
+if any, due in respect of any temporary or permanent Global Security, together with any additional amounts payable in respect thereof, as provided in the terms and
+conditions of such Security, shall be payable, subject to the conditions set forth in Section 1010, only upon presentation of such Security to the Trustee thereof for
+notation thereon of the payment of such interest.
+SECTION 1002. Maintenance of Ofﬁce or Agency.
+If Securities of a series are issuable only as Registered Securities the Company will maintain in each Place of Payment for that series an office or agency
+where Securities of that series may be presented or surrendered for payment, an office or agency where Securities of that series may be surrendered for registration
+of transfer or exchange and where notices and demands to or upon the Company with respect to the Securities of that series and this Indenture may be served.
+The Company may also from time to time designate one or more other offices or agencies (in or outside the Place of Payment) where the Securities of one or
+more series may be presented or surrendered for any or all of the purposes specified above in this Section and may from time to time rescind such designations;
+provided, however, that no such designation or rescission shall in any manner relieve the Company of its obligation to maintain an ofﬁce or agency in each Place of
+Payment for such purpose. The Company will give prompt written notice to the Trustee for the Securities of each series so affected of any such designation or
+rescission and of any change in the location of any such ofﬁce or agency.
+If and so long as the Securities of any series (i) are denominated in a currency other than Dollars or (ii) may be payable in a currency other than Dollars, or so
+long as it is required under any other provision of the Indenture, then the Company will maintain with respect to each such series of Securities, or as so required, a
+Currency Determination Agent.
+SECTION 1003. Money for Securities Payments To Be Held in Trust.
+If the Company shall at any time act as its own Paying Agent with respect to any particular series of Securities, it will, on or before each due date of principal
+of, and premium, if any, or interest, if any, on any of the Securities of that series, segregate and hold in trust for the benefit of the Persons entitled thereto a sum in
+the currency or currency unit in which the Securities of such series are payable (except as otherwise speciﬁed pursuant to Section 301 for the Securities of such
+series and except as provided in Sections 311(b) and 311(d)) sufficient to pay the principal, premium, if any, and interest, if any, so becoming due until such sums
+shall be paid to such Persons or otherwise disposed of as herein provided, and will promptly notify the Trustee for the Securities of such series in writing of its
+action or failure so to act.
+Whenever the Company shall have one or more Paying Agents for any particular series of Securities, it will, on or before each due date of principal of, or
+premium, if any, or interest, if any, on any such Securities, deposit with a Paying Agent for the Securities of such series a sum (in the currency or currency unit
+described in the preceding paragraph) sufﬁcient to pay the principal, premium, if any, and interest, if any, so becoming due, such sum to be held in trust for the
+beneﬁt of the Persons entitled thereto, and (unless such Paying Agent is the Trustee for the Securities of such series) the Company will promptly notify such Trustee
+in writing of its action or failure so to act.
+The Company will cause each Paying Agent for any particular series of Securities other than the Trustee for the Securities of such series to execute and
+deliver to such Trustee an instrument in which such Paying Agent shall agree with such Trustee, subject to the provisions of this Section, that such Paying Agent
+will:
+(1) hold all sums held by it for the payment of principal of, or premium, if any, or interest, if any, on Securities of that series in trust for the benefit of
+the Persons entitled thereto until such sums shall be paid to such Persons or otherwise disposed of as herein provided;
+(2) give such Trustee written notice of any default by the Company (or any other obligor upon the Securities) in the making of any payment of
+principal of, and premium, if any, and interest, if any, on Securities of that series; and
+(3) at any time during the continuation of any such default, upon the written request of such Trustee, forthwith pay to such Trustee all sums so held in
+trust by such Paying Agent.
+4 1

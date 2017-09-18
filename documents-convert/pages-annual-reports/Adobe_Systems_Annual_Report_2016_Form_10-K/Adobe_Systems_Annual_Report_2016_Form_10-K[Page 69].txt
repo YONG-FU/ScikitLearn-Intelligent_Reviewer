@@ -1,0 +1,41 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Although our subscription contracts are generally non-cancellable, a limited number of customers have the right to cancel
+their contracts by providing prior written notice to us of their intent to cancel the remainder of the contract term. In the event a
+customer cancels its contract, they are not entitled to a refund for prior services we have provided to them.
+On a quarterly basis, the amount of revenue that is reserved for future returns is calculated based on our historical trends
+and data specific to each reporting period. We review the actual returns evidenced in prior quarters as a percent of revenue to
+determine a historical returns rate. We then apply the historical rate to the current period revenue as a basis for estimating future
+returns. When necessary, we also provide a specific returns reserve for product in the distribution channel in excess of estimated
+requirements. This estimate can be affected by the amount of a particular product in the channel, the rate of sell-through, product
+plans and other factors.
+Revenue Reserve
+Revenue reserve rollforward (in thousands):
+i 2016 2015 2014 i
+[Beginning balance is 19,446 i is 17,402 i is 28,664 [
+Amount charged to revenue 55,739 45,676 45,550
+[Actual returns _i (52,089)i_i (43,632) _i (56,812):
+Ending balance s 23,096 i is 19,446 i is 17,402 i
+Deferred Revenue
+Deferred revenue consists of billings and payments received in advance of revenue recognition for our products and solutions
+described above. We recognize deferred revenue as revenue only when the revenue recognition criteria are met.
+Allowance for Doubtful Accounts
+We maintain an allowance for doubtful accounts which reﬂects our best estimate of potentially uncollectible trade receivables.
+The allowance is based on both specific and general reserves. We regularly review our trade receivables allowances by considering
+such factors as historical experience, credit—worthiness, the age of the trade receivable balances and current economic conditions
+that may affect a customer’s ability to pay and we specifically reserve for those deemed uncollectible.
+(in thousands) 2016 _ 2015 _ 2014
+[Beginning balance s 7,293 s 7,867 s 10,228 [
+Increase due to acquisition 77 326 51
+[Charged to operating expenses 1,337 1,472 603 [
+Deductions“) (2,493) (2,372) (3,015)
+[Ending balance is 6,214 i is 7,293 i is 7,867 i[
+(I) Deductions related to the allowance for doubtful accounts represent amounts written off against the allowance, less recoveries.
+Property and Equipment
+We record property and equipment at cost less accumulated depreciation and amortization. Property and equipment are
+depreciated using the straight-line method over their estimated useful lives ranging from 1 to 5 years for computers and equipment
+as well as server hardware under capital leases, 1 to 6 years for furniture and ﬁxtures, 5 to 20 years for building improvements
+and up to 40 years for buildings. Leasehold improvements are amortized using the straight-line method over the lesser of the
+remaining respective lease term or estimated useful lives ranging from 1 to 15 years.
+69

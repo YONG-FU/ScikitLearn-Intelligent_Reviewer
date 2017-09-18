@@ -1,0 +1,41 @@
+While we have deployed and are offering services on our WCDMA network in Brazil and are continuing to expand and supplement that network,
+including by offering services utilizing LTE technologies in $50 Paulo and Rio de Janeiro, our competitors in Brazil have launched nationwide new or
+upgraded networks that use WCDMA and/or LTE technology and offer services that use high speed data transmission capabilities, including intemet access
+and Video telephony. These and other future technological advancements may enable competitors to offer features or services we cannot provide or exceed
+the quality of services we offer, thereby making our services less competitive. In addition, we may not be able to accurately predict technological trends or
+the success of new services in the market. If our services fail to gain acceptance in the marketplace in the near term, or if costs associated with implementation
+and completion of the introduction of these services materially increase, our ability to retain and attract customers could continue to be adversely affected.
+In Brazil, our current 800 MHz spectrum holdings are largely contiguous, making it possible to use that spectrum to support ﬁiture technologies, if
+certain technical, operational and regulatory requirements are met, including, for example, the availability of compatible network and subscriber equipment.
+Although our spectrum holdings in Brazil are contiguous, they are not located in the same portion of the 800 MHz spectrum band that is currently being used
+to support LTE network deployments elsewhere in the world including in the United States. Accordingly, it may be necessary to seek regulatory changes and
+to reconﬁgure the spectrum band and our spectrum holdings for them to be used to efﬁciently support LTE technologies.
+0. Most of our competitors are ﬁnancially stronger than we are, which limits our ability to compete based on price.
+Because of their size, scale and resources, our competitors may be able to offer services to subscribers at prices that are below the prices that we can offer
+for comparable services. Many of our competitors are well-established companies that have:
+° substantially greater ﬁnancial and marketing resources;
+0 larger customer bases;
+0 larger spectrum positions;
+0 higher proﬁtability and positive free cash ﬂow;
+0 more access to ﬁnding, lower leverage and lower cost of ﬁnancing; and
+0 larger service coverage areas than those of our operating companies.
+If we cannot compete effectively based on the price of our service offerings and related cost structure, our results of operations may be adversely
+affected.
+d. We are dependent on our competitors for support services that are critical to our operations.
+We rely on our competitors for certain support services that are critical to our operations. For example, the services that we provide on our WCDMA
+network require signiﬁcantly greater data capacity than our iDEN network, and this higher capacity demand has made it necessary for us to obtain wireline or
+other connecting circuits between elements of our network such as switches and transmitter and receiver sites that are capable of transporting a signiﬁcantly
+higher volume of data trafﬁc. In some instances, the availability of those higher capacity circuits is limited, and in many cases, our access to those circuits is
+controlled by entities that are afﬁliated with our competitors. Similarly, we have entered into roaming arrangements with one of our competitors that allow us
+to expand the coverage of our WCDMA network in Brazil by allowing our subscribers to roam on that competitor's network in areas outside our coverage
+area. Likewise, we have entered into a 10-year radio access network, or RAN, sharing agreement with the same competitor under which we are permitted to
+use its tower and equipment infrastructure to transmit telecommunications signals on Nextel Brazil's spectrum. As a result, we are dependent on entities that
+are or are afﬁliated with our competitors to provide us with the data transport services needed to support our networks and services, roaming services and
+infrastructure that enhance our coverage area. Our ability to oﬁ‘er services and our results of operations could be adversely aﬁ‘ected if those entities were to
+allocate limited transport or network capacity to other customers including their wireless afﬁliates or otherwise make it more difﬁcult for us to obtain the
+necessary transport and roaming capacity to support our networks and services.
+e. If there is a substantial increase in our customer turnover rate, our business could be negatively affected.
+In recent years, we have experienced higher customer turnover rates compared to earlier periods, which resulted primarily from the combined impact of
+weaker economic conditions and a more competitive sales environment in Brazil. In addition, there has been a signiﬁcant increase in our customer turnover
+rate for subscribers to services on our iDEN network as customers
+13

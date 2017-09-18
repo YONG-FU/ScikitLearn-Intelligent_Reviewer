@@ -1,0 +1,49 @@
+NOTE Q — STOCK INCENTIVE PLANS (continued)
+Performance shares
+Ashland sponsors a long-term incentive plan that awards performance shares/units to certain key employees that are tied to
+Ashland’s overall financial performance relative to the financial performance of selected industry peer groups and/or internal
+targets. Awards are granted annually, with each award covering a three-year vesting period. Each performance share/unit is
+convertible to one share of Ashland Common Stock. These plans are recorded as a component of stockholders” equity in the
+Consolidated Balance Sheets. Performance measures used to determine the actual number of performance shares issuable upon
+vesting include an equal weighting of Ashland’s total shareholder return (TSR) performance and Ashland’s return on investment
+(ROI) performance as compared to the internal targets. TSR relative to peers is considered a market condition while R01 is
+considered a performance condition under applicable US. GAAP. Nonvested performance shares/units do not entitle employees
+to vote the shares or to receive any dividends thereon.
+The following table shows the performance shares/units granted for all plans that award Ashland Common Stock.
+Weighted—
+Target average
+shares fair value
+(In thousands) Performance period granted (a) per share
+Fiscal Year 2016 October 1, 2015 - September 30, 2018 73 $ 110.03
+Fiscal Year 2015 October 1, 2014 - September 30, 2017 77 $ 121.87
+Fiscal Year 2014 October 1, 2013 - September 30, 2016 110 $ 85.84
+(a) At the end of the performance period, the actual number of shares issued can range from zero to 200% of the target shares granted, which is assumed to be
+100%.
+The fair value of the ROI portion of the performance share awards is equal to the fair market value of Ashland’s Common
+Stock on the date of the grant discounted for the dividends forgone during the vesting period of the three-year performance
+cycle. Compensation cost is recognized over the requisite service period if it is probable that the performance condition will be
+satisfied. The fair value of the TSR portion of the performance share awards is calculated using a Monte Carlo simulation valuation
+model using key assumptions included in the following table. Compensation cost is recognized over the requisite service period
+regardless of whether the market condition is satisfied.
+2016 2015 2014
+iRisk—free interest rate 0.5% - 1.2% 0.1% - 1.0% 0.1% - 06%,
+Expected dividend yield 1.2% 1.4% 1.4%
+Expected life (in years) 3 3 3
+Expected volatility 21.1% 24.2% 32. 1%
+The following table shows changes in nonvested performance shares/units for all plans that award Ashland Common Stock.
+7 2016 H 2015 H 2014 7
+7 Weighted-7 7 Weighted—7 7 Weighted—7
+average average average
+grant date grant date grant date
+(In thousands except per share data) Shares fair value Shares fair value Shares fair value 7
+Nonvested - beginning ofyear 204 $ 93.79 368 $ 72.20 433 $ 65.05 *
+Granted (a) 73 110.03 103 115.19 155 81.09
+Vested (a) (72) 76.26 (133) 68.18 (183) 62.05
+Forfeitures (b) (6) 1 14.83 (134) 74.79 (37) 75.02
+Nonvested — end ofyear : 199 : 106.91 : 204 : 93.79 i 368 : 72.20
+(a) 2015 includes 26 thousand additional shares from the fiscal 2012 through 2014 plan and 2014 includes 45 thousand additional shares from the ﬁscal 2011
+through 2013 plan since a portion of each plans payout was in excess of the initial 100% target.
+(b) During the December 2014 quarter, Ashland modified certain awards of its performance shares. The awards were modiﬁed to provide that the instruments
+be paid in cash instead of stock. This change in payment designation caused Ashland to recognize $7 million in incremental stock-based compensation
+expense related to 84 thousand shares modiﬁed during 2015.
+F -55

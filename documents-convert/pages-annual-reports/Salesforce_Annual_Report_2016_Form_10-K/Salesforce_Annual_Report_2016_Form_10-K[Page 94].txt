@@ -1,0 +1,44 @@
+benefit recognized is measured as the largest amount of benefit which is greater than 50 percent likely to be
+realized upon settlement with the taxing authority. The Company recognizes interest accrued and penalties
+related to unrecognized tax benefits in the income tax provision.
+Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more
+likely than not expected to be realized based on the weighting of positive and negative evidence. Future realization
+of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character
+(for example, ordinary income or capital gain) within the carryback or carryforward periods available under the
+applicable tax law. The Company regularly reviews the deferred tax assets for recoverability based on historical
+taxable income, projected future taxable income, the expected timing of the reversals of existing temporary
+differences and tax planning strategies. The Company’s judgments regarding future profitability may change due to
+many factors, including future market conditions and the ability to successfully execute its business plans and/or tax
+planning strategies. Should there be a change in the ability to recover deferred tax assets, the tax provision would
+increase or decrease in the period in which the assessment is changed.
+Foreign Currency Translation
+The functional currency of the Company’s major foreign subsidiaries is generally the local currency.
+Adjustments resulting from translating foreign functional currency financial statements into U.S. dollars are
+recorded as a separate component on the consolidated statements of comprehensive loss. Foreign currency
+transaction gains and losses are included in net loss for the period. All assets and liabilities denominated in a
+foreign currency are translated into U.S. dollars at the exchange rate on the balance sheet date. Revenues and
+expenses are translated at the average exchange rate during the period. Equity transactions are translated using
+historical exchange rates.
+Warranties and Indemnification
+The Company’s enterprise cloud computing services are typically warranted to perform in a manner
+consistent with general industry standards that are reasonably applicable and materially in accordance with the
+Company’s online help documentation under normal use and circumstances.
+The Company’s arrangements generally include certain provisions for indemnifying customers against
+liabilities if its products or services infringe a third party’s intellectual property rights. To date, the Company has
+not incurred any material costs as a result of such obligations and has not accrued any liabilities related to such
+obligations in the accompanying consolidated financial statements.
+The Company has also agreed to indemnify its directors and executive officers for costs associated with any
+fees, expenses, judgments, fines and settlement amounts incurred by any of these persons in any action or
+proceeding to which any of those persons is, or is threatened to be, made a party by reason of the person’s service
+as a director or officer, including any action by the Company, arising out of that person’s services as the
+Company’s director or officer or that person’s services provided to any other company or enterprise at the
+Company’s request. The Company maintains director and officer insurance coverage that would generally enable
+the Company to recover a portion of any future amounts paid. The Company may also be subject to
+indemnification obligations by law with respect to the actions of its employees under certain circumstances and
+in certain jurisdictions.
+New Accounting Pronouncements
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update
+No. 2014-09, “Revenue from Contracts with Customers (Topic 606)” (“ASU 2014-09”) which amended the existing
+FASB Accounting Standards Codification. This standard establishes a principle for recognizing revenue upon the
+transfer of promised goods or services to customers, in an amount that reﬂects the expected consideration received
+87

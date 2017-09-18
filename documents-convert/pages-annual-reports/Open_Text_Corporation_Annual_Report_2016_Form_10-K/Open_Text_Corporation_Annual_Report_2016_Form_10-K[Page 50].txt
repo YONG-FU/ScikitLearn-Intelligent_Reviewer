@@ -1,0 +1,44 @@
+7 Year Ended June 30, 7
+(In thousands) 7 7 2016 7 7 7 7 2015 7 7 7 7 2014 7
+lGAAP-based gross margin 68.5% 67.7% 68.6%
+GAAP-based operating margin 20.2% 18.8% 18.5%
+lGAAP-based EPS, diluted $ 2.33 $ 1.91 $ 1.81 ]
+Non-GAAP-based gross margin (4) 72.8% 72.2% 73.0%
+lNon—GAAP-based operating margin (4) 33.8% 30.9% 30.9%}
+Non-GAAP-based EPS, diluted (4) $ 3.54 $ 3.46 $ 3.37
+(1) Americas consists of countries in North, Central and South America.
+(2) EMEA primarily consists of countries in Europe, the Middle East and Africa.
+(3) Asia Paciﬁc primarily consists of the countries Japan, Australia, China, Korea, Philippines, Singapore and New Zealand.
+(4) See "Use of Non-GAAP Financial Measures" (discussed later in the MD&A) for a reconciliation of Non-GAAP-based measures to GAAP-based
+measures.
+Revenues,,C0,sLefRevenuesLandLGLst Marginlzv Productivpg
+1) License Revenues:
+License revenues consist of fees earned from the licensing of software products to customers. Our license revenues are
+impacted by the strength of general economic and industry conditions, the competitive strength of our software products, and
+our acquisitions. Cost of license revenues consists primarily of royalties payable to third parties.
+7 Year Ended June 30, 7
+Change Change
+increase increase
+(In thousands) 7 7 2016 7 7 (decrease) 7 7 2015 7 7 (decrease) 7 7 2014 7
+License Revenues:
+[Americas $ 131,638 $ (3,624) $ 135,262 $ (6,302) $ 141,564 ]
+EMEA 125,924 (726) 126,650 1,385 125,265
+[Asia Pacific 7 26,148 7 7 (6,206) 7 7 32,354 7 7 (6,663) 7 7 39,017 1
+Total License Revenues 283,710 (10,556) 294,266 (1 1,580) 305,846
+[Cost of License Revenues 7 10,296 7 7 (2,603) 7 7 12,899 7 7 (262) 7 7 13,161 i
+GAAP-based License Gross Proﬁt $ 273,414 $ (7,953) $ 281,367 $ (1 1,318) $ 292,685
+l GAAP-basetl License Gross Margin % 96.4% 95.6% 95.7%}
+l%,Lic:ense,l{evenaeslzvﬁeogguﬁlg l
+Americas 46.4% 46.0% 46.3%
+{EMEA 44.4% 43.0% 41.0%}
+Asia Pacific 9.2% 1 1.0% 12.7%
+Fiscal 2016 Compared to Fiscal 2015
+License revenues decreased by $10.6 million, inclusive of the negative impact of foreign exchange of approximately
+$15.1 million. Geographically, the overall decrease was attributable to a decrease in Asia Pacific of $6.2 million, a decrease in
+Americas of $3.6 million, and a decrease in EMEA of $0.7 million. The number of license deals greater than $0.5 million that
+closed during Fiscal 2016 was 78 deals, of which 34 deals were greater than $1.0 million and is inclusive of a patent
+infringement settlement, compared to 78 deals in Fiscal 2015, of which 30 deals were greater than $1.0 million. License
+revenue, as a proportion of our total revenues, remained stable at approximately 16%.
+Cost of license revenues decreased by $2.6 million, primarily as a result of lower third party technology costs. Overall,
+the gross margin percentage on license revenues remained stable at approximately 96%.
+42

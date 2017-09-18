@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Oracle Enterprise Resource Planning Cloud
+Oracle Enterprise Resource Planning Cloud is designed to be complete, global and integrated to help organizations of all sizes optimize their back office operations.
+A single data and security model and common user interface across the ERP cloud application portfolio are designed to deliver better decision-making and
+improved workforce productivity. Thousands of customers use our integrated suite of ERP cloud applications that include, among others:
+- Oracle Enterprise Performance Management Cloud, which is designed to help organizations of any size deliver predictable performance, generate
+accurate reporting and connect around consistent information, and includes Enterprise Planning Cloud, Account Reconciliation Cloud, and Enterprise
+Performance Reporting Cloud offerings;
+- Oracle Financials Cloud, a financial management solution that is designed to be comprehensive, integrated and highly scalable for global companies in a
+wide variety of industries;
+- Oracle Procurement Cloud, which is designed to streamline the source-to-pay process through automation and social collaboration to help organizations
+manage the procurement process and control costs; and
+- Oracle Project Management Cloud, which is designed to optimize the project management process by using a comprehensive set of modern application
+tools including role-based analytics, social collaboration, costing and controls.
+Oracle Customer Experience Cloud
+Oracle Customer Experience Cloud is designed to be complete and integrated to help organizations deliver consistent and personalized customer experiences across
+all channels, touch points and interactions. Our CX cloud applications include, among others:
+- Oracle Marketing Cloud, which is designed to personalize customer experiences on a consistent platform and to increase customer engagement, advocacy
+and revenue generating possibilities using cross-channel, content and social marketing solutions with integrated data management and activation;
+° Oracle Sales Cloud, which is designed to enable sales teams to engage with their customers earlier and to generate customer orders more frequently Via a
+platform that equips sales teams with processes, tools, resources and intelligence to leverage as a part of the sales cycle;
+° Oracle Commerce Cloud, which is designed to enable secure customer transactions through almost any device, to be scalable and to support personalized
+customer experiences through customer search, merchandising, promotions and content management capabilities;
+° Oracle Configure, Price and Quote Cloud, which is designed to help sales teams, channels and ecommerce sites sell faster, more easily and more
+accurately through almost any device;
+° Oracle Service Cloud, which is designed to provide a unified web, social, and contact center platform that is used to understand customer needs, to
+resolve customer problems and to ensure the delivery of accurate information to users; and
+- Oracle Field Service Cloud, which is designed to manage the efficient scheduling, dispatch and routing of field service technicians and spare parts to
+resolve problems and deliver customer service at customer sites.
+Oracle Supply Chain Management Cloud
+Our Oracle Supply Chain Management Cloud is designed to help organizations optimize their supply chains and innovate products quickly. Oracle Supply Chain
+Management Cloud applications include:
+- Oracle Product Lifecycle Management Cloud, which provides a unified platform designed to help customers rapidly innovate, develop and commercialize
+profitable products;
+° Oracle Supply Chain Planning Cloud, which is designed to allow customers to interactively balance demand and supply to improve supply chain
+responsiveness and optimize inventory;
+6

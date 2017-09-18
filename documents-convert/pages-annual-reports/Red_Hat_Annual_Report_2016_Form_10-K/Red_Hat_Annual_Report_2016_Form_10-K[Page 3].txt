@@ -1,0 +1,36 @@
+- FINANCIAL RESULTS FOR FISCAL YEAR 2016
+- $2.05 billion in total revenue, an increase of 15% over fiscal 2015
+.3- ® h at@ - $199 million in net income, or $1.07 per diluted share
+- $1.72 billion in deferred revenue at the end of fiscal 2016, an increase
+of 16% over fiscal 2015
+- $716 million in operating cash flow, an increase of 15% over fiscal 2015
+- $2.00 billion in cash and investments at the end of fiscal 2016
+Dear Red Hat Stockholder:
+I am pleased to report that the fourth quarter of fiscal 2016 marked our 56th consecutive quarter of revenue
+growth, contributing to Red Hat’s first fiscal year crossing $2 billion in total revenue. Customer demand for
+technologies that modernize development, deployment and life—cycle management across hybrid cloud
+environments helped drive annual subscription revenue growth of 16% in US. dollars. Subscription revenue
+from our Infrastructure—related offerings, which include our core Red Hat Enterprise Linux technology, grew
+12% in US. dollars while our Application Development-related and other emerging technology offerings,
+which include our middleware and cloud technologies, grew 37% in US. dollars.
+Corporations and organizations in today’s digital economy must deliver innovative solutions more rapidly,
+modernize existing workloads and processes, and build agile applications to meet customer demands and
+compete effectively—all while improving security and management. Red Hat’s breadth ofopen source
+technologies spanning infrastructure, application development, middleware, and management layers,
+combined with award—winning support, training and consulting services, help transform an organization’s
+data center to meet those customer demands and gain competitive advantage. We connect our customers
+with our certified ecosystem to enable them to harness the transformative power of open source enterprise IT.
+Information technology is changing the way companies compete in virtually every industry today. In the
+years ahead, success will be defined in part by the corporations and organizations that embrace fast, agile
+IT as industry innovation accelerates around them. Open source—based technologies will continue to help
+drive 21St century innovation, and so will Red Hat. We are excited about the long-term growth prospects for
+Red Hat and our growing strategic importance to the customers we serve. We plan to continue investing for
+long—term growth, with a particular focus on driving adoption ofour open, hybrid cloud technologies with
+enterprise and service—provider customers.
+With a focused workforce of more than 9,000 Red Hat associates around the globe, we believe that a coalition
+built upon the foundation of open source principles of collaboration, transparency, and choice will build the
+future of IT. Thank you for your continued support as we help enable our customers to harvest the benefits of
+open source technology and cloud computing.
+JAMES M. WHITEHURST
+Chief Executive Officer and President
+Red Hat, Inc.

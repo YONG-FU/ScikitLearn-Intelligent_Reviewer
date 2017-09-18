@@ -1,0 +1,49 @@
+1 1 O | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+31 EMPLOYEE BENEFITS (CONTINUED)
+CHANGE IN FAIR VALUE OF SCHEME ASSETS
+2016 2015 2014)
+Xear_e_r)_d?_d_3_1_l_1a:ch £91 £93 £93
+Fair value of plan assets at beginning of year 6,997 5,382 5,365
+Interest income 233 246 237
+Remeasurement (loss)/gain on the return of plan assets, excluding amounts
+included in interest income (52) 1,178 (407)
+Administrative expenses (8) (8) (8)
+Exchange differences on foreign schemes 1 1 (2)
+Employer contributions 95 346 333
+Member contributions 2 2 1
+Beneﬁts paid (165) (149) (137)
+Other adjustments — (1) —
+Fair value of scheme assets at end of year 7,103 6,997 5,382
+The actual return on scheme assets for the year was £181 million (2015: return of £1,424 million, 2014: loss of £170 million).
+Amounts recognised in the consolidated income statement consist of:
+' 2016 2015 2014 ‘
+Year ended 31 March Em Em Em
+Current service cost 224 168 176
+Past service cost — 1 6
+Administrative expenses 8 8 8
+Net interest cost (including onerous obligations) 30 28 25
+Components of deﬁned beneﬁt cost recognised
+in the consolidated income statement 262 205 215
+Amounts recognised in the consolidated statement of comprehensive income consists of:
+' 2016 2015 2014 ‘
+Year ended 31 March Em Em Em
+Actuarial gains/(losses) arising from:
+Changes in demographic assumptions 36 20 39
+Changes in ﬁnancial assumptions 569 (1,454) 243
+Experience adjustments (63) (101) (8)
+Remeasurement (loss)/gain on the return of scheme assets, excluding amounts
+included in interest income (52) 1,178 (407)
+Change in restriction of pension asset recognised (as per IFRIC 14) 1 2 (2)
+Change in onerous obligation, excluding amounts included in interest expense (2) — —
+Remeasurement gain/(loss) on deﬁned beneﬁt obligation 489 (355) (135)
+Amounts recognised in the consolidated balance sheet consist of:
+' 2016 2015 2014'
+As at 31 March Em Em Em
+Present value of unfunded deﬁned beneﬁt obligations (1) (1) (1)
+Present value of funded deﬁned beneﬁt obligations (7,667) (7,882) (6,052)
+Fair value of scheme assets 7,103 6,997 5,382
+Restriction of pension asset recognised (as per IFRIC 14) and onerous obligations (2) (1) (3)
+Net retirement beneﬁt obligation (567) (887) (674)
+Presented as non—current liability (567) (887) (674)

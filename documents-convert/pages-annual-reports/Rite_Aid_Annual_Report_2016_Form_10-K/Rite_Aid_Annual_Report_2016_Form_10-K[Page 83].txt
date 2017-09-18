@@ -1,0 +1,50 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+Year Ended
+February 27, February 28, March 1,
+2016 2015 2014
+(52 Weeks) (52 Weeks) (52 Weeks)
+OPERATING ACTIVITIES:
+Netincome........................................ $165,465 $2,109,173 $249,414
+Adjustments to reconcile to net cash provided by operating activities:
+Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . 509,212 416,628 403,741
+Lease termination and impairment charges . . . . . . . . . . . . . . . . . 48,423 41,945 41,304
+Gainfromleasetermination........................... — — (8,750)
+LIFOcharge(credit)................................ 11,163 (18,857) 104,142
+Loss (gain) on sale of assets, net . . . . . . . . . . . . . . . . . . . . . . . . 3,303 (3,799) (15,984)
+Stock-based compensation expense . . . . . . . . . . . . . . . . . . . . . . . 37,948 23,390 16,194
+Loss on debt retirements, net . . . . . . . . . . . . . . . . . . . . . . . . . . 33,205 18,512 62,443
+Changesindeferredtaxes 79,488 (1,726,487) —
+Excess tax benefit on stock options and restricted stock . . . . . . . . . (22,884) (41,563) (26,665)
+Changes in operating assets and liabilities:
+Accounts receivable. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291,659 (25,902) (28,051)
+Inventories...................................... 181,958 129,985 56,557
+Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (21,187) (169,952) (100,774)
+Other assets and liabilities, net . . . . . . . . . . . . . . . . . . . . . . . . (320,351) (104,114) (51,525)
+Net cash provided by operating activities . . . . . . . . . . . . . . . . 997,402 648,959 702,046
+INVESTING ACTIVITIES:
+Payments for property, plant and equipment . . . . . . . . . . . . . . . . (541,347) (426,828) (333,870)
+Intangible assets acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (128,648) (112,558) (87,353)
+Acquisition of businesses, net of cash acquired . . . . . . . . . . . . . . . (1,778,377) (69,793) —
+Proceeds from sale-leaseback transactions . . . . . . . . . . . . . . . . . . 36,732 — 3,989
+Proceeds from dispositions of assets and investments. . . . . . . . . . . 9,782 15,494 28,416
+Proceeds from lease termination. . . . . . . . . . . . . . . . . . . . . . . .. — — 8,750
+Proceedsfrominsuredloss............................ — — 15,144
+Net cash used in investing activities . . . . . . . . . . . . . . . . . . . (2,401,858) (593,685) (364,924)
+FINANCING ACTIVITIES:
+Proceeds from issuance of long-term debt . . . . . . . . . . . . . . . . . . 1,800,000 1,152,293 1,310,000
+Net proceeds from (repayments to) revolver . . . . . . . . . . . . . . . . 375,000 1,325,000 (265,000)
+Principal payments on long-term debt . . . . . . . . . . . . . . . . . . . . . (672,717) (2,595,709) (1,340,435)
+Change in zero balance cash accounts . . . . . . . . . . . . . . . . . . . . . (62,878) 1,081 (95)
+Net proceeds from the issuance of common stock . . . . . . . . . . . . . 11,376 24,117 33,217
+Payments for the repurchase of preferred stock . . . . . . . . . . . . . . — — (21,034)
+Financing fees paid for early debt redemption . . . . . . . . . . . . . . . (26,003) (13,841) (45,636)
+Excess tax benefit on stock options and restricted stock . . . . . . . . . 22,884 41,563 26,665
+Deferred financing costs paid. . . . . . . . . . . . . . . . . . . . . . . . . . . (34,634) (20,285) (17,850)
+Net cash provided by (used in) financing activities . . . . . . . . . 1,413,028 (85,781) (320,168)
+Increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . 8,572 (30,507) 16,954
+Cash and cash equivalents, beginning of year . . . . . . . . . . . . . . . . . . . 115,899 146,406 129,452
+Cash and cash equivalents, end of year . . . . . . . . . . . . . . . . . . . . . . . $ 124,471 $ 115,899 $ 146,406
+The accompanying notes are an integral part of these consolidated financial statements.
+83

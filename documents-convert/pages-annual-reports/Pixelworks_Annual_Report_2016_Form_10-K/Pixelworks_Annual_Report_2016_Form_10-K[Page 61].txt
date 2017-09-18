@@ -1,0 +1,40 @@
+Contract Manufacturers
+In the normal course of business, we commit to purchase products from our contract manufacturers to be delivered within the next 90 days. In certain
+situations, should we cancel an order, we could be required to pay cancellation fees. Such obligations could impact our immediate results of operations but
+would not materially affect our business.
+Indemniﬁcations
+Certain of our agreements include limited indemniﬁcation provisions for claims from third-parties relating to our intellectual property. It is not possible for us
+to predict the maximum potential amount of future payments or indemniﬁcation costs under these or similar agreements due to the conditional nature of our
+obligations and the unique facts and circumstances involved in each particular agreement. We have not made any payments under these agreements in the
+past, and as of December 31, 2016, we have not incurred any material liabilities arising from these indemniﬁcation obligations. In the future, however, such
+obligations could immediately impact our results of operations but are not expected to materially affect our business.
+Legal Proceedings
+We are subject to legal matters that arise from time to time in the ordinary course of our business. Although we currently believe that resolving such matters,
+individually or in the aggregate, will not have a material adverse effect on our ﬁnancial position, our results of operations, or our cash ﬂows, these matters are
+subject to inherent uncertainties and our view of these matters may change in the future.
+NOTE 8. EARNINGS PER SHARE
+Basic earnings per share amounts are computed based on the weighted average number of common shares outstanding. Diluted weighted average shares
+outstanding include the weighted average number of common shares outstanding plus potentially dilutive common shares outstanding during the period.
+The following schedule reconciles the computation of basic and diluted net loss per share (in thousands, except per share data):
+Year Ended December 31,
+2016 _ 2015 _ 2014
+'Net loss $ (11,107) $ (10,570) $ (9,960) l
+Weighted average shares outstanding - basic and diluted 28,276 25,088 22,766
+'Net loss per share - basic and diluted $ (0.3 9) $ (0.42) $ (0.44) l
+The following weighted average shares were excluded from the calculation of diluted net loss per share as their effect would have been anti—dilutive (in
+thousands):
+Year Ended December 31,
+2016 _ 2015 _ 2014
+’Employee equity incentive plans 4,982 4,248 4,346 ‘
+Potentially dilutive common shares from employee equity incentive plans are determined by applying the treasury stock method to the assumed exercise of
+outstanding stock options, the assumed vesting of outstanding restricted stock units, and the assumed issuance of common stock under the stock purchase
+plan.
+NOTE 9. SHAREHOLDERS’ EQUITY
+Preferred Stock
+The Company is authorized to issue 50,000,000 shares of preferred stock with a par value of $0.001 per share. The Board of Directors is authorized to ﬁx or
+alter the rights, preferences, privileges and restrictions granted to, or imposed on, each series of preferred stock. There were no shares of preferred stock issued
+as ofDecember 31, 2016 and 2015.
+Common Stock
+The Company is authorized to issue 250,000,000 shares of common stock with a par value of $0.001 per share. Shareholders of common stock have unlimited
+voting rights and are entitled to receive the net assets of the Company upon dissolution, subject to the rights of the preferred shareholders, if any.
+61

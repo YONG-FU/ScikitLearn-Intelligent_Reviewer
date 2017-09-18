@@ -1,0 +1,46 @@
+0 Our effective tax rate (Provision for income taxes as a percentage of Income before income taxes) benefits from lower
+tax rates (compared to the US. statutory income tax rate) applicable to our operations in many of the jurisdictions in
+which we operate and from US. tax benefits. These lower non-U.S. tax rates are generally statutory in nature, without
+expiration and available to companies that operate in those taxing jurisdictions.
+0 Our segments represent groups of similar products that are combined on the basis of similar design and development
+requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates
+resources and measures results. See Note 1 to the financial statements for more information regarding our segments.
+0 In the fourth quarter of 2016, we adopted ASU 2016-09 related to stock compensation. We applied the new standard
+prospectively as of the beginning of 2016 for the Consolidated Statements of Income and on a full retrospective basis for
+all periods in the Consolidated Statements of Cash Flows. See Note 2 to the financial statements for more details.
+a:
+Results of operations 3
+E
+We continued to perform well in 2016, reflecting our focus on Analog and Embedded Processing. These products serve highly S
+diverse markets with thousands of applications, and we believe have dependable long-term growth opportunities. In 2016, Analog "'
+and Embedded Processing represented 86 percent of revenue. Gross margin of 61.6 percentfor the year reflects the quality of our
+product portfolio, as well as the efficiency of our manufacturing strategy.
+Our focus on Analog and Embedded Processing allows us to generate strong cash flow from operations. In 2016, cash flows
+from operations were $4.61 billion, up from $4.40 billion in 2015. Free cash flow in 2016 was 30.5 percent of revenue, up from
+29.6 percenta year ago and consistent with our targeted range of 20-30 percent of revenue. During the year, we returned
+$3.78 billion of cash to investors through a combination of stock repurchases and dividends. Our dividends represented 40 percent
+of free cash flow, underscoring their sustainability. Free cash flow is a non-GAAP financial measure. For a reconciliation to GAAP
+and an explanation of the reason for providing this non-GAAP measure, see the Non-GAAP financial information section after the
+Liquidity and capital resources section.
+Details of financial results — 2016 compared with 2015
+Revenue of $13.37 billion was up $370 million, or 3 percent, from 2015, due to higher revenue from Embedded Processing .
+and Analog.
+Gross profit was $8.24 billion, an increase of $680 million, or 9 percent, due to lower manufacturing costs and, to a lesser extent,
+higher revenue. Gross profit margin was 61.6 percent compared with 58.2 percent.
+Operating expenses were $1.37 billion for R&D and $1.77 billion for SG&A. R&D expense increased $90 million, or 7 percent, due
+to a combination of our ongoing allocation of resources into R&D activities and higher compensation-related costs. SG&A expense
+increased $19 million, primarily due to higher compensation-related costs.
+Acquisition charges associated with our 2011 acquisition of National Semiconductor were $319 million compared with
+$329 million. These non-cash charges resulted from the amortization of intangible assets. See Note 13 to the financial statements.
+Restructuring charges/other was a net credit of $15 million, which included a gain on the sale of intellectual property of $40 million
+that was partially offset by $25 million related to restructuring charges. This compared with a net credit of $71 million in 2015,
+which included gains on sales of assets of $83 million that were partially offset by $12 million related to restructuring charges and
+other credits. These amounts are included in Other for segment reporting purposes. See Note 3 to the financial statements.
+Operating profit was $4.80 billion, or 35.9 percent of revenue, compared with $4.27 billion, or 32.9 percent of revenue.
+Ol&E for 2016 was $211 million compared with $32 million. The increase is due to income of $188 million from settlements related
+to intellectual property infringement.
+Our income tax provision was $1.34 billion compared with $1.23 billion. The increase was primarily due to higher income before
+income taxes, partially offset by a tax benefit for stock compensation. Our effective tax rates were 27 percent in 2016 and
+29 percent in 2015. See Note 6 to the financial statements for a reconciliation of the US. statutory income tax rate to the effective
+tax rate.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 17

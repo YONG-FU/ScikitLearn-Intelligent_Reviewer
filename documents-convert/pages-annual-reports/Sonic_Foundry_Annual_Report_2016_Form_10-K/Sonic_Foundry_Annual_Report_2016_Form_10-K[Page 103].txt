@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+September 30, 2015, a balance of $1.9 million was outstanding on the term loans with Silicon Valley Bank and a balance of $1.4
+million was outstanding on the revolving line of credit. At September 30, 2016, there was a remaining amount of $2.3 million
+available under the line of credit facility for advances.
+The Second Amended Agreement, as amended, contains events of default that include, among others, non-payment of principal
+or interest, inaccuracy of any representation or warranty, violation of covenants, bankruptcy and insolvency events, material
+judgments, cross defaults to certain other indebtedness, and material adverse changes. The occurrence of an event of default could
+result in the acceleration of the Companies’ obligations under the Second Amended Agreement, as amended. At September 30,
+2016, the Company was in compliance with all covenants in the Second Amended Agreement, as amended.
+Pursuant to the Second Amended Agreement, as amended, the Companies pledged as collateral to Silicon Valley Bank
+substantially all non-intellectual property business assets. The Companies also entered into an Intellectual Property Security
+Agreement with respect to intellectual property assets.
+Partners for Growth I K LP.
+On May 13, 2015, Sonic Foundry, Inc., entered into a Loan and Security Agreement (the “Loan and Security Agreement”) with
+Partners for Growth IV, L.P. (“PFG”), (the “Loan and Security Agreement”).
+The Loan and Security Agreement provides for a Term Loan in the amount of $2,000,000, which can be disbursed in two (2)
+Tranches as follows: Tranche 1 was drawn in the amount of $1,500,000 shortly after execution thereof; and Tranche 2 in the
+amount of $500,000, was drawn on December 15, 2015.
+Each tranche of the Term Loan bears interest at 10.75% per annum. Tranche 1 of the Term Loan was payable interest only until
+November 30, 2015. Beginning on December 1, 2015, principal is due in 30 equal monthly principal installments, plus accrued
+interest, continuing until May 1, 2018, when the principal balance is to be paid in full. Tranche 2 of the Term Loan is payable in
+29 equal monthly principal installments, plus accrued interest, beginning January 1, 2015 and continuing until May 1, 2018.
+The principal of the Term Loan may be prepaid at any time after May 13, 2016 without a prepayment fee.
+Coincident with execution of the Loan and Security Agreement, the Company entered into a Warrant Agreement (“Warrant”) with
+PFG. Pursuant to the terms of the Warrant, the Company issued to PFG a warrant to purchase up to 50,000 shares of common
+stock of the Company at an exercise price of $9.66 per share, subject to certain adjustments, of which 37,500 were exercisable
+with the disbursement of Tranche 1 and 12,500 became exercisable with the disbursement under Tranche 2. Pursuant to the
+Warrant, PFG is also entitled, under certain conditions, to require the Company to exchange the Warrant for the sum of $200,000.
+Each warrant issued has an exercise term of 5 years from the date of issuance. On August 12, 2015, the Company and PFG entered
+into a waiver agreement to waive a then existing covenant default and to change the exercise price of the aforementioned warrants
+from $9.66 per share to $6.80 per share.
+The warrants can be settled for cash in the event of acquisition of the company, any liquidation of the company, or expiration of
+the warrant. The Company has determined the cash payment date to be the expiration date (May 14, 2020). Due to the fixed
+payment amount on the expiration date, the warrant structure is in substance a debt arrangement (the “Warrant Debt”) with a zero
+interest rate, a fixed maturity date and a feature that makes the debt convertible to common stock. The Warrant Debt had a fair
+value of $58 thousand. The derivative had a fair value of $120 thousand. The conversion feature is an embedded derivative; thus,
+for accounting purposes, the conversion feature is bifurcated and accounted for separately from the PF G Debt and Warrant Debt
+as a derivative liability measured at fair value at each reporting period.
+As of September 30, 2016, the estimated fair value of the derivative liability associated with the warrants issued in connection
+with the Loan and Security Agreement, was $67 thousand. The change in the fair value of the derivative liability between the
+issuance date and September 30, 2016, was recorded as a gain of $69 thousand included in the other income (expense).
+63

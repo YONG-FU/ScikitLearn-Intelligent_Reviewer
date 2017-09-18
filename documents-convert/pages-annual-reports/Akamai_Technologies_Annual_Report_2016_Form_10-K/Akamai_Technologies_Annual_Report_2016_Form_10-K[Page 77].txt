@@ -1,0 +1,35 @@
+In addition to the amounts of stock-based compensation reported in the table above, the Company’s consolidated
+statements of income for the years ended December 31, 2016, 2015 and 2014 also include stock-based compensation reﬂected
+as a component of amortization of capitalized internal-use software; the additional stock-based compensation was $13.8
+million, $12.7 million and $10.3 million, respectively, before taxes.
+The Company uses the Black-Scholes option pricing model to determine the fair value of the Company’s stock option
+awards. This model requires the input of subjective assumptions, including expected stock price volatility and the estimated
+term of each award. The estimated fair value of the Company's stock-based awards, less expected forfeitures, is amortized over
+the awards’ vesting period on a straight-line basis. Expected volatilities are based on the Company’s historical stock price
+volatility and implied volatility from traded options in its stock. The Company uses historical data to estimate the expected term
+of options granted within the valuation model. The risk-free interest rate for periods commensurate with the expected term of
+the option is based on the US. Treasury yield rate in effect at the time of grant. The expected dividend yield is zero, as the
+Company currently does not pay a dividend and does not anticipate doing so in the future.
+The Company did not grant any stock options during 2016 or 2015. The grant-date fair values of the Company's stock
+option awards granted during the year ended December 31, 2014 were estimated using the Black-Scholes option pricing model
+with the following weighted—average assumptions:
+20 14
+I Expected term (in years) 4.4 I
+Risk-free interest rate 0.8%
+Expected volatility 40.4%-
+Dividend yield 7 7%
+For the year ended December 31, 2014, the weighted average fair value of stock option awards granted was $49.67 per
+share.
+The grant-date fair values of the Company's ESPP awards granted during the years ended December 31, 2016, 2015 and
+2014 were estimated using the Black-Scholes option pricing model with the following weighted-average assumptions:
+2016 2015 2014
+Expected term (in years) 0.5 0.5 0.5 I
+Risk-free interest rate 0.5% 0.2% 0.1%
+Expected volatility 36.2% 28.0% 33.5%-
+Dividend yield ;% 7 7% 7 7%
+For the years ended December 31, 2016, 2015 and 2014, the weighted average fair value of ESPP awards granted was
+$14.54 per share, $15.63 per share and $12.64 per share, respectively.
+As of December 31, 2016, total pre-tax unrecognized compensation cost for stock options, restricted stock units, deferred
+stock units and shares of common stock issued under the 1999 ESPP was $259.5 million. The expense is expected to be
+recognized through 2020 over a weighted average period of 2.0 years.
+75

@@ -1,0 +1,28 @@
+(iii) aggregate amount of such Pro Rata Borrowing, and
+(iv) in the case of a Pro Rata Borrowing consisting of LIBO Rate Advances, the initial Interest Period for each such Pro Rata Advance.
+Notwithstanding anything herein to the contrary, no Borrower may select LIBO Rate Advances for any Pro Rata Borrowing if the obligation of the Lenders
+to make LIBO Rate Advances shall then be suspended pursuant to Section 2.06(b), 208(0) or 2.13.
+(b) Funding Pro Rata Advances . Each Lender shall, before 11:00 am. (New York City time) on the date of such Pro Rata Borrowing, make
+available for the account of its Applicable Lending Ofﬁce to the Administrative Agent at the Administrative Agent Account, in same day funds, such Lender’s
+ratable portion of such Pro Rata Borrowing. Promptly after receipt of such funds by the Administrative Agent, and upon fulfillment of the applicable conditions set
+forth in Article III, the Administrative Agent will make such funds available to the relevant Borrower at the address of the Administrative Agent referred to in
+Section 9.02.
+(c) IrrevocableiNoticeh Each Notice of Pro Rata Borrowing of any Borrower shall be irrevocable and binding on such Borrower. In the case of any
+Pro Rata Borrowing that the related Notice of Pro Rata Borrowing specifies is to be comprised of LIBO Rate Advances, the Borrower requesting such Pro Rata
+Borrowing shall indemnify each Lender against any loss, cost or expense incurred by such Lender as a result of any failure to fulﬁll on or before the date speciﬁed
+in such Notice of Pro Rata Borrowing for such Pro Rata Borrowing the applicable conditions set forth in Article III, including, without limitation, any loss
+(excluding loss of anticipated proﬁts), cost or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired by such Lender to
+fund the Pro Rata Advance to be made by such Lender as part of such Pro Rata Borrowing when such Pro Rata Advance, as a result of such failure, is not made on
+such date.
+((1) Lender’s Ratable Portion . Unless the Administrative Agent shall have received notice from a Lender prior to 11:00 am. (New York City time)
+on the day of any Pro Rata Borrowing that such Lender will not make available to the Administrative Agent such Lender’s ratable portion of such Pro Rata
+Borrowing, the Administrative Agent may assume that such Lender has made such portion available to the Administrative Agent on the date of such Pro Rata
+Borrowing in accordance with Section 2.02(b) and the Administrative Agent may, in reliance upon such assumption, make available to the Borrower proposing
+such Pro Rata Borrowing on such date a corresponding amount. If and to the extent that such Lender shall not have so made such ratable portion available to the
+Administrative Agent, such Lender and such Borrower severally agree to repay to the Administrative Agent, forthwith on demand such corresponding amount
+together with interest thereon, for each day from the date such amount is made available to such Borrower until the date such amount is repaid to the Administrative
+Agent, at:
+(i) in the case of such Borrower, the higher of (A) the interest rate applicable at the time to Pro Rata Advances comprising such Pro Rata Borrowing
+and (B) the cost of funds incurred by the Administrative Agent, in respect of such amount, and
+(ii) in the case of such Lender, the Federal Funds Effective Rate.
+-16-

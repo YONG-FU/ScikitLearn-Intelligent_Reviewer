@@ -1,0 +1,39 @@
+“Trustee” means the Person named as the “Trustee” in the first paragraph of this instrument and, subject to the provisions of Article Six hereof, shall also
+include its successors and assigns as Trustee hereunder. If there shall be at one time more than one Trustee hereunder, “Trustee” shall mean each such Trustee and
+shall apply to each such Trustee only with respect to those series of Securities with respect to which it is serving as Trustee.
+“United States” means, unless otherwise speciﬁed with respect to Securities of any series, the United States of America (including the States and the District
+of Columbia), its territories, its possessions and other areas subject to its jurisdiction (including the Commonwealth of Puerto Rico).
+“United States Alien” has the meaning speciﬁed in Section 1010.
+“Western Europe” means, unless otherwise specified with respect to Securities of any series, any of the member states of the European Union as of the date
+hereof and Switzerland, Norway, Poland, Hungary, the Czech Republic and the Slovak Republic (and “Western European” shall have a meaning correlative to the
+foregoing).
+“Yield to Maturity”, when used with respect to any OID Security, means the yield to maturity, if any, set forth on the face thereof.
+SECTION 102. Compliance Certiﬁcates and Opinions.
+Upon any application or request by the Company to the Trustee for any series of Securities to take any action under any provision of this Indenture, the
+Company shall furnish to such Trustee an Ofﬁcers’ Certificate stating that all conditions precedent, if any, provided for in this Indenture relating to the proposed
+action have been complied with, and an Opinion of Counsel stating that in the opinion of such counsel such action is authorized or permitted by this Indenture and
+that all such conditions precedent, if any, have been complied with, except that in the case of any such application or request as to which the furnishing of such
+documents is specifically required by any provision of this Indenture relating to such particular application or request, no additional certiﬁcate or opinion need be
+furnished.
+Every certificate (other than certificates provided pursuant to Section 1005) or opinion with respect to compliance with a condition or covenant provided for
+in this Indenture shall include:
+(1) a statement that each individual signing such certiﬁcate or opinion has read such condition or covenant and the deﬁnitions herein relating thereto;
+(2) a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such certificate
+or opinion are based;
+(3) a statement that, in the opinion of each such individual, he has made such examination or investigation as is necessary to enable him to express an
+informed opinion as to whether or not such condition or covenant has been complied with; and
+(4) a statement as to whether, in the opinion of each such individual, such condition or covenant has been complied with.
+SECTION 103. Form of Documents Delivered to Trustee.
+In any case where several matters are required to be certified by, or covered by an opinion of, any specified Person, it is not necessary that all such matters be
+certified by, or covered by the opinion of, only one such Person, or that they be so certified or covered by only one document, but one such Person may certify or
+give an opinion with respect to some matters and one or more other such Persons as to other matters, and any such Person may certify or give an opinion as to such
+matters in one or several documents.
+Any certificate or opinion of an officer of the Company may be based, insofar as it relates to legal matters, upon a certiﬁcate or opinion of, or representations
+by, counsel, unless such officer knows, or in the exercise of reasonable care should know, that the certificate or opinion or representations with respect to matters
+upon which his certiﬁcate or opinion is based are erroneous.
+Any such certiﬁcate or Opinion of Counsel may be based, insofar as it relates to factual matters, upon a certiﬁcate or opinion of, or representations by, an
+officer or officers of the Company stating that the information with reSpect to such factual matters is in the possession of the Company, unless such counsel knows,
+or in the exercise of reasonable care should know, that the certificate or opinion or representations with respect to such matters are erroneous.
+Where any Person is required to make, give or execute two or more applications, requests, consents, certificates, statements, opinions or other instruments
+under this Indenture, they may, but need not, be consolidated and form one instrument.
+7

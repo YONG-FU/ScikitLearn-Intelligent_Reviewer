@@ -1,0 +1,31 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+11. Employee Retirement Plans (Continued)
+The reconciliation of the beginning and ending balances of the projected benefit obligation for the
+Company consisted of the following:
+December 31
+2016 2015
+Change in projected benefit obligation:
+Benefit obligation at beginning of year . . . . . . . . . . . . . . . . . . . $6,896 $7,044
+Servicecost....................................... 210 229
+Interestcost....................................... 278 256
+Participantcontributions.............................. 38 45
+Changes in actuarial assumptions . . . . . . . . . . . . . . . . . . . . . . . 53 (508)
+Benefitspaid...................................... (142) (170)
+Projected benefit obligation at end of year . . . . . . . . . . . . . . . . . . $7,333 $6,896
+Amounts recognized in the consolidated balance sheets consisted
+of:
+Accrued expenses and other current liabilities . . . . . . . . . . . . . . $ 140 $ 240
+Retiree health benefit obligation . . . . . . . . . . . . . . . . . . . . . . . . 7,193 6,656
+$7,333 $6,896
+The components of postretirement healthcare benefit cost consisted of the following for the year
+ended December 31,
+2016 2015 2014
+Components of net postretirement health benefit cost:
+Servicecost................................... $210 $229 $159
+Interestcost................................... 278 256 213
+Amortizationofnetgain......................... (127) (69) (398)
+Net postretirement healthcare benefit cost (income) . . . . . . . $ 361 $416 $ (26)
+F-4O

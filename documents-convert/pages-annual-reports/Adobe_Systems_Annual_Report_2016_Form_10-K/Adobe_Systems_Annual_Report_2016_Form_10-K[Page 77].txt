@@ -1,0 +1,38 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 4. FAIR VALUE MEASUREMENTS
+Assets and Liabilities Measured and Recorded at Fair Value on a Recurring Basis
+We measure certain financial assets and liabilities at fair value on a recurring basis. There have been no transfers between
+fair value measurement levels during the year ended December 2, 2016.
+The fair value of our financial assets and liabilities at December 2, 2016 was determined using the following inputs (in
+thousands):
+7 Fair Value Measurements at Reporting Date Using 7
+Quoted Prices Signiﬁcant
+in Active Other Significant
+Markets for Observable Unobservable
+7 Identical Assets 7 7 Inputs 7 7 Inputs 7
+Total (Level 1) (Level 2) (Level 3)
+Assets: , , , , , , , ,
+Cash equivalents:
+1 Corporate bonds and commercial paper 55 1,249 EB — $ 1,249 $ — 1
+Money market mutual funds 782,210 782,210 — —
+1 Municipal securities 1,301 — 1,301 — 1
+Time deposits 17,920 17,920 — —
+I Short—term investments: 1
+Asset-backed securities 1 10,914 — 1 10,914 —
+1 Corporate bonds and commercial paper 2,458,350 — 2,45 8,350 — 1
+Municipal securities 134,222 — 134,222 —
+1 US. agency securities 39,580 — 39,580 — 1
+US. Treasury securities 1,006,919 — 1,006,919 —
+] Prepaid expenses and other current assets: 1
+Foreign currency derivatives 38,112 — 3 8,1 12 —
+1 Other assets: 1
+Deferred compensation plan assets 42,180 1,831 40,349 —
+1 Interest rate swap derivatives 13,117 — 13,1 17 — 1
+Total assets $ 4,646,074 ‘$ 801,961 ‘$ 3,844,113 ‘$ —
+Liabilities:
+I Accrued expenses: 1
+Foreign currency derivatives $ 5,246 $ — $ 5,246 $ —
+{Total liabilities ,$ 5,246 ’$ — ’$ 5,246 ’$ —1
+77

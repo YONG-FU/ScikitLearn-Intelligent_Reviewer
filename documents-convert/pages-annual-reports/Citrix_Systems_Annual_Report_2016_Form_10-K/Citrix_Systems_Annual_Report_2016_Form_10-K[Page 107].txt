@@ -1,0 +1,56 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+In April 2015, Financial Accounting Standards Board issued an accounting standard update on customer's accounting for
+fees paid in a cloud computing arrangement. The amendments in this update provide guidance about whether a cloud
+computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the
+customer should account for the software license element of the arrangement consistent with other software licenses. If a cloud
+computing arrangement does not include a software license, the customer should account for the arrangement as a service
+contract. The Company adopted this standard effective January 1, 2016 on a prospective basis. Adoption of this standard did not
+have a material impact on the Company's financial position and results of operations.
+In May 2014, the Financial Accounting Standards Board issued an accounting standard update on revenue recognition.
+The new guidance creates a single, principle-based model for revenue recognition and expands and improves disclosures about
+revenue. In July 2015, the Financial Accounting Standards Board issued an accounting standard update that defers the effective
+date of the new revenue recognition standard by one year. The new guidance is effective for annual reporting periods beginning
+on or after December 15, 2017, and must be adopted using either a full retrospective approach for all periods presented in the
+period of adoption or a modified retrospective approach. The Company has completed its assessment of its information
+technology systems, data and processes related to the implementation of this accounting standard. Additionally, the Company
+has substantially completed its information technology system design and solution development, and will commence
+implementation of the solution in the first quarter of ﬁscal 2017. The Company expects to adopt the accounting standard update
+on a modified retrospective basis in the first quarter of fiscal 2018, and is currently evaluating the potential impact of this
+standard on its financial position and results of operations. Under the new standard the Company expects to capitalize and
+amortize certain commissions over the expected customer life rather than expensing them as incurred. Additionally, under the
+new standard, the Company would be required to recognize term license revenues upfront at time of delivery rather than ratably
+over the related contract period. The Company expects revenue recognition related to perpetual software, hardware, cloud
+offerings and professional services to remain substantially unchanged.
+20. SUBSEQUENT EVENTS
+On July 26, 2016, the Company entered into definitive agreements with GetGo, Inc., its wholly-owned subsidiary
+(“GetGo”), and LogMeIn, Inc. (“LogMeIn”), with respect to a Reverse Morris Trust transaction. Subject to the terms and
+conditions of those agreements, the Company transferred its GoTo Business to GetGo, and after the close of business on
+January 31, 2017, the Company distributed approximately 26.9 million shares of GetGo common stock to the Company’s
+stockholders of record as of the close of business on January 20, 2017 (the “Record Date”). Immediately following the
+Distribution, Lithium Merger Sub, Inc., a wholly-owned subsidiary of LogMeIn, merged with and into GetGo, with GetGo as
+the surviving corporation (the “Merger”). In connection with the Merger, GetGo became a wholly-owned subsidiary of
+LogMeIn, and each share of GetGo common stock was converted into the right to receive one share of LogMeIn common
+stock. As a result of these transactions, the Company’s stockholders received approximately 26.9 million shares of LogMeIn
+common stock in the aggregate, or 0.171844291 of a share of LogMeIn common stock for each share of the Company’s
+common stock held of record by such stockholders on the Record Date. No fractional shares of LogMeIn were issued, and the
+Company’s stockholders instead received cash in lieu of any fractional shares.
+The conversion period for the Convertible Notes that commenced on October 10, 2016 in connection with the
+Distribution terminated as of the close of business on January 31, 2017. As a result, the Convertible Notes were reclassiﬁed to
+Other liabilities from Current liabilities and the amount previously recorded as Temporary equity was reclassified to permanent
+equity as of January 31, 2017. The Distribution also resulted in an adjustment to the conversion rate for the Convertible Notes
+under the terms of the Indenture. As a result of this adjustment, the conversion rate for the Convertible Notes in effect as of the
+opening of business on February 1, 2017 is 13.9061 shares of the Company’s common stock per $1,000 principal amount of
+Convertible Notes, which corresponds to a conversion price of approximately $71.91 per share of common stock.
+Corresponding adjustments were made to the conversion rates for the Convertible Note Hedge and Warrant Transactions as of
+the opening of business on February 1, 2017.
+In connection with the Distribution, the Company made certain adjustments to outstanding restricted stock unit and stock
+option awards with the intention of preserving the intrinsic value of the awards prior to the Distribution. There was no change
+to the vesting terms of these awards. As a result of these adjustments, the Company currently expects to incur incremental
+expense in the first quarter of 20 17.
+As a result of the separation of the GoTo Business, the Company has evaluated its existing tax attributes to reﬂect the
+continuing operations of the Company. The Company expects to record a $45.2 million charge to income tax expense in the
+first quarter of 2017 as a result of changes in its expectations of realizability of state R&D credits due directly to the separation
+of the GoTo Business. The Company will have less income subject to taxation in California, and therefore, the R&D credits
+will not be able to be utilized.
+F-41

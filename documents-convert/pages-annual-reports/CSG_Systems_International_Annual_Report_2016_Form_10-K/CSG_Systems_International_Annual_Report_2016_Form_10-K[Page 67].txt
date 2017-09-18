@@ -1,0 +1,39 @@
+10. Stockholder 5’ Equity
+Stock Repurchase Program. We currently have a stock repurchase program, approved by our Board, authorizing us to repurchase shares of our common stock from time-
+to-time as market and business conditions warrant (the “Stock Repurchase Program”). During 2016, 2015, and 2014, we repurchased 0.3 million shares of our common
+stock for $11.6 million (weighted—average price of $36.42 per share), 0.3 million shares of our common stock for $6.9 million (weighted-average price of $27.06 per
+share), and 0.7 million shares of our common stock for $19.1 million (weighted-average price of $26.05 per share), respectively, under a Securities and Exchange
+Commission (“SEC”) Rule 10b5-1 Plan.
+In 2015, we entered into an accelerated share repurchase transaction agreement (the “ASR Agreement”) with a counterparty to repurchase $50 million of our common
+stock. Total shares purchased under the ASR Agreement in 2015 were 1.6 million shares at an average purchase price of $3 1 .64 per share. The shares were reﬂected as
+treasury stock in the periods the shares were delivered.
+As of December 31, 2016, the total remaining number of shares available for repurchase under the Stock Repurchase Program totaled approximately 6.7 million shares.
+In addition to the above mentioned stock repurchases, during 2016, 2015, and 2014, we repurchased and then cancelled approximately 344,000 shares, 265,000 shares,
+and 252,000 shares for $13.7 million, $8.1 million, and $6.9 million, respectively, of common stock from our employees in connection with minimum tax withholding
+requirements resulting from the vesting of restricted stock under our stock incentive plans.
+Cash Dividend. During 2016 and 2015, our Board approved total cash dividends of $0.74 per share and $0.70 per share of common stock, totaling $23.8 million and
+$22.9 million, respectively.
+Warrants . In 2014, in conjunction with the execution of an amendment to our current agreement with Comcast, we issued stock warrants (the “Warrant Agreement”) for
+the right to purchase up to approximately 2.9 million shares of our common stock (the “Stock Warrants”) as an additional incentive for Comcast to convert new customer
+accounts onto our ACP cloud solution. The Stock Warrants have a 10-year term and an exercise price of $26.68 per warrant.
+Of the total Stock Warrants, 1.9 million Stock Warrants relate to Comcast’s existing residential business and vest(ed) as follows:
+0 The ﬁrst 25% of these Stock Warrants (approximately 0.5 million) vested upon the successful conversion of the first 0.5 million customer accounts, which
+occurred during the fourth quarter of 20 14.
+o The next 25% of these Stock Warrants had a time-based vesting provision, and vested in January 2015.
+o The next 25% of these Stock Warrants vested after a cumulative total of 5.5 million customer accounts were converted onto ACP, which occurred in the fourth
+quarter of 2016.
+o The last 25% of these Stock Warrants vest proportionately based on the number of customer accounts converted above 5.5 million accounts, with full vesting
+based on a target of 5.7 million customer accounts above the 5.5 million account level (i.e., a total target of 11.2 million customer account conversions).
+The remaining 1.0 million Stock Warrants relate to additional residential accounts that Comcast may acquire and convert onto ACP in the future and vest proportionately
+with acquired customer accounts converted onto ACP from other providers’ billing platforms, with full vesting based on a target of 5 million newly converted customer
+accounts.
+Fifty percent of the unvested Stock Warrants become fully vested upon a fundamental change (including a change in control) of the Company, as defined, proportionally
+reducing the number of Stock Warrants eligible for vesting based on future performance conditions.
+Once vested, Comcast may exercise the Stock Warrants and elect either physical delivery of common shares or net share settlement (cashless exercise). Alternatively,
+the exercise of the Stock Warrants may be settled with cash based solely on our approval, or if Comcast were to beneficially own or control in excess of 19.99% of the
+common stock or voting of the Company.
+Upon vesting, the Stock Warrants are recorded as a client incentive asset, as determined using the Black-Scholes option-pricing model, with the corresponding offset to
+stockholders’ equity. The client incentive asset related to the Stock Warrants is being amortized as a reduction in cloud and related solutions revenues over the remaining
+term of the Comcast amended agreement. As of December 31, 2016 and 2015, we have recorded a client incentive asset related to these Stock Warrants of $16.0 million
+and $7.3 million, respectively, and have recorded accumulated amortization related to these Stock Warrants of $4.3 million and $2.0 million, respectively.
+66

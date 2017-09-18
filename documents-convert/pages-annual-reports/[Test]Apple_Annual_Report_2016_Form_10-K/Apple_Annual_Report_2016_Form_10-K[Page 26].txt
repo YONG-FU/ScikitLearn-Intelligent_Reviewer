@@ -1,0 +1,26 @@
+Sales Data
+The following table shows net sales by operating segment and net sales and unit sales by product during 2016, 2015 and 2014
+(dollars in millions and units in thousands):
+7 2016 7 7 Change 7 7 2015 7 7 Change 7 7 2014 7
+Net Sales by Operating Segment: I
+_ Americas $ 86,613 (8)°/o $ 93,864 17 % $ 80,095 _
+Europe 49,952 (1)°/o 50,337 14 % 44,285 _
+I Greater China 48,492 (17)% 58,715 84 % 31,853 I
+_ Japan 16,928 8 °/o 15,706 3 % 15,314-
+_ Rest of Asia Pacific 7 13,654 7 (10)°/o 7 15,093 7 34 % 7 11,248 7
+Total net sales 3 215,639 7 (8)°/o 7$ 233,715 7 28 % 7$ 182,795 7
+: Net Sales by Product:
+_ iPhone (1) $ 136,700 (12)°/o $ 155,041 52 % $ 101,991 _
+iPad (1) 20,628 (11)°/o 23,227 (23)% 30,283 _
+Mac (1) 22,831 (10)°/o 25,471 6 % 24,079 _
+Services (2) 24,348 22 °/o 19,909 10 % 18,063 _
+_ Other Products (“(3) 7 11,132 7 11 °/o 7 10,067 7 20 % 7 8,379 7
+Total net sales 3 215,639 7 (8)°/o 7$ 233,715 7 28 % 7$ 182,795 7
+: Unit Sales by Product:
+_ iPhone 211,884 (8)°/o 231,218 37 % 169,219 _
+iPad 45,590 (17)°/o 54,856 (19)% 67,977 _
+I Mac 18,484 (10)°/o 20,587 9 % 18,906 I
+(1) Includes deferrals and amortization of related software upgrade rights and non-software services.
+(2) Includes revenue from Internet Services, AppleCare®, Apple Pay, licensing and other services.
+(3) Includes sales of Apple TV, Apple Watch, Beats® products, iPod and Apple-branded and third-party accessories.
+Apple Inc. | 2016 Form 10-K I 23

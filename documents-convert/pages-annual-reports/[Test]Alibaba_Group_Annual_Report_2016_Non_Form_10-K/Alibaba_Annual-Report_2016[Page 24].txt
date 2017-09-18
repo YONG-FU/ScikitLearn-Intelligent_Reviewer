@@ -1,0 +1,45 @@
+logistics service providers, such as inclement weather, natural disasters, transportation disruptions or labor unrest.
+These logistics services could also be affected or interrupted by industry consolidation, insolvency or government
+shut-downs. The merchants on our marketplaces may not be able to find alternative logistics service providers to
+provide logistics services in a timely and reliable manner, or at all. We do not have agreements with logistics
+service providers that require them to offer services to our merchants. If the logistics data platform operated by
+Cainiao Network were to fail for any reason, the logistics service providers would be severely hindered from or
+unable to connect with our merchants, and their services and the functionality of our ecosystem could be severely
+affected. If the products sold on our marketplaces are not delivered in proper condition, on a timely basis or at
+shipping rates that marketplace participants are willing to bear, our business and prospects, as well as our financial
+condition and results of operations could be materially and adversely affected.
+If other third-party service providers on our ecosystem fail to provide reliable or satisfactory services, our business,
+ﬁnancial condition and results of operations may be materially and adversely aﬁected.
+In addition to the services provided to our ecosystem by Ant Financial Services, Cainiao Network and logistics
+service providers, a number of other third-party participants, including retail operating partners, logistics service
+providers, mobile app developers, ISVs, cloud developers, marketing affiliates and various professional service
+providers, also provide services to users on our platforms, including merchants, brands, consumers and users of our
+cloud computing services. To the extent these third-party service providers are unable to provide satisfactory
+services to our users on commercially acceptable terms or at all or if we fail to retain existing or attract new
+quality service providers to our platforms, our ability to retain, attract or engage our users may be severely limited,
+which may have a material and adverse effect on our business, financial condition and results of operations. In
+addition, certain of these third-party services providers on our ecosystem have access to our user data to a limited
+extent in order to provide their services. If such third-party participants engage in activities that are negligent,
+illegal or otherwise harm the trustworthiness and security of our ecosystem, including the leak or negligent use of
+data, or users are otherwise dissatisfied with their service quality, we could suffer reputational harm, even if these
+activities are not related to, attributable to or caused by us.
+We depend on key management as well as experienced and capable personnel generally, and any failure to attract, motivate
+and retain our staff could severely hinder our ability to maintain and grow our business.
+Our future success is significantly dependent upon the continued service of our key executives and other key
+employees. If we lose the services of any member of management or key personnel, we may not be able to locate
+suitable or qualified replacements, and may incur additional expenses to recruit and train new staff, which could
+severely disrupt our business and growth. In particular, Jack Ma, our lead founder, executive chairman and one of
+our principal shareholders, has been crucial to the development of our culture and strategic direction.
+As our business develops and evolves, it may become difficult for us to continue to retain such employees. A
+number of our employees, including many members of management, may choose to pursue other opportunities
+outside of our company. If we are unable to motivate or retain these employees, our business may be severely
+disrupted and our prospects could suffer.
+The size and scope of our ecosystem also require us to hire and retain a wide range of effective and
+experienced personnel who can adapt to a dynamic, competitive and challenging business environment. We will
+need to continue to attract and retain experienced and capable personnel at all levels as we expand our business
+and operations. Competition for talent in the PRC Internet industry is intense, and the availability of suitable and
+qualified candidates in China is limited. Competition for these individuals could cause us to offer higher
+compensation and other benefits to attract and retain them. Even if we were to offer higher compensation and
+other benefits, there is no assurance that these individuals will choose to join or continue to work for us. Any
+failure to attract or retain key management and personnel could severely disrupt our business and growth.
+19

@@ -1,0 +1,41 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+5. Revenue (Continued)
+(v) Revenue from cloud computing is primarily generated from the provision of services, such as data storage,
+elastic computing, database and large scale computing services, as well as web hosting and domain name
+registration.
+(vi) Other revenue mainly represents revenue from online marketing and other services provided by UCWeb
+and AutoNavi, SME Annual Fee received from Ant Financial Services and interest income generated
+from micro loans before the completion of the restructuring of Payment Services during the year ended
+March 31, 2015 (Note 4(b)).
+Revenue by type of service is as follows:
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB)
+Online marketing services
+P4P and display marketing 27,869 36,197 53,185
+Other online marketing services 3,059 3,938 3,963
+Total online marketing services 30,928 40,135 57,148
+Commission 12,778 22,705 27,793
+Membership fees and value-added services 5,135 6,431 7,627
+Others (i) 3,663 6,933 8,575
+Total 52,504 76,204 101,143
+(i) Other revenue mainly represents revenue from cloud computing, revenue from other services provided by
+UCWeb and AutoNavi, storefront fees, SME Annual Fee received from Ant Financial Services and
+interest income generated from micro loans before the completion of the restructuring of Payment
+Services during the year ended March 31, 2015 (Note 4(b)).
+6. Other income, net
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB)
+Royalty fee and software technology services fee charged to Ant Financial Services
+and Alipay (Note 23) 1,764 1,667 1,122
+Government grants 252 327 401
+Amortization of the excess value in relation to the restructuring of Payment Services
+(Note 4(b)) — (166) (264)
+Others 413 658 799
+Total 2,429 2,486 2,058
+(i) Government grants mainly represent amounts received from central and local governments in connection
+with the Company’s investments in local business districts and contributions to technology development.
+F-55

@@ -1,0 +1,46 @@
+IaibleiofiCiontents Alphabet Inc.
+Constant currency information compares results between periods as if exchange rates had remained constant
+period over period. We define constant currency revenues as total revenues excluding the impact of foreign exchange
+rate movements and hedging activities, and use it to determine the constant currency revenue growth on a year-on-
+year basis. Constant currency revenues are calculated by translating current period revenues using prior period
+exchange rates, as well as excluding any hedging impacts realized in the current period.
+Constant currency revenue growth (expressed as a percentage) is calculated by determining the increase in
+current period revenues over prior period revenues where current period foreign currency revenues are translated
+using prior period exchange rates and hedging benefits are excluded from revenues of both periods.
+These results should be considered in addition to, not as a substitute for, results reported in accordance with
+GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures
+used by other companies and are not a measure of performance presented in accordance with GAAP.
+The following table presents our foreign exchange impact on United Kingdom revenues, Rest of the world
+revenues, and total consolidated revenues for the current period (in millions):
+7 Year Ended December 31, 7
+2014 2015 2016
+[United Kingdom revenues $ 6,483 $ 7,067 $ 7,787 [
+Exclude: Foreign exchange impact on current year revenues using
+prior period rates N/A N/A $ 826
+[ Exclude: Hedging (gains) recognized 8 (3) 7 8 (133) 7 8 (297) [
+Constant currency United Kingdom revenues $ 6,480 $ 6,934 $ 8,316
+[United Kingdom revenue growth rate 7 7 7 9%, 7 10%[
+United Kingdom constant currency revenue growth rate 15% 20%
+Rest of the world revenues $ 30,036 $ 33,112 $ 39,704
+Exclude: Foreign exchange impact on current year revenues using
+prior period rates N/A N/A 447
+Exclude: Hedging (gains) recognized 7 (169) 77 (1,267) if (242) 7
+[Constant currency Rest of the world revenues $ 29,867 $ 31,845 $ 39,909 [
+Rest of the world revenue growth rate 7 7 7 10%, 7 20%,
+[Rest of the world constant currency revenue growth rate 24% 25%[
+[United States revenues $ 29,482 $ 34,810 $ 42,781 [
+United States revenue growth rate 18% 23%
+Total consolidated revenues $ 66,001 _$ 74,989 _$ 90,272
+[Constant currency total consolidated revenues 77$ 65,829 ’7 77$ 73,589 ’7 77$ 91,006
+Total consolidated revenue growth rate if i l 14%; l 20%;
+[Constant currency total consolidated revenue growth rate 20% 24%[
+In 2016 and in 2015, our revenues from the United Kingdom were unfavorably impacted by changes in foreign
+currency exchange rates over the prior year, primarily as the British pound weakened relative to the US. dollar.
+In 2016, our revenues from the Rest of the world (excluding the United Kingdom) were unfavorably impacted by
+changes in foreign currency exchange rates, primarily because the US. dollar strengthened relative to certain
+currencies including the Euro and Argentine peso, partially offset by the impact of the US. dollar weakening relative
+to the Japanese yen.
+In 2015, our revenues from the Rest of the world (excluding the United Kingdom) were unfavorably impacted by
+changes in foreign currency exchange rates, primarily because the US. dollar strengthened relative to the Euro,
+Brazilian real, Australian dollar, and Japanese yen.
+28

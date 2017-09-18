@@ -1,0 +1,37 @@
+Table,of,C,ontents
+- Oracle Private Cloud Appliance, an engineered system delivering converged infrastructure for virtualized environments that is designed to be simple to
+use, rapidly deployable and capable of running almost any application built upon Linux, Microsoft Windows or Oracle Solaris operating systems;
+- Oracle Database Appliance, which is designed to be a simple, reliable and cost-effective family of converged infrastructure solutions delivering an
+Optimized appliance for running Oracle Database;
+- Oracle Big Data Appliance, a scalable, engineered system designed for acquiring, organizing and loading unstructured data into a Had00p file system or
+Oracle NoSQL Database and optionally integrating that data with Oracle Databases. The key components of a big data platform are integrated into the
+Oracle Big Data Appliance to reduce deployment, integration and management risks in comparison to custom-built solutions; and
+- Oracle Zero Data Loss Recovery Appliance, an engineered system that is integrated with Oracle Database and is designed to eliminate data loss exposure
+for databases without impacting production environments.
+Servers
+We offer a wide range of server products using our SPARC microprocessor, which are designed to be differentiated by their reliability, security and scalability. Our
+SPARC-based T7 mid-range servers and M7 high-end servers, for example, are designed to offer better performance and lower total cost of ownership than
+competitive UNIX systems for business critical applications and for customers having more computationally intensive needs. Measurably increasing computing
+performance and reliability, these servers are ideal platforms for building cloud computing IT environments. We also offer servers using microprocessors from Intel
+Corporation (Intel). By offering customers a range of microprocessors, we intend to offer our customers maximum ﬂexibility in choosing the types of hardware
+products that they believe will be most appropriate and valuable for their particular IT environments.
+Our SPARC servers run the Oracle Solaris operating system and are designed for mission critical enterprise environments. Our SPARC servers are also a core
+component of the Oracle SuperCluster, one of our Oracle Engineered Systems.
+Our Intel-based enterprise x86 servers are compatible with Oracle Solaris, Oracle Linux, Microsoft Windows and other operating systems. Our x86 servers are also
+a core component of many of our Oracle Engineered Systems including Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-
+Memory Machine and the Oracle Big Data Appliance.
+Storage
+Our storage products are engineered for the cloud and designed to securely store, manage, protect, archive, backup and recover customers’ mission critical data
+assets. Our storage products consist of disk, ﬂash, tape, virtual tape, and hardware-related software including file systems software, back-up and archive software,
+hierarchical storage management software and networking for mainframe and heterogeneous systems environments. We also offer certain of our storage offerings
+as a cloud service. Our storage products are designed to improve data availability by providing fast data access and dynamic data protection for back-up and
+recovery, secure archiving for compliance and integration with the Oracle Cloud for low-cost access to capacity expansion. Our storage products are co-engineered
+with Oracle software and designed to provide performance benefits for our customers in Oracle Database and Oracle Applications environments, as well as to work
+with heterogeneous application and systems environments to maximize performance and efficiency while minimizing management overhead and lowering the total
+cost of ownership.
+Our Oracle ZFS Storage Appliance is designed to improve Network Attached Storage (NAS) performance and manageability and lower total cost of ownership by
+combining our advanced storage operating system with a DRAM-centric architecture and leveraging high-performance controllers, ﬂash-based caches and disks.
+Our Oracle All Flash F S storage system, which is targeted at all-ﬂash Storage Area Network (SAN) environments, is designed to deliver high performance with
+low latency to meet business critical service level agreements for dynamic, multi-application workloads and enable customers to consolidate storage applications
+into a single data center storage solution.
+1 5

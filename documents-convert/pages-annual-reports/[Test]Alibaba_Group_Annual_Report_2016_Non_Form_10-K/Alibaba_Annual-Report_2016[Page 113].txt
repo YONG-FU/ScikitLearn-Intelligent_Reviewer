@@ -1,0 +1,39 @@
+We primarily generate revenue from the businesses described below:
+Revenue Businesses
+China Commerce Retail ° Taobao Marketplace — Online shopping destination
+° Tmall“) — Brands and retail platform
+° Juhuasuan — Flash sale platform
+China Commerce Wholesale ° 1688.com — China wholesale marketplace
+International Commerce Retail ° AliEXpress — Global consumer marketplace
+International Commerce Wholesale ° Alibaba.com — Global wholesale marketplace
+Cloud Computing ° Alibaba Cloud — Cloud computing services provider
+(1) GMV and revenue of Tmall Global, part of our international retail business, are captured in Tmall.
+See “Item 4. Information on the Company — B. Business Overview” for a detailed discussion of our business
+and our ecosystem.
+Our Monetization Model
+The revenue we generate on our retail marketplaces is highly correlated with the number and engagement of
+the consumers on our platforms, the myriad value propositions of branding, marketing, promotions, distribution
+and productivity enhancements we offer merchants and brands, and our data and technology capabilities. The
+revenue we generate on our wholesale marketplaces is largely driven by the number of paying members and the
+value of the wholesale marketplaces as a marketing and distribution platform. We primarily derive revenue from
+online marketing services, commissions, memberships and cloud computing services. In fiscal year 2016, revenue
+from P4P marketing services and display marketing services accounted for 53%, commissions accounted for 27%,
+memberships and value-added services accounted for 8%, and cloud computing services accounted for 3%, of our
+total revenue, respectively.
+The pricing of our marketing services is primarily performance-based or impression-based. Performance-based
+marketing uses clicks or transactions as the measurement unit for performance. Impression-based marketing uses
+the number of impressions delivered to the user. The pricing of our marketing services is typically set by market-
+based bidding systems so that each marketer determines the price it is willing to pay for the services.
+Marketers’ willingness to pay and the amount they are willing to pay for our online marketing services is a
+function of the marketers’ expected return on investment, which generally depends on the following factors:
+0 if our platform serves as a sales and distribution channel for products: the sales volume, profits and
+inventory turnover expected to be generated on our platform;
+° if our platform serves as a customer acquisition and retention channel: the expected online and ofﬂine
+lifetime value of customers acquired from our platform; and
+0 if our platform serves as a brand building and brand engagement platform: the awareness reach, and brand
+association, measured both online and offline, achieved as a result of the marketing.
+China Commerce Retail. We generate revenue from our China retail marketplaces primarily through the
+monetization models described below. In fiscal year 2016, 75% of GMV on our China retail marketplaces was
+settled through Alipay. In fiscal year 2016, we generated 65% and 32% of our China commerce retail revenue
+from online marketing services and commissions, respectively.
+108

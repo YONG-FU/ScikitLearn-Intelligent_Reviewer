@@ -1,0 +1,38 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+1. Basis of Presentation and Signiﬁcant Accounting Policies
+Business
+Sonic Foundry, Inc. (the Company) is in the business of providing enterprise solutions and services for the web communications
+market.
+Principles of Consolidation
+The accompanying consolidated ﬁnancial statements include the accounts of the Company and its wholly-owned subsidiaries,
+Sonic Foundry Media Systems, Inc, Sonic Foundry International B.V. (formerly Media Mission RV.) and Mediasite K.K. All
+signiﬁcant intercompany transactions and balances have been eliminated. The name change for the subsidiary formerly known
+as Media Mission B.V. occurred in October 2016.
+Prior to January 2014, the Company owned approximately 26% of Mediasite K and accounted for its investment under the
+equity method of accounting. On January 14, 2014, the Company purchased the remaining 74% of Mediasite KK.
+Reelassiﬁeations
+Reclassifications have been made to the September 30, 2015 ﬁnancial statements to conform to the September 30, 2016
+presentation. These reclassifications had no effect on the Company’s net loss or stockholders’ equity as previously reported.
+Use of Estimates
+In preparing financial statements in conformity with accounting principles generally accepted in the United States of America
+(US GAAP), management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities,
+the disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of
+revenue and expense during the period. Actual results could differ from those estimates.
+Revenue Recognition
+General
+Revenue is recognized when persuasive evidence of an arrangement exists, delivery occurs or services are rendered, the sales
+price is ﬁxed or determinable and collectability is reasonably assured. Revenue is deferred when undelivered products or services
+are essential to the functionality of delivered products, customer acceptance is uncertain, significant obligations remain, or the
+fair value of undelivered elements is unknown. Typically, the Company does not offer customers the right to return product, other
+than for exchange or repair pursuant to a warranty or stock rotation. The Company’s policy is to reduce revenue if it incurs an
+obligation for price rebates or other such programs during the period the obligation is reasonably estimated to occur. The following
+policies apply to the Company’s major categories of revenue transactions.
+Products
+Products are considered delivered, and revenue is recognized, when title and risk of loss have been transferred to the customer or
+upon customer acceptance if non-delivered products or services are essential to the functionality of delivered products. Under the
+terms and conditions of the sale, this occurs at the time of shipment to the customer. Product revenue currently represents sales
+of our Mediasite recorder and Mediasite related products such as our server software and other software licenses. If a license is
+time-based, the revenue is recognized over the term of the license agreement.
+50

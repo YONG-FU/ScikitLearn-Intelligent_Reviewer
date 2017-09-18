@@ -1,0 +1,44 @@
+are not active for assets or liabilities that are identical or similar to the assets or liabilities being measured. Also,
+model-derived valuations in which all significant inputs and significant value drivers are observable in active
+markets are Level 2 valuation techniques.
+- Level 3 — Valuation techniques in which one or more significant inputs or significant value drivers are
+unobservable. Unobservable inputs are valuation technique inputs that reflect the Company's own assumptions
+about the assumptions that market participants would use in pricing an asset or liability.
+When available, the Company uses quoted market prices to determine the estimated fair value of an asset or liability.
+If quoted market prices are not available, the Company measures fair value using valuation techniques that use,
+when possible, current market-based or independently-sourced market parameters, such as interest rates and
+currency rates. The level in the fair value hierarchy within which a fair value measurement in its entirety falls is
+based on the lowest level input that is significant to the estimated fair value measurement in its entirety.
+Recurring Fair Value Measurements — As of December 31, 2016 and 2015, no major categories of assets or
+liabilities included in the Company's consolidated balance sheets at estimated fair value were measured on a
+recurring basis.
+Nonrecurring Fair Value Measurements —As of December 31, 2016 and 2015 there were no liabilities included
+in the Company's consolidated balance sheets at estimated fair value that were measured on a nonrecurring basis.
+The following table presents assets measured at estimated fair value on a nonrecurring basis as of December 31,
+2016 and 2015:
+Fair Value Measurements at Reporting Date Using
+EstiTIZtlﬁg Fair Level 1 Inputs Level 2 Inputs Level 3 Inputs Total Losses
+(In thousands)
+As of December 37, 2076
+Software a; _ $ — $ — $ — $ (520)
+Equipment (2) 1,963 — — 1,963 (250)
+As of December 37, 20 75
+Note receivable (3) — — — — (1,480)
+(1) During the three months ended December 31, 2016, certain operations software related to the Company's
+logistics business was determined to be fully impaired based on a significant decrease in the expected useful
+life of the software. This resulted in a pre-tax impairment loss of $0.5 million, which was recorded in "Impairments"
+within operating income in the consolidated income statement.
+(2) During the three months ended December 31, 2016, management reassessed the fair value of certain IEL
+tractors, which had a total book value of $2.2 million, determining that there was a pre-tax impairment loss of
+$0.3 million. The impairment loss was recorded in "Impairments" within operating income in the consolidated
+income statement.
+(3) In September 2013, the Company agreed to advance up to $2.3 million, pursuant to an unsecured promissory
+note, to an independent fleet contractor that transported freight on Swift's behalf. In March 2015, management
+became aware that the independent contractor violated various covenants outlined in the unsecured promissory
+note, which created an event of default that made the principal and accrued interest immediately due and
+payable. As a result of this event of default, as well as an overall decline in the independent contractor's financial
+condition, management re-evaluated the fair value of the unsecured promissory note. At March 31, 2015,
+management determined that the remaining balance due from the independent contractor to the Company was
+not collectible, which resulted in a $1.5 million pre-tax adjustment that was recorded in "Non-cash impairments
+of non-operating assets" in the Company's consolidated income statements.
+126

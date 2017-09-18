@@ -1,0 +1,8 @@
+[Washington 52 10 5 3 70 1
+Washington DC. 3 — — — 3
+[West Virginia 38 — 1 5 44 1
+Wisconsin 81 6 2 12 101
+’Wyoming 12 — — 2 14 ‘
+Puerto Rico 13 5 19 1 1 48
+[us total 3,465 _ 442 _ 667 _ 655 _ 5,229 1
+59

@@ -1,0 +1,54 @@
+the following: the evaluation of macroeconomic conditions as related to our business, industry and market trends, and the
+overall future financial performance of our reporting units and future opportunities in the markets in which they operate. If after
+performing the Qualitative Screen impairment indicators are present, we would perform a quantitative impairment test to
+estimate the fair value of goodwill and certain intangible assets. In doing so, we would estimate future revenue, consider
+market factors and estimate our future cash flows. Based on these key assumptions, judgments and estimates, we determine
+whether we need to record an impairment charge to reduce the value of the goodwill and certain intangible assets carried on our
+balance sheet to its estimated fair value. Assumptions, judgments and estimates about future values are complex and often
+subjective and can be aﬁected by a variety of factors, including external factors such as industry and economic trends, and
+internal factors such as changes in our business strategy or our internal forecasts. Although we believe the assumptions,
+judgments and estimates we have made have been reasonable and appropriate, different assumptions, judgments and estimates
+could materially affect our results of operations. As a result of the Qualitative Screen, no further quantitative impairment test
+was deemed necessary. There was no impairment of goodwill as a result of the annual impairment tests completed during the
+fourth quarters of 2016 and 2015.
+Income Taxes
+We are required to estimate our income taxes in each of the jurisdictions in which we operate as part of the process of
+preparing our consolidated financial statements. At December 31, 2016, we had approximately $249.8 million in net deferred
+tax assets. The authoritative guidance requires a valuation allowance to reduce the deferred tax assets reported if, based on the
+weight of the evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized. We
+review deferred tax assets periodically for recoverability and make estimates and judgments regarding the expected geographic
+sources of taxable income and gains from investments, as well as tax planning strategies in assessing the need for a valuation
+allowance. At December 31, 2016, we determined that a $14.2 million valuation allowance relating to deferred tax assets for
+net operating losses and tax credits was necessary. If the estimates and assumptions used in our determination change in the
+future, we could be required to revise our estimates of the valuation allowances against our deferred tax assets and adjust our
+provisions for additional income taxes.
+In the ordinary course of global business, there are transactions for which the ultimate tax outcome is uncertain, thus
+judgment is required in determining the worldwide provision for income taxes. We provide for income taxes on transactions
+based on our estimate of the probable liability. We adjust our provision as appropriate for changes that impact our underlying
+judgments. Changes that impact provision estimates include such items as jurisdictional interpretations on tax filing positions
+based on the results of tax audits and general tax authority rulings. Due to the evolving nature of tax rules combined with the
+large number of jurisdictions in which we operate, it is possible that our estimates of our tax liability and the realizability of our
+deferred tax assets could change in the ﬁJture, which may result in additional tax liabilities and adversely aﬁect our results of
+operations, financial condition and cash ﬂows.
+The following discussion relating to the individual financial statement captions, our overall financial performance,
+operations and financial position should be read in conjunction with the factors and events described in “7 7 Overview” and Part
+1 — Item 1A entitled “Risk Factors,” included in this Annual Report on Form 10-K for the year ended December 31, 2016,
+which could impact our future performance and financial position.
+Convertible Senior Notes
+In April 2014, we completed a private placement of our Convertible Notes due 2019 with a net share settlement feature,
+meaning that upon conversion, the principal amount will be settled in cash and the remaining amount, if any, will be settled in
+shares of our common stock or a combination of cash and shares of our common stock, at our election. In accordance with
+accounting guidance for convertible debt instruments that may be settled in cash or other assets on conversion, we first
+determine the carrying amount of the liability component by measuring the fair value of a similar liability that does not have an
+associated equity component. Then we determine the carrying amount of the equity component represented by the embedded
+conversion option by deducting the fair value of the liability component from the initial proceeds ascribed to the convertible
+debt instrument as a whole. Debt discount and debt issuance costs are amortized to interest expense using the effective interest
+method.
+As a result of the structure of the Reverse Morris Trust (RMT) transaction with LogMeIn, Inc., and the notification on
+October 10, 2016 to noteholders in accordance with the Indenture, the Convertible Notes became convertible until the earlier of
+(1) the close of business on the business day immediately preceding the ex-dividend date for the distribution of the outstanding
+shares of GetGo common stock to our stockholders by way of a pro rata dividend, and (2) our announcement that such
+distribution will not take place, even though the Convertible Notes were not otherwise convertible at December 31, 2016. The
+conversion rate for the Convertible Notes, Convertible Note Hedge and Warrant Transactions also will be subject to adjustment
+as of the opening of business on the ex-dividend date for the distribution. The $1.44 billion Convertible Notes became
+36

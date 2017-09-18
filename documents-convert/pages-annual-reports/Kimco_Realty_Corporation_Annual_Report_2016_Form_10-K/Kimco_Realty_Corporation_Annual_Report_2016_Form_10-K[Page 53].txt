@@ -1,0 +1,49 @@
+U.S. same property N01 is calculated using revenues from rental properties (excluding straight-line rent adjustments, lease
+termination fees, amortization of above/below market rents and includes charges for bad debt) less operating and maintenance
+expense, real estate taxes and rent expense plus the Company’s proportionate share of US. same property NOI from US.
+unconsolidated real estate joint ventures, calculated on the same basis. The Company’s method of calculating U.S. same property NOI
+may differ from methods used by other REITs and, accordingly, may not be comparable to such other REITs.
+The following is a reconciliation of the Company’s Income from continuing operations to US. same property NOI (in thousands):
+Three Months Ended Year Ended
+December 31, December 31,
+2016 2015 2016 2015
+[ Income from continuing _0perations $ 69,836 $ 339,117 $ 299,353 $ 774,405 1
+Adjustments:
+[ Management and other fee income @,117) Q5 69) @391) @,295)J
+General and administrative expenses 27,462 33,413 117,302 122,735
+[ Impairment charges 25,140 17,475 93,266 45,383 ]
+Depreciation and amortization 90,884 86,095 355,320 344,527
+[ Interest and other expense, net 40,818 52,525 232,798 174,656 ]
+(Beneﬁt)_/provision for income taxes, net (747) 48,297 72,545 60,230
+[ Gain on change in control of interests, net @290) @991) @ﬁ 86) (149,234)J
+Eqigty in income of other real estate investments, net (5,241) (4_,854) (2_7,773) ($990)
+[ Non same pgpe_rty net operating income (§,194) (£218) (@970) (173,189)j
+Non-operational expense/(income) from joint ventures, net 8,474 (297,488L (58,563L i(245,380)7
+[ U.S. same pr_opgtyNor 8 ; 232,025 g $; 225,902 g $ 1 920,401 g $ 1 895,748 1
+US. same property NOI increased by $6.1 million or 2.7% for the three months ended December 31, 2016, as compared to the
+corresponding period in 2015. This increase is primarily the result of an increase of $4.5 million related to lease-up and rent
+commencements in the portfolio and an increase of $1.6 million in other property income, net of property expenses.
+U.S. same property NOI increased by $24.7 million or 2.8% for the year ended December 31, 2016, as compared to the
+corresponding period in 2015. This increase is primarily the result of an increase of $13.1 million related to lease-up and rent
+commencements in the portfolio and an increase of $11.6 million in other property income, net of property expenses.
+Effects of Inﬂation
+Many of the Company's leases contain provisions designed to mitigate the adverse impact of inﬂation. Such provisions include
+clauses enabling the Company to receive payment of additional rent calculated as a percentage of tenants' gross sales above pre-
+determined thresholds, which generally increase as prices rise, and/or escalation clauses, which generally increase rental rates during
+the terms of the leases. Such escalation clauses often include increases based upon changes in the consumer price index or similar
+inﬂation indices. In addition, many of the Company's leases are for terms of less than 10 years, which permits the Company to seek to
+increase rents to market rates upon renewal. Most of the Company's leases require the tenant to pay an allocable share of operating
+expenses, including common area maintenance costs, real estate taxes and insurance, thereby reducing the Company's exposure to
+increases in costs and operating expenses resulting from inﬂation. The Company periodically evaluates its exposure to short-term
+interest rates and foreign currency exchange rates and will, from time-to-time, enter into interest rate protection agreements and/or
+foreign currency hedge agreements which mitigate, but do not eliminate, the effect of changes in interest rates on its ﬂoating-rate debt
+and ﬂuctuations in foreign currency exchange rates.
+New Accounting Pronouncements
+See Footnote 1 of the Notes to Consolidated Financial Statements included in this Form 10-K.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+The Company’s primary market risk exposures are interest rate risk and foreign currency exchange rate risk. The following table
+presents the Company’s aggregate fixed rate and variable rate debt obligations outstanding, including fair market value adjustments
+and unamortized deferred financing costs, as of December 31, 2016, with corresponding weighted-average interest rates sorted by
+maturity date. The table does not include extension options where available. The instruments’ actual cash ﬂow amounts are in
+millions.
+33

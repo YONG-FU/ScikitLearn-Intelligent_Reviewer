@@ -1,0 +1,28 @@
+SECTION 2.07 The Competitive Bid Advances .
+(a) Competitive Bid Advances’ Impact on Commitments . Each Lender severally agrees that any Borrower may make Competitive Bid Borrowings
+under this Section 2.07 from time to time on any Business Day during the period from the Effective Date until the Termination Date in the manner set forth below;
+proxidedjhat, following the making of each Competitive Bid Borrowing, the aggregate amount of the Advances then outstanding shall not exceed the aggregate
+amount of the Commitments of the Lenders. As provided in Section 2.01, the aggregate amount of the Commitments of the Lenders shall be deemed used from time
+to time to the extent of the aggregate amount of the Competitive Bid Advances then outstanding, and such deemed use of the aggregate amount of the Commitments
+shall be applied to the Lenders ratably according to their respective Commitments; proxided, however,, that any Lender’s Competitive Bid Advances shall not
+otherwise reduce that Lender’s obligation to lend its pro rata share of the remaining available Commitments.
+(b) Notice of Competitive Bid Borrowing. Any Borrower may request a Competitive Bid Borrowing under this Section 2.07 by delivering to the
+Administrative Agent, by email or telecopier, a notice of a Competitive Bid Borrowing (a “ Notice,of,C,ompetitiveiBidBorrowingf), in substantially the form of
+Exhibit B-2 hereto, specifying therein the following:
+(i) date of such proposed Competitive Bid Borrowing;
+(ii) aggregate amount of such proposed Competitive Bid Borrowing;
+(iii) interest rate basis and day count convention to be offered by the Lenders;
+(iv) in the case of a Competitive Bid Borrowing consisting of Floating Rate Bid Advances, Interest Period, or in the case of a Competitive Bid
+Borrowing consisting of Fixed Rate Bid Advances, maturity date for repayment of each Fixed Rate Bid Advance to be made as part of such Competitive Bid
+Borrowing (which maturity date may not be earlier than the date occurring seven days after the date of such Competitive Bid Borrowing or later than the
+earlier of (A) 360 days after the date of such Competitive Bid Borrowing and (B) the Termination Date);
+(v) interest payment date or dates relating thereto; location of such Borrower’s account to which funds are to be advanced; and
+(vi) other terms (if any) to be applicable to such Competitive Bid Borrowing.
+A Borrower requesting a Competitive Bid Borrowing shall deliver a Notice of Competitive Bid Borrowing to the Administrative Agent not later than 10:00 am.
+(New York City time) (x) at least two Business Days prior to the date of the proposed Competitive Bid Borrowing, if such Borrower shall specify in the Notice of
+Competitive Bid Borrowing that the Competitive Bid Borrowing shall be Fixed Rate Bid Advances, or (y) at least four Business Days prior to the date of the
+proposed Competitive Bid Borrowing, if such Borrower shall specify in the Notice of Competitive Bid Borrowing that the Competitive Bid Borrowing shall be
+Floating Rate Bid Advances. Each Notice of Competitive Bid Borrowing shall be irrevocable and binding on such Borrower. The Administrative Agent shall in turn
+promptly notify each Lender of each request for a Competitive Bid Borrowing received by it from such Borrower by sending such Lender a copy of the related
+Notice of Competitive Bid Borrowing.
+-19-

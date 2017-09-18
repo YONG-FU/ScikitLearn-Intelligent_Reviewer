@@ -1,0 +1,26 @@
+(b) Funding Loans . Each applicable Lender shall, before 11:00 am. (New York City time) on the relevant Funding Date, make available for the
+account of its Domestic Lending Ofﬁce to the Administrative Agent at the Administrative Agent Account, in same day funds, such Lender’s ratable portion of such
+Borrowing. Promptly after receipt of such funds by the Administrative Agent, and upon fulﬁllment of the applicable conditions set forth in Article III, the
+Administrative Agent will make such funds available to the Borrower at the address of the Administrative Agent referred to in Section 9.02.
+(c) IrrevocableiNoticei. Each Notice of Borrowing of the Borrower shall be irrevocable and binding on the Borrower. In the case of any Borrowing
+that the related Notice of Borrowing speciﬁes is to be comprised of LIBO Rate Loans, the Borrower shall indemnify each Lender against any loss, cost or expense
+incurred by such Lender as a result of any failure to fulﬁll on or before the date specified in such Notice of Borrowing for such Borrowing the applicable conditions
+set forth in Article III, including, without limitation, any loss (excluding loss of anticipated proﬁts), cost or expense incurred by reason of the liquidation or
+reemployment of deposits or other funds acquired by such Lender to fund the Loan to be made by such Lender as part of such Borrowing when such Loan, as a
+result of such failure, is not made on such date.
+((1) Lenderjs,RatableiBortion,. Unless the Administrative Agent shall have received notice from a Lender prior to 11:00 am. (New York City time)
+on the relevant Funding Date that such Lender will not make available to the Administrative Agent such Lender’s ratable portion of such Borrowing, the
+Administrative Agent may assume that such Lender has made such portion available to the Administrative Agent on the relevant Funding Date in accordance with
+Section 2.02(b) and the Administrative Agent may, in reliance upon such assumption, make available to the Borrower proposing such Borrowing on such date a
+corresponding amount. If and to the extent that such Lender shall not have so made such ratable portion available to the Administrative Agent, such Lender and the
+Borrower severally agree to repay to the Administrative Agent, forthwith on demand such corresponding amount together with interest thereon, for each day from
+the date such amount is made available to the Borrower until the date such amount is repaid to the Administrative Agent, at:
+(i) in the case of the Borrower, the higher of (A) the interest rate applicable at the time to Loans comprising such Borrowing and (B) the cost of funds
+incurred by the Administrative Agent, in respect of such amount, and
+(ii) in the case of such Lender, the Federal Funds Effective Rate.
+If such Lender shall repay to the Administrative Agent such corresponding amount, such amount so repaid shall constitute such Lender’s Loan as part of such
+Borrowing for purposes of this Agreement.
+(e) IndependentLenderLleigations,. The failure of any Lender to make the Loan to be made by it as part of any Borrowing shall not relieve any
+other Lender of its obligation, if any, hereunder to make its Loan on the date of such Borrowing, but no Lender shall be responsible for the failure of any other
+Lender to make the Loan to be made by such other Lender on the date of any Borrowing.
+-16-

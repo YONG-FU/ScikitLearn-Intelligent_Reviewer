@@ -1,0 +1,49 @@
+the stores' performance. The discount rate applied was based on Starbucks Japan's weighted-average cost of capital and included
+a company-specific risk premium. The market approach fair value measurement was based on the implied fair value of Starbucks
+Japan using the purchase price of Sazaby's 39.5% ownership interest and the expected purchase price of the 21% remaining
+noncontrolling interest.
+We began consolidating Starbucks Japan's results of operations and cash ﬂows into our consolidated financial statements
+beginning after October 31, 2014. For the year ended September 27, 2015, Starbucks Japan's net revenues and net earnings
+included in our consolidated statement of earnings were $1.1 billion and $108.5 million, respectively.
+The following table provides the supplemental pro forma revenue and net earnings of the combined entity had the acquisition
+date of Starbucks Japan been the first day of our first quarter of fiscal 2014 rather than during our first quarter of fiscal 2015 (in
+millions):
+[ l
+| Yiwﬂmhﬂ |
+| @opﬁﬂm ]_| @333me 1
+[Revenue $ 19,254.5 $ 17,646.4 J
+Net earnings attributable to Starbucks“) 2,380.9 2,449.9
+(1) The pro forma net earnings attributable to Starbucks for fiscal 2014 includes the acquisition-related gain of $390.6 million
+and transaction and integration costs of $13.6 million for the year ended September 28, 2014.
+The amounts in the supplemental pro forma earnings for the periods presented above ﬁJlly eliminate intercompany transactions,
+apply our accounting policies and reﬂect adjustments for additional occupancy costs, depreciation and amortization that would
+have been charged assuming the same fair value adjustments to leases, property, plant and equipment and acquired intangibles
+had been applied on September 30, 2013. These pro forma results are unaudited and are not necessarily indicative of results of
+operations that would have occurred had the acquisition actually occurred in the prior year period or indicative of the results of
+operations for any future period.
+Fiscal 2014
+During the fourth quarter of fiscal 2014, we sold our Australian company-operated retail store assets and operations to the
+Withers Group, converting these operations to a fully licensed market, for a total of $15.9 million. This transaction resulted in
+an insignificant pre-tax gain, which was included in interest income and other, net on our consolidated statements of earnings.
+Note 3: Derivative Financial Instruments
+Interest Rates
+Depending on market conditions, we enter into interest rate swap agreements to hedge the variability in cash ﬂows due to
+changes in benchmark interest rates related to anticipated debt issuances. These agreements are cash settled at the time of the
+pricing of the related debt. The effective portion of the derivative's gain or loss is recorded in accumulated other comprehensive
+income ("AOCI") and is subsequently reclassified to interest expense over the life of the related debt.
+During fiscal 2016, we entered into forward-starting interest rate swap agreements with an aggregate notional amount of $375
+million related to the $500 million and $250 million of 5-year 2.100% Senior Notes (the "2021 notes") due February 2021 and
+$500 million of 10-year 2.450% Senior Notes (the "2026 notes”) due June 2026. Refer to Note 9, Debt, for details of the
+components of our long-term debt. We cash settled these swap agreements at the time of pricing the 2021 and 2026 notes.
+Foreign Currency
+To reduce cash ﬂow volatility from foreign currency ﬂuctuations, we enter into forward and swap contracts to hedge portions
+of cash ﬂows of anticipated intercompany royalty payments, inventory purchases and intercompany borrowing and lending
+activities. The effective portion of the derivative's gain or loss is recorded in AOCI and is subsequently reclassified to revenue,
+cost of sales including occupancy costs or interest income and other, net, respectively, when the hedged exposure affects net
+earnings.
+In connection with the acquisition of Starbucks Japan, as discussed in Note 2, Acquisitions and Divestitures, we entered into
+cross-currency swap contracts during the first and third quarters of fiscal 2015 to hedge the foreign currency transaction risk of
+certain yen-denominated intercompany loans with a total notional value of ¥86.5 billion, or approximately $717 million as of
+September 27, 2015. As of October 2, 2016, the total notional value of these cross-currency swap contracts was ¥66.8 billion,
+or approximately, $660 million. Gains and losses from these swaps offset the changes in value of interest and principal
+Starbucks Corporation 2016 Form 10-K 63

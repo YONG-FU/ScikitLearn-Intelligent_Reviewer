@@ -1,0 +1,47 @@
+SaaS revenues, which are recognized ratably over the contractual term, primarily consist of fees related to our Cloud
+Services products, are comprised primarily of ShareFile.
+License updates and maintenance consists of:
+° Our Subscription Advantage program, an annual renewable program that provides subscribers with automatic
+delivery of unspecified software upgrades, enhancements and maintenance releases when and if they become
+available during the term of the subscription, for which fees are recognized ratably over the term of the contract,
+which is typically 12 to 24 months; and
+° Our maintenance fees, which include technical support and hardware and software maintenance, and which are
+recognized ratably over the contract term.
+Professional services revenues are comprised of:
+0 Fees from consulting services related to implementation of our products, which are recognized as the services are
+provided; and
+0 Fees from product training and certification, which are recognized as the services are provided.
+Net revenues of the GoTo Business segment primarily include SaaS revenues, which are recognized ratably over the
+contractual term, consist of fees related to the following oﬁerings:
+° Communications Cloud offerings, which primarily include GoToMeeting, GoToWebinar, GoToTraining and
+Grasshopper; and
+° Workﬂow Cloud offerings, which primarily include GoToMyPC and GoToAssist.
+7 Year Ended December 31, 7 2016 2015
+: 2016 7 7 2015 7 7 2014 7 “named to 7 7 comzlbaffd to 7
+7 7 7 7(in thousands) 7 7 7 7 7
+Revenues:
+Product and licenses $ 883,329 $ 875,807 $ 899,736 $ 7,522 $ (23,929)
+Software as a Service 816,436 731,292 651,562 85,144 79,730
+License updates and maintenance 1,587,271 1,521,007 1,416,017 66,264 104,990
+Professional Services 7 131,229, 7 147,488, 7 175,541 7 7 (16,259), 7 (28,053)
+Total net revenues :$ 3,418,265 : :$ 3,275,594 : :$ 3,142,856 : :$ 142,671 : :$ 132,738 :
+Product and licenses
+Product and licenses revenue increased during 2016 when compared to 2015 primarily due to higher overall sales of our
+Workspace Services solutions of $8.3 million and Delivery Networking products of $7.1 million. These increases were partially
+offset by lower sales of our non-core products of $8.0 million as a result of our product portfolio rationalization as discussed in
+the Executive Summary Overview above. Product and licenses revenue decreased during 2015 when compared to 2014
+primarily due to lower overall sales of our Workspace Services solutions of $21.2 million. We currently expect Product and
+licenses revenue to decrease when comparing the first quarter of 20 17 to the first quarter of 2016.
+Software as a Service
+Software as a service revenue increased during 2016 compared to 2015 primarily due to increased sales of GoTo Business
+products of $54.3 million and increased sales of our Cloud Services products of $27.3 million. Software as a service revenue
+increased during 2015 compared to 2014 primarily due to increased sales of GoTo Business products of $51.4 million and
+increased sales of our Cloud Services products of $24.7 million. We currently expect our Software as a Service revenue,
+excluding the GoTo Business, to increase when comparing the first quarter of 20 17 to the first quarter of 2016.
+License updates and maintenance
+Effective February 16, 2015, we introduced Software Maintenance across all Citrix software products and discontinued
+our existing Premier Support offering. As a result, we have experienced declines in Subscription Advantage and Premier
+Support revenues, with a corresponding increase in sales of our software maintenance offerings as customers adopt the new
+solution. Additionally, in 2017, our customers began migrating to the new Citrix Customer Success Services offering from the
+Subscription Advantage and Software Maintenance programs.
+39

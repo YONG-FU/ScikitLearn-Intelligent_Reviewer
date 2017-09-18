@@ -1,0 +1,44 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+Signiﬁcant components of the Company’s deferred tax assets and liabilities at February 29, 2016 and
+February 28, 2015, consisted of the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Deferred tax assets:
+Foreignnetoperatinglosscarryforwards $ 6,679 $ 6,704
+Domestic net operating loss carryforwards ................................... 13,202 17,956
+Domesticcreditcarryforwards............................................ 7,849 8,990
+Share-basedcompensation................................................ 44,276 36,996
+Deferredrevenue....................................................... 83,901 68,850
+Foreigndeferredroyaltyexpenses.......................................... 9,896 9,958
+Convertiblenotes....................................................... 15,182 18,683
+12,313 12,407
+Totaldeferredtaxassets $193,298 $180,544
+Valuation allowance for deferred tax assets .................................. (3,291) (2,641)
+Total deferred tax assets, net of valuation allowance . . . . . . . . . . . . . . . . . . . . . . . . . . . $190,007 $177,903
+Deferred tax liabilities:
+9,450 7,835
+Fixedandintangibleassets............................................... 44,085 37,321
+Compensationaccruals.................................................. 21,415 23,518
+3,770 11,152
+Totaldeferredtaxliabilities............................................... $ 78,720 $ 79,826
+Netdeferredtaxasset.................................................... $111,287 $ 98,077
+The Company’s gross and net deferred tax asset and liability positions at February 29, 2016 are as follows
+(in thousands):
+:Domestic: :Foreign: Consolidated
+Deferredtaxassets $158,623 $31,384 $190,007
+Deferredtaxliabilities............................................ 73,254 5,466 78,720
+Netdeferredtaxasset $ 85,369 $25,918 $111,287
+As of February 29, 2016, the Company continues to maintain a valuation allowance against its deferred tax
+assets with respect to certain foreign and state net operating loss (“NOL”) and credit carryforwards. For the year
+ended February 29, 2016, the valuation allowance increased $0.7 million primarily as a result of state NOL and
+credit carryforwards.
+As of February 29, 2016, the Company had U.S. federal NOL carryforwards of $33.0 million, foreign NOL
+carryforwards of $28.1 million and US. state NOL carryforwards of $58.1 million, of which $23.1 million
+consists of share-based compensation deductions in excess of the amounts expensed in the Company’s operating
+results. The resulting excess tax benefit will be recognized as an increase to additional paid in capital when
+realized. The NOL carryforwards expire in varying amounts beginning in the fiscal year ending February 28,
+2017. As of February 29, 2016, the Company had US. federal research tax credit carryforwards of $1.0 million
+and state research tax credit carryforwards of $14.8 million, which expire in varying amounts beginning in the
+fiscal year ending February 28, 2017.
+96

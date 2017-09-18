@@ -1,0 +1,46 @@
+Available Information
+You can obtain copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current
+Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, free of charge from
+our website at http://www.salesforce.com/company/investor/sec-filings/ as soon as reasonably practicable
+following our filing of any of these reports with the SEC. You can also obtain copies free of charge by contacting
+our Investor Relations department at our office address listed above. The public may read and copy any materials
+filed by the Company with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580,
+Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by
+calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and
+information statements and other information regarding issuers that file electronically with the SEC at
+www.sec. gov. The contents of these websites are not incorporated into this filing. Further, the Company’s
+references to the URLs for these websites are intended to be inactive textual references only.
+ITEM 1A. RISK FACTORS
+The risks and uncertainties described below are not the only ones facing us. Other events that we do not
+currently anticipate or that we currently deem immaterial also may affect our results of operations, cash ﬂows
+and financial condition.
+Risks Related to Our Business and Industry
+If our security measures or those of our third-party data center hosting facilities, cloud computing
+platform providers, or third-party service partners, are breached, and unauthorized access is obtained to a
+customer’s data, our data or our IT systems, our services may be perceived as not being secure, customers may
+curtail or stop using our services, and we may incur signiﬁcant legal and ﬁnancial exposure and liabilities.
+Our services involve the storage and transmission of customers’ proprietary information, and security breaches
+could expose us to a risk of loss of this information, litigation and possible liability. While we have security
+measures in place, they may be breached as a result of third-party action, including intentional misconduct by
+computer hackers, employee error, malfeasance or otherwise and result in someone obtaining unauthorized access
+to our IT data, our customers’ data or our data, including our intellectual property and other confidential business
+information. Additionally, third parties may attempt to fraudulently induce employees or customers into disclosing
+sensitive information such as user names, passwords or other information in order to gain access to our customers’
+data, our data or our IT systems. Because the techniques used to obtain unauthorized access, or to sabotage systems,
+change frequently and generally are not recognized until launched against a target, we may be unable to anticipate
+these techniques or to implement adequate preventative measures. In addition, our customers may authorize third-
+party technology providers to access their customer data, and some of our customers may not have adequate
+security measures in place to protect their data that is stored on our services. Because we do not control our
+customers or third-party technology providers, or the processing of such data by third-party technology providers,
+we cannot ensure the integrity or security of such transmissions or processing. Malicious third parties may also
+conduct attacks designed to temporarily deny customers access to our services. Any security breach could result in a
+loss of confidence in the security of our services, damage our reputation, negatively impact our future sales, disrupt
+our business and lead to legal liability.
+Defects or disruptions in our services could diminish demand for our services and subject as to
+substantial liability.
+Because our services are complex and incorporate a variety of hardware and proprietary and third-party
+software, our services may have errors or defects that could result in unanticipated downtime for our subscribers
+and harm to our reputation and our business. Cloud services frequently contain undetected errors when first
+introduced or when new versions or enhancements are released. We have from time to time found defects in, and
+experienced disruptions to, our services and new defects or disruptions may occur in the future. In addition, our
+12

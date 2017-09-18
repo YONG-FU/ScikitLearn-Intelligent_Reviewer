@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+In addition, political unrest in places like Ukraine, Syria and Iraq and the related potential impact on global stability, terrorist attacks and the potential for other
+hostilities in various parts of the world, potential public health crises and natural disasters continue to contribute to a climate of economic and political uncertainty
+that could adversely affect our results of operations and financial condition, including our revenue growth and profitability. These factors generally have the
+strongest effect on our sales of new software licenses, hardware products, hardware support and related services and, to a lesser extent, also may affect our renewal
+rates for software license updates and product support and our subscription-based cloud offerings.
+If we are unable to compete eﬁfectively, the results of operations and prospects for our business could be harmed We face intense competition in all aspects of
+our business. The nature of the IT industry creates a competitive landscape that is constantly evolving as firms emerge, expand or are acquired, as technology
+evolves and as delivery models change. Many vendors develop and market databases, middleware products, application development tools, business applications,
+collaboration products and business intelligence products, among others, that compete with our cloud and on-premise software offerings. These vendors include on-
+premise software companies and companies that offer cloud-based SaaS, PaaS, IaaS and DaaS offerings and business process outsourcing (BPO) as competitive
+alternatives to buying software and hardware. Our competitors that offer business applications and middleware products may inﬂuence a customer’s purchasing
+decision for the underlying database in an effort to persuade potential customers not to acquire our products. We could lose customers if our competitors introduce
+new competitive products, add new functionality, acquire competitive products, reduce prices, better execute on their sales and marketing strategies or form
+strategic alliances with other companies. We may also face increasing competition from open source software initiatives in which competitors may provide
+software and intellectual property for free. Existing or new competitors could gain sales opportunities or customers at our expense.
+Our hardware business competes with, among others, (1) systems manufacturers and resellers of systems based on our own microprocessors and operating systems
+and those of our competitors, (2) microprocessor/chip manufacturers, (3) providers of storage products, (4) certain industry-speciﬁc hardware manufacturers
+including those serving communications, hospitality and retail industries and (5) certain cloud providers that build their own IT infrastructure. Our hardware
+business causes us to compete with certain companies that historically have been partners. Some of these competitors may have more experience than we do in
+managing a hardware business. A large portion of our hardware products are based on our SPARC microprocessor and Oracle Solaris operating system platform,
+which has a smaller installed base than certain of our competitors’ platforms and which may make it difficult for us to win new customers that have already made
+significant investments in our competitors’ platforms. Certain of these competitors also compete very aggressively on price. A loss in our competitive position
+could result in lower revenues or profitability, which could adversely impact our ability to realize the revenue and profitability forecasts for our hardware business.
+We may need to change our pricing models to compete successfully. The intense competition we face in the sales of our products and services and general
+economic and business conditions can put pressure on us to change our prices. If our competitors offer deep discounts on certain products or services or develop
+products that the marketplace considers more valuable, we may need to lower prices or offer other favorable terms in order to compete successfully. Any such
+changes may reduce margins and could adversely affect operating results. Additionally, the increasing prevalence of cloud and SaaS delivery models offered by us
+and our competitors may unfavorably impact the pricing of our on-premise enterprise software offerings and our cloud offerings, as well as overall demand for our
+on-premise software product and service offerings, which could reduce our revenues and profitability. Our software license updates and product support fees and
+hardware support fees are generally priced as a percentage of our net new software licenses fees and net new hardware products fees, respectively. Our competitors
+may offer lower pricing on their support offerings, which could put pressure on us to further discount our offerings or support pricing.
+Any broad-based change to our prices and pricing policies could cause our revenues to decline or be delayed as our sales force implements and our customers
+adjust to the new pricing policies. Some of our competitors may bundle products for promotional purposes or as a long-term pricing strategy or provide guarantees
+of prices and product implementations. These practices could, over time, significantly constrain the prices that we can charge for certain of our products. If we do
+not adapt our pricing models to reﬂect changes in customer use of our
+26

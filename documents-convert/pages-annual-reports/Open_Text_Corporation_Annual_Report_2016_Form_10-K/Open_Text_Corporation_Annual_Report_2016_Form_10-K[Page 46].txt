@@ -1,0 +1,52 @@
+direct costs of materials and services, which generally includes outside contractors, and interest. We do not capitalize any
+general and administrative or overhead costs or costs incurred during the application development stage related to training or
+data conversion costs. Costs related to upgrades and enhancements to internal-use software, if those upgrades and
+enhancements result in additional functionality, are capitalized. If upgrades and enhancements do not result in additional
+functionality, those costs are expensed as incurred. If different determinations are made with respect to whether upgrades or
+enhancements to software projects would result in additional functionality, then the amount capitalized and the amount charged
+to expense for that project could differ materially.
+We amortize capitalized costs with respect to development projects for internal-use software when the software is ready
+for use. The capitalized software development costs are generally amortized using the straight-line method over a 5-year
+period. In determining and reassessing the estimated useful life over which the cost incurred for the software should be
+amortized, we consider the effects of obsolescence, technology, competition and other economic factors. If different
+determinations are made with respect to the estimated useful life of the software, the amount of amortization charged in a
+particular period could differ materially.
+Business combinations
+We apply the provisions of ASC Topic 805, “Business Combinations” (Topic 805), in the accounting for our acquisitions.
+It requires us to recognize separately from goodwill the assets acquired and the liabilities assumed at their acquisition date fair
+values. Goodwill as of the acquisition date is measured as the excess of consideration transferred over the net of the acquisition
+date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to
+accurately value assets acquired and liabilities, including contingent consideration where applicable, assumed at the acquisition
+date, our estimates are inherently uncertain and subject to refinement, particularly since these assumptions and estimates are
+based in part on historical experience and information obtained from the management of the acquired companies. As a result,
+during the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the
+assets acquired and liabilities assumed with the corresponding offset to goodwill in the period identified. Furthermore, when
+valuing certain intangible assets that we have acquired, critical estimates may be made relating to, but not limited to: (i) future
+expected cash ﬂows from software license sales, cloud SaaS and PaaS contracts, support agreements, consulting agreements
+and other customer contracts (ii) the acquired company's brand and competitive position, as well as assumptions about the
+period of time that the acquired brand will continue to be used in the combined company's product portfolio, and (iii) discount
+rates. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities
+assumed, whichever comes first, any subsequent adjustments would be recorded to our Consolidated Statements of Income.
+Costs to exit or restructure certain activities of an acquired company or our internal operations are accounted for as one-
+time termination and exit costs pursuant to Topic 420 and are accounted for separately from the business combination.
+For a given acquisition, we generally identify certain pre-acquisition contingencies as of the acquisition date and may
+extend our review and evaluation of these pre-acquisition contingencies throughout the measurement period in order to obtain
+sufficient information to assess whether we include these contingencies as a part of the purchase price allocation and, if so, to
+determine the estimated amounts.
+If we determine that a pre-acquisition contingency (non-income tax related) is probable in nature and estimable as of the
+acquisition date, we record our best estimate for such a contingency as a part of the preliminary purchase price allocation. We
+often continue to gather information and evaluate our pre-acquisition contingencies throughout the measurement period and if
+we make changes to the amounts recorded or if we identify additional pre-acquisition contingencies during the measurement
+period, such amounts will be included in the purchase price allocation during the measurement period and, subsequently, in our
+results of operations.
+Uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are
+initially estimated as of the acquisition date. We review these items during the measurement period as we continue to actively
+seek and collect information relating to facts and circumstances that existed at the acquisition date. Changes to these uncertain
+tax positions and tax related valuation allowances made subsequent to the measurement period, or if they relate to facts and
+circumstances that did not exist at the acquisition date, are recorded in our provision for income taxes in our Consolidated
+Statements of Income.
+Goodwill
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and
+intangible assets acquired. The carrying amount of goodwill is periodically reviewed for impairment (at a minimum annually)
+and whenever events or changes in circumstances indicate that the carrying value of this asset may not be recoverable.
+38

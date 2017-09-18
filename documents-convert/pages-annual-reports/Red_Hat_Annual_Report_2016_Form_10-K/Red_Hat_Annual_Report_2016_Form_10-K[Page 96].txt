@@ -1,0 +1,42 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+NOTE 6—Property and Equipment
+The Company’s property and equipment is recorded at cost and consists of the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Computerequipment $135,342 $141,972
+Software, including software developed for internal use . . . . . . . . . . . . . . . . . . . . . . . . 85,517 80,565
+Furnitureandfixtures 28,800 28,595
+Leaseholdimprovements................................................. 104,045 100,882
+Propertyandequipment—inprogress....................................... 8,001 10,251
+Propertyandequipment.................................................. $361,705 $362,265
+Less:accumulateddepreciation............................................ (194,819) (190,114)
+Propertyandequipment,net $166,886 $172,151
+Property and equipment is depreciated or amortized using the straight-line method over its estimated useful
+life as follows: furniture and fixtures, seven years; computer equipment, three to four years; computer software,
+five years; leasehold improvements, up to fifteen years, over the lesser of the estimated remaining useful life of
+the asset or the remaining term of the lease. Depreciation expense recognized in the Company’s Consolidated
+Financial Statements for the years ended February 29, 2016, February 28, 2015 and February 28, 2014 is
+summarized as follows (in thousands):
+Year ended Year ended Year ended
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+Totaldepreciationexpense $48,909 $48,001 $45,169
+NOTE 7—Identiﬁable Intangible Assets
+Identifiable intangible assets consist primarily of trademarks, copyrights and patents, purchased
+technologies, customer and reseller relationships, and covenants not to compete which are amortized over the
+estimated useful life, generally on a straight-line basis, with the exception of customer and reseller relationships
+which are generally amortized over the greater of straight-line or the related asset’s pattern of economic benefit.
+Useful lives range from two to ten years. As of February 29, 2016 and February 28, 2015, trademarks with an
+indefinite estimated useful life totaled $11.1 million and $11.3 million, respectively. The following is a summary
+of identiﬁable intangible assets (in thousands):
+: February 29, 2016 : : February 28, 2015 :
+Gross Accumulated Net Gross Accumulated Net
+: Amount : Amortization : Amount : : Amount : Amortization : Amount :
+Trademarks, copyrights and patents . . . . $138,106 $ (49,876) $ 88,230 $117,020 $ (42,630) $ 74,390
+Purchased technologies . . . . . . . . . . . . . . 96,105 (70,940) 25,165 81,482 (63,618) 17,864
+Customer and reseller relationships . . . . 104,593 (80,329) 24,264 104,084 (71,512) 32,572
+Covenants not to compete . . . . . . . . . . . . 13,240 (9,875) 3,365 10,683 (7,657) 3,026
+Other intangible assets . . . . . . . . . . . . . . . 8,833 (3,786) 5,047 8,833 (2,409) 6,424
+Total identifiable intangible assets . . . . . $360,877 $(214,806) $146,071 $322,102 $(187,826) $134,276
+92

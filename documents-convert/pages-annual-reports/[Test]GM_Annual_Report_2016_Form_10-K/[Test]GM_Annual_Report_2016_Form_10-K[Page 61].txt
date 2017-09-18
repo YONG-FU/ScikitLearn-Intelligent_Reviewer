@@ -1,0 +1,45 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Note 4. GM Financial Receivables
+December 31, 2016 December 31, 2015
+Retail Commercial Total Retail Commercial Total
+Finance receivables, collectively evaluated for impairment, net
+offees $ 30,989 $ 10,652 $ 41,641 $ 27,512 $ 8,127 $ 35,639
+Finance receivables, individually evaluated for impairment, net
+offees 1,921 _ 70 _ 1,991 _ 1,612 _ 82 _ 1,694
+{GM Financial receivables 32,910 10,722 43,632 29,124 8,209 37,333 l
+Less: allowance for loan losses (793) _ (50) _ (843) _ (735) _ (47) _ (782)
+{GM Financial receivables, net $ 32,117 _ $ 10,672 _ $ 42,789 _ $ 28,389 _ $ 8,162 _ $ 36,551 l
+lFairvalue of GM Financial receivables $ 42,739 $ 36,707 l
+GM Financial estimates the fair value of retail ﬁnance receivables using observable and unobservable Level 3 inputs within a cash ﬂow model. The inputs
+reﬂect assumptions regarding expected prepayments, deferrals, delinquencies, recoveries and charge-offs of the loans within the portfolio. The cash ﬂow
+model produces an estimated amortization schedule of the ﬁnance receivables. The projected cash ﬂows are then discounted using current risk-adjusted rates
+to derive the fair value of the portfolio. Macroeconomic factors could affect the credit performance of the portfolio and therefore could potentially affect the
+assumptions used in GM Financial's cash ﬂow model. A substantial majority of GM Financial's commercial ﬁnance receivables have variable interest rates
+and maturities of one year or less. Therefore, the carrying amount, a level 2 input, is considered to be a reasonable estimate of fair value.
+Years Ended December 31,
+2016 _ 2015 _ 2014
+lAllowance for loan losses at beginning of period $ 782 $ 695 $ 548 l
+Provision for loan losses 669 624 604
+{Charge-offs (1,173) (999) (914) l
+Recoveries 561 487 470
+lEffect of foreign currency 4 _ (25) _ (13) l
+Allowance for loan losses at end of period r$ 843 r r$ 782 r r$ 695 r
+The allowance for loan losses on retail and commercial ﬁnance receivables included a collective allowance of $560 million, $553 million and $518
+million and a speciﬁc allowance of $283 million, $229 million and $177 million at December 31, 2016, 2015 and 2014.
+Retail Finance Receivables GM Financial uses proprietary scoring systems in its underwriting process that measure the credit quality of retail ﬁnance
+receivables using several factors, such as credit bureau information, consumer credit risk scores (e.g. FICO scores or its equivalent) and contract
+characteristics. In addition to GM Financial's proprietary scoring systems GM Financial considers other individual consumer factors such as employment
+history, ﬁnancial stability and capacity to pay. Subsequent to origination GM Financial reviews the credit quality of retail ﬁnance receivables based on
+customer payment activity. In North America, while we historically focused on consumers with lower than prime credit scores, we have expanded our prime
+lending programs. At December 31, 2016 and 2015, 48% and 60% of the retail ﬁnance receivables in North America were from consumers with sub-prime
+credit scores, which are deﬁned as FICO scores or its equivalent of less than 620 at the time of loan origination. At the time of loan origination, substantially
+all of GM Financial's international consumers have the equivalent of prime credit scores.
+GM Financial purchases retail ﬁnance contracts from automobile dealers without recourse, and accordingly, the dealer has no liability to GM Financial if
+the consumer defaults on the contract. Finance receivables are collateralized by vehicle titles and GM Financial has the right to repossess the vehicle in the
+event the consumer defaults on the payment terms of the contract.
+An account is considered delinquent if a substantial portion of a scheduled payment has not been received by the date such payment was contractually
+due. At December 31, 2016 and 2015 the accrual of ﬁnance charge income had been suspended on delinquent retail ﬁnance receivables with contractual
+amounts due of $807 million and $778 million. The following table
+58

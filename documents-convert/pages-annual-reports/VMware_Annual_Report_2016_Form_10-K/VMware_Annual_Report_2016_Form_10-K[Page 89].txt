@@ -1,0 +1,47 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+VMware’s restricted stock also includes performance stock unit (“PSU”) awards, which have been granted to certain VMware executives and employees. The
+PSU awards include performance conditions and, in certain cases, a time-based vesting component. Upon vesting, each PSU award will convert into VMware’s
+Class A common stock at various ratios ranging from 0.5 to 2.0 shares per PSU, depending upon the degree of achievement of the performance target designated
+by each individual award. If minimum performance thresholds are not achieved, then no shares will be issued. As of December 31, 2016 , the number of PSUs
+outstanding includes certain PSUs for which performance conditions have concluded but time-based vesting is still required.
+The following table summarizes restricted stock activity since January 1, 2014 (units in thousands):
+Weighted-
+Average Grant Date
+Fair Value
+Number of Units (per unit)
+lOutstanding, January 1, 2014 12,856 8 85.85 1
+Granted 6,189 92.82
+[Vested (5,166) 86.27 1
+Forfeited (1,294) 88.03
+lOutstanding, December 31, 2014 12,585 88.88 1
+Granted 12,787 72.42
+[Vested (4,855) 90.72 1
+Forfeited (1,824) 87.39
+lOutstanding, December 31, 2015 18,693 77.29 1
+Granted 12,742 60.90
+[Vested (7,188) 77.18 1
+Forfeited (3,381) 75.93
+lOutstanding, December 31, 2016 20,866 67.54 1
+As of December 31, 2016 , the 20.9 million units outstanding included 20.4 million of RSUs and 0.5 million of PSUs. The above table includes RSUs issued
+for outstanding unvested RSUs in connection with business combinations.
+As of December 31, 2016 , restricted stock that is expected to vest was as follows:
+. weighfefi Average Aggregate Intrinsic Value
+Number of Units Remaining Term (1)
+(in thousands) (in years) (in millions)
+’EXpected to vest, December 31, 2016 17,835 2.65 $ 1,404 l
+(1) The aggregate intrinsic values represent the total pre-tax intrinsic values based on VMware's closing stock price of $78.73 as of December 31, 2016 , which
+would have been received by the RSU holders had the RSUs been issued as of December 31, 2016 .
+The total fair value of VMware restricted stock that vested during the years ended December 31, 2016 , 2015 and 2014 was $468 million , $379 million and
+$480 million , respectively. As of December 31, 2016 , restricted stock representing 20.9 million shares of VMware’s Class A common stock were outstanding,
+with an aggregate intrinsic value of $1,643 million based on VMware’s closing stock price as of December 31, 2016 .
+VMware Employee Stock Purchase Plan
+In June 2007, VMware adopted its 2007 Employee Stock Purchase Plan (the “ESPP”), which is intended to be qualified under Section 423 of the Internal
+Revenue Code. As of December 31, 2016 , the number of authorized shares under the ESPP was a total of 14.3 million shares. Under the ESPP, eligible VMware
+employees are granted options to purchase shares at the lower of 85% of the fair market value of the stock at the time of grant or 85% of the fair market value at
+the time of exercise. The option period is generally twelve months and includes two embedded six-month option periods. Options are exercised at the end of each
+embedded option period. If the fair market value of the stock is lower on the first day of the second embedded option period than it was at the time of grant, then
+the twelve-month option period expires and each enrolled participant is granted a new twelve-month option. As of December 31, 2016 , 2.1 million shares of
+VMware Class A common stock were available for issuance under the ESPP.
+86

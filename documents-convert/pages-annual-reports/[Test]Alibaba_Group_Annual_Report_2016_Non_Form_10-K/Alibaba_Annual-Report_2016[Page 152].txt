@@ -1,0 +1,48 @@
+method. We periodically review changes in technology and industry conditions, asset retirement activity and
+residual values to determine adjustments to estimated remaining useful lives and depreciation and amortization
+rates. Actual economic lives may differ from estimated useful lives. Periodic reviews could result in a change in
+estimated useful lives and therefore depreciation and amortization expenses in future periods.
+Allowance for Doubtful Accounts Relating to Loan and WIT Receivables
+We record allowances for doubtful accounts primarily on the micro loans and VAT receivables according to
+our best estimate of the losses inherent in the outstanding loan portfolio and VAT receivables. The credit periods
+extended by us to the merchants relating to micro loans generally range from 7 days to 360 days and the collection
+periods for the VAT receivables generally range from three to six months. We estimate the allowances by
+multiplying pre-determined percentages to the outstanding loan amounts based on the aging of the loans. Given
+that substantially all borrowers of the micro loans are merchants on our marketplaces, we are able to monitor the
+transaction history of these merchants and other operating data accumulated on our platforms, and assess the
+general financial health of these borrowers. VAT receivables mainly represent VAT receivables from relevant PRC
+tax authorities arising from OneTouch’s VAT refund service. We monitor the aging of the VAT receivables and
+assess the collectability of these VAT receivables. Judgment is required to determine the percentages used to
+determine the allowance amounts and whether such amounts are adequate to cover potential bad debts, and
+periodic reviews are performed to ensure such percentages continue to reﬂect our best estimate of the inherent
+losses based on our assessment of the merchants’ ability to repay the loans or the collectability of the VAT
+receivables. The micro loans and the allowance for doubtful accounts relating to micro loans balances were
+insignificant as of March 31, 2016 because we disposed substantially all of such business and assets upon the
+completion of the restructuring of our relationship with Ant Financial Services during the year ended March 31,
+2015. See “Item 7. Major Shareholders and Related Party Transactions — B. Related Party Transactions —
+Agreements and Transactions Related to Ant Financial Services and its Subsidiaries — 2014 Restructuring of Our
+Relationship with Ant Financial Services and Alipay.”
+Recent Accounting Pronouncements
+In May 2014, the Financial Accounting Standards Board, or FASB, issued Accounting Standards Update, or
+ASU, 2014-09, “Revenue from Contracts with Customers,” which supersedes the revenue recognition requirements
+in “Revenue Recognition (Topic 605)” and requires entities to recognize revenue in a way that depicts the transfer
+of promised goods or services to customers in an amount that reﬂects the consideration to which the entity expects
+to be entitled in exchange for those goods or services. In August 2015, the FASB issued ASU 2015-14 to defer the
+effective date of ASU 2014-09 by one year. In April 2016, the FASB issued ASU 2016-10 to clarify
+ASU 2014-09 on identifying performance obligations and licensing implementation guidance contained in the new
+revenue recognition standard. The new guidance is effective retrospectively for us for the year ending March 31,
+2019 and the interim reporting periods during the year ending March 31, 2019, with early application permitted
+only for the annual reporting period ending March 31, 2018 and the interim reporting periods during the year
+ending March 31, 2018. We are evaluating the existing revenue recognition policies to determine whether any
+contracts in the scope of the guidance will be affected by the new requirements.
+In January 2015, the FASB issued ASU 2015-01, “Income Statement — Extraordinary and Unusual Items,”
+which eliminates the concept of extraordinary and unusual items from US. GAAP. The new guidance is effective
+prospectively for us for the year end ending March 31, 2017 and interim reporting periods during the year ending
+March 31, 2017. Early adoption is permitted. The revised guidance will not have a material effect on our financial
+position, results of operations or cash ﬂows. We are evaluating the effects, if any, of the adoption of this revised
+guidance on our financial position, results of operations or cash ﬂows.
+In February 2015, the FASB issued ASU 2015-02, “Consolidation (Topic 810) —Amendments to the
+Consolidation Analysis,” which amends the criteria for determining which entities are considered VIEs, amends the
+criteria for determining if a service provider possesses a variable interest in a VIE and ends the deferral granted to
+investment companies for application of the VIE consolidation model. The guidance is effective for us for the year
+147

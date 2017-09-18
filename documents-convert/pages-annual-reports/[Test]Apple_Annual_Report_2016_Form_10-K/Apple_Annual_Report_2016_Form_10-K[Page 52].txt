@@ -1,0 +1,43 @@
+The Company’s valuation techniques used to measure the fair value of money market funds and certain marketable equity securities
+were derived from quoted prices in active markets for identical assets or liabilities. The valuation techniques used to measure the
+fair value of the Company’s debt instruments and all other financial instruments, all of which have counterparties with high credit
+ratings, were valued based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated
+by observable market data.
+In accordance with the fair value accounting requirements, companies may choose to measure eligible financial instruments and
+certain other items at fair value. The Company has not elected the fair value option for any eligible financial instruments.
+Foreign Currency Translation and Remeasurement
+The Company translates the assets and liabilities of its non-U.S. dollar functional currency subsidiaries into US. dollars using
+exchange rates in effect at the end of each period. Revenue and expenses for these subsidiaries are translated using rates that
+approximate those in effect during the period. Gains and losses from these translations are recognized in foreign currency translation
+included in AOCl in shareholders’ equity. The Company’s subsidiaries that use the U.S. dollar as their functional currency remeasure
+monetary assets and liabilities at exchange rates in effect at the end of each period, and inventories, property and nonmonetary
+assets and liabilities at historical rates.
+Note 2 — Financial Instruments
+Cash, Cash Equivalents and Marketable Securities
+The following tables show the Company’s cash and available-for-sale securities’ adjusted cost, gross unrealized gains, gross
+unrealized losses and fair value by significant investment category recorded as cash and cash equivalents or short- or long-term
+marketable securities as of September 24, 2016 and September 26, 2015 (in millions):
+2016
+Cash and Short-Term Long-Term
+Adjusted Unrealized Unrealized Fair Cash Marketable Marketable
+Cost Gains Losses Value Equivalents Securities Securities
+Cash 8 8,601 $ — $ — $ 8,601 $ 8,601 $ —7 7$ —7
+7Level1: 7
+7 Money market funds 3,666 _ _ 3,666 3,656 _ _ 7
+Mutual funds 1,407 — (146) 1,261 — 1,261 — '
+Subtotal 5,073 — (146) 4,927 3,666 1,261 —
+7Level2: 7
+US. Treasury securities 41,697 319 (4) 42,012 1,527 13,492 26,993
+U.S. agency Securities 7,543 16 — 7,559 2,762 2,441 2,356
+Non-U.S. government 7
+securities 7,609 259 (27) 7,841 110 818 6,913
+Certificates of deposit and 7
+time deposits 6,598 — — 6,598 1,108 3,897 1,593
+Commercial paper 7,433 — — 7,433 2,468 4,965 —
+Corporate securities 131,166 1,409 (206) 132,369 242 19,599 112,528
+Municipal securities 956 5 — 961 — 167 794
+7 Mortgage- and asset-backed 7
+securities 19,134 178 (28) 19,284 — 31 19,253
+Subtotal 7 222,1367 7 2,1867 7 (265)7 7 224,0577 7 8,2177 7 45,4107 7 170,4307
+' Total is 235,819 3 2,1867 3 (411) is 237,585 is 20,484 is 46,671 7 is 170,430;
+Apple Inc. | 2016 Form 10-K l 49

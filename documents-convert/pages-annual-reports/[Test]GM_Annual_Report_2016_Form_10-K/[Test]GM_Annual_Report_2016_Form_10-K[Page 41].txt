@@ -1,0 +1,42 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+to the decrease in discount rates partially offset by assumption changes, primarily the U.S. mortality improvement scale. At December 31, 2016 $2.9 billion of
+the unamortized pre-tax actuarial loss is outside the corridor (10% of the projected beneﬁt obligation (PBO)) and subject to amortization. The weighted-
+average amortization period is approximately twelve years resulting in amortization expense of $0.2 billion in 2017.
+The underfunded status of the U.S. pension plans decreased by $3.2 billion in the year ended December 31, 2016 to $7.2 billion due primarily to: (1) a
+favorable effect of actual returns on plan assets of $4.0 billion; (2) contributions of $2.1 billion; and (3) favorable assumption changes, primarily the U.S.
+mortality improvement scale of $0.9 billion; partially offset by (4) interest and service cost of $2.4 billion; and (5) an unfavorable effect due to a decrease in
+discount rates of $ 1 .5 billion.
+The following table illustrates the sensitivity to a change in certain assumptions for the pension plans, holding all other assumptions constant:
+U.S. Plans(a) Non-U.S. Plans(a)
+Effect on Effect on
+Effect on 2017 December 31, Effect on 2017 December 31,
+Pension Expense _ 2016 PBO _ Pension Expense _ 2016 PBO
+[25 basis point decrease in discount rate -$78 +$ 1,726 +$39 +$788l
+25 basis point increase in discount rate +$5 9 -$ 1,652 -$ 13 -$745
+[25 basis point decrease in expected rate of return on assets +$147 N/A +$31 N/Al
+25 basis point increase in expected rate of return on assets -$ 147 N/A -$31 N/A
+ﬁéfhreieinsiﬁvity does not include the effects of the individual annual yield curve rates applied for the calculation of the service cost and interest cost effective in 2016.
+Refer to Note 14 to our consolidated ﬁnancial statements for additional information on pension contributions, investment strategies, assumptions, the
+change in beneﬁt obligations and related plan assets, pension funding requirements and future net beneﬁt payments. Refer to Note 2 to our consolidated
+ﬁnancial statements for a discussion of the inputs used to determine fair value for each signiﬁcant asset class or category.
+Valuation of Deferred Tax Assets The ability to realize deferred tax assets depends on the ability to generate sufﬁcient taxable income within the
+carryback or carryforward periods provided for in the tax law for each applicable tax jurisdiction. The assessment regarding whether a valuation allowance is
+required or should be adjusted is based on an evaluation of possible sources of taxable income and also considers all available positive and negative
+evidence factors. Our accounting for the valuation of deferred tax assets represents our best estimate of ﬁJture events. Changes in our current estimates, due to
+unanticipated market conditions, governmental legislative actions or events, could have a material effect on our ability to utilize deferred tax assets.
+At December 31, 2016 total deferred tax assets were $40 billion and valuation allowances against those deferred tax assets were $4.6 billion. Refer to Note
+16 to our consolidated ﬁnancial statements for additional information on the composition of these valuation allowances.
+If law is enacted that reduces the U.S. statutory tax rate, we would record a signiﬁcant, one-time reduction to the net deferred tax assets and related increase
+to income tax expense in the period that includes the enactment date of the tax rate change.
+Valuation of GM Financial Equipment on Operating Leases Assets and Residuals GM Financial has investments in leased vehicles recorded as operating
+leases, which relate to vehicle leases to retail customers with lease terms ranging from two to ﬁve years. At the beginning of the lease contract a determination
+is made of the estimated realizable value (i.e., residual value) of the vehicle at the end of the lease term, which is the critical assumption underlying the
+estimated carrying value of leased assets. The estimated realizable value is based on the lower of the contracted residual value or the current market estimate
+of residual value based on independent lease guides. Since the customer is not obligated to purchase the vehicle at the end of the contract, GM Financial is
+exposed to a risk of loss to the extent the value of the vehicle at the end of the lease term is below the residual value estimated at contract inception. Over the
+life of the lease GM Financial evaluates the adequacy of the estimate of the residual value and may make adjustments to the extent the expected value of the
+vehicle at lease termination changes. Adjustments could result in a change in the depreciation rate of the leased asset or if an impairment exists, an
+impairment charge.
+The following table summarizes vehicles included in GM Financial equipment on operating leases, net (vehicles in thousands):
+3 8

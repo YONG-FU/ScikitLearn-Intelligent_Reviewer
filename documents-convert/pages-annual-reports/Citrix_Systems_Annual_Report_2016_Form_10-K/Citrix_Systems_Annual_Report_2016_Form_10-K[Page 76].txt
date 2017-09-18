@@ -1,0 +1,48 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Goodwill
+The Company accounts for goodwill in accordance with the authoritative guidance, which requires that goodwill and
+certain intangible assets are not amortized, but are subject to an annual impairment test. There was no impairment of goodwill
+or indefinite lived intangible assets as a result of the annual impairment analysis completed during the fourth quarters of 2016
+and 2015, respectively. The authoritative guidance provides entities with an option to perform a qualitative assessment to
+determine whether further quantitative impairment testing is necessary. The Company performed the qualitative assessment
+when it performed its goodwill impairment test in the fourth quarter of 2016. As a result of the qualitative analysis, no further
+quantitative impairment test was deemed necessary. See Note 3 for more information regarding the Company's acquisitions and
+Note 11 for more information regarding the Company's segments.
+As part of its continued transformation, effective January 1, 2016, the Company reorganized a part of its business by
+creating a new Cloud Services product grouping, which resulted in a change in segment composition. In connection with this
+change, during the first quarter of 2016, the Company performed an assessment of its goodwill reporting units and determined
+that the Cloud Services reorganization resulted in the identification of three goodwill reporting units (Enterprise and Service
+Provider excluding Cloud Services, Cloud Services and GoTo Business). The identification of these reporting units triggered a
+reallocation of goodwill as of January 1, 2016 based on the relative fair value approach, however no further quantitative
+impairment test was deemed necessary. The Company’s reportable segments remain unchanged.
+On January 31, 2017, CitriX completed the separation of the GoTo Business. As a result, the Company is reevaluating its
+operating segments in the first quarter of 20 17.
+The following table presents the change in goodwill allocated to the Company’s reportable segments during 2016 and
+2015 (in thousands):
+Balance at Balance at Balance at Balance at
+January 1, December January 1, December
+2016 Additions Other 31, 2016 2015 Additions Other 31, 2015
+Enterprise and
+Service Provider $ 1,581,805 (1) $ 4,713 (2) $ (625) (3) $ 1,585,893 $ 1,434,369 $ 61,641 $ (740) (5) $ 1,495,270
+GoTo Business 380,917 (1) — — 380,917 362,482 104,970 — 467,452
+Consolidated $ 1,962,722 $ 4,713 $ (625) $ 1,966,810 $ 1,796,851 $ 166,611 (4) $ (740) $1,962,722
+(1) Beginning balance as of January 1, 2016 adjusted to reﬂect the Company’s re-alignment of its reporting unit structure. The
+change resulted in a goodwill reallocation of $86.5 million from the GoTo Business segment into the Enterprise and
+Service Provider segment.
+(2) Amount relates to preliminary purchase price allocation of goodwill associated with the 2016 business combination. See
+Note 3 for more information regarding the Company's acquisitions.
+(3) Amount relates to goodwill associated with the sale of the Company’s CloudPlatform and CloudPortal Business Manager
+products and to adjustments to the preliminary purchase price allocation associated with 2015 acquisitions. See Note 3 for
+more information regarding the Company's acquisitions and divestitures.
+(4) Amount primarily relates to 2015 acquisitions. See Note 3 for more information regarding the Company’s acquisitions.
+(5) Amount primarily relates to adjustments to purchase price allocations for certain acquisitions.
+Intangible Assets
+The Company has intangible assets which were primarily acquired in conjunction with business combinations and
+technology purchases. Intangible assets with finite lives are recorded at cost, less accumulated amortization. Amortization is
+computed over the estimated useful lives of the respective assets, generally three to seven years, except for patents, which are
+amortized over the lesser of their remaining life or ten years. In-process R&D is initially capitalized at fair value as an
+intangible asset with an indefinite life and assessed for impairment thereafter. When in-process R&D projects are completed,
+the corresponding amount is reclassified as an amortizable intangible asset and is amortized over the asset's estimated useful
+life.
+F-10

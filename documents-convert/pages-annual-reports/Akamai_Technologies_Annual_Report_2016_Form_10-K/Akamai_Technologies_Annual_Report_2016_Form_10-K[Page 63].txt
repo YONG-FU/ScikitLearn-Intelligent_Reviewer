@@ -1,0 +1,50 @@
+In March 2016, the FASB issued guidance that is intended to simplify aspects of how share-based payments are accounted
+for and presented in financial statements. This guidance requires that entities record all tax effects of share-based payments at
+settlement or expiration through the income statement. The standard also amends how windfall tax benefits are recognized, the
+minimum statutory tax withholding requirements and how entities elect to recognize share-based payment forfeitures. In addition,
+this guidance impacts the presentation of cash flows related to excess tax benefits by no longer requiring separate presentation as
+a financing activity apart from other operating income tax cash ﬂows. This guidance was effective for the Company beginning on
+January 1, 2017. Upon adoption on a prospective basis, the Company is recognizing excess tax benefits in its provision for
+income taxes rather than as additional paid—in capital. In addition, the Company expects to adopt the presentation requirements
+related to the excess tax benefit in its cash ﬂows on a retrospective basis, which will result in an increase to cash ﬂows from
+operating activities of $5.5 million and $29.3 million with a corresponding decrease to cash ﬂows from financing activities for the
+years ended December 31, 2016 and 2015, respectively. Finally, the Company expects to continue estimating forfeitures in
+determining the amount of compensation cost.
+In June 2016, the FASB issued guidance that introduces a new methodology for accounting for credit losses on financial
+instruments, including available—for-sale debt securities. The guidance establishes a new "expected loss model" that requires
+entities to estimate current expected credit losses on financial instruments by using all practical and relevant information. Any
+expected credit losses are to be reﬂected as allowances rather than reductions in the amortized cost of available-for-sale debt
+securities. This guidance will be effective for the Company on January 1, 2020. The Company is evaluating the potential impact
+of adopting this new accounting guidance on its consolidated financial statements.
+In October 2016, the FASB issued guidance that requires an entity to recognize the income tax consequences of an intra—
+entity transfer of an asset other than inventory when the transfer occurs. This guidance will be effective for the Company on
+January 1, 2018 and is to be applied on a modified retrospective basis through a recognizing cumulative-effect adjustment as a
+component of equity as of the date of adoption. The Company is evaluating the potential impact of adopting this new accounting
+guidance on its consolidated financial statements.
+3. Fair Value Measurements
+The following is a summary of available-for-sale marketable securities held as of December 31, 2016 and 2015 (in
+thousands):
+Classification on Balance
+Gross Unrealized Sheet
+7 7 7 Short-Term Long-Term 7
+Amortized Aggregate Marketable Marketable
+As of December 31, 2016 Cost Gains Losses Fair Value Securities Securities
+Commercial paper $ 40,965 $ * * $ (45) $ 40,920 $ 40,920 $ * *
+Corporate bonds 984,650 123 (3,697) 981,076 418,495 562,5 81
+US. government agency obligations 267,473 35 (1,366) 266,142 53,157 212,985
+is 1,293,088 i is 158 i is (5,108): is 1,288,138 i is 512,572 i is 775,566 i
+As of December 31, 2015
+Commercial paper $ 2,491 $ * * $ (4) $ 2,487 $ 2,487 $ * *
+Corporate bonds 995,100 73 (3,365) 991,808 432,585 559,223
+US. government agency obligations 239,587 41 (575) 239,053 25,016 214,037
+i$ 1,237,178 i i$ 114 i i$ (3,944) i$ 1,233,348 i i$ 460,088 i$ 773,260
+The Company offers certain eligible employees the ability to participate in a non-qualified deferred compensation
+plan. The mutual funds held by the Company that are associated with this plan are classified as restricted trading securities.
+These securities are not included in the available-for-sale securities table above but are included in marketable securities in the
+consolidated balance sheets.
+Unrealized gains and unrealized temporary losses on investments classified as available-for-sale are included within
+accumulated other comprehensive loss in the consolidated balance sheets. Upon realization, those amounts are reclassified from
+accumulated other comprehensive loss to interest income in the consolidated statements of income. As of December 31, 2016,
+the Company held for investment corporate bonds with a fair value of $13.8 million, which are classified as available—for-sale
+marketable securities and have been in a continuous unrealized loss position for more than 12 months. The unrealized losses are
+6 1

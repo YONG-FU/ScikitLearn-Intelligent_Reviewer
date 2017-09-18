@@ -1,0 +1,34 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Bank loans and other consists primarily of loans with certain banks in Brazil. We estimated the fair value of these bank loans, as well as the fair value of
+our equipment ﬁnancing facility and spectrum ﬁnancing in Brazil, utilizing inputs such as US. Treasury security yield curves, prices of comparable bonds,
+LIBOR, US. Treasury bond rates and credit spreads on comparable publicly traded bonds. We consider Nextel Brazil's equipment ﬁnancing facility, spectrum
+ﬁnancing and its bank loans and other to be Level 3 in the fair value hierarchy.
+Derivative Instruments.
+We occasionally enter into derivative transactions for risk management purposes. We have not and will not enter into any derivative transactions for
+speculative or proﬁt generating purposes. We record all derivative instruments as either assets or liabilities on our consolidated balance sheet at their fair
+value. As of December 31, 2016 and 2015, Nextel Brazil had an immaterial amount of derivative instruments that we classiﬁed as short-term investments in
+our consolidated balance sheets. We consider this measurement to be Level 3 in the fair value hierarchy. Nextel Brazil entered into foreign currency option
+agreements to manage the foreign currency exposures associated with the forecasted purchase of handsets and other U.S. dollar-denominated payments. We
+do not apply hedge accounting to these derivative instruments. As a result, we have included all changes in the fair value of these instruments as a
+component of other expense, net in our consolidated statement of comprehensive (loss) income. For the year ended December 31, 2016, Nextel Brazil
+recognized $3 .3 million in net realized losses, resulting from the changes in estimated fair value of these derivative instruments. Unrealized losses recognized
+during 2016 were not material. For the six months ended December 31, 2015 and June 30, 2015, Nextel Brazil recognized $5.2 million and $6.3 million in
+net realized gains, respectively, resulting from the changes in the estimated fair value of these derivative instruments. The gains and losses we recognized in
+the year ended December 31, 2014 were not material. In addition, for the six months ended December 31, 2015 and June 30, 2015, Nextel Brazil recorded an
+immaterial amount of unrealized losses resulting from the changes in the estimated fair value of these derivative instruments.
+Other Financial Instruments.
+The carrying values of cash and cash equivalents, accounts receivable and accounts payable contained in our consolidated balance sheets approximate
+their fair values due to the short-term nature of these instruments.
+9. Commitments and Contingencies
+Capital and Operating Lease Commitments.
+We have co-location capital lease obligations on some of our transmitter and receiver sites in Brazil. See Note 7 for further information regarding these
+agreements.
+We lease various cell sites, ofﬁce facilities and other assets under operating leases. Some of these leases provide for annual increases in our rent
+payments based on changes in locally-based consumer price indices. The remaining terms of our cell site leases range from less than one to ﬁfteen years and
+are generally renewable for additional terms. The remaining terms of our ofﬁce leases range from less than one to ten years. For the year ended December 31,
+2016, total rent expense under operating leases was $164.6 million. In addition, during the six months ended December 31, 2015, the six months ended June
+30, 2015 and the year ended December 31, 2014, total rent expense under operating leases was $76.4 million, $93 .4 million and $229.7 million, respectively.
+For years subsequent to December 31, 2016, future minimum payments for all capital and operating lease obligations that have initial or remaining
+noncancelable lease terms exceeding one year, net of rental income, are as follows (in thousands):
+F—32

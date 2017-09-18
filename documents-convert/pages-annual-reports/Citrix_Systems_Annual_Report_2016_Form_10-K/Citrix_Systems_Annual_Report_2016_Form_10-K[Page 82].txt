@@ -1,0 +1,49 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+3. ACQUISITIONS AND DIVESTITURES
+2016 Business Combination
+On September 7, 2016, the Company acquired all of the issued and outstanding securities of a privately held company.
+The acquisition provides a software solution that cuts the cost of desktop and application Virtualization and delivers workspace
+performance by accelerating desktop logon and application response times for any Microsoft Windows-based environment. The
+acquired company became part of the Company’s Enterprise and Service Provider segment. The total cash consideration for
+this transaction was approximately $11.5 million, net of $0.8 million cash acquired. Transaction costs of $0.4 million are
+presented within General and administrative expense in the accompanying consolidated statements of income. The assets
+related to this acquisition relate primarily to $8.2 million of product technology identifiable intangible assets with a 4 year life
+and goodwill of $4.7 million.
+201 6 Asset Acquisition
+On January 8, 2016, the Company acquired certain monitoring technology assets from a privately-held company for total
+cash consideration of $23.6 million. The acquisition provides a monitoring solution for Citrix's products as it relates to
+Microsoft Windows applications and desktop delivery. The identifiable intangible assets acquired related primarily to product
+technologies.
+2016 Divestiture
+On February 29, 2016, the Company sold its CloudPlatform and CloudPortal Business Manager products to Persistent
+Telecom Solutions, Inc. The agreement included contingent consideration in the form of an earnout provision based on revenue
+for a period of five years following the closing date. Any income associated with the contingent consideration will be
+recognized if the earnout provisions are met. No earnout provisions were met during the year ended December 31, 2016.
+2015 Acquisitions
+Sanbolic
+On January 8, 2015, the Company acquired all of the issued and outstanding securities of Sanbolic, Inc. (“Sanbolic”). The
+Company expected the Sanbolic technology would reduce the complexity of Microsoft Windows application delivery and
+desktop Virtualization deployments. Sanbolic became part of the Company's Enterprise and Service Provider segment. The total
+cash consideration for this transaction was approximately $89.4 million, net of $0.2 million cash acquired. Transaction costs
+associated with the acquisition were $0.5 million, of which the Company expensed $0.3 million during the year ended
+December 31, 2015, and are included in General and administrative expense in the accompanying consolidated statements of
+income. In addition, in connection with the acquisition, the Company assumed non-vested stock units which were converted
+into the right to receive, in the aggregate, up to 37,057 shares of the Company's common stock, for which the vesting period
+began on the closing of the transaction. During the fourth quarter of 2015, management performed a comprehensive operational
+review which included an evaluation of all of the Company's products. In connection with this review, management determined
+that the Sanbolic technology was a non-core solution and that the related product offerings will no longer be developed. As a
+result, the Company impaired the remaining carrying value of the intangible assets related to this acquisition in the fourth
+quarter of 2015.
+Grasshopper
+On May 18, 2015, the Company acquired all of the membership interests of Grasshopper Group, LLC (“Grasshopper”), a
+leading provider of cloud-based phone solutions for small businesses. With the acquisition, the Company will expand its
+breadth of communication and collaboration solutions for small businesses, including GoToMeeting, GoToTraining,
+GoToWebinar and OpenVoice. Grasshopper became part of the GoTo Business segment. Total cash consideration for this
+transaction was approximately $161.5 million, net of $3.6 million cash acquired. Transaction costs associated with the
+acquisition were $0.3 million, all of which the Company expensed during the year ended December 31, 2015 and are included
+in General and administrative expense in the accompanying consolidated statements of income. In addition, in connection with
+the acquisition, the Company assumed non-vested stock units which were converted into the right to receive, in the aggregate,
+up to 105,765 shares of the Company's common stock, for which the vesting period commenced on the closing of the
+transaction.
+F-16

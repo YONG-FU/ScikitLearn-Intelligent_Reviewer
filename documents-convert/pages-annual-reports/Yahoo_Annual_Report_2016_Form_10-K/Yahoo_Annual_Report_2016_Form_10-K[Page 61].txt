@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+payments are expensed ratably over the term the ﬁxed payment covers or as trafﬁc is delivered. We have an agreement to compensate Mozilla for making us
+the default search provider on certain of Mozilla’s products in the United States. We record those payments as cost of revenue—TAC. Additionally, pursuant to
+the Eleventh Amendment to the Microsoft Search Agreement, we now record amounts paid to Affiliates under the Microsoft Search Agreement in transitioned
+markets as cost of revenue—TAC rather than as a reduction to revenue.
+The following table presents cost of revenue—TAC and those expenses as a percentage of revenue for the periods presented (dollars in thousands):
+Years Ended December 31,
+2014 27015 27016
+90$t 0f reVenue—TAC $_2_1_7_.5_3_1 $_8_7_7_,5_1:1 $4,550,185 |
+Cost of revenue—TAC as a percentage of revenue 5% 18% 32%
+Cost of revenue—TAC for the year ended December 31, 2016 increased $773 million, or 88 percent, compared to 2015, primarily due to the change in revenue
+presentation related to the implementation of the Eleventh Amendment to the Microsoft Search Agreement that took place in the second quarter of 2016 for
+which we now record amounts paid to Afﬁliates in transitioned markets as cost of revenue—TAC rather than as a reduction to GAAP revenue, resulting in
+revenue from the Microsoft Search Agreement being reported on a gross rather than net basis. The revenue and TAG increase from the change in revenue
+presentation was $812 million for the year ended December 31, 2016. See “Signiﬁcant Transactions—Microsoft Search Agreement” above for further detail. For
+the year ended December 31, 2016, excluding the impact of the change in revenue presentation, TAC decreased $39 million or 4 percent. The decline in cost of
+revenue—TAC for the year ended December 31, 2016 was attributable to declines in display TAC of $113 million and TAG associated with the Mozilla
+Agreement of $40 million due to an amendment entered into in the third quarter of 2016. This was partially offset by an increase in search TAC primarily from
+Yahoo Gemini.
+Cost of revenue—TAC for the year ended December 31, 2015 increased $660 million, or 303 percent, compared to 2014, primarily due to increased payments to
+distribution partners (including Mozilla which contributed $375 million) as well as increased TAC associated with Yahoo Gemini, and incremental TAC from the
+BrightRoll acquisition.
+Cost of Revenue—Other
+Cost of revenue—other consists of bandwidth costs, stock-based compensation, content and other expenses associated with the production and usage of Yahoo
+Properties, including content expense and amortization of developed technology and patents. Cost of revenue—other also includes costs for Yahoo’s technology
+platforms and infrastructure, including depreciation expense and other operating costs, directly related to revenue generating activities.
+The following table presents cost of revenue—other and those expenses as a percentage of revenue for the periods presented (dollars in thousands):
+Years Ended December 31,
+2014 2015 2016
+post of revenue—other $ 1,169,855 $ 1,200,234 $ 1,068,108 I
+Cost of revenue—other as a percentage of revenue 25% 24% 21%
+60

@@ -1,0 +1,28 @@
+SECTION 2.03 Igpayment of Loans . The Borrower shall repay to the Administrative Agent for the ratable account of each applicable Lender on
+the Three-Year Maturity Date the unpaid principal amount of the Three-Year Loans of such Lender then outstanding. The Borrower shall repay to the
+Administrative Agent for the ratable account of each applicable Lender on the F ive-Year Maturity Date the unpaid principal amount of the F ive-Year Loans of such
+Lender then outstanding.
+SECTION 2.04 Interest on Loans .
+(a) Scheduled Interest . The Borrower shall pay interest on the unpaid principal amount of each Loan owing by the Borrower to each Lender from
+the date of such Loan until such principal amount shall be paid in full, at the following rates per annum:
+(i) Base Rate Loans . During such periods as such Loan is a Base Rate Loan, a rate per annum equal at all times to the sum of (1) the Base Rate in
+effect from time to time plus (2) the Applicable Interest Rate Margin in effect from time to time, payable in arrears quarterly on the last Business Day of each
+March, June, September and December, and on the date such Base Rate Loan shall be Converted or paid in full either prior to or on the applicable Maturity
+Date.
+(ii) LIBO Rate Loans . During such periods as such Loan is a LIBO Rate Loan, a rate per annum equal at all times during each Interest Period for
+such Loan to the sum of (X) the LIBO Rate for such Interest Period for such Loan plus (y) the Applicable Interest Rate Margin in effect from time to time,
+payable in arrears on the last day of such Interest Period and, if such Interest Period has a duration of more than three months, on each day that occurs during
+such Interest Period every three months from the first day of such Interest Period, and on the date such LIBO Rate Loan shall be Converted or paid in full
+either prior to or on the applicable Maturity Date.
+(b) Default,Interest,. If any principal of or interest on any Loan or any fee or other amount payable by the Borrower hereunder is not paid when due,
+whether at stated maturity, upon acceleration or otherwise, such overdue amount shall bear interest, after as well as before judgment, payable in arrears on the dates
+referred to in Section 2.04(a)(i) or Section 2.04(a)(ii), as applicable, at a rate per annum equal at all times to (i) in the case of overdue principal of any Loan, 1% per
+annum above the rate per annum otherwise required to be paid on such Loan as provided in Section 2.04(a) or (ii) in the case of any other amount, 1% per annum
+plus the rate applicable to Base Rate Loans as provided in Section 2.04(a)(i).
+SECTION 2.05 Additionaljnterest,on,LIBOLRateLoans,. The Borrower shall pay to each Lender, so long as such Lender shall be required under
+regulations of the Board to maintain reserves with respect to liabilities or assets consisting of or including Eurocurrency Liabilities, additional interest on the unpaid
+principal amount of each LIBO Rate Loan of such Lender to the Borrower, from the date of such Loan until such principal amount is paid in full, at an interest rate
+per annum equal at all times to the remainder obtained by subtracting (i) the LIBO Rate for the Interest Period for such Loan from (ii) the rate obtained by dividing
+such LIBO Rate by a percentage equal to 100% minus the Eurocurrency Rate Reserve Percentage of such Lender for such Interest Period, payable on each date on
+which interest is payable on such Loan. Such additional interest shall be determined by such Lender and notified to Mondeléz through the Administrative Agent.
+-17-

@@ -1,0 +1,47 @@
+The successful operation of our business depends upon the performance and reliability of the Internet infrastructure in
+China and other countries in which we operate.
+Our business depends on the performance and reliability of the Internet infrastructure in China and other
+countries in which we operate. Almost all access to the Internet in China is maintained through state-owned
+telecommunication operators under the administrative control and regulatory supervision of the Ministry of
+Industry and Information Technology of China. In addition, the national networks in China are connected to the
+Internet through state-owned international gateways, which are the only channels through which a domestic user
+can connect to the Internet outside of China. We may not have access to alternative networks in the event of
+disruptions, failures or other problems with the Internet infrastructure in China or elsewhere. In addition, the
+Internet infrastructure in the countries in which we operate may not support the demands associated with
+continued growth in Internet usage.
+The failure of telecommunications network operators to provide us with the requisite bandwidth could also
+interfere with the speed and availability of our websites. We have no control over the costs of the services provided
+by the telecommunications operators. If the prices that we pay for telecommunications and Internet services rise
+significantly, our gross margins could be adversely affected. In addition, if Internet access fees or other charges to
+Internet users increase, our user traffic may decrease, which in turn may significantly decrease our revenues.
+Our ecosystem could be disrupted by network interruptions.
+Our ecosystem depends on the efficient and uninterrupted operation of our computer and communications
+systems. Substantially all of our computer hardware and our cloud computing services are currently located in
+China. In addition, a large number of merchants maintain their enterprise resource planning, or ERP, and
+customer relationship management, or CRM, systems on our cloud computing platform, which contains substantial
+quantities of data relating to their accounts, transaction data, consumer information and other data that enables
+merchants to operate and manage their businesses. Increasing media and entertainment content on our
+marketplaces and website also require additional network capacity and infrastructures to process. Consumers
+expect our media and entertainment content to be readily available online, and any disruptions or delay to the
+delivery of content could affect the attractiveness and reputation of our media and entertainment content platform.
+Although we have prepared for contingencies through redundancy measures and disaster recovery plans and also
+carry business interruption insurance, these preparations and insurance coverage may not be sufficient. Despite any
+precautions we may take, the occurrence of a natural disaster, such as an earthquake, ﬂood or fire, or other
+unanticipated problems at our facilities or the facilities of Ant Financial Services, Cainiao Network and other
+participants in our ecosystem, including power outages, system failures, telecommunications delays or failures,
+construction accidents, break-ins to information technology systems or computer viruses, could result in delays or
+interruptions to our platforms, loss of our, consumers’ and customers’ data and business interruption for us and
+our customers. Any of these events could damage our reputation, significantly disrupt our operations and the
+operations of the merchants and other participants in our ecosystem and subject us to liability, which could
+materially and adversely affect our business, financial condition and results of operations.
+If third-party logistics service providers used by our merchants fail to provide reliable logistics services, or the logistics
+data platform operated by Cainiao Network were to malfunction, suffer an outage or otherwise fail, our business and
+prospects, as well as our ﬁnancial condition and results of operations, may be materially and adversely affected.
+Our merchants use third-party logistics service providers to fulfill and deliver their orders. Cainiao Network
+cooperates with a number of third-party logistics service providers to help merchants on our platforms fulfill orders
+and deliver their products to consumers. Cainiao Network operates a logistics data platform that links our
+information system and those of logistics service providers. Interruptions to or failures in these third-parties’
+logistics services, or in Cainiao Network’s logistics data platform, could prevent the timely or proper delivery of
+products to consumers, which would harm the reputation of our marketplaces and our ecosystem. These
+interruptions may be due to events that are beyond our control or the control of Cainiao Network or these
+18

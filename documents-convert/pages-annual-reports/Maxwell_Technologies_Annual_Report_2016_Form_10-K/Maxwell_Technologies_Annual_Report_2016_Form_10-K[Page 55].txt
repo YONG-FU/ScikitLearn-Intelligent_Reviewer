@@ -1,0 +1,54 @@
+MAXWELL TECHNOLOGIES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands)
+Years Ended December 31,
+2016 2015 2014
+Operating activities:
+INet loss 3; (23,705) $ (22,333) $ (6,272) I
+Adjustments to reconcile net loss to net cash from operating activities:
+I Depreciation 9,871 11,385 11,159 I
+Amortization of intangible assets — 166 203
+I Loss on lease due to restructuring 87 1,043 — I
+Pension cost 635 412 319
+I Stock-based compensation expense 5,364 3,946 3,967 I
+Gain on sale of property and equipment (131) — —
+I Impairment of property and equipment 1,389 — — I
+Gain on sale of product line (6,657) — —
+I Unrealized loss (gain) on foreign currency exchange rates 63 1,631 (2,126) I
+Release of tax valuation allowance — (170) —
+I Release oftax liability (1,518) — — I
+Provision for (release of) allowance on accounts receivable (106) 281 20
+I Provision for losses on inventory 397 541 910 I
+Provision for warranties 383 1,327 717
+I Changes in operating assets and liabilities: I
+Trade and other accounts receivable 20,085 315 (15,100)
+I Inventories (4,956) 5,251 (1,520) I
+Prepaid expenses and other assets (372) (35) (79)
+I Pension asset (584) (650) (724) I
+Accounts payable and accrued liabilities (14,884) 5,031 144
+I Deferred revenue and customer deposits 630 2,362 46 I
+Accrued employee compensation (1,478) (2,670) 651
+I Deferred tax liability 1,957 2,017 2,250 I
+Other long-term liabilities (827) (470) (728)
+I Net cash provided by (used in) operating activities (14,357) _ 9,380 — (6,163) I
+Investing activities: — —
+I Purchases of property and equipment (5,956) (4,143) (6,975) I
+Proceeds from sale of property and equipment 133 — —
+I Proceeds from sale of product line 20,486 — — I
+Net cash provided by (used in) investing activities 14,663 _ (4,143) _ (6,975)
+IF inancing activities: — — I
+Principal payments on long-term debt and short-term borrowings (45) (18,845) (7,164)
+I Proceeds from long-term debt and short-term borrowings — 3,040 15,279 I
+Proceeds from sale of common stock, net of offering costs — 9,564 —
+I Proceeds from issuance of common stock under equity compensation plans 841 875 1,448 I
+Net cash provided by (used in) financing activities 796 — (5,366) — 9,563
+IEffect of exchange rate changes on cash, cash equivalents and restricted cash (525) — 179 — (2,340) I
+Increase (decrease) in cash, cash equivalents and restricted cash 577 — 50 — (5,915)
+ICash, cash equivalents and restricted cash, beginning of period 24,782 24,732 30,647 I
+Cash, cash equivalents and restricted cash at end of year $ 25,359 — $ 24,782 — $ 24,732
+I Cash paid for: i it it I
+Interest $ 75 $ 245 $ 223
+I Income taxes 33 2,551 $ 3,475 $ 3,304 I
+Supplemental schedule of noncash investing and financing activities:
+I Purchases of property and equipment included in accounts payable and accrued liabilities $ 181 $ 345 $ 889 I
+Amounts in escrow related to sale of product line $ 1,500 $ — $ —
+The accompanying notes are an integral part of these consolidated financial statements.

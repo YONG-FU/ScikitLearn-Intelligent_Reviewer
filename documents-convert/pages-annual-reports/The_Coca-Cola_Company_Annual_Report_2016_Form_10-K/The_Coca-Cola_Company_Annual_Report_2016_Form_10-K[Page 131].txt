@@ -1,0 +1,51 @@
+Gross realized and unrealized gains and losses on Level 3 assets and liabilities were not signiﬁcant for the years ended
+December 31, 2016 and 2015.
+The Company recognizes transfers between levels within the hierarchy as of the beginning of the reporting period. Gross
+transfers between levels within the hierarchy were not significant for the years ended December 31, 2016 and 2015.
+Nonreeurring Fair Value Measurements
+In addition to assets and liabilities that are recorded at fair value on a recurring basis, the Company records assets and liabilities
+at fair value on a nonrecurring basis as required by accounting principles generally accepted in the United States. Generally,
+assets are recorded at fair value on a nonrecurring basis as a result of impairment charges.
+The gains or losses on assets measured at fair value on a nonrecurring basis are summarized in the table below (in millions):
+7 Gains (Losses) 7
+iDecember 31, 2016 2015 7
+Assets held for sale1 $ (2,264) $ (980)
+Intangible assets (153) 2 (473) 3
+Investment in formerly unconsolidated subsidiary — (19) 4
+Valuation of shares in equity method investee — (6) 5
+Total $ (2,417) $ (1,478)
+1 The Company is required to record assets and liabilities that are held for sale at the lower of carrying value or fair value less any costs to
+sell based on the agreed-upon sale price. These losses related to refranchising activities in North America. The charges were calculated
+based on Level 3 inputs. Refer to Note 2.
+2 The Company recognized losses of $153 million during the year ended December 31, 2016 due to impairment charges on certain intangible
+assets. The charges incurred during 2016 included $143 million related to the impairment of certain U.S. bottlers' franchise rights. This
+charge was related to a number of factors, primarily as a result of lower operating performance compared to previously modeled results as
+well as a revision in management's view of the proceeds that may be ultimately received upon refranchising the territory. The 2016 losses
+also included a $10 million goodwill impairment charge, primarily the result of management's revised outlook on market conditions. The
+charges were determined by comparing the fair value of the assets to the current carrying value. The fair value of the assets was derived
+using discounted cash ﬂow analyses based on Level 3 inputs. Refer to Note 17.
+3 The Company recognized losses of $473 million during the year ended December 31, 2015 due to impairment charges on certain intangible
+assets. The charges incurred during 2015 included $418 million of impairment charges primarily due to the discontinuation of the energy
+products in the glace’au portfolio as a result of the Monster Transaction and a $55 million impairment charge on a Venezuelan trademark.
+The charges were determined by comparing the fair value of the assets to the current carrying value. The fair value of the assets was
+derived using discounted cash ﬂow analyses based on Level 3 inputs. Refer to Note 1, Note 2 and Note 17.
+4 The Company recognized a loss of $19 million on our previously held investment in a South African bottler, which had been accounted for
+under the equity method of accounting prior to our acquisition of the bottler in February 2015. US. GAAP requires the acquirer to
+remeasure its previously held noncontrolling equity interest in the acquired entity to fair value as of the acquisition date and recognize any
+gains or losses in earnings. The Company remeasured our equity interest in the South African bottler based on Level 3 inputs. Refer to
+Note 2.
+5 In 2014, the Company recognized an estimated loss of $32 million as a result of the owners of the majority interest in a Brazilian bottling
+entity exercising their option to acquire from us a 10 percent interest in the entity's outstanding shares. The exercise price was lower than
+our carrying value. The transaction closed in January 2015, and the Company recorded an additional loss of $6 million during the year
+ended December 31, 2015, calculated based on the final option price. These losses were determined using Level 3 inputs. Refer to Note 2
+and Note 17.
+Fair Value Measurements for Pension and Other Postretirement Beneﬁt Plans
+The fair value hierarchy discussed above is not only applicable to assets and liabilities that are included in our consolidated
+balance sheets but is also applied to certain other assets that indirectly impact our consolidated financial statements. For
+example, our Company sponsors and/or contributes to a number of pension and other postretirement benefit plans. Assets
+contributed by the Company become the property of the individual plans. Even though the Company no longer has control over
+these assets, we are indirectly impacted by subsequent fair value adjustments to these assets. The actual return on these assets
+impacts the Company's future net periodic benefit cost, as well as amounts recognized in our consolidated balance sheets. Refer
+to Note 13. The Company uses the fair value hierarchy to measure the fair value of assets held by our various pension and other
+postretirement benefit plans.
+129

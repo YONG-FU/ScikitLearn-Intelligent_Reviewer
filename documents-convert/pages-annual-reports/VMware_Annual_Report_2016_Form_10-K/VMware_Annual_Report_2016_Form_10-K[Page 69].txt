@@ -1,0 +1,45 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+retrospective transition method. The Company is currently evaluating the effect that the updated standard will have on its consolidated financial statements and
+related disclosures.
+B. Related Parties
+The information provided below includes a summary of the transactions entered into with Dell and Dell’s consolidated subsidiaries including EMC
+(collectively, “Dell”) from the effective date of the Dell Acquisition through December 31, 2016. Transactions prior to the effective date of the Dell Acquisition
+represent transactions only with EMC and its consolidated subsidiaries.
+During the fourth quarter of 20 14, Dell acquired the controlling interest in VCE Company LLC (“VCE”). Transactions with VCE from the acquisition date
+have been included in the tables below.
+Transactions with Dell
+VMware and Dell engaged in the following ongoing intercompany transactions, which resulted in revenue and receipts and unearned revenue for VMware:
+- Pursuant to ongoing reseller arrangements with Dell, Dell bundles VMware’s products and services with Dell’s products and sells them to end users.
+Reseller revenue is presented net of related marketing development funds and rebates paid to Dell.
+0 Dell purchases products and services from VMware for internal use.
+0 VMware provides professional services to end users based upon contractual agreements with Dell.
+0 Pursuant to an ongoing distribution agreement, VMware acts as the selling agent for certain products and services of Pivotal Software, Inc. (“Pivotal”), a
+subsidiary of Dell, in exchange for an agency fee. Under this agreement, cash is collected from the end user by VMware and remitted to Pivotal, net of the
+contractual agency fee.
+0 VMware provides various services to Pivotal. Support costs incurred by VMware are reimbursed to VMware and are recorded as a reduction to the costs
+incurred by VMware.
+Information about VMware’s revenue and receipts from such arrangements during the years ended December 31, 2016 , 2015 and 2014 and unearned revenue
+from such arrangements at December 31, 2016 and 2015 consisted of the following (table in millions):
+Revenue and Receipts Unearned Revenue
+For the Year Ended December 31, As of December 31,
+2016 2015 2014 2016 2015
+] Reseller revenue as 508 $ 301 $ 205 $ 637 s 292 l
+Internal-use revenue 35 17 21 15 1 1
+I Professional services revenue 115 100 85 — 3 ‘
+Agency fee revenue 4 6 5 — —
+l Reimbursement for services to Pivotal 1 4 2 n/a n/a ‘
+VMware and Dell engaged in the following ongoing intercompany transactions, which resulted in costs to VMware:
+° VMware purchases and leases products and purchases services from Dell.
+0 From time to time, VMware and Dell enter into agreements to collaborate on technology projects, and VMware pays Dell for services provided to
+VMware by Dell related to such projects.
+0 In certain geographic regions where VMware does not have an established legal entity, VMware contracts with Dell subsidiaries for support services and
+Dell personnel who are managed by VMware. The costs incurred by Dell on VMware’s behalf related to these employees are charged to VMware with a
+mark-up intended to approximate costs that would have been incurred had VMware contracted for such services with an unrelated third party. These costs
+are included as expenses on VMware’s consolidated statements of income and primarily include salaries, beneﬁts, travel and rent expenses. Dell also
+incurs certain administrative costs on VMware’s behalf in the United States that are recorded as expenses on VMware’s consolidated statements of
+income.
+0 From time to time, VMware invoices end users on behalf of Dell for certain services rendered by Dell. Cash related to these services is collected from the
+end user by VMware and remitted to Dell.
+66

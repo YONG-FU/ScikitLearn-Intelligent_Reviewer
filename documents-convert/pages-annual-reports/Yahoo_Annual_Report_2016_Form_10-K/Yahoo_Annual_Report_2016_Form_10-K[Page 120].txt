@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+The following table sets forth the ﬁnancial assets and liabilities, measured at fair value, by level within the fair value hierarchy as of December 31, 2016 (in
+thousandsy
+Fair Value Measurements at Reporting Date Using
+Assets Level 1 Level 2 Level 3 Total
+Money market funds (1) 8 315,286 $ — $ — $ 315,285 I
+Available—for—sale marketable debt securities:
+| Government and agency securities (1) __ _ 619,184 _ 619,455; |
+Commercialp_aper and bank certiﬁcates of deposit (1) — 3,908,971 — 8,008,971
+| Corporate debt securities (1) _ 3,_1_32,_1_7_7 _ 3,_1_32,_1_7_7 |
+Time deposits (1) — 3_8,5_9_8 — 3_8,5_9_8
+Ilﬂaﬂaible-ifogsaieieqlgtyisecuﬂtieis: l
+qther corporate equ_ity securities (2) 5,1_0_5 — — 5_,1_0_5
+| Alibaba Groupgqtﬂy securitiGS 33,680,819 — — 3_3,6_8_0,8_7_9 l
+8 Hortonworks equ_ity securities (2) 31,989 — — 31,859
+Hortonworks warrants — — 28,815 28,8_1_5 l
+Foreign currency: derivative contracts (3) — 11,684 — 11,684
+| Financial assets at fair value 8 35,093,229 $ 6,851,915 $ 28,815 $ 40,863,958 l
+Liabmties i , ,
+Foreign currency derivative contracts (3) _ @333) _ (Q3334
+Total ﬁnancial assets and liabilities at fair value 8 34,093,229 8 6,832,581 8 28,815 8 40,954,625:
+(1) The money market funds, government and agency securities, commercial paper and bank certiﬁcates of deposit, corporate debt securities, and time
+deposits are classiﬁed as part of either cash and cash equivalents or short or long-term marketable securities on the consolidated balance sheets.
+(2) The Hortonworks equity securities and other corporate equity securities are classiﬁed as part of other long-term assets and investments on the
+consolidated balance sheets.
+(3) Foreign currency derivative contracts are classiﬁed as part of either current or noncurrent assets or liabilities on the consolidated balance sheets. The
+notional amounts of the foreign currency derivative contracts were: $1.5 billion, including contracts designated as net investment hedges of $1.2 billion,
+as of December 31, 2015; and $0.6 billion, including contracts designated as net investment hedges of $0.2 billion, as of December 31, 2016.
+The amount of cash included in cash and cash equivalents as of December 31, 2015 and 2016 was $965 million and $705 million, respectively.
+The fair values of the Company’s Level 1 ﬁnancial assets and liabilities are based on quoted prices in active markets for identical assets or liabilities. The fair
+values of the Company’s Level 2 financial assets and liabilities are obtained using quoted prices for similar assets or liabilities in active markets; quoted prices for
+identical or similar assets in markets that are not active; and inputs other than quoted prices (e.g., interest rates and yield curves). The Company utilizes a
+pricing service to assist in obtaining fair value pricing for the marketable debt securities. The fair value for the Company’s Level 3 ﬁnancial asset was obtained
+using a Black-Scholes model.
+119

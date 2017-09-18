@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+° our acquisitions have increased our software support contract base, as well as the portfolio of products available to be licensed and supported.
+H ardwareﬁusiness
+Our hardware business is comprised of two operating segments: (1) hardware products and (2) hardware support. Our hardware business represented 13% of our
+total revenues in fiscal 2016, and 14% of our total revenues in each of fiscal 2015 and 2014. We expect our hardware business to have lower operating margins as a
+percentage of revenues than our cloud and on-premise software business due to the incremental costs we incur to produce and distribute these products and to
+provide support services, including direct materials and labor costs. We expect to make investments in research and development to improve existing hardware
+products and services and to develop new hardware products and services.
+Hardware Products: We provide a broad selection of hardware and related services, including Oracle Engineered Systems, servers, storage, networking,
+workstations and related devices, industry-specific hardware, virtualization software, operating systems, and management software to support diverse IT
+environments, including cloud computing environments. We engineer our hardware products with virtualization and management capabilities to enable the rapid
+deployment and efficient management of cloud and on-premise IT infrastructures. Our hardware products support many of the world’s largest cloud infrastructures,
+including the Oracle Cloud.
+Our hardware products are designed to be easier to deploy, manage and maintain for our customers and to improve computing performance relative to our
+competitors’ offerings. We design our hardware products to seamlessly connect cloud and on-premise IT environments to further enable interoperability,
+interchangeability and extendibility and to work in customer environments that may include other Oracle or non-Oracle hardware or software components. Our
+ﬂexible and open approach provides Oracle customers with a broad range of choices in how they deploy our hardware products, which we believe is a priority for
+our customers.
+Oracle Engineered Systems are core to our hardware offerings and are important elements of our data center and cloud computing offerings including the Oracle
+Cloud. These pre-integrated products are designed to integrate multiple Oracle technology components to work together to deliver improved performance,
+availability, security and operational efficiency relative to our competitors’ products; to be upgraded effectively and efﬁciently; and to simplify maintenance cycles
+by providing a single solution for software patching. Oracle Engineered Systems are tested before they are shipped to customers and delivered ready-to-run,
+enabling customers to shorten deployment time to production. We offer certain of our Oracle Engineered Systems technologies through ﬂexible deployment
+options including as a cloud service and for on-premise IT environments.
+We offer a wide range of server products using our SPARC microprocessor. Our SPARC servers run the Oracle Solaris operating system and are designed to be
+differentiated by their reliability, security, and scalability. Our mid-size and large servers are designed to offer better performance and lower total cost of ownership
+than competitive UNIX systems for business critical applications, for customers having more computationally intensive needs, and as platforms for building cloud
+computing IT environments. Our SPARC servers are also a core component of the Oracle SuperCluster, one of our Oracle Engineered Systems.
+We also offer enterprise x86 servers. These x86 servers are based on microprocessors from Intel Corporation and are compatible with Oracle Solaris, Oracle Linux,
+Microsoft Windows and other operating systems. Our x86 servers are also a core component of many of our Oracle Engineered Systems including the Oracle
+Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle Exalytics In-Memory Machine and the Oracle Big Data Appliance.
+Our storage products are engineered for the cloud and designed to securely store, manage, protect, archive, backup and recover customers’ mission critical data
+assets. Our storage products consist of disk, ﬂash, tape, virtual tape and hardware-related software including ﬁle systems software, back-up and archive software,
+hierarchical storage management software and networking for mainframe and heterogeneous systems environments. We also offer certain of our storage offerings
+as a cloud service.
+43

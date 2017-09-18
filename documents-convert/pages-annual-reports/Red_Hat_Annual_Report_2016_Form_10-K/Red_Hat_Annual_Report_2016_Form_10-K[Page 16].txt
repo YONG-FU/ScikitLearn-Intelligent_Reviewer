@@ -1,0 +1,45 @@
+JBoss Middleware integrates, tests and refines enterprise-ready features from JBoss and other community
+projects into supported, stable, enterprise-class middleware platforms.
+Red Hat JBoss Middleware offerings consist of a number of deployment platforms and tools, including:
+° Red Hat JBoss Enterprise Application Platform—provides an environment for building, hosting and
+deploying applications and services. It includes features such as clustering, caching, messaging,
+transaction and a full web services stack.
+° Red Hat JBoss Web Server—provides an enterprise-class web server solution for large-scale websites
+and lightweight web applications that utilize Apache Tomcat and Apache Web Server.
+° Red Hat JBoss Data Grid—provides a scalable, distributed in-memory data grid that permits cost-
+effective scaling of big data tiers.
+° Red Hat JBoss Fuse and Red Hat JBoss A-MQ—provides customers messaging and integration tools for
+distributed applications.
+° Red Hat JBoss Data Virtualization—provides a solution for integration of distributed data sources.
+° Red Hat JBoss BRMS—provides a platform for business rules management and complex event
+processing.
+° Red Hat JBoss BPM Suite—provides a business process management platform that combines business
+rules management and complex event processing with a business process management system to help
+customers model and encode business processes, policies and rules and measure the results of business
+activities.
+° Red Hat JBoss Developer Studio—provides an integrated development environment for developing,
+testing and deploying rich web applications, enterprise applications and service-oriented architecture
+services.
+° Red Hat JBoss Operations Network—provides built-in management and monitoring capabilities to
+administer J Boss application environments.
+Red Hat cloud offerings. Utilizing the interoperability of our software technologies, we provide a number of
+offerings to assist users in creating cloud computing environments:
+- Red Hat Enterprise Linux OpenStack Platform—an infrastructure as a service offering that provides an
+enterprise-ready cloud foundation built on OpenStack technologies optimized for and integrated with
+Red Hat Enterprise Linux and Red Hat Enterprise Virtualization.
+° Red Hat Cloud Infrastructure—an offering that combines and integrates Red Hat Satellite, Red Hat
+Enterprise Virtualization, Red Hat CloudForms and Red Hat Enterprise Linux OpenStack Platform. Red
+Hat Cloud Infrastructure allows users to build and manage a private or hybrid infrastructure as a service
+cloud.
+° OpenShift by Red Hat—a cloud application platform (also called “platform as a service” or “PaaS”) that
+allows developers to develop, host and scale applications in a cloud environment. It automates the
+hosting, configuration, deployment and administration of application stacks in an elastic cloud
+environment utilizing Linux containers. OpenShift gives application developers self-service access so
+they can more easily deploy applications on demand. Customers can use OpenShift Enterprise in a
+private cloud environment, OpenShift Online in a public cloud environment for on-demand
+consumption, or OpenShift Dedicated in a public cloud environment using their own OpenShift instance
+managed by Red Hat. Customers can also use Red Hat JBoss xPaaS services for OpenShift to enable
+enterprise application development, deployment and integration capability with OpenShift.
+We also provide offerings to help our customers manage their increasingly complex IT environments. Along
+with Red Hat Satellite, we offer Red Hat CloudForms, which is an open hybrid cloud management solution that
+12

@@ -1,0 +1,46 @@
+(2) deposit with the Paying Agent an amount equal to the Change of Control Payment in respect of all Notes or portions of such Notes properly
+tendered pursuant to the Change of Control Offer; and
+(3) deliver or cause to be delivered to the Trustee the Notes accepted for purchase together with an Ofﬁcers’ Certiﬁcate stating the aggregate
+principal amount of Notes or portions of such Notes being purchased by the Issuers.
+The Paying Agent will promptly mail to each Holder properly tendered the Change of Control Payment for such Notes
+(or, if all the Notes are then in global form, it will make such payment through the facilities of DTC), and the Trustee will promptly authenticate and mail (or
+cause to be transferred by book entry) to each Holder a new Note equal in principal amount to any unpurchased portion of the Notes surrendered, if any;
+provided, that each new Note will be in a principal amount of $2,000 or an integral multiple of $ 1,000 in excess thereof. The Issuers will publicly announce
+the results of the Change of Control Offer on or as soon as practicable after the Change of Control Payment Date.
+(0) Notwithstanding anything to the contrary in this Section 4.15,, the Issuers will not be required to make a Change of Control Offer upon a Change of
+Control Triggering Event if (1) a third party makes the Change of Control Offer in the manner, at the times and otherwise in compliance with the requirements
+set forth in this Section A .15, and purchases all Notes properly tendered and not withdrawn under the Change of Control Oﬁ‘er or (2) notice of redemption has
+been given pursuant to Section 3.07 hereof, unless and until there is a default in payment of the applicable redemption price.
+A Change of Control Offer may be made with respect to the Notes in advance of a Change of Control Triggering Event, and conditioned upon the
+occurrence of such Change of Control Triggering Event, if a deﬁnitive agreement for the Change of Control Triggering Event is in place at the time of
+making the Change of Control Offer.
+With respect to the Notes, in the event that Holders of not less than 90% of the aggregate principal amount of the outstanding Notes tender and do not
+withdraw such Notes in a Change of Control Offer and TLLP (or the third party making the Change of Control Offer as provided above) purchases all of the
+Notes validly tendered and not withdrawn by such Holders, TLLP or such third party shall have the right, upon not less than 15 nor more than 60 days’ prior
+notice, given not more than 30 days following the purchase pursuant to the Change of Control Offer described above, to redeem all of the Notes that remain
+outstanding following such purchase at a redemption price equal to 101% of the aggregate principal amount of such Notes, plus accrued and unpaid interest
+on the Notes that remain outstanding to the date of redemption (subject to the right of Holders of record on the relevant record date to receive interest due on
+an Interest Payment Date that is on or prior to the Redemption Date).
+Section 4.16 Additional Guarantors.
+If, after the Issue Date, any wholly-owned Domestic Subsidiary (other than Finance Corp.) of TLLP that is not already a Guarantor guarantees any other
+Indebtedness of either of the Issuers under a Credit Facility in an aggregate principal amount in excess of $50.0 million, then that Subsidiary will become a
+Guarantor by executing and delivering a supplemental indenture to the Trustee within 30 Business Days of the date on which it guaranteed or incurred such
+Indebtedness; provided that the preceding shall not apply to Subsidiaries of TLLP that have been properly designated as Unrestricted Subsidiaries in
+accordance with this Indenture for so long as they continue to constitute Unrestricted Subsidiaries. Notwithstanding the preceding, any Guarantee of a
+Restricted Subsidiary that was incurred pursuant to this Section 4.16 will be released in accordance with Section 10.06 hereof.
+Section 4.17 Designation of Restricted and Unrestricted Subsidiaries.
+The Board of Directors of the General Partner may designate any Subsidiary of TLLP to be an Unrestricted Subsidiary if that designation would not
+cause a Default. If a Subsidiary is designated as an Unrestricted Subsidiary, the aggregate Fair Market Value of all outstanding Investments owned by TLLP
+and its Restricted Subsidiaries in the Subsidiary designated as an Unrestricted Subsidiary will be deemed to be an Investment made as of the time of the
+designation and will reduce the amount available for Restricted Payments under Section 4.01 hereof or under one or more clauses of the deﬁnition of
+“Permitted Investments”, as determined by TLLP; provided that any designation will only be permitted if the Investment would be permitted at that time and
+if the Restricted Subsidiary otherwise meets the deﬁnition of an “Unrestricted Subsidiary”.
+Any designation of a Subsidiary of TLLP as an Unrestricted Subsidiary will be evidenced to the Trustee by ﬁling with the Trustee a certiﬁed copy of a
+resolution of the Board of Directors of the General Partner giving effect to such designation and an Ofﬁcers’ Certiﬁcate certifying that such designation
+complied with the preceding conditions and was permitted by Section 4.01 hereof If, at any time, any Unrestricted Subsidiary would fail to meet the
+preceding requirements as an Unrestricted Subsidiary, it will thereafter cease to be an Unrestricted Subsidiary for purposes of this Indenture and any
+Indebtedness of such Subsidiary will be deemed to be incurred by a Restricted Subsidiary of TLLP as of such date and, if such Indebtedness is not permitted
+to be incurred as of such date under Section 4.09 hereof, TLLP will be in default of such covenant. The Board of Directors of the General Partner may at any
+time designate any Unrestricted Subsidiary to be a Restricted Subsidiary of TLLP; provided that such designation will be deemed to be an incurrence of
+Indebtedness by a Restricted Subsidiary of TLLP of any outstanding Indebtedness of such Unrestricted
+-41-

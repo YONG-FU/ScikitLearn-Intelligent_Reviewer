@@ -1,0 +1,41 @@
+NOTE G — FAIR VALUE MEASUREMENTS (continued)
+functional currencies. The following table summarizes the gains and losses recognized during 2016, 2015 and 2014 within the
+Statements of Consolidated Comprehensive Income.
+(In millions) 2016 2015 2014
+Foreign currency derivative gain (loss) $ 2 $ (17) $ (7)
+The following table summarizes the fair values of the outstanding foreign currency derivatives as of September 30, 2016 and
+2015 included in accounts receivable and accrued expenses and other liabilities of the Consolidated Balance Sheets.
+(In millions) 2016 2015
+Foreign currency derivative assets $ 3 $ 5
+Notional contract values 333 192
+Foreign currency derivative liabilities $ 4 $ 16
+Notional contract values 530 673
+Net investment hedges
+Since 2014, Ashland has entered into foreign currency contracts in order to manage the foreign currency exposure of the net
+investment in certain foreign operations. These foreign currency contracts were primarily the result of certain proceeds from the
+sale of Water Technologies being received in non-US. denominated currencies during 2014 and ongoing management of the
+volatility in foreign currency exchange rates. Ashland designated the foreign currency contracts as hedges of net investments in
+its foreign subsidiaries. As a result, Ashland records these hedges at fair value using forward rates, with the eﬁective portion of
+the gain or loss reported as a component of the cumulative translation adjustment within AOCI and subsequently recognized in
+the Statements of Consolidated Comprehensive Income when the hedged item aﬁects net income. During 2016 and 2015, these
+foreign currency contracts were settled and Ashland entered into new foreign currency contracts designated as hedges of net
+investments in foreign subsidiaries. These settlements resulted in net gains recorded within the cumulative translation adjustment
+within AOCI of $4 million and $11 million during 2016 and 2015, respectively.
+As of September 30, 2016 and 2015, the total notional value of foreign currency contracts equaled $94 million and $175
+million, respectively. The fair value of Ashland’s net investment hedge assets and liabilities are calculated using forward rates.
+Accordingly, these instruments are deemed to be Level 2 measurements within the fair value hierarchy. Counterparties to these
+net investment hedges are highly rated financial institutions which Ashland believes carry only a nominal risk of nonperformance.
+The following table summarizes the fair value of the outstanding net investment hedge instruments as of September 30, 2016 and
+20 15.
+(In millions) Consolidated balance sheet caption 2016 2015
+Net investment hedge assets (a) Accounts receivable $ — $ 8
+Net investment hedge liabilities (a) Accrued expenses and other liabilities 1 —
+(a) Fair values of $0 denote a value less than $1 million. :
+The following table summarizes the change in the unrealized gain (loss) on the net investment hedge instruments recognized
+within the cumulative translation adjustment within AOCI during 2016 and 2015. No portion of the gain or loss was reclassified
+to income during 2016 and 2015. There was no hedge ineﬁectiveness with these instruments during 2016 and 2015.
+(In millions) 2016 2015 7
+Change in unrealized gain (loss) in AOCI $ (1) $ 8 *
+Tax impact of change in unrealized (gain) loss in AOCI (a) — (2)
+(a) $0 denotes a value less than $1 million. :
+F -25

@@ -1,0 +1,41 @@
+The following table summarizes stock option exercise information for the years presented:
+Year Ended December 31,
+7 2016 2015 2014 7
+7 (In thousands, except share data) 7
+Number ofstock options exercised 1,253,152 665,531 1,100,998
+Intrinsic value of stock options exercised $ 14,266 $ 9,695 $ 15,830
+Cash received upon exercise of stock options $ 13,237 $ 6,953 $ 11,488
+Income tax benefit $ 2,575 $ 2,147 $ 3,730
+The following table is a rollforward of the Company's nonvested stock options:
+Stock Options
+: Weighted Average :
+7 Shares : : Fair Value :
+Nonvested stock options at December 31, 2015 503,740 $ 6.92
+Granted 195,999 $ 6.39
+Vested (393,190) $ 6.09
+Forfeited (37,818), $ 6.82
+Nonvested stock options at December 31, 2016 7 268,731, $ 6.22
+The total fair value of the shares vested during the years ended December 31, 2016, 2015, and 2014 was $2.4
+million, $3.2 million, and $3.2 million, respectively.
+Restricted StockAwards
+Restricted stock awards are shares of Swift's Class A common stock that are subject to forfeiture until the lapse of
+defined restrictions, including time-based restrictions. Restricted stock awards, which are granted in the form of
+restricted stock RSUs and shares, are accounted for as equity awards. Accordingly, the estimated fair value of
+restricted stock awards is based upon the closing price of the Company's Class A common stock on the grant date.
+RSU— This is typically the form of restricted stock award granted to Company employees. An RSU represents a
+right to receive a common share of stock when the unit vests. RSU recipients cannot vote during the vesting period.
+Employees forfeit their units if their employment terminates before the vesting date.
+RestdctedStackﬁhare— This is typically the form of restricted stock award granted to the Board. Directors on the
+Board are entitled to vote during the vesting period. For awards granted in 2014 and thereafter, the forfeiture
+restrictions associated with restricted stock shares lapse on the first anniversary of the grant date with respect to
+an equal installment of shares. For awards granted prior to 2014, the forfeiture restrictions associated with restricted
+stock shares lapsed on each of the first three anniversaries of the grant date with respect to an equal installment
+of shares. Additionally, restricted stock shares are not transferable for a period of four years from the grant date,
+other than for applicable tax withholdings.
+The following table presents restricted stock awards granted under the 2014 Stock Plan:
+Year Ended December 31,
+7 2016 2015 2014 7
+RSUs granted to company employees 7 300,150, 7 212,272, 7 203,968,
+Restricted stock shares granted to the Board 7 32,235 7 16,601 7 7 17,102
+Total restricted stock awards granted 332,385 228,873 221,070
+122

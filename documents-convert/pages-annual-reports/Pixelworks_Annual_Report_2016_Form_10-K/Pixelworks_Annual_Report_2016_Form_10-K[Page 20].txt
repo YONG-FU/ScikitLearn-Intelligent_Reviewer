@@ -1,0 +1,35 @@
+Additionally, customers could seek damages from us for their losses and shipments of defective products may harm our reputation with our customers. We
+have experienced ﬁeld failures of our semiconductors in certain customer applications that required us to institute additional testing. As a result of these ﬁeld
+failures, we have incurred warranty costs due to customers returning potentially affected products and have experienced reductions in revenues due to delays
+in production. Our customers have also experienced delays in receiving product shipments from us that resulted in the loss of revenue and proﬁts.
+Additionally, shipments of defective products could cause us to lose customers or to incur signiﬁcant replacement costs, either of which would harm our
+reputation and our business. Any defects, errors or bugs could also interrupt or delay sales of our new products to our customers, which would adversely affect
+our ﬁnancial results.
+The development of new products is extremely complex and we may be unable to develop our new products in a timely manner which could result in a
+failure to obtain new design wins and/or maintain our current revenue levels.
+In addition to the inherent difﬁculty of designing complex integrated circuits, product development delays may result from:
+0 difﬁculties in hiring and retaining necessary technical personnel;
+0 difﬁculties in reallocating engineering resources and overcoming resource limitations;
+° difﬁculties with contract manufacturers;
+0 changes to product speciﬁcations and customer requirements;
+0 changes to market or competitive product requirements; and
+- unanticipated engineering complexities.
+If we are not successful in the timely development of new products, we may fail to obtain new design wins and our ﬁnancial results will be adversely affected.
+Intense competition in our markets may reduce sales of our products, reduce our market share, decrease our gross profit and result in large losses.
+We compete with specialized and diversiﬁed electronics and semiconductor companies that offer display processors or scaling components including:
+Actions Microelectronics Co., Ltd., ARM Holdings PLC, Dolby Laboratories, Inc., i—Chips Technologies Inc., Lattice Semiconductor Corporation, MediaTek
+Inc., Novatech Co., Ltd. Inc., NVIDIA Corporation, QUALCOMM Incorporated, Realtek Semiconductor Corp., Renesas Electronics America, Sigma Designs,
+Inc., Solomon Systech (International) Ltd., STMicroelectronics N.V., Sunplus Technology Co., Ltd., Texas Instruments Incorporated, and other companies.
+Potential and current competitors may include diversiﬁed semiconductor manufacturers and the semiconductor divisions or afﬁliates of some of our
+customers, including: LG Electronics, Inc., Matsushita Electric Industrial Co., Ltd., MegaChips Corporation, Mitsubishi Digital Electronics America, Inc.,
+NEC Corporation, Samsung Electronics Co., Ltd., Socionext, Inc., ON Semiconductor Corporation, Seiko Epson Corporation, Sharp Electronics Corporation,
+Sony Corporation, and Toshiba America, Inc. In addition, start-up companies may seek to compete in our markets.
+Many of our competitors have longer operating histories and greater resources to support development and marketing efforts than we do. Some of our
+competitors operate their own fabrication facilities. These competitors may be able to react more quickly and devote more resources to efforts that compete
+directly with our own. Additionally, any consolidation in the semiconductor industry may impact our competitive position. Our current or potential
+customers have developed, and may continue to develop, their own proprietary technologies and become our competitors. Increased competition from both
+competitors and our customers’ internal development efforts could harm our business, ﬁnancial condition and results of operations by, for example,
+increasing pressure on our proﬁt margin or causing us to lose sales opportunities. For example, frame rate conversion technology similar to that used in our
+line of MotionEngine® advanced video co—processors continues to be integrated into the SoC and display timing controller products of our competitors. We
+cannot assure you that we can compete successfully against current or potential competitors.
+20

@@ -1,0 +1,43 @@
+Tablebfﬂontents
+Our current research and development efforts may not produce signiﬁcant revenue for several years, if at all.
+Developing our products and services is expensive. In particular, developing and launching disruptive technologies in new areas, as we are continuing to do
+with our VMware NSX virtual networking, VSAN virtual storage, cross-cloud and SaaS initiatives, requires significant investments of resources and often entails
+greater risk than incremental investments in existing products and services. Our investment in research and development may not result in marketable products or
+services or may result in products and services that generate less revenue than we anticipate. Our research and development expenses were approximately 21% of
+our total revenue during the year ended December 31, 2016 . Our future plans include significant investments in software research and development and related
+product opportunities. We believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our
+competitive position. However, we may not receive significant revenue from these investments for several years, if at all.
+We are involved in litigation, investigations and regulatory inquiries and proceedings that could negatively affect us.
+From time to time, we are involved in various legal, administrative and regulatory proceedings, claims, demands and investigations relating to our business,
+which may include claims with respect to commercial, product liability, intellectual property, breach of contract, employment, class action, whistleblower and
+other matters. In the ordinary course of business, we also receive inquiries from and have discussions with government entities regarding the compliance of our
+contracting and sales practices with laws and regulations.
+We have been, and expect to continue to be, subject to intellectual property infringement claims, including claims by entities that do not have operating
+businesses of their own and therefore limit our ability to seek counterclaims for damages and injunctive relief. In addition to monetary judgments, a judgment
+could also include an injunction or other court order that could prevent us from offering our products. In addition, we might be required to seek a license for the use
+of such intellectual property, which may not be available on commercially reasonable terms or at all. Alternatively, we may be required to develop non-infringing
+technology, which could require significant effort and expense and may ultimately not be successful. Third parties may also assert infringement claims against our
+customers and channel partners, which could require us to initiate or defend potentially protracted and costly litigation on their behalf, regardless of the merits of
+these claims, because we generally indemnify our customers and channel partners from claims of infringement of proprietary rights of third parties in connection
+with the use of our products. These matters can be time-consuming, divert management’s attention and resources and cause us to incur significant expenses.
+Allegations made in the course of regulatory or legal proceedings may also harm our reputation, regardless of the merit of such claims. Furthermore, because
+litigation and the outcome of regulatory proceedings are inherently unpredictable, our business, financial condition or operating results could be materially affected
+by an unfavorable resolution of one or more of these proceedings, claims, demands or investigations.
+Refer to Note I to the consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K for a description of certain claims and litigation.
+We may not be able to adequately protect our intellectual property rights.
+We depend on our ability to protect our proprietary technology. We rely on trade secret, patent, copyright and trademark laws and confidentiality agreements
+with employees and third parties, all of which offer only limited protection. As such, despite our efforts, the steps we have taken to protect our proprietary rights
+may not be adequate to prevent misappropriation of our proprietary information or infringement of our intellectual property rights, and our ability to police such
+misappropriation or infringement is uncertain, particularly in countries outside of the United States. In addition, we rely on conﬁdentiality or license agreements
+with third parties in connection with their use of our products and technology. There is no guarantee that such parties will abide by the terms of such agreements or
+that we will be able to adequately enforce our rights, in part because we rely on “click-wrap” and “shrink-wrap” licenses in some instances.
+Detecting and protecting against the unauthorized use of our products, technology proprietary rights and intellectual property rights is expensive, difficult and,
+in some cases, impossible. Litigation is necessary from time to time to enforce or defend our intellectual property rights, to protect our trade secrets or to determine
+the validity and scope of the proprietary rights of others. Despite our efforts, we may not be able to prevent third parties from infringing upon or misappropriating
+our intellectual property, which could result in a substantial loss of our market share.
+Our use of “open source” software in our products could negatively affect our ability to sell our products and subject us to litigation.
+Many of our products and services incorporate so-called “open source” software, and we may incorporate open source software into other products and
+services in the future. Open source software is generally licensed by its authors or other third parties under open source licenses. Open source licensors generally
+do not provide warranties or assurance of title or controls on origin of the software, which exposes us to potential liability if the software fails to work or infringes
+the intellectual property of a third party.
+1 8

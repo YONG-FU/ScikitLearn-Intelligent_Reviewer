@@ -1,0 +1,55 @@
+through December 31, 2016 was over 9%. The Company’s assets are strategically allocated among equity, debt and
+other investments to achieve a diversiﬁcation level that dampens ﬂuctuations in investment returns. The Company’s
+long-term investment strategy is an investment portfolio mix of approximately 55%-65% in equity securities, 30%—3 5%
+in ﬁxed income securities and 0%-15% in other securities. As of December 31, 2016, the Company had approximately
+60% of its pension assets in equity securities, 33% in ﬁxed income securities and 7% in other securities.
+In 2016, a net loss of $4.6 million ($3.2 million after-tax) was recorded in other comprehensive income, primarily due
+to a change in discount rates. In 2015, a net gain of $10 million ($7 million after-tax) was recorded in other
+comprehensive income, primarily due to a change in discount rates and updated mortality tables. In 2014, a net loss of
+$48.5 million ($31.1 million after-tax) was recorded in other comprehensive income, primarily due to a change in
+discount rates.
+We recognized pension expense of $14.2 million in 2016 as compared to $18.9 million in 2015. Accounting guidance
+on retirement beneﬁts requires companies to discount future beneﬁt obligations back to today’s dollars using a discount
+rate that is based on high-quality ﬁxed-income investments. A decrease in the discount rate increases the pension
+beneﬁt obligation, while an increase in the discount rate decreases the pension beneﬁt obligation. This increase or
+decrease in the pension beneﬁt obligation is recognized in Accumulated other comprehensive income and subsequently
+amortized into earnings as an actuarial gain or loss. The guidance also requires companies to use an expected long-
+term rate of return on plan assets for computing current year pension expense. Differences between the actual and
+expected returns are also recognized in Accumulated other comprehensive income (loss) and subsequently amortized
+into earnings as actuarial gains and losses. At the end of 2016, total actuarial losses recognized in Accumulated other
+comprehensive income (loss) for pension plans were ($82.0 million), as compared to ($80.5 million) in 2015. The
+majority of the actuarial losses were due to decreases in the discount rate in 2012 and lower actual rates of return on
+assets than expected during the ﬁnancial crisis of 2008.
+Actuarial losses for pensions will be impacted in future periods by actual asset returns, discount rate changes, actual
+demographic experience and other factors that impact these expenses. These losses, reported in Accumulated other
+comprehensive income (loss), will generally be amortized as a component of net periodic beneﬁt cost on a straight-line
+basis over the average remaining service period of active employees expected to receive beneﬁts under the beneﬁt
+plans. At the end of 2016, the average remaining service period of active employees or life expectancy for fully
+eligible employees was 10 years. We expect our 2017 amortization of net actuarial losses to be approximately the same
+level as 2016, which was $10.7 million.
+0 Asset Retirement Obligations: We currently record the obligation for estimated asset retirement costs at fair value in
+the period incurred. Factors such as expected costs and expected timing of settlement can affect the fair value of the
+obligations. A revision to the estimated costs or expected timing of settlement could result in an increase or decrease in
+the total obligation which would change the amount of amortization and accretion expense recognized in earnings over
+time.
+A one-percent increase or decrease in the discount rate would change the total obligation by approximately $0.1
+million. A one-percent increase or decrease in the inﬂation rate would change the total obligation by approximately
+$0.1 million.
+0 Stock Based Compensation: The Company uses the Black-Scholes option pricing model to determine the fair value of
+stock options on their date of grant. This model is based upon assumptions relating to the volatility of the stock price,
+the life of the option, risk-free interest rate and dividend yield. Of these, stock price volatility and option life require
+greater levels of judgment and are therefore critical accounting estimates.
+We used a stock price volatility assumption based upon the historical and implied volatility of the Company's stock.
+We believe this is a good indicator of future, actual and implied volatilities. For stock options granted in the period
+ended December 31, 2016, the Company used a volatility assumption of 36.75%.
+The expected life calculation was based upon the observed and expected time to post-vesting forfeiture and exercise.
+For stock options granted during the ﬁscal year ended December 31, 2016, the Company used a 6.5 year life
+assumption.
+The Company believes the above critical estimates are based upon outcomes most likely to occur. If we were to
+simultaneously increase or decrease the option life by one year and the volatility by 100 basis points, recognized
+compensation expense would have changed approximately $0.1 million in either direction for the year ended December
+31, 2016.
+For a detailed discussion on the application of these and other accounting policies, see "Summary of Signiﬁcant Accounting
+Policies" in the Note 1 to the Consolidated Financial Statements. This discussion and analysis should be read in conjunction with the
+consolidated ﬁnancial statements and related notes included elsewhere in this report.
+41

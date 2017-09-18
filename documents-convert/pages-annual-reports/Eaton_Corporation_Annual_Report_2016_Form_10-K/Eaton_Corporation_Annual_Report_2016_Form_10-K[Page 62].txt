@@ -1,0 +1,34 @@
+Derivative Financial Statement Impacts
+The fair value of derivative ﬁnancial instruments recognized in the Consolidated Balance Sheets follows:
+Other Other Other Other
+Notional current noncurrent current noncurrent Type of
+7 amount 7 7 assets 7 7 assets 7 7 liabilities 7 7 liabilities 7 7 hedge 7 7 Term 7
+[December 31, 2016 7 H H H H H H J
+Derivatives designated as hedges
+3 months to 18
+Fixed-to-ﬂoating interest rate swaps $ 3,765 $ 1 $ 65 $ 7 $ 8 Fair value years
+Forward starting ﬂoating-to-flxed
+interest rate swaps 450 19 1 Cash ﬂow 11 years
+[ Currency exchange contracts 802 7 11 7 7 1 7 7 22 7 7 17 7 Cash ﬂow 1 to 36 months ]
+Total $ 12$ 85$ 22$ 26
+Derivatives not designated as hedges
+[ Currency exchange contracts $ 5,333 $ 31 $ 85 1 to 12 months ]
+Commodity contracts 10 7 2 7 7 7 1 to 12 months
+[ Total $ 33 $ 85 ]
+[December 31, 2015 ]
+Derivatives designated as hedges
+[ Fixed-to-ﬂoating interest rate swaps $ 3,715 $ $ 96 $ $ 2 Fair value 2 to 19 years ]
+Forward starting ﬂoating-to-flxed
+interest rate swaps 50 Cash ﬂow 12 years
+[ Currency exchange contracts 724 18 1 8 6 Cash ﬂow 1 to 36 months ]
+Commodity contracts 1 7 7 7 7 7 7 7 7 Cash ﬂow 1 to 12 months
+[ Total $ 18$ 97$ 8_$ 8 ]
+[Derivatives not designated as hedges ]
+Currency exchange contracts $ 4,198 8 27 7 8 40 7 1 to 12 months
+[ Total $ 27 $ 40 ]
+The currency exchange contracts shown in the table above as derivatives not designated as hedges are primarily contracts
+entered into to manage currency volatility or exposure on intercompany sales and loans. While Eaton does not elect hedge
+accounting treatment for these derivatives, Eaton targets managing 100% of the intercompany balance sheet exposure to
+minimize the effect of currency volatility related to the movement of goods and services in the normal course of its operations.
+This activity represents the great majority of these currency exchange contracts.
+55

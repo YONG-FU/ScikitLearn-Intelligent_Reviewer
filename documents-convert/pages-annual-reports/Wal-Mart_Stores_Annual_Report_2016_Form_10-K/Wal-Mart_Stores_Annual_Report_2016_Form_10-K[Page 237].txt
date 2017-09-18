@@ -1,0 +1,41 @@
+Table of Contents
+investment in the United Kingdom. These nonderivative net investment hedges will mature on dates ranging from July 2020 to January 2039 .
+Cash Flow Instruments
+The Company was a party to receive variable-rate, pay fixed-rate interest rate swaps that matured in July 2015 . The Company used these interest rate swaps to
+hedge the interest rate risk of certain non-U.S. denominated debt. The swaps were designated as cash ﬂow hedges of interest expense risk. Amounts reported in
+accumulated other comprehensive income (loss) related to these derivatives were reclassiﬁed from accumulated other comprehensive income (loss) to earnings as
+interest was expensed for the Company's variable-rate debt, converting the variable-rate interest expense into fixed-rate interest expense.
+The Company is also a party to receive fixed-rate, pay ﬁxed-rate cross-currency interest rate swaps to hedge the currency exposure associated with the forecasted
+payments of principal and interest of certain non-US. denominated debt. The swaps are designated as cash ﬂow hedges of the currency risk related to payments on
+the non-US. denominated debt. The effective portion of changes in the fair value of derivatives designated as cash ﬂow hedges of foreign exchange risk is
+recorded in accumulated other comprehensive income (loss) and is subsequently reclassified into earnings in the period that the hedged forecasted transaction
+affects earnings. The hedged items are recognized foreign currency-denominated liabilities that are re-measured at spot exchange rates each period, and the
+assessment of effectiveness (and measurement of any ineffectiveness) is based on total changes in the related derivative's cash ﬂows. As a result, the amount
+reclassiﬁed into earnings each period includes an amount that offsets the related transaction gain or loss arising from that re-measurement and the adjustment to
+earnings for the period's allocable portion of the initial spot-forward difference associated with the hedging instrument. These cash ﬂow instruments will mature on
+dates ranging from April 2022 to March 2034 .
+Financial Statement Presentation
+Although subject to master netting arrangements, the Company does not offset derivative assets and derivative liabilities in its Consolidated Balance Sheets.
+Derivative instruments with an unrealized gain are recorded in the Company's Consolidated Balance Sheets as either current or non-current assets, based on
+maturity date, and those hedging instruments with an unrealized loss are recorded as either current or non-current liabilities, based on maturity date. Refer to Note
+7 for the net presentation of the Company's derivative instruments.
+The Company's derivative instruments, as well as its nonderivative debt instruments designated and qualifying as net investment hedges, were classified as follows
+in the Company's Consolidated Balance Sheets:
+January 31, 2016 January 31, 2015
+Fair Value Net Investment Cash Flow Fair Value Net Investment Cash Flow
+(Amounts in millions) Instruments _ Instruments _ Instruments _ Instruments _ Instruments _ Instruments
+’Derivative instruments ‘
+Prepaid expenses and other $ — $ — $ — $ — $ — $ —
+lOther assets and deferred charges 173 319 129 12 207 293 ‘
+Derivative asset subtotals $ 173 $ 319 $ 129 $ 12 $ 207 $ 293
+Accrued liabilities $ — $ — $ — $ — $ — $ 1
+’Deferred income taxes and other — — 738 — — 610 ‘
+Derivative liability subtotals $ — $ — $ 738 $ — $ — $ 611
+Nonderivative hedging instruments
+lLong—term debt due within one year $ — $ — $ — $ — $ 766 $ — ‘
+Long-term debt — 3,644 — — 3,850 —
+lNonderivative hedge liability subtotals $ — $ 3,644 $ — $ — $ 4,616 $ — l
+Gains and losses related to the Company's derivatives primarily relate to interest rate hedges, which are recorded in interest, net, in the Company's Consolidated
+Statements of Income. Amounts related to the Company's derivatives expected to be reclassified from accumulated other comprehensive income (loss) to net
+income during the next 12 months are not significant.
+44

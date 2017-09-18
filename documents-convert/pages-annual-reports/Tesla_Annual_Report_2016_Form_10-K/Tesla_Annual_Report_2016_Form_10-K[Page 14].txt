@@ -1,0 +1,51 @@
+Automobile Manufacturer and Dealer Regulation
+State laws regulate the manufacture, distribution, and sale of automobiles, and generally require motor vehicle manufacturers
+and dealers to be licensed in order to sell vehicles directly to consumers in the state. As we open additional Tesla stores and service
+centers, we secure dealer licenses (or their equivalent) and engage in sales activities to sell our vehicles directly to consumers. A few
+states, such as Michigan and Connecticut, do not permit automobile manufacturers to be licensed as dealers or to act in the capacity of
+a dealer, or otherwise restrict a manufacturer’s ability to deliver or service vehicles. To sell vehicles to residents of states where we are
+not licensed as a dealer, we generally conduct the sale out of the state via the internet, phone or mail. In such states, we have opened
+“galleries” that serve an educational purpose and are not retail locations.
+As we expand our retail footprint in the United States, some automobile dealer trade associations have both challenged the
+legality of our operations in court and used administrative and legislative processes to attempt to prohibit or limit our ability to operate
+existing stores or expand to new locations. We expect that the dealer associations will continue to mount challenges to our business
+model. In addition, we expect the dealer associations to actively lobby state licensing agencies and legislators to interpret existing laws
+or enact new laws in ways not favorable to Tesla’s ownership and operation of its own retail and service locations, and we intend to
+actively fight any such efforts to limit our ability to sell our own vehicles.
+While we have analyzed the principal laws in the US, EU, China, Japan, UK, and Australia relating to our distribution model
+and believe we comply with such laws, we have not performed a complete analysis of all jurisdictions in which we may sell vehicles.
+Accordingly, there may be laws in certain jurisdictions that may restrict our sales and service operations.
+Energy Storage
+The regulatory regime for energy storage projects is still under development. Nevertheless, there are various policies, incentives
+and ﬁnancial mechanisms at the federal, state and local level that support the adoption of energy storage. For example, energy storage
+systems that are charged using solar energy are eligible for the 30% tax credit under Section 48(a)(3) of the Internal Revenue Code, or
+the IRC, as described below. In addition, California and a number of other states have adopted procurement targets for energy storage,
+and behind the meter energy storage systems qualify for funding under the California Self Generation Incentive Program.
+The Federal Energy Regulatory Commission (FERC) has also taken steps to enable the participation of energy storage in
+wholesale energy markets. In 2011 and 2013, FERC removed many barriers for systems like energy storage to provide frequency
+regulation service, thus increasing the value these systems can obtain in wholesale energy markets. More recently, in late 2016, FERC
+released a Notice of Proposed Rulemaking that, if it becomes a final rule, would further break down barriers preventing energy storage
+from fully participating in wholesale energy markets. Finally, in January 2017, FERC issued a statement supporting the use of energy
+storage as both electric transmission and as electric generation concurrently, thus enabling energy storage systems to provide greater
+value to the electric grid.
+Solar Energy Systems
+Government and Utility Programs and Incentives
+US. federal, state and local governments have established various policies, incentives and ﬁnancial mechanisms to reduce the
+cost of solar energy and to accelerate the adoption of solar energy. These incentives include tax credits, cash grants, tax abatements
+and rebates.
+The federal government currently provides an uncapped investment tax credit, or Federal ITC, under two sections of the IRC:
+Section 48 and Section 25D. Section 48(a)(3) of the IRC allows a taxpayer to claim a credit of 30% of qualified expenditures for a
+commercial solar energy system that commences construction by December 31, 2019. The credit then declines to 26% in 2020, 22%
+in 2021, and a permanent 10% thereafter. We claim the Section 48 commercial credit when available for both our residential and
+commercial projects, based on ownership of the solar energy system. The federal government also provides accelerated depreciation
+for eligible commercial solar energy systems. Section 25D of the IRC allows a homeowner-taxpayer to claim a credit of 30% of
+qualified expenditures for a residential solar energy system owned by the homeowner that is placed in service by December 31,
+2019.The credit then declines to 26% in 2020 and 22% in 2021, and is scheduled to expire thereafter. Customers who purchase their
+solar energy systems for cash or through our Solar Loan are eligible to claim the Section 25D investment tax credit.
+In addition to the Federal ITC, many US. states offer personal and corporate tax credits and incentive available for solar energy
+systems.
+Regulation —General
+We are not a “regulated utility” in the US. To operate our systems, we obtain interconnection agreements ﬁom the utilities. In
+almost all cases, interconnection agreements are standard form agreements that have been pre-approved by the public utility
+commission or other regulatory body.
+1 1

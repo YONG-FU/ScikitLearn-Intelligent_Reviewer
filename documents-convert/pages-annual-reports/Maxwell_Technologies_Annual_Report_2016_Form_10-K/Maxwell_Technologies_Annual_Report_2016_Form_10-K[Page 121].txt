@@ -1,0 +1,33 @@
+EXHIBIT 10.26
+EXECUTION VERSION
+FOURTH AMENDMENT TO LOAN AND SECURITY AGREEMENT
+This Fourth Amendment to Loan and Security Agreement (this “ Amendment”) is entered into as of February 28, 2017, by and between EAST WEST
+BANK (“ Bank ”) and MAXWELL TECHNOLOGIES, INC. (“ Borrower ”).
+RECITALS
+WHEREAS, Borrower and Bank are parties to the Loan and Security Agreement, dated as of July 3, 2015, as amended by (i) the First Amendment to the
+Loan and Security Agreement, dated as of April 12, 2016, by and between Bank and Borrower, (ii) the Second Amendment to the Loan and Security Agreement,
+dated July 27, 2016, by and between Bank and Borrower, and (iii) the Third Amendment to the Loan and Security Agreement, dated October 31, 2016, by and
+between Bank and Borrower (as amended from time to time, the “ Loan Agreement ”);
+WHEREAS, Borrower has requested that Bank (i) consent to Borrower’s acquisition of substantially all of the assets of Nesscap Energy Inc. (“ N esscap
+”) pursuant to the Arrangement Agreement, dated as of February 28, 2017, between Nesscap and Borrower, in substantially the form attached hereto as Exhibit A (
+the “ Arrangement Agreement ”) (such asset acquisition, the “ Asset Acquisition ”) and to Borrower’s assumption of the liabilities of Nesscap speciﬁed in the
+Arrangement Agreement as part of the consideration for the assets acquired (the “ Liabilities Assumption ”), (ii) consent to Borrower’s assignment of certain
+patents to CRRC Qingdao Sifang Rolling Stock Research Institute Co., Ltd. (“ CRRC-SRI ”), pursuant to the Localization Agreement, dated as of January 25,
+2017, between CRRC-SRI and Borrower, , in substantially the form attached hereto as Exhibit B (the “ Localization Agreement”), (iii) consent to Borrower’s
+grant of an exclusive license of intellectual property to CRRC-SRI pursuant to the Localization Agreement, (iv) consent to Borrower’s assignment to CRRC-SRI of
+certain intellectual property developed pursuant to the Localization Agreement as described therein, (v) consent to Borrower’s transfer of equipment to CRRC-SRI
+pursuant to the Localization Agreement, (vi) consent to Borrower’s assignment to CRRC-SRI of certain intellectual property developed pursuant to the
+Localization Agreement as described therein, (vii) amend the EBITDA definition, (viii) amend the Adjusted Quick Ratio and the minimum EBITDA financial
+covenants, and (ix) have compliance with the minimum EBITDA financial covenant as of December 31, 2016, be determined based on the amended minimum
+EBITDA ﬁnancial covenant; and
+WHEREAS, Bank is willing to agree to Borrower’s requests, on the terms set forth herein;
+NOW, THEREFORE, the parties agree as follows:
+1. Amendments to Loan Agreement .
+(a) Section 6.2(b) of the Loan Agreement is amended to read as follows:
+(b) Within fifteen (15) days after the last day of each month, Borrower shall deliver to Bank a Borrowing Base Certificate signed by a
+Responsible Officer in substantially the form of Exhibit D hereto.
+(b) Section 6.7 of the Loan Agreement is amended to read as follows:
+6.7 Financial Covenants . Borrower shall at all times maintain the following financial ratios and covenants:
+(a) gjusted Quick Ratio . A minimum ratio of (i) Cash plus Accounts to (ii) Current Liabilities plus (to the extent not already
+included therein) all Indebtedness to Bank less,Current Portion of Deferred Revenue, tested on a quarterly basis as of the last day of each Fiscal Quarter,
+as set forth below:

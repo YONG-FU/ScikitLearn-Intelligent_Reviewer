@@ -1,0 +1,37 @@
+Table,of,C,ontents
+Our cloud SaaS and PaaS offerings generally provide customers access to certain of our software within a cloud-based IT environment that we manage, host and
+support and offer to customers on a subscription basis. Revenues for our cloud SaaS and PaaS offerings are generally recognized ratably over the contract term
+commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisﬁed.
+Our cloud IaaS offerings provide infrastructure cloud services and also include deployment and management offerings for software and hardware and related IT
+infrastructure. Our cloud IaaS offerings are generally sold on a subscription basis and revenues for these cloud IaaS offerings are generally recognized ratably over
+the contract term commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisﬁed.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage,
+networking and industry-specific hardware and are recognized upon the delivery of the hardware product to the customer provided all other revenue recognition
+criteria have been satisfied.
+Our hardware support offerings generally provide customers with software updates for the software components that are essential to the functionality of our
+hardware products and can also include product repairs, maintenance services and technical support services. Hardware support contracts are generally priced as a
+percentage of the net hardware products fees. Hardware support contracts are entered into at the customer’s option and are recognized ratably over the contractual
+term of the arrangements, which is typically one year, provided all other revenue recognition criteria have been satisﬁed.
+Revenue Recognition for Multiple-Element Arrangements—C loud SaaS, PaaS and IaaS Oﬂerings, Hardware Products, Hardware Support and Related Services
+(N on-software Arrangements)
+We enter into arrangements with customers that purchase non-software related products and services from us at the same time, or within close proximity of one
+another (referred to as non-software multiple-element arrangements). Each element within a non-software multiple-element arrangement is accounted for as a
+separate unit of accounting provided the following criteria are met: the delivered products or services have value to the customer on a standalone basis; and for an
+arrangement that includes a general right of return relative to the delivered products or services, delivery or performance of the undelivered product or service is
+considered probable and is substantially controlled by us. We consider a deliverable to have standalone value if the product or service is sold separately by us or
+another vendor or could be resold by the customer. Further, our revenue arrangements generally do not include a general right of return relative to the delivered
+products. Where the aforementioned criteria for a separate unit of accounting are not met, the deliverable is combined with the undelivered element(s) and treated
+as a single unit of accounting for the purposes of allocation of the arrangement consideration and revenue recognition. For those units of accounting that include
+more than one deliverable but are treated as a single unit of accounting, we generally recognize revenues over the contractual period of the arrangement, or in the
+case of our cloud offerings, we generally recognize revenues over the contractual term of the cloud software subscription. For the purposes of revenue classification
+of the elements that are accounted for as a single unit of accounting, we allocate revenue to the respective revenue line items within our consolidated statements of
+operations based on a rational and consistent methodology utilizing our best estimate of relative selling prices of such elements.
+For our non-software multiple-element arrangements, we allocate revenue to each element based on a selling price hierarchy at the arrangement’s inception. The
+selling price for each element is based upon the following selling price hierarchy: VSOE if available, third-party evidence (TPE) if VSOE is not available, or
+estimated selling price (ESP) if neither VSOE nor TPE are available (a description as to how we determine VSOE, TPE and ESP is provided below). If a tangible
+hardware product includes software, we determine whether the tangible hardware product and the software work together to deliver the product’s essential
+functionality and, if so, the entire product is treated as a non-software deliverable. The total arrangement consideration is allocated to each separate unit of
+accounting for each of the non-software deliverables using the relative selling prices of each unit based on the aforementioned selling price hierarchy. We limit the
+amount of revenue recognized for delivered elements to an amount that is not contingent upon future delivery of additional products or services or meeting of any
+speciﬁed performance conditions.
+48

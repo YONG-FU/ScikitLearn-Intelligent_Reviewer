@@ -1,0 +1,57 @@
+Table of Contents
+incremental external costs directly related to transition or set-up activities necessary to enable the outsourced services.
+Generally, deferred amounts are protected in the event of early termination of the contract and are monitored regularly
+for impairment. Impairment losses are recorded when projected remaining undiscounted operating cash ﬂows of the
+related contract are not sufficient to recover the carrying amount of contract assets. Amounts billable to the client for
+transition or set-up activities are deferred and recognized as revenue evenly over the period outsourcing services are
+provided. Contract acquisition and origination costs are expensed as incurred.
+We enter into contracts that may consist of multiple deliverables. These contracts may include any combination
+of technology integration consulting services, non-technology integration consulting services or outsourcing services
+described above. Revenues for contracts with multiple deliverables are allocated based on the lesser of the element’s
+relative selling price or the amount that is not contingent on future delivery of another deliverable. The selling price of
+each deliverable is determined by obtaining third party evidence of the selling price for the deliverable and is based
+on the price charged when largely similar services are sold on a standalone basis by the Company to similarly situated
+customers. If the amount of non-contingent revenues allocated to a deliverable accounted for under the percentage-
+of-completion method of accounting is less than the costs to deliver such services, then such costs are deferred and
+recognized in future periods when the revenues become non-contingent. Revenues are recognized in accordance
+with our accounting policies for the separate deliverables when the services have value on a stand-alone basis, selling
+price of the separate deliverables exists and, in arrangements that include a general right of refund relative to the
+completed deliverable, performance of the in-process deliverable is considered probable and substantially in our
+control. While determining fair value and identifying separate deliverables require judgment, generally fair value and
+the separate deliverables are readily identiﬁable as we also sell those deliverables unaccompanied by other
+deliverables.
+Revenues recognized in excess of billings are recorded as Unbilled services. Billings in excess of revenues
+recognized are recorded as Deferred revenues until revenue recognition criteria are met. Client prepayments (even if
+nonrefundable) are deferred and recognized over future periods as services are delivered or performed.
+Our consulting revenues are affected by the number of work days in a fiscal quarter, which in turn is affected by
+the level of vacation days and holidays. Consequently, since our first and third quarters typically have approximately
+5-10% more work days than our second and fourth quarters, our consulting revenues are typically higher in our ﬁrst
+and third quarters than in our second and fourth quarters.
+Net revenues include the margin earned on computer hardware, software and related services resale contracts,
+as well as revenues from alliance agreements, neither of which is material to us. Reimbursements include billings for
+travel and other out-of—pocket expenses and third-party costs, such as the cost of hardware, software and related
+services resales. In addition, Reimbursements include allocations from gross billings to record an amount equivalent
+to reimbursable costs, where billings do not specifically identify reimbursable expenses. We report revenues net of
+any revenue-based taxes assessed by governmental authorities that are imposed on and concurrent with speciﬁc
+revenue-producing transactions.
+Income Taxes
+Determining the consolidated provision for income tax expense, income tax liabilities and deferred tax assets
+and liabilities involves judgment. Deferred tax assets and liabilities, measured using enacted tax rates, are recognized
+for the future tax consequences of temporary differences between the tax and ﬁnancial statement bases of assets and
+liabilities. As a global company, we calculate and provide for income taxes in each of the tax jurisdictions in which we
+operate. This involves estimating current tax exposures in each jurisdiction as well as making judgments regarding
+the recoverability of deferred tax assets. Tax exposures can involve complex issues and may require an extended
+period to resolve. In assessing the realizability of deferred tax assets, we consider whether it is more likely than not
+that some portion or all of the deferred tax assets will not be realized and adjust the valuation allowances accordingly.
+Factors considered in making this determination include the period of expiration of the tax asset, planned use of the
+tax asset, tax planning strategies and historical and projected taxable income as well as tax liabilities for the tax
+jurisdiction in which the tax asset is located. Valuation allowances will be subject to change in each future reporting
+period as a result of changes in one or more of these factors. Changes in the geographic mix or estimated level of
+annual income before taxes can affect the overall effective tax rate.
+We apply an estimated annual effective tax rate to our quarterly operating results to determine the interim provision
+for income tax expense. In accordance with Financial Accounting Standards Board (“FASB”) guidance on uncertainty
+in income taxes, a change injudgment that impacts the measurement of a tax position taken in a prior year is recognized
+as a discrete item in the interim period in which the change occurs. In the event there is a signiﬁcant unusual or
+infrequent item recognized in our quarterly operating results, the tax attributable to that item is recorded in the interim
+period in which it occurs.
+32

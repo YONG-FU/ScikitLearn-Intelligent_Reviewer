@@ -1,0 +1,41 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+2. ACQUISITIONS
+Fiscal 2017 Acquisitions
+In June 2016, we acquired certain companies primarily to expand our cloud industry solutions offerings. These acquisitions were not individually signiﬁcant. In the
+aggregate, the estimated total preliminary purchase price was $1.3 billion. An initial allocation of the purchase price for these acquisitions will be performed in the
+first quarter of fiscal 2017.
+Fiscal 2016 Acquisitions
+During ﬁscal 2016, we acquired certain companies and purchased certain technology and development assets primarily to expand our products and services
+offerings. These acquisitions were not significant individually or in the aggregate.
+Fiscal 2015 Acquisitions
+Acquisition ofMICROS Systems, Inc.
+On June 22, 2014, we entered into an Agreement and Plan of Merger (Merger Agreement) with MICROS Systems, Inc. (MICROS), a provider of integrated
+software, hardware and services solutions to the hospitality and retail industries. On July 3, 2014, pursuant to the Merger Agreement, we commenced a tender offer
+to purchase all of the issued and outstanding shares of common stock of MICROS at a purchase price of $68.00 per share, net to the holder in cash, without interest
+thereon, based upon the terms and subject to the conditions set forth in the Merger Agreement. Between September 3, 2014 and September 8, 2014, pursuant to the
+terms of the tender offer, we accepted and paid for the substantial majority of outstanding shares of MICROS common stock. On September 8, 2014, we
+effectuated the merger of MICROS with and into a wholly-owned subsidiary of Oracle pursuant to the terms of the Merger Agreement and applicable Maryland
+law, and MICROS became an indirect, wholly-owned subsidiary of Oracle. Pursuant to the merger, shares of MICROS common stock that remained outstanding
+and were not acquired by us were converted into, and cancelled in exchange for, the right to receive $68.00 per share in cash. The unvested equity awards to
+acquire MICROS common stock that were outstanding immediately prior to the conclusion of the merger were converted into equity awards denominated in shares
+of Oracle common stock based on formulas contained in the Merger Agreement. We acquired MICROS to, among other things, expand our cloud and on-premise
+software, hardware and related services offerings for hotels, food and beverage industries, facilities, and retailers. We have included the financial results of
+MICROS in our consolidated financial statements from the date of acquisition.
+Pursuant to our business combinations accounting policy, we estimated the fair values of net tangible and intangible assets acquired, and the excess of the
+consideration transferred over the aggregate of such fair values was recorded as goodwill. The following table summarizes the estimated fair values of net assets
+acquired from MICROS:
+(in millions)
+Cash and cash equivalents $ 683 ‘
+Trade receivables, net 181
+Inventories 28 \
+Goodwill 3,242
+intangible assets 2,030 \
+Other assets 155
+!Aecounts payable and other liabilities (359M
+Deferred tax liabilities, net (536)
+Deferred revenues (177M
+Total 5,247
+105

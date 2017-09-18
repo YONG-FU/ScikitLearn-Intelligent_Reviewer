@@ -1,0 +1,43 @@
+We depend on manufacturers of our semiconductor products not only to respond to changes in technology and industry standards but also to continue the
+manufacturing processes on which we rely.
+To respond effectively to changes in technology and industry standards, we depend on our foundries to implement advanced semiconductor technologies
+and our operations could be adversely affected if those technologies are unavailable, delayed or inefﬁciently implemented. In order to increase performance
+and functionality and reduce the size of our products, we are continuously developing new products using advanced technologies that further miniaturize
+semiconductors and we are dependent on our foundries to develop and provide access to the advanced processes that enable such miniaturization. We cannot
+be certain that future advanced manufacturing processes will be implemented without difﬁculties, delays or increased expenses. Our business, ﬁnancial
+condition and results of operations could be materially adversely affected if advanced manufacturing processes are unavailable to us, substantially delayed or
+inefﬁciently implemented.
+Creating the capacity for new technological changes may cause manufacturers to discontinue older manufacturing processes in favor of newer ones. We must
+then either retire the aﬁ‘ected part or port (develop) a new version of the part that can be manufactured with a newer process technology. In the event that a
+manufacturing process is discontinued, our current suppliers may be unwilling or unable to manufacture our current products. We may not be able to place
+last time buy orders for the old technology or ﬁnd alternate manufacturers of our products to allow us to continue to produce products with the older
+technology while we expend the signiﬁcant costs for research and development and time to migrate to new, more advanced processes. For example, we utilize
+0.18um and 0.15um standard logic processes, which may only be available for the next ﬁve to seven years. Additionally, a portion of our products use
+0.11um technology for memory die, which is being phased out in favor of 63nm technology to increase yields and decrease cost. Because of this transition,
+our customers must re-qualify the affected parts.
+Shortages of materials used in the manufacturing of our products and other key components of our customers’ products may increase our costs, impair our
+ability to ship our products on time and delay our ability to sell our products.
+From time to time, shortages of components and materials that are critical to the manufacture of our products and our customers’ products may occur. Such
+critical components and materials include semiconductor wafers and packages, double data rate memory die, display components, analog-to-digital
+converters, digital receivers, video decoders and voltage regulators. If material shortages occur, we may incur additional costs or be unable to ship our
+products to our customers in a timely fashion, both of which could harm our business and adversely affect our results of operations.
+Because of our long product development process and sales cycles, we may incur substantial costs before we earn associated revenue and ultimately may
+not sell as many units of our products as we originally anticipated.
+We develop products based on anticipated market and customer requirements and incur substantial product development expenditures, which can include
+the payment of large up-front, third—party license fees and royalties, prior to generating associated revenue. Our work under these projects is technically
+challenging and places considerable demands on our limited resources, particularly on our most senior engineering talent. Additionally, the transition to
+smaller geometry process technologies continues to signiﬁcantly increase the cost and complexity of new product development, particularly with regards to
+tooling, software tools, third party IP and engineering resources. Because the development of our products incorporates not only our complex and evolving
+technology, but also our customers’ speciﬁc requirements, a lengthy sales process is often required before potential customers begin the technical evaluation
+of our products. Our customers typically perform numerous tests and extensively evaluate our products before incorporating them into their systems. The time
+required for testing, evaluation and design of our products into a customer’s system can take nine months or more. It can take an additional nine months or
+longer before a customer commences volume shipments of systems that incorporate our products, if at all. Because of the lengthy development and sales
+cycles, we will experience delays between the time we incur expenditures for research and development, sales and marketing and inventory and the time we
+generate revenue, if any, from these expenditures.
+Furthermore, we have entered into and may in the future enter into, co-development agreements that do not guarantee ﬁlture sales volumes and limit our
+ability to sell the developed products to other customers. The exclusive nature of these development agreements increases our dependence on individual
+customers, particularly since we are limited in the number of products we are able to develop at any one time.
+If actual sales volumes for a particular product are substantially less than originally anticipated, we may experience large write-offs of capitalized license fees,
+software development tools, product masks, inventories or other capitalized or deferred product-related costs, any of which would negatively affect our
+operating results.
+22

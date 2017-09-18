@@ -1,0 +1,42 @@
+Table of Contents
+unlimited; however, the Company has Directors’ and Officers’ Liability insurance coverage that is intended to reduce its financial exposure and may enable the
+Company to recover a portion of any such payments. The Company believes the estimated fair value of these indemnification agreements in excess of applicable
+insurance coverage is minimal.
+Research, development and other related costs
+Research, development and other related costs consist primarily of compensation and related costs for personnel, as well as costs related to patent applications and
+examinations, product "tear downs" and reverse engineering, materials, supplies and equipment depreciation. Research and development is conducted primarily in-
+house and targets development of chip-scale and multi-chip packaging, circuitry design, 3D—IC architectures, wafer-level packaging technology, advanced
+substrates, and image enhancement technology. All research, development and other related costs are expensed as incurred.
+Stock-based compensation expense
+The Company accounts for stock-based compensation expense in accordance with the authoritative guidance on share-based payment. Under the provisions of the
+guidance, stock-based compensation expense is measured at the grant date based on the fair value of the option using a Black-Scholes option pricing model and is
+recognized as expense on a straight-line basis over the requisite service period, which is generally the vesting period. The fair value of the Company’s stock awards
+for non-employees was estimated based on the fair market value on each vesting date, accounted for under the variable-accounting method.
+The authoritative guidance also requires that the Company measure and recognize stock-based compensation expense upon modification of the term of stock
+award. The stock-based compensation expense for such modification is the sum of any unamortized expense of the award before modification and the modification
+expense. The modification expense is the incremental amount of the fair value of the award before the modification and the fair value of the award after the
+modification, measured on the date of modiﬁcation. In the case when the modification results in a longer requisite period than in the original award, the Company
+has elected to apply the pool method where the aggregate of the unamortized expense and the modification expense is amortized over the new requisite period on a
+straight-line basis. In addition, any forfeiture will be based on the original requisite period prior to the modification.
+Calculating stock-based compensation expense requires the input of highly subjective assumptions, including the expected term of the stock-based awards, stock
+price volatility, and the pre—vesting option forfeiture rate. The Company estimates the expected life of options granted based on historical exercise patterns, which
+are believed to be representative of future behavior. The Company estimates the volatility of the Company’s common stock on the date of grant based on historical
+volatility. The assumptions used in calculating the fair value of stock-based awards represent the Company’s best estimates, but these estimates involve inherent
+uncertainties and the application of management judgment. As a result, if factors change and the Company uses different assumptions, its stock-based
+compensation expense could be materially different in the future. In addition, the Company is required to estimate the expected forfeiture rate and only recognize
+expense for those shares expected to vest. The Company estimates the forfeiture rate based on historical experience of its stock-based awards that are granted,
+exercised and cancelled. If the actual forfeiture rate is materially different from the estimate, stock-based compensation expense could be significantly different
+from what was recorded in the current period. See Note 12 — “Stock-based Compensation Expense” for additional detail.
+Income taxes
+The Company must make certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments
+occur in the calculation of tax credits, tax beneﬁts, tax deductions, and in the calculation of certain deferred taxes and tax liabilities. Significant changes to these
+estimates may result in an increase or decrease to the Company’s tax provision in a subsequent period.
+The provision for income taxes was comprised of the Company’s current tax liability and changes in deferred income tax assets and liabilities. The calculation of
+the current tax liability involves dealing with uncertainties in the application of complex tax laws and regulations and in determining the liability for tax positions,
+if any, taken on the Company’s tax returns in accordance with authoritative guidance on accounting for uncertainty in income taxes. Deferred income taxes are
+determined based on the differences between the financial reporting and tax basis of assets and liabilities. The Company must assess the likelihood that it will be
+able to recover the Company’s deferred tax assets. If recovery is not likely on a more-likely-than-not basis, the Company must increase its provision for income
+taxes by recording a valuation allowance against the deferred tax assets that it estimates will not ultimately be recoverable. However, should there be a change in
+the Company’s ability to recover its deferred tax assets, the provision for income taxes would ﬂuctuate in the period of such change. See Note 13 — “Income
+Taxes” for additional detail.
+F - 10

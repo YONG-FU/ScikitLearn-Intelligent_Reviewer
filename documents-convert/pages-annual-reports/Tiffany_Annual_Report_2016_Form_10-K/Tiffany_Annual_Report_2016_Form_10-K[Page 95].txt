@@ -1,0 +1,44 @@
+The fair value of the Qualified Plan's assets at January 31, 2017 and 2016 by asset category is as follows:
+Fair Value Measurements
+Fair Value at 7 Using Inputs Considered as* 7
+(in millions) January 31, 2017 7 Level 1 Level 2 Level 3 7
+Equity securities:
+U.S. equity securities $ 56.2 $ 56.2 $ — $ —
+Mutual fund 35.1 35.1 — —
+Fixed income securities:
+Government bonds 78.2 77.8 0.4 —
+Corporate bonds 83.8 — 83.8 —
+Other types of investments:
+Cash and cash equivalents 7.8 7.8 — — .
+Mutual funds 7 36.7 36.7 — —7
+Net assets in fair value hierarchy 297.8 213.6 84.2 —
+Investments at NAV practical expedient a 232.3 3
+Plan assets at fair value $ 530.1 $ 213.6 $ 84.2 $ —:
+or:
+Fair Value Measurements
+Fair Value at 7 Using Inputs Considered as* 7
+(in millions) January 31, 2016 7 Level 1 Level 2 Level 3
+Equity securities: 7 r ‘
+U.S. equity securities $ 45.6 $ 45.6 $ — $ —
+Mutual fund 27.4 27.4 — —
+Fixed income securities:
+Government bonds 62.3 61.3 1.0 —
+Corporate bonds 87.7 — 87.7 —
+Other types of investments:
+Cash and cash equivalents 2.5 2.5 — —
+Mutual funds 7 25.6 25.6 — —7
+Net assets in fair value hierarchy 7 251.1 162.4 88.7 —7
+Investments at NAV practical expedienta 134.7
+Plan assets at fair value 755 385.8 $ 162.4 $ 88.7 $ —7
+* See "Note |. Fair Value of Financial Instruments" for a description of the levels of inputs.
+3 In accordance with ASC 820-10, certain investments that are measured at fair value using the net asset value
+("NAV") per share (or its equivalent) practical expedient have not been classified in the fair value hierarchy. The
+fair value amounts presented in this table are intended to permit reconciliation of the fair value hierarchy to the
+Qualified Plan's fair value of plan assets at the end of each respective year.
+Valuation Techniques
+Investments within the fair value hierarchy. Securities traded on the national securities exchange (certain
+government bonds) are valued at the last reported sales price or closing price on the last business day of the fiscal
+year. Investments traded in the over-the-counter market and listed securities for which no sales were reported
+(certain government bonds, corporate bonds and mortgage obligations) are valued at the last reported bid price.
+TIFFANY & co.
+K-89

@@ -1,0 +1,47 @@
+breached or data lost as a result of actions by third parties, employee error (such as weak passwords or
+unencrypted devices), malfeasance or vulnerabilities or security bugs found in software code. A party who is able
+to circumvent security measures or exploit inadequacies in security measures, could, among other things,
+misappropriate proprietary information (including information about our employees, customers and partners, our
+customers’ information, financial data and data that others could use to compete against us), cause the loss or
+disclosure of some or all of this information, cause interruptions or denial of service in our or our customers’
+operations, cause delays in development efforts or expose customers (and their customers) to computer viruses or
+other disruptions or vulnerabilities. A compromise to these systems could remain undetected for an extended
+period of time, exacerbating the impact of that compromise. These risks may increase as we continue to grow our
+cloud, mobile and services offerings and as we receive, store and process more of our customers’ data. Actual or
+perceived vulnerabilities may lead to regulatory investigations, claims against us by customers, partners or other
+third parties, or costs, such as those related to providing customer notifications and fraud monitoring. While our
+customer agreements typically contain provisions that seek to limit our liability, there is no assurance these
+provisions will be enforceable and effective under applicable law. In addition, the cost and operational
+consequences of implementing further data protection measures could be significant. Moreover, because the
+techniques used to obtain unauthorized access, disable or degrade service or sabotage systems change frequently
+and often are not recognized until launched against a target, we may be unable to anticipate these techniques or to
+implement adequate preventative measures. Any loss of data or compromise of our systems or the data we
+receive, store or process (or systems and the data received, stored and processed by third parties with whom we
+contract) could result in a loss of confidence in the security of our offerings, damage our reputation, loss of
+channel or strategic partners, lead to legal liability and adversely affect our business, financial condition,
+operating results and cash ﬂows.
+We are vulnerable to technology infrastructure failures, which could harm our reputation and adversely
+affect our business.
+We rely on our technology infrastructure, and the technology infrastructure of third parties, for many
+functions, including selling our offerings, supporting our partners, fulfilling orders and billing, and collecting and
+making payments. This technology infrastructure may be vulnerable to damage or interruption from natural
+disasters, power loss, telecommunication failures, terrorist attacks, computer intrusions, vulnerabilities and
+viruses, software errors, computer denial-of—service attacks and other events. A significant number of the systems
+making up this infrastructure are not redundant, and our disaster recovery planning may not be sufficient for
+every eventuality. This technology infrastructure may fail or be vulnerable to damage or interruption because of
+actions by third parties or employee error or malfeasance. We may not carry business interruption insurance
+sufficient to protect us from all losses that may result from interruptions in our services as a result of technology
+infrastructure failures or to cover all contingencies. Any interruption in the availability of our websites and on-
+line interactions with customers or partners may cause a reduction in customer or partner satisfaction levels,
+which in turn could cause additional claims, reduced revenue or loss of customers or partners. Despite any
+precautions we may take, such problems could result in, among other consequences, a loss of data, loss of
+confidence in the stability and reliability of our offerings, damage to our reputation, and legal liability, all of
+which may adversely affect our business, financial condition, operating results and cash ﬂows interruptions.
+A decline in or reprioritization of funding in the US. or foreign government budgets or delays in the
+budget process could adversely affect our business, financial condition, operating results and cash ﬂows.
+We derive, and expect to continue to derive, a portion of our revenue from US. and foreign governments.
+Government deficit reduction and austerity measures, along with continued economic challenges, continue to
+place pressure on US. and foreign government spending. The termination of, or delayed or reduced funding for,
+government-sponsored programs and contracts from which we derive revenue could adversely affect our
+business, financial condition, operating results and cash ﬂows.
+27

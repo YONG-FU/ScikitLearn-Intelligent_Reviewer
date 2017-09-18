@@ -1,0 +1,42 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+We conduct impairment tests of our indefinite-lived assets annually in the fourth quarter of each fiscal year, or more
+frequently if events or changes in circumstances indicate that it is more likely than not that the fair value of an indefinite-lived
+asset is less than its carrying value or when circumstances no longer continue to support an indefinite useful life.
+Our annual impairment tests as of October 1, 2016 produced estimated fair values in excess of the carrying values for
+all of our remaining indefinite-lived intangible assets.
+2016 International Lottery Systems Impairment Charge
+Based on the results of our annual goodwill impairment test for our International Lottery Systems reporting unit, we
+recorded a goodwill impairment charge of $69.0 million, which resulted in a tax benefit of $14.5 million, during the fourth
+quarter of 2016. The impairment charge resulted from an accumulation of various internal and external factors, including the
+loss of our China Sports Lottery validation contract, the inability to receive regulatory approval in 2016 on certain games
+resulting in lower than anticipated replacement revenues, and the underlying factors driving the assumptions used in our model
+for goodwill valuation purposes, which were based on normalized historical results as described below.
+For purposes of the step one test under ASC 350-20, we estimated the fair value of the International Lottery Systems
+reporting unit using both an income approach that analyzed projected discounted cash ﬂows and a market approach that
+considered comparable public companies. In determining the fair value of our International Lottery Systems reporting unit, we
+have given equal weight to the income and the market approach.
+In calculating the fair value of our International Lottery Systems reporting unit using the income approach, we used
+projections of revenues, profit margin, operating costs, capital expenditures and cash ﬂows that primarily considered historical
+results, but also considered estimated future results and general economic and market conditions. In developing these
+projections, as large system installations and related hardware and terminal sales are inherently unpredictable, we used
+normalized historical results, even though such installations have occurred in the past and may reoccur in the future. The
+following estimates and assumptions were used in the discounted cash ﬂow analysis:
+- A terminal revenue growth rate of 2.0%;
+- A terminal profit margin percentage reﬂecting our historical normalized profit margins;
+- Assumptions regarding future capital expenditures reﬂective of maintaining and renewing our current customer contracts
+under normalized operations; and
+- An overall discount rate of 8% based on our weighted average cost of capital for the International Lottery Systems
+reporting unit.
+As the step one test indicated a possible impairment in the carrying value of our International Lottery Systems
+reporting unit goodwill, we performed step two of the impairment test to determine the amount of goodwill impairment to be
+recorded. The amount of the impairment was calculated by using assumptions consistent with our step one assumptions
+described above and the resulting implied fair value of the goodwill after allocating the fair value determined in the step one
+test to the individual assets and liabilities of the reporting unit, including the fair value of identified intangible assets which are
+not included in the existing carrying value of the reporting unit. The International Lottery Systems reporting unit fair value
+from our step one test was primarily allocated to our existing recorded assets and liabilities and our unrecorded identified
+intangible assets, including our proprietary Lottery systems platform and our existing customer relationships, resulting in an
+unallocated excess amount of $22.9 million, which was the implied fair value of the goodwill and was used in determining the
+impairment charge. The International Lottery Systems reporting unit is included in our Lottery business segment.
+94

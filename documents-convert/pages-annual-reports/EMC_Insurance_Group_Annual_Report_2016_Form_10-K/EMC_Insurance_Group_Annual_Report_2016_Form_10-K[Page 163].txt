@@ -1,0 +1,43 @@
+The Company manages its VEBA trust assets internally. Assets contained in the VEBA trust to fund Employers
+Mutual’s postretirement benefit obligations are currently invested in universal life insurance policies (issued by EMC National
+Life Company, an aﬁiliate of Employers Mutual), mutual funds and an exchange-traded fund (ETF). The mutual funds are
+ﬁxed income, international equity and domestic equity funds. The ETF is an emerging markets fund.
+See note 8 for a discussion on fair value measurement. Following is a brief description of the various pricing techniques
+used for the asset classes of Employers Mutual ’s VEBA trust.
+- Money Market Fund: Valued at amortized cost, which approximates fair value. Under this method, investments
+purchased at a discount or premium are valued by accreting or amortizing the difference between the original
+purchase price and maturity value of the issue over the period to maturity. The net asset value of each share held by
+the trust at year-end was $1.00.
+- Mutual Funds: Valued at the net asset value of shares held by the trust at year-end. For purposes of calculating the
+net asset value, portfolio securities and other assets for which market quotes are readily available are valued at fair
+value. Fair value is generally determined on the basis of last reported sales prices, or if no sales are reported, based
+on quotes obtained from a quotation reporting system, established market makers, or independent pricing services.
+- ETF: Valued at the closing price from the applicable exchange.
+- Life Insurance Contract: Valued at the cash surrender value, which approximates fair value.
+The fair values of the assets held in Employers Mutual ’s VEBA trust are as follows:
+December 31, 2016 7 Fair value measurements using 7
+Quoted
+prices in Significant
+active markets other Significant
+for identical observable unobservable
+assets inputs inputs
+($ in thousands) Total (Level 1) (Level 2) (Level 3)
+[Money market fund $ 1,485 $ 1,485 $ — $ — 1
+Emerging markets ETF 3,743 3,743 — —
+{Mutual funds 47,916 47,916 — — ]
+Life insurance contracts 14,159 — — 14,159
+[Cash 506 _ 506 _ — _ —l
+Total benefit plan assets $ 67,809 $ 53,650 $ — $ 14,159
+December 31, 2015 7 Fair value measurements using 7
+Quoted
+prices in Significant
+active markets other Significant
+for identical observable unobservable
+assets inputs inputs
+($ in thousands) Total (Level 1) (Level 2) (Level 3)
+[Money market fund 38 2,709 $ 2,709 $ — $ — I
+Emerging markets ETF 3,422 3,422 — —
+{Mutual funds 46,397 46,397 — — 1
+Life insurance contracts 7 13,792 7 —7 7 —7 7 13,792
+[ Total benefit plan assets 77$ 66,3207, 77$ 52,528 i 77$ —i 77$ 13,792l
+152

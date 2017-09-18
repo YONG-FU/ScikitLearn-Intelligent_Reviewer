@@ -1,0 +1,34 @@
+Stock Performance Graph
+The following graph shows a comparison of cumulative total return (equal to dividends plus stock
+appreciation) during the period from February 28, 2011 through February 29, 2016 for:
+0 Red Hat, Inc.;
+0 a peer group consisting of Adobe Systems Incorporated, Akamai Technologies, Inc., Ansys, Inc.,
+Autodesk, Inc., Cadence Design Systems, Inc., Citrix, Intuit Inc., Jack Henry & Associates, Inc.,
+NetApp, Nuance Communications, Inc., Open Text Corporation, PTC Inc., Salesforce, Symantec,
+Synopsys, Inc., Verint Systems Inc., Verisign, Inc. and VMware (the “Stock Performance Peer Group”);
+and
+0 the S&P 500 Index.
+We are required to provide a line- graph presentation comparing cumulative, five-year stockholder returns on
+an indexed basis with a broad equity market index and either a published industry index or an index of peer
+companies selected by Red Hat. In our index of peer group companies, we have selected peer companies
+considered to be peers for purposes of benchmarking executive compensation during the fiscal year ended
+February 29, 2016.
+COMPARISON OF FIVE-YEAR CUMULATIVE
+TOTAL RETURN AMONG RED HAT,
+STOCK PERFORWNCE PEER GROUP AND S&P 500 INDEX
+$200
+$150
+’,.n-"""” ""“N-n
+$100
+$50
+$0 | I I I I I
+2011 2012 2013 2014 2015 2016
+| —¢—RED HAT, INC. - -:1- - PEER GROUP :x: S&P 500 INDEX |
+2/28/2011 2/29/2012 2/28/2013 2/28/2014 2/28/2015 2/29/2016
+RED HAT, INC. .......................... $100.00 $119.82 $123.09 $142.90 $167.44 $158.31
+PEER GROUP . . . . . . . . . . . . . . . . . . . . . . . . . . .. $100.00 $105.50 $105.14 $136.72 $149.35 $137.00
+S&P 500 INDEX . . . . . . . . . . . . . . . . . . . . . . . . .. $100.00 $105.12 $119.27 $149.53 $172.72 $162.03
+Notes:
+0 Assumes initial investment of $100.00 on February 28, 2011. Total return includes reinvestment of
+dividends.
+43

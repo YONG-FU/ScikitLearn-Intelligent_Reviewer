@@ -1,0 +1,27 @@
+Table,0f,C,0ntents
+Investment Exposure
+We are exposed to investment risk as it relates to changes in the market value of our investments. We have investments in marketable debt securities and equity
+instruments of public and private companies. As of the date of the Alibaba Group lPO, we no longer account for our remaining investment in Alibaba Group
+using the equity method and no longer record our proportionate share of Alibaba Group’s ﬁnancial results in the consolidated ﬁnancial statements. Instead, we
+now reﬂect our remaining investment in Alibaba Group as an available-for—sale equity security on the consolidated balance sheet and adjust the investment to
+fair value each quarterly reporting period with changes in fair value recorded within other comprehensive income (loss), net of tax. The change in the
+classiﬁcation of our investment in Alibaba Group from an equity method investment to an available-for-sale equity security exposes our investment portfolio to
+increased equity price risk. The fair value of the equity investment in Alibaba Group will vary over time and is subject to a variety of market risks including:
+company performance, macro-economic, regulatory, industry, and systemic risks of the equity markets overall.
+The objective of our corporate investment policy is to preserve capital, meet liquidity requirements, and provide a reasonable rate of return. A large portion of our
+cash and cash equivalents and short-term and long-term investments is managed by external managers according to the guidelines of our corporate investment
+policy. We protect and preserve invested funds by limiting default, market, and reinvestment risk. To achieve this objective, we maintain our portfolio of cash and
+cash equivalents and short-term and long-term investments in a variety of marketable debt securities, including both government and corporate obligations and
+money market funds. As of both December 31, 2016 and 2015, net unrealized losses on these investments were $5 million.
+A sensitivity analysis was performed on our marketable equity securities portfolio to assess the potential impact of ﬂuctuations in stock price. Hypothetical
+declines in stock price of ten percent, twenty percent, and thirty percent were selected based on potential near-term changes in the stock price that could have
+an adverse effect on our marketable equity securities portfolio. As of December 31, 2016 and 2015, the fair value of our marketable equity securities portfolio
+was approximately $34 billion and $31 billion, respectively. As of December 31 , 2016, declines in stock prices of ten percent, twenty percent and thirty percent
+would result in a $3 billion, $7 billion and $10 billion decline, respectively, in the total value of our marketable equity securities portfolio.
+We performed a separate sensitivity analysis on our Hortonworks warrants for which we estimate fair value using the Black-Scholes model. We have held all
+other inputs constant and determined the impact of hypothetical declines in stock price of ten percent, twenty percent, and thirty percent, based on potential
+near-term changes in the stock price that could have an adverse effect on the fair value of the warrants and result in a loss recorded to the consolidated
+statements of operations. As of December 31, 2016 and 2015, the fair value of the Hortonworks warrants was approximately $29 million and $79 million,
+respectively. As of December 31, 2016, declines in stock prices of ten percent, twenty percent and thirty percent would result in a $3 million, $6 million and
+$9 million decline, respectively, in the total value of the Hortonworks warrants.
+91

@@ -1,0 +1,43 @@
+Inventory Valuation. We value inventory at the lower of cost or market. In addition, we write down any obsolete, unmarketable or otherwise impaired
+inventory to net realizable value. The determination of obsolete or excess inventory requires us to estimate the future demand for our products. The estimate
+of future demand is compared to inventory levels to determine the amount, if any, of obsolete or excess inventory. Ifactual market conditions are less
+favorable than those we projected at the time the inventory was written down, additional inventory write-downs may be required. Inventory valuation is re-
+evaluated on a quarterly basis.
+Useful Lives and Recoverability of Equipment and Other Lon g-Lz'ved Assets. We evaluate the remaining useful life and recoverability of equipment and other
+assets, including identiﬁable intangible assets, whenever events or changes in circumstances indicate that the carrying amount of the assets may not be
+recoverable. If there is an indicator of impairment, we prepare an estimate of future, undiscounted cash ﬂows expected to result from the use of each asset and
+its eventual disposition. If these cash ﬂows are less than the carrying value of the asset, we adjust the carrying amount of the asset to its estimated fair value.
+While we have concluded that the carrying value of our long-lived assets is recoverable as of December 31, 2016, our analysis is dependent upon our
+estimates of ﬁiture cash ﬂows and our actual results may vary.
+Stock-Based Compensation. Stock-based compensation expense is measured at the grant date, based on the estimated fair value of the award using the Black-
+Scholes option pricing model for stock options and market price for restricted stock units. The use of the Black-Scholes option pricing model, requires certain
+estimates, including an expected forfeiture rate and expected term of options granted. We also make decisions regarding the method of calculating expected
+volatilities and the risk-free interest rate used in the option—pricing model. The resulting calculated fair value of stock options is recognized as compensation
+expense over the requisite service period, which is generally the vesting period. When there are changes to the assumptions used in the option-pricing model,
+including ﬂuctuations in the market price of our common stock, there will be variations in the calculated fair value of our future stock option awards, which
+results in variation in the stock-based compensation expensed recognized. Additionally, any modiﬁcation of an award that increases its fair value will require
+us to recognize additional expense.
+Income Taxes. We record deferred income taxes for temporary differences between the amount of assets and liabilities for ﬁnancial and tax reporting purposes
+and we record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. We also regularly conduct a
+comprehensive review of our uncertain tax positions. In this regard, an uncertain tax position represents our expected treatment of a tax position taken in a
+ﬁled tax return, or planned to be taken in a ﬁiture tax return, that has not been reﬂected in measuring income tax expense for ﬁnancial reporting purposes.
+Until these positions are sustained by the taxing authorities, we do not recognize the tax beneﬁts resulting from such positions and report the tax effects for
+uncertain tax positions in our consolidated balance sheets.
+Contractual Payment Obligations
+A summary of our contractual obligations as of December 31, 2016 is as follows:
+Payments Due By Period
+Less than More than 5
+Contractual Obligation Total 1 year 1—3 years 3-5 years years
+'Qperating leases $ 5,167 $ 2,329 $ 2,646 $ 192 $ — 1
+Payments on accrued balances related to asset ﬁnancings 418 418 — — —
+lEstimated purchase commitments to contract manufacturers 9,226 _ 9,226 _ — _ — _ — 1
+Total1 $ 14,811 $ 11,973 $ 2,646 $ 192 $ —
+1 We are unable to reliably estimate the timing of future payments related to uncertain tax positions and repatriation of foreign earnings; therefore,
+$1.9 million of income taxes payable has been excluded from the table above.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements that have, or are reasonably likely to have, a material current or ﬁiture effect on our ﬁnancial condition,
+results of operations, liquidity, capital expenditures or capital resources.
+Recent Accounting Pronouncements
+See "Note 2: Summary of Signiﬁcant Accounting Policies" in Part H, Item 8 of this Form 10-K for a description of recent accounting pronouncements,
+including the expected dates of adoption and estimated effects, if any, on our consolidated ﬁnancial statements.
+40

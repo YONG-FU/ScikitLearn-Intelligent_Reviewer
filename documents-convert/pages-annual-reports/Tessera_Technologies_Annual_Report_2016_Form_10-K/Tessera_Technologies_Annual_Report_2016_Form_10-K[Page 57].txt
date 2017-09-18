@@ -1,0 +1,42 @@
+Table of Contents
+Identiﬁed intangible assets . Identiﬁed intangible assets consist of acquired patents, existing technology, trade names, assembled workforce and non-compete
+agreements resulting from business combinations, and acquired patents under asset purchase agreements. The Company’s identiﬁed intangible assets are amortized
+on a straight-line basis over their estimated useful lives, ranging from 2 to 15 years . The Company makes judgments about the recoverability of purchased ﬁnite-
+lived intangible assets whenever facts and circumstances indicate that the useful life is shorter than originally estimated or that the carrying amount of assets may
+not be recoverable. If such facts and circumstances exist, the Company assesses recoverability by comparing the projected undiscounted net cash ﬂows associated
+with the related asset or group of assets over their remaining lives against their respective carrying amounts. Impairments, if any, are based on the excess of the
+carrying amount over the fair value of those assets. If the useful life is shorter than originally estimated, the Company would accelerate the rate of amortization and
+amortize the remaining carrying value over the new shorter useful life.
+For further discussion of goodwill and identiﬁed intangible assets, see “Note 9 — Goodwill and Identified Intangible Assets.”
+Treasury stock
+The Company accounts for stock repurchases using the cost method. For reissuance of treasury stock, to the extent that the reissuance price is more than the cost,
+the excess is recorded as an increase to capital in excess of par value. If the reissuance price is less than the cost, the difference is recorded in capital in excess of
+par value to the extent there is a cumulative treasury stock paid-in capital balance. Once the cumulative balance is reduced to zero , any remaining difference
+resulting from the sale of treasury stock below cost is recorded as a reduction of retained earnings.
+Revenue recognition
+The Company derives its revenue from royalty and license fees. Revenues are recognized when there is persuasive evidence of an arrangement, delivery has
+occurred, the fee is fixed or determinable, and collectability of the resulting receivable is reasonably assured. Determining whether and when these criteria have
+been satisfied requires the Company to make assumptions and judgments which could have a significant impact on the timing and amount of revenues it reports.
+Royalty revenues are generated from a licensee's production or shipment of licensed products incorporating the Company’s intellectual property, technologies or
+software. Running royalties are primarily based on unit volumes shipped. Licensees generally report shipment information within 30 to 60 days following the end
+of the quarter. From time to time the Company also enters into license agreements that provide for ﬁxed license fees or royalty payments. When there is no reliable
+basis on which the Company can estimate its royalty revenues prior to obtaining these reports from the licensees, the Company recognizes royalty revenues on a
+one-quarter lag. Royalty revenue also includes payments resulting from periodic compliance audits of licensees, as part of a settlement of a patent infringement
+dispute, or judgments of license dispute.
+License revenues are generated from license agreements for certain rights to the Company’s intellectual property technologies. The Company also derives revenue
+from software licenses for digital and video photography image enhancement technology. In some instances, the Company may enter into license agreements that
+involve multiple element arrangements to also include technology transfer, design, technical service and unspeciﬁed support. For technology and software licenses,
+revenue is recognized upon delivery or on a straight-line basis over the period in which the unspecified support or service is performed.
+The Company recognizes revenue from litigation settlements when payments are received which is deemed to be when collectability is reasonably assured.
+The Company provides payment terms to licensees based upon their ﬁnancial strength, credit worthiness and the Company’s collection experience with the
+licensee. If the Company provides extended payment terms, revenue is deferred until payment is due.
+Indemnification
+The Company provides indemnification of varying scope to certain customers against claims of intellectual property infringement made by third parties arising
+from the use of the Company’s technologies. In accordance with authoritative guidance for accounting for guarantees, the Company evaluates estimated losses for
+such indemnification. The Company considers such factors as the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of
+the amount of loss. To date, no such claims have been ﬁled against the Company and, as a result, no liability has been recorded in the Company’s ﬁnancial
+statements.
+As permitted under Delaware law, the Company has agreements whereby it indemnifies its officers and directors for certain events or occurrences while the ofﬁcer
+or director is, or was, serving at the Company’s request in such capacity. The maximum potential amount of future payments the Company could be required to
+make under these indemniﬁcation agreements is
+F- 9

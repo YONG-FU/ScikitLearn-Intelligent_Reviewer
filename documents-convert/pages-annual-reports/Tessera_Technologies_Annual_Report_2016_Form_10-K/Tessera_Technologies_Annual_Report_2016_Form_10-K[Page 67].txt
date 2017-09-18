@@ -1,0 +1,40 @@
+Table of Contents
+(1) Includes $5.6 million in pre-tax amortization costs related to the intangible assets acquired.
+(2) Excludes $3.1 million in acquisition related costs, primarily ﬁnancial advisor fees and contract settlement costs incurred by Ziptronix in connection with the
+acquisition.
+(3) Almost all of the revenue and earnings related to Ziptronix in this period is the result of one -time license fee payments during the three months ended March
+31, 2015 (unaudited).
+NOTE 9 — GOODWILL AND IDENTIFIED INTANGIBLE ASSETS
+In March 2013, the Company revised its business strategy for the DigitalOptics business to concentrate its manufacturing efforts on the lens barrel, rather than the
+whole camera module. This revised strategy made the Zhuhai Facility unnecessary. The Company announced the closure of the Zhuhai Facility in March 2013.
+This decision triggered an impairment review of the related goodwill and purchased intangible assets. As a result of the Company's impairment assessment,
+completed in the first quarter of 2013, the Company recorded an impairment charge to goodwill of $6.7 million .
+In 2015, the Company assessed goodwill impairment for its reporting unit. As of September 30, 2015, the Company assessed goodwill impairment for its reporting
+unit by performing a qualitative assessment and no impairment of goodwill was indicated as the Company concluded that it was more likely than not that the fair
+value of its reporting unit exceeded its carrying amount. In addition, there have been no significant events or circumstances affecting the valuation of goodwill
+subsequent to the qualitative assessment performed in the fourth quarter of the year ended December 31, 2015.
+The changes to the carrying value of goodwill from January 1, 2014 through December 31, 2015 are reﬂected below (in thousands):
+’December 31, 2013 $ — ‘
+Goodwill acquired 2,099
+[December 31, 2014 $ 2,099 l
+Goodwill acquired through the acquisition of Ziptronix, Inc. (1) 8,037
+[December 31,2015 $ 10,136 (2) l
+(1) For more information regarding this transaction, see Note 8 - "Business Combinations. "
+(2) This amount is included in "Other assets" on the consolidated balance sheet.
+Identified intangible assets consisted of the following (in thousands):
+December 31, 2015 December 31, 2014
+Average
+Life Gross Accumulated Gross Accumulated
+(Years) _ Assets _ Amortization _ Net _ Assets _ Amortization _ Net
+Acquired patents / core
+technology (1) 3-15 $ 140,345 $ (79,128) $ 61,217 $ 132,157 $ (62,053) $ 70,104
+Existing technology (2) 5-10 50,620 (20,182) 30,438 18,700 (17,932) 768
+lCustomer contracts 3-9 10,200 (7,792) 2,408 8,600 (6,569) 2,031 ‘
+Trade name 4- 10 1,600 (574) 1,026 520 (498) 22
+i $ 202,765 $ (107,676) $ 95,089 $ 159,977 $ (87,052) $ 72,925 i
+(1) In 2014, $5.9 million in patents were purchased and $4.3 million in patents were received through litigation settlements.
+(2) In 2015, $31.7 million of existing technology was acquired through our acquisition of Ziptronix. For more information regarding this existing technology, see
+Note 8 - " Business Combinations ."
+Amortization expense for the years ended December 31, 2015, 2014, and 2013 amounted to $20.6 million , $18.5 million and $19.3 million , respectively. As of
+December 31, 2015, the estimated future amortization expense of intangible assets is as follows (in thousands):
+F - 1 9

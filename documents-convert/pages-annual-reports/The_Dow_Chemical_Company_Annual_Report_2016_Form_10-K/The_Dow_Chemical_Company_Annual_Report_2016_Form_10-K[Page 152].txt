@@ -1,0 +1,52 @@
+iDeferred Tax Balances at December 31 : 2016 : : 2015
+Deferred Tax Deferred Tax Deferred Tax Deferred Tax
+In millions Assets (1 ) Liabilities (1 ) Assets Liabilities
+|Property_(2) $ 307 $ 2,860 $ 130 $ 2,097 l
+Tax loss and credit carryforwards 2,450 7 7 1,647 7 7
+lPostretirement benefit obligations (2) 3,715 75 2,939 84 ‘
+Other accruals and reserves (2) 1,964 883 1,389 882
+lIntangibles 128 1,536 208 692 |
+Inventory _(3) 50 197 13 218
+l Investments 179 1 19 204 242 ‘
+:Other — net (2) 737 643 780 542 i
+| Subtotal $ 9,530 $ 6,313 $ 7,310 $ 4,757 l
+:Valuation allowances (1,061) 7 7 (1,000) 7 7 :
+[Total $ 8,469 $ 6,313 $ 6,310 8 4,7571
+(1) The Company assumed $999 million of deferred tax assets and $1,858 million of deferred tax liabilities as part of the DCC
+Transaction. See Note 4 for additional information.
+(2) Prior year was adjusted to conform to the current year presentation.
+(3) Prior year was adjusted to conform to the current year presentation for the reclassification of $293 million of prepaid tax assets
+to "Other current assets.” See Note 1 for additional information.
+Gross operating loss carryforwards amounted to $10,580 million at December 31, 2016 and $10,364 million at December 31,
+2015. At December 31, 2016, $1,922 million of the operating loss carryforwards were subject to expiration in 2017 through
+2021. The remaining operating loss carryforwards expire in years beyond 2021 or have an indefinite carryforward period. Tax
+credit carryforwards at December 31, 2016 amounted to $928 million ($128 million at December 31, 2015), net of uncertain
+tax positions. The increase in tax credit carryforwards in 2016 was primarily due to reduced domestic income which limited the
+utilization of tax credits. Tax credit carryforwards of $28 million are subject to expiration in 2017 through 2021 and the
+remaining expire in years beyond 2021 or have an indefinite carryforward period.
+The Company had valuation allowances that primarily related to the realization of recorded tax benefits on tax loss
+carryforwards from operations in the United States, Brazil and Asia Pacific of $1,061 million at December 31, 2016 and
+$1,000 million at December 31, 2015.
+Undistributed earnings of foreign subsidiaries and related companies that are deemed to be permanently invested amounted to
+$18,668 million at December 31, 2016, $18,773 million at December 31, 2015 and $18,037 million at December 31, 2014. It is
+not practicable to calculate the unrecognized deferred tax liability on undistributed earnings.
+In the fourth quarter of 2016, a settlement of $206 million was reached on a tax matter associated with a historical change in
+the legal ownership structure of a nonconsolidated affiliate. As a result of the settlement, the Company recorded a net decrease
+in uncertain tax positions of $67 million, included in “Other noncurrent obligations” in the consolidated balance sheets, and an
+unfavorable impact of $13 million to “Provision for income taxes” in the consolidated statements of income. The following
+table provides a reconciliation of the Company's unrecognized tax benefits:
+Total Gross Unrecognized Tax Beneﬁts 7
+In millions 201 6 2015 2014 7
+[Balance at January 1 $ 280 $ 240 $ 266
+Increases related to positions taken on items from prior years (1) 153 92 42
+|Decreases related to positions taken on items from prior years (2) (6) (ﬂ)]
+Increases related to positions taken in the current year (2) 135 10 10
+l Settlement of uncertain tax positions with tax authorities (1) (325) (E) (QX
+:Decreases due to expiration of statutes of limitations 7 7 7 7 (8)
+[Balance at December 31 $ 231 $ 280 $ 240
+(1) Includes the impact of a settlement agreement related to a historical change in the legal ownership structure of a
+nonconsolidated affiliate.
+(2) Includes $126 million assumed in the DCC Transaction.
+At December 31, 2016, the total amount of unrecognized tax benefits which would impact the effective tax rate if recognized
+was $223 million ($206 million at December 31, 2015).
+144

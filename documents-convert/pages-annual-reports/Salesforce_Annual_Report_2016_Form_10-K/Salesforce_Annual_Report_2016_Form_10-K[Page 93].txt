@@ -1,0 +1,43 @@
+years. The aggregate stock compensation remaining to be amortized to costs and expenses will be recognized
+over a weighted average period of 2.0 years. The Company recognizes stock-based expenses related to shares
+issued pursuant to its 2004 Employee Stock Purchase Plan (“ESPP”) on a straight-line basis over the offering
+period, which is 12 months. Stock-based expenses are recognized net of estimated forfeiture activity. The
+estimated forfeiture rate applied is based on historical forfeiture rates. The Company does not anticipate paying
+any cash dividends in the foreseeable future and therefore uses an expected dividend yield of zero in the option
+pricing model.
+The fair value of each stock option grant was estimated on the date of grant using the Black-Scholes option
+pricing model with the following assumptions and fair value per share:
+: Fiscal Year Ended January 31, :
+§tock Options : 2016 : : 2015 : : 2014 :
+Volatility............................. 32-37% 37% 37-43%
+Estimatedlife 3.5years 3.6years 3.4years
+Risk-free interest rate ................... 1.09 - 1.42% 1.12 - 1.53% 0.48 - 1.21%
+Weighted-average fair value per share of
+$ 20.22 $ 17.20 $ 14.08
+Fiscal Year Ended January 31,
+:ESPP: : 2016 : : 2015 : : 2014 :
+Volatility............................. 30-34% 32-35% 31-35%
+Estimatedlife 0.75 years 0.75 years 0.75 years
+Risk-free interest rate . . . . . . . . . . . . . . . . . . . 0.06 - 0.76% 0.07 - 0.23% 0.07 - 0.10%
+Weighted-average fair value per share of
+$ 19.49 $ 14.56 $ 10.30
+The Company estimated its future stock price volatility considering both its observed option-implied
+volatilities and its historical volatility calculations. Management believes this is the best estimate of the expected
+volatility over the expected life of its stock options and stock purchase rights.
+The estimated life for the stock options was based on an analysis of historical exercise activity. The
+estimated life of the ESPP was based on the two purchase periods within each offering period. The risk-free
+interest rate is based on the rate for a U.S. government security with the same estimated life at the time of the
+option grant and the stock purchase rights.
+Advertising Expenses
+Advertising is expensed as incurred. Advertising expense was $315.6 million, $203.6 million and
+$155.8 million for fiscal 2016, 2015 and 2014, respectively.
+Income Taxes
+The Company uses the asset and liability method of accounting for income taxes. Under this method,
+deferred tax assets and liabilities are determined based on temporary differences between the financial statement
+and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are
+expected to reverse. The effect on deferred tax assets and liabilities of a change in tax laws is recognized in the
+consolidated statement of operations in the period that includes the enactment date.
+The Company’s tax positions are subject to income tax audits by multiple tax jurisdictions throughout the
+world. The Company recognizes the tax benefit of an uncertain tax position only if it is more likely than not that
+the position is sustainable upon examination by the taxing authority, solely based on its technical merits. The tax
+86

@@ -1,0 +1,38 @@
+Section 12.03 Communication by Holders of Notes with Other Holders of Notes.
+Holders may communicate pursuant to TIA § 312(b) with other Holders with respect to their rights under this Indenture or the Notes. The Issuers, the
+Trustee, the Registrar and anyone else shall have the protection of TIA § 312(c).
+Where this Indenture provides for notice in any manner, such notice may be waived in writing by the Person entitled to receive such notice, either
+before or after the event, and such waiver shall be the equivalent of such notice. Waivers of notice by Holders shall be ﬁled with the Trustee, but such ﬁling
+shall not be a condition precedent to the validity of any action taken in reliance upon such waiver.
+Where this Indenture provides for notice of any event to a Holder of a Global Note, such notice shall be sufﬁciently given if given to the Depository for
+such Note (or its designee), pursuant to its Applicable Procedures, not later than the latest date, if any, and not earlier than the earliest date, if any, prescribed
+for the giving of such notice.
+Section 12.04 Certificate and Opinion as to Conditions Precedent.
+Upon any request or application by the Issuers to the Trustee to take any action under this Indenture, the Issuers shall ﬁlmish to the Trustee:
+(1) an Ofﬁcers’ Certiﬁcate in form and substance reasonably satisfactory to the Trustee (which must include the statements set forth in
+,S,e,c,ti,on,12,.0,5, hereof) stating that, in the opinion of the signers, all conditions precedent and covenants, if any, provided for in this Indenture relating to
+the proposed action have been satisﬁed; and
+(2) an Opinion of Counsel in form and substance reasonably satisfactory to the Trustee (which must include the statements set forth in
+Section 12.05 hereof) stating that, in the opinion of such counsel, all such conditions precedent and covenants have been satisﬁed.
+Section 12.05 Statements Required in Certiﬁcate or Opinion.
+Each certiﬁcate or opinion with respect to compliance with a condition or covenant provided for in this Indenture (other than a certiﬁcate provided
+pursuant to TIA § 314(a)(4)) must comply with the provisions of TIA § 314(e) and must include:
+(1) a statement that the Person making such certiﬁcate or opinion has read such covenant or condition;
+(2) a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such
+certiﬁcate or opinion are based;
+(3) a statement that, in the opinion of such Person, he or she has made such examination or investigation as is necessary to enable him or her to
+express an informed opinion as to whether or not such covenant or condition has been satisﬁed; and
+(4) a statement as to whether or not, in the opinion of such Person, such condition or covenant has been satisﬁed.
+Section 12.06 Rules by Trustee and Agents.
+The Trustee may make reasonable rules for action by or at a meeting of Holders. The Registrar or Paying Agent may make reasonable rules and set
+reasonable requirements for its functions.
+Section 12.07 No Personal Liability of Directors, Oﬁ’icers, Employees and Unitholders.
+No past, present or future director, ofﬁcer, partner, member, employee, incorporator, manager or unitholder or other owner of Equity Interest of the
+Issuers, the General Partner or any of their Subsidiaries, as such, will have any liability for any obligations of the Issuers or any Guarantor under the Notes,
+this Indenture, the Note Guarantees or for any claim based on, in respect of, or by reason of, such obligations or their creation. Each Holder by accepting a
+Note waives and releases all such liability. The waiver and release are part of the consideration for issuance of the Notes and the Note Guarantees.
+Section 12.08 Governing Law.
+THIS INDENTURE, THE NOTES AND THE NOTE GUARANTEES SHALL BE GOVERNED BY AND CONSTRUED 1N ACCORDANCE WITH THE
+LAWS OF THE STATE OF NEW YORK.
+Section 12.09 No Adverse Interpretation of OtherAgreements.
+-60-

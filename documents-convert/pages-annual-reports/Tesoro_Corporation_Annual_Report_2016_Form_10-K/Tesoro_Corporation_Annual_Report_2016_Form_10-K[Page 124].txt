@@ -1,0 +1,37 @@
+[ mmmmﬁm]
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS FOR THE YEAR ENDED DECEMBER 31, 2014
+(In millions)
+Guarantor Non- Consolidating
+Parent Subsidiaries Guarantors Adjustments Consolidated
+Cash Flows From (Used in) Operating Activities
+Net cash from (used in) operating activities $ (11) 5 1,270 $ 208 S (103) 5 1,364
+Cash Flows From (Used in) Investing Activities
+Capital expenditures — (443) (242) — (685)
+Acquisitions — (17) (2,479) — (2,496)
+Proceeds from asset sales — 4 14 — 18
+Intercompany notes, net 441 — — (441) —
+Notes to general partner — — (243) 243 —
+Other investing activities — (5) (4) — (9)
+Net cash from (used in) investing activities 441 (461) (2,954) (198) (3,172)
+Cash Flows From (Used in) Financing Activities
+Borrowings under revolving credit agreements — — 646 — 646
+Repayments on revolving credit agreements — — (386) — (386)
+Proceeds from debt offerings 300 — 1,300 — 1,600
+Repayments of debt (300) (3) (131) — (434)
+Dividend payments (141) — — — (141)
+Proceeds from stock options exercised 19 — — — 19
+Net proceeds from issuance of TLLP common units — — 949 — 949
+Notes from general partner 243 — — (243) —
+Distributions to noncontrolling interest — — (96) — (96)
+Purchases of common stock (500) — — — (500)
+Taxes paid related to net share settlement of equity awards (22) — — — (22)
+Net intercompany borrowings (repayments) — (1,044) 603 441 —
+Distributions to TLLP unitholders and general partner — — (103) 103 —
+Payments of debt issuance costs (5) — (19) — (24)
+Excess tax benefits from stock-based compensation arrangements — 20 — — 20
+Other financing activities (24) — (37) — (61)
+Net cash from (used in) financing activities (430) (1,027) 2,726 301 1,570
+Decrease in Cash and Cash Equivalents — (218) (20) — (238)
+Cash and Cash Equivalents, Beginning of Year — 1,161 77 — 1,238
+Cash and Cash Equivalents, End of Year 5 — S 943 $ 57 S — S 1,000
+December 31, 2016 | 119

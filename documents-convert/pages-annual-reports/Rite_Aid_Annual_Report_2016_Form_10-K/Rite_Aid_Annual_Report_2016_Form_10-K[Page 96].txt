@@ -1,0 +1,46 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+1. Summary of Signiﬁcant Accounting Policies (Continued)
+the evaluation of whether limited partnerships and similar legal entities are variable interest entities
+(VIEs), eliminates the presumption that a general partner should consolidate a limited partnership, and
+affects the consolidation analysis of reporting entities that are involved with VIEs, especially those that
+have fee arrangements and related party relationships. This ASU is effective for fiscal years beginning
+after December 15, 2015, and for interim periods within those fiscal years. The Company is in the
+process of assessing the impact of the adoption of ASU 2015-02 on its financial position, results of
+operations and cash ﬂows.
+In April 2015, the FASB issued ASU No. 2015-03, Interest—Imputation of Interest
+(Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs. This ASU simplifies the
+presentation of debt issuance costs by requiring that debt issuance costs related to a recognized debt
+liability be presented in the balance sheet as a direct reduction from the carrying amount of the debt
+liability, which is consistent with the treatment of debt discounts. Recognition and measurement of debt
+issuance costs were not affected by this amendment. The new guidance should be applied on a
+retrospective basis, and upon transition, an entity is required to comply with the applicable disclosures
+necessary for a change in accounting principle. This ASU is effective for fiscal years beginning after
+December 15, 2015, and for interim periods within those fiscal years. As permitted, the Company early
+adopted this standard beginning in the fourth quarter of fiscal 2016. The effect of the adoption of
+ASU 2015-03 on the Company’s consolidated balance sheet is a reduction of other assets and long-term
+debt of $85,827 as of February 28, 2015. The following is a reconciliation of the effect of this
+reclassification on the Company’s consolidated balance sheet as of February 28, 2015:
+As Previously
+Reported Adjustments As Revised
+Otherassets......................... $286,172 $(85,827) $200,345
+Total assets. . . . . . . . . . . . . . . . . . . . . . . . . . 8,863,252 (85,827) 8,777,425
+Long-term debt, less current maturities . . . . . 5,483,415 (85,827) 5,397,588
+Total liabilities . . . . . . . . . . . . . . . . . . . . . . . 8,806,196 (85,827) 8,720,369
+Total liabilities and stockholders’ equity . . . . . 8,863,252 (85,827) 8,777,425
+In April 2015, the FASB issued ASU No. 2015-04, Compensation—Retirement Beneﬁts (Topic 715):
+Practical Expedient for the Measurement Date of an Employer’s Deﬁned Benefit Obligation and Plan
+Assets. This ASU allows an employer whose fiscal year-end does not coincide with a calendar
+month-end, for example, an entity that has a 52-week or 53-week fiscal year, the ability as a practical
+expedient, to measure defined benefit retirement obligations and related plan assets as of the
+month-end that is closest to its fiscal year-end. This ASU is effective for fiscal years beginning after
+December 15, 2015, and for interim periods within those fiscal years. Early adoption of this ASU is
+permitted. The Company adopted this guidance in the fiscal fourth quarter of fiscal 2016 and
+consequently measured its plan assets as of February 29, 2016. This adoption did not materially affect
+the Company’s financial position, results of operations or cash ﬂows.
+In September 2015, the FASB issued ASU No. 2015-16, Business Combinations (Topic 805 )=
+Simplifying the Accounting for Measurement-Period Adjustments. This ASU requires an acquirer to
+recognize provisional adjustments identified during the measurement period in the reporting period in
+96

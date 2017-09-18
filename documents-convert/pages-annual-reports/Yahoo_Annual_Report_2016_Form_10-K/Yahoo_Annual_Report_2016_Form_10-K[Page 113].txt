@@ -1,0 +1,34 @@
+Table,0f,C,ontents
+Customers,” which supersedes the revenue recognition requirements in Topic 605, “Revenue Recognition” and requires entities to recognize revenue in a way
+that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in
+exchange for those goods or services. In August 2015, the FASB issued ASU 2015-14, which defers by one year the effective date of ASU 2014—09.
+Accordingly, this guidance is effective for interim and annual periods beginning after December 15, 2017 with early adoption permitted for interim and annual
+periods beginning after December 15, 2016. In March 2016, the FASB issued ASU 2016-08 “Principal versus Agent Considerations (Reporting Revenue Gross
+versus Net),” which ﬁnalizes its amendments to the guidance in the new revenue standard on assessing whether an entity is a principal or an agent in a revenue
+transaction. This conclusion impacts whether an entity reports revenue on a gross or net basis. In April 2016, the FASB issued ASU 2016-10 “Identifying
+Performance Obligations and Licensing” which ﬁnalizes its amendments to the guidance in the new revenue standard regarding the identiﬁcation of performance
+obligations and accounting for the license of intellectual property. In May 2016, the FASB issued ASU 2016-12 “Narrow-Scope Improvements and Practical
+Expedients” which ﬁnalizes its amendments to the guidance in the new revenue standard on collectability, noncash consideration, presentation of sales tax, and
+transition. The amendments are intended to make the guidance more operable and lead to more consistent application. The amendments have the same
+effective date and transition requirements as the new revenue recognition standard. The standard is required to be applied either retrospectively to each prior
+reporting period presented or retrospectively with the cumulative effect of initially applying it recognized at the date of initial application. The Company has not
+yet selected the transition method. The Company will adopt the new revenue standards in its ﬁrst quarter of 2018. The Company is currently evaluating the
+effects, if any, that the adoption of this guidance will have on the Company’s financial position, results of operations and cash ﬂows.
+In August 2014, the FASB issued ASU No. 2014-15, “Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern” that requires
+management to evaluate whether there are conditions and events that raise substantial doubt about the Company’s ability to continue as a going concern within
+one year after the financial statements are issued on both an interim and annual basis. Management is required to provide certain footnote disclosures if it
+concludes that substantial doubt exists or when its plans alleviate substantial doubt about the Company’s ability to continue as a going concern. ASU 2014-15 is
+effective for annual periods ending after December 15, 2016 and for annual and interim reporting periods thereafter. The adoption of this ASU did not have any
+impact on the Company’s disclosures in the footnotes to its consolidated ﬁnancial statements.
+In January 2016, the FASB issued ASU No. 2016-01, “Financial Instruments—Overall: Recognition and Measurement of Financial Assets and Financial
+Liabilities”. The new standard principally affects accounting standards for equity investments, ﬁnancial liabilities where the fair value option has been elected, and
+the presentation and disclosure requirements for financial instruments. Upon the effective date of the new standards, all equity investments in unconsolidated
+entities, other than those accounted for using the equity method of accounting, will generally be measured at fair value through earnings. There will no longer be
+an available-for—sale classiﬁcation and therefore, no changes in fair value will be reported in other comprehensive income (loss) for equity securities with readily
+determinable fair values. The new guidance on the classiﬁcation and measurement will be effective for public business entities in ﬁscal years beginning after
+December 15, 2017, including interim periods within those ﬁscal years and early adoption is permitted. The Company is in the process of evaluating the impact
+of the adoption of ASU 2016-01 on the consolidated ﬁnancial statements and currently anticipates the new guidance would signiﬁcantly impact its consolidated
+statements of operations and consolidated statements of comprehensive Income as the Company’s marketable equity securities, primarily the Company’s
+investments in Alibaba Group and Hortonworks, are currently classified as available-for-sale and are reported at fair value, with unrealized gains and losses, net
+of tax, recorded in accumulated other comprehensive income.
+112

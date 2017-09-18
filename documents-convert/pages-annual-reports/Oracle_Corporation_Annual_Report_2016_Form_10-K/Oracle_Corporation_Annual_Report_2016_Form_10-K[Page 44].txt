@@ -1,0 +1,37 @@
+Table,of,C,ontents
+PaaS revenues and our new software licenses revenues and the related expenses. We expect these trends will continue. Our SaaS and PaaS arrangements are
+generally one to three years in duration and we strive to renew these contracts when they are eligible for renewal. The substantial majority of our new software
+license transactions are characterized by long sales cycles and the timing of a few large software license transactions can substantially affect our quarterly new
+software licenses revenues.
+Cloud software and on-premise software revenues represented 25%, 26% and 28% of our total revenues in ﬁscal 2016, 2015 and 2014, respectively. Our cloud
+software and on-premise software segment’s margin has historically trended upward over the course of the four quarters within a particular ﬁscal year due to the
+historical upward trend of our new software licenses revenues over those quarterly periods and because the majority of our costs for this segment are predominantly
+fixed in the short term. As discussed further below under “Supplemental Disclosure Related to Certain Charges,” our cloud software and on-premise software
+segment’s margin has been and will continue to be affected by the fair value adjustments relating to the cloud SaaS and PaaS obligations that we assumed in our
+business combinations and by the amortization of intangible assets associated with companies and technologies that we have acquired.
+Cloud Infrastructure as a Service: Our cloud IaaS segment, which represented 2% of our total revenues in each of fiscal 2016 and 2015, and 1% of our total
+revenues in ﬁscal 2014, provides infrastructure cloud services that are enterprise-grade, hosted and supported within the Oracle Cloud to perform elastic compute,
+storage and networking services on a subscription basis. Our cloud IaaS segment also offers Oracle Managed Cloud Services, which are comprehensive software
+and hardware management and maintenance services for customer IT infrastructure for a fee for a stated term that are hosted at our Oracle data center facilities,
+select partner data centers or physically on-premise at customer facilities.
+Software License Updates and Product Support: Software license updates and product support revenues are generated through the sale of software support
+contracts relating to on-premise new software licenses purchased by our customers. Customers that purchase software license updates and product support are
+granted rights to unspecified product upgrades and maintenance releases and patches released during the term of the support period, as well as technical support
+assistance. Our software license updates and product support contracts are generally one year in duration. Substantially all of our on-premise software license
+customers renew their software license updates and product support contracts annually. The growth of software license updates and product support revenues is
+primarily inﬂuenced by three factors: (1) the percentage of our software support contract customer base that renews its software support contracts, (2) the amount
+of new software support contracts sold in connection with the sale of new software licenses and (3) the amount of software support contracts assumed from
+companies we have acquired.
+Software license updates and product support revenues, which represented 51%, 49% and 47% of our total revenues in ﬁscal 2016, 2015 and 2014, respectively, is
+our highest margin business unit. Our software support margins during fiscal 2016 were 91% and accounted for 86% of our total margins over the same period. Our
+software license updates and product support margins have been affected by fair value adjustments relating to software support obligations assumed in business
+combinations and by the amortization of intangible assets, both of which are discussed further below under “Supplemental Disclosure Related to Certain Charges.”
+Over the longer term, we believe that software license updates and product support revenues and margins will grow for the following reasons:
+° substantially all of our on-premise new software license customers, including customers from acquired companies, renew their software support contracts
+when eligible for renewal;
+° substantially all of our customers purchase software license updates and product support contracts when they buy new software licenses, resulting in a
+further increase in our software support contract base. Even if new software licenses revenues growth was ﬂat, software license updates and product
+support revenues would continue to grow in comparison to the corresponding prior year periods assuming contract renewal and cancellation rates and
+foreign currency rates remained relatively constant, since substantially all new software licenses transactions result in the sale of software license updates
+and product support contracts, which add to our software support contract base; and
+42

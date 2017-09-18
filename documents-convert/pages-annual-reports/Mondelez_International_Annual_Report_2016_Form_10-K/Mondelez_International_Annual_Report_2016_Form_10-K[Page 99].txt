@@ -1,0 +1,52 @@
+Iable,of,Contents
+Plan Assets:
+The fair value of pension plan assets was determined using the following fair value measurements:
+As of December 31, 2016
+Quoted Prices Significant
+in Active Markets Other Significant
+for Identical Observable Unobservable
+Total Fair Assets Inputs Inputs
+Asset Catego:ry Value (Level 1) (Level 2) (Level 3)7
+(in millions)
+US. equ_ity securities $ 1 $ 1 $ — $ — l
+VNon-U.S. equ_ity securities 427 427 — —
+Pooled funds - equ_ity securities 1,524 286 1,235 3)
+Total equity securities 1,952 714 1,235 3
+Government bonds 3,009 37 2,972 — l
+Pooled funds - ﬁxed-income securities 756 103 618 35
+borporate bonds and other j
+l ﬁxed-income securities 852 357 (Q) 538
+Total ﬁxed-income securities 4,617 497 3,547 573
+Real estate 170 98 50 22 l
+Hedge funds — — — —
+(Private equ_ity 2 — — 2 l
+cash 73 72 1 —
+bther 3 1 — 2)
+Total assets in the fair value hierarchy $ 6,817 $ 1,382 $ 4,833 $ 602
+Investments measured at net asset value 2,667 7
+Total Investments at fair value $ 9,484
+As of December 31, 2015
+Quoted Prices Significant
+in Active Markets Other Significant
+for Identical Observable Unobservable
+Total Fair Assets Inputs Inputs
+Asset Catego:ry Value (Level 1) (Level 2) (Level 3)7
+(in millions)
+lU.S. equ_ity securities $ 2 $ 2 $ — $ — l
+VNon-U.S. equ_ity securities 498 412 86 —
+Pooled funds - equ_ity securities 1,468 275 1,193 —j
+Total equity securities 1,968 689 1,279 —
+Government bonds 1,770 35 1,735 — l
+Pooled funds - ﬁxed-income securities 575 118 431 26
+borporate bonds and other j
+l ﬁxed-income securities 1,686 320 701 665
+Total ﬁxed-income securities 4,031 473 2,867 691
+Real estate 339 109 — 230 l
+Hedge funds — — — —
+Private equ_ity 2 — — 2 l
+Cash 138 138 — —
+bther 2 1 — 1 j
+Total assets in the fair value hierarchy $ 6,480 $ 1,410 $ 4,146 $ 924
+Investments measured at net asset value 2,422 7
+Total investments at fair value 6 8,902
+96

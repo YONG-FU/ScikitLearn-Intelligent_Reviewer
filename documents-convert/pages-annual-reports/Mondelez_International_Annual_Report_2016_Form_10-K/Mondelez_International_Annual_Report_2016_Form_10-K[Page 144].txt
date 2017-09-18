@@ -1,0 +1,38 @@
+“Predecessor Security” of any particular Security means every previous Security evidencing all or a portion of the same debt as that evidenced by that
+particular Security, and, for the purposes of this deﬁnition, any Security authenticated and delivered under Section 306 in lieu of a mutilated, destroyed, lost or
+stolen Security.
+“Principal Facility” has the meaning specified in Section 1007.
+“Principal Financial Center” means, unless otherwise speciﬁed in accordance with Section 301:
+(1) the capital city of the country issuing the Foreign Currency or currency unit, except that with respect to Dollars, Australian dollars, Canadian
+dollars, South African rand and Swiss francs, the “Principal Financial Center” will be The City of New York, Sydney and Melbourne, Toronto, Johannesburg
+and Zurich, respectively, or
+(2) the capital city of the country to which the LIBOR Currency relates, except that with respect to Dollars, Canadian dollars, South African rand and
+Swiss francs, the “Principal Financial Center” will be The City of New York, Toronto, Johannesburg and Zurich, respectively.
+“Redemption Date”, when used with respect to any Security to be redeemed in whole or in part, means the date fixed for such redemption by or pursuant to
+this Indenture.
+“Redemption Price”, when used with respect to any Security to be redeemed, means, unless otherwise specified in such Security an amount, in the currency
+or currency unit in which such Security is denominated or which is otherwise provided for pursuant hereto, equal to the principal amount thereof and premium, if
+any, thereon, together with accrued interest, if any, to the Redemption Date.
+“Registered Security” means any Security established pursuant to Section 201 which is registered in the Security Register.
+“Regular Record Date” for the interest payable on any Interest Payment Date on the Registered Securities of any series, means the date, if any, specified for
+that purpose as contemplated by Section 301.
+“Responsible Officer”, when used with respect to the Trustee for any series of Securities, means any officer within the corporate trust department of the
+Trustee, including any vice president, assistant vice president, assistant secretary, assistant treasurer, trust officer or any other officer of the Trustee who
+customarily performs functions similar to those performed by the Persons who at the time shall be such officers, respectively, or to whom any corporate trust matter
+is referred because of such person’s knowledge of and familiarity with the particular subject and who shall have direct responsibility for the administration of this
+Indenture.
+“Securities” means securities evidencing unsecured indebtedness of the Company authenticated and delivered under this Indenture.
+“Security Register” and “Security Registrar” have the respective meanings specified in Section 305.
+A “series” of Securities means all Securities denoted as part of the same series authorized by or pursuant to a particular Board Resolution.
+“Special Record Date” for the payment of any Defaulted Interest on the Registered Securities of any series means a date fixed by the Trustee for such series
+pursuant to Section 307.
+“Stated Maturity”, when used with respect to any Security or any installment of principal thereof or interest thereon, means the date specified in such
+Security.
+“Subsidiary” means any corporation of which at least a majority of all outstanding stock or other interests having ordinary voting power in the election of
+directors, managers or trustees (without regard to the occurrence of any contingency) thereof is at the time, directly or indirectly, owned or controlled by the
+Company or by one or more Subsidiaries or by the Company and one or more Subsidiaries.
+“Substitute Date” has the meaning specified in Section 516.
+“Trust Indenture Act” means the Trust Indenture Act of 1939, as amended by the Trust Indenture Reform Act of 1990, as in force at the date as of which this
+Indenture was executed, provided, however, that in the event the Trust Indenture Act is amended after such date, “Trust Indenture Act” means, to the extent
+required by any such amendment, the Trust Indenture Act of 1939 as so amended.
+6

@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+manufacturers have facilities and operations. Some countries may raise national security concerns or impose market access restrictions based on location of
+manufacture or sourcing. Any manufacturing disruption or logistics delays by these third parties could impair our ability to fulfill orders for these hardware
+products for extended periods of time. If we are unable to manage our relationships with these third parties effectively, or if these third parties experience delays,
+disruptions, capacity constraints, regulatory issues or quality control problems in their operations, or fail to meet our future requirements for timely delivery, our
+ability to ship and deliver certain of our hardware products to our customers could be impaired and our hardware business could be harmed.
+We have simpliﬁed our supply chain processes by reducing the number of third-party manufacturing partners and the number of locations where these third-party
+manufacturers build our hardware products. We therefore have become more dependent on a fewer number of these manufacturing partners and locations. If these
+partners experience production problems or delays or cannot meet our demand for products, we may not be able to find alternate manufacturing sources in a timely
+or cost-effective manner, if at all. If we are required to change third-party manufacturers, our ability to meet our scheduled hardware products deliveries to our
+customers could be adversely affected, which could cause the loss of sales and existing or potential customers, delayed revenue recognition or an increase in our
+hardware products expenses, all of which could adversely affect the margins of our hardware business.
+These challenges and risks also exist when we acquire companies with hardware products and related supply chain operations. In some cases, we may be
+dependent, at least initially, on these acquired companies’ supply chain operations that we are less familiar with and thus we may be slower to adjust or react to
+these challenges and risks.
+Our software and hardware indirect sales channel could aﬂect our future operating results. Our software and hardware indirect channel network is comprised
+primarily of resellers, system integrators/implementers, consultants, education providers, internet service providers, network integrators and independent software
+vendors. Our relationships with these channel participants are important elements of our software and hardware marketing and sales efforts. Our financial results
+could be adversely affected if our contracts with channel participants were terminated, if our relationships with channel participants were to deteriorate, if any of
+our competitors enter into strategic relationships with or acquire a signiﬁcant channel participant, if the financial condition or operations of our channel participants
+were to weaken or if the level of demand for our channel participants’ products and services were to decrease. There can be no assurance that we will be successful
+in maintaining, expanding or developing our relationships with channel participants. If we are not successful, we may lose sales opportunities, customers and
+revenues.
+We may not be able to protect our intellectual property rights. We rely on copyright, trademark, patent and trade secret laws, confidentiality procedures,
+controls and contractual commitments to protect our intellectual property rights. Despite our efforts, these protections may be limited. Unauthorized third parties
+may try to copy or reverse engineer portions of our products or otherwise obtain and use our intellectual property. Any patents owned by us may be invalidated,
+circumvented or challenged. Any of our pending or future patent applications, whether or not being currently challenged, may not be issued with the scope of the
+claims we seek, if at all. In addition, the laws of some countries do not provide the same level of protection of our intellectual property rights as do the laws and
+courts of the United States. If we cannot protect our intellectual property rights against unauthorized copying or use, or other misappropriation, we may not remain
+competitive.
+Third parties have claimed and, in the future, may claim infringement or misuse of intellectual property rights amVor breach of license agreement provisions.
+We periodically receive notices from, or have lawsuits filed against us by, others claiming infringement or other misuse of their intellectual property rights
+and/or breach of our agreements with them. These third parties include entities that do not have the capabilities to design, manufacture, or distribute products or
+services or that acquire intellectual property like patents for the sole purpose of monetizing their acquired intellectual property through asserting claims of
+infringement and misuse. We expect to continue to receive such claims as:
+- we continue to acquire companies and expand into new businesses;
+- the number of products and competitors in our industry segments grows;
+31

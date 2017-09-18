@@ -1,0 +1,31 @@
+The following table reﬂects changes in the pension beneﬁt obligation and plan assets for the years ended December 31, 2016 and 2015 (in thousands):
+Years ended December 31,
+2016 2015
+IChange in beneﬁt obligation: — I
+Beneﬁt obligation at beginning of year $ 33,153 $ 33,006
+I Service cost 1,171 958 I
+Interest cost 246 332
+I Plan participant contributions 509 523 I
+Beneﬁts paid (1,570) (3,064)
+I Actuarial (gain) loss (2,425) 1,262 I
+Plan change — 83
+I Effect of foreign currency translation (827) 53 I
+Projected benefit obligation at end of year 30,257 _ 33,153
+IChanges in plan assets: — I
+Fair value of plan assets at beginning of year 39,002 40,368
+I Actual return on plan assets 1,657 419 I
+Company contributions 596 640
+I Plan participant contributions 509 523 I
+Beneﬁts paid (1,570) (3,064)
+I Effect of foreign currency translation (1,050) 116 I
+Fair value of plan assets at end of year 39,144 _ 39,002
+IFunded status at end of year $ 8,887 _ $ 5,849 I
+Am0unts recognized in the consolidated balance sheets consist of (in thousands):
+As of December 31,
+2016 2015
+I Net long-term pension asset $ 8,887 _ $ 5,849 I
+IAccumulated other comprehensive loss consists of the following: I
+Net prior service cost 779 837
+I Net loss 3,113 5,668 I
+Accumulated other comprehensive loss before taxes 3; 3,892 _ $ 6,505
+74

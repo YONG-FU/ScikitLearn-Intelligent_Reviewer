@@ -1,0 +1,38 @@
+Overview Strategic report Governance
+ti—19 | 20—59 | 60-71 [ @023 ] :I. O 1
+19 DEFERRED TAX ASSETS AND LIABILITIES
+Signiﬁcant components of deferred tax asset and liability for the year ended 31 March 2016 are as follows:
+Recognised V
+in other
+Opening Recognised in comprehensive Foreign Closing
+balance proﬁt or loss income exchange balance
+£m £m £m £m Em A
+Deferred tax assets
+Property, plant & equipment 8 13 — — 21
+Provisions, allowances for doubtful receivables 227 (3) — — 224
+Derivative ﬁnancial instruments 261 (3) (18) — 240
+Retirement beneﬁts 187 36 (113) — 110
+Unrealised proﬁt in inventory 146 (19) — — 127
+Tax loss 220 (45) — — 175
+Other 35 15 — — 50
+Total deferred tax asset 1,084 (6) (131) — 947
+Deferred tax liabilities
+Property, plant & equipment — — — — —
+Intangible assets 852 94 — — 946
+Derivative ﬁnancial instruments — — — — —
+Overseas unremitted earnings 59 (E)* — — 31
+Total deferred tax liability 911 66 — — 977
+Presented as deferred tax asset“ 372 354
+Presented as deferred tax liability” (199) (384)
+* included within £28 million is a reversal of £39 million relating to withholding tax incurred on intercompany dividends paid in the year.
+** For balance sheet presentation purposes, deferred tax assets and deferred tax liabilities are offset to the extent they relate to the same taxation authority and are expected to be settled on
+anet basis.
+At 31 March 2016 the Group had unused tax losses and other temporary differences amounting to £76 million (2015: Enil,
+2014: Enil) for which no deferred tax asset has been recognised based upon the forecast proﬁtability of the companies in
+which the deferred tax assets arise. As at 31 March 2016 £6 million (2015: £nil, 2014: Enil) of those tax losses expire after
+eight years and the remaining balance is not expected to expire.
+At 31 March 2016 the Group had temporary differences relating to undistributed proﬁts of equity accounted investees
+amounting to £37 million (2015: £nil, 2014: Enil) for which no deferred tax liability has been recognised as it is not expected
+to reverse in the foreseeable future.
+All deferred tax assets and deferred tax liabilities at 31 March 2016, 31 March 2015 and 31 March 2014 are presented as
+non—current.

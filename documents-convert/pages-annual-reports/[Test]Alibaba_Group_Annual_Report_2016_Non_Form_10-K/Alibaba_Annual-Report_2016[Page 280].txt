@@ -1,0 +1,42 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+8. Share-based awards (Continued)
+(c) Partner Capital Investment Plan relating to ordinary shares of the Company (Continued)
+(iv) Expected volatility is assumed based on the historical volatility of the Company’s comparable companies
+in the period equal to expected life of each right.
+(v) Discount for post-vesting sale restrictions applied on the underlying ordinary shares takes into
+consideration the restriction on sales of eight years.
+(d) Share-based awards relating to Ant Financial Services
+Junhan, the general partner of which is controlled by the executive chairman of the Company and a major
+equity holder of Ant Financial Services, made grants of certain share-based awards similar to share
+appreciation awards linked to the valuation of Ant Financial Services to a substantial number of employees of
+the Company. The vesting of such awards is conditional upon the fulfillment of requisite service conditions to
+the Company, and such awards will be settled in cash by Junhan upon the disposal by the holders. Junhan has
+the right to repurchase the vested awards from the holders upon an initial public offering of Ant Financial
+Services or the termination of the employment of the employees with the Company at a price to be
+determined based on the then fair market value of Ant Financial Services. The Company has no obligation to
+reimburse Junhan, Ant Financial Services or its subsidiaries for the cost associated with these awards.
+For accounting purposes, the cost relating to such share-based awards granted by the shareholder through
+Junhan is recognized by the Company as a shareholder contribution as the award will ultimately be settled in
+cash by J unhan. The award is accounted for as a financial derivative and initially measured at its fair value,
+and the related expense will be recognized over the requisite service period in the consolidated income
+statements with a corresponding credit to additional paid—in capital. Subsequent changes in the fair value of
+the award are recorded in the consolidated income statements through the date on which the underlying
+award is settled by Junhan.
+As of March 31, 2016, there were RMB2,542 million of unamortized compensation costs related to these
+outstanding share-based awards of Ant Financial Services granted by Junhan, net of expected forfeitures.
+These amounts are expected to be recognized over a weighted average period of 1.7 years.
+During the years ended March 31, 2015 and 2016, the Company recognized expenses of RMB3,788 million
+and RMB5,506 million in respect of the share-based awards relating to Ant Financial Services granted by
+Junhan, respectively. The expenses recognized for the year ended March 31, 2014 were insignificant.
+(e) Share-based compensation expense by function
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB)
+Cost of revenue 1,154 4,176 4,003
+Product development expenses 795 3,876 5,703
+Sales and marketing expenses 189 1,235 1,963
+General and administrative expenses 706 3,741 4,413
+Total 2,844 13,028 16,082
+F-64

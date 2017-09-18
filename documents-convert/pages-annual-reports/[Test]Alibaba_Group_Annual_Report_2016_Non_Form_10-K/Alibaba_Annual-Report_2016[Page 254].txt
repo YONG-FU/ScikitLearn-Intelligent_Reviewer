@@ -1,0 +1,47 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+4. Signiﬁcant equity transactions, restructuring transactions, mergers and acquisitions and equity investments
+(Continued)
+(b) Restructuring of Payment Services (Continued)
+Company entered into software system use and service agreements with Ant Financial Services relating to the
+know how and related intellectual property that the Company has agreed to sell together with the micro loan
+business and related services (Note 23). In calendar years 2015 to 2017, the Company received or will receive
+an annual fee equal to 2.5% of the average daily book balance of the micro loans managed by Ant Financial
+Services. In calendar years 2018 to 2021, the Company will receive an annual fee equal to the amount paid for
+the calendar year 2017 (together with the fees received in calendar years 2015 to 2017, the “SME Annual
+Fee”). The SME Annual Fee of RMB90 million and RMB708 million were recorded in revenue in the
+consolidated financial statements for the years ended March 31, 2015 and 2016, respectively.
+In connection with the 2014 SAPA, the Company also entered into an amended intellectual property license
+agreement with Alipay (“amended Alipay IPLA”), pursuant to which the Company licenses certain intellectual
+property and provides certain software technology services to Alipay and the Transferred Business. Under the
+amended Alipay IPLA, the Company will receive royalty streams and a service fee (collectively, the “Profit
+Share Payments”) which will be paid at least annually, amounting to the sum of an expense reimbursement
+plus 37.5% of the consolidated pre-tax income of Ant Financial Services, subject to certain adjustments. In
+addition, if the Company acquires any equity interest in Ant Financial Services, the Company will transfer an
+agreed portion of the underlying intellectual property to Ant Financial Services at the time of such equity
+issuance. At the same time, the Profit Share Payments will also be reduced in proportion to such equity
+issuances made to the Company.
+Income in connection with the royalty fee and software technology services fee under the Intellectual Property
+License and Software Technology Services Agreement and the Profit Share Payments, net of costs incurred by
+the Company, of RMB1,764 million, RMB1,667 million and RMB1,122 million were recorded in other
+income, net in the consolidated income statements for the years ended March 31, 2014, 2015 and 2016,
+respectively (Note 23).
+Pursuant to the terms of the 2014 SAPA, in the event of an initial public offering of Ant Financial Services or
+Alipay at an implied equity value exceeding US$250 billion which results in gross proceeds of at least
+US$20 billion (a “Qualified IPO”), if the Company’s total ownership of equity interests in Ant Financial
+Services has not reached 33%, the Company would be entitled at its election to receive a one-time payment
+equal to 37.5% of the equity value of Ant Financial Services as determined immediately prior to such
+Qualified IPO. There is no cap on the maximum value of such liquidity event payment. If the Company
+acquires equity interests in Ant Financial Services in an aggregate amount less than 33%, the percentage of
+Ant Financial Services’ equity value used to calculate such liquidity event payment will be reduced
+proportionately.
+In lieu of receiving such liquidity event payment, the Company may elect to continue to receive the Profit
+Share Payments in perpetuity, subject to the receipt of regulatory approvals. In connection with a Qualified
+IPO and if the Company so elects, Ant Financial Services must use its commercially reasonable efforts to
+obtain the required approvals for continued payments under the amended Alipay IPLA. If such approvals are
+not obtained, Ant Financial Services will pay the liquidity event payment as described above to the Company.
+The 2014 SAPA provides for future potential equity issuances to the Company by Ant Financial Services. In
+the event that Ant Financial Services applies for and receives certain PRC regulatory approvals in the future,
+Ant Financial Services will issue and the Company will purchase newly issued equity interests in Ant Financial
+F-38

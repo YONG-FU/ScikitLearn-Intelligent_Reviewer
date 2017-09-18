@@ -1,0 +1,53 @@
+Overview Strategic report Governance
+IFC—19 | 20—59 | 60-71 [ @023 ] 8 3
+2 ACCOUNTING POLICIES (CONTINUED)
+INTERNALLY GENERATED INTANGIBLE ASSETS
+Research costs are charged to the consolidated income statement in the year in which they are incurred.
+Product development costs incurred on new vehicle platforms, engines, transmission and new products are recognised as
+intangible assets, when feasibility has been established, the Group has committed technical, ﬁnancial and other resources
+to complete the development and it is probable that the asset will generate future economic benefits.
+The costs capitalised include the cost of materials, direct labour and directly attributable overhead expenditure incurred
+up to the date the asset is available for use.
+Interest cost incurred is capitalised up to the date the asset is ready for its intended use, based on borrowings incurred
+specifically for financing the asset or the weighted average rate of all other borrowings if no specific borrowings have been
+incurred for the asset.
+Product development cost is amortised over a period of between two and ten years.
+Capitalised development expenditure is measured at cost less accumulated amortisation and accumulated impairment loss.
+Amortisation is not recorded on product development in progress until development is complete.
+IMPAIRMENT
+PROPERTY, PLANT AND EQUIPMENT AND OTHER INTANGIBLE ASSETS
+At each balance sheet date, the Group assesses whether there is any indication that any property, plant and equipment and
+intangible assets may be impaired. If any such impairment indicator exists the recoverable amount of an asset is estimated to
+determine the extent of impairment, if any. Where it is not possible to estimate the recoverable amount of an individual asset,
+the Group estimates the recoverable amount of the cash—generating unit to which the asset belongs.
+Intangible assets with indefinite useful lives and intangible assets not yet available for use are tested for impairment annually,
+or earlier, if there is an indication that the asset may be impaired.
+The estimated recoverable amount is the higher offair value less costs of disposal and value in use. In assessing value in use,
+the estimated future cash flows are discounted to their present value using a pre—tax discount rate that reflects current
+market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash
+flows have not been adjusted.
+If the recoverable amount of an asset (or cash—generating unit) is estimated to be less than its carrying amount, the carrying
+amount of the asset (or cash—generating unit) is reduced to its recoverable amount. An impairment loss is recognised
+immediately in the consolidated income statement.
+An annual impairment review for heritage assets is performed and any impairment in the carrying value is recognised
+immediately in the consolidated income statement.
+EQUITY ACCOUNTED INVESTMENTS: JOINT VENTURES AND ASSOCIATES
+The requirements of IAS 39 Financial Instruments: Recognition and Measurement are applied to determine whether it
+is necessary to recognise any impairment loss with respect to the Group’s investment in an associate orjoint venture.
+When necessary, the entire carrying amount of the investment (including goodwill) is tested for impairment in accordance
+with IAS 36 Impairment of Assets as a single asset by comparing its recoverable amount (the higher of value in use and fair
+value less costs of disposal) with its carrying amount. Any impairment loss recognised forms part of the carrying amount
+of the investment. Any reversal of that impairment loss is recognised in accordance with IAS 36 to the extent that the
+recoverable amount of the investment subsequently increases.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents comprise cash on hand, demand deposits and highly liquid investments with an original maturity
+of up to three months that are readily convertible into known amounts of cash and which are subject to insignificant risk of
+changes in value.
+INVENTORIES
+Inventories are valued at the lower of cost and net realisable value. Cost of raw materials and consumables are ascertained
+on a first—in, first—out basis. Costs, including fixed and variable production overheads, are allocated to work—in—progress and
+finished goods determined on a full absorption cost basis. Net realisable value is the estimated selling price in the ordinary
+course of business less estimated cost of completion and selling expenses.
+Inventories include vehicles sold subject to repurchase arrangements. These vehicles are carried at cost to the Group and are
+amortised in changes in stocks and work—in—progress to their residual values (i.e. estimated second—hand sale value) over the
+term of the arrangement.

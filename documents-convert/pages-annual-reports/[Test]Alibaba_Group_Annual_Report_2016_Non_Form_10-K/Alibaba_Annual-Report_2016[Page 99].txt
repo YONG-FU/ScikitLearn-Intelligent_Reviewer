@@ -1,0 +1,47 @@
+Under the Tort Liability Law of the PRC, an Internet service provider may be subject to joint liability if it is
+aware that an Internet user is infringing upon the intellectual property rights of others through its Internet
+services, such as selling counterfeit products, and fails to take necessary measures to stop that activity. If an
+Internet service provider receives a notice from an infringed party regarding an infringement, the Internet service
+provider is required to take certain measures, including deleting, blocking and unlinking the infringing content, in a
+timely manner.
+In addition, under the Administrative Measures for Online Trading issued by the SAIC on January 26, 2014,
+as an operator of an online trading platform, we must adopt measures to ensure safe online transactions, protect
+consumers’ rights and prevent trademark infringement.
+Tax Regulations
+PRC Enterprise Income Tax
+The PRC enterprise income tax, or EIT, is calculated based on the taxable income determined under the
+applicable EIT Law and its implementation rules, which became effective on January 1, 2008. The EIT Law
+generally imposes a uniform enterprise income tax rate of 25% on all resident enterprises in China, including
+foreign-invested enterprises.
+The EIT Law and its implementation rules permit certain High and New Technologies Enterprises, or HNTEs,
+to enjoy a reduced 15% enterprise income tax rate subject to these HNTEs meeting certain qualification criteria.
+In addition, the relevant EIT laws and regulations also provide that entities recognized as Software Enterprises are
+able to enjoy a tax holiday consisting of a 2-year-exemption commencing from their first profitable calendar year
+and a 50% reduction in ordinary tax rate for the following three calendar years, while entities qualified as Key
+Software Enterprises can enjoy a preferential EIT rate of 10%. A number of our PRC subsidiaries and operating
+entities enjoy these types of preferential tax treatment. See “Item 10. Additional Information — E. Taxation —
+People’s Republic of China Taxation.”
+Uncertainties exist with respect to how the EIT Law applies to the tax residence status of Alibaba Group and
+our offshore subsidiaries. Under the EIT Law, an enterprise established outside of China with a “de facto
+management body” within China is considered a “resident enterprise,” which means that it is treated in the same
+manner as a Chinese enterprise for enterprise income tax purposes. Although the implementation rules of the EIT
+Law define “de facto management body” as a managing body that exercises substantive and overall management
+and control over the production and business, personnel, accounting books and assets of an enterprise, the only
+official guidance for this definition currently available is set forth in Circular 82 issued by the State Administration
+of Taxation, which provides guidance on the determination of the tax residence status of a Chinese-controlled
+offshore incorporated enterprise, defined as an enterprise that is incorporated under the laws of a foreign country
+or territory and that has a PRC enterprise or enterprise group as its primary controlling shareholder. Although
+Alibaba Group Holding Limited does not have a PRC enterprise or enterprise group as our primary controlling
+shareholder and is therefore not a Chinese-controlled offshore incorporated enterprise within the meaning of
+Circular 82, in the absence of guidance specifically applicable to us, we have applied the guidance set forth in
+Circular 82 to evaluate the tax residence status of Alibaba Group and our subsidiaries organized outside the PRC.
+According to Circular 82, a Chinese-controlled offshore incorporated enterprise will be regarded as a PRC tax
+resident by virtue of having a “de facto management body” in China and will be subject to PRC enterprise income
+tax on its worldwide income only if all of the following criteria are met:
+0 the primary location of the day-to-day operational management is in the PRC;
+° decisions relating to the enterprise’s financial and human resource matters are made or are subject to
+approval by organizations or personnel in the PRC;
+° the enterprise’s primary assets, accounting books and records, company seals, and board and shareholders
+meeting minutes are located or maintained in the PRC; and
+° 50% or more of voting board members or senior executives habitually reside in the PRC.
+94

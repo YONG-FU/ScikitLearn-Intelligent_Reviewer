@@ -1,0 +1,42 @@
+SECTION 114. Immunity of Incorporators, Stockholders, Ofﬁcers and Directors.
+No recourse shall be had for the payment of principal of, or premium, if any, or interest, if any, on any Security of any series, or for any claim based thereon,
+or upon any obligation, covenant or agreement of this Indenture, against any incorporator, stockholder, officer or director, as such, past, present or future, of the
+Company or of any successor corporation, either directly or indirectly through the Company or any successor corporation, whether by virtue of any constitution,
+statute or rule of law or by the enforcement of any assessment of penalty or otherwise; it being expressly agreed and understood that this Indenture and all the
+Securities of each series are solely corporate obligations, and that no personal liability whatever shall attach to, or is incurred by, any incorporator, stockholder,
+officer or director, past, present or future, of the Company or of any successor corporation, either directly or indirectly through the Company or any successor
+corporation, because of the incurring of the indebtedness hereby authorized or under or by reason of any of the obligations, covenants or agreements contained in
+this Indenture or in any of the Securities of any series, or to be implied herefrom or therefrom; and that all such personal liability is hereby expressly released and
+waived as a condition of, and as part of the consideration for, the execution of this Indenture and the issuance of the Securities of each series.
+SECTION 115. Certain Matters Relating to Currencies.
+Subject to Section 311, each reference to any currency or currency unit in any Security, or in the Board Resolution or supplemental indenture relating thereto,
+shall mean only the referenced currency or currency unit and no other currency or currency unit. The Trustee shall segregate moneys, funds and accounts held by
+the Trustee in one currency or currency unit from any moneys, funds or accounts held in any other currencies or currency units, notwithstanding any provision
+herein which would otherwise permit the Trustee to commingle such amounts. Whenever any action or Act is to be taken hereunder by the Holders of Securities
+denominated in a Foreign Currency or currency unit, then for purposes of determining the principal amount of Securities held by such Holders, the aggregate
+principal amount of the Securities denominated in a Foreign Currency or currency unit shall be deemed to be that amount of Dollars that could be obtained for such
+principal amount on the basis of a spot rate of exchange specified to the Trustee for such series in an Ofﬁcers’ Certiﬁcate for such Foreign Currency or currency
+unit into Dollars as of the date the taking of such action or Act by the Holders of the requisite percentage in principal amount of the Securities is evidenced to such
+Trustee.
+SECTION 116. Language of Notices, Etc.
+Any request, demand, authorization, direction, notice, consent or waiver required or permitted under this Indenture shall be in the English language, and any
+published notice may also be in an official language of the country of publication.
+SECTION 117. Force Majeure.
+The Trustee, Security Registrar and Paying Agent shall not incur any liability for not performing any act or fulﬁlling any duty, obligation or responsibility
+hereunder by reason of any occurrence beyond the control of the Trustee, Security Registrar or Paying Agent (including but not limited to any act or provision of
+any present or future law or regulation or governmental authority, any act of God or war, civil unrest, local or national disturbance or disaster, any act of terrorism,
+or the unavailability of the Federal Reserve Bank wire or facsimile or other wire or communication facility).
+SECTION 118. USA Patriot Act.
+The parties hereto acknowledge that in order to help the United States government ﬁght the funding of terrorism and money laundering activities, pursuant to
+Federal regulations that became effective on October 1, 2003 (Section 326 of the USA PATRIOT Act) requires all ﬁnancial institutions to obtain, verify, record and
+update information that identifies each person establishing a relationship or opening an account. The parties to this Agreement agree that they will provide to
+Deutsche Bank Trust Company Americas such information as it may request, from time to time, in order for Deutsche Bank Trust Company Americas to satisfy the
+requirements of the USA PATRIOT Act, including but not limited to the name, address, tax identiﬁcation number and other information that will allow it to identify
+the individual or entity who is establishing the relationship or opening the account and may also ask for formation documents such as articles of incorporation or
+other identifying documents to be provided.
+SECTION 119. Execution in Counterparts.
+This Indenture may be executed in two or more counterparts, which when so executed shall constitute one and the same agreement. The exchange of copies
+of this Indenture and of signature pages by facsimile or PDF transmission shall constitute effective execution and delivery of this Indenture as to the parties hereto
+and may be used in lieu of the original Indenture for all purposes. Signatures of the parties hereto transmitted by facsimile or PDF shall be deemed to be their
+original signatures for all purposes.
+10

@@ -1,0 +1,27 @@
+Table,of,C,ontents
+Excluding the effects of favorable currency rate ﬂuctuations of 5 percentage points, total cloud software and on-premise software expenses increased during ﬁscal
+2016 primarily due to higher employee related expenses from increased headcount and higher cloud SaaS and PaaS expenses incurred to support the related
+revenues increase. These ﬁscal 2016 constant currency expense increases were partially offset by a reduction in expenses associated with certain of our intangible
+assets that became fully amortized.
+Excluding the effects of unfavorable currency rate ﬂuctuations, our cloud software and on-premise software segment’s total margin and total margin as a
+percentage of revenues decreased in fiscal 2016 due primarily to growth in our total expenses for this operating segment.
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate ﬂuctuations, cloud software and on-premise software revenues were
+ﬂat during fiscal 2015 as growth in our cloud SaaS and PaaS revenues and contributions from our acquisitions were offset by a decline in our new software licenses
+revenues. Similar to the fiscal 2016 trend noted above, the increase in our cloud SaaS and PaaS revenues and decrease in our new software licenses revenues during
+fiscal 2015 were primarily due to the strategic emphasis placed on selling, marketing and growing our cloud software offerings. In constant currency, fiscal 2015
+revenue growth in the Americas region was offset by revenue declines in the EMEA and Asia Pacific regions.
+In reported currency, new software licenses revenues earned from transactions of $3 million or greater decreased by 15% in fiscal 2015 and represented 31% of our
+new software licenses revenues in fiscal 2015 in comparison to 33% in fiscal 2014.
+Excluding the effects of favorable currency rate ﬂuctuations, total cloud software and on-premise software expenses increased in fiscal 2015 primarily due to
+higher employee related expenses from increased headcount, higher variable compensation expenses, and higher cloud SaaS and PaaS expenses incurred to support
+the related revenues increase.
+Excluding the effects of unfavorable currency rate ﬂuctuations, our cloud software and on-premise software segment’s total margin and total margin as a
+percentage of revenues decreased in fiscal 2015 due primarily to the growth in our total expenses during fiscal 2015 for this operating segment.
+Cloud Infrastructure as a Service: Our cloud IaaS segment provides infrastructure cloud services that are enterprise-grade, hosted and supported within the
+Oracle Cloud to perform elastic compute, storage and networking services on a subscription basis. Our cloud IaaS segment also offers Oracle Managed Cloud
+Services, which are comprehensive software and hardware management and maintenance services for customer IT infrastructure for a fee for a stated term that are
+hosted at our Oracle data center facilities, select partner data centers or physically on-premise at customer facilities. Cloud IaaS expenses consist primarily of
+personnel related expenditures, technology infrastructure expenditures and facilities costs. Operating expenses associated with our IaaS offerings also include sales
+and marketing expenses, which are largely personnel related, and amortization of intangible assets. For all periods presented, our cloud IaaS segment’s revenues
+and expenses were substantially attributable to our Oracle Managed Cloud Services offerings.
+60

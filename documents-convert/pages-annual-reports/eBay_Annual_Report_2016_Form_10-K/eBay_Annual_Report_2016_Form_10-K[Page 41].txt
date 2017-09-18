@@ -1,0 +1,42 @@
+From time to time, we are involved in other disputes or regulatory inquiries that arise in the
+ordinary course of business, including suits by our users (individually or as class actions)
+alleging, among other things, improper disclosure of our prices, rules or policies, that our
+practices, prices, rules, policies or customer/user agreements violate applicable law or that
+we have acted unfairly and/or not acted in conformity with such prices, rules, policies or
+agreements. Further, the number and significance of these disputes and inquiries are
+increasing as we have grown larger, our businesses have expanded in scope (both in terms of
+the range of products and services that we offer and our geographical operations) and our
+products and services have increased in complexity. Any claims or regulatory actions against
+us, whether meritorious or not, could be time consuming, result in costly litigation, damage
+awards (including statutory damages for certain causes of action in certain jurisdictions),
+injunctive relief or increased costs of doing business through adverse judgment or settlement,
+require us to change our business practices in expensive ways, require significant amounts of
+management time, result in the diversion of significant operational resources or otherwise
+harm our business.
+Indemnification Provisions
+We entered into a separation and distribution agreement and various other agreements
+with PayPal to govern the separation and relationship of the two companies going forward.
+These agreements provide for specific indemnity and liability obligations and could lead to
+disputes between us and PayPal, which may be significant. In addition, the indemnity rights we
+have against PayPal under the agreements may not be sufficient to protect us and our
+indemnity obligations to PayPal may be significant.
+In addition, we have entered into indemnification agreements with each of our directors,
+executive officers and certain other officers. These agreements require us to indemnify such
+individuals, to the fullest extent permitted by Delaware law, for certain liabilities to which they
+may become subject as a result of their affiliation with us.
+In the ordinary course of business, we have included limited indemnification provisions in
+certain of our agreements with parties with which we have commercial relations, including our
+standard marketing, promotions and application-programming-interface license agreements.
+Under these contracts, we generally indemnify, hold harmless and agree to reimburse the
+indemnified party for losses suffered or incurred by the indemnified party in connection with
+claims by a third party with respect to our domain names, trademarks, logos and other
+branding elements to the extent that such marks are applicable to our performance under the
+subject agreement. In certain cases, we have agreed to provide indemnification for intellectual
+property infringement. It is not possible to determine the maximum potential loss under these
+indemnification provisions due to our limited history of prior indemnification claims and the
+unique facts and circumstances involved in each particular provision. To date, losses recorded
+in our consolidated statement of income in connection with our indemnification provisions
+have not been significant, either individually or collectively.
+ITEM 4: MINE SAFETY DISCLOSURES
+Not applicable
+34

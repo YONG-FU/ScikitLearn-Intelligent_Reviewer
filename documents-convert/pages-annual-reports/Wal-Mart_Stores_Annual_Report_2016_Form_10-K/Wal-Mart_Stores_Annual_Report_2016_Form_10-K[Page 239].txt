@@ -1,0 +1,48 @@
+Table of Contents
+Deferred Taxes
+The significant components of the Company's deferred tax account balances are as follows:
+January 31,
+(Amounts in millions) 2016 2015
+’Deferred tax assets: — ‘
+Loss and tax credit carryforwards $ 3,313 $ 3,255
+] Accrued liabilities 3,763 3,395 l
+Share-based compensation 192 184
+l Other 1,390 1,119 l
+Total deferred tax assets 8,658 — 7,953
+lValuation allowances (1,456) (1,504) l
+Deferred tax assets, net of valuation allowance 7,202 — 6,449
+’Deferred tax liabilities: _ 1
+Property and equipment 5,813 5,972
+l Inventories 1,790 1,825 ‘
+Other 1,452 1,618
+lTotal deferred tax liabilities 9,055 — 9,415 l
+Net deferred tax liabilities $ 1,853 — $ 2,966
+The deferred taxes are classified as follows in the Company's Consolidated Balance Sheets:
+January 31,
+(Amounts in millions) 2016 2015
+’Balance Sheet classiﬁcation: — ‘
+Assets:
+lPrepaid expenses and other $ — $ 728 ‘
+Other assets and deferred charges 1,504 1,033
+l Asset subtotals 1,504 — 1,761 l
+Liabilities: —
+lAccrued liabilities — 56 ‘
+Deferred income taxes and other 3,357 4,671
+l Liability subtotals 3,357 _ 4,727 1
+Net deferred tax liabilities $ 1,853 — $ 2,966
+Unremitted Earnings
+US. income taxes have not been provided on accumulated but undistributed earnings of the Company's international subsidiaries of approximately $26.1 billion
+and $23.3 billion as of January 31, 2016 and 2015 , respectively, as the Company intends to permanently reinvest these amounts outside of the US. However, if
+any portion were to be distributed, the related US. tax liability may be reduced by foreign income taxes paid on those earnings. Determination of the unrecognized
+deferred tax liability related to these undistributed earnings is not practicable because of the complexities with its hypothetical calculation. The Company provides
+deferred or current income taxes on earnings of international subsidiaries in the period that the Company determines it will remit those earnings.
+Net Operating Losses, Tax Credit Carryforwara's and Valuation Allowances
+At January 31, 2016 , the Company had net operating loss and capital loss carryforwards totaling approximately $5.3 billion . Of these carryforwards,
+approximately $3.0 billion will expire, if not utilized, in various years through 2036 . The remaining carryforwards have no expiration. At January 31, 2016 , the
+Company had foreign tax credit carryforwards of $1.8 billion , which will expire in various years through 2026 , if not utilized.
+The recoverability of these future tax deductions and credits is evaluated by assessing the adequacy of future expected taxable income from all sources, including
+taxable income in prior carryback years, reversal of taxable temporary differences, forecasted operating earnings and available tax planning strategies. To the
+extent management does not consider it more likely than not that a deferred tax asset will be realized, a valuation allowance is established. If a valuation allowance
+has been established and management subsequently determines that it is more likely than not that the deferred tax assets will be realized, the valuation allowance is
+released.
+46

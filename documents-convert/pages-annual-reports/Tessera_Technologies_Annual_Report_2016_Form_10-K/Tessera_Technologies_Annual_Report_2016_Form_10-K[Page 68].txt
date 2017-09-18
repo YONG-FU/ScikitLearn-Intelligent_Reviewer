@@ -1,0 +1,39 @@
+Table of Contents
+12016 $ 23,570 1
+2017 21,029
+12018 18,713 1
+2019 10,279
+12020 6,133 1
+Thereafter 15,365
+1 $ 95,089 1
+NOTE 10 — NET INCOME (LOSS) PER SHARE
+The Company has a share-based compensation plan under which employees may be granted share-based awards including shares of restricted stock and restricted
+stock units ("RSUs"). Non-forfeitable dividends are paid on unvested shares of restricted stock. No dividends are accrued or paid on unvested RSUs. As such,
+shares of restricted stock are considered participating securities under the two-class method of calculating earnings per share. The two-class method of calculating
+earnings per share did not have a material impact on the Company’s earnings per share calculation as of December 31, 2015, 2014 and 2013.
+The following table sets forth the computation of basic and diluted shares (in thousands):
+Years Ended December 31,
+2015 2014 2013
+Weighted average common shares outstanding 51,841 52,898 53,431
+1 Unvested common shares subject to repurchase (39) _ (79) _ (85) 1
+Total common shares-basic 51,802 52,819 53,346
+1Effect of dilutive securities: 1
+Stock awards 343 346 —
+1 Restricted stock awards and units 441 _ 398 _ — 1
+Total common shares-diluted 52,586 53,563 53,346
+Basic net income (loss) per share is computed using the weighted average number of common shares outstanding during the period, excluding any unvested
+restricted stock awards that are subject to repurchase. Diluted net income (loss) per share is computed using the treasury stock method to calculate the weighted
+average number of common shares and, if dilutive, potential common shares outstanding during the period. Potential dilutive common shares include unvested
+restricted stock awards and units and incremental common shares issuable upon the exercise of stock options, less shares from assumed proceeds. The assumed
+proceeds calculation includes actual proceeds to be received from the employee upon exercise, the average unrecognized stock compensation cost during the period
+and any tax benefits that will be credited upon exercise to additional paid-in capital.
+For the years ended December 31, 2015, 2014 and 2013 in the calculation of net income (loss) per share, 0.1 million , 1.5 million and 2.8 million shares,
+respectively, subject to stock options and restricted stock awards and units were excluded from the computation of diluted net income (loss) per share as they were
+anti-dilutive.
+NOTE 11 — STOCKHOLDERS’ EQUITY
+Stock Repurchase Programs
+In August 2007, the Company’s Board of Directors (“the Board”) authorized a plan to repurchase the Company’s outstanding shares of common stock dependent
+on market conditions, share price and other factors. As of December 31, 2015, the total amount authorized for repurchases is $250.0 million . As of December 31,
+2015, the Company had repurchased a total of approximately 8,234,000 shares of common stock, since inception of the plan, at an average price of $27 .22 per
+share for a total
+F - 20

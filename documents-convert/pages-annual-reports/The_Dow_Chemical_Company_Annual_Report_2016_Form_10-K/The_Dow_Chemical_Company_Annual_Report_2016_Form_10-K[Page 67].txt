@@ -1,0 +1,52 @@
+reporting units, while revenue growth rates, discount rates and tax rates are established by reporting unit to account for
+differences in business fundamentals and industry risk.
+The second step of the quantitative test is required if the first step of the quantitative test indicates a potential
+impairment. The second step requires the Company to compare the implied fair value of a reporting unit's goodwill
+with the carrying amount of goodwill. If the carrying amount of goodwill is greater than its implied fair value, an
+impairment loss is recorded.
+The Company also monitors and evaluates its market capitalization relative to book value. When the market
+capitalization of the Company falls below book value, management undertakes a process to evaluate whether a change
+in circumstances has occurred that would indicate it is more likely than not that the fair value of any of its reporting
+units has declined below carrying value. This evaluation process includes the use of third-party market-based
+valuations and internal discounted cash ﬂow analysis. As part of the annual goodwill impairment test, the Company
+also compares market capitalization with the most recent total estimated fair value of its reporting units to ensure that
+significant differences are understood. At December 31, 2016 and 2015, Dow’s market capitalization exceeded book
+value.
+2016 Goodwill Impairment Test
+In 2016, there were no events or changes in circumstances identified that warranted interim goodwill impairment
+testing. In the fourth quarter of 2016, qualitative testing was performed for all but three of the Company's reporting
+units that carry goodwill. The results of the qualitative testing did not indicate any reporting units where it was more
+likely than not that the carrying value of the reporting unit was greater than its fair value. As a result, no additional
+quantitative testing was required for those reporting units.
+The Company chose to proceed directly to the first step of the quantitative testing for three reporting units to re-
+evaluate the reasonableness of the differences between fair value and carrying value under current market conditions.
+Quantitative testing was conducted for the following reporting units, using key assumptions for the discounted cash
+ﬂow analysis: Dow Coating Materials, Performance Monomers and Dow Electronic Materials.
+Changes in key assumptions can affect the results of goodwill impairment testing. The changes made to key
+assumptions in 2016 did not result in a significant change in the impairment analysis conclusion. The key assumptions
+with the most significant impact on reporting unit fair value calculations include the discount rate and terminal value
+NOPAT growth rate. For the 2016 impairment testing, management completed sensitivity analysis on both of these key
+assumptions using a 100 basis point increase in the discount rate and a 100 basis point decrease in the terminal value
+NOPAT growth rate for reporting units where a quantitative fair value analysis was completed. In both cases the
+resulting fair values, based on discounted cash flows, exceeded the carrying values for all reporting units tested.
+Additional sensitivity analysis was completed on the combined impact of a 100 basis point increase in the discount
+rate and a 100 basis point decrease in the terminal value NOPAT growth rate. This analysis resulted in a fair value,
+based on discounted cash ﬂows, that exceeded the carrying value for Dow Electronic Materials and Performance
+Monomers. This analysis also resulted in a fair value for Dow Coating Materials, which carried $2,233 million of
+goodwill at December 31, 2016, that was $122 million below carrying value.
+In completing the fair value analysis for the 2016 impairment test, management evaluated the reasonableness of
+differences noted between fair value and carrying value of each reporting unit. All differences were determined to be
+reasonable.
+Based on the fair value analysis completed by the Company in the fourth quarter of 2016, using the key assumptions
+defined for the Company as well as the key assumptions defined specifically for each reporting unit, management
+concluded that fair value exceeded carrying value for all reporting units.
+Pension and Other Postretirement Beneﬁts
+The amounts recognized in the consolidated financial statements related to pension and other postretirement benefits
+are determined from actuarial valuations. Inherent in these valuations are assumptions including expected return on
+plan assets, discount rates at which the liabilities could have been settled at December 31, 2016, rate of increase in
+future compensation levels, mortality rates and health care cost trend rates. These assumptions are updated annually
+and are disclosed in Note 18 to the Consolidated Financial Statements. In accordance with US. GAAP, actual results
+that diﬁer from the assumptions are accumulated and amortized over future periods and, therefore, affect expense
+recognized and obligations recorded in future periods. The US. pension plans represent 72 percent of the Company’s
+pension plan assets and 71 percent of the pension obligations.
+59

@@ -1,0 +1,48 @@
+Property and Casualty Insurance Segment
+Following is a summary of the carried loss and settlement expense reserves for the property and casualty insurance
+segment at December 31, 2016 and 2015.
+December 31,
+($ in thousands)
+Line of business 2016 2015
+Commercial lines:
+[ Automobile $ 107,328 $ 95,564 1
+Property 36,303 34,072
+[ Workers' compensation 154,435 160,645 I
+Liability 170,580 168,062
+[ Other 2,193 2,170 1
+Total commercial lines 470,839 460,513
+Personal lines 15,548 19,900
+[ Total property and casualty insurance segment 733 486,387 7 8 480,413
+Branch claims personnel establish case loss reserves for individual claims, with mandatory home office claims
+department review of reserves that exceed a speciﬁed threshold. The philosophy utilized to establish case loss reserves is
+exposure based, and implicitly assumes a consistent inﬂationary and legal environment. When claims department personnel
+establish case loss reserves, they take into account various factors that inﬂuence the potential exposure.
+The claims department has implemented specific line-of-business guidelines that are used to establish the individual case
+loss reserve estimates. These guidelines, which are used for both short-tail and long-tail claims, require the claims department
+personnel to reserve for the probable (most likely) exposure for each claim. Probable exposure is defined as what is likely to be
+awarded if the case were to be decided by a civil court in the applicable venue or, in the case of a workers” compensation case,
+by that state ’5 Workers’ Compensation Commission. This evaluation process is repeated throughout the life of the claim at
+regular intervals, and as additional information becomes available. While performing these regular reviews, the branch claims
+personnel are able to make adjustments to the case loss reserves for location and time specific factors, such as legal venue,
+inﬂation, and changes in applicable laws.
+To provide consistency in the reserving process, the claims department utilizes established claims management processes
+and an automated claims system. Claims personnel conduct periodic random case loss reserve reviews to verify the accuracy
+of the reserve estimates and adherence to the reserving guidelines. In addition, the claims department has specific line-of-
+business management controls for case loss reserves. For example, all workers” compensation claim files are reviewed by
+management before benefits are declined, and all casualty case loss reserves are reviewed every 60 days for reserve adequacy.
+The automated claims system utilizes an automatic diary process that helps ensure that case loss reserve estimates are
+reviewed on a regular basis. The claims system requires written documentation each time a case loss reserve is established or
+modified, and provides management with the information necessary to perform individual reserve reviews and monitor reserve
+development. In addition, the claims system produces monthly reports that allow management to analyze case loss reserve
+development in the aggregate, by branch, by line of business, or by claims adjuster.
+As previously noted, a new reserving methodology was implemented in 2016. Under this new methodology, ultimate
+loss and allocated settlement expense amounts expected to be incurred are established by accident year and line of business.
+The amount of IBNR loss and allocated settlement expense reserves carried at each reporting dated is determined by
+subtracting the amounts incurred to date from the ultimate estimated incurred amounts.
+Ceded loss reserves are derived by applying the ceded contract terms to the direct loss reserves. For excess of loss
+contracts (excluding the catastrophe contract), this is accomplished by applying the ceded contract terms to the case loss
+reserves of the ceded claims. For the catastrophe excess of loss contract, ceded loss reserves are calculated by applying the
+contract terms to (1) the aggregate case loss reserves on claims stemming from catastrophes and (2) the estimate of IBNR loss
+reserves developed for each individual catastrophe. For quota share contracts, ceded loss reserves are calculated as the quota
+share percentage multiplied by both case and IBNR loss reserves on the direct business.
+61

@@ -1,0 +1,44 @@
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+“Existing,5,.5,0,0,%,and,6,.25,0,%,Indenture” means the Indenture dated October 29, 2014, among the Issuers, the guarantors party thereto and U.S. Bank
+National Association, as trustee, as supplemented as of the Issue Date.
+“Existiingai .815i%jndenture” means the Indenture dated September 14, 2012, among the Issuers, the guarantors party thereto and U.S. Bank National
+Association, as trustee, as supplemented as of the Issue Date.
+“Existing 6.125% Indenture” means the Indenture dated August 1, 2013, among the Issuers, the guarantors party thereto and U.S. Bank National
+Association, as trustee, as supplemented as of the Issue Date.
+“ExistingIndebtedness” means the aggregate principal amount of Indebtedness of TLLP and its Subsidiaries (other than Indebtedness under the Credit
+Agreements and the Notes and the related Guarantees) in existence on the Issue Date, including the Existing Senior Notes.
+“Existing Senior Notes” means the $600.0 million 5.875% senior notes of the Issuers due 2020 issued under the Existing 5.875% Indenture, the $550.0
+million 6.125% senior notes of the Issuers due 2021 issued under the Existing 6.125% Indenture, the $500.0 million 5.500% senior notes of the Issuers due
+2019 issued under the Existing 5.500% and 6.250% Indenture and the $800.0 million 6.25 0% senior notes of the Issuers due 2022 issued under the Existing
+5.500% and 6.250% Indenture.
+“Eair,Market3Zalue” means, with respect to consideration received or to be received, or given or to be given, pursuant to any transaction by TLLP or
+any Restricted Subsidiary, the fair market value of such consideration as determined in good faith by the Board of Directors of the General Partner in the case
+of transactions involving $50.0 million or more and otherwise by an ofﬁcer of TLLP.
+“FinancmgLeaseinhgation” means an obligation that is required to be accounted for as a ﬁnancing or capital lease (and, for the avoidance of doubt,
+not a straight-line or operating lease) on both the balance sheet and income statement for ﬁnancial reporting purposes in accordance with GAAP. The amount
+of Indebtedness represented by such obligation shall be, at the time any determination thereof is to be made, the amount of the liability in respect of a
+ﬁnancing or capital lease would be the amount required to be reﬂected on such balance sheet (excluding the footnotes thereto) in accordance with GAAP.
+The Stated Maturity thereof shall be the date of the last payment of rent or any other amount due under such lease prior to the ﬁrst date upon which such lease
+may be prepaid by the lessee without payment of a penalty.
+“Fixed Charge Coverage Ratio” means with respect to any speciﬁed Person for any period, the ratio of the Consolidated Cash Flow of such Person for
+such period to the Fixed Charges of such Person for such period. In the event that the speciﬁed Person or any of its Restricted Subsidiaries incurs, assumes,
+guarantees, repays, repurchases, redeems, defeases or otherwise discharges any Indebtedness or issues, repurchases or redeems Disqualiﬁed Equity subsequent
+to the commencement of the period for which the Fixed Charge Coverage Ratio is being calculated and on or prior to the date on which the event for which
+the calculation of the Fixed Charge Coverage Ratio is made (the “CalculationDate”), then the Fixed Charge Coverage Ratio will be calculated giving pro
+forma effect to such incurrence, assumption, Guarantee, repayment, repurchase, redemption, defeasance or other discharge of Indebtedness, or such issuance,
+repurchase or redemption of Disqualiﬁed Equity, and the use of the proceeds therefrom, as if the same had occurred at the beginning of the applicable
+Reference Period.
+In addition, for purposes of calculating the Fixed Charge Coverage Ratio:
+(1) acquisitions (including, without limitation, a single asset, a division or segment or an entire company) that have been made by the speciﬁed
+Person or any of its Restricted Subsidiaries, including through mergers, asset purchase transactions or consolidations and including any related
+ﬁnancing transactions during the Reference Period or subsequent to such Reference Period and on or prior to the Calculation Date will be given pro
+forma effect as if they had occurred on the ﬁrst day of the Reference Period, including any Consolidated Cash Flow and any pro forma expense and cost
+reductions and operating improvements that have occurred or are reasonably expected to occur, in the reasonable judgment of the chief ﬁnancial or
+accounting ofﬁcer of TLLP (regardless of whether those cost savings or operating improvements could then be reﬂected in pro forma ﬁnancial
+statements in accordance with Regulation S-X promulgated under the Securities Act or any other regulation or policy of the SEC related thereto);
+(2) the Consolidated Cash Flow attributable to discontinued operations, as determined in accordance with GAAP, and operations or businesses
+(and ownership interests therein) disposed of prior to the Calculation Date, will be excluded;
+(3) the Fixed Charges attributable to discontinued operations, as determined in accordance with GAAP, and operations or businesses (and
+ownership interests therein) disposed of prior to the Calculation Date, will be excluded, but only to the extent that the obligations giving rise to such
+Fixed Charges will not be obligations of the speciﬁed Person or any of its Restricted Subsidiaries following the Calculation Date;
+-7-

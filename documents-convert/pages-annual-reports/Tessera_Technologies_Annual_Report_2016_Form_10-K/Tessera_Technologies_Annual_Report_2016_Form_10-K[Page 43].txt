@@ -1,0 +1,47 @@
+Table of Contents
+Other Supplementary Data
+The following table presents our quarterly unaudited non-GAAP ﬁnancial measures for the eight quarters in the periods ended December 31, 2015 and 2014. The
+non-GAAP financial measures adjust for non-cash acquired intangibles, amortization charges, acquired in-process research and development, all forms of stock-
+based compensation expense, restructuring, impairment of long-lived assets and other charges and related tax effects of the aforementioned adjustments. The non-
+GAAP financial measures also exclude the effects of FASB Accounting Standards Codification Topic 718 — Stock Compensation upon the number of diluted
+shares used in calculating non-GAAP earnings per share. We believe that the non-GAAP measures used in this report provide investors with important
+perspectives into our ongoing business performance. Our management uses these non-GAAP financial measures when evaluating our operating performance. The
+non-GAAP financial measures disclosed by the Company should not be considered a substitute for, or superior to, financial measures calculated in accordance with
+GAAP, and the financial results calculated in accordance with GAAP and reconciliations to those financial statements should be carefully evaluated. The non-
+GAAP financial measures used by the Company may be calculated differently from, and therefore may not be comparable to, similarly titled measures used by
+other companies.
+Three Months Ended
+Mar 31, Jun 30, Sep 30, Dec 31, Mar 31, Jun 30, Sep 30, Dec 31,
+2014 2014 2014 2014 2015 2015 2015 2015
+(in thousands, excerl per share amounts)
+lGAAP income from Continuing Operations 8 33,425 8 2,516 8 102,683 8 36,319 8 35,568 8 25,769 8 32,936 8 22,844 l
+Adjustments to GAAP net income:
+I Stock-based compensation expense: ‘
+Research, development and other related costs 5 89 700 601 523 690 1,006 1,109 1,200
+1 Selling, general and administrative 1,915 1,939 2,545 2,595 1,829 2,558 1,777 1,860 l
+Amortization of acquired intangibles: 4,603 4,570 4,599 4,699 4,696 4,691 5,186 6,051
+Restructuring, impairment of long-lived assets and other
+charges 1,039 488 67 (11,933) — — (3,787) —
+Tax adjustments for non-GAAP items _ _ _ _ (68,343) _ 1,461 _ (2,348) _ (2,558) _ (2,375) _ (2,302)
+lNon-GAAP net income from continuing operations 8 41,571 7_8 10,213 7_8 42,152 7_8 33,669 7_8 40,435 7_8 31,466 18 34,846 7_8 29,653
+Non'GAAP net income Per common Share ' diluted 8 0.76 8 0.19 8 0.78 8 0.62 8 0.74 8 0.58 8 0.65 8 0.57
+Weighted average number of shares used in per share calculation- — — — — — — — ‘
+diluted* 54,720 _ 54,320 _ 54,351 _ 54,524 _ 54,481 _ 54,107 _ 53,543 _ 52,383
+* Non-GAAP diluted shares are based on the GAAP diluted shares adjusted for stock-based compensation expense and tax effect.
+The following table presents our revenues as recurring and episodic revenue, consistent with how management reviews our quarterly revenues:
+Mar 31, Jun 30, Sep 30, Dec 31, Mar 31, Jun 30, Sep 30, Dec 31,
+2014 2014 2014 2014 2015 2015 2015 2015
+’Revenues: ‘
+Recurring revenue $ 23,391 $ 35,786 $ 47,334 $ 43,314 $ 51,850 $ 63,188 $ 66,426 $ 60,836
+I Episodic revenue 64,945 1,427 46,000 16,610 28,000 1,000 1,000 1,000 ‘
+Total revenues $ 88,336 $ 37,213 $ 93,334 $ 59,924 $ 79,850 $ 64,188 $ 67,426 $ 61,836
+We deﬁne recurring revenue as payments made pursuant to a license agreement or other agreement that are scheduled to occur over at least one year of time. We
+define episodic revenue as non-recurring since it is not payable over at least one year pursuant to a contract. Episodic revenue includes non-recurring items such as
+engineering fees, initial license fees, back payments resulting from audits, damages awards from courts or other tribunals, and lump sum settlement payments.
+Although the royalty revenue reported by our licensees on a quarterly basis is generally not assured, for ease of reference, we refer to these revenues as “recurring
+revenue.”
+We believe that presenting episodic and recurring revenue information provides both management and investors with a more complete understanding of underlying
+operating results and trends of established, ongoing operations, as well as results due to unique items that can obscure underlying trends. Management recognizes
+that the term “episodic revenue” may be interpreted differently by other companies and may not be applicable under different circumstances. We believe that these
+measures are
+42

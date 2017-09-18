@@ -1,0 +1,31 @@
+Table,of,C,ontents
+A significant challenge we face is our ability to manage dependence on a small number of vertical markets, including some that are driven by government
+policies and subsidy programs. The markets may decline or experience slower rates of growth when there are changes or delays in government policies and subsidy
+programs. For example, a large portion of our current ultracapacitor business is concentrated in the Chinese hybrid transit bus and wind energy markets, which are
+heavily dependent on government regulation and subsidy programs. The Chinese government has provided subsidy programs, that vary year to year, targeting plug
+in hybrid diesel-electric buses. For 2016, the Chinese government renewed the subsidy program which provided subsidies for large plug in hybrid diesel-electric
+buses, but at a reduced reimbursement rate. and put into place a new subsidy program for medium plug in hybrid diesel-electric buses. However, it is unclear if bus
+OEM’s in China will adopt ultracapacitor based plug in hybrid diesel-electric designs for this class of bus. Also in 2016, the Chinese government proposed a new
+registration requirement for energy storage manufacturers who sell into the automotive and heavy tranSportation markets, requiring localization of manufacturing,
+and released an updated subsidy program for 2017. In 2017, the subsidies offered will require a manufacturer to be registered in order for its customers, who are
+ultimately building the buses, to qualify for the subsidy, thereby injecting some uncertainty as to whether our customers will be able to capture the benefit of this
+new program while determining which manufacturers will be able to comply with the proposed registration requirement. For 2017 and beyond, we may continue to
+see variability in revenue as a result of uncertainty regarding how these changes and potential changes to the China government subsidy will impact our sales into
+the hybrid transit vehicle market. In January 2017, to ensure Maxwell products are fully localized in support of the recent China government requirements,
+Maxwell licensed its module designs targeting the China bus market to CRRC-SRI, who will exclusively use Maxwell’s 2.7-volt and 3-volt ultracapacitor cells in
+local production lines to manufacture the modules. In addition, Maxwell will continue to leverage its long-standing expertise in the China bus market to jointly
+design additional, next-generation products, which CRRC-SRI will manufacture in the years to come.
+We have also begun to experience significant pricing pressure for ultracapacitors in the Chinese hybrid transit vehicle market and wind energy market, which
+have historically represented a significant portion of our sales, as a result of other market factors in addition to the government subsidy programs referenced above.
+In order to remain competitive, we may be required to lower our prices, maintain a stronger local presence, or provide more favorable sales terms to our customers.
+We remain focused on reducing the cost of producing our ultracapacitors in order to offset in part the lower prices we are now offering in this particular market.
+However, in the short-term, our cost reduction efforts are not expected to fully offset the impact of these lower prices.
+Although we believe the long-term prospects for the automotive, wind and hybrid transit markets remain positive, we are pursuing growth opportunities for
+our products in other vertical markets, including applications for backup power, power quality, rail, grid and heavy vehicle engine starting in order to further
+diversify our market presence and augment our long-term growth prospects.
+Other significant risks and challenges we face include the ability to achieve proﬁtability; the ability to develop our management team, product development
+infrastructure and manufacturing capacity to facilitate growth; competing technologies that may capture market share and interfere with our planned growth;
+difficulties in executing our restructuring plan; and hiring, developing and retaining key personnel critical to the execution of our strategy. We will be attentive to
+these risks and will focus on developing new products and promoting the value proposition of our products versus competing technologies and trying to grow our
+revenue and profit in the years to come.
+32

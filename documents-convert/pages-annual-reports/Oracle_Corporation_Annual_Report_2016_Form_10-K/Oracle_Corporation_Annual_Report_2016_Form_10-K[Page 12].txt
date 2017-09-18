@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+Oracle Management Cloud
+Oracle Management Cloud is a suite of integrated monitoring, management, and analytics cloud services that is designed to provide real-time analysis and technical
+and business insights. Oracle Management Cloud includes the following offerings, among others:
+- Oracle Application Performance Monitoring Cloud Service, which is designed to provide development and operations teams with information to find and
+fix application issues including end user and application performance information (with associated application logs);
+- Oracle IT Analytics Cloud Service, which is designed to provide insight into the performance, availability, and capacity of applications and infrastructure
+to enable IT decision-making based on a complete set of analyses; and
+- Oracle Log Analytics Cloud Service, which is designed to monitor, aggregate, index and analyze log data from applications and infrastructure and enable
+users to search, explore, and correlate this data to troubleshoot problems faster, derive operational insight and make better decisions.
+Oracle Cloud at Customer
+Oracle Cloud at Customer utilizes the Oracle Cloud Machine to bring certain Oracle Cloud PaaS and IaaS offerings to a customer’s on-premise IT environment on
+a subscription basis. As an on-premise implementation of the Oracle Cloud, Oracle Cloud at Customer offerings are designed to enable customers to use certain
+Oracle Cloud PaaS and IaaS offerings while meeting data sovereignty, data residency, data protection and regulatory business policy requirements, among others.
+QracleDatabase
+We license to customers our Oracle Database software, which is designed to enable reliable and secure storage, retrieval and manipulation of all forms of data,
+including: transactional data, business information and analytics; semi-structured and unstructured data in the form of weblogs, text, social media feeds, XML files,
+office documents, images, video and spatial images; and other specialized forms of data, such as graph data. Oracle Database software is used for a variety of
+purposes, including with packaged applications and custom applications for transaction processing, data warehousing and business intelligence and as a document
+repository or specialized data store. Security continues to be a critical characteristic of the Oracle Database and the latest version includes a number of security
+enhancements and new features including, among others, encryption of data in motion, conditional auditing, real application security, and transparent sensitive data
+protection. All security capabilities available are compatible with the Oracle Multitenant architecture option, which enables customers to quickly and efficiently
+address the unique security requirements of each of their database instances.
+A number of optional add-on products are available with Oracle Database Enterprise Edition software to address specific customer requirements, including:
+- a comprehensive portfolio of advanced defense, in-depth security solutions that safeguard data at the source including Oracle Advanced Security, Oracle
+Database Vault and Oracle Data Masking and Subsetting, as well as detective security options including Oracle Audit Vault and Database Firewall.
+Oracle Database security options are designed to ensure data privacy, protect against insider threats, and enable regulatory compliance for both Oracle and
+non-Oracle databases;
+- in the areas of cloud computing and consolidation, we offer the Oracle Multitenant software option that is designed to make it easier to consolidate
+multiple databases quickly and manage them as a cloud service, which enables customers to easily consolidate multiple databases into one without
+changing their applications. Our Oracle Multitenant architecture option offers the efficiency and cost savings of managing many databases at one time, yet
+retains the isolation and resource prioritization of separate databases that is necessary for multitenant cloud services; and
+o in the areas of performance and scalability, we offer Oracle Real Application Clusters, Oracle Database In-Memory, Oracle Advanced Compression and
+Oracle Partitioning software options. Deploying the
+1 O

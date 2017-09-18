@@ -1,0 +1,49 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+As of May 31, 2016 and 2015
+Mayﬂ,
+(in millions, except per share data) 2016 2015
+I ASSETS 7
+Current assets:
+I Cash and cash equivalents $ 20,152 $ 21,716 I
+Marketable securities 35,973 32,652
+Trade receivables, net of allowances for doubtful accounts of $327 and $285 as of May 31, 2016 and 2015, I
+I respectively 5,385 5,618
+Inventories 212 3 14
+I Prepaid expenses and other current assets 2,591 2,220 J
+Total current assets 64,313 62,520
+Non-current assets: J
+Property, plant and equipment, net 4,000 3,686
+I Intangibl—e assets, net — 4,943 6,406 I
+Goodwill, net 34,590 34,087
+I Deferred tax assets 1,291 1,458 I
+Other assets 3,043 2,746
+I Total non-current assets 47,867 48,3 83 1
+Total assets $ 112,180 $ 110,903
+I LIABILITIES AND EQUITY 7
+Current liabilities:
+I Notes payable, current 33 3,750 $ 1,999 I
+Accounts payable 504 806
+I Accrued compensation and related benefits 1,966 1,839 I
+Deferred revenues 7,655 7,245
+I Other current liabilities 3,333 3,3 17 J
+Total current liabilities 17,208 15,206
+Non-current liabilities: J
+Notes payable, non-current 40,105 39,959
+I Income taxes p_ayable 4,908 4,386 I
+Other non-current liabilities 2,169 2,254
+I Total non-current liabilities 47,182 46,599]
+Commitments and contingencies
+Oracle Corporation stockholders” eqinty: I
+Preferred stock, $0.01 par value—authorized: 1.0 shares; outstanding: none — —
+I Common stock, $0.01 par value and additional paid in capital—authorized: 11,000 shares; outstanding: 4,131 shares I
+and 4,343 shares as of May 31, 2016 and 2015, respectively 24,217 23,156
+Retained earnings 23,888 26,503
+I Accumulated other comprehensive loss (816) (996)J
+Total Oracle Corporation stockholders’ equity 47,289 48,663
+Noncontrolling interests — 501 43 5 J
+Total equity 47,790 49,098
+I Total liabilities and eqlgty $ 1 12,180 $ 1 10,9031
+See notes to consolidated financial statements.
+86

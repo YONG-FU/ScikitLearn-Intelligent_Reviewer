@@ -1,0 +1,46 @@
+Ultimately, increased competition of all types could result in price and revenue reductions, loss of customers and loss of
+market share, each of which could materially impact our business, profitability, financial condition, results of operations and
+cash ﬂows.
+We may be unable to replace lost revenue due to customer cancellations, renewals at lower rates or other less favorable
+terms.
+It is key to our profitability that we offset lost committed recurring revenue due to customer cancellations, terminations,
+price reductions or other less favorable terms by adding new customers and increasing the number of high-margin services,
+features and functionalities that our existing customers purchase. We cannot predict our renewal rates. Some customers may
+elect not to renew and others may renew at lower prices, lower committed traffic levels, or for shorter contract lengths.
+Historically, a significant percentage of our renewals, particularly with larger customers, has led to unit price declines as
+competition has increased and the market for certain parts of our business has matured. Our renewal rates may decline as a
+result of a number of factors, including competitive pressures, customer dissatisfaction with our services, customers' inability to
+continue their operations and spending levels, the impact of multi-vendor policies, customers implementing or increasing their
+use of in—house technology solutions and general economic conditions. In addition, our customer contracting models may
+change to move away from a committed revenue structure to a "pay-as-you—go" approach. The absence of a commitment would
+make it easier for customers to stop doing business with us, which would negatively impact revenue.
+Security breaches and attacks on our plazform could lead to significant costs and disruptions that could harm our business,
+ﬁnancial results and reputation.
+Our business is dependent on providing our customers with fast, efficient and reliable distribution of applications and
+content over the Internet. We transmit and store our customers' information and data as well as our own. Maintaining the
+security and availability of our services, network and internal IT systems and the security of information we hold is a critical
+issue for us and our customers. Attacks on our customers and our own network take a variety of forms, including distributed
+denial of service (DDoS) attacks, infrastructure attacks, botnets, malicious file uploads, cross-site scripting, credential abuse,
+bugs, viruses, worms and malicious software programs. Malicious actors use attempts to fraudulently induce employees or
+suppliers to disclose sensitive information through illegal electronic spamming, phishing or other tactics. In addition,
+unauthorized parties may attempt to gain physical access to our facilities in order to infiltrate our information systems.
+In recent years, Internet-based attacks have increased in size, sophistication and complexity, increasing the exposure to our
+customers and us. In addition, as we expand our emphasis on selling security-related solutions, we may become a more
+attractive target for attacks on our infrastructure intended to destabilize, overwhelm or shut down our platform. The costs to us
+to avoid or alleviate cyber or other security problems and vulnerabilities are significant. However, our efforts to address these
+problems may not be successful. Any significant breach of our security measures could:
+- lead to the dissemination of proprietary information or sensitive, personal or confidential data about us, our employees
+or our customers;
+° threaten our ability to provide our customers with our services;
+° generate negative publicity about us;
+0 result in litigation and increased legal liability or fines, or
+0 lead to governmental inquiry or oversight.
+The occurrence of any of these events could harm our business or damage our brand and reputation, lead to customer
+credits, loss of customers, higher expenses, and possibly impede our present and future success in retaining and attracting new
+customers. A successful assault on our infrastructure would be damaging to our reputation and could adversely affect our
+financial condition.
+Similar security risks exist with respect to our business partners and the third-party vendors that we rely on for aspects of
+our information technology support services and administrative functions. As a result, we are subject to the risk that the
+activities of our business partners and third-party vendors may adversely affect our business even if the attack or breach does
+not directly impact our systems.
+1 3

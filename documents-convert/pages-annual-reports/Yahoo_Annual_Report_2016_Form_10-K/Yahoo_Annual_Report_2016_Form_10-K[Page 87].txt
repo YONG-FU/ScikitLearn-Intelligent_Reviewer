@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+to these reporting units. Fon/vard revenue multiples derived from these comparable companies are applied to ﬁnancial metrics of these reporting units to
+determine their estimated fair values.
+- Estimated future cash flows . We base cash ﬂow projections for each reporting unit using a forecast of cash flows and a terminal value based on the
+Perpetuity Growth Model. The forecast and related assumptions were derived from the most recent annual ﬁnancial forecast for which the planning process
+commenced in our fourth quarter of 2016. Key assumptions in estimating future cash ﬂows include, among other items, revenue and operating expense
+growth rates, terminal value growth rate, and capital expenditure and working capital levels.
+- Discount rates . We employ a Weighted Average Cost of Capital approach to determine the discount rates used in our cash flow projections. The
+determination of the discount rates for each reporting unit includes factors such as the risk-free rate of return and the return an outside investor would
+expect to earn based on the overall level of inherent risk. The determination of expected returns includes consideration of the beta (a measure of volatility)
+of traded securities of comparable companies and risk premiums of reporting units based on international cost of capital methods.
+Discount rate assumptions for these reporting units take into account our assessment of the risks inherent in the future cash ﬂows of the respective reporting unit
+and our weighted—average cost of capital. We also review marketplace data to assess the reasonableness of our computation of our overall weighted average
+cost of capital and, when available, the discount rates utilized for each of these reporting units.
+In determining the fair value of all of the reporting units for the annual goodwill impairment test as of October 31, 2016, we used the following assumptions:
+- Expected cash ﬂows underlying our business plans for the periods 2017 through 2027.
+- Cash ﬂows beyond 2027 are projected to grow at a perpetual growth rate.
+- In order to risk adjust the cash ﬂow projections in determining fair value, we utilized discount rates ranging from 15 percent to 17.5 percent for these
+reporting units.
+For any reporting units where the carrying value exceeds the estimated fair value, as determined in step one, we perform a second step to measure the amount
+of impairment, if any. The second step of the quantitative test is performed by comparing the carrying value of the goodwill in the reporting unit to its implied fair
+value. The implied fair value is calculated by allocating all of the assets and liabilities of the reporting unit, including any unrecognized intangible assets, in a
+hypothetical analysis that calculates the implied fair value of goodwill in the same manner as if the reporting unit was being acquired in a business combination.
+An impairment charge is recognized for the excess of the carrying value of goodwill over its implied fair value. We did not book an impairment charge as a result
+of our annual goodwill impairment test as of October 31, 2016.
+Determining the fair value of each reporting unit is judgmental in nature and requires the use of signiﬁcant estimates and assumptions, including revenue growth
+rates and operating margins, discount rates and future market conditions, among others. It is reasonably possible that a future decline in market conditions
+and/or changes in our market share could negatively impact the market comparables, estimated future cash flows and discount rates used in the market and
+income approaches to determine the fair value of each reporting unit and could result in some portion or all of the remaining goodwill to become impaired in the
+foreseeable future.
+2016 Interim Goodwill Impairment. After recording the goodwill impairment charge as of October 31, 2015 for Tumblr during the fourth quarter of 2015, the
+fair value of the Tumblr reporting
+86

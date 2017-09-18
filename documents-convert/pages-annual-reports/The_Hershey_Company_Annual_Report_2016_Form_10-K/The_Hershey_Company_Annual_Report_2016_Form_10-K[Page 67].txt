@@ -1,0 +1,50 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Interest Expense
+Net interest expense consisted of the following:
+For the years ended December 31, 7 7 2016 7 7 2015 7 7 2014 7
+llnterest expense $ 97,851 $ 93,520 $ 93,777 l
+Capitalized interest (5,903) (12,537) (6,179)
+lLoss on extinguishment of debt 7 7 if 7 28,326 7 7 r ‘
+Interest expense 91,948 109,309 87,598
+[Interest income g (1,805) g (3,536), g (4,066)}
+Interest expense, net $ 90,143 $ 105,773 $ 83,532
+5. DERIVATIVE INSTRUMENTS
+We are exposed to market risks arising principally from changes in foreign currency exchange rates, interest rates and
+commodity prices. We use certain derivative instruments to manage these risks. These include interest rate swaps to
+manage interest rate risk, foreign currency forward exchange contracts and options to manage foreign currency
+exchange rate risk, and commodities futures and options contracts to manage commodity market price risk exposures.
+In entering into these contracts, we have assumed the risk that might arise from the possible inability of counterparties
+to meet the terms of their contracts. We mitigate this risk by entering into exchanged-traded contracts with collateral
+posting requirements and/or by performing financial assessments prior to contract execution, conducting periodic
+evaluations of counterparty performance and maintaining a diverse portfolio of qualified counterparties. We do not
+expect any significant losses from counterparty defaults.
+Commodity Price Risk
+We enter into commodities futures and options contracts and other commodity derivative instruments to reduce the
+effect of future price ﬂuctuations associated with the purchase of raw materials, energy requirements and
+transportation services. We generally hedge commodity price risks for 3- to 24-month periods. Our open commodity
+derivative contracts had a notional value, assuming year-end market prices, of $739,374 as of December 31, 2016 and
+$374,873 as of December 31, 2015. Through 2015, we designated the majority of our commodity derivative
+instruments as cash ﬂow hedges under the hedge accounting requirements. Under hedge accounting, we account for
+the effective portion of mark-to-market gains and losses on commodity derivative instruments in other comprehensive
+income, to be recognized in cost of sales in the same period that we record the hedged raw material requirements in
+cost of sales. The ineffective portion of gains and losses is recorded currently in cost of sales.
+Eﬁective July 6, 2015 for cocoa commodity derivatives and January 1, 2016 for other commodity derivatives, we
+discontinued the designation of any of our existing or new cocoa or other commodity derivatives for hedge accounting
+treatment. Since such dates, changes in the fair value of these derivatives have been recorded as incurred within cost
+of sales. Effective as of such dates, we also revised our definition of segment income to exclude gains and losses on
+commodity derivatives until the related inventory is sold. This change to our definition of segment income enables us
+to continue to align the derivative gains and losses with the underlying economic exposure being hedged and thereby
+eliminate the mark-to-market volatility within our reported segment income.
+Foreign Exchange Price Risk
+We are exposed to foreign currency exchange rate risk related to our international operations, including non—functional
+currency intercompany debt and other non-functional currency transactions of certain subsidiaries. Principal
+currencies hedged include the euro, Canadian dollar, Japanese yen, and Brazilian real. We typically utilize foreign
+currency forward exchange contracts and options to hedge these exposures for periods ranging from 3 to 12 months.
+The contracts are either designated as cash ﬂow hedges or are undesignated. The net notional amount of foreign
+exchange contracts accounted for as cash ﬂow hedges was $68,263 at December 31, 2016 and $10,752 at
+December 31, 2015. The effective portion of the changes in fair value on these contracts is recorded in other
+comprehensive income and reclassified into earnings in the same period in which the hedged transactions aﬁect
+earnings. The net notional amount of foreign exchange contracts that are not designated as accounting hedges was
+65

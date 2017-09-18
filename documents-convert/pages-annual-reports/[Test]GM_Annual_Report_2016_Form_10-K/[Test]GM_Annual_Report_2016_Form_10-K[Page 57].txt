@@ -1,0 +1,43 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+to retain the award at retirement. The liability for stock incentive plan awards settled in cash is remeasured to fair value at the end of each reporting period.
+Product Warranty and Recall Campaigns The estimated costs related to product warranties are accrued at the time products are sold and are charged to
+Automotive cost of sales. These estimates are established using historical information on the nature, frequency and average cost of claims of each vehicle line
+or each model year of the vehicle line and assumptions about future activity and events. Revisions are made when necessary and are based on changes in
+these factors.
+The estimated costs related to recall campaigns are generally accrued at the time of vehicle sale in GMNAby applying a frequency times severity approach
+that considers the number of historical recall campaigns, the number of vehicles per recall campaign, the estimated number of vehicles to be repaired and the
+cost per vehicle for each recall campaign. The estimated costs associated with recall campaigns in other geographical regions are accrued when probable and
+estimable using the estimated costs of repairs and the estimated number of vehicles to be repaired. Costs associated with recall campaigns are charged to
+Automotive cost of sales. Revisions are made when necessary based on changes in these factors.
+Income Taxes The liability method is used in accounting for income taxes. Deferred tax assets and liabilities are recorded for temporary differences between
+the tax basis of assets and liabilities and their reported amounts in the consolidated ﬁnancial statements using the statutory tax rates in effect for the year in
+which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax rates is recorded in the results of operations in
+the period that includes the enactment date under the law.
+Deferred income tax assets are evaluated quarterly to determine if valuation allowances are required or should be adjusted. We establish valuation
+allowances for deferred tax assets based on a more likely than not standard. The ability to realize deferred tax assets depends on the ability to generate
+sufﬁcient taxable income within the carryback or carryforward periods provided for in the tax law for each applicable tax jurisdiction. The assessment
+regarding whether a valuation allowance is required or should be adjusted also considers all available positive and negative evidence factors. It is difﬁcult to
+conclude a valuation allowance is not required when there is signiﬁcant objective and veriﬁable negative evidence, such as cumulative losses in recent years.
+We utilize a rolling three years of actual and current year results as the primary measure of cumulative losses in recent years.
+Income tax expense (beneﬁt) for the year is allocated between continuing operations and other categories of income such as Other comprehensive income
+(loss). In periods in which there is a pre-tax loss from continuing operations and pre-tax income in another income category, the tax beneﬁt allocated to
+continuing operations is determined by taking into account the pre-tax income of other categories.
+We record uncertain tax positions on the basis of a two-step process whereby we determine whether it is more likely than not that the tax positions will be
+sustained based on the technical merits of the position, and for those tax positions that meet the more likely than not recognition, we recognize the largest
+amount of tax beneﬁt that is greater than 50% likely to be realized upon ultimate settlement with the related tax authority. We record interest and penalties
+on uncertain tax positions in Income tax expense (beneﬁt).
+Foreign Currency Transactions and Translation The assets and liabilities of foreign subsidiaries that use the local currency as their ﬁmctional currency are
+translated to US. Dollars based on the current exchange rate prevailing at each balance sheet date and any resulting translation adjustments are included in
+Accumulated other comprehensive loss. The assets and liabilities of foreign subsidiaries whose local currency is not their functional currency are remeasured
+from their local currency to their functional currency and then translated to US. Dollars. Revenues and expenses are translated into US. Dollars using the
+average exchange rates prevailing for each period presented.
+Gains and losses arising from foreign currency transactions and the effects of remeasurements discussed in the preceding paragraph are recorded in
+Automotive cost of sales and GM Financial interest, operating and other expenses unless related to Automotive debt, which are recorded in Interest income
+and other non-operating income, net. Foreign currency transaction and remeasurement losses were $358 million, $829 million and $437 million in the years
+ended December 31, 2016, 2015 and 2014.
+Derivative Financial Instruments Derivative ﬁnancial instruments are recognized as either assets or liabilities at fair value. The accounting for changes in
+the fair value of each derivative ﬁnancial instrument depends on whether it has been designated and qualiﬁes as an accounting hedge, as well as the type of
+hedging relationship identiﬁed. Derivative instruments are not used for trading or speculative purposes.
+54

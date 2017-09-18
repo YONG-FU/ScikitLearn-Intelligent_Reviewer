@@ -1,0 +1,38 @@
+Note 10 — Claims Accruals
+Claims accruals represent the uninsured portion of outstanding claims at year-end. The current portion reflects the
+amount of claims expected to be paid in the following year. The Company's insurance program for workers'
+compensation, auto and collision liability, physical damage, and cargo damage involves self-insurance with varying
+risk retention levels.
+Claims accruals were comprised of the following:
+December 31,
+: 2016 2015 :
+: (ln thousands) :
+Auto and collision liability $ 128,643 $ 123,086
+Workers' compensation liability 101,232 92,608
+Owner-operator claims liability 11,736 12,304
+Cargo damage liability 4,695 5,348
+Other liability (1) 286 364
+Claims accruals : 246,592:: 233,710:
+Less: current portion of claims accruals (80,866) (84,429)
+Claim accruals, less current portion $ 165,726 $ 149,281
+(1) Includes group medical liability. Effective January 1, 2015, the Company is fully insured on its group medical
+benefits, subject to contributed premiums. Prior to January 1, 2015, the Company had a $500 thousand specific
+deductible with an aggregating individual deductible of $150 thousand of each employee health care claim, as
+well as commercial insurance for the balance.
+Note 11 — Income Taxes
+The following table presents the Company's income tax expense:
+Year Ended December 31,
+: 2016 2015 2014 :
+(In thousands)
+Current expense:
+Federal $ 88,689 $ 76,737 $ 81,117
+State 10,610 8,826 8,861
+Foreign 3,053 8,783 4,107
+: 102,352: : 94,346: : 94,085:
+Deferred (benefit) expense:
+Federal (31,380) 24,097 (4,189)
+State (211) 3,419 1,975
+Foreign (5,059) (2,653) (2,397)
+: (36,650): : 24,863: : (4,611):
+Income tax expense $ 65,702 $ 119,209 $ 89,474
+101

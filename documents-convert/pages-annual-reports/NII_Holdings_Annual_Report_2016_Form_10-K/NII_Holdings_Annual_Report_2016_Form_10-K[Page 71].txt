@@ -1,0 +1,43 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+31, 2015, we did not include an immaterial amount of restricted common shares in our calculation of diluted net (loss) income from continuing operations per
+common share because their effect would have been antidilutive. As presented for the year ended December 31, 2014, we did not include 5.4 million stock
+options and 0.9 million in restricted common shares in our calculation of diluted net loss from continuing operations per common share because their effect
+would have been antidilutive to our net loss from continuing operations per common share for that period.
+Income Taxes. We account for income taxes using the asset and liability method, under which we recognize deferred income taxes for the tax
+consequences attributable to differences between the ﬁnancial statement carrying amounts and the tax bases of existing assets and liabilities, as well as for
+tax loss carryforwards and tax credit carryforwards. We measure deferred tax assets and liabilities using enacted tax rates expected to apply to taxable income
+in the years in which those temporary differences are expected to be recoverable or settled. We recognize the effect on deferred taxes of a change in tax rates
+in income in the period that includes the enactment date. We recognize a valuation allowance on deferred tax assets unless it is determined that it is “more-
+likely-than-not” that the asset will be realized.
+Reclassiﬁcations. We have reclassiﬁed some prior period amounts in our consolidated ﬁnancial statements to conform to our current presentation.
+New Accounting Pronouncements. In November 2016, the Financial Accounting Standards Board, or the FASB, issued Accounting Standard Update,
+or ASU, No. 2016-18, "Statement of Cash Flows (Topic 230): Restricted Cash," which provides guidance regarding cash ﬂow statement classiﬁcation and
+presentation of changes in restricted cash. The new standard will be effective for interim and annual reporting periods beginning on January 1, 2018, with
+early adoption permitted. The amendments in this ASU require that a statement of cash ﬂows explain the change during the period in the total of cash, cash
+equivalents and amounts generally described as restricted cash or restricted cash equivalents. Entities will also be required to reconcile this total to amounts
+on the consolidated balance sheet and disclose the nature of the restrictions. We are currently evaluating the timing of adoption, as well as the effect ASU No.
+2016-18 will have on our consolidated statement of cash ﬂows.
+In February 2016, the FASB issued ASU No. 2016-02, "Leases (Topic 842)," which replaces existing leasing rules with a comprehensive lease
+measurement and recognition standard and expanded disclosure requirements. ASU No. 2016-02 will require lessees to recognize most leases on their balance
+sheet as liabilities, with corresponding "right-of-use" assets, and is effective for interim and annual reporting periods beginning after December 15, 2018,
+subject to early adoption. The new standard allows us to make an accounting policy election not to recognize lease assets and liabilities on the balance sheet
+for leases with a term of 12 months or less. The accounting applied by a lessor is largely unchanged from previous guidance. In transition, lessees and lessors
+are required to recognize and measure leases at the beginning of the earliest period presented using a modiﬁed retrospective approach. The modiﬁed
+retrospective approach includes a number of optional practical expedients that we may elect to apply. We are currently evaluating the timing of adoption, as
+well as the eﬁ‘ect ASU No. 2016-02 will have on our consolidated ﬁnancial statements.
+In May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers," which will provide us with a single revenue recognition
+model for recognizing revenue from contracts with customers and signiﬁcantly expand the disclosure requirements for revenue arrangements. The new
+standard, as amended, will be effective for interim and annual reporting periods beginning on January 1, 2018, at which point we plan to adopt the standard.
+The two permitted transition methods under the new standard are the ﬁll retrospective method, in which the standard would be applied to each prior
+reporting period presented, or the modiﬁed retrospective method, in which case the cumulative effect of applying the standard would be recognized at the
+date of initial application, with disclosure of results under the new and old standards for the ﬁrst year of adoption. We are in the process of evaluating the
+available adoption methods.
+3. Emergence from Chapter 11 Proceedings and Fresh Start Accounting
+On September 15 , 2014, we and eight of our US. and Luxembourg-domiciled subsidiaries, including NII Capital Corp. and N11 International Telecom,
+S.C.A., or NIIT, ﬁled voluntary petitions seeking relief under Chapter 1 1 of Title 1 1 of the United States Bankruptcy Code, which we refer to as Chapter 1 1, in
+the United States Bankruptcy Court for the Southern District of New York, which we refer to as the Bankruptcy Court. In addition, subsequent to September
+15, 2014, ﬁve additional subsidiaries of N11 Holdings, Inc. ﬁled voluntary petitions seeking relief under Chapter 11 in the Bankruptcy Court. We refer to the
+companies that ﬁled voluntary petitions seeking relief under Chapter 11 collectively as the Debtors. Nextel Brazil and our previous other operating
+subsidiaries in Latin America were not Debtors in these Chapter 11 cases.
+F—14

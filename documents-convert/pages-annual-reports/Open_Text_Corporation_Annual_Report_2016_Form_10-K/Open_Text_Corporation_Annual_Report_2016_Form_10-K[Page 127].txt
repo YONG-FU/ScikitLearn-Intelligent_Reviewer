@@ -1,0 +1,52 @@
+Asset retirement obligations
+We account for asset retirement obligations in accordance with ASC Topic 410, “Asset Retirement and Environmental
+Obligations” (Topic 410), which applies to certain obligations associated with “leasehold improvements” within our leased
+office facilities. Topic 410 requires that a liability be initially recognized for the estimated fair value of the obligation when it is
+incurred. The associated asset retirement cost is capitalized as part of the carrying amount of the long-lived asset and
+depreciated over the remaining life of the underlying asset and the associated liability is accreted to the estimated fair value of
+the obligation at the settlement date through periodic accretion charges recorded within general and administrative expenses.
+When the obligation is settled, any difference between the final cost and the recorded amount is recognized as income or loss on
+settlement in our Consolidated Statements of Income.
+Revenue recognition
+License revenues
+We recognize revenues in accordance with ASC Topic 985-605, “Software Revenue Recognition” (Topic 985-605).
+We record product revenues from software licenses and products when persuasive evidence of an arrangement exists, the
+software product has been shipped, there are no significant uncertainties surrounding product acceptance by the customer, the
+fees are fixed and determinable, and collection is considered probable. We use the residual method to recognize revenues on
+delivered elements when a license agreement includes one or more elements to be delivered at a future date if evidence of the
+fair value of all undelivered elements exists. If an undelivered element for the arrangement exists under the license
+arrangement, revenues related to the undelivered element is deferred based on vendor-specific objective evidence (VSOE) of
+the fair value of the undelivered element.
+Our multiple-element sales arrangements include arrangements where software licenses and the associated post contract
+customer support (PCS) are sold together. We have established VSOE of the fair value of the undelivered PCS element based on
+the contracted price for renewal PCS included in the original multiple element sales arrangement, as substantiated by
+contractual terms and our significant PCS renewal experience, from our existing worldwide base. Our multiple element sales
+arrangements generally include irrevocable rights for the customer to renew PCS after the bundled term ends. The customer is
+not subject to any economic or other penalty for failure to renew. Further, the renewal PCS options are for services comparable
+to the bundled PCS and cover similar terms.
+It is our experience that customers generally exercise their renewal PCS option. In the renewal transaction, PCS is sold on
+a stand-alone basis to the licensees one year or more after the original multiple element sales arrangement. The exercised
+renewal PCS price is consistent with the renewal price in the original multiple element sales arrangement, although an
+adjustment to reﬂect consumer price changes is common.
+If VSOE of fair value does not exist for all undelivered elements, all revenues are deferred until sufficient evidence exists
+or all elements have been delivered.
+We assess whether payment terms are customary or extended in accordance with normal practice relative to the market in
+which the sale is occurring. Our sales arrangements generally include standard payment terms. These terms eﬁectively relate to
+all customers, products, and arrangements regardless of customer type, product mix or arrangement size. Exceptions are only
+made to these standard terms for certain sales in parts of the world where local practice differs. In these jurisdictions, our
+customary payment terms are in line with local practice.
+Cloud services and subscriptions revenues
+Cloud services and subscription revenues consist of (i) software as a service oﬁerings (ii) managed service arrangements
+and (iii) subscription revenues relating to on premise offerings. The customer contracts for each of these three oﬁerings are
+long term contracts (greater than twelve months) and are based on the customer’s usage over the contract period. The revenue
+associated with such contracts is recognized once usage has been measured, the fee is fixed and determinable and collection is
+probable.
+In certain managed services arrangements, we sell transaction processing along with implementation and start-up services.
+The implementation and start-up services do not have stand-alone value and, therefore, they do not qualify as separate units of
+accounting and are not separated. We believe these services do not have stand-alone value as the customer only receives value
+from these services in conjunction with the use of the related transaction processing service, we do not sell such services
+separately, and the output of such services cannot be re-sold by the customer. Revenues related to implementation and start-up
+services are recognized over the longer of the contract term or the estimated customer life. In some arrangements, we also sell
+professional services which do have stand-alone value and can be separated from other elements in the arrangement. The
+revenue related to these services is recognized as the service is performed. In some arrangements, we also sell professional
+1 19

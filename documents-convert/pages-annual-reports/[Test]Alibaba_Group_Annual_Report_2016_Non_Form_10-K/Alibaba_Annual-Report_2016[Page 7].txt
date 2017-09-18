@@ -1,0 +1,52 @@
+Consolidated Statements of Operations Data:
+Year ended March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions, except per share data)
+Revenue
+China commerce . . . . . . . . . . . . . . . . . . . . . . . . . . 15,637 29,167 45,132 62,937 84,321 13,077
+International commerce . . . . . . . . . . . . . . . . . . . . . 3,765 4,160 4,851 6,486 7,629 1,183
+Cloud computing . . . . . . . . . . . . . . . . . . . . . . . . . 515 650 773 1,271 3,019 468
+108 540 1,748 5,510 6,174 958
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20,025 34,517 52,504 76,204 101,143 15,686
+Cost of revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . (6,554) (9,719) (13,369) (23,834) (34,355) (5,328)
+Product development expenses . . . . . . . . . . . . . . . . . . (2,897) (3,753) (5,093) (10,658) (13,788) (2,138)
+Sales and marketing expenses. . . . . . . . . . . . . . . . . . . (3,058) (3,613) (4,545) (8,513) (11,307) (1,753)
+General and administrative expenses“) . . . . . . . . . . . . (2,211) (2,889) (4,218) (7,800) (9,205) (1,428)
+Amortization of intangible assets . . . . . . . . . . . . . . . . (155) (130) (315) (2,089) (2,931) (455)
+Impairment of goodwill and intangible assets . . . . . . . . (135) (175) (44) (175) (455) (71)
+Yahoo TIPLA amendment paymenta) . . . . . . . . . . . . . — (3,487) — — — —
+Income from operations . . . . . . . . . . . . . . . . . . . . . . 5,015 10,751 24,920 23,135 29,102 4,513
+Interest and investment income, net . . . . . . . . . . . . . . 258 39 1,648 9,455 52,254 8,104
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . (68) (1,572) (2,195) (2,750) (1,946) (301)
+Other income, net . . . . . . . . . . . . . . . . . . . . . . . . . . 327 894 2,429 2,486 2,058 319
+Income before income tax and share of results of equity
+investees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5,532 10,112 26,802 32,326 81,468 12,635
+Income tax expenses . . . . . . . . . . . . . . . . . . . . . . . . . (842) (1,457) (3,196) (6,416) (8,449) (1,310)
+Share of results of equity investees . . . . . . . . . . . . . . . (25) (6) (203) (1,590) (1,730) (269)
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,665 8,649 23,403 24,320 71,289 11,056
+Net (income) loss attributable to noncontrolling
+interests................................ (437) (117) (88) (59) 171 27
+Net income attributable to Alibaba Group Holding
+Limited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,228 8,532 23,315 24,261 71,460 11,083
+Accretion of convertible preference shares“). . . . . . . . . — (17) (31) (15) — —
+Dividends accrued on convertible preference shares“) . . — (111) (208) (97) — —
+Net income attributable to ordinary shareholders . . . . . 4,228 8,404 23,076 24,149 71,460 11,083
+Earnings per share/ADS attributable to ordinary
+shareholders:
+1.71 3.66 10.61 10.33 29.07 4.51
+1.67 3.57 10.00 9.70 27.89 4.33
+Weighted average number of shares used in computing
+earnings per share:
+2,479 2,294 2,175 2,337 2,458
+2,522 2,389 2,332 2,500 2,562
+Supplemental informationz“)
+Non-GAAP EBITDA . . . . . . . . . . . . . . . . . . . . . . . . 7,274 16,607 30,731 40,753 52,340 8,117
+Non-GAAP net income. . . . . . . . . . . . . . . . . . . . . . . 6,452 13,869 28,274 34,981 42,741 6,629
+Non-GAAP diluted EPS . . . . . . . . . . . . . . . . . . . . . . 2.38 5.76 12.09 13.97 16.75 2.60
+Free cash ﬂow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8,752 19,745 32,269 48,121 51,279 7,953
+(1) In fiscal year 2014, these expenses included an equity-settled donation expense of RMB1,269 million relating to the grant of options to
+purchase 50,000,000 of our ordinary shares to a non-proﬁt organization designated by Jack Ma and Joe Tsai.
+(2) We entered into the Yahoo TIPLA in October 2005, pursuant to which we paid royalty fees to Yahoo. We and Yahoo amended the existing
+TIPLA in September 2012, pursuant to which we made a lump sum payment in the amount of US$550 million.
+2

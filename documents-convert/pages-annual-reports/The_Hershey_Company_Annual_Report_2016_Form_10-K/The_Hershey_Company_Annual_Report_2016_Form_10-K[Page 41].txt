@@ -1,0 +1,52 @@
+Goodwill and Other Intangible Assets
+Goodwill and indefinite-lived intangible assets are not amortized, but are evaluated for impairment annually or more
+often if indicators of a potential impairment are present. Our annual impairment tests are conducted at the beginning
+of the fourth quarter.
+We test goodwill for impairment by either performing a qualitative assessment or using a two-step quantitative
+process. If we choose to perform a qualitative assessment, we evaluate economic, industry and company-specific
+factors as an initial step in assessing the fair value of the related reporting unit. If we determine that it is more likely
+than not that the fair value of the reporting unit is less than its carrying value, the two-step process is then performed.
+Otherwise, no further testing is required. For those reporting units tested using the two-step process, we first compare
+the fair value of each reporting unit with the carrying amount of the reporting unit, including goodwill. If the
+estimated fair value of the reporting unit is less than the carrying amount of the reporting unit, we complete a second
+step to determine the amount of the goodwill impairment that we should record. In the second step, we determine an
+implied fair value of the reporting unit’s goodwill by allocating the reporting unit’s fair value to all of its assets and
+liabilities other than goodwill (including any unrecognized intangible assets). We compare the resulting implied fair
+value of the goodwill to the carrying amount and record an impairment charge for the difference. We test individual
+indefinite-lived intangible assets by comparing the estimated fair value with the book values of each asset.
+We determine the fair value of our reporting units and indefinite-lived intangible assets using an income approach.
+Under the income approach, we calculate the fair value of our reporting units and indefinite-lived intangible assets
+based on the present value of estimated future cash ﬂows. Considerable management judgment is necessary to
+evaluate the impact of operating and macroeconomic changes and to estimate the future cash ﬂows used to measure
+fair value. Our estimates of future cash ﬂows consider past performance, current and anticipated market conditions
+and internal projections and operating plans which incorporate estimates for sales growth and profitability, and cash
+ﬂows associated with taxes and capital spending. Additional assumptions include forecasted growth rates, estimated
+discount rates, which may be risk-adjusted for the operating market of the reporting unit, and estimated royalty rates
+that would be charged for comparable branded licenses. We believe such assumptions also reﬂect current and
+anticipated market conditions and are consistent with those that would be used by other marketplace participants for
+similar valuation purposes. Such assumptions are subject to change due to changing economic and competitive
+conditions.
+We also have intangible assets, consisting primarily of certain trademarks, customer-related intangible assets and
+patents obtained through business acquisitions, that are expected to have determinable useful lives. The costs of finite-
+lived intangible assets are amortized to expense over their estimated lives. Our estimates of the useful lives of finite-
+lived intangible assets consider judgments regarding the future eﬁects of obsolescence, demand, competition and other
+economic factors. We conduct impairment tests when events or changes in circumstances indicate that the carrying
+value of these finite-lived assets may not be recoverable. Undiscounted cash ﬂow analyses are used to determine if an
+impairment exists. If an impairment is determined to exist, the loss is calculated based on the estimated fair value of
+the assets.
+At December 31, 2016, the net book value of our goodwill totaled $812.3 million and related to five reporting units.
+As it relates to our annual testing performed at the beginning of the fourth quarter, no additional goodwill impairment
+was indicated, and the percentage of excess fair value over carrying value was at least 100% for each of our tested
+reporting units.
+In 2015, we recorded a $280.8 million impairment charge resulting from our interim reassessment of the valuation of
+the SGM business, coupled with the write-down of goodwill attributed to the China chocolate business in connection
+with the SGM acquisition. As a result of declining performance levels and our post-acquisition assessment, we
+determined that GAAP required an interim impairment test of the SGM reporting unit. We performed the first step of
+this test as of July 5, 2015 using an income approach based on our estimates of future performance scenarios for the
+business. The results of this test indicated that the fair value of the reporting unit was less than the carrying amount as
+of the measurement date, suggesting that a goodwill impairment was probable, which required us to perform a second
+step analysis to confirm that an impairment existed and to determine the amount of the impairment based on our
+reassessed value of the reporting unit. Although preliminary, as a result of this reassessment, in the second quarter of
+2015 we recorded an estimated $249.8 million non-cash goodwill impairment charge, representing a write-down of all
+of the goodwill related to the SGM reporting unit as of July 5, 2015. During the third quarter, we increased the value
+39

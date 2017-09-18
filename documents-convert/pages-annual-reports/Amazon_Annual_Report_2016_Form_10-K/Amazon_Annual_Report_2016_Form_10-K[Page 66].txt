@@ -1,0 +1,30 @@
+Table of Contents
+We expect the total amount of tax contingencies will grow in 2017. In addition, changes in state, federal, and foreign tax laws may increase our tax
+contingencies. The timing of the resolution of income tax examinations is highly uncertain, and the amounts ultimately paid, if any, upon resolution of the
+issues raised by the taxing authorities may differ from the amounts accrued. It is reasonably possible that within the next 12 months we will receive
+additional assessments by various tax authorities orpossibly reach resolution of income tax examinations in one or more jurisdictions. These assessments or
+settlements may or may not result in changes to our contingencies related to positions on tax ﬁlings in years through 2016. The actual amount of any change
+could vary signiﬁcantly depending on the ultimate timing and nature of any settlements. We cannot currently provide an estimate of the range of possible
+outcomes.
+Note 11—SEGMENT INFORMATION
+We have organized our operations into three segments: North America, International, and AWS. We allocate to segment results the operating expenses
+“Fulﬁllment,” “Marketing,” “Technology and content,” and “General and administrative” based on usage, which is generally reﬂected in the segment in
+which the costs are incurred. The majority of technolo gy infrastructure costs are allocated to the AWS segment based on usage. The majority of the remaining
+non-infrastructure technology costs are incurred in the US. and are allocated to our North America segment. In Q1 2016, we began allocating stock-based
+compensation and “Other operating expense, net” to our segment results. In our segment results, these amounts are combined and titled “Stock-based
+compensation and other.” There are no internal revenue transactions between our reportable segments. These segments reﬂect the way our chief operating
+decision maker evaluates the Company’s business performance and manages its operations.
+North America
+The North America segment primarily consists of amounts earned from retail sales of consumer products (including from sellers) and subscriptions
+through North America-focused websites such as www.amazon.com, www.amazon.ca, and www.amazon.commx. This segment includes export sales from
+these websites.
+International
+The International segment primarily consists of amounts earned from retail sales of consumer products (including from sellers) and subscriptions
+through internationally-focused websites such as www.amazon.com.au, www.amazon.combr, www.amazon.cn, www.amazon.fr, www.amazon.de,
+www.amazon.in, www.amazon.it, www.amazon.co.jp, www.amazon.nl, www.amazones, and www.amazon.co.uk. This segment includes export sales from
+these internationally-focused websites (including export sales from these sites to customers in the U.S., Mexico, and Canada), but excludes export sales from
+our North American web sites.
+A WS
+The AWS segment consists of amounts earned from global sales of compute, storage, database, and other service offerings for start-ups, enterprises,
+government agencies, and academic institutions.
+66

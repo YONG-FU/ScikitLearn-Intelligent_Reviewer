@@ -1,0 +1,53 @@
+Goodwill and Other Intangible AssetS=Intangible assets with a finite useful life are amortized on a straight-line basis
+over their useful lives. Indefinite lived intangible assets are assessed for possible impairment annually or whenever
+circumstances change such that the recorded value of the asset may not be recoverable. Goodwill is not amortized, but is
+subject to impairment assessments. In the fourth quarter of each year, or more frequently if indicators of impairment exist or if a
+decision is made to sell a business, we evaluate goodwill for impairment. A significant amount of judgment is involved in
+determining if an indicator of impairment has occurred. Such indicators may include a decline in expected cash ﬂows, a
+significant adverse change in the business climate, unanticipated competition, slower growth rates, or negative developments in
+equity and credit markets, among others.
+All goodwill is assigned to and evaluated for impairment at the reporting unit level, which is defined as an operating
+segment or one level below an operating segment. For goodwill impairment testing purposes, we consider our operating
+segments to be our reporting units. The evaluation of impairment involves using either a qualitative or quantitative approach as
+outlined in Accounting Standards Codification (ASC) Topic 35 0. The qualitative evaluation is an assessment of factors to
+determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value, including
+goodwill. Factors considered as part of the qualitative assessment include entity-specific industry, market and general economic
+conditions. In 2016, we elected to bypass the qualitative evaluation for all of our reporting units and performed a two-step
+quantitative test at October 1, 2016. Step 1 of the quantitative testing involves comparing the estimated fair value of each
+reporting unit to its carrying value. We estimate reporting unit fair value using a weighted average of fair values determined by
+discounted cash ﬂow (DCF) and market approach methodologies, as we believe both are equally important indicators of fair
+value. A number of significant assumptions and estimates are involved in the application of the DCF model, including sales
+volumes and prices, costs to produce, tax rates, capital spending, discount rates, and working capital changes. Cash ﬂow
+forecasts are generally based on approved business unit operating plans for the early years and historical relationships in later
+years. The betas used in calculating the individual reporting units’ weighted average cost of capital (WACC) rate are estimated
+for each reporting unit based on peer data. The market approach methodology measures value through an analysis of peer
+companies. The analysis entails measuring the multiples of EBITDA at which peer companies are trading.
+In the event the estimated fair value of a reporting unit per the weighted average of the DCF and market approach models
+is less than the carrying value, Step 2 of the analysis would be required. The additional analysis would compare the carrying
+amount of the reporting unit’s goodwill with the implied fair value of that goodwill, which may involve the use of valuation
+specialist. The implied fair value of goodwill is the excess of the fair value of the reporting unit over the fair value amounts
+assigned to all of the assets and liabilities of that unit as if the reporting unit had been acquired in a business combination and
+the fair value of the reporting unit represented the purchase price. If the carrying value of goodwill exceeds its implied fair
+value, an impairment loss equal to such excess would be recognized, which could significantly and adversely impact reported
+consolidated results of operations and shareholders’ equity. There has been no impairment of our goodwill as of December 31,
+2016, 2015 or 2014.
+Revenue Recognition—Revenue from the sale of products is recognized when title, ownership and the risk of loss have
+transferred to the customer, which generally occurs either when product is shipped to the customer or, in the case of most US.
+distributor customers, when product is delivered to the distributor's delivery site. We establish our shipping terms according to
+local practice and market characteristics. We do not ship product unless we have an order or other documentation authorizing
+shipment to our customers. We make appropriate provisions for uncollectible accounts receivable and product returns, both of
+which have historically been insignificant in relation to our net sales. Certain distributor customers receive price rebates based
+on their level of purchases and other performance criteria that are documented in established distributor programs. These
+rebates are accrued as a reduction of net sales as they are earned by the customer.
+Shipping and Handling—Shipping and handling expenses for products sold to customers are charged to cost of products
+sold as incurred. Amounts billed to customers for shipping and handling are included in net sales.
+Product WarrantieS=Estimated expenses related to product warranties and additional service actions are charged to cost
+of products sold in the period in which the related revenue is recognized or when significant product quality issues are
+identified.
+Research and Development—Research and development costs are expensed as incurred.
+Income Taxes—Deferred income taxes are provided for temporary differences between financial and tax reporting.
+Deferred tax assets and liabilities are measured using enacted tax rates in effect for the year in which those temporary
+differences are expected to be recovered or settled. If it is more likely than not that some portion or all of a deferred tax asset
+will not be realized, a valuation allowance is recognized. We record tax benefits related to uncertain tax positions taken or
+expected to be taken on a tax return when such beneﬁts meet a more likely than not threshold. We recognize interest related to
+47

@@ -1,0 +1,46 @@
+is the heart of the Red Hat Enterprise Linux operating system. If these groups of programmers fail to adequately
+further develop and enhance open source technologies, we would have to rely on other parties to develop and
+enhance our offerings or we would need to develop and enhance our offerings with our own resources. We
+cannot predict whether further developments and enhancements to these technologies would be available from
+reliable alternative sources. In either event, our development expenses could be increased and our technology
+release and upgrade schedules could be delayed. Moreover, if third-party software programmers fail to
+adequately further develop and enhance open source technologies, the development and adoption of these
+technologies could be stiﬂed and our offerings could become less competitive. Delays in developing, completing
+or delivering new or enhanced offerings could result in delayed or reduced revenue for those offerings and could
+also adversely affect customer acceptance of those offerings.
+Our offerings may contain defects that may be costly to correct, delay market acceptance of our enterprise
+technologies and expose us to claims and litigation.
+Despite our testing procedures, errors have been and may continue to be found in our offerings after
+deployment. This risk is increased by the fact that much of the code in our offerings is developed by independent
+parties over whom we exercise no supervision or control. If errors are discovered, we may have to make
+significant expenditures of capital and devote significant technical resources to analyze, correct, eliminate or
+work around them, and we may not be able to successfully do so in a timely manner or at all. Errors and failures
+in our offerings could result in a loss of, or delay in, market acceptance of our enterprise technologies, loss of
+existing or potential customers and delayed or lost revenue and could damage our reputation and our ability to
+convince enterprise users of the benefits of our technologies.
+In addition, errors in our technologies could cause system failures, loss of data or other adverse effects for
+our customers who may assert warranty and other claims for substantial damages against us. Although our
+agreements with our customers often contain provisions which seek to limit our exposure to potential product
+liability claims, it is possible that these provisions may not be effective or enforceable under the laws of some
+jurisdictions. While we seek to insure against these types of claims, our insurance policies may not adequately
+limit our exposure to such claims. These claims, even if unsuccessful, could be costly and time-consuming to
+defend and could adversely affect our business, financial conditions, operating results and cash ﬂows.
+Our continued success depends on our ability to maintain and enhance strong brands.
+We believe that the brand identities that we have developed have contributed significantly to the success of
+our business. We also believe that maintaining and enhancing our brands is important to expanding our customer
+and partner base and attracting talented employees. In order to maintain and enhance our brands, we may be
+required to make further investments that may not be successful. Maintaining our brands will depend in part on
+our ability to remain a leader in open source technology and our ability to continue to provide high-quality
+offerings. If we fail to promote and maintain our brands, or if we incur excessive costs in doing so, our business,
+financial condition, operating results and cash ﬂows may be adversely affected.
+Security breaches and data loss may expose us to liability, harm our reputation and adversely affect our
+business.
+Our business involves the production and distribution of enterprise software technologies, as well as hosting
+applications. As part of our business, we (or third parties with whom we contract) receive, store and process our
+data, as well as our customers’ and partners’ data. While we take security and testing measures relating to our
+offerings and operations, those measures may not prevent security breaches and data loss that could harm our
+business or the businesses of our customers and partners. Advances in computer capabilities, new discoveries in
+the field of cryptography, inadequate technology or facility security measures or other factors may result in data
+loss or a compromise or breach of our systems and the data we receive, store and process (or systems and the
+data received, stored and processed by third parties with whom we contract). These security measures may be
+26

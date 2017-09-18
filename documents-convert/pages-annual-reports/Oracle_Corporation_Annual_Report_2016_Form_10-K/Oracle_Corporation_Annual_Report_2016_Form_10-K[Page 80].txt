@@ -1,0 +1,33 @@
+Table,of,C,ontents
+We have entered into certain interest rate swap agreements that have the economic effect of modifying the fixed-interest obligations associated with our $1.5 billion
+of 2.375% senior notes due January 2019 (January 2019 Notes), our $2.0 billion of 2.25% senior notes due October 2019 (October 2019 Notes), and our $1.5
+billion of 2.80% senior notes due July 2021 (July 2021 Notes) so that the interest payable on these senior notes effectively became variable based on LIBOR. The
+critical terms of the interest rate swap agreements match the critical terms of the January 2019 Notes, October 2019 Notes, and July 2021 Notes that the interest rate
+swap agreements pertain to, including the notional amounts and maturity dates. We do not use these interest rate swap arrangements or our fixed-rate borrowings
+for trading purposes. We are accounting for these interest rate swap agreements as fair value hedges pursuant to ASC 815, Derivatives and Hedging (ASC 815).
+The total fair value gain of these fixed to variable interest rate swap agreements as of May 31, 2016 was $122 million. If LIBOR—based interest rates would have
+been higher by 100 basis points as of May 31, 2016, the change would have decreased the fair values of the fixed to variable swap agreements by $185 million.
+Additional details regarding our senior notes and related interest rate swap agreements are included in Notes 8 and 11 of Notes to Consolidated Financial
+Statements included elsewhere in this Annual Report.
+By issuing the Floating-Rate Notes and the Short-Term Borrowings, and by entering into the aforementioned interest rate swap arrangements, we have assumed
+risks associated with variable interest rates based upon LIBOR. As of May 31, 2016, the weighted-average interest rate associated with our Floating-Rate Notes,
+Short-Term Borrowings and January 2019 Notes, October 2019 Notes and July 2021 Notes, after considering the effects of the aforementioned interest rate swap
+arrangements, was 1.14%. Changes in the overall level of interest rates affect the interest expense that we recognize in our statements of operations. An interest rate
+risk sensitivity analysis is used to measure interest rate risk by computing estimated changes in cash ﬂows as a result of assumed changes in market interest rates.
+As of May 31, 2016, if LIBOR-based interest rates would have been higher by 100 basis points, the change would have increased our interest expense annually by
+approximately $76 million as it relates to our fixed to variable interest rate swap agreements and ﬂoating-rate borrowings.
+Currency Risk
+Foreign Currency Transaction Risk — Foreign Currency Forward Contracts
+We transact business in various foreign currencies and have established a program that primarily utilizes foreign currency forward contracts to offset the risks
+associated with the effects of certain foreign currency exposures. Under this program, our strategy is to enter into foreign currency forward contracts so that
+increases or decreases in our foreign currency exposures are offset by gains or losses on the foreign currency forward contracts in order to mitigate the risks and
+volatility associated with our foreign currency transactions. We may suspend this program from time to time. Our foreign currency exposures typically arise from
+intercompany sublicense fees, intercompany loans and other intercompany transactions. Our foreign currency forward contracts are generally short-term in
+duration.
+Neither do we use these foreign currency forward contracts for trading purposes nor do we designate these forward contracts as hedging instruments pursuant to
+ASC 815. Accordingly, we record the fair values of these contracts as of the end of our reporting period to our consolidated balance sheet with changes in fair
+values recorded to our consolidated statement of operations. Given the short duration of the forward contracts, amounts recorded generally are not significant. The
+balance sheet classification for the fair values of these forward contracts is prepaid expenses and other current assets for forward contracts in an unrealized gain
+position and other current liabilities for forward contracts in an unrealized loss position. The statement of operations classification for changes in fair values of
+these forward contracts is non-operating income (expense), net for both realized and unrealized gains and losses.
+78

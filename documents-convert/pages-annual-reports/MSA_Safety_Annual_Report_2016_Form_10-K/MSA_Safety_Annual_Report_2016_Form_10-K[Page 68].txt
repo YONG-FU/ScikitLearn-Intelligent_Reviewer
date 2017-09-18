@@ -1,0 +1,45 @@
+Components of deferred tax assets and liabilities:
+7 December 31, 7
+(In thousands) 2016 2015
+} Deferred tax assets }
+Accrued expenses and other reserves 55 5,381 $ 4,412
+} Product liability 1,303 6,116 }
+Employee benefits 9,538 9,387
+} Share-based compensation 10,462 10,323}
+Reserve for doubtful accounts 1,178 2,279
+} Inventory 1,218 2,496 }
+Capitalized research and development 4,654 5,339
+} Net operating losses and tax credit carryforwards 16,218 15,310 }
+Other 1,316 2,892
+} Total deferred tax assets 7 51,268 7 7 58,554 }
+Valuation allowances (5,303) (5,153)
+} Net deferred tax assets 45,965 _ 53,401 |
+Deferred tax liabilities 7 7 7 7
+} Goodwill and intangibles (42,007) (42,867)}
+Property, plant and equipment (11,394) (8,920)
+} Other 7 (3,368) 7 (31)}
+Total deferred tax liabilities (56,769) (5 1,818)
+}Net deferred taxes $ (10380403 1583 I
+At December 31, 2016, we had net operating loss carryforwards of approximately $37.2 million, all of which are in non-
+U.S. tax jurisdictions. Net operating loss carryforwards without a valuation allowance of $0.1 million will expire in 2017. The
+remainder either have a valuation allowance or may be carried forward for a period of at least six years. The change in
+valuation allowance for the year of $0.2 million is primarily due to our inability to recognize deferred tax assets on certain
+foreign entities that continue to generate losses.
+No deferred US. income taxes have been provided on undistributed earnings of non-U.S. subsidiaries, which amounted
+to $422.3 million as of December 31, 2016. These earnings are considered to be reinvested for an indefinite period of time.
+Because we currently do not have any plans to repatriate these funds, we cannot determine the impact of local taxes,
+withholding taxes and foreign tax credits associated with the future repatriation of such earnings and, therefore, cannot
+reasonably estimate the associated tax liability. In cases where we intend to repatriate a portion of the undistributed earnings of
+our foreign subsidiaries, we provide US. income taxes on such earnings.
+A reconciliation of the change in the tax liability for unrecognized tax benefits for the years ended December 31, 2016
+and 2015 is as follows:
+1 (In thousands) 2016 2015
+}Beginning balance 55 13,070 7$ 9,857}
+Adjustments for tax positions related to the current year 23 5 9 8,203
+}Adjustments for tax positions related to prior years (856) (4,887)}
+Statute expiration (180) (103)
+} Ending balance $ 14,393 _$ 13,070 |
+The total amount of unrecognized tax benefits, if recognized, would reduce our future effective tax rate. We have
+recognized tax benefits associated with these liabilities in the amount of $4.3 million and $2.1 million at December 31, 2016
+and 2015, respectively.
+60

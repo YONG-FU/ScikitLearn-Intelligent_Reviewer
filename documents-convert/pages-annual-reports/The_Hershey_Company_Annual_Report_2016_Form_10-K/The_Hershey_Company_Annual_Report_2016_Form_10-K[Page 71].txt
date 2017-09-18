@@ -1,0 +1,43 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The following table presents assets and liabilities that were measured at fair value in the Consolidated Balance Sheet
+on a recurring basis as of December 31, 2016 and 2015:
+Assets (Liabilities)
+: Level 1 Level 2 Level 3 Total :
+lDecember 31, 2016: l
+Derivative Instruments:
+1 Assets: 1
+Foreign exchange contracts (1) $ 7 7 $ 2,229 $ 7 7 $ 2,229
+l Interest rate swap agreements (2) 7 7 1,768 7 7 1,768 l
+Deferred compensation derivatives (3) 7 7 717 7 7 717
+l Commodities futures and options (4) 2,348 7 7 7 7 2,348 l
+Liabilities:
+l Foreign exchange contracts (1) 7 7 825 7 7 825 1
+Interest rate swap agreements (2) 7 7 7 7 7 7 7 7
+l Commodities futures and options (4) 10,000 7 7 7 7 10,000 1
+December 31, 2015:
+l Assets: 1
+Foreign exchange contracts (1) $ 7 7 $ 436 $ 7 7 $ 436
+l Interest rate swap agreements (2) 7 7 4,313 7 7 4,313 ‘
+Deferred compensation derivatives (3) 7 7 1,198 7 7 1,198
+] Liabilities: 1
+Foreign exchange contracts (1) 7 7 475 7 7 475
+l Interest rate swap agreements (2) 7 7 40,299 7 7 40,299 1
+Commodities futures and options (4) 2,053 7 7 7 7 2,053
+(1) The fair value of foreign currency forward exchange contracts is the difference between the contract and
+current market foreign currency exchange rates at the end of the period. We estimate the fair value of foreign
+currency forward exchange contracts on a quarterly basis by obtaining market quotes of spot and forward
+rates for contracts with similar terms, adjusted where necessary for maturity diﬁerences.
+(2) The fair value of interest rate swap agreements represents the difference in the present value of cash ﬂows
+calculated at the contracted interest rates and at current market interest rates at the end of the period. We
+calculate the fair value of interest rate swap agreements quarterly based on the quoted market price for the
+same or similar financial instruments.
+(3) The fair value of deferred compensation derivatives is based on quoted prices for market interest rates and a
+broad market equity index.
+(4) The fair value of commodities futures and options contracts is based on quoted market prices.
+Other Financial Instruments
+The carrying amounts of cash and cash equivalents, short-term investments, accounts receivable, accounts payable and
+short-term debt approximated fair values as of December 31, 2016 and December 31, 2015 because of the relatively
+short maturity of these instruments.
+69

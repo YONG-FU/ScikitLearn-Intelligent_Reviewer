@@ -1,0 +1,46 @@
+Most of the amounts included in the table below will be settled in Brazilian reais. Future events could cause actual payments to differ signiﬁcantly from these
+amounts. See “Forward-Looking and Cautionary Statements.”
+Payments due by Period
+Less than More than
+Contractual Obligations 1 Year 1-3 Years 3-5 Years 5 Years Total
+(in thousands)
+{Capital leases and tower ﬁnancing obligations (1) $ 55,708 $ 88,666 $ 83,132 $ 631,216 $ 858,722 1
+Operating leases (2) 126,011 215,698 179,885 203,718 725,312
+’Purchase obligations (3) 276,207 87,953 74,960 — 439,120 ‘
+Equ_ipment ﬁnancing (4) 303,303 15,871 9,472 2,285 330,931
+Eank loans (5) 269,847 20,082 — — 289,929 1
+Spectrum ﬁnancing (6) — 30,695 69,783 125,654 226,132
+{Other long-term obligations (7) 17,641 _ 3,006 _ 984 _ 155,321 _ 176,952 1
+Total contractual commitments $ 1,048,717 r $ 461,971 r $ 418,216 r $ 1,118,194 r $ 3,047,098 r
+2717):?EEXZEJESEEZQT and interest payments due under our co—location agreements, our tower ﬁnancing arrangements and our sale of
+towers in Brazil in 2013, which are guaranteed by NIIT.
+(2) These amounts principally include future lease costs related to our transmitter and receiver sites and switches, as well as our office facilities.
+(3) These amounts include maximum contractual purchase obligations under various agreements with our vendors, including the roaming and RAN
+sharing agreements that Nextel Brazil entered into with Telefonica in May 2016. See Note 9 to our consolidated ﬁnancial statements for more
+information regarding these agreements.
+(4) These amounts include a loan agreement with the China Development Bank in Brazil to ﬁnance infrastructure equipment, which is guaranteed by
+N11 Holdings. These amounts also include future interest payments to which we are contractually obligated in the periods in which they are due. As a
+result of certain events of default related to this facility, we classiﬁed the principal amount outstanding under this facility as due in less than one
+year. We are contractually obligated to make principal payments of $48.9 million in less than one year, $97.9 million in one to three years, $97.9
+million in three to ﬁve years and the remaining $48.9 million in more than ﬁve years under this equipment ﬁnancing facility.
+(5) These amounts represent principal and interest payments associated with our local bank loans in Brazil and include ﬁiture interest payments to
+which we are contractually obligated in the periods in which they are due. Because it is unlikely that we will be able to satisfy one of the applicable
+ﬁnancial covenants included in this loan agreement as of the next measurement date at December 31, 2017, we classiﬁed the principal amount
+outstanding under these local bank loans as due in less than one year. Based on foreign currency exchange rates in effect as of December 31, 2016,
+we are contractually obligated to make principal payments of $79.5 million in less than one year and the remaining $157.9 million in one to three
+years under these local bank loans.
+(6) These amounts represent principal and interest payments in connection with the signing of the license agreement related to our acquisition of
+30MHz ofspectrum in the 1.8 GHz band in July 2016.
+(7) These amounts include our current estimates of asset retirement obligations based on our expectations as to future retirement costs, inﬂation rates
+and timing of retirements, as well as amounts related to our uncertain income tax positions.
+Capital Expenditures. Our capital expenditures, including capitalized interest, were $51.3 million for the year ended December 31, 2016, $72.6
+million for the six months ended December 31, 2015, $69.2 million for the six months ended June 30, 2015 and $233.4 million for the year ended December
+31, 2014. We have reduced our investments in capital expenditures, including making substantial reductions to our investments in network development and
+deployment. We expect to continue these efforts to conserve our cash resources while simultaneously meeting the capacity needs of our network.
+Our capital spending and related expenses are expected to be driven by several factors, including:
+- the amount we spend to enhance our WCDMA network in Brazil and deploy LTE;
+0 the extent to which we expand the coverage of our network in new or existing market areas;
+- the number of additional transmitter and receiver sites we build in order to increase system capacity, maintain system quality and meet our
+regulatory requirements, as well as the costs associated with the installation of network infrastructure and switching equipment; and
+- the costs we incur in connection with non-network related information technology projects.
+47

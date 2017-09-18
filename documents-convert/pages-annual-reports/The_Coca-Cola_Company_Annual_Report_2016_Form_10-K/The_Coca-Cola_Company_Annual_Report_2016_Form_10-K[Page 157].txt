@@ -1,0 +1,11 @@
+101 The following financial information from The Coca-Cola Company's Annual Report on Form 10-K for the
+year ended December 31, 2016, formatted in XBRL (eXtensible Business Reporting Language):
+(i) Consolidated Statements of Income for the years ended December 31, 2016, 2015 and 2014,
+(ii) Consolidated Statements of Comprehensive Income for the years ended December 31, 2016, 2015 and
+2014, (iii) Consolidated Balance Sheets as of December 31, 2016 and 2015, (iv) Consolidated Statements of
+Cash Flows for the years ended December 31, 2016, 2015 and 2014, (V) Consolidated Statements of
+Shareowners' Equity for the years ended December 31, 2016, 2015 and 2014 and (Vi) the Notes to
+Consolidated Financial Statements.
+* Management contracts and compensatory plans and arrangements required to be filed as exhibits pursuant to Item 15(b) of
+Form lO-K.
+1 5 5

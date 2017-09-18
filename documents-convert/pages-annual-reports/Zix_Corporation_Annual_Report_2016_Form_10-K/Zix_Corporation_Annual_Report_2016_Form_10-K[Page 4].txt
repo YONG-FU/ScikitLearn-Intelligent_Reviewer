@@ -1,0 +1,43 @@
+Our company was incorporated in Texas in 1988. Originally named Amtech Corporation, we changed our name to ZixIt® Corporation in 1999 when
+we entered the encrypted email market. In 2002, we became Zix Corporation. Our executive ofﬁces are located at 2711 North Haskell Avenue, Suite 2200, LB
+36, Dallas, Texas 75204-2960, (214) 370-2000.
+Overview
+Email is a mission-critical means of communication for enterprises. However, if email leaves a secure network environment in clear text, it can be
+intercepted along the path between a sender and a recipient, which permits theft, redirection, manipulation or exposure to unauthorized parties. Failure to
+control and manage such risks can result in enforcement penalties for noncompliance under numerous regulations, in addition to damaged reputation,
+competitive disadvantage, a loss of intellectual property or other corporate assets, exposure to negligence or liability claims, and diversion of resources to
+repair such damage. For example, healthcare organizations, business associates and sub-contractors are subject to the Privacy, Security, and Enforcement
+Rules of the Health Information Portability and Accountability Act (“HIPAA”) as amended by the Health Information Technology for Economic and Clinical
+Health Act (“HITECH Act”). Financial institutions are subject to data privacy laws including the Gramm—Leach-Bliley Act (“GLBA”). These federal laws help
+drive the use of encrypted email. In addition, individual states such as Massachusetts and Nevada have enacted privacy laws requiring the safeguard of
+personal data, and almost all states encourage email encryption by allowing exemptions from data breach notiﬁcation laws.
+Corporations require easy to use, cost-effective email protection that can be used on an enterprise-wide basis. They need it to be quickly deployed and
+regularly updated to evolve with innovative technology practices and meet changing regulatory standards. To satisfy these needs, our Email Encryption
+Service provides a comprehensive solution that analyzes and encrypts email communications.
+Our Email Encryption Service allows a user to send encrypted email to any email user anywhere and on any Internet-enabled device. Encrypted email
+is delivered through the patented Best Method of Delivery protocol which automatically determines the most direct and appropriate means of delivery, based
+on the sender’s and recipient’s communications environment and preferences. The protocol supports a number of encrypted email delivery mechanisms,
+including S/MIME, Transport Layer Security (“TLS”), Open Pretty Good Privacy (“PGP”), “push” delivery and secure portal “pull” delivery. These last two
+mechanisms enable users to send messages securely to anyone with an email address, including those who do not have an encryption tool. Our Best Method
+of Delivery makes the technology simple for end users and provides ﬂexibility and ease of implementation for information technology professionals. We
+believe the ability to send messages through different modes of delivery is one of many differentiators that makes our Email Encryption Service superior to
+competitive offerings.
+The deployment of our Email Encryption Service at the periphery of the customer’s network means our Email Encryption Service encrypts outbound
+email for an enterprise without the need to create, deploy or manage end user encryption keys or deploy desktop software. Our technology solutions are easy
+to use, easy to deploy, and can be made operational quickly.
+Our service has an integrated policy management capability. This policy engine can inspect the contents of emails and apply policies matching
+speciﬁc industry criteria such as HIPAA, the HITECH Act and GLBA. Customers can also build their own custom policies. This policy driven email
+encryption for regulatory compliance means customers can reduce the training required of their staff and signiﬁcantly reduce the risk of inadvertently
+sending sensitive content by controlling the method of delivery through preset policies.
+Competition
+The most signiﬁcant differentiator for Zix Email Encryption Service as compared with our competition is ease of use. The best example of our
+unequalled ease of use is transparent delivery of encrypted email messages. We are able to deliver transparent email encryption as a result of our
+ZixDirectory, Best Method of Delivery and ZixGateway. The most critical and highly differentiated component of our solution is the ZixDirectory which
+provides the ability to share user identities for encryption, and in turn provides ﬁictionless interoperability between users in a community of interest such as
+healthcare, ﬁnance or government.
+Our capability to offer interoperability is particularly important when it is necessary to communicate with external networks, as is the case with the
+healthcare and ﬁnancial services markets. Our customers become part of the ZixDirectory, a global “white pages” enabling transparent secure
+communications with other ZixGateway customers using our centralized key management system and overall unique approach to implementing secure email.
+We enable secure communications with other users via TLS, Open PGP, “push” delivery and secure portal “pull” delivery mechanisms. However, we believe
+our unique transparent delivery is the more preferred delivery model.
+4

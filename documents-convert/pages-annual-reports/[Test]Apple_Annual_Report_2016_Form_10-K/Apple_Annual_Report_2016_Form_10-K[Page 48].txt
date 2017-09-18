@@ -1,0 +1,54 @@
+The Company records deferred revenue when it receives payments in advance of the delivery of products or the performance of
+services. This includes amounts that have been deferred for unspecified and specified software upgrade rights and non-software
+services that are attached to hardware and software products. The Company sells gift cards redeemable at its retail and online
+stores, and also sells gift cards redeemable on iTunes Store, App Store, Mac App Store, TV App Store and iBooks Store for the
+purchase of digital content and software. The Company records deferred revenue upon the sale of the card, which is relieved upon
+redemption of the card by the customer. Revenue from AppleCare service and support contracts is deferred and recognized over
+the service coverage periods. AppleCare service and support contracts typically include extended phone support, repair services,
+web-based support resources and diagnostic tools offered under the Company’s standard limited warranty.
+The Company records reductions to revenue for estimated commitments related to price protection and other customer incentive
+programs. For transactions involving price protection, the Company recognizes revenue net of the estimated amount to be refunded.
+For the Company’s other customer incentive programs, the estimated cost of these programs is recognized at the later of the date
+at which the Company has sold the product or the date at which the program is offered. The Company also records reductions to
+revenue for expected future product returns based on the Company’s historical experience. Revenue is recorded net of taxes collected
+from customers that are remitted to governmental authorities, with the collected taxes recorded as current liabilities until remitted to
+the relevant government authority.
+Revenue Recognition for Arrangements with Multiple Deliverables
+For multi-element arrangements that include hardware products containing software essential to the hardware product’s functionality,
+undelivered software elements that relate to the hardware product’s essential software, and undelivered non-software services, the
+Company allocates revenue to all deliverables based on their relative selling prices. In such circumstances, the Company uses a
+hierarchy to determine the selling price to be used for allocating revenue to deliverables: (i) vendor-specific objective evidence of
+fair value (“VSOE”), (ii) third-party evidence of selling price (“TPE”) and (iii) best estimate of selling price (“ESP”). VSOE generally
+exists only when the Company sells the deliverable separately and is the price actually charged by the Company for that deliverable.
+ESPs reflect the Company’s best estimates of what the selling prices of elements would be if they were sold regularly on a stand-
+alone basis. For multi-element arrangements accounted for in accordance with industry specific software accounting guidance, the
+Company allocates revenue to all deliverables based on the VSOE of each element, and if VSOE does not exist revenue is recognized
+when elements lacking VSOE are delivered.
+For sales of qualifying versions of iPhone, iPad, iPod touch, Mac, Apple Watch and Apple TV, the Company has indicated it may
+from time to time provide future unspecified software upgrades to the device’s essential software and/or non-software services free
+of charge.The Company has identified up to three deliverables regularly included in arrangements involving the sale of these devices.
+The first deliverable, which represents the substantial portion of the allocated sales price, is the hardware and software essential
+to the functionality of the hardware device delivered at the time of sale. The second deliverable is the embedded right included with
+qualifying devices to receive on a when-and-if-available basis, future unspecified software upgrades relating to the product’s essential
+software. The third deliverable is the non-software services to be provided to qualifying devices. The Company allocates revenue
+between these deliverables using the relative selling price method. Because the Company has neither VSOE nor TPE for these
+deliverables, the allocation of revenue is based on the Company’s ESPs. Revenue allocated to the delivered hardware and the
+related essential software is recognized at the time of sale provided the other conditions for revenue recognition have been met.
+Revenue allocated to the embedded unspecified software upgrade rights and the non-software services is deferred and recognized
+on a straight-line basis over the estimated period the software upgrades and non-software services are expected to be provided.
+Cost of sales related to delivered hardware and related essential software, including estimated warranty costs, are recognized at
+the time of sale. Costs incurred to provide non-software services are recognized as cost of sales as incurred, and engineering and
+sales and marketing costs are recognized as operating expenses as incurred.
+The Company’s process for determining its ESP for deliverables without VSOE or TPE considers multiple factors that may vary
+depending upon the unique facts and circumstances related to each deliverable including, where applicable, prices charged by the
+Company and market trends in the pricing for similar offerings, product specific business objectives, length of time a particular
+version of a device has been available, estimated cost to provide the non-software services and the relative ESP of the upgrade
+rights and non-software services as compared to the total selling price of the product.
+Shipping Costs
+Amounts billed to customers related to shipping and handling are classified as revenue, and the Company’s shipping and handling
+costs are classified as cost of sales.
+Warranty Costs
+The Company generally provides for the estimated cost of hardware and software warranties in the period the related revenue is
+recognized. The Company assesses the adequacy of its accrued warranty liabilities and adjusts the amounts as necessary based
+on actual experience and changes in future estimates.
+Apple Inc. | 2016 Form 10-K l 45

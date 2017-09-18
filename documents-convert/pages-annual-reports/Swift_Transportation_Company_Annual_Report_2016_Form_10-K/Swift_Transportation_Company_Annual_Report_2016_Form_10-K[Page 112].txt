@@ -1,0 +1,35 @@
+Note 14 — Deferred Loan Costs
+As discussed in Note 1, DLCs related to the Company's New Term Loan A and accounts receivable securitization
+are now netted against the face amount of the debt, pursuant to the amendments to ASC 835-30 in ASU 2015-03.
+DLCs related to the New Revolver are reported in "Other assets." The following table presents the classification
+of DLCs in the Company's consolidated balance sheets:
+December 31,
+2016 2015
+7 (In thousands) 7
+ASSETS:
+Other assets $ 1,169 $ 1,496
+LIABILITIES:
+Current portion oflong-term debt — 68
+Long-term debt, less current portion 1,338 1,627
+Accounts receivable securitization 715 1,073
+Total DLCs $ 3,222 $ 4,264
+Note 15 — Leases
+The Company finances a portion of its revenue equipment under capital and operating leases and certain terminals
+under operating leases.
+Capital Leases (as Lessee)— The Company's capital leases are typically structured with balloon payments at the
+end of the lease term equal to the residual value the Company is contracted to receive from certain equipment
+manufacturers upon sale or trade back to the manufacturers. If the Company does not receive proceeds of the
+contracted residual value from the manufacturer, the Company is still obligated to make the balloon payment at the
+end of the lease term. Certain leases contain renewal or fixed price purchase options. The present value of
+obligations under capital leases is included under "Current portion of capital lease obligations" and "Capital lease
+obligations, less current portion" in the consolidated balance sheets. As of December 31, 2016, the leases were
+collateralized by revenue equipment with a cost of $319.8 million and accumulated amortization of $97.0 million.
+As of December 31, 2015, the leases were collateralized by revenue equipment with a cost of $357.8 million and
+accumulated amortization of $90.1 million. Amortization of the equipment under capital leases is included in
+"Depreciation and amortization of property and equipment" in the Company's consolidated income statements.
+Operating Leases (as Lessee)— The revenue equipment leases generally include a purchase option exercisable
+at the completion of the lease. The Company does not currently guarantee residual values under its operating lease
+agreements for revenue equipment.
+Rent expense related to operating leases was $226.3 million, $240.5 million, and $229.3 million for the years ended
+December 31 , 2016, 2015, and 2014, respectively.
+108

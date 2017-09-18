@@ -1,0 +1,45 @@
+The initial sale of our software products generally requires significant production, modification or customization and thus falls under the guidelines of contract
+accounting. In these software license arrangements, the software license and professional services elements of the arrangement fee are typically combined and subject to
+contract accounting using the percentage-of-completion (“POC”) method of accounting. Under the POC method of accounting, software license and professional services
+revenues are typically recognized as the professional services related to the software implementation project are performed. We are using hours performed on the project
+as the measure to det ermine the percentage of the work completed.
+A portion of our professional services revenues does not include an element of software delivery (e.g., business consulting services, etc.), and thus, do not fall within the
+scope of specific authoritative accounting literature for software arrangements. In these cases, revenues from fixed-price, professional service contracts are recognized
+using a method consistent with the proportional performance method, which is relatively consistent with our POC methodology. Under a proportional performance
+model, revenue is recognized by allocating revenue between reporting periods based on relative service provided in each reportng period, and costs are generally
+recognized as incurred. We utilize an input-based approach (i.e., hours worked) for purposes of measuring performance on these types of contracts. Our input measure is
+considered a reasonable surrogate for an output measure. In instances when the work performed on fixed price agreements is of relatively short duration, or if we are
+unable to make reasonably dependable estimates at the outset of the arrangement, we use the completed contract method of accounting whereby revenue is recognized
+when the work is completed.
+Our use of the POC and proportional performance methods of accounting on professional services engagements requires estimates of the total project revenues, total
+project costs and the expected hours necessary to complete a project. Changes in estimates as a result of additional information or experience on a project as work
+progresses are inherent characteristics of the POC and proportional performance methods of accounting as we are exposed to various business risks in completing these
+engagements. The estimation process to support these methods of accounting is more difficult for projects of greater length and/or complexity. The judgments and
+estimates made in this area could: (i) have a significant effect on revenues recognized in any period by changing the amount and/or the timing of the revenue recognized;
+and/or (ii) impact the expected profitability of a project, including whether an overall loss on an arrangement has occurred. To mitigate the inherent risks in using the
+POC and proportional performance methods of accounting, we track our performance on projects and reevaluate the appropriateness of our estimates as part of our
+monthly accounting cycle.
+Revenues are recognized only if we determine that the collection of the fees included in an arrangement is considered probable (i.e., we expect the client to pay all
+amounts in full when invoiced). In making our determination of collectability for revenue recognition purposes, we consider a number of factors depending upon the
+specific aspects of an arrangement, which may include, but is not limited to, the following items: (i) an assessment of the client’s specific credit worthiness, evidenced by
+its current financial position and/or recent operating results, credit ratings, and/or a bankruptcy filing status (as applicable); (ii) the client’s current accounts receivable
+status and/or its historical payment patterns with us (as applicable); (iii) the economic condition of the industry in which the client conducts the majority of its business;
+and/or (iv) the economic conditions and/or political stability of the country or region in which the client is domiciled and/or conducts the majority of its business. The
+evaluation of these factors, and the ultimate determination of collectability, requires significant judgments to be made by us. The judgments made in this area could have
+a significant effect on revenues recognized in any period by changing the amount and/or the timing of the revenue recognized.
+Impairment Assessments of Goodwill and Other Long-Lived Assets.
+Gaodwill,. Goodwill is required to be tested for impairment on an annual basis. We have elected to do our annual test for possible impairment as of July 31 of
+each year. In addition to this annual requirement, goodwill is required to be evaluated for possible impairment on a periodic basis (e. g., quarterly) if events occur
+or circumstances change that could indicate a possible impairment may have occurred. Goodwill is considered impaired if the carrying value of the reporting unit,
+which includes the goodwill, is greater than the estimated fair value of the reporting unit. If it is determined that an impairment has occurred, an impairment loss
+(equal to the excess of the carrying value of the goodwill over its estimated fair value) is recorded.
+As of July 31, 2016, we had goodwill of approximately $208 million, which was assigned to a single reporting unit. Since we had only a single reporting unit, we
+used our public market capitalization as our primary means to estimate the fair value for that single reporting unit. Since our market capitalization exceeded the
+carrying value of our single reporting unit by a significant margin, we concluded there was no impairment of goodwill.
+We believe that our approach for testing our goodwill for impairment was appropriate. However, if we experience a significant drop in our market capitalization
+due to company performance, and/or broader market conditions, it may result in an impairment loss. If a goodwill impairment was to be recorded in the future, it
+would likely materially impact our results of operations in the period such impairment is recognized, but such an impairment charge would be a non-cash
+expense, and therefore would have no impact on our cash ﬂows, or on the financial position of our company.
+QZLheLLatglLuedAssets.,Long-lived assets other than goodwill, which for us relates primarily to property and equipment, software, and client contracts, are
+required to be evaluated for possible impairment whenever events or changes in
+26

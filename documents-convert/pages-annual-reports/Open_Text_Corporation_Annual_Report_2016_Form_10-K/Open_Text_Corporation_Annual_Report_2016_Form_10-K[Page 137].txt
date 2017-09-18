@@ -1,0 +1,48 @@
+Term Loan B has a seven year term and repayments made under Term Loan B are equal to 0.25% of the original principal
+amount in equal quarterly installments for the life of Term Loan B, with the remainder due at maturity. Borrowings under Term
+Loan B currently bear a ﬂoating rate of interest at a rate per annum equal to 2.5% plus the higher of LIBOR or 0.75%.
+For the year ended June 30, 2016, we recorded interest expense of $25.9 million, relating to Term Loan B (year ended
+June 30, 2015—$26.1 million; June 30, 2014—$11.9 million).
+Revolver
+We currently have a $300 million committed revolving credit facility (the Revolver). Borrowings under the Revolver are
+secured by a first charge over substantially all of our assets, and on a pari passu basis with Term Loan B. The Revolver will
+mature on December 22, 2019 with no fixed repayment date prior to the end of the term. As of June 30, 2016, we have not
+drawn any amounts on the Revolver.
+NOTE 11—PENSION PLANS AND OTHER POST RETIREMENT BENEFITS
+The following table provides details of our defined benefit pension plans and long-term employee benefit obligations for
+Open Text Document Technologies GmbH (CDT), GXS GmbH (GXS GER) and GXS Philippines, Inc. (GXS PHP) as of
+June 30, 2016 and June 30, 2015:
+7 As ofJune 30, 2016 7
+7 Total beneﬁt Current portion of Non-current portion of 7
+: obligation :_: beneﬁt obligation* :_: beneﬁt obligation :
+[CDT deﬁned benefit plan 8 29,450 $ 589 $ 28,861 I
+GXS Germany defined benefit plan 24,729 772 23,957
+[GXS Philippines defined benefit plan 7,341 30 7,311 1
+Other plans 7 3,3307 7 1,4667 7 1,864
+[Total $ 64,850 _$ 2,857 _$ 61,993 1
+7 As of June 30, 2015 7
+7 Total beneﬁt Current portion of Non-current portion of 7
+: obligation :_: beneﬁt obligation* :_: beneﬁt obligation :
+[CDT deﬁned benefit plan 8 26,091 $ 575 $ 25,516 I
+GXS Germany defined benefit plan 22,420 774 21,646
+[st Philippines defined benefit plan 7,025 26 6,999 1
+Other plans 7 2,751 7 7 175 7 7 2,576 7
+[Total ’8 58,287 _$ 1,550 _$ 56,7371
+*The current portion of the benefit obligation has been included within "Accrued salaries and commissions", all within
+"Accounts payable and accrued liabilities" in the Consolidated Balance Sheets (see Note 9).
+Defined Beneﬁt Plans
+CDT Plan
+CDT sponsors an unfunded defined benefit pension plan covering substantially all CDT employees (CDT pension plan)
+which provides for old age, disability and survivors’ benefits. Benefits under the CDT pension plan are generally based on age
+at retirement, years of service and the employee’s annual earnings. The net periodic cost of this pension plan is determined
+using the projected unit credit method and several actuarial assumptions, the most significant of which are the discount rate and
+estimated service costs. No contributions have been made since the inception of the plan. Actuarial gains or losses in excess of
+10% of the projected benefit obligation are being amortized and recognized as a component of net periodic benefit costs over
+the average remaining service period of the plan's active employees. As of June 30, 2016, there is approximately $0.6 million in
+accumulated other comprehensive income related to the CDT pension plan that is expected to be recognized as a component of
+net periodic benefit costs over the next fiscal year.
+GXS Germany Plan
+As part of our acquisition of GXS, we acquired an unfunded defined benefit pension plan covering certain German
+employees which provides for old age, disability and survivors' benefits. The GXS GER plan has been closed to new
+participants since 2006. Benefits under the GXS GER plan are generally based on a participant’s remuneration, date of hire,
+129

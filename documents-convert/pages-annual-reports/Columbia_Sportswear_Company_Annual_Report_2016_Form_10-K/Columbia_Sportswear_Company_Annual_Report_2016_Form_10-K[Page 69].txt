@@ -1,0 +1,36 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(Continued)
+allows for grants of incentive stock options, non-statutory stock options, restricted stock awards, restricted stock units, and
+other stock-based or cash-based awards. The Company uses original issuance shares to satisfy share-based payments.
+Stock-based compensation expense consisted of the following (in thousands):
+7 Year Ended December 31, 7
+g 2016 2015 2014 g
+$ 233 $ 326 s 3991
+SG&Aexpense................................................ 10,753_ 11,346_ 10,721
+I Pre-tax stock-based compensation expense. . . . . . . . . . . . . . . . . . . . . . . 10,986 11,672 11,120 ‘
+Incometaxbenefits............................................. (3,969)_ (4,044)_ (3,874)
+l Total stock-based compensation expense, net of tax. . . . . . . . . . . . . . . . $ 7,017 $ 7,628 $ 7,246 l
+The Company realized atax benefit for the deduction from stock-based award transactions of $9,576,000, $11,872,000
+and $8,835,000 for the years ended December 31, 2016, 2015 and 2014, respectively.
+Stock Options
+Options to purchase the Company's common stock are granted at exercise prices equal to or greater than the fair market
+value of the Company's common stock on the date of grant. Options generally vest and become exercisable ratably on an
+annual basis over a period of four years and expire ten years from the date of the grant.
+The Company estimates the fair value of stock options using the Black-Scholes model. Key inputs and assumptions
+used to estimate the fair value of stock options include the exercise price of the award, the expected option term, expected
+volatility of the Company's stock over the option's expected term, the risk-free interest rate over the option's expected term,
+and the Company's expected annual dividend yield. The option's expected term is derived from historical option exercise
+behavior and the option's terms and conditions, which the Company believes provide a reasonable basis for estimating an
+expected term. The expected volatility is estimated based on observations of the Company's historical volatility over the
+most recent term commensurate with the expected term. The risk-free interest rate is based on the US. Treasury yield
+approximating the expected term. The dividend yield is based on the expected cash dividend payouts. Assumptions are
+evaluated and revised as necessary to reﬂect changes in market conditions and the Company's experience. Estimates of fair
+value are not intended to predict actual future events or the value ultimately realized by people who receive equity awards.
+The following table presents the weighted average assumptions for the years ended December 31:
+7 2016 7 7 2015 7 7 2014 7
+lExpectedterm................................................. 4.63years 4.60years 4.69years‘
+Expectedstockpricevolatility.................................... 29.79% 26.57% 27.62%
+lRisk—freeinterestrate........................................... 1.17% 1.20% 1.22% l
+Expecteddividendyield......................................... 1.20% 1.26% 1.34%
+lWeighted average grant date fair value. . . . . . . . . . . . . . . . . . . . . . . . . . . . .. $13.38 $10.36 $8.69 1
+63

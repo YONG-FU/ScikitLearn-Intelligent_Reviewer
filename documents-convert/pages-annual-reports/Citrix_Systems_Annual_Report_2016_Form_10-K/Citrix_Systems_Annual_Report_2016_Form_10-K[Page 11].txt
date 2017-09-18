@@ -1,0 +1,53 @@
+Technology
+Our products are based on a full range of core proprietary technologies and certain industry-standard open source
+technologies.
+° Citrix HDX Technologies is a family of innovations that optimize the end-to-end user experience in virtual desktop and
+virtual application environments. These technologies incorporate our ICA protocol, which consists of server— and
+client-side technology that allows graphical user interfaces to be transmitted securely over any network, and includes
+optimizations for multimedia, unified communications, high-end graphics and mobile networks which work together
+to provide a high-definition user experience across a wide array of applications, devices and networks.
+- NetScaler nCore Technology is an architecture that enables execution of multiple packet engines in parallel. nCore
+technology allows the distribution of packet ﬂows across multiple central processing unit cores to achieve efficient,
+high-performance parallel processing across multiple packet engines. The architecture incorporates innovations in
+ﬂow distribution and state sharing and provides for efficient execution across packet engines.
+- XenMobile is our foundational technology that delivers a holistic mobile computing platform for enterprises. Its main
+components include MDM, MAM, MCM, UEM, end-to-end security and a set of mobile productivity apps including
+secure email, corporate app store, Web browsing, data sharing, secure note taking and document editing on a host of
+mobile platforms including iOS, Android and Windows mobile.
+° GoTo Business Technologies included our Internet Overlay Platform, our PSTN/VoIP Bridge and HDFaces that
+provides screen-sharing technology, seamless integration of Public Switched Telephone Network/Voice over Internet
+Protocol, or PSTN/VoIP, in products that use our audio conferencing and high—definition video conferencing over the
+public Internet, respectively. The GoTo Business technologies are part of the separation of the GoTo Business subject
+to limited licenses for certain continued use.
+Innovation is a core Citrix competency. We have many additional unique innovations that are important enablers of our
+continued leadership in application virtualization, VDI and networking.
+Customers
+We believe that the primary IT buyers involved in decision-making related to our solutions are the following:
+- Strategic IT Executives including chief information officers, chief technology officers, chief information security
+officers and vice presidents of infrastructure, who have responsibility for ensuring that IT services are enablers to
+business initiatives and are delivered with the best performance, availability, security and cost.
+- Desktop Operations Managers who are responsible for managing Windows Desktop environments including corporate
+help desks.
+- IT Infrastructure Managers who are responsible for managing and delivering Windows-based applications.
+- Directors of Messaging and Mobility, who are, respectively, responsible for Exchange and defining mobile strategies
+and solutions for securing and managing mobile devices including their content and applications.
+- Network Architects who are responsible for delivering Web-based applications who have primary responsibility for
+the WAN infrastructure for all applications.
+° Server Operations Managers who are responsible for specifying datacenter systems and managing daily operations.
+- Individuals and prosumers, who are responsible for choosing personal solutions and helping small businesses select
+simple-to-use computing solutions.
+° Small business owners who are responsible for choosing the systems needed to support their business goals, such as
+SaaS.
+- Line of business and functional executives that determine the need for the GoTo Business offerings at certain
+enterprises.
+- Chief technology officer and engineering department (managers, architects, etc.) for telecommunications service
+providers.
+- Chief information oﬁicer and engineering departments within service providers, using our products to deliver desktops
+and applications as hosted cloud services.
+The IT buyers for our products include a wide variety of industries including those in financial services, technology, healthcare,
+education, government and telecom.
+We offer perpetual and term-based software licenses for our products, along with annual subscriptions for software
+updates, technical support and SaaS. Perpetual licenses allow our customers to use the version of software initially purchased
+into perpetuity, while term-based licenses are limited to a specified period of time. Software update subscriptions give
+customers the right to upgrade to new software versions if and when any updates are delivered during the subscription term.
+7

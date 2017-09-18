@@ -1,0 +1,29 @@
+“ ERISA Event” means (a) (i) the occurrence with respect to a Plan of a reportable event, within the meaning of Section 4043 of ERISA, unless the
+30-day notice requirement with respect thereto has been waived by the Pension Beneﬁt Guaranty Corporation (or any successor) (“ PBGC”), or (ii) the
+requirements of subsection (1) of Section 4043(b) of ERISA (without regard to subsection (2) of such section) are met with respect to a contributing sponsor, as
+deﬁned in Section 4001(a)(13) of ERISA, of a Plan, and an event described in paragraph (9), (10), (11), (12) or (13) of Section 4043(c) of ERISA is reasonably
+expected to occur with respect to such Plan within the following 30 days; (b) the application for a minimum funding waiver with reSpect to a Plan; (c) the provision
+by the administrator of any Plan of a notice of intent to terminate such Plan, pursuant to Section 4041(a)(2) of ERISA (including any such notice with respect to a
+plan amendment referred to in Section 4041(e) of ERISA); (d) the cessation of operations at a facility of any Obligor or any of their ERISA Affiliates in the
+circumstances described in Section 4062(e) of ERISA; (e) the conditions set forth in Section 303(k)(1)(A) and (B) of ERISA to the creation of a lien upon property
+or rights to property of any Obligor or any of their ERISA Affiliates for failure to make a required payment to a Plan are satisfied; or (f) the termination of a Plan by
+the PBGC pursuant to Section 4042 of ERISA, or the occurrence of any event or condition described in Section 4042 of ERISA that constitutes grounds for the
+termination of, or the appointment of a trustee to administer, a Plan.
+“ EULBailJnLegislationSchedule,” means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any successor person),
+as in effect from time to time.
+“ Eurocurrency Lending Office ” means, with reSpect to any Lender, the ofﬁce of such Lender speciﬁed as its “ Eurocurrency Lending Ofﬁce ”
+opposite its name on Schedule II hereto or in the Assignment and Acceptance pursuant to which it became a Lender (or, if no such office is speciﬁed, its Domestic
+Lending Ofﬁce), or such other office of such Lender as such Lender may from time to time specify to Mondeléz and the Administrative Agent.
+“ EurocurrencyiLiabilities,” has the meaning assigned to that term in Regulation D of the Board, as in effect from time to time.
+“ Eurocurrency Rate Reserve PercentagQ” for any Interest Period, for all LIBO Rate Loans comprising part of the same Borrowing owing to a Lender
+which is a member of the Federal Reserve System, means the reserve percentage applicable for such Lender two Business Days before the ﬁrst day of such Interest
+Period under regulations issued from time to time by the Board for determining the maximum reserve requirement (including, without limitation, any emergency,
+supplemental or other marginal reserve requirement) for a member bank of the Federal Reserve System in New York City with respect to liabilities or assets
+consisting of or including Eurocurrency Liabilities (or with respect to any other category of liabilities that includes deposits by reference to which the interest rate
+on LIBO Rate Loans is determined) having a term equal to such Interest Period.
+“ European Union ” means the region comprised of member states of the European Union pursuant to the Treaty establishing the European Community
+(signed in Rome on 25 March 1967) as amended by the Treaty on the European Union (signed in Maastricht on 7 February 1992).
+“ EventoﬁDefaultf has the meaning specified in Section 6.01.
+“ ExtendingLender,” has the meaning specified in Section 2.10(b).
+“ Extension Date ” has the meaning specified in Section 2.10(b).
+-7-

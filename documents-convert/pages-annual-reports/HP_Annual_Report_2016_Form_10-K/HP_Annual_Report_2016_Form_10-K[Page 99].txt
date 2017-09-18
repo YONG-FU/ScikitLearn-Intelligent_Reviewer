@@ -1,0 +1,45 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 10: Fair Value
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an
+orderly transaction between market participants at the measurement date.
+Fair Value Hierarchy
+HP uses valuation techniques that are based upon observable and unobservable inputs. Observable inputs are developed
+using market data such as publicly available information and reﬂect the assumptions market participants would use, while
+unobservable inputs are developed using the best information available about the assumptions market participants would use.
+Assets and liabilities are classiﬁed in the fair value hierarchy based on the lowest level input that is significant to the fair value
+measurement:
+Level l—Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2—Quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or
+liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability and market-
+corroborated inputs.
+Level 3—Unobservable inputs for the asset or liability.
+The fair value hierarchy gives the highest priority to observable inputs and lowest priority to unobservable inputs.
+The following table presents HP’s assets and liabilities that are measured at fair value on a recurring basis:
+7 As of October 31, 2016 7 7 As of October 31, 2015 7
+7 Fair Value 7 7 Fair Value 7
+Measured Using Measured Using
+7 Level 1 7 7 Level 2 7 7 Level 3 7 7 Total 7 7 Level 1 7 7 Level 2 7 7 Level 3 7 7 Total 7
+7 7 7 7 7 7 7 In millions 7 7 7 7 7 7 7
+IAssets I
+Cash Equivalents and Investments:
+I Time deposits $ — $ 2,092 $ — $ 2,092 $ — $ 1,111 $ — $ 1,111I
+Money market funds 2,568 — — 2,568 4,303 — — 4,303
+I Marketable equity securities 5 4 — 9 6 3 — 9 I
+Foreign bonds — — — — — 42 — 42
+I Mutual funds 44 — — 44 — _ _ _ I
+Other debt securities — 2 — 2 — 2 — 2
+IDerivative Instruments: I
+I Interest rate contracts — 48 — 48 — 38 — 38 I
+Foreign currency contracts — 266 1 1 277 — 213 2 215
+I Other derivatives 7 57 —7 5 I
+Total assets 77$ 2,617i 77$ 2,4127, TEE 117,773; 5,040 77$ 4,309i 77$ 1,4147 77$ 2i 77$ 5,725i
+ILiabilities l
+Derivative Instruments:
+I Interest rate contracts $ — $ — $ — $ — $ — $ — $ — $ — I
+Foreign currency contracts — 94 1 95 — 302 2 304
+I Otherderivatives 7 —” 2” —” 2H —” —” —” —I
+Total liabilities $ — $ 96 s 1$ 97$ — $ 302$ 2 $ 304
+There were no transfers between levels within the fair value hierarchy during fiscal years 2016 and 2015.
+99

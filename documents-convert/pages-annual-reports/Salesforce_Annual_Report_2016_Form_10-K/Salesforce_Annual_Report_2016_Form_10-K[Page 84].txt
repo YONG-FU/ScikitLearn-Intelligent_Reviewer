@@ -1,0 +1,16 @@
+salesforce.com, inc.
+Consolidated Statements of Comprehensive Loss
+(in thousands)
+7 Fiscal Year Ended January 31, 7
+2016 : : 2015 : : 2014
+$(47,426) $(262,688) $(232,175)
+Other comprehensive income (loss), before tax and net of reclassification
+adjustments:
+Foreign currency translation and other losses . . . . . . . . . . . . . . . . . . . . . (16,616) (43,276) (4,930)
+Unrealized gains (losses) on investments . . . . . . . . . . . . . . . . . . . . . . . . (9,193) 1,488 8,120
+Other comprehensive income (loss), before tax . . . . . . . . . . . . . . . . . . . . . . . . (25,809) (41,788) 3,190
+0 0 (2,647)
+Other comprehensive income (loss), net of tax . . . . . . . . . . . . . . . . . . . . . . . . (25,809) (41,788) 543
+Comprehensiveloss $(73,235) $(304,476) $(231,632)
+See accompanying Notes.
+77

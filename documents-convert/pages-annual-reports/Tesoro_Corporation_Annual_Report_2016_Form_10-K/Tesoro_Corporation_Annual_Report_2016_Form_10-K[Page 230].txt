@@ -1,0 +1,43 @@
+[REVERSE OF NOTE]
+Capitalized terms used herein have the meanings assigned to them in the Indenture referred to below unless otherwise indicated.
+1.1nterest. Tesoro Logistics LP, a Delaware limited partnership (“TLLP”) and Tesoro Logistics Finance Corp., a Delaware corporation (“EinanceiOorpj
+and, together with TLLP, the “Issuers”), promise to pay interest on the principal amount of this Note at 6.375% per annum from May 12, 2016 until maturity.
+The Issuers will pay interest semi—annually in arrears on May 1 and November 1 of each year, or if any such day is not a Business Day, on the next succeeding
+Business Day (each an “Interest Payment Date”). Interest on the Notes will accrue from the mo st recent date to which interest has been paid or, if no interest
+has been paid, from the date of original issuance; provided that if there is no existing Default in the payment of interest, and if this Note is authenticated
+between a record date referred to on the face hereof and the next succeeding Interest Payment Date, interest shall accrue from such next succeeding Interest
+Payment Date, except in the case of the original issuance of Notes, in which case interest shall accrue from the date of authentication; provided, further, that
+the ﬁrst Interest Payment Date shall be November 1, 2016. Interest will be computed on the basis of a 360-day year of twelve 30-day months.
+2. Method of Payment. The Issuers will pay interest on the Notes (except defaulted interest) to the Persons who are registered Holders of Notes at the
+close of business on the April 15 and October 15 next preceding the Interest Payment Date, even if such Notes are canceled after such record date and on or
+before such Interest Payment Date, except as provided in Section 2.12 of the Indenture with respect to defaulted interest. The Notes will be payable as to
+principal, premium and interest at the oﬁice or agency of the Issuers maintained for such purpose within or without the City and State of New York, or, at the
+option of the Issuers, payment of interest may be made by check mailed to the Holders at their addresses set forth in the register of Holders, and provided that
+payment by wire transfer of immediately available funds will be required with respect to principal of, and interest and premium, if any, on, all Global Notes
+and all other Notes the Holders of which shall have provided wire transfer instructions to the Issuers or the Paying Agent to an account in the United States.
+Such payment shall be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private
+debts.
+3. Paying Agent and Registrar. Initially, US. Bank National Association, the Trustee under the Indenture, will act as Paying Agent and Registrar. The
+Issuers may change any Paying Agent or Registrar without notice to any Holder. TLLP or any of its Subsidiaries may act in any such capacity.
+4.1ndenture. The Issuers issued the Notes under an Indenture dated as of May 12, 2016 (as amended, supplemented or otherwise modiﬁed from time to
+time, the “Indenture”) among the Issuers, the Guarantors and the Trustee. The terms of the Notes include those stated in the Indenture and those made part of
+the Indenture by reference to the TIA. The Notes are subject to all such terms, and Holders are referred to the Indenture and the TIA for a statement of such
+terms. To the extent any provision of this Note conﬂicts with the express provisions of the Indenture, the provisions of the Indenture shall govern and be
+controlling. The Notes are unsecured obligations of the Issuers. The Indenture does not limit the aggregate principal amount of Notes that may be issued
+thereunder.
+5. Guarantee. To guarantee the due and punctual payment of the principal, premium, if any, and interest (including post-petition interest in any
+proceeding under any Bankruptcy Law) on the Notes and all other amounts payable by the Issuers under the Indenture and the Notes when and as the same
+shall be due and payable, whether at maturity, by acceleration or otherwise, according to the terms of the Notes and the Indenture, the Guarantors have
+unconditionally guaranteed (and future guarantors, together with the Guarantors, shall unconditionally Guarantee), jointly and severally, such obligations on
+an unsecured senior basis pursuant to the terms of the Indenture.
+6. Optional Redemption.
+(a) On or after May 1, 2019, the Issuers may redeem all or a part of the Notes at the redemption prices (expressed as percentages of principal amount) set
+forth below plus accrued and unpaid interest on the Notes redeemed, to, but excluding, the applicable Redemption Date, if redeemed during the twelve-
+month period beginning on May 1 of each year indicated below, subject to the rights of Holders of Notes on the relevant record date to receive interest on the
+relevant Interest Payment Date:
+Year Percentage
+2019 104.7 8 1 %
+2020 103 .1 8 8 %
+2021 101 .5 94 %
+2022 and thereafter 100.000 %
+A-3

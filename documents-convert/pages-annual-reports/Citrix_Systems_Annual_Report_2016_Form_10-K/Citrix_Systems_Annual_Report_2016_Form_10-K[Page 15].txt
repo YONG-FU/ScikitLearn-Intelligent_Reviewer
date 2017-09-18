@@ -1,0 +1,50 @@
+Competition
+We sell our products in intensely competitive markets. Some of our competitors and potential competitors have
+significantly greater financial, technical, sales and marketing and other resources than we do. As the markets for our products
+and services continue to develop, additional companies, including those with significant market presence in the computer
+appliances, software, cloud services and networking industries, could enter the markets in which we compete and further
+intensify competition. In addition, we believe price competition could become a more significant competitive factor in the
+future. As a result, we may not be able to maintain our historic prices and margins, which could adversely affect our business,
+results of operations and financial condition. See “Technology Relationships” and Part I-Item lA entitled “Risk Factors”
+included in this Annual Report on Form lO—K for the year ended December 31, 2016.
+Workspace Services
+Our Application Virtualization and VDI solutions are based on an alternative technology platform the success of which
+will depend on organizations and customers perceiving technological, operational and security benefits and cost savings
+associated with adopting desktop and application Virtualization solutions. We differentiate from basic Virtualization solutions
+with robust security, ﬂexibility and end user experience to enable IT to deliver Windows apps and desktops for better business
+outcomes. Our primary competition in this market is the existing IT desktop management practice of manually configuring
+physical desktops, which is time-consuming, expensive and subject to inconsistency. We also face numerous competitors that
+provide automation of these processes and alternative approaches, including VMware's Horizon product and the emergence of
+virtual applications and desktop delivery from public and private cloud services, including Amazon Web Service’s product
+Amazon WorkSpaces. Also, there continues to be an increase in the number of alternatives to Windows-based applications and
+Windows operating system powered desktops, in particular SaaS-delivered applications and mobile devices such as
+smartphones and tablet computers. We believe XenApp and XenDesktop give us a competitive advantage by providing
+customers multiple ways to virtualize and deliver desktops and/or apps with one, integrated Virtualization system and delivering
+a higher performance user experience, more robust security and the ﬂexibility for people to use any device and IT to use any
+infrastructure - public or private clouds, hyper-converged, traditional servers and storage, or combinations of each. No other
+competitor can currently match this level of ﬂexibility and choice in VDI and app Virtualization solutions.
+Our Enterprise Mobility Management product line, XenMobile, competes with AirWatch by VMware, MobileIron, Good
+Technology by BlackBerry and many other smaller competitors. We believe we differentiate ourselves from these competitors
+by providing the most complete solution on the market, with MDM, MAM and superior core mobile productivity applications,
+including secure mobile email, calendar, browser, notes and more along with integration with Microsoft's mobility management
+platform, EMS. Our apps feature unique workﬂow integrations designed to make people work better, a significant advantage
+over competitors that do not focus on the end user experience and either have basic applications or rely on third parties for their
+mobile apps and can drive similar integrations.
+We also see competition from competitors that are combining mobile and desktop technologies. We believe our solution,
+Citrix Workspace Suite, is the best solution available today that can securely deliver a secure digital workspace - with any
+Windows, Web, SaaS and native mobile applications, data and virtual desktops - to any device, anywhere. For example,
+VMware offers the VMware Workspace Suite and more recently introduced VMware Workspace ONE. We expect other
+vendors to follow suit. We offer market-leading technologies for every component of the Citrix Workspace Suite. Further, we
+believe that our end-user experience is a competitive edge when compared to the alternative solutions due to the integration,
+intuitiveness and self-service features of our oﬁerings.
+Delivery Networking
+Our NetScaler ADC products compete against other established competitors, including, F5 Networks, Inc., or F5, and to a
+lesser extent, Radware, AlO Networks and Amazon Web Services. The ADC segment also includes a number of emerging start-
+up and open source-based competitors. The companies compete with us for traditional enterprise sales opportunities, while F5
+is our principal competitor in the Internet-centric market segment. We continue to enhance NetScaler ADC's feature capability
+and invest in go-to-market resources to market NetScaler ADC to our existing customer base and new potential customers as
+well as expanding into telco and cloud provider markets. NetScaler ADC’s integration with XenApp and XenDesktop provides
+a major competitive advantage with customers who are already using these products.
+Our NetScaler SD—WAN product competes against both traditional WAN optimization and infrastructure vendors, such as
+Riverbed, Cisco, Silver Peak and Blue Coat, and managed service providers.
+1 l

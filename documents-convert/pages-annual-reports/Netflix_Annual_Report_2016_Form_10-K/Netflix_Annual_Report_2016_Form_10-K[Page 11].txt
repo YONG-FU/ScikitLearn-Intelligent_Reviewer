@@ -1,0 +1,38 @@
+Table of Contents
+intended to prevent network operators from discriminating against the legal traffic that traverse their networks have been implemented in many countries, including
+the United States and the European Union. In others, the laws may be nascent or non-existent. Given uncertainty around these rules, including changing
+interpretations, amendments or repeal, coupled with potentially significant political and economic power of local network operators, we could experience
+discriminatory or anti-competitive practices that could impede our growth, cause us to incur additional expense or otherwise negatively affect our business.
+Changes in how network operators handle and charge for access to data that travel across their networks could adversely impact our business.
+We rely upon the ability of consumers to access our service through the internet. If network operators block, restrict or otherwise impair access to our service
+over their networks, our service and business could be negatively affected. To the extent that network operators implement usage based pricing, including
+meaningful bandwidth caps, or otherwise try to monetize access to their networks by data providers, we could incur greater operating expenses and our
+membership acquisition and retention could be negatively impacted. Furthermore, to the extent network operators create tiers of internet access service and either
+charge us for or prohibit us from being available through these tiers, our business could be negatively impacted.
+Most network operators that provide consumers with access to the internet also provide these consumers with multichannel video programming. As such,
+many network operators have an incentive to use their network infrastructure in a manner adverse to our continued growth and success. While we believe that
+consumer demand, regulatory oversight and competition will help check these incentives, to the extent that network operators are able to provide preferential
+treatment to their data as opposed to ours or otherwise implement discriminatory network management practices, our business could be negatively impacted. In
+some international markets, these same incentives apply however, the consumer demand, regulatory oversight and competition may not be as strong as in our
+domestic market.
+Privacy concerns could limit our ability to collect and leverage our membership data and disclosure of membership data could adversely impact our
+business and reputation.
+In the ordinary course of business and in particular in connection with merchandising our service to our members, we collect and utilize data supplied by our
+members. We currently face certain legal obligations regarding the manner in which we treat such information. Other businesses have been criticized by privacy
+groups and governmental bodies for attempts to link personal identities and other information to data collected on the internet regarding users' browsing and other
+habits. Increased regulation of data utilization practices, including self-regulation or findings under existing laws that limit our ability to collect, transfer and use
+data, could have an adverse effect on our business. In addition, if we were to disclose data about our members in a manner that was objectionable to them, our
+business reputation could be adversely affected, and we could face potential legal claims that could impact our operating results. Internationally, we may become
+subject to additional and/or more stringent legal obligations concerning our treatment of customer and other personal information, such as laws regarding data
+localization and/or restrictions on data export. Failure to comply with these obligations could subject us to liability, and to the extent that we need to alter our
+business model or practices to adapt to these obligations, we could incur additional expenses.
+Our reputation and relationships with members would be harmed if our membership data, particularly billing data, were to be accessed by unauthorized
+persons.
+We maintain personal data regarding our members, including names and billing data. This data is maintained on our own systems as well as that of third
+parties we use in our operations. With respect to billing data, such as credit card numbers, we rely on licensed encryption and authentication technology to secure
+such information. We take measures to protect against unauthorized intrusion into our members' data. Despite these measures we, our payment processing services
+or other third party services we use such as AWS, could experience an unauthorized intrusion into our members' data. In the event of such a breach, current and
+potential members may become unwilling to provide the information to us necessary for them to become members. Additionally, we could face legal claims or
+regulatory ﬁnes or penalties for such a breach. The costs relating to any data breach could be material, and we currently do not carry insurance against the risk of a
+data breach. For these reasons, should an unauthorized intrusion into our members’ data occur, our business could be adversely affected.
+8

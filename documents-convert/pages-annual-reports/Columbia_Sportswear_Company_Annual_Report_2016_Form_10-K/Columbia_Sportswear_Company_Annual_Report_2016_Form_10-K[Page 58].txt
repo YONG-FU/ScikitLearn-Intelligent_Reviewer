@@ -1,0 +1,48 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(Continued)
+Accrued income taxes in the Consolidated Balance Sheets include unrecognized income tax benefits relating to
+uncertain tax positions, including related interest and penalties, appropriately classified as current or noncurrent. The
+Company recognizes the tax benefit from an uncertain tax position if it is more likely than not that the tax position will be
+sustained on examination by the relevant taxing authority based on the technical merits of the position. The tax benefits
+recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater
+than 50% likelihood of being realized upon ultimate settlement with the relevant tax authority. In making this determination,
+the Company assumes that the taxing authority will examine the position and that it will have full knowledge of all relevant
+information. The provision for income taxes also includes estimates of interest and penalties related to uncertain tax positions.
+Derivatives:
+The effective portion of changes in fair values of outstanding cash ﬂow hedges is recorded in other comprehensive
+income until earnings are affected by the hedged transaction, and any ineffective portion is included in current income. In
+most cases amounts recorded in other comprehensive income will be released to earnings after maturity of the related
+derivative. The Consolidated Statements of Operations classification of effective hedge results is the same as that of the
+underlying exposure. Results of hedges of product costs are recorded in cost of sales when the underlying hedged transactions
+affect earnings. Results of hedges of revenue are recorded in net sales when the underlying hedged transactions affect
+earnings. Unrealized derivative gains and losses, which are recorded in assets and liabilities, respectively, are non-cash
+items and therefore are taken into account in the preparation of the Consolidated Statements of Cash Flows based on their
+respective balance sheet classifications. See Note 19 for more information on derivatives and risk management.
+Foreign currency translation:
+The assets and liabilities of the Company's foreign subsidiaries have been translated into U. S. dollars using the exchange
+rates in effect at period end, and the net sales and expenses have been translated into US. dollars using average exchange
+rates in effect during the period. The foreign currency translation adjustments are included as a separate component of
+accumulated other comprehensive income in shareholders' equity and are not currently adjusted for income taxes when they
+relate to indefinite net investments in non-US. operations.
+Revenue recognition:
+The Company records wholesale, distributor, e-commerce and licensed product revenues when title passes and the
+risks and rewards of ownership have passed to the customer. Title generally passes upon shipment to, or upon receipt by,
+the customer depending on the terms of sale with the customer. Retail store revenues are recorded at the time of sale. Revenue
+is recorded net of sales taxes, value added taxes or similar taxes which are collected on behalf of local taxing authorities.
+Where title passes upon receipt by the customer, predominantly in the Company's European wholesale business, Japan
+and in certain of our e-commerce operations, precise information regarding the date of receipt by the customer is not readily
+available. In these cases, the Company estimates the date of receipt by the customer based on historical and expected delivery
+times by geographic location. The Company periodically tests the accuracy of these estimates based on actual transactions.
+Delivery times vary by geographic location, generally from one to seven days. To date, the Company has found these
+estimates to be materially accurate.
+At the time of revenue recognition, the Company also provides for estimated sales returns and miscellaneous claims
+from customers as reductions to revenues. The estimates are based on historical rates of product returns and claims as well
+as events and circumstances that indicate changes to historical rates of returns and claims. However, actual returns and
+claims in any future period are inherently uncertain and thus may differ from the estimates. If actual or expected future
+returns and claims are significantly greater or lower than the reserves that have been established, the Company would record
+a reduction or increase to net revenues in the period in which it made such determination.
+Cost of sales:
+The expenses that are included in cost of sales include all direct product costs related to shipping, duties and importation.
+Specific provisions for excess, close-out or slow moving inventory are also included in cost of sales. In addition, some of
+the Company's products carry limited warranty provisions for defects in quality and workmanship. A warranty reserve is
+52

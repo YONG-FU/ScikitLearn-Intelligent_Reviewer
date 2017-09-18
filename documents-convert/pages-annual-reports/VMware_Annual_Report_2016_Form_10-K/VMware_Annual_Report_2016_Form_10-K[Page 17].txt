@@ -1,0 +1,44 @@
+Iablre,of,C,ontents
+° our ability to process customer orders and electronically deliver products and services could be degraded, and our distribution channels could be
+disrupted, resulting in delays in revenue recognition;
+0 defects and security vulnerabilities could be exploited or introduced into our software products or our hybrid cloud and SaaS offerings, thereby damaging
+the reputation and perceived reliability and security of our products and services and potentially making the data systems of our customers vulnerable to
+further data loss and cyber incidents; and
+0 personally identifiable or conﬁdential data of our customers, employees and business partners could be stolen or lost.
+Should any of the above events occur, we could be subject to signiﬁcant claims for liability from our customers, we could face regulatory actions from
+governmental agencies, our ability to protect our intellectual property rights could be compromised, our reputation and competitive position could be materially
+harmed and we could incur significant costs in order to upgrade our cybersecurity systems and remediate damages. Consequently, our business, ﬁnancial condition
+and operating results could be adversely affected.
+Our operating results may ﬂuctuate signiﬁcantly.
+Our operating results may ﬂuctuate due to a variety of factors, many of which are outside of our control. As a result, comparing our operating results on a
+period-to-period basis may not be meaningful, and our past results should not be relied upon as an indication of our future performance. In addition, a significant
+portion of our quarterly sales typically occurs during the last two weeks of the quarter, which generally reﬂects customer buying patterns for enterprise technology.
+As a result, our quarterly operating results are difficult to predict even in the near term. If our revenue or operating results fall below the expectations of investors
+or securities analysts or below any guidance we may provide to the market, the price of our Class A common stock would likely decline substantially.
+Factors that may cause ﬂuctuations in our operating results include, among others, the factors described elsewhere in this risk factors section and the
+following:
+- ﬂuctuations in demand, adoption rates, sales cycles (which have been increasing in length) and pricing levels for our products and services;
+0 changes in customers” budgets for information technology purchases and in the timing of their purchasing decisions;
+0 the timing of recognizing revenue in any given quarter, which can be affected by a number of factors, including product announcements, beta programs
+and product promotions that can cause revenue recognition of certain orders to be deferred until future products to which customers are entitled become
+available;
+0 the timing of announcements or releases of new or upgraded products and services by us or by our competitors;
+0 the timing and size of business realignment plans and restructuring charges;
+° our ability to maintain scalable internal systems for reporting, order processing, license fulﬁllment, product delivery, purchasing, billing and general
+accounting, among other functions;
+° our ability to control costs, including our operating expenses;
+0 credit risks of our distributors, who account for a signiﬁcant portion of product revenue and accounts receivable;
+° our ability to process sales at the end of quarter;
+0 seasonal factors such as the end of fiscal period budget expenditures by our customers and the timing of holiday and vacation periods;
+0 renewal rates and the amounts of the renewals for EAs as original EA terms expire;
+0 the timing and amount of internally developed software development costs that may be capitalized;
+- unplanned events that could affect market perception of the quality or cost-effectiveness of our products and solutions;
+° our ability to accurately predict the degree to which customers will elect to purchase our subscription-based offerings in place of licenses to our on-
+premises offerings; and
+° to the extent that we buy back shares of our common stock in private transactions with Dell or other third parties through arrangements that are accounted
+for as derivative instruments, ﬂuctuations in our stock price during the pricing reference periods of such arrangements may result in gains or losses in our
+quarterly earnings.
+We are exposed to foreign exchange risks.
+Because we conduct business in currencies other than the US. dollar but report our operating results in US. dollars, we face exposure to ﬂuctuations in
+currency exchange rates. During the year ended December 31, 2016 , approximately 30% of our
+1 6

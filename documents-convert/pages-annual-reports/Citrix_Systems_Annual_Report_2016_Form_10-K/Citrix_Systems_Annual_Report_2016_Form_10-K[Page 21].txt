@@ -1,0 +1,51 @@
+Any of these actions could materially adversely impact our business and results of operations.
+Regulation of privacy and data security may adversely aﬂect sales of our products and result in increased compliance costs.
+We believe increased regulation is likely with respect to the solicitation, collection, processing or use of personal,
+financial and consumer information as regulatory authorities around the world are considering a number of legislative and
+regulatory proposals concerning data protection, privacy and data security. This includes the Global Data Protection
+Regulation, which is expected to take effect in 2018. In addition, the interpretation and application of consumer and data
+protection laws and industry standards in the United States, Europe and elsewhere are often uncertain and in ﬂux. The
+application of existing laws to cloud-based solutions is particularly uncertain and cloud-based solutions may be subject to
+further regulation, the impact of which cannot be fully understood at this time. Moreover, it is possible that these laws may be
+interpreted and applied in a manner that is inconsistent with our data and privacy practices. If so, in addition to the possibility
+of fines, this could result in an order requiring that we change our data and privacy practices, which could have an adverse
+effect on our business and results of operations. Complying with these various laws could cause us to incur substantial costs or
+require us to change our business practices in a manner adverse to our business. Also, any new regulation, or interpretation of
+existing regulation, imposing greater fees or taxes or restricting information exchange over the Web, could result in a decline in
+the use and adversely aﬁect sales of our products and our results of operations.
+Our products could contain errors that could delay the release of new products or that may not be detected until after our
+products are shipped
+Despite significant testing by us and by current and potential customers, our products, especially new products or releases
+or acquired products, could contain errors. In some cases, these errors may not be discovered until after commercial shipments
+have been made. Errors in our products could delay the development or release of new products and could adversely affect
+market acceptance of our products. Additionally, our products depend on third-party products, which could contain defects and
+could reduce the performance of our products or render them useless. Because our products are often used in mission-critical
+applications, errors in our products or the products of third parties upon which our products rely could give rise to warranty or
+other claims by our customers, which may have a material adverse effect on our business, financial condition and results of
+operations.
+Certain of our oﬂerings have sales cycles which are long and/or unpredictable which could cause significant variability and
+unpredictability in our revenue and operating results for any particular period
+Generally, a substantial portion of our large and medium-sized customers implement our Workspace Services solutions
+on a departmental or enterprise-wide basis. We have a long sales cycle for these departmental or enterprise-wide sales because:
+° our sales force generally needs to explain and demonstrate the benefits of a large-scale deployment of our product
+to potential and existing customers prior to sale;
+° our service personnel typically spend a significant amount of time assisting potential customers in their testing and
+evaluation of our products and services;
+° our customers are typically large and medium size organizations that carefully research their technology needs and
+the many potential projects prior to making capital expenditures for software infrastructure; and
+° before making a purchase, our potential customers usually must get approvals from various levels of decision
+makers within their organizations, and this process can be lengthy.
+Our long sales cycle for these products makes it difficult to predict when these sales will occur, and we may not be able
+to sustain these sales on a predictable basis. In addition, the long sales cycle for these products makes it difficult to predict the
+quarter in which sales will occur. Delays in sales could cause significant variability in our revenue and operating results for any
+particular period, and large projects with significant IT components may fail to meet our customers’ business requirements or
+be canceled before delivery, which likewise could adversely aﬁect our revenue and operating results for any particular period.
+Overall, the timing of our revenue is difficult to predict. Our quarterly sales have historically reﬂected an uneven pattern
+in which a disproportionate percentage of a quarter’s total sales occur in the last month, weeks and days of each quarter. In
+addition, our business is subject to seasonal ﬂuctuations and such ﬂuctuations are generally most significant in our fourth fiscal
+quarter, which we believe is due to the impact on revenue from the availability (or lack thereof) in our customers’ fiscal year
+budgets and an increase in expenses resulting from amounts paid pursuant to our sales compensation plans as performance
+milestones are often triggered in the fourth quarter. We believe that these seasonal factors are common within our industry. In
+addition, our European operations generally generate lower revenues in the summer months because of the generally reduced
+economic activity in Europe during the summer.
+17

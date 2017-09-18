@@ -1,0 +1,55 @@
+NOTE I — GOODWILL AND OTHER INTANGIBLES (continued)
+use of a combination of discounted cash ﬂow models and valuations based on earnings multiples for guideline public companies
+in each reporting unit’s industry peer group. Discounted cash ﬂow models are highly reliant on various assumptions. Significant
+assumptions Ashland utilized in these models for the current year included: projected business results and future industry direction,
+long-term growth factors and weighted-average cost of capital. Ashland uses assumptions that it deems to be reasonable estimates
+of likely future events and compares the total fair values of each reporting unit to Ashland’s market capitalization, and implied
+control premium, to determine if the fair values are reasonable compared to external market indicators. Subsequent changes in
+these key assumptions could affect the results of future goodwill impairment reviews.
+In conjunction with the July 1, 2016 annual assessment of goodwill, Ashland’s valuation techniques did not indicate any
+impairment for Specialty Ingredients, Composites, Core North America, Quick Lubes or International. Due to deterioration in the
+butanediol commodity market during 2016 in which the Intermediates/ Solvents reporting unit operates (and the impact thereof on
+Ashland’s most recently completed three-year business plan), Ashland determined that the carrying value of the Intermediates/
+Solvents reporting unit exceeded its fair value at July 1, 2016, which resulted in the reporting unit failing the first step of the
+goodwill impairment test. Ashland then performed the second step of the goodwill impairment test, which involved, among other
+things, obtaining third-party appraisals of substantially all of Intermediates/Solvents tangible and intangible assets. Based on the
+results of its goodwill impairment testing as of July 1, 2016, Ashland recorded a pre-tax goodwill impairment charge of $171
+million in the fourth quarter of 20 1 6, which is in addition to a $10 million impairment related to Intermediates/S olvents property,
+plant and equipment, resulted in a total $181 million impairment charge for Intermediates/ Solvents during 2016. A portion of the
+goodwill impairment was nondeductible.
+Ashland’s assessment of an impairment charge on any of these remaining assets currently classified as having indefinite lives,
+including goodwill, could result in additional impairment charges in future periods if any or all of the following events were to
+occur with respect to a particular reporting unit: a significant change in projected business results, a divestiture decision, increase
+in Ashland’s weighted-average cost of capital rates, decrease in growth rates or other assumptions, economic deterioration that is
+more severe or of a longer duration than anticipated, or another significant economic event.
+The following is a progression of goodwill by reportable segment for the years ended September 30, 2016 and 2015.
+7 Specialty Performance 7
+(In millions) Ingredients Materials (a) Valvoline (b) Total7
+Balance at September 30, 2014 $ 2,129 $ 346 $ 168 $ 2,643 7
+Acquisitions (c) — — 3 3
+Divestitures (d) (10) (10) (1) (21)
+Currency translation (115) (23) (1) (139)
+Balance at September 30, 2015 * 2,004 i ’ 313 ’ i 169 i 7 2,486 *
+Acquisitions (c) — — 94 94
+Divestitures (d) (10) — — (10)
+Impairment — (171) — (171)
+Currency translation (3) 5 — 2
+Balance at September 30, 2016 733 1,991 7 7$ 147 7 7$ 263 7 733 2,401 7
+(a) As of September 30, 2016, goodwill was completely attributable to the Composites reporting unit due to the full impairment of the goodwill for the
+Intermediates/Solvents reporting unit during 2016. Accumulated impairment for the reportable segment was $171 million at September 30, 2016.
+(b) As of September 30, 2016, goodwill consisted of $89 million for the Core North America reporting unit, $135 million for the Quick Lubes reporting unit
+and $39 million for the International reporting unit.
+(0) Relates to $83 million for the acquisition of Oil Can Henry’s and $11 million for Valvoline Instant Oil ChangeSM center acquisitions during 2016. See Note
+B for more information on the acquisition of Oil Can Henry’s. Relates to Valvoline Instant Oil ChangeSM acquisitions during 2015.
+(d) Divestitures caption represents the amounts of goodwill related to the Specialty Ingredients joint venture during 2016 and the sale of Elastomers, Valvoline
+car care products and industrial biocides during 2015. See Notes B and C for additional information.
+Other intangible assets
+Intangible assets principally consist of trademarks and trade names, intellectual property, customer relationships and in—process
+research and development (IPR&D). Intangible assets classified as finite are amortized on a straight-line basis over their estimated
+useful lives. The cost of trademarks and trade names is amortized principally over 3 to 25 years, intellectual property over 5 to
+20 years and customer relationships over 3 to 24 years.
+During 20 15 and 20 14, there was impairments of certain IPR&D assets associated with the acquisition of International Specialty
+Products Inc. (ISP) of $ 1 1 million and $13 million, respectively, which were classified within the research and development expense
+caption of the Statements of Consolidated Comprehensive Income. These impairments represented Level 2 nonrecurring fair value
+measurements. As of September 30, 2015, IPR&D and certain intangible assets within trademarks and tradenames were classified
+F -27

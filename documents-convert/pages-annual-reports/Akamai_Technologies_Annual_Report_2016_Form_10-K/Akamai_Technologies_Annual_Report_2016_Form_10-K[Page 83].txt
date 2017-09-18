@@ -1,0 +1,46 @@
+For the years ended December 31, 2016, 2015 and 2014, certain potential outstanding shares from stock options, service—
+based RSUS, convertible notes and warrants were excluded from the computation of diluted net income per share because the
+effect of including these items was anti-dilutive. Additionally, certain performance-based RSUs were excluded from the
+computation of diluted net income per share because the underlying performance conditions for such RSUs had not been met as
+of these dates. The number of potentially outstanding shares excluded from the computation of diluted net income per share for
+the years ended December 31, 2016, 2015 and 2014 (in thousands):
+2016 2015 2014
+' Stock options 58 22 402
+Service-based RSUs 2,262 660 786 I
+Performance-based RSUs 690 1,007 570 '
+Convertible senior notes 7,704 7,704 7,704 I
+'Warrants related to issuance of convertible senior notes 7,704 7,704 7,704 I
+Total shares excluded from computation 18,418 17,097 17,166
+18. Segment and Geographic Information
+The Company’s chief operating decision-maker is the chief executive officer and the executive management team. As of
+December 31, 2016, the Company operated in one industry segment: providing cloud services for delivering, optimizing and
+securing content and business applications over the Internet. The Company is not organized by market and is managed and
+operated as one business. A single management team that reports to the chief executive officer comprehensively manages the
+entire business. The Company does not operate any material separate lines of business or separate business entities with respect
+to its services. Accordingly, the Company does not accumulate discrete financial information with respect to separate divisions
+and does not have separate operating or reportable segments.
+The Company deploys its servers into networks worldwide. As of December 31, 2016, the Company had approximately
+$297.8 million and $231.8 million of net property and equipment, excluding internal-use software, located in the US. and
+foreign locations, respectively. As of December 31, 2015, the Company had approximately $298.9 million and $227.8 million
+of net property and equipment, excluding internal-use software, located in the US. and foreign locations, respectively.
+The Company sells its services and licenses through a sales force located both domestically and abroad. Revenue derived
+from operations outside of the US. is determined based on the country in which the sale originated and was $720.0 million,
+$593.0 million and $531.9 million for the years ended December 31, 2016, 2015 and 2014, respectively. Other than the U.S., no
+single country accounted for 10% or more of the Company’s total revenue for any reported period.
+19. Quarterly Financial Results (unaudited)
+(in thousands, except per share data) First Quarter Second Quarter Third Quarter Fourth Quarter
+Year ended December 31, 2016: : : : : : : : :
+' Revenue $ 567,725 $ 572,135 $ 584,065 $ 616,124 '
+I Cost of revenue (exclusive of amortization of I
+acquired intangible assets) 194,736 206,323 204,467 203,475
+' Net income 74,858 73,635 76,000 91,639 '
+I Basic net income per share 0.42 0.42 0.44 0.53 I
+I Diluted net income per share 0.42 0.42 0.43 0.52 I
+I Year ended December 31, 2015: I
+' Revenue $ 526,536 $ 540,723 $ 551,030 $ 579,159 '
+I Cost of revenue (exclusive of amortization of I
+acquired intangible assets) 169,294 179,910 183 ,204 193,212
+' Net income 77,746 67,200 88,040 88,420 '
+I Basic net income per share 0.44 0.38 0.49 0.50 I
+I Diluted net income per share 0.43 0.37 0.49 0.49 I
+8 1

@@ -1,0 +1,55 @@
+The components of the provision for income taxes for the years ended December 31, 2016, 2015 and 2014, consisted of the
+following (in thousands):
+Year Ended December 31,
+2016 2015 2014
+Current:
+$ — $ — $ —
+568 525 257
+53,962 10,342 9,203
+Total 54,530 10,867 9,460
+Deferred:
+— — —
+— — —
+(27,832) 2,172 (56)
+Totaldeferred............................................................... (27,832) 2,172 (56)
+Totalprovisionforincometaxes............................................. r$ 26,698 7$ 13,039, ’33 9,4047
+Deferred taX assets (liabilities) as of December 31, 2016 and 2015 consisted of the following (in thousands):
+December 31, December 31,
+2016 2015
+Deferred tax assets:
+Netoperatinglosscarry-forwards........................................ $ 648,652 $ 404,377
+Researchanddevelopmentcredits....................................... 208,499 73,068
+Othertaxcredits................................................................... 106,530 30,079
+Deferredrevenue.................................................................. 268,434 162,272
+Inventoryandwarrantyreserves.......................................... 95,570 53,410
+Depreciationandamortization............................................. — 66
+Stock-basedcompensation................................................... 120,955 71,009
+FinancialInstruments........................................................... — 35,073
+Investmentincertainfinancingfunds.................................. 237,759 —
+Accruals 67,769 29,547
+Totaldeferredtaxassets....................................................... 1,754,168 858,901
+Valuationallowance............................................................. (1,022,705) (668,432)
+Deferred taX assets, net of valuation allowance.................... 731,463 190,469
+Deferred tax liabilities:
+Depreciationandamortization............................................. (679,969) (188,240)
+(3,779) (4,309)
+FinancialInstruments........................................................... (22,033) —
+Total deferred taXliabilities (705,781) (192,549)
+Deferred tax assets, net of valuation allowance and
+deferredtaxliabilities........................................................ $ 25,682 $ (2,080)
+Reconciliation of statutory federal income taxes to our effective taxes for the years ended December 31, 2016, 2015 and 2014 is
+as follows (in thousands):
+Year Ended December 31,
+2016 2015 2014
+Taxatstatutoryfederalrate...................................................... $ (261,222) $ (306,470) $ (99,622)
+Statetax,netoffederalbenefit................................................. 568 525 257
+Nondeductible 26,547 16,711 15,238
+Foreignincomerate differential............................................... 206,470 172,259 86,734
+(162,865) (43,911) (26,895)
+Noncontrolling interests and redeemable noncontrolling
+interests 21,964 — —
+Investmentincertainfinancingbonds...................................... (31,055) — —
+Otherreconcilingitems............................................................ 785 1,232 877
+Change invaluationallowance................................................. 225,506 172,693 32,815
+Provisionforincometaxes....................................................... $ 26,698 $ 13,039 $ 9,404
+94

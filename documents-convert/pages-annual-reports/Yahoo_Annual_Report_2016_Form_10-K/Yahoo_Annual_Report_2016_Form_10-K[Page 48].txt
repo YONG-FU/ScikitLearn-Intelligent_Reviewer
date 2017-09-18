@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+Sidley Austin LLP, and a forensic expert. The Board has separately been advised by other outside counsel regarding the Security Incidents and
+recommendations regarding remedial actions.
+Based on its investigation, the Independent Committee concluded that the Company’s information security team had contemporaneous knowledge of the 2014
+compromise of user accounts, as well as incidents by the same attacker involving cookie forging in 2015 and 2016. In late 2014, senior executives and relevant
+legal staff were aware that a state-sponsored actor had accessed certain user accounts by exploiting the Company’s account management tool. The Company
+took certain remedial actions, notifying 26 speciﬁcally targeted users and consulting with law enforcement. While significant additional security measures were
+implemented in response to those incidents, it appears certain senior executives did not properly comprehend or investigate, and therefore failed to act
+sufﬁciently upon, the full extent of knowledge known internally by the Company’s information security team. Specifically, as of December 2014, the information
+security team understood that the attacker had exfiltrated copies of user database backup ﬁles containing the personal data of Yahoo users but it is unclear
+whether and to what extent such evidence of exfiltration was effectively communicated and understood outside the information security team. However, the
+Independent Committee did not conclude that there was an intentional suppression of relevant information.
+Nonetheless, the Committee found that the relevant legal team had sufﬁcient information to warrant substantial further inquiry in 2014, and they did not
+sufﬁciently pursue it. As a result, the 2014 Security Incident was not properly investigated and analyzed at the time, and the Company was not adequately
+advised with respect to the legal and business risks associated with the 2014 Security Incident. The Independent Committee found that failures in
+communication, management, inquiry and internal reporting contributed to the lack of proper comprehension and handling of the 2014 Security Incident. The
+Independent Committee also found that the Audit and Finance Committee and the full Board were not adequately informed of the full severity, risks, and
+potential impacts of the 2014 Security Incident and related matters.
+Actions the Company is Taking in Response to the Independent Committee’s Findings
+Based on the Independent Committee’s ﬁndings, the Board has taken the management related actions described below, adopted certain process and structure
+changes to address the Company’s issues with respect to the Security Incidents, and taken certain other disciplinary actions.
+Management Changes
+In response to the Independent Committee’s ﬁndings related to the 2014 Security Incident, the Board determined not to award to the Chief Executive Ofﬁcer a
+cash bonus for 2016 that was othen/vise expected to be paid to her. In addition, in discussions with the Board, the Chief Executive Ofﬁcer offered to forgo any
+2017 annual equity award given that the 2014 Security Incident occurred during her tenure and the Board accepted her offer.
+On March 1, 2017, Ronald S. Bell resigned as the Company’s General Counsel and Secretary and from all other positions with the Company. No payments are
+being made to Mr. Bell in connection with his resignation.
+Other Remedial Actions
+Additionally, in response to the Independent Committee’s ﬁndings and recommendations, the Board has directed the Company to implement or enhance a
+number of corrective actions, including revision of its technical and legal information security incident response protocols to help ensure: escalation of
+cybersecurity incidents to senior executives and the Board of Directors; rigorous investigation of cybersecurity incidents and engagement of forensic experts as
+appropriate; rigorous assessment of
+47

@@ -1,0 +1,33 @@
+IaibleiofiCiontents Alphabet Inc.
+The reconciliation of federal statutory income tax rate to our effective income tax rate is as follows:
+7 Year Ended December 31, 7
+: 2014 2015 2016
+[US federal statutory tax rate 35.0 % 35.0 % 35.0 %}
+Foreign rate differential (12.2)% (13.4)% (11.0)%
+[Federal research credit (1 .8)% (2.1)% (2.0)%}
+Stock-based compensation expense 0.1 % 0.3 % (3.4)%
+[Other adjustments 0.0 % (3.0)% 0.7 %}
+Effective tax rate 21.1 % 16.8 % 19.3 %
+We adopted ASU 2016-09 on January 1, 2016, which requires the excess tax benefits or deﬁciencies to be
+reflected in the Consolidated Statements of Income as a component of the provision for income taxes whereas they
+previously were recognized in equity. Total excess tax beneﬁts recognized in 2016 was $1.0 billion.
+Our effective tax rate is impacted by earnings realized in foreign jurisdictions with statutory tax rates lower than
+the federal statutory tax rate. Substantially all of the income from foreign operations was earned by an Irish subsidiary.
+As of December 31, 2016, we have not recognized deferred US. income taxes and foreign withholding taxes on
+a cumulative total of $60.7 billion of undistributed earnings and other basis differences in our foreign subsidiaries. We
+intend to indefinitely reinvest those earnings and other basis differences in operations outside the US. If such earnings
+and other basis differences in our investment foreign subsidiaries were to be repatriated in the future, they would be
+subject to US. income taxes and applicable non-U.S. income and withholding taxes. Determining the unrecognized
+deferred tax liability related to such investments in foreign subsidiaries that are indefinitely reinvested is not practicable.
+On July 27, 2015, the United States Tax Court, in an opinion in Altera Corp. v. Commissioner, invalidated the
+portion of the Treasury regulations issued under IRC Section 482 requiring related-party participants in a cost sharing
+arrangement to share stock-based compensation costs. The US. Tax Court issued the ﬁnal decision on December
+28, 2015. The IRS served a Notice of Appeal on February 22, 2016. At this time, the US. Treasury has not withdrawn
+the requirement to include stock-based compensation from its regulations. We have evaluated the opinion and continue
+to record a tax beneﬁt in 2016 related to reimbursement of cost share payments for the previously shared stock-based
+compensation costs. In addition, we continue to record a tax liability for the US. tax cost of potential repatriation of
+the associated contingent foreign earnings because at this time we cannot reasonably conclude that the Company
+has the ability and the intent to indeﬁnitely reinvest these contingent earnings. The net impact to our consolidated
+ﬁnancial statements is not material. We will continue to monitor developments related to the case and the potential
+impact on our consolidated ﬁnancial statements.
+77

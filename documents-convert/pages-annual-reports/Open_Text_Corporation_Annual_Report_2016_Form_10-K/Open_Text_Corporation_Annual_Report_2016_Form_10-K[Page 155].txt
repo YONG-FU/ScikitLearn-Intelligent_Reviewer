@@ -1,0 +1,43 @@
+Acquisition of Daegis Inc.
+On November 23, 2015, we acquired all of the equity interest in Daegis Inc. (Daegis), a global information governance,
+data migration solutions and development company, based in Texas, United States. Total consideration for Daegis was $23.3
+million ($22.1 million - net of cash acquired). In accordance with Topic 805, this acquisition was accounted for as a business
+combination. We believe this acquisition enables OpenText to strengthen our current information governance capabilities.
+We recognized $8.0 million of goodwill associated with this acquisition, which is primarily attributable to the synergies
+that are expected to arise after the acquisition. This goodwill is expected to be deductible for tax purposes.
+Acquisition-related costs for Daegis included in Special charges (recoveries) in the Consolidated Statements of Income
+for the year ended June 30, 2016 was $1.1 million.
+The results of operations of Daegis have been consolidated with those of OpenText beginning November 23, 2015.
+The acquisition had no significant impact on revenues and net earnings for the year ended June 30, 2016 since the date of
+acquisition.
+Pro forma results of operations for these acquisitions have not been presented because they are not material to the
+consolidated results of operations either individually or in aggregate.
+Fiscal 2015 Acquisitions
+Acquisition of Actuate Corporation
+On January 16, 2015, we acquired all of the outstanding common stock of Actuate, based in San Francisco, California,
+United States. Actuate was a leader in personalized analytics and insights and we believe the acquisition complements our
+OpenText EIM Suite. In accordance with Topic 805, this acquisition was accounted for as a business combination.
+The results of operations of Actuate were consolidated with those of OpenText beginning January 16, 2015.
+The following tables summarize the consideration paid for Actuate and the amount of the assets acquired and liabilities
+assumed, as well as the goodwill recorded as of the acquisition date:
+[Cash consideration $ 322,417 [
+Fair value, at date of acquisition, on shares of Actuate already owned through open market purchases 7 9,539 7
+[Purchase consideration :3; 331,956 [
+Purchase Price Allocation
+The recognized amounts of identifiable assets acquired and liabilities assumed, based upon their fair values as of January
+16, 2015, are set forth below:
+[Current assets (inclusive of cash acquired of $22,463) $ 78,150 [
+Non-current tangible assets 13,540
+[Intangible customer assets 62,600 [
+Intangible technology assets 60,000
+[Liabilities assumed f (79,686)}
+Total identifiable net assets 7 134,604 7
+[Goodwill f 197,352 [
+Net assets acquired :$ 331,956 :
+No portion of the goodwill recorded upon the acquisition of Actuate is expected to be deductible for tax purposes.
+The fair value of current assets acquired includes accounts receivable with a fair value of $23.4 million. The gross
+amount receivable was $23.6 million of which $0.2 million of this receivable was expected to be uncollectible.
+We recognized a gain of $3.1 million as a result of remeasuring to fair value our investment in Actuate held before the
+date of acquisition. The gain was included in "Other income" in our Consolidated Financial Statements during the year ended
+June 30, 2015.
+147

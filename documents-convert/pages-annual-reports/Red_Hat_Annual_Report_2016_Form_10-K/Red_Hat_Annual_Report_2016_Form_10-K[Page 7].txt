@@ -1,0 +1,46 @@
+CAUTIONARY NOTE ON F ORWARD-LOOKIN G STATEMENTS
+Certain statements contained in this report and the documents incorporated by reference in this report,
+including in Management’s Discussion and Analysis of Financial Condition and Results of Operations, constitute
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements provide current expectations of future events based on certain assumptions, and any
+statement that is not strictly a historical statement could be deemed to be a forward-looking statement (for
+example, statements regarding current or future financial performance, management’s plans and objectives for
+future operations, product plans and performance, management’s expectations regarding market risk and market
+penetration, management’s assessment of market factors, or strategies, objectives and plans of Red Hat, Inc.
+together with its subsidiaries (“Red Hat”) and its partners). Words such as “anticipate, ” “believe, ” “estimate, ”
+“expect,” “intend,” “outlook,” “plan,” “project,” “will,” and similar expressions, may also identify such
+forward-looking statements. Red Hat may also make forward-looking statements in other filings made with the
+Securities and Exchange Commission (“SEC”), press releases, materials delivered to stockholders and oral
+statements made by management. Investors are cautioned that these forward-looking statements are inherently
+uncertain, are not guarantees of Red Hat’s future performance and are subject to a number of risks and
+uncertainties that could cause Red Hat’s actual results to dijfer materially from those found in the forward-
+looking statements and from historical trends. These risks and uncertainties include the risks and cautionary
+statements detailed in Part I, Item IA, “Risk Factors” and elsewhere in this report as well as in Red Hat’s other
+ﬁlings with the SEC, copies of which may be accessed through the SEC ’s web site at http://www.sec. gov. Readers
+are urged to carefully review these risks and cautionary statements. Moreover, Red Hat operates in a rapidly
+changing and highly competitive environment. It is impossible to predict all risks and uncertainties or assess the
+impact of any new risk or uncertainty on our business or any forward-looking statement. The forward-looking
+statements included in this report represent our views as of the date of this report. We specifically disclaim any
+obligation to update these forward-looking statements in the future. These forward-looking statements should not
+be relied upon as representing our views as of any date subsequent to the date of this report.
+ITEM 1. BUSINESS
+OVERVIEW
+Red Hat is a leading global provider of open source software solutions, using a community-powered
+approach to develop and offer reliable and high-performing operating system, virtualization, management,
+middleware, cloud, mobile and storage technologies.
+Our business model
+Development. We employ an open source development model. The open source development model allows
+us to use the collective input, resources and knowledge of a global community of contributors who can
+collaborate to develop, maintain and enhance software because the human-readable source code for that software
+is publicly available and licenses permit modification. We believe this model offers advantages to Red Hat
+because we are able to develop our offerings by integrating information and knowledge from this global
+community.
+Licensing. We typically distribute our software offerings under open source licenses that permit access to
+the software’s human-readable source code. These licenses also provide relatively broad rights for recipients of
+the software to use, copy, modify and redistribute the software. These broad rights afford significant latitude for
+our customers to inspect, suggest changes to, customize and enhance the software to meet specific business
+needs.
+Subscriptions. We provide our software offerings primarily under annual or multi-year subscriptions as well
+as on-demand through certified cloud and service providers (“CCSPs”). A subscription generally entitles a
+customer to, among other things, a specified level of support, as well as security updates, fixes, functionality
+3

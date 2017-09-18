@@ -1,0 +1,23 @@
+FREQUENTLY USED TERMS
+Return on Average Capital Employed
+Return on average capital employed (ROCE) is a performance measure ratio. From the perspective of the business segments,
+ROCE is annual business segment earnings divided by average business segment capital employed (average of beginning and
+end-of—year amounts). These segment earnings include ExxonMobil’s share of segment earnings of equity companies, consistent
+with our capital employed definition, and exclude the cost of financing. The Corporation’s total ROCE is net income attributable
+to ExxonMobil excluding the after-tax cost of financing, divided by total corporate average capital employed. The Corporation
+has consistently applied its ROCE definition for many years and views it as the best measure of historical capital productivity in
+our capital-intensive, long-term industry, both to evaluate management’s performance and to demonstrate to shareholders that
+capital has been used wisely over the long term. Additional measures, which are more cash ﬂow based, are used to make
+investment decisions.
+Return on average capital employed 2016 2015 2014
+(millions of dollars)
+Net income attributable to ExxonMobil 7,840 16,150 32,520
+Financing costs (after tax)
+Gross third-party debt (683) (362) (140)
+ExxonMobil share of equity companies (225) (170) (256)
+All other financing costs — net 423 88 (68)
+Total financing costs (485) (444) (464)
+Earnings excluding financing costs : 8,325 16,594 32,984:
+Average capital employed 212,226 208,755 203,110
+Return on average capital employed — corporate total 3.9% 7.9% 16.2%
+38

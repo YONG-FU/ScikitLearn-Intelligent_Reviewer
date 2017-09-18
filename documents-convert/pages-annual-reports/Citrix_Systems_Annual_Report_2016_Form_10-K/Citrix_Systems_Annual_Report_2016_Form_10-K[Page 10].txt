@@ -1,0 +1,49 @@
+° GoToAssist was our easy-to-use cloud-based IT support solutions for IT managers, consultants and managed service
+providers to deliver maximum uptime for people and their computers, mobile devices and apps.
+License Updates and Maintenance
+We provide several ways for customers to receive upgrades, support and maintenance for products.
+° Software Maintenance combines 24x7x365 unlimited worldwide support with product version upgrades when
+available. The first year of Software Maintenance is required with certain corresponding product purchases. In
+October 2016, we announced the launch of Customer Success Services, which will replace Software Maintenance and
+provide a higher standard of service that empowers customer success whether in the cloud, on-premises or a hybrid
+approach through additional services providing expert guidance, proactive monitoring and enablement. In connection
+with this launch, beginning in 2017, our customers began migrating from the Subscription Advantage and Software
+Maintenance programs to this new oﬁering. Customer Success Services gives customers a choice of tiered support
+offerings that combine the elements of product version upgrades, guidance, enablement, support and proactive
+monitoring to help our customers and our partners fully realize their business goals.
+° Subscription Advantage provides customers access to the latest product version updates when made available during
+their membership term. These updates include major changes to the product architecture and updates to the feature set
+of a product. Citrix software products eligible for participating in the Subscription Advantage program come with the
+first year of Subscription Advantage embedded into the cost of the product.
+- Technical Support Services are specifically designed to address the variety of challenges facing our customers’
+IT environments. We oﬁer several support-level options, global coverage and personalized relationship management.
+In most cases, we provide technical advice to distributors, resellers, service providers and entities with which we have
+a technology relationship, who act as the first line of technical assistance for end-users.
+- Hardware Maintenance provides technical support from Citrix experts to diagnose and resolve issues encountered
+with appliances. It also offers the latest software upgrades and replacement of malfunctioning appliances to minimize
+organizational downtime. Additionally, dedicated account management is available as an add-on to the program for an
+even higher level of service.
+Professional Services
+We provide a portfolio of professional services to our business partners and customers to manage the quality of
+implementation, operation and support of our solutions. These services are available for additional fees paid on an annual or
+transactional basis.
+- Citrix Consulting helps guide the successful implementation of Citrix technologies and solutions through the use of
+proven methodologies, tools and leading practices. Citrix Consulting focuses on strategic engagements with enterprise
+customers who have complex, mission-critical, or large-scale Citrix deployments. These engagements are typically
+fee-based engagements for the most challenging projects in scope and complexity, requiring consultants who are
+qualified with project methodology and Citrix product expertise. Citrix Consulting is also responsible for the
+development of best practice knowledge that is disseminated to businesses with which we have a business relationship
+and end-users through training and written documentation. Leveraging these best practices enables our integration
+resellers to provide more complex systems, reach new buyers within existing customer organizations and provide
+more sophisticated system proposals to prospective customers. Citrix Consulting has worked with Fortune Global 500
+companies, technology providers, and government organizations to deliver solutions that achieve their unique
+technical and business objectives.
+- Product Training & Certification helps enable our customers and partners to be successful with Citrix and achieve
+their business objectives faster. Authorized Citrix training is available when and how it is needed. Traditional or virtual
+instructor-led training offerings feature Citrix Certified Instructors delivering training in a classroom or remote setting
+at one of our Citrix Authorized Learning Centers, or CALCs, worldwide. CALCs are staffed with instructors that have
+been certified by us and teach their students using Citrix-developed courseware. Self-Paced Online oﬁerings, available
+to students 24 hours a day, seven days a week, provide technically robust course content without an instructor and
+include hands-on practice via virtual labs. Certifications validate key skills and are available for administrators,
+engineers, architects and sales professionals.
+6

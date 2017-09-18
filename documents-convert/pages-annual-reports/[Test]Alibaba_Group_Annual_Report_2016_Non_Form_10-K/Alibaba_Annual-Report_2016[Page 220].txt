@@ -1,0 +1,31 @@
+ALIBABA GROUP HOLDING LIMITED
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Year ended March 31,
+2014 2015 2016
+RMB RMB RMB US$
+(Note 2(a))
+(in millions)
+Net income 23,403 24,320 71,289 11,056
+Other comprehensive income:
+- Foreign currency translation:
+Change in unrealized gains 538 52 312 48
+Less: reclassification adjustment for (gains) losses recorded in net
+income (14) — 21 3
+Net change 524 52 333 51
+- Available-for-sale securities:
+Change in unrealized gains 306 3,102 2,343 363
+Less: reclassification adjustment for gains recorded in net income (13) — (422) (65)
+Less: tax effect — — (488) (76)
+Net change 293 3,102 1,433 222
+- Interest rate swaps under hedge accounting:
+Change in unrealized gains (losses) 36 (36) — —
+- Forward exchange contracts under hedge accounting:
+Change in unrealized losses — — (168) (26)
+Other comprehensive income 853 3,118 1,598 247
+Total comprehensive income 24,256 27,438 72,887 11,303
+Less: total comprehensive (income) loss attributable to noncontrolling
+interests (90) (56) 102 16
+Total comprehensive income attributable to Alibaba Group Holding
+Limited 24,166 27,382 72,989 11,319
+The accompanying notes form an integral part of these consolidated financial statements.
+F-4

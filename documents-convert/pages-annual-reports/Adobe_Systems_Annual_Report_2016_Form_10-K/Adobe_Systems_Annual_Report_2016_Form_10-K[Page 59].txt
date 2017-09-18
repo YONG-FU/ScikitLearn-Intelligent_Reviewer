@@ -1,0 +1,41 @@
+Table of Contents
+Interest Rate Risk
+Short-Term Investments and Fixed Income Securities
+At December 2, 2016, we had debt securities classified as short-term investments of $3.75 billion. Changes in interest rates
+could adversely affect the market value of these investments. The following table separates these investments, based on stated
+maturities, to show the approximate exposure to interest rates (in millions):
+lDue within one year $ 1,230.4 1
+Due between one and two years 1,322.9
+lDue between two and three years 782.9 1
+Due after three years 7 413.8 7
+1 Total is 3,750.0 l
+A sensitivity analysis was performed on our investment portfolio as of December 2, 2016. The analysis is based on an
+estimate of the hypothetical changes in market value of the portfolio that would result from an immediate parallel shift in the yield
+curve of various magnitudes.
+The following tables present the hypothetical fair values of our debt securities classified as short-term investments assuming
+immediate parallel shifts in the yield curve of 50 basis points (“BPS”), 100 BPS and 150 BPS. The analysis is shown as of
+December 2, 2016 and November 27, 2015 (dollars in millions):
+Fair Value
+7 -150 BPS H -100 BPS H -50 BPS H 12/2/16 H +50 BPS H +100 BPS H +150 BPS 7
+ys 3,828.5 is 3,805.9 is 3,7784 is 3,750.0 is 3,721.6 is 3,693.2 is 3,664.81
+Fair Value
+7 -150 BPS H -100 BPS H -50 BPS H 11/27/15 M +50 BPS H +100 BPS H +150 BPS 7
+ys 3,172.3 is 3,156.6 is 3,135.2i is 3,111.5i is 3,087.7 is 3,063.9 is 3,040.11
+Senior Notes
+As of December 2, 2016, the amount outstanding under our senior notes was $1.90 billion. In June 2014, we entered into
+interest rate swaps that effectively converted the fixed interest rate on our 2020 Notes to a ﬂoating interest rate based on the LIB OR
+plus a ﬁxed number of basis points through February 1, 2020. Accordingly, our exposure to ﬂuctuations in market interest rates
+is on the hedged fixed-rate debt of $900 million. An immediate hypothetical 50 basis points increase or decrease in market interest
+rates would not have a significant impact on our results of operations.
+As of December 2, 2016, the total carrying amount of the Notes was $1.90 billion and the related fair value based on
+observable market prices in less active markets was $1.97 billion.
+Other Market Risk
+Privately Held Long-Term Investments
+The privately held companies in which we invest can still be considered in the start-up or development stages which are
+inherently risky. The technologies or products these companies have under development are typically in the early stages and may
+never materialize, which could result in a loss of a substantial part of our initial investment in these companies. The evaluation of
+privately held companies is based on information that we request from these companies, which is not subject to the same disclosure
+regulations as US. publicly traded companies, and as such, the basis for these evaluations is subject to the timing and accuracy
+of the data received from these companies. We have immaterial exposure on our long-term investments in privately held companies
+as these investments were insignificant as of December 2, 2016 and November 27, 2015.
+59

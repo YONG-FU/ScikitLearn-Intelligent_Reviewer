@@ -1,0 +1,45 @@
+Discussion and Analysis of Financial Condition and Results of Operations for further unaudited information
+on our business risks.
+For cash ﬂow hedges, the effective portion of changes in fair value is deferred in accumulated other
+comprehensive loss within common shareholders” equity until the underlying hedged item is recognized in
+net income. For fair value hedges, changes in fair value are recognized immediately in earnings, consistent
+with the underlying hedged item. For net investment hedges, the effective portion of the gains and losses on
+the debt instruments arising from the effects of foreign exchange are recorded in the currency translation
+adjustment component of accumulated other comprehensive loss, consistent with the underlying hedged
+item. Hedging transactions are limited to an underlying exposure. As a result, any change in the value of our
+hedging instruments would be substantially offset by an opposite change in the value of the underlying hedged
+items. We do not use derivative instruments for trading or speculative purposes. We perform assessments of
+our counterparty credit risk regularly, including reviewing netting agreements, if any, and a review of credit
+ratings, credit default swap rates and potential nonperformance of the counterparty. Based on our most recent
+assessment of our counterparty credit risk, we consider this risk to be low. In addition, we enter into derivative
+contracts with a variety of financial institutions that we believe are creditworthy in order to reduce our
+concentration of credit risk.
+Commodity Prices
+We are subject to commodity price risk because our ability to recover increased costs through higher pricing
+may be limited in the competitive environment in which we operate. This risk is managed through the use
+of fixed-price contracts and purchase orders, pricing agreements and derivative instruments, which include
+swaps and futures. In addition, risk to our supply of certain raw materials is mitigated through purchases
+from multiple geographies and suppliers. We use derivatives, with terms of no more than three years, to
+economically hedge price ﬂuctuations related to a portion of our anticipated commodity purchases, primarily
+for agricultural products, energy and metals. Ineffectiveness for those derivatives that qualify for hedge
+accounting treatment was not material for all periods presented. Derivatives used to hedge commodity price
+risk that do not qualify for hedge accounting treatment are marked to market each period with the resulting
+gains and losses recorded in corporate unallocated expenses as either cost of sales or selling, general and
+administrative expenses, depending on the underlying commodity. These gains and losses are subsequently
+reﬂected in division results when the divisions recognize the cost of the underlying commodity in operating
+profit.
+Our commodity derivatives had a total notional value of $0.8 billion as of December 3 1, 2016 and $1.0 billion
+as of December 26, 2015.
+Foreign Exchange
+Our operations outside of the United States generated 42% of our net revenue in 2016, with Mexico, Canada,
+Russia, the United Kingdom and Brazil comprising approximately 19% of our net revenue in 2016. As a
+result, we are exposed to foreign exchange risks in the international markets in which our products are made,
+manufactured, distributed or sold.
+Additionally, we are exposed to foreign exchange risk from net investments in foreign subsidiaries, foreign
+currency purchases and foreign currency assets and liabilities created in the normal course of business. We
+manage this risk through sourcing purchases from local suppliers, negotiating contracts in local currencies
+with foreign suppliers and through the use of derivatives, primarily forward contracts with terms of no more
+than two years. Exchange rate gains or losses related to foreign currency transactions are recognized as
+transaction gains or losses in our income statement as incurred. We also use net investment hedges to partially
+offset the effects of foreign currency on our investments in certain of our foreign subsidiaries.
+116

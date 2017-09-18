@@ -1,0 +1,49 @@
+current liabilities” and “Asbestos-related liabilities - noncurrent” in the consolidated balance sheets. See Note 15 for additional
+information.
+Use of Estimates in Financial Statement Preparation
+The preparation of financial statements in accordance with US. GAAP requires the use of estimates and assumptions that affect
+the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial
+statements, and the reported amounts of revenues and expenses during the reporting period. The Company’s consolidated
+financial statements include amounts that are based on management’s best estimates and judgments. Actual results could differ
+from those estimates.
+Foreign Currency Translation
+The local currency has been primarily used as the functional currency throughout the world. Translation gains and losses of
+those operations that use local currency as the functional currency are included in the consolidated balance sheets in
+"Accumulated other comprehensive loss" ("AOCL"). For certain subsidiaries, the US. dollar is used as the functional currency.
+This occurs when the subsidiary operates in an economic environment where the products produced and sold are tied to US.
+dollar-denominated markets, or when the foreign subsidiary operates in a hyper-inﬂationary environment. Where the US.
+dollar is used as the functional currency, foreign currency translation gains and losses are reﬂected in income.
+Environmental Matters
+Accruals for environmental matters are recorded when it is probable that a liability has been incurred and the amount of the
+liability can be reasonably estimated based on current law and existing technologies. These accruals are adjusted periodically as
+assessment and remediation eﬁorts progress or as additional technical or legal information becomes available. Accruals for
+environmental liabilities are included in the consolidated balance sheets in “Accrued and other current liabilities” and “Other
+noncurrent obligations” at undiscounted amounts. Accruals for related insurance or other third-party recoveries for
+environmental liabilities are recorded when it is probable that a recovery will be realized and are included in the consolidated
+balance sheets as “Accounts and notes receivable - Other.”
+Environmental costs are capitalized if the costs extend the life of the property, increase its capacity, and/or mitigate or prevent
+contamination from future operations. Environmental costs are also capitalized in recognition of legal asset retirement
+obligations resulting from the acquisition, construction and/or normal operation of a long-lived asset. Costs related to
+environmental contamination treatment and cleanup are charged to expense. Estimated future incremental operations,
+maintenance and management costs directly related to remediation are accrued when such costs are probable and reasonably
+estimable.
+Cash and Cash Equivalents
+Cash and cash equivalents include time deposits and investments with maturities of three months or less at the time of
+purchase.
+Financial Instruments
+The Company calculates the fair value of financial instruments using quoted market prices whenever available. When quoted
+market prices are not available for various types of financial instruments (such as forwards, options and swaps), the Company
+uses standard pricing models with market-based inputs that take into account the present value of estimated future cash ﬂows.
+The Company utilizes derivatives to manage exposures to foreign currency exchange rates, commodity prices and interest rate
+risk. The fair values of all derivatives are recognized as assets or liabilities at the balance sheet date. Changes in the fair value
+of these instruments are reported in income or AOCL, depending on the use of the derivative and whether it qualifies for hedge
+accounting treatment.
+Gains and losses on derivatives that are designated and qualify as cash ﬂow hedging instruments are recorded in AOCL, to the
+extent the hedges are effective, until the underlying transactions are recognized in income. To the extent effective, gains and
+losses on derivative and nonderivative instruments used as hedges of the Company’s net investment in foreign operations are
+recorded in AOCL as part of the cumulative translation adjustment. The ineffective portions of cash flow hedges and hedges of
+net investment in foreign operations, if any, are recognized in income immediately.
+Gains and losses on derivatives designated and qualifying as fair value hedging instruments, as well as the offsetting losses and
+gains on the hedged items, are reported in income in the same accounting period. Derivatives not designated as hedging
+instruments are marked-to-market at the end of each accounting period with the results included in income.
+76

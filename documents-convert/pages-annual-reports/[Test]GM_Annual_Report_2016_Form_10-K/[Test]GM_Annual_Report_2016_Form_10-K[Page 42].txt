@@ -1,0 +1,43 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+December 31, 2016 December 31, 2015
+{Cars 430 271 1
+Trucks 224 121
+{Crossovers 681 _ 401 l
+Total 1,335 793
+At December 31, 2016 GM Financial's estimated residual value of the leased assets at the end of the lease term was $23.6 billion. The following table
+illustrates the eﬁ‘ect of a 1% change in the estimated residual values at December 31, 2016, which will increase or decrease depreciation expense over the
+remaining term of GM Financial's operating leases, holding all other assumptions constant:
+Impact to Depreciation
+Expense
+{Cars $ 53 l
+Trucks 52
+{Crossovers 131 l
+Total $ 236
+Product Warranty and Recall Campaigns The estimates related to product warranties are established using historical information on the nature, frequency
+and average cost of claims of each vehicle line or each model year of the vehicle line and assumptions about ﬁlture activity and events. When little or no
+claims experience exists for a model year or a vehicle line, the estimate is based on comparable models.
+In GMNAwe primarily accrue the costs for recall campaigns at the time of vehicle sale. In the other regions, there is not sufﬁcient historical data to support
+the application of an actuarial-based estimation technique and the estimated costs are accrued at the time when they are probable and reasonably estimable,
+which typically occurs once it is determined a speciﬁc recall campaign is needed and announced.
+The estimates related to recall campaigns accrued at the time of vehicle sale are established by applying a frequency times severity approach that considers
+the number of recall events, the number of vehicles per recall event, the assumed number of vehicles that will be brought in by customers for repair (take rate)
+and the cost per vehicle for each recall event. These estimates consider the nature, frequency and magnitude of historical recall campaigns. Costs associated
+with recall campaigns not accrued at the time of vehicle sale are estimated based on the estimated cost of repairs and the estimated vehicles to be repaired.
+Depending on part availability and time to complete repairs we may, from time to time, offer courtesy transportation at no cost to our customers. These
+estimates are re-evaluated on an ongoing basis and based on the best available information. Revisions are made when necessary based on changes in these
+factors.
+The estimated amount accrued for recall campaigns at the time of vehicle sale is most sensitive to the estimated number of recall events, the number of
+vehicles per recall event, the take rate, and the cost per vehicle for each recall event. The estimated cost of a recall campaign that is accrued on an individual
+basis is most sensitive to our estimated assumed take rate that is primarily developed based on our historical take rate experience. A 10% increase in the
+estimated take rate for all recall campaigns would increase the estimated cost by approximately $0.3 billion.
+Actual experience could differ from the amounts estimated requiring adjustments to these liabilities in future periods. Due to the uncertainty and potential
+volatility of the factors contributing to developing estimates, changes in our assumptions could materially affect our results of operations.
+Sales Incentives The estimated effect of sales incentives offered to dealers and end customers is recorded as a reduction of Automotive net sales and
+revenue at the later of the time of sale or announcement of an incentive program to dealers. There may be numerous types of incentives available at any
+particular time, including a choice of incentives for a speciﬁc model. Incentive programs are generally brand speciﬁc, model speciﬁc or sales region speciﬁc
+and are for speciﬁed time periods, which may be extended. Signiﬁcant factors used in estimating the cost of incentives include the volume of vehicles that
+will be affected by the incentive programs offered by product, the product mix, the rate of customer acceptance of any incentive program and the likelihood
+that an incentive program will be extended, all of which are estimated based on historical experience and assumptions concerning customer behavior and
+ﬁlture market conditions. When an incentive program is announced, the number of vehicles in dealer
+39

@@ -1,0 +1,44 @@
+9 O | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+8 LONG-TERM INCENTIVE PLAN (‘LTIP’)
+The Group operates a LTIP arrangement for certain employees. The scheme provides a cash payment to the employee based
+on a speciﬁc number of phantom shares at grant date and the share price of Tata Motors Limited at the vesting date. The cash
+payment is dependent upon continued employment for the duration of the three year vesting period. The cash payment has
+no exercise price and therefore the weighted average exercise price in all cases is £nil.
+hiea_r_e_r_1_e_d_3_1_b_4‘a_rch 2016 2015 2014 I
+Outstanding at the beginning of the year 5,637,242 5,353,559 4,217,801
+Granted during the year 2,317,710 2,315,618 1,956,741
+Vested in the year (1,690,151) (1,654,917) (778,599)
+Forfeited in the year (231,944) (377,018) (42,384)
+Outstanding at the end of the year 6,032,857 5,637,242 5,353,559
+The weighted average share price of the 1,690,151 phantom stock awards vested in the year was £5.84 (2015: £5.89,
+2014: £4.45).
+The weighted average remaining contractual life of the outstanding awards is 1.4 years (2015: 1.3 years, 2014: 1.3 years).
+The amount charged in the year in relation to the long—term incentive plan was £3 million (2015: £16 million, 2014: £11 million).
+The fair value of the balance sheet liability in respect of phantom stock awards outstanding at the year—end was £16 million
+(2015: £23 million, 2014: £17 million).
+The fair value of the awards was calculated using a Black—Scholes model at the grant date. The fair value is updated at each
+reporting date as the awards are accounted for as cash—settled under IFRS 2 Share—based Payment. The inputs into the model
+are based on the Tata Motors Limited historic data and the risk—free rate is calculated on government bond rates. The inputs
+used are:
+_As at 31 March 2016 2015 2014
+Risk-free rate (%) 0.51 0.49 0.91
+Dividend yield (%) 0.00 0.39 0.49
+Weighted average fair value per phantom share £4.12 £6.14 £4.95
+9 OTHER EXPENSES
+2016 2015 2014
+Year ended 31 March Em Em Em
+Stores, spare parts and tools 150 123 114
+Freight cost 858 673 610
+Works, operations and other costs 2,065 1,808 1,538
+Repairs 42 37 17
+Power and fuel 61 57 62
+Rent, rates and other taxes 50 57 41
+Insurance 26 20 19
+Write-down of intangible assets 28 - -
+Warranty 583 543 541
+Publicity 811 791 775
+Total other expenses 4,674 4,109 3,717
+Included within warranty expenses for the year ended 31 March 2016 is a charge of £67 million (2015, 2014: £nil) for a
+passenger airbag campaign (see note 41).

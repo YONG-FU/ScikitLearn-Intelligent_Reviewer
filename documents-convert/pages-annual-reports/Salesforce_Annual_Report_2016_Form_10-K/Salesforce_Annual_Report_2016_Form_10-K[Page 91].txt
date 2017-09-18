@@ -1,0 +1,40 @@
+Marketable Securities
+Management determines the appropriate classification of marketable securities at the time of purchase and
+reevaluates such determination at each balance sheet date. Securities are classified as available for sale and are
+carried at fair value, with the change in unrealized gains and losses, net of tax, reported as a separate component
+on the consolidated statements of comprehensive loss. Fair value is determined based on quoted market rates
+when observable or utilizing data points that are observable, such as quoted prices, interest rates and yield curves.
+Declines in fair value judged to be other-than-temporary on securities available for sale are included as a
+component of investment income. In order to determine whether a decline in value is other-than-temporary, the
+Company evaluates, among other factors: the duration and extent to which the fair value has been less than the
+carrying value and its intent and ability to retain the investment for a period of time sufficient to allow for any
+anticipated recovery in fair value. The cost of securities sold is based on the specific-identification method.
+Interest on securities classified as available for sale is also included as a component of investment income.
+Fair Value Measurement
+The Company measures its cash equivalents, marketable securities and foreign currency derivative contracts
+at fair value.
+The additional disclosures regarding the Company’s fair value measurements are included in Note 2
+“Investments”.
+Property and Equipment
+Property and equipment are stated at cost. Depreciation is calculated on a straight-line basis over the
+estimated useful lives of those assets as follows:
+Computer, equipment and software . . . 3 to 9 years
+Furniture and fixtures . . . . . . . . . . . . . . 5 years
+Leasehold improvements . . . . . . . . . . . Shorter of the estimated lease
+term or 10 years
+Building and structural components . . . Average weighted useful life
+of 32 years
+Building improvements . . . . . . . . . . . . . 10 years
+When assets are retired or otherwise disposed of, the cost and accumulated depreciation and amortization
+are removed from their respective accounts and any loss on such retirement is reﬂected in operating expenses.
+Capitalized Internal- Use Software Costs
+The Company capitalizes costs related to its enterprise cloud computing services and certain projects for
+internal use incurred during the application development stage. Costs related to preliminary project activities and
+post implementation activities are expensed as incurred. Internal-use software is amortized on a straight-line
+basis over its estimated useful life, which is generally three to five years. Management evaluates the useful lives
+of these assets on an annual basis and tests for impairment whenever events or changes in circumstances occur
+that could impact the recoverability of these assets.
+Goodwill and Intangible Assets Impairment Assessments
+The Company evaluates and tests the recoverability of its goodwill for impairment at least annually during
+the fourth quarter or more often if and when circumstances indicate that goodwill may not be recoverable.
+84

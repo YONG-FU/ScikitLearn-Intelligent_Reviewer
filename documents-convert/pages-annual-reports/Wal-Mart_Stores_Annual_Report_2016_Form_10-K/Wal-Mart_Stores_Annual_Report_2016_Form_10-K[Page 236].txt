@@ -1,0 +1,46 @@
+Table of Contents
+Note 8. Derivative Financial Instruments
+The Company uses derivative financial instruments for hedging and non-trading purposes to manage its exposure to changes in interest and currency exchange
+rates, as well as to maintain an appropriate mix of ﬁxed- and variable-rate debt. Use of derivative ﬁnancial instruments in hedging programs subjects the Company
+to certain risks, such as market and credit risks. Market risk represents the possibility that the value of the derivative financial instrument will change. In a hedging
+relationship, the change in the value of the derivative financial instrument is offset to a great extent by the change in the value of the underlying hedged item.
+Credit risk related to a derivative financial instrument represents the possibility that the counterparty will not fulfill the terms of the contract. The notional, or
+contractual, amount of the Company's derivative financial instruments is used to measure interest to be paid or received and does not represent the Company's
+exposure due to credit risk. Credit risk is monitored through established approval procedures, including setting concentration limits by counterparty, reviewing
+credit ratings and requiring collateral (generally cash) from the counterparty when apprOpriate.
+The Company only enters into derivative transactions with counterparties rated "A—" or better by nationally recognized credit rating agencies. Subsequent to
+entering into derivative transactions, the Company regularly monitors the credit ratings of its counterparties. In connection with various derivative agreements,
+including master netting arrangements, the Company held cash collateral from counterparties of $345 million and $323 million at January 31, 2016 and January 31,
+2015 , respectively. The Company records cash collateral received as amounts due to the counterparties exclusive of any derivative asset. Furthermore, as part of
+the master netting arrangements with each of these counterparties, the Company is also required to post collateral with a counterparty if the Company's net
+derivative liability position exceeds $150 million with such counterparties. The Company had an insignificant amount of cash collateral posted with counterparties
+at January 31, 2016 and did not have any cash collateral posted with counterparties at January 31, 2015 . The Company records cash collateral it posts with
+counterparties as amounts receivable from those counterparties exclusive of any derivative liability.
+The Company uses derivative financial instruments for the purpose of hedging its exposure to interest and currency exchange rate risks and, accordingly, the
+contractual terms of a hedged instrument closely mirror those of the hedged item, providing a high degree of risk reduction and correlation. Contracts that are
+effective at meeting the risk reduction and correlation criteria are recorded using hedge accounting. If a derivative financial instrument is recorded using hedge
+accounting, depending on the nature of the hedge, changes in the fair value of the instrument will either be offset against the change in fair value of the hedged
+assets, liabilities or ﬁrm commitments through earnings or be recognized in accumulated other comprehensive income (loss) until the hedged item is recognized in
+earnings. Any hedge ineffectiveness is immediately recognized in earnings. The Company's net investment and cash ﬂow instruments are highly effective hedges
+and the ineffective portion has not been, and is not expected to be, significant. Instruments that do not meet the criteria for hedge accounting, or contracts for which
+the Company has not elected hedge accounting, are recorded at fair value with unrealized gains or losses reported in earnings during the period of the change.
+Fair Value Instruments
+The Company is a party to receive fixed-rate, pay variable-rate interest rate swaps that the Company uses to hedge the fair value of fixed-rate debt. The notional
+amounts are used to measure interest to be paid or received and do not represent the Company's exposure due to credit loss. The Company's interest rate swaps that
+receive fixed-interest rate payments and pay variable-interest rate payments are designated as fair value hedges. As the specific terms and notional amounts of the
+derivative instruments match those of the ﬁxed-rate debt being hedged, the derivative instruments are assumed to be perfectly effective hedges. Changes in the fair
+values of these derivative instruments are recorded in earnings, but are offset by corresponding changes in the fair values of the hedged items, also recorded in
+earnings, and, accordingly, do not impact the Company's Consolidated Statements of Income. These fair value instruments will mature on dates ranging from
+October 2020 to April 2024 .
+Net Investment Instruments
+The Company is a party to cross-currency interest rate swaps that the Company uses to hedge its net investments. The agreements are contracts to exchange fixed-
+rate payments in one currency for fixed-rate payments in another currency. All changes in the fair value of these instruments are recorded in accumulated other
+comprehensive income (loss), offsetting the currency translation adjustment of the related investment that is also recorded in accumulated other comprehensive
+income (loss). These instruments will mature on dates ranging from October 2023 to February 2030 .
+The Company has issued foreign-currency-denominated long-term debt as hedges of net investments of certain of its foreign operations. These foreign-currency-
+denominated long-term debt issuances are designated and qualify as nonderivative hedging instruments. Accordingly, the foreign currency translation of these debt
+instruments is recorded in accumulated other comprehensive income (loss), offsetting the foreign currency translation adjustment of the related net investments that
+is also recorded in accumulated other comprehensive income (loss). At January 31, 2016 and January 31, 2015 , the Company had ¥10 billion and ¥100 billion ,
+respectively, of outstanding long-term debt designated as a hedge of its net investment in Japan, as well as outstanding long-term debt of £25 billion at January 31,
+2016 and January 31, 2015 that was designated as a hedge of its net
+43

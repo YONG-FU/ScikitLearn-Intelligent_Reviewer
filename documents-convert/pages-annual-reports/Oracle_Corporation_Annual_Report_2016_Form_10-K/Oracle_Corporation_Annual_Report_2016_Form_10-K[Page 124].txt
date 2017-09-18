@@ -1,0 +1,48 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Restricted stock-based award activity and the number of restricted stock-based awards outstanding were not signiﬁcant prior to ﬁscal 2015. The following table
+summarizes restricted stock-based award activity, including service-based awards and performance-based awards and including awards granted pursuant to Oracle-
+based stock plans and stock plans assumed from our acquisitions for ﬁscal 2016 and 2015:
+Restricted Stock-Based Awards Outstanding
+Number of Weighted-Average
+(in millions, except fair value) Shares Grant Date Fair Value
+Balance, May 31, 2014 1 $ 35.291
+Granted 28 $ 40.73
+I Canceled (1) $ 39.52 1
+Balance, May 31, 2015 28 $ 40.63
+I Granted 34 $ 38.50 l
+Vested (7) $ 40.39
+I Canceled (3) $ 39.73 1
+Balance, May 31, 2016 52 $ 39.29
+The total grant date fair value of restricted stock-based awards that vested in fiscal 2016 and 2015 was $261 million and $28 million, respectively. As of May 31,
+2016, total unrecognized stock-based compensation expense related to non-vested restricted stock-based awards was $1.3 billion and is expected to be recognized
+over the remaining weighted-average vesting period of 2.88 years.
+In ﬁscal 2016 and 2015, 2 million and 3 million PSUs were granted, respectively, which vest upon the attainment of certain performance metrics and service-based
+vesting. Based upon actual attainment relative to the “target” performance metric, certain participants have the ability to be issued up to 150% of the target number
+of PSUs originally granted, or to be issued no PSUs at all. In fiscal 2016, 463,000 PSUs vested and 4 million PSUs remained outstanding as of May 31, 2016.
+The following table summarizes stock option activity and includes awards granted pursuant to Oracle-based stock plans and stock plans assumed from our
+acquisitions for our last three fiscal years ended May 31, 2016:
+Options Outstanding
+Shares Under Weighted-Average
+(in millions, except exercise price) Option Exerciise Priciei
+Balance, May 31, 2013 447 $ 25.48l
+Granted 13 1 $ 3 1.02
+l Assumed 5 $ 9.02 l
+Exercised (9_5) $ 21.51
+I Canceled (26) $ 30.60 l
+Balance, May 31, 2014 462 $ 27.37
+I Granted 34 $ 40.54 1
+Assumed 3 $ 21.98
+] Exercised (7_O) $ 24.49 l
+Canceled (16) $ 33.76
+Balance, May 31,2015 413 $ 28.64 1
+Granted (1) 25 $ 40.34
+I Assumed 1 $ 4.97 l
+Exercised (53) $ 25.13
+I Canceled (E) $ 35.19 l
+Balance, May 31, 2016 375 $ 29.66
+(1) Approximately 7 million of the 25 million stock options granted during ﬁscal 2016 were to our Chief Executive Ofﬁcers and Chief Technology Ofﬁcer and had contractual lives of ﬁve years versus the 10-
+year contractual lives for the other stock options granted.
+122

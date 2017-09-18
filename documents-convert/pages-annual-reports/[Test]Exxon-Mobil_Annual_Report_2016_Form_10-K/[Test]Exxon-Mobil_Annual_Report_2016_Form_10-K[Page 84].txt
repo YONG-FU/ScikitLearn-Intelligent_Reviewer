@@ -1,0 +1,25 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Asset Retirement Obligations
+The Corporation incurs retirement obligations for certain assets. The fair values of these obligations are recorded as liabilities on
+a discounted basis, which is typically at the time the assets are installed. In the estimation of fair value, the Corporation uses
+assumptions and judgments regarding such factors as the existence of a legal obligation for an asset retirement obligation;
+technical assessments of the assets; estimated amounts and timing of settlements; discount rates; and inﬂation rates. Asset
+retirement obligations incurred in the current period were Level 3 fair value measurements. The costs associated with these
+liabilities are capitalized as part of the related assets and depreciated as the reserves are produced. Over time, the liabilities are
+accreted for the change in their present value.
+Asset retirement obligations for downstream and chemical facilities generally become firm at the time the facilities are
+permanently shut down and dismantled. These obligations may include the costs of asset disposal and additional soil remediation.
+However, these sites have indeterminate lives based on plans for continued operations and as such, the fair value of the
+conditional legal obligations cannot be measured, since it is impossible to estimate the future settlement dates of such obligations.
+The following table summarizes the activity in the liability for asset retirement obligations:
+2016 2015
+(millions of dollars)
+Beginning balance 13,704 13,424
+Accretion expense and other provisions 740 775
+Reduction due to property sales (134) (208)
+Payments made (549) (928)
+Liabilities incurred 204 283
+Foreign currency translation (513) (931)
+Revisions (209) 1,289
+Ending balance : 13,243 13,704:
+80

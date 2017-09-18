@@ -1,0 +1,42 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+7. Income tax expenses
+Composition of income tax expenses
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB)
+Current income tax expense 1,730 4,757 7,223
+Deferred taxation 1,466 1,659 1,226
+3,196 6,416 8,449
+Under the current laws of the Cayman Islands, the Company is not subject to tax on its income or capital
+gains. In addition, upon payments of dividends by the Company to its shareholders, no Cayman Islands
+withholding tax is imposed. The Company’s subsidiaries incorporated in Hong Kong were subject to the Hong
+Kong profits tax rate at 16.5% for the years ended March 31, 2014, 2015 and 2016. The Company’s
+subsidiaries incorporated in other jurisdictions such as the United States, Singapore and Japan were subject to
+income tax charges calculated on the basis of the tax laws enacted or substantially enacted in the countries
+where the Company’s subsidiaries operate and generate income.
+Current income tax expense primarily represents the provision for PRC Enterprise Income Tax (“EIT”) for
+subsidiaries operating in the PRC. These subsidiaries are subject to EIT on their taxable income as reported
+in their respective statutory financial statements adjusted in accordance with the relevant tax laws, rules and
+regulations in the PRC.
+Under the PRC Enterprise Income Tax Law (the “EIT Law”), the standard enterprise income tax rate for
+domestic enterprises and foreign invested enterprises is 25%. In addition, the EIT Law provides for, among
+others, a preferential tax rate of 15% for enterprises qualified as High and New Technology Enterprises.
+Further, certain subsidiaries were recognized as having status as a Software Enterprise and thereby entitled to
+enjoy full exemption from EIT for two years beginning with their first profitable year and a 50% reduction for
+the subsequent three years. In addition, a duly recognized Key Software Enterprise within China’s national
+plan can enjoy a preferential EIT rate of 10%. The Key Software Enterprise status is subject to review by the
+relevant authorities every two years. The timing of the annual review and notification by the relevant
+authorities may vary from year to year, and the related tax adjustments in relation to the change in applicable
+EIT rate are accounted for in the period in which the Key Software Enterprise status is recognized.
+The tax status of the subsidiaries of the Company with major taxable profits is described below:
+0 Alibaba (China) Technology Co., Ltd. (“Alibaba China”), an entity primarily engaged in the operations of
+the Company’s wholesale marketplaces, was recognized as a High and New Technology Enterprise and Key
+Software Enterprise during the taxation years of 2013 and 2014, and was thereby entitled to an EIT rate of
+10% during these taxation years.
+0 Taobao (China) Software Co., Ltd. (“Taobao China”), an entity primarily engaged in the operations of
+Taobao Marketplace, was recognized as a High and New Technology Enterprise and has been recognized as
+a Key Software Enterprise during the taxation years of 2013 and 2014 and was thereby subject to an EIT
+rate of 10% during such taxation years.
+F-56

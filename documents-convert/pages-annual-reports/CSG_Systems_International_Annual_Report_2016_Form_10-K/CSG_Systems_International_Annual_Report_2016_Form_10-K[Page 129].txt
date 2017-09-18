@@ -1,0 +1,49 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+I Description of Item/U nit of Measure I FrequencyI Fee I
+1. Automated (per *>l<* ( >l< )Or **>l< ( * ) ***>l<* **** **>l<** ******* **>l<>l< ****>l<>l<* * ****>l< **********
+) ***>l<
+I 2. N0n_Automated Mail (per *** or **>l< I I *
+3. Pre-Sort Discount — Automated Mail Only (per *** (*) or *** ($******)
+IX.Subscriber Agreement Processing I I I
+A. Start-up (Note 27)
+**>l<>l<***
+I B. First Physical Page (Note 28) (Note 29) (Note 30) I I
+**>l<***>l<>l<**
+I C. Additional Physical Page (Note 28) (Note 29) (Note 30) I I EB,,,,,,,,,,,,I
+**>l<***>l<>l<**
+D. Manual Insertion Fee (for packages containing more than **** $******
+Note 1: This fee includes *** **** of and covers increments of *** (*) at *** As a point of clariﬁcation, should Customer elect to
+add additional *>l<**>l<>l< *>l<**>l<>l<***>l< use *>l<***>l<>l<** **>l<>l<***>l<** at the time, the fee is
+Note 2: The Generic and Modiﬁed Generic/Bilingual format/layout includes a certain level of ﬂexibility that Customers utilize in establishing their design. Included is ***
+(*) ***>l< Of*********/******** ******** ***>l<>l<** for setup Of********. Any additional required for *>l<>l<*** ***>l<** ****>l<>l<* is at the **>l<>l<*** ********
+rate.
+Note 3: An additional physical page means text items, including, but not limited to or that onto an
+additional *>l<***>l<>l<* **** ** ********** ************. The page may include *>l<***>l< **>l<***>l< *>l<>l<***>l<***>l<, such as) ***>l<>l<**>l< and **********g *>l<***>l<>l<
+are billed at the applicable rate, as set forth in the table above).
+Note 4: AESP Additional Statement Pages — the ﬁrst (******) ***** shall be provided at ** As a point of
+clariﬁcationg ********** ********* ****>l< also include **>l<***>l<>l<** ** ***>l<>l<_ Should Customer exceed *>l<***>l<>l<***>l< *>l<>l<**>l<>l<* ***>l<>l<***>l<* *********
+***** in any given *****, Customer shall pay the fees set forth above for any that are in excess of (******)
+********** **>l<>l<***>l<* pages each ****>l<.
+Note 5: Reserved
+Note 6: An “ Ad Page ” means targeted messages, or advertisements using text, graphics and borders generated on an additional logical page. A logical page is one side of a
+physical page. ** or may be used, **** This page may be printed duplex. Setup and changes to this page are billed at the
+****, as set forth in the table above. Ifthe Ad Page is printed on an additional ****, Customer shall be the
+**** ****, as set forth in the table above, in addition to the Ad Page rate.
+Note 7: An afﬁdavit is an ofﬁcial statement from CSG Insert Control giving affirmation to the of with any This
+statement includes the cycle dates for which the insert was run.
+Note 8: “ Printed Checker Job ” is deﬁned as: a) a per cycle request that generates a printed hardcopy statement checker, or h) each pre-test job that prints. Pre-tests are
+requested on an as-needed basis and as such, are not tied to cycle, are billable separately.
+Note 9: Customer shall pay the Paper/Envelope Set-up Fee in the event Customer wishes to use paper and/or envelopes that require special ordering.
+Note 10: Reserved.
+Note 11: Customer is allowed *** session per related to Customer Letter start-up.
+Note 12: In the event Customer elects to utilize standard rate mail services, Customer must abide by the Content Standards for Standard Mail Letter guidelines set forth by the
+United States Postal Service (“ USPS ”) in the Domestic Mail Manual, which can be found at the USPS website (http://pe.usps.gov/text/dmm300/243.htm#wp1048240). If
+any third-party action is instituted against CSG directly or indirectly resulting from Customer's violation of any of the rules set forth in the USPS Domestic Mail Manual, such
+Customer shall indemnify, defend (including without limitation by making any interim payment necessary for appeal) and hold CSG and its affiliates, subsidiaries, agents,
+ofﬁcers, directors, managers or employees (collectively “ Related Parties ”) harmless, at Customer’s expense, and pay the damages and costs ﬁnally awarded against CSG or
+its Related Parties in the action or any settlement amount approved by Customer. General mail delivery for standard rate mail is (*) to (**)
+Note 13: CSG’s current cost is $****** per This rate is subject to change at any point in time based on changes to USPS postal rates.
+Note 14: The Startup charge is for a *>l<***>l< ********* **>l<*** for all ********* and includes *>l<***>l<** of ********* **>l<***, *>l<>l<**>l<* of **** *********** and
+********** Of**>l<>l<* ***>l< *>l<** ***>l<*_
+Note 15: The optional Daily Scan File is a ﬂat ﬁle containing the Customer’s previous (**) worth of scan data for mail pieces in the USPS system
+which is placed on Customer’s SFTP outgoing site and is available to Customer for

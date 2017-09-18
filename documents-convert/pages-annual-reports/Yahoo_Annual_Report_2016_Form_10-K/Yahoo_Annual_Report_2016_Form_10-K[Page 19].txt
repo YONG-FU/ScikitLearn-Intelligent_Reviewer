@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+accessed, used, or disclosed. Security breaches or other unauthorized data disclosure, acquisition or access (such as the Security Incidents) have resulted in,
+and may in the future result in, a combination of signiﬁcant legal and ﬁnancial exposure, increased remediation and other costs, damage to our reputation, and a
+loss of conﬁdence in the security of our products, services, and networks that could have a significantly adverse effect on our business. We take steps to prevent
+unauthorized data disclosure or access to our systems; however, because the techniques used to obtain unauthorized access, disable or degrade service, or
+sabotage systems change frequently or may be disguised or difﬁcult to detect, or designed to remain dormant until a triggering event, we may be unable to
+anticipate these techniques or implement adequate preventative measures. Breaches of our security measures, such as the Security lncidents, or perceived
+breaches, have caused and may in the future cause, the market perception of the effectiveness of our security measures to be harmed and could cause us to
+lose users and customers, or detrimentally affect our relationships with distribution partners, service providers, vendors and app developers.
+Changes in regulations or user concerns regarding privacy and protection of user data, or any failure to comply with such laws, could adversely
+affect our business.
+Federal, state, and international laws and regulations govern the collection, use, retention, disclosure, sharing and security of data that we receive from and
+about our users. The use of consumer data by online service providers and advertising networks is a topic of active interest among federal, state, and
+international regulatory bodies, and the regulatory environment is unsettled. Many states have passed laws requiring notiﬁcation to users where there is a
+security breach for personal data, such as California’s Information Practices Act. We face similar risks in international markets where our products, services and
+apps are offered. Any failure, or perceived failure, by us to comply with or to make effective modiﬁcations to our policies, or to comply with any applicable federal,
+state, or international privacy, data-retention or data—protection-related laws, regulations, orders or industry self-regulatory principles could result in proceedings
+or actions against us by governmental entities or others, a loss of user confidence, damage to the Yahoo brands, and a loss of users, advertising partners, or
+Afﬁliates, any of which could potentially have an adverse effect on our business.
+In addition, various federal, state and foreign legislative or regulatory bodies may enact new or additional laws and regulations concerning privacy, data
+retention, data transfer and data protection issues, including laws or regulations mandating disclosure to domestic or international law enforcement bodies, which
+could adversely impact our business, our brand or our reputation with users. For example, some countries are considering or have enacted laws mandating that
+user data regarding users in their country be maintained in their country. Having to maintain local data centers in individual countries could increase our
+operating costs signiﬁcantly. In addition, there currently is a data protection regulation, known as the General Data Protection Regulation, which has been
+ﬁnalized and is pending implementation by the member states of the European Union by May 2018 that includes operational and compliance requirements that
+are different than those currently in place and that also includes signiﬁcant penalties for non—compliance. The European Union is also considering an update to
+its Privacy and Electronic Communications (e-Privacy) Directive to, among other things, amend the current directive’s rules on the use of cookies.
+The European Court of Justice invalidated the European Commission’s 2000 Safe Harbor Decision that we had previously relied on for data transfers between
+the European Union and United States. The model contractual clauses and other mechanisms that we currently rely on to address European Union data
+protection requirements for transfers of data are subject to uncertainty and legal challenges. The European Union and United States recently agreed to the
+Privacy Shield Framework, an alternative mechanism to comply with European Union data protection requirements. We are not currently relying on the Privacy
+Shield Framework. Challenges to our existing data transfer mechanisms, and any future legal challenges to data transfer mechanisms that we may adopt, could
+18

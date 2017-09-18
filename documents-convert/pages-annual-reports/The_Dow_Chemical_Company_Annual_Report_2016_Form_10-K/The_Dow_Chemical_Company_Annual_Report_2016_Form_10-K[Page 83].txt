@@ -1,0 +1,52 @@
+Summary of Changes to the Consolidated Balance Sheets at December 31, 2015 7
+In millions AS Filed Updated 7
+[Deferred income tax assets - current $ 827 $ *
+Other current assets $ 354 $ 647
+| Total current assets $ 24,475 $ 23,941 ‘
+Noncurrent receivables $ 765 $ 816
+| Total investments $ 7,646 $ 7,697 ‘
+Deferred income tax assets - noncurrent $ 1,694 $ 2,140
+|Asbestos-related insurance receivables - noncurrent $ 51 $ * * 1
+Total other assets $ 18,051 $ 18,446
+|Total Assets $ 68,026 $ 67,938 ‘
+Deferred income tax liabilities - current $ 100 $ T *
+|Total current liabilities $ 11,215 $ 11,115 |
+Deferred income tax liabilities - noncurrent $ 575 $ 587
+| Total other noncurrent liabilities $ 14,413 $ 14,425 1
+:Total Liabilities and Equity $ 68,026 $ 67,938 :
+Certain reclassifications of prior years' footnote disclosure amounts have been made to conform to the 2016 presentation.
+Change in Method of Accounting for Asbestos-Related Matters - Legal Costs
+In September 2014, Union Carbide Corporation ("Union Carbide"), a wholly owned subsidiary of the Company, began to
+implement a strategy designed to reduce and to ultimately stabilize and forecast defense and processing costs associated with
+asbestos-related matters. The strategy included a number of important changes including: invoicing protocols including
+capturing costs by plaintiff and review of existing counsel roles, work processes and workflow. Union Carbide also began
+utilizing enterprise legal management software, which enabled claim-specific tracking of asbestos-related defense costs. Union
+Carbide reviewed the information generated from this new strategy and determined that it now had the ability to reasonably
+estimate asbestos-related defense and processing costs for the same periods that it estimates asbestos-related resolution costs
+for pending and future claims. Union Carbide believes that including estimates of the liability for asbestos-related defense and
+processing costs provides a more complete assessment and measure of the liability associated with resolving asbestos-related
+matters, which Union Carbide and the Company believe is preferable in these circumstances.
+In the fourth quarter of 2016, the Company elected to change its method of accounting for Union Carbide's asbestos-related
+defense and processing costs from expensing as incurred to estimating and accruing a liability. The Company believes this
+change is preferable as asbestos-related defense and processing costs represent expenditures related to legacy activities that do
+not contribute to current or future revenue generating activities. The change is also reﬂective of the manner in which Union
+Carbide manages the asbestos-related exposure, including careful monitoring of the correlation between defense spending and
+resolution costs. Together, these two sources of cost more accurately represent the “total cost” of resolving asbestos-related
+claims now and in the future.
+In the fourth quarter of 2016, the Company added a new accounting policy for asbestos-related matters and updated its existing
+accounting policy for legal costs, as follows:
+Asbestos-Related Matters
+Accruals for asbestos-related matters, including defense and processing costs, are recorded based on an analysis of
+claim and resolution activity, defense spending, and pending and future claims. These accruals are assessed at each
+balance sheet date to determine if the asbestos—related liability remains appropriate. Accruals for asbestos-related
+matters are included in the consolidated balance sheets in “Accrued and other current liabilities” and “Asbestos-related
+liabilities - noncurrent.”
+Legal Costs
+The Company expenses legal costs as incurred, with the exception of defense and processing costs associated with
+asbestos-related matters.
+This accounting policy change has been reﬂected as a change in accounting estimate eﬁected by a change in accounting
+principle. As a result of this accounting policy change, the Company recorded a pretax charge for asbestos-related defense and
+processing costs of $1,009 million in the fourth quarter of 2016, included in “Asbestos-related charge” in the consolidated
+statements of income (after-tax loss of $636 million or $0.57 per share). The Company’s total asbestos-related liability,
+including defense and processing costs, was $1,490 million at December 31, 2016, and is included in “Accrued and other
+75

@@ -1,0 +1,43 @@
+4. Long-Lived Assets
+Property and Equipment. Property and equipment at December 31 consisted of the following (in thousands, except years):
+Useful Lives
+I W ears) _ 2016 _ 2015
+Computer equipment 35 $ 74,640 $ 70,408 I
+Leasehold improvements 5-10 15,013 15,226
+'Qperatingequipment 3-8 57,210 53,494 1
+Furniture and ﬁxtures 8 9,119 _ 9,146
+1 155,982 148,274 1
+Less - accumulated depreciation (122,866 )_ (112,282)
+j Property and equ_ipment, net 33,1 16 35,992]
+Goodwill. We do not have any intangible assets with indefinite lives other than goodwill. A rollforward of goodwill in 2015 and 2016 is as follows (in thousands):
+:January_1, 2015 balance 35 225,269 l
+Adjustments related to prior acquisitions (Q)
+l Effects of changes in foreign currency exchange rates (5,485 )3
+December 31, 2015 balance 219,724
+l Adjustments related to prior acquisitions (@L‘
+Effects of changes in foreign currency exchange rates (18,570)
+December 31, 2016, balance 201,094]
+Other Intangible Assets. Our intangible assets subject to ongoing amortization consist of client contracts and software.
+Client Contracts
+Client contracts consist of the following: (i) investments in client contracts; (ii) direct and incremental costs that we have capitalized related to contractual arrangements
+where we have deferred revenues to convert or set-up client customers onto our outsourced solutions; and (iii) client contracts acquired in business combinations.
+As of December 31, 2016 and 2015, the carrying values of these assets were as follows (in thousands):
+2016 2015
+Gross Gross
+Carrying Accumulated Net Carrying Accumulated Net
+Amount _ Amortization _ Amount _ Amount _ Amortization _ Amount
+investments in client contracts (1) $ 37,482 $ (@265) $ 14,217 $ 25,176 $ (1_7,060) $ 8,116 j
+Capitalized costs (2) 16,831 (5,130) 11,701 10,868 (2,489) 8,379
+Equired client contracts (3) 83,085 _ (68,328)_ 14,757 _ 91,584 _ (68,341 )_ 23,243 j
+Total client contracts 137,398: (96,723) 40,675: 127,628: (87,890) 39,73 8:
+The aggregate amortization related to client contracts included in our operations for 2016, 2015, and 2014, was as follows (in thousands):
+2016 _ 2015 _ 2014
+investments in client contracts (1) $ 6,591 $ 5,165 $ 6,409 j
+Capitalized costs (2) 2,755 1,334 1,007
+ﬁquired client contracts (3) 6,683 _ 8,902 _ 11,951 j
+Total client contracts 16,029: 15,401: 19,367:
+(1) Investments in client contracts consist principally of incentives provided to new or existing clients to convert their customer accounts to, or retain their customer’s
+accounts on, our customer care and billing systems. Investments in client contracts related to client incentives are amortized ratably over the lives of the
+respective client contracts, which as of December 31, 2016, have termination dates that range from 2017 through 2022. Amortization of the investments in client
+contracts related to client incentives is reﬂected as a reduction in cloud and related solutions revenues in our Income Statements.
+56

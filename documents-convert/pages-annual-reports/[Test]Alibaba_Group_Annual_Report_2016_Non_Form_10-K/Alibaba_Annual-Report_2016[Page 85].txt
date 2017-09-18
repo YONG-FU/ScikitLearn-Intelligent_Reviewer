@@ -1,0 +1,40 @@
+the relevant merchant’s product listings at the bottom in search ranking results, closing down storefronts and
+permanently banning the merchant from opening any accounts on our platforms.
+Consumer Protection
+We believe every consumer has the right to safety and protection from false and misleading claims. We
+encourage our merchants to make product quality a priority and have set up various programs to this end. In
+addition, all Tmall merchants are required to contribute to and maintain a consumer protection fund for the
+benefit of consumers. Consumer protection fund deposit requirements vary by product category and typically range
+from RMB50,000 to RMB150,000 per storefront. For Tmall Global merchants, the consumer protection fund
+deposit requirement is typically RMB150,000 for standard storefronts. The majority of Taobao Marketplace
+merchants maintain individual consumer protection funds whose minimum amounts range from RMB1,000 to
+RMB10,000. All Tmall and Taobao Marketplace merchants are required to sign agreements with us authorizing us
+to make deductions from their Alipay accounts in the event of confirmed consumer claims. Many merchants on
+both Tmall and Taobao Marketplace fulfill more than our basic requirements to demonstrate their confidence in
+the quality of their services and products. They provide a larger deposit than required and make additional service
+commitments, such as expedited shipment, free maintenance for electronics and installation services for furniture
+purchases. We incentivize merchants to set up customer protection funds by programming our search results to
+prioritize the rankings of product listings for merchants who have established these funds. In addition, the
+consumer protection fund amounts are displayed on the merchant’s information page. As of March 31, 2016,
+consumer protection funds deposited in the Alipay accounts of merchants on our China retail marketplaces in
+aggregate totaled over RMB17 billion. If the amount in a merchant’s consumer protection fund is insufficient, we
+may still choose to compensate consumers ourself for any losses, although we are not legally obligated to do so.
+Our Technology
+Technology is key to our success in achieving efficiency for our business, improving the user experience, and
+enabling innovation. As of March 31, 2016, we employed a team of over 18,000 research and development
+personnel engaged in building our technology platform and developing new online and mobile products. Key
+components of our technology include those described below:
+Cloud Computing
+Our cloud computing platform, called Apsara, is a general purpose distributed computing platform built with
+proprietary technology that enable server clusters to perform with enhanced computing power. Apsara offers a
+suite of cloud services including elastic computing, database storage and services, and large-scale data processing
+services through web-based API.
+Content Delivery Network
+The technology underlying AliCDN, our content delivery network, accelerates the loading of product
+photographs on web pages delivered to users and offers them a fast and smooth experience.
+Data Science
+Our data science technology serves various types of data-intensive computational needs, including deep
+learning, high-volume batch processing and multi-variable and multi-dimensional real-time analytics. The data
+mining and transaction, payment and behavioral data science capabilities are used extensively in numerous
+applications such as search and online marketing on our marketplaces.
+80

@@ -1,0 +1,51 @@
+NOTE A — SIGNIFICANT ACCOUNTING POLICIES (continued)
+(APBO). The PBO represents the actuarial present value of benefits expected to be paid upon retirement based on estimated future
+compensation levels. The APBO represents the actuarial present value of postretirement benefits attributed to employee services
+already rendered. The measurement of the benefit obligation is based on Ashland’s estimates and actuarial valuations. These
+valuations reﬂect the terms of the plans and use participant-specific information such as compensation, age and years of service,
+as well as certain key assumptions that require significant judgment, including, but not limited to, estimates of discount rates,
+expected return on plan assets, rate of compensation increases, interest rates and mortality rates. The fair value of plan assets
+represents the current market value of assets held by an irrevocable trust fund for the sole benefit of participants. For additional
+information regarding plan assumptions and the current financial position of the pension and other postretirement plans, see Note N.
+Ashland recognizes the change in the fair value of plan assets and net actuarial gains and losses annually in the fourth quarter
+of each fiscal year and whenever a plan is determined to qualify for a remeasurement. The remaining components of pension and
+other postretirement benefits expense are recorded ratably on a quarterly basis. Pension and other postretirement benefits
+adjustments charged directly to cost of sales that are applicable to inactive participants are excluded from inventoriable costs. The
+service cost component of pension and other postretirement benefits costs is allocated to each reportable segment on a ratable
+basis; while the remaining components of pension and other postretirement benefits costs are recorded to Unallocated and other.
+Foreign currency translation
+Operations outside the United States are measured primarily using the local currency as the functional currency. Upon
+consolidation, the results of operations of the subsidiaries and affiliates whose functional currency is other than the US. dollar
+are translated into US. dollars at the average exchange rates for the year while assets and liabilities are translated at year-end
+exchange rates. Adjustments to translate assets and liabilities into US. dollars are recorded in the stockholders” equity section of
+the Consolidated Balance Sheets as a component of accumulated other comprehensive income and are included in net earnings
+only upon sale or substantial liquidation of the underlying foreign subsidiary or affiliated company.
+Stock incentive plans
+Ashland recognizes compensation expense for stock incentive plans awarded to key employees and directors, primarily in
+the form of stock appreciation rights (SARs), restricted stock and restricted stock units, performance shares and other non-vested
+stock awards, that are generally based upon the grant-date fair value over the appropriate vesting period. Ashland utilizes several
+industry accepted valuation models to determine the fair value. For further information concerning stock incentive plans, see Note
+Q.
+Earnings per share
+The following is the computation of basic and diluted earnings per share (EPS) from continuing operations attributable to
+Ashland. Earnings per share are reported under the treasury stock method. Stock options and SARs for each reported year whose
+grant price was greater than the market price of Ashland Common Stock at the end of each fiscal year were not included in the
+computation of income from continuing operations per diluted share because the effect of these instruments would be
+antidilutive. The total number of these shares outstanding was 1.2 million for 2016, 0.7 million for 2015 and 0.6 million for 2014.
+(In millions except per share data) 2016 2015 2014
+:Numerator :
+Numerator for basic and diluted EPS -
+Income from continuing operations attributable to Ashland, net of tax 733 2 7 7$ 191 7 7$ 72 7
+Denominator
+Denominator for basic EPS - Weighted-average
+common shares outstanding 63 68 77
+Share based awards convertible to common shares 1 1 l
+Denominator for diluted EPS - Adjusted weighted- : : : : : :
+average shares and assumed conversions 64 69 78
+EPS from continuing operations attributable to Ashland : i l i l 77
+Basic 39 0.03 $ 2.81 $ 0.94
+Diluted 0.03 2.78 0.93
+New accounting pronouncements
+In August 2016, the FASB issued new accounting guidance on eight specific cash ﬂow classification issues. The amendments
+in this guidance will become eﬁective retrospectively for Ashland on October 1, 2018. Early adoption is permitted in any interim
+F -14

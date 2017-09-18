@@ -1,0 +1,44 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT WRKET RISK
+Foreign Currency Exchange Risk
+Our results of operations and cash ﬂows are subject to ﬂuctuations due to changes in foreign currency
+exchange rates, particularly changes in the Euro, British Pound Sterling, Canadian Dollar, Australian Dollar and
+Japanese Yen. We seek to minimize the impact of certain foreign currency ﬂuctuations by hedging certain
+balance sheet exposures with foreign currency forward contracts. Any gain or loss from settling these contracts is
+offset by the loss or gain derived from the underlying balance sheet exposures. In accordance with our policy, the
+hedging contracts we enter into have maturities of less than three months. Additionally, by policy, we do not
+enter into any hedging contracts for trading or speculative purposes.
+Interest Rate Sensitivity
+We had cash, cash equivalents and marketable securities totaling $2.7 billion at January 31, 2016. This
+amount was invested primarily in money market funds, time deposits, corporate notes and bonds, government
+securities and other debt securities with credit ratings of at least BBB or better. The cash, cash equivalents and
+short-term marketable securities are held for general corporate purposes including possible acquisitions of, or
+investments in, complementary businesses, services or technologies, working capital and capital expenditures.
+Our investments are made for capital preservation purposes. We do not enter into investments for trading or
+speculative purposes.
+Our cash equivalents and our portfolio of marketable securities are subject to market risk due to changes in
+interest rates. Fixed rate securities may have their market value adversely impacted due to a rise in interest rates,
+while ﬂoating rate securities may produce less income than expected if interest rates fall. Due in part to these
+factors, our future investment income may fall short of expectation due to changes in interest rates or we may
+suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest
+rates. However because we classify our debt securities as “available for sale,” no gains or losses are recognized
+due to changes in interest rates unless such securities are sold prior to maturity or declines in fair value are
+determined to be other-than-temporary. Our ﬁxed-income portfolio is subject to interest rate risk.
+An immediate increase or decrease in interest rates of 100-basis points at January 31, 2016 could result in a
+$20.9 million market value reduction or increase of the same amount. This estimate is based on a sensitivity
+model that measures market value changes when changes in interest rates occur. Fluctuations in the value of our
+investment securities caused by a change in interest rates (gains or losses on the carrying value) are recorded in
+other comprehensive income, and are realized only if we sell the underlying securities.
+At January 31, 2015, we had cash, cash equivalents and marketable securities totaling $1.9 billion. The
+fixed-income portfolio was also subject to interest rate risk. Changes in interest rates of 100-basis points would
+have resulted in market value changes of $13.5 million.
+Market Risk and Market Interest Risk
+In March 2013, we issued the 0.25% Senior Notes. Holders of the 0.25% Senior Notes may convert the
+0.25% Senior Notes prior to maturity upon the occurrence of certain circumstances. Upon conversion, we would
+pay the holder an amount of cash equal to the principal amounts of the 0.25% Senior Notes and the amounts in
+excess of the principal amounts, if any, may be paid in cash or stock at our option. Concurrent with the issuance
+of the 0.25% Senior Notes, we entered into separate note hedging transactions and the sale of warrants. These
+separate transactions were completed to reduce the potential economic dilution from the conversion of the 0.25 %
+Senior Notes.
+The 0.25% Senior Notes have a fixed annual interest rate of 0.25%, and therefore we do not have economic
+interest rate exposure on the 0.25 % Senior Notes. However, the value of the 0.25 % Senior Notes are exposed to
+70

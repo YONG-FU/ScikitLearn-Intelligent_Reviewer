@@ -1,0 +1,41 @@
+Our primary video display processor product categories include the following:
+- ImageProcessor ICS. Our ImageProcessor ICs include embedded microprocessors, digital signal processing technology and software that control the
+operations and signal processing within high-end display systems. ImageProcessor ICs were our ﬁrst product offerings and continue to comprise the
+majority of our business. We have continued to reﬁne the architectures for optimal performance, manufacturing our products on process
+technologies that align with our customers’ requirements. Additionally, we provide a software development environment and operating system that
+enables our customers to more quickly develop and customize the "look and feel" of their products.
+0 Video Co-Processor ICs. Products in this category work with an image processor to post-process video signals to enhance the performance or feature
+set of the overall Video solution (for example, by signiﬁcantly reducing judder and motion blur). Our Video Co-Processor ICS can be used with our
+ImageProcessor ICs or with image processing solutions from other manufacturers, and in most cases can be incorporated by a display manufacturer
+without assistance from the supplier of the base image processor. This ﬂexibility enables manufacturers to augment their existing or new designs to
+enhance their video display products.
+Customers, Sales and Marketing
+The key focus of our global sales and marketing strategy is to achieve design wins with industry leading branded manufacturers in our target markets and to
+continue building strong customer relationships. Once a design win has been achieved, sales and marketing efforts are focused on building long-term
+mutually beneﬁcial business relationships with our customers by providing superior technology and reducing their costs, which complements our customers’
+product development objectives and meets their expectations for price-performance and time to market. Marketing efforts are focused on building market-
+leading brand awareness and preference for our solutions.
+We utilize direct sales and marketing resources in China, Japan, Korea, Taiwan, and the US. as well as indirect resources in several regions. In addition to
+sales and marketing representatives, we have ﬁeld application engineers who provide technical expertise and assistance to manufacturing customers on ﬁnal
+product development.
+Our global distribution channel is multi—tiered and involves both direct and indirect distribution channels, as described below:
+- Distributors. Distributors are resellers in local markets who provide engineering support and stock our semiconductors in direct relation to speciﬁc
+manufacturing customer orders. Our distributors often have valuable and established relationships with our end customers, and in certain countries it
+is customary to sell to distributors. While distributor payment to us is not dependent upon the distributor’s ability to resell the product or to collect
+from the end customer, our distributors may provide longer payment terms to end customers than those we would offer. Sales to distributors
+accounted for 43%, 48% and 63% ofrevenue in 2016, 2015 and 2014, respectively.
+Our largest distributor, Tokyo Electron Device Ltd. ("TED"), is located in Japan. TED represented more than 10% of revenue in each of 20 1 6, 2015
+and 2014, and accounted for more than 10% of accounts receivable as of December 31, 2015 . No other distributor accounted for more than 10% of
+revenue in 2016, 2015 or 2014.
+We also have distributor relationships in China, Europe, Korea, Southeast Asia, Taiwan and the U.S.
+- Direct Relationships. We have established direct relationships with companies that manufacture high-end display systems. Some of our direct
+relationships are supported by commission—based manufacturers’ representatives, who are independent sales agents that represent us in local markets
+and provide engineering support but do not carry inventory. Revenue through direct relationships accounted for 57%, 52% and 37% of total
+revenue in 2016, 2015 and 2014, respectively.
+We have direct relationships with companies falling into the following three classiﬁcations:
+- Integrators. Integrators are OEMs who build display devices based on speciﬁcations provided by branded suppliers.
+- Branded Manufacturers. Branded manufacturers are globally recognized manufacturers who develop display device speciﬁcations, and
+manufacture, market and distribute display devices either directly or through resellers to end-users.
+- Branded Suppliers. Branded suppliers are globally recognized suppliers who develop display device speciﬁcations and then source them
+from integrators, typically in Asia, and distribute them either directly or through resellers to end-users.
+8

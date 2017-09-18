@@ -1,0 +1,46 @@
+Indemnification Provisions
+We entered into a separation and distribution agreement and various other agreements
+with PayPal to govern the separation and relationship of the two companies going forward.
+These agreements provide for specific indemnity and liability obligations and could lead to
+disputes between us and PayPal, which may be significant. In addition, the indemnity rights we
+have against PayPal under the agreements may not be sufficient to protect us and our
+indemnity obligations to PayPal may be significant.
+In addition, we have entered into indemnification agreements with each of our directors,
+executive officers and certain other officers. These agreements require us to indemnify such
+individuals, to the fullest extent permitted by Delaware law, for certain liabilities to which they
+may become subject as a result of their affiliation with us.
+In the ordinary course of business, we have included limited indemnification provisions in
+certain of our agreements with parties with which we have commercial relations, including our
+standard marketing, promotions and application-programming-interface license agreements.
+Under these contracts, we generally indemnify, hold harmless and agree to reimburse the
+indemnified party for losses suffered or incurred by the indemnified party in connection with
+claims by a third party with respect to our domain names, trademarks, logos and other
+branding elements to the extent that such marks are applicable to our performance under the
+subject agreement. In certain cases, we have agreed to provide indemnification for intellectual
+property infringement. It is not possible to determine the maximum potential loss under these
+indemnification provisions due to our limited history of prior indemnification claims and the
+unique facts and circumstances involved in each particular provision. To date, losses recorded
+in our consolidated statement of income in connection with our indemnification provisions
+have not been significant, either individually or collectively.
+Critical Accounting Policies, Judgments and Estimates
+General
+The preparation of our consolidated financial statements and related notes requires us to
+make judgments, estimates and assumptions that affect the reported amounts of assets,
+liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities.
+We have based our estimates on historical experience and on various other assumptions that
+are believed to be reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Our senior management has discussed the development,
+selection and disclosure of these estimates with the Audit Committee of our Board of
+Directors. Actual results may differ from these estimates under different assumptions or
+conditions.
+An accounting policy is considered to be critical if it requires an accounting estimate to be
+made based on assumptions about matters that are highly uncertain at the time the estimate is
+made, and if different estimates that reasonably could have been used, or changes in the
+accounting estimates that are reasonably likely to occur periodically, could materially impact
+the consolidated financial statements. We believe the following critical accounting policies
+reflect the more significant estimates and assumptions used in the preparation of our
+consolidated financial statements. The following descriptions of critical accounting policies,
+judgments and estimates should be read in conjunction with our consolidated financial
+statements and related notes and other disclosures included in this report.
+60

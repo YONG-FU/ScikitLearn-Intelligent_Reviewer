@@ -1,0 +1,48 @@
+The information technology industry and the markets in which we compete are constantly evolving, which makes our future
+business strategies, practices and results difficult to predict
+The information technology industry and the markets in which we compete have grown significantly over the life of our
+company and continue to evolve rapidly in response to new technological advances, changing business models and other
+factors. We and the other companies that compete in this industry and these markets experience continually shifting business
+relationships, commercial focuses and business priorities, all of which occur in reaction to industry and market forces and the
+emergence of new opportunities. These shifts have led or could lead to:
+° our customers or partners becoming our competitors;
+° our network suppliers becoming partners with us or, conversely, no longer seeking to work with us;
+° our working more closely with hardware providers;
+0 large technology companies that previously did not appear to ShOW interest in the markets we seek to address entering
+into those markets as competitors; and
+° needing to expand into new lines of business or to change or abandon existing strategies.
+The Internet itself is constantly evolving. There could develop an inﬂection point above which global usage of the Internet
+increases to a level that causes our current approaches to the delivery of content and applications to no longer be sustainable at
+current levels of profitability or at all. We also need to continue to manage successfully the transition from the IPv4 protocol to
+IPv6.
+With this constantly changing environment, our future business strategies, practices and results may be difficult to predict,
+and we may face operational difficulties in adjusting to the changes. Any of these developments could harm our business.
+If we are unable to compete effectively, our business will be adversely affected
+We compete in markets that are intensely competitive and rapidly changing. Our current and potential competitors vary by
+size, product and service offerings, and geographic region and range from start-ups that offer solutions competing with a
+discrete part of our business to large technology or telecommunications companies that offer, or may be planning to introduce,
+products and services that are broadly competitive with what we do. The primary competitive factors in our market are:
+excellence of technology, global presence, customer service, technical expertise, security, ease-of-use, breadth of services
+offered, price and financial strength. Competitors include some of our current partners and customers.
+Many of our current and potential competitors have substantially greater financial, technical and marketing resources,
+larger customer bases, longer operating histories, greater brand recognition and more established relationships in the industry
+than we do. As a result, some of these competitors may be able to:
+° develop superior products or services, gain greater market acceptance, and expand their service offerings more
+efficiently or more rapidly;
+° adapt to new or emerging technologies and changes in customer requirements more quickly;
+° take advantage of acquisition and other opportunities more readily;
+° adopt more aggressive pricing policies and allocate greater resources to the promotion, marketing, and sales of their
+services; and
+° dedicate greater resources to the research and development of their products and services.
+Smaller and more nimble competitors may be able to:
+° attract customers by offering less sophisticated versions of services than we provide at lower prices than those we
+charge;
+° develop new business models that are disruptive to us; and
+0 respond more quickly than we can to new or emerging technologies, changes in customer requirements and market and
+industry developments, resulting in superior offerings.
+Existing and potential customers may not purchase our services, or may limit their use of them, because they:
+° pursue a "do-it-yourself' approach by putting in place equipment, software and other technology solutions for content
+and application delivery within their internal systems;
+° enter into relationships directly with network providers instead of relying on an overlay network like ours; or
+- implement multi-vendor policies to reduce reliance on external providers like us.
+12

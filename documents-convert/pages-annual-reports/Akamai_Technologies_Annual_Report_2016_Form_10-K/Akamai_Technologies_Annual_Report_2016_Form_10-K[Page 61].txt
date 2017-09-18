@@ -1,0 +1,48 @@
+Capitalized costs include external consulting fees, payroll and payroll-related costs and stock-based compensation for
+employees in the Company’s development and information technology groups who are directly associated with, and who devote
+time to, the Company’s internal-use software projects. Capitalization begins when the planning stage is complete and the
+Company commits resources to the software project, and continues during the application development stage. Capitalization
+ceases when the software has been tested and is ready for its intended use. Costs incurred during the planning, training and post-
+implementation stages of the software development life-cycle are expensed as incurred. The Company amortizes completed
+internal-use software that is used on its network to cost of revenue over its estimated useful life.
+Accounting for Stock-Based Compensation
+The Company recognizes compensation costs for all stock-based payment awards made to employees based upon the awards’
+grant-date fair value. The stock-based payment awards include stock options, restricted stock units, deferred stock units and
+employee stock purchases related to the Company’s employee stock purchase plan.
+For stock options, the Company has selected the Black-Scholes option-pricing model to determine the fair value of stock
+option awards. For stock awards with market-based vesting conditions, the Company uses a Monte Carlo simulation to determine
+the fair value of the award. For stock options, restricted stock units and deferred stock units that contain only a service-based
+vesting feature, the Company recognizes compensation cost on a straight-line basis over the award's vesting period. For awards
+with a performance condition-based vesting feature, the Company recognizes compensation cost on a graded-vesting basis over
+the award's expected vesting period, commencing when achievement of the performance condition is deemed probable. In
+addition, for awards that vest and become exercisable only upon achievement of specified performance conditions, the Company
+makes judgments and estimates each quarter about the probability that such performance conditions will be met or achieved. Any
+changes to those estimates that the Company makes from time to time may have a significant impact on the stock-based
+compensation expense recorded and could materially impact the Company’s results of operations.
+Foreign Currency Translation and Forward Currency Contracts
+The assets and liabilities of the Company's subsidiaries are translated at the applicable exchange rate as of the balance sheet
+date, and revenue and expenses are translated at an average rate over the period. Resulting currency translation adjustments are
+recorded as a component of accumulated other comprehensive loss, a separate component of stockholders’ equity. Gains and
+losses on inter-company and other non-functional currency transactions are recorded in other income (expense), net.
+The Company enters into short-term foreign currency forward contracts to offset foreign exchange gains and losses generated
+by the re-measurement of certain assets and liabilities recorded in non-functional currencies. Changes in the fair value of these
+derivatives, as well as re-measurement gains and losses, are recognized in current earnings in other income (expense), net. As of
+December 31, 2016 and 2015, the fair value of the forward currency contracts and the underlying net gains for the years ended
+December 31, 2016, 2015 and 2014 were immaterial.
+The Company's foreign currency forward contracts may be exposed to credit risk to the extent that its counterparties are
+unable to meet the terms of the agreements. The Company seeks to minimize counterparty credit (or repayment) risk by entering
+into transactions only with major financial institutions of investment grade credit rating.
+Taxes
+The Company's provision for income taxes is comprised of a current and a deferred portion. The current income tax provision
+is calculated as the estimated taxes payable or refundable on tax returns for the current year. The deferred income tax provision is
+calculated as the estimated future tax effects attributable to temporary differences and carryforwards using expected tax rates in
+effect during the years in which the differences are expected to reverse or the carryforwards are expected to be realized.
+The Company currently has net deferred tax assets consisting of net operating loss (“NOL”) carryforwards, tax credit
+carryforwards and deductible temporary differences. Management periodically weighs the positive and negative evidence to
+determine if it is more likely than not that some or all of the deferred tax assets will be realized.
+The Company has recorded certain tax reserves to address potential exposures involving its income tax and sales and use tax
+positions. These potential tax liabilities result from the varying application of statutes, rules, regulations and interpretations by
+different taxing jurisdictions. The Company's estimate of the value of its tax reserves contains assumptions based on past
+experiences and judgments about the interpretation of statutes, rules and regulations by taxing jurisdictions. It is possible that the
+costs of the ultimate tax liability or benefit from these matters may be more or less than the amount the Company estimated.
+59

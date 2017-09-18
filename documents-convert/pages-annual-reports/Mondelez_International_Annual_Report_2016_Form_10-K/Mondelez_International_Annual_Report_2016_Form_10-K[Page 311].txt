@@ -1,0 +1,29 @@
+(b) Reduction in Lender’s Rate of Return . In the event that, after the date hereof, the implementation of or any change in any law or regulation, or
+any guideline or directive (whether or not having the force of law) or the interpretation, application or administration thereof by any Governmental Authority
+charged with the administration thereof, imposes, modiﬁes or deems applicable any capital adequacy, liquidity or similar requirement (including, without limitation,
+a request or requirement which affects the manner in which any Lender or its parent company allocates capital resources to its Commitments, including its
+obligations hereunder) and as a result thereof, in the sole opinion of such Lender, the rate of return on such Lender’s or its parent company’s capital as a
+consequence of its obligations hereunder is reduced to a level below that which such Lender could have achieved but for such circumstances, but reduced to the
+extent that Borrowings are outstanding from time to time, then in each such case, upon demand from time to time the Borrower shall pay to such Lender such
+additional amount or amounts as shall compensate such Lender for such reduction in rate of return. A certificate of such Lender as to any such additional amount or
+amounts shall be conclusive and binding for all purposes, absent manifest error. Except as provided below, in determining any such amount or amounts each Lender
+may use any reasonable averaging and attribution methods. Notwithstanding the foregoing, each Lender shall take all reasonable actions to avoid the imposition of,
+or reduce the amounts of, such increased costs, provided that such actions, in the reasonable judgment of such Lender will not be otherwise disadvantageous to such
+Lender and, to the extent possible, each Lender will calculate such increased costs based upon the capital requirements for its Loans and unused Commitment
+hereunder and not upon the average or general capital requirements imposed upon such Lender.
+(c) Dodd-Frank Wall Street Reform and Consumer Protection Act; Basel III . Notwithstanding anything herein to the contrary, (i) the Dodd-Frank
+Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith and (ii) all requests,
+rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar
+authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall, in each case be deemed to be a change in law or regulation
+after the date hereof regardless of the date enacted, adopted or issued.
+SECTION 2.13 Illeggty: Notwithstanding any other provision of this Agreement, if any Lender shall notify the Administrative Agent that the
+introduction of or any change in, or in the interpretation of, any law or regulation makes it unlawful, or any central bank or other Governmental Authority asserts
+that it is unlawful, for any Lender or its Eurocurrency Lending Office to perform its obligations hereunder to make LIBO Rate Loans or to fund or maintain LIBO
+Rate Loans, (a) each LIBO Rate Loan of such Lender will automatically, upon such demand, be Converted into a Base Rate Loan or an Loan that bears interest at
+the rate set forth in Section 2.04(a)(i), as the case may be, and (b) the obligation of the Lenders to make LIBO Rate Loans or to Convert Base Rate Loans into LIBO
+Rate Loans shall be suspended, in each case, until the Administrative Agent shall notify the Borrower and the Lenders that the circumstances causing such
+suspension no longer exist, in each case, subject to Section 9.04(b) hereof, provided, however,, that before making any such demand, each Lender agrees to use
+reasonable efforts (consistent with its internal policy and legal and regulatory restrictions) to designate a different Eurocurrency Lending Office if the making of
+such a designation would allow such Lender or its Eurocurrency Lending Office to continue to perform its obligations to make LIBO Rate Loans or to continue to
+fund or maintain LIBO Rate Loans and would not, in the judgment of such Lender, be otherwise disadvantageous to such Lender.
+-2 1-

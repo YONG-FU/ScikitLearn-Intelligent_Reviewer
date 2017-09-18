@@ -1,0 +1,37 @@
+December 31, 2015 Fair value measurements using
+Quoted
+prices in Significant
+active markets other Significant
+for identical observable unobservable
+assets inputs inputs
+($ in thousands) Total (Level 1) (Level 2) (Level 3)
+Financial instruments reported at fair value on : : : : : : : :
+recurring basis:
+Assets:
+Fixed maturity securities available-for—sale:
+I U.S. treasury $ 12,589 $ — $ 12,589 $ — I
+U.S. government-sponsored agencies 202,666 — 202,666 —
+I Obligations of states and political subdivisions 344,359 — 344,359 — I
+Commercial mortgage-backed 46,108 — 46,108 —
+I Residential mortgage-backed 88,543 — 88,543 — I
+Other asset-backed 17,844 — 17,844 —
+I Corporate 448,916 — 447,587 1,329 I
+Total fixed maturity securities available-for- : :
+sale 1,161,025 — 1,159,696 1,329
+I Equity securities available-for-sale: I
+I Common stocks: I
+Financial services 33,955 33,952 — 3
+I Information technology 28,102 28,102 — — I
+Healthcare 25,894 25,894 — —
+I Consumer staples 18,200 18,200 — — I
+Consumer discretionary 18,923 1 8,923 — —
+I Energy 21,068 21,068 — — I
+Industrials 20,416 20,416 — —
+I Other 20,683 20,683 — — I
+Non-redeemable preferred stocks 7 19,002 7 7 11,706 7 7 7,296 7 7 —7
+I Total equity securities available-for-sale 206,243 _ 198,944 _ 7,296 _ 3 I
+I Short-term investments 38,599 38,599 — — I
+IFinancial instruments not reported at fair value: I
+Liabilities:
+I Surplus notes 10,823 — — 10,823 I
+139

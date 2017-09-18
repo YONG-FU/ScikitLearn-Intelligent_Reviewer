@@ -1,0 +1,51 @@
+IaibleiofiCiontents Alphabet Inc.
+Securities Lending Program
+We entered into securities lending agreements with financial institutions to enhance investment income. We
+loaned certain securities which were collateralized in the form of cash or securities. Cash collateral was usually invested
+in reverse repurchase agreements which were collateralized in the form of securities.
+We classified loaned securities as cash equivalents or marketable securities and recorded the cash collateral as
+an asset with a corresponding liability in the accompanying Consolidated Balance Sheets. We classiﬁed reverse
+repurchase agreements maturing within three months as cash equivalents and those longer than three months as
+receivable under reverse repurchase agreements in the accompanying Consolidated Balance Sheets. For security
+collateral received, we did not record an asset or liability except in the event of counterparty default.
+Our securities lending transactions were accounted for as secured borrowings with significant investment
+categories as follows (in millions):
+7 As of December 31, 2015 :
+7 Remaining Contractual Maturity of the Agreements 7
+7 Overnight and Greater Than 7
+: Securities Lending Transactions Continuous Up to 30 days 30 - 90 Days 90 Days Total :
+[US government notes $ 1,322 $ 31 $ 0 $ 306 $ 1,659 l
+US. government agencies 504 77 0 0 581
+[Corporate debt securities f 188 0 0 o 188‘
+Total 77$ 2,0147, 77$ 108i 77$ 0i 77$ 306i 77$ 2,4287,
+[Gross amount of recognized liabilities for securities lending in offsetting disclosure 77$ 2,428
+Amounts related to agreements not included in securities lending in offsetting disclosure 7$ 0’
+As of December 31, 2016, we ended our securities lending program resulting in no cash collateral outstanding.
+Derivative Financial Instruments
+We recognize derivative instruments as either assets or liabilities in the accompanying Consolidated Balance
+Sheets at fair value. We record changes in the fair value (i.e., gains or losses) of the derivatives in the accompanying
+Consolidated Statements of Income as other income (expense), net, revenues, or accumulated other comprehensive
+income (AOCI) in the accompanying Consolidated Balance Sheets, as discussed below.
+We enter into foreign currency contracts with ﬁnancial institutions to reduce the risk that our cash flows and
+earnings will be adversely affected by foreign currency exchange rate fluctuations. We use certain interest rate derivative
+contracts to hedge interest rate exposures on our ﬁxed income securities and debt issuances. Our program is not used
+for trading or speculative purposes.
+We enter into master netting arrangements, which reduce credit risk by permitting net settlement of transactions
+with the same counterparty. To further reduce credit risk, we enter into collateral security arrangements under which
+the counterparty is required to provide collateral when the net fair value of certain ﬁnancial instruments fluctuates from
+contractually established thresholds. We can take possession of the collateral in the event of counterparty default. As
+of December 31, 2015 and 2016, we received cash collateral related to the derivative instruments under our collateral
+security arrangements of $192 million and $362 million.
+Cash Flow Hedges
+We use foreign currency option and forward contracts designated as cash ﬂow hedges to hedge certain forecasted
+revenue transactions denominated in currencies other than the US. dollar and at times we use interest rate swaps to
+effectively lock interest rates on anticipated debt issuances. These transactions are designated as cash ﬂow hedges.
+The notional principal of these contracts was approximately $16.4 billion and $10.7 billion as of December 31, 2015
+and 2016. These contracts have maturities of 36 months or less.
+We reflect gain or loss on the effective portion of a cash ﬂow hedge as a component of AOCI and subsequently
+reclassify cumulative gains and losses to revenues or interest expense when the hedged transactions are recorded.
+If the hedged transactions become probable of not occurring, the corresponding amounts in AOCI is immediately
+reclassiﬁed to other income (expense), net. Further, we exclude the change in the time value and forward points of
+foreign currency options and forward contracts from our assessment of hedge effectiveness. We recognize changes
+of the excluded components in other income (expense), net.
+56

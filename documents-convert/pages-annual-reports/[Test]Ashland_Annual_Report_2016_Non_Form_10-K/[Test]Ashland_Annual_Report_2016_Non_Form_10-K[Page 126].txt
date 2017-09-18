@@ -1,0 +1,54 @@
+NOTE N — EMPLOYEE BENEFIT PLANS (continued)
+Change in Applying Discount Rate to Measure Beneﬁt Costs
+During 2016, Ashland changed the method used to estimate the service and interest cost components of net periodic beneﬁt
+cost for pension and other postretirement benefits. This change compared to the previous method resulted in a decrease in the
+service and interest cost components for pension and other postretirement beneﬁt costs during the quarter. Historically, Ashland
+estimated these service and interest cost components utilizing a single weighted-average discount rate derived from the yield curve
+used to measure the benefit obligation at the beginning of the period. Ashland has elected to utilize a full yield curve approach in
+the estimation of these components by applying the specific spot rates along the yield curve used in the determination of the benefit
+obligation to the relevant projected cash ﬂows. Ashland has made this change to provide a more precise measurement of service
+and interest costs by improving the correlation between projected benefit cash ﬂows to the corresponding spot yield curve rates.
+This change does not affect the measurement of Ashland’s total benefit obligations or annual net periodic benefit costs as the
+change in the service and interest costs will be offset in the actuarial gain or loss reported, which typically occurs during the fourth
+fiscal quarter. Ashland has accounted for this change as a change in accounting estimate that is inseparable from a change in
+accounting principle and accordingly has accounted for it prospectively.
+The impact of this discount rate change compared to the previous method decreased the estimated pension and other
+postretirement benefits service and interest cost by $33 million for the full year 2016. The impact on service cost is not significant
+due to the nature of Ashland’s largest US. pension plan, which is closed to new entrants and has curtailed other benefits. Of this
+annual decrease, $13 million was reported in cost of sales and $20 million was reported in selling, general, and administrative
+expense within the Statements of Consolidated Comprehensive Income in the Unallocated and other segment. Service and interest
+cost, as well as the other components of net periodic benefit costs, were subject to change for such reasons as an event requiring
+a remeasurement. Ashland’s total projected benefit obligations was not impacted by these reductions in service and interest costs
+as the decrease was substantially oﬁset within the actuarial gain or loss caption when the plans were remeasured during the fiscal
+year.
+Plan Amendments and Remeasurements
+During the year ended September 30, 2016, Ashland was required to remeasure a majority of its US. pension plans and certain
+postretirement benefit plans due to the previously discussed plan changes announced during March 2016. The net effect of these
+plan changes resulted in a curtailment of benefits requiring a remeasurement of the benefit obligation and plan assets. Ashland
+recognized a loss of $23 million within the Statements of Consolidated Comprehensive Income during 2016 as a result of the plan
+remeasurements. The following details the components of the remeasurement impact:
+- As a result of the remeasurement of the affected U.S. pension plans, Ashland recognized a curtailment gain of $65 million
+and actuarial loss of $ 123 million during 2016.
+- As a result of the remeasurement of other postretirement benefit plans, Ashland recognized a curtailment gain of $39
+million and actuarial loss of $7 million during 2016.
+- Ashland was also required to remeasure a non-US. pension plan and as a result recognized a curtailment gain of $6
+million and actuarial loss of $3 million during 2016.
+During the year ended September 30, 2015, Ashland was required to remeasure a non-US. pension plan due to the exit of
+Water Technologies’ employees from the plan. As a result of the remeasurement, Ashland recognized a curtailment gain of $7
+million and actuarial loss of $11 million during 2015. Of these amounts, all of the curtailment gain and $2 million of the actuarial
+loss were attributable to the Water Technologies business and therefore included in the discontinued operations caption of the
+Statements of Consolidated Comprehensive Income during 2015.
+During the year ended September 30, 2014, Ashland settled two non-U.S. pension plans, which required the plans to be
+remeasured. These remeasurements resulted in Ashland recognizing a settlement loss of $38 million and actuarial loss of $17
+million. Of these amounts, $6 million of the settlement loss and $3 million of the actuarial loss were attributable to the Water
+Technologies business and therefore included in the discontinued operations caption of the Statements of Consolidated
+Comprehensive Income during 2014.
+Due to the global restructuring plan initiated in January 2014, Ashland was required to remeasure certain pension and other
+postretirement plan obligations, which included updating assumptions related to these plans such as the discount rate, asset values
+and demographic data that were last updated at Ashland’s fiscal year end. As a result of the remeasurements, Ashland recognized
+a curtailment loss of $6 million and actuarial loss of $83 million during the year ended September 30, 2014. Of these amounts,
+$14 million of the actuarial loss was attributable to the Water Technologies business and included in the discontinued operations
+caption of the Statements of Consolidated Comprehensive Income during 2014.
+As a result of the completion of the sale of Water Technologies on July 31, 2014, Ashland was required to remeasure certain
+pension and other postretirement plan obligations. As a result of the remeasurements, Ashland recognized a curtailment gain of
+F -39

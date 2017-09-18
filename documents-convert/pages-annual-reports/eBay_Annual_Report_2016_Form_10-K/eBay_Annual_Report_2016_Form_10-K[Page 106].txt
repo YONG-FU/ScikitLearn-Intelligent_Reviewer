@@ -1,0 +1,42 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+The following table provides the location in our financial statements of the recognized
+gains or losses related to our interest rate derivative instruments (in millions):
+7 Year Ended December 31, 7
+; 2016 :_: 2015 :_: 2014 ;
+Gain (loss) from interest rate contracts designated as fair value
+hedges recognized in interest and other, net $ (18) $ 19 $ 22
+Gain (loss) from hedged items attributable to hedged risk
+recognized in interest and other, net l8_ (l9)_ (22)
+Total gain (loss) recognized from interest rate derivative
+contracts in the consolidated statement ofincome $ — _$ — _$ —
+Notional Amounts of Derivative Contracts
+Derivative transactions are measured in terms of the notional amount, but this amount is
+not recorded on the balance sheet and is not, when viewed in isolation, a meaningful measure
+of the risk profile of the instruments. The notional amount is generally not exchanged, but is
+used only as the basis on which the value of foreign exchange payments under these
+contracts are determined. The following table provides the notional amounts of our
+outstanding derivatives as of December 31, 2016 and 2015 (in millions):
+7 December 31, 7
+; 2016 :_: 2015 g
+) Foreign exchange contracts designated as cash flow hedges $ 1,200 $ 1,315)
+Foreign exchange contracts not designated as hedging instruments 2,993 1,317
+) Interest rate contracts designated as fair value hedges 2,400_ 2,400)
+Total $ 6,593 $ 5,032
+Note 10 — Balance Sheet Components
+Other Current Assets
+Customer accounts and funds receivable was $590 million and $523 million as of
+December 31, 2016 and 2015, respectively.
+Property and Equipment, Net
+7 December 31, 7
+: 2016 7 7 2015 :
+’ (In_rnillions) ’
+) Computer equipment and software $ 4,214 $ 3,894 )
+Land and buildings, including building improvements 619 591
+) Leasehold improvements 334 305 )
+Furniture and fixtures 157 157
+) Construction in progress and other 160_ 131)
+Property and equipment, gross 5,484 5,078
+) Accumulated depreciation (3,968)_ (3,524))
+Property and equipment, net $ 1,516 $ 1,554
+F-30

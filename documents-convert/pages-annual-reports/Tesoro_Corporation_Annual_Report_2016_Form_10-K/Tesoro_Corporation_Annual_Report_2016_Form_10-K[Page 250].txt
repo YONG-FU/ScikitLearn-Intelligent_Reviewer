@@ -1,0 +1,46 @@
+(4) the Fixed Charges of such Person and its Restricted Subsidiaries for such period (together with items excluded from the deﬁnition of “Fixed
+Charges” pursuant to clauses (1)(a)(s) through (2) and clause (2) thereof), to the extent that any such Fixed Charges was deducted in computing such
+Consolidated Net Income; plus
+(5) depreciation, amortization (including amortization of intangibles but excluding amortization of prepaid cash expenses that were paid in a
+prior period) and other non-cash expenses (excluding any such non-cash expense to the extent that it represents an accrual of or reserve for cash
+expenses in any future period or amortization of a prepaid cash expense that was paid in a prior period) of such Person and its Restricted Subsidiaries
+for such period to the extent that such depreciation, amortization and other non-cash expenses were deducted in computing such Consolidated Net
+Income; plus
+(6) unrealized non-cash losses resulting from foreign currency balance sheet adjustments required by GAAP to the extent such losses were
+deducted in computing such Consolidated Net Income; minus
+(7) non-cash items increasing such Consolidated Net Income for such period, other than the accrual of revenue in the ordinary course of business
+and other than any non-cash gains to the extent they represent the reversal of an accrual or reserve for a potential cash item that reduced Consolidated
+Cash Flow in any prior period,
+in each case, on a consolidated basis and determined in accordance with GAAP.
+“Consolidate,d,Net,Inc,ome” means, with respect to any speciﬁed Person for any period, the aggregate of the Net Income attributable to such Person and
+its Restricted Subsidiaries for such period, on a consolidated basis, determined in accordance with GAAP; provided that:
+(1) the aggregate Net Income (but not loss) of any Person that is not a Restricted Subsidiary or that is accounted for by the equity method of
+accounting will be included only to the extent of the amount of dividends or similar distributions paid in cash to the speciﬁed Person or a Restricted
+Subsidiary of the Person;
+(2) [reserved];
+(3) the cumulative effect of a change in accounting principles will be excluded;
+(4) unrealized losses and gains under Hedging Obligations included in the determination of Consolidated Net Income, including, without
+limitation those resulting from the application of Accounting Standards Codiﬁcation No. 815 will be excluded;
+(5) any gain or loss, together with any related provision for taxes on such gain or loss, realized in connection with (a) any asset sale (including
+dispositions pursuant to sale-and-leaseback transactions) or (b) the disposition of any securities by such Person or the extinguishment of any
+Indebtedness or Hedging Obligations of such Person shall be excluded;
+(6) any impairment charge or asset write-off pursuant to Accounting Standards Codiﬁcation No. 350, “Goodwill and Other Intangible Assets,”
+shall be excluded;
+(7) any non-cash or other charges relating to any premium or penalty paid, write-off of deferred ﬁnance costs or other charges in connection with
+redeeming or retiring any Indebtedness prior to its Stated Maturity shall be excluded;
+(8) any non-cash compensation charge arising from any grant of stock, stock options or other equity-based awards shall be excluded; and
+(9) any extraordinary, unusual or nonrecurring gain, loss or charge, together with any related provision for taxes on such extraordinary or
+nonrecurring gain, loss or charge, shall be excluded.
+“Consolidated Net Tangible Assets” means, with respect to any Person at any date of determination, the aggregate amount of total assets included in
+such Person’s most recent quarterly or annual consolidated balance sheet prepared in accordance with GAAP less applicable reserves reﬂected in such
+balance sheet, aﬂer deducting the following amounts: (a) all current liabilities reﬂected in such balance sheet, and (b) all goodwill, trademarks, patents,
+unamortized debt discounts and expenses and other like intangibles reﬂected in such balance sheet, with such pro forma adjustments to total assets, reserves,
+current liabilities, goodwill, trademarks, patents, unamortized debt discounts and expenses and other like intangibles as are appropriate and consistent with
+the pro forma adjustment provisions set forth in the deﬁnition of “Fixed Charge Coverage Ratio.”
+“CorporatelruSLOfﬁcepftheletustee” will be at the address of the Trustee speciﬁed in ,S,e,c,tion,1,2,.0,2, hereof or such other address as to which the
+Trustee may give notice to the Issuers.
+“CieditAgreements” means (1) that certain Third Amended and Restated Credit Agreement, dated as of January 29, 2016, by and among Tesoro
+Logistics LP, Bank of America, NA, as administrative agent, swing line lender and L/ C issuer, and the ﬁnancial institutions from time to time party thereto,
+providing for revolving credit borrowings, letters of credit and swing line loans, including any related notes, Guarantees, collateral documents, instruments
+and agreements executed in connection therewith, and, in each case,
+-5-

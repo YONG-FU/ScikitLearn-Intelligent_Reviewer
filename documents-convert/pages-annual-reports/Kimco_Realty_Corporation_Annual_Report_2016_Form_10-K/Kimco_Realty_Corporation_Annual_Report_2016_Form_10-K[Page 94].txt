@@ -1,0 +1,50 @@
+KIMCO REALTY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, continued
+(1) As of December 31, 2016 and 2015, the Company determined that $6.5 million and $5.9 million, respectively, of the Marketable securities estimated fair
+value were classiﬁed within Level 1 of the fair value hierarchy and the remaining $1.6 million and $1.7 million, respectively, were classified within Level 3
+of the fair value hierarchy.
+(2) The Company determined that its valuation of the Senior Unsecured Notes and MTNs were classified within Level 2 of the fair value hierarchy and the Term
+Loan and Credit Facility were classified within Level 3 of the fair value hierarchy.
+(3) The Company determined that its valuation of these Mortgages payable was classified within Level 3 of the fair value hierarchy.
+The Company has certain financial instruments that must be measured under the FASB’s Fair Value Measurements and
+Disclosures guidance, including available for sale securities. The Company currently does not have non-financial assets and non—
+financial liabilities that are required to be measured at fair value on a recurring basis.
+In instances where the determination of the fair value measurement is based on inputs from different levels of the fair value
+hierarchy, the level in the fair value hierarchy within which the entire fair value measurement falls is based on the lowest level
+input that is significant to the fair value measurement in its entirety. The Company’s assessment of the significance of a particular
+input to the fair value measurement in its entirety requires judgment, and considers factors specific to the asset or liability.
+The Company from time to time has used interest rate swaps to manage its interest rate risk. The fair values of interest rate swaps
+are determined using the market standard methodology of netting the discounted future fixed cash receipts (or payments) and the
+discounted expected variable cash payments (or receipts). The variable cash payments (or receipts) are based on an expectation of
+future interest rates (forward curves) derived from observable market interest rate curves. Based on these inputs, the Company
+has determined that interest rate swap valuations are classified within Level 2 of the fair value hierarchy.
+The tables below present the Company’s financial assets and liabilities measured at fair value on a recurring basis as of December
+31, 2016 and 2015, aggregated by the level in the fair value hierarchy within which those measurements fall (in thousands):
+Balance at
+December 31, 2016 Level 1 7 Level 2 7 Level 3
+[ Assets: J
+Marketable eqtlty securities $ 6,502 $ 6,502 $ - $ -
+[ Liabilities: l
+Interest rate swaps $ 975 $ - $ 975 $ -
+Balance at
+December 31, 2015 Level 1 7 Level 2 7 Level 3
+[ Assets: J
+Marketable eqtlty securities $ 5,909 $ 5,909 $ - $ -
+[ Liabilities: l
+Interest rate swaps $ 1,426 $ - $ 1,426 $ -
+Assets measured at fair value on a non-recurring basis at December 31, 2016 and 2015 are as follows (in thousands):
+Balance at
+December 31, 2016 Level 1 Level 2 Level 3
+[ Real estate $ 117,930 $ - $ - $ 117,930 ]
+Balance at
+December 31, 2015 Level 1 Level 2 Level 3
+[ Real estate $ 52,439 $ - $ - $ 52,439 ]
+During the year ended December 31, 2016, the Company recognized impairment charges related solely to adjustments to property
+carrying values of $93.3 million. The Company’s estimated fair values were primarily based upon estimated sales prices from
+third party offers that were based on signed contracts, appraisals or letters of intent for which the Company does not have access
+to the unobservable inputs used to determine these estimated fair values. For the appraisals, the capitalization rates primarily
+range from 7.75% to 9.00% and discount rates primarily range from 9.25% to 12.17% which were utilized in the models based
+upon unobservable rates that the Company believes to be within a reasonable range of current market rates for each respective
+investment. Based on these inputs the Company determined that its valuation of these investments was classified within Level 3
+of the fair value hierarchy.
+74

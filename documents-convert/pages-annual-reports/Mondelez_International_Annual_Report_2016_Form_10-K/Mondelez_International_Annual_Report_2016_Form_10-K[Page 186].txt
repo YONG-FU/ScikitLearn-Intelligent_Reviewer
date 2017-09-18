@@ -1,0 +1,47 @@
+SECTION 1106. Securities Payable on Redemption Date.
+Notice of redemption having been given as aforesaid, the Securities so to be redeemed shall, on the Redemption Date, become due and payable at the
+Redemption Price therein specified in the currency or currency unit in which the Securities of such series are payable (except as otherwise provided pursuant to
+Section 301 for the Securities of such series and except as provided in Sections 311(b) and 311(d)) and from and after such date (unless the Company shall default
+in the payment of the Redemption Price) such Securities shall cease to bear interest. Upon surrender of such Security for redemption in accordance with said notice,
+such Security or speciﬁed portions thereof shall be paid by the Company at the Redemption Price; provided, however, that unless otherwise speciﬁed as
+contemplated by Section 301, installments of interest on Registered Securities whose Stated Maturity is on or prior to the Redemption Date shall be payable to the
+Holders of such Securities, or one or more Predecessor Securities, registered as such at the close of business on the relevant record dates according to their terms
+and the provisions of Section 307.
+If any Security called for redemption shall not be so paid upon surrender thereof for redemption, the principal thereof and premium, if any, thereon shall,
+until paid, bear interest from the Redemption Date at a rate per annum equal to the rate borne by the Security (or, in the case of (i) OID Securities, the Security’s
+Yield to Maturity or (ii) Indexed Securities, the rate determined in accordance with the specified terms of those Securities).
+SECTION 1107. Securities Redeemed in Part.
+Any Registered Security which is to be redeemed only in part shall be surrendered at the Place of Payment (with, if the Company or the Trustee for such
+Security so requires, due endorsement by, or a written instrument of transfer in form satisfactory to the Company and the Security Registrar for such Security duly
+executed by, the Holder thereof or his attorney duly authorized in writing), and the Company shall execute and such Trustee shall authenticate and deliver to the
+Holder of such Security without service charge, a new Registered Security or Securities, of any authorized denomination as requested by such Holder, of the same
+series and having the same terms and provisions and in an aggregate principal amount equal to and in exchange for the unredeemed portion of the principal of the
+Registered Security so surrendered. In the case of a Global Note, the aggregate principal amount of such Global Note shall be reduced in accordance with the
+applicable procedures of the Trustee and the Depositary.
+SECTION 1108. Tax Redemption; Special Tax Redemption.
+(a) Unless otherwise specified pursuant to Section 301, Securities of any series may be redeemed at the option of the Company in whole, but not in part, on
+not more than 60 days’ and not less than 30 days’ notice, on any Redemption Date at the Redemption Price speciﬁed pursuant to Section 301, if the Company
+determines that (A) as a result of any change in or amendment to the laws (or any regulations or rulings promulgated thereunder) of the United States or of any
+political subdivision or taxing authority thereof or therein affecting taxation, or any change in official position regarding application or interpretation of such laws,
+regulations or rulings (including a holding by a court of competent jurisdiction in the United States), which change or amendment is announced or becomes
+effective on or after a date specified in Section 301 with respect to any Security of such series, the Company has or will become obligated to pay additional amounts
+pursuant to Section 1010 with respect to any Security of such series or (B) on or after a date speciﬁed in Section 301 with respect to any Security of such series, any
+action has been taken by any taxing authority of, or any decision has been rendered by a court of competent jurisdiction in, the United States or any political
+subdivision or taxing authority thereof or therein, including any of those actions specified in (A) above, whether or not such action was taken or decision was
+rendered with respect to the Company, or any change, amendment, application or interpretation shall be officially proposed, which, in any such case, in the Opinion
+of Counsel to the Company will result in a material probability that the Company will become obligated to pay additional amounts with respect to any Security of
+such series, and (C) in any such case specified in (A) or (B) above the Company, in its business judgment, determines that such obligation cannot be avoided by the
+use of reasonable measures available to the Company. Any such redemption shall comply with the provisions of Section 1104 hereof
+(b) Reserved.
+Article Twelve
+SINKIN G FUNDS
+SECTION 1201. Applicability of This Article.
+Redemption of Securities through operation of a sinking fund as permitted or required by any form of Security issued pursuant to this Indenture shall be made
+in accordance with such form of Security and this Article, provided, however, that if any provision of any such form of Security shall conﬂict with any provision of
+this Article, the provision of such form of Security shall govern.
+The minimum amount of any sinking fund payment provided for by the terms of Securities of any particular series is herein referred to as a “mandatory
+sinking fund payment”, and any payment in excess of such minimum amount provided for by the terms of Securities of any particular series is herein referred to as
+an “optional sinking fund payment”. If provided for by the terms of Securities of any particular series, the cash amount of any sinking fund payment may be subject
+to reduction as provided in Section 1202. Each sinking fund payment shall be applied to the redemption of Securities of any particular series as provided for by the
+terms of Securities of that series.
+47

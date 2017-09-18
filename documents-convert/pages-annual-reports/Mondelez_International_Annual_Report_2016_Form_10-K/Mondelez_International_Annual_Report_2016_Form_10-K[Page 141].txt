@@ -1,0 +1,44 @@
+“Consolidated Net Tangible Assets” means the excess over current liabilities of all assets appearing on the most recent quarterly or annual consolidated
+balance sheet of the Company and its consolidated Subsidiaries less goodwill and other intangible assets and the minority interests of others in Subsidiaries, all as
+appearing on such balance sheet.
+“Conversion Event” means the unavailability of any Foreign Currency or currency unit due to the imposition of exchange controls or other circumstances
+beyond the Company’s control.
+“Corporate Trust Office” means the office of the Trustee for Securities of any series at which at any particular time its corporate trust business shall be
+principally administered, which office of Deutsche Bank Trust Company Americas, at the date of the execution of this Indenture, is located at Deutsche Bank Trust
+Company Americas, 60 Wall Street, 16th Floor, MS: NYC60-1630 New York NY 10005, Attention: Corporates Team / Mondeléz International, Inc. (in addition,
+copies of correspondence are to be sent to Deutsche Bank National Trust Company for Deutsche Bank Trust Company Americas, Trust & Securities Services, 100
+Plaza One, 6th Floor — MS J CY03-0699, Jersey City, NJ 0731 1-3 901, Attention: Corporates Team / Mondeléz International, Inc.), or such other address as the
+Trustee may designate from time to time by notice to the Holders and the Company, or the principal corporate trust office of any successor Trustee (or such other
+address as such successor Trustee may designate from time to time by notice to the Holders and the Company).
+“corporation” includes corporations, limited liability companies, companies and business trusts.
+“Currency Determination Agent”, with respect to Securities of any series, means, unless otherwise specified in the Securities of any series, a New York
+Clearing House bank designated pursuant to Section 301 or Section 312.
+“Defaulted Interest” has the meaning specified in Section 307.
+“Depositary” means, with respect to the Securities of any series issuable or issued in the form of a Global Security, the Person designated as Depositary by
+the Company pursuant to Section 301 until a successor Depositary shall have become such pursuant to the applicable provisions of this Indenture, and thereafter
+“Depositary” shall mean or include each Person who is then a Depositary hereunder, and if at any time there is more than one such Person, “Depositary” as used
+with respect to the Securities of any such series shall mean the Depositary with respect to the Securities of that series.
+“Determination Notice” has the meaning specified in Section 1108(b).
+“Dollars” and the sign “39” mean the currency of the United States of America as at the time of payment is legal tender for the payment of public and private
+debts.
+“Election Date” has the meaning specified in Section 311(e).
+“Euro” means the single currency of the participating member states of the European Union as defined under EC Regulation 1103/97 adopted under Article
+235 of the Treaty on European Union and under EC Regulation 974/98 adopted under Article 1091(4) of the Treaty on European Union or any successor European
+legislation from time to time.
+“Euroclear” means Euroclear Bank S.A.lN.A., as Operator of the Euroclear System.
+“Event of Default” has the meaning speciﬁed in Section 501.
+“Exchange Date” has the meaning specified in Section 304.
+“Foreign Currency” means a currency issued and actively maintained as a country’s recognized unit of domestic exchange by the government of any country
+other than the United States, and such term shall include the Euro.
+“Global Exchange Agent” has the meaning specified in Section 304.
+“Global Securities” means Securities in global form.
+“Government Obligations” means securities which are (i) direct obligations of the government which issued the currency in which the Securities of a particular
+series are payable (except as provided in Section 311(b) and 311(d) in which case with respect to Securities for which an election has occurred pursuant to
+Section 311(b), or a Conversion Event has occurred as provided in Section 311(d), such obligations shall be issued in the currency or currency unit in which such
+Securities are payable as a result of such election or Conversion Event) or (ii) obligations of a Person controlled or supervised by or acting as an agency or
+instrumentality of the government which issued the currency in which the Securities of such series are payable (except as provided in Section 311(b) and 311(d), in
+which case with respect to Securities for which an election has occurred pursuant to Section 311(b), or a Conversion Event has occurred as provided in
+Section 311(d), such obligations shall be issued in the currency or currency unit in which such Securities are payable as a result of such election or Conversion
+Event), the payment of which is unconditionally guaranteed by such government, which, in either case, are full faith and credit obligations of such government
+payable in such currency and are not callable or redeemable at the option of the issuer thereof.
+3

@@ -1,0 +1,44 @@
+Pages where conﬁdential treatment has been requested are stamped “Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled
+with the Commission,” and places where information has been redacted have been marked with (***).
+Exhibit 10.25CG
+NINETY- THIRD AMENDMENT
+TO
+AMENDED AND RESTATED
+CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT
+BETWEEN
+CSG SYSTEMS, INC.
+AND
+CHARTER COMMUNICATIONS HOLDING COMPANY, LLC
+This Ninety-third Amendment (the “Amendment”) is made by and between CSG Systems, Inc ., a Delaware corporation (“CSG”), and Charter Communications
+Holding Company, LLC , a Delaware limited liability company (“Customer”). CSG and Customer entered into that certain Amended and Restated CSG Master
+Subscriber Management System Agreement dated February 9, 2009, as amended (the “Agreement”), and now desire to further amend the Agreement in accordance with
+the terms and conditions set forth in this Amendment. If the terms and conditions set forth in this Amendment shall be in conﬂict with the Agreement, the terms and
+conditions of this Amendment shall control. Any terms in initial capital letters or all capital letters used as a defined term but not defined in this Amendment shall have
+the meaning set forth in the Agreement. Upon execution of this Amendment by the parties, any subsequent reference to the Agreement between the parties shall mean
+the Agreement as amended by this Amendment. Except as amended by this Amendment, the terms and conditions set forth in the Agreement shall continue in full force
+and effect according to their terms.
+WHEREAS, Customer has previously purchased and CSG has provided the Front Counter Receipt Printing Application (as deﬁned in the Agreement) for Customer’s
+use, pursuant to the Agreement, as more particularly described in the Forty-second Amendment to the Agreement, effective as of July 24, 2013 (CSG document no.
+2503374) (the “42nd Amendment”); and
+WHEREAS, Customer desires to use and CSG agrees to provide an enhancement to Customer’s Front Counter Receipt Printing Application.
+NOW, THEREFORE, CSG and Customer agree as follows, as of the Effective Date (defined below):
+1. Customer hereby requests and CSG agrees to implement an enhancement to the Front Counter Receipt Printing Application such that the Front Counter
+receipt printer will have the capability to support Customer’s virtual desktop infrastructure (“VDI”) (herein, the “VDI Enhancement”).
+2. As a result, Scheduleili, Fees, CSG Services, Subsection IX., “Custom Implementation Services” shall be amended to add a new subsection 3. entitled
+“Front Counter Receipt Printing Application Additional Enhancement,” as follows:
+I Description of Item/Unit of Measure I Frequency: I Fee I
+I3. Front Counter Receipt Printing Application Enhancement I I I
+I a)Iimplementatim Fee (Note 4) I ***-**** I
+l Recurring Support Fees *** ***_**** ********** l l
+- ******* ******* *****)7(N0te i i -
+Note 4 : The Implementation Fee for the Additional Enhancement shall be set forth in that certain mutually agreed upon Statement of Work entitled “Implement Enhancement to Front Counter
+Receipt Printer Application” (CSG document no. 4113085) (the “SOW”).
+Note 5 : Upon completion of the implementation of the VDI Enhancement, CSG shall provide an **** *** ***-**** (***) ***** of for the Front Counter
+Receipt Printing Application (the “********** ******* *****”). CSG shall invoice Customer and Customer shall pay the ******* ********* ******* *** as provided in
+section 3.b of the above table.
+Note 6: For purposes of clariﬁcation, such **** *** ***_**** Of******* is in ******** to the ******_**** ***** of ******* already
+provided by CSG to Customer for the initial Front Counter Receipt Printing Application as provided in 42nd Amendment (collectively, the ******* ******* ***** in this Note 6
+are the “******* *****”). For example, upon completion of implementation of the VDI Enhancement, the resulting maximum combined total for the Front Counter
+Receipt Printing Applications will be ******-***** *** *** **** (****)
+Note 7: The ***** are not on a ***** to ***** ******* *** **** in any ***** **** *** ** **** to any
+requested by Customer in any *** (*) ***** that will result in the need for ***** in excess

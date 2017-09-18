@@ -1,0 +1,51 @@
+Table of contents
+The Separation could result in substantial tax liability.
+We obtained an opinion of outside counsel that, for US. federal income tax purposes, the Separation qualified, for both
+the company and our stockholders, as a tax-free reorganization within the meaning of Sections 368(d)(l)(D) and 355 of the
+US. Internal Revenue Code of 1986, as amended. In addition, we obtained a private letter ruling from the Internal Revenue
+Service (the “IRS”) and opinions of outside counsel regarding certain matters impacting the US. federal income tax treatment
+of the Separation for the company and certain related transactions as transactions that are generally tax-free for US. federal
+income tax purposes. The opinions of outside counsel and the IRS private letter ruling were based, among other things, on
+various factual assumptions we have authorized and representations we have made to outside counsel and the IRS. If any of
+these assumptions or representations are, or become, inaccurate or incomplete, reliance on the opinions and IRS private letter
+ruling may be affected. An opinion of outside counsel represents their legal judgment but is not binding on the IRS or any
+court. Accordingly, there can be no assurance that the IRS will not challenge the conclusions reﬂected in the opinions or that a
+court would not sustain such a challenge. Notwithstanding the foregoing, we incurred certain tax costs in connection with the
+Separation, including non-US. tax expenses resulting from the Separation in multiple non-U.S. jurisdictions that do not legally
+provide for tax-free Separation, which may be material. If the Separation or certain internal transactions undertaken in
+anticipation of the Separation are determined to be taxable for US. federal income tax purposes, we and/or our stockholders
+that are subject to US. federal income tax could incur significant US. federal income tax liabilities.
+We 0r Hewlett Packard Enterprise may fail to perform antler the transaction agreements executed as part of the Separation.
+In connection with the Separation, we and Hewlett Packard Enterprise entered into several agreements, including among
+others a transition services agreement, a separation and distribution agreement, a tax matters agreement, an employee matters
+agreement, a real estate matters agreement, a commercial agreement and an IT service agreement. The transition services
+agreement provides for the performance of certain services by each company for the benefit of the other for a transition period
+after the Separation. The separation and distribution agreement, tax matters agreement, employee matters agreement and real
+estate matters agreement determine the allocation of assets and liabilities between the companies following the Separation for
+those respective areas and include any necessary indemnifications related to liabilities and obligations. The commercial
+agreement establishes a bilateral relationship between Hewlett Packard Enterprise and us for the purchase and sale of
+commercially available products and services for internal use, incorporation and bundling in OEM products and services, resale
+to customers and use in the provision of managed services to customers, as well as joint customer pursuits and joint
+development activities. The IT service agreement provides for the performance by one of Hewlett Packard Enterprise’s
+subsidiaries of certain application development and maintenance and IT infrastructure services for us. We will rely on Hewlett
+Packard Enterprise to satisfy its performance and payment obligations under these agreements. If Hewlett Packard Enterprise is
+unable to satisfy its obligations under these agreements, we could incur operational diﬁiculties or losses that could have a
+material and adverse effect on our business, financial condition and results of operations.
+ITEM 1B. Unresolved Staff Comments.
+None.
+ITEM 2. Properties.
+As of October 31, 2O 16, we owned or leased approximately 21 million square feet of space worldwide, a summary of
+which is provided below.
+Fiscal year ended
+October 31, 2016
+Owned Leased Total
+: (square feet in millions) :
+[Administration and support 3.9 5.6 9.5 1
+(Percentage) 41% 59% 100%
+[Core data centers, manufacturing plants, research and development I
+facilities and warehouse operations 2.4 6.3 8.7
+(Percentage) 7 28%,: 72%,: 100%,
+I Total“) * 6.3 ” 11.9 ” 18.2 '|
+(Percentage) 35% 65% 100%
+(1) Excludes 3 million square feet of vacated space, of which 2 million square feet is leased to third parties.
+26

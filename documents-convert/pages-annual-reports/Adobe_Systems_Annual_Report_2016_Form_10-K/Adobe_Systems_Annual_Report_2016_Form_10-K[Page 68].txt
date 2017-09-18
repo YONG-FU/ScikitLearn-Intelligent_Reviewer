@@ -1,0 +1,47 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Our services and support revenue is composed of consulting, training and maintenance and support, primarily related to
+the licensing of our enterprise, mobile and device products and solutions. Our support revenue also includes technical support and
+developer support to partners and developer organizations related to our desktop products.
+Our consulting revenue is recognized using a time and materials basis and is measured monthly based on input measures,
+such as hours incurred to date, with consideration given to output measures, such as contract milestones when applicable.
+Our maintenance and support offerings, which entitle customers to receive product upgrades and enhancements on a when
+and if available basis or technical support, depending on the offering, are recognized ratably over the performance period of the
+arrangement.
+Our software subscription offerings, which may include product upgrades and enhancements on a when and if available
+basis, hosted services, and online storage are generally offered to our customers over a specified period of time and we recognize
+revenue associated with these arrangements ratably over the subscription period.
+Product Revenue
+We recognize our product revenue upon shipment, provided all other revenue recognition criteria have been met. Our desktop
+application product revenue from distributors is subject to agreements allowing limited rights of return, rebates and price protection.
+Our direct sales and OEM sales are also subject to limited rights of return. Accordingly, we reduce revenue recognized for estimated
+future returns, price protection and rebates at the time the related revenue is recorded. The estimates for returns are adjusted
+periodically based upon historical rates of returns, inventory levels in the distribution channel and other related factors.
+We recognize OEM licensing revenue, primarily royalties, when OEMs ship products incorporating our software, provided
+collection of such revenue is deemed probable. For certain OEM customers, we must estimate royalty revenue due to the timing
+of securing customer information. This estimate is based on a combination of our generated forecasts and actual historical reporting
+by our OEM customers. To substantiate our ability to estimate revenue, we review license royalty revenue reports ultimately
+received from our significant OEM customers in comparison to the amounts estimated in the prior period.
+Our product-related deferred revenue includes maintenance upgrade revenue and customer advances under OEM license
+agreements. Our maintenance upgrade revenue for our desktop application products is included in our product revenue line item
+as the maintenance primarily entitles customers to receive product upgrades. In cases where we provide a specified free upgrade
+to an existing product, we defer the fair value for the specified upgrade right until the future obligation is fulﬁlled or when the
+right to the specified free upgrade expires.
+Rights of Return, Rebates and Price Protection
+As discussed above, we offer limited rights of return, rebates and price protection of our products under various policies
+and programs with our distributors, resellers and/or end-user customers. We estimate and record reserves for these programs as
+an offset to revenue and accounts receivable. Below is a summary of each of the general provisions in our contracts:
+- Distributors are allowed limited rights of return of products purchased during the previous quarter. In addition, distributors
+are allowed to return products that have reached the end of their lives, as defined by us, and products that are being
+replaced by new versions.
+° We offer rebates to our distributors, resellers and/or end user customers. The amount of revenue that is reduced for
+distributor and reseller rebates is based on actual performance against objectives set forth by us for a particular reporting
+period (volume, timely reporting, etc.). If mail-in or other promotional rebates are offered, the amount of revenue reduced
+is based on the dollar amount of the rebate, taking into consideration an estimated redemption rate calculated using
+historical trends.
+- From time to time, we may offer price protection to our distributors that allow for the right to a credit if we permanently
+reduce the price of a software product. The amount of revenue that is reduced for price protection is calculated as the
+difference between the old and new price of a software product on inventory held by the distributor immediately prior to
+the eﬁective date of the decrease.
+68

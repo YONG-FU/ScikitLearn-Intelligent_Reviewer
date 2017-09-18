@@ -1,0 +1,44 @@
+EATON CORPORATION plc
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Amounts are in millions unless indicated otherwise (per share data assume dilution).
+Note 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+General Information and Basis of Presentation
+Eaton Corporation plc (Eaton or the Company) is a power management company with 2016 net sales of $19.7 billion. The
+Company provides energy-efﬁcient solutions that help its customers effectively manage electrical, hydraulic and mechanical
+power more efﬁciently, safely and sustainably. Eaton has approximately 95,000 employees in over 60 countries and sells
+products to customers in more than 175 countries.
+The consolidated ﬁnancial statements of the Company have been prepared in accordance with generally accepted
+accounting principles in the United States. Preparation of the consolidated ﬁnancial statements requires management to make
+estimates and assumptions that affect amounts reported in the consolidated ﬁnancial statements and notes. Actual results could
+differ from these estimates. Management has evaluated subsequent events through the date the consolidated ﬁnancial
+statements were ﬁled with the Securities Exchange Commission.
+The consolidated ﬁnancial statements include the accounts of Eaton and all subsidiaries and other entities it controls.
+Intercompany transactions and balances have been eliminated. The equity method of accounting is used for investments in
+associate companies where the Company has signiﬁcant inﬂuence and generally a 20% to 50% ownership interest. Equity
+investments are evaluated for impairment whenever events or circumstances indicate the book value of the investment exceeds
+fair value. An impairment would exist if there is an other-than-temporary decline in value. These associate companies are not
+material either individually, or in the aggregate, to Eaton's consolidated ﬁnancial statements. Eaton does not have off-balance
+sheet arrangements or ﬁnancings with unconsolidated entities. In the ordinary course of business, the Company leases certain
+real properties and equipment, as described in Note 8.
+Eaton's functional currency is United States Dollars (U SD). The functional currency for most subsidiaries is their local
+currency. Financial statements for these subsidiaries are translated at year-end exchange rates as to assets and liabilities and
+weighted-average exchange rates as to revenues and expenses. The resulting translation adjustments are recognized in
+Accumulated other comprehensive loss.
+During 2016, the Company adopted Accounting Standards Update 2015 -03, Interest - Imputation of Interest (Subtopic
+835-30): Simplifying the Presentation of Debt Issuance Costs (ASU 2015-03). ASU 2015-03 requires that debt issuance costs
+be presented in the balance sheet as a direct deduction from the related debt liability rather than an asset. The Company has
+applied this standard retrospectively. The adoption of ASU 2015-03 resulted in the reclassiﬁcation of $35 Within the Company's
+Consolidated Balance Sheets as of December 31, 2016 and December 31, 2015, respectively, from Other noncurrent assets to a
+reduction in Long-term debt.
+During 2016, the Company adopted Accounting Standards Update 2015-07, Fair Value Measurement (Topic 820):
+Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent) (ASU 2015-07).
+Topic 820 allows for investments to be valued at their net asset value if their share price is not published for current
+transactions (referred to as the practical expedient). Prior to ASU 2015-07, there has been diversity in practice related to how
+investments measured using the practical expedient are categorized within the fair value hierarchy. With the adoption of ASU
+2015 -07, these investments are no longer categorized in the fair value hierarchy, which eliminates the diversity in practice
+resulting from the way in which these investments were classiﬁed. In addition, ASU 2015 -07 removes the requirement to make
+certain disclosures for these investments. The Company retrospectively applied the requirements of ASU 2015-07 for all
+comparative periods presented in Note 7 resulting in investments measured using the net asset value practical expedient no
+longer being categorized in the fair value hierarchy.
+Certain prior year amounts have been reclassiﬁed to conform to the current year presentation.
+21

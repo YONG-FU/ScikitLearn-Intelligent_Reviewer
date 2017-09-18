@@ -1,0 +1,39 @@
+Distributed Relational Database
+OceanBase, our proprietary distributed relational database management system, plays a critical role in
+supporting transaction processing on our marketplaces in a cost-efficient manner.
+Search and Online Marketing
+Our standard product unit database, or SPU database, is built on the vast amount of items listed on Taobao
+Marketplace and Tmall. The comprehensive transactional and user behavior data generated on our marketplaces
+enable us to construct a powerful search engine that generates personalized results.
+Our online marketing technology platform supports millions of online marketers and delivers tens of billions
+of online marketing impressions every day. Our online marketing technology enables us to continuously improve
+the effectiveness of our online marketing services for our merchants through the use of aggregated behavioral
+targeting data and analytics.
+Deep Learning
+Alimama utilizes cloud-based deep learning extensively to enhance the consumer targeting efficiency and
+return on investments for online marketers of our P4P marketing, display marketing and DMP service offerings.
+Supported by our Apsara cloud computing system, Alimama operates a cluster of servers that is capable of
+analyzing terabytes of data points for the modeling of tens of billions online marketing impressions.
+Security
+We are committed to maintaining a secure e-commerce ecosystem. Our back-end security system handles
+hundreds of millions of instances of malicious attacks each day to safeguard the security of our e-commerce and
+cloud platforms.
+Multi-Region Availability
+Compared to social media platforms, the data availability and security requirement for transactions platforms
+are higher. Our transaction system is kept live and available in data centers in multiple regions in China. This
+configuration provides more scalability, stability and redundancy than the traditional redundancy configurations.
+YunOS
+Our YunOS is a cloud-based mobile operating system for smartphones, Internet of Things devices, set-top
+boxes, smart televisions and smart cars, among others. With YunOS, users can conveniently and securely
+synchronize data, such as call data, text messages and photos, across their devices through the cloud. System level
+based HS/Web, dynamic service linking and unified data technologies, as well as a multi-level security framework
+enable developers to deliver location-based and contextual Internet services with a focus on the data needs
+of users.
+Sales and Marketing
+As Taobao Marketplace is China’s largest online shopping destination, we enjoy significant organic traffic
+through word-of—mouth and general awareness of our brand and platform. We believe word-of-mouth, and the
+reputation and ubiquitous awareness of our brand and platforms in China and, increasingly, abroad, provide us
+with the best and most cost-efficient marketing channel. We employ a variety of methods to attract potential
+merchants and consumers, paying members, online marketers and other ecosystem participants and to promote
+our brands.
+81

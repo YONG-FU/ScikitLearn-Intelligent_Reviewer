@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+Cautionary Note on Forward-Looking Statements
+For purposes of this Annual Report, the terms “Oracle,” “we,” “us” and “our” refer to Oracle Corporation and its consolidated subsidiaries. This Annual Report on
+Form 10-K contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise
+contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation
+Reform Act of 1995. These include, among other things, statements regarding:
+° our expectation that we will continue to acquire companies, products, services and technologies to further our corporate strategy;
+° our belief that our acquisitions should allow us to grow and continue to make investments in research and development;
+° our expectation that the total revenues of our cloud and on-premise software business generally will continue to increase due to continued demand for our
+software products, expected growth in our cloud and software license updates and product support offerings, and contributions from acquisitions;
+° our expectation that we will continue to place significant strategic emphasis on growing our cloud software as a service (SaaS) and platform as a service
+(PaaS) business, which will affect the growth of our cloud SaaS and PaaS revenues and our new software license revenues and the related expenses;
+° our intention that we will renew our cloud SaaS and PaaS contracts when they are eligible for renewal;
+° our belief that software license updates and product support revenues and margins will grow;
+° our belief that our PaaS offerings are a large opportunity for us to expand our cloud and on-premise software business;
+° our expectation that our hardware business will have lower operating margins as a percentage of revenues than our cloud and on-premise software
+business;
+° our expectation that we will continue to make significant investments in research and development and related product opportunities, including those
+related to hardware products and services, and our belief that research and development efforts are essential to maintaining our competitive position;
+° our international operations providing a significant portion of our total revenues and expenses;
+0 continued realization of gains or losses with respect to our foreign currency exposures;
+- the sufﬁciency of our sources of funding for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt
+repayments and other matters;
+° our expectation that we will continue paying comparable cash dividends on a quarterly basis;
+° our belief that we have adequately provided under US generally accepted accounting principles for outcomes related to our tax audits and that the ﬁnal
+outcome of our tax-related examinations, agreements or judicial proceedings will not have a material effect on our results of operations, our assumptions
+regarding the potential US income tax liability associated with any repatriation of our undistributed earnings held by our foreign subsidiaries, and our
+belief that our net deferred tax assets will be realized in the foreseeable future;
+° our estimates and current intentions regarding potential future goodwill impairment losses, if any;
+° our belief that the outcome of certain legal proceedings and claims to which we are a party will not, individually or in the aggregate, result in losses that
+are materially in excess of amounts already recognized, if any;
+0 the timing and amount of our stock repurchases;
+° our expectation that seasonal trends will continue in the future;
+° our expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements;
+1

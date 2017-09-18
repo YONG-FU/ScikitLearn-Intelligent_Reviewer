@@ -1,0 +1,47 @@
+Predecessor Company Successor Company
+Three Months Ended Three Months Ended
+June 30, June 30, September 30,
+March 31,2015 2015 September30,2015 December3l,2015 March 31,2016 2016 2016 December3l,2016
+(subscribers in thousands)
+’iDEN subscriber units 2,667.5 2,414.5 2,166.2 1,842.0 1,552.0 1,315.1 1,127.8 962.1 ‘
+WCDMA subscriber units 1,672.2 _ 1,970.4 _ _ 2,254.2 _ 2,597.7 _ 2,744.7 _ 2,708.7 _ 2,717.1 _ 2,746.3
+Total subscriber units in
+commercial service —
+beginning of period 4,339.7 4,384.9 4,420.4 4,439.7 4,296.7 4,023.8 3,844.9 3,708.4
+’iDEN net subscriber losses (194.7) (189.0) (208.1) (211.5) (195.2) (149.7) (130.8) (110.1) ‘
+WCDMA net subscriber
+additions (losses) 239.9 _ 224.5 _ _ 227.3 _ 68.5 _ (77.7) _ (29.2) _ (5.7) _ 39.6
+Total net subscriber
+additions (losses) 45.2 35.5 19.2 (143.0) (272.9) (178.9) (136.5) (70.5)
+Migrations from iDEN to
+WCDMA 58.3 _ 59.3 _ _ 116.2 _ 78.5 _ 41.7 _ 37.6 _ 34.9 _ 29.3
+’iDEN subscriber units 2,414.5 2,166.2 1,842.0 1,552.0 1,315.1 1,127.8 962.1 822.7 ‘
+WCDMA subscriber units 1,970.4 _ 2,254.2 _ _ 2,597.7 _ 2,744.7 _ 2,708.7 _ 2,717.1 _ 2,746.3 _ 2,815.2
+Total subscriber units in
+commercial service — end
+of period 4,384.9 4,420.4 4,439.7 4,296.7 4,023.8 3,844.9 _ 3,708.4 _ 3,637.9
+lTotal subscriber turnover 3.15% 3.34% 3.54% 3.74% 4.34% 3.99% 3.99% 3.65%!
+iDEN subscriber turnover 3.25% 3.54% 3.94% 4.48% 4.80% 4.46% 4.65% 4.71%
+WCDMA subscriber ‘
+turnover 2.99% 3.13% 3.21% 3.27% 4.10% 3.78% 3.73% 3.31%l
+The following table represents Nextel Brazil's average monthly revenue per subscriber, or ARPU, for subscribers on both its iDEN and WCDMA
+networks for each of the quarters in 2015 and 2016 in both US. dollars (US$) and in Brazilian reais (BRL). We calculate service ARPU by dividing service
+revenues per period by the weighted average number of subscriber units in commercial service during that period.
+Predecessor Company Successor Company Combined Successor Company
+Three Months Ended Three Months Ended Year Ended Three Months Ended Year Ended
+March 31, June 30, September 30, December 31, December 31, March 31, June 30, September 30, December 31, December 31,
+2015 2015 2015 2015 2015 2016 2016 2016 2016 2016
+Total service ARPU
+(US$) 23 20 18 16 19 16 19 21 20 19
+WCDMA service
+ARPU (US$) 25 22 19 17 20 16 20 21 21 20
+iDEN service ARPU
+(US$) 22 19 17 15 19 15 16 19 18 16
+I l
+Total service ARPU
+(BRL) 66 62 62 62 63 62 66 67 67 65
+WCDMA service
+ARPU (BRL) 70 66 66 65 67 64 70 69 69 68
+iDEN service ARPU
+(BRL) 62 59 58 58 59 57 56 60 59 58
+37

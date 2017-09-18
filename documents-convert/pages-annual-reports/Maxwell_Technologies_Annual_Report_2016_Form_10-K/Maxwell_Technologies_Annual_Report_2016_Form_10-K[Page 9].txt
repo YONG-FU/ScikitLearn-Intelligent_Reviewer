@@ -1,0 +1,37 @@
+We offer our ultracapacitor cells with capacitances ranging from 1 to 3,400 farads. Applications such as hybrid-electric bus, truck and auto drive trains,
+electric rail systems, renewables stabilization and uninterruptible power supply systems require integrated energy storage systems consisting of up to hundreds of
+ultracapacitor cells. To facilitate adoption of ultracapacitors for these larger systems, we have developed integration technologies, including proprietary electrical
+balancing and thermal management systems and interconnect technologies. We hold patents for certain of these technologies. We offer a broad range of standard
+multi—cell modules. Our current standard multi-cell products each incorporate from 6 to 60 of our cells to provide “plug and play” solutions for applications
+requiring from 16 to 160 volts, and these modules are designed to be linked together for higher voltage and higher power applications.
+High- Voltage Capacitors
+Electric utility infrastructure includes switches, circuit breakers, step-down transformers and measurement instruments that transmit, distribute and measure
+high-voltage electrical energy. High-voltage capacitors are used to protect these systems from high-voltage arcing. With operational lifetimes measured in decades,
+these applications require high reliability and durability.
+Under our CONDIS ® line of high-voltage capacitor products, Maxwell has more than 100 years of experience in this industry, and is the world’s largest
+producer of such products for use in utility infrastructure. Engineers with specific expertise in high-voltage systems develop, design and test our high-voltage
+capacitor products in our development and production facility in Rossens, Switzerland. Our high-voltage capacitors are produced through a proprietary assembly
+and automated winding and drying process to ensure consistent quality and reliability. We are continuously upgrading and expanding our high-voltage capacitor
+production facility and high end laboratory which has resulted in a doubling of our output capacity and significant shortening order-to-delivery intervals.
+We sell our high-voltage capacitor products to large systems integrators, which install and service power plants and electrical utility infrastructure
+worldwide.
+Manufacturing
+Our internal manufacturing operations are conducted in production facilities located in Peoria, Arizona and Rossens, Switzerland. We have made substantial
+capital investments to outﬁt and expand our internal production facilities and incorporate mechanization and automation techniques and processes. We have trained
+our manufacturing personnel in advanced operational techniques, added information technology infrastructure and implemented new business processes and
+systems to increase our manufacturing capacity and improve efﬁciency, planning and product quality. Our ultracapacitor electrode material is currently produced
+exclusively at our Peoria facility. We outsource the assembly of our 60 mm diameter large cell ultracapacitors, and subsequently, assembly of large cell-based
+multi—cell modules to Belton Technology Group (“Belton”), a contract manufacturer with operations in Shenzhen, China. In 2010, we outsourced assembly of our
+mid-size D-cell ultracapacitor products and D-cell-based multi-cell modules to Tianjin Lishen Battery J oint-Stock Co. Ltd. (“Lishen”), one of China’s largest
+producers of lithium-ion batteries, based in Tianjin. We believe that we have sufﬁcient capacity to meet near-term demand for all of our product lines.
+Ultracapacz’tors
+We produce electrode material for our own ultracapacitor products, and for sale to other ultracapacitor manufacturers such as Yeong-Long Technologies Co.,
+Ltd. (“YEC”) at our Peoria facility. In 2013, we completed a major electrode capacity expansion in our Peoria facility. This facility gives us sufﬁcient capacity to
+support both our current ultracapacitor production requirements and external electrode demand in the near term. As demand increases, additional increments of
+electrode production capacity can be added within a year through the utilization of established equipment vendors.
+We also produce our engine start module on production lines in our Peoria facility. As noted above, we have outsourced assembly of all other cell types and
+multi—cell modules to contract manufacturers in Asia. To increase reliability, reduce cost, simplify assembly and facilitate automation, we have designed our
+ultracapacitor products to incorporate lower-cost materials and to reduce both the number of parts in a ﬁnished cell and the number of manufacturing process steps
+required to produce them. We intend to continue using outsourced cell and module assembly in countries with cost efficient value added services, but plan to
+continue to produce our proprietary electrode material only in internal production facilities to ensure the continued protection of our intellectual property.
+7

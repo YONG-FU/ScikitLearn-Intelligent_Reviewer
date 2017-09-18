@@ -1,0 +1,46 @@
+Pension Plans
+Changes in certain assumptions could significantly affect pension expense and benefit obligations, particularly the
+estimated long-term rate of return on plan assets and the discount rates used to calculate such obligations:
+- Long-term rate of return on plan assets. The expected long-term rate of return is evaluated on an annual
+basis. We consider a number of factors when setting assumptions with respect to the long-term rate of return,
+including current and expected asset allocation and historical and expected returns on the plan asset
+categories. Actual asset allocations are regularly reviewed and periodically rebalanced to the targeted
+allocations when considered appropriate. Investment gains or losses represent the difference between the
+expected return estimated using the long-term rate of return and the actual return realized. For 2017, we
+reduced the expected return on plan assets assumption to 5.8% from the 6.1% assumption used during 2016,
+reﬂecting lower expected long-term returns due to slowing growth in developed and emerging markets. The
+historical average return (compounded annually) over the 20 years prior to December 31, 2016 was
+approximately 6.5%.
+As of December 31, 2016, our primary plans had cumulative unrecognized investment and actuarial losses of
+approximately $418 million. We amortize the unrecognized net actuarial gains and losses in excess of the
+corridor amount, which is the greater of 10% of a respective plan’s projected benefit obligation or the fair
+market value of plan assets. These unrecognized net losses may increase future pension expense if not oﬁfset
+by (i) actual investment returns that exceed the expected long-term rate of investment returns, (ii) other
+factors, including reduced pension liabilities arising from higher discount rates used to calculate pension
+obligations or (iii) other actuarial gains when actual plan experience is favorable as compared to the assumed
+experience. A 100 basis point decrease or increase in the long-term rate of return on pension assets would
+correspondingly increase or decrease annual net periodic pension benefit expense by approximately $10
+million.
+- Discount rate. The discount rate used to determine the present value of our future pension obligation at
+December 31, 2016 was based on a yield curve constructed from a portfolio of high-quality corporate debt
+securities for which the timing and amount of cash ﬂows approximate the estimated benefit payments of the
+plans. The plans’ expected cash ﬂows are then discounted by the resulting year-by-year spot rates. A 100
+basis point decline in the weighted-average pension discount rate would increase annual net periodic pension
+benefit expense by approximately $7 million and the December 31, 2016 pension liability would increase by
+approximately $97 million.
+Pension expense for defined benefit pension plans is estimated to approximate $35 million in 2017. Pension expense
+beyond 2017 will depend on future investment performance, our contributions to the pension trusts, changes in
+discount rates and various other factors related to the covered employees in the plans.
+Other Post-Employment Beneﬁt Plans
+Changes in significant assumptions could aﬁect consolidated expense and benefit obligations, particularly the discount
+rates used to calculate such obligations and the healthcare cost trend rate:
+- Discount rate. The determination of the discount rate used to calculate the benefit obligations of the OPEB
+plans is discussed in the pension plans section above. If the discount rate assumption for these plans was
+reduced by 100 basis points, the impact to the OPEB plans consolidated expense would not be material and
+the increase in the December 31, 2016 benefit liability would be approximately $27 million.
+- Healthcare cost trend rate. The healthcare cost trend rate is based on a combination of inputs including our
+recent claims history and insights from external advisers regarding recent developments in the healthcare
+marketplace, as well as projections of future trends in the marketplace. See Note 9 to the Consolidated
+Financial Statements for disclosure of the effects of a one percentage point change in the healthcare cost trend
+rate.
+38

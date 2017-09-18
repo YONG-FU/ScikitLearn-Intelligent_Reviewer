@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+and documenting any legal reporting obligations and engagement of outside counsel as appropriate; comprehensive risk assessments with respect to
+cybersecurity events; effective cross-functional communication regarding cybersecurity events; appropriate and timely disclosure of material cybersecurity
+incidents; and enhanced training and oversight to help ensure processes are followed.
+Significant Transactions
+Microsoft Search Agreement
+The term of the Search and Advertising Services and Sales Agreement (“Microsoft Search Agreement”) with Microsoft Corporation (“Microsoft”) is 10 years from
+its commencement date, February 23, 2010, subject to earlier termination as provided in the Microsoft Search Agreement. Under the current terms of the
+Microsoft Search Agreement, as amended on April 15, 2015 by the Eleventh Amendment to the Microsoft Search Agreement (the “Eleventh Amendment”), we
+are entitled to receive a percentage of the revenue (the “Revenue Share Rate”) generated from Microsoft’s services on Yahoo Properties and on Afﬁliate sites
+equal to 93 percent. Microsoft receives its 7 percent revenue share before deduction of the Afﬁliate site’s share of revenue. Yahoo is responsible for paying the
+Afﬁliate for the Afﬁliate site’s share of revenue. Pursuant to the Eleventh Amendment, commencing on May 1, 2015, we also agreed to request paid search
+results from Microsoft for 51 percent of our search queries originating from personal computers accessing Yahoo Properties and our Affiliate sites and will
+display only Microsoft’s paid search results on such search result pages.
+Trafﬁc acquisition costs (“TAC”) related to our Microsoft Search Agreement were recorded as a reduction to revenue through March 31, 2016. Pursuant to the
+Eleventh Amendment to the Microsoft Search Agreement, we completed the transition of our exclusive sales responsibilities to Microsoft for Microsoft’s paid
+search services to premium advertisers in the United States, Canada, and Europe on April 1, 2016 and in the remaining markets (other than Taiwan and Hong
+Kong) on June 1, 2016. Following the transition in each respective market, we are considered the principal in the sale of trafﬁc to Microsoft and other customers
+because we are the primary obligor in our arrangements with Microsoft and have discretion in how search queries from Affiliate sites will be fulﬁlled and
+monetized. As a result, amounts paid to Afﬁliates under the Microsoft Search Agreement in the transitioned markets are recorded as cost of revenue—TAC
+rather than as a reduction to revenue, resulting in GAAP revenue from the Microsoft Search Agreement being reported on a gross rather than a net basis.
+Effective June 3, 2016, Yahoo and Microsoft further amended the Microsoft Search Agreement to provide that sales responsibilities for premium advertisers in
+Taiwan and Hong Kong will not be transitioned. TAC in those markets will continue to be reported as a reduction to revenue.
+The table below presents how we accounted for amounts paid to Afﬁliates related to the Microsoft Search Agreement in transitioned markets, and shows the
+impact of the implementation of the Eleventh Amendment in transitioned markets (in thousands):
+Years Ended December 31,
+2014 2015 2016
+post of revenue—TAC in transitioned markets (*) $ — $ — $ 812,105 I
+Reduction to revenue in transitioned markets $ 1,319,242 $ 1,269,134 $ 273,705
+(*) Includes $701 million in the Americas segment, $106 million in the EMEA segment, and $5 million in the Asia Pacific segment.
+48

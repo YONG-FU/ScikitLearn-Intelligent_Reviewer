@@ -1,0 +1,31 @@
+1 2 8 | :ésraigezzzz
+PARENT COMPANY CASH FLOW STATEMENT
+' 2016 2015 2014 V
+Year ended 31 March £m £m £m _
+Cash flows used in operating activities
+Profit for the year 300 151 119
+Adjustments for:
+Foreign exchange loss on loans — — 1
+Loss on embedded derivatives — — 47
+Income tax credit — — (8)
+Dividends received (300) (150) (150)
+Finance income (136) (227) (285)
+Finance expense 135 225 236
+Cash flows used in operating activities before changes in assets and liabilities (1) (1) (470)
+Other ﬁnancial assets 62 (383) (19)
+Other current liabilities (E) 2 2
+Net cash from/(used in) 3perating activities 58 (382) (i)
+Cash flows from investing activities
+Finance income received 133 222 303
+Dividends received 150 150 150
+Net cash from investing activities 283 372 453
+Cash flows from/(used in) financing activities
+Finance expenses and fees paid (133) (220) (329)
+Proceeds from issuance of long-term borrowings — 1,032 829
+Repayment of long-term borrowings (58) (653) (746)
+Repayment of short-term borrowings — — —
+Dividends paid (150) (150) (150)
+Net cash (used in)/from financing activities (341) 9 (396)
+Net decrease in cash and cash equivalents - (1) —
+Cash and cash equivalents at beginning of year — 1 1
+Cash and cash equivalents at end of year - — 1

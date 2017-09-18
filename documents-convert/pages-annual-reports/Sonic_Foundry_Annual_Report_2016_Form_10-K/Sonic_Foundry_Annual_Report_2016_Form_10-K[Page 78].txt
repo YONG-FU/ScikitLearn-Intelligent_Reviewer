@@ -1,0 +1,43 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+options granted are expected to be outstanding. The risk-free rate for periods the options are expected to be outstanding is based
+on the US. Treasury yields in effect at the time of grant. Forfeitures are based on actual behavior patterns.
+All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted
+for based on the fair value of the consideration received or the fair value of the equity instrument issued, whichever is more
+reliably measured.
+RESULTS OF OPERATIONS
+You should read the following discussion of our results of operations and ﬁnancial condition in conjunction with our consolidated
+financial statements and related notes thereto included in Item 8 of this Annual Report on Form 10-K.
+Revenue
+Revenue from our business includes the sale of Mediasite recorders and server software products and related services contracts,
+such as customer support, installation, customization services, training, content hosting and event services. We market our
+products to educational institutions, corporations and government agencies that need to deploy, manage, index and distribute
+video content on Internet-based networks. We reach both our domestic and international markets through reseller networks, a
+direct sales effort and partnerships with system integrators.
+Revenue in f1sca12016 totaled $38.0 million, compared to $36.5 million in fiscal 2015, an increase of 4%. Revenue consisted of
+the following:
+- Product and other revenue from the sale of Mediasite recorder units and server software decreased from $16.3 million in
+fiscal 2015 to $16.2 million in fiscal 2016. Revenue for 208 recorders delivered in Q4-2015 to an international customer
+was deferred at September 30, 2016 and the units are not included in the units sold figures shown below The average
+sales price per unit improved in fiscal 2016 while total units sold decreased as compared to fiscal 2015 during which both
+the average sales price per unit and the number of units sold were impacted by two large discounted deals to international
+customers for over 250 units.
+: 2016 : : 2015 :
+Units sold 1,474 1,977
+Rack to mobile ratio 5.9 to 1 5.8 to 1
+Average sales price, excluding support (000’s) $7.9 $7.3
+Refresh Units 426 465
+° Services revenue represents the portion of fees charged for Mediasite customer support contracts amortized over the length
+of the contract, typically 12 months, as well as training, installation, event and content hosting services. Services revenue
+increased ﬁom $20.2 million in fiscal 2015 to $21.7 million in fiscal 2016 due primarily to an increase in hosting revenues
+as compared to fiscal 2015. In addition, revenue related to support contracts on Mediasite recorder units increased
+compared to fiscal 2015. At September 30, 2016, $14.1 million of revenue was deferred, of which we expect to recognize
+$12.8 million in the next twelve months, including approximately $4.5 million in the quarter ending December 31, 2016.
+At September 30, 2015, $12.7 million of revenue was deferred.
+° Other revenue relates to freight charges billed separately to our customers.
+Gross Margin
+Total gross margin in fiscal 2016 was $28.0 million or 74% compared to $25.8 million or 71% in fiscal 2015. Gross margin
+percentage improved over year over year mainly due to revenue increases in software and support contracts, which have higher
+margins. The significant components of cost of revenue include:
+38

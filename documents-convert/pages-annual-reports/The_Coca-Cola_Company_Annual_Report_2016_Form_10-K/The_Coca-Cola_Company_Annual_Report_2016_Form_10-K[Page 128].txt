@@ -1,0 +1,36 @@
+The following table presents the amounts and line items in our consolidated statements of income where adjustments
+reclassified from AOCI into income were recorded during the year ended December 31, 2016 (in millions):
+Amount Reclassified
+from
+Description of AOCI Component Financial Statement Line Item AOCI into Income
+Foreign currency translation adjustments:
+Divestitures, deconsolidations and other"2 Other income (loss) — net $ 445
+Income before income taxes $ 445
+Income taxes (48)
+Consolidated net income $ 397 7
+: Derivatives: 7
+Foreign currency contracts Net operating revenues $ (564)
+Foreign currency and commodity contracts Cost of goods sold (33)
+Foreign currency contracts Other income (loss) — net 6
+Foreign currency and interest rate contracts Interest expense 28
+: Income before income taxes $ (563):
+Income taxes 2 l 3
+Consolidated net income $ (350)
+iAvailable-for—sale securities: 7
+Divestitures, deconsolidations and other1 Other income (loss) — net $ (4)
+Sale of securities Other income (loss) — net (101)
+: Income before income taxes $ (105):
+Income taxes 26
+Consolidated net income $ (79)
+’Pension and other beneﬁt liabilities: 7
+Divestitures, deconsolidations and other2 Other income (loss) — net $ 64
+Recognized net actuarial loss (gain) * 308
+Recognized prior service cost (credit) * (30)
+: Income before income taxes $ 342 :
+Income taxes (120)
+Consolidated net income $ 222
+1 Primarily related to the deconsolidation of our South African bottling operations and related equity method investment. Refer to Note 2.
+2 Related to the deconsolidation of our German bottling operations. Refer to Note 2.
+*This component of AOCI is included in the Company's computation of net periodic benefit cost and is not reclassified out of AOCI into a
+single line item in our consolidated statements of income in its entirety. Refer to Note 13.
+126

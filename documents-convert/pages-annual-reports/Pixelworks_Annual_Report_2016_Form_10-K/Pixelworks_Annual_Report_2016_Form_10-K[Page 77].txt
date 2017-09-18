@@ -1,0 +1,26 @@
+10.27 Amendment No. 1 dated December 14, 2012 to the Loan and Security Agreement dated December 21, 2010, by and between Silicon Valley
+Bank and Pixelworks, Inc. (incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K ﬁled December 20, 2012).
+10.28 Amendment No. 2 dated December 4, 2013 to the Loan and Security Agreement dated December 21, 2010, by and between Silicon Valley
+Bank and Pixelworks, Inc. (incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K ﬁled December 9, 2013).
+10.29 Amendment No. 3 dated December 18, 2015 to the Loan and Security Agreement dated December 21, 2010, by and between Silicon Valley
+Bank and Pixelworks, Inc. (incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K ﬁled December 22, 2015).
+10.30 Amendment No. 4 dated December 15, 2016 to the Loan and Security Agreement dated December 21, 2010, by and between Silicon Valley
+Bank and Pixelworks, Inc. (incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K ﬁled December 19, 2016).
+10.31 Form of Addendum to Change of Control Agreement for Officers (incorporated by reference to Exhibit 10.1 to the Company's Current Report
+on Form 8-K ﬁled on May 23, 2014). +
+10.32 Advisory Agreement between Pixelworks, Inc. and David J. Tupman dated July 30, 2012 (incorporated by reference to Exhibit 10.1 to the
+Company's Current Report on Form 8-K ﬁled on April 4, 2014).
+21 Subsidiaries of Pixelworks, Inc. (incorporated by reference to Exhibit 21 to the Company's Annual Report on Form 10-K ﬁled March 5, 2014).
+23 Consent of KPMG LLP.
+24.1 Power of Attorney (see page 74 of this Form 10-K).
+31.1 Certiﬁcation of Chief Executive Officer pursuant to Section 302 of the Sarbanes—Oxley Act of 2002 (18 U.S.C. Section 1350).
+31.2 Certiﬁcation of Chief Financial Ofﬁcer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+32.1 * Certiﬁcation of Chief Executive Officer pursuant to Section 906 of the Sarbanes—Oxley Act of 2002 (18 U.S.C. Section 1350).
+32.2* Certiﬁcation of Chief Financial Ofﬁcer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+101 .INS XBRL Instance Document
+101 ‘SCH XBRL Taxonomy Extension Schema Document
+101 .CAL XBRL Taxonomy Extension Calculation Linkbase Document
+10 l .DEF XBRL Taxonomy Extension Deﬁnition Linkbase Document
+10 l .LAB XBRL Taxonomy Label Linkb ase Document
+10 l .PRE XBRL Taxonomy Extension Presentation Linkbase Document
+; 77

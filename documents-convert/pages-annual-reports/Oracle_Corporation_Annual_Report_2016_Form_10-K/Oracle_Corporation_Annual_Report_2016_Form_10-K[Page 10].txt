@@ -1,0 +1,36 @@
+Table,of,C,ontents
+Oracle Cloud Platform as a Service (PaaS)
+Oracle Cloud Platform as a Service is designed to provide a broad suite of services to rapidly build and deploy applications—or extend Oracle Cloud SaaS
+applications—using Oracle’s enterprise-grade platform technologies. Customers and partners can use our open, standards-based PaaS offerings that are based on
+Java, Oracle Fusion Middleware, and our Oracle Database Cloud service, including tools for a variety of use cases across data management, application
+development, enterprise integration, content sharing and collaboration, visual analysis reporting and IT operations management.
+We believe our PaaS offerings are a large opportunity for us to expand our cloud and on-premise software business. We believe our customers increasingly
+recognize the value of access to Oracle Database, Oracle Fusion Middleware and Java via a low cost, rapidly deployable, ﬂexible and interoperable services model
+that Oracle manages and maintains on their behalf We believe that we can market and sell our PaaS offerings to our extensive installed base of database,
+middleware, and applications customers, and reach a broader ecosystem of developers and partners. We also believe we can expand the market of our PaaS services
+to small to medium-sized enterprises and non-IT lines of business purchasers.
+Oracle Data Management Cloud
+Oracle Data Management Cloud is designed to provide a broad and integrated set of capabilities for building, deploying, and managing data-driven applications.
+Our Oracle Data Management Cloud offerings include the following, among others:
+- Oracle Database Cloud Service, which is designed to provide customers with access to the Oracle Database via a cloud computing IT model. It provides
+customers with a choice of a dedicated database instance with direct network connections and full administrative control, or a dedicated schema with a
+full development and deployment platform managed by Oracle. We also offer Oracle Exadata Cloud Service, which is a database cloud service that
+combines the Oracle Database with the high performance and high availability of an Oracle Exadata Engineered System;
+- Oracle Database Backup Cloud Service, which is designed as a secure, scalable, on-demand storage solution for backing up Oracle databases to an off-site
+storage location within the Oracle Cloud;
+- Oracle Big Data Cloud Service, which is a data management platform that is designed to run a variety of big data workloads and technologies while
+simplifying operations and, when combined with Oracle Big Data SQL Cloud Service, enables organizations to analyze data across Hadoop, NoSQL and
+Oracle SQL; and
+- Oracle Big Data Preparation Cloud Service, which is designed to be an enterprise data processing and enrichment solution in the Oracle Cloud built
+natively for Hadoop and Spark.
+Oracle Application Development Cloud
+Oracle Application Development Cloud offerings are based upon an end-to-end Java EE framework and are designed to simplify application development by
+providing out-of-the-box infrastructure services and visual and declarative development experiences. Our Oracle Application Development Cloud offerings include
+the following, among others:
+- Oracle Java Cloud Service, which is a platform and infrastructure cloud solution designed for building, deploying and managing Java EE applications
+easily, rapidly and agilely;
+- Oracle Developer Cloud Service, which is designed to be an easy-to-use, automatically provisioned enterprise development platform deployed in the
+cloud that supports the complete software development lifecycle;
+- Oracle Messaging Cloud Service, which is a cloud-based messaging service that is designed to enable reliable communication between software
+components both in the Oracle Cloud and on-premise using standard interfaces;
+8

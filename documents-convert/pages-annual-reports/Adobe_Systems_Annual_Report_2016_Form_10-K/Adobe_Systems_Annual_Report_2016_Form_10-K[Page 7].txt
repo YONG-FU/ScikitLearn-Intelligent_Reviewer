@@ -1,0 +1,38 @@
+Table of Contents
+These solutions provide marketers with key capabilities, such as the ability to:
+- Combine data across the Adobe Marketing Cloud solutions and third-party data sources, such as customer relationship
+management, point of sale, e-commerce, advertising, outlets, support systems, and surveys, to create a single view of
+the consumer;
+- Deliver consistent personalized customer experiences across channels and on any device;
+° Use predictive analytics to enable marketers to utilize past marketing program data and success to predict and drive
+their future success with digital marketing programs;
+- Access all Adobe Marketing Cloud solutions from one centralized platform and visualize, socialize, and collaborate
+across teams with the interface;
+- Interact with creatives through integration with Creative Cloud, enabling content creators and marketers to collaborate
+and communicate in real time within a cloud-based platform;
+- Accurately forecast and continually optimize their mix of campaigns across digital media;
+- Provide robust cross-channel campaign orchestration capabilities utilizing real-time insights, rich customer data and a
+sophisticated automation and execution platform;
+- Manage, publish, track, and monetize social programs;
+° Store, assemble, and distribute digital assets to deliver high-quality brand, campaign, and content experiences;
+- Build unique audience profiles, allowing marketers to identify their most valuable segments and use them across digital
+channels;
+- Easily add, alter, and deploy marketing tags on websites, resulting in consistent page performance and accurate data
+collection; and
+- Integrate with a robust network of partners, covering the expansive digital marketing ecosystem.
+To drive growth of Adobe Marketing Cloud, we also intend to streamline how customers learn about, acquire and deploy
+Adobe Marketing Cloud solutions. We believe we can accelerate the growth of our business by continuing to build out more direct
+sales capacity, as well as continuing to enable a rich ecosystem of agencies and 81s who sell, implement and service our solutions.
+We believe these investments will result in continued growth in revenue in our Digital Marketing segment in fiscal 2017 and
+beyond.
+Print and Publishing
+Our Print and Publishing segment contains legacy products and services that address diverse market opportunities including
+eLearning solutions, technical document publishing, web application development and high-end printing. Graphics professionals
+and professional publishers continue to require quality, reliability and efficiency in production printing, and our Adobe PostS cript
+and Adobe PDF printing technologies provide advanced functionality to meet the sophisticated requirements of this marketplace.
+As high-end printing systems evolve and transition to fully digital, composite workﬂows, we believe we are well positioned to be
+a supplier of software and technology based on the PostScript and Adobe PDF standards for use by this industry.
+We generate revenue by licensing our technology to OEMs that manufacture workﬂow software, printers and other output
+devices. In fiscal 2016, we maintained a relatively consistent quarterly revenue run-rate with the mature products we market and
+license in our Print and Publishing business.
+7

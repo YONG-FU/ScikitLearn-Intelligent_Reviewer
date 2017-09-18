@@ -1,0 +1,43 @@
+IablreoﬁContents
+We monitor our use of open source software in an effort to avoid subjecting our products to conditions we do not intend and avoid exposing us to unacceptable
+ﬁnancial risk. However, the processes we follow to monitor our use of open source software could fail to achieve their intended result. In addition, although we
+believe that we have complied with our obligations under the various applicable licenses for open source software that we use, there is little or no legal precedent
+governing the interpretation of terms in most of these licenses, which increases the risk that a court could interpret the license differently than we do.
+From time to time, we receive inquiries or claims from authors or distributors of open source software included in our products regarding our compliance with
+the conditions of one or more open source licenses. An adverse outcome to a claim could require us to:
+0 pay signiﬁcant damages;
+° stop distributing our products that contain the open source software;
+- revise or modify our product code to remove alleged infringing code;
+0 release the source code of our pr0prietary software; or
+0 take other steps to avoid or remedy an alleged infringement.
+In March 2015, a software developer who alleges that software code he wrote is used in a component of our vSphere product filed a lawsuit against us in
+Germany alleging copyright infringement for failing to comply with the terms of an open source license General Public License v.2 (“GPL v2”) and seeking an
+order requiring us to comply with the GPL v.2 or cease distribution of any affected code within Germany. On July 8, 2016, the German court issued a written
+decision dismissing the lawsuit. On August 9, 2016, a Notice of Appeal was filed. We have ﬁled our responsive appellate brief An adverse outcome to this claim
+on appeal or to other claims could have a material adverse impact on our intellectual property rights, our operating results and ﬁnancial condition.
+The evolution of our business requires more complex go-to-market strategies, which involve signiﬁcant risk.
+Our increasing focus on developing and marketing IT management and automation and IaaS (including software-defined networking, vCloud Air, vCloud Air
+Network integrated virtual desktop and mobile device, cross-cloud and SaaS) offerings that enable customers to transform their IT systems requires a greater focus
+on marketing and selling product suites and more holistic solutions, rather than selling on a product-by-product basis. Consequently, we have developed, and must
+continue to develop, new strategies for marketing and selling our offerings. Additionally, the duration of sales cycles for our offerings has increased as our
+customers’ purchasing decisions become more complex and require additional levels of approval. In addition, marketing and selling new technologies to
+enterprises requires signiﬁcant investment of time and resources in order to educate customers on the beneﬁts of our new product offerings. These investments can
+be costly and the additional effort required to educate both customers and our own sales force can distract from their efforts to sell existing products and services.
+Our success depends upon our ability to develop apprOpriate business and pricing models.
+If we cannot adapt our business models to keep pace with industry trends, including the industry-wide transition to cloud-based computing, our revenue could
+be negatively impacted. Certain of our new product initiatives, such as our vCloud Air and SaaS offerings, have a subscription model. As we increase our adoption
+of subscription-based pricing models for our products, we may fail to set pricing at levels appropriate to maintain our revenue streams or our customers may
+choose to deploy products from our competitors that they believe are priced more favorably. In addition, we may fail to accurately predict subscription renewal
+rates or their impact on operating results, and because revenue from subscriptions is recognized for our services over the term of the subscription, downturns or
+upturns in sales may not be immediately reﬂected in our results. Additionally, as customers transition to our hybrid cloud and SaaS products and services, our
+revenue growth rate may be adversely impacted during the period of transition as we will recognize less revenue up front than we would otherwise recognize as
+part of the multi—year license arrangements through which we typically sell our established offerings. Finally, as we offer more services that depend on converting
+users of free services to users of premium services and converting purchasers of our on-premises products to our SaaS offerings, and as such services grow in size,
+our ability to maintain or improve and to predict conversion rates will become more important.
+Our products and services are highly technical and may contain errors, defects or security vulnerabilities.
+Our products and services are highly technical and complex and, when deployed, have contained and may contain errors, defects or security vulnerabilities.
+Some errors in our products or services may only be discovered after a product or service has been installed and used by customers. Undiscovered vulnerabilities in
+our products or services could expose our customers to hackers or other unscrupulous third parties who develop and deploy viruses, worms and other malicious
+software programs that could attack our products or services. In the past, VMware has been made aware of public postings by hackers of portions of our source
+code. It is possible that the released source code could expose unknown security vulnerabilities in our products and
+1 9

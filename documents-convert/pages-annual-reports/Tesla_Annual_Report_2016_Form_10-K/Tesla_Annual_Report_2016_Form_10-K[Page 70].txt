@@ -1,0 +1,49 @@
+The following table presents the potential weighted common shares outstanding that were excluded ﬁom the computation of basic
+and diluted net loss per share of common stock attributable to common stockholders for the periods, related to the following securities:
+Year Ended December 31,
+2016 2015 2014
+Employee share based awards 12,091,473 15,592,736 14,729,749
+Convertible senior 841,191 2,431,265 2,344,998
+Warrantsissued May 262,702 1,049,791 921,985
+Business Combinations
+We account for business acquisitions under ASC 805, Business Combinations. The cost of an acquisition is measured at the fair
+value of the assets given, equity instruments issued and liabilities assumed at the acquisition date. Costs that are directly attributable to
+the acquisition are expensed as incurred. Identifiable assets, including intangible assets, liabilities assumed, including contingent
+liabilities, in an acquisition are measured initially at their fair values at the acquisition date. Any noncontrolling interests in the
+acquired business are also initially measured at fair value. We recognize goodwill if the aggregate fair value of the total purchase
+consideration and the noncontrolling interests is in excess of the aggregate fair value of the identifiable assets acquired and the
+liabilities assumed. We recognize a bargain purchase gain in other income and expense, net, in our Consolidated Statement of
+Operations, if the aggregate fair value of the identifiable assets acquired and the liabilities assumed is in excess of the fair value of the
+total purchase consideration. We include the results of operations of the business that we acquire as of the respective date of
+acquisition.
+Cash and Cash Equivalents
+All highly liquid investments with an original maturity of three months or less at the date of purchase are considered to be cash
+equivalents. We currently invest our cash equivalents primarily in money market funds.
+Restricted Cash and Deposits
+We maintain certain cash amounts restricted as to withdrawal or use. Current and noncurrent restricted cash as of December 31,
+2016, and 2015 was comprised primarily of cash as collateral related to our sales to lease partners with a resale value guarantee and
+for letters of credit including for our real estate leases, and insurance policies. In addition, restricted cash as of December 31, 2016,
+includes cash received from certain fund investors that had not been released for use by us, cash held to service certain payments
+under various secured debt facilities, including management fees, principal and interest payments, and balances collateralizing
+outstanding letters of credit, outstanding credit card borrowing facilities and obligations under certain operating leases.
+Accounts Receivable and Allowance for Doubtful Accounts
+Accounts receivable primarily include amounts related to sales of powertrain systems, sale of energy generation and storage
+products, receivables from financial institutions and leasing companies offering various financing products to our customers,
+regulatory credits to other automotive manufacturers, and from maintenance services on vehicles owned by leasing companies. We
+provide an allowance against amounts receivable to the amount we reasonably believe will be collected. We write off accounts
+receivable when they are deemed uncollectible.
+We typically do not carry accounts receivable related to our vehicle and related sales as customer payments are due prior to
+vehicle delivery, except for the amounts due from commercial financial institutions for approved financing arrangements between our
+customers and the financial institutions.
+Customer Notes Receivable
+As part of the SolarCity acquisition, we acquired certain customer notes receivable under the legacy MyPower loan program.
+The outstanding balances, net of any allowance for potentially uncollectible amounts, are presented on our Consolidated Balance
+Sheets as a component of prepaid expenses and other current assets for the current portion and as MyPower customer notes receivable,
+net of current portion, for the long-term portion. In determining the allowance and credit quality for customer notes receivable, we
+identify significant customers with known disputes or collection issues and also consider our historical level of credit losses and
+current economic trends that might impact the level of future credit losses. Customer notes receivable that are individually impaired
+are charged-off as a write-off of allowance for losses. As of December 31, 2016, there were no significant customers with known
+disputes or collection issues, and the amount of potentially uncollectible amounts was insignificant. Accordingly, we did not establish
+an allowance for losses against customer notes receivable. In addition, there were no material non-accrual or past due customer notes
+receivable as of December 31, 2016.
+67

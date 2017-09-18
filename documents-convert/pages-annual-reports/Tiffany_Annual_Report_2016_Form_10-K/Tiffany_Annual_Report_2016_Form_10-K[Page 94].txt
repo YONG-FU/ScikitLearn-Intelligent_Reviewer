@@ -1,0 +1,38 @@
+Weighted-average assumptions used to determine net periodic benefit cost:
+7 Years Ended January 31,,
+7 2017 2016 2015,
+Discount rate:
+Qualified Plan 4.50% 3.75% 4.75%
+Excess Plan/SRIP 4.25% 3.75% 5.00%
+Other Plans 1.40% 1.71% 1.81%
+Other Postretirement Benefits 4.50% 3.50% 5.00%
+Expected return on plan assets 7.00% 7.50% 7.50%
+Rate of increase in compensation:
+Qualified Plan 3.00% 2.75% 2.75%
+7 Excess Plan 4.25% 4.25% 4.25%
+SRIP 6.50% 7.25% 7.25%
+_n Other Plans 1.38% 1.56% 1.33%
+Z The expected long-term rate of return on Qualified Plan assets is selected by taking into account the average rate of
+$ return expected on the funds invested or to be invested to provide for benefits included in the projected benefit
+3 obligation. More specifically, consideration is given to the expected rates of return (including reinvestment asset
+return rates) based upon the plan's current asset mix, investment strategy and the historical performance of plan
+assets.
+For postretirement benefit measurement purposes, a 7.00% annual rate of increase in the per capita cost of covered
+health care was assumed for 2017. This rate was assumed to decrease gradually to 4.75% by 2023 and remain at
+that level thereafter.
+Assumed health-care cost trend rates can affect amounts reported for the Company's postretirement health-care
+benefits plan. A one-percentage-point change in the assumed health-care cost trend rate would not have a significant
+effect on the Company's accumulated postretirement benefit obligation for the year ended January 31, 2017 or
+aggregate service and interest cost components of the 2016 postretirement expense.
+Plan Assets
+The Company's investment objectives, related to the Qualified Plan's assets, are the preservation of principal and
+balancing the management of interest rate risk associated with the duration of the plan's liabilities with the
+achievement of a reasonable rate of return over time. The Qualified Plan's assets are allocated based on an
+expectation that equity securities will outperform debt securities over the long term, but that as the plan's funded
+status (assets relative to liabilities) increases, the amount of assets allocated to fixed income securities which match
+the interest rate risk profile of the plan's liabilities will increase. The Company's target asset allocations based on its
+funded status as of January 31, 2017 is as follows: approximately 50% in equity securities; approximately 35% in
+fixed income securities; and approximately 15% in other securities. The Company attempts to mitigate investment
+risk by rebalancing asset allocation periodically.
+TIFFANY & co.
+K-88

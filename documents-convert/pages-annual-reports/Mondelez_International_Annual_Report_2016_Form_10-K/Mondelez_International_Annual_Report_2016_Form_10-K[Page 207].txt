@@ -1,0 +1,22 @@
+“ Joint Bookrunners ” means JPMorgan Chase Bank, NA, Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, HSBC Securities
+(USA) Inc. and Merrill Lynch, Pierce, F enner & Smith Incorporated.
+“ Joint Lead Arrangers ” means JPMorgan Chase Bank, NA, Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, HSBC Securities
+(USA) Inc. and Merrill Lynch, Pierce, F enner & Smith Incorporated.
+“ Lenders,” means the Initial Lenders, any New Lender, any Augmenting Lender and their respective successors and permitted assignees.
+“ LIBO Rate ” means, with respect to any LIBO Rate Advance or Floating Rate Bid Advance for any Interest Period, an interest rate per annum equal
+to either:
+(a) the Screen Rate as of 11:00 am. (London time) two Business Days before the first day of such Interest Period; or
+(b) if the Screen Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest Period shall
+be the Interpolated Rate as of 11:00 am. (London time) two Business Days before the first day of such Interest Period; or
+(c) if the Interpolated Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest Period
+shall be the Historical Screen Rate; or
+(d) if the Historical Screen Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest
+Period shall be the Interpolated Historical Screen Rate;
+provided that in no event shall the LIBO Rate be less than 0% for the purposes of this Agreement.
+“ LIBO Rate Advance ” means a Pro Rata Advance that bears interest as provided in Section 2.04(a)(ii).
+“ Lien,” has the meaning specified in Section 5.02(a).
+“ Majorjubsidiary: means any Subsidiary of Mondeléz (a) more than 50% of the voting securities of which is owned directly or indirectly by
+Mondeléz, (b) which is organized and existing under, or has its principal place of business in, the United States or any political subdivision thereof, Canada or any
+political subdivision thereof, any country which is a member of the European Union on the date hereof or any political subdivision thereof, or Switzerland, Norway
+or Australia or any of their respective political subdivisions, and (c) which has at any time total assets (after intercompany eliminations) exceeding $1,000,000,000.
+-11-

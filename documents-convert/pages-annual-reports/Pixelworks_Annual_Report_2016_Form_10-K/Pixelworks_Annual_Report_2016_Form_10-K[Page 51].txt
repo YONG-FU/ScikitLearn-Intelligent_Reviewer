@@ -1,0 +1,36 @@
+An uncertain tax position represents our expected treatment of a tax position taken in a ﬁled tax return, or planned to be taken in a future tax return, that has
+not been reﬂected in measuring income tax expense for ﬁnancial reporting purposes. Until these positions are sustained by the taxing authorities, we do not
+recognize the tax beneﬁts resulting from such positions and report the tax effects for uncertain tax positions in our consolidated balance sheets.
+Accumulated Other Comprehensive Income
+Accumulated other comprehensive income, net of tax, consists of the following:
+December 31,
+2016 _ 2015
+iActuarial income on foreign pension obligation $ 27 $ 28 ‘
+Accumulated transition foreign pension obligation (17) (22)
+I Accumulated other comprehensive income $ 10 $ 6 l
+Fair Value of Financial Instruments
+See "Note 4: Fair Value Measurements" for information regarding accounting policies related to the fair value of our ﬁnancial instruments.
+Risks and Uncertainties
+Concentration of Suppliers
+We do not own or operate a semiconductor fabrication facility and do not have the resources to manufacture our products internally. We rely on a limited
+number of foundries and assembly and test vendors to produce all of our wafers and for completion of ﬁnished products. We do not have any long-term
+agreements with any of these suppliers. In light of these dependencies, it is reasonably possible that failure to perform by one of these suppliers could have a
+severe impact on our results of operations. Additionally, the concentration of these vendors within Taiwan, the People’s Republic of China and Singapore
+increases our risk of supply disruption due to natural disasters, economic instability, political unrest or other regional disturbances.
+Risk of Technological Change
+The markets in which we compete, or seek to compete, are subject to rapid technological change, frequent new product introductions, changing customer
+requirements for new products and features, and evolving industry standards. The introduction ofnew technologies and the emergence of new industry
+standards could render our products less desirable or obsolete, which could harm our business.
+Concentrations of Credit Risk
+Financial instruments that potentially subject us to concentrations of credit risk consist of cash equivalents and accounts receivable. We limit our exposure to
+credit risk associated with cash equivalent balances by holding our funds in high quality, highly liquid money market accounts. We limit our exposure to
+credit risk associated with accounts receivable by careiully evaluating creditworthiness before offering terms to customers.
+Recent Accounting Pronouncements
+In March 2016, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update No. 2016-09, Compensation - Stock
+Compensation (Topic 718): Improvements to Employee Shared-Based Payment Accounting ("ASU 2016-09"). ASU 2016-O9 simpliﬁes how several aspects of
+Share-based payments are accounted for and presented in the ﬁnancial statements, for example, an accounting policy election may be made to account for
+forfeitures as they occur, rather than based on an estimate of ﬁiture forfeitures. In addition, under previous guidance, excess tax beneﬁts and deﬁciencies from
+stock-based compensation arrangements were recorded in equity when the awards vested or were settled. ASU 2016-09 requires prospective recognition of
+excess tax beneﬁts and deﬁciencies in the income statement. The standard is effective for the Company on January 1, 2017. We do not expect the adoption of
+this update to have a material impact on our ﬁnancial position, results of operations, or cash ﬂows.
+5 1

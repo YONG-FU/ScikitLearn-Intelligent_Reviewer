@@ -1,0 +1,50 @@
+salesforce.com, inc.
+Consolidated Statements of Operations
+(in thousands, except per share data)
+7 Fiscal Year Ended January 31, 7
+2016 : : 2015 : : 2014
+Revenues:
+Subscription and support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $6,205,599 $5,013,764 $3,824,542
+Professional services and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 461,617 359,822 246,461
+Totalrevenues...................................... 6,667,216 5,373,586 4,071,003
+Cost of revenues (1)(2):
+Subscription and support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 1,188,967 924,638 711,880
+Professional services and other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 465,581 364,632 256,548
+Total cost ofrevenues ................................ 1,654,548 1,289,270 968,428
+Grossprofit................................................ 5,012,668 4,084,316 3,102,575
+Operating expenses (1)(2):
+Research and development ................................ 946,300 792,917 623,798
+Marketingandsales...................................... 3,239,824 2,757,096 2,168,132
+General and administrative .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 748,238 679,936 596,719
+Operating lease termination resulting from purchase of
+(36,617) 0 0
+Total operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,897,745 4,229,949 3,388,649
+Income (loss) from operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114,923 (145,633) (286,074)
+Investmentincome.......................................... 15,341 10,038 10,218
+Interestexpense............................................. (72,485) (73,237) (77,211)
+Otherexpense(1)(3)......................................... (15,292) (19,878) (4,868)
+Gain on sales of land and building improvements . . . . . . . . . . . . . . . . . . 21,792 15,625 0
+Income (loss) before benefit from (provision for) income taxes . . . . . . . 64,279 (213,085) (357,935)
+Benefit from (provision for) income taxes . . . . . . . . . . . . . . . . . . . . . . . . (111,705) (49,603) 125,760
+Netloss $ (47,426) $ (262,688) $ (232,175)
+Basicnetlosspershare....................................... $ (0.07)$ (0.42)$ (0.39)
+Dilutednetlosspershare..................................... $ (0.07)$ (0.42)$ (0.39)
+Shares used in computing basic net loss per share . . . . . . . . . . . . . . . . . . 661,647 624,148 597,613
+Shares used in computing diluted net loss per share . . . . . . . . . . . . . . . . . 661,647 624,148 597,613
+(1) Amounts include amortization of purchased intangibles from business combinations, as follows:
+7 Fiscal Year Ended January 31, 7
+2016 : : 2015 : : 2014
+Costofrevenues............................. $80,918 $90,300 $109,356
+Marketing and sales .......................... 77,152 64,673 37,179
+Other non-operating expense . . . . . . . . . . . . . . . . . . . 3,636 0 0
+(2) Amounts include stock-based expenses, as follows:
+Fiscal Year Ended January 31,
+: 2016 : : 2015 : : 2014 :
+Costofrevenues.............................. $69,443 $53,812 $45,608
+Research and development . . . . . . . . . . . . . . . . . . . . . . 129,434 121,193 107,420
+Marketing and sales ........................... 289,152 286,410 258,571
+General and administrative . . . . . . . . . . . . . . . . . . . . . 105,599 103,350 91,681
+(3) Amount includes approximately $10.3 million loss on conversions of our convertible 0.75% senior notes
+due January 2015 recognized during fiscal 2015.
+See accompanying Notes.
+76

@@ -1,0 +1,59 @@
+8 6 | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+2 ACCOUNTING POLICIES (CONTINUED)
+OTHER FINANCIAL LIABILITIES
+These are measured at amortised cost using the effective interest method.
+DETERMINATION OF FAIR VALUE
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date, regardless of whether that price is directly observable or estimated
+using another valuation technique. In estimating the fair value of an asset or liability, the Group takes into account the
+characteristics of the asset or liability if market participants would take those characteristics into account when pricing the
+asset or liability at the measurement date. Subsequent to initial recognition, the Group determines the fair value of financial
+instruments that are quoted in active markets using the quoted bid prices (financial assets held) or quoted ask prices (financial
+liabilities held) and using valuation techniques for other instruments. Valuation techniques include discounted cash flow
+method and other valuation models.
+DERECOGNITION OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES
+The Group derecognises a financial asset only when the contractual rights to the cash flows from the asset expires or it
+transfers the financial asset and substantially all the risks and rewards of ownership of the asset to another entity. If the Group
+neither transfers nor retains substantially all the risks and rewards of ownership and continues to control the transferred
+asset, the Group recognises its retained interest in the asset and an associated liability for amounts it may have to pay. If the
+Group retains substantially all the risks and rewards of ownership of a transferred financial asset, the Group continues to
+recognise the financial asset and also recognises a collateralised borrowing for the proceeds received.
+Financial liabilities are derecognised when they are extinguished, that is when the obligation is discharged, cancelled or
+has expired.
+When a financial instrument is derecognised, the cumulative gain or loss in equity (if any) is transferred to the consolidated
+income statement.
+IMPAIRMENT OF FINANCIAL ASSETS
+The Group assesses at each balance sheet date whether there is objective evidence that a financial asset, other than those
+at fair value through profit or loss, or a group of financial assets is impaired. A financial asset is considered to be impaired
+if objective evidence indicates that one or more events have had a negative effect on the estimated future cash flows of
+that asset.
+Loans and receivables: Objective evidence of impairment includes default in payments with respect to amounts receivable
+from customers, significant financial difficulty of the customer or bankruptcy. Impairment loss in respect of loans and
+receivables is calculated as the difference between their carrying amount and the present value of the estimated future
+cash flows discounted at the original effective interest rate. Such impairment loss is recognised in the consolidated income
+statement. If the amount of an impairment loss decreases in a subsequent year, and the decrease can be related objectively to
+an event occurring after the impairment was recognised, the previously recognised impairment loss is reversed. The reversal is
+recognised in the consolidated income statement.
+Equity investments: A significant or prolonged decline in the fair value of the security below its cost is also evidence that the
+assets are impaired. If any such evidence exists the cumulative loss, measured as the difference between the acquisition cost
+and the current fair value, less any impairment loss on that financial asset previously recognised in profit or loss is removed
+from equity and recognised in profit and loss. Impairment losses recognised in the consolidated income statement on equity
+instruments are not reversed through the consolidated income statement.
+HEDGE ACCOUNTING
+The Group uses foreign currency forward contracts and options to hedge its risks associated with foreign currency fluctuations
+relating to highly probable forecast transactions. The Group designates these forward contracts and options in a cash flow
+hedging relationships by applying hedge accounting principles under IAS 39.
+These forward contracts and options are stated at fair value on the consolidated balance sheet at each reporting date.
+Changes in the fair value of these forward contracts and options that are designated and effective as hedges of future cash
+flows are recognised in other comprehensive income (net oftax), and any ineffective portion is recognised immediately in the
+consolidated income statement. Amounts accumulated in other comprehensive income are reclassified to the consolidated
+income statement in the periods in which the forecasted transactions affect profit or loss.
+For options, the time value is not a designated component ofthe hedge, and therefore all changes in fair value related to the
+time value of the instrument are recognised immediately in the consolidated income statement.
+Hedge accounting is discontinued when the hedging instrument expires or is sold, terminated, exercised, or no longer qualifies
+for hedge accounting. For forecast transactions, any cumulative gain or loss on the hedging instrument recognised in other
+comprehensive income is retained there until the forecast transaction affects profit or loss.
+If the forecast transaction is no longer expected to occur, the net cumulative gain or loss recognised in other comprehensive
+income is immediately transferred to the consolidated income statement.

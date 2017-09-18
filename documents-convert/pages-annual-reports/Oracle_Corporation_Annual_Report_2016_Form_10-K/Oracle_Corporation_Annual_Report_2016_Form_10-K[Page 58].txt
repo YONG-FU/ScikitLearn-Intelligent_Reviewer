@@ -1,0 +1,48 @@
+Table,of,C,ontents
+Total Revenues and Operating Expenses
+Year Ended May ﬂ,
+Percent Change Percent Change
+(Donal‘s in millions) _ 2016 Actual Constant 2015 Actual Constant 2014
+{Total Revenues by GeogLaplzy: l
+Americas $ 20,466 -3% 0% $ 21,107 4% 6% $ 20,323
+EMEA (1) 10,881 -4% 3% 11,380 -5% 4% 11,946 i
+Asia Paciﬁc (2) 5,700 -1% 7% 5,739 -4% 1% 6,006
+1 Total revenues 37,047 -3% 2% 38,226 0% 4% 38,275_i
+Total Operating Expenses 24,443 0% 4% 24,355 4% 7% 23,5 1 6
+ETotal Operating Margin $ 12,604 -9% -2% $ 13,871 -6% 0% $ 14,759]
+Total Operating Margin % 34% 36% 39%
+E% Revenues by GeogLap_hy: ‘
+Americas 55% 55% 53%
+EMEA 29% 30% 31% \
+Asia Paciﬁc 16% 15% 16%
+ETotal Revenues by Business: ‘
+Cloud and on-premise software 33 28,990 -2% 3% $ 29,475 1% 5% $ 29,199
+Hardware 4,668 -10% -5% 5,205 -3% 2% 5,372 \
+Services 3,389 -4% 2% 3,546 -4% 0% 3,704
+1 Total revenues 8 37,047 -3% 2% 8 38,226 0% 4% 8 38,275]
+% Revenues by Business:
+Cloud and on-premise software 78% 77% 76% l
+Hardware 13% 14% 14%
+:Services 9% 9% 10% l
+(1) Comprised of Europe, the Middle East and Africa
+(2) The Asia Pacific region includes Japan
+Fiscal 2016 Compared to Fiscal 2015: Our results of operations for fiscal 2016 compared to ﬁscal 2015 were significantly impacted by movements in
+international currencies relative to the US. Dollar, which decreased our total revenues by 5 percentage points, total operating expenses by 4 percentage points and
+total operating margin by 7 percentage points.
+Excluding the effects of unfavorable currency rate ﬂuctuations, our total revenues increased in fiscal 2016 due to constant currency growth in our cloud and on-
+premise software business revenues and services business revenues. The constant currency growth in our cloud and on-premise software business revenues during
+fiscal 2016 was attributable to growth in our software license updates and product support revenues, growth in our SaaS, PaaS and IaaS revenues, and revenue
+contributions from our recent acquisitions and was partially offset by fiscal 2016 decreases in our new software licenses revenues. The constant currency growth in
+our services business revenues was primarily attributable to our recent acquisitions. These constant currency increases in our revenues during ﬁscal 2016 were
+partially offset by constant currency decreases in our hardware business revenues. In constant currency, the EMEA region and the Asia Pacific region contributed
+approximately equal amounts to our fiscal 2016 total revenues growth and the Americas was ﬂat.
+Excluding the effects of favorable currency rate ﬂuctuations, our total operating expenses increased during fiscal 2016 primarily due to increased sales and
+marketing and research and development expenses resulting primarily from increased headcount, increased cloud SaaS, PaaS and IaaS expenses resulting from
+increased headcount and infrastructure expenses to support the increase in our cloud SaaS, PaaS and IaaS revenues, higher restructuring expenses that were
+recorded pursuant to the Fiscal 2015 Oracle Restructuring Plan (2015 Restructuring Plan; see Note 9 of Notes to Consolidated Financial Statements included
+elsewhere in this Annual Report), and higher general and administrative expenses due to higher headcount and higher professional services fees, primarily legal
+related fees. These constant currency expense increases were partially offset by fiscal 2016 reductions in expenses associated with certain of our intangible assets
+that became fully amortized during fiscal 2016 and lower acquisition related and other expenses, which primarily was attributable to higher expenses during fiscal
+2015 as a result of a goodwill impairment loss of $186 million (see Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report
+for additional information).
+56

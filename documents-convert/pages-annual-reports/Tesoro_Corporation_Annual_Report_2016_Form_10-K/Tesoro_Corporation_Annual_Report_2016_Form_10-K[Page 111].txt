@@ -1,0 +1,39 @@
+m» GONSOA ]
+SAR ACTIVITY FOR THE YEAR (shares in thousands)
+Weighted Average
+Weighted Average Remaining Contractual
+Number of SARs Exercise Price Term
+Outstanding at January 1, 2016 463 $15.72 0.43 years
+Exercised (338) $16.44
+Forfeited (37) $15.72
+Outstanding at December 31, 2016 88 $12.93 0.34 years
+Vested or expected to vest at December 31, 2016 88 $12.93 0.34 years
+Exercisable at December 31, 2016 88 $12.93 0.34 years
+The expected life of SARs granted is based on historical data and represents the period of time that the awards are expected to be outstanding. Expected
+volatilities are based on the historical volatility of our stock. We use historical data to estimate SAR exercises and employee termination within the valuation
+model. Expected dividend yield is based on historical dividends paid. The risk-free rate of the award is based on the US. Treasury yield curve in effect at the date
+of valuation.
+WEIGHTED—AVERAGE ASSUMPTIONS USED TO VALUE SARS AND EXPENSE RECOGNIZED
+Years Ended December 31,
+2016 2015 2014
+Expected life from date of grant (years) 7 7 7
+Expected volatility 40% 51% 57%
+Expected dividend yield 3% 2% 2%
+Risk-free interest rate 0.7% 0.4% 0.2%
+PERFORMANCE SHARE AWARDS
+PERFORMANCE CONDITION/Se last granted performance condition performance share awards under the 2011 Plan in February 2014 and have not
+granted any since. A performance share award represents the right to receive shares of Tesoro common stock at the end of a 3-year performance period
+depending on the Company’s achievement of pre-established performance measures. The performance share awards can range from 0% to 200% of the number
+of original shares granted. The value of the award ultimately paid will be based on return on capital employed, which is measured against the performance peer
+group over the performance period. The fair value of performance share awards tied to performance measures is estimated using the market price of our
+common stock on the grant date. The estimated fair value of these performance share awards is amortized over a 3-year vesting period using the straight-line
+method.
+MARKET CONDITIONWe granted market condition performance share awards under the 2011 Plan in February 2015 and January 2016. A market
+condition award represents the right to receive shares of Tesoro common stock at the end of a 3-year performance period depending on the Company’s
+achievement of pre-established market conditions. The market condition awards can range from 0% to 200% of the number of original shares granted. The value
+of the award ultimately paid will be based on relative total shareholder return, which is measured against the performance peer group, XLE Energy Index and the
+S&P 500 Index over the performance period. The estimated fair value for performance share awards is estimated using a Monte Carlo simulation model as of the
+grant date and the related expense is amortized over a 3-year vesting period using the straight-line method.
+Expected volatilities are based on the historical volatility over the most recent three-year period. Expected dividend yield is based on annualized dividends at
+the date of valuation. The risk-free rate is based on the US. Treasury yield curve in effect at the date of valuation.
+106 | Tesoro Corporation

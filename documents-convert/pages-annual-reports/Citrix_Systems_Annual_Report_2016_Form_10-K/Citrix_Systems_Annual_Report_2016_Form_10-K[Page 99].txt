@@ -1,0 +1,49 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+distributions of capital stock, indebtedness, or assets, the payment of cash dividends and certain issuer tender or exchange
+offers.
+The Company may not redeem the Convertible Notes prior to the maturity date and no “sinking fund” is provided for the
+Convertible Notes, which means that the Company is not required to periodically redeem or retire the Convertible Notes. Upon
+the occurrence of certain fundamental changes involving the Company, holders of the Convertible Notes may require the
+Company to repurchase for cash all or part of their Convertible Notes in principal amounts of $1,000 or an integral multiple
+thereof at a repurchase price equal to 100% of the principal amount of the Convertible Notes to be repurchased, plus accrued
+and unpaid interest to, but excluding, the fundamental change repurchase date.
+In accounting for the issuance of the Convertible Notes, the Company separated the Convertible Notes into liability and
+equity components. The carrying amount of the liability component was calculated by measuring the estimated fair value of a
+similar liability that does not have an associated convertible feature. The carrying amount of the equity component representing
+the conversion option was determined by deducting the fair value of the liability component from the face value of the
+Convertible Notes as a whole. The excess of the principal amount of the liability component over its carrying amount ("debt
+discount") is amortized to interest expense over the term of the Convertible Notes using the eﬁective interest method with an
+effective interest rate of 3.0 percent per annum. The equity component is not remeasured as long as it continues to meet the
+conditions for equity classification.
+In accounting for the transaction costs related to the Convertible Note issuance, the Company allocated the total amount
+incurred to the liability and equity components based on their relative values. Issuance costs attributable to the $1.3 billion
+liability component are being amortized to expense over the term of the Convertible Notes, and issuance costs attributable to
+the equity component are included along with the equity component in stockholders' equity. Additionally, a deferred tax
+liability of $8.2 million related to a portion of the equity component transaction costs which are deductible for tax purposes is
+included in Other liabilities in the accompanying consolidated balance sheets.
+As a result of the structure of the Reverse Morris Trust (RMT) transaction with LogMeIn, Inc., and the notification on
+October 10, 2016 to noteholders in accordance with the Indenture, the Convertible Notes became convertible until the earlier of
+(1) the close of business on the business day immediately preceding the ex—dividend date for the distribution of the outstanding
+shares of GetGo common stock to the Company’s stockholders by way of a pro rata dividend, and (2) the Company’s
+announcement that such distribution will not take place, even though the Convertible Notes were not otherwise convertible at
+December 31, 2016. The conversion rate for the Convertible Notes, Convertible Note Hedge and Warrant Transactions was also
+subject to adjustment as of the opening of business on the ex—dividend date for the distribution. The $1.44 billion Convertible
+Notes became convertible with the notice to noteholders. Accordingly, as of December 31, 2016, the carrying amount of the
+Convertible Notes of $1.3 billion was reclassified from Other liabilities to Current liabilities and the difference between the
+face value and carrying value of $79.5 million was reclassified from stockholders’ equity to temporary equity in the
+accompanying consolidated balance sheets. See Note 18 and Note 20 for more information on the Company's separation of its
+GoTo Business.
+The Convertible Notes consist of the following (in thousands):
+December 31, December 31,
+2016 2015
+Liability component
+Principal $ 1,437,500 $ 1,437,500
+Less: note discount and issuance costs (89,344) (112,508)
+Net carrying amount $ 1,348,156 $ 1,324,992
+Equity component
+Temporary Equity $ 79,495 $ —
+Additional paid-in—capital 83,374 162,869
+Total equity (including temporary equity) $ 162,869 $ 162,869
+The following table includes total interest expense recognized related to the Convertible Notes (in thousands):
+F-33

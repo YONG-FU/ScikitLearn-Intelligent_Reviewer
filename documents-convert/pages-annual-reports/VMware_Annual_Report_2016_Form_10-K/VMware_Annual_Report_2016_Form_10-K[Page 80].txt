@@ -1,0 +1,44 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+The combined gains and losses related to forward contracts and the underlying foreign currency denominated assets and liabilities resulted in a net loss of
+$3 million , $14 million and $9 million during the years ended December 31, 2016 , 2015 and 2014 , respectively. Net gains and losses are recorded in other
+income (expense), net on the consolidated statements of income.
+I. Property and Equipment, Net
+Property and equipment, net, as of December 31, 2016 and 2015 consisted of the following (table in millions):
+December 31,
+2016 2015
+’Equipment and software $ 1,269 $ 1,180 ‘
+Buildings and improvements 814 792
+[Furniture and fixtures 102 100 1
+Construction in progress 30 30
+I Total property and equipment 2,215 2,102 ‘
+Accumulated depreciation (1,166) (974)
+I Total property and equipment, net $ 1,049 $ 1,128 l
+Depreciation expense was $215 million , $190 million and $190 million during the years ended December 31, 2016 , 2015 and 2014 , respectively.
+J. Commitments and Contingencies
+Litigation
+Former employee Dane Smith filed a lawsuit against the Company alleging (i) wrongful retaliation in violation of the False Claims Act and (ii) wrongful
+termination in violation of public policy. The parties completed an arbitration hearing on January 23, 2017, but no decision has yet been issued by the arbitrator.
+VMware believes that it has meritorious defenses relating to these claims, and currently a reasonably possible loss or range of loss cannot be estimated.
+On March 27, 2015, Phoenix Technologies (“Phoenix”) filed a complaint against VMware in the US District Court for the Northern District of California
+asserting claims for copyright infringement and breach of contract relating to a version of Phoenix’s BIOS software that VMware licensed from Phoenix. In the
+lawsuit, Phoenix is seeking injunctive relief and monetary damages. On January 6, 2017, the court granted VMware’s motion for summary judgment on the
+contract statute of limitations issues, which removed Phoenix’s breach of contract claim from the lawsuit. No other claims were removed from the lawsuit on
+summary judgment and trial is currently scheduled to start on May 30, 2017. VMware believes that it has meritorious defenses in connection with this lawsuit, and
+currently a reasonably possible loss or range of loss cannot be estimated.
+On March 4, 2015, Christoph Hellwig, a software developer who alleges that software code he wrote is used in a component of the Company’s vSphere
+product, filed a lawsuit against VMware in the Hamburg Regional Court in Germany alleging copyright infringement for failing to comply with the terms of an
+open source General Public License v.2 (“GPL V2”) and seeking an order requiring VMware to comply with the GPL v.2 or cease distribution of any affected code
+within Germany. On July 8, 2016, the German court issued a written decision dismissing Mr. Hellwig’s lawsuit because he failed to show that his protectable
+software code had been used in VMware’s product. Mr. Hellwig has appealed the Regional Court’s decision and has filed his opening appellate brief and VMware
+has filed its responsive appellate brief. No further brieﬁng or hearing schedule has yet been set by the appellate court.
+While VMware believes that it has valid defenses against each of the above legal matters, given the unpredictable nature of legal proceedings, an unfavorable
+resolution of one or more legal proceedings, claims, or investigations could have a material adverse effect on VMware’s consolidated financial statements.
+On November 17, 2015, Francis M. Ford, a VMware Class A stockholder, filed an action in the Delaware Chancery Court against certain current and former
+VMware directors, among others, alleging that the directors breached their fiduciary duties in connection with the Dell Acquisition, and the proposed issuance of
+tracking stock that is intended to track the performance of VMware. The plaintiff does not assert claims directly against VMware, but purports to bring class claims
+on behalf of other VMware Class A stockholders and derivative claims on behalf of VMware. The Ford matter is currently in the motion to dismiss stage; the
+hearing on these motions took place on February 3, 2017, but the court has not yet issued an order. In addition, on November 10, 2015, David Jacobs, also a
+VMware stockholder, filed an action in Massachusetts Superior Court
+77

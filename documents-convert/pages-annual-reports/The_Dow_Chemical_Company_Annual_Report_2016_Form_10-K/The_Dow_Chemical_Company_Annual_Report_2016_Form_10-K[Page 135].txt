@@ -1,0 +1,44 @@
+The accumulated benefit obligation for all defined benefit pension plans was $28.8 billion at December 31, 2016 and
+$24.5 billion at December 31, 2015.
+Pension Plans with Accumulated Beneﬁt Obligations in Excess 7
+of Plan Assets at December 31
+In millions 2016 2015 7
+| Projected benefit obligations $ 27,877 $ 23,421 I
+Accumulated benefit obligations $ 26,590 $ 22,409
+lFair value of plan assets $ 18,523 $ 16,0661
+In addition to the US. qualified defined benefit pension plan, U.S. employees may participate in defined contribution plans
+(Employee Savings Plans or 401(k) plans) by contributing a portion of their compensation, which is partially matched by the
+Company. Defined contribution plans also cover employees in some subsidiaries in other countries, including Australia, Brazil,
+Canada, Italy, Spain and the United Kingdom. Expense recognized for all defined contribution plans was $283 million in 2016,
+$235 million in 2015 and $243 million in 2014.
+Other Postretirement Beneﬁts
+The Company provides certain health care and life insurance benefits to retired employees. The Company’s plans outside of the
+United States are not significant; therefore, this discussion relates to the US. plans only. The plans provide health care benefits,
+including hospital, physicians’ services, drug and major medical expense coverage, and life insurance benefits. In general, for
+employees hired before January 1, 1993, the plans provide benefits supplemental to Medicare when retirees are eligible for
+these benefits. The Company and the retiree share the cost of these benefits, with the Company portion increasing as the retiree
+has increased years of credited service, although there is a cap on the Company portion. The Company has the ability to change
+these benefits at any time. Employees hired after January 1, 2008, are not covered under the plans.
+On January 1, 2014, the Company implemented an Employer Group Waiver Plan (“EGWP”) for its Medicare-eligible, retiree
+medical plan participants. The Medicare Part D Retiree Drug Subsidy program (“RDS”) was eliminated on January 1, 2014.
+The EGWP does not significantly alter the benefits provided to retiree medical plan participants. Federal subsidies to be earned
+under the EGWP are expected to exceed those earned under the RDS and will be partially offset by increased costs related to
+the administration of the EGWP. The net periodic benefit cost decreased by $25 million in 2014 due to the EGWP.
+The Company funds most of the cost of these health care and life insurance benefits as incurred. In 2016, Dow did not make
+any contributions to its other postretirement benefit plan trusts. The trusts did not hold assets at December 31, 2016. Dow does
+not expect to contribute assets to its other postretirement benefit plan trusts in 2017.
+The weighted-average assumptions used to determine other postretirement benefit obligations and net periodic benefit costs for
+the US. plans are provided below:
+7U.S. Plan Assumptions for Other Beneﬁt Obligations Net Periodic Costs 7
+Postretirement Beneﬁts at December 31 for the Year
+: ' 2016 2015 2014* * 2016 2015 2014;
+|Discount rate 3.83% 3.97% 3.68% 3.96% 3.68% 4.37%]|
+Initial health care cost trend rate 7.00% 7.25% 7.06% 7.25% 7.06% 7.45%
+|Ultimate health care cost trend rate 5.00% 5.00% 5.00% 5.00% 5 .00% 5.00%}
+:Year ultimate trend rate to be reached 2025 2025 2020 2025 2020 2020:
+Increasing the assumed medical cost trend rate for all plans by one percentage point in each year would decrease the
+accumulated postretirement benefit obligation at December 31, 2016, by $7 million and decrease the net periodic postretirement
+benefit cost for the year by $1 million. Decreasing the assumed medical cost trend rate for all plans by one percentage point in
+each year would increase the accumulated postretirement benefit obligation at December 31, 2016, by $11 million and the net
+periodic postretirement benefit cost for the year by $1 million.
+127

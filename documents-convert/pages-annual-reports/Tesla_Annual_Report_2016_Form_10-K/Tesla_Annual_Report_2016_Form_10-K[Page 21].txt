@@ -1,0 +1,46 @@
+Our vehicles and energy storage products make use of lithium-ion battery cells, which have been observed to catch fire or
+vent smoke and ﬂame, and such events have raised concerns, and future events may lead to additional concerns, about the
+batteries used in automotive applications.
+The battery packs that we produce make use of lithium-ion cells. On rare occasions, lithium-ion cells can rapidly release the
+energy they contain by venting smoke and ﬂames in a manner that can ignite nearby materials as well as other lithium-ion cells.
+While we have designed the battery pack to passively contain any single cell’s release of energy without spreading to
+neighboring cells, there can be no assurance that a ﬁeld or testing failure of our vehicles or other battery packs that we produce will
+not occur, which could subject us to lawsuits, product recalls, or redesign efforts, all of which would be time consuming and
+expensive. Also, negative public perceptions regarding the suitability of lithium-ion cells for automotive applications or any future
+incident involving lithium-ion cells such as a vehicle or other ﬁre, even if such incident does not involve our vehicles, could seriously
+harm our business.
+In addition, we store a significant number of lithium-ion cells at the Tesla Factory and plan to produce high volumes of cells and
+battery modules and packs at Gigafactory 1. Any mishandling of battery cells may cause disruption to the operation of our facilities.
+While we have implemented safety procedures related to the handling of the cells, there can be no assurance that a safety issue or ﬁre
+related to the cells would not disrupt our operations. Such damage or injury could lead to adverse publicity and potentially a safety
+recall. Moreover, any failure of a competitor’s electric vehicle or energy storage product may cause indirect adverse publicity for us
+and our products. Such adverse publicity could negatively affect our brand and harm our business, prospects, financial condition and
+operating results.
+Increases in costs, disruption of supply or shortage of materials, in particular for lithium-ion cells, could harm our business.
+We may experience increases in the cost or a sustained interruption in the supply or shortage of materials. Any such increase,
+supply interruption or shortage could materially and negatively impact our business, prospects, financial condition and operating
+results. We use various materials in our business including aluminum, steel, lithium, cobalt, nickel and copper, as well as lithium-ion
+cells from suppliers. The prices for these materials ﬂuctuate, and their available supply may be unstable, depending on market
+conditions and global demand for these materials, including as a result of increased production of electric vehicles and energy storage
+products by our competitors, and could adversely affect our business and operating results. For instance, we are exposed to multiple
+risks relating to lithium-ion cells. These risks include:
+o the inability or unwillingness of current battery manufacturers to build or operate battery cell manufacturing plants to
+supply the numbers of lithium-ion cells we require;
+c disruption in the supply of cells due to quality issues or recalls by battery cell manufacturers or any issues that may arise
+with respect to cells manufactured at our own facilities;
+0 an increase in the cost, or decrease in the available supply, of materials used in the cells; and
+o ﬂuctuations in the value of the Japanese yen against the US. dollar as our battery cell purchases for Model S and Model X
+are currently denominated in Japanese yen.
+Our business is dependent on the continued supply of battery cells for the battery packs used in our vehicles and energy storage
+products. While we believe several sources of the battery cells are available for such battery packs, and expect to eventually rely
+substantially on battery cells manufactured at our own facilities, we have to date fully qualiﬁed only a very limited number of
+suppliers for the cells used in such battery packs and have very limited ﬂexibility in changing cell suppliers. In particular, we have
+fully qualified only one supplier for the cells used in battery packs for our current production vehicles. Any disruption in the supply of
+battery cells from such suppliers could disrupt production of our vehicles and of the battery packs we produce for other automobile
+manufacturers until such time as a different supplier is fully qualified. Furthermore, ﬂuctuations or shortages in petroleum and other
+economic conditions may cause us to experience significant increases in freight charges and material costs. Substantial increases in the
+prices for our materials or prices charged to us, such as those charged by battery cell suppliers, would increase our operating costs, and
+could reduce our margins if we cannot recoup the increased costs through increased vehicle prices. Any attempts to increase vehicle
+prices in response to increased material costs could result in cancellations of vehicle orders and reservations and therefore materially
+and adversely affect our brand, image, business, prospects and operating results.
+1 8

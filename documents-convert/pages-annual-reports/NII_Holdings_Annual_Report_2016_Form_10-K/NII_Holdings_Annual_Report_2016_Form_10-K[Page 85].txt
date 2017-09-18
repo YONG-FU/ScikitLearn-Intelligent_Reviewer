@@ -1,0 +1,48 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Successor Company Predecessor Company
+Six Months
+Year Ended Ended December Six Months Year Ended
+December 31, 31, Ended June 30, December 31,
+2016 2015 2015 2014
+Operating revenues $ — $ 75,450 $ 599,038 $ 1,878,362
+{Operating expenses — (60,863) (675,245) (2,423,218)}
+Other income (expense), net — _ 1,159 _ _ (49,974) _ (148,641)
+Income (loss) before income tax ‘
+provision — 15,746 (126,181) (693,497)‘
+Income tax provision — _ (4,770) _ _ (8,065) _ (69,115)
+I — 10,976 (134,246) (762,612)}
+(Loss) income on disposal of Nextel
+Argentina, Nextel Mexico, Nextel
+Chile and Nextel Peru (19,994) _ 632 _ _ 355,360 _ 29,585
+(Loss) income from discontinued ‘
+operations, net ofincome taxes r$ (19,994)7_7$ 11,608 r_ _$ 221,114 r_r$ (733,027),
+7. Debt
+In connection with the implementation of fresh start accounting in connection with our emergence from Chapter 11, we remeasured the components of
+our debt to their fair values as of June 30, 2015. As a result, the carrying values of our bank loans do not represent the outstanding principal balances. See
+Note 3 for more information. The components of our debt are as follows:
+Successor Company
+December 31,
+2016 2015
+(in thousands)
+lBrazil equ_ipment ﬁnancing $ 291,597 $ 339,850 ‘
+Brazil bank loans 242,076 240,396
+lBrazil spectrum ﬁnancing 125,684 — ‘
+Brazil capital lease and tower ﬁnancing obligations 96,722 84,295
+{Other 237 _ 526 1
+Total debt 756,316 665,067
+lLess: current portion (540,474) _ (5 82,420) l
+$ 215,842 $ 82,647
+Brazil Equipment Financing Facility. In April 2012, Nextel Brazil entered into a US. dollar-denominated loan agreement with the China Development
+Bank, under which Nextel Brazil was able to borrow up to $500.0 million to ﬁnance infrastructure equipment and certain other costs related to the
+deployment of its WCDMA network. A portion of this ﬁnancing has a ﬂoating interest rate based on LIBOR plus 2.90% (4.22% and 3.75% as of
+December 31, 2016 and 2015, respectively), and the remainder has a ﬂoating interest rate based on LIBOR plus 1.80% (3.12% and 2.65% as of December 31,
+2016 and 2015, respectively). This ﬁnancing is guaranteed by NII Holdings. In addition, the terms of this ﬁnancing may limit Nextel Brazil's ability to pay
+dividends and other upstream payments. Loans under this agreement have a three-year borrowing period, a seven-year repayment term that began in August
+2015 and a ﬁnal maturity of June 2022. Assets purchased using the amounts borrowed under Nextel Brazil's equipment ﬁnancing facility are pledged as
+collateral.
+In December 2014, Nextel Brazil and the lender under the equipment ﬁnancing facility agreed to amend this facility to remove all ﬁnancial covenants
+beginning with the December 31, 2014 measurement date through the June 30, 2017 measurement date so that the ﬁrst measurement date under the amended
+facility will be December 31, 2017. In exchange for that covenant relief, Nextel Brazil granted the lender preferential rights to the amounts held in certain
+bank accounts. Based on our current outlook,
+F—28

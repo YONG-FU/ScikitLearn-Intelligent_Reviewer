@@ -1,0 +1,45 @@
+for free. We also develop and offer these disruptive technologies with consumption-based pricing, which may
+have an effect on the demand for our subscription-based offerings.
+An increased focus on developing and providing emerging technology offerings may require a greater focus
+on marketing more holistic solutions, rather than individual offerings. Consequently, we may need to develop
+appropriate marketing and pricing strategies for our offerings, our customers’ purchasing decisions may become
+more complex and require additional levels of approval and the duration of sales cycles for our offerings may
+increase.
+If we are unable to adapt our business model to changes in the marketplace or if demand for our offerings
+declines, our business, financial condition, operating results and cash ﬂows could be adversely affected.
+If our customers do not renew their subscription agreements with us, or if they renew on less favorable
+terms, our business, ﬁnancial results, operating results and cash ﬂows may be adversely affected.
+Our customers may not renew their subscriptions after the expiration of their subscription agreements and in
+fact some customers elect not to do so. In addition, our customers may opt for a lower-priced edition of our
+offerings or for fewer subscriptions. We have limited historical data with respect to rates of customer
+subscription renewals, so we cannot accurately predict customer renewal rates. Our customers’ renewal rates may
+decline or ﬂuctuate as a result of a number of factors, including their level of satisfaction with our services and
+their ability to continue their operations and spending levels. Government contracts could be subject to future
+funding that may affect the extension or termination of programs and generally are subject to the right of the
+government to terminate for convenience or non-appropriation. If we experience a decline in the renewal rates
+for our customers or they opt for lower-priced editions of our offerings or fewer subscriptions, our business,
+financial condition, operating results and cash ﬂows may be adversely affected.
+If third-party enterprise hardware and software providers do not continue to make their products and
+services compatible with our offerings, our software may cease to be competitive and our business,
+financial condition, operating results and cash ﬂows may be adversely affected.
+The competitive position of our offerings is dependent on their compatibility with products and services of
+third-party enterprise hardware and software companies. To the extent that a hardware or software vendor might
+have or develop products and services that compete with ours, the vendor may have an incentive to seek to limit
+the performance, functionality or compatibility of our offerings when used with one or more of the vendor’s
+offerings. In addition, these vendors may fail to support or issue statements of compatibility or certification of
+our offerings when used with their offerings. We intend to encourage the development of additional applications
+that operate on both current and new versions of our offerings by, among other means, attracting third-party
+developers to our offerings, providing open source tools to create these applications and maintaining our existing
+developer relationships through marketing and technical support. We intend to encourage the compatibility of
+our software with various third-party hardware and software offerings by maintaining and expanding our
+relationships, both business and technical, with relevant independent hardware and software vendors. If we are
+not successful in achieving these goals, however, our offerings may not be competitive and our business,
+financial condition, operating results and cash ﬂows may be adversely affected.
+If open source software programmers, most of whom we do not employ, do not continue to develop and
+enhance open source technologies, we may be unable to develop new technologies, adequately enhance our
+existing technologies or meet customer requirements for innovation, quality and price.
+We rely to a significant degree on a number of largely informal communities of independent open source
+software programmers to develop and enhance our enterprise technologies. For example, Linus Torvalds, a
+prominent open source software developer, and a relatively small group of software engineers, many of whom
+are not employed by us, are primarily responsible for the development and evolution of the Linux kernel, which
+25

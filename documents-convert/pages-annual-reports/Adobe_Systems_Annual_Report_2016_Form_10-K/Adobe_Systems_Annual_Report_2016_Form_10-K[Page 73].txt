@@ -1,0 +1,51 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+current GAAP, the revenue attributable to these software licenses is recognized ratably over the term of the arrangement because
+VSOE does not exist for the undelivered maintenance and support element as it is not sold separately. The requirement to have
+VSOE for undelivered elements to enable the separation of revenue for the delivered software licenses is eliminated under the
+new standard. Accordingly, under the new standard we will be required to recognize as revenue a portion of the arrangement fee
+upon delivery of the software license. While we currently expect revenue related to our professional services and cloud offerings
+for business enterprises, individuals and teams to remain substantially unchanged, we are still in the process of evaluating the
+impact of the new standard on these arrangementsDue to the complexity of certain of our contracts, the actual revenue recognition
+treatment required under the new standard for these arrangements may be dependent on contract-specific terms and vary in some
+instances.
+On February 24, 2016, the FASB issued ASU No. 2016-02, Leases, requiring lessees to recognize a right-of—use asset and
+a lease liability on the balance sheet for all leases with the exception of short-term leases. For lessees, leases will continue to be
+classified as either operating or finance leases in the income statement. Lessor accounting is similar to the current model but
+updated to align with certain changes to the lessee model. Lessors will continue to classify leases as operating, direct financing
+or sales-type leases. The effective date of the new standard for public companies is for fiscal years beginning after December 15,
+2018 and interim periods within those fiscal years. Early adoption is permitted. The new standard must be adopted using a modified
+retrospective transition and requires application of the new guidance at the beginning of the earliest comparative period presented.
+The updated standard is effective for us beginning in the first quarter of fiscal 2020. We are currently evaluating the effect that the
+updated standard will have on our consolidated financial statements and related disclosures.
+On March 30, 2016, the FASB issued ASU No. 2016-09, Improvements to Employee Share-Based Payment Accounting,
+which simplifies various aspects related to the accounting and presentation of share-based payments. The amendments require
+entities to record all tax effects related to share-based payments at settlement or expiration through the income statement and the
+windfall tax benefit to be recorded when it arises, subject to normal valuation allowance considerations. All tax-related cash ﬂows
+resulting from share-based payments are required to be reported as operating activities in the statement of cash ﬂows. The updates
+relating to the income tax effects of the share-based payments including the cash ﬂow presentation must be adopted either
+prospectively or retrospectively. Further, the amendments allow the entities to make an accounting policy election to either estimate
+forfeitures or recognize forfeitures as they occur. If an election is made, the change to recognize forfeitures as they occur must be
+adopted using a modiﬁed retrospective approach with a cumulative effect adjustment recorded to opening retained earnings. The
+effective date of the new standard for public companies is for fiscal years beginning after December 15 , 2016 and interim periods
+within those fiscal years. Early adoption is permitted.
+We will early adopt the updated standard in the first quarter of fiscal 2017. We believe the new standard will cause volatility
+in our effective tax rates and diluted earnings per share due to the tax effects related to share-based payments being recorded to
+the income statement. The volatility in future periods will depend on our stock price at the awards’ vest dates and the number of
+awards that vest in each period. Further, we will not elect an accounting policy change to record forfeitures as they occur and will
+continue to estimate forfeitures at each period.
+With the exception of the updated standards discussed above, there have been no new accounting pronouncements not yet
+effective that have significance, or potential significance, to our Consolidated Financial Statements.
+NOTE 2. ACQUISITIONS
+F otolia
+On January 27, 2015, we completed our acquisition of privately held Fotolia, a leading marketplace for royalty-free photos,
+images, graphics and HD videos. During the first quarter of fiscal 2015, we began integrating Fotolia into our Digital Media
+reportable segment.
+Under the acquisition method of accounting, the total final purchase price was allocated to Fotolia's net tangible and
+intangible assets based upon their estimated fair values as of January 27, 2015. During fiscal 2015, we recorded immaterial purchase
+accounting adjustments based on changes to management’s estimates and assumptions in regards to assumed intangible assets,
+calculation of deferred tax assets, liabilities and equity awards. The total final purchase price for Fotolia was $807.5 million of
+which $745.1 million was allocated to goodwill that was non-deductible for tax purposes, $204.4 million to identifiable intangible
+assets and $142.0 million to net liabilities assumed.
+73

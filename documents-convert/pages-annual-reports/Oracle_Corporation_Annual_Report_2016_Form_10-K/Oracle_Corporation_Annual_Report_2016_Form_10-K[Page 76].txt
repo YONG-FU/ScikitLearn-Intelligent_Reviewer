@@ -1,0 +1,40 @@
+Table,0f,C,0ntents
+Contractual Obligations: The contractual obligations presented in the table below represent our estimates of future payments under ﬁxed contractual obligations
+and commitments. Changes in our business needs, cancellation provisions, changing interest rates and other factors may result in actual payments differing from
+these estimates. We cannot provide certainty regarding the timing and amounts of payments. We have presented below a summary of the most significant
+assumptions used in preparing this information within the context of our consolidated ﬁnancial position, results of operations and cash ﬂows. The following is a
+summary of certain of our contractual obligations as of May 31, 2016:
+Year Ending my ﬂ,
+(Dollars in millions) _ Total 2017 2018 2019 2020 2021 Thereafter;
+Principilpayments on borrowings (1) $ 44,241 $ 3,750 $ 6,000 $ 2,000 $ 4,500 $ 2,655 $ 25,336j
+Interest payments on borrowings (1) 19,756 1,337 1,315 1,154 1,083 1,010 13,857
+Qperating leases (2) 1,238 328 273 21 1 152 1 10 164 1
+Purchase obligations and other (3) 894 574 153 91 68 8 —
+1 Total contractual obligations $ 66,129 $ 5,989 $ 7,741 $ 3,456 $ 5,803 $ 3,783 $ 39,357 1
+(1) Represents the principal balances and interest payments to be paid in connection with our senior notes and other borrowings outstanding as of May 31, 2016 after considering:
+- certain interest rate swap agreements for certain series of senior notes that have the economic effect of modifying the ﬁxed-interest obligations associated with these senior notes so that they effectively
+became variable pursuant to a LIBOR—based index. Interest payments on these senior notes have been presented in the table above after consideration of these ﬁxed to variable interest rate swap
+agreements and are subject to change in future periods;
+- interest payments on our ﬂoating-rate senior notes that are based upon the interest rates applicable to the senior notes as of May 31, 2016 and are subject to change in future periods; and
+- certain cross-currency swap agreements for a series of our Euro denominated senior notes that have the economic effect of converting our ﬁxed-rate, Euro-denominated debt, including annual interest
+payments and the payment of principal at maturity, to a ﬁxed-rate, U.S. Dollar-denominated debt with a ﬁxed annual interest rate. Principal and interest payments for these senior notes were calculated
+and presented in the table above based on the terms of these cross-currency swap agreements. Principal and interest payments for our other Euro-denominated senior notes presented in the contractual
+obligations table above were estimated using foreign currency exchange rates as of May 31, 2016 and are subject to change in future periods.
+Refer to Note 8 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information related to our notes payable and other borrowings and related derivative
+agreements.
+(2) Primarily represents leases of facilities and includes future minimum rent payments for facilities that we have vacated pursuant to our restructuring and merger integration activities. We have approximately
+$54 million in facility obligations, net of estimated sublease income, for certain vacated locations in accrued restructuring on our consolidated balance sheet at May 31, 2016.
+(3) Primarily represents amounts associated with agreements that are enforceable and legally binding and specify terms, including: fixed or minimum quantities to be purchased; ﬁxed, minimum or variable price
+provisions; and the approximate timing of the payment. We utilize several external manufacturers to manufacture sub-assemblies for our hardware products and to perform ﬁnal assembly and testing of
+ﬁnished hardware products. We also obtain individual hardware components for our products from a variety of individual suppliers based on projected demand information. Such purchase commitments are
+based on our forecasted component and manufacturing requirements and typically provide for fulﬁllment within agreed upon lead-times and/or commercially standard lead-times for the particular part or
+product and have been included in the amount presented in the above contractual obligations table. Routine arrangements for other materials and goods that are not related to our external manufacturers and
+certain other suppliers and that are entered into in the ordinary course of business are not included in the amounts presented above, as they are generally entered into in order to secure pricing or other
+negotiated terms and are difficult to quantify in a meaningful way.
+In June 2016, we acquired certain companies to expand our cloud industry solutions offerings. These acquisitions were not individually signiﬁcant. In the
+aggregate, the estimated total preliminary purchase price was $1.3 billion.
+As of May 31, 2016, we had $53 billion of gross unrecognized income tax beneﬁts, including related interest and penalties, recorded on our consolidated balance
+sheet, and all such obligations have been excluded from the contractual obligations table above due to the uncertainty as to when they might be settled. We cannot
+make a reasonably reliable estimate of the period in which the remainder of our unrecognized income tax beneﬁts will be settled or released with the relevant tax
+authorities, although we believe it is reasonably possible that certain of these liabilities could be settled or released during fiscal 2017.
+74

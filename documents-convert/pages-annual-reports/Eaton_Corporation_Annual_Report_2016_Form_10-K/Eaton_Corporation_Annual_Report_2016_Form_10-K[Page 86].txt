@@ -1,0 +1,50 @@
+In 2016, the Company adopted a change in the method it uses to estimate the service and interest cost components of net
+periodic beneﬁt cost for its deﬁned beneﬁt pension and other postretirement beneﬁt plans. Prior to 2016, for the vast majority
+of its plans, the service and interest cost components were estimated using a single weighted-average discount rate derived
+from the yield curve used to measure the beneﬁt obligation at the beginning of the period. Beginning in 2016, the Company
+used a spot rate approach by applying the speciﬁc spot rates along the yield curve to the relevant projected cash ﬂows in the
+estimation of the service and interest components of beneﬁt cost, resulting in a more precise measurement. This change does
+not affect the measurement of total beneﬁt obligations. The change was accounted for as a change in estimate and, accordingly,
+was accounted for prospectively starting in 2016. The reductions in service cost and interest cost for 2016 associated with this
+change in estimate were $3 and $42, respectively.
+Key assumptions used to calculate pension and other postretirement beneﬁts expense are adjusted at each year-end. A 1-
+percentage point change in the assumed rate of return on pension plan assets is estimated to have approximately a $43 effect on
+pension expense. Likewise, a l-percentage point change in the discount rate is estimated to have approximately a $70 effect on
+pension expense. A l-percentage point change in the assumed rate of return on other postretirement beneﬁts assets is estimated
+to have approximately a $1 effect on other postretirement beneﬁts expense. A 1-percentage point change in the discount rate is
+estimated to have approximately a $3 effect on expense for other postretirement beneﬁts plans.
+Additional information related to changes in key assumptions used to recognize expense for other postretirement beneﬁts
+plans is found in Note 7 to the Consolidated Financial Statements.
+Environmental Contingencies
+As a result of past operations, Eaton is involved in remedial response and voluntary environmental remediation at a number
+of sites, including certain of its currently-owned or formerly-owned plants. The Company has also been named a potentially
+responsible party under the United States federal Superfund law, or the state equivalents thereof, at a number of disposal sites.
+A number of factors affect the cost of environmental remediation, including the number of parties involved at a particular
+site, the determination of the extent of contamination, the length of time the remediation may require, the complexity of
+environmental regulations, and the continuing advancement of remediation technology. Taking these factors into account, Eaton
+has estimated the costs of remediation, which will be paid over a period of years. The Company accrues an amount on an
+undiscounted basis, consistent with the estimates of these costs, when it is probable that a liability has been incurred. At
+December 31, 2016 and 2015, $124 and $131, respectively, was accrued for these costs.
+Based upon Eaton's analysis and subject to the difﬁculty in estimating these future costs, the Company expects that any sum
+it may be required to pay in connection with environmental matters is not reasonably possible to exceed the recorded liability
+by an amount that would have a material effect on its ﬁnancial position, results of operations or cash ﬂows.
+MARKET RISK DISCLOSURE
+On a regular basis, Eaton monitors third-party depository institutions that hold its cash and short-term investments,
+primarily for safety of principal and secondarily for maximizing yield on those funds. The Company diversiﬁes its cash and
+short-term investments among counterparties to minimize exposure to any one of these entities. Eaton also monitors the
+creditworthiness of its customers and suppliers to mitigate any adverse impact.
+Eaton uses derivative instruments to manage exposure to volatility in raw material costs, currency, and interest rates on
+certain debt instruments. Derivative ﬁnancial instruments used by the Company are straightforward and non-leveraged. The
+counterparties to these instruments are ﬁnancial institutions with strong credit ratings. Eaton maintains control over the size of
+positions entered into with any one counterparty and regularly monitors the credit rating of these institutions. See Note 13 to
+the Consolidated Financial Statements for additional information about hedges and derivative ﬁnancial instruments.
+Eaton’s ability to access the commercial paper market, and the related cost of these borrowings, is based on the strength of
+its credit rating and overall market conditions. The Company has not experienced any material limitations in its ability to access
+these sources of liquidity. At December 3 l, 2016, Eaton had $2,000 of long-term revolving credit facilities with banks in
+support of its commercial paper program. It has no borrowings outstanding under these credit facilities.
+Interest rate risk can be measured by calculating the short-term earnings impact that would result from adverse changes in
+interest rates. This exposure results from short-term debt, which includes commercial paper at a ﬂoating interest rate, long-term
+debt that has been swapped to ﬂoating rates, and money market investments that have not been swapped to ﬁxed rates. Based
+upon the balances of investments and ﬂoating rate debt at year end 2016, a 100 basis-point increase in short-term interest rates
+would have increased the Company’s net, pretax interest expense by $36.
+79

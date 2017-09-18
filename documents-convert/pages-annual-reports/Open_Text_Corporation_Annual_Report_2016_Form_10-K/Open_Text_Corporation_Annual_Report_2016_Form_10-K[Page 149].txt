@@ -1,0 +1,51 @@
+As at June 30, 2016, we have provided $15.9 million (June 30, 2015—$12.1 million) in respect of both additional foreign
+withholding taxes or deferred income tax liabilities for temporary differences related to the undistributed earnings of certain
+non-United States subsidiaries, and planned periodic repatriations from certain United States and Luxembourg subsidiaries, that
+will be subject to withholding taxes upon distribution. We have not provided for additional foreign withholding taxes or
+deferred income tax liabilities related to undistributed earnings of all other non-Canadian subsidiaries, since such earnings are
+considered permanently invested in those subsidiaries, or are not subject to withholding taxes. It is not practicable to reasonably
+estimate the amount of additional deferred income tax liabilities or foreign withholding taxes that may be payable should these
+earnings be distributed in the future.
+NOTE 15—FAIR VALUE MEASUREMENT
+ASC Topic 820 “Fair Value Measurement” (Topic 820) defines fair value, establishes a framework for measuring fair
+value, and addresses disclosure requirements for fair value measurements. Fair value is the price that would be received upon
+sale of an asset or paid upon transfer of a liability in an orderly transaction between market participants at the measurement
+date and in the principal or most advantageous market for that asset or liability. The fair value, in this context, should be
+calculated based on assumptions that market participants would use in pricing the asset or liability, not on assumptions speciﬁc
+to the entity. In addition, the fair value of liabilities should include consideration of non-performance risk, including our own
+credit risk.
+In addition to defining fair value and addressing disclosure requirements, Topic 820 establishes a fair value hierarchy for
+valuation inputs. The hierarchy prioritizes the inputs into three levels based on the extent to which inputs used in measuring fair
+value are observable in the market. Each fair value measurement is reported in one of the three levels which are determined by
+the lowest level input that is significant to the fair value measurement in its entirety. These levels are:
+- Level 1—inputs are based upon unadjusted quoted prices for identical instruments traded in active markets.
+- Level 2—inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or
+similar instruments in markets that are not active, and model-based valuation techniques for which all significant
+assumptions are observable in the market or can be corroborated by observable market data for substantially the full
+term of the assets or liabilities.
+- Level 3—inputs are generally unobservable and typically reﬂect management’s estimates of assumptions that market
+participants would use in pricing the asset or liability. The fair values are therefore determined using model-based
+techniques that include option pricing models, discounted cash ﬂow models, and similar techniques.
+Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis:
+Our financial assets and liabilities measured at fair value on a recurring basis consisted of the following types of
+instruments as of June 30, 2016 and June 30, 2015:
+7 June 30, 2016 7 7 June 30, 2015 7
+7 7 Fair Market Measurements using: 7 7 Fair Market Measurements using:
+lQuoted prices 7 lQuoted prices 7
+in active in active
+markets for Signiﬁcant markets for Signiﬁcant
+identical other Signiﬁcant identical other Signiﬁcant
+oasseots/ observable unobservable .assets/ observable unobservable
+June 30’ : (liabilities) : : inputs : : inputs : June 30’ : (liabilities) : : inputs : : inputs :
+7 2016 7 7 (Level 1) 7 7 (Level 2) 7 7 (Level 3) 7 7 2015 7 7 (Level 1) 7 7 (Level 2) 7 7 (Level 3) 7
+Financial Assets:
+Short-term
+1nvestments* $ 11,839 n/a $ 11,839 n/a 39 20,274 n/a 33 20,274 n/a
+Derivative financial
+instrument asset
+(note 16) 7 7927 7 n/a 7 7927 7 n/a 7 2737 7 n/a 7 273 7 7 n/a
+i 733 12,631” n/a 733 12,631 H n/ai 7$ 20,547“ n/a 733 20,547,, n/ai
+*These assets in the table above are classified as Level 2 as certain specific assets included within may not have quoted
+prices that are readily accessible in an active market or we may have relied on alternative pricing methods that do not rely
+exclusively on quoted prices to determine the fair value of the investments.
+141

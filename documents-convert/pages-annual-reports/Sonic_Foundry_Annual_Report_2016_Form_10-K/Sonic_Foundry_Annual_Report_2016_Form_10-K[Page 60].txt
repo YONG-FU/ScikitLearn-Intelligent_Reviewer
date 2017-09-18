@@ -1,0 +1,45 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+If we are unsuccessful in establishing or maintaining our relationships with these third parties, our ability to compete in the
+marketplace or to maintain or grow our revenue could be impaired and our operating results would suffer.
+Our cash flow could ﬂuctuate due to the potential difficulty of collecting our receivables.
+A significant portion of our sales are fulfilled by VARs, regional distributors or master distributors. As an example, 28% of our
+billings in fiscal 2016 were to Synnex Corporation, Starin Marketing Inc, and Stampede Presentation Products, Inc., three master
+distributors who fulfill demand from other distributors, VARs or end-users. While our VARs typically maintain payment terms
+consistent with other end-users, our master distributors have longer payment terms and a delay in payment may occur as a result
+of a number of factors including changes in demand, general economic factors, financial performance, inventory levels or disputes
+over payments. Any delay from Synnex, Starin, Stampede or other large distributors or VARs, could have a material impact on
+the collections of our receivables during a particular quarter.
+We offer credit terms to some of our international customers; however, payments tend to go beyond terms in certain countries
+and advances allowable on accounts receivable from international customers under our revolving line of credit are calculated
+using a lower advance rate than domestic receivables and are limited to $1 million. Therefore, as Europe, Asia and other
+international regions grow, accounts receivable balances will likely increase as compared to previous years and our ability to
+finance the increase will be limited.
+Supporting our existing and growing customer base and implementing large customer deployments could strain our personnel
+resources and infrastructure, and if we are unable to scale our operations and increase productivity, customer satisfaction
+and our business will be harmed
+Frequent enhancements to our software puts pressure on our customers to install, maintain and train their personnel on its use.
+Further, frequent releases of the software can lead to less product stability. As a result, our customer care and engineering resources
+have come under, and are expected in the future to come under significant pressure in providing the high-quality of technical
+support our customers expect during periods of high demand. We may be unable to respond quickly enough to accommodate
+short-term increases in customer demand for support services. Increased customer demand for these services, without
+corresponding revenues, could increase costs and adversely affect our operating results. In addition, our sales process is highly
+dependent on our applications and business reputation and on positive recommendations from our existing customers. Any failure
+to maintain high-quality technical support, or a market perception that we do not maintain high-quality support, could adversely
+affect our reputation, our ability to sell our products and services to existing and prospective customers, and our business,
+operating results and financial position.
+As we target more of our sales efforts at larger initial transactions, we face increasingly complex deployments requiring substantial
+technical and management resources, including in some cases significant product customization and integration with other
+applications or hardware. Customers making large expenditures for our products and services typically have higher expectations
+of product and service operability and response time if issues arise. Some of these customers have asked us to host their content
+and have significant amounts of legacy content to transfer to our datacenter. Such increased activity and storage demand on our
+data centers put additional strain on our personnel and hosting infrastructure. Our hosting customers typically require a high level
+of access, data security and need to capture and store multiple high definition streams. Such requirements require costly
+enhancements to our infrastructure. High demand on technical and management resources to manage large transactions distract
+personnel from existing customers, development of new products and other important activities which could lead to potential
+customer dissatisfaction, product development delays or other issues associated with the distraction.
+If a customer is not satisfied with the quality of work performed by us or a third party or with the type of services or solutions
+delivered, then we could incur additional costs to address the situation and delay recognition of revenue, the profitability of that
+work might be impaired, and the customer’s dissatisfaction with our services could damage our ability to obtain additional work
+20

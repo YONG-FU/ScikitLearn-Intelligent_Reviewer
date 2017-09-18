@@ -1,0 +1,44 @@
+For more information regarding these risks, see the information in “Item IA: Risk Factors”
+under the captions “Substantial and increasingly intense competition worldwide in
+ecommerce may harm our business” and “We are subject to regulatory activity and antitrust
+litigation under competition laws.”
+To compete effectively, we will need to continue to expend significant resources in
+technology and marketing. These efforts require substantial expenditures, which could reduce
+our margins and have a material adverse effect on our business, financial position, operating
+results and cash flows and reduce the market price of our common stock and outstanding
+debt. Despite our efforts to preserve and expand the size, diversity and transaction activity of
+our buyers and sellers and to enhance the user experience, we may not be able to effectively
+manage our operating expenses, to increase or maintain our revenue or to avoid a decline in
+our consolidated net income or a net loss.
+Government Regulation
+Government regulation impacts key aspects of our business. In particular, we are subject
+to laws and regulations that affect the ecommerce industry in many countries where we
+operate. For more information regarding these risks, see the information in “Item IA: Risk
+Factors” under the caption “Our business is subject to extensive government regulation and
+oversight.”
+Seasonality
+We expect transaction activity patterns on our platforms to mirror general consumer
+buying patterns. Please see the additional information in “Item 7: Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” under the caption
+“Seasonality.”
+Technology
+eBay lnc.’s platforms utilize a combination of proprietary technologies and services as well
+as technologies and services provided by others. We have developed intuitive user interfaces,
+buyer and seller tools and transaction processing, database and network applications that help
+enable our users to reliably and securely complete transactions on our sites. Our technology
+infrastructure simplifies the storage and processing of large amounts of data, eases the
+deployment and operation of large—scale global products and services and automates much of
+the administration of large-scale clusters of computers. Our infrastructure has been designed
+around industry-standard architectures to reduce downtime in the event of outages or
+catastrophic occurrences. We strive to continually improve our technology to enhance the
+buyer and seller experience and to increase efficiency, scalability and security. Additionally,
+we recently embarked on a multi-year evolution of our shopping platform that aims to deliver
+relevant, persistent and personalized experiences for consumers. For information regarding
+technology-related risks, see the information in “Item IA: Risk Factors” under the caption
+“Systems failures or cyberattacks and resulting interruptions in the availability of or
+degradation in the performance of our websites, applications, products or services could harm
+our business.”
+Intellectual Property
+We regard the protection of our intellectual property, including our trademarks (particularly
+those covering the eBay name), patents, copyrights, domain names, trade dress and trade
+5

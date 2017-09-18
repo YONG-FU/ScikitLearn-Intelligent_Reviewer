@@ -1,0 +1,49 @@
+attributable to their state from certain out—of—state businesses. Similarly, in Europe, and
+elsewhere in the world, there are various tax reform efforts underway designed to ensure that
+corporate entities are taxed on a larger percentage of their earnings. Companies that operate
+over the Internet, such as eBay, are a target of some of these efforts. If more taxing authorities
+are successful in applying direct taxes to Internet companies that do not have a physical
+presence in their respective jurisdictions, this could increase our effective tax rate.
+We may be subject to sales reporting and record-keeping obligations.
+One or more states, the US. federal government or foreign countries may seek to impose
+reporting or record-keeping obligations on companies that engage in or facilitate ecommerce.
+Such an obligation could be imposed by legislation intended to improve tax compliance (and
+legislation to such effect has been contemplated by several states and a number of foreign
+jurisdictions) or if one of our companies was ever deemed to be the legal agent of the users of
+our services by a jurisdiction in which it operates. Certain of our companies are required to
+report to the Internal Revenue Service (IRS) on customers subject to US. income tax who
+receive more than $20,000 in payments and more than 200 payments in a calendar year. As a
+result, we are required to request tax identification numbers from certain payees, track
+payments by tax identification number and, under certain conditions, withhold a portion of
+payments and forward such withholding to the IRS. We have modified our systems to meet
+these requirements and expect increased operational costs and changes to our user
+experience in connection with complying with these reporting obligations. Any failure by us to
+meet these requirements could result in substantial monetary penalties and other sanctions
+and could harm our business.
+Our business is subject to online security risks, including security breaches and
+cyberattacks.
+Our businesses involve the storage and transmission of users’ personal financial
+information. In addition, a significant number of our users authorize us to bill their payment card
+accounts directly for all transaction and other fees charged by us. An increasing number of
+websites, including those owned by several other large Internet and offline companies, have
+disclosed breaches of their security, some of which have involved sophisticated and highly
+targeted attacks on portions of their websites or infrastructure. The techniques used to obtain
+unauthorized access, disable, or degrade service, or sabotage systems, change frequently,
+may be difficult to detect for a long time, and often are not recognized until launched against a
+target. Certain efforts may be state sponsored and supported by significant financial and
+technological resources and therefore may be even more difficult to detect. As a result, we
+may be unable to anticipate these techniques or to implement adequate preventative
+measures. Unauthorized parties may also attempt to gain access to our systems or facilities
+through various means, including hacking into our systems or facilities, fraud, trickery or other
+means of deceiving our employees, contractors and temporary staff. A party that is able to
+circumvent our security measures could misappropriate our or our users’ personal information,
+cause interruption or degradations in our operations, damage our computers or those of our
+users, or otherwise damage our reputation. In addition, our users have been and likely will
+continue to be targeted by parties using fraudulent “spoof” and “phishing” emails to
+misappropriate user names, passwords, payment card numbers, or other personal information
+or to introduce viruses or other malware through “trojan horse” programs to our users’
+computers. Our information technology and infrastructure may be vulnerable to cyberattacks
+or security incidents and third parties may be able to access our users’ proprietary information
+and payment card data that are stored on or accessible through our systems. Any security
+breach at a company providing services to us or our users could have similar effects.
+26

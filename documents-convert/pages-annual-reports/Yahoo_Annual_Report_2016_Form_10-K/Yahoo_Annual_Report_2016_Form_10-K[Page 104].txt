@@ -1,0 +1,33 @@
+Table,of,C,ontents
+Cash and Cash Equivalents, Short- and Long-Term Marketable Securities. The Company invests its excess cash in money market funds, time deposits,
+and liquid debt securities of the U.S. and foreign governments and their agencies, and high credit-quality corporate issuers which are classiﬁed as marketable
+debt securities and cash equivalents. All investments in debt securities with an original maturity of 90 days or less are considered cash equivalents. Investments
+in debt securities with remaining maturities of less than 12 months from the balance sheet date are classiﬁed as current assets, which are available for use to
+fund current operations. Investments with remaining maturities greater than 12 months from the balance sheet date are classiﬁed as long-term assets.
+Operating cash deposits held with banks may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon
+demand and are maintained with ﬁnancial institutions with reputable credit and therefore bear limited credit risk. The Company seeks to mitigate its credit risk by
+spreading such risk across multiple counterparties and monitoring the risk proﬁles of these counterparties.
+The Company’s marketable equity securities, including Alibaba Group and Hortonworks, are classified as available-for-sale and are reported at fair value, with
+unrealized gains and losses, net of tax, recorded in accumulated other comprehensive income. The change in the classiﬁcation of the Company’s investments in
+Alibaba Group and Hortonworks to available-for-sale marketable securities exposes the Company’s investment portfolio to increased equity price risk. The
+Company evaluates the marketable equity securities periodically for possible other-than-temporary impairment. A decline of fair value below cost basis is
+considered an other-than-temporary impairment if the Company has the intent to sell the security or it is more likely than not that the Company will be required to
+sell the security before recovery of the entire cost basis. In those instances, an impairment charge equal to the difference between the fair value and the cost
+basis is recognized in earnings. Regardless of the Company’s intent or requirement to sell the marketable equity securities, an impairment is considered other-
+than-temporary if the Company does not expect to recover the entire cost basis; in those instances, a loss equal to the difference between fair value and the cost
+basis of the marketable equity security is recognized in earnings.
+Realized gains or losses and declines in value judged to be other-than—temporary, if any, on available-for—sale securities are reported in other income (expense),
+net. The Company evaluates its marketable debt investments periodically for possible other-than-temporary impairment. A decline of fair value below amortized
+costs of debt securities is considered an other-than-temporary impairment if the Company has the intent to sell the security or it is more likely than not that the
+Company will be required to sell the security before recovery of the entire amortized cost basis. In those instances, an impairment charge equal to the difference
+between the fair value and the amortized cost basis is recognized in earnings. Regardless of the Company’s intent or requirement to sell a debt security, an
+impairment is considered other-than—temporary if the Company does not expect to recover the entire amortized cost basis; in those instances, a credit loss equal
+to the difference between the present value of the cash ﬂows expected to be collected based on credit risk and the amortized cost basis of the debt security is
+recognized in earnings. The Company has no current requirement or intent to sell a material portion of debt securities as of December 31, 2016. The Company
+expects to recover up to (or beyond) the initial cost of investment for securities held. In computing realized gains and losses on available-for—sale securities, the
+Company determines cost based on amounts paid, including direct costs such as commissions to acquire the security, using the speciﬁc identification method.
+During the years ended December 31, 2014, 2015, and 2016, gross realized gains and losses on available-for—sale marketable debt and equity securities were
+not material.
+Allowance for Doubtful Accounts. The Company records its allowance for doubtful accounts based upon its assessment of various factors. The Company
+considers historical experience, the age of the
+103

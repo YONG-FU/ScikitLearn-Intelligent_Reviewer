@@ -1,0 +1,47 @@
+Segments —The Company uses the "management approach" to determine its reportable segments, as well as to
+determine the basis of reporting the operating segment information. The management approach focuses on financial
+information that management uses to make operating decisions. Our CODMs use operating revenues, operating
+expense categories, operating ratios, operating income, and key operating statistics to evaluate performance and
+allocate resources to the Company's operations.
+Operating income is the measure that management uses to evaluate segment performance and allocate resources,
+which is consistent with US-GAAP for segment reporting. Operating income should not be viewed as a substitute
+for US-GAAP net income (loss). Management believes the presentation of operating income enhances the
+understanding of the Company's performance by highlighting the results of operations and the underlying profitability
+drivers of the business segments. Operating income is defined as operating revenues less operating expenses,
+before income tax expense.
+Based on the unique nature of the Company's operating structure, revenue-generating assets are interchangeable
+between segments. Therefore, the Company does not prepare separate balance sheets by segment, as assets
+are not separately identifiable by segment. The Company allocates depreciation and amortization expense of its
+property and equipment to the segments based on the actual utilization of the asset by the segment during the
+penod.
+Cash and Cash Equivalents —The Company considers all highly liquid debt instruments purchased with original
+maturities of three months or less to be cash equivalents.
+Restricted Cash —The Company's wholly-owned captive insurance companies, Red Rock and Mohave, maintain
+certain operating bank accounts, working trust accounts, and investment accounts. The cash and short-term
+investments within the accounts are restricted by insurance regulations to fund the insurance claim losses to be
+paid by the captive insurance companies. Therefore, these cash and short-term investments are classified as "Cash
+and cash equivalents — restricted" in the consolidated balance sheets.
+Restricted Investments — The Company's investments are restricted by insurance regulations to fund the
+insurance claim losses to be paid by the captive insurance companies. The Company accounts for its investments
+in accordance with ASC Topic 320, Investments — Debt and Equity Securities. Management determines the
+appropriate classification of its investments in debt securities at the time of purchase and re-evaluates the
+determination on a quarterly basis. As of December 31, 2016, all of the Company's investments in fixed-maturity
+securities were classified as held-to-maturity, as the Company has the positive intent and ability to hold these
+securities to maturity. Held-to-maturity securities are carried at amortized cost. The amortized cost of debt securities
+is adjusted using the effective interest rate method for amortization of premiums and accretion of discounts.
+Amortization and accretion is reported in "Other income, net" in the consolidated income statements.
+Management periodically evaluates restricted investments for impairment. The assessment of whether impairments
+have occurred is based on management's case-by-case evaluation of the underlying reasons for the decline in
+estimated fair value. Management accounts for other-than-temporary impairments of debt securities in accordance
+with ASC Topic 320, Investments — Debt and Equity Securities. This guidance requires the Company to evaluate
+whether it intends to sell an impaired debt security or whether it is more likely than not that it will be required to sell
+an impaired debt security before recovery of the amortized cost basis. If either of these criteria are met, an impairment
+loss equal to the difference between the debt security's amortized cost and its estimated fair value is recognized in
+earnings. For impaired debt securities that do not meet these criteria, the Company determines if a credit loss
+exists with respect to the impaired security. If a credit loss exists, the credit loss component of the impairment (i.e.,
+the difference between the security's amortized cost and the present value of projected future cash flows expected
+to be collected) is recognized in earnings and the remaining portion of the impairment is recognized as a component
+of AOCl.
+Inventories and Supplies — Inventories and supplies primarily consist of spare parts, tires, fuel, and supplies and
+are stated at lower of cost or market. Cost is determined using the first-in, first-out method.
+89

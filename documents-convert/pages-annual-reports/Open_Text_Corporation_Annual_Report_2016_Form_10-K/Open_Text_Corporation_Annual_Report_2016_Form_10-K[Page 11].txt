@@ -1,0 +1,53 @@
+PART I
+Forward-Looking Statements
+In addition to historical information, this Annual Report on Form 10-K contains forward-looking statements within the
+meaning of the Private Securities Litigation Reform Act of 1995, Section 21E of the US. Securities Exchange Act of 1934, as
+amended (the Exchange Act), and Section 27A of the US. Securities Act of 1933, as amended (the Securities Act), and is
+subject to the safe harbours created by those sections. Words such as “anticipates”, “expects”, “intends”, “plans”, “believes”,
+“seeks”, “estimates”, “may”, “could”, “would”, “might”, “will” and variations of these words or similar expressions are
+intended to identify forward-looking statements. In addition, any statements that refer to expectations, beliefs, plans,
+projections, objectives, performance or other characterizations of future events or circumstances, including any underlying
+assumptions, are forward-looking statements. These forward-looking statements involve known and unknown risks as well as
+uncertainties, including those discussed herein and in the Notes to Consolidated Financial Statements for the year ended
+June 30, 2016, which are set forth in Part II, Item 8 of this Annual Report. The actual results that we achieve may differ
+materially from any forward-looking statements, which reﬂect management's current expectations and projections about future
+results only as of the date hereof. We undertake no obligation to revise or publicly release the results of any revisions to these
+forward-looking statements. A number of factors may materially affect our business, financial condition, operating results and
+prospects. These factors include, but are not limited to, those set forth in Part I, Item 1A “Risk Factors” and elsewhere in this
+Annual Report as well as other documents we file from time to time with the United States Securities and Exchange
+Commission (the SEC). Any one of these factors may cause our actual results to differ materially from recent results or from
+our anticipated future results. You should not rely too heavily on the forward-looking statements contained in this Annual
+Report on Form 10-K because these forward-looking statements are relevant only as of the date they were made.
+Item 1. Business
+Open Text Corporation was incorporated on June 26, 1991. References herein to the “Company”, “OpenText”, “we” or
+“us” refer to Open Text Corporation and, unless context requires otherwise, its subsidiaries. Our principal office is located at
+275 Frank Tompa Drive, Waterloo, Ontario, Canada N2L 0A1, and our telephone number at that location is (519) 888-7111.
+Our internet address is wwwopentextcom. Our website is included in this Annual Report on Form 10-K as an inactive textual
+reference only. Except for the documents specifically incorporated by reference into this Annual Report, information contained
+on our website is not incorporated by reference in this Annual Report on Form 10-K and should not be considered to be a part
+of this Annual Report. Throughout this Annual Report on Form 10-K: (i) the term "Fiscal 2017 " means our fiscal year
+beginning on July 1, 2016 and ending June 30, 2017; (ii) the term “Fiscal 2016” means our fiscal year beginning on July 1,
+2015 and ended June 30, 2016; (iii) the term “Fiscal 2015” means our fiscal year beginning on July 1, 2014 and ended June 30,
+2015; and (iv) the term “Fiscal 2014” means our fiscal year beginning on July 1, 2013 and ended June 30, 2014; and (v) the
+term "Fiscal 2013" means our fiscal year beginning July 1, 2012 and ended June 30, 2013. Our Consolidated Financial
+Statements are presented in US. dollars and, unless otherwise indicated, all amounts included in this Annual Report on Form
+10-K are expressed in US. dollars.
+Business Overview and Strategy
+We operate in the Enterprise Information Management (EIM) market. We are an independent company providing a
+comprehensive platform and suite of software products and services that assist organizations in finding, utilizing, and sharing
+business information from any device in ways which are intuitive, efficient and productive. Our technologies and business
+solutions address one of the biggest problems encountered by enterprises today: the explosive growth of information volume
+and formats. Our software and services allow organizations to manage the information that ﬂows into, out of, and throughout
+the enterprise as part of daily operations. Our solutions help to improve customer satisfaction and digital experience, gain
+analytical insight, improve collaboration with business partners, address the legal and business requirements associated with
+information governance, and help to ensure that information remains secure and private, as demanded in today's highly
+regulated climate.
+Enterprise Information Management
+There are two main information management pillars: Enterprise Resource Planning (ERP), which typically contains
+structured data, and Enterprise Information Management (EIM), which typically contains unstructured data. EIM is the
+moniker given to the discipline of handling all unstructured data within and between an enterprise and other organizations.
+Unstructured data typically represents a significant amount of an organization's data.
+Unstructured data encompasses everything from email and business processes to the handling of oﬂice and PDF
+documents, and even communicative, transient data like fax transfers, collaborative communications, and large managed files.
+This type of data composes the preponderance of information amassed and managed by today's enterprise systems. It holds
+3

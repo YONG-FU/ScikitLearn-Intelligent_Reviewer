@@ -1,0 +1,53 @@
+IaibleiofiCiontents Alphabet Inc.
+including impairment was a net loss of $48 million, $227 million, and $202 million for the years ended December 31,
+2014, 2015, and 2016, respectively. As of December 31, 2015 and 2016, investments accounted for under the cost
+method had a carrying value of $2.6 billion and $3.0 billion, respectively, and a fair value of approximately $7.5 billion
+and $8.1 billion, respectively. The fair value of the cost method investments are primarily determined from data
+leveraging private-market transactions and are classiﬁed within Level 3 in the fair value hierarchy. We reﬂect our share
+of equity method investee earnings and losses and impairments of non-marketable equity investments as a component
+of other income (expense), net, in the accompanying Consolidated Statements of Income.
+Certain renewable energy investments included in our non-marketable equity investments accounted for under
+the equity method are variable interest entities ("VIE"). These entities' activities involve power generation using
+renewable sources. We have determined that the governance structures of these entities do not allow us to direct the
+activities that would signiﬁcantly impact VIE's economic performance such as setting operating budgets. Therefore,
+we do not consolidate these VIEs in our financial statements. The carrying value of these VIEs was $1.3 billion with
+a maximum exposure of $1 .3 billion as of December 31, 2015 and $1.2 billion with a maximum exposure of $1 .2 billion
+as of December 31, 2016. The maximum exposure is based on current investments to date. We have determined the
+single source of our exposure to these VIEs is our capital investment in these entities. We periodically reassess whether
+we are the primary beneﬁciary of a VIE. The reassessment process considers whether we have acquired the power
+to direct the most significant activities of the VIE through changes in governing documents or other circumstances.
+We also reconsider whether entities previously determined not to be VIEs have become VIEs, and vice versa, based
+on changes in facts and circumstances including changes in contractual arrangements and capital structure.
+Non-Marketable Debt Securities
+Our non-marketable debt securities are primarily preferred stock that are redeemable at our option and convertible
+notes issued by private companies. The cost of these securities was $1.0 billion and $1.1 billion as of December 31,
+2015 and 2016, respectively. These debt securities do not have readily determinable market values and are categorized
+accordingly as Level 3 in the fair value hierarchy. To estimate the fair value of these securities, we use a combination
+of valuation methodologies, including market and income approaches based on prior transaction prices; estimated
+timing, probability, and amount of cash ﬂows; and illiquidity considerations. Financial information of private companies
+may not be available and consequently we will estimate the value based on the best available information at the
+measurement date. No signiﬁcant impairments were recognized for the years ended December 31, 2014, 2015, and
+2016.
+The following table presents a reconciliation for our non-marketable debt securities measured and recorded at
+fair value on a recurring basis, using significant unobservable inputs (Level 3) (in millions):
+7 Year Ended December 31 7
+: 2015 2016
+IBeginning balance $ 90 $ 1,024 I
+Total net gains or losses
+I Included in other comprehensive income 0 106 I
+Purchases 960 78
+ISales (6) (18)I
+Settlements 7 (20): (25)
+IEnding balance :$ 1,024 1,165I
+Note 4. Debt
+Short-Term Debt
+Google had a short-term debt financing program of up to $3.0 billion through the issuance of commercial paper
+and a $3.0 billion revolving credit facility as of December 31, 2015. In February 2016, we replaced this program with
+a new short-term debt ﬁnancing program of up to $5.0 billion of commercial paper and a $4.0 billion revolving credit
+facility, which expires in February 2021. Net proceeds from these programs are used for general corporate purposes.
+We had $2.0 billion of outstanding commercial paper recorded as short-term debt with aweighted-average interest
+rate of 0.2% as of December 31 , 2015 and no commercial paper outstanding as of December 31 , 2016. The estimated
+fair value of the short-term debt approximated its carrying value as of December 31, 2015.
+The interest rate for the credit facility is determined based on a formula using certain market rates. No amounts
+were outstanding under the credit facility as of December 31, 2015 and December 31, 2016.
+61

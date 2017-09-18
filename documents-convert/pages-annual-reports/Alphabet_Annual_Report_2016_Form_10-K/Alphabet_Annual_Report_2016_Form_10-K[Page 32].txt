@@ -1,0 +1,50 @@
+IaibleiofiCiontents Alphabet Inc.
+Consolidated Costs and Expenses
+Cost of Revenues
+Cost of revenues consists of trafﬁc acquisition costs ('lAC) which are paid to Google Network Members primarily for
+ads displayed on their properties and amounts paid to our distribution partners who make available our search access
+points and services. Our distribution partners include browser providers, mobile carriers, original equipment
+manufacturers, and software developers.
+Additionally, other cost of revenues (which is the cost of revenues excluding trafﬁc acquisition costs) includes
+the following:
+- The expenses associated with the operation of our data centers (including depreciation, labor, energy,
+bandwidth, and other equipment costs);
+- Content acquisition costs primarily related to payments to certain content providers from whom we license
+their video and other content for distribution on YouTube and Google Play (we pay fees to these content
+providers based on revenues generated or a ﬂat fee);
+- Credit card and other transaction fees related to processing customer transactions;
+- Stock-based compensation expense;
+- Inventory related costs for hardware we sell; and
+- Amortization of certain intangible assets.
+The following tables present our cost of revenues, including trafﬁc acquisition costs, for the periods presented
+(in millions):
+7 Year Ended December 31, 7
+2014 2015 2016
+[Trafﬁc acquisition costs $ 13,497 $ 14,343 $ 16,793 i
+Other cost of revenues : 12,194 13,821 18,345 :
+[Total cost of revenues $ 25,691 7_$ 28,164 7_$ 35,138 i
+Total cost of revenues as a percentage of revenues 7 38.9%7 7 37.6%7 7 38.9%7
+: Year Ended December 31, :
+2014 _ 2015 _ 2016
+[Trafﬁc acquisition costs to distribution partners $ 3,633 $ 4,101 $ 5,894 l
+Trafﬁc acquisition costs to distribution partners as a percentage of
+Google properties revenues (Google properties TAC rate) 8.1% 7.8% 9.2%
+Traffic acquisition costs to Google Network Members $ 9,864 $ 10,242 $ 10,899
+Trafﬁc acquisition costs to Google Network Members as a percentage of
+Google Network Members' properties revenues (Network Members TAC
+rate) 67.8% 68.1% 69.9%l
+[Trafﬁc acquisition costs $ 13,497 $ 14,343 $ 16,793 ‘
+Trafﬁc acquisition costs as a percentage of advertising revenues
+(Aggregate TAC rate) 22.6% 21.3% 21.2%
+The cost of revenues that we incur related to revenues generated from ads placed on the properties of our Google
+Network Members are significantly higher than the costs of revenues we incur related to revenues generated from ads
+placed on Google properties because most of the advertiser revenues from ads served on Google Network Members’
+properties are paid as TAC to our Google Network Members.
+Cost of revenues increased $6,974 million from 2015 to 2016 due to various factors including traffic acquisition
+costs, data center costs, content acquisition costs, and hardware costs. The increase in traffic acquisition costs of
+$2,450 million was due to increases in advertising revenues primarily from the growth of mobile search and
+programmatic ad buying which carry higher TAC. The increase in other cost of revenues of $4,524 million was primarily
+due to increases in (1) data centers costs including depreciation, labor, energy, bandwidth, and other equipment costs
+as a result of business growth, (2) content acquisition costs as a result of increased activities related to YouTube, (3)
+hardware costs associated with new hardware launches, and (4) stock-based compensation.
+29

@@ -1,0 +1,50 @@
+The Company will continue to monitor this matter and the related potential impacts to its financial statements.
+During the third quarter of fiscal 2016, the Company amended its inter-company cost-sharing arrangement to
+exclude stock-based compensation expense beginning in fiscal 2016 and accordingly, the Company recognized
+the related tax benefit through its tax provision. The Company also recorded a tax benefit of $30.4 million related
+to the Company’s historical tax filing position, which was offset by the valuation allowance. In the above
+reconciliation, most of the Altera related tax benefit was reﬂected in the foreign taxes in excess of the US.
+statutory rate, which was partially offset by the change in valuation allowance.
+In December 2015, the Protecting Americans from Tax Hikes (PATH) Act of 2015 was signed into law,
+which made permanent several business-related provisions such as the research tax credit for qualifying amounts
+paid or incurred after December 31, 2014, and extended other expired provisions including bonus depreciation.
+While the retroactive benefit of the research tax credits was fully offset by an increase of the Company’s
+valuation allowance in fiscal 2016 tax provision, the bonus depreciation election reduced the Company’s taxable
+income before considering certain excess tax benefits from stock options and vesting of restricted stock, which
+correspondingly reduced U.S current tax expense by $18.9 million.
+In December 2014, the Tax Increase Prevention Act of 2014 was signed into law, which retroactively
+renewed expired provisions including research and development tax credits through the end of calendar year
+2014. The enacted law change did not impact the Company’s fiscal 2015 tax provision as the retroactive benefit
+of the research tax credits was fully offset by an increase in valuation allowance.
+The Company receives certain tax incentives in Switzerland and Singapore in the form of reduced tax rates. The
+tax reduction program in Switzerland expired in ﬁscal 2015, and the program in Singapore expired in ﬁscal 2016.
+Deferred Income Taxes
+Deferred income taxes reﬂect the net tax effect of temporary differences between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant
+components of the Company’s deferred tax assets and liabilities were as follows (in thousands):
+7 As of January 31, 7
+’ 2016 2015 ’
+Deferred tax assets:
+Net operating loss carryforwards . . . . . . . . . . . . . . $ 260,015 $ 252,858
+Deferred stock-based expense . . . . . . . . . . . . . . . . 89,532 96,753
+Taxcredits............................... 211,997 152,715
+Deferredrentexpense....................... 49,790 58,849
+Accruedliabilities.......................... 122,950 92,506
+Deferredrevenue.......................... 14,261 15,664
+Basis difference on strategic and other
+investments............................. 26,202 24,637
+Financing obligation . . . . . . . . . . . . . . . . . . . . . . .. 127,198 84,095
+Deferred cost sharing adjustment . . . . . . . . . . . . . . 30,351 0
+22,845 20,017
+Total deferred tax assets ......................... 955,141 798,094
+Less valuation allowance . . . . . . . . . . . . . . . . . . . . . . . . (439,971) (293,097)
+Deferred tax assets, net of valuation allowance . . . . . . . 515,170 504,997
+Deferred tax liabilities:
+Deferred commissions ...................... (121,071) (107,197)
+Purchased intangibles . . . . . . . . . . . . . . . . . . . . . . . (160,200) (213,920)
+Unrealized gains on investments . . . . . . . . . . . . . . (2,858) (1,793)
+Depreciation and amortization . . . . . . . . . . . . . . . . (224,435) (171,908)
+(2,207) (3,157)
+Total deferred tax liabilities . . . . . . . . . . . . . . . . . . . . . . (510,771) (497,975)
+Netdeferredtaxassets $ 4,399 $ 7,022
+1 10

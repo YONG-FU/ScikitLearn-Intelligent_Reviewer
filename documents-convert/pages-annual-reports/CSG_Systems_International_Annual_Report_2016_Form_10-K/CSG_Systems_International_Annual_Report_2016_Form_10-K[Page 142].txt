@@ -1,0 +1,23 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+Exhibit C-1 0
+1. CSG Data Publisher — File Edition Description
+CSG will publish nightly end-of-day CSG Vantage® files that will include changes of that day to the Vantage ﬁles (the “Delta Files”) and will apply the
+Delta Files to a secure file transfer protocol (“SFTP”) site for Customer pickup of the CSG Vantage® objects (the “CSG Data Publisher Objects”) identified
+in Attachmentjjo this Exhibit C—10, attached hereto and incorporated herein by reference.
+2. Software Release Enhancements
+CSG will provide scheduled releases with enhancements to update the CSG Data Publisher Objects identiﬁed in AttachmenLL. CSG will make ****
+************ ********* ** ** ********** **** ** ********.
+Customer will be responsible for establishing processes to consume the modified files as a result of scheduled software release changes.
+Any such enhancements resulting in changes to the frequency of the CSG Data Publisher feeds (e.g., from batch to real time feeds) will be addressed
+through a subsequent Statement of Work and/or amendment to the Agreement.
+3. Support
+CSG shall provide support for CSG Data Publisher and problems shall be reported and resolved in accordance with ******** ***** * as set forth in
+Schedule H—ll of the Agreement. CSG'S support obligations shall continue through the earlier of (a) termination or expiration of the Agreement (and any
+Termination Assistance Period, as defined in the Agreement) or (b) such time as Customer ceases its use of Data Publisher — File Edition services.
+4. Disaster Recovery
+CSG Data Publisher— File Edition is a **** *** **************.
+5. Additional Terms
+a) CSG will:
+- apply full file refreshes in support of release/data model changes, passers and transfers where required, on behalf of and at Customer's request
+b) Customer will:
+- retrieve the ﬁles from CSG’S SFTP site

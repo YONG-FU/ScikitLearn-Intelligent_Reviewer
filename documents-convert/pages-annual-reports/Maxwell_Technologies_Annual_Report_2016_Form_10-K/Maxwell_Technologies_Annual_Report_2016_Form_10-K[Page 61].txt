@@ -1,0 +1,41 @@
+Foreign Currencies
+The Company’s primary foreign currency exposure is related to its subsidiary in Switzerland, which has Euro and local currency (Swiss Franc) revenue and
+Operating expenses, and local currency loans. Changes in these currency exchange rates impact the reported US. dollar amount of revenue, expenses and debt. The
+functional currency of the Swiss subsidiary is the Swiss Franc. Assets and liabilities of the Swiss subsidiary are translated at month-end exchange rates, and
+revenue, expenses, gains and losses are translated at rates of exchange that approximate the rate in effect at the time of the transaction. Any translation adjustments
+resulting from this process are presented separately as a component of accumulated other comprehensive income within stockholders’ equity in the consolidated
+balance sheets. Foreign currency transaction gains and losses on intercompany balances considered long term in nature are accounted for as translation adjustments
+within equity. All other foreign currency transaction gains and losses are reported in “foreign currency exchange loss, net” in the consolidated statements of
+operations.
+Foreign Currency Derivative Instruments
+The Company has historically used forward contracts to hedge certain monetary assets and liabilities, primarily receivables, payables, and cash balances,
+denominated in foreign currencies. The Company’s objective was to partially offset gains or losses resulting from these exposures with opposing gains or losses on
+the forward contracts, thereby reducing volatility of earnings created by these foreign currency exposures. During the year ended December 31, 2016, the Company
+ceased using foreign currency forward contracts to hedge foreign currency transaction exposure as management determined its foreign currency transaction
+exposure is no longer significant. In accordance with the Derivatives and Hedging Topic of the FASB ASC, the fair values of the forward contracts were estimated
+at each period end based on quoted market prices and were recorded as a net asset or liability on the consolidated balance sheets. These contracts were considered
+economic hedges but were not designated as hedges under the Derivatives and Hedging Topic of the FASB ASC, therefore, the change in the fair value of the
+instruments was recognized in the consolidated statements of operations and was recorded in “foreign currency exchange loss, net” in the consolidated statements
+of operations.
+Net Income (Loss) per Share
+In accordance with the Earnings Per Share Topic of the FASB ASC, basic net income (loss) per share is calculated using the weighted average number of
+common shares outstanding during the period. Diluted net income per share includes the impact of additional common shares that would have been outstanding if
+dilutive potential common shares were issued. Potentially dilutive securities are not considered in the calculation of diluted net loss per share, as their inclusion
+would be anti-dilutive. The following table sets forth the computation of basic and diluted net income (loss) per share (in thousands, except per share data):
+Years Ended December 31,
+2016 _ 2015 _ 2014
+'Numerator ‘
+Net loss $ (23,705) $ (22,333) $ (6,272)
+’Denominator ‘
+Weighted average common shares outstanding, basic and diluted 31,870 30,716 29,216
+Net loss per share ‘
+Basic and diluted $ (0.74) $ (0.73) $ (0.21)
+The following table summarizes instruments that may be convertible into common shares that are not included in the denominator used in the diluted net
+income (loss) per share calculation because to do so would be anti-dilutive (in thousands):
+Common Stock _ 2016 _ 2015 _ 2014
+lOutstanding options to purchase common stock 414 931 672 ‘
+Unvested restricted stock awards 88 245 528
+lUnvested restricted stock unit awards 1,748 885 224 ‘
+Employee stock purchase plan awards — 10 9
+’Bonus to be paid in stock awards 265 — — l
+58

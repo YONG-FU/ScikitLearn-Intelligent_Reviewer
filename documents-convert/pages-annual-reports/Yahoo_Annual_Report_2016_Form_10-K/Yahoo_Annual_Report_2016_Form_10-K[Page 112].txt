@@ -1,0 +1,34 @@
+Table,0f,C,0ntents
+restructuring plans include one-time termination beneﬁts as well as certain contractual termination beneﬁts or employee terminations under ongoing benefit
+arrangements. One-time termination benefits are recognized as a liability at estimated fair value when the approved plan of termination has been communicated
+to employees, unless employees must provide future service, in which case the beneﬁts are recognized ratably over the future service period. Ongoing
+termination beneﬁts arrangements are recognized as a liability at estimated fair value when the amount of such beneﬁts becomes estimable and payment is
+probable. Contract termination costs are recognized at estimated fair value when the entity terminates the contract in accordance with the contract terms.
+These restructuring initiatives require management to make estimates in several areas including: (i) expenses for severance and other employee separation
+costs; (ii) realizable values of assets made redundant, obsolete, or excessive; and (iii) the ability to generate sublease income and to terminate lease obligations
+at the estimated amounts.
+Stock-Based Compensation Expense. The Company recognizes stock-based compensation expense, net of an estimated forfeiture rate and therefore only
+recognizes compensation costs for those shares expected to vest over the service period of the award. Stock-based awards are valued based on the grant date
+fair value of these awards; the Company records stock-based compensation expense on a straight-line basis over the requisite service period, generally one to
+four years.
+Calculating stock—based compensation expense related to stock options requires the input of highly subjective assumptions, including the expected term of the
+stock options, stock price volatility, and the pre-vesting forfeiture rate of stock awards. The Company estimates the expected life of options granted based on
+historical exercise patterns, which the Company believes are representative of future behavior. The Company estimates the volatility of its common stock on the
+date of grant based on the implied volatility of publicly traded options on its common stock, with a term of one year or greater. The Company believes that
+implied volatility calculated based on actively traded options on its common stock is a better indicator of expected volatility and future stock price trends than
+historical volatility. The assumptions used in calculating the fair value of stock-based awards represent the Company’s best estimates, but these estimates
+involve inherent uncertainties and the application of management judgment. As a result, if factors change and the Company uses different assumptions, the
+Company’s stock-based compensation expense could be materially different in the future. In addition, the Company is required to estimate the expected
+pre-vesting award forfeiture rate, as well as the probability that performance conditions that affect the vesting of certain awards will be achieved, and only
+recognizes expense for those shares expected to vest. The Company estimates the forfeiture rate based on historical experience of the Company’s stock-based
+awards that are granted and cancelled before vesting. See Note 14—“Employee Beneﬁts” for additional information.
+The Company uses the ‘With and without” approach in determining the order in which tax attributes are utilized. As a result, the Company recognizes a tax
+beneﬁt from stock-based awards in additional paid-in capital only if an incremental tax beneﬁt is realized after all other tax attributes currently available to the
+Company have been utilized. When tax deductions from stock-based awards are less than the cumulative book compensation expense, the tax effect of the
+resulting difference (“shortfall”) is charged ﬁrst to additional paid-in capital, to the extent of the Company’s pool of windfall tax beneﬁts, with any remainder
+recognized in income tax expense. The Company determined that it had a sufficient windfall pool available through the end of 2016 to absorb any shortfalls. In
+addition, the Company accounts for the indirect effects of stock-based awards on other tax attributes, such as the research tax credit, through the consolidated
+statements of operations.
+Recent Accounting Pronouncements. In May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”)
+2014-09, “Revenue from Contracts with
+111

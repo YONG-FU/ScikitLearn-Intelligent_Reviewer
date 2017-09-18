@@ -1,0 +1,31 @@
+Deadhead Miles Percentage (monitored daily) — This is calculated by dividing the number of unpaid miles by
+the total number of miles driven. We monitor deadhead miles percentage in Truckload and Swift Refrigerated, as
+we strive to reduce our number of deadhead miles within these segments. By balancing our freight flows and
+planning consecutive loads with shorter distances between the drop-off and pick-up locations, we are able to reduce
+the percentage of deadhead miles driven to allow for more revenue-generating miles during our drivers' hours-of-
+service. This also enables us to reduce wage, fuel, and other costs associated with deadhead miles.
+Average Operational Truck Count (monitored daily) —We use this measure for all of our reportable segments.
+It includes tractors driven by company drivers as well as owner-operator units. This measure changes based on
+our ability to adjust our fleet size in response to changes in demand.
+Load Count and Average Container Count (monitored daily) — Within lntermodal, we monitor load count and
+average container count. These metrics allow us to measure our utilization of our container fleet.
+Adjusted Operating Ratio (monitored monthly) —We consider this ratio an important measure of our operating
+profitability for each of our reportable segments. We define and reconcile Adjusted Operating Ratio under "Non-
+GAAP Financial Measures," above. GAAP Operating Ratio is operating expenses as a percentage of revenue, or
+the inverse of operating margin, and produces an indication of operating efficiency. It is widely used in our industry
+as an assessment of management's effectiveness in controlling all categories of operating expenses.
+The following tables are GAAP to non-GAAP reconciliations for each reportable segment's Adjusted Operating
+Ratio:
+Truckload Segment
+Year Ended December 31,
+7 2016 2015 2014 7
+(Dollars in thousands)
+Operating revenue $ 2,048,049 $ 2,204,114 $ 2,301,010
+Less: Fuel surcharge revenue 7 (176,676) H (257,150) H (442,023) 7
+Revenue xFSR *3; 1,871,373 77$ 1,946,964 77$ 1,858,987 ’
+Operating expense $ 1,866,268 $ 1,947,107 $ 2,042,938
+Adjusted for: Fuel surcharge revenue 7 (176,676) 7 7 (257,150) 7 7 (442,023) 7
+Adjusted operating expense *3; 1,689,592 77$ 1,689,957 77$ 1,600,915 ’
+Operatingratio 97.7%: 88.3%: 88.8%
+Adjusted Operating Ratio 90.3% 86.8% 86.7%
+52

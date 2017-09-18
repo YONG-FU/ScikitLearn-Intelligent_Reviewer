@@ -1,0 +1,44 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+For periods prior to March 1, 2015, the Company recognized cloud-usage revenue upon receipt of usage
+reports from the CCSPs, which typically report fees owed to the Company one month or more after the fees have
+been earned. Effective March 1, 2015 , the Company believed that it had sufficient historical data and experience
+to estimate this cloud-usage revenue and has begun estimating the amount of and recognizing such revenue in the
+period earned. The estimates are based on the historical cloud-usage data available. As a result of the Company’s
+transition to estimating cloud-usage revenue, the Company’s subscription revenues and pre-tax income for the
+fiscal year ended February 29, 2016 included an additional, favorable adjustment of $5.3 million.
+Training and services revenue
+Training and services revenue is comprised of revenue for consulting, engineering and customer training
+and education services. Consulting services consist of time-based arrangements, and revenue is recognized as
+these services are performed. Engineering services represent revenue earned under fixed fee arrangements with
+the Company’s OEM partners and other customers to provide for significant modiﬁcation and customization of
+Red Hat technologies. The Company recognizes revenue for these fixed fee engineering services using the
+percentage of completion basis of accounting, provided the Company has the ability to make reliable estimates of
+progress towards completion, the fee for such services is fixed or determinable and collection of the resulting
+receivable is probable. Under the percentage of completion method, earnings under the contract are recognized
+based on the progress toward completion as estimated using the ratio of labor hours incurred to total expected
+project hours. Changes in estimates are recognized in the period in which they are known. Revenue for customer
+training and education services is recognized on the dates the services are complete.
+Deferred selling costs
+Deferred commissions are the incremental costs that are directly associated with non-cancelable
+subscription contracts with customers and consist of sales commissions paid to the Company’s sales force. The
+commissions are deferred and amortized over a period that approximates the period of the subscription term. The
+commission payments are paid in full subsequent to the month in which the customer’s service commences. The
+deferred commission amounts are recoverable through the future revenue streams under the non-cancelable
+customer contracts. In addition, the Company has the ability and intent under the commission plans with its sales
+force to recover commissions previously paid to its sales force in the event that customers breach the terms of
+their subscription agreements and do not fully pay for their subscription agreements. Deferred commissions are
+included in prepaid expenses on the accompanying Consolidated Balance Sheets. Amortization of deferred
+commissions is included in sales and marketing expense in the accompanying Consolidated Statements of
+Operations.
+Goodwill and other long-lived assets
+Goodwill
+The Company evaluates goodwill for impairment during the fourth quarter of its fiscal year or more
+frequently if events or changes in circumstances indicate that an impairment to goodwill may have occurred. For
+the year ended February 29, 2016, the Company elected to perform a quantitative assessment of goodwill for all
+of its reporting units. In doing so, the Company compared the estimated fair value of each of the reporting units
+to its respective book value, including allocated goodwill. The Company concluded that there were no
+impairments of goodwill.
+For the year ended February 28, 2015, the Company applied its test for goodwill impairment as permitted by
+ASU 2011-08, which allows the Company to first assess qualitative factors to determine whether it is “more
+81

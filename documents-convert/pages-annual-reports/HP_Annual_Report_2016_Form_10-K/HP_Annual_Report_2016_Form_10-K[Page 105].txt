@@ -1,0 +1,41 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 11: Financial Instruments (Continued)
+Gain (Loss) Recognized in OCI
+on Derivatives Gain (Loss) Reclassiﬁed from Accumulated OCI
+7 (Effective Portion) : : Into Earnings (Effective Portion) :
+2016 2015 2014 Location 2016 2015 2014
+In millions In millions
+I Cash ﬂow hedges: I
+Foreign currency contracts $ 199 $ 610 $ 226 Net revenue $ 20 $ 995 $ (17)
+I Cost of revenue (84) (156) (74):
+Other operating expenses 1 (3) —
+I 7 7 7 7 7 7 Interest and other, net 7 —7 7 (4) 7 —I
+Earnings from continuing
+Continuing Operations 199 610 226 operations (63) 832 (91)
+(Loss) earnings from I
+Discontinued Operations — 481 111 discontinued operations — 480 (60)l
+Total 758 1997 733 1,0917 733 3377 Total 7$ (63) 758 1,312 7$ (151)
+INet investment hedges: : : i : i : i : i : i I
+Foreign currency contracts Interest and other, net
+I Continuing Operations 38 — $ — $ — Continuing Operations 55 — $ — $ — I
+Discontinued Operations — 228 57 Discontinued Operations — — —
+I Total 77$ 22877533 5777 Total 77$
+As of October 31, 2016, 2015 and 2014, no portion of the hedging instruments” gain or loss was excluded from the
+assessment of effectiveness for fair value, cash ﬂow or net investment hedges. Hedge ineffectiveness for fair value, cash ﬂow
+and net investment hedges was not material for fiscal years 2016, 2015 and 20 14.
+As of October 31, 2016, HP expects to reclassify an estimated net Accumulated other comprehensive income of
+approximately $139 million, net of taxes, to earnings in the next twelve months along with the earnings effects of the related
+forecasted transactions associated with cash ﬂow hedges.
+The pre-tax effect of derivative instruments not designated as hedging instruments on the Consolidated Statements of
+Earnings for fiscal years 2016, 2015 and 2014 was as follows:
+Gain (Loss) Recognized in Income on Derivatives
+7 Location 7 7 2016 7 7 2015 7 7 2014 7
+7 7 7 7 In millions, 7 7
+IForeign currency contracts Interest and other, net 55 (34) $ 293 $ (63):
+Other derivatives Interest and other, net 7 (6) 7 (1) 7 —7
+I Total $ (40)_ $ 292 _ $ (63):
+Note 12: Borrowings
+Notes Payable and Short-Term Borrowings
+105

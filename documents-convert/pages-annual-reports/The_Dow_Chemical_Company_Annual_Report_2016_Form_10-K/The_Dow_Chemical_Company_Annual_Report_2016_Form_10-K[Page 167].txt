@@ -1,0 +1,35 @@
+The Dow Chemical Company and Subsidiaries Schedule II
+Valuation and Qualifying Accounts
+:In millions For the Years Ended December 31 :
+7 COLUMN A 7 7 COLUMN B 7 7 COLUMN C - Additions 7 iCOLUMN D 7 7 COLUMN E 7
+Balance Charged to Charged to Deductions Balance
+at Beginning Costs and Other from at End
+7 Description of Year Expenses Accounts Reserves of Year 7
+|2016 ‘
+RESERVES DEDUCTED FROM ASSETS TO WHICH THEY APPLY:
+| For doubtful receivables $ 94 $ 31 $ ; $ 15 (1) $ 110 1
+Other investments and
+noncurrent receivables $ 494 $ 153 (2) $ ’ ’ $ 289 (3) $ 358
+l Deferred taX assets 35 1,000 $ 155 $ ; $ 94 $ 1,061 ‘
+|2015 l
+RESERVES DEDUCTED FROM ASSETS TO WHICH THEY APPLY:
+| For doubtful receivables $ 110 $ 24 $ 2 (4) $ 42 (1) $ 94 1
+Other investments and
+noncurrent receivables $ 477 $ 108 $ ’ ’ $ 91 $ 494
+| Deferred taX assets 35 1,106 $ 67 $ ; $ 173 $ 1,000 ‘
+|2014 ‘
+RESERVES DEDUCTED FROM ASSETS TO WHICH THEY APPLY:
+| For doubtful receivables $ 148 $ 53 $ 8 (4) $ 99 (1) $ 110 1
+Other investments and
+noncurrent receivables $ 454 $ 62 $ ’ ’ $ 39 $ 477
+l Deferred taX assets 35 1,112 $ 126 $ ; $ 132 $ 1,106 l
+(1) Deductions represent notes and accounts receivable written off, credits to profit and loss and other miscellaneous items.
+(2) Additions to reserves for "Other investments and noncurrent receivables" charged to costs and expenses include $143 million related to
+the Company's investment in AgroFresh Solutions, Inc. See Note 5 to the Consolidated Financial Statements for further information.
+(3) Deductions from reserves for "Other investments and noncurrent receivables” include $237 million related to the DCC Transaction. See
+Note 4 to the Consolidated Financial Statements for further information.
+(4) Additions to reserves for doubtful receivables charged to other accounts were classified as "Accounts and notes receivable - Other" in
+the consolidated balance sheets. These reserves relate to the Company's sale of trade accounts receivable. Anticipated credit losses in the
+portfolio of receivables sold are used to fair value the Company's interests held in trade accounts receivable conduits. See Notes 12 and
+16 to the Consolidated Financial Statements for further information.
+159

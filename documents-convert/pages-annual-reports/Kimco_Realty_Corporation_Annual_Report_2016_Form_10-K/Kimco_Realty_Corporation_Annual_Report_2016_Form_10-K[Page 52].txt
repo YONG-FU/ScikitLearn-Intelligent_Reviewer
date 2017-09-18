@@ -1,0 +1,64 @@
+The Company’s reconciliation of net income available to common shareholders to FFO and FPO as adjusted for the three months
+and years ended December 31, 2016 and 2015 is as follows (in thousands, except per share data):
+Three Months Ended Year Ended
+December 31, December 31,
+i 2016 i i 2015 i i 2016 i i 2015 i
+[ Net income available to common shareholders $ 66,718 $ 360,020 $ 332,630 $ 831,215 l
+Gain on disposition of operatingpﬂpgty (£950) (£547) (4) (%,824) (131,844) (4)
+l Gain on disposition of joint venture operating
+pgperties and change in control of interests @380) (327,933) G) (217,819) (557,744) (4)
+Depreciation and amortization — real estate related 89,476 82,732 347,315 333,840
+l Depreciation and amortization - real estate joint 1
+ventures 9,477 14,552 45,098 68,556
+Impairment of operatingpgperties 24,125 8,545 101,928 52,021
+L(Beneﬁt)_/provision for income taxes Q) @227) 51,849 39,570 53,792 ]
+Noncontrolling interests (2) i 245 i : (3,239) i i (182) i : (6,591) i
+[ FFO : 162,984 : : 143,179 : : 555,716 : : 643,245 : ]
+Transactional (income)/expense:
+[ Profit participation from other real estate investments (830) @) @383) @399) ]
+Transactional losses from other real estate investments — — 461 —
+[ Gains from land sales @255) (798) @607) @621) ]
+Acquisition costs 1,133 2,546 5,023 4,430
+[ Prep_ayment penalties - - 45,674 - ]
+Severance costs — Canada — 1,974 — 1,974
+[ Gain on forgiveness of debt (7,357) — (7,357) — ]
+Distributions in excess of Compﬂiy’s investment basis — (303) (845) (5,553)
+[ Gain on sale of marketable securities - Q,365) - @353) ]
+Impairments on other investments 5,300 9,012 6,358 17,860
+[ Preferred stock redemption charge - 5,816 - 5,816 ]
+Other expense/(income), net 62 (5,101) 22 (5,505)
+[ Provision/(benefit) for income taxes (5) 257 Q,841) 38,433 (227) ]
+Noncontrolling interests (5) i 125 i i — i i 410 i i 270 i
+[ Total transactional (income)@<pense, net : (2,565) : : 9,892 : : 73,689 : : (39,808) : l
+FFO as adjusted : $ 160,419 : g $ 153,071 : g $ 629,405 : g $ 603,437 :
+[ Weighted average shares outstanding for FFO ]
+calculations:
+Basic : 423,087 : : 411,667 : : 418,402 : : 411,319 :
+[ Units 841 860 853 791 ]
+Dilutive effect of quty awards : 1,162 i : 1,481 i : 1,307 i : 1,414 i
+[ Diluted : 425,090 :_Q)_: 414,008 :_Q)_: 420,562 :_Q)_: 413,524 ADJ
+[ FFO per common share — basic : $ 0.39 i i s 0.35 i i s 1.33 i i s 1.56 i ]
+FFO per common share — diluted $ 0.38 _(l)_ $ 0.35 _(l)_ $ 1.32 _(l)_ $ 1.56 _(l)
+i FFO as adjusted per common share — basic : $ 0.38 i : $ 0.37 i : $ 1.50 i : $ 1.47 i 7
+FFO as adjusted per common share — diluted : $ 0.38 i (1) : $ 0.37 i (1) : $ 1.50 i (1) : $ 1.46 i (1)
+(1) Reﬂects the potential impact if certain units were converted to common stock at the beginning of the period, which would have a dilutive effect on FFO.
+FF 0 would be increased by $229 and $217 for the three months ended December 31, 2016 and 2015, respectively, and $881 and $781 for the years ended
+December 31, 2016 and 2015, respectively. The effect of other certain convertible units would have an anti-dilutive effect upon the calculation of Income
+from continuing operations per share. Accordingly, the impact of such conversion has not been included in the determination of diluted earnings per share
+calculations.
+(2) Related to gains, impairment and deprecation on operating properties, where applicable.
+(3) Related to transaction (income)/expense, where applicable.
+(4) Includes cumulative foreign currency translation net loss of $18.8 million due to the liquidation of the Company's Chilean Portfolio as follows: (i) $19.6
+million of loss in Gain on disposition of operating property, net, partially offset by (ii) $0.8 million of gain in Gain on disposition of joint venture operating
+properties and change in control of interests.
+U.S. Same Property Net Operating Income (“U.S. same property NOI”)
+U.S. same property NOI is a supplemental non-GAAP financial measure of real estate companies’ operating performance and
+should not be considered an alternative to net income in accordance with GAAP or as a measure of liquidity. U.S. same property NOI
+is considered by management to be an important performance measure of the Company’s operations and management believes that it
+is frequently used by securities analysts and investors as a measure of the Company’s operating performance because it includes only
+the net operating income of US. properties that have been owned for the entire current and prior year reporting periods including
+those properties under redevelopment and excludes properties under development and pending stabilization. Properties are deemed
+stabilized at the earlier of (i) reaching 90% leased or (ii) one year following a project’s inclusion in operating real estate. U.S. same
+property NOI assists in eliminating disparities in net income due to the development, acquisition or disposition of properties during the
+particular period presented, and thus provides a more consistent performance measure for the comparison of the Company's properties.
+32

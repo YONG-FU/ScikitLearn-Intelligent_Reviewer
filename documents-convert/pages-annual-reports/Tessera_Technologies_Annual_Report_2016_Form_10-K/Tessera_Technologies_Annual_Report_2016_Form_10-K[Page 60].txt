@@ -1,0 +1,40 @@
+Table of Contents
+relates to awards with performance conditions that affect vesting to account for such awards. The amendments in ASU 2014-12 are effective for annual periods and
+interim periods within those annual periods beginning after December 15, 2015. Entities may apply the amendments in ASU 2014-12 either: (a) prospectively to all
+awards granted or modified after the effective date; or (b) retrospectively to all awards with performance targets that are outstanding as of the beginning of the
+earliest annual period presented in the financial statements and to all new or modiﬁed awards thereafter. The implementation of this guidance will not have a
+material impact to the disclosures in the Company’s consolidated ﬁnancial statements.
+NOTE 4 — COMPOSITION OF CERTAIN FINANCIAL STATEMENT CAPTION S
+Other current assets consisted of the following (in thousands):
+December 31, 2015 _ December 31, 2014
+’Prepaid income taxes $ 22,890 $ 12,841 1
+Interest receivable 2,427 2,138
+lOther 2,813 2,298 1
+$ 28,130 $ 17,277
+Accrued liabilities consisted of the following (in thousands):
+December 31, 2015 _ December 31, 2014
+’Employee compensation and benefits $ 6,848 $ 10,734 1
+Other 3,414 2,550
+l $ 10,262 $ 13,284 1
+Accumulated other comprehensive loss consisted of the following (in thousands):
+December 31, 2015 _ December 31, 2014
+’Unrealized loss on available-for-sale securities, net of tax 8 (1,437) $ (333) 1
+$ (1,437) $ (333)
+NOTE 5 — FINANCIAL INSTRUMENTS
+The following is a summary of marketable securities at December 31, 2015 and December 31, 2014 (in thousands):
+December 31, 2015
+Gross Gross Estimated
+Unrealized Unrealized Fair
+Cost _ Gains _ Losses _ Values
+lAvailable-for—sale securities 1
+Corporate bonds and notes $ 257,461 $ 7 $ (1,286) $ 256,182
+1 Municipal bonds and notes 70,772 12 (81) 70,703 1
+Commercial paper 5,377 3 — 5,380
+1 Treasury and agency notes and bills 26,973 — (93) 26,880 ‘
+Money market funds 715 — — 715
+1 Total available-for-sale securities 8 361,298 $ 22 8 (1,460) $ 359,860 1
+Reported in:
+I Cash and cash equivalents $ 715 ‘
+Short-term investments 359,145
+I Total marketable securities $ 359,860 1
+F - 12

@@ -1,0 +1,57 @@
+Change in Projected Beneﬁt Obligations, Plan Assets and Funded Status of All Signiﬁcant Plans 7
+Deﬁned Other Postretirement
+In millions Beneﬁt Pension Plans Beneﬁts
+:Change in projected beneﬁt obligations: 2016 2015 2 01 6 2015 :
+|Benefit obligations at beginning of year $ 25,652 $ 27,979 $ 1,5 97 $ 1,707 1
+Service cost 463 484 13 14
+llnterest cost 846 975 52 59 1
+Plan participants’ contributions 19 19 7 7 7 7
+|Plan amendments ; 30 7 7 7 7 1
+Actuarial changes in assumptions and experience 1,967 (929) 13 11
+1Acquisition/divestiture/other activity _(1) 3,201 (894) 3 13 7 7 1
+Benefits paid (1,324) (1,289) (154) (172)
+1 Currency impact (506) (723) 1 (Q2
+:Termination benefits/curtailment cost/ settlements (2) (38) 7 7 7 7 7 7 :
+1Benefit obligations at end of year $ 30,280 $ 25,652 $ 1,835 $ 1,597
+:Change in plan assets: :
+|Fair value of plan assets at beginning of year $ 18,774 $ 19,629 $ 7 7 $ 7 7 1
+Actual return on plan assets 1,437 314 77 7 77 7
+1 Currency impact (404) (488) 7 7 7 7 1
+Empkyer contributions 629 844 77 7 77 7
+1Plan participants’ contributions 19 19 7 7 7 7 1
+Acquisition/divestiture/other activity _(3) 2,077 (255) 77 7 77 7
+1Benefits paid (1,324) (1,289) 7 7 7 71
+Fair value of plan assets at end of year $ 21,208 $ 18,774 $ 7 7 $ 77 7
+1 1
+Less: Fair value of assets due to Olin $ 7 7 $ (179) $ 7 7 $ 77 7 7
+1 1
+Net fair value of plan assets at end of year $ 21,208 $ 18,595 $ 7 7 $ 7 7 7
+1 1
+:Funded status at end of year $ (9,072) $ (7,057) $ (1,835) $ (1,597):
+Net amounts recognized in the consolidated balance sheets at December 31: 7
+1Noncurrent assets $ 292 $ 317 $ 7 7 $ 7 7
+Current liabilities (E) (g) (158) (146)
+1Noncurrent liabilities (9,290) (7,310) (1,677) (1 ,451)
+:Net amounts recognized in the consolidated balance sheets $ (9,072) $ (7,057) $ (1,835) $ (1,597)
+:Pretax amounts recognized in AOCL at December 31: :
+|Net loss (gain) $ 11,379 $ 10,012 $ (133) $ (154)J'
+:Prior service credit (304) (328) 77 7 (3)
+[Pretax balance in AOCL at end of year $ 1 1,075 $ 9,684 $ (133) $ (157):
+(1) The 2016 impact includes pension benefit obligations of $3,252 million and other postretirement beneﬁt obligations of $3 13 million
+assumed with the ownership restructure of Dow Coming. The 2016 impact also includes the transfer of benefit obligations of $53 million
+in the US. through the purchase of annuity contracts from an insurance company. The 2015 impact includes the transfer of benefit
+obligations associated with the Reverse Morris Trust transaction with Olin of $618 million and the transfer of benefit obligations
+associated with the divestiture of ANGUS to Golden Gate Capital of $34 million. The 2015 impact also includes the transfer of benefit
+obligations of $248 million in the US. through the purchase of annuity contracts from an insurance company. See Notes 4, 5 and 6 for
+additional information.
+(2) The 2016 impact primarily relates to the curtailment of benefits for certain participants of a US. Dow Corning plan of $36 million.
+(3) The 2016 impact includes plan assets assumed with the ownership restructure of Dow Coming of $2,327 million. The 2016 impact also
+includes the purchase of annuity contracts of $55 million in the US. associated with the transfer of benefit obligations to an insurance
+company and the transfer of plan assets associated with the Reverse Morris Trust transaction with Olin of $184 million. The 2015 impact
+includes the transfer of plan assets associated with the divestiture of AN GUS to Golden Gate Capital of $9 million. The 2015 impact also
+includes the purchase of annuity contracts of $247 million in the US. associated with the transfer of benefit obligations to an insurance
+company.
+In 2017, an estimated net loss of $626 million and prior service credit of $24 million for the defined benefit pension plans will
+be amortized from AOCL to net periodic benefit cost. In 2017, an estimated net gain of $6 million for other postretirement
+benefit plans will be amortized from AOCL to net periodic benefit cost.
+129

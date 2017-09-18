@@ -1,0 +1,48 @@
+CRITICAL ACCOUNTING POLICIES
+Our Consolidated Financial Statements are prepared in accordance with GAAP. The preparation of these
+financial statements requires management to make estimates and assumptions that affect the amounts reported in the
+Consolidated Financial Statements for the periods presented.
+We continually evaluate the policies and estimates we use to prepare our Consolidated Financial Statements. In
+general, management’s estimates are based on historical experience, information from third-party professionals and
+various other assumptions that are believed to be reasonable under the facts and circumstances. Actual results may
+differ from those estimates made by management.
+Our critical accounting policies include our accounting for goodwill and other intangibles, retirement benefits,
+income taxes and self-insurance liabilities. Specific risks related to our critical accounting policies are discussed below.
+Goodwill and Intangibles
+We evaluate whether there has been an impairment of goodwill or intangibles assets not amortized on an
+annual basis or in an interim period if certain circumstances indicate that a possible impairment may exist.
+December 25, December 27,
+(In thousands) 2016 2015
+|Goodwill $ 134,517 $ 109,085 ‘
+Intangibles $ 10,634 $ —
+[Total assets $ 2,185,395 $ 2,417,690 I
+Percentage of goodwill and intangibles to total assets 7% 5%
+The impairment analysis is considered critical because of the significance of goodwill and intangibles to our
+Consolidated Balance Sheets.
+We test for goodwill impairment at the reporting unit level, which is our operating segment. We first perform a
+qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is less
+than its carrying value. The qualitative assessment includes, but is not limited to, the results of our most recent
+quantitative impairment test, consideration of industry, market and macroeconomic conditions, cost factors, cash
+ﬂows, changes in key management personnel and our share price. The result of this assessment determines whether it
+is necessary to perform the goodwill impairment two-step test. For the 2016 annual impairment testing, based on our
+qualitative assessment, we concluded that it is more likely than not that goodwill is not impaired.
+If we determine that it is more likely than not that the fair value of our reporting unit is less than its carrying
+value, in the first step we compare the fair value of the reporting unit with its carrying amount, including goodwill.
+Fair value is calculated by a combination of a discounted cash ﬂow model and a market approach model. In
+calculating fair value for the reporting unit, we generally weigh the results of the discounted cash ﬂow model more
+heavily than the market approach because the discounted cash ﬂow model is specific to our business and long-term
+projections. If the fair value exceeds the carrying amount, goodwill is not considered impaired. If the carrying amount
+exceeds the fair value, the second step must be performed to measure the amount of the impairment loss, if any. In the
+second step, we compare the implied fair value of the reporting unit’s goodwill with the carrying amount of that
+goodwill. An impairment loss would be recognized in an amount equal to the excess of the carrying amount of the
+goodwill over the implied fair value of the goodwill.
+Intangible assets that are not amortized (i.e., trade names) are tested for impairment at the asset level by
+comparing the fair value of the asset with its carrying amount. If the fair value, which is based on future cash ﬂows,
+exceeds the carrying value, the asset is not considered impaired. If the carrying amount exceeds the fair value, an
+impairment loss would be recognized in an amount equal to the excess of the carrying amount of the asset over the
+fair value of the asset.
+Intangible assets that are amortized (i.e., customer lists, non-competes, etc.) are tested for impairment at the
+asset level associated with the lowest level of cash ﬂows. An impairment exists if the carrying value of the asset (1) is
+not recoverable (the carrying value of the asset is greater than the sum of undiscounted cash flows) and (2) is greater
+than its fair value.
+P. 42 —- THE NEW YORK TIlVIES COMPANY

@@ -1,0 +1,49 @@
+Table of Contents
+we use to gauge the status of our business model transition may evolve as significant trends emerge. If we are unable to successfully
+establish new offerings in light of the competitive environment, our results of operations could suﬁer.
+Uncertainty about current and future economic conditions and other adverse changes in general political conditions in any of
+the major countries in which we do business could adversely affect our operating results.
+As our business has grown, we have become increasingly subject to the risks arising from adverse changes in economic
+and political conditions, both domestically and globally. Uncertainty about the effects of current and future economic and political
+conditions on us, our customers, suppliers and partners makes it difficult for us to forecast operating results and to make decisions
+about future investments. If economic growth in countries where we do business slows, customers may delay or reduce technology
+purchases, advertising spending or marketing spending. This could result in reductions in sales of our products and services, more
+extended sales cycles, slower adoption of new technologies and increased price competition. Our customers include government
+entities, including the US. federal government, and if spending cuts impede the government’s ability to purchase our products
+and services, our revenue could decline. Deterioration in economic conditions in any of the countries in which we do business
+could also cause slower or impaired collections on accounts receivable, which may adversely impact our liquidity and financial
+condition.
+A ﬁnancial sector credit crisis could impair credit availability and the ﬁnancial stability of our customers, including our
+distribution partners and channels. A disruption in the financial markets may also have an eﬁect on our derivative counterparties
+and could also impair our banking partners, on which we rely for operating cash management. Any of these events would likely
+harm our business, results of operations and financial condition.
+Political instability or adverse political developments in or around any of the major countries in which we do business would
+also likely harm our business, results of operations and financial condition.
+Certain of our enterprise offerings have extended and complex sales cycles, which can make our sales cycles unpredictable.
+Sales cycles for some of our enterprise offerings, including our Adobe Marketing Cloud solutions and ETLAs in our Digital
+Media business, are multi-phased and complex. The complexity in these sales cycles is due to a number of factors, including:
+- the need for our sales representatives to educate customers about the use and benefit of our large-scale deployments of
+our products and services, including technical capabilities, security features, potential cost savings and return on
+investment;
+- the desire of large and medium size organizations to undertake significant evaluation processes to determine their
+technology requirements prior to making information technology expenditures;
+- the need for our representatives to spend a significant amount of time assisting potential customers in their testing and
+evaluation of our products and services;
+- the negotiation of large, complex, enterprise-wide contracts, as often required by our and our customers’ business and
+legal representatives;
+- the need for our customers to obtain requisition approvals from various decision makers within their organizations;
+and
+- customer budget constraints, economic conditions and unplanned administrative delays.
+We spend substantial time and expense on our sales efforts without any assurance that potential customers will ultimately
+purchase our solutions. As we target our sales efforts at larger enterprise customers, these trends are expected to continue and could
+have a greater impact on our results of operations. Additionally, our enterprise sales pattern has historically been uneven, where
+a higher percentage of a quarter’s total sales occur during the ﬁnal weeks of each quarter, which is common in our industry. Our
+extended sales cycle for these products and services makes it difficult to predict when a given sales cycle will close.
+Security vulnerabilities in our products and systems could lead to reduced revenue or to liability claims.
+Maintaining the security of our products, computers and networks is a critical issue for us and our customers. Security
+researchers, criminal hackers and other third parties regularly develop new techniques to penetrate computer and network security
+measures and, as we have previously disclosed, certain parties have in the past managed to breach certain of our data security
+systems and misused certain of our systems and software in order to access our end users’ authentication and payment information.
+In addition, cyber—attackers also develop and deploy viruses, worms and other malicious software programs, some of which may
+be specifically designed to attack our products, systems, computers or networks. Sophisticated hardware and operating system
+22

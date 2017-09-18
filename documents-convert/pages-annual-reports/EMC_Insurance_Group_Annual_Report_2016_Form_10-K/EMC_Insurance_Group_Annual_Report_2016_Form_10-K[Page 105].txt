@@ -1,0 +1,50 @@
+The Company monitors interest rate risk through an analysis of interest rate simulations, and adjusts the average duration
+of its fixed maturity portfolio by investing in either longer or shorter term instruments given the results of interest rate
+simulations and judgments of cash ﬂow needs. The effective duration of the Company’s fixed maturity portfolio, excluding
+interest-only securities, at December 31, 2016 was 5.2. Duration extended slightly during the year as interest rates increased.
+The valuation of the Company’s marketable equity portfolio is subject to equity price risk. In general, equities have
+more year-to-year price variability than bonds. However, returns from equity securities have been consistently higher over
+longer time frames. The Company invests in a diversified portfolio of readily marketable equity securities. A hypothetical 10
+percent decrease in the S&P 500 index as of December 31, 2016 would result in a corresponding pre-tax decrease in the fair
+value of the Company’s equity portfolio of approximately $17.9 million. Management implemented an equity tail-risk hedging
+strategy during 2014 to protect the Company from significant monthly downside price volatility in the equity markets. The cost
+of this protection (recorded as a realized investment loss) totaled $6.3 million during 2016. This hedging strategy may be
+discontinued in the future depending on market conditions and/or the cost of the protection.
+Fixed maturity securities held by the Company generally have an investment quality rating of “A” or better by
+independent rating agencies. The following table shows the composition of the Company’s fixed maturity securities, by rating,
+as of December 31, 2016.
+Securities available-for-sale
+($ in thousands) (at fair value)
+December 31, 2016 7 Amount Percent 7
+Rating: 7 7 7 7
+[ AAA $ 461,898 38.5%}
+AA 346,075 28.9
+[ A 313,401 26.1 ]
+BAA 75,314 6.3
+[ BA 2,799 0.2 l
+B 1 —
+[ CAA 211 — 1
+Total ﬁxed maturities 7$ 1,199,699 * * 100.0%
+Ratings for preferred stocks and fixed maturity securities are assigned by nationally recognized statistical rating
+organizations ("NRSRO"). NRSRO rating processes seek to evaluate the quality of a security by examining the factors that
+affect returns to investors. NRSRO ratings are based on quantitative and qualitative factors, as well as the economic, social and
+political environment in which the issuing entity operates. For further discussion of credit risk and related topics (i.e., “other-
+than-temporary” impairment losses, unrealized losses in the investment portfolios, and non-investment grade securities held by
+the Company) see the section entitled "Investment Impairments and Considerations” within this Management’s Discussion and
+Analysis of Financial Condition and Results of Operations.
+Municipal fixed maturity securities, including taxable, tax-exempt and pre—refunded securities, totaled $335.8 million as
+of December 31, 2016. Municipal securities are well diversified between general obligation and revenue bonds, as well as
+geographically. The Company’s credit analysis of municipal securities is predominantly based on the underlying credit quality
+of the obligor. Therefore, although a portion of the Company’s municipal securities are guaranteed by financial guaranty
+insurers, reliance is placed on the underlying obligor to pay all contractual cash ﬂows. The ratings of insured municipal
+securities generally reﬂect the rating of the underlying primary obligor. The average quality of the municipal fixed maturity
+securities portfolio is Aa2/AA+ with over 99 percent of securities rated A3/A- or higher. Approximately $49.8 million of the
+Company’s municipal securities have been pre—refunded, which means that funds have been set aside in escrow to satisfy the
+future interest and principal obligations of the securities.
+Prepayment risk refers to changes in prepayment patterns that can shorten or lengthen the expected timing of principal
+repayments and thus the average life and the effective yield of a security. Such risk exists within the portfolio of mortgage-
+backed securities. Prepayment risk is monitored regularly through the analysis of interest rate simulations. At December 31,
+2016, the effective duration of the mortgage-backed securities, excluding interest-only securities, is 4.9 with an average life of
+5.9 years and a yield to worst of 2.8 percent. At December 31, 2015, the effective duration of the mortgage-backed securities,
+excluding interest-only securities, was 3.6, with an average life of 4.4 years and a yield to worst of 2.9 percent.
+94

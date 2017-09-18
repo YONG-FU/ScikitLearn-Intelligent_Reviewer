@@ -1,0 +1,50 @@
+KELLY SERVICES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+7. Debt
+Short-Term Debt
+On December 5, 2016, the Company entered into an agreement with its lenders to amend and restate its $200.0 million, five-
+year revolving credit facility (the “Facility”). The amendment decreased the size to $150.0 million and changed some of the
+terms and conditions, with a new maturity date of December 6, 2021. The Facility allows for borrowings in various currencies
+and is available to be used to fund working capital, acquisitions and general corporate needs.
+At year-end 2016, there were no borrowings under the Facility and a remaining borrowing capacity of $150.0 million. At year-
+end 2015, there were no borrowings under the Facility and the remaining borrowing capacity was $200.0 million. To maintain
+availability of the funds, we pay a facility fee on the full amount of the Facility, regardless of usage. The facility fee varies
+based on the Company’s leverage ratio as deﬁned in the agreement. The Facility, which contains a cross-default clause that
+could result in termination if defaults occur under our other loan agreements, had a facility fee of 17.5 basis points at year-end
+2016 and 20 basis points at year-end 2015. The F acility’s ﬁnancial covenants and restrictions are described below, all of which
+were met at year-end 2016:
+° We must maintain a certain minimum ratio of earnings before interest, taxes, depreciation, amortization and certain
+cash and non-cash charges that are non-recurring in nature (“EBITDA”) to interest expense (“Interest Coverage
+Ratio”) as of the end of any fiscal quarter.
+° We must maintain a certain maximum ratio of total indebtedness to the sum of net worth and total indebtedness at all
+times.
+0 Dividends, stock buybacks and similar transactions are limited to certain maximum amounts.
+° We must adhere to other operating restrictions relating to the conduct of business, such as certain limitations on asset
+sales and the type and scope of investments.
+On December 5, 2016, the Company and Kelly Receivables Funding, LLC, a wholly owned bankruptcy remote special purpose
+subsidiary of the Company (the “Receivables Entity”), amended the Receivables Purchase Agreement related to the $150.0
+million Securitization Facility (the “Securitization Facility”). The amendment increased the size to $200.0 million and changed
+some of the terms and conditions, with a new maturity date of December 5, 2019.
+Under the Securitization Facility, the Company will sell certain trade receivables and related rights (“Receivables”), on a
+revolving basis, to the Receivables Entity. The Receivables Entity may from time to time sell an undivided variable percentage
+ownership interest in the Receivables. The Securitization Facility, which contains a cross-default clause that could result in
+termination if defaults occur under our other loan agreements, also allows for the issuance of standby letters of credit (“SBLC”)
+and contains certain restrictions based on the performance of the Receivables.
+As of year-end 2016, the Securitization Facility had no short-term borrowings, SBLCs of $50.4 million related to workers’
+compensation at a rate of 0.50% and a remaining capacity of $149.6 million. As of year-end 2015, the Securitization Facility
+carried $50.0 million of short-term borrowings at a rate of 0.82%, SBLCs of $49.0 million related to workers’ compensation at
+a rate of 0.40% and a remaining capacity of $51.0 million. The rates above for short-term borrowings include the LIBOR
+interest rate and a utilization rate on the amount of our borrowings. The rates for the SBLCs represent a utilization rate on the
+outstanding amount of the SBLCs. In addition, we pay a facility fee of 40 basis points on the ﬁlll amount of the Securitization
+Facility, regardless of usage.
+The Receivables Entity’s sole business consists of the purchase or acceptance through capital contributions of trade accounts
+receivable and related rights from the Company. As described above, the Receivables Entity may retransfer these receivables
+or grant a security interest in those receivables under the terms and conditions of the Receivables Purchase Agreement. The
+Receivables Entity is a separate legal entity with its own creditors who would be entitled, if it were ever liquidated, to be
+satisﬁed out of its assets prior to any assets or value in the Receivables Entity becoming available to its equity holders. The
+assets of the Receivables Entity are not available to pay creditors of the Company or any of its other subsidiaries. The assets
+and liabilities of the Receivables Entity are included in the consolidated ﬁnancial statements of the Company.
+The Company had total unsecured, uncommitted short-term local credit facilities of $8.6 million as of year-end 2016. There
+were no borrowings under these lines at year-end 2016 compared to $5.5 million at year-end 2015. The weighted average
+interest rate for these borrowings, which were primarily related to Brazil, was 15.7% at year-end 2015.
+61

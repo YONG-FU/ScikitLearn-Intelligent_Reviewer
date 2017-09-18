@@ -1,0 +1,37 @@
+Table,of,C,ontents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+We begin Management’s Discussion and Analysis of Financial Condition and Results of Operations with an overview of our businesses, key operating segments
+and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the
+assumptions and judgments incorporated in our reported ﬁnancial results. We then provide a more detailed analysis of our results of operations and financial
+condition.
+Business Overview
+Oracle Corporation provides products and services that address all aspects of corporate information technology (IT) environments—application, platform and
+infrastructure. Our Oracle Cloud offerings provide a comprehensive and fully integrated stack of application, platform, compute and storage services in all three
+primary layers of the cloud: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). Our on—premise offerings include
+Oracle database and middleware software, application software, hardware (Oracle Engineered Systems, servers, storage, networking and industry-speciﬁc
+products), and related support and services. We provide our cloud and on-premise offerings to over 400,000 worldwide customers via deployment models that best
+suit their needs.
+Our comprehensive and fully integrated stack of SaaS, PaaS and IaaS offerings integrate the software, hardware and services on the customers” behalf in IT
+environments that we deploy, support and manage for the customer. Our integrated Oracle Cloud offerings are designed to be rapidly deployable to enable
+customers shorter time to innovation; easily maintainable to reduce integration and testing work; connectable among differing deployment models to enable
+interchangeability and extendibility between cloud and on-premise IT environments, compatible to easily move workloads between on-premise IT environments
+and the Oracle Cloud; cost-effective by requiring lower upfront customer investment; and secure, standards-based and reliable. We are a leader in the core
+technologies of cloud IT environments, including database and middleware software as well as enterprise applications, virtualization, clustering, large-scale
+systems management and related infrastructure. Our products and services are the building blocks of our Oracle Cloud services, our partners’ cloud services and
+our customers’ cloud IT environments.
+In addition to providing a broad spectrum of cloud offerings, we develop and sell our products and services to our customers worldwide for use in their global data
+centers and on-premise IT environments. An important element of our corporate strategy is to continue our investments in, and innovation with respect to, our
+products and services that we offer through our cloud and on-premise software, hardware and services businesses. We have a deep understanding as to how all
+components within IT environments—application, platform and infrastructure—interact and function with one another. We focus our development efforts on
+improving the performance, security, operation and integration of these differing technologies to make them more cost-effective and easier to deploy, manage and
+maintain for our customers and to improve their computing performance relative to our competitors. After the initial purchase of Oracle products and services, our
+customers can continue to take advantage of our research and development investments and deep IT expertise by purchasing and renewing Oracle support
+offerings, which may include product enhancements that we periodically deliver to our Oracle E-Business Suite, Siebel, PeopleSoft and JD Edwards application
+software products, among others, or by renewing their SaaS, PaaS and IaaS contracts with us.
+As customers deploy with the Oracle Cloud, many are adopting a hybrid IT model whereby certain of their IT resources are deployed and managed through the
+Oracle Cloud, while other of their IT resources are deployed and managed on-premise, and both sets of resources can be managed as one. We focus the engineering
+of our products and services to best connect these different deployment models to enable ﬂexibility, ease, agility, compatibility, extensibility and seamlessness.
+A selective and active acquisition program is another important element of our corporate strategy. We believe our acquisitions enhance the products and services
+that we can offer to customers, expand our customer base, provide greater scale to accelerate innovation, grow our revenues and earnings, and increase stockholder
+value. In recent years, we have invested billions of dollars to acquire a number of companies, products, services and
+40

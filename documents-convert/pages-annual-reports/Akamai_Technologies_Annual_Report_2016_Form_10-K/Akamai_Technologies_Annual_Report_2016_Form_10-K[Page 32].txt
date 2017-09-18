@@ -1,0 +1,44 @@
+The increase in Web Division revenue for 2016 as compared to 2015 was due to growth in this customer base, particularly
+with our Cloud Security Solutions. The increase in Web Division revenue in 2015 as compared to 2014 was due to strong
+demand across most of our customer base particularly for our Cloud Security Solutions, including from our largest, most
+strategic customers.
+The following table quantifies revenue derived in the US. and internationally (in thousands):
+For the Years Ended December 31, For the Years Ended December 31,
+% Change % Change
+at Constant at Constant
+20 16 20 15 % Change Currency 2015 20 % Change Currency
+US. $ 1,620,021 $ 1,604,492 1.0% 1.0% $ 1,604,492 $ 1,429,063 12.3% 123%
+International 7 720,028 592,956 21.4 21.6 5 92,956 534,811 10.9 24.3
+. TOtal , .
+revenue 82,340,049: 82,197,448 : r 6.5%: r 6.6%: :$ 2,197,448 : 81,963,874: : 11.9%: r 15.5%:
+The reduced revenue from our Internet Platform Customers negatively impacted our US. revenue growth rates for the year
+ended December 31, 2016, as these customers are based in the US. For the year ended December 31, 2016, approximately
+31%, of our revenue was derived from our operations located outside of the US, compared to 27% for each of the years ended
+December 31, 2015 and 2014. No single country outside of the US. accounted for 10% or more of revenue during any of these
+periods.
+During 2016, we continued to see strong revenue growth from our operations in the Asia Pacific region. Changes in
+foreign currency exchange rates negatively impacted our revenue by $1.0 million in 2016 as compared to 2015, and negatively
+by $71.7 million in 2015 as compared to 2014.
+Cost of Revenue
+Cost of revenue consisted of the following for the periods presented (in thousands):
+7 For the Years Ended December 31, 7 7 For the Years Ended December 31, 7
+* 2016 2015 % Change ” 2015 2014 % Change *
+Bandwidth fees 33 168,202 $ 150,607 11.7% $ 150,607 $ 124,470 21.0%
+Co-location fees 129,904 125,983 3.1 125,983 113,661 10.8
+Network build-out and supporting
+I services 61,320 58,207 5.3 58,207 42,114 38.2 I
+Payroll and related costs 189,409 15 8,742 19.3 158,742 143,468 10.6
+Stock-based compensation, including
+amortization of prior capitalized
+Depreciation of network equipment 140,777 130,098 8.2 130,098 107,250 21.3
+Amortization of internal-use software 7 88,244 7 7 75,761 7 7 16.5 7 7 75,761 7 7 58,114 7 7 30.4 7
+Total cost ofrevenue $ 809,001 $ 725,620 11.5% $ 725,620 $ 610,943 18.8%
+HAS apercentage ofrevenue : 34.6% i 33.0% i : i 33.0% i 31.1% i I
+The increase in total cost of revenue for 2016 as compared to 2015 was primarily due to increases in:
+- amounts paid to network providers for bandwidth fees to support the increase in traffic served on our network and for
+traffic served from higher cost regions;
+- payroll and related costs, as well as stock-based compensation, due to more hiring in our services to support revenue
+growth, and
+- depreciation of network equipment and amortization of internal-use software as we continued to invest in our
+infrastructure and release intemally-developed software onto our network.
+30

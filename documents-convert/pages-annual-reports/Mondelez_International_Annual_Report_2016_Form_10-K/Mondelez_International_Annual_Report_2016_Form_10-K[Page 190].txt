@@ -1,0 +1,40 @@
+(f) Each Guarantee shall remain in full force and effect and continue to be effective should any petition be filed by or against the Company for liquidation or
+reorganization, should the Company become insolvent or make an assignment for the benefit of creditors or should a receiver or trustee be appointed for all or any
+significant part of the Company’s assets, and shall, to the fullest extent permitted by law, continue to be effective or be reinstated, as the case may be, if at any time
+payment and performance of the Securities are, pursuant to applicable law, rescinded or reduced in amount, or must otherwise be restored or returned by any
+obligee on the Securities or the Guarantees, whether as a “voidable preference”, “fraudulent transfer” or otherwise, all as though such payment or performance had
+not been made. In the event that any payment or any part thereof, is rescinded, reduced, restored or returned, the Securities shall, to the fullest extent permitted by
+law, be reinstated and deemed reduced only by such amount paid and not so rescinded, reduced, restored or returned.
+(g) In case any provision of any Guarantee shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall
+not in any way be affected or impaired thereby.
+(h) Each payment to be made by a Guarantor in respect of its Guarantee shall be made without set-off, counterclaim, reduction or diminution of any kind or
+nature.
+SECTION 1402. Limitation on Guarantor Liability.
+Each Guarantor, and by its acceptance of Securities, each Holder, hereby confirms that it is the intention of all such parties that the Guarantee of such
+Guarantor not constitute a fraudulent conveyance or a fraudulent transfer for purposes of bankruptcy law in the United States, the Uniform Fraudulent Conveyance
+Act, the Uniform Fraudulent Transfer Act or any similar federal or state law to the extent applicable to any Guarantee. To effectuate the foregoing intention, the
+Trustee, the Holders and the Guarantors hereby irrevocably agree that the obligations of each Guarantor shall be limited to the maximum amount as will, after
+giving effect to such maximum amount and all other contingent and fixed liabilities of such Guarantor that are relevant under such laws and after giving effect to
+any collections from, rights to receive contribution from or payments made by or on behalf of any other Guarantor in respect of the obligations of such other
+Guarantor under this Article 14, result in the obligations of such Guarantor under its Guarantee not constituting a fraudulent conveyance or fraudulent transfer under
+applicable law. Each Guarantor that makes a payment under its Guarantee shall be entitled upon payment in full of all Guaranteed obligations under this Indenture
+to a contribution from each other Guarantor in an amount equal to such other Guarantor’s pro rata portion of such payment based on the respective net assets of all
+the Guarantors at the time of such payment determined in accordance with generally accepted accounting principles in the United States.
+SECTION 1403. Execution and Delivery.
+(a) To evidence its Guarantee set forth in Section 1401, each Guarantor hereby agrees that a supplemental indenture to this Indenture shall be executed on
+behalf of such Guarantor by an Officer or person holding an equivalent title.
+(b) Each Guarantor shall in such supplemental indenture agree that its Guarantee set forth in Section 1401 shall remain in full force and effect
+notwithstanding the absence of the endorsement of any notation of such Guarantee on the Securities.
+(0) If an Officer whose signature is on this Indenture or a supplemental indenture no longer holds that office at the time the Trustee authenticates the Security,
+the Guarantees shall be valid nevertheless.
+(d) The delivery of any Security by the Trustee, after the authentication thereof hereunder, shall constitute due delivery of the Guarantee set forth in this
+Indenture or supplemental indenture on behalf of the Guarantors.
+SECTION 1404. Subrogation.
+Each Guarantor shall be subrogated to all rights of Holders against the Company in respect of any amounts paid by any Guarantor pursuant to the provisions
+of Section 1401; provided that, if an Event of Default has occurred and is continuing, no Guarantor shall be entitled to enforce or receive any payments arising out
+of, or based upon, such right of subrogation until all amounts then due and payable by the Company under this Indenture or the Securities shall have been paid in
+full.
+SECTION 1405. Beneﬁts Acknowledged.
+Each Guarantor acknowledges that it will receive direct and indirect benefits from the financing arrangements contemplated by this Indenture and that the
+guarantee and waivers made by it pursuant to its Guarantee are knowingly made in contemplation of such beneﬁts.
+5 1

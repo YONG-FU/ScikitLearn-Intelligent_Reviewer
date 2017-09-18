@@ -1,0 +1,46 @@
+Fair Value Determination Related to Financial Instruments Accounted for at Fair Value
+We have a significant amount of investments and liabilities that are classified as Level 2 and Level 3 according
+to ASC 820 “Fair Value Measurement.” The valuations for the investments and liabilities classified as Level 2
+relating to financial derivatives, interest rate swaps and forward exchange contracts are provided by independent
+third parties such as the custodian banks. The valuation for the investments and liabilities classified as Level 3
+relating to convertible bonds accounted for under the fair value option, contingent consideration and put liability
+in relation to investments and acquisitions are determined based on unobservable inputs, such as historical
+financial results and assumptions about future growth rates, which require significant judgment to determine the
+future outcome of such contingencies.
+Impairment Assessment on Goodwill and Intangible Assets
+We test annually, or whenever events or circumstances indicate that the carrying value of assets exceeds the
+recoverable amounts, whether goodwill and intangible assets have suffered any impairment in accordance with the
+accounting policy stated in note 2 to our audited consolidated financial statements included elsewhere in this
+annual report. For the impairment assessment on goodwill, we have elected to perform a qualitative assessment to
+determine whether the two-step impairment testing of goodwill is necessary. In this assessment, we consider
+primary factors such as industry and market considerations, overall financial performance of the reporting unit, and
+other specific information related to the operations. Based on the qualitative assessment, if it is more likely than
+not that the fair value of each reporting unit is less than the carrying amount, the quantitative impairment test
+is performed.
+For the quantitative assessment of goodwill impairment, we identify the reporting units and compare the fair
+value of each reporting unit to its carrying amount, including goodwill. If the fair value of each reporting unit
+exceeds its carrying amount, goodwill is not considered to be impaired and the second step will not be required.
+If the carrying amount of a reporting unit exceeds its fair value, the second step compares the implied fair
+value of goodwill to the carrying value of a reporting unit’s goodwill. For intangible assets, we perform an
+impairment assessment whenever events or changes in circumstances indicate the carrying value of an asset may
+not be recoverable. These assessments primarily use cash ﬂow projections based on financial forecasts prepared by
+management and an estimated terminal value. The expected growth in revenues and operating margin, timing of
+future capital expenditures, an estimate of weighted average cost of capital and terminal growth rate are based on
+actual and prior year performance and market development expectations. The periods of the financial forecasts
+generally range from three to five years or a longer period if necessary. Judgment is required to determine key
+assumptions adopted in the cash ﬂow projections and changes to key assumptions can significantly affect these cash
+ﬂow projections and the results of the impairment tests.
+Impairment of Investments in Equity Investees
+We continually review our investments in equity investees to determine whether a decline in fair value below
+the carrying value is other than temporary. The primary factors that we consider include the length of time that
+the fair value of the investment is below its carrying value; post-balance sheet date fair value of the investment; the
+financial condition, operating performance, strategic collaboration with and the prospects of the investee; the
+economic or technological environment in which the investee operates; and other entity specific information such
+as recent financing rounds completed by the investee companies. Fair value of the listed securities is subject to
+volatility and may be materially affected by market ﬂuctuations. Judgment is required to determine the weighting
+and impact of the aforementioned factors and changes to such determination can significantly affect the results of
+the impairment tests.
+Depreciation and Amortization
+The costs of property and equipment and intangible assets are charged ratably as depreciation and
+amortization expenses, respectively, over the estimated useful lives of the respective assets using the straight-line
+146

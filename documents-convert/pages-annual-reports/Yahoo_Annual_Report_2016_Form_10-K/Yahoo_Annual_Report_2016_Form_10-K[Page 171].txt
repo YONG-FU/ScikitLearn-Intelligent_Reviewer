@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+(5) Net loss attributable to Yahoo! Inc. for the quarter ended March 31, 2016 includes net restructuring charges of $57 million, advisory fees of $9 million and
+a loss of $39 million due to the decline in fair value of the Hortonworks warrants.
+(6) Net loss attributable to Yahoo! Inc. for the quarter ended June 30, 2016 includes goodwill impairment charge of $395 million and intangible assets
+impairment charge of $87 million related to Tumblr reporting unit, net restructuring charges of $19 million, advisory fees of $15 million and a gain of
+$120 million on the sale of land.
+(7) Net income attributable to Yahoo! Inc. for the quarter ended September 30, 2016 includes advisory fees of $27 million, net restructuring charges of
+$10 million and a loss of $8 million due to the decline in fair value of the Hortonworks warrants.
+(8) Net income attributable to Yahoo! Inc. for the quarter ended December 31, 2016 includes security incidents costs of $1 0 million, advisory fees of
+$6 million and net restructuring charges of $2 million.
+(9) Commencing in the second quarter of 2016, TAC payments related to the Microsoft Search Agreement, which previously would have been recorded as a
+reduction to revenue, began to be recorded as cost of revenue—TAC due to a required change in revenue presentation. See Note 1—“The Company
+and Summary of Signiﬁcant Accounting Policies” and Note 19—“Microsoft Search Agreement” in the Notes to the Company’s consolidated ﬁnancial
+statements for additional information.
+Item 9. Changes In and Disagreements With Accountants on Accounting
+and FinanCIal Disclosure
+None.
+Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+The Company’s management, with the participation of the Company’s principal executive ofﬁcer and principal financial ofﬁcer, has evaluated the effectiveness of
+the Company’s disclosure controls and procedures (as such term is deﬁned in Rules 13a—15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as
+amended (the “Exchange Act”)), as of the end of the period covered by this Annual Report on Form 10-K. Based on such evaluation, the Company’s principal
+executive ofﬁcer and principal ﬁnancial ofﬁcer have concluded (based on the ﬁndings and recommendations of the Independent Committee set forth in Item 7
+—“Management’s Discussion and Analysis of Financial Condition and Results of Operations—Security Incidents”) that, due exclusively to deﬁciencies in the
+Company’s existing security incident response protocols related to the 2014 Security Incident, the Company’s disclosure controls and procedures were not
+effective at December 31, 2016. The conclusion that the Company’s disclosure controls and procedures at December 31, 2016 were not effective did not affect
+our conclusion that our internal control over financial reporting was effective as of December 31, 2016. Further, the Company’s principal executive officer and
+principal ﬁnancial ofﬁcer have also concluded (based on the ﬁndings and recommendations of the Independent Committee as set forth in Item 7
+—“Management’s Discussion and Analysis of Financial Condition and Results of Operations—Security Incidents”) that, due exclusively to deﬁciencies in the
+Company’s
+170

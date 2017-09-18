@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>pressed wrong</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="keyword-pressed/highlight" transform="translate(-1147.000000, -364.000000)">
+            <rect id="Rectangle-12" fill="#F9F9F9" x="52" y="116" width="1176" height="800"></rect>
+            <rect id="Rectangle-8" fill="#FFFFFF" x="787" y="172" width="406" height="714"></rect>
+            <g id="Group-5-Copy-2" transform="translate(814.000000, 342.000000)">
+                <g id="pressed-wrong" transform="translate(333.000000, 22.000000)">
+                    <rect id="Rectangle-7" fill="#AFAFAF" x="0.0541310541" y="0" width="18.0952381" height="18"></rect>
+                    <polygon id="Icon" fill="#FFFFFF" points="13.633531 5.49033292 9.84365524 9.25500011 13.633531 13.0196673 13.1391994 13.5100002 9.34383104 9.75078118 5.54846268 13.5100002 5.05413105 13.0196673 8.84400685 9.25500011 5.05413105 5.49033292 5.54846268 5 9.34383104 8.75921905 13.1391994 5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

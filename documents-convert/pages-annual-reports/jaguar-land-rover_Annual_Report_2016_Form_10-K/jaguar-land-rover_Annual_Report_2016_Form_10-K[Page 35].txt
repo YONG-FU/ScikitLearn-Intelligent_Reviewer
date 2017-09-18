@@ -1,0 +1,46 @@
+1 O 6 | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+26 PROVISIONS
+2016 2015 2014
+_As at 31 March Em Em Em
+Current
+Product warranty 441 426 343
+Legal and product liability 99 50 49
+Provisions for residual risk 6 4 2
+Provision for environmental liability 8 5 —
+Other employee beneﬁts Obligations 1 — 1
+Total current provisions 555 485 395
+Non-current
+Product warranty 688 585 538
+Provision for residual risk 13 16 13
+Provision for environmental liability 23 26 21
+Other employee beneﬁts Obligations 9 12 10
+Total non-current provisions 733 639 582
+' Legal and Environmental
+Year ended 31 March 2016 Product warranty product liability Residual risk liability Total
+Opening balance 1,011 50 20 31 1,112
+Provisions made during the year 578 67 4 1 650
+Provisions used during the year (480) (17) (6) (1) (504)
+Impact of discounting 21 — — — 21
+Foreign currency translation (1) (1) 1 — (1)
+Closing balance 1,129 99 19 31 1,278
+PRODUCT WARRANTY PROVISION
+The Group offers warranty cover in respect of manufacturing defects, which become apparent up to ﬁve years after purchase,
+dependent on the market in which the purchase occurred. The estimated liability for product warranties is recorded when
+products are sold. These estimates are established using historical information on the nature, frequency and average cost
+of warranty claims and management estimates regarding possible future incidences based on actions on product failures.
+The discount on the warranty provision is calculated using a risk—free discount rate as the risks speciﬁc to the liability, such as
+inflation, are included in the base calculation. The timing of outflows will vary as and when a warranty claim will arise, being
+typically up to ﬁve years.
+LEGAL AND PRODUCT LIABILITY PROVISION
+A legal and product liability provision is maintained in respect of compliance with regulations and known litigations which
+impact the Group. The provision primarily relates to motor accident claims, consumer complaints, dealer terminations,
+employment cases, personal injury claims and compliance with regulations.
+RESIDUAL RISK PROVISION
+In certain markets, the Group is responsible for the residual risk arising on vehicles sold by dealers on leasing arrangements.
+The provision is based on the latest available market expectations of future residual value trends. The timing of the outflows
+will be at the end of the lease arrangements — being typically up to three years.
+ENVIRONMENTAL RISK PROVISION
+This provision relates to various environmental remediation costs such as asbestos removal and land clean up. The timing of
+when these costs will be incurred is not known with certainty.

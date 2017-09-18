@@ -1,0 +1,44 @@
+Any such penalties could have an adverse effect on our business, financial condition, operating results and cash
+ﬂows. In addition, the political and media scrutiny surrounding any governmental investigation of us could cause
+us significant expense and reputational harm and distract senior executives from managing our normal day-to-
+day operations.
+Our products could also be shipped to denied parties by third parties, including our channel partners. Even
+though we take precautions to ensure that our channel partners comply with all relevant import and export
+regulations, any failure by our channel partners to comply with such regulations could have negative
+consequences for us, including reputational harm, government investigations and penalties.
+We could be prevented from selling or developing our software if the GNU General Public License and
+similar licenses under which our technologies are developed and licensed are not enforceable or are
+modified so as to become incompatible with other open source licenses.
+A number of our offerings, including Red Hat Enterprise Linux, have been developed and licensed under the
+GNU General Public License and similar open source licenses. These licenses state that any program licensed
+under them may be liberally copied, modified and distributed. It is possible that a court would hold these licenses
+to be unenforceable or that someone could assert a claim for proprietary rights in a program developed and
+distributed under them. Additionally, if any of the open source components of our offerings may not be liberally
+copied, modified or distributed, then our ability to distribute or develop all or a portion of our offerings could be
+adversely impacted. In addition, licensors of open source software employed in our offerings may, from time to
+time, modify the terms of their license agreements in such a manner that those license terms may become
+incompatible with other open source licenses in our offerings or our end user license agreement, and thus could,
+among other consequences, prevent us from distributing the software code subject to the modified license.
+Our efforts to protect our trademarks may not be adequate to prevent third parties from
+misappropriating our intellectual property rights in our trademarks.
+Our collection of trademarks is valuable and important to our business. The protective steps we have taken
+in the past may have been, and may in the future continue to be, inadequate to protect and deter misappropriation
+of our trademark rights. We may be unable to detect the unauthorized use of, or take appropriate steps to enforce,
+our trademark rights in a timely manner. We have registered some of our trademarks in countries in North
+America, South America, Europe, Asia, Africa and Australia and have other trademark applications pending in
+various countries around the world. Effective trademark protection may not be available in every country in
+which we offer or intend to distribute our offerings. We may be unable to prevent third parties from acquiring
+domain names that are similar to, infringe upon, or diminish the value of our trademarks and other proprietary
+rights. Failure to adequately protect our trademark rights could damage or even destroy one or more of our
+brands and impair our ability to compete effectively. Furthermore, defending or enforcing our trademark rights
+could result in the expenditure of significant financial and managerial resources.
+Efforts to assert intellectual property ownership rights in our technologies could impact our standing in
+the open source community, which could limit our technology innovation capabilities and adversely affect
+our business.
+When we undertake actions to protect and maintain ownership and control over our intellectual property,
+including patents, copyrights and trademark rights, our standing in the open source community could be
+adversely affected as the community supports the ability to write and share code freely. This in turn could limit
+our ability to continue to rely on this community, upon which we are dependent, as a resource to help develop
+and improve our technologies and further our research and development efforts, and could adversely affect our
+business.
+30

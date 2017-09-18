@@ -1,0 +1,54 @@
+Fifteen different averaging periods/methods are used in the incurred and paid chain ladder methods to produce
+development factors to ultimate, from which the five medial estimates are generally selected to produce the chain ladder
+ultimate estimates. Thus, using both the incurred and paid chain ladder methods, ten ultimate loss estimates are produced
+for each accident year and accident quarter. Since the pool participants do not establish settlement expense reserves on an
+individual claim basis, there is no corresponding incurred allocated settlement expense data upon which to apply the chain
+ladder method. Therefore, only five ultimate allocated settlement expense estimates are produced for each accident year
+and accident quarter as only the paid chain ladder method can be applied.
+In addition to the accident year and accident quarter ultimate loss and allocated settlement expense estimates
+produced from the chain ladder methods, the actuarial department employs the following methodologies on an incurred
+and paid basis: Bornhuetter-Ferguson, Benktander (iterative Bornhuetter-Ferguson), Ultimate Frequency-Severity and
+Generalized Cape Cod. The actuarial department will also sometimes apply the Expected Loss Ratio Method for
+extremely immature accident years/quarters. For allocated settlement expenses, the actuarial department also produces
+ultimate estimates by applying the chain ladder approach to the ratio of paid allocated settlement expenses to paid losses.
+The ultimate factors from these paid-to-paid ratios are applied to the ultimate losses determined by the paid chain ladder
+method to produce ultimate allocated settlement expense dollar amounts.
+Range of Reasonable Ultimates and Management's Best Estimate: Except for the Expected Loss Ratio Method,
+each of the above listed methods are employed, where applicable, using each of the five factors to ultimate from the
+incurred and paid chain ladder methods. This results in forty-five ultimate loss estimates and thirty-five ultimate allocated
+settlement expense estimates, exclusive of the special situations where the Expected Loss Ratio Method is also applied.
+The actuarial department examines the indicated ultimate amounts for each category (losses and allocated settlement
+expenses) and each accident year/quarter, and applies judgment and knowledge of each method’s biases (if any) to exclude
+unreasonable estimates. The maximum and minimum of the remaining estimates define the range of reasonable ultimates.
+The point estimates within the range are further scrutinized for evenness of spread or for evidence of clustering around
+specific estimates. A comparison is also made to previous estimates. For the latest accident years, management generally
+selects an estimate in the third, or possibly fourth, quartile of the reasonable range as the best estimate. For more mature
+years, the mean is generally selected to be management's best estimate.
+The selected point estimate for each accident year/quarter is divided by its corresponding earned premiums to
+produce the expected ultimate loss and allocated settlement expense ratios. At quarter end, the ratios are applied to the
+corresponding calendar year/quarter earned premiums to produce the ultimate estimated dollar amounts, from which the
+amounts incurred to date are subtracted to produce the IBNR loss and allocated settlement expense reserves to be recorded.
+Reserves for Storms ana’ Catastrophic Events
+IBNR loss reserves for storms and catastrophic events are established by the branch oﬁices in conjunction with the
+home office claims department. IBNR loss reserves associated with storms and catastrophic events are event-specific. The
+pool participants define a storm or catastrophic event as any event for which the Property Liability Research Bureau
+(PLRB) assigns an occurrence number. When a storm or catastrophic event occurs, the location of the event is overlaid
+with a map of the pool participants’ exposures. Using this information and other factors (such as wind speed and the size
+of any hail), the affected branch office(s) are contacted and requested to develop a loss estimate based on projections of
+loss frequency and severity in their location. To develop this loss estimate, large accounts located in the affected areas are
+contacted. Based on this information and discussions with local agents, both the number and severity of estimated losses
+are projected by location. Management then compiles and analyzes this information and calculates a total loss
+estimate. The total loss estimate is generally established within two weeks of an event and is adjusted, if necessary, as the
+actual claims are inspected. At each reporting date, the total amount of reported losses associated with each storm/
+catastrophic event is compared to the most recent total loss estimate for that event, and the difference is recorded as the
+storm/catastrophe IBNR loss reserve. Since the pool participants do not establish separate settlement expense reserves for
+individual storm and catastrophe claims, the reserving methodology for settlement expenses on these claims is included in
+the settlement expense reserving process for general claims.
+Reserves for Asbestos and Environmental Claims
+The IBNR loss and settlement expense reserves are established jointly for asbestos and environmental liabilities as
+the available estimation methodologies require the consideration of both loss and settlement expense payments together.
+Management's internal ultimate loss and settlement expense evaluations consist of runoff scenarios based on recent
+payment activity and various future payout decay assumptions. The assumptions include published research on industry
+payout curves as well as reasonable alternative assumptions selected by the actuarial department. Internal and industry
+survival ratios are also monitored to assist in validating assumptions underlying the payout scenarios.
+15

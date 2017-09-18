@@ -1,0 +1,35 @@
+Table,of,C,ontents
+additional information becomes available, we reassess the potential liability related to our pending claims and litigation and may revise our estimates. Such
+revisions in the estimates of the potential liabilities could have a material impact on our results of operations and ﬁnancial position.
+Results of Operations
+Impact of A cquisitions
+The comparability of our operating results in fiscal 2016 compared to ﬁscal 2015 and in fiscal 2015 compared to fiscal 2014 was impacted by our recent
+acquisitions. In our discussion of changes in our results of operations from fiscal 2016 compared to fiscal 2015 and fiscal 2015 compared to ﬁscal 2014, we may
+qualitatively disclose the impact of our acquired products and services (for the one-year period subsequent to the acquisition date) to the growth in certain of our
+operating segments’ revenues where such qualitative discussions would be meaningful for an understanding of the factors that inﬂuenced the changes in our results
+of operations. When material, we may also provide quantitative disclosures related to such acquired products and services. Expenses for each of the respective
+period comparisons generally were not separately identiﬁable due to the integration of these businesses and operating segments into our existing operations, and/or
+were insignificant to our results of operations during the periods presented.
+We caution readers that, while pre- and post-acquisition comparisons, as well as any quantiﬁed amounts themselves, may provide indications of general trends, any
+acquisition information that we provide has inherent limitations for the following reasons:
+- any qualitative and quantitative disclosures cannot specifically address or quantify the substantial effects attributable to changes in business strategies,
+including our sales force integration efforts. We believe that if our acquired companies had operated independently and sales forces had not been
+integrated, the relative mix of products and services sold would have been different; and
+- although substantially all of our on-premise software license customers, including customers from acquired companies, renew their software license
+updates and product support contracts when the contracts are eligible for renewal, and we strive to renew cloud SaaS and PaaS contracts and hardware
+support contracts, the amounts shown as cloud SaaS and PaaS deferred revenues, software license updates and product support deferred revenues, and
+hardware support deferred revenues in our “Supplemental Disclosure Related to Certain Charges” (presented below) are not necessarily indicative of
+revenue improvements we will achieve upon contract renewals to the extent customers do not renew.
+Constant Currency Presentation
+Our international operations have provided and are expected to continue to provide a significant portion of each of our segments’ revenues and expenses. As a
+result, each segment’s revenues and expenses and our total revenues and expenses will continue to be affected by changes in the US. Dollar against major
+international currencies. In order to provide a framework for assessing how our underlying businesses performed excluding the effects of foreign currency
+ﬂuctuations, we compare the percent change in the results from one period to another period in this Annual Report using constant currency disclosure. To present
+this information, current and comparative prior period results for entities reporting in currencies other than US. Dollars are converted into US. Dollars at constant
+exchange rates (i.e., the rates in effect on May 31, 2015, which was the last day of our prior ﬁscal year) rather than the actual exchange rates in effect during the
+respective periods. For example, if an entity reporting in Euros had revenues of 1.0 million Euros from products sold on May 31, 2016 and 2015, our financial
+statements would reﬂect reported revenues of $1.12 million in ﬁscal 2016 (using 1.12 as the month-end average exchange rate for the period) and $1.08 million in
+fiscal 2015 (using 1.08 as the month-end average exchange rate for the period). The constant currency presentation, however, would translate the ﬁscal 2016 results
+using the ﬁscal 2015 exchange rate and indicate, in this example, no change in revenues during the period. In each of the tables below, we present the percent
+change based on actual, unrounded results in reported currency and in constant currency.
+55

@@ -1,0 +1,45 @@
+Iablre,of,C,ontents
+purchases, which could cause them to delay, decrease or cancel purchases of our products and services. Even if customers are willing to purchase our products and
+services, if they do not meet our credit requirements, we may not be able to record accounts receivable or unearned revenue or recognize revenue from these
+customers until we receive payment, which could adversely affect the amount of revenue we are able to recognize and our cash ﬂows in a particular period.
+Increases in our cost of borrowing could also impact our ability to access capital markets should we wish to raise additional funding for business investments,
+which could adversely affect our ability to repay or refinance our existing notes payable to Dell, fund future product development and acquisitions or conduct stock
+buybacks.
+We may not be able to respond to rapid technological changes with new solutions and services offerings.
+The virtualization, cloud computing, end-user computing and SDDC industries are characterized by rapid technological change, changing customer needs,
+frequent new software product introductions and evolving industry standards. The introduction of third-party solutions embodying new technologies and the
+emergence of new industry standards could make our existing and future software solutions obsolete and unmarketable. Cloud computing has proven to be a
+disruptive technology that is altering the way that businesses consume, manage and provide physical IT resources, applications, data and IT services. We may not
+be able to establish or sustain our thought leadership in the cloud computing and enterprise software fields, and our customers may not view our products and
+services as innovative and best-of-breed, which could result in a reduction in market share and our inability to command a pricing premium over competitor
+products and services. We may not be able to develop updated products and services that keep pace with technological developments and emerging industry
+standards, that address the increasingly s0phisticated needs of our customers or that interoperate with new or updated operating systems and hardware devices.
+Our ability to react quickly to new technology trends and customer requirements is negatively impacted by the length of our development cycle for new
+products and services and product and service enhancements, which has frequently been longer than we originally anticipated. This is due in part to the increasing
+complexity of our product offerings as we increase their interoperability, introduce them into product suites and maintain their compatibility with multiple IT
+resources utilized by our customers, which can significantly increase the development time and effort necessary to achieve the interoperability of product suite
+components while maintaining product quality. If we are unable to evolve our solutions and offerings in time to respond to and remain ahead of new technological
+developments, our ability to retain or increase market share and revenue in the virtualization, cloud computing, end-user computing and SDDC industries could be
+materially adversely affected. With respect to our SDDC products, if we fail to introduce compelling new features in future upgrades to our VMware vSphere
+product line, manage the transition to hybrid cloud platforms, develop new or tightly integrate existing applications for our virtualization technology that address
+customer requirements for integration, automation and management of their IT systems with public cloud resources, overall demand for products and services
+based on VMware vSphere may decline. Additionally, if we fail to realize returns on investments in our newer SaaS and cross-cloud initiatives, our operating
+margins and results of operations will be adversely impacted.
+Breaches of our cybersecurity systems could seriously harm our business.
+We increasingly depend upon our IT systems to conduct virtually all of our business operations, ranging from our internal operations and product development
+activities to our marketing and sales efforts and communications with our customers and business partners. Unauthorized parties have penetrated our network
+security and our website in the past and may do so in the future. These cyberattacks threaten to misappropriate our proprietary information, cause interruptions of
+our IT services and commit fraud. Because the techniques used by unauthorized persons to access or sabotage networks change frequently and may not be
+recognized until launched against a target, we may be unable to anticipate these tactics. Further, if unauthorized access or sabotage remains undetected for an
+extended period of time, the effects of such breach could be exacerbated. In addition, s0phisticated hardware and operating system software and applications that
+we produce or procure from third parties may contain defects in design or manufacture, including “bugs” and other problems that could unexpectedly interfere with
+the operation of our systems and processes. Our exposure to cybersecurity threats and negative consequences of cybersecurity breaches will likely increase as our
+customers conduct more purchase and service transactions online, and we store increasing amounts of customer data and host or manage parts of customers’
+businesses in cloud-based IT environments.
+We have also outsourced a number of our business functions to third parties, and we rely upon distributors, resellers, system vendors and systems integrators
+to sell our products and services. Accordingly, if our cybersecurity systems and those of our contractors, partners and vendors fail to protect against breaches, our
+ability to conduct our business could be damaged in a number of ways, including:
+° sensitive data regarding our business, including intellectual property and other proprietary data, could be stolen;
+° our electronic communications systems, including email and other methods, could be disrupted, and our ability to conduct our business operations could
+be seriously damaged until such systems can be restored and secured;
+1 5

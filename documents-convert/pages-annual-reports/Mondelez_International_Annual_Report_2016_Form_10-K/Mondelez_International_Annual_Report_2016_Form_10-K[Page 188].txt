@@ -1,0 +1,45 @@
+SECTION 1304. Quorum; Action.
+The Persons entitled to vote a majority in principal amount of the Outstanding Securities of a series shall constitute a quorum for a meeting of Holders of
+Securities of such series. In the absence of a quorum within 30 minutes of the time appointed for any such meeting, the meeting shall, if convened at the request of
+Holders of Securities of such series, be dissolved. In any other case the meeting may be adjourned for a period of not less than 10 days as determined by the
+chairman of the meeting prior to the adjournment of such meeting. In the absence of a quorum at any such adjourned meeting, such adjourned meeting may be
+further adjourned for a period of not less than 10 days as determined by the chairman of the meeting prior to the adjournment of such adjourned meeting. Subject to
+Section 1305(d), notice of the reconvening of any adjourned meeting shall be given as provided in Section 1302(a), except that such notice need be given only once
+not less than five days prior to the date on which the meeting is scheduled to be reconvened. Notice of the reconvening of an adjourned meeting shall state expressly
+that Persons entitled to vote a majority in principal amount of the Outstanding Securities of such series shall constitute a quorum.
+Except as limited by the proviso to Section 902, any resolution presented to a meeting or adjourned meeting duly reconvened at which a quorum is present as
+aforesaid may be adopted by the afﬁrmative vote of the Holders of a majority in principal amount of the Outstanding Securities of that series; provided, however,
+that except as limited by the proviso to Section 902, any resolution with respect to any request, demand, authorization, direction, notice, consent, waiver or other
+action which this Indenture expressly provides may be made, given or taken by the Holders of a speciﬁed percentage which is less than a majority in principal
+amount of the Outstanding Securities of a series may be adopted at a meeting or an adjourned meeting duly reconvened and at which a quorum is present as
+aforesaid by the afﬁrmative vote of the Holders of such speciﬁed percentage in principal amount of the Outstanding Securities of that series. Any resolution passed
+or decision taken at any meeting of Holders of Securities of any series duly held in accordance with this Section shall be binding on all the Holders of Securities of
+such series and the related coupons, whether or not present or represented at the meeting.
+SECTION 1305. Determination of Voting Rights; Conduct and Adjournment of Meetings.
+(a) Notwithstanding any other provision of this Indenture, the Trustee for any series of Securities may make such reasonable regulations as it may deem
+advisable for any meeting of Holders of Securities of such series in regard to proof of the holding of Securities of such series and of the appointment of proxies and
+in regard to the appointment and duties of inspectors of votes, the submission and examination of proxies, certificates and other evidence of the right to vote, and
+such other matters concerning the conduct of the meeting as it shall deem appr0priate.
+(b) The Trustee for any series of Securities shall, by an instrument in writing, appoint a temporary chairman of the meeting, unless the meeting shall have
+been called by the Company or by Holders of Securities as provided in Section 1302(b), in which case the Company or the Holders of Securities of the series calling
+the meeting, as the case may be, shall in like manner appoint a temporary chairman. A permanent chairman and a permanent secretary of the meeting shall be
+elected by vote of the Persons entitled to vote a majority in principal amount of the Outstanding Securities of such series represented at the meeting.
+(0) At any meeting each Holder of a Security of such series or proxy shall be entitled to one vote for each $1,000 principal amount of Securities of such series
+held or represented by him as determined in accordance with Section 115; provided, however, that no vote shall be cast or counted at any meeting in respect of any
+Security challenged as not Outstanding and ruled by the chairman of the meeting to be not Outstanding. The chairman of the meeting shall have no right to vote,
+except as a Holder of a Security of such series or proxy.
+(d) Any meeting of Holders of Securities of any series duly called pursuant to Section 1302 at which a quorum is present may be adjourned from time to time
+by Persons entitled to vote a majority in principal amount of the Outstanding Securities of such series represented at the meeting; and the meeting may be held as so
+adjourned without further notice.
+SECTION 1306. Counting Votes and Recording Action of Meetings.
+The vote upon any resolution submitted to any meeting of Holders of Securities of any series shall be by written ballots on which shall be subscribed the
+signatures of the Holders of Securities of such series or of their representatives by proxy and the principal amounts and serial numbers of the Outstanding Securities
+of such series held or represented by them. The permanent chairman of the meeting shall appoint two inspectors of votes who shall count all votes cast at the
+meeting for or against any resolution and who shall make and ﬁle with the secretary of the meeting their verified written reports in triplicate of all votes cast at the
+meeting. A record, at least in duplicate, of the proceedings of each meeting of Holders of Securities of any series shall be prepared by the secretary of the meeting
+and there shall be attached to said record the original reports of the inspectors of votes on any vote by ballot taken thereat and afﬁdavits by one or more persons
+having knowledge of the facts setting forth a copy of the notice of the meeting and showing that said notice was given as provided in Section 1302 and, if
+applicable, Section 1304. Each copy shall be signed and verified by the afﬁdavits of the permanent chairman and secretary of the meeting and one such copy shall
+be delivered to the Company, and another to the Trustee for such series of Securities to be preserved by such Trustee, the latter to have attached thereto the ballots
+voted at the meeting. Any record so signed and veriﬁed shall be conclusive evidence of the matters therein stated.
+49

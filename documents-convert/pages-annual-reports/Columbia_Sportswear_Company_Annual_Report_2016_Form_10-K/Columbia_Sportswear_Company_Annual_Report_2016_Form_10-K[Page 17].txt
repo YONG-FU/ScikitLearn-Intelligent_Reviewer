@@ -1,0 +1,51 @@
+Our legacy ERP, product development, retail point-of-sale and other systems, on which we continue to manage a
+substantial portion of our business activities, are highly customized. As a result, the availability of internal and external
+resources with the expertise to maintain these systems is limited. Our legacy systems may not support desired functionality
+for our operations and may inhibit our ability to operate efficiently, which could have an adverse effect on our financial
+condition, results of operations or cash ﬂows. As we transition from our legacy ERP and supporting systems to our new
+ERP and supporting systems, certain functionality and information from our legacy systems, including that of third party
+systems that interface with our legacy systems, may not be fully compatible with the new systems. As a result, temporary
+processes or solutions may be required, including manual operations, which could significantly increase the risk of loss or
+corruption of data and information used by the business or result in business disruptions, which could have a material adverse
+effect on our financial condition, results of operations or cash ﬂows.
+A Breach in the Security of Our Systems, or the Privacy and Security of Company, Customer, Supplier or Employee
+Information, Could Disrupt Our Operations, Damage Our Reputation or Cause Us to Incur Substantial Costs
+We manage and store various types of proprietary information and sensitive or confidential data relating to our business,
+including sensitive and personally identifiable information. Our information systems are vulnerable to an increasing threat
+of continually evolving cybersecurity risks. Unauthorized parties may attempt to gain access to our systems or information
+through fraud or other means of deceiving our employees or third party service providers. Hardware, software or applications
+we develop or obtain from third parties may contain defects in design or manufacture or other problems that could
+unexpectedly compromise information security. The methods used to obtain unauthorized access, disable or degrade service,
+or sabotage systems are also constantly changing and evolving, and may be difficult to anticipate or detect for long periods
+of time. We have implemented and regularly review and update processes and procedures to protect against unauthorized
+access to or use of secured data and to prevent data loss. However, the ever-evolving threats mean we must continually
+evaluate and adapt our systems and processes, and there is no guarantee that they will be adequate to safeguard against all
+data security breaches or misuses of data.
+In February 2017, we reported the discovery of a cyber security incident involving our prAna.com e-commerce website.
+See Note 13 of Notes to Consolidated Financial Statements for further disclosure of this incident. The Company is actively
+investigating the nature and scope of the incident, including to what extent customer information may have been
+compromised. It is reasonably possible that the Company may incur losses in connection with the incident; however, the
+Company is still in the early stages of the investigation and at this time the Company is unable to reasonably estimate the
+amount of any losses or the amount of expenses, net of any potential insurance recovery, it may incur in addressing this
+incident. In addition, we may be required to respond to governmental inquiries and could be subject to litigation relating to
+the cyber security incident. Such investigations and claims could divert the attention of management from the operation of
+our business, result in reputational damage and have a material adverse effect on our business, financial condition, results
+of operations or cash ﬂows.
+In addition, any future breaches of our security measures, or the accidental loss, inadvertent disclosure or unapproved
+dissemination of proprietary information or sensitive or confidential data about us, our customers, our suppliers, or our
+employees, could expose us, our customers, our suppliers, our employees, or other individuals that may be affected to a
+risk of loss or misuse of this information, result in litigation and potential liability for us, damage our reputation, or otherwise
+harm our business and could have a material adverse effect on our financial condition, results of operations or cash ﬂows.
+In addition, as the regulatory environment related to information security, data collection and use and privacy becomes
+increasingly rigorous, with new and constantly changing requirements applicable to our business, compliance with those
+requirements could also result in additional costs.
+We Depend on Contract Manufacturers
+Our products are manufactured by contract manufacturers worldwide. Although we enter into purchase order
+commitments with these contract manufacturers each season, we generally do not maintain long-term manufacturing
+commitments with them. Without long-term or reserve commitments, there is no assurance that we will be able to secure
+adequate or timely production capacity or favorable pricing if growth or product demand differs from our forecasts. Contract
+manufacturers may fail to perform as expected or our competitors may obtain production capacities that effectively limit
+or eliminate the availability of these resources to us. If a contract manufacturer fails to ship orders in a timely manner or to
+meet our standards or if we are unable to obtain necessary capacities, this could cause supply disruptions that would hinder
+our ability to satisfy customer demand through our direct-to-consumer businesses and we may miss delivery deadlines or
+11

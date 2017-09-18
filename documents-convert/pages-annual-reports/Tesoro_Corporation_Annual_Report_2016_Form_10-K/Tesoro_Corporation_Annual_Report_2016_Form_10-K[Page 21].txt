@@ -1,0 +1,43 @@
+[ 13112313 F'AGTORS
+- The EPA adopted a new rule in 2015 requiring further reductions in the National Ambient Air Quality Standard for ozone.
+In addition, pre-rulemaking is underway in California to implement the recommendations made in 2014 by the Governor’s Interagency Reﬁnery Safety
+Working Group to signiﬁcantly expand the scope and requirements of California’s process safety management regulations. The ﬁnal requirements could have a
+material impact on our cash flows, profitability and financial condition.
+Regulatory and other requirements concerning the transportation of crude oil and other commodities by rail may cause increases in transportation costs
+or limit the amount of crude that we can transport by rail.
+We rely on a variety of systems to transport crude oil, including rail. In 2012, we completed the construction of a 50 Mbpd crude oil rail car unloading
+facility in Anacortes, Washington (the "Anacortes Rail Facility”), which TLLP subsequently acquired from us. The Anacortes Rail Facility allows us to receive crude
+oil into our Anacortes reﬁnery. We have also entered into a joint venture with Savage Companies to construct, own and operate a unit train unloading and
+marine loading terminal at the Port of Vancouver, USA. The construction of the terminal is subject to approval by regulatory agencies and will have a capacity up
+to 360 Mbpd.
+In 2015 the US. Department of Transportation issued new standards and regulations applicable to crude-by-rail transportation (Enhanced Tank Car
+Standards and Operational Controls for High-Hazard Flammable Trains). These or other regulations could increase the time required to move crude oil from
+production areas to our reﬁneries, increase the cost of rail transportation and decrease the efﬁciency of shipments of crude oil by rail within our operations.
+Any of these outcomes could have a material adverse effect on our business and results of operations.
+We rely upon certain critical information systems for the operation of our business, and the failure of any critical information system, including a cyber-
+security breach, may result in harm to our reputation and business.
+We depend heavily on our technology infrastructure and critical information systems, including data networks, telecommunications, remote connectivity,
+cloud-based information controls, software applications and hardware, including those that are critical to operating our reﬁneries, pipelines, terminals, retail
+stations and other business operations. In addition, we collect sensitive data, including personally identiﬁable information of our customers using credit cards at
+our retail outlets.
+We are in the process of completing the enterprise resource planning project (see further discussion in Item 7) which aims to simplify business processes by
+implementing a standardized and scalable technology platform. Large information systems and business process transformations such as this one are complex
+and require signiﬁcant investments in system software, business process development and employee resources. Our business and results of operations may be
+adversely affected if we experience operating problems, scheduling delays, cost overages or service limitations. Additionally, we may not achieve all of the
+expected synergies with this project which may impact our ability to achieve the project’s objectives.
+Our technology infrastructure and information systems are subject to damage or interruption from a number of potential sources including natural
+disasters, software viruses or other malware, power failures, cyber-attacks, employee error or malfeasance, and other events. Although we have experienced
+actual or attempted breaches of our cybersecurity, none of these breaches have had a material effect on our business, operations or reputation (or
+compromised any customer data). However, no cybersecurity or emergency recovery processes is failsafe, and if our safeguards fail or our data or technology
+infrastructure is compromised, the safety and efﬁciency of our operations could be materially harmed, our reputation could suffer, and we could be subject us
+to additional costs, liabilities, and costly legal challenges, including those involving privacy of customer data. Any of these outcomes could materially harm our
+business and operations. Finally, state and federal legislation relating to cybersecurity could impose new requirements, which could increase our costs or reduce
+our efficiency.
+Disruption of our ability to obtain crude oil could adversely affect our operations, revenue and cash flow.
+To maintain or increase production levels at our reﬁneries, we must continually contract for crude oil supplies from third parties. A material decrease in
+crude oil production from the ﬁelds that supply our reﬁneries as a result of decreased exploration and production activity, natural production declines or
+otherwise, could result in a decline in the volume of crude oil available to our reﬁneries. Such an event could result in an overall decline in volumes of reﬁned
+products processed at our refineries and a corresponding reduction in our revenue and cash flow.
+In addition, many of our logistics agreements contain minimum volume commitments. If we do not satisfy the minimum volume commitments, we will still be
+responsible for payment for transportation and storage services as if we had utilized such minimum volumes.
+December 31, 2016 | 19

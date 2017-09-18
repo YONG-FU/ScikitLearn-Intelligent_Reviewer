@@ -1,0 +1,37 @@
+1 2 6 | iisraigezzzz
+PARENT COMPANY BALANCE SHEET
+' 2016 2015 2014'
+As at 31 March Note Em Em Em
+Non-current assets
+Investments 42 1,655 1,655 1,655
+Other ﬁnancial assets 43 2,392 2,404 1,868
+Other non-current assets 44 6 5 6
+Deferred tax assets 45 1 8 8
+Total non-current assets 4,054 4,072 3,537
+Current assets
+Cash and cash equivalents 46 — — 1
+Other ﬁnancial assets 43 211 66 61
+Other current assets 44 2 3 2
+Total current assets 213 69 64
+Total assets 4,267 4,141 3,601
+Current liabilities
+Other ﬁnancial liabilities 48 26 31 28
+Deferred ﬁnance income 2 3 2
+Current income tax liabilities 5 12 12
+Total current liabilities 33 46 42
+Non-current liabilities
+Long-term borrowings 47 2,373 2,381 1,843
+Deferred ﬁnance income 25 28 31
+Total non-current liabilities 2,398 2,409 1,874
+Total liabilities 2,431 2,455 1,916
+Equity attributable to equity holders of the parent
+Ordinary shares 49 1,501 1,501 1,501
+Capital redemption reserve 49 167 167 167
+Retained earnings 168 18 17
+Equity attributable to equity holders of the parent 1,836 1,686 1,685
+Total liabilities and equity 4,267 4,141 3,601
+These parent Company ﬁnancial statements were approved by the Board of Directors and authorised for issue on 18 July 2016.
+They were signed on its behalf by:
+Dr. Ralf Speth
+Chief Executive Ofﬁcer
+Company registered number: 06477691

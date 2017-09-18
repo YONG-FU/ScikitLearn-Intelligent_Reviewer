@@ -1,0 +1,46 @@
+Geographic area information
+The following geographic area information includes revenue, based on product shipment destination, and property, plant and
+equipment, based on physical location. The revenue information is not necessarily indicative of the geographic area in which the
+end applications containing our products are ultimately consumed because our products tend to be shipped to the locations where
+our customers manufacture their products. Specifically, many of our products are shipped to our customers in China who may
+include these parts in the manufacture of their own end products, which they may in turn export to their customers around the
+world.
+For Years Ended December 31,
+2016 2015 2014
+.ﬂ
+3 Revenue:
+3 UnitedStates $1,682 $1,612 $1,625
+3 8,024 7,910 7,915
+5‘ Europe,MiddleEastandAfrica............................................ 2,393 2,163 2,294
+1,040 1,127 1,032
+231 188 179
+Totalrevenue........................................................... $13,370 $13,000 $13,045
+(a) Revenue from products shipped into China, including Hong Kong, was $6.0 billion in 2016, $5.8 billion in 2015 and
+$5.7 billion in 2014.
+December 31,
+2016 2015 2014
+Property, plant and equipment, net:
+$1,372 $1,370 $1,436
+908 958 1,096
+Europe,MiddleEastandAfrica............................................... 98 130 162
+Japan ................................................................. 115 122 124
+19 16 22
+Totalproperty,plantandequipment,net $2,512 $2,596 $2,840
+(a) Property, plant and equipment, net, at our two sites in the Philippines was $412 million, $471 million and $546 million as of
+December 31, 2016, 2015 and 2014, respectively.
+Major customer
+No end customer accounted for 10 percent or more of revenue in 2016 or 2014. In 2015, Apple Inc. accounted for approximately
+11 percent of revenue, recognized primarily in ourAnalog segment.
+2. Basis of presentation and significant accounting policies and practices
+Basis of presentation
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the
+United States (GAAP). The basis of these financial statements is comparable for all periods presented herein, except for the
+adoption of a new accounting standard in the fourth quarter of 2016 related to stock compensation, which includes certain
+provisions applied prospectively. See Changes in accounting standards for further information.
+The consolidated financial statements include the accounts of all subsidiaries. All intercompany balances and transactions have
+been eliminated in consolidation. All dollar amounts in the financial statements and tables in these notes, except per-share
+amounts, are stated in millions of U.S. dollars unless otherwise indicated. We have reclassified certain amounts in the prior
+periods’ financial statements to conform to the 2016 presentation, retrospectively applying certain provisions of the new
+accounting standard related to stock compensation.
+The preparation of financial statements requires the use of estimates from which final results may vary.
+32 TEXAS INSTRUMENTS - 2016 FORM 10-K

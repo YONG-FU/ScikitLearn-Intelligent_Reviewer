@@ -1,0 +1,51 @@
+Goodwill, Trademarks and Other Intangible Assets
+Intangible assets are classified into one of three categories: (1) intangible assets with definite lives subject to amortization,
+(2) intangible assets with indefinite lives not subject to amortization and (3) goodwill. For intangible assets with definite lives,
+tests for impairment must be performed if conditions exist that indicate the carrying value may not be recoverable. For
+intangible assets with indefinite lives and goodwill, tests for impairment must be performed at least annually, or more
+frequently if events or circumstances indicate that assets might be impaired.
+The following table presents the carrying values of intangible assets included in our consolidated balance sheet (in millions):
+Percentage
+Carrying of Total
+iDecember 31, 2016 Value Assets 7
+Goodwill $ 10,629 12%
+Trademarks with indeﬁnite lives 6,097 7
+Bottlers' franchise rights with indefinite lives 3,676 4
+Definite-lived intangible assets, net 5 98 1
+Other intangible assets not subject to amortization 128 * 7
+Total $ 21,128 24%?
+* Accounts for less than 1 percent of the Company's total assets.
+When facts and circumstances indicate that the carrying value of definite-lived intangible assets may not be recoverable,
+management assesses the recoverability of the carrying value by preparing estimates of sales volume and the resulting gross
+profit and cash ﬂows. These estimated future cash ﬂows are consistent with those we use in our internal planning. If the sum of
+the expected future cash ﬂows (undiscounted and without interest charges) is less than the carrying amount of the asset or asset
+group, we recognize an impairment loss. The impairment loss recognized is the amount by which the carrying amount exceeds
+the fair value. We use a variety of methodologies to determine the fair value of these assets, including discounted cash ﬂow
+models, which are consistent with the assumptions we believe hypothetical marketplace participants would use.
+We test intangible assets determined to have indefinite useful lives, including trademarks, franchise rights and goodwill, for
+impairment annually, or more frequently if events or circumstances indicate that assets might be impaired. Our Company
+performs these annual impairment reviews as of the first day of our third fiscal quarter. We use a variety of methodologies in
+conducting impairment assessments of indefinite-lived intangible assets, including, but not limited to, discounted cash ﬂow
+models, which are based on the assumptions we believe hypothetical marketplace participants would use. For indefinite-lived
+intangible assets, other than goodwill, if the carrying amount exceeds the fair value, an impairment charge is recognized in an
+amount equal to that excess. The Company has the option to perform a qualitative assessment of indefinite—lived intangible
+assets, other than goodwill, rather than completing the impairment test. The Company must assess whether it is more likely
+than not that the fair value of the intangible asset is less than its carrying amount. If the Company concludes that this is the
+case, it must perform the testing described above. Otherwise, the Company does not need to perform any further assessment.
+We perform impairment tests of goodwill at our reporting unit level, which is one level below our operating segments. Our
+operating segments are primarily based on geographic responsibility, which is consistent with the way management runs our
+business. Our operating segments are subdivided into smaller geographic regions or territories that we sometimes refer to as
+"business units." These business units are also our reporting units. The Bottling Investments operating segment includes all
+Company-owned or consolidated bottling operations, regardless of geographic location, including CCR's bottling and
+associated supply chain operations in the United States and Canada. Generally, each Company-owned or consolidated bottling
+operation within our Bottling Investments operating segment is its own reporting unit. Goodwill is assigned to the reporting
+unit or units that benefit from the synergies arising from each business combination.
+The goodwill impairment test consists of a two-step process, if necessary. The first step is to compare the fair value of a
+reporting unit to its carrying value, including goodwill. We typically use discounted cash ﬂow models to determine the fair
+value of a reporting unit. The assumptions used in these models are consistent with those we believe hypothetical marketplace
+participants would use. If the fair value of the reporting unit is less than its carrying value, the second step of the impairment
+test must be performed in order to determine the amount of impairment loss, if any. The second step compares the implied fair
+value of the reporting unit's goodwill with the carrying amount of that goodwill. If the carrying amount of the reporting unit's
+goodwill exceeds its implied fair value, an impairment charge is recognized in an amount equal to that excess. The loss
+recognized cannot exceed the carrying amount of goodwill.
+38

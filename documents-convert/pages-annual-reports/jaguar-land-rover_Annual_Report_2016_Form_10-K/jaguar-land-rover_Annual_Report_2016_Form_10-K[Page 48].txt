@@ -1,0 +1,53 @@
+Overview | Strategic report | Governance [ ] 1 1 9
+IFC—19 20—59 60-71 m
+34 FINANCIAL INSTRUMENTS (CONTINUED)
+(D) COMMODITY PRICE RISK
+The Group is exposed to commodity price risk arising from the purchase of certain raw materials such as aluminium, copper,
+platinum and palladium. This risk is mitigated through the use of derivative contracts and ﬁxed price contracts with suppliers.
+The derivative contracts do not qualify for hedge accounting as the commodity exposure does not meet the hedge accounting
+requirements of IAS 39.
+The total fair value loss on commodities of £113 million (2015: loss of £38 million, 2014: loss of £18 million) has been
+recognised in other income in the consolidated income statement. The losses reported do not reflect the purchasing beneﬁts
+received by the Group which are included within material and other cost of sales.
+A 10 per cent appreciation/depreciation of all commodity prices underlying such contracts would have resulted in a gain/(loss)
+of £52 million (2015: £52 million, 2014: £36 million).
+(E) INTEREST RATE RISK
+Interest rate risk is the risk that changes in market interest rates will lead to changes in interest income and expense for
+the Group.
+in addition to issuing long—term ﬁxed—rate bonds, the Group has other facilities in place which are primarily used to ﬁnance
+working capital that are subject to variable interest rates. When undertaking a new debt issuance the Board will consider
+the ﬁxed/floating interest rate mix of the Group, the outlook for future interest rates and the appetite for certainty of
+funding costs.
+The risk estimates provided assume a parallel shift of 100 basis points interest rate across all yield curves. This calculation also
+assumes that the change occurs at the balance sheet date and has been calculated based on risk exposures outstanding as at
+that date. The year—end balances are not necessarily representative of the average debt outstanding during the year.
+As of 31 March 2016 net ﬁnancial liabilities of £116 million (2015: £156 million, 2014: £167 million) were subject to the variable
+interest rate. An increase/decrease of 100 basis points in interest rates at the balance sheet date would result in an impact of
+£1 million (2015: £2 million, 2014: £2 million) in the consolidated income statement and £nil (2015, 2014: £nil) in equity.
+(F) LIQUIDITY RISK
+Liquidity risk is the risk that the Group will not be able to meet its ﬁnancial obligations as they fall due.
+The Group’s policy on liquidity risk is to maintain sufﬁcient liquidity in the form of cash and undrawn borrowing facilities to
+meet the Group’s operating requirements with an appropriate level of headroom.
+The following are the undiscounted contractual maturities of ﬁnancial liabilities, including estimated interest payments:
+Carrying Contractual 1 year 1 to <2 2 to <5 5 years I
+amount cash flows or less years years and over
+As at 31 March 2016 Em Em Em Em Em Em A
+Financial liabilities
+Long-term borrowings 2,373 2,935 107 107 1,429 1,292
+Short-term borrowings 116 116 116 — — —
+Finance lease obligations 11 14 5 2 3 4
+Other ﬁnancial liabilities 293 316 276 12 28 —
+Accounts payable 5,758 5,758 5,758 — — —
+Derivative ﬁnancial instruments 1,475 1,882 725 698 459 —
+Total contractual maturities 10,026 11,021 6,987 819 1,919 1,296
+Carrying Contractual 1 year 1 to <2 2 to <5 5 years I
+amount cash flows or less years years and over
+As_at_3_1_i_4.ar_ch_291_5 £93 £93 £93 £93 £93 £931
+Financial liabilities
+Long-term borrowings 2,381 3,066 111 110 1,510 1,335
+Short-term borrowings 156 156 156 — — —
+Finance lease obligations 13 15 6 5 4 —
+Other ﬁnancial liabilities 223 235 210 12 13 —
+Accounts payable 5,450 5,450 5,450 — — —
+Derivative ﬁnancial instruments 1,529 1,903 753 616 534 —
+Total contractual maturities 9,752 10,825 6,686 743 2,061 1,335

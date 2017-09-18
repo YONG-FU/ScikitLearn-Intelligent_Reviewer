@@ -1,0 +1,48 @@
+Goodwill and Acquired Intangible Assets
+We test goodwill for impairment on an annual basis, as of December 31, or more frequently if events or changes in
+circumstances indicate that the asset might be impaired. We have concluded that we have one reporting unit and that our chief
+operating decision maker is our chief executive officer and the executive management team. We have assigned the entire
+balance of goodwill to our one reporting unit. The fair value of the reporting unit was based on our market capitalization as of
+each of December 31, 2016 and 2015, and it was substantially in excess of the carrying value of the reporting unit at each date.
+Acquired intangible assets consist of completed technologies, customer relationships, trademarks and trade names, non-
+compete agreements and acquired license rights. We engaged third party valuation specialists to assist us with the initial
+measurement of the fair value of acquired intangible assets. Acquired intangible assets, other than goodwill, are amortized over
+their estimated useful lives based upon the estimated economic value derived from the related intangible assets.
+Income Taxes
+Our provision for income taxes is comprised of a current and a deferred portion. The current income tax provision is
+calculated as the estimated taxes payable or refundable on tax returns for the current year. The deferred income tax provision is
+calculated for the estimated future tax effects attributable to temporary differences and carryforwards by using expected tax
+rates in effect in the years during which the differences are expected to reverse or the carryforwards are expected to be realized.
+We currently have net deferred tax assets, comprised of net operating loss, or NOL, carryforwards, tax credit carryforwards
+and deductible temporary differences. Our management periodically weighs the positive and negative evidence to determine if
+it is more likely than not that some or all of the deferred tax assets will be realized. In determining our net deferred tax assets
+and valuation allowances, annualized effective tax rates and cash paid for income taxes, management is required to make
+judgments and estimates about domestic and foreign profitability, the timing and extent of the utilization of NOL
+carryforwards, applicable tax rates, transfer pricing methodologies and tax planning strategies. Judgments and estimates related
+to our projections and assumptions are inherently uncertain, therefore, actual results could differ materially from our
+projections.
+We have recorded certain tax reserves to address potential exposures involving our income tax positions. These potential
+tax liabilities result from the varying application of statutes, rules, regulations and interpretations by different taxing
+jurisdictions. Our estimate of the value of our tax reserves contains assumptions based on past experiences and judgments about
+the interpretation of statutes, rules and regulations by taxing jurisdictions. It is possible that the costs of the ultimate tax liability
+or benefit from these matters may be more or less than the amount that we estimated.
+Uncertainty in income taxes is recognized in our financial statements using a two-step process to determine the amount of
+tax benefit to be recognized. First, the tax position must be evaluated to determine the likelihood that it will be sustained upon
+external examination. If the tax position is deemed more-likely-than—not to be sustained, the tax position is then assessed to
+determine the amount of benefit to recognize in the financial statements. The amount of the benefit that may be recognized is
+the largest amount that we believe has a greater than 50% likelihood of being realized upon ultimate settlement.
+Accounting for Stock-Based Compensation
+We issue stock-based compensation awards including stock options, restricted stock units and deferred stock units. We
+measure the fair value of these awards at the grant date and recognize such fair value as expense over the vesting period. We
+have selected the Black-Scholes option pricing model to determine the fair value of stock option awards and the Monte Carlo
+simulation model to determine the fair value of market-based restricted stock awards. Determining the fair value of stock-based
+awards at the grant date requires judgment, including estimating the expected life of the stock awards and the volatility of the
+underlying common stock. Our assumptions may differ from those used in prior periods. Changes to the assumptions may have
+a significant impact on the fair value of stock-based awards, which could have a material impact on our financial statements.
+Judgment is also required in estimating the amount of stock-based awards that are expected to be forfeited. Should our actual
+forfeiture rates differ significantly from our estimates, our stock-based compensation expense and results of operations could be
+materially impacted. In addition, for awards that vest and become exercisable only upon achievement of specified performance
+conditions, we make judgments and estimates each quarter about the probability that such performance conditions will be met
+or achieved. Changes to the estimates we make from time to time may have a significant impact on our stock-based
+compensation expense and could materially impact our result of operations.
+45

@@ -1,0 +1,43 @@
+Revenue by product line and geographic area is presented below (in thousands):
+Years ended December 31,
+Revenue by product line: 2016 2015 2014
+1Ultracapacitors 8 71,491 8 114,525 8 135,637 1
+High-voltage capacitors 45,177 41,718 40,361
+1Microelectronic products 4,576 11,129 10,588 1
+Total $ 121 ,244 $ 167,372 $ 186,5 86
+Years ended December 31,
+Revenue from external customers located in (1): 2016 2015 2014
+1China 8 48,191 8 87,856 8 89,143 1
+United States 12,041 20,836 23,758
+1Germany 12,854 13,972 16,384 1
+All other countries (2) 48,158 _ 44,708 _ 57,301
+1 Total 8 121,244 8 167,372 8 186,586 1
+(1) Location is determined by shipment destination.
+(2) Revenue from external customers located in countries included in “All other countries” does not individually comprise more than 10% of total revenue for any
+of the years presented.
+Long-lived assets by geographic location are as follows (in thousands):
+As of December 31,
+2016 _ 2015 _ 2014
+1United States 8 19,267 8 22,267 8 28,013 1
+China 1,477 4,148 4,991
+1Switzerland 5,376 6,021 5,663 1
+Total $ 26,120 $ 32,436 $ 38,667
+Note 2—Balance Sheet Details (in thousands):
+Inventories, net
+December 31,
+2016 _ December 31, 2015
+1Raw materials and purchased parts 33 12,980 $ 21,126 1
+Work-in-process 858 4,367
+1Finished goods 19,492 16,941 1
+Reserves (1,082) (3,379)
+1Total inventories, net 33 32,248 $ 39,055 1
+Warranty
+Activity in the warranty reserve, which is included in “accounts payable and accrued liabilities” in the consolidated balance sheets, is as follows:
+Years Ended December 31,
+2016 _ 2015
+1Beginning balance 8 1,288 8 716 1
+Product warranties issued 486 751
+1Settlement of warranties (458) (755) 1
+Changes related to preexisting warranties (103) 576
+1Ending balance 8 1,213 8 1,288 1
+61

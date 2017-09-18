@@ -1,0 +1,45 @@
+The “Stock Awards” column in the table of outstanding equity awards at fiscal year-end 2016 are RSU awards. Each RSU
+represents the right to receive one share of TI common stock on a stated date (the “vesting date”) unless the award is terminated
+earlier under terms summarized below. In general, the vesting date is approximately four years after the grant date. Each RSU
+includes the right to receive dividend equivalents, which are paid annually in cash at a rate equal to the amount paid to
+stockholders in dividends.
+The table below shows the termination provisions of RSUs outstanding as of December 31, 2016.
+Employment Termination Employment Other Circumstances
+Employment Termination (at Least 6 Months after Grant) Termination for of Employment
+Due to Death or Permanent Disability When Retirement Eligible Cause Termination
+Vesting continues; shares For grants made after 2012: Grant cancels; no shares Grant cancels; no shares
+are paid at the scheduled Grant stays in effect and are issued are issued
+vesting date pays out shares at the
+scheduled vesting date
+These termination provisions are intended to promote retention. All RSU awards contain cancellation and clawback provisions like
+those described above for stock options. The terms provide that, to the extent permitted by Section 409A of the IRC, the award
+vests upon involuntary termination of TI employment within 24 months after a change in control. Change in control is the Plan
+definition. These cancellation, clawback and change-in-control terms are intended to conform RSU terms with those of stock
+options (to the extent permitted by the IRC) and to achieve the objectives described above in the discussion of stock options.
+In addition to the “Stock Awards” shown in the outstanding equity awards at fiscal year-end 2016 table, Mr. Templeton holds an
+award of RSUs that was granted in 1995. The award, for 120,000 shares of TI common stock, vested in 2000. Under the award
+terms, the shares will be issued to Mr. Templeton in March of the year after his termination of employment for any reason. These
+terms were designed to provide a tax benefit to the company by postponing the related compensation expense until it was likely to
+be fully deductible. In accordance with SEC requirements, this award is reflected in the 2016 non-qualified deferred compensation
+table.
+2016 option exercises and stock vested ‘
+The following table lists the number of shares acquired and the value realized as a result of option exercises by the named
+executive officers in 2016 and the value of any RSUs that vested in 2016. For option exercises, the value realized is calculated by
+multiplying the number of shares acquired by the difference between the exercise price and the market price of TI common stock
+on the exercise date. For RSUs, the value realized is calculated by multiplying the number of RSUs that vested by the market price
+of TI common stock on the vesting date.
+Option Awards Stock Awards
+Number of Number of
+Shares Acquired Value Realized Shares Acquired Value Realized
+Name on Exercise (if) on Exercise ($) on Vesting (ft) on Vesting ($)
+R. K.Templeton 934,461 $36,091,027 158,334 $ 8,095,617
+245,000 $10,069,525 50,000 $2,556,500 I_
+B.T.Crutcher 253,998 $ 6,512,588 162,500 $10,218,625 z
+K.J.Ritchie.................................... 216,748 $4,732,924 58,334 $2,982,617 E
+S.A.Anderson 240,625 $ 6,694,176 45,834 $ 2,343,492 :2
+>.
+X
+o
+n:
+n.
+TEXAS INSTRUMENTS - 2017 PROXY STATEMENT 35

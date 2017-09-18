@@ -1,0 +1,47 @@
+° NetStorage — NetStorage is a globally-distributed cloud storage solution for our customers' content that offers
+automatic geographically-dispersed replication that is designed for resiliency, high availability and real time
+performance optimization.
+Services and Support Solutions
+Akamai offers an array of Service and Support offerings that are designed to assist our customers with integrating,
+configuring, optimizing and managing our core offerings. Once customers are deployed on the network, they can rely on our
+professional services experts for customized solutions, problem resolution and 24/7 technical support. Special features available
+to enterprises that purchase our premium support solution include a dedicated technical account team, proactive service
+monitoring, custom technical support handling procedures and customized training.
+Our Technology and Network
+The Akamai Intelligent Platform leverages more than 200,000 servers deployed in approximately 1,600 networks ranging
+from large, backbone network providers to medium and small Internet service providers, or ISPs, to cable modem and satellite
+providers to universities and other networks. By deploying servers within a wide variety of networks across 131 countries, we
+are better able to manage and control routing and delivery quality to geographically diverse users. We also have thousands of
+peering relationships that provide us with direct paths to end-user networks, which reduce data loss, while also potentially
+giving us more options for delivery at reduced cost.
+To make this wide-reaching deployment effective, we use specialized technologies, such as advanced routing, load
+balancing, data collection and monitoring. Our intelligent routing software is designed to ensure that website visitors
+experience fast page loading, access to applications and content assembly wherever they are on the Internet and regardless of
+global or local traffic conditions. Dedicated professionals staff our network operations command center 24 hours a day, seven
+days a week to monitor and react to Internet traffic patterns and trends. We frequently deploy enhancements to our software
+globally to strengthen and improve the effectiveness of our network.
+Our platform offers ﬂexibility too. Customers can control the extent of their use of Akamai services to scale on demand,
+using as much or as little capacity of the global platform as they require, to support widely varying traffic and rapid growth
+without the need for expensive and complex internal infrastructure.
+Research and Development
+Our research and development personnel are continuously undertaking efforts to enhance and improve our existing
+services, strengthen our network and create new services in response to our customers' needs and market demand. As of
+December 31, 2016, we had 1,762 research and development employees. Our research and development expenses were $167.6
+million, $148.6 million and $125.3 million for the years ended December 31, 2016, 2015 and 2014, respectively. These
+amounts are net of capitalized costs related to the development of internal-use software used to deliver our services and operate
+our network. For the years ended December 31, 2016, 2015 and 2014, we capitalized $124.6 million, $105.7 million and $91.1
+million, respectively, of payroll, payroll-related and external consulting costs related to the development of internal-use
+software. Additionally, for the years ended December 31, 2016, 2015 and 2014, we capitalized $21.4 million, $16.7 million and
+$13.7 million, respectively, of stock-based compensation attributable to our research and development personnel.
+Industry Segment and Geographic Information
+We operate in one industry segment: providing cloud services for delivering, optimizing and securing content and business
+applications over the Internet. Our revenue derived from operations outside the US. was $720.0 million, $593.0 million and
+$531.9 million, for each of the years ended December 31, 2016, 2015 and 2014, respectively. This represented 31% of our total
+revenue for the year ended December 31, 2016 and 27% of our total revenue for each of the years ended December 31, 2015
+and 2014. No single country outside of the US. accounted for 10% or more of our revenue in any such year.
+Our long-lived assets include servers, which are deployed into networks worldwide, in addition to other property and
+equipment used to support our operations. As of December 31, 2016, we had approximately $297.8 million and $231.8 million
+of net property and equipment, excluding internal-use software, located in the US. and foreign locations, respectively. As of
+December 31, 2015, we had approximately $298.9 million and $227.8 million of net property and equipment, excluding
+intemal-use software, located in the US. and foreign locations, respectively.
+8

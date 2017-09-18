@@ -1,0 +1,44 @@
+In addition, Red Hat offers a portfolio of add-ons that extends the features of Red Hat Enterprise Linux.
+These add-ons, which are designed to tailor a customer’s computing environment to suit its specific
+requirements, include:
+- High Availability—provides failover services between nodes within a cluster intended to make
+applications more resistant to downtime.
+° Resilient Storage—enables a shared storage or clustered file system to access the same storage device
+over a network.
+° Network Load Balancer—provides redundancy for web servers, databases, networking and storage,
+intended to maximize throughput, decrease response time and increase reliability and uptime.
+- Smart Management—includes management and provisioning modules that allow a customer to
+provision, patch, configure and control Red Hat Enterprise Linux development, test and production
+systems.
+- Extended Lifecycle Support—provides software maintenance and support after Red Hat’s published end
+of life date for certain versions of Red Hat Enterprise Linux.
+° Extended Update Support—extends the software maintenance and support period of certain eligible Red
+Hat Enterprise Linux subscriptions for up to 24 months to give customers more ﬂexibility with their
+resource and deployment cycles.
+° Red Hat Insights—provides a hosted service that is designed to help customers proactively identify and
+resolve technical issues in their Red Hat Enterprise Linux and Red Hat Cloud Infrastructure
+environments.
+We believe that these add-ons provide customers with increased features, ﬂexibility and choice.
+Red Hat Satellite. Red Hat Satellite is a system management offering that is designed to make Red Hat
+infrastructure easier to deploy, scale and manage across physical and virtual servers, as well as on public and
+private clouds. Red Hat Satellite provides broad capabilities for systems provisioning, configuration
+management, content management and subscription management.
+Red Hat Enterprise Virtualization. Red Hat Enterprise Virtualization includes standalone Virtualization
+functionality and management tools for both server and desktop deployments. Virtualization allows a single
+computer system to function as multiple virtual systems by abstracting operating systems and application
+software from the underlying hardware infrastructure, thereby allowing customers to use a common hardware
+infrastructure to run multiple operating systems and applications. Virtualization is intended to enhance the capital
+and operational efficiencies of enterprises by increasing server utilization and deployment ﬂexibility.
+Red Hat Enterprise Virtualization combines the Kernel-based Virtual Machine (KVM) hypervisor included
+in the Linux kernel with the oVirt open source Virtualization management system to offer customers a platform
+for large-scale Virtualization initiatives and cloud deployments. Red Hat Enterprise Virtualization is designed to
+support virtual machines running Red Hat Enterprise Linux and its wide ecosystem of certified hardware systems
+and software applications, as well as Microsoft Windows operating systems and application servers supported
+under Microsoft Windows Server Virtualization Validation Program (SVVP).
+Application Development-related and other emerging technology offerings
+Red Hat JBoss Middleware. Red Hat JBoss Middleware is a suite of offerings for developing, deploying and
+managing applications, integrating applications, data and devices, and automating business processes across
+physical, virtual, cloud and mobile environments. Red Hat JBoss Middleware offerings can also be deployed on
+OpenShift by Red Hat to provide middleware functionality as a service. Middleware generally refers to the
+software that enables the development, operation and integration of applications and other software. Red Hat
+11

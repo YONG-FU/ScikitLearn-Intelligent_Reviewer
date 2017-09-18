@@ -1,0 +1,53 @@
+KIMCO REALTY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, continued
+Stock Compensation
+The Company maintains two equity participation plans, the Second Amended and Restated 1998 Equity Participation Plan (the
+“Prior Plan”) and the 2010 Equity Participation Plan (the “2010 Plan”) (collectively, the “Plans”). The Prior Plan provides for a
+maximum of 47,000,000 shares of the Company’s common stock to be issued for qualified and non-qualified stock options and
+restricted stock grants. Effective May 1, 2012, the 2010 Plan provides for a maximum of 10,000,000 shares of the Company’s
+common stock to be issued for qualified and non-qualified stock options and other awards, plus the number of shares of common
+stock which are or become available for issuance under the Prior Plan and which are not thereafter issued under the Prior Plan,
+subject to certain conditions. Unless otherwise determined by the Board of Directors at its sole discretion, stock options granted
+under the Plans generally vest ratably over a range of three to five years, expire ten years from the date of grant and are exercisable
+at the market price on the date of grant. Restricted stock grants generally vest (i) 100% on the fourth or fifth anniversary of the
+grant, (ii) ratably over three, four and five years or (iii) over ten years at 20% per year commencing after the fifth year.
+Performance share awards, which vest over a period of one to three years, may provide a right to receive shares of the Company’s
+common stock or restricted stock based on the Company’s performance relative to its peers, as defined, or based on other
+performance criteria as determined by the Board of Directors. In addition, the Plans provide for the granting of certain stock
+options and restricted stock to each of the Company’s non-employee directors (the “Independent Directors”) and permit such
+Independent Directors to elect to receive deferred stock awards in lieu of directors’ fees.
+The Company accounts for equity awards in accordance with the FASB’s Stock Compensation guidance which requires that all
+share based payments to employees, be recognized in the Statement of Income over the service period based on their fair values.
+Fair value is determined, depending on the type of award, using either the Black-Scholes option pricing formula or the Monte
+Carlo method, both of which are intended to estimate the fair value of the awards at the grant date (see Footnote 21 of the Notes
+to Consolidated Financial Statements for additional disclosure on the assumptions and methodology).
+New Accounting Pronouncements
+In January 2017, the FASB issued ASU 2017—01, Business Combinations (Topic 805): Clarifying the Definition of a Business
+(“ASU 2017—01”). The update clarifies the definition of a business with the objective of adding guidance to assist entities with
+evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. The definition of a
+business affects many areas of accounting including acquisitions, disposals, goodwill, and consolidation. The standard is
+effective for annual reporting periods beginning after December 15, 2017, including interim periods within those fiscal years,
+with early application of the guidance permitted. The Company has elected to early adopt ASU 2017—01 at the beginning of its
+fiscal year ended December 31, 2017, including its interim periods within the year, and appropriately apply the guidance to its
+prospective asset acquisitions of operating properties. Under this amendment, the Company’s prospective operating property
+acquisitions will qualify for asset acquisition treatment under ASC 360, Property, Plant, and Equipment, rather than business
+combination treatment under ASC 805 Business Combinations, and will result in capitalization of asset acquisition costs instead
+of directly expensing these costs.
+In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts
+and Cash Payments, a consensus of the FASB’s Emerging Issues Task Force (“ASU 2016-15”). The new guidance addresses
+eight specific cash ﬂow issues with the objective of reducing the existing diversity in practice. One identified cash ﬂow issue
+relates to distributions received from equity method investees whereby the reporting entity should make an accounting policy
+election to classify distributions received from equity method investees using either the cumulative earnings approach or the
+nature of the distribution approach. Another issue relates to the classification of cash payments for debt prepayment or debt
+extinguishment costs. The standard is retrospectively effective for public companies on January 1, 2018, with early adoption
+permitted. The Company elected to early adopt ASU 2016-15 beginning in its quarter ended September 30, 2016. In connection
+with the adoption of ASU 2016-15, the Company made a policy election to classify distributions received from equity method
+investees using the cumulative earnings approach. This election did not have a material impact on the presentation in the
+Company’s Consolidated Statements of Cash Flows. During the quarter ended September 30, 2016, the Company incurred early
+extinguishment of debt charges and in accordance with the adoption of ASU 2016-15 has included these charges in cash ﬂows
+used for financing activities on the Company’s Consolidated Statements of Cash Flows. The adoption of the remaining cash ﬂow
+issues addressed in ASU 2016-15 did not have a material impact on the Company’s Consolidated Statements of Cash Flows.
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments — Credit Losses (Topic 326): Measurement of Credit Losses
+on Financial Instruments (“ASU 2016-13”). The new guidance introduces a new model for estimating credit losses for certain
+types of financial instruments, including loans receivable, held-to-maturity debt securities, and net investments in direct financing
+56

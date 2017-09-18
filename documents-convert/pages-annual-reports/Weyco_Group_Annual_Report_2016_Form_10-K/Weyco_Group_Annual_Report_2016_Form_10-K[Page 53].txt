@@ -1,0 +1,48 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+11. EMPLOYEE RETIREMENT PLANS — (continued)
+freeze was a reduction of the projected benefit obligation (“PBO”) to the amount of the plans’
+accumulated benefit obligations. The decrease in the PBO reduced the unrecognized net actuarial loss
+of the plan, which is reported on an after-tax basis in accumulated other comprehensive loss within the
+Consolidated Balance Sheets. No curtailment gain was recognized in earnings. These plan changes will
+reduce the service and interest cost of the plan for periods subsequent to the curtailment.
+As noted above, the accumulated benefit obligations for the defined benefit pension plan and the
+supplemental pension plan were equal to the respective plans’ projected benefit obligations as of
+December 31, 2016, due to the pension plan curtailment. As of December 31, 2015, the accumulated
+benefit obligations for the defined benefit pension plan and the supplemental pension plan were
+$43.7 million and $14.2 million, respectively.
+Assumptions used in determining net periodic pension cost for the years ended December 31,
+2016, 2015 and 2014 were:
+Defined Benefit Pension Plan Supplemental Pension Plan
+2016 2015 2014 2016 2015 2014
+Discount rate for determining
+projected benefit obligation . . . . . 4.60% 4.17% 5.03% 4.67% 4.17% 5.03%
+Discount rate in effect for
+determining service cost . . . . . . . 4.81% 4.17% 5.03% 4.84% 4.17% 5.03%
+Discount rate in effect for
+determining interest cost . . . . . . 3.93% 4.17% 5.03% 4.18% 4.17% 5.03%
+Rate of compensation increase . . . 4.00% 4.00% 4.00% 4.00% 4.00% 4.00%
+Long-term rate of return on plan
+assets.................... 7.50% 7.50% 7.50% — — —
+Effective January 1, 2016, the Company adopted the spot-rate approach to determine the
+interest cost component of pension expense. Under the spot-rate approach, the interest cost is
+calculated by applying interest to the discounted cash flow expected at each payment date. The
+interest is determined using the same spot rate along the yield curve that was used to determine the
+present value of the associated payment. Prior to 2016, the Company used a single
+weighted-average rate in the determination of pension expense.
+The Company considered the adoption of the spot rate approach a change in accounting
+estimate and recognized the effects of the change on a prospective basis. The effects of adopting the
+spot rate approach reduced net pension expense by approximately $522,000 in 2016, primarily due
+to a reduction in interest cost.
+The components of net pension expense for the years ended December 31, 2016, 2015 and
+2014, were:
+2016 2015 2014
+(Dollars in thousands)
+Benefits earned during the period . . . . . . . . . . . . . $ 1,638 $ 1,636 $ 1,263
+Interest cost on projected benefit obligation“) . . . . 2,449 2,665 2,586
+Expected return on plan assets . . . . . . . . . . . . . . (2,430) (2,364) (2,343)
+Net amortization and deferral . . . . . . . . . . . . . . . . 1,527 1,762 706
+Net pension expense .................... $ 3,184 $ 3,699 $ 2,212
+(1) The decrease in interest cost in 2016 was primarily due to the adoption of the spot-rate
+approach, as described above.
+49

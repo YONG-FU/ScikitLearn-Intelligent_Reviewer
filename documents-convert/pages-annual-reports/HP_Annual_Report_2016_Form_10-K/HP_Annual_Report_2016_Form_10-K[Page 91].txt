@@ -1,0 +1,50 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 7: Taxes on Earnings (Continued)
+In fiscal year 2015, HP recorded $1.2 billion of net income tax benefits related to items unique to the year. These amounts
+included $1.7 billion of tax benefits due to a release of valuation allowances pertaining to certain U.S. deferred tax assets, $449
+million of tax charges related to uncertain tax positions on pension transfers, $70 million of tax benefits related to state tax
+impacts, and $6 million of income tax charges related to various other items. In addition, HP recorded $33 million of income
+tax charges on restructuring and pension-related costs.
+In fiscal year 2014, HP recorded $69 million of net income tax benefits related to items unique to the year. These amounts
+included $37 million of income tax benefits related to provision to return adjustments, $25 million of income tax charges
+related to state rate changes, $41 million of income tax beneﬁts for adjustments related to uncertain tax positions, and $16
+million of income tax benefits related to other items.
+As a result of certain employment actions and capital investments HP has undertaken, income from manufacturing and
+services in certain countries is subject to reduced tax rates, and in some cases is wholly exempt from taxes, through 2027. The
+gross income tax benefits attributable to these actions and investments were estimated to be $341 million ($0.20 diluted net
+EPS) in fiscal year 2016, $322 million ($0.18 diluted net EPS) in fiscal year 2015 and $596 million ($0.31 diluted net EPS) in
+fiscal year 2014. The gross income tax benefits were offset partially by accruals of US. income taxes on undistributed earnings,
+among other factors.
+Uncertain Tax Positions
+A reconciliation of unrecognized tax benefits is as follows:
+As of October 31
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 In millions 7 7 7
+IBalance at beginning of year $ 6,546 $ 1,545 $ 1,284 I
+Increases:
+I For current year’s tax positions 468 2,102 166 I
+For prior years’ tax positions 4,004 5,208 323
+I Decreases: I
+For prior years’ tax positions (62) (2,063) (1 13)
+I Statute of limitations expirations — (46) (41):
+Settlements with taxing authorities (98) (200) (74)
+Balance at end of year 77$ 10,858 i 77$ 6,546 i 77$ 1,545 i
+As of October 31, 2016, the amount of unrecognized tax benefits was $10.9 billion, of which up to $3.9 billion would
+affect HP’s eﬁective tax rate if realized. As of October 31, 2015 the amount of unrecognized tax benefits was $6.5 billion of
+which up to $3.2 billion would affect HP ’s effective tax rate if realized. HP continues to record its tax liabilities related to
+uncertain tax positions and certain liabilities for which it has joint and several liability with Hewlett Packard Enterprise. During
+the twelve months ended October 31, 2016, as part of the Separation, HP distributed $732 million of liabilities related solely to
+uncertain tax positions associated with Hewlett Packard Enterprise. HP recognizes interest income from favorable settlements
+and interest expense and penalties accrued on unrecognized tax benefits in the provision for taxes in the Consolidated
+Statements of Earnings. As of October 31, 2016, HP had accrued $193 million for interest and penalties.
+HP engages in continuous discussion and negotiation with taxing authorities regarding tax matters in various jurisdictions.
+HP expects to complete resolution of certain tax years with various tax authorities within the next 12 months. It is also possible
+that other federal, foreign and state tax issues may be concluded within the next 12 months. HP believes it is reasonably
+possible that its existing unrecognized tax benefits may be reduced by an amount up to $2.5 billion within the next 12 months.
+HP is subject to income tax in the United States and approximately 58 other countries and is subject to routine corporate
+income tax audits in many of these jurisdictions. In addition, HP is subject to numerous ongoing audits by federal, state and
+foreign tax authorities. The IRS is conducting an audit of HP’s 2009, 2010, 2011, 2012, 2013 and 2014 income tax returns. HP
+has received from the IRS Notices of Deficiency for its fiscal 1999, 2000, 2003, 2004 and 2005 tax years, and Revenue Agent
+91

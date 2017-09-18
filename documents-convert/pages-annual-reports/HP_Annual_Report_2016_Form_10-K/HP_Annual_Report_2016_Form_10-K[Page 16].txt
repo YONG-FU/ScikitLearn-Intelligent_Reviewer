@@ -1,0 +1,59 @@
+Table of contents
+° Component shortages. We may experience a shortage of, or a delay in receiving, certain components as a result
+of strong demand, capacity constraints, supplier financial weaknesses, the inability of suppliers to borrow funds in
+the credit markets, disputes with suppliers (some of whom are also our customers), disruptions in the operations
+of component suppliers, other problems experienced by suppliers or problems faced during the transition to new
+suppliers. For example, our PC business relies heavily upon OMS to manufacture its products and is therefore
+dependent upon the continuing operations of those OMS to fulfill demand for our PC products. We represent a
+substantial portion of the business of some of these OMS, and any changes to the nature or volume of our business
+transactions with a particular OM could adversely affect the operations and financial condition of the OM and
+lead to shortages or delays in receiving products from that OM. If shortages or delays persist, the price of certain
+components may increase, we may be exposed to quality issues or the components may not be available at all. We
+may not be able to secure enough components at reasonable prices or of acceptable quality to build products or
+provide services in a timely manner in the quantities needed or according to our specifications. Accordingly, our
+business and financial performance could suffer if we lose time-sensitive saleS, incur additional freight costs or
+are unable to pass on price increases to our customers. If we cannot adequately address supply issues, we might
+have to reengineer some product or service oﬁerings, which could result in further costs and delays.
+- Excess supply. In order to secure components for our products or services, at times we may make advance
+payments to suppliers or enter into non-cancelable commitments with vendors. In addition, we may purchase
+components strategically in advance of demand to take advantage of favorable pricing or to address concerns
+about the availability of future components. If we fail to anticipate customer demand properly, a temporary
+oversupply could result in excess or obsolete components, which could adversely affect our business and financial
+performance.
+° Contractual terms. AS a result of binding long-term price or purchase commitments with vendors, we may be
+obligated to purchase components or services at prices that are higher than those available in the current market
+and be limited in our ability to respond to changing market conditions. If we commit to purchasing components or
+services for prices in excess of the then-current market price, we may be at a disadvantage to competitors who
+have access to components or services at lower prices, our gross margin could suffer, and we could incur
+additional charges relating to inventory obsolescence. In addition, many of our competitors obtain products or
+components from the same OMS and suppliers that we utilize. Our competitors may obtain better pricing, more
+favorable contractual terms and conditions, and more favorable allocations of products and components during
+periods of limited supply, and our ability to engage in relationships with certain OMS and suppliers could be
+limited. The practice employed by our PC business of purchasing product components and transferring those
+components to its OMS may create large supplier receivables with the OMs that, depending on the financial
+condition of the OMS, may create collectability risks. In addition, certain of our OMs and suppliers may decide to
+discontinue conducting business with us. Any of these developments could adversely affect our future results of
+operations and financial condition.
+° Contingent workers. We also rely on third-party suppliers for the provision of contingent workers, and our failure
+to manage our use of such workers effectively could adversely affect our results of operations. We have been
+exposed to various legal claims relating to the status of contingent workers in the past and could face similar
+claims in the future. We may be subject to Shortages, oversupply or fixed contractual terms relating to contingent
+workers. Our ability to manage the Size of, and costs associated with, the contingent workforce may be subject to
+additional constraints imposed by local laws.
+- Single-source suppliers. We obtain a Significant number of components from Single sources due to technology,
+availability, price, quality or other considerations. For example, we rely on Canon for certain laser printer engines
+and laser toner cartridges. We also rely on Intel to provide us with a sufficient supply of processors for many of
+our PCS and workstations, and we rely on AMD to provide us with a sufficient supply of processors for other
+products. Some of those processors are customized for our products. New products that we introduce may utilize
+custom components obtained from only one source initially until we have evaluated whether there iS a need for
+additional suppliers. Replacing a single-source supplier could delay production of some products as replacement
+suppliers may be subject to capacity constraints or other output limitations. For some components, such as
+customized components and some of the processors that we obtain from Intel, or the laser printer engines and
+toner cartridges that we obtain from Canon, alternative sources either may not exist or may be unable to produce
+the quantities of those components necessary to satisfy our production requirements. In addition, we sometimes
+purchase components from Single-source suppliers under short-term agreements that contain favorable pricing and
+other terms but that may be unilaterally modified or terminated by the supplier with limited notice and with little
+or no penalty. The performance of such single-source suppliers under those agreements (and the renewal or
+extension of those agreements upon Similar terms) may affect the quality, quantity and price of our components.
+The loss of a single-source supplier, the deterioration of our relationship with a single-source supplier, or any
+16

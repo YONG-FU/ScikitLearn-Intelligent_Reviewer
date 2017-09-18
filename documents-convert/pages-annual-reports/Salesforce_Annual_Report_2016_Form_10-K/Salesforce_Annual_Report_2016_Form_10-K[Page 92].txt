@@ -1,0 +1,43 @@
+Intangible assets are amortized over their useful lives. Each period the Company evaluates the estimated
+remaining useful life of its intangible assets and whether events or changes in circumstances warrant a revision to
+the remaining period of amortization. The carrying amounts of these assets are periodically reviewed for
+impairment whenever events or changes in circumstances indicate that the carrying value of these assets may not
+be recoverable. Recoverability of these assets is measured by comparison of the carrying amount of each asset to
+the future undiscounted cash ﬂows the asset is expected to generate. If the undiscounted cash ﬂows used in the
+test for recoverability are less than the carrying amount of these assets, then the carrying amount of such assets is
+reduced to fair value.
+Long- Lived Assets and Impairment Assessment
+The Company evaluates long-lived assets for possible impairment whenever events or circumstances
+indicate that the carrying amount of such assets may not be recoverable. This includes but is not limited to
+significant adverse changes in business climate, market conditions, or other events that indicate an asset’s
+carrying amount may not be recoverable. If such review indicates that the carrying amount of long-lived assets is
+not recoverable, the carrying amount of such assets is reduced to fair value. There was no impairment of long-
+lived assets during fiscal 2016, 2015 or 2014.
+Business Combinations
+The Company uses its best estimates and assumptions to accurately assign fair value to the tangible and
+intangible assets acquired and liabilities assumed at the acquisition date. The Company’s estimates are inherently
+uncertain and subject to refinement. During the measurement period, which may be up to one year from the
+acquisition date, the Company may record adjustments to the fair value of these tangible and intangible assets
+acquired and liabilities assumed, with the corresponding offset to goodwill. In addition, uncertain tax positions
+and tax-related valuation allowances are initially established in connection with a business combination as of the
+acquisition date. The Company continues to collect information and reevaluates these estimates and assumptions
+quarterly and records any adjustments to the Company’s preliminary estimates to goodwill provided that the
+Company is within the measurement period. Upon the conclusion of the measurement period or ﬁnal
+determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent
+adjustments are recorded to the Company’s consolidated statements of operations.
+Leases and Asset Retirement Obligations
+The Company categorizes leases at their inception as either operating or capital leases. In certain lease
+agreements, the Company may receive rent holidays and other incentives. The Company recognizes lease costs
+on a straight-line basis once control of the space is achieved, without regard to deferred payment terms such as
+rent holidays that defer the commencement date of required payments. Additionally, incentives received are
+treated as a reduction of costs over the term of the agreement.
+The Company establishes assets and liabilities for the present value of estimated future costs to retire long-
+lived assets at the termination or expiration of a lease. Such assets are depreciated over the lease period into
+operating expense, and the recorded liabilities are accreted to the future value of the estimated retirement costs.
+The Company records assets and liabilities for the estimated construction costs incurred under build-to-suit
+lease arrangements to the extent it is involved in the construction of structural improvements or takes
+construction risk prior to commencement of a lease.
+Accounting for Stock-Based Expense
+The Company recognizes stock-based expenses related to stock options and restricted stock awards on a
+straight-line basis over the requisite service period of the awards, which is generally the vesting term of four
+85

@@ -1,0 +1,44 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Directors in its oversight of our ﬁnancial and risk management strategies. Arisk management control framework is utilized to monitor the strategies, risks and
+related hedge positions in accordance with the policies and procedures approved by the Financial Risk Council. Our ﬁnancial risk management policy is
+designed to protect against risk arising from extreme adverse market movements on our key exposures.
+The following analyses provide quantitative information regarding exposure to foreign currency exchange rate risk and interest rate risk. Sensitivity
+analysis is used to measure the potential loss in the fair value of ﬁnancial instruments with exposure to market risk. The models used assume instantaneous,
+parallel shifts in exchange rates and interest rate yield curves. For options and other instruments with nonlinear returns, models appropriate to these types of
+instruments are utilized to determine the effect of market shifts. There are certain shortcomings inherent in the sensitivity analyses presented, due primarily to
+the assumption that interest rates change in a parallel fashion and that spot exchange rates change instantaneously. In addition the analyses are unable to
+reﬂect the complex market reactions that normally would arise from the market shifts modeled and do not contemplate the effects of correlations between
+foreign currency pairs or offsetting long-short positions in currency pairs which may signiﬁcantly reduce the potential loss in value.
+Foreign Currency Exchange Rate Risk We have foreign currency exposures related to buying, selling and ﬁnancing in currencies other than the
+functional currencies of our operations. At December 31, 2016 our most signiﬁcant foreign currency exposures were the Euro/British Pound, U.S.
+Dollar/Canadian Dollar, Euro/US. Dollar, US. Dollar/Mexican Peso, Euro/South Korean Won and US. Dollar/South Korean Won. Derivative instruments
+such as foreign currency forwards, swaps and options are used primarily to hedge exposures with respect to forecasted revenues, costs and commitments
+denominated in foreign currencies. At December 31, 2016 such contracts had remaining maturities of up to 12 months.
+At December 31, 2016 and 2015 the net fair value liability of ﬁnancial instruments with exposure to foreign currency risk was $1.0 billion and $0.8 billion.
+These amounts are calculated utilizing a population of foreign currency exchange derivatives, embedded derivatives and foreign currency denominated debt
+and exclude the offsetting effect of foreign currency cash, cash equivalents and other assets. The potential loss in fair value for such ﬁnancial instruments
+from a 10% adverse change in all quoted foreign currency exchange rates would have been $0.2 billion and $0.3 billion at December 31, 2016 and 2015.
+We are exposed to foreign currency risk due to the translation and remeasurement of the results of certain international operations into U.S. Dollars as part
+of the consolidation process. Fluctuations in foreign currency exchange rates can therefore create volatility in the results of operations and may adversely
+affect our ﬁnancial condition.
+The following table summarizes the amounts of automotive foreign currency translation and transaction and remeasurement losses:
+Years Ended December 31,
+2016 2015
+I . . . ‘
+lTranslatlon losses recorded 1n Accumulated other comprehenswe loss $ 176 $ 302 1
+Transaction and remeasurement losses recorded in earnings $ 345 $ 813
+Interest Rate Risk We are subject to market risk from exposure to changes in interest rates related to certain ﬁnancial instruments, primarily debt, capital
+lease obligations and certain marketable securities. At December 31, 2016 and 2015 we did not have any interest rate swap positions to manage interest rate
+exposures in our automotive operations. At December 31, 2016 and 2015 the fair value liability of debt and capital leases was $11.6 billion and $9.1 billion.
+The potential increase in fair value resulting from a 10% decrease in quoted interest rates would have been $0.5 billion and $0.4 billion at December 31,
+2016 and 2015.
+At December 31, 2016 and 2015 we had marketable securities of $1 1.8 billion and $7.6 billion classiﬁed as available-for—sale and an insigniﬁcant amount
+and $0.6 billion classiﬁed as trading. The potential decrease in fair value from a 50 basis point increase in interest rates would have had an insigniﬁcant
+effect at December 31, 2016 and 2015.
+Automotive Financing - GM Financial
+Interest Rate Risk Fluctuations in market interest rates can affect GM Financial's gross interest rate spread, which is the difference between interest earned
+on ﬁnance receivables and interest paid on debt. Typically retail ﬁnance receivables purchased by GM Financial bear ﬁxed interest rates and are funded by
+variable or ﬁxed rate debt. Commercial ﬁnance receivables originated by GM Financial bear variable interest rates and are funded by variable rate debt. The
+variable rate debt is subject to adjustments to reﬂect
+41

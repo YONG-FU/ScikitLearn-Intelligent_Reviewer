@@ -1,0 +1,51 @@
+Critical Accounting Policies
+The Company’s accounting policies are more fully described in Note 2 of the Notes to
+Consolidated Financial Statements. As disclosed in Note 2, the preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions about future events that affect the amounts
+reported in the consolidated financial statements and accompanying notes. Future events and their
+effects cannot be determined with absolute certainty. Therefore, the determination of estimates
+requires the exercise of judgment. Actual results inevitably will differ from those estimates, and such
+differences may be material to the consolidated financial statements. The following policies are
+considered by management to be the most critical in understanding the significant accounting
+estimates inherent in the preparation of the Company’s consolidated financial statements and the
+uncertainties that could impact the Company’s results of operations, financial position and cash flows.
+Sales Returns, Sales Allowances and Doubtful Accounts
+The Company records reserves and allowances (“reserves”) for sales returns, sales allowances
+and discounts, cooperative advertising, and accounts receivable balances that it believes will
+ultimately not be collected. The reserves are based on such factors as specific customer situations,
+historical experience, a review of the current aging status of customer receivables and current and
+expected economic conditions. The reserve for doubtful accounts includes a specific reserve for
+accounts identified as potentially uncollectible, plus an additional reserve for the balance of accounts,
+determined based on historical trends. The Company evaluates the reserves and the estimation
+process and makes adjustments when appropriate. Historically, actual write-offs against the reserves
+have been within the Company’s expectations. Changes in these reserves may be required if actual
+returns, discounts and bad debt activity varies from the original estimates. These changes could
+impact the Company’s results of operations, financial position and cash flows.
+Pension Plan Accounting
+The Company’s pension expense and corresponding obligation are determined on an actuarial
+basis and require certain actuarial assumptions. Management believes the two most critical of these
+assumptions are the discount rate and the expected rate of return on plan assets. The Company
+evaluates its actuarial assumptions annually on the measurement date (December 31) and makes
+modifications based on such factors as market interest rates and historical asset performance.
+Changes in these assumptions can result in different expense and liability amounts, and future actual
+experience can differ from these assumptions.
+Discount Rate— Pension expense and projected benefit obligation both increase as the
+discount rate is reduced. See Note 11 of the Notes to Consolidated Financial Statements for
+discount rates used in determining the net pension expense for the years ended December 31,
+2016, 2015 and 2014 and the funded status of the plans at December 31, 2016 and 2015.
+Effective January 1, 2016, the Company adopted the spot-rate approach to determine the
+interest cost component of pension expense. Under the spot-rate approach, the interest cost is
+calculated by applying interest to the discounted cash flow expected at each payment date. The
+interest is determined using the same spot rate along the yield curve that was used to determine
+the present value of the associated payment. Prior to 2016, the Company the Company utilized
+the cash flow matching method, which discounted each year’s projected cash flows at the
+associated spot interest rate back to the measurement date. A 0.5% decrease in the discount
+rate would increase annual pension expense and the projected benefit obligation by
+approximately $32,000 and $3.9 million, respectively.
+The Company considered the adoption of the spot rate approach a change in accounting
+estimate and recognized the effects of the change on a prospective basis. The effects of
+adopting the spot rate approach reduced net pension expense by approximately $522,000
+($318,000 after tax, or $0.03 per diluted share) in 2016, primarily due to a reduction in interest
+cost
+22

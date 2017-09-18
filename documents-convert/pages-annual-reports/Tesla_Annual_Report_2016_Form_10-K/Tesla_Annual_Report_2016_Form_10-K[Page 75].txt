@@ -1,0 +1,49 @@
+Recent Accounting Pronouncements
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2014-09,
+Revenue from Contracts with Customers (Topic 606), which amends the existing accounting standards for revenue recognition. The
+new guidance provides a new model to determine when and over what period revenue is recognized. Under this new model, revenue is
+recognized as goods or services are delivered in an amount that reﬂects the consideration we expect to collect. In March 2016, the
+FASB issued an ASU, Revenue from Contracts with Customers: Principal versus Agent Considerations (Reporting Revenue Gross
+versus Net), which clarifies the principal versus agent guidance in the new revenue recognition standard. In April 2016, the FASB
+issued another ASU, Revenue ﬁom Contracts with Customers: Identifying Performance Obligations and Licensing, which clarifies the
+guidance on accounting for licenses of intellectual property and identifying performance obligations in the new revenue recognition
+standard. In May 2016, the FASB issued another ASU, Revenue ﬁom Contracts with Customers: Narrow-Scope Improvements and
+Practical Expedient, which clarifies the transition, collectability, noncash consideration and the presentation of sales and other similar
+taxes in the new revenue recognition standard. The guidance is effective for fiscal years beginning after December 15, 2017; early
+adoption is permitted for periods beginning after December 15 , 2016. The new standard is required to be applied retrospectively to
+each prior reporting period presented or retrospectively with the cumulative effect of initially applying it recognized at the date of
+initial application. We have not yet selected a transition method and are evaluating the impact of adopting this guidance.
+In August 2014, the FASB issued ASU No. 2014-15, Presentation of Financial Statements — Going Concern: Disclosure of
+Uncertainties about an Entity ’s Ability to Continue as a Going Concern (“ASU 2014-15”). ASU 2014-15 requires management to
+evaluate whether there is substantial doubt about the entity’s ability to continue as a going concern and, if so, provide certain footnote
+disclosures. ASU 2014-15 is effective for annual periods ending after December 15, 2016, including interim reporting periods
+thereafter. We adopted ASU 2014-15 as of December 31, 2016, but it did not impact our consolidated financial statements.
+In April 2015, the FASB issued an ASU on simplifying the presentation of debt issuance costs, which requires that debt issuance
+costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt
+liability, consistent with debt discounts. We have retrospectively adopted the ASU as of March 31, 2016, and as a result, on our
+December 31, 2015 Consolidated Balance Sheet, we reclassiﬁed $9.6 million as a reduction in prepaid expenses and other current
+assets, along with $15.0 million reduction in other assets, with a corresponding reduction in the aggregate carrying value of our long-
+term debt liabilities. Similarly, as a result of the change in carrying value of long term debt, $5.2 million was reclassified out of
+additional paid in capital and into mezzanine equity on our December 31, 2015 Consolidated Balance Sheet.
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842). The ASU is effective for reporting periods
+beginning after December 15, 2018 and early adoption is permitted. The ASU will require lessees to report most leases as assets and
+liabilities on the balance sheet, while lessor accounting will remain substantially unchanged. The ASU requires a modified
+retrospective transition approach for existing leases, whereby the new rules will be applied to the earliest year presented. We are
+currently evaluating the potential impact of adopting the ASU on our consolidated ﬁnancial statements.
+In March 2016, the F ASB issued ASU No. 2016-09, Compensation — Stock Compensation (Topic 718): Improvements to
+Employee Share-Based PaymentAccounting (“ASU 2016-09”). ASU 2016-09 simpliﬁes several aspects of the accounting for share-
+based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and
+classification on the statement of cash ﬂows. ASU 2016-09 will become effective for us beginning with the first quarter of 2017. Upon
+adoption of the ASU, we plan to account for forfeitures as incurred. The adoption of this guidance is not expected to have a material
+impact on our consolidated financial statements. See Note 16, Income taxes, for additional information regarding the impact of the
+adoption of this guidance.
+In August 2016, the FASB issued ASU No. 2016-15, Statement of Cash Flows: Classiﬁcation of Certain Cash Receipts and
+Cash Payments (Topic 230). The ASU addresses the following eight speciﬁc cash ﬂow issues: debt prepayment or debt
+extinguishment costs; settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are
+insignificant in relation to the effective interest rate of the borrowing; contingent consideration payments made after a business
+combination; proceeds from the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance
+policies (including bank-owned life insurance policies); distributions received from equity method investees; beneficial interests in
+securitization transactions; and separately identiﬁable cash ﬂows and application of the predominance principle. The ASU is effective
+for fiscal years, and interim periods within those fiscal years, beginning after December 15 , 2017, with early adoption permitted. We
+are currently evaluating the potential impact of adopting the ASU on our consolidated financial statements.
+72

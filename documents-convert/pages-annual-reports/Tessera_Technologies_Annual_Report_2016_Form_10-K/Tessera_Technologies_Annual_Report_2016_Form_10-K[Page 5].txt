@@ -1,0 +1,42 @@
+Table of Contents
+Tessera, Inc's research and development led to significant innovations in semiconductor packaging technology. Semiconductor packaging creates the mechanical
+and electrical connection between semiconductor chips and systems such as computers and communication equipment, often via connection to printed circuit
+boards. We patented these innovations, often referred to as chip-scale packaging, which were widely adopted in the electronics industry. The wave of adoption was
+initially led by Intel Corporation, and over time, many semiconductor companies and outsourced assembly and test companies adopted the technology and entered
+into license agreements with Tessera, Inc.
+Invensas Corporation, founded in 2011, is a wholly owned subsidiary of Tessera Technologies, Inc. that develops novel semiconductor packaging and interconnect
+technologies for memory, mobile, computing and smart object applications. For these applications, Invensas innovates in three primary areas: (i) DRAM and Flash
+memory, (ii) mobile processors, and (iii) 3D-IC assemblies. Invensas engineering teams develop and prototype these technologies in extensive assembly and test
+laboratories, as well as performing full product reliability testing and acceptance testing. By building collaborative partnerships with world-class manufacturing
+companies and high-volume equipment and materials suppliers, Invensas then licenses these technology solutions to original equipment manufacturers ("OEMs"),
+original design manufacturers ("ODMs"), integrated device manufacturers ("IDMs"), and outsourced assembly and test (OSATs) providers, and supports the
+technology transfer at the customer-designated sites.
+Within each of these three Invensas sub-portfolios (memory, mobile, and 3D-IC), Invensas has created specific product solutions that address critical needs in the
+market. For example, Invensas innovates in the 3D-IC space. 3D-IC, which includes Through-Silicon Vias, is widely expected to be the next major inﬂection in
+semiconductor packaging and is applicable to multiple markets, including networking, data storage, computing and mobility. In August of 2015, we augmented our
+3D-IC portfolio with the acquisition of Ziptronix, Inc., a leading developer of emerging low temperature wafer bonding technologies, which are targeted at the
+image sensors, DRAM, MEMS, RF and 2.5D logic markets. BVA (Bond Via Array), one of the Invensas mobile packaging solutions, addresses the need for small
+form factor, high bandwidth, low power and low cost in mobile devices, and Invensas with its partners is working to complete technology qualification to support
+mass adoption. Finally, xFD, an Invensas multi-chip DRAM technology, was designed to provide some of the benefits of 3D-IC DRAM by connecting multiple
+single-chip DRAMs, and it has gained interest with OEMs and DRAM manufacturers.
+F otoNation Limited, which is comprised of world-class image scientists as well as software and hardware engineers,
+continues to innovate in product and system-level imaging technologies. F otoNation licenses its software solutions and technologies for mobile imaging, including
+the following solutions:
+0 F aceTools provides face-oriented imaging technology such as face detection and tracking, smile and blink detection, red-eye removal, face recognition,
+and face beautiﬁcation. Implementing these algorithms using our hardware acceleration technology results in enhanced performance for both video and
+still images and sharply reduced power requirements.
+0 Face beautiﬁcation enables users to enhance portraits (still and video) automatically with features such as skin toning, face slimming, eye brightening, and
+teeth whitening.
+- F otoSavvy is a solution that assists and guides smartphone camera users who are untrained in photography to produce professional-quality, DSLR-like
+pictures from the camera-phone.
+- F acePower enables the camera of a smartphone to act as a low-power sensor, reducing battery power consumption in the sensor by processing the images
+using s0phisticated, computational analysis. It saves additional power by switching on only when a user looks at the screen. In addition, high-dynamic
+range (HDR) capabilities enable users to capture quality images across a wide range of lighting conditions, including bright lights or sunshine.
+- Panorama enables users to create panoramic images easily and automatically in a single step without need for a PC or editing software.
+0 Image stabilization corrects for motion blur and shake induced during video capture.
+In addition to providing technology and solutions to the mobile phone market, F otoNation provides best in class hardware-accelerated imaging/vision solutions
+targeted to other emerging markets including biometrics, automotive, surveillance and smart objects (electronic objects that respond to their external environment).
+Our operations underwent many changes during 2013 and 2014. The following restructuring and other activities have occurred:
+- In 2013, we sold our Micro-Optics business based in Charlotte, North Carolina. Originally purchased in 2006, this business focused on diffractive
+Optical elements, refractive optical elements, and integrated micro-Optic sub-assemblies. All
+4

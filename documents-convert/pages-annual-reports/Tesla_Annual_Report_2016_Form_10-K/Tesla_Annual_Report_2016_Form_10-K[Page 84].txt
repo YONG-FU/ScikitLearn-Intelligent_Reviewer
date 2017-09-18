@@ -1,0 +1,59 @@
+Note 12 - Customer Deposits
+Customer deposits primarily consist of cash payments ﬁom customers at the time they place an order for a vehicle and
+additional payments up to the point of delivery including the fair value of customer trade-in vehicles that are applicable toward a new
+vehicle purchase. Customer deposit amounts and timing vary depending on the vehicle model and country of delivery. Customer
+deposits are fully refundable up to the point the vehicle is placed into the production cycle. Customer deposits are included in current
+liabilities until refunded or until they are applied to a customer’s purchase balance at time of delivery.
+As of December 31, 2016 and 2015, we held $663.9 million and $283.4 million in customer deposits. The increase is primarily
+due to Model 3 deposits.
+Note 13 - Convertible and Long-term Debt Obligations
+The following is a summary of our debt as of December 31, 2016 (in thousands):
+Unpaid Unused
+Principal Net Carrying Value Committed
+Balance Current Long-Term Amount Interest Rate Maturity Dates
+Recourse debt:
+1.5% Convertible Senior Notes due in $ 205,013 $ 196,229 — — 1.5% June 2018
+0.25% Convertible Senior Notes due in 920,000 — 827,620 — 0.25% March 2019
+1.25% Convertible Senior Notes due in 2021 1,380,000 — 1,132,029 — 1.25% March 2021
+Credit 969,000 — 969,000 181,000 1% plus LIBOR June 2020
+January 2017 -
+Secured Revolving Credit Facility 364,000 366,247 — 24,305 4.0%-6.0% December 2017
+March 2017 -
+Vehicle and Other 23,771 17,235 6,536 — 2.9%-7.6% June 2019
+2.75% Convertible Senior Notes due in 230,000 — 212,223 — 2.8% November 2018
+1.625% Convertible Senior Notes due in 566,000 — 483,820 — 1.6% November 2019
+Zero-coupon Convertible Senior Notes due in 2020............... 113,000 — 89,418 — 0.0% December 2020
+January 2017 -
+Solar Bonds 332,060 181,582 148,948 * 1.1%-6.5% January 2031
+Totalrecourse 5,102,844 761,293 3,869,594 205,305
+Non-recourse debt:
+Warehouse 390,000 73,708 316,292 210,000 Various September 2018
+Canada Credit 67,342 18,489 48,853 — 3.6%- 4.5% December2020
+Term Loan due inDecember2017......................................... 75,467 75,715 — 52,173 4.2% December2017
+Term Loan dueinJanuary 183,388 5,860 176,169 — 4.5% January 2021
+MyPower Revolving Credit Facility 133,762 133,827 — 56,238 4.1%-6.6% January 2017
+Revolving Aggregation Credit Facility 424,757 — 427,944 335,243 4.0%-4.8% December 2018
+April 2017 -
+Solar Renewable Energy Credit Term 38,124 12,491 26,262 — 6.6%-9.9% July 2021
+Cash Equity 119,753 3,272 115,464 — 5.7% July 2033
+Cash Equity DethI 206,901 5,376 189,424 — 5.3% July 2034
+Cash Equity Debt 170,000 4,994 161,853 5.8% January 2035
+Solar Asset-backed Notes, Series 2013-1 41,899 3,329 38,346 — 4.8% November 2038
+Solar Asset-backed Notes, Series 2014-1 60,768 3,016 57,417 — 4.6% April 2044
+4.0%-Class A
+Solar Asset-backed Notes, Series 2014-2 186,851 7,055 173,625 — 5.4%-Class B July 2044
+4.2%-Class A
+Solar Asset-backed Notes, Series 2015-1 119,199 1,511 110,238 — 5.6%-ClassB August 2045
+5.3%-Class A
+Solar Asset-backed Notes, Series 2016-1 50,119 1,202 47,025 — 7.5%-Class B September 2046
+4.8%-Class A
+Solar Loan-backed Notes, Series 140,586 3,514 133,510 — 6.9%-Class B September 2048
+Total non-recourse debt 2,408,916 353,359 2,022,422 653,654
+Total is 7,511,760 is 1,114,652 is 5,892,016 is 858,959
+* Out of the $350.0 million authorized to be issued, $17.9 million remained available to be issued. See below and Note 21,
+Related Party Transactions, for Solar Bonds issued to related parties.
+Recourse debt refers to debt that is recourse to our general assets. Non-recourse debt refers to debt that is recourse to only
+specified assets or our subsidiaries. The differences between the unpaid principal balances and the net carrying values are due to debt
+discounts and deferred ﬁnancing costs. As of December 31, 2016, we were in compliance with all financial debt covenants. Our debt
+is described further below.
+81

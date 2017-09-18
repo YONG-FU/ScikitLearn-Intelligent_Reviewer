@@ -1,0 +1,51 @@
+Our operating results can be impacted by the actions and business life cycles of a small number of large customers.
+Historically, our operating results have been subject to ﬂuctuations due to our dependence on several large customers,
+particularly media companies, for a significant portion of our revenues. The amount of traffic we deliver on behalf of those
+customers can vary significantly based on decisions they make about their businesses, including whether to start or delay new
+business initiatives, build out their own networks to handle delivery, or implement or maintain multiple vendor strategies.
+These approaches can change rapidly and unpredictably. While we believe that we will be less reliant on individual customers
+in the future, we are likely to continue to face some uncertainty in forecasting our revenues as they relate to these customers
+from quarter to quarter or over longer periods. We could also experience inconsistent revenue growth patterns and earnings as a
+result of the behavior of these customers.
+Our failure to effectively manage our operations as our business evolves could harm us.
+Our future operating results will depend on our ability to manage our operations. As a result of the diversification of our
+business, personnel growth, acquisitions and international expansion in recent years, many of our employees are now based
+outside of our Cambridge, Massachusetts headquarters; however, most key management decisions are made by a relatively
+small group of individuals based primarily at our headquarters. If we are unable to appropriately increase management depth,
+enhance succession planning and decentralize our decision-making at a pace commensurate with our actual or desired growth
+rates, we may not be able to achieve our financial or operational goals. It is also important to our continued success that we hire
+qualified personnel, properly train them and manage out poorly-performing personnel, all while maintaining our corporate
+culture and spirit of innovation. If we are not successful in these efforts, our growth and operations could be adversely affected.
+As our business evolves, we must also expand and adapt our IT and operational infrastructure. Our business relies on our
+data systems, billing systems and other operational and financial reporting and control systems. All of these systems have
+become increasingly complex due to the diversification and complexity of our business, acquisitions of new businesses with
+different systems and increased regulation over controls and procedures. To manage our technical support infrastructure
+effectively and improve our sales efficiency, we will need to continue to upgrade and improve our data systems, billing systems,
+ordering processes and other operational and financial systems, procedures and controls. These upgrades and improvements
+may be difficult and costly. If we are unable to adapt our systems and organization in a timely, efficient and cost-effective
+manner to accommodate changing circumstances, our business may be adversely affected. If the third parties we rely on for
+hosted data solutions for our internal network and information systems are subject to a security breach or otherwise suffer
+disruptions that impact the services we utilize, the integrity and availability of our internal information could be compromised
+causing the loss of confidential or proprietary information, damage to our reputation and economic loss.
+Our restructuring and reorganization activities may be disruptive to our operations and harm our business.
+Over the past several years, we have implemented internal restructurings and reorganizations designed to reduce the size
+and cost of our operations, improve operational efficiencies, enhance our ability to pursue market opportunities and accelerate
+our technology development initiatives. We may take similar steps in the future as we seek to realize operating synergies,
+optimize our operations to achieve our target operating model and profitability objectives, or better reﬂect changes in the
+strategic direction of our business. Disruptions in operations have occurred and will likely continue to occur, including with
+respect to our research and development efforts, as a result of taking these actions. Taking these actions may also result in
+significant expense for us, including with respect to workforce reduction, as well as decreased productivity and unanticipated
+employee turnover. Substantial expense or business disruptions resulting from restructuring and reorganization activities could
+adversely affect our operating results.
+If we are unable to retain our key employees and hire and retain qualified sales, technical, marketing and support
+personnel, our ability to compete could be harmed
+Our future success depends upon the services of our executive officers and other key technology, sales, marketing and
+support personnel who have critical industry experience and relationships. There is significant competition for talented
+individuals in the regions in which our primary offices are located, which affects both our ability to retain key employees and
+hire new ones. In making employment decisions, particularly in our industry, job candidates and current personnel often
+consider the value of stock-based compensation. Declines in the price of our stock could adversely affect our ability to attract or
+retain key employees.
+None of our officers or key employees is bound by an employment agreement for any specific term. Members of our senior
+management team have left Akamai over the years for a variety of reasons, and we cannot be certain that there will not be
+additional departures, which may be disruptive to our operations and detrimental to our future outlook. The loss of the services
+1 5

@@ -1,0 +1,38 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+Note 1: Service 1 consists Of**** ******* , ******* ****** and ******** ******** ************ .
+Note 2: Service consists Of******* ****** * and ******** ******** ************.
+Note 3: Service 3 consists Of******* ****** * and ******* ****** * and ********** ******** *** ****** ****, ************ ************ and is ****
+******** **** * *********** is *** ********** in ******* ****** * and ******* ****** *-
+Note 4: For purposes of this Amendment, Enterprise-wide Check Veriﬁcation Services shall mean Customer’s deployment of the Check Verification Service for use on all Connected
+Subscribers.
+Note 5: For purposes of this Amendment, Non-enterprise—wide Check Verification Services shall mean Customer does not deploy the Check Veriﬁcation Service for use on all
+Connected Subscribers.
+The fees set forth in the fee table above are subject to increase pursuant to Section 5 .4, Adjustment to Fees, of the Agreement.
+(b) CSG and Customer agree that all other provisions of the Agreement, including Exhibit C-28 shall remain unchanged and in full force and effect.
+2. CSG and Customer desire to add standard fees to the Agreement for Custom Rules Engine (“CREs”) solutions developed for Customer by CSG and which will be
+implemented pursuant to mutually agreed upon Statements of Work between CSG and Customer.
+(a) As of the Amendment Effective Date, ScheduleiFi, Fees, Section IV. Ancillary Products and Services, Subsection A. Titled “Ancillary services for Non-
+Rated Video and Non-Rated High-Speed Data and Residential Voice Services” is hereby amended to add a new Subsection 23. titled “Custom Rule Engine
+(CRE) Solutions,” as follows:
+I Description of Item/U nit of Measure I Frequency I Fee I
+I 23. Custom Rule Engine (CRE) Solutions (Note 1) I I I
+I a)CRE Implementationlper *** I I ***** I
+I b)Production Support and Maintenance (per *** ********)7(Note 2)7(Note 3) I I I
+I I Medium_ ******** ******, *******, *****, ***** ************* ******* I ******** I $********* I
+I I L0w_ ********** ******, **V***** I ******** I $******** I
+I c)Integration to third parties I I ***** I
+Note 1: Design, development and implementation services and lead times will be set forth in a mutually agreeable Statement of Work for each CRE.
+Note 2: In such Statement of Work mentioned in Note 1, the specific level of Production Support and Maintenance per CRE solution (i.e., High, Medium or Low) shall be
+designated to establish ****** billing.
+Note 3: As a point of clariﬁcation, the fees for CSG Offensive Language Filter Solution, Clear and Disable Tech Number-Rescheduled Jobs in Order Work Flow, and Disabled
+Equipment Warning (per the Seventeenth Amendment, CSG document number 4106622, executed July 21, 2015); the fees for XH Multi—Tech Orders Customer Rules Engine
+(per the Nineteenth Amendment, CSG document number 4109676, executed February 23, 2016); the fees for Account Transfers Custom Rules Engine Edits (per the Twentieth
+Amendment, CSG document number 4109237, executed March 15, 2015); and the fees for T44 Discount Validation Custom Rules Engine and Deferred Credit Restriction
+Custom Rules Engine (per the Twenty-second Amendment, CSG document number 4107927, executed May 11, 2016) shall be excluded from the fee table listed above;
+instead, such fees will continue to be invoiced in accordance with the respective fee tables listed in the respective Amendment for such CRE solution.
+The fees set forth in the fee table above are subject to increase pursuant to Section 5.4, Adjustment to Fees, of the Agreement.
+3. WHEREAS, CSG and Customer entered into that certain Fourteenth Amendment to the Agreement effective as of February 10, 2015 (CSG document number
+2508028) (the “14 th Amendment”) relating to CSG providing CSG Vantage® Enhanced Campaigns Dashboard to Customer; and
+WHEREAS, CSG and Customer entered into that certain Seventeenth Amendment to the Agreement effective as of July 21, 2015 (CSG document number
+4106622) (the “17 th Amendment”), whereby, pursuant to Section 2 of the 17 th Amendment, CSG and Customer agreed to add additional named users for CSG
+Vantage® Reporting Dashboards; and

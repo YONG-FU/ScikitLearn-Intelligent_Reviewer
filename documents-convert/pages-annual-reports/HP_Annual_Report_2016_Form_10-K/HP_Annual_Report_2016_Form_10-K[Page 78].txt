@@ -1,0 +1,46 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 5: Retirement and Post-Retirement Beneﬁt Plan (Continued)
+7 As of October 31 7
+2016 2015 2016 2015 2016 2015
+: U.S. Eeﬁned : : Non-US. :Deﬁned : : Post-Retirement :
+Beneﬁt Plans Beneﬁt Plans Beneﬁt Plans
+: : : In millions : : :
+I Change in fair value of plan assets: I
+Fair value of assets — beginning of year $ 11,077 $ 11,979 $ 853 $ 12,472 $ 434 $ 458
+I Acquisition/addition of plans — (1) — 9 — — I
+Actual return on plan assets 736 506 (14) 547 11 45
+I Employer contributions 32 8 20 487 18 38 I
+Participant contributions — — 10 48 48 57
+I Benefits paid (339) (301) (15) (297) (121) (124) I
+Settlement (1,330) (1,1 14) (9) (9) — —
+I Currency impact — — 4 (73 7) — — I
+Transfers to Hewlett Packard Enterprise — — (157) (11,667) (1) — (40) (1)
+I Fair value ofassets—end ofyear :$ 10,176 11,077 :$ 69278 853: :$ 39078 434: I
+Change in benefits obligation
+I Projected benefit obligation — beginning of I
+year $ 12,709 $ 13,386 $ 1,082 $ 13,885 $ 597 $ 840
+Acquisition/addition of plans — (1) (2) 4 — —
+I Service cost — 1 47 208 1 5 I
+Interest cost 543 556 20 289 20 28
+I Participant contributions — — 10 48 48 57 I
+Actuarial loss (gain) 561 (170) 120 48 16 (49)
+I Benefits paid (339) (301) (15) (297) (121) (126) I
+Plan amendments — — — (7) (30) —
+I Curtailment — — (1) — — — I
+Settlement (1,330) (1,1 14) (9) (9) — —
+I Special termination benefits — — — 7 4 1 I
+Currency impact — — (4) (825) — (9)
+I Transfers from Hewlett Packard Enterprise — 365 (2) — — — — I
+Transfers to Hewlett Packard Enterprise — (13) (1) (128) (12,269) (1) — (150) (1)
+I Projected benefit obligation — end ofyear $ 12,144 _$ 12,709 $ 1,120 _$ 1,082 $ 535 _$ 597 I
+Funded status at end of year $ (1,968) $ (1,632) $ (428) $ (229) $ (145) $ (163)
+IAccumulated benefit obligation 2$ 12,144 12,708 3$ 1,013 989 — — I
+(I) In fiscal year 2015, in connection with the Separation, HP transferred plan assets and liabilities from HP’s plans to
+establish the Hewlett Packard Enterprise plans.
+(2) In October 2015, in connection with the Separation, Hewlett Packard Enterprise transferred to HP three unfunded non-
+qualified U.S. defined benefit plans.
+The weighted-average assumptions used to calculate the projected benefit obligations for the fiscal years ended
+October 31, 2016 and 2015 were as follows:
+78

@@ -1,0 +1,43 @@
+Iableprontents
+PART I
+ITEM 1. BUSINESS
+Overview
+VMware, Inc. (“VMware”) pioneered the development and application of Virtualization technologies with x86 server-based computing, separating application
+software from the underlying hardware. We are a leader in Virtualization and cloud infrastructure solutions that enable businesses to transform the way they build,
+deliver and consume information technology (“IT”) resources in a manner that is based on their speciﬁc needs.
+Over the years, we have increased our product offerings beyond compute Virtualization to include offerings that allow organizations to manage IT resources
+across private clouds and complex multi-cloud, multi—device environments by leveraging synergies across three product categories: Software-Deﬁned Data Center
+(“SDDC”), Hybrid Cloud Computing and End-User Computing (“EUC”). Our portfolio supports and addresses the four key IT priorities of our customers:
+modernizing data centers, integrating public clouds, empowering digital workspaces and transforming security. We create solutions that enable digital
+transformation for our customers as they transform their applications, infrastructure and devices for their future business needs.
+We incorporated in Delaware in 1998, were acquired by EMC Corporation (“EMC”) in 2004 and conducted our initial public offering of our Class A common
+stock in August 2007. Effective September 7, 2016, Dell Technologies Inc. (“Dell”) acquired EMC. As a result, EMC became a wholly-owned subsidiary of Dell
+and VMware became an indirectly-held, majority-owned subsidiary of Dell. As of December 31, 2016 , Dell controlled approximately 82.8% of our outstanding
+common stock, including 38 million shares of our Class A common stock and all of our Class B common stock, and we are considered a “controlled company”
+under the rules of the New York Stock Exchange.
+On October 25, 2016, our Board of Directors approved a change to our fiscal year from a ﬁscal year ending on December 31 of each calendar year to a fiscal
+year consisting of a 52- or 53-week period ending on the Friday nearest to January 31 of each year to align with Dell’s. The change in our fiscal year was effective
+January 1, 2017. As a result of the change, we had a transition period that began on January 1, 2017 and ended on February 3, 2017, and our ﬁrst full fiscal year
+under the revised fiscal calendar began on February 4, 2017 and will end on February 2, 2018. We plan to include our unaudited financial statements for the
+approximately one-month transition period in our Quarterly Report on Form 10-Q filed for the ﬁscal quarter ended May 5, 2017.
+Total revenue in 2016 increased 8% to $7,093 million . Total revenue is comprised of license revenue of $2,794 million and services revenue of
+$4,299 million . While sales of our VMware vSphere (“vSphere”) product have remained strong, the majority of our license sales originate from products and
+services solutions across our portfolio beyond our compute products. We continue to experience growth in sales of VMware NSX (“NSX”), our network
+Virtualization solution, VMware vSAN (“vSAN”) products, our VMware vCloud Air Network offering and our EUC solutions.
+We operate in one reportable operating segment, thus all required financial segment information can be found in our consolidated financial statements. For
+ﬁnancial information on our business, including by geographic area, refer to Note O to the consolidated ﬁnancial statements in Part II, Item 8 of this Annual Report
+on Form 10-K.
+Our corporate headquarters are located at 3401 Hillview Avenue, Palo Alto, California, and we have 116 offices worldwide.
+Products and Technology Solutions
+Software-Defined Data Center
+We were the ﬁrst company to articulate a vision for the SDDC, whereby increasingly infrastructure is virtualized and delivered as a service, enabling data
+center management to be entirely automated by software, from one unified platform. Traditional data centers are collections of technology silos where each
+application type has its own vertical stack consisting of a CPU and operating system, storage pool, networking and security, and management systems. Over time,
+costs to maintain the data center infrastructure have been increasing because the data center environment has become divergent, leading to higher complexity. The
+increasing complexity of the data center demands constantly increasing resources to manage and maintain the IT infrastructure. The SDDC is designed to
+transform and modernize the data center into an on-demand service that addresses application requirements by abstracting, pooling and automating the services that
+are required from the underlying hardware. SDDC promises to dramatically simplify data center operations and lower costs.
+Our SDDC architecture consists of four main product categories:
+0 Compute
+° Storage and Availability
+4

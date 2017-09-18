@@ -1,0 +1,54 @@
+Item 1A. Risk Factors
+T he following important factors could cause our actual business and financial results to differ materially ﬁom our current
+expectations, estimates, forecasts and projections. These forward-looking statements contained in this Annual Report on Form
+1 0-K or made elsewhere by management ﬂom time to time are subject to important risks, uncertainties and assumptions which
+are difficult to predict. The risks and uncertainties described below are not the only risks and uncertainties facing us.
+Additional risks not currently known to us or that we currently believe are immaterial may also impair our operating results,
+ﬁnancial condition and liquidity. Our business is also subject to general risks and uncertainties that affect many other
+companies. The risks discussed below are not necessarily presented in order of importance or probability of occurrence.
+The length of our sales cycle can fluctuate significantly which could result in significant ﬂuctuations in license revenues
+being recognized from quarter to quarter
+The decision by a customer to license our software products or purchase our services often involves a comprehensive
+implementation process across the customer's network or networks. As a result, the licensing and implementation of our
+software products and any related services may entail a significant commitment of resources by prospective customers,
+accompanied by the attendant risks and delays frequently associated with significant technology implementation projects.
+Given the significant investment and commitment of resources required by an organization to implement our software products,
+our sales cycle may be longer compared to other companies within our own industry, as well as companies in other industries.
+Also because of changes in customer spending habits, it may be difficult for us to budget, forecast and allocate our resources
+properly. In weak economic environments, it is not uncommon to see reduced information technology spending. It may take
+several months, or even several quarters, for marketing opportunities to materialize. If a customer's decision to license our
+software is delayed or if the implementation of these software products takes longer than originally anticipated, the date on
+which we may recognize revenues from these licenses would be delayed. Such delays and ﬂuctuations could cause our
+revenues to be lower than expected in a particular period and we may not be able to adjust our costs quickly enough to oﬁset
+such lower revenues, potentially negatively impacting our business, operating results and financial condition.
+Our success depends on our relationships with strategic partners, distributors, and third party service providers and any
+reduction in the sales efforts by distributors, or cooperative efforts from our partners, or service from third party providers
+could materially impact our revenues
+We rely on close cooperation with strategic partners for sales and software product development as well as for the
+optimization of opportunities that arise in our competitive environment. A portion of our license revenues is derived from the
+licensing of our software products through third parties. Also, a portion of our service revenues may be impacted by the level of
+service provided by third party service providers relating to Internet, telecommunications and power services. Our success will
+depend, in part, upon our ability to maintain access to existing channels of distribution and to gain access to new channels if
+and when they develop. We may not be able to retain a suﬂicient number of our existing distributors or develop a sufficient
+number of future distributors. Distributors may also give higher priority to the licensing of software products other than ours
+(which could include competitors' products) or may not devote sufficient resources to marketing our software products. The
+performance of third party distributors and third party service providers is largely outside of our control, and we are unable to
+predict the extent to which these distributors and service providers will be successful in either marketing and licensing our
+software products or providing adequate Internet, telecommunication and power services so that disruptions and outages are not
+experienced by our customers. A reduction in strategic partner cooperation or sales efforts, a decline in the number of
+distributors, a decision by our distributors to discontinue the licensing of our software products or a decline or disruption in
+third party services could cause users and the general public to perceive our software products and services as inferior and
+could materially reduce revenues.
+If we do not continue to develop technologically advanced products that successfully integrate with the software products
+and enhancements used by our customers, future revenues and our operating results may be negatively affected
+Our success depends upon our ability to design, develop, test, market, license and support new software products,
+services, and enhancements of current products and services on a timely basis in response to both competitive threats and
+marketplace demands. The software industry is increasingly focused on cloud computing, mobility, social media and software
+as a service (SaaS) among other continually evolving shifts. In addition, our software products, services, and enhancements
+must remain compatible with standard platforms and file formats. Often, we must integrate software licensed or acquired from
+third parties with our pr0prietary software to create or improve our products. If we are unable to achieve a successful
+integration with third party software, we may not be successful in developing and marketing our new software products,
+services, and enhancements. If we are unable to successfully integrate third party software to develop new software products,
+services, and enhancements to existing software products and services, or to complete the development of new software
+products and services which we license or acquire from third parties, our operating results will materially suﬁer. In addition, if
+13

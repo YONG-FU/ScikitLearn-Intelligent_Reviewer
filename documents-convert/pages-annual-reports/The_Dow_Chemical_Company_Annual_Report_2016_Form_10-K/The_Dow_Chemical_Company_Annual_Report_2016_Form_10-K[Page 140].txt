@@ -1,0 +1,57 @@
+Basis of Fair Value Measurements of Quoted Prices Signiﬁcant 7
+Pension Plan Assets at December 31, 2015 in Active Other Signiﬁcant
+Markets for Observable Unobservable
+Identical Items Inputs Inputs
+in millions (Level I ) (Level 2) (Level 3) Total :
+[Cash and cash equivalents $ 84 $ 733 $ 7 7 $ 817
+qunty securities:
+| US. eq1£ty_(l) $ 2,525 $ 558 $ 1 $ 3,084 l
+Non-US. eqlnty — developed countries 1,877 1,167 7 7 3,044
+| Emergi_ng markets 462 542 27 1,031 ‘
+Convertible bonds 26 177 7 7 203
+l: Equity derivatives ; 8 7 7 8
+Total equity securities $ 4,890 $ 2,452 $ 28 $ 7,370 :
+[Fixed income securities: l
+US. government and municipalities $ 7 7 $ 1,320 $ 77 7 $ 1,320
+| US. agency and agency mortgage-backed securities ; 279 7 7 279 ‘
+Corporate bonds — investment grade 7 7 1,527 7 7 1,527
+l Non-US. governments — developed countries ; 1,161 7 7 1,161 ‘
+Non-US. corporate bonds — developed countries 7 7 917 7 7 917
+| Emergi_ng market debt ; 109 7 7 109 ‘
+Other asset-backed securities 7 7 88 1 89
+| High yield bonds 47 166 16 229 |
+Other fixed income funds 7 7 295 276 571
+l Fixed income derivatives ; 33 7 7 33 j
+Total fixed income securities $ 47 $ 5,895 $ 293 $ 6,235 :
+[Alternative investments: l
+Real estate 39 22 $ 38 $ 1,772 $ 1,832
+| Private eqlgty ; 7 7 1,054 1,054 l
+7 Absolute return 7 7 483 695 1,178 :
+[Total alternative investments 35 22 $ 521 $ 3,521 $ 4,064
+:Other investments $ 7 7 $ 250 $ 38 $ 288 :
+[Total pension plan assets at fair value $ 5,043 $ 9,851 $ 3,880 $ 18,774
+: Less: Fair value of pension plan assets due to Olin (2) (179) 7 7 7 7 (1791
+[Net pension plan assets at fair value $ 4,864 $ 9,851 33 3,8 80 $ 18,595
+(1) Includes no Company common stock.
+(2) Pension plan assets were transferred to Olin in 2016. The final plan assets transferred totaled $184 million, which reﬂected return on plan
+assets and benefits paid to participants from the closing date of the Transaction with Olin to the date of transfer. See Note 6 for additional
+information.
+For pension plan assets classified as Level 1 measurements (measured using quoted prices in active markets), total fair value is
+either the price of the most recent trade at the time of the market close or the official close price, as defined by the exchange on
+which the asset is most actively traded on the last trading day of the period, multiplied by the number of units held without
+consideration of transaction costs.
+For pension plan assets classified as Level 2 measurements, where the security is frequently traded in less active markets, fair
+value is based on the closing price at the end of the period; where the security is less frequently traded, fair value is based on
+the price a dealer would pay for the security or similar securities, adjusted for any terms specific to that asset or liability. Market
+inputs are obtained from well-established and recognized vendors of market data and subjected to tolerance and quality checks.
+For derivative assets and liabilities, standard industry models are used to calculate the fair value of the various financial
+instruments based on significant observable market inputs, such as foreign exchange rates, commodity prices, swap rates,
+interest rates and implied volatilities obtained from various market sources. For other pension plan assets for which observable
+inputs are used, fair value is derived through the use of fair value models, such as a discounted cash flow model or other
+standard pricing models.
+For pension plan assets classified as Level 3 measurements, total fair value is based on significant unobservable inputs
+including assumptions where there is little, if any, market activity for the investment. Investment managers or fund managers
+provide valuations of the investment on a monthly or quarterly basis. These valuations are reviewed for reasonableness based
+on applicable sector, benchmark and company performance. Adjustments to valuations are made where appropriate. Where
+available, audited financial statements are obtained and reviewed for the investments as support for the manager’s investment
+132

@@ -1,0 +1,48 @@
+KELLY SERVICES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+10. Earnings Per Share
+The reconciliation of basic earnings per share on common stock for the year-end 2016, 2015 and 2014 follows (in millions of
+dollars except per share data).
+7 2016 if 2015 if 2014 7
+[Net earnings *3; 120.8 7 ’$ 53.8 7 ’$ 23.71
+Less: Earnings allocated to participating securities 7 (2.6), 7 (1.4), 7 (0.7),
+{Net earnings available to common shareholders $ 118.2 _$ 52.4 _$ 23.0
+{Average common shares outstanding (millions): ‘
+Basic 38.1 37.8 37.5
+IDilutive share awards 7 0.3 0.1 —l
+Diluted 38.4 37.9 37.5
+I i if " 1
+Basic earnings per share $ 3.10 $ 1.39 $ 0.61
+{Diluted earnings per share $ 3.08 $ 1.39 $ 0.61 ‘
+Potentially dilutive shares outstanding are primarily related to performance shares for 2016 and 2015. Stock options excluded
+from the computation of diluted earnings per share due to their anti-dilutive effect for 2016 and 2015 were not signiﬁcant.
+Stock options representing 0.1 million shares for 2014 were excluded from the computation of diluted earnings per share due to
+their anti-dilutive effect.
+We have presented earnings per share for our two classes of common stock on a combined basis. This presentation is
+consistent with the earnings per share computations that result for each class of common stock utilizing the two-class method as
+described in ASC Topic 260, “Earnings Per Share”. The two-class method is an earnings allocation formula which determines
+earnings per share for each class of common stock according to the dividends declared (or accumulated) and participation
+rights in the undistributed earnings.
+In applying the two class method, we have determined that the undistributed earnings should be allocated to each class on a pro
+rata basis after consideration of all of the participation rights of the Class B shares (including voting and conversion rights) and
+our history of paying dividends equally to each class of common stock on a per share basis.
+The Company’s Restated Certificate of Incorporation allows the Board of Directors to declare a cash dividend to Class A shares
+without declaring equal dividends to the Class B shares. Class B shares’ voting and conversion rights, however, effectively
+allow the Class B shares to participate in dividends equally with Class A shares on a per share basis.
+The Class B shares are the only shares with voting rights. The Class B shareholders are therefore able to exercise voting
+control with respect to all matters requiring stockholder approval, including the election of or removal of directors. The Board
+of Directors has historically declared and the Company historically has paid equal per share dividends on both the Class A and
+Class B shares. Each class has participated equally in all dividends declared since 1987.
+In addition, Class B shares are convertible, at the option of the holder, into Class A shares on a one-for—one basis. As a result,
+Class B shares can participate equally in any dividends declared on the Class A shares by exercising their conversion rights.
+11. Stock-Based Compensation
+Under the Equity Incentive Plan, amended and restated February 12, 2015 and approved by the stockholders of the Company
+on May 6, 2015 (the “EIP”), the Company may grant stock options (both incentive and nonqualified), stock appreciation rights,
+restricted stock and performance awards to key employees associated with the Company’s Class A stock. The EIP provides that
+the maximum number of shares available for grants is 15 percent of the outstanding Class A stock, adjusted for EIP activity
+over the preceding five years. Shares available for future grants at year-end 2016 under the EIP were 2,444,136. The Company
+issues shares out of treasury stock to satisfy stock-based awards. The Company presently has no intent to repurchase additional
+shares for the purpose of satisfying stock-based awards.
+The Company recognized stock-based compensation cost of $10.2 million in 2016, $7.9 million in 2015 and $7.6 million in
+2014, as well as related tax benefits of $3.9 million in 2016, $3.0 million in 2015 and $2.9 million in 2014.
+64

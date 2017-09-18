@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+We license technology from third parties. If we are unable to maintain these licenses, our operations and ﬁnancial condition
+may be negatively impacted.
+We license technology from third parties. The loss of, our inability to maintain, or changes in material terms of these licenses
+could result in increased cost or delayed sales of our software and services, or may cause us to remove features from our products
+or services. We anticipate that we will continue to license technology from third parties in the future. This technology may not
+continue to be available on commercially reasonable terms, if at all. Although we do not believe that we are substantially
+dependent on any individual licensed technology, some of the component technologies that we license ﬁom third parties could
+be difficult for us to replace. The impairment of these third-party relationships, especially if this impairment were to occur in
+unison, could result in delays in the delivery of our software and services until equivalent technology, if available, is identified,
+licensed and integrated. This delay could adversely affect our operating results and financial condition.
+The technology underlying our products and services is complex and may contain unknown defects that could harm our
+reputation, result in product liability or decrease market acceptance of our products.
+The technology underlying our products is complex and includes software that is internally developed, software licensed from
+third parties and hardware purchased from third parties. These products have, and will in the future, contain errors or defects,
+particularly when first introduced or when new versions or enhancements are released. We may not discover defects that affect
+our current or new applications or enhancements until after they are sold and our insurance coverage may not be sufficient to
+cover our exposure. Any defects in our products and services could:
+- Damage our reputation;
+- Cause our customers to initiate product liability suits against us;
+- Increase our product development resources;
+- Cause customers to cancel orders, ask for partial refunds or potential customers to purchase competitive products or
+services;
+- Delay release or market acceptance of our products, or otherwise adversely impact our relationships with our customers;
+and
+- Cause us to allocate valuable engineering resources to fix our existing products, which may cause us to allocate fewer
+resources toward developing new products, or toward adding features to our existing products.
+If we are viewed only as a commodity supplier, our margins and valuations will shrink.
+We need to provide value-added services in order to avoid being Viewed as a commodity supplier. This entails building long-term
+customer relationships and developing features that will distinguish our products. Our technology is complex and is often
+confused with other products and technologies in the market place, including video conferencing, streaming and collaboration.
+We have developed lower cost hardware, software products and cloud solutions to better address that market segment. Such
+products have more limited features compared to our existing products. While we believe we can preserve the market for our full-
+featured products due to differentiation between the two and migration to full featured products, release of lower cost products
+could reduce gross margin and demand for products sold at higher prices. Potential large scale deployments of our products often
+include the lower cost products we sell, putting greater pressure on gross margin due to expectations for greater volume discounts.
+If we fail to build long-term customer relationships and develop features that distinguish our products in the market place, our
+margins will shrink and our stock may become less valuable to investors.
+Our success depends upon the proprietary aspects of our technology.
+Our success and ability to compete depend to a significant degree upon the protection of our proprietary technology. We currently
+have three US. patents that have been issued to us. We may seek additional patents in the future. However, it is possible that:
+26

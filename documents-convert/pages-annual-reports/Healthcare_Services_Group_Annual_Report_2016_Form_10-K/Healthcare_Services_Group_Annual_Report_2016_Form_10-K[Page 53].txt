@@ -1,0 +1,41 @@
+Iabl,e,of,C,ontents
+Note 12— Income Taxes
+The following table summarizes the provision for income taxes:
+Year Ended December 31,
+2016 2015 2014
+(in thousands)
+ICurrent: I
+Federal $ 33,032 $ 11,917 $ 21,030
+I State 6,958 2,173 4,095 I
+$ 39,990 $ 14,090 $ 25,125
+IDeferred: I
+Federal $ 2,163 $ 13,646 $ (12,708)
+I State 838 4,004 (2,559)I
+$ 3,001 $ 17,650 $ (15,267)
+ITaX provision as 42,991 _ $ 31,740 _ $ 9,858 I
+Deferred income taxes are recorded using the asset and liability method. Deferred tax assets and liabilities are determined based on differences between the
+ﬁnancial reporting and income tax basis of assets and liabilities.
+Significant components of our federal and state deferred tax assets and liabilities are as follows:
+Year Ended December 31,
+2016 2015
+(in thousands)
+I Deferred tax assets: I
+Allowance for doubtful accounts $ 2,672 $ 1,819
+I Deferred compensation 8,532 9,191 I
+Accrued insurance claims 5,862 5,786
+I Non-deductible reserves 1,257 4,490 I
+Amortization of intangibles 624 971
+I Other 858 10 I
+$ 19,805 $ 22,267
+I Deferred tax liabilities: I
+Expensing of housekeeping supplies $ (6,752) $ (6,463)
+I Depreciation of property and equipment (2,568) (3,237) I
+Other (663) —
+I 8 (9,983) _ $ (9,700) I
+I Net deferred tax assets $ 9,822 — $ 12,567 I
+Realization of the Company’s deferred tax assets is dependent upon future earnings in specific tax jurisdictions, the timing and amount of which are uncertain.
+Management assesses the Company’s income tax positions and records tax benefits for all years subject to examination based upon an evaluation of the facts,
+circumstances, and information available at the reporting dates, which include historical operating results and expectations of future earnings. As such,
+management believes it is more likely than not that the deferred tax assets recorded will be realized to reduce future income taxes and therefore no valuation
+allowances are necessary.
+52

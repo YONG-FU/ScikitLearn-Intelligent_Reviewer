@@ -1,0 +1,26 @@
+“ Interest Period ” means, for each LIBO Rate Advance comprising part of the same Pro Rata Borrowing and each Floating Rate Bid Advance
+comprising part of the same Competitive Bid Borrowing, the period commencing on the date of such LIBO Rate Advance or Floating Rate Bid Advance or the date
+of Conversion of any Base Rate Advance into such LIBO Rate Advance and ending on the last day of the period selected by the Borrower requesting such
+Borrowing pursuant to the provisions below. The duration of each such Interest Period shall be one (or less than one month if available to all Lenders), two, three or
+six months or, if available to all Lenders, twelve months, as such Borrower may select upon notice received by the Administrative Agent not later than 11:00 am.
+(New York City time) on the third Business Day prior to the ﬁrst day of such Interest Period; provided, however, that:
+(a) such Borrower may not select any Interest Period that ends after the Termination Date, subject to Section 2.10(b);
+(b) whenever the last day of any Interest Period would otherwise occur on a day other than a Business Day, the last day of such Interest Period shall
+be extended to occur on the next succeeding Business Day, providedthat if such extension would cause the last day of such Interest Period to occur in the
+next following calendar month, the last day of such Interest Period shall occur on the immediately preceding Business Day; and
+(c) whenever the first day of any Interest Period occurs on a day of an initial calendar month for which there is no numerically corresponding day in
+the calendar month that succeeds such initial calendar month by the number of months equal to the number of months in such Interest Period, such Interest
+Period shall end on the last Business Day of such succeeding calendar month.
+“Internal Revenue Code ” means the Internal Revenue Code of 1986, as amended from time to time, and the regulations promulgated and the rulings
+issued thereunder.
+“ Interp,olate,d,HistoricaLScreemRate,” means, at any time, for any Interest Period, the rate per annum (rounded to the same number of decimal places
+as the relevant Historical Screen Rate) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be
+equal to the rate that results from interpolating on a linear basis between: (a) the applicable Historical Screen Rate (for the longest period for which the applicable
+Historical Screen Rate is available for Dollars) that is shorter than the applicable Interest Period and (b) the applicable Historical Screen Rate (for the shortest
+period for which the applicable Historical Screen Rate is available for Dollars) that exceeds the applicable Interest Period.
+“ InterpolatedRate,” means, at any time, for any Interest Period, the rate per annum (rounded to the same number of decimal places as the relevant
+Screen Rate) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be equal to the rate that results
+from interpolating on a linear basis between: (a) the applicable Screen Rate (for the longest period for which the applicable Screen Rate is available for Dollars) that
+is shorter than the applicable Interest Period and (b) the applicable Screen Rate (for the shortest period for which the applicable Screen Rate is available for Dollars)
+that exceeds the applicable Interest Period.
+-10-

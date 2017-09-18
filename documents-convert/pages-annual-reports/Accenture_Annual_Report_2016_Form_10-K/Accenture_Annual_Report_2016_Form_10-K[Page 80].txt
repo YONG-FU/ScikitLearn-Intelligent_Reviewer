@@ -1,0 +1,47 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+3. ACCUMULATED OTHER COMPREHENSIVE LOSS
+The following table summarizes the changes in the accumulated balances for each component of accumulated
+other comprehensive loss attributable to Accenture plc:
+Fiscal
+: 2016 2015 2014 :
+I Foreign currency translation : I
+Beginning balance $ (853,504) $ (324,596) $ (414,401)
+I Foreign currency translation (67,884) (524,729) 91,170 I
+Income tax beneﬁt 2,120 6,520 2,236
+I Portion attributable to noncontrolling interests (695) (10,699) 7 (3,601)I
+Foreign currency translation, net of tax : (88,459): (528,908): 89,805
+I Ending balance (919,983) (853,504) (324,598)}
+IDeﬁned beneﬁt plans I
+Beginning balance (523,619) (531,143) (425,404)
+I Actuarial losses (481,331) (77,228) (177,243):
+Pension settlement — 64,382 —
+I Prior service costs arising during the period 1,561 (79) (468)I
+Reclassiﬁcations into net periodic pension and post-retirement expense 26,639 27,538 20,026
+I Income tax beneﬁt (expense) 153,869 (6,725) 45,459 I
+Portion attributable to noncontrolling interests 13,377 (364) 6,487
+I Deﬁned beneﬁt plans, net of tax : (285,885)}: 7,524 (105,739)}
+Ending balance (1) : (809,504) (523,819) (531,143)
+I Cash flow hedges l
+I Beginning balance (33,288) (16,209) (212,941):
+Unrealized gains (losses) 180,196 (17,207) 222,100
+I Reclassiﬁcation adjustments into Cost of services (23,004) (15,207) 101,026 I
+Income tax (expense) beneﬁt (51,153) 14,508 (114,325)
+I Portion attributable to noncontrolling interests (4,740) 8277 7 (12,069)I
+Cash flow hedges, net of tax : 101 ,299 (17,079): 196,732 7
+I Ending balance (2) 68,011 _ (33,288) (18,209)}
+I Marketable securities I
+Beginning balance (1 ,561) — —
+I Unrealized gain (loss) 2,231 (2,893) — I
+Income tax (expense) beneﬁt (873) 1,056 —
+I Portion attributable to noncontrolling interests (61) 76 — I
+Marketable securities, net of tax : 1,297 (1 ,561)}: —:
+I Ending balance : (264):—: (1 ,561):—: —I
+IAccumulated other comprehensive loss 8 (1 ,661 ,720)_$ (1 ,41 1,972)_$ (871 ,948)!
+(1) As of August 31, 2016, $50,410 of net losses is expected to be reclassified into net periodic pension expense recognized
+in Cost of services, Sales and marketing and General and administrative costs in the next twelve months.
+(2) As of August 31, 2016, $61,135 of net unrealized gains related to derivatives designated as cash ﬂow hedges is expected
+to be reclassified into Cost of services in the next twelve months.
+F- 16

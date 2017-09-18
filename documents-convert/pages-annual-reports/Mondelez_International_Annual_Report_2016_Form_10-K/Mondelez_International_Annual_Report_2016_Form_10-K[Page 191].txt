@@ -1,0 +1,12 @@
+SECTION 1406. Release of Guarantees.
+(a) A Guarantee by a Guarantor shall be automatically and unconditionally released and discharged, and no further action by such Guarantor, the Company or
+the trustee shall be required for the release of such Guarantor’s Guarantee, upon:
+(1) (A) the Company’s exercise of its Legal Defeasance option or, except in the case of a Guarantee of any direct or indirect parent of the
+Company, Covenant Defeasance option in accordance with Article 4 or the Company’s obligations under this Indenture being discharged in
+accordance with the terms of this Indenture; or
+(B) as specified in a supplemental indenture to this Indenture; and
+(2) such Guarantor delivering to the Trustee an Officers’ Certificate and an Opinion of Counsel, each stating that all conditions precedent provided
+for in this Indenture relating to such transaction and/or release have been complied with.
+At the written request of the Company, the Trustee shall execute and deliver any documents reasonably required in order to evidence such release, discharge
+and termination in respect of the applicable Guarantee.
+52

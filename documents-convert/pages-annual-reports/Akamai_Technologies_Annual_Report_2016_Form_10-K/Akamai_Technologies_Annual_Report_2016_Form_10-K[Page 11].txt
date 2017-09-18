@@ -1,0 +1,49 @@
+Customers
+As of December 31, 2016, our customers included many of the world's leading corporations, including Airbnb, Apple,
+Autodesk, Bristol Myers Squibb, Cathay Pacific, The Coca-Cola Company, Crate & Barrel, eBay, Electronic Arts, FedEx, Ford
+Motor Company, FOX, General Electric, Home Depot, HubSpot, IKEA, Investec, JetBlue, Marriott, NBCUniversal, Norwegian
+Cruise Line, Panasonic, Panera Bread, PayPal, Qantas, Qualcomm, Rabobank, Rakuten, Salesforcecom, Siemens,
+Ticketmaster, Toshiba, Turner Broadcasting, Ubisoft and Viacom. We also actively sell to government agencies. As
+of December 31, 2016, our public sector customers included the Federal Aviation Administration, the Federal Emergency
+Management Agency, the US. Census Bureau, the US. Department of Defense, the US. Postal Service, the US. Department
+of Labor and the US. Securities and Exchange Commission.
+No customer accounted for 10% or more of total revenue for any of the years ended December 31, 2016, 2015 and 2014.
+Six of our customers that are large Internet platform companies: Amazon, Apple, Facebook, Google, Microsoft and Netﬂix, or
+our Internet Platform Customers, in aggregate, accounted for 11%, 17% and 18% of our total revenue during the years ended
+December 31, 2016, 2015 and 2014, respectively. Less than 10% of our total revenue in each of the years ended December 31,
+2016, 2015 and 2014 was derived from contracts or subcontracts terminable at the election of the federal government, and we
+do not expect such contracts to account for more than 10% of our total revenue in 2017.
+Sales, Service and Marketing
+We market and sell our solutions globally through our direct sales and service organization and through more than 250
+active channel partners including AT&T, Deutsche Telecom, IBM, Orange Business Services and Telefonica Group. In addition
+to entering into agreements with resellers, we have several other types of sales and marketing focused alliances with entities
+such as system integrators, application service providers, referral partners and sales agents. By aligning with these partners, we
+believe we are better able to market our services and encourage increased adoption of our technology throughout the industry.
+Our sales, service and marketing professionals are located in more than 60 offices in the Americas, Europe, the Middle
+East and Asia and focus on direct and channel sales, sales operations, professional services, account management and technical
+consulting. As of December 31, 2016, we had 3,153 employees in this organization.
+To support our sales efforts and promote the Akamai brand, we conduct comprehensive marketing programs. Our
+marketing strategies include an active public relations campaign, print advertisements, online advertisements, participation at
+trade shows, strategic alliances, ongoing customer communication programs, training and sales support.
+Competition
+The market for our services is intensely competitive and characterized by rapidly changing technology, evolving industry
+standards and frequent new product and service innovations. We expect competition for our services to increase both from
+existing competitors and new market entrants. We compete primarily on the basis of:
+- the performance and reliability of our services;
+- return on investment in terms of cost savings and new revenue opportunities for our customers;
+- reduced infrastructure complexity;
+° sophistication and functionality of our offerings;
+° scalability;
+° security;
+° ease of implementation and use of service;
+- customer support; and
+- price.
+We compete with companies offering products and services that address Internet performance problems, including
+companies that provide Internet content delivery and hosting services, security solutions, technologies used by network
+operators to improve the efficiency of their systems, streaming content delivery services and equipment-based solutions for
+Internet performance problems, such as load balancers and server switches. Other companies offer online distribution of digital
+media assets through advertising-based billing or revenue-sharing models that may represent an alternative method for charging
+for the delivery of content and applications over the Internet. In addition, existing and potential customers may decide to
+purchase or develop their own hardware, software or other technology solutions rather than rely on a provider of externally-
+managed services like Akamai.
+9

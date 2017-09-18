@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+- we may acquire hardware companies that are strategically important to us but (1) operate in hardware businesses with historically lower operating
+margins than our own, (2) have different legacy business practices and go-to-market strategies than our own that we may alter as a part of our integration
+efforts, which may significantly impact our estimated revenues and proﬁts from the acquired company; (3) leverage different platforms or competing
+technologies that we may encounter difficulties in integrating; or (4) utilize unique manufacturing processes that affect our ability to scale these acquired
+products within our own manufacturing operations.
+Our hardware oﬂeﬁngs are complex products, and if we cannot successfully manage this complexity, the results of our hardware business will suﬂer.
+Designing, developing, manufacturing and introducing new hardware products are complicated processes. The development process for our hardware products is
+uncertain and requires a high level of innovation. After the development phase, we must be able to forecast customer demand and manufacture new hardware
+products in sufficient volumes to meet this demand and do so in a cost-effective manner. Our “build-to-order” manufacturing model, in which our hardware
+products generally are not built until after customers place orders, may from time to time experience delays in delivering our hardware products to customers in a
+timely manner. These delays could cause our customers to purchase hardware products and services from our competitors. We must also manage new hardware
+product introductions and transitions to minimize the impact of customer delayed purchases of existing hardware products in anticipation of new hardware product
+releases. It is also possible that we could experience design or manufacturing ﬂaws, which could delay or prevent the production of the components for which we
+have previously committed to pay or need to fulfill orders from customers and could also prevent the production of our hardware products or cause our hardware
+products to be returned, recalled or rejected resulting in lost revenues, increases in warranty costs or costs related to remediation efforts, damage to our reputation,
+penalties and litigation.
+We depend on suppliers to design, develop, manufacture and deliver on a timely basis the necessary technologies and components for our hardware products, and
+there are some technologies and components that can only be purchased from a single vendor due to price, quality, technology, availability or other business
+constraints. As a result, our supply chain operations could be disrupted or negatively impacted by industry consolidation, natural disasters, political unrest, port
+st0ppages or other traHSportation disruptions or slowdowns or other factors affecting the countries or regions where these single source component vendors are
+located or where the products are being shipped. We may be unable to purchase these items from the respective single vendors on acceptable terms or may
+experience significant delays or quality issues in the delivery of necessary technologies, parts or components from a particular vendor. If we had to find a new
+supplier for these technologies, parts and components, hardware product shipments could be delayed, which would adversely affect our hardware revenues. We
+could also experience ﬂuctuations in component prices which, if unanticipated, could negatively impact our hardware business cost structure. Additionally, we
+could experience changes in shipping and logistics of our hardware products, which could result in ﬂuctuations in prices and negatively impact our hardware
+margins. These factors may make it difficult for us to plan and procure apprOpriate component inventory levels in a timely fashion to meet customer demand for
+our hardware products. Therefore, we may experience component inventory shortages which may result in production delays or customers choosing to purchase
+fewer hardware products from us or hardware products from our competitors. We negotiate supply commitments with vendors early in the manufacturing process
+to ensure we have sufficient technologies and components for our hardware products to meet anticipated customer demand. We must also manage our levels of
+older component inventories used in our hardware products to minimize inventory write-offs or write-downs. If we have excess inventory, it may be necessary to
+write-down the inventory, which would adversely affect our operating results. If one or more of the risks described above occurs, our hardware business and related
+operating results could be materially and adversely affected.
+We are susceptible to third-party manufacturing and logistics delays, which could result in the loss of sales and customers. We outsource the design,
+manufacturing, assembly and delivery of certain of our hardware products to a variety of companies, many of which are located outside the United States. Our
+reliance on these third parties reduces our control over the manufacturing and delivery process, exposing us to risks, including reduced control over quality
+assurance, product costs, product supply and delivery delays as well as the political and economic uncertainties and natural disasters of the international locations
+where certain of these third-party
+3O

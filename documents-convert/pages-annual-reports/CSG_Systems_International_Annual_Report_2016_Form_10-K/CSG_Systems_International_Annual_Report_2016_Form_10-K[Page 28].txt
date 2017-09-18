@@ -1,0 +1,39 @@
+circumstances indicate that the carrying amount of these assets may not be recoverable. A long-lived asset (or group of long-lived assets) is impaired if estimated
+future undiscounted cash ﬂows associated with that asset, without consideration of interest, are insufficient to recover the carrying amount of the long-lived asset.
+Once deemed impaired, even if by $1, the long-lived asset is written down to its fair value which could be considerably less than the carrying amount or future
+undiscounted cash ﬂows. The determination of estimated future cash ﬂows and, if required, the determination of the fair value of a long-lived asset, are by their
+nature, highly subjective judgments. Changes to one or more of the assumptions utilized in such an analysis could materially affect our impairment conclusions
+for long-lived assets.
+Income Taxes. We are required to estimate our income tax liability in each jurisdiction in which we operate, which includes the US. (including both Federal and state
+income taxes) and numerous foreign countries.
+Various judgments are required in evaluating our income tax positions and determining our provisions for income taxes. During the ordinary course of our business, there
+are certain transactions and calculations for which the ultimate income tax determination may be uncertain. In addition, we may be subject to examination of our income
+tax returns by various tax authorities which could result in adverse outcomes. For these reasons, we establish a liability associated with unrecognized tax benefits based
+on estimates of whether additional taxes and interest may be due. We adjust this liability based upon changing facts and circumstances, such as the closing of a tax audit,
+the closing of a tax year upon the expiration of a statute of limitations, or the reﬁnement of an estimate. Should any of the factors considered in determining the adequacy
+of this liability change significantly, an adjustment to the liability may be necessary. Because of the potential signiﬁcance of these issues, such an adjustment could be
+material.
+One of the more complex items within our income tax expense is the determination of our annual research and experimentation income tax credit (“R&D credit”). We
+incur approximately $100 million annually in R&D expense. The calculation of the R&D tax credit involves the identification of qualifying projects, and then an
+estimation of the qualifying costs for such projects. Because of the size, nature, and the number of projects worked on in any given year, the calculation can become
+complex and certain judgments are necessary in determining the amount of the R&D credits claimed.
+Loss Contingencies. In the ordinary course of business, we are subject to claims (and potential claims) related to various items including but not limited to the following:
+(i) legal and regulatory matters; (ii) client and vendor contracts; (iii) product and service delivery matters; and (iv) labor matters. Accounting and disclosure requirements
+for loss contingencies requires us to assess the likelihood of any adverse judgments in or outcomes to these matters, as well as the potential ranges of probable losses. A
+determination of the amount of reserves for such contingencies, if any, for these contingencies is based on an analysis of the issues, often with the assistance of legal
+counsel. The evaluation of such issues, and our ultimate accounting and disclosure decisions, are by their nature, subject to various estimates and highly subjective
+judgments. Should any of the factors considered in determining the adequacy of any required reserves change significantly, an adjustment to the reserves may be
+necessary. Because of the potential significance of these issues, such an adjustment could be material.
+Detailed Discussion of Results of Operations
+Total Revenues. Total revenues for: (i) 2016 were $761.0 million, a 1% increase from $752.5 million for 2015; and (ii) 2015 were $752.5 million, a slight increase from
+$751.3 million for 2014.
+o The 1% year-over-year increase in total revenues between 2016 and 2015 can be attributed to the 5% growth of our cloud and related solutions revenues,
+driven primarily from continued conversions of customer accounts onto ACP, and increases in revenues from recurring managed services
+arrangements. These increases more than offset the decline in our software and services and maintenance revenues, and negative foreign currency
+movements of approximately $5 million.
+0 The slight increase in revenues between 2015 and 2014 can be primarily attributed to growth in our cloud and related solutions revenues, offset by
+unfavorable foreign currency movements, which had a negative impact to total revenues of approximately $15 million. The grth in our cloud and
+related solutions revenues for 2015 was driven largely by the conversions of new customer accounts onto ACP, and the continued revenue growth from
+our Ascendon solution and international managed services offering, offset by some of the decreases we experienced in our software and services revenues.
+The components of total revenues, discussed in more detail below, are as follows:
+27

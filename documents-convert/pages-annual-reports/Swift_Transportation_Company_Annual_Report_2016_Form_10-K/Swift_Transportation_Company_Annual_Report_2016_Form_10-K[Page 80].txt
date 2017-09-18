@@ -1,0 +1,52 @@
+policy, and provides insight into the quality of management's estimates and variability in the amounts recorded for
+these critical accounting estimates. Our critical accounting estimates include the following:
+Claims Accruals — Insurance and claims expense varies as a percentage of operating revenue, based on the
+frequency and severity of claims incurred in a given period, as well as changes in claims development trends. The
+actual cost to settle our self-insured claim liabilities may differ from our reserve estimates due to legal costs, claims
+that have been incurred but not reported, and various other uncertainties, including the inherent difficulty in estimating
+the severity of the claim and the potential judgment or settlement amount to dispose of the claim. If claims
+development factors that are based upon historical experience had increased by 10%, our claims accrual as of
+December 31, 2016 would have potentially increased by $12.5 million.
+Goodwill and Indeﬁnite-lived Intangible Assets — The test of goodwill and indefinite-lived intangible assets
+requiresjudgment, including the identification of reporting units, assigning assets (including goodwill) and liabilities
+to reporting units and determining the fair value of each reporting unit. Fair value of the reporting unit is determined
+using a combination of comparative valuation multiples of publicly traded companies, internal transaction methods,
+and discounted cash flow models. Estimating the fair value of reporting units includes several significant
+assumptions, including future cash flow estimates, determination of appropriate discount rates, and other
+assumptions that management believed reasonable under the circumstances. Changes in these estimates and
+assumptions could materially affect the determination of fair value and/or goodwill impairment for each reporting
+unit.
+We evaluated goodwill as of November 30, 2016 and 2015 using the qualitative factors prescribed in ASC Topic
+350 to determine whether to perform the two-step quantitative goodwill impairment test. The assessment of
+qualitative factors requires judgment, including identification of reporting units, evaluation of macroeconomic
+conditions, analysis of industry and market conditions, measurement of cost factors, and identification of entity-
+specific events (such as financial performance and changes within our share price). in evaluating these qualitative
+factors, we determined that it was more likely than not that fair value exceeded carrying value for our reporting units
+as of November 30, 2016 and 2015. As such, it was not necessary to perform the two-step quantitative goodwill
+impairment test.
+Truckload and Dedicated are the only reporting units to which goodwill has been allocated, due to their respective
+fair value materiality at the time of the 2007 Transactions. As of December 31, 2016 and 2015, gross goodwill
+allocated to the Truckload segment was $377.0 million and gross goodwill allocated to the Dedicated segment was
+$130.7 million. We recognized accumulated impairment losses of $190.4 million in our Truckload reporting unit
+during 2007 and 2008, $64.1 million in our Dedicated reporting unit during 2007 and no impairment losses thereafter.
+As of December 31, 2016 and 2015 the Truckload reporting unit had a carrying value of $186.6 million and the
+Dedicated reporting unit had a carrying value of $66.7 million.
+Depreciation andAmortization— Selecting the appropriate accounting method requires managementjudgment,
+as there are multiple acceptable methods that are in accordance with US-GAAP, including straight-line, declining-
+balance, and sum-of-the-years' digits. As discussed in Note 2, property and equipment is depreciated on a straight-
+line basis and intangible customer relationships acquired in the 2007 Transactions are amortized on a 150% double-
+declining-balance basis over the useful lives of the assets. We believe that these methods properly spread the
+costs over the useful lives of the assets. Managementjudgment is also involved when determining estimated useful
+lives of the Company's long-lived assets. We determine useful lives of our long-lived assets, based on historical
+experience, as well as future expectations regarding the period we expect to benefit from the asset. Factors affecting
+estimated useful lives of property and equipment may include estimating loss, damage, obsolescence, and company
+policies around maintenance and asset replacement. Factors affecting estimated useful lives of long-lived intangible
+assets may include legal, contractual, or other provisions that limit useful lives, historical experience with similar
+assets, future expectations of customer relationships, among others.
+Impairments of Long-lived Assets — Fair value is determined through various valuation techniques, including
+discounted cash flow models, quoted market values, and third-party independent appraisals, as necessary.
+Estimating fair value includes several significant assumptions, including future cash flow estimates, determination
+of appropriate discount rates, and other assumptions that management believed reasonable under the
+circumstances. Changes in these estimates and assumptions could materially affect the determination of fair value
+and/or impairment.
+76

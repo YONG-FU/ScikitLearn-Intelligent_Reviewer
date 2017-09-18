@@ -1,0 +1,43 @@
+Table,of,Contents
+STRAYER EDUCATION, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+and payroll-related costs for employees that are directly associated with the project are capitalized and will be amortized over the
+estimated useful life of the software once placed into operation. Purchases of property and equipment and changes in accounts
+payable for each of the three years in the period ended December 31, 2016 in the consolidated statements of cash ﬂows have been
+adjusted to exclude noncash purchases of property and equipment transactions during that period.
+Fair Value
+The F air Value Measurement Topic, ASC 820-10 (“ASC 820- 10”), establishes a framework for measuring fair value,
+establishes a fair value hierarchy based upon the observability of inputs used to measure fair value, and expands disclosures about
+fair value measurements. Assets and liabilities are classiﬁed in their entirety within the fair value hierarchy based on the lowest
+level input that is signiﬁcant to the fair value measurement. Under ASC 820-10, fair value of an investment is the price that would
+be received to sell an asset or to transfer a liability to an entity in an orderly transaction between market participants at the
+measurement date. The hierarchy gives the highest priority to assets and liabilities with readily available quoted prices in an
+active market and lowest priority to unobservable inputs which require a higher degree of judgment when measuring fair value, as
+follows:
+0 Level 1 assets or liabilities use quoted prices in active markets for identical assets or liabilities as of the measurement
+date;
+0 Level 2 assets or liabilities use observable inputs, other than quoted market prices, that are either directly or indirectly
+observable in the marketplace for identical or similar assets and liabilities; and
+0 Level 3 assets or liabilities use unobservable inputs that are supported by little or no market activity.
+The Company’s assets and liabilities that are subject to fair value measurement are categorized in one of the three levels
+above. Fair values are based on the inputs available at the measurement dates, and may rely on certain assumptions that may
+affect the valuation of fair value for certain assets or liabilities.
+Goodwill and Indeﬁnite-Lived Intangible Assets
+Goodwill represents the excess of the purchase price of acquired businesses over the amount assigned to the assets acquired
+and liabilities assumed. At the time of an acquisition, the Company assigns the goodwill and related acquired assets and liabilities
+to its reporting units. Accordingly, the Company’s goodwill is allocated to JWMI and NYCDA. Indeﬁnite-lived intangible assets,
+which include trade names, are recorded at fair market value on their acquisition date. An indeﬁnite life was assigned to the trade
+names because they have the continued ability to generate cash flows indeﬁnitely.
+Goodwill and the indefinite-lived intangible assets are assessed at least annually for impairment during the three-month
+period ending September 30, or more frequently if events occur or circumstances change between annual tests that would more
+likely than not reduce the fair value of the respective reporting unit below its carrying amount. During the fourth quarter of
+2016, the Company changed the date of its annual impairment test from September 30 to December 31. The change was made to
+more closely align the impairment testing date with the Company’s planning and forecasting process. The change in the annual
+impairment testing date did not delay, accelerate, or avoid an impairment charge. The Company has determined that this change
+in accounting principle is preferable under the circumstances and does not result in adjustments to its financial statements when
+applied retrospectively. During 2016, the annual impairment test was performed as of September 30, 2016 and was performed
+again as of December 31, 2016.
+Under Accounting Standards Update No. 2011-08, Intangibles-Goodwill and Other (Topic 350): Testing Goodwill for
+Impairment , the Company is permitted, but not required, to ﬁrst assess qualitative factors to determine whether it is necessary to
+perform the more thorough quantitative goodwill impairment test for each reporting unit. Following its
+64

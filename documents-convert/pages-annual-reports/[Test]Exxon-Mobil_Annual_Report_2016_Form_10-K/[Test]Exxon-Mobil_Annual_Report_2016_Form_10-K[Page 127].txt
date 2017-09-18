@@ -1,0 +1,20 @@
+EXHIBIT 12
+EXXON MOBIL CORPORATION
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+Years Ended December 31,
+2016 2015 2014 2013 2012
+(millions of dollars)
+Income from continuing operations attributable to ExxonMobil 7,840 16,150 32,520 32,580 44,880
+Excess/(shortfall) of dividends over earnings of affiliates
+accounted for by the equity method (579) (691) (358) 3 (1,157)
+Provision for income taxes (406) 5,415 18,015 24,263 3 1,045
+Capitalized interest (224) (7) 121 148 (67)
+Noncontrolling interests in earnings of consolidated subsidiaries 535 401 1,095 868 2,801
+7,166 21,268 51,393 57,862 77,502
+Fixed Charges:
+Interest expense - borrowings 390 211 157 137 117
+Capitalized interest 708 482 344 309 506
+Rental cost representative of interest factor 433 5 85 618 612 640
+1,531 1,278 1,119 1,058 1,263
+Total adjusted earnings available for payment of fixed charges 7 8,697 22,546 52,512 58,920 78,765 7
+Number of times fixed charges are earned 7 5.7 17.6 46.9 55.7 62.47

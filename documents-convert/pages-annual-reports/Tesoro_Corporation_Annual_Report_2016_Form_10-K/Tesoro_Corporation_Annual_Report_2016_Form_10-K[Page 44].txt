@@ -1,0 +1,45 @@
+[ mseussmw ammo]
+OPERATIONAL DATA AN D RESULTlSlanagement uses average revenue per barrel and average revenue per MMBtu to evaluate performance and compare
+proﬁtability to other companies in the industry. We calculate average revenue per barrel as revenue divided by total throughput and total processing volumes,
+respectively, while average revenue per MMBtu is calculated as revenue divided by total volume. Investors and analysts use these ﬁnancial measures to help
+analyze and compare companies in the industry on the basis of operating performance. These ﬁnancial measures should not be considered as an alternative to
+segment operating income, revenues and operating expenses or any other measure of financial performance presented in accordance with U.S. GAAP.
+MARKET OVERVIEW. During the past year, spot prices of the commodities that TLLP handles, including crude oil, natural gas, and reﬁned products, declined,
+while natural gas liquids increased. The lower price levels along with increased volatility in the commodity price environment created challenges for crude oil
+and natural gas producers who modiﬁed their drilling and production plans. The U.S. oil and gas drilling rig count continued to see declines in the ﬁrst half of
+2016 but reversed course in the second half of the year leaving year-over-year count relatively unchanged. Looking forward, price appreciation, improved
+producer economics, advanced drilling techniques and better well management along with a backlog of uncompleted wells available for completion could
+positively impact overall U.S. production volumes.
+Lower retail prices and favorable economic conditions throughout 2016 supported increased demand for reﬁned products from TLLP’s downstream
+reﬁning and marketing customers. Changes in the U.S. political landscape, namely around the lifting of the 40 year old crude oil export ban in December 2015,
+had a minimal impact on TLLP’s business and TLLP believes this will continue to be the case in the short term. TLLP continues to monitor the impact of these
+changes in market prices and fundamentals as it relates to TLLP’s business. Currently, TLLP believes its diversiﬁed portfolio, which is underpinned by long-term
+contracts, many of which are supported by minimum volume commitments, adequately supports its goals and objectives outlined above.
+The results of operations for TLLP’s natural gas gathering and processing operations are shown in Mbpd, per barrel, MMBtu and per MMBtu amounts.
+TLLP SEGMENT OPERATING DATA
+Years Ended December 31,
+2016 2015 2014
+Gathering
+Gas gathering volume (thousands of MMBtu/d) (a) (b) 879 1,077 1,046
+Average gas gathering revenue per MMBtu (a) S 0.51 S 0.43 S 0.41
+Crude oil gathering pipeline throughput (Mbpd) 212 188 123
+Average crude oil gathering pipeline revenue per barrel S 1.72 S 1.79 S 1.46
+Crude oil trucking volume (Mbpd) 30 38 49
+Average crude oil trucking revenue per barrel S 3.23 S 3.25 S 3.23
+Processing
+NGLs processing throughput (Mbpd) (b) 7.3 7.6 6.5
+Average keep-whole fee per barrel of NGLs S 36.53 S 34.46 S 35.51
+Fee-based processing throughput (thousands of MMBtu/day) (b) 639 743 693
+Average fee-based processing revenue per MMBtu S 0.45 S 0.39 S 0.30
+Terminalling and Transportation
+Terminalling throughput (Mbpd) 984 955 952
+Average terminalling revenue per barrel S 1.33 S 1.08 S 0.96
+Pipeline transportation throughput (Mbpd) 868 825 822
+Average pipeline transportation revenue per barrel S 0.39 S 0.39 S 0.36
+(a) Prior to deconsolidation of Rendezvous Gas Services, L.L.C. ("R65") as of January 1, 2016, fees paid by TLLP to RGS were eliminated upon consolidation and third-
+party transactions, including revenue and throughput volumes, were included in TLLP’s results of operations. Third party volumes associated with R65, included in
+gas gathering volume for the years ended December 31, 2015 and 2014, were 141 thousand MMBtu/d and 148 thousand MMBtu/d, respectively, and reduced
+TLLP’s average gas gathering revenue per MMBtu by approximately $0.05 for both periods.
+(b) TLLP commenced natural gas gathering and processing operations with the acquisition of the Rockies Natural Gas Business in December 2014. Per day calculations
+only reflect the period of 2014 that TLLP owned the Rockies Natural Gas Business.
+December 31, 2016 | 41

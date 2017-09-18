@@ -1,0 +1,43 @@
+“Permitted Reﬁnancing Indebtedness” means any Indebtedness of TLLP or any of its Restricted Subsidiaries issued in exchange for, or the net proceeds
+of which are used to renew, reﬁmd, reﬁnance, replace, defease or discharge other Indebtedness of TLLP or any of its Restricted Subsidiaries (other than
+intercompany Indebtedness), including Indebtedness that extends, reﬁnances, renews, replaces, defeases or reﬁmds Permitted Reﬁnancing Indebtedness;
+provided that:
+(1) the principal amount (or accreted value, if applicable) of such Permitted Reﬁnancing Indebtedness does not exceed the principal amount of
+(or accreted value, if applicable), plus accrued and unpaid interest on, the Indebtedness renewed, refunded, reﬁnanced, replaced, defeased or discharged
+(plus all accrued interest on the Indebtedness and the amount of all fees and expenses, including premiums, incurred in connection therewith);
+(2) such Permitted Reﬁnancing Indebtedness has a ﬁnal maturity date equal to or later than the ﬁnal maturity date of, and has a Weighted
+Average Life to Maturity equal to or greater than the Weighted Average Life to Maturity of, the Indebtedness being renewed, refunded, reﬁnanced,
+replaced, defeased or discharged;
+(3) if the Indebtedness being renewed, reﬁlnded, reﬁnanced, replaced, defeased or discharged is subordinated in right of payment to the Notes or
+the Note Guarantees, such Permitted Reﬁnancing Indebtedness is subordinated in right of payment to, the Notes or the Note Guarantees, on terms at
+least as favorable to the Holders of Notes as those contained in the documentation governing the Indebtedness being renewed, refunded, reﬁnanced,
+replaced, defeased or discharged; and
+(4) such Indebtedness is incurred either by TLLP or by a Restricted Subsidiary who is an obligor on or guarantor of the Indebtedness being
+renewed, refunded, reﬁnanced, replaced, defeased or discharged.
+“Person” means any individual, corporation, partnership, joint venture, association, joint-stock company, trust, unincorporated organization, limited
+liability company or government or other entity.
+“Prospectus” means the Prospectus, dated May 9, 2016, relating to the issuance and sale of the Initial Notes.
+“Qualiﬁedﬂwner” means, collectively (a) Tesoro Corporation, (b) each Person of which Tesoro Corporation is a direct or indirect Subsidiary and (c)
+each Person which is a direct or indirect Subsidiary of any Person described in clause (a) or (b) of this deﬁnition.
+“Raftiingégencies” means Moody’s and S&P.
+“Rating Decline” means the occurrence of a decrease in the rating of the Notes by one or more gradations by each of Moody’s and S&P (including
+gradations within the rating categories, as well as between categories), within 60 days before or after the earlier of (x) a Change of Control, (y) the date of
+public notice of the occurrence of a Change of Control or (2) public notice of the intention of TLLP to effect a Change of Control (which 60-day period shall
+be extended so long as the rating of the Notes is under publicly announced consideration for possible downgrade by either Moody’s or S&P); provided,
+however, that a Rating Decline otherwise arising by virtue of a particular reduction in rating will not be deemed to have occurred in respect of a particular
+Change of Control (and thus will not be deemed a Rating Decline for purposes of the deﬁnition of Change of Control Triggering Event) unless each of
+Moody’s and S&P making the reduction in rating to which this deﬁnition would otherwise apply announces or publicly conﬁrms or informs the Trustee in
+writing at TLLP’s or its request that the reduction was the result, in whole or in part, of any event or circumstance comprised of or arising as a result of, or in
+respect of, the applicable Change of Control (whether or not the applicable Change of Control has occurred at the time of the Rating Decline).
+“Reference Period” means, with respect to any date of determination, the four most recent ﬁscal quarters of TLLP for which internal ﬁnancial statements
+are available.
+“ResponsibleiQfﬁcer” when used with respect to the Trustee, means any ofﬁcer within the Corporate Trust Administration of the Trustee (or any
+successor group of the Trustee) or any other ofﬁcer of the Trustee customarily performing ﬁinctions similar to those performed by any of the above designated
+ofﬁcers and also means, with respect to a particular corporate trust matter, any other ofﬁcer to whom such matter is referred because of his knowledge of and
+familiarity with the particular subject.
+“Restricted Investment” means an Investment other than a Permitted Investment.
+“Restrictedﬁubsidiary” of a Person means any Subsidiary of the referent Person that is not an Unrestricted Subsidiary.
+“S&P” means Standard & Poor’s Ratings Services, a division of The McGraw—Hill Companies, Inc., or any successor to the rating agency business
+thereof.
+“SEC” means the Securities and Exchange Commission.
+-16-

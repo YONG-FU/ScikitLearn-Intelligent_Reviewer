@@ -1,0 +1,41 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+4. FAIR VALUE MEASUREMENTS
+We perform fair value measurements in accordance with ASC 820. ASC 820 defines fair value as the price that would be received from selling an asset or paid to
+transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and
+liabilities required to be recorded at their fair values, we consider the principal or most advantageous market in which we would transact and consider assumptions
+that market participants would use when pricing the assets or liabilities, such as inherent risk, transfer restrictions and risk of nonperformance.
+ASC 820 establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when
+measuring fair value. An asset’s or a liability’s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair
+value measurement. ASC 820 establishes three levels of inputs that may be used to measure fair value:
+- Level 1: quoted prices in active markets for identical assets or liabilities;
+- Level 2: inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices in active markets for similar assets or liabilities,
+quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by
+observable market data for substantially the full term of the assets or liabilities; or
+- Level 3: unobservable inputs that are supported by little or no market activity and that are significant to the fair values of the assets or liabilities.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Our assets and liabilities measured at fair value on a recurring basis, excluding accrued interest components, consisted of the following (Level 1 and Level 2 inputs
+are deﬁned above):
+Mayﬂ, 2016 Mayﬂ, 2015
+Fair Value Measurements Fair Value Measurements
+Using Llput Types Usinngput Types
+(in millions) _ Level 1 Level 2 Total Level 1 Level 2 Total
+{Assets: I
+Money market funds $ 3,750 $ — $ 3,750 $ — $ — $ —
+I US Treasury securities 214 — 214 668 — 668 I
+Commercial paper debt securities — 2,155 2,155 — 9,203 9,203
+I Corporate debt securities and other 179 35,095 35,274 190 28,654 28,844 I
+Derivative ﬁnancial instruments — 122 122 — 74 74
+I Total assets $ 4,143: $ 37,372: 39 41,515: is 858: $ 37,931: $ 38,789]
+Liabilities:
+I Derivative ﬁnancial instruments + 21 8 2 1 8 $ + 2447 244 I
+Our valuation techniques used to measure the fair values of our marketable securities that were classified as Level 1 in the table above were derived from quoted
+market prices and active markets for these instruments exist. Our valuation techniques used to measure the fair values of Level 2 instruments listed in the table
+above, the counterparties to which have high credit ratings, were derived from the following: non-binding market consensus prices that were corroborated by
+observable market data, quoted market prices for similar instruments, or pricing models, such as discounted cash ﬂow techniques, with all significant inputs derived
+from or corroborated by observable market data including LIBOR—based yield curves, among others.
+Based on the trading prices of our $40.1 billion and $42.0 billion of borrowings, which consisted of senior notes and the related fair value hedges that were
+outstanding as of May 31, 2016 and 2015, respectively, the estimated
+108

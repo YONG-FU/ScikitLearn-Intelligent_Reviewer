@@ -1,0 +1,29 @@
+SECTION 2.08 LIBO Rate Determination .
+(a) Methods to Determine LIBO Rate . The Administrative Agent shall determine the LIBO Rate by using the methods described in the deﬁnition of
+the term “LIBO Rate,” and shall give prompt notice to Mondeléz and the applicable Borrowers and Lenders of each such LIBO Rate.
+(b) Inability to Determine LIBO Rate . In the event that the LIBO Rate cannot be determined by the methods described in clause (a), (b), (c) or (d) of
+the deﬁnition of “LIBO Rate,” then:
+(i) the Administrative Agent shall forthwith notify Mondeléz and the Lenders that the interest rate cannot be determined for such LIBO Rate
+Advance or Floating Rate Bid Advances, as the case may be;
+(ii) with respect to each LIBO Rate Advance, such Advance will, on the last day of the then existing Interest Period therefor, be prepaid by the
+Borrower or be automatically Converted into a Base Rate Advance; and
+(iii) the obligation of the Lenders to make LIBO Rate Advances or Floating Rate Bid Advances or to Convert Base Rate Advances into LIBO Rate
+Advances shall be suspended until the Administrative Agent shall notify Mondeléz and the Lenders that the circumstances causing such suspension no longer
+exist.
+(c) InadequateLIBDLRate. If, with respect to any LIBO Rate Advances, the Required Lenders notify the Administrative Agent that (i) they are
+unable to obtain matching deposits in the London interbank market at or about 11:00 am. (London time) on the second Business Day before the making of a
+Borrowing in sufficient amounts to fund their respective LIBO Rate Advances as a part of such Borrowing during the Interest Period therefor or (ii) the LIBO Rate
+for any Interest Period for such Advances will not adequately reﬂect the cost to such Required Lenders of making, funding or maintaining their respective LIBO
+Rate Advances for such Interest Period, the Administrative Agent shall forthwith so notify Mondeléz and the Lenders, whereupon (A) the Borrower of such LIBO
+Rate Advances will, on the last day of the then existing Interest Period therefor, either (x) prepay such Advances or (y) Convert such Advances into Base Rate
+Advances and (B) the obligation of the Lenders to make, or to Convert Base Rate Advances into, LIBO Rate Advances shall be suspended until the Administrative
+Agent shall notify Mondeléz and the Lenders that the circumstances causing such suspension no longer exist. In the case of clause (ii) above, each such Lender shall
+certify its cost of funds for each Interest Period to the Administrative Agent and Mondeléz as soon as practicable but in any event not later than 10 Business Days
+after the last day of such Interest Period.
+SECTION 2.09 Fees.
+(a) Facility Fee . Mondeléz agrees to pay to the Administrative Agent for the account of each Lender a facility fee (the “ Facility Fee ”) on the
+aggregate amount of such Lender’s Commitment (whether drawn or undrawn) from the date hereof in the case of each Initial Lender and from the effective date
+specified in the Assignment and Acceptance pursuant to which it became a Lender in the case of each other Lender until the Termination Date at the Applicable
+Facility Fee Rate, in each case payable on the last Business Day of each March, June, September and December until the Termination Date and on the Termination
+Date.
+-23-

@@ -1,0 +1,36 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+15. EARNINGS PER SHARE
+The following table sets forth the computation of basic and diluted net income per share (in thousands, except per share
+information):
+7 Year Ended December 371, 7
+: 2016 2015 2014
+Numerator: 7 7 7 7 7 7
+Net income 55 536,112 $ 319,361 $ 251,723
+Denominator:
+Denominator for basic earnings per share - weighted-average shares
+outstanding 155,134 158,874 169,879
+Effect of dilutive employee stock awards:
+Employee stock awards 1,950 1,488 1,391
+Denominator for diluted earnings per share - weighted-average shares
+outstanding j 157,084,, j 160,362i j 171,270i
+Basic earnings per share $ 3.46 $ 2-01 $ 1-48
+Diluted earnings per share 51; 3,41 51; 1,99 51; 1.47
+Anti-dilutive weighted-average shares from stock awards 322 2,151 3,026
+The weighted-average number of shares outstanding used in the computation of basic and diluted earnings per share does
+not include the effect of the potential outstanding common stock from the Company's Convertible Senior Notes (the
+"Convertible Notes") and warrants. The effects of these potentially outstanding shares were not included in the calculation of
+diluted earnings per share because the effect would have been anti-dilutive.
+The Company uses the treasury stock method for calculating any potential dilutive effect of the conversion spread on its
+Convertible Notes on diluted earnings per share, if applicable, as upon conversion, the Company will pay cash up to the
+aggregate principal amount of the Convertible Notes to be converted and pay or deliver, as the case may be, cash, shares of
+common stock or a combination of cash and shares of common stock, at the Company ’s election, in respect of the remainder, if
+any, of the Company’s conversion obligation in excess of the aggregate principal amount of the Convertible Notes being
+converted. The conversion spread will have a dilutive impact on diluted earnings per share when the average market price of
+the Company’s common shares for a given period exceeds the conversion price of $90.00 per share. For the years ended
+December 31, 2016, 2015 and 2014, the Convertible Notes have been excluded from the computation of diluted earnings per
+share as the effect would be anti-dilutive since the conversion price of the Convertible Notes exceeded the average market price
+of the Company’s common stock. In addition, the Company uses the treasury stock method for calculating any potential
+dilutive effect related to the warrants. See Note 12 to the Company's consolidated financial statements for detailed information
+on the Convertible Notes offering.
+F-37

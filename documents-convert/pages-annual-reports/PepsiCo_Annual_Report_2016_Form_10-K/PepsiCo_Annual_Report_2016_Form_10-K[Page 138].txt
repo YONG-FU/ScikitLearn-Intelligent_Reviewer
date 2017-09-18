@@ -1,0 +1,50 @@
+Fair Value Measurements
+The fair values of our financial assets and liabilities as of December 31, 2016 and December 26, 2015 are
+categorized as follows:
+20 1 6 20 1 5
+Assets”) Liabilities‘a’ Assetsw Liabilitiesw
+[Available-for-sale securities: [
+Equity securities (b) $ 82 $ $ 127 $
+[Debt securities (0) f 11,369 7,231 1
+$ 11,451 $ $ 7,358 $
+[Short-term investments (d) S 193 $ $ 193 $ [
+Prepaid forward contracts (6) $ 25 $ $ 27 $
+[Deferred compensation (D $ $ 472 $ $ 474 [
+Derivatives designated as fair value hedging
+instruments:
+[Interest rate (g) $ 66 $ 71 $ 129 $ 12 [
+Derivatives designated as cash ﬂow hedging
+instruments:
+[Foreign exchange (h) $ 51 $ 8 $ 76 $ 6 [
+Interest rate (h) 408 31 1
+[Commodity (I) 7 2 1 7[
+$ 53 $ 417 $ 76 $ 324
+Derivatives not designated as hedging
+instruments:
+Foreign exchange (h) S 2 $ 15 $ 8 $ 10
+[Interest rate (g) 44 56 [
+Commodity (I) 61 26 12 141
+l is 63 _s 41 _$ 64 _$ 207[
+Total derivatives at fair value 0) s 182 g is 529 g $ 269 g s 543 g
+[Total ,8 11,851 _8 1,001 _$ 7,847 _$ 1,0171
+(a) Unless otherwise noted, financial assets are classified on our balance sheet within prepaid expenses and other current assets and other assets.
+Financial liabilities are classified on our balance sheet within accounts payable and other current liabilities and other liabilities. Unless
+specifically indicated, all ﬁnancial assets and liabilities are categorized as Level 2 assets or liabilities.
+(b) Based on the price of common stock. Categorized as a Level 1 asset. These equity securities are classiﬁed as investments in noncontrolled
+affiliates.
+(c) Based on quoted broker prices or other significant inputs derived from or corroborated by observable market data. As of December 31,
+2016, $4.6 billion and $6.8 billion of debt securities were classified as cash equivalents and short-term investments, respectively. As of
+December 26, 2015, $4.5 billion and $2.7 billion of debt securities were classified as cash equivalents and short-term investments,
+respectively. All of our available-for—sale debt securities have maturities of one year or less.
+((1) Based on the price of index funds. Categorized as a Level 1 asset. These investments are classified as short-term investments and are used
+to manage a portion of market risk arising from our deferred compensation liability.
+(e) Based primarily on the price of our common stock.
+(f) Based on the fair value of investments corresponding to employees’ investment elections.
+(g) Based on LIBOR forward rates. As of December 26, 2015, amounts related to non-designated instruments are presented on a net basis on
+our balance sheet.
+(h) Based on recently reported market transactions of spot and forward rates.
+(i) Based on recently reported market transactions, primarily swap arrangements.
+(j) Unless otherwise noted, derivative assets and liabilities are presented on a gross basis on our balance sheet. Amounts subject to enforceable
+master netting arrangements or similar agreements which are not offset on the balance sheet as of December 31, 2016 and December 26,
+2015 were not material. Collateral received against any of our asset positions was not material.
+1 19

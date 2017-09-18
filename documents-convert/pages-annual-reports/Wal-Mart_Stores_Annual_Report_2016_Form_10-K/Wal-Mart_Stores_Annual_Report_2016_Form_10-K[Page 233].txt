@@ -1,0 +1,53 @@
+Table of Contents
+Note 6. Short-term Borrowings and Long-term Debt
+Short—term borrowings consist of commercial paper and lines of credit. Short-term borrowings outstanding at January 31, 2016 and 2015 were $2.7 billion and $1.6
+billion , respectively. The following table includes additional information related to the Company's short-term borrowings for fiscal 2016 , 2015 and 2014 :
+Fiscal Years Ended January 31,
+(Amounts in millions) 2016 2015 2014
+[Maximum amount outstanding at any month-end $ 10,551 — $ 11,581 — $ 13,318 ‘
+Average daily short-term borrowings 4,536 7,009 8,971
+’Weighted-average interest rate 1.5% 0.5% 0.1% l
+The Company has various committed lines of credit, committed with 23 financial institutions, totaling $15.0 billion as of January 31, 2016 and 2015. The
+committed lines of credit are summarized in the following table:
+Fiscal Years Ended January 31,
+2016 2015
+(Amounts in millions) Available Drawn Undrawn Available Drawn Undrawn
+[Five-year credit facility (1) $ 6,000 _ $ — _ $ 6,000 — $ 6,000 _ $ — _ $ 6,000 l
+364-day revolving credit facility (I) 9,000 — 9,000 9,000 — 9,000
+lrotal $ 15,000 : $ — $ 15,000 : $ 15,000 : $ — $ 15,000 1
+(1) In June 2015, the Company renewed and extended its existing ﬁve-year credit facility and its existing 364-day revolving credit facility, both of which are used to support its commercial
+paper program.
+The committed lines of credit mature at various times between June 2016 and June 2020 , carry interest rates generally ranging between LIBOR plus 10 basis
+points and LIBOR plus 75 basis points, and incur commitment fees ranging between 1.5 and 4.0 basis points. In conjunction with the lines of credit listed in the
+table above, the Company has agreed to observe certain covenants, the most restrictive of which relates to the maximum amount of secured debt.
+Apart from the committed lines of credit, the Company has trade and stand-by letters of credit totaling $4.5 billion and $4.6 billion at January 31, 2016 and 2015 ,
+respectively. These letters of credit are utilized in normal business activities.
+The Company's long-term debt, which includes the fair value instruments further discussed in Note 8, consists of the following:
+January 31, 2016 January 31, 2015
+Maturity Dates
+(Amounts in millions) By Fiscal Year Amount Average Rate (1) Amount Average Rate 0’
+’Unsecured debt — — — — ‘
+Fixed 2017 - 2045 $ 32,500 4.5% $ 36,000 4.3%
+1 Variable 2019 500 5.3% 500 5.4% 1
+Total US. dollar denominated 33,000 36,500
+1 Fixed 2023 - 2030 2,708 3.3% 2,821 3.3% l
+Variable — —
+’ Total Euro denominated 2,708 2,821 ‘
+Fixed 2031 - 2039 4,985 5.3% 5,271 5.3%
+’ Variable — — ‘
+Total Sterling denominated 4,985 5,271
+1 Fixed 2021 83 1.6% 596 1.0% 1
+Variable — 255 0.6%
+’ Total Yen denominated 83 851 ‘
+Total unsecured debt 40,776 45,443
+lTotal other debt (in USD) (Z) 183 237 l
+Total debt 40,959 45,680
+’Less amounts due within one year (2,745) (4,791) ‘
+Long-term debt $ 38,214 $ 40,889
+(1) The average rate represents the weighted-average stated rate for each corresponding debt category, based on year-end balances and year-end interest rates. Interest costs are also impacted
+by certain derivative ﬁnancial instruments described in Note 8.
+(2) A portion of other debt at January 31, 2016 and 2015 includes secured debt in the amount of $131 million and $139 million , respectively, which was collateralized by property that had an
+aggregate carrying amount of approximately $13 million and $19 million , respectively.
+At January 31, 2016 and 2015 , the Company had $500 million in debt with embedded put options. The issuance of money market puttable reset securities in the
+amount of $500 million is structured to be remarketed in connection with the annual reset
+40

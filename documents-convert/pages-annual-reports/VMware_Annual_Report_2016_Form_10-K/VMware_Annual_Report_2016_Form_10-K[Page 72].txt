@@ -1,0 +1,32 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+mobile management and security space. The total purchase price of $1,128 million included cash of $1,104 million and the fair value of assumed unvested equity
+attributed to pre-combination services totaling $24 million . The purchase price included $868 million of goodwill and $250 million of identiﬁed intangible assets,
+with useful lives ranging from two to eight years. The majority of the goodwill and intangible assets is deductible for US. income tax purposes.
+Merger consideration totaling $300 million , including $75 million that was held in escrow, was payable to certain employees of AirWatch subject to speciﬁed
+future employment conditions and was recognized as expense over the requisite service period on a straight-line basis. Compensation expense of $14 million ,
+$145 million and $141 million was recognized during the years ended December 31, 2016 , 2015 and 2014 respectively.
+VMware assumed all of AirWatch’s unvested stock options and restricted stock outstanding at the completion of the acquisition with an estimated fair value of
+$134 million . Of the total fair value, $24 million was allocated to the purchase price and $110 million was allocated to future services and is being expensed over
+the remaining requisite service periods on a straight-line basis.
+The following pro forma financial information summarizes the combined net income for VMware and AirWatch, which was signiﬁcant for purposes of the
+unaudited pro forma ﬁnancial information disclosure, as though the companies were combined at the beginning of 2013. The amount of revenue from AirWatch
+was not considered signiﬁcant, and as such, has not been separately presented in the unaudited pro forma ﬁnancial information disclosure below.
+Supplemental information on an unaudited pro forma basis as if AirWatch had been acquired on January 1, 2013 is presented as follows (table in millions):
+For the Year Ended
+December 31, 2014
+’Pro forma adjusted net income $ 849 1
+Pro forma adjustments primarily include compensation expense for certain key employees subject to specified future employment conditions, intangible
+amortization, stock-based compensation and related tax effects.
+Definite-Lived Intangible Assets, Net
+The following table summarizes the changes in the carrying amount of deﬁnite-lived intangible assets for the years ended December 31, 2016 and 2015 (table
+in millions):
+December 31,
+2016 2015
+’Balance, beginning of the year $ 616 $ 748 1
+Additions to intangible assets related to business combinations 40 13
+’Amortization expense (129) (145) ‘
+Reduction related to sale of assets (10) —
+’Balance, end of the year $ 517 $ 616 l
+69

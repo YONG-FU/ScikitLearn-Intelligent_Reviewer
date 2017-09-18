@@ -1,0 +1,48 @@
+For example, the use of mobile devices to access content and transact on our platforms is developing rapidly,
+and we may fail to continue to offer superior user experience in order to increase or maintain the level of mobile
+engagement on our platforms, or to successfully develop the mobile community. The variety of technical and other
+configurations across different mobile devices and platforms increases the challenges associated with this
+environment. If we are unable to continue to attract significant numbers of new mobile consumers and increase or
+maintain levels of mobile engagement, our ability to maintain or grow our business would be materially and
+adversely affected.
+Our business generates and processes a large amount of data, and the improper use or disclosure of such data could harm
+our reputation as well as have a material adverse effect on our business and prospects.
+Our business, including our cloud computing business, generates and processes a large quantity of personal,
+transaction, demographic and behavioral data. We face risks inherent in handling and protecting large volumes of
+data. In particular, we face a number of challenges relating to data from transactions and other activities on our
+platforms, including:
+0 protecting the data in and hosted on our system, including against attacks on our system by outside parties
+or fraudulent behavior or improper use by our employees;
+0 addressing concerns related to privacy and sharing, safety, security and other factors; and
+0 complying with applicable laws, rules and regulations relating to the collection, use, disclosure or security of
+personal information, including any requests from regulatory and government authorities relating to
+such data.
+The PRC regulatory and enforcement regime with regard to data security and data protection is evolving. On
+July 1, 2015, the National People’s Congress Standing Committee promulgated the National Security Law, or the
+New National Security Law, which took effect on the same date and replaced the former National Security Law
+promulgated in 1993. The New National Security Law covers various types of national security including technology
+security and information security. According to the New National Security Law, the state shall ensure that the
+information system and data in important areas are secure and controllable. In addition, according to the
+New National Security Law, the state shall establish national security review and supervision institutions and
+mechanisms, and conduct national security reviews of key technologies and IT products and services that affect or
+may affect national security. In particular, we are obligated under the New National Security Law to safeguard
+national security by, for example, providing evidence related to activities endangering national security, providing
+convenience and assistance for national security work, and providing necessary support and assistance for national
+security institutions, public security institutions as well as military institutions. As such, we may have to provide
+data to PRC government authorities and military institutions for compliance with the New National Security Law,
+which may result in additional expenses to us and subject us to negative publicity which could harm our reputation
+with users and negatively affect the trading price of our ADSs. There are uncertainties on how the New National
+Security Law will be implemented in practice. PRC regulators, including the MIIT and the Cyberspace
+Administration, have been increasingly focused on regulation in the areas of data security and data protection. We
+expect that these areas will receive greater attention and focus from regulators, as well as attract public scrutiny
+and attention going forward. This greater attention, scrutiny and enforcement, including more frequent inspections,
+could increase our compliance costs and, subject us to heightened risks and challenges associated with data security
+and protection. If we are unable to manage these risks, our reputation and results of operations could be
+materially and adversely affected.
+In addition, pursuant to our data sharing agreement with Ant Financial Services and Alipay, which sets forth
+data security and confidentiality protocols, and subject to relevant legal requirements and limitations, we have
+agreed to a broad sharing of data with Ant Financial Services through a data sharing platform that we own and
+operate. Cainiao Network, Koubei and Alibaba Pictures have also entered into agreements with us to participate in
+the data sharing platform. We also grant expressly limited access to specified data on our data platform to certain
+other participants in our ecosystem that provide services to merchants and consumers, such as retail operating
+15

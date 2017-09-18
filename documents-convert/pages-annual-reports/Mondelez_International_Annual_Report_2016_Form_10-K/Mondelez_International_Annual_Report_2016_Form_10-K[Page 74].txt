@@ -1,0 +1,49 @@
+Iable,of,ContentS
+Employee Beneﬁt Plans:
+We provide a range of beneﬁts to our current and retired employees. These include pension beneﬁts, postretirement health care beneﬁts and
+postemployment benefits depending upon jurisdiction, tenure, job level and other factors. Local statutory requirements govern many of the benefit
+plans we provide around the world. Local government plans generally cover health care beneﬁts for retirees outside the United States, Canada and
+United Kingdom. Our U.S., Canadian and UK. subsidiaries provide health care and other beneﬁts to most retired employees. Our postemployment
+beneﬁt plans provide primarily severance benefits for eligible salaried and certain hourly employees. The cost for these plans is recognized in
+earnings primarily over the working life of the covered employee.
+Financial Instruments:
+We use financial instruments to manage our currency exchange rate, commodity price and interest rate risks. We monitor and manage these
+exposures as part of our overall risk management program, which focuses on the unpredictability of ﬁnancial markets and seeks to reduce the
+potentially adverse effects that the volatility of these markets may have on our operating results. A principal objective of our risk management
+strategies is to reduce signiﬁcant, unanticipated earnings ﬂuctuations that may arise from volatility in currency exchange rates, commodity prices and
+interest rates, principally through the use of derivative instruments.
+We use a combination of primarily currency forward contracts, futures, options and swaps; commodity forward contracts, futures and options; and
+interest rate swaps to manage our exposure to cash flow variability, protect the value of our existing currency assets and liabilities and protect the
+value of our debt. See Note 8, Financial Instruments, for more information on the types of derivative instruments we use.
+We record derivative ﬁnancial instruments on a gross basis and at fair value in our consolidated balance sheets within other current assets or other
+current liabilities due to their relatively short-term duration. Cash ﬂows from derivative instruments are classiﬁed in the consolidated statements of
+cash ﬂows based on the nature of the derivative instrument. Changes in the fair value of a derivative that is designated as a cash ﬂow hedge, to the
+extent that the hedge is effective, are recorded in accumulated other comprehensive earnings / (losses) and reclassiﬁed to earnings when the
+hedged item affects earnings. Changes in fair value of economic hedges and the ineffective portion of all hedges are recognized in current period
+earnings. Changes in the fair value of a derivative that is designated as a fair value hedge, along with the changes in the fair value of the related
+hedged asset or liability, are recorded in earnings in the same period. We use non-U.S. dollar denominated debt to hedge a portion of our net
+investment in non-U.S. operations against adverse movements in exchange rates, with currency movements related to the debt and net investment
+and the related deferred taxes recorded within currency translation adjustment in accumulated other comprehensive earnings / (losses).
+In order to qualify for hedge accounting, a speciﬁed level of hedging effectiveness between the derivative instrument and the item being hedged must
+exist at inception and throughout the hedged period. We must also formally document the nature of and relationship between the derivative and the
+hedged item, as well as our risk management objectives, strategies for undertaking the hedge transaction and method of assessing hedge
+effectiveness. Additionally, for a hedge of a forecasted transaction, the significant characteristics and expected term of the forecasted transaction
+must be speciﬁcally identiﬁed, and it must be probable that the forecasted transaction will occur. If it is no longer probable that the hedged forecasted
+transaction will occur, we would recognize the gain or loss related to the derivative in earnings.
+When we use derivatives, we are exposed to credit and market risks. Credit risk exists when a counterparty to a derivative contract might fail to fulﬁll
+its performance obligations under the contract. We reduce our credit risk by entering into transactions with counterparties with high quality,
+investment grade credit ratings, limiting the amount of exposure with each counterparty and monitoring the financial condition of our counterparties.
+We also maintain a policy of requiring that all signiﬁcant, non-exchange traded derivative contracts with a duration of one year or longer are governed
+by an International Swaps and Derivatives Association master agreement. Market risk exists when the value of a derivative or other financial
+instrument might be adversely affected by changes in market conditions and commodity prices, currency exchange rates or interest rates. We
+manage derivative market risk by limiting the types of derivative instruments and derivative strategies we use and the degree of market risk that we
+plan to hedge through the use of derivative instruments.
+Commodity cash flow hedges . We are exposed to price risk related to forecasted purchases of certain commodities that we primarily use as raw
+materials. We enter into commodity forward contracts primarily for wheat, sugar and other sweeteners, soybean and vegetable oils and cocoa.
+Commodity forward contracts generally are not subject to the accounting requirements for derivative instruments and hedging activities under the
+normal purchases exception. We also use commodity futures and options to hedge the price of certain input costs, including cocoa, energy costs,
+sugar and other sweeteners, wheat, packaging, dairy, corn, and soybean and vegetable oils. Some of these derivative instruments are highly
+effective and qualify for hedge accounting treatment. We also sell commodity futures to unprice future purchase commitments, and we occasionally
+use related futures to cross-hedge a commodity exposure. We are not a party to leveraged derivatives and, by policy, do not use ﬁnancial
+instruments for speculative purposes.
+71

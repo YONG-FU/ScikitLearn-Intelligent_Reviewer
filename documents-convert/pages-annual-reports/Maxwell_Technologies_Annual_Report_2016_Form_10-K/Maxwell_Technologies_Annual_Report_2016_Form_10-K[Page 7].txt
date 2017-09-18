@@ -1,0 +1,43 @@
+The third part of our strategy is focused on our dry battery electrode technology, which has the potential to be a revolutionary technology with a large market
+opportunity, particularly in electric vehicles. As with ultracapacitors, our proprietary, high throughput manufacturing process for dry battery electrode produces
+highly reliable electrode material with uniform characteristics resulting in enhanced product performance and long term durability. We believe that lithium ion
+batteries are the key enabling technology for vehicle electrification, and as such, cost reduction and performance improvement have become critical targets for the
+world’s leading lithium ion battery manufacturers and automotive OEMS. By applying our proprietary, fundamental dry electrode manufacturing process and trade
+secrets to lithium ion batteries, we believe that we can create significant performance and cost benefits when compared to today’s state of the art technology. This
+innovation is only viable because of our leadership in ultracapacitor innovation, as well as our proprietary dry electrode manufacturing experience and evolution
+over many years. With the automotive industry shifting towards electrification, several large global players in the automotive and battery industries are
+independently evaluating our dry battery electrode technology as a potentially viable improvement to existing technology solutions. In 2016, we signed a joint
+development agreement with a leading global automotive OEM as well as a global tier one automotive supplier on a proof-of-concept to develop and validate pilot-
+Volume dry battery electrode performance, which targets a speciﬁc electric vehicle platform expected to be released in approximately 2022. In experiments and
+testing to date, significant performance and cost advantages of our dry electrode manufacturing process compared with wet electrode technology have been
+identified and we are progressing on track with the remaining key milestones under this proof-of-concept, while the objective of the development effort still
+requires further validation of the viability and scalability in a fully commercialized electric vehicle system. We are also experiencing increased interest from
+additional large, brand name, global players in the energy storage and automotive industries regarding future joint development and commercialization efforts.
+Unlocking the value of this technology for our customers, our partners and our shareholders has become a key priority for Maxwell. Given recent successes in the
+proof-of-concept development activities and the increasing interest from global leaders in the automotive and energy storage markets, we have begun to shift more
+investment towards our dry battery electrode technology and anticipate broader development and commercialization collaborations as we complete the current
+proof-of-concept activities towards the end of 20 17.
+Products and Applications
+Our products incorporate our know-how and proprietary energy storage and power delivery technologies at both the component and system levels for
+specialized, high-value applications that demand “life-of-the-application” reliability.
+Ultracapacitors
+Ultracapacitors, also known as electrochemical double-layer capacitors (“EDLC”) or supercapacitors, store energy electrostatically. Although ultracapacitors
+are electrochemical devices, minimal chemical reactions are involved in their energy storage mechanism. Their electrostatic energy storage mechanism is fully
+reversible, allowing ultracapacitors to be rapidly charged and discharged hundreds of thousands to millions of times with minimal performance degradation.
+Compared with electrolytic capacitors, which have very low energy storage capacity and discharge power too rapidly for many power delivery applications,
+ultracapacitors have much greater energy storage capacity and can deliver energy over time periods ranging from fractions of a second to several minutes.
+Compared with batteries, which require minutes or hours to fully charge or discharge, ultracapacitors discharge and recharge in as little as fractions of a
+second. Although ultracapacitors store only about five to ten percent as much electrical energy as a battery of comparable size, they can deliver or absorb electric
+energy up to 100 times more rapidly than batteries. Because they operate reliably through hundreds of thousands to millions of charge cycles, compared with only
+hundreds to a few thousand equivalent cycles for batteries, ultracapacitors have significantly higher lifetime energy throughput, which equates to signiﬁcantly
+lower cost on a life cycle basis.
+We link our ultracapacitor cells together in multi-cell modules to satisfy energy storage and power delivery requirements of varying voltages. Both individual
+cells and multi-cell products can be charged from any primary energy source, such as a battery, generator, fuel cell, solar panel, wind turbine or electrical outlet.
+Virtually any device or system whose intermittent peak power demands are greater than its average continuous power requirement is a candidate for an
+ultracapacitor-based energy storage and power delivery solution.
+Our ultracapacitor products have signiﬁcant advantages over batteries, including:
+0 the ability to charge and discharge up to 100 times faster,
+0 significantly lower weight per unit of power delivery;
+0 higher charge/discharge turnaround efficiency, minimizing energy loss;
+0 the ability to operate reliably and continuously in extreme temperatures (-40° C to +65° C);
+5

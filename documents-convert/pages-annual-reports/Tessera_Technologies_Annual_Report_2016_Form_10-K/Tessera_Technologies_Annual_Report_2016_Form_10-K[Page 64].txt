@@ -1,0 +1,38 @@
+Table of Contents
+NOTE 7 — FAIR VALUE
+The Company follows the authoritative guidance fair value measurement and the fair value option for ﬁnancial assets and financial liabilities. Fair value is deﬁned
+as the exchange price that would be received for an asset or paid to transfer a liability, or an exit price, in the principal or most advantageous market for the asset or
+liability in an orderly transaction between market participants on the measurement date. The established fair value hierarchy requires an entity to maximize the use
+of observable inputs and minimize the use of unobservable inputs when measuring fair value. There are three levels of inputs that may be used to measure fair
+value:
+Level 1 Quoted prices in active markets for identical assets.
+Level 2 Observable market-based inputs or unobservable inputs that are corroborated by market data.
+Level 3 Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets. Level 3 assets and
+liabilities include financial instruments whose value is determined using pricing models, discounted cash ﬂow methodologies, or similar
+techniques, as well as instruments for which the determination of fair value requires significant management judgment or estimation.
+When applying fair value principles in the valuation of assets, we are required to maximize the use of quoted market prices and minimize the use of unobservable
+inputs. We calculate the fair value of our Level 1 and Level 2 instruments based on the exchange traded price of similar or identical instruments, where available,
+or based on other observable inputs. There were no significant transfers into or out of Level 1 or Level 2 that occurred between December 31, 2014 and December
+3 1, 2015.
+The following is a list of the Company’s assets required to be measured at fair value on a recurring basis and where they were classified within the hierarchy as of
+December 31, 2015 (in thousands):
+Quoted
+Prices in Signiﬁcant
+Active Markets Other Signiﬁcant
+for Identical Observable Unobservable
+Assets Inputs Inputs
+Fair Value _ (Level 1) _ (Level 2) _ (Level 3)
+lAssets l
+Marketable securities
+l Money market funds(1) $ 715 s 715 $ — $ — 1
+Corporate bonds and notes (2) 256,182 — 256,182 —
+l Municipal bonds and notes (2) 70,703 — 70,703 — 1
+Treasury and agency notes and bills (2) 26,880 — 26,880 —
+] Commercial paper (2) 5,380 — _ 5,380 _ — 1
+Total Assets $ 359,860 $ 715 $ 359,145 $ —
+The following footnotes indicate where the noted items were recorded in the Consolidated Balance Sheet at December 31, 2015:
+(1) Reported as cash and cash equivalents.
+(2) Reported as short-term investments.
+The following is a list of the Company’s assets required to be measured at fair value on a recurring basis and where they were classified within the hierarchy as of
+December 31, 2014 (in thousands):
+F - 16

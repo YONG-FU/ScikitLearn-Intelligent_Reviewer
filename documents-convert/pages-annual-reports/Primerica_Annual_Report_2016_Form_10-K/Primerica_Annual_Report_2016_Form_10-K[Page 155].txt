@@ -1,0 +1,33 @@
+(FINANCIAL STATEMENTS — NOTE 18 i)
+(18) Other Comprehensive Income
+The components of other comprehensive income (“OCI”), including the income tax expense or benefit
+allocated to each component, were as follows:
+7 Year Ended December 31, r
+r f 2016 2015 2014 :
+7 (In thousands) 7
+Foreign currency translation adjustments:
+Change in unrealized foreign currency translation gains
+(losses) before income taxes $ 6,689 $(41,929) $(20,527)
+Income tax expense (benefit) on unrealized foreign currency
+translation gains (losses) 81 (447) (234)
+Change in unrealized foreign currency translation gains
+(losses), net of income taxes $ 6,608 $(41,482) $(20,293)
+Unrealized gain (losses) on available-for-sale securities:
+Change in unrealized holding gains (losses) arising during
+period before income taxes $20,500 $(65,920) $ 11,228
+Income tax expense (benefit) on unrealized holding gains
+(losses) arising during period 7,174 (23,074) 3,930
+Change in unrealized holding gains (losses) on
+available—for—sale securities arising during period, net of
+income taxes 13,326 (42,846) 7,298
+Reclassification from accumulated OCI to net income for
+(gains) losses realized on available—for—sale securities (3,955) 1,596 $ 794
+Income tax (expense) benefit on (gains) losses reclassified
+from accumulated OCI to net income (1,384) 560 278
+Reclassification from accumulated OCI to net income for
+(gains) losses realized on available—for—sale securities,
+net of income taxes (2,571) 1,036 516
+Change in unrealized gains (losses) on
+available—for—sale securities, net of income taxes and
+reclassification adjustment $10,755 $(41,810) $ 7,814
+Primerica 2016 Annual Report 143

@@ -1,0 +1,44 @@
+We also offer a wide range of services that are designed to help customers derive additional value from Red
+Hat technologies. Our consulting services assist customers to enable infrastructure, application integration,
+middleware, cloud, mobile and storage solutions. Our support services provide customers with technical support
+to assist with implementing, configuring and using Red Hat technologies. Our training services help populate
+customers and partners with skilled Red Hat certified professionals.
+Red Hat, Inc. was incorporated in Connecticut in March 1993 as ACC Corp., Inc., which subsequently
+changed its name to Red Hat Software, Inc. Red Hat Software, Inc. reincorporated in Delaware in September
+1998 and changed its name to Red Hat, Inc. in June 1999. Except as otherwise indicated, all references in this
+report to “we”, “us”, “our”, the “Company”, the “registrant” or “Red Hat” refer to Red Hat, Inc. and its
+subsidiaries. Our fiscal year ends on the last day of February, and we identify our fiscal years by the calendar
+years in which they end. For example, we refer to the fiscal year ended February 29, 2016 as “fiscal 2016.”
+OUR BUSINESS
+We use the open source software development and licensing model to provide our offerings to customers
+primarily on a subscription basis. Subscriptions for our offerings are marketed and sold to customers directly and
+through business partners.
+Development and licensing of Red Hat’s open source offerings
+The open source software development model allows us to use the collective input, resources and
+knowledge of a global community of contributors who collaborate to develop, maintain and enhance software.
+We develop our offerings by working with open source development communities, often in a leadership role.
+Red Hat sponsors a number of open source communities, including the CentOS project, the Ceph community
+project, the Fedora Project, FeedHenry, GlusterFS, the Boss community projects and OpenShift Origin. We are
+also an active contributor in other communities such as Apache Camel, Cloud Native Computing Foundation,
+Linux Kernel, Open Container Initiative, Open Platform for NFV, OpenStack and Project Kubernetes. Our role
+helps us to benefit from the efforts of these communities, which we believe enhances acceptance and support of
+our offerings and technologies. Additionally, the open and transparent nature of these communities provides our
+customers and potential customers, who may also be part of these open source communities, with access and
+insights into, and the ability to inﬂuence, the future direction of our offerings.
+Under the open source licensing model, a software developer distributes the software under an open source
+license, such as the GNU General Public License (“GPL”), GNU Lesser General Public License or Apache
+License. Open source licenses provide relatively broad rights for recipients of the software to use, copy, modify
+and redistribute the software. These rights afford significant latitude for recipients to inspect, suggest changes to,
+customize or enhance the software.
+The open source model provides an inherent level of transparency and choice that contrasts with the
+proprietary software model. Under the proprietary software model, a software vendor generally develops the
+software itself or acquires components from other vendors, without the input from a wider community of
+participants. The vendor generally licenses to the user only the machine-readable binary (or object) code version
+of the software, with no or limited rights to copy, modify or redistribute the software, and does not make the
+underlying source code available to the user or other developers. Moreover, peer review and collaborative
+enhancements are more difficult because of the lack of access to the source code.
+The scale and efficiency of open source software development has greatly increased through the availability
+of collaborative technologies and cloud-based tools, such as email lists, websites and code repositories. These
+technologies have enabled a global community of developers to collaborate on more complex open source
+projects, many of which are commercially funded.
+5

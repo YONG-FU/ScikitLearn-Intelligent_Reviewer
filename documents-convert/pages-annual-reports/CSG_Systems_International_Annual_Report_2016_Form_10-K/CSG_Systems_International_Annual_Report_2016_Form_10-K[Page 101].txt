@@ -1,0 +1,26 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+(“ Net Share Settlement ”), then the Company shall issue and deliver to the Holder, as provided in Section 2(e), a number of Warrant
+Shares computed using the following formula:
+Where:
+X = the number of Warrant Shares to be issued to the Holder.
+Y = the number of Warrant Shares subject to the applicable Exercise Notice.
+A = the Fair Market Value as of the Exercise Date.
+B = the Exercise Price as of the Exercise Date.
+* = multiplied by.
+((1) Net Cash Settlement . If (i) the Holder has requested to settle the exercise of this Warrant through
+payment of cash by the Company to the Holder, net of the Exercise Price, in lieu of issuing any Warrant Shares (“ Net Cash Settlement”)
+in accordance with Section 2(a) and the Company agrees, in its sole discretion, to effect such Net Cash Settlement in lieu of the settlement
+election made by the Holder in the Exercise Notice (in which case the Company shall so notify the Holder in writing within two (2)
+Business Days following the Exercise Date) or (ii) the Holder makes a Net Cash Settlement Election pursuant to Section 3(e)(ii)), then the
+Company shall issue and deliver to the Holder an amount of cash computed using the following formula:
+X = Y * (A-B)
+Where:
+X = the Net Cash Settlement amount.
+Y = the number of Warrant Shares subject to the applicable Exercise Notice.
+A = the Fair Market Value as of the Exercise Date.
+B = the Exercise Price as of the Exercise Date.
+* = multiplied by.
+The Company shall make any payment of such Net Cash Settlement amount to the Holder by wire transfer of immediately available funds
+to an account or accounts designated by the Holder in the Exercise Notice within five (5) Business Days following the Exercise Date (or,
+in the case of a Net Cash Settlement Election, within five (5) Business Days following delivery of the Net Cash Settlement Election
+Notice).

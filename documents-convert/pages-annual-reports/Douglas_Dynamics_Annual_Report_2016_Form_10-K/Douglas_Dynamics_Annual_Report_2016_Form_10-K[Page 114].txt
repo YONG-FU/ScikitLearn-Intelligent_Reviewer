@@ -1,0 +1,37 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+17. Valuation and qualifying accounts (Continued)
+against the reserve as items were disposed of and increases related to acquired businesses.
+Increases (deductions) to the valuation of deferred tax assets relate to the reversals due to changes
+in management’s judgments regarding the future realization of the underlying deferred tax assets.
+18. Changes in Accumulated Other Comprehensive Loss by Component
+Changes to accumulated other comprehensive loss by component for the year ended December 31,
+2016 is as follows:
+Unrealized
+Net Loss Retiree
+on Interest Health
+Rate Beneﬁt Pension
+Swap Obligation Obligation Total
+Balance at December 31, 2015. . . . . . . . . . . . . . . . . . . . . . $ (937) $1,048 $(6,294) $(6,183)
+Other comprehensive loss before reclassifications . . . . . . . . (500) (32) (569) (1,101)
+Amounts reclassified from accumulated other
+comprehensive loss:(1) . . . . . . . . . . . . . . . . . . . . . . . . . . 242 (79) 449 612
+Balance at December 31, 2016. . . . . . . . . . . . . . . . . . . . . . $(1,195) $ 937 $(6,414) $(6,672)
+(1) Amounts reclassified from accumulated other
+comprehensive loss:
+Amortization of Other Postretirement Benefit items:
+Actuarialgains(a) (127)
+Taxexpense.............................. 48
+Reclassificationnetoftax $ (79)
+Amortization of pension obligation:
+Actuariallosses(a).......................... 724
+TaXbenefit (275)
+Reclassificationnetoftax $ 449
+Unrealized losses on interest rate swaps reclassified to
+interestexpense 390
+TaXbenefit (148)
+Reclassificationnetoftax...................... $ 242
+(a)—These components are included in the computation of benefit plan costs in Note 11.
+F-51

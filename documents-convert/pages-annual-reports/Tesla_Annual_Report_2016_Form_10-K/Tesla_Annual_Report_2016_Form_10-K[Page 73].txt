@@ -1,0 +1,48 @@
+In—process research and development (IPR&D) is an intangible asset accounted as an indefinite-lived asset until the completion
+or abandonment of the associated research and development effort. During the development period, we conduct an IPR&D
+impairment test annually and whenever events or changes in facts and circumstances indicate that it is more likely than not that the
+IPR&D is impaired. Events which might indicate impairment include, but are not limited to, adverse cost factors, deteriorating
+ﬁnancial performance, strategic decisions made in response to economic, market, and competitive conditions, the impact of the
+economic environment on us and our customer base, and/or other relevant events such as changes in management, key personnel,
+litigations, or customers.
+Capitalization of Software Costs
+For costs incurred in development of internal use software, we capitalize costs incurred during the application development
+stage. Costs related to preliminary project activities and post-implementation activities are expensed as incurred. Internal-use software
+is amortized on a straight-line basis over its estimated useful life of three to ten years. We evaluate the useful lives of these assets on
+an annual basis and tests for impairment whenever events or changes in circumstances occur that could impact the recoverability of
+these assets.
+Foreign Currency
+We determine the functional and reporting currency of each of our international subsidiaries and their operating divisions based
+on the primary currency in which they operate. In cases where the functional currency is not the US dollar, we recognize a cumulative
+translation adjustment created by the different rates we apply to accumulated deficits, including current period income or loss, and the
+balance sheet. For each subsidiary, we apply daily functional currency rate to their income or loss and the month end functional
+currency rate to translate the balance sheet.
+Beginning January 1, 2015, the functional currency of each of our foreign subsidiaries changed to their local country’s currency.
+This change was based on the culmination of facts and circumstances that have developed as we expanded our foreign operations over
+the past year. The adjustment of $10.0 million attributable to the current rate translation of non-monetary assets as of the date of the
+change is included in accumulated other comprehensive loss on our Consolidated Balance Sheet.
+Foreign currency transaction gains and losses are a result of the effect of exchange rate changes on transactions denominated in
+currencies other than the functional currency. Transaction gains and losses are recognized in other income (expense), net, in the
+Consolidated Statements of Operations. For the years ended December 31, 2016, 2015, and 2014 we recorded foreign currency
+transaction gains (loss) of $26.1 million, ($45.6) million and $2.0 million.
+Warranties
+We provide a manufacturer’s warranty on all new and certified pre-owned vehicles, production powertrain components and
+systems, and energy products we sell. In addition, we also provide a warranty on the installation and components of the solar energy
+systems we sell for periods typically between 10 to 30 years. We accrue a warranty reserve, which includes our best estimate of the
+projected costs to repair or to replace items under warranty. These estimates are based on actual claims incurred to-date and an
+estimate of the nature, frequency and costs of future claims. These estimates are inherently uncertain and changes to our historical or
+projected warranty experience may cause material changes to our warranty reserve in the future. The portion of the warranty provision
+expected to be incurred within 12 months is classiﬁed as current within accrued liabilities and other, while the remaining amount is
+classified as long-term within other long-term liabilities.
+Accrued warranty activity consisted of the following for the periods presented (in thousands):
+Year Ended December 31,
+2016 2015 2014
+Accrued warranty—beginning ofperiod $ 180,754 $ 129,043 $ 53,182
+Assumed warranty liability from acquisition.......... 31,366 — —
+Warranty costs (79,147) (52,760) (39,903)
+Net changes in liability for pre-existing
+warranties, including expirations and foreign
+exchange (20,084) 1,470 18,599
+Provisionfor 153,766 103,001 97,165
+Accrued warranty—end ofperiod $ 266,655 $ 180,754 $ 129,043
+70

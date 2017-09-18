@@ -1,0 +1,47 @@
+Overview Strategic report Governance
+ti—19 | 20—59 | 60-71 [ @023 ] :I.
+19 DEFERRED TAX ASSETS AND LIABILITIES (CONTINUED)
+Signiﬁcant components of deferred tax asset and liability for the year ended 31 March 2014 are as follows:
+Recognised V
+in other
+Opening Recognised in comprehensive Foreign Closing
+balance proﬁt or loss income exchange balance
+£m £m £m £m Em A
+Deferred tax assets
+Property, plant & equipment 145 (71) — — 74
+Provisions, allowances for doubtful receivables 182 29 — (21) 190
+Derivative ﬁnancial instruments 61 — (61) — —
+Retirement beneﬁts 164 (25) (4) — 135
+Unrealised proﬁt in inventory 76 62 — — 138
+Tax loss 556 (181) — — 375
+Other 2 13 — — 15
+Total deferred tax asset 1,186 (173) (63) (E) 927
+Deferred tax liabilities
+Property, plant & equipment 2 — — — 2
+Intangible assets 676 37 — — 713
+Derivative ﬁnancial instruments — — 133 — 133
+Overseas unremitted earnings 86 55* — — 141
+Total deferred tax liability 764 92 133 — 989
+Presented as deferred tax asset“ 508 284
+Presented as deferred tax liability” (g) (346)
+* included within £55 million is a reversal of £5 million relating to withholding tax incurred on intercompany dividends paid in the year.
+** For balance sheet presentation purposes, deferred tax assets and deferred tax liabilities are offset to the extent they relate to the same taxation authority and are expected to be settled on
+anet basis.
+20 CASH AND CASH EQUIVALENTS
+Cash and cash equivalents consist of the following:
+i 2016 2015 2014'
+As at 31 March Em £m Em A
+Cash and cash equivalents 3,399 3,208 2,260
+included within the cash and cash equivalents balance of £3,399 million (2015: £3,208 million, 2014: £2,260 million) are
+amounts of £12 million (2015: £nil, 2014: £nil) which are not considered to be available for use by the Group at the balance
+sheet date. £7 million (2015: £nil, 2014: £nil) relates to amounts held by solicitors to settle a capital commitment and
+£5 million (2015: £nil, 2014: £nil) relates to amounts that are required by local legislation to be held for use on speciﬁc
+marketing activities.
+21 ALLOWANCES FOR TRADE AND OTHER RECEIVABLES
+Changes in the allowances for trade and other receivables are as follows:
+i 2016 2015 2014 '
+Year ended 31 March Em £m Em A
+At beginning of year 11 8 10
+Change in allowance during the year 49 3 (1)
+Written off — — (1)
+At end of year 60 11 8

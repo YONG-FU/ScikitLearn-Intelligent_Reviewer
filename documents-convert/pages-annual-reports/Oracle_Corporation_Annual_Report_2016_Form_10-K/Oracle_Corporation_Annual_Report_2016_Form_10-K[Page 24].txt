@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+the related software licenses. We incur certain expenses associated with the infrastructures and marketing of our cloud offerings in advance of our ability to
+recognize the revenues associated with these offerings.
+We have also acquired a number of cloud computing companies, and the integration of these companies into our Oracle Cloud strategy may not be as efficient or
+scalable as anticipated, which could adversely affect our ability to fully realize the benefits anticipated from these acquisitions.
+Our success depends upon our ability to develop new products and services, integrate acquired products and services and enhance our existing products and
+services. Rapid technological advances, changing delivery models and evolving standards in computer hardware and software development and communications
+infrastructure, changing and increasingly s0phisticated customer needs and frequent new product introductions and enhancements characterize the industries in
+which we compete. If we are unable to develop new or sufficiently differentiated products and services, enhance and improve our product offerings and support
+services in a timely manner or position and price our products and services to meet demand, customers may not purchase or subscribe to our software, hardware or
+cloud offerings or renew software support, hardware support or cloud subscriptions contracts. Renewals of these contracts are important to the growth of our
+business. In addition, we cannot provide any assurance that the standards on which we choose to develop new products will allow us to compete effectively for
+business opportunities in emerging areas.
+We have continued to refresh and release new offerings of our cloud and on-premise software and hardware products and services, including our Database
+Multitenant, Database In-Memory, SaaS, PaaS, IaaS, DaaS and Oracle Engineered Systems offerings. Our business may be adversely affected if:
+- we do not continue to develop and release these or other new or enhanced products and services within the anticipated time frames;
+- there is a delay in market acceptance of a new, enhanced or acquired product line or service;
+- there are changes in information technology (IT) trends that we do not adequately anticipate or address with our product development efforts;
+- we do not timely optimize complementary product lines and services; or
+- we fail to adequately integrate, support or enhance acquired product lines or services.
+If our security measures for our products and services are compromised and as a result, our data, our customers’ data or our IT systems are accessed
+improperly, made unavailable, or improperly modified, our products and services may be perceived as vulnerable, our brand and reputation could be damaged,
+the IT services we provide to our customers could be disrupted, and customers may stop using our products and services, all of which could reduce our revenue
+and earnings, increase our expenses and expose us to legal claims and regulatory actions. We are in the IT business, and our products and services, including
+our Oracle Cloud offerings, store, retrieve, manipulate and manage our customers’ information and data, external data, as well as our own data. We have a
+reputation for secure and reliable product offerings and related services and we have invested a great deal of time and resources in protecting the integrity and
+security of our products, services and the internal and external data that we manage.
+At times, we encounter attempts by third parties to identify and exploit product and service vulnerabilities, penetrate or bypass our security measures, and gain
+unauthorized access to our or our customers”, partners’ and suppliers” software, hardware and cloud offerings, networks and systems, any of which could lead to the
+compromise of personal information or the confidential information or data of Oracle or our customers. Computer hackers and others may be able to develop and
+deploy IT related Viruses, worms, and other malicious software programs that could attack our products and services, exploit potential security vulnerabilities of our
+products and services, create system disruptions and cause shutdowns or denials of service. This is also true for third-party data, products or services incorporated
+into our own. Data may also be accessed or modified improperly as a result of customer, partner, employee or supplier error or malfeasance and third parties may
+attempt to fraudulently induce customers, partners, employees or suppliers into disclosing sensitive information such as user names, passwords or other information
+in order to gain access to our data, our customers’, suppliers” or partners” data or the IT systems of Oracle, its customers, suppliers or partners.
+22

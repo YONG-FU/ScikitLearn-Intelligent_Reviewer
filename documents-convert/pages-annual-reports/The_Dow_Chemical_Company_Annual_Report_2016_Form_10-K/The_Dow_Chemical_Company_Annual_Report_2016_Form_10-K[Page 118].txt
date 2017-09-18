@@ -1,0 +1,50 @@
+NOTE 14 — EARNINGS PER SHARE CALCULATIONS
+The following tables provide the earnings per share calculations for the years ended December 31, 2016, 2015 and 2014:
+Net Income for Earnings Per Share Calculations - Basic :
+7In millions 201 6 2015 2014 7
+|Net income attributable to The Dow Chemical Company 35 4,318 $ 7,685 $ 3,772 |
+Preferred stock dividends (340) (340) (340)
+Net income attributable to participating securities (1) (22) (51) (27)
+Net income attributable to common stockholders $ 3,956 $ 7,294 $ 3,405 7
+Earnings Per Share Calculations - Basic
+Dollars per share 201 6 2015 2014
+|Net income attributable to The Dow Chemical Company $ 3.90 $ 6.80 $ 3.22 |
+Preferred stock dividends (0.31) (0.30) (0.29)
+7 e 1ncome a r1 u a e o part1c1pat1ng securl 1es 7 7 . . . 7
+lN t ' tt 'b t bl t ' ' ' t (l) (0 02) (0 05) (0 02)
+Net income attributable to common stockholders $ 3.57 $ 6.45 $ 2.91 7
+Net Income for Earnings Per Share Calculations - Diluted :
+7In millions 201 6 2015 2014 7
+[Net income attributable to The Dow Chemical Company 8 4,318 $ 7,685 $ 3,772
+Preferred stock dividends (2) (340) 7 7 (340)
+7 e 1ncome a r1 u a e o part1c1pat1ng securl 1es 7 7 7
+[N t' tt 'b t b1 t ' ' ' 't' (1) (22) (51) (27)
+Net income attributable to common stockholders $ 3,956 $ 7,634 $ 3,405 7
+Earnings Per Share Calculations - Diluted :
+Dollars per share 2016 2015 2014 7
+|Net income attributable to The Dow Chemical Company 35 3.84 $ 6.19 $ 3.18 l
+Preferred stock dividends (2) (0.30) 7 7 (0.29)
+7 e 1ncome a r1 u a e o part1c1pat1ng securl 1es 7 7 . . . 7
+lN t ' tt 'b t bl t ' ' ' t (l) (0 02) (0 04) (0 02)
+Net income attributable to common stockholders $ 3.52 $ 6.15 $ 2.877
+Share Count Information
+Shares in millions 201 6 2015 2014 7
+[Weighted-average common shares - basic (3) 1,108.1 1,130.1 1,170.9
+Plus dilutive effect of stock options and awards 15.1 14.5 16.1
+lPlus dilutive effect of preferred stock (4) 7 7 96.8 —l
+7Weighted-average common shares - diluted 1,123.2 1,241.4 1,187.0 7
+[Stock options and deferred stock awards excluded from EPS calculations (5) 1.9 4.6 5.8
+(1) Deferred stock awards are considered participating securities due to Dow's practice of paying dividend equivalents on
+unvested shares.
+(2) Preferred stock dividends were not added back in the calculation of diluted earnings per share for the periods ended December
+31, 2016 and December 31, 2014, because the effect of an assumed conversion of the Company's Cumulative Convertible
+Perpetual Preferred Stock, Series A ("Preferred Stock") would have been antidilutive.
+(3) On December 30, 2016, the Company converted 4 million shares of Preferred Stock into 96.8 million shares of the Company's
+common stock. As a result of this conversion, 0.5 million shares of common stock are included in "Weighted-average common
+shares - basic” for the period ended December 31, 2016.
+(4) The calculation of diluted earnings per share for the period ending December 31, 2016, excludes 96.3 million shares of
+common stock because the effect of an assumed conversion of Preferred Stock for the full period would have been antidilutive
+(excludes 96.8 million shares for the period ended December 31, 2014).
+(5) These deferred stock awards and outstanding options to purchase shares of common stock were excluded from the calculation
+of diluted earnings per share because the eﬁect of including them would have been antidilutive.
+110

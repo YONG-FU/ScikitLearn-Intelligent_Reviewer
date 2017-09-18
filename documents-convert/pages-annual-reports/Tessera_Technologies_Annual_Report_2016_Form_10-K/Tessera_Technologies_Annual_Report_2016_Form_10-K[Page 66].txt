@@ -1,0 +1,41 @@
+Table of Contents
+Ziptronix
+On August 27, 2015, the Company completed its acquisition of Ziptronix, Inc. (“Ziptronix”) for approximately $39 million in cash, net of $1.5 million in working
+capital (which includes $1.9 million in cash) acquired. Approximately $0.7 million of the consideration was withheld until certain employees complete the term of
+their employment obligations. The acquisition expands the Company's existing advanced packaging capabilities by adding a low-temperature wafer bonding
+technology platform that will accelerate delivery of 2.5D and 3D-IC solutions to semiconductor industry customers.
+Ziptronix’s patented ZiBond® direct bonding and DBI® hybrid bonding technologies deliver scalable, low total cost-of-ownership manufacturing solutions for 3D
+stacking. Ziptronix’s intellectual property has been licensed to Sony Corporation for volume production of CMOS image sensors. Ziptronix’s technology is also
+relevant to next-generation stacked memory, 2.5D FPGAs, RF F ront-End and MEMS devices, among other semiconductor applications. The significant future
+market opportunity for the Company to own Ziptronix contributed to a purchase price in excess of the fair value of the underlying net assets and identified
+intangible assets acquired from Ziptronix and, as a result, the Company has recorded goodwill in connection with this transaction. The business combination
+transaction was accounted for using the acquisition method of accounting.
+Purchase price allocation
+In accordance with the accounting guidance on business combinations, the total purchase price is allocated to the tangible and intangible assets acquired and
+liabilities assumed based on their estimated fair values. Based upon the fair values acquired, the purchase price allocation is as follows (unaudited, in thousands):
+Estimated
+Useful Life
+Amount (Years)
+lNet tangible assets and liabilities: T
+Unbilled contract asset $ 3,380
+Deferred tax assets and liabilities, net (7,671) (1)
+Other accrued liabilities (385)
+$ (4,676)
+’Identified intangible assets: ‘
+Patents/existing technology $ 32,300 5-8
+'Trade name 1,300 8 ‘
+Customer relationships 1,600 2
+{Goodwill 8,037 (2) N/A ]
+$ 43,237
+{Total purchase price $ 38,561 I
+(1) The $7.7 million of deferred tax assets and liabilities, net is the anticipated tax effect from the amortization of identiﬁed intangible assets acquired, net of tax
+benefits from operating losses the Company expects to utilize.
+(2) The Company does not anticipate that any of this goodwill will be deductible for tax purposes.
+The amounts of revenue and earnings that would have been included in the Company’s condensed consolidated statement of operations for the year ended
+December 31, 2015 for the combined entity had the acquisition date been January 1, 2014, are as follows (unaudited, in thousands):
+Revenue Earnings
+’Actual for the year ended December 31, 2014 $ 278,807 $ 170,454 ‘
+Actual for the year ended December 31, 2015 $ 273,300 $ 117,016
+lSupplemental pro forma for the year ended December 31, 2014 (unaudited) $ 282,637 $ 167,165 (1) ‘
+Supplemental pro forma for the year ended December 31, 2015 (unaudited) $ 304,615 (3) $ 137,595 (1) (2) (3)
+F - 1 8

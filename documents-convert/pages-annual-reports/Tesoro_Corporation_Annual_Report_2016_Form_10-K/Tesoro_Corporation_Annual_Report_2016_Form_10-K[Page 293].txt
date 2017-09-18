@@ -1,0 +1,40 @@
+Section 7.05 Notice of Defaults.
+Ifa Default or Event of Default occurs and is continuing and if it is actually known to a Responsible Ofﬁcer of the Trustee, the Trustee will mail to
+Holders of Notes a notice of the Default or Event of Default within 90 days after the later of (a) the date of the Default or Event of Default shall have occurred
+and (b) the date such Responsible Ofﬁcer ﬁrst had such actual knowledge. Except in the case of a Default or Event of Default in payment of principal of,
+premium, if any, or interest on, any Note, the Trustee may withhold the notice if and so long as a committee of its Responsible Ofﬁcers in good faith
+determines that withholding the notice is in the interests of the Holders of the Notes.
+Section 7.06 Reports by Trustee to Holders of the Notes.
+(a) Within 60 days after each May 15 beginning with the May 15 following the date of this Indenture, and for so long as Notes remain outstanding, the
+Trustee will mail to the Holders of the Notes a brief report dated as of such reporting date that complies with TIA § 313(a) (but if no event described in TIA §
+313(a) has occurred within the twelve months preceding the reporting date, no report need be transmitted). The Trustee also will comply with TIA § 313(b)
+(2). The Trustee will also transmit by mail all reports as required by TIA § 313(c).
+(b) A copy of each report at the time of its mailing to the Holders of Notes will be mailed by the Trustee to the Issuers and ﬁled by the Trustee with the
+SEC and each stock exchange on which the Notes are listed in accordance with TIA § 313(d). The Issuers will promptly notify the Trustee when the Notes are
+listed on any stock exchange.
+Section 7.07 Compensation and Indemnity.
+(a) The Issuers will pay to the Trustee from time to time reasonable compensation for its acceptance of this Indenture and services hereunder as such
+parties shall agree in writing from time to time. The Trustee’s compensation will not be limited by any law on compensation of a trustee of an express trust.
+The Issuers will reimburse the Trustee promptly upon request for all reasonable disbursements, advances and expenses incurred or made by it in addition to
+the compensation for its services. Such expenses will include the reasonable compensation, disbursements and expenses of the Trustee’s agents and counsel.
+(b) The Issuers and the Guarantors will indemnify the Trustee against any and all losses, liabilities or expenses incurred by it arising out of or in
+connection with the acceptance or administration of its duties under this Indenture, including the costs and expenses of enforcing this Indenture against the
+Issuers and the Guarantors (including this Section 7.07) and defending itself against any claim (whether asserted by the Issuers, the Guarantors, any Holder or
+any other Person) or liability in connection with the exercise or performance of any of its powers or duties hereunder, except to the extent any such loss,
+liability or expense may be attributable to its negligence or bad faith. The Trustee will notify the Issuers promptly of any claim for which it may seek
+indemnity. Failure by the Trustee to so notify the Issuers will not relieve the Issuers or any of the Guarantors of their obligations hereunder, except to the
+extent that the Issuers are materially prejudiced by such failure to promptly provide notice. The Issuers or such Guarantor will defend the claim and the
+Trustee will cooperate in the defense. The Trustee may have separate counsel and the Issuers will pay the reasonable fees and expenses of such counsel.
+Neither the Issuers nor any Guarantor need pay for any settlement made without its consent, which consent will not be unreasonably withheld.
+(c) The obligations of the Issuers and the Guarantors under this ,Sectionlﬂl will survive the satisfaction and discharge of this Indenture.
+(d) To secure the Issuers’ and the Guarantors’ payment obligations in this Section 7.07, the Trustee will have a Lien prior to the Notes on all money or
+property held or collected by the Trustee, except that held in trust to pay principal and interest on particular Notes. Such Lien will survive the satisfaction
+and discharge of this Indenture.
+(e) When the Trustee incurs expenses or renders services after an Event of Default speciﬁed in Section 601(8) or (9) hereof occurs, the expenses and the
+compensation for the services (including the fees and expenses of its agents and counsel) are intended to constitute expenses of administration under any
+Bankruptcy Law.
+(t) The Trustee will comply with the provisions of TIA § 313(b)(2) to the extent applicable.
+Section 7.08 Replacement of Trustee.
+(a) A resignation or removal of the Trustee and appointment of a successor Trustee will become effective only upon the successor Trustee’s acceptance
+of appointment as provided in this Section 7.08.
+-49-

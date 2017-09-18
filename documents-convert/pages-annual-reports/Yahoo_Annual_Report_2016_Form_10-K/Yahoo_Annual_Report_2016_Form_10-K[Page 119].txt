@@ -1,0 +1,22 @@
+Table,0f,C,0ntents
+The following table sets forth the ﬁnancial assets and liabilities, measured at fair value, by level within the fair value hierarchy as of December 31, 2015 (in
+thousandsy
+Fair Value Measurements at Reporting Date Using
+Assets Level 1 Level 2 Level 3 Total
+Money market funds (1) 9 386,792 $ — $ — $ 386,792 I
+Available—for—sale marketable debt securities:
+| Government and agency securities (1) __ — 6_3_5,917 — 635,917 I
+Commercialp_aper and bank certiﬁcates of deposit (1) — 1,8ﬁ,4194 — 1,_8ﬁ,194
+| Corporate debt securities (1) — 2,918,496 — 2,918,496 I
+Time deposits (1) — 82,703 — 82,703
+Ilﬂaﬂa1b1e-1fogsa1e1eglgty1sieicuﬂt1eis: l
+qther corporate equ_ity securities (2) 197 — — 197
+| Alibaba Group iequ_ity securities 3_1,_1_7_2,3_6_1 — — 31,172,361 l
+i Hortonworks equ_ity securities (2) 83,23 — — 81Q3
+Hortonworks warrants — — 7_8,8_6_1 7_8,8_6_1 l
+Foreign currency derivative contracts (3) — 84,319 — 84,319
+| Financial assets at fair value 9 31,613,513 9 5,565,929 9 78,861 9 37,288,363 l
+Liabmties, 1 , ,
+Foreign currency derivative contracts (3) — (5,661) — (5,661)J
+Total ﬁnancial assets and liabilities at fair value 9 31,643,573 9 5,560,268 9 78,861 9 37,282,702,
+118

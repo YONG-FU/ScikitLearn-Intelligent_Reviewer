@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Mr. Henley, 71, has served as our Vice Chairman of the Board since September 2014. He previously served as our Chairman of the Board from January 2004 to
+September 2014 and has served as a Director since June 1995. He served as our Executive Vice President and Chief Financial Ofﬁcer from March 1991 to July
+2004.
+Mr. Kurian, 49, has been our President, Product Development since January 2015. He served as our Executive Vice President, Product Development from July
+2009 until January 2015. He served as our Senior Vice President of Development from February 2001 until July 2009. Mr. Kurian worked in Oracle Server
+Technologies as Vice President of Development from March 1999 until February 2001. He also held various other positions with us since joining Oracle in 1996.
+Mr. Fowler, 55, has been Executive Vice President, Systems since February 2010. Prior to Oracle’s acquisition of Sun Microsystems, Inc., Mr. Fowler served as
+Sun’s Executive Vice President, Systems Group from May 2006 to February 2010, as Executive Vice President, Network Systems Group from May 2004 to May
+2006 and as Chief Technology Officer, Software Group from July 2002 to May 2004.
+Ms. Daley, 57, has been our Executive Vice President, General Counsel and Secretary since April 2015 and was our Senior Vice President, General Counsel and
+Secretary from October 2007 to April 2015. She served as our Vice President, Legal, Associate General Counsel and Assistant Secretary from June 2004 to
+October 2007, as Associate General Counsel and Assistant Secretary from October 2001 to June 2004 and as Associate General Counsel from February 2001 to
+October 2001. She held various other positions with us since joining Oracle’s Legal Department in 1992.
+Mr. West, 54, has been our Executive Vice President, Corporate Controller and Chief Accounting Officer since April 2015. He served as our Senior Vice President,
+Corporate Controller and Chief Accounting Ofﬁcer from February 2008 to April 2015 and served as our Vice President, Corporate Controller and Chief
+Accounting Officer from April 2007 to February 2008. His previous experience includes 14 years with Arthur Andersen LLP, most recently as a partner.
+Item 1A. Risk Factors
+We operate in rapidly changing economic and technological environments that present numerous risks, many of which are driven by factors that we cannot control
+or predict. The following discussion, as well as our “Critical Accounting Policies and Estimates” discussion in Management’s Discussion and Analysis of Financial
+Condition and Results of Operations (Item 7), highlights some of these risks. The risks described below are not exhaustive and you should carefully consider these
+risks and uncertainties before investing in our securities.
+0ur Oracle Cloud strategy, including our Oracle Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS) and Data as a
+Service (DaaS) oﬂeﬁngs, may adversely aﬂect our revenues and profitability. We offer customers a full range of consumption models, including the
+deployment of our products via our cloud-based SaaS, PaaS, IaaS and DaaS offerings. These business models continue to evolve, and we may not be able to
+compete effectively, generate significant revenues or maintain the profitability of our cloud offerings. Additionally, the increasing prevalence of cloud and SaaS
+delivery models offered by us and our competitors may unfavorably impact the pricing of our on-premise enterprise software offerings and our cloud offerings, and
+has a dampening impact on overall demand for our on-premise software product and service offerings, which has reduced and could continue to reduce our
+revenues and profitability, at least in the near term. If we do not successfully execute our cloud computing strategy or anticipate the cloud computing needs of our
+customers, our reputation as a cloud services provider could be harmed and our revenues and profitability could decline.
+As customer demand for our cloud offerings increases, we experience volatility in our reported revenues and operating results due to the differences in timing of
+revenue recognition between our new software licenses and hardware arrangements relative to our cloud offering arrangements. Customers generally purchase our
+cloud offerings on a subscription basis and revenues from these offerings are generally recognized ratably over the terms of the subscriptions. The deferred revenue
+that results from sales of our cloud offerings may prevent any deterioration in sales activity associated with our cloud offerings from becoming immediately
+observable in our consolidated statement of operations. This is in contrast to revenues associated with our new software licenses arrangements whereby new
+software licenses revenues are generally recognized in full at the time of delivery of
+21

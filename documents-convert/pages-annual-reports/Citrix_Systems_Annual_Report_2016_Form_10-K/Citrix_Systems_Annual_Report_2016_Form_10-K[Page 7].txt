@@ -1,0 +1,47 @@
+PART I
+This Annual Report on Form 10-K contains forward—looking statements within the meaning of Section 27A of the
+Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Actual results
+could differ materially from those set forth in the forward-looking statements. Certain factors that might cause such
+actual results to differ materially from those set forth in these forward-looking statements are included in Part I,
+Item 1A “Risk Factors” beginning on page 13.
+ITEM 1. BUSINESS
+Business Overview
+Citrix is a Delaware corporation founded on April 17, 1989. We deliver solutions to make applications and data secure
+and easy to access, anywhere, anytime and on any device or network.
+The world is in a new era where physical and digital worlds are converging, and where everything is connected. The pace
+of change is exponential and the possibilities for improving how we work and live are limitless.
+Digital transformation is occurring in every industry and is being fueled by unprecedented adoption and convergence of
+mobile, cloud, big data analytics and the Internet of Things (IoT). At the same time, organizations are struggling with
+technological complexity, heterogeneity and information overload.
+Businesses have spent years building unique operating models, investing in countless systems, platforms, and devices
+and then deeply customizing it all. Yet these legacy systems are making it difficult to adopt new innovations, devices and
+platforms needed to move forward. It is also creating new challenges for IT departments that must manage and secure it all.
+Further, an increasing number of workloads are becoming mobile.
+Finally, concerns about security are top of mind for every organization today. And the pressures of the multitude of
+devices, endpoints and networks are straining the limits of existing infrastructures and calling into question traditional device-
+or network-centric security approaches, which cannot keep pace with the new devices, application platforms and networks
+being introduced.
+Our mission is to power a world where people, organizations and things are securely connected and accessible. We aim to
+accomplish this by building the world’s best integrated technology services for secure delivery of apps and data anytime,
+anywhere.
+We market and license our products directly to customers, over the Web, and through independent software vendors, or
+ISVs, in addition to indirectly through systems integrators, or 815, value-added resellers, or VARs, value-added distributors, or
+VADs, original equipment manufacturers, or OEMs and service providers.
+Separation ofGoTo Business
+On January 31, 2017, we completed the separation and subsequent merger of the GoTo family of service offerings of our
+wholly-owned subsidiary, GetGo, to LogMeIn pursuant to a pro rata distribution to our stockholders of 100% of the shares of
+common stock of GetGo, pursuant to a Reverse Morris Trust (RMT) transaction. The GoTo family of service offerings consists
+of GoToMeeting, GoToWebinar, GoToTraining, GoToMyPC, GoToAssist, Grasshopper and OpenVoice, or the GoTo Business,
+and had historically been part of our GoTo Business segment (formerly the Mobility Apps segment). As a result, in 2017, we
+will report the GoTo Business as discontinued operations.
+Products and Services
+We are enabling the future of work by delivering the industry’s most comprehensive and integrated platform for secure
+app and data delivery and network functionality as a cloud-based service through technology leadership in application
+Virtualization, VDI, mobility, networking and cloud. Our products and services target customers of all sizes, from small
+businesses to large global enterprises. Through three functional centers of excellence we administer the research and
+development, marketing and product management for our oﬁerings.
+Workspace Services
+Application Virtualization and VDI
+Our Application Virtualization and VDI solutions give employees the freedom to work from anywhere while cutting IT
+costs, securely delivering Windows, Linux, Web and SaaS apps, plus full Virtual desktops to any device.
+3

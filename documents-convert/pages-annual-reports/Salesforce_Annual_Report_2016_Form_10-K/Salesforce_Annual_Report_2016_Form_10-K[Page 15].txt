@@ -1,0 +1,44 @@
+combination of proprietary and commercially available software. As a result, we are able to spread the cost of
+delivering our services across our user base. In addition, because we do not have to manage thousands of distinct
+applications with their own business logic and database schemas, we believe that we can scale our business faster
+than traditional software vendors. Moreover, we can focus our resources on building new functionality to deliver
+to our customer base as a whole rather than on maintaining an infrastructure to support each of their distinct
+applications.
+Multi-tenancy also allows for faster bug and security fixes, automatic software updates and the ability to
+deploy major releases and frequent, incremental improvements to our services, benefiting the entire user
+community.
+Our services are optimized to run on specific databases and operating systems using the tools and platforms
+best suited to serve our customers rather than on-premise software that must be written to the different hardware,
+operating systems and database platforms existing within a customer’s unique systems environment. Our
+developers build and support solutions and features on a single code base on our chosen technology platform.
+Our efforts are focused on improving and enhancing the features, functionality, performance, availability
+and security of our existing service offerings as well as developing new features, functionality and services. From
+time to time, we supplement our internal research and development activities with outside development resources
+and acquired technology. As part of our business strategy, we periodically acquire companies or technologies,
+and we incorporate the acquired technologies into our solutions. Performance, functional depth, security and the
+usability of our solutions inﬂuence our technology decisions and product direction.
+Our customers access our services from any geography over the Internet via all of the major Internet
+browsers and on most major mobile device operating systems.
+We provide the majority of our services to our customers from infrastructure operated by us but secured
+within third-party data center hosting facilities located in the United States and other countries. These third-party
+data center providers provide space, physical security, continuous power and cooling. The remainder of our
+services operate from cloud computing platform providers who offer Infrastructure as a Service, including
+servers, storage, databases and networking.
+Sources of Revenue
+We derive our revenues primarily from subscription fees for our service. We also derive revenues from
+premier support, which provides customers with additional support beyond the standard support that is included
+in the basic subscription fee.
+We recognize subscription and support revenue ratably over the contract term, beginning on the
+commencement date of each contract. The majority of our professional services contracts are on a time and
+materials basis, for which we generally recognize revenue as the services are rendered.
+Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue,
+depending on whether the revenue recognition criteria have been met. Deferred revenue primarily consists of
+billings or payments received in advance of revenue recognition from subscription services described above and
+is recognized as the revenue recognition criteria are met. Unbilled deferred revenue represents future billings
+under our subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred
+revenue. We generally invoice customers in annual installments. Deferred revenue and unbilled deferred revenue
+are inﬂuenced by several factors, including new business seasonality within the year, the specific timing, size and
+duration of large customer subscription agreements, the timing and compounding effects of customer renewals,
+varying billing cycles of subscription agreements, invoice timing, foreign currency ﬂuctuations and new business
+linearity within the quarter.
+8

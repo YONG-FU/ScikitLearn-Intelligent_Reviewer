@@ -1,0 +1,53 @@
+Mellon (as successor to Citibank NA), as US. trustee, and BNY Trust Company of Canada (as successor to Citi Trust
+Company Canada), as Canadian trustee (the 2023 Indenture), plus accrued and unpaid interest, if any, to the redemption date.
+If we experience one of the kinds of changes of control triggering events specified in the 2023 Indenture, we will be
+required to make an offer to repurchase Senior Notes 2023 at a price equal to 101% of the principal amount of Senior Notes
+2023, plus accrued and unpaid interest, if any, to the date of purchase.
+The 2023 Indenture contains covenants that limit our and certain of our subsidiaries’ ability to, among other things: (i)
+create certain liens and enter into sale and lease-back transactions; (ii) create, assume, incur or guarantee additional
+indebtedness of the Company or the subsidiary guarantors without such subsidiary becoming a subsidiary guarantor of Senior
+Notes 2023; and (iii) consolidate, amalgamate or merge with, or convey, transfer, lease or otherwise dispose of its property and
+assets substantially as an entirety to, another person. These covenants are subject to a number of important limitations and
+exceptions as set forth in the 2023 Indenture. The 2023 Indenture also provides for events of default, which, if any of them
+occurs, may permit or, in certain circumstances, require the principal, premium, if any, interest and any other monetary
+obligations on all the then-outstanding notes to be due and payable immediately.
+Senior Notes 2023 are initially guaranteed on a senior unsecured basis by our existing and future wholly-owned
+subsidiaries that borrow or guarantee the obligations under our existing senior credit facilities. Senior Notes 2023 and the
+guarantees rank equally in right of payment with all of our and our subsidiary guarantors’ existing and future senior
+unsubordinated debt and will rank senior in right of payment to all of our and our subsidiary guarantors’ future subordinated
+debt. Senior Notes 2023 and the guarantees will be effectively subordinated to all of ours and our guarantors’ existing and
+future secured debt, including the obligations under the Revolver and Term Loan B, to the extent of the value of the assets
+securing such secured debt.
+The foregoing description of the 2023 Indenture does not purport to be complete and is qualified in its entirety by
+reference to the full text of the 2023 Indenture, which is filed as an exhibit to the Company’s Current Report on Form 8-K filed
+with the SEC on January 15, 2015.
+Term Loan B
+In connection with the acquisition of GXS, on January 16, 2014, we entered into a second credit facility, which provides
+for a $800 million term loan facility with certain lenders named therein, Barclays Bank PLC (Barclays), as sole administrative
+agent and collateral agent, and with Barclays and RBC Capital Markets as lead arrangers and joint bookrunners (Term Loan B).
+Repayments made under Term Loan B are equal to 0.25% of the original principal amount in equal quarterly installments for
+the life of Term Loan B, with the remainder due at maturity.
+Borrowings under Term Loan B are secured by a first charge over substantially all of our assets on a pari passu basis with
+the Revolver. We entered into Term Loan B and borrowed the full amount of $800 million on January 16, 2014. Term Loan B
+has a seven year term.
+Borrowings under Term Loan B bear interest at a rate per annum equal to an applicable margin plus, at the borrower’s
+option, either (1) the eurodollar rate for the interest period relevant to such borrowing or (2) an ABR rate determined by
+reference to the greatest of (i) the prime rate of Barclays, (ii) the federal funds rate plus 0.50% per annum and (iii) the one
+month eurodollar rate plus 1.00% per annum. The applicable margin for borrowings under Term Loan B will be 2.5% with
+respect to LIBOR borrowings and 1.5% with respect to ABR rate borrowings.
+Currently we have chosen for our borrowings under Term Loan B to bear a ﬂoating rate of interest at a rate per annum
+equal to 2.5% plus the higher of LIBOR or 0.75%. As of June 30, 2016, the interest rate was 3.25%.
+Term Loan B has incremental facility capacity of (i) $250 million plus (ii) additional amounts, subject to meeting a
+“consolidated senior secured net leverage” ratio not exceeding 2.75: 1.00, in each case subject to certain conditions.
+Consolidated senior secured net leverage ratio is defined for this purpose as the proportion of our total debt reduced by
+unrestricted cash, including guarantees and letters of credit, that is secured by our or any of our subsidiaries’ assets, over our
+trailing twelve months net income before interest, taxes, depreciation, amortization, restructuring, share-based compensation
+and other miscellaneous charges.
+Under Term Loan B, we must maintain a “consolidated net leverage” ratio of no more than 4:1 at the end of each financial
+quarter. Consolidated net leverage ratio is defined for this purpose as the proportion of our total debt reduced by unrestricted
+cash, including guarantees and letters of credit, over our trailing twelve months net income before interest, taxes, depreciation,
+amortization, restructuring, share-based compensation and other miscellaneous charges. As of June 30, 2016, our consolidated
+net leverage ratio was 1.3: 1.
+For further details relating to our Term Loan B, please see note 10 "Long-Term Debt" to our Consolidated Financial
+Statements.
+63

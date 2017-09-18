@@ -1,0 +1,53 @@
+Declaration of Eligibility for Benefits (Reduced Tax) under a Tax Treaty for a Non-Resident Person and returned it to our
+transfer agent, ComputerShare Investor Services Inc.
+United States Tax Matters
+US. residents
+The following discussion summarizes certain US. federal income tax considerations relevant to an investment in the
+Common Shares by a US. holder. For purposes of this summary, a “US. holder” is a beneficial owner of Common Shares that
+holds such shares as capital assets under the US. Internal Revenue Code of 1986, as amended (the Code) and is a citizen or
+resident of the United States and not of Canada, a corporation organized under the laws of the United States or any political
+subdivision thereof, or a person that is otherwise subject to US. federal income tax on a net income basis in respect of
+Common Shares. It does not address any aspect of US. federal gift or estate tax, or of state, local or non-US. tax laws and does
+not address aspects of US. federal income taxation applicable to US. holders holding options, warrants or other rights to
+acquire Common Shares. Further, this discussion does not address the US. federal income tax consequences to US. holders
+that are subject to special treatment under US. federal income tax laws, including, but not limited to US. holders owning
+directly, indirectly or by attribution 10% or more of the Company’s voting power; broker-dealers; banks or insurance
+companies; financial institutions; regulated investment companies; taxpayers who have elected mark-to-market accounting;
+tax-exempt organizations; taxpayers who hold Common Shares as part of a “straddle,” “hedge,” or “conversion transaction”
+with other investments; individual retirement or other tax-deferred accounts; taxpayers whose functional currency is not the
+US. dollar; partnerships or the partners therein; S corporations; or US. expatriates.
+The discussion is based upon the provisions of the Code, the Treasury regulations promulgated thereunder, the
+Convention Between the United States and Canada with Respect to Taxes on Income and Capital, together with related
+Protocols and Competent Authority Agreements (the Convention), the administrative practices published by the US. Internal
+Revenue Service (the IRS) and US. judicial decisions, all of which are subject to change. This discussion does not consider the
+potential effects, both adverse and beneficial, of any recently proposed legislation which, if enacted, could be applied, possibly
+on a retroactive basis, at any time.
+Distributions on the Common Shares
+Subject to the discussion below under “Passive Foreign Investment Company Rules,” U.S. holders generally will treat
+the gross amount of distributions paid by the Company equal to the US. dollar value of such dividends on the date the
+dividends are received or treated as received (based on the exchange rate on such date), without reduction for Canadian
+withholding tax (see “Canadian Tax Matters - Dividends - Non-residents of Canada”), as dividend income for US. federal
+income tax purposes to the extent of the Company’s current and accumulated earnings and profits. Because the Company does
+not expect to maintain calculations of its earnings and profits under US. federal income tax principles, it is expected that
+distributions paid to US. holders generally will be reported as dividends.
+Individual U.S. holders will generally be eligible to treat dividends as “qualified dividend income” taxable at
+preferential rates with certain exceptions for short-term and hedged positions, and provided that the Company is not during the
+taxable year in which the dividends are paid (and was not in the preceding taxable year) classified as a “passive foreign
+investment company” (PFIC) as described below under “Passive Foreign Investment Company Rules.” Dividends paid on the
+Common Shares generally will not be eligible for the “dividends received” deduction allowed to corporate U.S. holders in
+respect of dividends from US. corporations.
+If a US. holder receives foreign currency on a distribution that is not converted into US. dollars on the date of receipt,
+the US. holder will have a tax basis in the foreign currency equal to its US. dollar value on the date the dividends are received
+or treated as received. Any gain or loss recognized upon a subsequent sale or other disposition of the foreign currency,
+including an exchange for US. dollars, will be US. source ordinary income or loss.
+The amount of Canadian tax withheld generally will give rise to a foreign tax credit or deduction for US. federal
+income tax purposes (see “Canadian Tax Matters - Dividends - Non-residents of Canada”). Dividends paid by the Company
+generally will constitute “passive category income” for purposes of the foreign tax credit (or in the case of certain U.S. holders,
+“general category income”). The Code, as modified by the Convention, applies various limitations on the amount of foreign tax
+credit that may be available to a US. taxpayer. The Common Shares are currently traded on both the NASDAQ and TSX.
+Dividends paid by a foreign corporation that is at least 50% owned by US. persons may be treated as US. source income
+(rather than foreign source income) for foreign tax credit purposes to the extent they are attributable to earnings and profits of
+the foreign corporation from sources within the United States, if the foreign corporation has more than an insignificant amount
+of US. source earnings and profits. Although this rule does not appear to be intended to apply in the context of a public
+company such as the Company, we are not aware of any authority that would render it inapplicable. In part because the
+30

@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+4. Signiﬁcant equity transactions, restructuring transactions, mergers and acquisitions and equity investments
+(Continued)
+(b) Restructuring of Payment Services (Continued)
+Promissory Note was payable upon the earlier of the occurrence of the Liquidity Event or December 14,
+2018. The Framework Agreement was subsequently amended and pursuant to the terms of the
+amendment, the Promissory Note was cancelled and the amount of the Liquidity Payment which the
+Company would be entitled to receive in the event of a Liquidity Event was increased by US$500 million,
+the principal amount of the cancelled Promissory Note.
+(ii) Intellectual Property License and Software Technology Services Agreement
+Under the terms of this agreement, the Company licenses certain intellectual property and provides
+certain software technology services to Alipay in exchange for a royalty fee and software technology
+services fee in an amount equal to the costs incurred by the Company in providing the software
+technology services plus 49.9% of the consolidated pre-taX income of Alipay and its subsidiaries, subject
+to downward adjustments upon certain dilutive equity issuances by Ant Financial Services or Alipay, but
+in no case below 30.0%. If Alipay incurs a pre-taX loss, the fee that the Company would charge Alipay
+would equal the costs incurred by the Company in providing the software technology services. This
+agreement will terminate at the earlier of (a) the payment of the Liquidity Payment, and (b) such time
+when termination may be required by applicable regulatory authorities in connection with a qualified
+initial public offering by Alipay.
+(iii) Commercial Agreement
+Under the terms of this agreement, the Company receives payment processing services from Alipay, the
+fee rate for which is subject to review and approval by the Company’s independent directors designated
+by Yahoo and SoftBank on an annual basis (the “Payment Processing Fee”). This agreement has an initial
+term of fifty years and shall be renewable thereafter. If the commercial agreement is required by
+applicable regulatory authorities to be modified in certain circumstances, a one-time payment may be
+payable to the Company by Ant Financial Services as compensation for the impact of such adjustment.
+Expenses in connection with the Payment Processing Fee of RMB2,349 million, RMB3,853 million and
+RMB4,898 million were recorded in cost of revenue in the consolidated income statements for the years
+ended March 31, 2014, 2015 and 2016, respectively (Note 23).
+All closing conditions attached to the Framework Agreement and related supplemental arrangements
+were fulfilled in December 2011.
+Restructuring of Payment Services in 2014
+The Framework Agreement and related supplemental arrangements were terminated in August 2014 upon the
+restructuring of the commercial agreements with Payment Services when the Company entered into a share
+and asset purchase agreement (the “2014 SAPA”) with Ant Financial Services, the other parties to the
+Framework Agreement entered into in 2011, Hangzhou Junhan Equity Investment Partnership (“Junhan”) and
+Hangzhou Junao Equity Investment Partnership, a PRC limited partnership the interests in which are held by
+certain members of the Alibaba Partnership.
+Pursuant to the 2014 SAPA, the Company sold the micro loan business and related services (the “Transferred
+Business”) to Ant Financial Services for aggregate cash consideration of RMB3,219 million. In addition, the
+F-37

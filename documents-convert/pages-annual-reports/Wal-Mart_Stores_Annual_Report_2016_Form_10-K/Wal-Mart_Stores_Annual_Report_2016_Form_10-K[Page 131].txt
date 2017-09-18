@@ -1,0 +1,32 @@
+expressed as a percentage and may range from 0% (for achieving less than Threshold Performance), 50% (for achieving at
+least, but no less than, Threshold performance), 100% (for achieving Target performance), or up to 150% (for achieving
+Maximum performance). A percentage of 0% shall be applied to a Performance Measure during an Incentive Year if
+Threshold performance is not achieved. The weighted average of all applicable achievement rates during an Incentive Year is
+referred to as the “Incentive Year Achievement Rate.”
+At the end of the Performance Period, the number of Performance Units that ultimately vest (the “Vested Performance
+Units”) is determined by multiplying : (X) the average of all Incentive Year Achievement Rates during the Performance
+Period and (y) the number of Performance Units granted by this Agreement.
+In some instances, and as set forth more specifically in the summary table at the beginning of this Agreement, your
+Performance Units may be subject to a Performance Period of less than three years.
+1. If your Performance Units are subject to a two-year Performance Period, then the number of Vested Performance
+Units is determined by multiplying : (X) the average of the Incentive Year Achievement Rates during the two-year
+Performance Perrod and (y) the number of Performance Un1ts granted.
+2. If your Performance Units are subject to a one-year Performance Period, then the number of Vested Performance
+Units shall be calculated as the lesser of :
+a) the Incentive Year Achievement Rate for the one-year Performance Period multiplied by the number of
+Performance Units granted; and
+b) one hundred and ten percent (110%) of the result of multiplying : (X) the three year average of the
+Incentive Year Achievement Rate for the one-year Performance Period and the incentive achievement rates
+for the two fiscal years immediately preceding the one-year Performance Period and (y) the number of
+Performance Units granted.
+B. DeliverynofiSharesn Upon the vesting of your Plan Award, you shall be entitled to receive a number of Shares
+equal to the number .of Vested Performance Units as calculated 1n Paragraph 5.A. above less any Shares w1thheld or sold to
+satlsfy taX Withholdlng oblrgatlons as set forth 1n Paragraph 10 below. The Shares shall be dellvered to you as soon as
+administratively feasible, but in any event:
+1. within 150 days of the Vesting Date, or
+2. within 74 days of an Accelerated Vesting pursuant to Paragraph 8 below.
+Such Shares will be deposited into an account in your name with a broker or other third party designated by Walmart.
+You will be responsible for all fees imposed by such designated broker or other third party designated by Walmart.
+Furthermore, Walmart or Wal-Mart Canada Corp. or an Afﬁliate (“WM Canada”), in their sole discretion, also may
+settle your vested RSUs in cash, Shares, or a
+3

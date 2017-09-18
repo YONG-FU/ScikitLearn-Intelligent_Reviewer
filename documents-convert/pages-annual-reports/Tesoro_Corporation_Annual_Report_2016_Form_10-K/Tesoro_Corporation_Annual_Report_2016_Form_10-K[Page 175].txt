@@ -1,0 +1,42 @@
+“Lien” means, with respect to any asset, any mortgage, lien, pledge, charge, security interest or encumbrance of any kind in respect of such asset,
+whether or not ﬁled, recorded or otherwise perfected under applicable law, including any conditional sale or other title retention agreement, any lease in the
+nature thereof, any option or other agreement to sell or give a security interest in and any ﬁling of or agreement to give any ﬁnancing statement under the
+Uniform Commercial Code (or equivalent statutes) of any jurisdiction other than a precautionary ﬁnancing statement respecting a lease not intended as a
+security agreement. In no event shall a right of ﬁrst refusal be deemed to constitute a Lien.
+“Moody’:s” means Moody’s Investors Service, Inc., or any successor to the rating agency business thereof.
+“Netlncome” means, with respect to any speciﬁed Person, the net income (loss) of such Person, determined in accordance with GAAP and before any
+reduction in respect of preferred stock dividends, excluding, however:
+(1) any gain (but not loss), together with any related provision for taxes on such gain (but not loss), realized in connection with:
+(a) any Asset Sale; or
+(b) the disposition of any securities by such Person or any of its Restricted Subsidiaries or the extinguishment of any Indebtedness of such
+Person or any of its Restricted Subsidiaries; and
+(2) any extraordinary gain (but not loss), together with any related provision for taxes on such extraordinary gain
+(but not loss).
+“Net Proceeds” means the aggregate cash proceeds received by TLLP or any of its Restricted Subsidiaries in respect of any Asset Sale (including,
+without limitation, any cash received upon the sale or other disposition of any non-cash consideration received in any Asset Sale), net of:
+(1) the direct costs relating to such Asset Sale, including, without limitation, legal, accounting and investment banking fees, and sales
+commissions, and any relocation expenses incurred as a result of the Asset Sale and any related severance and associated costs, expenses and charges of
+personnel related to the sold assets and related operations,
+(2) taxes paid orpayable as a result of the Asset Sale, in each case, after taking into account any available tax credits or deductions and any tax
+sharing arrangements,
+(3) amounts required to be applied to the repayment of Indebtedness secured by a Lien on the asset or assets that were the subject of such Asset
+Sale and all distributions and payments required to be made to minority interest holders in Restricted Subsidiaries as a result of such Asset Sale, and
+(4) any amounts to be set aside in any reserve established in accordance with GAAP or any amount placed in escrow, in either case for adjustment
+in respect of the sale price of such properties or assets or for liabilities associated with such Asset Sale and retained by TLLP or any of its Restricted
+Subsidiaries until such time as such reserve is reversed or such escrow arrangement is terminated, in which case Net Proceeds shall include only the
+amount of the reserve so reversed or the amount returned to TLLP or its Restricted Subsidiaries from such escrow arrangement, as the case may be.
+“MOLFinancmchaseinﬁgation” means a lease obligation that is not required to be accounted for as a ﬁnancing or capital lease on either the balance
+sheet or the income statement for ﬁnancial reporting purposes in accordance with GAAP. For the avoidance of doubt, a straight-line or operating lease shall
+be considered a Non-Financing Lease Obligation.
+“Non-Recourse Debt” means Indebtedness:
+(1) as to which neither TLLP nor any of its Restricted Subsidiaries (a) provides credit support of any kind (including any undertaking, agreement
+or instrument that would constitute Indebtedness) or (b) is directly or indirectly liable as a guarantor or otherwise, in each case, other than a pledge of
+the Equity Interests of an Unrestricted Subsidiary that is an obligor on such Indebtedness; and
+(2) no default with respect to which (including any rights that the holders of the Indebtedness may have to take enforcement action against an
+Unrestricted Subsidiary) would permit upon notice, lapse of time or both any holder of any other Indebtedness of TLLP or any of its Restricted
+Subsidiaries to declare a default on such other Indebtedness or cause the payment of the Indebtedness to be accelerated or payable prior to its Stated
+Maturity.
+For purposes of determining compliance with Section 4.09 hereof, in the event that any Non—Recourse Debt of any of TLLP’s Unrestricted Subsidiaries
+ceases to be Non-Recourse Debt of such Unrestricted Subsidiary, such event will be deemed to constitute an incurrence of Indebtedness by a Restricted
+Subsidiary of TLLP.
+-11-

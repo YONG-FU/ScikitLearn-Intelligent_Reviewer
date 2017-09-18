@@ -1,0 +1,44 @@
+Our efforts to expand our services beyond the CRM market and to develop our existing services in order
+to keep pace with technological developments may not succeed and may reduce our revenue growth rate and
+harm our business.
+We derive substantially all of our revenue from subscriptions to our CRM enterprise cloud computing
+application services, and we expect this will continue for the foreseeable future. The markets for our Analytics,
+Communities and Internet of Things Clouds remain relatively new and it is uncertain whether our efforts will
+ever result in significant revenue for us. Further, the introduction of significant platform changes and upgrades,
+including our conversion to our new Lightning platform, and introduction of new services beyond the CRM
+market, may not be successful, and early stage interest and adoption of such new services may not result in long
+term success or significant revenue for us. Our efforts to expand our services beyond the CRM market may not
+succeed and may reduce our revenue growth rate.
+Additionally, if we are unable to develop enhancements to and new features for our existing or new services
+that keep pace with rapid technological developments, our business will be harmed. The success of
+enhancements, new features and services depends on several factors, including the timely completion,
+introduction and market acceptance of the feature, service or enhancement. Failure in this regard may
+significantly impair our revenue growth. In addition, because our services are designed to operate on a variety of
+network hardware and software platforms using a standard browser, we will need to continuously modify and
+enhance our services to keep pace with changes in Internet-related hardware, software, communication, browser
+and database technologies. We may not be successful in either developing these modiﬁcations and enhancements
+or in bringing them to market timely. Furthermore, uncertainties about the timing and nature of new network
+platforms or technologies, or modifications to existing platforms or technologies, could increase our research and
+development or service delivery expenses. Any failure of our services to operate effectively with future network
+platforms and technologies could reduce the demand for our services, result in customer dissatisfaction and harm
+our business.
+Additionally, if we fail to anticipate or identify significant Internet-related and other technology trends and
+developments early enough, or if we do not devote appropriate resources to adapting to such trends and
+developments, our business could be harmed.
+Sales to customers outside the United States expose us to risks inherent in international sales.
+We sell our services throughout the world and are subject to risks and challenges associated with
+international business. Historically, sales in Europe and Asia Pacific together have represented approximately
+30 percent of our total revenues, and we intend to continue to expand our international sales efforts. The risks and
+challenges associated with sales to customers outside the United States include:
+- localization of our services, including translation into foreign languages and associated expenses;
+0 laws and business practices favoring local competitors;
+0 pressure on the creditworthiness of sovereign nations, particularly in Europe, where we have customers
+and a balance of our cash, cash equivalents and marketable securities;
+0 liquidity issues or political actions by sovereign nations, which could result in decreased values of
+these balances;
+- foreign currency ﬂuctuations and controls;
+- compliance with multiple, conﬂicting and changing governmental laws and regulations, including
+employment, tax, privacy, anti-corruption, import/export, antitrust, data transfer, storage and
+protection, and industry-specific laws and regulations, including rules related to compliance by our
+third-party resellers;
+19

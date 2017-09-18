@@ -1,0 +1,36 @@
+Item 1A. Risk Factors.
+The following risks could materially and adversely affect our business, ﬁnancial condition, and results of operations, and the trading price of our common
+stock could decline. These risk factors do not identify all of the risks that we face. Our business operations could also be affected by factors that we
+currently consider to be immaterial or that are unknown to us at the present time. Investors should also refer to the other information contained or
+incorporated by reference in this Annual Report on Form 1 0-K for the year ended December 31, 2016, including our consolidated ﬁnancial statements and
+related notes, and our other ﬁlings made from time to time with the Securities and Exchange Commission ("SEC '9.
+Compgygpeciﬁcﬁisks,
+Our product strategy, which is targeted at markets demanding superior video and image quality, may not address the demands of 0 ur target customers and
+may not lead to increased revenue in a timely manner or at all, which could materially adversely affect our results of operations and limit our ability to
+grow.
+We have adopted a product strategy that focuses on our core competencies in video display processing and delivering high levels of Video and image
+quality. With this strategy, we continue to make further investments in the development of our image processor architecture for the digital projector market,
+with particular focus on adding increased performance and functionality. For the mobile device market, our strategy focuses on implementing our intellectual
+property ("IP") to improve the video performance of our customers’ image processors through the use of our MotionEngine® advanced video co—processor
+integrated circuits. This strategy is designed to address the needs of the high-resolution and high-quality segment of these markets. Such markets may not
+develop or may take longer to develop than we expect. We cannot assure you that the products we are developing will adequately address the demands of our
+target customers, or that we will be able to produce our new products at costs that enable us to price these products competitively.
+Achieving design wins involves lengthy competitive selection processes that require us to incur significant expenditures prior to generating any revenue or
+without any guarantee of any revenue related to this business. If we fail to generate revenue after incurring substantial expenses to develop our products,
+our business and operating results would suﬁ’er.
+We must achieve "design wins," that enable us to sell our semiconductor solutions for use in our customers’ products. These competitive selection processes
+typically are lengthy and can require us to incur signiﬁcant research and development expenditures and dedicate scarce engineering resources in pursuit of a
+single customer opportunity. We may not achieve a design win and may never generate any revenue despite incurring signiﬁcant research and development
+expenditures. This could cause us to lose revenue and require us to write off obsolete inventory, and could weaken our position in ﬁxture competitive
+selection processes.
+Even if our product strategy is properly targeted, we cannot assure you that the products we are developing will lead to an increase in revenue from new
+design wins. To achieve design wins, we must design and deliver cost-effective, innovative and integrated semiconductors that overcome the signiﬁcant
+costs associated with qualifying a new supplier and which make developers reluctant to change component sources. Additionally, potential developers may
+be unwilling to select our products due to concerns over our ﬁnancial strength. Further, design wins do not necessarily result in developers ordering large
+volumes of our products. Developers can choose at any time to discontinue using our products in their designs or product development efforts. A design win
+is not a binding commitment by a developer to purchase our products, but rather a decision by a developer to use our products in its design process. Even if
+our products are chosen to be incorporated into a developer’s products, we may still not realize signiﬁcant revenue from the developer if its products are not
+commercially successﬁll or it chooses to qualify, or incorporate the products, of a second source. Additionally, even if our product strategy is successful at
+achieving design wins and increasing our revenue, we may continue to incur operating losses due to the signiﬁcant research and development costs that are
+required to develop competitive products for the digital projection market and mobile market.
+12

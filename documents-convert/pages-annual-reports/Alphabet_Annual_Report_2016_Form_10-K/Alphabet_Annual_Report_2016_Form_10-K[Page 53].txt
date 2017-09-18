@@ -1,0 +1,55 @@
+IaibleiofiCiontents Alphabet Inc.
+We classify all investments that are readily convertible to known amounts of cash and have stated maturities of
+three months or less from the date of purchase as cash equivalents and those with stated maturities of greater than
+three months as marketable securities.
+We determine the appropriate classiﬁcation of our investments in marketable securities at the time of purchase
+and reevaluate such designation at each balance sheet date. We have classified and accounted for our marketable
+securities as available-for—sale. After consideration of our risk versus reward objectives, as well as our liquidity
+requirements, we may sell these securities prior to their stated maturities. As we view these securities as available to
+support current operations, we classify highly liquid securities with maturities beyond 12 months as current assets
+under the caption marketable securities in the accompanying Consolidated Balance Sheets. We carry these securities
+at fair value, and report the unrealized gains and losses, net of taxes, as a component of stockholders’ equity, except
+for unrealized losses determined to be other-than-temporary, which we record within other income (expense), net. We
+determine any realized gains or losses on the sale of marketable securities on a speciﬁc identification method, and
+we record such gains and losses as a component of other income (expense), net.
+Non-Marketable Investments
+We have accounted for non-marketable equity investments either under the equity or cost method. Investments
+through which we exercise significant inﬂuence but do not have control over the investee are accounted for under the
+equity method. Investments through which we are not able to exercise signiﬁcant influence over the investee are
+accounted for under the cost method.
+We have accounted for our non-marketable investments that meet the definition of a debt security as available-
+for-sale securities. Since these securities do not have contractual maturity dates and we do not intend to liquidate
+them in the next 12 months, we have classified them as non—current assets on the accompanying Consolidated Balance
+Sheet.
+Variable Interest Entities
+We make a determination at the inception of each arrangement whether an entity in which we have made an
+investment or in which we have other variable interests is considered a Variable Interest Entity (“VIE”). We consolidate
+VlEs when we are deemed to be the primary beneﬁciary. The primary beneficiary of a VIE is the party that meets both
+of the following criteria: (i) has the power to make decisions that most signiﬁcantly affect the economic performance
+of the VIE; and (ii) has the obligation to absorb losses orthe right to receive beneﬁts that in either case could potentially
+be signiﬁcant to the VIE. Periodically, we determine whether any changes occurred requiring a reassessment of whether
+we are the primary beneﬁciary of a VIE. If we are not deemed to be the primary beneﬁciary in a VIE, we account for
+the investment or other variable interests in a VIE in accordance with applicable GAAP.
+Impairment of Marketable and Non-Marketable Investments
+We periodically review our marketable and non-marketable investments for impairment. If we conclude that any
+of these investments are impaired, we determine whether such impairment is other-than-temporary. Factors we consider
+to make such determination include the duration and severity of the impairment, the reason for the decline in value
+and the potential recovery period and our intent to sell. For debt securities, we also consider whether (1) it is more
+likely than not that we will be required to sell the security before recovery of its amortized cost basis, and (2) the
+amortized cost basis cannot be recovered as a result of credit losses. If any impairment is considered other-than-
+temporary, we will write down the asset to its fair value and record the corresponding charge as other income (expense),
+net.
+Accounts Receivable
+We record accounts receivable at the invoiced amount and we normally do not charge interest. We maintain an
+allowance for doubtful accounts to reserve for potentially uncollectible receivables. We review the accounts receivable
+by amounts due by customers which are past due to identify specific customers with known disputes or collectability
+issues. In determining the amount of the reserve, we make judgments about the creditworthiness of signiﬁcant
+customers based on ongoing credit evaluations. We also maintain a sales allowance to reserve for potential credits
+issued to customers. We determine the amount of the reserve based on historical credits issued.
+Property and Equipment
+We account for property and equipment at cost less accumulated depreciation and amortization. We compute
+depreciation using the straight-line method over the estimated useful lives of the assets. We depreciate buildings over
+periods up to 25 years. We generally depreciate information technology assets over periods up to 7 years. We amortize
+leasehold improvements over the shorter of the remaining lease term or the estimated useful lives of the assets.
+Construction in progress is the construction or development of property and equipment that have not yet been placed
+50

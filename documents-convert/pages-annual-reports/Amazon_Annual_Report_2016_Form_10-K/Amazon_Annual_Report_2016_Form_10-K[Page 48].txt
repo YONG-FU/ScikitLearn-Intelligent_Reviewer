@@ -1,0 +1,48 @@
+Table of Contents
+AWS services. Included in “Other long-term liabilities” on our consolidated balance sheets was $244 million and $499 million of unearned revenue as of
+December 31, 2015 and 2016.
+Foreign Currency
+We have intemationally-focused websites for Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Mexico, the Netherlands, Spain,
+and the United Kingdom Net sales generated from these websites, as well as most of the related expenses directly incurred from those operations, are
+denominated in local functional currencies. The functional currency of our subsidiaries that either operate or support these websites is generally the same as
+the local currency. Assets and liabilities of these subsidiaries are translated into US. Dollars at period-end foreign exchange rates, and revenues and expenses
+are translated at average rates prevailing throughout the period. Translation adjustments are included in “Accumulated other comprehensive loss,” a separate
+component of stockholders’ equity, and in the “Foreign currency effect on cash and cash equivalents,” on our consolidated statements of cash ﬂows.
+Transaction gains and losses including intercompany transactions denominated in a currency other than the ﬁlnctional currency of the entity involved are
+included in “Other income (expense), net” on our consolidated statements of operations. In connection with the settlement and remeasurement of
+intercompany balances, we recorded losses of $98 million and $215 million in 2014 and 2015, and recorded a gain of $62 million in 2016.
+Recent Accounting Prono uncements
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued an Accounting Standards Update (“ASU”) amending revenue recognition
+guidance and requiring more detailed disclosures to enable users of ﬁnancial statements to understand the nature, amount, timing, and uncertainty of revenue
+and cash ﬂows arising from contracts with customers. In August 2015, the FASB deferred the effective date of the revenue recognition guidance to reporting
+periods beginning after December 15, 2017. Early adoption is permitted for reporting periods beginning after December 15, 2016. As we evaluate the impact
+of this ASU, the more signiﬁcant changes that we have identiﬁed relate to the timing of when we recognize revenue and the gross amount of revenue that we
+present. We expect timing changes to include Amazon—branded electronic devices sold through retailers, which will be recognized at the point of sale to the
+retailer rather than to end customers, and the unredeemed portion of our gift cards, which we will begin to recognize over the expected customer redemption
+period, which is substantially within nine months, rather than waiting until gift cards expire or when the likelihood of redemption becomes remote, generally
+two years from the date of issuance. In addition, we anticipate that certain advertising services will be classiﬁed as revenue rather than a reduction in cost of
+sales. We are continuing to evaluate the impact this ASU, and related amendments and interpretive guidance, will have on our consolidated ﬁnancial
+statements. We plan to adopt this ASU beginning in Q1 2018 with a cumulative adjustment to retained earnings as opposed to retrospectively adjusting prior
+periods.
+In July 2015, the FASB issued an ASU modifying the accounting for inventory. Under this ASU, the measurement principle for inventory will change
+from lower of cost or market value to lower of cost and net realizable value. The ASU deﬁnes net realizable value as the estimated selling price in the ordinary
+course of business, less reasonably predictable costs of completion, disposal, and transportation. The ASU is applicable to inventory that is accounted for
+under the ﬁrst-in, ﬁrst-out method and is effective for reporting periods after December 15, 2016, with early adoption permitted. We do not expect adoption
+to have a material impact on our consolidated ﬁnancial statements.
+In November 2015, the FASB issued an ASU amending the accounting for income taxes and requiring all deferred tax assets and liabilities to be
+classiﬁed as non-current on the consolidated balance sheets. We adopted this ASU in Q1 2016 and retrospectively adjusted prior periods. Upon adoption,
+current deferred tax assets of $769 million and current deferred tax liabilities of $ 1 3 million in our December 31, 2015 consolidated balance sheet were
+reclassiﬁed as non-current.
+In February 2016, the FASB issued an ASU amending the accounting for leases. The new guidance requires the recognition of lease assets and liabilities
+for operating leases with terms of more than 12 months, in addition to those currently recorded, on our consolidated balance sheets. Presentation of leases
+within the consolidated statements of operations and consolidated statements of cash ﬂows will be generally consistent with the current lease accounting
+guidance. The ASU is effective for reporting periods beginning after December 15, 2018, with early adoption permitted. We are currently evaluating the
+impact and expect the ASU will have a material impact on our consolidated ﬁnancial statements, primarily to the consolidated balance sheets and related
+disclosures.
+In March 2016, the FASB issued an ASU amending the accounting for stock-based compensation and requiring excess tax beneﬁts and deﬁciencies to
+be recognized as a component of income tax expense rather than equity. This guidance also requires excess tax beneﬁts and deﬁciencies to be presented as an
+operating activity on the statement of cash ﬂows and allows an entity to make an accounting policy election to either estimate expected forfeitures or to
+account for them as they occur. The ASU is effective for reporting periods beginning after December 15, 2016, with early adoption permitted. We will adopt
+this ASU in the ﬁrst quarter of 2017 by recording the cumulative impact of applying this guidance to retained earnings, which we estimate will increase by
+approximately $700 million, and we will continue to estimate expected forfeitures.
+48

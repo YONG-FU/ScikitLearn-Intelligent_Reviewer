@@ -1,0 +1,31 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Our cloud software and on-premise software line of business markets, sells and delivers a broad spectrum of application and platform technologies through our
+SaaS and PaaS offerings, which are certain of our software applications and platforms that are delivered via a cloud-based IT environment that we host, manage
+and support, and through the licensing of our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among
+others.
+The cloud IaaS line of business provides infrastructure cloud services that are enterprise-grade, hosted and supported within the Oracle Cloud to perform elastic
+compute, storage and networking services on a subscription basis; and Oracle Managed Cloud Services, which are comprehensive software and hardware
+management and maintenance services for customer IT infrastructure for a fee for a stated term that are hosted at our Oracle data center facilities, select partner
+data centers or physically on-premise at customer facilities.
+The software license updates and product support line of business generates revenues through the sale of software support contracts related to new software licenses
+purchased by our customers. The software license updates and product support line of business provides our on-premise software customers with rights to software
+product upgrades and maintenance releases, patches released, internet access to technical content, as well as internet and telephone access to technical support
+personnel during the support period.
+The hardware products line of business provides Oracle Engineered Systems, servers, storage, networking, industry-specific hardware, virtualization software,
+operating systems including the Oracle Solaris Operating System and management software to support diverse IT environments, including cloud computing
+environments.
+Our hardware support line of business provides customers with software updates for the software components that are essential to the functionality of our hardware
+products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support services.
+Our services business is comprised of the remainder of our operating segments and offers consulting, advanced customer support services and education services.
+Our consulting line of business primarily provides services to customers in business and IT strategy alignment, enterprise architecture planning and design, initial
+product implementation and integration and ongoing product enhancements and upgrades. Advanced customer support provides support services, both on-premise
+and remote, to our customers to enable increased performance and higher availability of their products and services and also includes certain other services.
+Education services provide training to customers, partners and employees as a part of our mission of accelerating the adoption and use of our cloud, on-premise
+software and hardware offerings.
+We do not track our assets by Operating segments. Consequently, it is not practical to show assets by Operating segment.
+The following table presents summary results for each of our three businesses and for the operating segments of our cloud and on-premise software and hardware
+businesses:
+129

@@ -1,0 +1,53 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 15: Litigation and Contingencies (Continued)
+enriched and violated Sections 25402 and 25403 of the California Corporations Code. On May 3, 2013, the lead plaintiff filed a
+consolidated complaint alleging, among other things, that the defendants concealed material information and made false
+statements related to HP’s acquisition of Autonomy and Autonomy’s Intelligent Data Operating Layer technology and thereby
+violated Sections 10(b) and 20(a) of the Exchange Act, breached their fiduciary duties, engaged in “abuse of control” over HP,
+corporate waste and were unjustly enriched. The litigation was stayed until June 2014. The lead plaintiﬁ filed a stipulation of
+proposed settlement on June 30, 2014. The court declined to grant preliminary approval to this settlement, and, on
+December 19, 2014, also declined to grant preliminary approval to a revised version of the settlement. On January 22, 2015, the
+lead plaintiff moved for preliminary approval of a further revised version of the settlement. On March 13, 2015, the court issued
+an order granting preliminary approval to the settlement. On July 24, 2015, the court held a hearing to entertain any remaining
+objections to the settlement and decide whether to grant final approval of the settlement. On July 30, 2015, the court granted
+final approval to the settlement and denied all remaining objections to the settlement. Three objectors to the settlement appealed
+the court’s final approval order to the Ninth Circuit. Plaintiffs-appellants filed their opening briefs on December 30, 2015. HP’s
+response brief was filed on February 29, 2016, and the reply briefs were filed on May 12, 2016.
+- Autonomy Corporation Limited V. Michael Lynch and Sushovan Hussain. On April 17, 2015, four HP
+subsidiaries (Autonomy Corporation Limited, Hewlett Packard Vision BV, Autonomy Systems, Limited, and Autonomy, Inc.)
+initiated civil proceedings in the UK. High Court of Justice against two members of Autonomy’s former management, Michael
+Lynch and Sushovan Hussain. The Particulars of Claim seek damages in excess of $5 billion from Messrs. Lynch and Hussain
+for breach of their fiduciary duties by causing Autonomy group companies to engage in improper transactions and accounting
+practices. On October 1, 2015, Messrs. Lynch and Hussain filed their defenses. Mr. Lynch also filed a counterclaim against
+Autonomy Corporation Limited seeking $160 million in damages, among other things, for alleged misstatements regarding
+Lynch. The HP subsidiary claimants filed their replies to the defenses and the asserted counter-claim on March 11, 2016.
+- In re HP ERISA Litigation consists of three consolidated putative class actions filed beginning on
+December 6, 2012 in the United States District Court for the Northern District of California alleging, among other things, that
+from August 18, 2011 to November 22, 2012, the defendants breached their fiduciary obligations to HP’s 401(k) Plan and its
+participants and thereby violated Sections 404(a)(1) and 405(a) of the Employee Retirement Income Security Act of 1974, as
+amended, by concealing negative information regarding the financial performance of Autonomy and HP’s enterprise services
+business and by failing to restrict participants from investing in HP stock. On August 16, 2013, HP filed a motion to dismiss the
+lawsuit. On March 31, 2014, the court granted HP’s motion to dismiss this action with leave to amend. On July 16, 2014, the
+plaintiffs filed a second amended complaint containing substantially similar allegations and seeking substantially similar relief
+as the first amended complaint. On June 15, 2015, the court granted HP’s motion to dismiss the second amended complaint in
+its entirety and denied plaintiﬁs leave to file another amended complaint. On July 2, 2015, plaintiﬁs appealed the court’s order
+to the United States Court of Appeals for the Ninth Circuit.
+Environmental
+HP’s operations and products are subject to various federal, state, local and foreign laws and regulations concerning
+environmental protection, including laws addressing the discharge of pollutants into the air and water, the management and
+disposal of hazardous substances and wastes, the cleanup of contaminated sites, the content of HP’s products and the recycling,
+treatment and disposal of those products. In particular, HP faces increasing complexity in its product design and procurement
+operations as it adjusts to new and future requirements relating to the chemical and materials composition of its products, their
+safe use, and the energy consumption associated with those products, including requirements relating to climate change. HP is
+also subject to legislation in an increasing number of jurisdictions that makes producers of electrical goods, including
+computers and printers, financially responsible for specified collection, recycling, treatment and disposal of past and future
+covered products (sometimes referred to as “product take-back legislation”). HP could incur substantial costs, its products could
+be restricted from entering certain jurisdictions, and it could face other sanctions, if it were to violate or become liable under
+environmental laws or if its products become noncompliant with environmental laws. HP’s potential exposure includes fines
+and civil or criminal sanctions, third-party property damage or personal injury claims and clean-up costs. The amount and
+timing of costs to comply with environmental laws are difficult to predict.
+HP is party to, or otherwise involved in, proceedings brought by US. or state environmental agencies under the
+Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), known as “Superfund,” or state laws
+116

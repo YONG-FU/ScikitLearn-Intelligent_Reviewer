@@ -1,0 +1,51 @@
+Allowance for Doubtful Accounts
+The Company records its allowance for doubtful accounts based upon its assessment of various factors, including historical
+experience, age of the accounts receivable balances, credit quality of the Company’s customers, current economic conditions and
+other factors that may affect the customers’ abilities to pay.
+Inventories
+Inventories are stated at the lower of cost, computed using the first-in, first-out method and net realizable value. Any adjustments
+to reduce the cost of inventories to their net realizable value are recognized in earnings in the current period. As of September 24,
+2016 and September 26, 2015, the Company’s inventories consist primarily of finished goods.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost. Depreciation is computed by use of the straight-line method over the estimated
+useful lives of the assets, which for buildings is the lesser of 30 years or the remaining life of the underlying building; between one
+to five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease
+terms or useful life for leasehold improvements. The Company capitalizes eligible costs to acquire or develop internal-use software
+that are incurred subsequent to the preliminary project stage. Capitalized costs related to internal-use software are amortized using
+the straight-line method over the estimated useful lives of the assets, which range from three to five years. Depreciation and
+amortization expense on property and equipment was $8.3 billion, $9.2 billion and $6.9 billion during 2016, 2015 and 2014,
+respectively.
+Long-Lived Assets Including Goodwill and Other Acquired Intangible Assets
+The Company reviews property, plant and equipment, inventory component prepayments and identifiable intangibles, excluding
+goodwill and intangible assets with indefinite useful lives, for impairment. Long-lived assets are reviewed for impairment whenever
+events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of these assets
+is measured by comparison of their carrying amounts to future undiscounted cash flows the assets are expected to generate. If
+property, plant and equipment, inventory component prepayments and certain identifiable intangibles are considered to be impaired,
+the impairment to be recognized equals the amount by which the carrying value of the assets exceeds its fair value.
+The Company does not amortize goodwill and intangible assets with indefinite useful lives, rather such assets are required to be
+tested for impairment at least annually or sooner whenever events or changes in circumstances indicate that the assets may be
+impaired. The Company performs its goodwill and intangible asset impairment tests in the fourth quarter of each year. The Company
+did not recognize any impairment charges related to goodwill or indefinite lived intangible assets during 2016, 2015 and 2014. For
+purposes of testing goodwill for impairment, the Company established reporting units based on its current reporting structure.
+Goodwill has been allocated to these reporting units to the extent it relates to each reporting unit. In 2016 and 2015, the Company’s
+goodwill was primarily allocated to the Americas and Europe reporting units.
+The Company amortizes its intangible assets with definite useful lives over their estimated useful lives and reviews these assets
+for impairment. The Company typically amortizes its acquired intangible assets with definite useful lives over periods from three to
+seven years.
+Fair Value Measurements
+The Company applies fair value accounting for all financial assets and liabilities and non-financial assets and liabilities that are
+recognized or disclosed at fair value in the financial statements on a recurring basis. The Company defines fair value as the price
+that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded
+at fair value, the Company considers the principal or most advantageous market in which the Company would transact and the
+market-based risk measurements or assumptions that market participants would use to price the asset or liability, such as risks
+inherent in valuation techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following hierarchy, which
+prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest
+level of input that is available and significant to the fair value measurement:
+Level 1 — Quoted prices in active markets for identical assets or liabilities.
+Level 2 — Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical
+or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market
+data for substantially the full term of the assets or liabilities.
+Level 3 — Inputs that are generally unobservable and typically reflect management’s estimate of assumptions that market participants
+would use in pricing the asset or liability.
+Apple Inc. | 2016 Form 10-K I 48

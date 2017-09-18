@@ -1,0 +1,40 @@
+(4) in the case of a transaction involving TLLP and not Finance Corp., TLLP or the Person formed by or surviving any such consolidation or
+merger (if other than TLLP), or to which such sale, assignment, transfer, lease, conveyance or other disposition has been made, will:
+(A) on the date of such transaction after giving pro forma effect thereto and any related ﬁnancing transactions as if the same had occurred at
+the beginning of the applicable Reference Period, be permitted to incur at least $1.00 of additional Indebtedness pursuant to the Fixed Charge
+Coverage Ratio test set forth in Section 4.Q2(a); or
+(B) have a Fixed Charge Coverage Ratio, on the date of such transaction and aﬁer giving pro forma effect thereto and any related ﬁnancing
+transactions as if the same had occurred at the beginning of the applicable Reference Period, not less than the Fixed Charge Coverage Ratio of
+TLLP immediately prior to such transaction; and
+(5) such Issuer has delivered to the Trustee an Ofﬁcers’ Certiﬁcate and an Opinion of Counsel, each stating that such consolidation, merger or
+disposition and such supplemental indenture (if any) comply with this Indenture.
+(b) This S,e,c,tion,5,.0,1, will not apply to any sale, assignment, transfer, conveyance, lease or other disposition of assets between or among TLLP and its
+Restricted Subsidiaries, provided further that ,S,e,c,tions,5,.0,1,( a),( 3,) and (41) will not apply to any merger or consolidation of either Issuer (A) with or into one of
+TLLP’s Restricted Subsidiaries for any purpose or (B) with or into an Affiliate solely for the purpose of reincorporating such Issuer in another jurisdiction.
+(0) Notwithstanding Sectioniﬂilg), TLLP is permitted to reorganize as any other form of entity in accordance with the procedures established in this
+Indenture; provided that:
+(1) the reorganization involves the conversion (by merger, sale, contribution or exchange of assets or otherwise) of TLLP into a form of entity
+other than a limited partnership formed under Delaware law;
+(2) the entity so formed by or resulting from such reorganization is an entity organized or existing under the laws of the United States, any state
+thereof or the District of Columbia;
+(3) the entity so formed by or resulting from such reorganization assumes all the Obligations of TLLP under the Notes and this Indenture pursuant
+to agreements reasonably satisfactory to the Trustee;
+(4) immediately after such reorganization no Default or Event of Default exists; and
+(5) such reorganization is not adverse to the Holders of the Notes (for purposes of this clause (5) it is stipulated that such reorganization shall not
+be considered adverse to the Holders of the Notes solely because the successor or survivor of such reorganization (a) is subject to federal or state income
+taxation as an entity or (b) is considered to be an “includible corporation” of an afﬁliated group of corporations Within the meaning of Section 15 04(b)
+of the Code, or any similar state or local law).
+((1) A Guarantor may not sell or otherwise dispose of all or substantially all of its assets to, or consolidate with or merge with or into (whether or not
+such Guarantor is the resulting, transferee or surviving Person), another Person, other than TLLP or another Guarantor, unless:
+(1) immediately after giving effect to such transaction, no Default or Event of Default exists; and
+(2) either:
+(A) the Person acquiring the assets in any such sale or disposition or the Person formed by or surviving any such consolidation or merger (if
+other than TLLP or another Guarantor), assumes all obligations of that Guarantor under this Indenture and its Note Guarantee pursuant to an
+agreement reasonably satisfactory to the Trustee; or
+(B) the Net Proceeds of such sale or other disposition are applied in accordance with Section 4.10 hereof.
+Section 5.02 Successor Person Substituted.
+Upon any transaction or series of related transactions that are of the type described in, and are effected in accordance with, SectioniDilCa) hereof, the
+surviving Person (if other than such Issuer) shall succeed to, and be substituted for, and may exercise every right and power of, such Issuer under Indenture
+and the Notes with the same eﬁ‘ect as if such surviving Person had been named as such Issuer herein, and when a surviving Person duly assumes all of the
+obligations and covenants of such Issuer pursuant to this Indenture and the Notes, the predecessor Person shall be relieved of all such obligations.
+-43-

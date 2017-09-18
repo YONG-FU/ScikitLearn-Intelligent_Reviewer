@@ -1,0 +1,52 @@
+Fiscal Year Ended June 30,
+: 2016 2015 2014 2013 2012 :
+(Injhonsands,,excepreLshamendata)
+Statement of Income Data:
+{Revenues 739 1,824,228 $ 1,851,917 $ 1,624,699 $ 1,363,336 $ 1,207,473 1
+Net income, attributable to OpenText S 284,477 $ 234,327 $ 218,125 $ 148,520 $ 125,174 7
+Net income per share, basic, 7 7
+attributable to OpenText 77$ 2.34 $ 1.92 $ 1.82 $ 1.27 $ 1.08 :
+Net income per share, diluted, 7 7
+attributable to OpenText 77$ 2.33 $ 1.91 $ 1.81 $ 1.26 $ 1.07 i
+Weighted average number of Common
+Shares outstanding, basic : 121,463 122,092 119,674 117,208 1 15,780 :
+Weighted average number of Common
+Shares outstanding, diluted : 122,038 122,957 120,576 118,124 1 17,468 i
+7 As of June 30, 7
+2016 2015 2014 2013 2012
+{Balance Sheet Data: 7 ‘
+Total assets (1) $ 5,154,144 $ 4,353,330 $ 3,847,205 $ 2,615,385 $ 2,431,992
+{Total Long-term liabilities (1) $ 2,503,918 $ 1,899,086 $ 1,564,890 $ 751,421 $ 777,699 1
+Cash dividends per Common Share (2) 55 0.8300 $ 0.7175 $ 0.6225 $ 0.1500 55 —
+(1) Includes reclassiﬁcations of deferred tax assets and liabilities related to ASU 20 15-17 “Income Taxes (Topic 740): Balance Sheet Classiﬁcation of Deferred
+Taxes” and reclassiﬁcation of debt issuance costs from Others assets to Long-term debt related to ASU 2015-03 "Simplifying the Presentation of Debt Issuance
+Costs". Please refer to Note 2 "Accounting Policies and Recent Accounting Pronouncements" of our Consolidated Financial Statements included in Part IV of
+this Armual Report on Form lO-K.
+(2) Our ﬁrst dividend was paid in June 2013.
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+This Annual Report on Form 1 0-K, including this Management's Discussion and Analysis of Financial Condition and
+Results of Operations (MD&A), contains forward-looking statements within the meaning of the Private Securities Litigation
+Reform Act of 1995, Section 21E of the US. Securities Exchange Act of 1 93 4, as amended (the Exchange Act), and Section 27A
+of the US. Securities Act of1933, as amended (the Securities Act), and is subject to the safe harbours created by those sections.
+All statements other than statements of historical facts are statements that could be deemed forward-looking statements.
+When used in this report, the words “anticipates ”, “expects ”, “intends ”, “plans ”, “believes ”, “seeks ”, “estimates ”, “may”,
+“could”, “would”, "might", "will" and other similar language, as they relate to Open Text Corporation (“OpenText” or the
+“Company”), are intended to identify forward-looking statements under applicable securities laws. Speciﬁc forward-looking
+statements in this report include, but are not limited to: (z) statements about our focus in the fiscal year beginning July I, 2016
+and ending June 30, 201 7 (Fiscal 201 7) on growth in earnings and cash flows; (ii) creating value through investments in broader
+Enterprise Information Management (EIM) capabilities; (iii) our future business plans and business planning process; (iv)
+statements relating to business trends; (v) statements relating to distribution; (vi) the Companys presence in the cloud and in
+growth markets; (vii) product and solution developments, enhancements and releases and the timing thereof; (viii) the Company is
+ﬁnancial conditions, results of operations and earnings; (ix) the basis for any future growth and for our financial performance;
+(x) declaration of quarterly dividends; (xi) future tax rates; (xii) the changing regulatory environment and its impact on our
+business; (xiii) recurring revenues; (xiv) research and development and related expenditures; (xv) our building, development and
+consolidation of our network infrastructure; (xvi) competition and changes in the competitive landscape; (xvii) our management
+and protection of intellectual property and other proprietary rights; (xviii) foreign sales and exchange rate fluctuations; (xix)
+cyclical or seasonal aspects of our business; (xx) capital expenditures; (xxi) potential legal and/or regulatory proceedings; (xxiz)
+statements about the impact of "Open Text Release 16" and (xxiii) other matters.
+In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or
+other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking, and based
+on our current expectations, forecasts and projections about the operating environment, economies and markets in which we
+operate. Forward-looking statements reflect our current estimates, beliefs and assumptions, which are based on managements
+perception of historic trends, current conditions and expected future developments, as well as other factors it believes are
+32

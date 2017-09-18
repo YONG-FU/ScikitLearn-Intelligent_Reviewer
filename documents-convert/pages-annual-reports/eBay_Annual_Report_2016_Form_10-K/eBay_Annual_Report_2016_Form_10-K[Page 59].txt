@@ -1,0 +1,26 @@
+The following tables set forth a reconciliation of FX-Neutral GMV and FX-Neutral net
+revenues (each as defined below) to our reported GMV and net revenues for the periods
+presented (in millions, except percentages):
+Year Ended Year Ended
+: December 31,2016 : Pecember 31, 2015 As
+Exchange Reported FX-Neutral
+As Rate As % %
+Reported Effect (1) FX-Neutral (2) Reported Change Change
+I GMV: — — — — — l
+Marketplace $79,448 $(2,229) $ 81,677 $78,099 2% 5%
+I StubHub 4,310 (12) 4,322 3,574 21% 21% ‘
+Total GMV $83,758 $ (2,241) $85,999 $ 81,673 3% 5%
+I Net transaction revenues: ‘
+Marketplace $ 6,107 $ (170) $ 6,277 $ 6,103 —% 3%
+I StubHub 937 (2) 939 725 29% 29% ‘
+Total net transaction
+revenues 7,044 (172) 7,216 6,828 3% 6%
+[ Marketing services and other I
+revenues:
+Marketplace 1,137 (25) 1,162 1,078 6% 8%
+l Classifieds 791 (13) 804 703 13% 15% l
+StubHub, Corporate and other 7 — 7 (17) ** **
+[ Total marketing services I
+and other revenues 1,935 (38) 1,973 1,764 10% 12%
+Total net revenues $ 8,979 $ (210) $ 9,189 $ 8,592 5% 7%
+52

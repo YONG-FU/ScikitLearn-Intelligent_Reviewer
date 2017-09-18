@@ -1,0 +1,42 @@
+Operating expenses were $1.28 billion for R&D and $1.75 billion for 868A. R&D expense decreased $78 million, or 6 percent, and
+868A decreased $95 million, or 5 percent. Both comparisons reflect savings from ongoing efforts across the company to align
+costs with growth opportunities, including the completed restructuring actions in Embedded Processing and Japan. These
+decreases were partially offset by higher compensation-related costs.
+Acquisition charges were related to our 2011 acquisition of National Semiconductor and were $329 million, about even with 2014.
+These non-cash charges were primarily from the amortization of intangible assets.
+Restructuring charges/other was a net credit of $71 million, which included gains on sales of assets of $83 million that were
+partially offset by $12 million related to restructuring charges and other credits. This compared with a net credit of $51 million in
+2014, reflecting gains on sales of assets of $75 million that were partially offset by restructuring charges and other expenses of ’5
+$24 million. These amounts are included in Other for segment reporting purposes. 3
+E
+Operating profit was $4.27 billion, or 32.9 percent of revenue, compared with $3.95 billion, or 30.3 percent of revenue, in 2014. 5
+la.
+The income tax provision was $1.23 billion compared with $1.05 billion. The increase in the total tax provision was due to higher
+income before income taxes and, to a lesser extent, a lower benefit from non-U.S. effective tax rates. Our effective tax rate was
+29 percent in 2015 and 27 percent in 2014.
+Net income was $2.99 billion, an increase of $165 million, or 6 percent, from 2014. EPS was $2.82 compared with $2.57 in 2014.
+Segment results — 2015 compared with 2014
+Ana/0g
+2015 2014 Change
+Revenue $8,339 $8,104 3%
+Operatingprofit............................................................. 3,048 2,786 9%
+Operatingprofit%ofrevenue................................................... 36.6% 34.4%
+Analog revenue increased primarily due to HVAL. Power and SVA also grew, but to a lesser extent. HPA declined due to the mix of
+products shipped. Operating profit increased due to higher revenue and associated gross profit and, to a lesser extent, lower
+manufacturing costs.
+Embedded Processing
+2015 2014 Change
+Revenue $2,787 $2,740 2%
+Operatingprofit............................................................. 596 384 55%
+Operatingprofit%ofrevenue................................................... 21.4% 14.0%
+Embedded Processing revenue increased due about equally to Connectivity and Microcontrollers, which together offset a decline in
+Processors. Operating profit increased primarily due to lower operating expenses.
+Other
+2015 2014 Change
+Revenue $1,874 $2,201 (15)%
+Operatingprofit*............................................................ 630 777 (19)%
+Operatingprofit%ofrevenue................................................... 33.6% 35.3%
+* Includes Acquisition charges and Restructuring charges/other
+Other revenue declined primarily due to custom ASle. Revenue from DLP products also declined, but to a lesser extent. Operating
+profit declined primarily due to lower revenue and associated gross profit.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 19

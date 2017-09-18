@@ -1,0 +1,35 @@
+NOTE 20: NET CHANGE IN OPERATING ASSETS AND LIABILITIES
+Net cash provided by (used in) operating activities attributable to the net change in operating assets and liabilities is composed
+of the following (in millions):
+iYear Ended December 31, 2016 2015 2014 7
+(Increase) decrease in trade accounts receivable $ (28) $ (212) $ (253)
+(Increase) decrease in inventories (142) (250) 35
+(Increase) decrease in prepaid expenses and other assets 283 123 194
+Increase (decrease) in accounts payable and accrued expenses (540) 1,004 (250)
+Increase (decrease) in accrued taxes 750 (306) 151
+Increase (decrease) in other liabilities (544) (516) (316)
+Net change in operating assets and liabilities $ (221) $ (157) $ (439)
+NOTE 21: SUBSEQUENT EVENT
+In the first quarter of 20 17, additional bottling territories in North America met the criteria to be classified as held for sale.
+Therefore, we are required to record the related assets and liabilities at the lower of carrying value or fair value less any costs to
+sell based on the estimated selling prices, which will result in an estimated total loss of $9 million. The Company expects these
+territories to be refranchised during 2017. Refer to Note 2 for additional information about North America refranchising.
+The following table presents information related to the major classes of assets and liabilities related to these additional
+territories, which were included in the Bottling Investments operating segment (in millions):
+:Cash, cash equivalents and short-term investments 33 25 :
+Trade accounts receivable, less allowances 178
+Inventories 128
+Prepaid expenses and other assets 28
+Equity method investments 105
+Other assets 2
+Property, plant and equipment — net 770
+Bottlers' franchise rights with indefinite lives 1,717
+Goodwill 544
+Other intangible assets 80
+Allowance for reduction of assets held for sale (9)
+Total assets 33 3,568
+Accounts payable and accrued expenses 33 261
+Other liabilities 2
+Deferred income taxes 963
+: Total liabilities $ 1,226 :
+139

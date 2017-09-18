@@ -1,0 +1,65 @@
+Expected
+Adoption Date Financial
+Date Issued Reference Description and Method Statement Impact
+June 2016-13: Financial The purpose of this ASU is to amend the January Currently
+2016 Instruments - Credit current incurred loss impairment 2020, under
+Losses (Topic 326) methodology with a new methodology Adoption evaluation; not
+— Measurement of that reflects expected credit losses and method varies expected to be
+Credit Losses on requires a broader range of reasonable by material.
+Financial and supportable information to inform amendment
+Instruments credit loss estimates. This is the final
+credit accounting standard, out of a
+series, with detailed guidance on the
+new loss reserve model, Current
+Expected Credit Loss ("CECL"). Among
+other provisions, the amendments in the
+ASU require a financial asset (or group
+of assets) measured at amortized cost
+basis to be presented at the net amount
+expected to be collected. Entities are
+no longer required to wait until a loss is
+probable to record it.
+May 2016 2016-12: Revenue The amendments in this ASU clarify January Currently
+from Contracts with certain aspects regarding the 2018, under
+Customers (Topic collectibility criterion, sales taxes Modified evaluation (1)
+606) — Narrow- collected from customers, noncash retrospective
+scope consideration, contract modifications,
+Improvements and and completed contracts at transition. lt
+Practical Expedients additionally clarifies that retrospective
+application only requires disclosure of
+the accounting change effect on prior
+periods presented, not on the period of
+adopﬁon.
+April 2016 2016-10: Revenue The amendments in this ASU clarify the January Currently
+from Contracts with following two aspects of Topic 606: 2018, under
+Customers (Topic identifying performance obligations and Modified evaluation (1)
+606) — Identiij/ing the licensing implementation guidance, retrospective
+Performance while retaining the related principles for
+Obligations and those areas. The amendments do not
+Licensing change the core principle of the
+guidance.
+March 2016-08: Revenue The amendments in this ASU are January Currently
+2016 from Contracts With intended to improve the operability and 2018, under
+Customers (Topic understandability of the implementation Modified evaluation (1)
+606) — Principal guidance on principal versus agent retrospective
+versus Agent considerations, but do not change the
+Considerations core principle of the guidance.
+(Reporting Re venue
+Gross versus Net)
+March 2016-09: The amendments in this ASU are January Expected to
+2016 Compensation — intended to simplify various aspects of 2017, be material (2)
+Stock accounting for stock-based Adoption
+Compensation compensation, including income tax method varies
+(Topic 718) — consequences, classification of awards by
+Improvements to as equity or liability, as well as amendment
+Employee Share- classification of activities within the
+based Payment statement of cash flows.
+Accounting
+February 2016-02: Leases The new standard requires lessees to January Currently
+2016 (Topic 842) recognize assets and liabilities arising 2019, under
+from both operating and financing Modified evaluation;
+leases on the balance sheet. Lessor retrospective expected to be
+accounting for leases is largely material, but
+unaffected by the new guidance. not yet
+quantifiable.
+94

@@ -1,0 +1,45 @@
+Iablre,of,C,ontents
+areas now and may engage in increased competition with us in the future. In addition, the intellectual property agreement that we have entered into with EMC
+(which is controlled by Dell) provides EMC the ability to use our source code and intellectual property, which, subject to limitations, it may use to produce certain
+products that compete with ours. EMC’s rights in this regard extend to its majority-owned subsidiaries, which could include joint ventures where EMC holds a
+majority position and one or more of our competitors hold minority positions.
+Dell could assert control over us in a manner that could impede our growth or our ability to enter new markets or otherwise adversely affect our business.
+Further, Dell could utilize its control over us to cause us to take or refrain from taking certain actions, including entering into relationships with channel,
+technology and other marketing partners, enforcing our intellectual property rights or pursuing business combinations, other corporate opportunities (which EMC
+is expressly permitted to pursue under the circumstances set forth in our certiﬁcate of incorporation) or product development initiatives that could adversely affect
+our competitive position, including our competitive position relative to that of Dell in markets where we compete with Dell. In addition, Dell maintains significant
+partnerships with certain of our competitors, including Microsoft.
+Dell’s competition in certain markets may affect our ability to build and maintain partnerships.
+Our existing and potential partner relationships may be negatively affected by our relationship with Dell. We partner with a number of companies that
+compete with Dell in certain markets in which Dell participates. Dell’s control of EMC’s majority ownership in us may affect our ability to effectively partner with
+these companies. These companies may favor our competitors because of our relationship with Dell.
+Dell competes with certain of our signiﬁcant channel, technology and other marketing partners, including IBM and Hewlett-Packard. Pursuant to our
+certiﬁcate of incorporation and other agreements that we have with EMC, EMC and Dell may have the ability to impact our relationship with those of our partners
+that compete with EMC or Dell, which could have a material adverse effect on our operating results and our ability to pursue opportunities which may otherwise be
+available to us.
+The realignment of our ﬁscal calendar to coincide with Dell’s and Dell’s reporting on our ﬁnancial results may result in ﬂuctuations in our stock price,
+and errors in our implementation of the realignment could adversely impact our business operations and ﬁnancial results.
+Dell provides segment reporting on VMware in its public reports on financial results. However, prior to February 2017, the fiscal calendars for Dell and
+VMware did not align. VMware reported on a calendar year basis through December 31, 2016, whereas Dell reports on a 52- or 53-week fiscal year basis ending
+on the Friday nearest to January 31 of each year. On October 25, 2016, our Board of Directors approved a change to our fiscal calendar effective January 1, 2017
+so that our ﬁscal calendar will align with Dell’s.
+The change in our ﬁscal year was effective January 1, 2017, and the period beginning on January 1, 2017 and ending on February 3, 2017 will be reported as a
+transition period (the “Transition Period”). Accordingly, our first full ﬁscal year under our revised ﬁscal calendar began on February 4, 2017 and will end on
+February 2, 2018. As a result of the change, our ﬁscal periods will correspond with Dell’s.
+We plan to include our unaudited ﬁnancial statements for the approximately one-month transition period in our Quarterly Report on Form 10-Q filed for the
+ﬁscal quarter ending May 5, 2017. We will not ﬁle a separate transition report. Following the change in our fiscal calendar and for the first ﬁscal year, we will
+compare results from each fiscal period under our new ﬁscal calendar to the corresponding period under our prior calendar. Any confusion by investors and
+analysts in interpreting year-over—year changes to our financial results due to the change in our ﬁscal calendar could cause ﬂuctuations and volatility in our stock
+price.
+Additionally, the ﬁnancial results for Dell’s VMware business segment may differ from the financial results reported by us due to the impact of intercompany
+transactions, purchase accounting, and reporting practices. These differences in the reporting of VMware’s financial results by us and Dell could result in volatility
+and ﬂuctuations in the price of our Class A common stock.
+Further, the process of implementing a fiscal calendar transition requires us to make adjustments to many of the critical business processes and data systems
+that our management and personnel rely upon to conduct our business operations and coordinate our worldwide activities. Although we are undertaking a thorough
+programmatic approach to transition our processes and systems to the new ﬁscal calendar, there can be no assurance that errors and failures will not occur that
+could temporarily impair our ability to conduct our operations efficiently and effectively. Any such failures to our critical business processes and data systems
+could adversely impair our results of operations and financial results until such failures can be successfully remediated.
+We could be held liable for the tax liabilities of other members of Dell’s consolidated tax group.
+We have historically been included in EMC’s consolidated group for US. federal income tax purposes, as well as in certain consolidated, combined or unitary
+groups that include EMC Corporation or certain of its subsidiaries for state and local income
+27

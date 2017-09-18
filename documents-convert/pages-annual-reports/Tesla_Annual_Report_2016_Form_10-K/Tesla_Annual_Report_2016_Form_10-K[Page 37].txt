@@ -1,0 +1,54 @@
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+The following selected consolidated financial data should be read in conjunction with “Management’s Discussion and Analysis
+of Financial Condition and Results of Operations” and our consolidated financial statements and the related notes included elsewhere
+in this Annual Report on Form 10-K (in thousands, except per share data).
+Year Ended December 31,
+2016 (2) 2015 2014 2013 2012
+Consolidated Statements of Operations Data:
+Total revenues $ 7,000,132 $ 4,046,025 $ 3,198,356 $ 2,013,496 $ 413,256
+Gross 1,599,257 923,503 881,671 456,262 30,067
+Loss from operations....................................................... (667,340) (716,629) (186,689) (61,283) (394,283)
+Net loss attributable to common stockholders $ (674,914) $ (888,663) $ (294,040) $ (74,014) $ (396,213)
+Net loss per share of common stock attributable to
+common stockholders, basic and
+diluted $ (4.68) $ (6.93) $ (2.36) $ (0.62) $ (3.69)
+Weighted average shares used in computing net loss per
+share of common stock, basic and diluted 144,212 128,202 124,539 119,421 107,349
+(1) Diluted net loss per share of common stock is computed excluding common stock subject to repurchase, and, if dilutive,
+potential shares of common stock outstanding during the period. Potential shares of common stock consist of stock options
+to purchase shares of our common stock, the conversion of our convertible senior notes (using the treasury stock method),
+warrants to purchase shares of our common stock issued in connection with our 2018 Notes, 2019 Notes, as defined in Note
+(1) below, and 2021 Notes, as defined in Note (1) below, (using the treasury stock method), warrants to purchase shares of
+our convertible preferred stock (using the treasury stock method) and the conversion of our convertible preferred stock and
+convertible notes payable (using the if-converted method). For purposes of these calculations, potential shares of common
+stock have been excluded from the calculation of diluted net loss per share of common stock as their effect is antidilutive
+since we generated a net loss in each period.
+(2) We acquired SolarCity on November 21, 2016. The results of SolarCity have been included in our results of operation from
+the date of acquisition. See Note 3, Acquisition ofSolarCiiy, of the Notes to Consolidated Financial Statements for
+additional information regarding this transaction.
+As of December 31,
+2016 (3) 2015 2014 2013 2012
+Consolidated Balance Sheet Data:
+Working capital (deficit) $ 432,791 $ (29,029) $1,072,907 $ 585,665 $ (14,340)
+Totalassets 22,664,076 8,067,939 5,830,667 2,411,186 1,114,190
+Total long-term obligations (1)(2) 10,923,162 4,125,915 2,753,595 1,069,535 450,382
+(1) In May 2013, we issued $660.0 million aggregate principal amount of 2018 Notes in a public oﬁering. In accordance with accounting
+guidance on embedded conversion features, we valued and bifurcated the conversion option associated with the 2018 Notes from the
+host debt instrument and initially recorded the conversion option of $82.8 million in equity. The holders of 2018 Notes may convert
+their notes during a quarter if the closing price of our common stock exceeded 130% of the applicable conversion price of our 2018
+Notes on at least 20 of the last 30 consecutive trading days of the preceding quarter As of December 31, 2016, December 31, 2015 and
+December 31, 2014 our 2018 Notes have met the conversion criteria; consequently the carrying value of our 2018 Notes of $1 96.2
+million, $612.5 million and $594.3 million have been presented as current liabilities, respectively.
+In March 2014, we issued $800.0 million principal amount of 0.25% convertible senior notes due 2019 (“2019 Notes”) and
+$1.20 billion principal amount of 1.25% convertible senior notes due 2021 (“2021 Notes”) in a public offering. In April 2014,
+we issued an additional $120.0 million aggregate principal amount of 2019 Notes and $180.0 million aggregate principal
+amount of 2021 Notes, pursuant to the exercise in full of the overallotment options of the underwriters of our March 2014 public
+offering. In accordance with accounting guidance on embedded conversion features, we valued and bifurcated the conversion
+option associated with the notes from the host debt instrument and recorded the conversion option of $ 1 88.1 million for the
+2019 Notes and $369.4 million for the 2021 Notes in stockholders” equity as of December 31, 2014
+(2) As of August 31, 2012, we had fully drawn down our $465.0 million under our Department of Energy loan facility. In May
+2013, we used a portion of the Notes offering proceeds to repay all outstanding loan amounts under this 1 facility.
+(3) We acquired SolarCity on November 21, 2016. The ﬁnancial position of SolarCity have been included in our consolidated
+financial statements from the date of acquisition. See Note 3, Acquisition ofSolarCiiy, of the Notes to Consolidated Financial
+Statements for additional information regarding this transaction.
+34

@@ -1,0 +1,49 @@
+contract, arrangement or understanding are no less favorable to TLLP or such Restricted Subsidiary than those that might be obtained, in light of the
+circumstances, at the time from Persons who are not Afﬁliates of TLLP;
+(3) is a Person with respect to which neither TLLP nor any of its Restricted Subsidiaries has any direct or indirect obligation (a) to subscribe for
+additional Equity Interests or (b) to maintain or preserve such Person’s ﬁnancial condition or to cause such Person to achieve any speciﬁed levels of
+operating results; and
+(4) has not guaranteed or otherwise directly or indirectly provided credit support for any Indebtedness of TLLP or any of its Restricted
+Subsidiaries.
+All Subsidiaries of an Unrestricted Subsidiary shall be also Unrestricted Subsidiaries. Any designation of a Subsidiary of TLLP as an Unrestricted
+Subsidiary will be evidenced to the Trustee by ﬁling with the Trustee a board resolution giving effect to such designation and an Oﬁicers’ Certiﬁcate
+certifying that such designation complied with the preceding conditions and was permitted by Section 4.07 hereof. If, at any time, any Unrestricted
+Subsidiary would fail to meet the preceding requirements as an Unrestricted Subsidiary, it will thereaﬁer cease to be an Unrestricted Subsidiary for purposes
+of this Indenture and any Indebtedness of such Subsidiary will be deemed to be incurred by a Restricted Subsidiary of TLLP as of such date and, if such
+Indebtedness is not permitted to be incurred as of such date under Section 4.09 hereof, TLLP will be in default of such covenant.
+“¥ojmgStp,cR” of any speciﬁed Person as of any date means the Capital Stock of such Person that is at the time entitled (without regard to the
+occurrence of any contingency) to vote in the election of the Board of Directors of such Person.
+“WeightedAverage,Life,to,Maturitv” means, when applied to any Indebtedness at any date, the number of years obtained by dividing:
+(1) the sum of the products obtained by multiplying (a) the amount of each then-remaining installment, sinking ﬁlnd, serial maturity or other
+required payments of principal, including payment at ﬁnal maturity, in respect of the Indebtedness, by (b) the number of years (calculated to the nearest
+one-twelfth) that will elapse between such date and the making of such payment; by
+(2) the then—outstanding principal amount of such Indebtedness.
+Section 1.02 Other Deﬁnitions.
+Deﬁned
+Term in Section
+“Acceptable Commitment” 4.10
+“Afﬁliate Transaction” 4.1 1
+“Asset Sale Offer” 3.09
+“Authentication Order” 2.02
+“Change of Control Offer” 4.15
+“Change of Control Payment” 4.15
+“Change of Control Payment Date” 4.15
+“Covenant Defeasance” 8.03
+“DTC” 2.03
+“Event of Default” 6.01
+“Excess Proceeds” 4.10
+“Incremental Funds” 4.07
+“incur” 4.09
+“Legal Defeasance” 8.02
+“Offer Amount” 3 .09
+“Offer Period” 3.09
+“Paying Agent” 2.03
+“Payment Default” 6.01
+“Permitted Debt 4.09
+“Purchase Date” 3.09
+“Redemption Date” 3.07
+“Registrar” 2.03
+“Restricted Payments” 4.07
+“Second Commitment” 4.10
+“Termination Date” 4.18
+-18-

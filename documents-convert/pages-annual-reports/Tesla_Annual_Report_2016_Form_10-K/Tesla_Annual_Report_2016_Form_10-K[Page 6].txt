@@ -1,0 +1,46 @@
+Our energy product portfolio includes systems with a wide range of applications, from use in homes to use in large grid-scale
+projects. Powerwall 2 is a 14 kWh rechargeable lithium-ion battery designed to store energy at a home or small commercial facility
+and can be used for reducing demand, self-consumption of solar power generation and as backup power. In addition, we offer a 200
+kWh Powerpack system which can be used by commercial and industrial customers for peak shaving, load shifting, self-consumption
+of solar generation and demand response. The Powerpack system is a fully integrated energy storage solution that can be used by
+utilities to smooth and firm the output of renewable power generation sources, provide dynamic energy capacity to the grid, defer or
+eliminate the need to upgrade transmission infrastructure and also provide for a variety of grid services for utilities. For grid-scale
+applications, 200 kWh battery blocks can be grouped together to offer MWh and GWh installations. We began production of the
+second generation of energy storage products at Gigafactory 1 in the fourth quarter of 2016.
+Along with designing and manufacturing energy storage products, we continue to develop and advance our software capabilities
+for the control and optimal dispatch of energy storage systems across a wide range of markets and applications.
+Solar Energy Systems
+The major components of our solar energy systems include solar panels that convert sunlight into electrical current, inverters
+that convert the electrical output ﬁom the panels to a usable current compatible with the electric grid, racking that attaches the solar
+panels to the roof or ground, electrical hardware that connects the solar energy system to the electric grid and our monitoring device.
+We purchase the majority of system components from vendors, maintaining multiple sources for each major component to ensure
+competitive pricing and an adequate supply of materials. We also design and manufacture other system components.
+Our SolarLease and SolarPPA customer agreements have fueled our growth by allowing our customers to pay little or no
+upfront costs to switch to distributed solar energy. Over the terms of both agreements, we own and operate the solar energy system
+and guarantee its performance. Our current standard SolarLeases and SolarPPAs have 20-year terms, and we typically offer the
+opportunity to renew our agreements. Additionally, our Solar Loan offers third-party financing alternatives to allow customers to take
+direct advantage of federal tax credits to reduce their electricity costs.
+In October 2016, we revealed the solar roof, integrating solar energy production with aesthetically pleasing and durable glass
+roofing tiles, designed to complement and power customer homes and commercial buildings. We currently expect to commence
+production in the summer of 2017 at our Gigafactory 2 in Buffalo, New York, and begin customer installations of the solar roof later
+in 2017.
+Technology
+Vehicles
+Our core competencies are powertrain engineering, vehicle engineering, innovative manufacturing and energy storage. Our core
+intellectual property resides not only within our electric powertrain, but also within our ability to design a vehicle that utilizes the
+unique advantages of an electric powertrain and the latest advancements in consumer technologies. Our powertrain consists of our
+battery pack, power electronics, motor, gearbox and control software. We offer several powertrain variants for the Model S and Model
+X that incorporate years of research and development. In addition, we have designed our vehicles to incorporate the latest advances in
+consumer technologies, such as mobile computing, sensing, displays, and connectivity. Further evolution of our technology continues
+for Model 3 and future vehicles. In addition, advancements in battery architecture, thermal management and power electronics that
+were originally commercialized in our vehicles, are now being leveraged in our energy storage products.
+Battely Pack
+We design our battery packs to achieve high energy density at a low cost while also maintaining safety, reliability and long life.
+Our proprietary technology includes systems for high density energy storage, cooling, safety, charge balancing, structural durability,
+and electronics management. We have also pioneered advanced manufacturing techniques to manufacture large volumes of battery
+packs with high quality and low costs.
+We have significant expertise in the safety and management systems needed to use lithium-ion cells in the automotive
+environment, and have actively worked with lithium-ion cell suppliers to further optimize cell designs to increase overall performance.
+These advancements have enabled us to improve cost and performance of our batteries over time. For example, we recently upgraded
+the battery of our highest range Model S to 100 kWh.
+3

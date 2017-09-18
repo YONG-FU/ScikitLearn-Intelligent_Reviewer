@@ -1,0 +1,55 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+the revenue recognition guidance. The selling price hierarchy for a deliverable is based on its VSOE if available, third-party
+evidence of selling price ("TPE") if VSOE is not available, or estimated selling price ("ESP") if neither VSOE nor TPE is
+available. The Company then recognizes revenue on each deliverable in accordance with its policies for product and service
+revenue recognition. VSOE of selling price is based on the price charged when the element is sold separately. In determining
+VSOE, the Company requires that a substantial majority of the selling prices fall within a reasonable range based on historical
+discounting trends for specific products and services. TPE of selling price is established by evaluating competitor products or
+services in stand-alone sales to similarly situated customers. However, as the Company’s products contain a significant element
+of proprietary technology and its solutions offer substantially diﬁerent features and functionality, the comparable pricing of
+products with similar functionality typically cannot be obtained. Additionally, as the Company is unable to reliably determine
+what competitors products” selling prices are on a stand-alone basis, the Company is not typically able to determine TPE. The
+estimate of selling price is established considering multiple factors including, but not limited to, pricing practices in different
+geographies and through different sales channels and competitor pricing strategies.
+The Citrix Service Provider ("CSP") program provides subscription-based services in which the CSP partners host
+software services to their end users. The fees from the CSP program are recognized based on usage and as the CSP services are
+provided to their end users.
+For the Company’s non-software transactions, it allocates the arrangement consideration based on the relative selling price
+of the deliverables. For the Company’s hardware appliances, it uses ESP as its selling price. For the Company ’s support and
+services, it generally uses VSOE as its selling price. When the Company is unable to establish selling price using VSOE for its
+support and services, the Company uses ESP in its allocation of arrangement consideration.
+The Company ’s GoTo Business products and a majority of the Company's Cloud Services oﬁerings are considered hosted
+service arrangements per the authoritative guidance, or SaaS. Generally, the Company’s GoTo Business products are sold
+separately and not bundled with the Enterprise and Service Provider segment’s products and services.
+In the normal course of business, the Company is not obligated to accept product returns from its distributors under any
+conditions, unless the product item is defective in manufacture. The Company establishes provisions for estimated returns, as
+well as other sales allowances, concurrently with the recognition of revenue. The provisions are established based upon
+consideration of a variety of factors, including, among other things, recent and historical return rates for both specific products
+and distributors and the impact of any new product releases and projected economic conditions. Product returns are provided
+for in the consolidated financial statements and have historically been within management’s expectations. Allowances for
+estimated product returns amounted to approximately $2.0 million and $1.4 million at December 31, 2016 and December 31,
+2015, respectively. The Company also records estimated reductions to revenue for customer programs and incentive oﬁerings
+including volume-based incentives. The Company could take actions to increase its customer incentive oﬁerings, which could
+result in an incremental reduction to revenue at the time the incentive is offered.
+Product Concentration
+The Company derives a substantial portion of its revenues from its Workspace Services solutions, which include its
+XenDesktop and XenApp products and related services, and anticipates that these products and future derivative products and
+product lines based upon this technology will continue to constitute a majority of its revenue. The Company could experience
+declines in demand for its Workspace Services solutions and other products, whether as a result of general economic
+conditions, the delay or reduction in technology purchases, new competitive product releases, price competition, lack of
+success of its strategic partners, technological change or other factors. Additionally, the Company's Delivery Networking
+products generate revenues from a limited number of customers. As a result, if the Delivery Networking product grouping loses
+certain customers or one or more such customers significantly decreases its orders, the Company's business, results of
+operations and financial condition could be adversely aﬁected.
+Cost of Net Revenues
+Cost of product and license revenues consists primarily of hardware, shipping expense, royalties, product media and
+duplication, manuals and packaging materials. In addition, the Company is a party to licensing agreements with various
+entities, which give the Company the right to use certain software code in its products or in the development of future products
+in exchange for the payment of fixed fees or amounts based upon the sales of the related product. The licensing agreements
+generally have terms ranging from one to five years, and generally include renewal options. However, some agreements are
+perpetual unless expressly terminated. Royalties and other costs related to these agreements are also included in Cost of net
+revenues.
+Cost of services and maintenance revenues consists primarily of compensation and other personnel-related costs of
+providing technical support and consulting, as well as the costs related to providing the Company's software as a service
+F-13

@@ -1,0 +1,44 @@
+Table of Contents
+Provision for Income Taxes (dollars in millions)
+Fiscal Fiscal Fiscal % Change % Change
+7 2016 2015 2014 2016-2015 2015—2014 7
+{Provision $ 266.4 $ 244.2 0 93.0 9% 163%}
+Percentage of total revenue 5% 5% 2%
+1 Effective tax rate 19% 28% 26% 1
+Our effective tax rate decreased by approximately nine percentage points during fiscal 2016 as compared to fiscal 2015.
+The decrease was primarily due to tax benefits recognized as a result of the completion of certain income tax examinations and
+the permanent extension of the US. Research and Development credit for 2015 and onward. The reinstatement of the credit was
+retroactive to January 1, 2015. A tax benefit for the credit relating to fiscal 2015 was reﬂected in its entirety in the first quarter of
+ﬁscal 2016. The decrease was partially offset by stronger domestic profits for fiscal 2016. In addition, the fiscal 2015 eﬁective
+tax rate included one-time tax costs associated with licensing acquired company assets to Adobe’s trading companies, offset by
+tax benefits for the temporary reinstatement of the US. Research and Development credit in December 2014.
+Our effective tax rate increased by approximately two percentage points during fiscal 2015 as compared to fiscal 2014. The
+increase was primarily due to tax costs associated with licensing acquired company assets to Adobe’s trading companies. The
+increase was partially offset by tax beneﬁts related to the reinstatement of the federal research and development tax credit in
+December 2014. The reinstatement of the credit was retroactive to January 1, 2014.
+We are aUnited States-based multinational company subj ect to tax in multiple U. S. and foreign tax j urisdictions. A significant
+portion of our foreign earnings for the current fiscal year was earned by our Irish subsidiaries. In addition to providing for US.
+income taxes on earnings from the United States, we provide for US. income taxes on the earnings of foreign subsidiaries unless
+the subsidiaries’ earnings are considered permanently reinvested outside the United States. While we do not anticipate changing
+our intention regarding permanently reinvested earnings, if certain foreign earnings previously treated as permanently reinvested
+are repatriated, the related US. tax liability may be reduced by any foreign income taxes paid on these earnings. Currently, there
+is a significant amount of foreign earnings upon which US. income taxes have not been provided. See Note 9 of our Notes to the
+Consolidated Financial Statements for further information on our provision for income taxes.
+Accounting for Uncertainty in Income Taxes
+The gross liability for unrecognized tax benefits at December 2, 2016 was $178.4 million, exclusive of interest and penalties.
+If the total unrecognized tax benefits at December 2, 2016 were recognized in the future, $144.5 million of unrecognized tax
+benefits would decrease the effective tax rate, which is net of an estimated $33 .9 million federal benefit related to deducting certain
+payments on future federal and state tax returns.
+As of December 2, 2016, the combined amount of accrued interest and penalties related to tax positions taken on our tax
+returns was approximately $22.4 million. This amount is included in non-current income taxes payable.
+The timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments
+that are part of any audit settlement process. These events could cause large ﬂuctuations in the balance of current and non-current
+assets, liabilities and income taxes payable. We believe that within the next 12 months, it is reasonably possible that either certain
+audits will conclude or statutes of limitations on certain income tax examination periods will expire, or both. Given the uncertainties
+described above, we can only determine a range of estimated potential decreases in underlying unrecognized tax benefits ranging
+from $0 to approximately $10 million.
+During fiscal 2016, a number of income tax examinations covering our fiscal years 2010 to 2016 were completed. Of the
+signiﬁcant examinations, accrued tax and interest related to these years were $95.6 million and were previously reported in non-
+current income taxes payable. We settled the tax obligation resulting from these examinations with cash and income tax assets
+totaling $35.3 million, and the resulting $60.3 million income tax beneﬁt was recorded in fiscal 2016.
+52

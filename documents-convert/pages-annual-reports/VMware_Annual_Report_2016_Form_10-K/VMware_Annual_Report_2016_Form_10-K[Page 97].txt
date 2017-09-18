@@ -1,0 +1,43 @@
+Iablre,of,C,ontents
+PART IV
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULE
+The following documents are filed as a part of this Annual Report on Form 10-K:
+1. Financial Statements : The information relating to our ﬁnancial statements, and Report of Independent Registered Public Accounting Firm required by
+this Item is filed as part of this Annual Report on Form 10-K in Item 8, entitled “Financial Statements and Supplementary Data.”
+2. Financial Statement Schedule : Schedule II Valuation and Qualifying Accounts is filed as part of this Annual Report on Form 10-K and should be read
+in conjunction with the Consolidated Financial Statements and Notes thereto.
+3. Exhibits: The exhibits listed below are filed or incorporated by reference as part of this Annual Report on Form 10-K.
+Incorporated by Reference
+EXhibit Exhibit Description Form File No. Exhibit Filing Date
+Number
+3.1 Amended and Restated Certificate of Incorporation S-l/A—2 333- 142368 3.1 7/9/07
+3.2 Amended and Restated Bylaws 8-K 001-33622 3.1 3/8/11
+4.1 Form of Specimen Common Stock Certificate S-l/A-4 333-142368 4.1 7/27/07
+10.1 Form of Master Transaction Agreement between VMware, Inc. and EMC S-l/A—2 333-142368 10.1 7/9/07
+Corporation
+10.2 Form of Administrative Services Agreement between VMware, Inc. and S-l/A—2 333-142368 10.2 7/9/07
+EMC Corporation
+10.3 Amended and Restated Tax Sharing Agreement between VMware, Inc. and 10-Q 001-33622 10.32 11/7/16
+Dell Technologies Inc. effective as of September 6, 2016
+10.4 Form of Intellectual Property Agreement between VMware, Inc. and EMC S-l/A—l 333-142368 10.4 6/11/07
+Corporation
+10.5 Amended and Restated Real Estate License Agreement between VMware, 10-Q 001-33622 10.5 11/9/15
+Inc. and EMC Corporation dated September 21, 2015
+106+ 2007 Equity and Incentive Plan, as amended and restated May 27, 2015 10-Q 001-33622 10.6 8/5/15
+10.7+ Form of Indemnification Agreement for VMware, Inc. Directors and 10-Q 001-33622 10.29 5/1/14
+Executive Officers, as approved March 4, 2014
+10.8 Form of Insurance Matters Agreement between VMware, Inc. and EMC S-l/A—2 333-142368 10.11 7/9/07
+Corporation
+109+ Form of Stock Option Agreement, as amended May 13, 2015 10-Q 001-33622 10.9 8/5/ 15
+1010+ Form of Restricted Stock Unit Agreement, as amended August 12, 2016 10-Q 001-33622 10.10 1 1/7/ 16
+10.11 2007 Employee Stock Purchase Plan, as amended and restated November 10-K 001-33622 10.13 2/25/ 14
+14, 2013
+1012+ Executive Bonus Program, as amended and restated February 12, 2014 10-Q 001-33622 10.20 5/1/ 14
+10.13 Agreement of Purchase and Sale Agreement between Roche Palo Alto LLC 10-Q 001-33622 10.24 8/3/11
+and VMware, Inc. dated March 16, 2011
+10.14 Amended and Restated Ground Lease between VMware, Inc. and the Board 10-Q 001-33622 10.25 8/3/11
+of Trustees of the Leland Stanford Junior University dated June 13, 2011
+(3431 Hillview Campus)
+10.15 Ground Lease between 3401 Hillview LLC. and the Board of Trustees of 10-Q 001-33622 10.26 8/3/11
+the Leland Stanford Junior University dated as of February 2, 2006
+94

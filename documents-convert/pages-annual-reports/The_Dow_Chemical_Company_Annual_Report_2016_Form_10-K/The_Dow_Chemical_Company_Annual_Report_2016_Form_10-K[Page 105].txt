@@ -1,0 +1,48 @@
+Goodwill Impairments
+The carrying amount of goodwill for all periods presented was net of accumulated impairments of $209 million in Consumer
+Solutions and $220 million in Performance Materials & Chemicals.
+Goodwill Impairment Testing
+The Company performs an impairment test for goodwill annually during the fourth quarter. Qualitative factors may be assessed
+by the Company to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying
+value. The qualitative factors assessed at the Company level include, but are not limited to, GDP growth rates, long-term
+hydrocarbon and energy prices, equity and credit market activity, discount rates, foreign exchange rates and overall financial
+performance. Qualitative factors assessed at the reporting unit level include, but are not limited to, changes in industry and
+market structure, competitive environments, planned capacity and new product launches, cost factors such as raw material
+prices, and financial performance of the reporting unit.
+In 2016, the Company assessed qualitative factors for 11 of the 14 reporting units carrying goodwill (9 of 12 reporting units in
+2015 and 9 of 14 reporting units in 2014). The qualitative assessment indicated that it was more likely than not that fair value
+exceeded carrying value for those reporting units included in the qualitative test. The Company performed the first step of the
+quantitative testing for the remaining three reporting units (three in 2015 and five in 2014). The Company utilized a discounted
+cash ﬂow methodology to calculate the fair value of the reporting units. Based on the fair value analysis, management
+concluded that fair value exceeded carrying value for all reporting units in 2016, 2015 and 2014. As a result, no additional
+quantitative testing was required for the reporting units.
+Other Intangible Assets
+The following table provides information regarding the Company’s other intangible assets:
+iOther Intangible Assets at December 31 : 2016 : : 2015
+Gross Gross
+Carrying Accumulated Carrying Accumulated
+In millions Amount Amortization Net Amount Amortization Net
+[Intangible assets with finite lives:
+Licenses and intellectual pgperty $ 3,148 $ (1,286) $ 1,862 $ 1,943 $ (1,087) $ 856
+| Patents 106 (E) 9 119 (108) 11 1
+Software 1,336 (696) 640 1,253 (628) 625
+| Trademarks 696 (503) 193 666 (441) 225 ‘
+Customer-related 4,806 (1,567) 3,239 3,164 (1,366) 1,798
+1 Other 168 (146) 22 165 (140) 25 1
+Total other intangible assets, finite lives 39 10,260 $ (4,295) $ 5,965 $ 7,310 $ (3,770) $ 3,540 7
+1IPR&D (1), indefinite lives 61 4 61 77 A A 771
+:Total other intangible assets 39 10,321 $ (4,295) $ 6,026 $ 7,387 $ (3,770) $ 3,617 :
+(1) In—process research and development ("IPR&D") purchased in a business combination.
+Intangible assets assumed in the DCC Transaction are presented in the table below. See Note 4 for additional information on
+this transaction.
+Dow Corning Intangible Assets Weighted—7
+at J 11119 1, 2016 Gross average
+Carrying Amortization
+In millions Amount Period
+[Intangible assets with finite lives:
+Licenses and intellectual pgperty $ 1,200 9 years
+| Software 2 5 years 1
+Trademarks 30 3 years
+1 Customer-related 1,755 19 years1
+;Total $ 2,987 15 years;
+97

@@ -1,0 +1,43 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+Interactive
+Interactive revenues are principally generated from online social gaming. Social gaming revenues are generated from
+the sale of virtual coins to players that can be used for additional play or game enhancements. Revenues from player purchases
+are recognized ratably over the estimated average service period in which the virtual coins are consumed based on historical
+data analysis. Because we are responsible for substantially all aspects of the game services and sale of virtual goods to the
+player, we have determined we are the principal and as a result revenues are recorded on a gross basis. Payment processing fees
+paid to platform providers (such as F acebook, Apple and Google) on a revenue participation basis are recorded within cost of
+services.
+Deferred revenue and deferred cost of revenue
+Deferred revenue arises primarily from the timing differences between the shipment or installation of Gaming and
+Lottery equipment and systems products and the satisfaction of all revenue recognition criteria consistent with our revenue
+recognition policy, as well as prepayment of contracts which are recognized ratably over a service period, such as maintenance
+or licensing revenue. Deferred cost of revenue primarily consists of the direct costs associated with the manufacture of Gaming
+and Lottery equipment and systems products for which revenue has been deferred. Deferred revenue and deferred cost of
+revenue expected to be realized within one year are classiﬁed as current liabilities and current assets, respectively.
+The following table summarizes the deferred revenue activity for the reporting period:
+7 Year Ended December 31, 7
+7 2016 7 7 2015 7 7 2014 7
+I Deferred revenue balance, beginning of period $ 57.8 $ 59.0 $ 51.9 ‘
+New deferrals 200.6 252.0 335.6
+I Amounts recognized in revenue 7 (191.0) (253.2) (328.5):
+Deferred revenue balance, end of period 67.4 : 57.8 : 5 9.0 :
+Sales commissions
+Any sales commissions associated with the sale or placement of our products are expensed as incurred.
+Warranties
+At the time a sale is recognized, we record estimated future warranty costs. The warranty liability is determined by
+applying historical claim rate experience to the current applicable population. Warranty costs may differ from those estimated if
+actual claim rates are higher or lower than our historical rates.
+(4) Restructuring and Other
+Restructuring and other includes charges or expenses attributable to: (i) employee severance; (ii) management
+restructuring and related costs; (iii) restructuring and integration; (iv) cost savings initiatives; and (v) other unusual items. The
+following table summarizes pre-tax restructuring and other costs for the periods presented:
+7 Year Ended December 31, 7
+I i 2016 2015 2014 \
+Empl_oyee severance (1) $ 36.2 $ 16.9 $ 25.8
+I Management restructuring and related costs 5.9 — — ‘
+Restructuring, integration and other 14.9 5.0 4.9
+I Total $ 57.0 _$ 21.9 _$ 30.7 i
+(1) Inclusive of employee severance and termination costs associated with restructuring activities.
+84

@@ -1,0 +1,45 @@
+Iablre,of,C,ontents
+sales were invoiced and collected in non-US. dollar denominated currencies. The realized gain or loss on foreign currency transactions is dependent upon the types
+of foreign currency transactions that we enter into, the exchange rates associated these transactions and changes in those rates, the net realized gain or loss on our
+foreign currency forward contracts, and other factors. Although we hedge a portion of our foreign currency exposure, a significant ﬂuctuation in exchange rates
+between the US. dollar and foreign currencies may adversely affect our operating results. For example, we experienced a measurable negative impact to our
+revenue in 2015 due to exchange rate ﬂuctuations. Any further weakening of foreign currency exchange rates against the US. dollar would likely result in
+additional adverse impact on our revenue.
+We operate a global business that exposes us to additional risks.
+Our international activities account for a substantial portion of our revenue and proﬁts, and we plan to further expand internationally. In addition, our
+investment portfolio includes investments in non-US. ﬁnancial instruments and holdings in non-US. financial institutions, including European institutions. In
+addition to the risks described elsewhere in these risk factors, our international operations subject us to a variety of risks, including:
+- difﬁculties in enforcing contracts and collecting accounts receivable and longer payment cycles, especially in emerging markets;
+- difﬁculties in delivering support, training and documentation in certain foreign markets;
+0 tariffs and trade barriers and other regulatory or contractual limitations on our ability to sell or develop our products and services in certain foreign
+markets;
+0 changes and instability in government policies and international trade arrangements that could adversely affect the ability of U.S.-based companies to
+conduct business in non-US. markets;
+0 economic or political instability and security concerns in countries that are important to our international sales and operations;
+- difﬁculties in transferring funds from certain countries;
+0 increased compliance risks, particularly in emerging markets; and
+- difﬁculties in maintaining appr0priate controls relating to revenue recognition practices.
+For example, the Chinese government is working to implement new network security standards that will require IT systems being sold into certain key sectors
+to be certiﬁed as “secure and controllable.” As part of that effort, in December 2014, standards were implemented in the banking sector requiring IT companies
+selling to Chinese banks to submit their software and other technology to intrusive security testing, include indigenous Chinese intellectual property and encryption
+technology in their software and disclose source code and other proprietary information to the Chinese government. Implementation of these standards was
+subsequently suspended in light of concerns communicated by banks and other parties. However, in 2015 and 2016, the government has continued to enact or
+propose additional laws and regulations to address information and network security. For example, in July 2015, China enacted a State Security Law authorizing
+the government to implement a system for maintaining the security of networks and information. In November 2015, the insurance regulator in China issued draft
+insurance cyber rules that would require insurance companies to have compliant encryption tools, secure and compliant hardware and software products, and data
+storage. In December 2015, China enacted an Anti-Terrorism Law that gives local public security and state security authorities the broad discretionary authority to
+require companies to provide access to their equipment and decryption support in particular cases. Failure to comply with such requests can result in ﬁnes and
+imprisonment. In addition, a broad range of businesses will be required to verify the identities of customers and prohibit the provision of services to customers
+whose identities are unclear or who refuse to cooperate in the veriﬁcation process. In November 2016, China’s legislature enacted a Network Security Law that
+comes into effect June 1, 2017 and that contemplates data localization measures and other network security measures relevant to a vaguely deﬁned scope of “key
+information infrastructure.” If we are not able to, or choose not to, comply with these and other information and network security standards that the Chinese
+government might implement in the future, our business in China may suffer.
+Furthermore, if we fail to comply with legal and regulatory requirements covering the foreign activities of US. corporations, such as export control
+requirements and the Foreign Corrupt Practices Act, as well as with local regulatory requirements in non-US. jurisdictions, we may be exposed to significant ﬁnes
+and penalties and reputational harm. These risks will increase as we expand our operations in locations with a higher incidence of corruption and fraudulent
+business practices.
+In addition, potential fallout from past disclosures related to the US. Internet and communications surveillance and possible efforts to enable increased
+surveillance could make foreign customers reluctant to purchase products and services from U.S.-based technology companies and impair our growth rate in
+foreign markets.
+Our failure to manage any of these risks successfully could negatively affect our reputation and adversely affect our operating results.
+17

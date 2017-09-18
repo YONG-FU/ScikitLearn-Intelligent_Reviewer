@@ -1,0 +1,51 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES — (continued)
+lnventories— Inventories are valued at cost, which is not in excess of market value. The
+majority of inventories are determined on a last-in, first-out (“LIFO”) basis. Inventory costs include the
+cost of shoes purchased from third-party manufacturers, as well as related freight and duty costs.
+The Company generally takes title to product at the time of shipping. See Note 5.
+Property, Plant and Equipment and Depreciation — Property, plant and equipment are stated at
+cost. Plant and equipment are depreciated using primarily the straight-line method over their
+estimated useful lives as follows: buildings and improvements, 10 to 39 years; machinery and
+equipment, 3 to 5 years; furniture and fixtures, 5 to 7 years. For income tax reporting purposes,
+depreciation is calculated using applicable methods.
+Impairment of Long-Lived Assets — Property, plant and equipment are reviewed for impairment
+in accordance with ASC 360, Property, Plant and Equipment if events or changes in circumstances
+indicate that the carrying amounts may not be recoverable. Recoverability of assets is measured by a
+comparison of the carrying amount of an asset to its related estimated undiscounted future cash
+flows. If the sum of the expected undiscounted cash flows is less than the carrying value of the
+related asset or group of assets, a loss is recognized for the difference between the fair value and
+carrying value of the asset or group of assets. To derive the fair value, the Company utilizes the
+income approach and the fair value determined is categorized as Level 3 in the fair value hierarchy.
+The fair value of each asset group is determined using the estimated future cash flows discounted at
+an estimated weighted-average cost of capital. For purposes of the impairment review, the Company
+groups assets at the lowest level for which identifiable cash flows are largely independent of the cash
+flows of other assets and liabilities. In the case of its retail stores, the Company groups assets at the
+individual store level. In connection with the Company’s impairment review, the Company’s retail
+segment recognized an impairment charge of $113,000 in 2016 which was recorded within selling
+and administrative expenses in the Consolidated Statements of Earnings. No impairment charges
+were recorded in 2015 or 2014.
+Goodwill and Intangible Assets — Goodwill represents the excess of the purchase price over the
+estimated fair value of the underlying assets acquired and liabilities assumed in the acquisition of a
+business. Goodwill is not subject to amortization. Other intangible assets consist of trademarks,
+customer relationships, and a non-compete agreement. Intangible assets with definite lives are
+amortized over their estimated useful lives. Intangible assets which are not amortized are reviewed
+for impairment annually and whenever events or changes in circumstances indicate the carrying
+amounts may not be recoverable. See Note 7.
+Life Insurance — Life insurance policies are recorded at the amount that could be realized under
+the insurance contracts as of the balance sheet date. These assets are included within other assets
+in the Consolidated Balance Sheets. See Note 8.
+Contingent Consideration — Contingent consideration was comprised of two earn-out payments
+that the Company was obligated to pay the former shareholders of The Combs Company (“Bogs”) in
+connection with the Company’s acquisition of Bogs in 2011. The Company revalued the contingent
+consideration liability on a quarterly basis and recorded increases or decreases in its fair value as an
+adjustment to operating earnings. Changes to the liability resulted from accretion of the discount due
+to the passage of time as well as changes in the actual or projected performance of Bogs. The
+assumptions used to determine the fair value of the contingent consideration liability included a
+significant amount of judgment. See Note 10.
+Income Taxes — Deferred income taxes are provided on temporary differences arising from
+differences in the basis of assets and liabilities for income tax and financial reporting purposes.
+Deferred tax assets and liabilities are measured using enacted income tax rates in effect. Tax rate
+changes affecting deferred tax assets and liabilities are recognized in income at the enactment date.
+37

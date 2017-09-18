@@ -1,0 +1,44 @@
+NOTE P - EQUITY ITEMS (continued)
+(In millions) 2016 2015 2014 7
+Cost of sales $ (25) $ (8) $ (6)
+Selling, general and administrative expense (35) (13) (14)
+Discontinued operations 7 —7 7 (3) (16)
+Total amortization of unrecognized prior service credits $ (60) $ (24) 77$ (36)
+NOTE Q — STOCK INCENTIVE PLANS
+Ashland has stock incentive plans under which key employees or directors are granted stock appreciation rights (SARs),
+performance share awards or nonvested stock awards. Each program is typically a long-term incentive plan designed to link
+employee compensation with increased shareholder value or reward superior performance and encourage continued employment
+with Ashland. Ashland recognizes compensation expense for the grant date fair value of stock-based awards over the applicable
+vesting period. The components of Ashland’s pretax stock-based awards (net of forfeitures), which is included within the selling,
+general and administrative expense caption of the Statements of Consolidated Comprehensive Income, and associated income tax
+benefits are as follows:
+(In millions) 2016 (a) 2015 (b) 2014 7
+iSARs $ 9 $ 10 $ 16 *
+Nonvested stock awards 17 15 10
+Performance share awards 7 8 7 7 13 7 7 8 7
+’$ 34* 7$ 387 7$ 34'
+Income tax benefit 77$ 13 : :$ 13 : 77$ 13 i
+(a) The year ended September 30, 2016 included $4 million of expense related primarily to cash-settled nonvested restricted stock awards. :
+(b) The year ended September 30, 2015 included a $7 million award modiﬁcation within performance shares that was designated as a cash item (see table on
+F -5 5 for further information) and $1 million of expense related primarily to cash-settled nonvested restricted stock awards.
+Stock Appreciation Rights (SARs)
+SARs are granted to employees or directors at a price equal to the fair market value of the stock on the date of grant and
+typically become exercisable over periods of one to three years. Unexercised SARs lapse ten years and one month after the date
+of grant. Ashland estimates the fair value of SARs granted using the Black-Scholes option-pricing model. This model requires
+several assumptions, which Ashland has developed and updates based on historical trends and current market observations. The
+accuracy of these assumptions is critical to the estimate of fair value for these equity instruments. The following table illustrates
+the weighted-average of key assumptions used within the Black-Scholes option-pricing model. The risk-free interest rate
+assumption was based on the U. S. Treasury yield curve in effect at the time of the grant for the expected term of the instrument. The
+dividend yield reﬂects the assumption that the current dividend payout will continue with no anticipated increases. The volatility
+assumption was calculated by utilizing an unbiased standard deviation of Ashland’s Common Stock closing price for the past five
+years. The expected life is based on historical data and is not necessarily indicative of exercise patterns that may occur.
+(In millions except per share data) 2016 2015 2014
+Weighted-average fair value per share of SARs granted $ 26.24 $ 30.70 $ 34.96
+Assumptions (weighted-average)
+Risk-free interest rate 1.8% 1.7% 1.4%
+Expected dividend yield 1.4% 1.2% 1.5%
+Expected volatility 27.7% 31.8% 49.7%
+Expected life (in years) 5 5 5
+A progression of activity and various other information relative to SARs and previously issued and vested stock options is
+presented in the following table.
+F -5 3

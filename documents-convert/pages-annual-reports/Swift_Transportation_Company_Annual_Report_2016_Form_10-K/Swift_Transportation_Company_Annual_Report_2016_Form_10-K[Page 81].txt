@@ -1,0 +1,47 @@
+Income Taxes — Our deferred tax assets and liabilities represent items that will result in taxable income or tax
+deductions in future years for which we have already recorded the related tax expense or benefit in our consolidated
+income statements. Deferred tax accounts arise as a result of timing differences between when items are recognized
+in our consolidated financial statements compared to when they are recognized in our tax returns. Significant
+managementjudgment is required in determining our provision for income taxes and in determining whether deferred
+tax assets will be realized in full or in part. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years in which those temporary differences are expected to be recovered
+or settled. We periodically assess the likelihood that all or some portion of deferred tax assets will be recovered
+from future taxable income. To the extent we believe the likelihood of recovery is not sufficient, a valuation allowance
+is established for the amount determined not to be realizable.
+Note 11 to the consolidated financial statements discusses valuation allowances and cumulative undistributed foreign
+earnings.
+We believe that we have adequately provided for our future tax consequences based upon current facts and
+circumstances and current tax law. However, should our tax positions be challenged, different outcomes could
+result and have a significant impact on the amounts reported through our consolidated income statements.
+Operating Leases — In accordance with ASC Topic 840, Leases, property and equipment held under operating
+leases, and liabilities related thereto, are off-balance sheet. All expenses related to operating leases are reflected
+in our consolidated income statements in "Rental expense." At the inception of a lease, managementjudgment is
+involved in classification as an operating or capital lease, as well as determination of useful lives and estimation of
+residual values of the related equipment. Future minimum lease payments used in determining lease classification
+represent the minimum rental payments called for over the lease term, inclusive of residual value guarantees (if
+applicable) and amounts that would be required to be paid, if any, by the Company upon default for leases containing
+subjective acceleration or cross default clauses.
+The Company does not currently guarantee residual values under its operating lease agreements for revenue
+equipment. To the extent we believe any manufacturer will refuse or be unable to meet its obligation, we recognize
+additional rental expense to the extent we believe the fair market value at the lease termination will be less than
+our obligation to the lessor. We believe that proceeds from the sale of equipment under operating leases would
+exceed the payment obligation on substantially all operating leases.
+Stock-based Compensation— We issue several types of share-based compensation, including awards that vest,
+based on service and performance conditions ora combination of service and performance conditions. Performance-
+based awards vest contingent upon meeting certain performance criteria established by our compensation
+committee. All awards require future service and thus forfeitures are estimated based on historical forfeitures and
+the remaining term until the related award vests. ASC Topic 718 requires that all share-based payments to
+employees, including grants of employee stock options, be recognized in the financial statements based upon a
+grant-date fair value of an award. Determining the appropriate amount to expense in each period is based on
+likelihood and timing of achievement of the stated targets for performance-based awards, and requires judgment,
+including forecasting future financial results and market performance. The estimates are revised periodically, based
+on the probability and timing of achieving the required performance targets, and adjustments are made as
+appropriate. Awards that are only subject to time-vesting provisions are amortized using the straight-line method.
+Awards subject to time-based vesting and performance conditions are amortized using the individual vesting
+tranches.
+Legal Settlements and Reserves — See Note 17 in Part II Item 8: Financial Statements, in this Annual Report on
+Form 10-K.
+Recently Issued Accounting Pronouncements
+See Note 3 under Part II Item 8: Financial Statements, in this Annual Report on Form 10-K for recently issued
+accounting pronouncements that could have an impact on our consolidated financial statements.
+77

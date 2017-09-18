@@ -1,0 +1,46 @@
+Our “Patent Promise” on software patents limits our ability to enforce our patent rights in certain
+circumstances.
+As part of our commitment to the open source community, we provide our Patent Promise on software
+patents. Under our Patent Promise, we agree, subject to certain limitations, to not enforce our patent rights
+against users of open source software covered by certain open source licenses, including the GNU General Public
+License version 2.0 and version 3.0, GNU Lesser General Public License version 2.1 and version 3.0, IBM
+Public License version 1.0, Common Public License version 1.0, Q Public License version 1.0, Open Software
+License version 3.0 and any other open source license granted by Red Hat. While we may be able to claim
+protection of our intellectual property under other rights, such as trade secrets or contractual rights, our Patent
+Promise effectively limits our ability to assert our patent rights against these third parties (even if we were to
+conclude that their use infringes our patents with competing offerings), unless any such third party asserts its
+patent rights against us. This limitation on our ability to assert our patent rights against others could harm our
+business and ability to compete.
+We are, and may become, involved in disputes and lawsuits that could adversely affect our business.
+Lawsuits or legal proceedings may be commenced against us. These disputes and proceedings may involve
+significant expense and divert the attention of management and other employees. If we do not prevail in these
+matters, we could be required to pay substantial damages or settlement costs, which could adversely affect our
+business, financial condition, operating results and cash flows. See Part I, Item 3, “Legal Proceedings” for
+additional information.
+If we fail to comply with laws and regulations regarding data privacy and protection, our business could
+be adversely affected.
+Our business is subject to a variety of federal, state and international laws and regulations that apply to the
+collection, use, retention, protection, disclosure, transfer and processing of personal data. These data privacy- and
+protection-related laws and regulations are evolving, with new or modified laws and regulations proposed and
+implemented frequently and existing laws and regulations subject to new or different interpretations. For
+example, in October 2015, the European Court of Justice invalidated the U.S.—EU Safe Harbor Framework. The
+Safe Harbor Framework had established a lawful method for the transfer of personal data from the European
+Economic Area (“EEA”) to the U.S. The decision of the European Court of Justice has resulted in increased
+uncertainty and greater complexity and risk relating to transfers of personal data from the EEA to the U.S.
+Any failure by us to comply with data privacy- and protection-related laws and regulations could result in
+enforcement actions, significant penalties or other legal actions against us or our customers or suppliers. An
+actual or alleged failure to comply, which could result in negative publicity, reduce demand for our offerings,
+increase the cost of compliance, require changes in business practices that result in reduced revenue, restrict our
+ability to provide our offerings in certain locations, result in our customers’ inability to use our offerings and
+prohibit data transfers or result in other claims, liabilities or sanctions, including fines, could have an adverse
+effect on our business, financial condition, operating results and cash ﬂows.
+If we fail to comply with our customer contracts or government contracting regulations, our business
+could be adversely affected.
+Our contracts with our customers may include specialized performance requirements. In particular, our
+contracts with federal, state, provincial and local governmental customers are subject to various government
+certification requirements, procurement regulations, contract provisions and other requirements relating to their
+formation, administration and performance. Any failure by us or our channel partners to comply with the specific
+provisions in our customer contracts or any violation of government contracting regulations by us or our channel
+partners could result in the imposition of various civil and criminal penalties, which may include termination of
+contracts, forfeiture of profits, suspension of payments and, in the case of our government contracts, ﬁnes and
+31

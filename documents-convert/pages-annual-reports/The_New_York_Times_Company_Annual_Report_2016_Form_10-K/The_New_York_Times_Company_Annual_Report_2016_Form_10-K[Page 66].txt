@@ -1,0 +1,49 @@
+The discounted cash ﬂow analysis requires us to make various judgments, estimates and assumptions, many of
+which are interdependent, about future revenues, operating margins, growth rates, capital expenditures, working
+capital and discount rates. The starting point for the assumptions used in our discounted cash ﬂow analysis is the
+annual long-range financial forecast. The annual planning process that we undertake to prepare the long-range
+financial forecast takes into consideration a multitude of factors, including historical growth rates and operating
+performance, related industry trends, macroeconomic conditions, and marketplace data, among others. Assumptions
+are also made for perpetual growth rates for periods beyond the long-range financial forecast period. Our estimates of
+fair value are sensitive to changes in all of these variables, certain of which relate to broader macroeconomic
+conditions outside our control.
+The market approach analysis includes applying a multiple, based on comparable market transactions, to
+certain operating metrics of the reporting unit.
+The significant estimates and assumptions used by management in assessing the recoverability of goodwill
+acquired and other intangibles are estimated future cash ﬂows, discount rates, growth rates, as well as other factors.
+Any changes in these estimates or assumptions could result in an impairment charge. The estimates, based on
+reasonable and supportable assumptions and projections, require management’s subjective judgment. Depending on
+the assumptions and estimates used, the estimated results of the impairment tests can vary within a range of
+outcomes.
+In addition to annual testing, management uses certain indicators to evaluate whether the carrying value of our
+reporting unit may not be recoverable and an interim impairment test may be required. These indicators include: (1)
+current-period operating or cash ﬂow declines combined with a history of operating or cash ﬂow declines or a
+projection / forecast that demonstrates continuing declines in the cash ﬂow or the inability to improve our operations
+to forecasted levels, (2) a significant adverse change in the business climate, whether structural or technological, (3)
+significant impairments and (4) a decline in our stock price and market capitalization.
+Management has applied what it believes to be the most appropriate valuation methodology for its impairment
+testing. Additionally, management believes that the likelihood of an impairment of goodwill is remote due to the
+excess market capitalization relative to its net book value. See Note 4.
+Self-Insurance
+We self-insure for workers’ compensation costs, automobile and general liability claims, up to certain
+deductible limits, as well as for certain employee medical and disability benefits. The recorded liabilities for self-
+insured risks are primarily calculated using actuarial methods. The liabilities include amounts for actual claims, claim
+growth and claims incurred but not yet reported. The recorded liabilities for self-insured risks were approximately
+$38 million and $41 million as of December 25, 2016 and December 27, 2015, respectively.
+Pension and Other Postretirement Benefits
+Our single-employer pension and other postretirement benefit costs are accounted for using actuarial
+valuations. We recognize the funded status of these plans — measured as the difference between plan assets, if funded,
+and the benefit obligation — on the balance sheet and recognize changes in the funded status that arise during the
+period but are not recognized as components of net periodic pension cost, within other comprehensive income / (loss),
+net of income taxes. The assets related to our funded pension plans are measured at fair value.
+We make significant subjective judgments about a number of actuarial assumptions, which include discount
+rates, health-care cost trend rates, long-term return on plan assets and mortality rates. Depending on the assumptions
+and estimates used, the impact from our pension and other postretirement benefits could vary within a range of
+outcomes and could have a material effect on our Consolidated Financial Statements.
+We also recognize the present value of pension liabilities associated with the withdrawal from multiemployer
+pension plans. We record liabilities for obligations related to complete, partial and estimated withdrawals from
+multiemployer pension plans. The actual liability is not known until each plan completes a final assessment of the
+withdrawal liability and issues a demand to us. Therefore, we adjust the estimate of our multiemployer pension plan
+liability as more information becomes available that allows us to refine our estimates.
+See Notes 9 and 10 for additional information regarding pension and other postretirement benefits.
+P. 62 —- THE NEW YORK TIlVlES COMPANY

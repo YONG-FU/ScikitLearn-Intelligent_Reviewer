@@ -1,0 +1,46 @@
+Table of Contents
+Stock-Based Compensation
+Compensation cost for all stock awards expected to vest is measured at fair value on the date of grant and recognized over the service period. The fair
+value of restricted stock units is determined based on the number of shares granted and the quoted price of our common stock, and the fair value of stock
+options is estimated on the date of grant using the Black-Scholes model. Such value is recognized as expense over the service period, net of estimated
+forfeitures, using the accelerated method. The estimated number of stock awards that will ultimately vest requires judgment, and to the extent actual results or
+updated estimates differ from our current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We
+consider many factors when estimating expected forfeitures, including employee level, economic conditions, time remaining to vest, and historical forfeiture
+experience.
+Other Operating Expense, Net
+Other operating expense, net, consists primarily of marketing-related, contract-based, and customer-related intangible asset amortization expense, and
+expenses related to legal settlements.
+Other Income (Expense), Net
+Other income (expense), net, consists primarily of foreign currency gains (losses) of $(127) million, $(266) million, and $21 million in 2014, 2015, and
+2016, equity warrant valuation gains (losses) of $(5) million, $0 million, and $67 million in 2014, 2015, and 2016, and realized gains (losses) on marketable
+securities sales of $3 million, $(5) million, and $(8) million in 2014, 2015 , and 2016.
+Income Taxes
+Income tax expense includes US. (federal and state) and foreign income taxes. Except as required under US. tax laws, we do not provide for U.S. taxes
+on our undistributed earnings of foreign subsidiaries that have not been previously taxed since we intend to invest such undistributed earnings indeﬁnitely
+outside of the US. If our intent changes or if these funds are needed for our US. operations, we would be required to accrue or pay U.S. taxes on some or all of
+these undistributed earnings and our effective tax rate would be affected. Undistributed earnings of foreign subsidiaries that are indeﬁnitely invested outside
+of the US. were $2.8 billion as of December 31, 2016. Determination of the unrecognized deferred tax liability that would be incurred if such amounts were
+repatriated is not practicable.
+Deferred income tax balances reﬂect the effects of temporary differences between the carrying amounts of assets and liabilities and their tax bases and
+are stated at enacted tax rates expected to be in effect when taxes are actually paid or recovered.
+Deferred tax assets are evaluated for future realization and reduced by a valuation allowance to the extent we believe they will not be realized. We
+consider many factors when assessing the likelihood of future realization of our deferred tax assets, including our recent cumulative earnings experience and
+expectations of future taxable income and capital gains by taxing jurisdiction, the carry-forward periods available to us for tax reporting purposes, and other
+relevant factors.
+We utilize a two-step approach to recognizing and measuring uncertain income tax positions (tax contingencies). The ﬁrst step is to evaluate the tax
+position for recognition by determining if the weight of available evidence indicates it is more likely than not that the position will be sustained on audit,
+including resolution of related appeals or litigation processes. The second step is to measure the tax beneﬁt as the largest amount which is more than 50%
+likely of being realized upon ultimate settlement. We consider many factors when evaluating our tax positions and estimating our tax beneﬁts, which may
+require periodic adjustments and which may not accurately forecast actual outcomes. We include interest and penalties related to our tax contingencies in
+income tax expense.
+Fair Value of Financial Instruments
+Fair value is deﬁned as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation
+methodologies used to measure fair value:
+Level l—Valuations based on quoted prices for identical assets and liabilities in active markets.
+Level 2—Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and
+liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are
+observable or can be corroborated by observable market data.
+Level 3—Valuations based on unobservable inputs reﬂecting our own assumptions, consistent with reasonably available assumptions made by
+other market participants. These valuations require signiﬁcant judgment.
+44

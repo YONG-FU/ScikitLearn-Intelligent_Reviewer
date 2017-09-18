@@ -1,0 +1,49 @@
+Standards not yet adopted
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606). This standard provides a
+single set of guidelines for revenue recognition to be used across all industries and requires additional disclosures. It is effective for
+annual and interim reporting periods beginning after December 15, 2017. This standard permits early adoption, but not before
+December 15, 2016, and permits the use of either the retrospective or cumulative effect transition method. We are currently
+evaluating the potential impact of this standard on our financial position and results of operations, as well as our selected transition
+method. Based on our preliminary assessment, we believe the new standard will not have a material impact on our financial
+position and results of operations, as we do not expect to change the manner or timing of recognizing revenue on a majority of
+our revenue transactions. We recognize revenue on sales to customers and distributors upon satisfaction of our performance
+obligations when the goods are shipped. For consignment sales, we recognize revenue when the goods are pulled from
+consignment inventory. ’3
+In January 2016, the FASB issued ASU No. 2016-01, Financial Instruments — Overall (Subtopic 825-10): Recognition and 5
+Measurement of Financial Assets and Financial Liabilities. Under this standard, all equity investments except those accounted for 5
+under the equity method are required to be measured at fair value. Equity investments that do not have a readily determinable "'
+fair value may, as a practical expedient, be measured at cost, adjusted for changes in observable prices minus impairment. This
+standard is effective for our interim and annual periods beginning January 1, 2018. We do not expect this standard to have a
+material impact on our financial position and results of operations, as nearly all of our equity investments are already recorded at
+fair value or under the equity method.
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842). This standard requires all leases that have a term of over
+12 months to be recognized on the balance sheet with the liability for lease payments and the corresponding right-of-use asset
+initially measured at the present value of amounts expected to be paid over the term. Recognition of the costs of these leases on
+the income statement will be dependent upon their classification as either an operating or a financing lease. Costs of an operating
+lease will continue to be recognized as a single operating expense on a straight-line basis over the lease term. Costs for a
+financing lease will be disaggregated and recognized as both an operating expense (for the amortization of the right-of-use asset)
+and interest expense (for interest on the lease liability). This standard will be effective for our interim and annual periods beginning
+January 1, 2019, and must be applied on a modified retrospective basis to leases existing at, or entered into after, the beginning of
+the earliest comparative period presented in the financial statements. Early adoption is permitted. We are currently evaluating the .
+timing of adoption and the potential impact of this standard on our financial position, but we do not expect it to have a material
+impact on our results of operations.
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments — Credit Losses (Topic 326): Measurement of Credit Losses
+on Financial Instruments. This standard requires entities to use a current lifetime expected credit loss methodology to measure
+impairments of certain financial assets. Using this methodology will result in earlier recognition of losses than under the current
+incurred loss approach, which requires waiting to recognize a loss until it is probable of having been incurred. There are other
+provisions within the standard that affect how impairments of other financial assets may be recorded and presented, and that
+expand disclosures. This standard will be effective for our interim and annual periods beginning after December 15, 2019, and
+permits earlier application but not before December 15, 2018. The standard will be applied using a modified retrospective
+approach. We are currently evaluating the potential impact of this standard, but we do not expect it to have a material impact on
+our financial position and results of operations.
+3. Restructuring charges/other
+Restructuring charges/other is comprised of the following components:
+For Years Ended December 31,
+2016 2015 2014
+Restructuringcharges(a) $ 25 $14 $ 20
+Gainsonsalesofassets......................................................... (40) (83) (75)
+— (2) 4
+Restructuringcharges/other $(15) $(71) $(51)
+(a) Includes severance and benefits, accelerated depreciation, changes in estimates or other exit costs.
+Restructuring charges/other are recognized in Other for segment reporting purposes.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 37

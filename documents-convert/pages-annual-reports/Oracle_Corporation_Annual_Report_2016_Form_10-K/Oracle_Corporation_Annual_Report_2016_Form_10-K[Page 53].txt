@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+Business Combinations
+We apply the provisions of ASC 805, Business Combinations , in accounting for our acquisitions. It requires us to recognize separately from goodwill the assets
+acquired and the liabilities assumed at the acquisition date fair values. Goodwill as of the acquisition date is measured as the excess of consideration transferred
+over the net of the acquisition date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to accurately
+value assets acquired and liabilities assumed at the acquisition date as well as any contingent consideration, where applicable, our estimates are inherently uncertain
+and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, we record adjustments to the assets
+acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or ﬁnal determination of the values of
+assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to our consolidated statements of operations.
+Accounting for business combinations requires our management to make significant estimates and assumptions, especially at the acquisition date, including our
+estimates for intangible assets, contractual obligations assumed, pre-acquisition contingencies and contingent consideration, where applicable. Although we believe
+the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based in part on historical experience and information
+obtained from the management of the acquired companies and are inherently uncertain.
+Examples of critical estimates in valuing certain of the intangible assets we have acquired include but are not limited to:
+- future expected cash ﬂows from software license sales, cloud SaaS, PaaS and IaaS contracts, hardware product sales, support agreements, consulting
+contracts, other customer contracts, acquired developed technologies and patents;
+- expected costs to develop the in-process research and development into commercially viable products and estimated cash ﬂows from the projects when
+completed;
+- the acquired company’s brand and competitive position, as well as assumptions about the period of time the acquired brand will continue to be used in the
+combined company’s product portfolio; and
+- discount rates.
+Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results.
+We estimate the fair values of our cloud SaaS and PaaS, software license updates and product support, and hardware support obligations assumed. The estimated
+fair values of these performance obligations are determined utilizing a cost build-up approach. The cost build-up approach determines fair value by estimating the
+costs related to fulfilling the obligations plus a normal profit margin. The estimated costs to fulfill the obligations are based on the historical direct costs related to
+providing the services including the correction of any errors in the products acquired. The sum of these costs and operating profit approximates, in theory, the
+amount that we would be required to pay a third party to assume the performance obligations. We do not include any costs associated with selling efforts or
+research and development or the related fulfillment margins on these costs. Profit associated with any selling efforts is excluded because the acquired entities would
+have concluded those selling efforts on the performance obligations prior to the acquisition date. We also do not include the estimated research and development
+costs in our fair value determinations, as these costs are not deemed to represent a legal obligation at the time of acquisition. As a result of our fair value estimates
+for these obligations, we did not recognize certain cloud SaaS and PaaS, software license updates and product support and hardware support revenue amounts that
+would have been otherwise recorded by the acquired businesses as independent entities upon delivery of the contractual obligations (refer to “Supplemental
+Disclosure Related to Certain Charges” below for further discussion). Historically, substantially all of our customers, including customers from acquired
+companies, renew their software license updates and product support contracts when the contracts are eligible for renewal, and we strive to renew cloud SaaS and
+PaaS contracts and hardware support contracts. To the extent
+51

@@ -1,0 +1,35 @@
+SECTION 1103. Selection by Trustee of Securities to Be Redeemed.
+If less than all the Securities are to be redeemed, the Company may select the series to be redeemed, and if less than all the Securities of any series are to be
+redeemed, the particular Securities of that series to be redeemed shall be selected not more than 60 days prior to the Redemption Date by the Trustee for the
+Securities of such series, from the Outstanding Securities of that series not previously called for redemption, by such method as such Trustee shall deem fair and
+apprOpriate by lot, or pro rata, in each case in accordance with the applicable procedures of the Depositary and which may provide for the selection for redemption
+of portions (equal to the minimum authorized denomination for Securities of that series, or any integral multiple thereof) of the principal amount of Securities of
+that series of a denomination larger than the minimum authorized denomination for Securities of that series pursuant to Section 302 in the currency or currency unit
+in which the Securities of such series are denominated.
+The Trustee for the Securities of any series to be redeemed shall promptly notify the Company in writing of the Securities of such series selected for
+redemption and, in the case of any Securities selected for partial redemption, the principal amount thereof to be redeemed.
+For all purposes of this Indenture, unless the context otherwise requires, all provisions relating to the redemption of Securities shall relate, in the case of any
+Security redeemed or to be redeemed only in part, to the portion of the principal amount of such Securities which has been or is to be redeemed.
+SECTION 1104. Notice of Redemption.
+Notice of redemption shall be given in the manner provided in Section 106 not later than the thirtieth day and not earlier than the sixtieth day prior to the
+Redemption Date, to each Holder of Securities to be redeemed.
+All notices of redemption shall identify the Securities (including the CUSIP numbers) and shall state:
+(1) the Redemption Date,
+(2) the Redemption Price,
+(3) if less than all Outstanding Securities of a particular series are to be redeemed, the identiﬁcation (and, in the case of partial redemption, the
+respective principal amounts) of the particular Securities to be redeemed, including the CUSIP number of such Securities,
+(4) that on the Redemption Date the Redemption Price will become due and payable upon each such Security or portion thereof, and that interest
+thereon, if any (or in the case of OID Securities, original issue discount), shall cease to accrue on and after said date,
+(5) the place or places where such Securities maturing after the Redemption Date are to be surrendered for payment of the Redemption Price, and
+(6) that the redemption is for a sinking fund, if such is the case.
+(7) Reserved.
+(8) Reserved.
+Notice of redemption of Securities to be redeemed at the election of the Company shall be given by the Company or, at the Company’s written request, by the
+Trustee for such Securities in the name and at the expense of the Company.
+SECTION 1105. Deposit of Redemption Price.
+Prior to 10:00am New York City time, on any Redemption Date, the Company shall deposit with the Trustee for the Securities to be redeemed or with a
+Paying Agent for such Securities (or, if the Company is acting as its own Paying Agent for such Securities, segregate and hold in trust as provided in Section 1003)
+an amount of money in the currency or currency unit in which the Securities of such series are payable (except as otherwise specified pursuant to Section 301 for
+the Securities of such Series and except as provided in Sections 311(b) and 311(d)) sufﬁcient to pay the principal of, and premium, if any, thereon), and (except if
+the Redemption Date shall be an Interest Payment Date) any accrued interest on, all the Securities which are to be redeemed on that date.
+46

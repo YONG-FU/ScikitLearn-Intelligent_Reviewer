@@ -1,0 +1,47 @@
+transfer such data remain, the invalidation of the U.S.-EU Safe Harbor framework may result in different
+European data protection regulators applying differing standards for the transfer of personal data, which could
+result in increased regulation, cost of compliance and limitations on data transfer for Salesforce and its
+customers. The costs of compliance with and other burdens imposed by laws, regulations and standards may limit
+the use and adoption of our services, reduce overall demand for our services, lead to significant ﬁnes, penalties or
+liabilities for noncompliance, or slow the pace at which we close sales transactions, any of which could harm our
+business.
+In addition to government activity, privacy advocacy and other industry groups have established or may
+establish new self-regulatory standards that may place additional burdens on us. Our customers expect us to meet
+voluntary certification or other standards established by third parties, such as TRUSTe. If we are unable to
+maintain these certifications or meet these standards, it could adversely affect our ability to provide our solutions
+to certain customers and could harm our business.
+Furthermore, concerns regarding data privacy may cause our customers’ customers to resist providing the
+data necessary to allow our customers to use our services effectively. Even the perception that the privacy of
+personal information is not satisfactorily protected or does not meet regulatory requirements could inhibit sales
+of our products or services, and could limit adoption of our cloud-based solutions.
+Industry-specific regulation and other requirements and standards are evolving and unfavorable
+industry-specific laws, regulations, interpretive positions or standards could harm our business.
+Our customers and potential customers conduct business in a variety of industries, including financial
+services, the public sector, healthcare and telecommunications. Regulators in certain industries have adopted and
+may in the future adopt regulations or interpretive positions regarding the use of cloud computing and other
+outsourced services. The costs of compliance with, and other burdens imposed by, industry-specific laws,
+regulations and interpretive positions may limit our customers’ use and adoption of our services and reduce
+overall demand for our services. Compliance with these regulations may also require us to devote greater
+resources to support certain customers, which may increase costs and lengthen sales cycles. For example, some
+financial services regulators have imposed guidelines for use of cloud computing services that mandate specific
+controls or require financial services enterprises to obtain regulatory approval prior to outsourcing certain
+functions. If we are unable to comply with these guidelines or controls, or if our customers are unable to obtain
+regulatory approval to use our services where required, our business may be harmed. In addition, an inability to
+satisfy the standards of certain voluntary third-party certification bodies that our customers may expect, such as
+an attestation of compliance with the Payment Card Industry (PCI) Data Security Standards, may have an adverse
+impact on our business and results. Further, there are various statutes, regulations, and rulings relevant to the
+direct email marketing and text-messaging industries, including the Telephone Consumer Protection Act (TCPA)
+and related Federal Communication Commission (FCC) orders. The interpretation of many of these statutes,
+regulations, and rulings is evolving in the courts and administrative agencies and an inability to comply may have
+an adverse impact on our business and results. If in the future we are unable to achieve or maintain industry-
+specific certifications or other requirements or standards relevant to our customers, it may harm our business and
+adversely affect our results.
+In some cases, industry-specific laws, regulations or interpretive positions may also apply directly to us as a
+service provider. Any failure or perceived failure by us to comply with such requirements could have an adverse
+impact on our business.
+We rely on third-party computer hardware, software and cloud computing platforms that could cause
+errors in, or failures oﬁ our services and may be difficult to replace.
+We rely on computer hardware purchased or leased from, software licensed from, and cloud computing
+platforms provided by, third parties in order to offer our services, including database software and hardware from
+a variety of vendors. Any errors or defects in third-party hardware, software or cloud computing platforms could
+14

@@ -1,0 +1,46 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+The three notes issued may be prepaid without penalty or premium, and outstanding principal is due on the following dates: $680 million due May 1, 2018 ,
+$550 million due May 1, 2020 and $270 million due December 1, 2022 . The notes bear interest, payable quarterly in arrears, at the annual rate of 1.75% . During
+the years ended December 31, 2016 , 2015 and 2014 , $26 million , $26 million and $24 million , respectively, of interest expense was recognized.
+Pivotal
+In April 2016, VMware contributed $20 million in cash to Pivotal in exchange for additional preferred equity interests in Pivotal. As of December 31, 2016,
+VMware’s ownership interest in Pivotal was 21% . As of December 31, 2015, VMware’s ownership interest in Pivotal was 28% . This strategic investment is
+accounted for using the cost method.
+C. Business Combinations, Deﬁnite-Lived Intangible Assets, Net and Goodwill
+Business Combination
+2016
+Acquisition ofArkin Net, Inc.
+On June 21, 2016, VMware acquired all of the outstanding shares of Arkin Net, Inc. (“Arkin”) for approximately $67 million of cash, net of liabilities
+assumed. VMware acquired Arkin, a provider of software-deﬁned data center security and operations, as part of a strategy to accelerate customers’ adoption of
+VMware NSX and software-defined data centers. The pro forma financial information assuming the acquisition had occurred as of the beginning of the calendar
+year prior to the year of acquisition, as well as the revenue and earnings generated during the current year, were not significant for disclosure purposes.
+The following table summarizes the preliminary allocation of the consideration to the fair value of the assets acquired and liabilities assumed (table in
+millions):
+{Intangible assets $ 25 ‘
+Goodwill 39
+’Other acquired assets 12 ‘
+Total assets acquired 76
+’Deferred tax liabilities (9) 1
+F air value of assets acquired and liabilities assumed 7$ 67 r
+The identiﬁable intangible assets acquired were primarily related to purchased technology with estimated useful lives of four to five years . Goodwill is not
+expected to be deductible for US income tax purposes.
+Prior to the closing of the acquisition on June 21, 2016, EMC owned approximately 16% of the outstanding shares of Arkin. As a result of the acquisition,
+cash paid to EMC was approximately $13 million .
+Other 2016 Business Combination
+In December 2016, VMware completed one asset acquisition in addition to Arkin, in which VMware acquired certain intangible assets classiﬁed as completed
+technology for $15 million .
+2015
+During the year ended December 31, 2015, VMware completed two business combinations, which were not signiﬁcant to VMware's consolidated ﬁnancial
+statements, either individually or in the aggregate. On October 15, 2015, VMware acquired all of the outstanding shares of Boxer, Inc. (“Boxer”) to enhance the
+enterprise mobile management and security solutions. On February 2, 2015, VMware acquired all of the outstanding shares of Immidio B.V. (“Immidio”) to
+expand VMware’s workspace environment management solutions within the End-User Computing product group. The aggregate purchase price for these two
+acquisitions was $39 million of cash, net of liabilities assumed. The purchase price primarily included $13 million of identiﬁable intangible assets and $29 million
+of goodwill that is non-deductible for tax purposes.
+2014
+Acquisition ofAirWatch LLC
+On February 24, 2014, VMware acquired for cash all of the outstanding membership units of A.W.S. Holding, LLC (“AirWatch Holding”), the sole member
+and equity holder of AirWatch LLC (“AirWatch”). AirWatch is a leader in enterprise mobile management and security solutions. VMware acquired AirWatch to
+expand VMware’s solutions within the enterprise
+68

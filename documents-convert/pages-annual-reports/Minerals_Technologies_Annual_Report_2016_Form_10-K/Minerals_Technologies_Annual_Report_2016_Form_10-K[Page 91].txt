@@ -1,0 +1,48 @@
+MINERALS TECHNOLOGIES INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+All stock option expense is recognized in the consolidated statements of operations. The related tax beneﬁt included in the
+statement of income on the non-qualiﬁed stock options was $1.4 million, $1.6 million and $1.2 million for 2016, 2015 and
+2014, respectively.
+The beneﬁts of tax deductions in excess of the tax beneﬁt from compensation costs that were recognized or would have
+been recognized are classiﬁed as ﬁnancing inﬂows on the consolidated statement of cash ﬂows.
+Stock Options
+The fair value of options granted is estimated on the date of grant using the Black-Scholes valuation model.
+Compensation expense is recognized only for those options expected to vest, with forfeitures estimated at the date of grant
+based on the Company's historical experience and future expectations. The forfeiture rate assumption used for the periods
+ended December 31, 2016, 2015 and 2014 was 7.38%, 7.34% and 7.13%, respectively.
+The weighted average grant date fair value for stock options granted during the years ended December 31, 2016, 2015 and
+2014 was $14.34, $22.68 and $22.89, respectively. The weighted average grant date fair value for stock options vested
+during 2016, 2015 and 2014 was $20.94, $17.83 and $13.59, respectively. The total intrinsic value of stock options exercised
+during the years ended December 31, 2016, 2015 and 2014 was $4.9 million, $2.4 million and $13.0 million, respectively.
+The fair value for stock awards was estimated at the date of grant using the Black-Scholes option valuation model with
+the following weighted average assumptions for the years ended December 31, 2016, 2015 and 2014:
+| 2016 | 2015 | 2014
+Expected life (in years) 6.5 6.4 6.5
+Interest rate 1.72% 1.52% 2.16%
+Volatility 36.75% 36.86% 37.15%
+Expected dividend yield 0.54% 0.33% 0.34%
+The expected term of the options represents the estimated period of time until exercise and is based on historical
+experience of similar awards, based upon contractual terms, vesting schedules, and expectations of future employee behavior.
+The expected stock-price volatility is based upon the historical and implied volatility of the Company's stock. The interest
+rate is based upon the implied yield on US. Treasury bills with an equivalent remaining term. Estimated dividend yield is
+based upon historical dividends paid by the Company.
+The following table summarizes stock option activity for the year ended December 31, 2016:
+_ Weighted Weighted 7
+Average Average Aggregate
+Exercise Remaining Intrinsic
+Price Contractual Value
+Awards Per Share Life (Years) (Millions) _
+Awards outstanding at December 31, 2015 1,091,844 $ 42.29
+Granted 383,622 38.59
+Exercised (150,944) 36.66
+Canceled (125,797) 43.78
+Awards outstanding at December 31, 2016 1,198,725 41.66 6.51 $ 42.7
+Awards exercisable at December 31, 2016 767,313 39.43 5.31 29.0
+The aggregate intrinsic value above is calculated before applicable income taxes, based on the Company's closing stock
+price of $77.25 as of the last business day of the period ended December 31, 2016 had all options been exercised on that date.
+The weighted average intrinsic value of the options exercised during 2016, 2015 and 2014 was $32.34, $32.07 and $40.17 per
+share, respectively. As of December 31, 2016, total unrecognized stock-based compensation expense related to non-vested
+stock options was approximately $3.8 million, which is expected to be recognized over a weighted average period of
+approximately three years.
+The Company issues new shares of common stock upon the exercise of stock options.
+F- 1 5

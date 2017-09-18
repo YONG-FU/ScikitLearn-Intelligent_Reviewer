@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+relying on the net change in cash and cash equivalents as presented in our consolidated statements of cash ﬂows prepared in accordance with GAAP which
+incorporates all cash movements during the period.
+In this Management’s Discussion and Analysis, we also present adjusted GAAP revenue and cost of revenue—TAC amounts for the year ended December 31,
+2016 that exclude the effect of the change in revenue presentation related to implementation of the Eleventh Amendment to the Microsoft Search Agreement.
+We believe providing this additional information to investors is useful because it provides investors with comparable revenue and cost of revenue—TAC
+measures for comparison to our historical reported ﬁnancial information.
+Revenue and Revenue ex- TAC (a non-GAAP Financial Measure)
+Years Ended December 31, 2014-2015 2015-2016
+2014 2015 2016 % Chainge % Chainge
+- (deﬂaLsirLtﬂqttsﬁmisl
+Revenue $3,618,1313 $5,968,391 $5,169,135 834: 4% |
+Less: TAC _ 217,531 877,514 71,650,786 303% 88%
+| Revenue ex-TAC $4,400,602: $4,090,787 $3,518,349 (7)94, (19%;
+For the year ended December 31, 2016, revenue and TAG increased $201 million and $773 million, respectively, or 4 percent and 88 percent, compared to
+2015. For the year ended December 31, 2016, revenue ex-TAC (a non—GAAP ﬁnancial measure) decreased $572 million, or 14 percent, compared to 2015. The
+increase in revenue for the year ended December 31, 2016 was primarily attributable to an increase in search revenue of $559 million, partially offset by declines
+in other revenue and display revenue of $254 million and $104 million, respectively.
+The increase in search revenue was primarily due to the change in revenue presentation related to the implementation of the Eleventh Amendment to the
+Microsoft Search Agreement, as noted above. The revenue and TAG increase from the change in revenue presentation was $812 million for the year ended
+December 31, 2016. Excluding the impact of the change in revenue presentation, search revenue declined $253 million, or 12 percent, primarily in the Americas
+segment due to a decline in Paid Clicks on Yahoo Properties and Affiliate sites driven by a decline in trafﬁc, partially offset by an increase in Afﬁliate site revenue
+due to improved pricing.
+The decline in display revenue was primarily associated with a decline in revenue on Afﬁliate sites due to a decline in video advertising and, to a lesser extent,
+audience advertising, partially offset by an increase in native advertising. This was partially offset by an increase in display revenue from Yahoo Properties for
+the year ended December 31, 2016. The increase in display revenue from Yahoo Properties was primarily due to an increase in audience advertising, and to a
+lesser extent, video advertising, partially offset by a decline in premium advertising and, to a lesser extent, native advertising.
+The decline in other revenue was primarily attributable to the completion of recognition of deferred revenue under the Technology and Intellectual Property
+License Agreement (“TIPLA”) with Alibaba Group pursuant to which we recognized $199 million in the year ended December 31, 2015 (for which no similar
+revenue was recognized in 2016), and a decline in listings—based revenue of $36 million due to a decline in e-commerce revenue and a directory product shut
+down in 2015.
+51

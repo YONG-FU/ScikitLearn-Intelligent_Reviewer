@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+Our networking and data center fabric products, including Oracle Virtual Networking, and Oracle InfiniBand and Ethernet technologies, are used with our server
+and storage products and are integrated into our management tools to help enterprise customers improve infrastructure performance, reduce cost and complexity
+and simplify storage and server connectivity.
+We offer hardware products and services designed for certain speciﬁc industries. Our point-of-sale hardware offerings include point-of-sale terminals and related
+hardware that are designed for managing businesses within the food and beverage, hotel and retail industries, among others. Our hardware products and services for
+communications networks include network signaling, policy control and subscriber data management solutions, and session border control technology, among
+others.
+The majority of our hardware products are sold through indirect channels, including independent distributors and value-added resellers.
+To produce our hardware products, we rely on both our internal manufacturing operations as well as third-party manufacturing partners. Our internal manufacturing
+operations consist primarily of materials procurement, assembly, testing and quality control of our Oracle Engineered Systems and certain of our enterprise and
+data center servers and storage products. For all other manufacturing, we generally rely on third-party manufacturing partners to produce our hardware-related
+components and hardware products and we may involve our internal manufacturing operations in the final assembly, testing and quality control processes for these
+components and products. We distribute most of our hardware products either from our facilities or partner facilities. We strive to reduce costs by simplifying our
+manufacturing processes through increased standardization of components across product types and a “build-to-order” manufacturing process in which products
+generally are built only after customers have placed ﬁrm orders.
+Our hardware products revenues, cost of hardware products and hardware operating margins that we report are affected by our strategy for and the competitive
+position of our hardware products, the strength of general economic and business conditions, governmental budgetary constraints, certain of our acquisitions and
+foreign currency rate ﬂuctuations. In addition, our operating margins for our hardware products segment have been and will be affected by the amortization of
+intangible assets.
+Our quarterly hardware products revenues are difficult to predict. The timing of customer orders and delays in our ability to timely manufacture or deliver a few
+large hardware transactions, among other factors, could substantially affect the amount of hardware products revenues, expenses and operating margins that we
+report.
+Hardware Support: Our hardware support offerings provide customers with software updates for software components that are essential to the functionality of
+our hardware products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support
+services. Typically, our hardware support contract arrangements are priced as a percentage of the net hardware products fees, are invoiced to the customer at the
+beginning of the support period and are one year in duration. We continue to evolve hardware support processes that are intended to proactively identify and solve
+quality issues and to increase the amount of new and renewed hardware support contracts sold in connection with the sales of our hardware products. Our hardware
+support revenues that we report are inﬂuenced by a number of factors, including the volume of purchases of hardware products, the pricing and mix of hardware
+products purchased, whether customers decide to purchase hardware support contracts at or in close proximity to the time of hardware product sale, the percentage
+of our hardware support contract customer base that renews its support contracts and our acquisitions. Substantially all of these factors are heavily inﬂuenced by
+our customers’ decisions to either maintain or upgrade their existing hardware infrastructure to newly developed technologies that are available.
+Our hardware support margins have been and will be affected by certain of our acquisitions and related accounting, including fair value adjustments relating to
+hardware support obligations assumed and by the amortization of intangible assets, both of which are discussed further below under “Supplemental Disclosure
+Related to Certain Charges.”
+44

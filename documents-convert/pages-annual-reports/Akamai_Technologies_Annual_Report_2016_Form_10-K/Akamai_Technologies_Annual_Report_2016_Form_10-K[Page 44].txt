@@ -1,0 +1,45 @@
+Legal Matters
+We are party to various litigation matters that management considers routine and incidental to its business. Management
+does not expect the results of any of these routine actions to have a material effect on our business, results of operations,
+financial condition or cash ﬂows.
+In November 2015, Limelight filed a complaint in the US. District Court for the Eastern District of Virginia against
+Akamai and X0 Communications LLC, or XO, alleging patent infringement by the two companies. The complaint alleges that
+Akamai and X0 infringed six of Limelight’s content delivery patents. The complaint seeks to recover from Akamai and X0
+significant monetary damages based upon lost revenue due to infringing technology used by the companies. We have agreed to
+indemnify XO for damages it incurs in this matter. We have made counterclaims in the action against Limelight alleging that
+Limelight has infringed five Akamai content delivery patents, and we are seeking monetary damages based upon lost revenue
+due to the infringing technology used by Limelight. The case is scheduled for trial in May 2017. We currently believe that the
+outcome of this litigation will not have a material impact on our business.
+Signiﬁcant Accounting Policies and Estimates
+See Note 1 to the consolidated financial statements included elsewhere in this annual report on Form lO—K for information
+regarding recent and newly adopted accounting pronouncements.
+Application of Critical Accounting Policies and Estimates
+Overview
+Our MD&A is based upon our consolidated financial statements, which have been prepared in accordance with GAAP.
+These principles require us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and
+expenses, cash ﬂow and related disclosure of contingent assets and liabilities. Our estimates include those related to revenue
+recognition, accounts receivable and related reserves, valuation and impairment of marketable securities, capitalized internal-
+use software development costs, goodwill and acquired intangible assets, income tax reserves, impairment and useful lives of
+long-lived assets and stock-based compensation. We base our estimates on historical experience and on various other
+assumptions that we believe to be reasonable under the circumstances at the time such estimates are made. Actual results may
+differ from these estimates. For a complete description of our significant accounting policies, see Note 2 to our consolidated
+financial statements included elsewhere in this annual report on Form lO—K.
+Deﬁnitions
+We define our critical accounting policies as those policies that require us to make subjective estimates and judgments
+about matters that are uncertain and are likely to have a material impact on our consolidated financial statements. Our estimates
+are based upon assumptions and judgments about matters that are highly uncertain at the time an accounting estimate is made
+and applied and require us to assess a range of potential outcomes.
+Review of Critical Accounting Policies and Estimates
+Revenue Recognition
+Revenue is recognized only when the price is fixed or determinable, persuasive evidence of an arrangement exists, the
+service is performed and collectability of the resulting receivable is reasonably assured.
+We primarily derive revenue from sales of services to customers executing contracts with terms of one year or longer.
+These contracts generally commit the customer to a minimum monthly, quarterly or annual level of usage and specify the rate
+at which the customer must pay for actual usage above the monthly, quarterly or annual minimum. For contracts with a
+monthly commitment, we recognize the monthly minimum as revenue each month, provided that an enforceable contract has
+been signed by both parties, the service has been delivered to the customer, the fee for the service is fixed or determinable and
+collection is reasonably assured. Should a customer ’5 usage of our service exceed the monthly minimum, we recognize revenue
+for such excess usage in the period of the additional usage. For annual or other non-monthly period revenue commitments, we
+recognize revenue monthly based upon the customer ’5 actual usage each month of the commitment period and only recognize
+any remaining committed amount for the applicable period in the last month thereof.
+42

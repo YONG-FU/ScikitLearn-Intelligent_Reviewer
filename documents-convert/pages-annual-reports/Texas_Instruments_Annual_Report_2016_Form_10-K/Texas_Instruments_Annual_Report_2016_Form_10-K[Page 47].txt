@@ -1,0 +1,44 @@
+5. Profit sharingﬁplans
+Profit sharing benefits are generally formulaic and determined by one or more subsidiary or company-wide financial metrics. We
+pay profit sharing benefits primarily under the company-wide TI Employee Profit Sharing Plan. This plan provides for profit sharing
+to be paid based solely on Tl’s operating margin for the full calendar year. Under this plan, TI must achieve a minimum threshold of
+10 percent operating margin before any profit sharing is paid. At 10 percent operating margin, profit sharing will be 2 percent of
+eligible payroll. The maximum amount of profit sharing available under the plan is 20 percent of eligible payroll, which is paid only
+if Tl’s operating margin is at or above 35 percent for a full calendar year.
+We recognized $346 million, $309 million and $269 million of profit sharing expense under the TI Employee Profit Sharing Plan in
+2016, 2015 and 2014, respectively. ’3
+6. Income taxes E
+For Years Ended December 31, 8
+Income before Income Taxes 2016 2015 2014
+U.S. $3,953 $3,218 $2,684
+977 998 1,190
+Total $4,930 $4,216 $3,874
+For Years Ended December 31,
+Provision (Benefit) 2016 2015 2014
+for Income Taxes Current Deferred Total Current Deferred Total Current Deferred Total
+U.S. federal .......... $1,289 $ (122) $1,167 $1,110 $ (72) $1,038 $ 911 $ (73) $ 838
+Non-U.S. ...... . . . . . . 238 (80) 158 168 14 182 194 11 205
+U.S.state............ 10 — 10 7 3 10 9 1 10
+Total $1,537 $(202) $1,335 $1,285 $(55) $1,230 $1,114 $(61) $1,053
+Principal reconciling items from the U.S. statutory income tax rate to the effective tax rate (Provision for income taxes as a
+percentage of Income before income taxes) are as follows:
+For Years Ended December 31,
+2016 2015 2014
+U.S.statutoryincometaxrate................................................. 35.0% 35.0% 35.0%
+Non-U.S.effectivetaxrates.................................................. (3.7) (4.0) (5.5)
+U.S.excesstaxbenefitforstockcompensation(a) (3.0) — —
+U.S.taxbenefitformanufacturing............................................. (1.5) (1.6) (1.3)
+U.S.R&Dtaxcredit........................................................ (1.2) (1.3) (1.5)
+U.S.non-deductibleexpenses................................................ 0.3 0.3 0.2
+Impactofchangestouncertaintaxpositions 0.6 0.2 0.1
+0.6 0.6 0.2
+Effectivetaxrate.......................................................... 27.1% 29.2% 27.2%
+(a) This is related to the adoption of ASU 2016-09 as discussed in Note 2.
+Our effective tax rate benefits from lower rates (compared with the U.S. statutory income tax rate) applicable to our operations
+in many of the jurisdictions in which we operate, and from U.S. tax benefits. These lower non-U.S. tax rates are generally statutory
+in nature, without expiration and available to companies that operate in those taxing jurisdictions. Also included in the non-U.S.
+effective tax rates reconciling item above are benefits from tax holidays of $30 million, $50 million and $44 million in 2016, 2015
+and 2014, respectively. The tax benefits relate to our operations in Malaysia and the Philippines, and expire in 2018 and 2017,
+respectively. The terms of the Malaysia tax holiday are currently under governmental review as required for the end of the first five
+years of the holiday period.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 43

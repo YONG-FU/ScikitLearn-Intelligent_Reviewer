@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+- the adoption of commodity servers and microprocessors;
+- the broader “platform” competition between our industry standard Java technology platform and the .NET programming environment of Microsoft;
+° operating system competition among our Oracle Solaris and Linux operating systems, with alternatives including Microsoft’s Windows Server, and other
+UNIX and Linux operating systems;
+- the adoption of open source alternatives to commercial software by enterprise software customers;
+- products, features and functionality developed internally by customers and their IT staff;
+- products, features or functionality customized and implemented for customers by consultants, systems integrators or other third parties; and
+- attractiveness of offerings from business processing outsourcers.
+For more information about the competitive risks we face, refer to Item 1A. “Risk Factors” included elsewhere in this Annual Report.
+Oracle Cloud Operations
+Oracle Cloud Operations delivers our SaaS, PaaS and IaaS offerings to customers through the Oracle Cloud, which is a secure, reliable, scalable, enterprise grade
+platform that is deployed upon Oracle’s application, platform and infrastructure products and is managed by Oracle employees within a global network of data
+centers. The Oracle Cloud enables secure and isolated cloud-based instances for each of our customers to access the functionality of our SaaS, PaaS and IaaS
+offerings via a broad spectrum of devices and leverages automated software lifecycle management to enable the rapid delivery of the latest cloud technology
+capabilities as they become available.
+Manufacturing
+To produce our hardware products, we rely on both our internal manufacturing operations as well as third-party manufacturing partners. Our internal manufacturing
+operations consist primarily of materials procurement, assembly, testing and quality control of our Oracle Engineered Systems and certain of our enterprise and
+data center servers, storage products and networking products. For all other manufacturing, we generally rely on third-party manufacturing partners to produce our
+hardware-related components and hardware products and we may involve our internal manufacturing operations in the final assembly, testing and quality control
+processes for these components and products. We distribute most of our hardware products either from our facilities or partner facilities. Our manufacturing
+processes substantially are based on standardization of components across product types, centralization of assembly and distribution centers and a “build-to-order”
+methodology in which products generally are built only after customers have placed firm orders. Production of our hardware products requires that we purchase
+materials, supplies, product subassemblies and full assemblies from a number of vendors. For most of our hardware products, we have existing alternate sources of
+supply or such sources are readily available. However, we do rely on sole sources for certain of our hardware products. As a result, we continue to evaluate
+potential risks of disruption to our supply chain operations. Refer to “Risk Factors” included in Item 1A within this Annual Report for additional discussion of the
+challenges we encounter with respect to the sources and availability of supplies for our products and the related risks to our business.
+Research and Development
+We develop the substantial majority of our product offerings internally. In addition, we have extended our product offerings and intellectual property through
+acquisitions of businesses and technologies. We also purchase or license intellectual property rights in certain circumstances. Internal development allows us to
+maintain technical control over the design and development of our products. We have a number of United States and foreign patents and pending applications that
+relate to various aspects of our products and technology. While we believe that our patents have value, no single patent is essential to us or to any of our principal
+business segments. Research and development expenditures were $5.8 billion, $5.5 billion and $5.2 billion in ﬁscal 2016,
+1 9

@@ -1,0 +1,46 @@
+The following table presents certain key operating metrics that we believe are significant
+factors affecting our net transaction revenues (in millions, except percentages):
+Year Ended December 31,
+7 2016 7 % Change 7 2015 7 7% Change 7 2014 7
+I Supplemental Operating Data: T
+GMVW
+l Marketplace $79,448 2 % $ 78,099 (2)% $ 79,581 i
+StubHub 4,310 21 % 3,574 13 % 3,172
+l Total GMV $83,758 3 % $ 81,673 (1)% $82,753]
+Transaction take rate:
+l Marketplace (2) 7.69% (0.12)% 7.81% (0.17)% 7.98% l
+StubHub (3) 21.76% 1.47 % 20.29% 0.46 % 19.83%
+i Total transaction take rate (4) 8.41% 0.05 % 8.36% (0.07)% 8.43%]
+(i) We define Gross Merchandise Volume (“GMV”) as the total value of all successfully closed transactions between users on our
+Marketplace and StubHub platforms during the applicable period regardless of whether the buyer and seller actually
+consummated the transaction. We believe that GMV provides a useful measure of the overall volume of closed transactions that
+flow through our platforms in a given period, notwithstanding the inclusion in GMV of closed transactions that are not ultimately
+consummated.
+(2) We define Marketplace transaction take rate as Marketplace net transaction revenues divided by Marketplace GMV.
+(3) We define StubHub transaction take rate as StubHub net transaction revenues divided by StubHub GMV.
+(4) We define total transaction take rate as total net transaction revenues divided by GMV.
+Net Transaction Revenues
+The following table presents net transaction revenues and supplemental operating data (in
+millions, except percentages):
+Year Ended Year Ended
+December 31, % Change December 31, % Change
+: ::As FX-:: ::As FX-:
+2016 2015 Reported Neutral 2015 2014 Reported Neutral
+[ Total net transaction 1
+revenues 7,044 6,828 3% 6% 6,828 6,980 (2)% 4%
+Percentage of net
+revenues 78% 79% 79% 79%
+l Total GMV 83,758 81,673 3% 5% 81,673 82,753 (1)% 5% l
+Total transaction take rate 8.41% 8.36% 0.05% 8.36% 8.43% (0.07)%
+The increase in net transaction revenues in 2016 compared to 2015 was primarily driven by
+an increase in StubHub GMV and a higher transaction take rate, partially offset by an
+unfavorable impact from foreign currency movements relative to the U.S. dollar. The total
+transaction take rate was higher in 2016 compared to 2015 due to an increase in our StubHub
+transaction take rate, partially offset by a decrease in our Marketplace transaction take rate.
+The decrease in net transaction revenues in 2015 compared to 2014 was primarily driven
+by an unfavorable impact from foreign currency movements relative to the U.S. dollar and a
+lower transaction take rate, partially offset by an increase in FX-Neutral Marketplace GMV, and
+to a lesser extent, StubHub GMV. The total transaction take rate was lower in 2015 compared
+to 2014 due to a decrease in our Marketplace transaction take rate, partially offset by an
+increase in our StubHub transaction take rate.
+43

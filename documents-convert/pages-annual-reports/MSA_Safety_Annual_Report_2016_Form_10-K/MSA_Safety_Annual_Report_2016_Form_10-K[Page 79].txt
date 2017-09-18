@@ -1,0 +1,48 @@
+Pension Plan Assets at
+7 December 31, 7
+i 2016 2015
+[Equity securities 70% 67%|
+Fixed income securities 20 24
+(Pooled investment funds 5 5—]
+Insurance contracts 4 3
+[ Cash and cash equivalents 1 1 1
+Total 100% 100%
+The overall objective of our pension investment strategy is to earn a rate of return over time to satisfy the benefit
+obligations of the pension plans and to maintain suﬁicient liquidity to pay benefits and meet other cash requirements of our
+pension funds. Investment policies for our primary U.S. pension plan are determined by the plan’s Investment Committee and
+set forth in the plan’s investment policy. Asset managers are granted discretion for determining sector mix, selecting securities
+and timing transactions, subject to the guidelines of the investment policy. An aggressive, ﬂexible management of the portfolio
+is permitted and encouraged, with shifts of emphasis among equities, fixed income securities and cash equivalents at the
+discretion of each manager. No target asset allocations are set forth in the investment policy. For our non-US. pension plans,
+our investment objective is generally met through the use of pooled investment funds and insurance contracts.
+The following table summarizes our pension plan assets measured at fair value on a recurring basis by fair value
+hierarchy level (See Note 18):
+7 December 31, 2016 7
+7 Quoted Prices 7
+in Active
+Markets for Signiﬁcant Signiﬁcant
+Identical Observable Unobservable Total
+Assets Inputs Inputs Fair
+(In thousands) 7 (Level 1) 1: (Level 2) T: (Level 3) T: Value :
+[Equity securities 8 242,161 $ 62,299 $ — $ 304,460 j
+Fixed income securities 25,109 62,667 — 87,776
+(Pooled investment funds — 20,156 — 20,156 ]
+Insurance contracts — — 14,948 14,948
+[Cash and cash equivalents 5,922 — — 5,922 1
+Total s 273,192 $ 145,122 8 14,948 $ 433,262
+7 December 31, 2015 7
+7 Quoted Prices 7
+in Active
+Markets for Signiﬁcant Signiﬁcant
+Identical Observable Unobservable Total
+Assets Inputs Inputs Fair
+(In thousands) 7 (Level 1) 1: (Level 2) T: (Level 3) T: Value :
+[Equity securities 8 225,191 $ 55,428 $ — $ 280,619 j
+Fixed income securities 29,903 70,164 — 100,067
+[Pooled investment funds — 19,345 — 19,345 ]
+Insurance contracts — — 13,681 13,681
+(Cash and cash equivalents 5,376 — — 5,376]
+Total 8 260,470 $ 144,937 $ 13,681 8 419,088
+Equity securities consist primarily of publicly traded US. and non-U.S. common stocks. Equities are valued at closing
+prices reported on the listing stock exchange.
+7 1

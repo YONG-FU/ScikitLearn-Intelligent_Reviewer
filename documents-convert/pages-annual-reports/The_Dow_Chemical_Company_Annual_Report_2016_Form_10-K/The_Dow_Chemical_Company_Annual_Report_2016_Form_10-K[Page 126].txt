@@ -1,0 +1,51 @@
+to that request, the consultant reviewed and analyzed data through June 30, 2016, and updated its estimate of the Implant
+Liability to $263 million, primarily reﬂecting a decrease in Class 7 costs (claimants who have breast implants made by certain
+other manufacturers using primarily Dow Corning silicone gel), a decrease resulting from the passage of time (claims forecast
+as future claims in 2014 had, by 2016, been filed and resolved), decreased claim filing activity and administrative costs
+compared with the 2014 Estimate, and an increase in investment income resulting from insurance proceeds. In December 2016,
+based on the consultant's updated estimate and Dow Corning's own review of claim filing activity, Dow Corning determined
+that an adjustment to the Implant Liability was required. Accordingly, Dow Corning decreased its Implant Liability by
+$27 million, which is included in "Sundry income (expense) - net" in the consolidated statements of income. At December 31,
+2016, the Implant Liability was $263 million, which is included in "Other noncurrent obligations" in the consolidated balance
+sheets.
+Dow Corning is not aware of circumstances that would change the factors used in estimating the Implant Liability and believes
+the recorded Implant Liability reﬂects the best estimate of the remaining funding obligations under the Plan; however, the
+estimate relies upon a number of significant assumptions, including:
+- Future claim filing levels in the Settlement Facility will be similar to the RSP;
+- Future acceptance rates, disease mix, and payment values will be materially consistent with historical experience;
+- No material negative outcomes in future controversies or disputes over Plan interpretation will occur; and
+- The Plan will not be modified.
+If actual outcomes related to any of these assumptions prove to be materially different, the future liability to fund the Plan may
+be materially different than the amount estimated. If Dow Corning was ultimately required to fund the full liability up to the
+maximum capped value, the liability would be $1,867 million at December 31, 2016.
+Commercial Creditor Issues
+The Plan provides that each of Dow Corning’s commercial creditors (the “Commercial Creditors”) would receive in cash the
+sum of (a) an amount equal to the principal amount of their claims and (b) interest on such claims. The actual amount of interest
+that will ultimately be paid to these Commercial Creditors is uncertain due to pending litigation between Dow Corning and the
+Commercial Creditors regarding the appropriate interest rates to be applied to outstanding obligations from the 1995
+bankruptcy filing date through the Effective Date, as well as the presence of any recoverable fees, costs, and expenses.
+In 2006, the US. Court of Appeals for the Sixth Circuit concluded that there is a general presumption that contractually
+specified default interest should be paid by a solvent debtor to unsecured creditors (the “Interest Rate Presumption”) and
+permitting Dow Corning’s Commercial Creditors to recover fees, costs, and expenses where allowed by relevant loan
+agreements and state law. The matter was remanded to the US. District Court for the Eastern District of Michigan ("District
+Court") for further proceedings, including rulings on the facts surrounding specific claims and consideration of any equitable
+factors that would preclude the application of the Interest Rate Presumption.
+Upon the Plan becoming effective, Dow Corning paid approximately $1,500 million to the Commercial Creditors, representing
+principal and an amount of interest that Dow Corning considers undisputed. At December 31, 2016, Dow Corning has
+estimated its remaining liability to the Commercial Creditors to be within a range of $108 million to $356 million. However, no
+single amount within the range appears to be a better estimate than any other amount within the range. Therefore, Dow Corning
+recorded the minimum liability within the range. At December 31, 2016, the liability related to Dow Corning’s potential
+obligation to pay additional interest to its Commercial Creditors in the Chapter 11 Proceeding was $108 million and included in
+"Accrued and other current liabilities" in the consolidated balance sheets. The actual amount of interest that will be paid to
+these creditors is uncertain and will ultimately be resolved through continued proceedings in the District Court.
+Indemm'ﬁcatz'ons
+In connection with the DCC Transaction discussed in Note 4, the Company is indemnified for 50 percent of future losses
+associated with certain pre-closing liabilities, including the Implant Liability and Commercial Creditors matters described
+above, subject to certain conditions and limits. The maximum amount of indemnified losses which may be recovered are
+subject to a cap that declines over time. Indemnified losses are capped at (1) $1.5 billion until May 31, 2018, (2) $1 billion
+between May 31, 2018 and May 31, 2023, and (3) no recoveries are permitted after May 31, 2023. No indemnification assets
+were recorded at December 31, 2016.
+Summary
+The amounts recorded by Dow Corning for the Chapter 11 related matters described above were based upon current, known
+facts, which management believes reﬂect reasonable and probable estimates of the liability. However, future events could cause
+1 18

@@ -1,0 +1,48 @@
+IaibleiofiCiontents Alphabet Inc.
+Alphabet Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1. Nature of Operations and Summary of Significant Accounting Policies
+Nature of Operations
+Google was incorporated in California in September 1998 and re-incorporated in the State of Delaware in August
+2003. We generate revenues primarily by delivering relevant, cost-effective online advertising.
+On August 10, 2015, we announced plans to create a new public holding company, Alphabet Inc. (Alphabet), and
+a new operating structure. On October 2, 2015, we implemented the holding company reorganization, and as a result,
+Alphabet became the successor issuer to Google Inc. (Google).
+The implementation of the holding company reorganization on October 2, 2015 was accounted for as a merger
+under common control. Alphabet has recognized the assets and liabilities of Google at carryover basis. The consolidated
+ﬁnancial statements of Alphabet present comparative information for prior years on a combined basis, as if both
+Alphabet and Google were under common control for all periods presented.
+Basis of Consolidation
+The consolidated financial statements of Alphabet include the accounts of Alphabet and all wholly owned
+subsidiaries as well as all variable interest entities where we are the primary beneﬁciary. All intercompany balances
+and transactions have been eliminated.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with US. Generally Accepted Accounting
+Principles (GAAP) requires us to make estimates and assumptions that affect the amounts reported and disclosed in
+the ﬁnancial statements and the accompanying notes. Actual results could differ materially from these estimates. On
+an ongoing basis, we evaluate our estimates, including those related to the accounts receivable and sales allowances,
+fair values of ﬁnancial instruments, intangible assets and goodwill, useful lives of intangible assets and property and
+equipment, income taxes, and contingent liabilities, among others. We base our estimates on historical experience
+and on various other assumptions that are believed to be reasonable, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities.
+Revenue Recognition
+The following table presents our revenues by segment and revenue source (in millions):
+7 Year Ended December 31, 7
+2014 2015 2016
+[Google segment I
+Google properties $ 45,085 $ 52,357 $ 63,785
+I Google Network Members' properties : 14,539 15,033 15,598l
+Google advertising revenues 59,624 67,390 79,383
+I Google other revenues : 5,050 7,154 10,080l
+Google segment revenues $ 65,674 $ 74,544 $ 89,463
+Other Bets
+[Other Bets revenues $ 327 $ 445 $ 809 l
+[Consolidated revenues $ 55,001 :$ 74,989 :9 90,272l
+We generate revenues primarily by delivering performance and brand advertising. Performance advertising
+creates and delivers relevant ads that users will click, leading to direct engagement with advertisers. Brand advertising
+enhances users’ awareness of and affinity with advertisers’ products and services, through videos, text, images, and
+other ads that run across various devices.
+Google properties revenues consist primarily of advertising revenues generated on Google.com, the Google app,
+YouTube, and other Google owned and operated properties like Gmail, Maps and Google Play. Google Network
+Members’ properties revenues consist primarily of revenues generated from placing ads on Google Network Members’
+47

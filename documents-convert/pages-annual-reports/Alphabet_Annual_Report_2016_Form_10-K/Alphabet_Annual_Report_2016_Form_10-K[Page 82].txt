@@ -1,0 +1,52 @@
+IaibleiofiCiontents Alphabet Inc.
+Uncertain Tax Positions
+The following table summarizes the activity related to our gross unrecognized tax beneﬁts from January 1, 2014
+to December 31, 2016 (in millions):
+2014 _ 2015 _ 2016
+[Beginning gross unrecognized tax beneﬁts $ 2,502 $ 3,294 $ 4,167 j
+Increases related to prior year tax positions 66 224 899
+j Decreases related to prior year tax positions (44) (176) (157):
+Decreases related to settlement with tax authorities (1) (27) (196)
+j Increases related to current year tax positions : 771 852 680‘
+Ending gross unrecognized tax beneﬁts :$ 3,294: :$ 4,167: :$ 5,393:
+The total amount of gross unrecognized tax beneﬁts was $3,294 million, $4,167 million, and $5,393 million as of
+December 31, 2014, 2015, and 2016, respectively, of which, $2,909 million, $3,614 million, and $4,258 million if
+recognized, would affect our effective tax rate.
+As of December 31, 2015 and 2016, we had accrued $348 million and $493 million in interest and penalties in
+provision for income taxes.
+We ﬁle income tax returns in the US. federal jurisdiction and in many state and foreign jurisdictions, our two
+major tax jurisdictions are the US. federal and Ireland. We are subject to the continuous examination of our income
+tax returns by the IRS and other tax authorities. The IRS completed its examination through our 2006 tax years; all
+issues have been concluded except for one which is currently under review in Tax Court. The IRS is currently examining
+our 2007 through 2012 tax returns. We have also received tax assessments in multiple foreign jurisdictions asserting
+transfer pricing adjustments or permanent establishment. We continue to defend any and all such claims as presented.
+Our 2013, 2014, 2015, and 201 6 tax years remain subject to examination by the IRS for US. federal tax purposes,
+and our 2011 through 2015 tax years remain subject to examination by the appropriate governmental agencies for
+Irish tax purposes. There are other ongoing audits in various other jurisdictions that are not material to our ﬁnancial
+statements.
+We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the
+adequacy of our provision for income taxes. We continue to monitor the progress of ongoing discussions with tax
+authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions.
+We believe that an adequate provision has been made for any adjustments that may result from tax examinations.
+However, the outcome of tax audits cannot be predicted with certainty. If any issues addressed in our tax audits are
+resolved in a manner not consistent with management's expectations, we could be required to adjust our provision for
+income taxes in the period such resolution occurs. Although the timing of resolution, settlement, closure of audits is
+not certain, it is reasonably possible that certain US. federal and non-U.S. tax audits may be concluded within the
+next 12 months, which could signiﬁcantly increase or decrease the balance of our gross unrecognized tax beneﬁts.
+We estimate that our unrecognized tax benefits as of December 31, 2016 could possibly decrease by
+approximately $200 million to $700 million in the next 12 months. Positions that may be resolved include various US.
+and non-U.S. matters.
+Note 15. Information about Segments and Geographic Areas
+We operate our business in multiple operating segments. Google is our only reportable segment. None of our
+other segments meet the quantitative thresholds to qualify as reportable segments; therefore, the other operating
+segments are combined and disclosed below as Other Bets.
+Our reported segments are described below:
+- Google — Google includes our main internet products such as Search, Ads, Commerce, Maps, YouTube,
+Google Cloud, Android, Chrome, and Google Play as well as our hardware initiatives. Our technical
+infrastructure and some newer efforts like virtual reality are also included in Google. Google generates revenues
+primarily from advertising, sales of digital content, apps and cloud offerings, and sales of hardware products.
+- Other Bets — Other Bets is a combination of multiple operating segments that are not individually material.
+Other Bets includes businesses such as Access, Calico, CapitalG, GV, Nest, Verily, Waymo, and X. Revenues
+from the Other Bets are derived primarily through the sales of internet and TV services through Google Fiber,
+sales of Nest products and services, and licensing and R&D services through Verily.
+79

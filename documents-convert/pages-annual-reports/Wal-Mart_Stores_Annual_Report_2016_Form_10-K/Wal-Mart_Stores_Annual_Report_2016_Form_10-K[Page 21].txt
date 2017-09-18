@@ -1,0 +1,40 @@
+Any breach of our security measures or those of our third-party service providers and loss of our conﬁdential information, which could be undetected for a period
+of time, or any failure by us to comply with applicable privacy and information security laws and regulations could cause us to incur significant costs to protect any
+customers and members whose personal data was compromised and to restore customer and member conﬁdence in us and to make changes to our information
+systems and administrative processes to address security issues and compliance with applicable laws and regulations.
+In addition, such events could materially adversely affect our reputation with our customers, members, associates, vendors and shareholders, as well as our
+operations, results of operations, ﬁnancial condition and liquidity, could result in the release to the public of confidential information about our operations and
+ﬁnancial condition and performance and could result in litigation against us or the imposition of penalties, fines, fees or liabilities, which may not be covered by
+our insurance policies. Moreover, a security breach could require us to devote signiﬁcant management resources to address the problems created by the security
+breach and to expend significant additional resources to upgrade further the security measures that we employ to guard such important personal information against
+cyberattacks and other attempts to access such information and could result in a disruption of our operations, particularly our digital retail operations.
+We accept payments using a variety of methods, including cash, checks, credit and debit cards, our private label cards and gift cards, and we may offer new
+payment options over time, which may have information security risk implications. By accepting debit and credit cards as a retailer for payment, we are subject to
+the Payment Card Industry Data Security Standard ("PCI DSS"), issued by the Payment Card Industry Security Standards Council. PCI DSS contains compliance
+guidelines and standards with regard to our security surrounding the physical and electronic storage, processing and transmission of individual cardholder data. The
+payment card industry set October 1, 2015 as the date on which it will shift liability for certain transactions to retailers who are not able to accept Europay,
+MasterCard, Visa (EMV) chip card credit and debit transactions. While we already accept many EMV cards, if we are unable to fully implement EMV as planned,
+we may incur increased costs associated with the liability shift. By accepting debit cards for payment, we are also subject to compliance with the American
+National Standards Institute encryption standards and payment network security operating guidelines. Even though we comply with these guidelines and standards
+and other information security measures, we cannot be certain that the security measures we maintain to protect all of our information technology systems are able
+to prevent, contain or detect any cyberattacks, cyber terrorism, or security breaches from known malware or malware that may be developed in the future. To the
+extent that any disruption results in the loss, damage or misappropriation of information, we may be materially adversely affected by claims from customers,
+ﬁnancial institutions, regulatory authorities, payment card networks and others. In addition, the cost of complying with stricter privacy and information security
+laws and standards could be significant to us.
+Our failure to attract and retain qualiﬁed associates, increases in wage and beneﬁt costs, changes in laws and other labor issues could materially
+adversely affect our ﬁnancial performance.
+Our ability to continue to conduct and expand our operations depends on our ability to attract and retain a large and growing number of qualiﬁed associates
+globally. Our ability to meet our labor needs, including our ability to find qualified personnel to ﬁll positions that become vacant at our existing stores, clubs and
+distribution centers, while controlling our associate wage and related labor costs, is generally subject to numerous external factors, including the availability of a
+sufﬁcient number of qualiﬁed persons in the work force of the markets in which we are located, unemployment levels within those markets, prevailing wage rates,
+changing demographics, health and other insurance costs and adoption of new or revised employment and labor laws and regulations. If we are unable to locate, to
+attract or to retain qualified personnel, the quality of service we provide to our customers may decrease and our financial performance may be adversely affected.
+The wage increases for over 500,000 associates in our operations in the US. and investment in other initiatives for our associates in the US. that we announced in
+February 2015, and related wage increases for 1.2 million associates aggregating $1.5 billion in the year ending January 31, 2017 ("fiscal 2017") will increase our
+wage and other labor expenses significantly. If we cannot offset the increases in our wage expenses resulting from those wage increases by increasing our gross
+profit, achieving decreases in our operating, selling, general and administrative expense or a combination of both in the year ending January 31, 2018 and
+thereafter, our consolidated operating income and our consolidated income from continuing operations could continue to be less than our consolidated operating
+income and consolidated income from continuing operations for our ﬁscal years prior to ﬁscal 2017. In addition, if our costs of labor or related costs increase even
+more significantly for other reasons or if new or revised labor laws, rules or regulations or healthcare laws are adopted or implemented that further increase our
+labor costs, our ﬁnancial performance could be materially adversely affected.
+2 1

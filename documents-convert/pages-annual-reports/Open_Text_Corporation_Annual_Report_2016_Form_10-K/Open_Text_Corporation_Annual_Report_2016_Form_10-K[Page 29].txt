@@ -1,0 +1,54 @@
+the areas of data privacy and breaches, and taxation. Laws and regulations relating to the solicitation, collection, processing or
+use of personal or consumer information could affect our customers’ ability to use and share data, potentially reducing demand
+for Internet-based solutions and restricting our ability to store, process, analyze and share data through the Internet. Although
+we believe that the Internet will continue to provide opportunities to expand the use of our products and services, we cannot
+ensure that our eﬁorts to exploit these opportunities will be successful or that increased usage of the Internet for business
+integration products and services or increased competition, and regulation will not adversely affect our business, results of
+operations and financial condition.
+Business disruptions, including those related to data security breaches, may adversely affect our operations
+Our business and operations are highly automated and a disruption or failure of our systems may delay our ability to
+complete sales and to provide services. Business disruptions can be caused by several factors, including natural disasters,
+terrorist attacks, power loss, telecommunication and system failures, computer viruses, physical attacks and cyber—attacks. A
+major disaster or other catastrophic event that results in the destruction or disruption of any of our critical business or
+information technology systems, including our cloud services, could severely affect our ability to conduct normal business
+operations. We operate data centres in various locations around the world and although we have redundancy capability built
+into our disaster recovery plan, we cannot ensure that our systems and data centres will remain fully operational during and
+immediately after a disaster or disruption. We also rely on third parties that provide critical services in our operations and
+despite our diligence around their disaster recovery processes, we cannot provide assurances as to whether these third party
+service providers can maintain operations during a disaster or disruption. Any business disruption could negatively affect our
+business, operating results or financial condition.
+In addition, if data security is compromised, this could materially and adversely affect our operating results given that we
+have customers that use our systems to store and exchange large volumes of proprietary and confidential information and the
+security and reliability of our services are significant to these customers. We have experienced attempts by third parties to
+identify and exploit product and service vulnerabilities, penetrate or bypass our security measures, and gain unauthorized
+access to our or our customers' or service providers' cloud offerings and other products and systems. If our products or systems,
+or the products or systems of third-party service providers on whom we rely, are attacked or accessed by unauthorized parties, it
+could lead to major disruption or denial of service and access to or loss, modification or theft of our and our customers' data
+which may involve us having to spend material resources on correcting the breach and indemnifying the relevant parties which
+could have adverse effects on our reputation, business, operating results and financial condition.
+Unauthorized disclosures and breaches of security data may adversely affect our operations
+Most of the jurisdictions in which we operate have laws and regulations relating to data privacy, security and protection
+of information. We have certain measures to protect our information systems against unauthorized access and disclosure of
+personal information and of our confidential information and confidential information belonging to our customers. We have
+policies and procedures in place dealing with data security and records retention. However, there is no assurance that the
+security measures we have put in place will be effective in every case. Breaches in security could result in a negative impact for
+us and for our customers, affecting our and our customers' businesses, assets, revenues, brands and reputations and resulting in
+penalties, fines, litigation, regulatory proceedings and other potential liabilities, in each case depending on the nature of the
+information disclosed. Security breaches could also affect our relations with our customers, injure our reputation and harm our
+ability to keep existing customers and to attract new customers. These risks to our business may increase as we expand the
+number of web-based and cloud-based products and services we offer and as we increase the number of countries in which we
+operate.
+Our revenues and operating results are likely to ﬂuctuate, which could materially impact the market price of our Common
+Shares
+We experience significant ﬂuctuations in revenues and operating results caused by many factors, including:
+- Changes in the demand for our software products and services and for the products and services of our competitors;
+- The introduction or enhancement of software products and services by us and by our competitors;
+- Market acceptance of our software products, enhancements and/or services;
+- Delays in the introduction of software products, enhancements and/or services by us or by our competitors;
+- Customer order deferrals in anticipation of upgrades and new software products;
+- Changes in the lengths of sales cycles;
+- Changes in our pricing policies or those of our competitors;
+- Delays in software product implementation with customers;
+- Change in the mix of distribution channels through which our software products are licensed;
+- Change in the mix of software products and services sold;
+21

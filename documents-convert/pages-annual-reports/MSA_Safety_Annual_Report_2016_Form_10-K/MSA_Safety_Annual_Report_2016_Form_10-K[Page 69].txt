@@ -1,0 +1,45 @@
+We recognize interest related to unrecognized tax benefits in interest expense and penalties in Operating expenses. Our
+liability for accrued interest and penalties related to uncertain tax positions was $0.9 million at December 31, 2015. During
+2016, we increased interest related to uncertain tax positions by $0.6 million. Our liability for accrued interest and penalties
+related to uncertain tax positions was $1.5 million at December 31, 2016.
+We file a US. federal income tax return along with various state and foreign income tax returns. Examinations of our
+US. federal returns have been completed through 2013, with the 2012 tax year closed by statute. Various state and foreign
+income tax returns may be subject to tax audits for periods after 2010.
+Note 10—Stock Plans
+The 2016 Management Equity Incentive Plan provides for various forms of stock-based compensation for eligible key
+employees through May 2026. Management stock-based compensation includes stock options, restricted stock, restricted stock
+units and performance stock units. The 2008 Non-Employee Directors’ Equity Incentive Plan provides for grants of stock
+options and restricted stock to non-employee directors through May 2018. Stock options are granted at market prices and expire
+after ten years. Stock options are exercisable beginning three years after the grant date. Restricted stock and restricted stock
+units are granted without payment to the Company and generally vest three years after the grant date. Restricted stock and
+restricted stock units are valued at the market value of the stock on the grant date. Performance stock units with a market
+condition are valued at an estimated fair value using the Monte Carlo model. The final number of shares to be issued for
+performance stock units may range from zero to 200% of the target award based on achieving the specified performance targets
+over the performance period. In general, unvested stock options, restricted stock and performance stock units are forfeited if the
+participant’s employment with the Company terminates for any reason other than retirement, death or disability. We issue
+Treasury shares for stock option exercises and grants of restricted stock and performance stock. Please refer to Note 6 for
+further information regarding stock compensation share issuance. As of December 31, 2016, there were 1,368,638 and 139,657
+shares, respectively, reserved for future grants under the management and non-employee directors’ equity incentive plans.
+Stock-based compensation expense was as follows:
+(In thousands) 2016 2015 2014
+[Restricted stock $ 3,456 $ 3,035 $ 4,026 [
+Stock options 2,459 2,454 2,355
+[Performance stock 3,296 2,110 2,672[
+Total compensation expense before income taxes 7 9,211 7 7 7,599 7 7 9,053 7
+[Income tax benefit 3,375 2,896 3,293[
+Total compensation expense, net of income tax beneﬁt 5,836 7 4,703 7 5,760 7
+We did not capitalize any stock-based compensation expense, and all expense is recorded in SG&A expense in 2016,
+2015, or 2014.
+Stock option expense is based on the fair value of stock option grants estimated on the grant dates using the Black-
+Scholes option pricing model and the following weighted average assumptions for options granted in 2016, 2015 and 2014.
+2016 2015 2014
+[Fair value per option $ 11.69 $ 15.63 $ 17.26 [
+Risk-free interest rate 1.6% 1.8% 21%
+[Expected dividend yield 2.8% 2.3% 2.4%]
+Expected volatility 34% 39% 41%
+[Expected life (years) 70 6,7 6,6[
+The risk-free interest rate is based on the US. Treasury Constant Maturity rates as of the grant date converted into an
+implied spot rate yield curve. Expected dividend yield is based on the most recent annualized dividend divided by the one year
+average closing share price. Expected volatility is based on the ten year historical volatility using daily stock prices. Expected
+life is based on historical stock option exercise data.
+6 1

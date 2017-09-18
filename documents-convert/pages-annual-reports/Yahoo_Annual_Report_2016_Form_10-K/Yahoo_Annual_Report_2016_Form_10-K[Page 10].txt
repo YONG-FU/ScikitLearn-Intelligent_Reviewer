@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+Display Advertising. Yahoo display ads leverage a comprehensive set of proprietary data signals to identify and engage the right users on Yahoo and across
+the web. V\ﬁth display ads, Yahoo can help brands make meaningful connections with the right users at the right time, across devices.
+Native Advertising. Yahoo native ads are a seamless part of a user’s experience on Yahoo sites across devices, as well as third-party partner publisher sites
+and mobile apps. This natural integration helps advertisers connect with people in a compelling and impactful way, driving awareness and performance,
+especially on mobile where native ads are the predominant ad format. Yahoo native ads are visually rich and come in a variety of formats, like text, image, and
+video that deliver measurable branding and sales results. Yahoo offers native ads through Yahoo Gemini and the BrightRoll DSP.
+Video Advertising. Yahoo video ads enable brands to align with premium, contextually relevant video programming across our properties and third party
+publisher partners. In addition, we leverage Yahoo’s unique user data to connect brands to their target audiences at scale across devices.
+Premium Advertising. Yahoo premium ads offer a unique and engaging canvas for brand storytelling. We offer high-impact advertising opportunities on
+Yahoo.com, Yahoo Mail, and program sponsorships of major events. Brands have the ability to anchor buys within premium content and scale programmatically,
+while applying unique data strategies to reach their target audience.
+Audience Advertising. Yahoo audience ads leverage a comprehensive set of proprietary data signals to identify and engage the right users on Yahoo and
+across the web. VWth audience ads, Yahoo can help brands make meaningful connections with the right users at the right time, across ad formats and devices.
+Developer Offerings
+The Yahoo Mobile Developer Suite gives developers the ability to measure, monetize, advertise, and improve their apps with Yahoo tools.
+FIurryAnaIytics is a free mobile app analytics solution that is implemented in applications on more than 2 billion devices worldwide. Flurry is integrated in third—
+party applications via a lightweight software developer kit (“SDK”). Flurry provides mobile app developers insight into the actions their users are taking in—app. as
+well as their audience’s interests and demographics. Additionally, Flurry Pulse allows users to share data with partners and comScore for data validation.
+Yahoo App Publishing (“YAP”) enables third-party app developers to monetize their app experiences with native and video advertising from Yahoo Gemini,
+Flurry, and BrightRoll advertisers. Developers can integrate YAP through the Flurry SDK.
+Yahoo App Marketing gives third-party app developers the ability to advertise their apps through targeted native and video advertising on Yahoo, Tumblr, and
+across our app network. Yahoo App Marketing ads are powered by Yahoo Gemini and priced on a cost-per-click basis.
+Tumblr In-App Sharing allows developers to integrate a Tumblr sharing button into their app experiences to enable their users to share content directly to
+Tumblr without leaving their app. When a user shares content from a developer’s app, it will be posted to the user’s Tumblr blog along with a deep-link back to
+the developer’s app. By clicking this deep-link, users will be directed to the developer’s app, and if the user does not have the developer’s app, they will see a
+prompt to install it.
+Product Development
+Yahoo continually launches, improves, and scales products and features to meet evolving user, advertiser, and publisher needs. Most of our software products
+and features are developed internally.
+9

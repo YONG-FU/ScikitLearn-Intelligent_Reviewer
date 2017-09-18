@@ -1,0 +1,49 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+based on the present value of estimated future cash ﬂows. Considerable management judgment is necessary to
+evaluate the impact of operating and macroeconomic changes and to estimate the future cash ﬂows used to measure
+fair value. Our estimates of future cash ﬂows consider past performance, current and anticipated market conditions
+and internal projections and operating plans which incorporate estimates for sales growth and profitability, and cash
+ﬂows associated with taxes and capital spending. Additional assumptions include forecasted growth rates, estimated
+discount rates, which may be risk-adjusted for the operating market of the reporting unit, and estimated royalty rates
+that would be charged for comparable branded licenses. We believe such assumptions also reﬂect current and
+anticipated market conditions and are consistent with those that would be used by other marketplace participants for
+similar valuation purposes. Such assumptions are subject to change due to changing economic and competitive
+conditions. See Note 3 for additional information regarding the results of impairment tests.
+The cost of intangible assets with finite useful lives is amortized on a straight-line basis. Our finite-lived intangible
+assets consist primarily of certain trademarks, customer-related intangible assets and patents obtained through business
+acquisitions, which are amortized over estimated useful lives of approximately 25 years, 15 years, and 5 years,
+respectively. When certain events or changes in operating conditions indicate that the carrying value of these assets
+may not be recoverable, we perform an impairment assessment and may adjust the remaining useful lives.
+Currency Translation
+The financial statements of our foreign entities with functional currencies other than the US. dollar are translated into
+US. dollars, with the resulting translation adjustments recorded as a component of other comprehensive income (loss).
+Assets and liabilities are translated into US. dollars using the exchange rates in effect at the balance sheet date, while
+income and expense items are translated using the average exchange rates during the period.
+Derivative Instruments
+We use derivative instruments principally to oﬁset exposure to market risks arising from changes in commodity prices,
+foreign currency exchange rates and interest rates. See Note 5 for additional information on our risk management
+strategy and the types of instruments we use.
+Derivative instruments are recognized on the balance sheet at their fair values. When we become party to a derivative
+instrument and intend to apply hedge accounting, we designate the instrument for financial reporting purposes as a
+cash flow or fair value hedge. The accounting for changes in fair value (gains or losses) of a derivative instrument
+depends on whether we have designated it and it qualified as part of a hedging relationship, as noted below:
+- Changes in the fair value of a derivative that is designated as a cash flow hedge are recorded in accumulated
+other comprehensive income (“AOCI”) to the extent effective and reclassified into earnings in the same
+period or periods during which the transaction hedged by that derivative also affects earnings.
+- Changes in the fair value of a derivative that is designated as a fair value hedge, along with the oﬁfsetting loss
+or gain on the hedged asset or liability that is attributable to the risk being hedged, are recorded in earnings,
+thereby reﬂecting in earnings the net extent to which the hedge is not effective in achieving offsetting changes
+in fair value.
+- Changes in the fair value of a derivative not designated as a hedging instrument are recognized in earnings in
+cost of sales or SM&A, consistent with the related exposure.
+For derivatives designated as hedges, we assess, both at the hedge's inception and on an ongoing basis, whether they
+are highly effective in offsetting changes in fair values or cash ﬂows of hedged items. The ineﬁective portion, if any,
+is recorded directly in earnings. In addition, if we determine that a derivative is not highly eﬁective as a hedge or that
+it has ceased to be a highly effective hedge, we discontinue hedge accounting prospectively.
+We do not hold or issue derivative instruments for trading or speculative purposes and are not a party to any
+instruments with leverage or prepayment features.
+Cash ﬂows related to the derivative instruments we use to manage interest, commodity or other currency exposures are
+classified as operating activities.
+5 6

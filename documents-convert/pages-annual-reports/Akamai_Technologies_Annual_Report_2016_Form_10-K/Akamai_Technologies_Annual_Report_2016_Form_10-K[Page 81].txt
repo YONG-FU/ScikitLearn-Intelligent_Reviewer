@@ -1,0 +1,38 @@
+The components of the net deferred tax assets and liabilities and the related valuation allowance as of December 31, 2016
+and 2015 were as follows (in thousands):
+20 16 20 1 5
+Accrued bonus 8 18,390: :8 13,161 :
+Deferred revenue 10,055 11,334 I
+Deferred rent 12,592 13,224 '
+I Stock-based compensation 32,030 31,705 I
+Net operating losses 7,855 8,855 I
+Unrealized losses 1,862 1,421 '
+Tax credit carryforwards 23,629 22,918 I
+I License income 16,932 ; I
+'Other 7,048 5,989 '
+Deferred tax assets : 130,393 : : 108,607 :
+Depreciation and amortization (10,470) (10,848)-
+Acquired intangible assets (44,788) (37,923)
+Internal-use software development costs capitalized (77,375) (66,807)-
+' Deferred tax liabilities : (132,633) 7 (115,578)
+I Valuation allowance (430) (1,217)-
+Net deferred tax liabilities $ (2,670) $ (8,188)
+During the years ended December 31, 2016 and 2015, the valuation allowance related to the Company's deferred tax assets
+decreased by an insignificant amount. As of December 31, 2016 and 2015, the Company had the following NOL and credit
+carryforwards (in thousands, except for years):
+Expirations at
+Various Dates
+2016 2015 Through:
+NOL carryforwards: : : : : : :
+' Federal $ 16,500 $ 21,500 2029 '
+' State 11,400 28,200 2034 '
+I Foreign * a a a I
+I Federal and state research and development tax credit carryforwards 41,500 39,800 2031 I
+The Company's US. federal NOL carryforwards relate to acquisitions completed during 2012. As of December 31, 2016,
+the Company had no foreign tax credit carryforwards.
+As of December 31, 2016, undistributed earnings of non-U.S. subsidiaries totaled $470.4 million. No provision for US.
+income and foreign withholding taxes has been made for these permanently reinvested foreign earnings because it is expected
+that such earnings will be reinvested indefinitely. If these earnings were distributed to the US. in the form of dividends or
+otherwise, it would be included in the Company's U.S. taxable income. The amount of unrecognized deferred income tax
+liability related to these earnings is $89.4 million.
+79

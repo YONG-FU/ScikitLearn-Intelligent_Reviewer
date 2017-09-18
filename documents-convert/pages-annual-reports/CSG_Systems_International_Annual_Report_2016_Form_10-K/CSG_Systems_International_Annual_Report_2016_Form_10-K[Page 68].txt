@@ -1,0 +1,34 @@
+The remaining unvested Stock Warrants will be accounted for as client incentive assets in the period the performance conditions necessary for vesting have been
+met. As of December 31, 2016, none of the Stock Warrants had been exercised.
+In January 2017, Comcast exercised 1.4 million vested Stock Warrants. We net share settled the exercise of the Stock Warrants by delivering approximately 649,000
+shares of our common stock that we were holding as treasury shares. After this exercise, approximately 1.5 million Stock Warrants are outstanding, none of which are
+vested as of the date of this filing.
+Convertible Debt Securities. Under GAAP, convertible debt securities that may be settled in cash upon conversion (including partial cash settlement), which would
+include our 2016 Convertible Notes and our 2010 Convertible Notes, must be separated into their liability and equity components at initial recognition by: (i) recording
+the liability component at the fair value of a similar liability that does not have an associated equity component; and (ii) attributing the remaining proceeds from the
+issuance to the equity component. As of December 31, 2016, the carrying amount of the equity component related to our 2016 Convertible Notes was $9.8 million. As of
+December 31, 2015, the carrying amount of the equity component related to our 2010 Convertible Notes was $22.9 million. Beginning September 1, 2016, the holders of
+the 2010 Convertible Notes can elect to convert their securities at any time, with settlement occurring on March 1, 2017. Accordingly, at December 31, 2016, we
+classified the difference between the principal amount payable in cash upon conversion and the total settlement value of the 2010 Convertible Notes of $39.8 million as
+current portion of long-term debt conversion obligation on our Balance Sheet, outside of stockholders’ equity (see Note 5).
+11. Equity Compensation Plans
+Stock Incentive Plans
+Stock Incentive Plan . Our stockholders have approved the issuance of 18.7 million shares under the 2005 Stock Incentive Plan (the “2005 Plan”). Shares reserved under
+the 2005 Plan can be granted to ofﬁcers and other key employees of our company and its subsidiaries and to non-employee directors of our company in the form of stock
+options, stock appreciation rights, performance unit awards, restricted stock awards, or stock bonus awards. Shares granted under the 2005 Plan in the form of a
+performance unit award, restricted stock award, or stock bonus award are counted toward the aggregate number of shares of common stock available for issuance under
+the 2005 Plan as two shares for every one share granted or issued in payment of such award. As of December 31, 2016, 3.6 million shares were available for issuance,
+with 3.1 million shares available for grant.
+Restricted Stock. We generally issue new shares (versus treasury shares) to fulﬁll restricted stock award grants. Restricted stock awards are granted at no cost to the
+recipient. Historically, our restricted stock awards have vested annually primarily over three or four years with no restrictions other than the passage of time (i.e., the
+shares are released upon calendar vesting with no further restrictions) (“Time-Based Awards”). Unvested Time-Based Awards are typically forfeited and cancelled upon
+termination of employment with our company. Certain Time-Based Awards become fully vested (vesting accelerates) upon a change in control, as deﬁned, and the
+subsequent involuntary termination of employment. The fair value of the Time-Based Awards (determined by using the closing market price of our common stock on the
+grant date) is charged to expense on a straight-line basis over the requisite service period for the entire award.
+We also issue restricted stock shares to key members of management that vest in equal installments over three years upon meeting either pre-established ﬁnancial
+performance objectives or pre-established stock price objectives (“Performance-Based Awards”). The structure of the performance goals for the Performance-Based
+Awards has been approved by our stockholders. The Performance-Based Awards become fully vested (vesting accelerates) upon a change in control, as deﬁned, and the
+subsequent involuntary termination of employment. The fair value of the Performance-Based Awards (determined by using the closing market price of our common stock
+on the grant date) is charged to expense on a straight-line basis over the requisite service period, taking into consideration the probability of vesting, for each separately
+vesting portion of the award as if the award is, in—substance, multiple awards.
+67

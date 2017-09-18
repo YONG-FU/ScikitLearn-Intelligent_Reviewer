@@ -1,0 +1,43 @@
+Table of Contents
+The terms of our license agreements often require our licensees to document their use of our technology and report related data to us on a quarterly basis. Although
+our license terms generally give us the right to audit books and records of our licensees to verify this information, audits can be expensive, time consuming, and
+may not be cost justified based on our understanding of our licensees' businesses, especially given the international nature of our licensees. Our license compliance
+program audits certain licensees to review the accuracy of the information contained in their royalty reports in an effort to decrease the likelihood that we will not
+receive the royalty revenues to which we are entitled under the terms of our license agreements, but we cannot give assurances that such audits will be effective to
+that end.
+The markets for semiconductors and related products are highly concentrated, and we may have limited opportunities to license our technologies or sell
+our products.
+The semiconductor industry is highly concentrated in that a small number of semiconductor designers and manufacturers account for a substantial portion of the
+purchases of semiconductor products generally, including our products and products incorporating our technologies. Continued consolidation in the semiconductor
+industry may increase this concentration. Accordingly, we expect that licenses of our technologies and sales of our products will be concentrated with a limited
+number of customers for the foreseeable future. As we acquire new technologies and integrate them into our product line, we will need to establish new
+relationships to sell these products. Our ﬁnancial results signiﬁcantly depend on our success in establishing and maintaining relationships with, and effecting
+substantial sales to, these customers. Even if we are successful in establishing and maintaining such relationships, our ﬁnancial results will be dependent in large
+part on these customers' sales and business results.
+We make signiﬁcant investments in new products and services that may not achieve technological feasibility or proﬁtability or that may limit our revenue
+growth.
+We have made and will continue to make significant investments in research, development, and marketing of new technologies, products and services, including
+advanced semiconductor packaging. Investments in new technologies are speculative and technological feasibility may not be achieved. Commercial success
+depends on many factors including demand for innovative technology, availability of materials and equipment, selling price the market is willing to bear,
+competition and effective licensing or product sales. We may not achieve signiﬁcant revenues from new product and service investments for a number of years, if
+at all. Moreover, new technologies, products and services may not be profitable, and even if they are profitable, operating margins for new products and businesses
+may not be as high as the margins we have experienced historically or originally anticipated. For example, in January 2014 we announced that we were ceasing all
+manufacturing efforts for our MEMS-based autofocus technologies. In conjunction with this decision, we undertook a workforce reduction of over 300 employees
+and we have closed or transferred to third parties our facilities in Arcadia, California, Rochester, New York, Japan and Hsinchu, Taiwan. We incurred impairment
+and other charges in the fourth quarter of 20 1 3 and the first half of 2014 related to restructuring, impairment and other charges.
+We expect to continue to be involved in material legal proceedings in the future to enforce or protect our intellectual property and contract rights,
+including material litigation with existing licensees or strategic partners, which could harm our business.
+From time to time, our efforts to obtain a reasonable royalty through our sales efforts do not result in the prospective customer agreeing to license our patents or
+our technology. In certain cases, we use litigation to defend our patent rights, to seek payment for past infringement, and to seek future royalties for the use of our
+patents and technology. We also may litigate to enforce our other intellectual property rights, to enforce the terms of our license agreements, to protect our trade
+secrets, to determine the validity and scope of the proprietary rights of others, and to defend against claims of infringement or invalidity. Our current legal actions,
+as described in Part I, Item 3 - Legal Proceedings , are examples of disputes and litigation that impact our business. If we are not able to reach agreement with
+customers or potential customers we may be involved in similar legal proceedings in the future, including proceedings to ensure proper and full payment of
+royalties by licensees under the terms of their license agreements.
+These existing and any future legal actions may harm our business. For example, legal actions could cause an existing licensee or strategic partner to cease making
+royalty or other payments to us, or to challenge the validity and enforceability of our patents or the scope of our license agreements, and could significantly damage
+our relationship with such licensee or strategic partner and, as a result, prevent the adoption of our technologies and intellectual property by such licensee or
+strategic partner. Litigation could also severely disrupt or shut down the business operations of our licensees or strategic partners, which in turn would significantly
+harm our ongoing relations with them and cause us to lose royalty revenues. Moreover, the timing and results of any of our legal proceedings are not predictable
+and may vary in any individual proceeding.
+1 1

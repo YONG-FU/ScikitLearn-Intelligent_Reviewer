@@ -1,0 +1,47 @@
+(In millions) 2016 2015 2014
+:Net income (loss) $ (28) $ 309 $ 233 :
+Income tax expense (benefit) 133 (22) (188)
+Net interest and other financing expense 182 174 166
+Depreciation and amortization (a) 331 335 357
+EBITDA 618 796 568
+Net income attributable to noncontrolling interest (1) — —
+Loss (income) from discontinued operations (net of taxes) 31 (118) (161)
+Losses on pension and other postretirement plan remeasurement (b) 124 255 438
+Impairments 1 8 1 25 82
+Separation, restructuring and other costs, net 89 21 111
+Net loss on divestitures 12 118 —
+Legal reserve 15 — 5
+Environmental reserve adjustments 15 12 13
+Benefit/stock incentive adjustment (11) 7 —
+Accelerated depreciation 6 6 17
+Customer claim adjustment (5) 13 —
+Tax indemnification adjustment — (16) 5
+Adjusted EBITDA (c) $ 1,074 8 1,119 $ 1,078
+(a) Excludes $6 million, $6 million and $36 million of asset impairment charges and accelerated depreciation during 2016, 2015 and 2014, respectively.
+(b) For supplemental information on the components of this adjustment, see page M—35 within the MD&A - Critical Accounting Policies - Employee benefit
+(0) $833238; million, $27 million and $24 million during 2016, 2015 and 2014, respectively, of net periodic pension and other postretirement income
+recognized ratably through the fiscal year. This income is comprised of service cost, interest cost, expected return on plan assets, and amortization of prior
+service credit and is disclosed in further detail in Note N of the Notes to Consolidated Financial Statements.
+Statements of Consolidated Comprehensive Income — caption review
+A comparative analysis of the Statements of Consolidated Comprehensive Income by caption is provided as follows for the
+years ended September 30, 2016, 2015 and 2014.
+i 2016 2015:
+(In millions) 2016 2015 2014 change change
+:Sales 8 4,948 $ 5,387 $ 6,121 8 (439) $ (734)
+The following table provides a reconciliation of the change in sales between fiscal years 2016 and 2015 and between fiscal
+years 2015 and 2014.
+i 2016 2015:
+(In millions) change change
+:Pricing $ (251) $ (166)
+Currency exchange (85) (266)
+Divestitures and acquisitions (8 8) (283)
+Volume and product mix (15) (19)
+Change in sales :$ (439): :$ (734)
+Sales for 2016 decreased $439 million, or 8%, compared to 2015. Pricing declines across all three reportable segments and
+unfavorable currency exchange decreased sales by $251 million, or 5%, and $85 million, or 2%, respectively. Divestitures of
+certain divisions and product lines decreased sales by $123 million, or 2%, while the acquisition of Oil Can Henry’s within the
+Valvoline reportable segment increased sales by $35 million. Changes in volume and product mix decreased sales by $15 million.
+Sales for 2015 decreased $734 million, or 12%, compared to 2014 primarily due to the divestiture of certain divisions and
+product lines of $283 million, or 5%. The divestitures impact on sales was primarily due to the Elastomers division within the
+Performance Materials reportable segment. Unfavorable foreign currency exchange decreased sales by $266 million, or 4%, as a
+M-8

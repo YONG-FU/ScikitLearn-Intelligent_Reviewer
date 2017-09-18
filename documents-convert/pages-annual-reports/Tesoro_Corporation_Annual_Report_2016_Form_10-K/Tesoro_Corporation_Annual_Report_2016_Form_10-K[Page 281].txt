@@ -1,0 +1,42 @@
+currency, and such reﬁnancing would cause the applicable US. dollar-denominated restriction to be exceeded if calculated at the relevant currency exchange
+rate in effect on the date of such reﬁnancing, such U.S. dollar-denominated restriction shall be deemed not to have been exceeded so long as the principal
+amount of such reﬁnancing Indebtedness does not exceed (i) the principal amount of such Indebtedness being reﬁnanced plus (ii) the aggregate amount of
+fees, underwriting discounts, premiums and other costs and expenses incurred in connection with such reﬁnancing. The principal amount of any Indebtedness
+incurred to reﬁnance other Indebtedness, if incurred in a diﬁ‘erent currency from the Indebtedness being reﬁnanced, shall be calculated based on the currency
+exchange rate applicable to the currencies in which such respective Indebtedness is denominated that is in effect on the date of such reﬁnancing.
+Section 4.10 Asset Sales.
+TLLP will not, and will not permit any of its Restricted Subsidiaries to, consummate an Asset Sale unless:
+(1) TLLP (or the Restricted Subsidiary, as the case may be) receives consideration at least equal to the Fair Market Value (such Fair Market Value
+to be determined on the date of contractually agreeing to such Asset Sale and which shall give effect to the assumption by another Person of any
+liabilities as provided for in clause (A) of the following paragraph) of the assets or Equity Interests issued or sold or otherwise disposed of; and
+(2) at least 75% of the consideration received in the Asset Sale (as determined on the date of contractually agreeing to such Asset Sale), together
+with all other Asset Sales since the Issue Date (on a cumulative basis) by TLLP or such Restricted Subsidiary is in the form of cash or Cash Equivalents.
+For purposes of the preceding clause (2) of this provision, each of the following shall be deemed to be cash or Cash Equivalents:
+(A) any liabilities, as shown on TLLP’s most recent consolidated balance sheet, of TLLP or any Restricted Subsidiary (other than contingent
+liabilities and liabilities that are by their terms subordinated to the Notes or any Note Guarantees) that are assumed by the transferee of any such assets
+pursuant to a customary novation agreement that releases TLLP or such Restricted Subsidiary from ﬁirther liability;
+(B) any securities, notes or other obligations received by TLLP or any such Restricted Subsidiary in connection with such transaction that within
+90 days after the Asset Sale (subject to ordinary settlement periods) are converted by TLLP or such Restricted Subsidiary into cash or Cash Equivalents,
+to the extent of the cash or Cash Equivalents received in that conversion;
+(C) any stock or assets of the kind referred to in clauses (2) or (4) of the next succeeding paragraph received by TLLP or any such Restricted
+Subsidiary in connection with such transaction; and
+(D) accounts receivable of a business retained by TLLP or any of its Restricted Subsidiaries, as the case may be, following the sale of such
+business, provided such accounts receivable (x) are not past due more than 60 days and (y) do not have a payment date greater than 90 days from the
+date of the invoices creating such accounts receivable;
+provided that any Asset Sale pursuant to a condemnation, appropriation or other similar taking, including by deed in lieu of condemnation, or pursuant to the
+foreclosure or other enforcement of a Lien incurred not in violation of Section 4.12 or exercise by the related lienholder of rights with respect thereto,
+including by deed or assignment in lieu of foreclosure, shall not be required to satisfy the conditions set forth in clauses (1) and (2) of this paragraph.
+Within 3 65 days after the receipt of any Net Proceeds from an Asset Sale (the “AssetsaleProceedsAppli,catio,n,Perio,d,”), TLLP (or any Restricted
+Subsidiary) may apply an amount not to exceed such Net Proceeds at its option to any combination of the following:
+(1) to prepay, repay, redeem or repurchase Senior Indebtedness of TLLP and/or its Restricted Subsidiaries;
+(2) to acquire a controlling interest in another business or all or substantially all of the assets of, or any Capital Stock or operating line of, another
+business, in each case engaged in a Permitted Business, if, after giving effect to any such acquisition of Capital Stock, the Permitted Business is or
+becomes a Restricted Subsidiary of TLLP;
+(3) to make capital expenditures; or
+(4) to acquire other assets that are not classiﬁed as current assets under GAAP and that are used or useﬁll in a Permitted Business;
+provided that, in the case of clauses (2), (3) and (4) above, a binding commitment shall be treated as a permitted application of the Net Proceeds from the date
+of such commitment so long as TLLP (or the applicable Restricted Subsidiary, as the case may be) enters into such commitment with the good faith
+expectation that such Net Proceeds will be applied to satisfy such commitment within 180 days of the expiration of the Asset Sale Proceeds Application
+Period (an "Acceptablejlommitmem") and such Net Proceeds are actually applied in such manner within 180 days of the expiration of the Asset Sale
+Proceeds Application Period (the period from the
+-37-

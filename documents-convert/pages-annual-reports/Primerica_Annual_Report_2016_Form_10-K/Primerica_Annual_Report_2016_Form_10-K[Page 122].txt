@@ -1,0 +1,43 @@
+(FINANCIAL STATEMENTS — NOTE 4 i)
+(4) Investments
+AFS Securities. The period—end cost or amortized cost, gross unrealized gains and losses, and fair
+value of AFS fixed—maturity and equity securities follow:
+7 December 31, 2016 r
+7 Cost or Gross Gross 7
+amortized unrealized unrealized
+: cost gains losses Fair value :
+(In thousands)
+Securities available-for-sale, carried at fair value:
+Fixed—maturity securities:
+US. government and agencies $ 10,148 $ 350 $ (24) $ 10,474
+Foreign government 124,274 5,719 (687) 129,306
+States and political subdivisions 43,950 1,903 (129) 45,724
+Corporates 1,281,630 49,272 (5,529) 1,325,373
+Residential mortgage—backed securities 94,708 4,963 (120) 99,551
+Commercial mortgage—backed securities 107,201 2,712 (470) 109,443
+Other asset—backed securities 72,772 98 (303) 72,567
+Total fixed—maturity securities (1) 1,734,683 65,017 (7,262) 1,792,438
+Equity securities 36,818 8,589 (513) 44,894
+Total fixed—maturity and equity securities $1,771,501 $73,606 $(7,775) $1,837,332
+(1) Includes approximately $0.1 million of OTTI losses related to corporates and mortgage- and asset—backed securities
+recognized in accumulated other comprehensive income.
+7 December 31, 2015 r
+7 Cost or Gross Gross 7
+amortized unrealized unrealized
+7 cost gains losses Fair value :
+r (In thousands)
+Securities available-for-sale, carried at fair value:
+Fixed—maturity securities:
+US. government and agencies $ 20,233 $ 448 $ (22) $ 20,659
+Foreign government 114,656 7,082 (1,522) 120,216
+States and political subdivisions 38,995 2,111 (541) 40,565
+Corporates 1,276,965 49,008 (24,211) 1,301,762
+Residential mortgage—backed securities 94,532 6,814 (121) 101,225
+Commercial mortgage—backed securities 97,666 2,875 (555) 99,986
+Other asset—backed securities 46,996 129 (79) 47,046
+Total fixed—maturity securities (1) 1,690,043 68,467 (27,051) 1,731,459
+Equity securities 39,969 8,252 (382) 47,839
+Total fixed—maturity and equity securities $1,730,012 $76,719 $(27,433) $1,779,298
+(1) Includes approximately $0.1 million of OTTI losses related to corporates and mortgage- and asset—backed securities
+recognized in accumulated other comprehensive income.
+110 Freedom Lives Here“

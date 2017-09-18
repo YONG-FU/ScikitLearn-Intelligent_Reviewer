@@ -1,0 +1,31 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+“ Exercise Price ” has the meaning ascribed to such term in the Preamble.
+“ ExpirationDate,” has the meaning ascribed to such term in Section 5.
+“ FairiMarkeLValue,”, as of any date, has a meaning determined as follows:
+(i) with respect to any equity interest (including a Warrant Share): (x) if the
+class of such equity interest is traded on a securities exchange or quoted on the NASDAQ Stock Market, then the Fair Market Value
+thereof shall be deemed to be the average daily volume weighted average price per share of such equity interest for the ten consecutive
+trading days ending on the trading day immediately prior to such date (as determined by reference to the screen entitled “CSGS <UQ
+Equity> AQR” as reported by Bloomberg L.P., for the time period of 9:30am ET to 4:01pm ET for any such scheduled trading day); or
+(y) if clause (x) is not applicable, then the Fair Market Value of such equity interest (including a Warrant Share) shall be the price that
+would be negotiated in an arm’s-length transaction for cash between a willing seller and a willing and able buyer, both having full
+knowledge of the relevant facts and neither of which is under any compulsion to complete the transaction, without regard for control
+premiums or minority or illiquidity discounts, as such price is determined in good faith by the Board, proxidedjhat (A) the Company
+shall give the Holder prompt written notice of any such determination, together with reasonable data and documentation to support such
+determination, and (B) if the Holder disputes the Board’s determination, it shall promptly notify the Company of such dispute, whereupon
+the Company shall engage a nationally recognized investment bank or other independent valuation firm reasonably acceptable to the
+Holder (an “ Appraiser ”) to determine such Fair Market Value, the cost of which Appraiser shall be borne by the Company and the
+determination of such Appraiser shall be final and binding on the Company and the Holder; and
+(ii) with respect to any asset other than an equity interest, the Fair Market
+Value thereof shall be deemed to be the price (after taking into account any liabilities relating to such assets) that would be negotiated in
+an arm’s-length transaction for cash between a willing seller and a willing and able buyer, neither of which is under any compulsion to
+complete the transaction, as such price is determined in good faith by the Board; proxidedjhat (A) the Company shall give the Holder
+prompt written notice of any such determination, together with reasonable data and documentation to support such determination), and
+(B) if the Holder disputes the Board’s determination, it shall promptly notify the Company of such dispute, whereupon the Company shall
+engage an Appraiser to determine such Fair Market Value, the cost of which Appraiser shall be borne by the Company and the
+determination of such Appraiser shall be final and binding on the Company and the Holder;
+proxide,d,, howexeri, that, in the case of a Fundamental Change, the Fair Market Value of a Warrant Share as of the date of such
+Fundamental Change shall be equal to the sum of (A) the amount of the cash consideration, if any, that the Holder of one issued and
+outstanding Warrant Share would have received in exchange therefor pursuant to such Fundamental Change pl,usi(B) the Fair Market
+Value (determined pursuant to clauses (i) and (ii) of this definition, as applicable) of all forms of consideration other than cash, if any, that
+the Holder of one issued and outstanding Warrant Share would have received in exchange therefor pursuant to such Fundamental Change.

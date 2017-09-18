@@ -1,0 +1,41 @@
+Table,of,C,ontents
+Year Ended Maijl,
+Percent Change Percent Change
+(Dollars in millions) _ 2016 Actual Constant 2015 Actual Constant 2014
+Hardware Support Revenues: i
+Americas $ 1,163 -7% -4% $ 1,245 1% 3% $ 1,229
+EMEA 656 -9% -1% 722 -2% 6% 738 1
+Asia Paciﬁc 378 -9% -1% 413 -4% 1% 429
+1 Total revenues 2,197 -8% -3% 2,380 -1% 4% 2,3961
+Ecpenses:
+Hardware support (I) 688 -15% -10% 810 -2% 2% 830 1
+Stock-based compensation 5 -17% - 17% 6 3% 3% 6
+!Amortization of intangible assets (2) 146 -8% -8% 158 -32% -32% 231 j
+Total expenses 839 -14% -10% 974 -9% -6% 1,067
+[Total Margin 1,358: -3% 3% 1,406: 6% 11% 1,329]
+Total Margin % 62% 59% 55%
+E% Revenues by Geograplzy: ‘
+Americas 53% 52% 51%
+EMEA 30% 30% 31% 1
+Asia Paciﬁc 17% 18% 18%
+(1) Excluding stock-based compensation
+(2) Included as a component of ‘Amortization of Intangible Assets’ in our consolidated statements of operations
+Fiscal 2016 Compared to Fiscal 2015: Excluding the effects of unfavorable currency rate ﬂuctuations of 5 percentage points, hardware support revenues
+decreased in ﬁscal 2O 16 due to reductions in sales volumes of certain of our hardware product lines for which we offer hardware support. This decrease was
+partially offset by incremental revenues during the first quarter of fiscal 2016 that were primarily related to our acquisition of MICROS. On a constant currency
+basis, the decrease in total hardware support revenues was attributable to revenue declines in all regions during fiscal 2016.
+Excluding the effects of favorable currency rate ﬂuctuations of 4 percentage points, total hardware support expenses decreased in ﬁscal 2016 primarily due to
+reductions in employee related and other expenses from reduced headcount and reduced external contractor costs as we integrated MICROS into our operations,
+due to a decrease in bad debt expenses, and due to a reduction in expenses associated with certain of our intangible assets that became fully amortized during ﬁscal
+2O 16.
+In constant currency, total hardware support margin and margin as a percentage of total revenues increased in ﬁscal 2O 16 due to the total expense reductions for
+this segment.
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate ﬂuctuations, hardware support revenues increased in ﬁscal 2015
+primarily due to incremental revenues from acquired companies, primarily MICROS. The Americas region contributed 42%, the EMEA region contributed 52%
+and the Asia Paciﬁc region contributed 6% to the increase in hardware support revenues during ﬁscal 2015.
+In constant currency, total hardware support expenses decreased in ﬁscal 2015 primarily due to reduced service delivery costs due to operational initiatives and a
+decrease in amortization of intangible assets, partially offset by higher employee related expenses resulting from increased headcount from our acquisitions, higher
+external contractor expenses and higher bad debt expenses.
+In constant currency, total hardware support margin and margin as a percentage of total revenues increased in ﬁscal 2015 due to the increase in total revenues and
+decrease in total expenses for this operating segment.
+65

@@ -1,0 +1,28 @@
+SECTION 9.14 Integration . This Agreement and the Notes represent the agreement of Mondeléz, the Borrower, the Administrative Agent and the
+Lenders with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent, Mondeléz,
+the Borrower or any Lender relative to the subject matter hereof not expressly set forth or referred to herein or in the Notes other than the matters referred to in
+Sections 2.09(b) and 9.04(a), the Fee Letter and any other fee letters entered into among Mondelez and the Joint Bookrunners, if any, and except for any
+confidentiality agreements entered into by Lenders in connection with this Agreement or the transactions contemplated hereby.
+SECTION 9.15 IISAPatriotAcLNotice,. The Administrative Agent and each Lender hereby notifies the Borrower that pursuant to the requirements
+of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “ Patriot Act ”), it is required to obtain, verify and record information
+that identiﬁes the Borrower, which information includes the name and address of the Borrower and other information that will allow such Lender to identify the
+Borrower in accordance with the Patriot Act.
+SECTION 9.16 Acknowledgment and Consent to Bail-In of EEA Financial I n stitutions . Notwithstanding anything to the contrary in any other
+agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any BEA Financial Institution arising under
+this Agreement or any other documents or agreements relating to the Loans made hereunder, to the extent such liability is unsecured, may be subject to the write-
+down and conversion powers of an EEA Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
+(a) the application of any Write-Down and Conversion Powers by an BEA Resolution Authority to any such liabilities arising hereunder which may
+be payable to it by any party hereto that is an BEA Financial Institution; and
+(b) the effects of any Bail-in Action on any such liability, including, if applicable:
+(i) a reduction in full or in part or cancellation of any such liability;
+(ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such BEA Financial Institution, its parent
+undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be
+accepted by it in lieu of any rights with respect to any such liability under this Agreement or any other documents or agreements relating to the Loans made
+hereunder; and
+(iii) the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers of any EEA Resolution
+Authority.
+SECTION 9.17 Certainlerrnsn In this Agreement, where it relates to an Obligor incorporated in the Netherlands or having its centre of main
+interests in the Netherlands, a reference to:
+(a) a “ necessary action to authorize ” where applicable, includes without limitation:
+(i) any action required to comply with the Works Councils Act of the Netherlands ( Wet op de ondernemingsraden ); and
+-55-

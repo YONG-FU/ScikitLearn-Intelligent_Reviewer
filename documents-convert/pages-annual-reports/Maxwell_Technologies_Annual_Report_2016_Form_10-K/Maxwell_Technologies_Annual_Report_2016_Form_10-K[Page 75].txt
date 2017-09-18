@@ -1,0 +1,49 @@
+Items that give rise to significant portions of the deferred tax accounts are as follows (in thousands):
+December 31,
+2016 2015
+IDeferred tax assets: — I
+Tax loss carryforwards $ 62,994 $ 52,504
+I Tax credit carryforwards 19 19 I
+Uniform capitalization, contract and inventory related reserves 598 1,558
+I Accrued vacation 514 592 I
+Stock-based compensation 2,130 1,466
+I Capitalized research and development 5,532 6,212 I
+Tax basis depreciation less book depreciation 1,661 1,019
+I Intangible assets 1,354 1,533 I
+Deferred revenue 33 254
+I Accrued foreign taxes 1,263 1,271 I
+Other 2,523 2,527
+I Total 78,621 _ 68,955 I
+Deferred tax liabilities:
+I Inventory deduction (369) (235) I
+Pension assets (1,733) (1,173)
+I Allowance for doubtful accounts (677) (378) I
+Withholding tax on undistributed earnings of foreign subsidiary (4,879) (3,675)
+I Unrealized gains and losses (733) (984) I
+Other — (1)
+I Total (8,391) _ (6,446)I
+Net deferred tax assets before valuation allowance 70,230 _ 62,509
+IValuation allowance (78,366) (68,093) I
+Net deferred tax liabilities $ (8,136) _ $ (5,584)
+As of December 31, 2016 and 2015 , deferred tax assets of $0.4 million and $0.5 million , respectively were included in other non-current assets in the
+consolidated balance sheet.
+The Company accounts for uncertain tax benefits in accordance with the provisions of section 740-10 of the Accounting for Uncertainty in Income Taxes
+Topic of the FASB ASC. Of the total unrecognized tax benefits at December 31, 2016 , approximately $15.6 million was recorded as a reduction to deferred tax
+assets, which caused a corresponding reduction in the Company’s valuation allowance of $15.6 million . To the extent unrecognized tax beneﬁts are recognized at a
+time when a valuation allowance does not exist, the recognition of the $15.6 million tax benefit would reduce the effective tax rate. The Company does not
+anticipate that the amount of unrecognized tax benefits as of December 31, 2016 will change materially within the 12-month period following December 31, 2O 16 .
+A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows (in thousands):
+IBalance at December 31, 2014 $ 11,939 I
+Increase in current period positions 1,466
+I Increase in prior period positions 609 I
+Balance at December 31, 2015 14,014
+I Increase in current period positions 1,596 I
+Increase in prior period positions 116
+I Decrease in prior period positions (147) I
+Balance at December 31, 2O 16 $ 15,579
+The Company recognizes interest and penalties as a component of income tax expense. Interest and penalties for the years ended December 31, 2016, 2015
+and 2014 were $148,000 , $119,000 and $34,000 , respectively.
+The Company’s US. federal income tax returns for tax years subsequent to 2009 are subject to examination by the Internal Revenue Service and its state
+income tax returns subsequent to 2008 are subject to examination by state tax authorities. The Company’s foreign tax returns subsequent to 2004 are subject to
+examination by the foreign tax authorities.
+72

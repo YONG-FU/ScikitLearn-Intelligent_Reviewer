@@ -1,0 +1,49 @@
+NOTE N — EMPLOYEE BENEFIT PLANS (continued)
+Plan assets
+The expected long-term rate of return on US. pension plan assets was 7.10% and 7.65% for 2016 and 2015, respectively. The
+basis for determining the expected long-term rate of return is a combination of future return assumptions for various asset classes
+in Ashland’s investment portfolio, historical analysis of previous returns, market indices and a projection of inﬂation.
+The following table summarizes the various investment categories that the pension plan assets are invested in and the applicable
+fair value hierarchy that the financial instruments are classiﬁed within these investment categories as of September 30, 2016. For
+additional information and a detailed description of each level within the fair value hierarchy, see Note G.
+: Quoted prices :
+in active Significant
+markets for other Significant
+identical observable unobservable
+Total fair assets inputs inputs
+(In millions) value Level 1 Level 2 Level 3
+:Cash and cash equivalents $ 184 $ 184 $ — $ —:
+US. government securities 85 — 85 —
+Other government securities 184 — 184 —
+Corporate debt instruments 1,177 877 300 —
+Corporate stocks 270 134 136 —
+Insurance contracts 1 1 — 1 1 —
+Private equity and hedge funds 726 — — 726
+Other investments 23 — — 23
+Total assets at fair value 7$ 2,660 7 758 1,195 7 733 716 7 733 749 7
+The following table summarizes the various investment categories that the pension plan assets are invested in and the applicable
+fair value hierarchy that the financial instruments are classified within these investment categories as of September 30, 2015.
+Quoted prices
+in active Significant
+markets for other Significant
+identical observable unobservable
+Total fair assets inputs inputs
+(In millions) value Level 1 Level 2 Level 3
+:Cash and cash equivalents $ 91 $ 91 $ — $ —:
+US. government securities 130 4 126 —
+Other government securities 163 1 162 —
+Corporate debt instruments 1,398 1,036 362 —
+Corporate stocks 289 146 143 —
+Insurance contracts 10 — 10 —
+Private equity and hedge funds 842 — — 842
+Other investments 28 — — 28
+Total assets at fair value :$ 2,951 : :58 1,278 : :$ 803 : :$ 870 :
+Ashland’s pension plan holds a variety of investments designed to diversify risk. Investments classified as a Level 1 fair value
+measure principally represent marketable securities priced in active markets. Cash and cash equivalents and public equity and
+debt securities are well diversified and invested in US. and international small-to-large companies across various asset managers
+and styles. Investments classified as a Level 2 fair value measure principally represents fixed-income securities in US. treasuries
+and agencies and other investment grade corporate bonds and debt obligations.
+Ashland’s pension plans also hold Level 3 investments primarily within hedge funds and private equity funds with hedge
+funds accounting for nearly all of the Level 3 investments. Ashland’s investments in these funds are primarily valued using the
+net asset value per share of underlying investments as determined by the respective individual fund administrators on a daily,
+F -43

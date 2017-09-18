@@ -1,0 +1,49 @@
+KIMCO REALTY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, continued
+The major differences between the GAAP basis of accounting and the basis of accounting used for federal and state income tax
+reporting consist of impairment charges recorded for GAAP purposes, but not recognized for tax purposes, depreciation and
+amortization, rental revenue recognized on the straight line method for GAAP, reserves for doubtful accounts, differences in
+GAAP and tax basis of assets sold, and the period in which certain gains were recognized for tax purposes, but not yet recognized
+under GAAP.
+Deferred tax assets and deferred tax liabilities are included in the captions Other assets and Other liabilities on the accompanying
+Consolidated Balance Sheets at December 31, 2016 and 2015. Operating losses and the valuation allowance are related primarily
+to the Company’s consolidation of its taxable REIT subsidiaries for accounting and reporting purposes. For the tax year ended
+August 1, 2016, KRS Consolidated produced $20.6 million of taxable income and utilized $20.6 million of its $44.0 million of
+available net operating loss carryovers. For the year ended December 31, 2015, KRS Consolidated produced $19.7 million of
+taxable income and utilized $19.7 million of its $70.3 million of available net operating loss carryovers.
+Under GAAP a reduction of the carrying amounts of deferred tax assets by a valuation allowance is required, if, based on the
+evidence available, it is more likely than not (a likelihood of more than 50 percent) that some portion or all of the deferred tax
+assets will not be realized. The valuation allowance should be sufficient to reduce the deferred tax asset to the amount that is
+more likely than not to be realized. As a result of the Merger, the Company determined that the realization of $63.5 million of its
+net deferred tax assets was not deemed more likely than not and as such, the Company recorded a full valuation allowance against
+these net deferred tax assets that existed at the time of the Merger.
+The Company prepared an analysis of the tax basis built-in tax gain or built-in loss inherent in each asset acquired from KRS in
+the Merger. Assets of a TRS that become REIT assets in a merger transaction of the type entered into by the Company and KRS
+are subject to corporate tax on the aggregate net built-in gain (built—in gains in excess of built-in losses) during a recognition
+period. Accordingly, the Company is subject to corporate-level taxation on the aggregate net built-in gain from the sale of KRS
+assets within 60 months from the Merger date (the recognition period). The maximum taxable amount with respect to all merged
+assets disposed within 60 months of the Merger is limited to the aggregate net built-in gain at the Merger date. The Company
+compared fair value to tax basis for each property or asset to determine its built-in gain (value over basis) or built—in loss (basis
+over value) which could be subject to corporate level taxes if the Company disposed of the asset previously held by KRS during
+the 60 months following the Merger date. In the event that sales of KRS assets during the recognition period result in corporate
+level tax, the unrecognized tax benefits reported as deferred tax assets from KRS will be utilized to reduce the corporate level tax
+for GAAP purposes.
+Uncertain Tax Positions
+The Company is subject to income tax in certain jurisdictions outside the US, principally Canada and Mexico. The statute of
+limitations on assessment of tax varies from three to seven years depending on the jurisdiction and tax issue. Tax returns filed in
+each jurisdiction are subject to examination by local tax authorities. The Company is currently under audit by the Canadian
+Revenue Agency and Mexican Tax Authority. The resolution of these audits are not expected to have a material effect on the
+Company’s financial statements. The Company does not believe that the total amount of unrecognized tax benefits as of
+December 31, 2016, will significantly increase or decrease within the next 12 months.
+The liability for uncertain tax benefits principally consists of estimated foreign, federal and state income tax liabilities in years for
+which the statute of limitations is open. Open years range from 2010 through 2016 and vary by jurisdiction and issue. The
+aggregate changes in the balance of unrecognized tax benefits for the years ended December 31, 2016 and 2015 were as follows
+(in thousands):
+2016 2015
+l Balance at January 1, $ 4,263 $ 4,649 I
+Increases for tax positions related to current year 41 1,084
+[ Increase for tax position due to ASU 2013-11 4,930 - I
+Decreases relating to settlements with taxng authorities (2,000) -
+[ Reductions due to lapsed statute of limitations (2,272) (1,470) l
+Balance at December 31, $ 4,962 $ 4,263
+84

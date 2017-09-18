@@ -1,0 +1,45 @@
+(4) make any Restricted Investment
+(all such payments and other actions set forth in clauses (1) through (4) above being collectively referred to as “RestrictedPayments,"), unless, at the time of
+and after giving effect to such Restricted Payment, no Default or Event of Default has occurred and is continuing and either:
+(1) if the Fixed Charge Coverage Ratio for TLLP’s Reference Period is not less than 1.75 to 1.00, such Restricted Payment, together with the
+aggregate amount of all other Restricted Payments made by TLLP and its Restricted Subsidiaries (excluding Restricted Payments permitted by clauses
+(2), (3), (4), (5), (6), (7), (8), (9), (10) and (1 1) of Section 4.07@) hereof) during the quarter in which such Restricted Payment is made, is less than the
+sum, without duplication, of:
+(A) Available Cash from Operating Surplus as of the end of the immediately preceding ﬁscal quarter; plus
+(B) 100% of the aggregate net cash proceeds, or the Fair Market Value of assets or property, received by TLLP since September 14, 2012 as
+a contribution to its common equity capital or from the issue or sale of (i) Equity Interests of TLLP (other than Disqualiﬁed Equity) or (ii)
+convertible or exchangeable Disqualiﬁed Equity or convertible or exchangeable debt securities of TLLP that have been converted into or
+exchanged for such Equity Interests (other than Equity Interests (or Disqualiﬁed Equity or debt securities) sold to a Subsidiary of TLLP); plus
+(C) to the extent that any Restricted Investment that was made after September 14, 2012 is sold for cash or Cash Equivalents or otherwise
+liquidated or repaid for cash or Cash Equivalents, the return of capital or similar payment made in cash or Cash Equivalents With respect to such
+Restricted Investment (less the cost of disposition, if any); plus
+(D) the net reduction in Restricted Investments made after September 14, 2012 resulting from dividends, repayments of loans or advances,
+or other transfers of assets in each case to TLLP or any of its Restricted Subsidiaries from any Person (including, without limitation, Unrestricted
+Subsidiaries) or from redesignations of Unrestricted Subsidiaries as Restricted Subsidiaries, to the extent such amounts have not been included in
+Available Cash from Operating Surplus for any period commencing on or after September 14, 2012 (items (B), (C) and (D) being referred to as
+“IncremenQLEundsﬁ; minus
+(E) the aggregate amount of Incremental Funds previously expended pursuant to this clause (1) and clause (2) below; or
+(2) if the Fixed Charge Coverage Ratio for TLLP’s Reference Period-is less than 1.75 to 1.00, such Restricted Payment, together with the
+aggregate amount of all other Restricted Payments made by TLLP and its Restricted Subsidiaries (excluding Restricted Payments permitted by clauses
+(Q), (a), (10) and (1 1) of Section 4.07@) hereof) during the quarter in which such Restricted Payment is made (such Restricted
+Payments for purposes of this clause (2) meaning only distributions on common units and subordinated units of TLLP, plus the related distribution on
+the general partner interest), is less than the sum, without duplication, of:
+(A) $400.0 million less the aggregate amount of all Restricted Payments made by TLLP and its Restricted Subsidiaries pursuant to this
+clause (2)(A) during the period ending on the last day of the ﬁscal quarter immediately preceding the date of such Restricted Payment and
+beginning on September 14, 2012; plus
+(B) Incremental Funds to the extent not previously expended pursuant to this clause (2) or clause (1) above.
+(b) The provisions of Section $1.071 a) hereof will not prohibit:
+(1) the payment of any dividend or distribution or the consummation of an irrevocable redemption of Subordinated Obligations within 60 days
+after the date of the declaration of such dividend or the delivery of the irrevocable notice of redemption, as the case may be, if at the date of declaration
+or the date on which such irrevocable notice is delivered, such dividend or redemption would have complied with the provisions of this Indenture
+(assuming, in the case of a redemption payment, the giving of the notice of such redemption payment would have been deemed to be a Restricted
+Payment at such time and such deemed Restricted Payment would have been permitted at such time);
+(2) the making of any Restricted Payment in exchange for, or out of the net cash proceeds of, a substantially concurrent (a) capital contribution to
+T LLP from any Person (other than a Restricted Subsidiary of TLLP) or (b) sale or issuance
+(other than to a Restricted Subsidiary of TLLP) of Equity Interests (other than Disqualiﬁed Equity) of TLLP, with a sale or issuance being deemed
+substantially concurrent if such Restricted Payment occurs not more than 120 days after such sale; provided that the amount of any such net cash
+proceeds that are utilized for any such Restricted Payment will be excluded or deducted from the calculation of Available Cash from Operating Surplus
+and Incremental Funds;
+(3) the making of any principal payment on, or the defeasance, redemption, repurchase, retirement or other acquisition of, any Subordinated
+Obligation with the net cash proceeds from an incurrence of, or in exchange for, Permitted Reﬁnancing Indebtedness;
+-3 2-

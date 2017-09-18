@@ -1,0 +1,38 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+WHEREAS, CSG and Customer desire to consolidate the CSG Vantage® Enhanced Campaigns Dashboard added pursuant to the 14 th amendment into the CSG
+Vantage® Reporting Dashboard services provided pursuant to Section 2 of the 17 th Amendment and said services shall now be called CSG Vantage® Business
+Intelligence (“BI”).
+NOW, THEREFORE, CSG and Customer agree to delete the terms of the Agreement provided by the 14 th Amendment in their entirety and to modify the terms of
+the Agreement provided in Section 2 of the 17 th Amendment by deleting the terms of Section 2 of the 17 th Amendment and replacing them with the following:
+(a) Customer desires to utilize the services of CSG Vantage® Business Intelligence (“B1”) to add and support additional named users for BI applications featuring
+interactive reports and dashboards developed by CSG.
+(b) As of the 17th Amendment Effective Date, Schedule F , Section IV. Ancillary Products and Services, Subsection A. titled “ Ancillary Services for Non-Rated
+Video and Non-Rated High-Speed Data and Residential Voice Services, ” is hereby amended to add a new Subsection 10 titled “CSG Vantage® BI End
+User Licensing,” a new Subsection 11 titled “CSG Vantage® BI Application Support & Maintenance,” and a new Subsection 12 titled “CSG Vantage®
+Storage” as follows
+I Description of Item/Unit of Measure I Frequency I Fee I
+I 10. CSG Vantage® BI Reporting Dashboard End User Licensing I I I
+I a) CSG Vantage BI Single Named Business Intelligence User ID (N oteilﬂN otej) I ******* I $***** I
+LIA—LCSGlaniagteilﬁu HROLL&M,81,019,118,119,(E016,ZUHQEA) I I I
+I BI Dashboard Complexity Tier I Number of Data Sources I Frequency I Fee Per ******** I
+I Simple I *** (f) I ******* I $****** I
+I Intermediate (Note 6) I *** (f) I ******* I $****** I
+I Complex I ***** (f) or more I ******* I *a’< ***** I
+I 12. CSG Vantage® StorageJNotej) I I I
+I a)Per Ofdata Storage I ******* I $******** I
+Note 1: Design, development and implementation services will be set forth in a mutually agreeable Statement of Work (CSG#2503499).
+Note 2: The monthly End User License fees for the initial **** (*) ***** ***** **** for the CSG Vantage Dynamic Triggering Reporting Dashboard as well as the Support
+and Maintenance fees are included in the CSG Dynamic Triggering Solution Production Support and Maintenance Fee as deﬁned in the Agreement.
+Note 4: The Dashboard Complexity Tiers are defined per unique dashboard implementation. The use of Customer or third party data sources will need to be mutually agreed
+upon on how they are loaded into a dashboard and considered complex. Dashboards can move through the tiers as additional requests are developed.
+Note 5: Storage Fees apply in the event new data feeds are required, or Customer elects to expand existing Vantage retention settings.
+Note 6: Enhanced Campaigns Dashboard previously provided by CSG to Customer’s and **** included **** (*) Vantage BI users for the
+and **** Vantage users for the **** in the ******* fee_
+The fees set forth in the fee table above are subject to increase pursuant to Section 5.4, Adjustment to Fees, of the Agreement.
+IN WITNESS WHEREOF the parties hereto have caused this Amendment to be executed by their duly authorized representatives.
+COMCAST CABLE COMMUNICATIONS CSG SYSTEMS, INC. (“CSG”)
+MANAGEMENT, LLC (“CUSTOMER”)
+By: /s/ Jeur Abeln By: /s/ Gregory L. Cannon
+Name: Jeur Abeln Name: Gregory L. Cannon
+Title: Senior Vice President Procurement Title: VP & Chief Compliance Officer
+Date: 12-19-2016 Date: 12/5/ 16

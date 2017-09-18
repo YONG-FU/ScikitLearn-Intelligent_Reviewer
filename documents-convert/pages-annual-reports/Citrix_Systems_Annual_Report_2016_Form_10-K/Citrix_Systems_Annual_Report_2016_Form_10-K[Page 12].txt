@@ -1,0 +1,49 @@
+Perpetual license software products come primarily in electronic-based forms and, in selected markets. We also offer
+subscription licenses to service providers through the Citrix Service Provider program, which are invoiced on a monthly basis
+or based on reported license usage. Our Cloud Services and GoTo Business products are accessed over the Internet for usage
+during the subscription period. Our hardware appliances come pre-loaded with software for which customers can purchase
+perpetual licenses and annual support and maintenance.
+Technology Relationships
+We have a number of technology relationships in place to accelerate the development of existing and future products and
+our go-to-market initiatives. These relationships include cross-licensing, OEM, resell, joint reference architectures, and other
+arrangements that result in better solutions for our customers.
+Microsoft
+For over 25 years, Citrix and Microsoft have maintained a very strategic partnership spanning product development, go-
+to-market initiatives and partner development, with the goal of helping customers to enable secure delivery of applications and
+data on any device, wherever they go. Over the past year, the two companies have expanded that collaboration to help our joint
+customers make the transition from delivering apps and desktops from an on-premises IT infrastructure approach to a hybrid
+and cloud IT infrastructure model. Citrix and Microsoft are oﬁering services that enable customers to deploy Windows 10
+desktops on the Microsoft Azure cloud platform, services to deploy apps directly on Azure, and smart tools to simplify the
+deployment of new workspaces. In addition, the partnership is extending to Citrix mobility and network management products
+and services that complement Microsoft Enterprise Mobility + Security (EMS) and provide comprehensive security and value
+for Citrix and Microsoft customers. This next-generation model encompasses not just the Microsoft platform but extends to
+enable customers to leverage other platforms to deliver the best experiences through Microsoft and Citrix technologies.
+Hewlett Packard Enterprise (HPE)
+Citrix and HPE have a 20—year alliance that has been marked by innovation in response to changes that occur across
+industries and organizations, often fueled by dynamic technology trends. Through the Citrix and HPE alliance we are extending
+our leadership in the secure delivery of apps and data by building innovative solutions and services that leverage the full Citrix
+software stack and Citrix Cloud. The most recent example is the HPE Edgeline EL4000 Intelligent Edge Workspace, a solution
+that combines Atlantis USX software-defined storage with Citrix XenApp and XenDesktop Service.
+Google
+Together, Google and Citrix offer today’s enterprise a new approach to end user computing. The two companies continue
+working to optimize Citrix Receiver for Chrome to enable organizations to easily provision, centrally manage and deliver
+enterprise apps and data with high security over any network on any Chrome OS device. Our mobility technology collaboration
+ensures that XenMobile offers complete enterprise mobility management support for Android in the enterprise. Google and
+Citrix have extended our technical collaboration to encompass workﬂow and connectors that enable enterprise cloud
+computing, including ShareFile support for Google G—Suite and Drive, in addition to Citrix Cloud services running in the
+Google Cloud Platform. NetScaler CPX development is utilizing Kubernetes to lead the move to container based software
+defined networking.
+Additional Relationships
+Our partners continue to expand their focus on the broad range of Citrix products. Some examples include IBM and
+Fujitsu which have multiple offerings in the market with our Workspace Services solutions and Delivery Networking products.
+We also have established relationships with Intel, SAP, Samsung, and NVIDIA that complement the benefits provided by Citrix
+products. Citrix and Nutanix have a joint secure and scalable hyper-converged infrastructure solution that delivers a strong user
+experience and value while reducing infrastructure complexity and an industry-leading VDI solution.
+Through our Citrix Ready program, more than 30,000 products have been verified to work with Citrix technologies. The
+program is trusted by customers, providing them choice and confidence when identifying Citrix verified partner products
+critical to their solution deployment. In addition, numerous partners proactively incorporate Citrix products and technologies
+such as Receiver, XenDesktop, XenApp, NetScaler ADC, and HDX (ICA) technologies into their customer oﬁerings. Our
+HDX and Receiver technologies are often included with or offered for thin clients, industry-standard servers and mobile
+devices, such as Apple's iPhone and iPad, Windows Mobile and Google Android devices. Licensees include Dell, Samsung,
+Fujitsu and HPE, among others.
+8

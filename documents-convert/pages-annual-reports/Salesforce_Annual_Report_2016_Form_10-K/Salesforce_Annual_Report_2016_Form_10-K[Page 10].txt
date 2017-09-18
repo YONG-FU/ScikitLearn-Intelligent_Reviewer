@@ -1,0 +1,48 @@
+F ORWARD-LOOKING INFORMATION
+This Annual Report on Form [0-K contains forward-looking statements within the meaning of Section 27A of the
+Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of
+1934, as amended (the “Exchange Act”). Words such as “expects, ” “anticipates, ” “aims, ” “projects, ”
+“intends, ” “plans, ” “believes, ” “estimates, ” “seeks, ” “assumes, ” “may, ” “should, ” “could, ” “foresees, ”
+“forecasts, ” “predicts, ” variations of such words and similar expressions are intended to identify such forward-
+looking statements, which may consist of, among other things, trend analyses and statements regarding future
+events, future ﬁnancial performance, anticipated growth and industry prospects. These forward-looking
+statements are based on current expectations, estimates and forecasts, as well as the beliefs and assumptions of
+our management, and are subject to risks and uncertainties that are diﬁicult to predict, including the effect of
+general economic and market conditions; the impact of foreign currency exchange rate and interest rate
+fluctuations on our results; our business strategy and our plan to build our business, including our strategy to be
+the leading provider of enterprise cloud computing applications and platforms; our service performance and
+security; the expenses associated with new data centers and third party infrastructure providers; additional data
+center capacity; real estate and office facilities space; our operating results; new services and product features;
+our strategy of acquiring or making investments in complementary businesses, joint ventures, services,
+technologies and intellectual property rights; our ability to successfully integrate acquired businesses and
+technologies; our ability to continue to grow and maintain deferred revenue and unbilled deferred revenue; our
+ability to protect our intellectual property rights; our ability to develop our brands; our ability to realize the
+benefits from strategic partnerships and investments; our reliance on third— party hardware, software and
+platform providers; the effect of evolving government regulations; the valuation of our deferred tax assets; the
+potential availability of additional tax assets in the future; the impact of expensing stock options and other equity
+awards; the sufficiency of our capital resources; factors related to our outstanding convertible notes, revolving
+credit facility and loan associated with 50 Fremont; compliance with our debt covenants and capital lease
+obligations; and current and potential litigation involving us. These and other risks and uncertainties may cause
+our actual results to dijfer materially and adversely from those expressed in any forward-looking statements.
+Readers are directed to risks and uncertainties identiﬁed below under “Risk Factors ” and elsewhere in this
+report for additional detail regarding factors that may cause actual results to be different than those expressed in
+our forward-looking statements. Except as required by law, we undertake no obligation to revise or update
+publicly any forward-looking statements for any reason.
+PART I
+ITEM 1. BUSINESS
+Overview
+Salesforce is a leading provider of enterprise cloud computing solutions, with a focus on customer
+relationship management, or CRM. We introduced our first CRM solution in February 2000, and we have since
+expanded our service offerings with new editions, solutions, features and platform capabilities.
+Our mission is to help our customers transform themselves into customer-centric companies by empowering
+them to connect with their customers in entirely new ways. Our Customer Success Platform, including sales force
+automation, customer service and support, marketing automation, community management, analytics, application
+development, Internet of Things integration and our professional cloud services, provide the neXt- generation
+platform of enterprise applications, or apps, and services to enable customer success.
+Our service offerings are intuitive and easy-to-use, can be deployed rapidly, customized easily and integrated
+with other platforms and enterprise apps. We deliver our solutions as a service via all the major Internet browsers
+and on leading mobile devices. We sell to businesses of all sizes and in almost every industry worldwide on a
+subscription basis, primarily through our direct sales efforts and also indirectly through partners. Through our
+platform and other developer tools, we also encourage third parties to develop additional functionality and new apps
+that run on our platform, which are sold separately from, or in conjunction with, our services.
+3

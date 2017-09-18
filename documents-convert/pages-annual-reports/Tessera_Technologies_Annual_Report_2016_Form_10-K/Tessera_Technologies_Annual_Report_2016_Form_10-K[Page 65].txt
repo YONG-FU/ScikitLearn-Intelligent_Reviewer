@@ -1,0 +1,42 @@
+Table of Contents
+Quoted
+Prices in Signiﬁcant
+Active Markets Other Signiﬁcant
+for Identical Observable Unobservable
+Assets Inputs Inputs
+Fair Value _ (Level 1) _ (Level 2) _ (Level 3)
+lAssets ‘
+Marketable securities
+1 Money market funds (1) $ 20,883 8 20,883 $ — $ — 1
+Corporate bonds and notes (2) 281,754 — 281,754 —
+1 Municipal bonds and notes (2) 37,215 — 37,215 — 1
+Treasury and agency notes and bills (2) 41,268 — 41,268 —
+I Commercial paper (3) 33,775 — 33,775 — l
+Total Assets $ 414,895 $ 20,883 $ 394,012 $ —
+The following footnotes indicate where the noted items were recorded in the Consolidated Balance Sheet at December 31, 2014:
+(1) Reported as cash and cash equivalents.
+(2) Reported as short-term investments.
+(3) Reported as either cash and cash equivalents or short—term investments.
+Non-Recurring Fair Value Measurements
+The following table represents the activity in level 3 assets (in thousands):
+Assets included in
+discontinued operations
+Assets held for sale and held for sale Other
+’Balance at December 31, 2013 $ — $ 9,720 (1) $ — l
+Assets transferred — 1,398 —
+l Assets sold — (11,118) (2) — l
+Assets received — — 4,280
+’Balance at December 31, 2014 $ — $ — $ 4,280 l
+Assets transferred — — —
+l Assets sold — — — ‘
+Assets received _ _ _
+’Balance at December 31, 2015 $ — $ — $ 4,280 (3) l
+(1) Comprised of assets remaining after the sale of the Micro-Optics business located in Charlotte, North Carolina, which was completed in August 2013 and assets
+remaining as a result of the cessation of the Company's memslcam manufacturing activities. See Note 6 - " Discontinued Operations " for more information. These
+assets are carried at market value as determined by specific third party quotes.
+(2) The assets in footnote 1 above were sold in 2014. These assets sold for $17.1 million in the aggregate and resulted in a gain of $5.8 million .
+(3) This amount represents the value of the patents that were received as part of licensing settlements with customers. These assets were valued using a
+methodology based on an arms-length purchase price of bulk patent assets, with adjustments based on limited pick rights, the total available market, and remaining
+average patent life. The value above is gross and the accumulated amortization to date is $1.0 million .
+NOTE 8 - BUSINESS COMBINATIONS
+F - 17

@@ -1,0 +1,35 @@
+2. Investments
+Marketable Securities
+At January 31, 2016, marketable securities consisted of the following (in thousands):
+Amortized Unrealized Unrealized
+:Investments classiﬁed as Marketable Securities : Cost : : Gains : : Losses : : Fair Value :
+Corporate notes and obligations . . . . . . . . . . . . $ 949,266 $1,398 $(2,983) $ 947,681
+US. treasury securities . . . . . . . . . . . . . . . . . . . 157,625 375 (56) 157,944
+Mortgage backed obligations . . . . . . . . . . . . . . 104,242 106 (323) 104,025
+Asset backed securities . . . . . . . . . . . . . . . . . . . 271,292 186 (226) 271,252
+Municipal securities . . . . . . . . . . . . . . . . . . . . . 44,934 209 (6) 45,137
+Foreign government obligations . . . . . . . . . . . . 18,014 42 (5) 18,051
+US. agency obligations . . . . . . . . . . . . . . . . . . . 16,076 16 (6) 16,086
+Coveredbonds.......................... 6,690 148 0 6,838
+Total marketable securities . . . . . . . . . . . . . . . . $1,568,139 $2,480 $(3,605) $1,567,014
+At January 31, 2015, marketable securities consisted of the following (in thousands):
+Amortized Unrealized Unrealized
+:Investments classiﬁed as Marketable Securities : Cost : : Gains : : Losses : :Fair Value
+Corporate notes and obligations . . . . . . . . . . . . . . . $605,724 $3,031 $(481) $608,274
+U.S. treasury securities . . . . . . . . . . . . . . . . . . . . . . 73,226 257 (1) 73,482
+Mortgage backed obligations . . . . . . . . . . . . . . . . . 44,181 159 (415) 43,925
+Asset backed securities . . . . . . . . . . . . . . . . . . . . . . 120,049 131 (43) 120,137
+Municipal securities . . . . . . . . . . . . . . . . . . . . . . . . 36,447 115 (25) 36,537
+Foreign government obligations . . . . . . . . . . . . . . . 12,023 278 0 12,301
+US. agency obligations . . . . . . . . . . . . . . . . . . . . .. 19,488 26 (4) 19,510
+Coveredbonds............................. 66,816 1,185 0 68,001
+Total marketable securities . . . . . . . . . . . . . . . . . . . $977,954 $5,182 $(969) $982,167
+The duration of the investments classified as marketable securities is as follows (in thousands):
+7 As of :
+January 31, January 31,
+: 2016 : : 2015 :
+Recorded as follows:
+Short-term(dueinoneyearorless) $ 183,018 $87,312
+Long-term(dueafteroneyear)................................... 1,383,996 894,855
+$1,567,014 $982,167
+89

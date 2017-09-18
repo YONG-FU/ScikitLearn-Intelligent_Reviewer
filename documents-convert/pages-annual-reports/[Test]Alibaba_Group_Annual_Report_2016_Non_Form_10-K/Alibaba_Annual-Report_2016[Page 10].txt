@@ -1,0 +1,44 @@
+The following table sets forth a reconciliation of our diluted EPS to non-GAAP diluted EPS for the periods
+indicated:
+Year ended March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions, except per share data)
+Net income attributable to ordinary shareholders . . . . . . . 4,228 8,404 23,076 24,149 71,460 11,083
+Add: Reversal of accretion upon assumed conversion of
+convertible preference shares . . . . . . . . . . . . . . . . . . — 17 31 15 — —
+Add: Dividend eliminated upon assumed conversion of
+convertible preference shares . . . . . . . . . . . . . . . . . . — 111 208 97 — —
+Less: Dilution effect on earnings arising from option
+plans operated by a subsidiary ................. (7) — — — — —
+Net income attributable to ordinary shareholders for
+computing diluted EPS . . . . . . . . . . . . . . . . . . . . . . 4,221 8,532 23,315 24,261 71,460 11,083
+Add: Non-GAAP adjustments to net income“). . . . . . . . 1,787 5,220 4,871 10,661 (28,548) (4,427)
+Non-GAAP net income attributable to ordinary
+shareholders for computing non-GAAP diluted EPS .. 6,008 13,752 28,186 34,922 42,912 6,656
+Weighted average number of shares on a diluted basis . . 2,522 2,389 2,332 2,500 2,562
+DilutedEPS(2).............................. 1.67 3.57 10.00 9.70 27.89 4.33
+Add: Non-GAAP adjustments to net income per share(3) . 0.71 2.19 2.09 4.27 (11.14) (1.73)
+Non-GAAP diluted BPS“) . . . . . . . . . . . . . . . . . . . . . . . 2.38 5.76 12.09 13.97 16.75 2.60
+(1) See the table above regarding the reconciliation of net income to non-GAAP net income for more information of these non-GAAP
+adjustments.
+(2) Diluted EPS is derived from net income attributable to ordinary shareholders for computing diluted EPS divided by weighted average number
+of shares on a diluted basis.
+(3) Non-GAAP adjustments to net income per share is derived from non-GAAP adjustments to net income divided by weighted average number
+of shares on a diluted basis.
+(4) Non-GAAP diluted EPS is derived from non-GAAP net income attributable to ordinary shareholders for computing non-GAAP diluted EPS
+divided by weighted average number of shares on a diluted basis.
+The following table sets forth a reconciliation of net cash provided by operating activities to free cash ﬂow for
+the periods indicated:
+Year ended March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions)
+Net cash provided by operating activities . . . . . . . . . . . . . . 9,275 14,476 26,379 41,217 56,836 8,815
+Less: Purchase of property and equipment and intangible
+assets (excluding land use rights and construction in
+progress). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. (749) (1,046) (3,285) (4,770) (5,438) (843)
+Add: Changes in loan receivables, net and others. . . . . . . . . 226 2,828 9,175 11,674 (119) (19)
+Add: Yahoo TIPLA amendment payment . . . . . . . . . . . . . . — 3,487 — — — —
+Freecashﬂow 8,752 19,745 32,269 48,121 51,279 7,953
+5

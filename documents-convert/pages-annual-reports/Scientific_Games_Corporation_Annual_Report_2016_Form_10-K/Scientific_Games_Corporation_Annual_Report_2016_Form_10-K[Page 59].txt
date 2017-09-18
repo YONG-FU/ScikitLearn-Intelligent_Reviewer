@@ -1,0 +1,44 @@
+RECENTLY ISSUED ACCOUNTING GUIDANCE
+For a description of recently issued accounting pronouncements, see Note 1.
+CRITICAL ACCOUNTING ESTIMATES
+Information regarding signiﬁcant accounting policies is included in Note 1 and in the relevant sections of applicable
+Notes. As stated in Note 1, the preparation of financial statements in accordance with US. GAAP requires management to
+make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related
+disclosure of contingent assets and liabilities. Management bases its estimates on historical experience and on various
+assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may
+differ from these estimates. We believe that the estimates, assumptions, and judgments involved in the following accounting
+policies have the greatest potential impact on our consolidated ﬁnancial statements:
+- Revenue recognition for multiple-element arrangements;
+° Goodwill and other indefinite lived intangibles, long lived assets and finite lived intangible assets- impairment
+assessment;
+- Allowance for doubtful accounts - Notes receivable;
+- Income taxes; and
+- Legal contingencies.
+Revenue recognition for multiple-element arrangements
+Some of our arrangements include multiple elements. As a result, signiﬁcant contract interpretation may be required to
+determine the appr0priate accounting, including the identification of deliverables considered to be separate units of accounting,
+the allocation of the transaction price among elements in the arrangement and the timing of revenue recognition for each of
+those elements.
+We recognize revenue for delivered elements as separate units of accounting when the delivered elements have
+standalone value to the customer. For elements with no standalone value, we recognize revenue consistent with the pattern of
+the delivery of the ﬁnal deliverable. In arrangements with combined units of accounting, changes in the allocation of the
+transaction price among elements may impact the timing of revenue recognition for the contract but will not change the total
+revenue recognized for the contract.
+We establish the selling prices used for each non-software deliverable based on vendor speciﬁc objective evidence
+(“VSOE”) of selling price, if available, third-party evidence (“TPE”), if VSOE of selling price is not available, or estimated
+selling price (“ESP”), if neither VSOE of selling price nor TPE is available. We establish VSOE of selling price using the price
+charged for a deliverable when sold separately and, in rare instances, using the price established by management having the
+relevant authority. We evaluate TPE of selling price by reviewing largely similar and interchangeable competitor products or
+services in standalone sales to similarly situated customers. ESP is established based on management’s judgment considering
+internal factors such as margin objectives, pricing practices, customer segment pricing strategies and the product life cycle.
+Consideration is also given to market conditions such as competitor pricing strategies and industry technology life cycles. In
+most arrangements with multiple elements, the transaction price is allocated to the individual units of accounting at inception of
+the arrangement based on their relative selling price. However, change to any of the aforementioned factors may result in a
+different allocation of the transaction price to deliverables in multiple element arrangements entered into in future periods. This
+may materially change the pattern and timing of revenue recognition for identical arrangements executed in future periods, but
+will not change the total revenue recognized for any given arrangement.
+For software elements, we follow the industry specific software guidance which only allows for the use of VSOE in
+establishing fair value. Generally, VSOE of fair value is the price charged when the deliverable is sold separately or the price
+established by management for a product that is not yet sold. ESPs are established as best estimates of what the selling prices
+59

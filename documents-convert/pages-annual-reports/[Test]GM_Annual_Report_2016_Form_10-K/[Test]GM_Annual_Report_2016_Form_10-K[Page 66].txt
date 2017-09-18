@@ -1,0 +1,44 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Of the total consideration, $130 million was allocated to intangible assets, primarily in-process research and development with an indeﬁnite life until fully
+developed and commercialized, $39 million was allocated to deferred tax liabilities, net of other assets, and $490 million was allocated to non-tax-deductible
+goodwill in Corporate primarily related to the synergies expected to arise as a result of the acquisition.
+The results of operations associated with this acquisition were not signiﬁcant to our consolidated ﬁnancial statements. Accordingly, pro forma ﬁnancial
+information is not presented. We have included the ﬁnancial results of Cruise in our consolidated ﬁnancial statements from the date of acquisition.
+Note 10. Goodwill and Intangible Assets
+At December 31, 2016 our total goodwill balance of $1.9 billion consisted of $1.4 billion recorded in GM Financial and $490 million included in
+Corporate. At December 31, 2015 our goodwill balance of $ 1 .4 billion was recorded in GM Financial.
+December 31, 2016 December 31, 2015
+Gross Net Gross Net
+Carrying Accumulated Carrying Carrying Accumulated Carrying
+Amount _ Amortization _ Amount _ Amount _ Amortization _ Amount
+iTechnology and intellectual @perty $ 8,399 $ 7,940 $ 459 $ 8,263 $ 7,838 $ 425 l
+Brands 4,421 933 3,488 4,427 808 3,619
+Dealer network, customer relationships and other 1,356 _ 912 _ 444 _ 1,346 _ 814 _ 532 l
+Total intangible assets r$ 14,176 r r$ 9,785 r r$ 4,391 r r$ 14,036 r r$ 9,460 r r$ 4,576 7
+Our amortization expense related to Intangible assets was $328 million, $327 million, and $676 million in the years ended December 31, 2016, 2015 and
+2014.
+Amortization expense related to Intangible assets is estimated to be approximately $200 million in each of the next ﬁve years.
+Note 11. Variable Interest Entities
+GM Financial uses special purpose entities (SPES) that are considered VIES to issue variable funding notes to third party bank-sponsored warehouse
+facilities or asset-backed securities to investors in securitization transactions. The debt issued by these VIES is backed by ﬁnance receivables and leasing
+related assets transferred by GM Financial to the VIES (Securitized Assets). GM Financial determined that it is the primary beneﬁciary of the SPES because the
+servicing responsibilities for the Securitized Assets give GM Financial the power to direct the activities that most signiﬁcantly impact the performance of the
+VIES and the variable interests in the VIEs give GM Financial the obligation to absorb losses and the right to receive residual returns that could potentially
+be signiﬁcant. The assets serve as the sole source of repayment for the debt issued by these entities. Investors in the notes issued by the VIEs do not have
+recourse to GM Financial or its other assets, with the exception of customary representation and warranty repurchase provisions and indemnities that GM
+Financial provides as the servicer. GM Financial is not required and does not currently intend to provide additional ﬁnancial support to these SPES. While
+these subsidiaries are included in GM Financial's consolidated ﬁnancial statements, they are separate legal entities and their assets are legally owned by them
+and are not available to GM Financial's creditors. The following table summarizes the assets and liabilities related to GM Financial's consolidated VIEs:
+December 31, 2016 _ December 31, 2015
+lRestricted cash — current 35 1,532 $ 1,345 l
+Restricted cash — non-current $ 535 $ 531
+{GM Financial receivables, net of fees — current :5 15,220 $ 12,224 ‘
+GM Financial receivables, net of fees — non-current $ 14,151 $ 12,597
+{GM Financial equ_ipment on operating leases, net 35 19,341 $ 11,684 l
+GM Financial short-term debt and current portion of long-term debt $ 20,005 $ 13,545
+{GM Financial long-term debt $ 18,239 $ 15,841 l
+GM Financial recognizes ﬁnance charge, leased vehicle and fee income on the Securitized Assets and interest expense on the secured debt issued in a
+securitization transaction and records a provision for loan losses to recognize probable loan losses inherent in the ﬁnance receivables.
+63

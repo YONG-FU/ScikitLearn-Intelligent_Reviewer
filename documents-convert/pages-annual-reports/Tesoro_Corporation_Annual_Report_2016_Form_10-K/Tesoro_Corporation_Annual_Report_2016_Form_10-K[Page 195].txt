@@ -1,0 +1,43 @@
+Section 4.06 Stay, Extension and Usury Laws.
+The Issuers and each of the Guarantors covenant (to the extent that they may lawfully do so) that they will not at any time insist upon, plead, or in any
+manner whatsoever claim or take the beneﬁt or advantage of, any stay, extension or usury law wherever enacted, now or at any time hereafter in force, that
+may affect the covenants or the performance of this Indenture and the Notes; and the Issuers and each of the Guarantors (to the extent that they may lawfully
+do so) hereby expressly waive all beneﬁt or advantage of any such law, and covenants (to the extent that they may lawfully do so) that they will not, by resort
+to any such law, hinder, delay or impede the execution of any power herein granted to the Trustee, but will suffer and permit the execution of every such
+power as though no such law has been enacted.
+Section 4.07 Restricted Payments.
+(a) TLLP will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly:
+(1) declare or pay any dividend or make any other payment or distribution on account of TLLP’s or any of its Restricted Subsidiaries’ Equity
+Interests (including, without limitation, any payment in connection with any merger or consolidation involving TLLP or any of its Restricted
+Subsidiaries) or to the direct or indirect holders of TLLP’s or any of its Restricted Subsidiaries’ Equity Interests in their capacity as such (other than
+distributions or dividends payable solely in Equity Interests of TLLP (other than Disqualiﬁed Equity) and other than distributions or dividends payable
+solely to TLLP or a Restricted Subsidiary);
+(2) purchase, redeem or otherwise acquire or retire for value (including, without limitation, in connection with any merger or consolidation
+involving TLLP) any Equity Interests of TLLP or any direct or indirect parent of TLLP;
+(3) make any payment to purchase, redeem, defease or otherwise acquire or retire for value any Indebtedness of TLLP or any Guarantor that is
+contractually subordinated to the Notes or to any Note Guarantee (excluding (a) any intercompany Indebtedness between or among TLLP and any of its
+Restricted Subsidiaries and (b) the payment of principal, purchase, repurchase or other acquisition of Indebtedness that is subordinated in right of
+payment to the Notes or the Note Guarantees acquired in anticipation of satisfying a sinking fund obligation, principal installment or ﬁnal maturity, in
+each case, due within one year of the date of payment, purchase, repurchase or other acquisition); or
+(4) make any Restricted Investment
+(all such payments and other actions set forth in clauses (1) through (4) above being collectively referred to as “Restn’ctedjiayments"), unless, at the time of
+and after giving effect to such Restricted Payment, no Default or Event of Default has occurred and is continuing and either:
+(1) if the Fixed Charge Coverage Ratio for TLLP’s Reference Period is not less than 1.75 to 1.00, such Restricted Payment, together with the
+aggregate amount of all other Restricted Payments made by TLLP and its Restricted Subsidiaries (excluding Restricted Payments permitted by clauses
+(2), (3), (4), (5), (6), (7), (9), (10) and (11) of Section 4.07(b_) hereof) during the quarter in which such Restricted Payment is made, is less than the sum,
+without duplication, of:
+(A) Available Cash from Operating Surplus as of the end of the immediately preceding ﬁscal quarter; plus
+(B) 100% of the aggregate net cash proceeds, or the Fair Market Value of assets or property, received by TLLP since September 14, 2012 as
+a contribution to its common equity capital or from the issue or sale of (i) Equity Interests of TLLP (other than Disqualiﬁed Equity) or (ii)
+convertible or exchangeable Disqualiﬁed Equity or convertible or exchangeable debt securities of TLLP that have been converted into or
+exchanged for such Equity Interests (other than Equity Interests (or Disqualiﬁed Equity or debt securities) sold to a Subsidiary of TLLP); plus
+(C) to the extent that any Restricted Investment that was made after September 14, 2012 is sold for cash or Cash Equivalents or otherwise
+liquidated or repaid for cash or Cash Equivalents, the return of capital or similar payment made in cash or Cash Equivalents with respect to such
+Restricted Investment (less the cost of disposition, if any); plus
+(D) the net reduction in Restricted Investments made after September 14, 2012 resulting from dividends, repayments of loans or advances,
+or other transfers of assets in each case to TLLP or any of its Restricted Subsidiaries from any Person (including, without limitation, Unrestricted
+Subsidiaries) or from redesignations of Unrestricted Subsidiaries as Restricted Subsidiaries, to the extent such amounts have not been included in
+Available Cash from Operating Surplus for any period commencing on or after September 14, 2012 (items (B), (C) and (D) being referred to as
+“IncremenQLEundsﬁ; minus
+(E) the aggregate amount of Incremental Funds previously expended pursuant to this clause (1) and clause (2) below; or
+-3 1-

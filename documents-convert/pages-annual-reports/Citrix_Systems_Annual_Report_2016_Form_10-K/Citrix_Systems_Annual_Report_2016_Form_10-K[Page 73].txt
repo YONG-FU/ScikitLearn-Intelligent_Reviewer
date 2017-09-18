@@ -1,0 +1,60 @@
+CITRIX SYSTEMS, INC.
+CONSOLIDATED STATENIENTS OF CASH FLOWS
+Year Ended December 31,
+2016 : : 2015 : : 2014
+(In thousands)
+Operating Activities
+Net income 8 536,112 $ 319,361 $ 251,723
+Adjustments to reconcile net income to net cash provided by operating activities:
+Amortization and impairment of intangible assets 89,592 239,915 192,325
+Depreciation and amortization of property and equipment 159,446 152,964 137,945
+Amortization of debt discount and transaction costs 37,085 36,013 23,293
+Stock-based compensation expense 184,788 147,368 169,287
+Deferred income tax beneﬁt (41,104) (89,378) (36,982)
+Excess tax beneﬁt from stock-based compensation (16,049) (5,873) (6,132)
+Effects of exchange rate changes on monetary assets and liabilities denominated in foreign currencies 5,189 13,416 5,233
+Other non-cash items 11,628 8,740 12,419
+Total adjustments to reconcile net income to net cash provided by operating activities : 430,575 : : 503,165 : : 497,388 :
+Changes in operating assets and liabilities, net of the effects of acquisitions:
+Accounts receivable (60,636) (7,226) (30,962)
+Inventories (4,133) 703 (1,167)
+Prepaid expenses and other current assets (12,472) (8,057) (8,133)
+Other assets (2,460) (2,550) 1,498
+Income taxes, net 49,834 51,994 (79,119)
+Accounts payable (20,905) 10,959 40
+Accrued expenses and other current liabilities 33,150 49,586 62,195
+Deferred revenues 144,439 107,150 146,123
+Other liabilities 22,326 9,463 6,395
+Total changes in operating assets and liabilities, net of the effects of acquisitions : 149,143 : : 212,022 : : 96,870 :
+Net cash provided by operating activities : 1,115,830 : : 1,034,548 : : 845,981 7
+Investing Activities
+Purchases of available-for-sale investments (2,238,784) (2,182,831) (2,390,950)
+Proceeds from sales of available-for-sale investments 1,294,636 1,745,290 1,694,886
+Proceeds from maturities of available-for-sale investments 632,517 637,052 406,334
+Proceeds from cost method investments, net 920 6,476 425
+Purchases of property and equipment (134,170) (160,825) (165,417)
+Cash paid for acquisitions, net of cash acquired (13,242) (256,907) (101,059)
+Cash paid for licensing agreements and product related intangible assets (26,342) (11,403) (13,676)
+Other 7 261 7 7 (1,267) 7 — 7
+Net cash used in investing activities 7 (484,204) 7 (224,415) 7 (569,457)
+Financing Activities
+Proceeds from issuance of common stock under stock-based compensation plans 41,247 112,285 46,618
+Proceeds from issuance of convertible notes, net of issuance costs — — 1,415,717
+Purchase of convertible note hedges — — (184,288)
+Proceeds from issuance of warrants — — 101,775
+Proceeds from revolving credit facility — 95,000 —
+Repayments on credit facility — (95,000) —
+Repayment of acquired debt — (7,569) (4,065)
+Excess tax beneﬁt from stock-based compensation 16,049 5,873 6,132
+Stock repurchases, net (28,689) (755,704) (1,640,885)
+Cash paid for tax withholding on vested stock awards (66,638) (46,336) (33,672)
+Net cash used in ﬁnancing activities : (38,031) (691,451) (292,668)
+Effect of exchange rate changes on cash and cash equivalents (5,157) (10,313) (4,447)
+Change in cash and cash equivalents : 588,438 7 7 108,369 7 7 (20,591)
+Cash and cash equivalents at beginning of period 368,518 260,149 280,740
+Cash and cash equivalents at end of period :8 956,956 7 7$ 368,518 7 7$ 260,149 7
+Supplemental Cash Flow Information if i i i i :
+Cash paid for income taxes 78 64,361 7 7$ 45,827 7 7 $ 130,502 7
+Cash paid for interest SS 7,847 : 77$ 8,215 : : $ 5,027 :
+See accompanying notes.
+F-7

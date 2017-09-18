@@ -1,0 +1,44 @@
+Increasing revenue by promoting a range of services to help our customers derive additional value
+We seek to increase revenue by providing additional consulting and other targeted services. We also enable
+our partners to provide services that promote growth in our subscription revenue. These services are designed to
+help customers derive additional value from Red Hat offerings.
+Expanding routes to market
+We intend to continue to grow our direct sales channel as well as our CCSPs, distributors, embedded
+technology partners, IHVs, ISVs, OEMs, VARs and other channel partner networks on a global basis. In
+addition, we are enhancing our relationships with SIS in order to expand our reach to customers that traditionally
+rely on SIS for advice and recommendations regarding their technology purchases.
+Growing our presence in international markets
+We have operations in a number of countries in the Americas, EMEA and Asia Pacific, with more than 85
+locations worldwide. We expect to continue to expand our operations geographically when appropriate. See
+NOTE 20—Segment Reporting to our Consolidated Financial Statements for a discussion of our revenue by
+geographic area.
+PRODUCTS AND SERVICES
+Red Hat’s software offerings are designed to provide customers with high-performing, scalable, ﬂexible,
+reliable and secure technologies that meet customers’ IT needs, both on-premise (i.e., running on computers
+located within a customer’s data center or in a private cloud) and in a public cloud. Through our offerings, our
+customers and partners are able to take advantage of the quality and value of open source software that we help
+to develop, aggregate, integrate, test, certify, deliver, maintain, enhance and support. Customers can also take
+advantage of the ﬂexibility of our software offerings to build a variety of deployment models on which to run
+their applications, including in the legacy data centers and emerging technology ecosystems. Our service
+offerings include consulting, support and training.
+Infrastructure-related offerings
+Red Hat Enterprise Linux technologies. Red Hat Enterprise Linux is an operating system built with open
+source software components, including the Linux kernel, and is designed expressly for enterprise computing to
+run on a broad range of hardware in physical, Virtual, container and cloud environments. An operating system is
+the software that allows a computer and its various hardware and software components to interact. A worldwide
+community of developers collaborates to improve Linux software components, and we believe we are able to
+integrate the best of those improvements into our stable, yet innovative and high-performing Red Hat Enterprise
+Linux platform. Moreover, Red Hat Enterprise Linux enjoys the support of major CCSPs, IHVs, ISVs, OEMs
+and other technology partners, increasing the interest of developers in adding further enhancements to the Linux
+kernel and other open source software components.
+Red Hat Enterprise Linux delivers features required for enterprise deployments, including support for a wide
+range of ISV applications from vendors, such as BMC, CA, EMC, HPE, IBM, Microsoft, Oracle, SAP, SAS,
+Symantec and VMware; certification on multiple architectures and leading OEM platforms, including platforms
+offered by Cisco, Dell, Fujitsu, HPE, Hitachi, IBM, Lenovo and NEC; and comprehensive technical support, with
+up to 24x7, one-hour response, available from both Red Hat and selected OEM partners.
+Red Hat Enterprise Linux is also available in multiple variants that allow customers to obtain a version of
+Red Had Enterprise Linux specifically for their use cases, applications, and hardware architectures. Variant
+options include Red Hat Enterprise Linux Atomic Host, designed to run applications with Linux containers, Red
+Hat Enterprise Linux for High-Performance Computing, Red Hat Enterprise Linux for IBM 2 Systems, and Red
+Hat Enterprise Linux for SAP Applications.
+10

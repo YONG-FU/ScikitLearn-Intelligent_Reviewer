@@ -1,0 +1,40 @@
+Table of Contents
+the debt issuance costs as a deferred charge on the balance sheet. The new guidance is effective for ﬁscal years and interim periods within those years beginning
+after December 15, 2015, with early adoption permitted. Management elected to early adopt this new guidance effective for the ﬁrst quarter of fiscal year 2016,
+and has applied the changes retrospectively to all periods presented. Adoption of this ASU did not materially impact the Company's consolidated net income,
+ﬁnancial position or cash ﬂows.
+In November 2015, F ASB issued ASU 2015-17, Income Taxes (Topic 740): Balance Sheet Classiﬁcation of Deferred Taxes . This ASU requires the presentation
+of all deferred tax assets and liabilities as non-current in the consolidated balance sheet. The new guidance is effective for fiscal years and interim periods within
+those years beginning after December 15, 2016, with early adoption permitted. Management elected to early adopt this new guidance effective for the fourth
+quarter of fiscal year 2016 in order to simplify the global close processes. The Company will apply the changes prospectively. Prior periods were not
+retrospectively adjusted to reﬂect the adoption of this ASU. Adoption of this ASU did not materially impact the Company's consolidated ﬁnancial position, and
+had no impact on the Company's net income or cash ﬂows.
+In February 2016, FASB issued ASU 2016-02, Leases (Topic 842) . FASB issued ASU 2016-02 to increase transparency and comparability among organizations
+by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. Certain qualitative and quantitative
+disclosures are required, as well as a retrospective recognition and measurement of impacted leases. The new guidance is effective for ﬁscal years and interim
+periods within those years beginning after December 15, 2018, with early adoption permitted. Management is currently evaluating this standard.
+In March 2016, FASB issued ASU 2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue
+Gross versus Net) . The amendments are intended to improve the operability and understandability of the implementation guidance on principal versus agent
+considerations. The effective date for this ASU is the same as the effective date for ASU 2014-09. Management is currently evaluating this standard.
+Note 2. Net Income Per Common Share
+Basic income per common share from continuing operations attributable to Walmart is based on the weighted-average common shares outstanding during the
+relevant period. Diluted income per common share from continuing operations attributable to Walmart is based on the weighted-average common shares
+outstanding during the relevant period adjusted for the dilutive effect of share-based awards. The Company did not have significant share-based awards outstanding
+that were antidilutive and not included in the calculation of diluted income per common share from continuing operations attributable to Walmart for ﬁscal 2016 ,
+2015 and 2014.
+The following table provides a reconciliation of the numerators and denominators used to determine basic and diluted income per common share from continuing
+operations attributable to Walmart:
+Fiscal Years Ended January 31,
+(Amounts in millions, exceﬂ per share data) 2016 _ 2015 _ 2014
+’Numerator ‘
+Income from continuing operations $ 15,080 $ 16,814 $ 16,551
+I Income from continuing operations attributable to noncontrolling interest (386) (632) (633) ‘
+Income from continuing operations attributable to Walmart $ 14,694 $ 16,182 $ 15,918
+Denominator
+I Weighted-average common shares outstanding, basic 3,207 3,230 3,269 ‘
+Dilutive impact of stock options and other share-based awards 10 13 14
+I Weighted-average common shares outstanding, diluted 3,217 3,243 3,283 l
+’Income per common share from continuing operations attributable to Walmart ‘
+Basic $ 4.58 $ 5.01 $ 4.87
+l Diluted 4.57 4.99 4.35 l
+36

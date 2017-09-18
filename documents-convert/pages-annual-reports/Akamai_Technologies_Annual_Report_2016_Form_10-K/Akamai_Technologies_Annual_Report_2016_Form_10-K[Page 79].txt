@@ -1,0 +1,46 @@
+Restricted Stock Units
+The following table summarizes the different types of restricted stock units ("RSUS") granted by the Company during the
+year ended December 31, 2016 (in thousands):
+December 31,
+7 2016 7
+IRSUS with service-based vesting conditions 7 3,873 7
+RSUS with market-based vesting conditions 127
+IRSUS with performance-based vesting conditions 116 I
+Total 7 4,116 7
+RSUs represent the right to receive one share of the Company’s common stock upon vesting. RSUs are granted at the
+discretion of the Board of Directors, a committee thereof or, subject to defined limitations, the Chief Executive Officer of the
+Company, acting as a committee of one director, to whom such authority has been delegated. The Company has issued RSUs
+that vest based on the passage of time assuming continued service with the Company, RSUS that vest only upon the
+achievement of defined performance metrics tied primarily to revenue and income targets and other key financial performance
+indicators and RSUs that vest based upon total shareholder return ("TSR") measured against the benchmark TSR of a peer
+group.
+For RSUs with service-based vesting conditions, the fair value is calculated based upon the Company’s closing stock price
+on the date of grant, and the stock-based compensation expense is being recognized over the vesting period. Most RSUs with
+service-based vesting provisions vest in installments over a three- or four-year period following the grant date.
+Beginning in the first quarter of 20 16, the Company granted RSUs with market-based vesting conditions to certain of its
+executive officers. The Company uses the Monte Carlo simulation model to determine the fair value of the Company’s RSUs
+based on TSR. This model requires the input of assumptions, including the estimated term of each award, the risk-free interest
+rate, historical stock price volatility of the Company's shares and historical stock price volatility of peer-company shares. The
+grant-date fair values of the Company's RSUS with market-based vesting conditions granted during the year ended December
+31, 2016 were estimated using a Monte Carlo simulation model with the following assumptions:
+20 l 6
+Expected term (in years) 7 3.0 7
+Risk-free interest rate 0. 8%-
+'Akamai historical share price volatility 34.3%-
+Average volatility of peer-company share price 276%-
+For the years ended December 31, 2016, 2015 and 2014, management measured compensation expense for performance-
+based RSUs based upon a review of the Company’s expected achievement against specified financial performance targets. Such
+compensation cost is being recorded using a graded-vesting method for each series of grants of performance-based RSUs, to
+the extent management has deemed that such awards are probable of vesting based upon the expected achievement against the
+specified targets. On a periodic basis, management reviews the Company’s expected performance and adjusts the compensation
+cost, if needed, at such time.
+The following table summarizes the RSU activity for the year ended December 31, 2016:
+Weighted
+Units Average Grant
+7 (in thousands) 7 7Date Fair Value
+Outstanding at January 1, 2016 7 4,495 7 7$ 62.20 7
+' Granted 4,116 56.40 '
+' Vested (2,374) 59.13 '
+Forfeited (527) 59.68
+Outstanding at December 31, 2016 5,710 735 59.51
+77

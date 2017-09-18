@@ -1,0 +1,48 @@
+customer contracts (ii) the acquired company's brand and competitive position, as well as assumptions about the period of time
+that the acquired brand will continue to be used in the combined company's product portfolio, and (iii) discount rates. Upon the
+conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever
+comes first, any subsequent adjustments would be recorded to our consolidated statements of operations.
+For a given acquisition, we generally identify certain pre—acquisition contingencies as of the acquisition date and may
+extend our review and evaluation of these pre-acquisition contingencies throughout the measurement period in order to obtain
+sufficient information to assess whether we include these contingencies as a part of the purchase price allocation and, if so, to
+determine the estimated amounts.
+If we determine that a pre—acquisition contingency (non-income tax related) is probable in nature and estimable as of the
+acquisition date, we record our best estimate for such a contingency as a part of the preliminary purchase price allocation. We
+often continue to gather information and evaluate our pre—acquisition contingencies throughout the measurement period and if
+we make changes to the amounts recorded or if we identify additional pre-acquisition contingencies during the measurement
+period, such amounts will be included in the purchase price allocation during the measurement period and, subsequently, in our
+results of operations.
+Uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are
+initially estimated as of the acquisition date. We review these items during the measurement period as we continue to actively
+seek and collect information relating to facts and circumstances that existed at the acquisition date. Changes to these uncertain
+tax positions and tax related valuation allowances made subsequent to the measurement period, or if they relate to facts and
+circumstances that did not exist at the acquisition date, are recorded in our provision for income taxes in our Consolidated
+Statements of Income.
+Goodwill
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and
+intangible assets acquired. The carrying amount of goodwill is periodically reviewed for impairment (at a minimum annually)
+and whenever events or changes in circumstances indicate that the carrying value of this asset may not be recoverable.
+Our operations are analyzed by management and our chief operating decision maker (CODM) as being part of a single
+industry segment: the design, development, marketing and sales of Enterprise Information Management software and solutions.
+Therefore, our goodwill impairment assessment is based on the allocation of goodwill to a single reporting unit.
+We perform a qualitative assessment to test our reporting unit's goodwill for impairment. Based on our qualitative
+assessment, if we determine that the fair value of our reporting unit is more likely than not (i.e., a likelihood of more than 50
+percent) to be less than its carrying amount, the two step impairment test is performed. In the first step, we compare the fair
+value of our reporting unit to its carrying value. If the fair value of the reporting unit exceeds its carrying value, goodwill is not
+considered impaired and we are not required to perform further testing. If the carrying value of the net assets of our reporting
+unit exceeds its fair value, then we must perform the second step of the two step impairment test in order to determine the
+implied fair value of our reporting unit's goodwill. If the carrying value our reporting unit's goodwill exceeds its implied fair
+value, then an impairment loss equal to the difference would be recorded.
+Our annual impairment analysis of goodwill was performed as of April 1, 2016. Our qualitative assessment indicated that
+there were no indications of impairment and therefore there was no impairment of goodwill required to be recorded for Fiscal
+2016 (no impairments were recorded for Fiscal 2015 and Fiscal 2014).
+Derivative ﬁnancial instruments
+We use derivative financial instruments to manage foreign currency rate risk. We account for these instruments in
+accordance with ASC Topic 815, “Derivatives and Hedging” (Topic 815), which requires that every derivative instrument be
+recorded on the balance sheet as either an asset or liability measured at its fair value as of the reporting date. Topic 815 also
+requires that changes in our derivative financial instruments' fair values be recognized in earnings; unless specific hedge
+accounting and documentation criteria are met (i.e. the instruments are accounted for as hedges). We recorded the eﬁective
+portions of the gain or loss on derivative financial instruments that were designated as cash ﬂow hedges in accumulated other
+comprehensive income, net of tax, in our accompanying Consolidated Balance Sheets. Any ineffective or excluded portion of a
+designated cash ﬂow hedge, if applicable, was recognized in our Consolidated Statements of Income.
+1 18

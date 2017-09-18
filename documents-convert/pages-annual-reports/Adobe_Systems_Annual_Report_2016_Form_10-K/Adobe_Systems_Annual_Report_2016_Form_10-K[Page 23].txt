@@ -1,0 +1,57 @@
+Table of Contents
+applications that we develop or procure from third parties may contain defects in design or manufacture, including bugs and other
+problems that could unexpectedly compromise the security of the system or impair a customer’s ability to operate or use our
+products. The costs to prevent, eliminate or alleviate cyber— or other security problems, bugs, viruses, worms, malicious software
+programs and security vulnerabilities are significant, and our efforts to address these problems may not be successful or may be
+delayed and could result in interruptions, delays, cessation of service and loss of existing or potential customers. It is impossible
+to predict the extent, frequency or impact these problems may have on us.
+Outside parties have in the past and may in the future attempt to fraudulently induce our employees or users of our products
+or services to disclose sensitive information via illegal electronic spamming, phishing or other tactics. Unauthorized parties may
+also attempt to gain physical access to our facilities in order to infiltrate our information systems. These actual and potential
+breaches of our security measures and the accidental loss, inadvertent disclosure or unauthorized dissemination of proprietary
+information or sensitive, personal or confidential data about us, our employees, our customers or their end users, including the
+potential loss or disclosure of such information or data as a result of hacking, fraud, trickery or other forms of deception, could
+expose us, our employees, our customers or the individuals affected to a risk of loss or misuse of this information. This may result
+in litigation and liability or fines, governmental inquiry or oversight or a loss of customer confidence, any of which could harm
+our business or damage our brand and reputation, possibly impeding our present and future success in retaining and attracting new
+customers and thereby requiring time and resources to repair our brand and reputation.
+These problems affect our products and services in particular because cyber—attackers tend to focus their eﬁorts on popular
+offerings with a large user base, and we expect them to continue to do so. Critical vulnerabilities may be identified in certain of
+our applications. These vulnerabilities could cause such applications to crash and could allow an attacker to take control of the
+affected system, which could result in liability to us or limit our ability to conduct our business and deliver our products and
+services to customers. We devote significant resources to address security vulnerabilities through engineering more secure products,
+enhancing security and reliability features in our products and systems, code hardening, conducting rigorous penetration tests,
+deploying updates to address security vulnerabilities and improving our incident response time, but these security vulnerabilities
+cannot be totally eliminated. The cost of these steps could reduce our operating margins, and we may be unable to implement these
+measures quickly enough to prevent cyber—attackers from gaining unauthorized access into our systems and products. Despite our
+preventative efforts, actual or perceived security vulnerabilities in our products and systems may harm our reputation or lead to
+claims against us (and have in the past led to such claims), and could lead some customers to stop using certain products or services,
+to reduce or delay future purchases of products or services, or to use competing products or services. If we do not make the
+appropriate level of investment in our technology systems or if our systems become out-of-date or obsolete and we are not able
+to deliver the quality of data security customers require, our business could be adversely affected. Customers may also adopt
+security measures designed to protect their existing computer systems from attack, which could delay adoption ofnew technologies.
+Further, if we or our customers are subject to a future attack, or our technology is used in a third-party attack, it may be necessary
+for us to take additional extraordinary measures and make additional expenditures to take appropriate responsive and preventative
+steps. Any of these events could adversely affect our revenue or margins. Moreover, delayed sales, lower margins or lost customers
+resulting from disruptions caused by cyber—attacks or preventative measures could adversely aﬁect our financial results, stock
+price and reputation.
+Some of our lines of business rely on us or our third-party service providers to host and deliver services and data, and any
+interruptions or delays in these hosted services, security or privacy breaches, or failures in data collection could expose us to
+liability and harm our business and reputation.
+Some of our lines of business and services, including our online store at adobe.com, Creative Cloud, Document Cloud,
+other hosted Digital Media offerings and our Adobe Marketing Cloud solutions, rely on hardware and services hosted and controlled
+directly by us or by our third-party service providers. We do not have redundancy for all of our systems, many of our critical
+applications reside in only one of our data centers, and our disaster recovery planning may not account for all eventualities. If our
+business relationship with a third-party provider of hosting or content delivery services is negatively affected, or if one of our
+content delivery suppliers were to terminate its agreement with us, we might not be able to deliver the corresponding hosted
+offerings to our customers, which could subject us to reputational harm and cause us to lose customers and future business, thereby
+reducing our revenue.
+We hold large amounts of customer data, some of which is hosted in third-party facilities. A security incident at those
+facilities or ours may compromise the confidentiality, integrity or availability of customer data. Unauthorized access to customer
+data stored on our computers or networks may be obtained through break-ins, breaches of our secure network by an unauthorized
+party, employee theft or misuse or other misconduct. It is also possible that unauthorized access to customer data may be obtained
+through inadequate use of security controls by customers. Accounts created with weak passwords could allow cyber—attackers to
+gain access to customer data. Additionally, failure by customers to remove accounts of their own employees, or the granting of
+accounts by the customer in an uncontrolled manner, may allow for access by former or unauthorized customer representatives.
+If there were an inadvertent disclosure of customer information, or if a third party were to gain unauthorized access to the information
+23

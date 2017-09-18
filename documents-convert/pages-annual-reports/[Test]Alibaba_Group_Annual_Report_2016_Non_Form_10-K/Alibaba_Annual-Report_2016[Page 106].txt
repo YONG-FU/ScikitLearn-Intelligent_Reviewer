@@ -1,0 +1,47 @@
+provide technical interfaces and technical assistance in decryption and other efforts to public and national security
+authorities in terrorism prevention and investigation. Also, the Anti-Terrorism Law requires Internet service
+providers to implement network security and information and content monitoring systems and adopt technical
+security measures to prevent the dissemination of information containing terrorist or extremist content. Once such
+content is detected, Internet service providers shall cease the transmission of the information, keep the relevant
+records, delete the information and report to public and national security bodies. In addition, the Anti-Terrorism
+Law requires telecommunication business operators and Internet service providers to verify the identity of their
+clients, and to not provide services to anyone whose identity is unclear or who declines to verify his/her identity.
+However, the Anti-Terrorism Law does not further specify the required verification measures. Since the
+Anti-Terrorism Law was promulgated recently, there exist substantial uncertainties with respect to its interpretation
+and implementation by governmental authorities.
+Regulation Applicable to Alipay
+Regulation of Non-ﬁnancial Institution Payment Services
+According to the Administrative Measures for the Payment Services Provided by Non-financial Institutions, or
+the Payment Services Measures, promulgated by the PBOC on June 14, 2010 and effective as of September 1,
+2010, a payment institution, a non-financial institution providing monetary transfer services as an intermediary
+between payees and payers, including online payment, issuance and acceptance of prepaid cards or bank cards, and
+other payment services specified by the PBOC, is required to obtain a payment business license. Any non —
+financial institution or individual engaged in the payment business without such license may be ordered to cease
+its payment services and be subject to administrative sanctions and even criminal liabilities. Applications for
+payment business licenses are examined by the local branches of the PBOC and then submitted to the PBOC for
+approval. The registered capital of an applicant that engages in a nationwide payment business must be at least
+RMB100 million, while that of an applicant engaging in a payment business within a province must be at least
+RMB30 million.
+A payment institution is required to conduct its business within the scope of business indicated in its payment
+business license, and may not undertake any business beyond that scope or outsource its payment business. No
+payment institution may transfer, lease or lend its payment business license.
+On January 20, 2015, the SAFE promulgated the Guiding Opinions on the Pilot Services of Cross-Border
+Foreign Exchange Payment by Payment Institutions, or the Guiding Opinions, which replaced the previous guiding
+opinion issued by SAFE on February 1, 2013. Pursuant to the Guiding Opinions, a payment institution is required
+to obtain approval from the SAFE in order to engage in pilot cross-border foreign exchange payment services and
+may only provide cross-border foreign exchange payment services for trade in goods or trade in services with real
+and legitimate transaction background. The payment institution must also verify the real names and identity
+information of the customers involved in the cross-border transactions, maintain records of the relevant
+transactions and make monthly reports to the local branch of the SAFE.
+In addition, on December 28, 2015, the PBOC promulgated the Administrative Measures for the Online
+Payment Business of Non-bank Payment Institutions, or the Online Payment Measures, which will come into effect
+on July 1, 2016. The Online Payment Measures classify online payment accounts into three categories and require
+online payment institutions to impose classified management based on the real name system with respect to
+different categories of online payment accounts. The Online Payment Measures require online payment institutions
+to conduct “know your client” checks and implement the real name system for payment accounts. In addition, a
+payment account can only be opened by a payment institution with Internet payment business license at the
+request of customers.
+We rely on Alipay to provide payment services on our marketplaces and Alipay has obtained a payment
+business license from the PBOC as well as approval for cross-border foreign exchange payment services from
+the SAFE.
+101

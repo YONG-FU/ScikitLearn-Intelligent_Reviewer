@@ -1,0 +1,38 @@
+Table,of,C,ontents
+technologies that add to, are complementary to, or have otherwise enhanced our existing offerings. We expect to continue to acquire companies, products, services
+and technologies to further our corporate strategy.
+We have three businesses that deliver our application, platform and infrastructure technologies: cloud and on-premise software, hardware and services. These
+businesses can be further divided into certain operating segments (Note 16 of Notes to Consolidated Financial Statements, included elsewhere in this Annual
+Report, provides additional information related to our operating segments). Each of our businesses and operating segments has unique characteristics and faces
+different opportunities and challenges. Although we report our actual results in US. Dollars, we conduct a significant number of transactions in currencies other
+than US. Dollars. Therefore, we present constant currency information to provide a framework for assessing how our underlying businesses performed excluding
+the effects of foreign currency rate ﬂuctuations. An overview of our three businesses and related operating segments follows.
+Cloudﬂn(LQnJZremisaSQfMateﬁusiness
+Our cloud and on-premise software business, which represented 78%, 77% and 76% of our total revenues in ﬁscal 2016, 2015 and 2014, respectively, is comprised
+of three operating segments: (1) cloud software and on-premise software, (2) cloud IaaS and (3) software license updates and product support. On a constant
+currency basis, we expect that our cloud and on-premise software business’ total revenues generally will continue to increase due to continued demand for our
+software products, expected growth in our cloud and software license updates and product support offerings, including the high percentage of customers that renew
+their software license updates and product support contracts, and contributions from our acquisitions, which should allow us to grow and continue to make
+investments in research and development.
+Cloud Software and 0n-Premise Software: Our cloud software and on-premise software line of business markets, sells and delivers a broad spectrum of
+application and platform technologies through our SaaS and PaaS offerings, which are certain of our software applications and platforms that are delivered via a
+cloud-based IT environment that we host, manage and support, and through the licensing of our software products including Oracle Applications, Oracle Database,
+Oracle Fusion Middleware and Java, among others.
+We believe the comprehensiveness and breadth of our SaaS, PaaS and on-premise software offerings provides greater benefit to our customers and differentiates us
+from many of our competitors that offer more limited or specialized software offerings. Our SaaS and PaaS offerings are designed to be interoperable with one
+another, thereby limiting the integration and tuning of multiple cloud applications from multiple vendors. Our SaaS and PaaS offerings are designed to deliver
+secure data isolation and ﬂexible upgrades, self-service access controls for users, a Service-Oriented Architecture (SOA) for integration with on-premise systems,
+and a high performance, high availability infrastructure based on our infrastructure technologies including Oracle Engineered Systems. Our on-premise software
+offerings are substantially designed to Operate on both single server and clustered server configurations for cloud or on-premise IT environments, and to support a
+choice of operating systems including Oracle Solaris, Oracle Linux, Microsoft Windows and third-party UNIX products, among others. Our commitment to
+industry standards results in software offerings that work in customer environments with Oracle or non-Oracle hardware or software components and that can be
+adapted to meet specific industry or business needs. We focus the engineering of our products and services to best connect cloud and on-premise deployment
+models to enable ﬂexibility, ease, agility, compatibility, extensibility and seamlessness. All of these approaches are designed to support customer choice and reduce
+customer risk. Our customers include businesses of many sizes, government agencies, educational institutions and resellers. We market and sell our software
+offerings to these customers with a sales force positioned to offer the combinations that best fit customer needs. We enable customers to evolve and transform to
+substantially any IT environment at whatever pace is most appropriate for them.
+Our SaaS and PaaS revenues and new software licenses revenues are affected by the strength of general economic and business conditions, governmental budgetary
+constraints, the strategy for and competitive position of our software offerings, our acquisitions, our ability to deliver and renew our SaaS and PaaS contracts with
+our existing customers and foreign currency rate ﬂuctuations. In recent periods, we have placed signiﬁcant strategic emphasis on growing our cloud SaaS and PaaS
+revenues, which has affected the growth of our cloud SaaS and
+41

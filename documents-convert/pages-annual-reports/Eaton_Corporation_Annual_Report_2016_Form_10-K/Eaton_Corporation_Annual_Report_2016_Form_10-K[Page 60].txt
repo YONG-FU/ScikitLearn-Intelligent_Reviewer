@@ -1,0 +1,45 @@
+Note 13. DERIVATIVE FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES
+In the normal course of business, Eaton is exposed to certain risks related to ﬂuctuations in interest rates, currency
+exchange rates and commodity prices. The Company uses various derivative and non-derivative ﬁnancial instruments,
+primarily interest rate swaps, currency forward exchange contracts, currency swaps and, to a lesser extent, commodity
+contracts, to manage risks from these market ﬂuctuations. The instruments used by Eaton are straightforward, non-leveraged
+instruments. The counterparties to these instruments are ﬁnancial institutions with strong credit ratings. Eaton maintains control
+over the size of positions entered into with any one counterparty and regularly monitors the credit rating of these institutions.
+Such instruments are not purchased and sold for trading purposes.
+Derivative ﬁnancial instruments are accounted for at fair value and recognized as assets or liabilities in the Consolidated
+Balance Sheets. Accounting for the gain or loss resulting from the change in the fair value of the derivative ﬁnancial instrument
+depends on whether it has been designated, and is effective, as part of a hedging relationship and, if so, as to the nature of the
+hedging activity. Eaton formally documents all relationships between derivative ﬁnancial instruments accounted for as
+designated hedges and the hedged item, as well as its risk-management objective and strategy for undertaking the hedge
+transaction. This process includes linking derivative ﬁnancial instruments to a recognized asset or liability, speciﬁc ﬁrm
+commitment, forecasted transaction, or net investment in a foreign operation. These ﬁnancial instruments can be designated as:
+° Hedges of the change in the fair value of a recognized ﬁxed-rate asset or liability, or the ﬁrm commitment to acquire
+such an asset or liability (a fair value hedge); for these hedges, the gain or loss from the derivative ﬁnancial
+instrument, as well as the offsetting loss or gain on the hedged item attributable to the hedged risk, are recognized in
+income during the period of change in fair value.
+0 Hedges of the variable cash ﬂows of a recognized variable-rate asset or liability, or the forecasted acquisition of such
+an asset or liability (a cash ﬂow hedge); for these hedges, the effective portion of the gain or loss from the derivative
+ﬁnancial instrument is recognized in Accumulated other comprehensive loss and reclassiﬁed to income in the same
+period when the gain or loss on the hedged item is included in income.
+° Hedges of the currency exposure related to a net investment in a foreign operation (a net investment hedge); for these
+hedges, the effective portion of the gain or loss from the derivative ﬁnancial instrument is recognized in Accumulated
+other comprehensive loss and reclassiﬁed to income in the same period when the gain or loss related to the net
+investment in the foreign operation is included in income.
+The gain or loss from a derivative ﬁnancial instrument designated as a hedge that is effective is classiﬁed in the same line
+of the Consolidated Statements of Income as the offsetting loss or gain on the hedged item. The change in fair value of a
+derivative ﬁnancial instrument that is not effective as a hedge is immediately recognized in income.
+For derivatives that are not designated as a hedge, any gain or loss is immediately recognized in income. The majority of
+derivatives used in this manner relate to risks resulting from assets or liabilities denominated in a foreign currency and certain
+commodity contracts that arise in the normal course of business. During 2016, Eaton recognized a gain of $7 associated with
+these commodity hedge contracts. Gains and losses associated with commodity hedge contracts are classiﬁed in Cost of
+products sold.
+Eaton uses certain of its debt denominated in foreign currency to hedge portions of its net investments in foreign operations
+against foreign currency exposure (net investment hedges). Foreign currency denominated debt designated as non-derivative
+net investment hedging instruments on an after-tax basis was $86 and $83 at December 31, 2016 and 2015, respectively, and
+designated on a pre-tax basis was $572 at December 31, 2016. See Note 6 for additional information about debt.
+Interest Rate Risk
+Eaton has entered into ﬁxed-to-ﬂoating interest rate swaps to manage interest rate risk of certain long-term debt. These
+interest rate swaps are accounted for as fair value hedges of certain long-term debt. The maturity of the swap corresponds with
+the maturity of the debt instrument as noted in the table of long-term debt in Note 6. Eaton has also entered into several forward
+starting ﬂoating-to-ﬁxed interest rate swaps to manage interest rate risk on an anticipated debt reﬁnancing in 2017.
+53

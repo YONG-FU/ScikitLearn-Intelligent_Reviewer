@@ -1,0 +1,34 @@
+Table,0f,C,ontents
+The fair value of option grants, including assumed options from acquisitions, is determined using the Black—Scholes option pricing model with the following
+weighted average assumptions:
+Stock Options Purchase Plan (5)
+Years Ended December 31, Year Ended December 31,,
+2014 2015 2014
+Expected dividend yﬂd (1) 034, 0_% 034: l
+Risk—free inteﬁestirate (2) 1.4% 0;9_% 034:
+Qpected volatility (3) 3i5_% 3i5_% 3_6;8_% l
+gpected life (inyears) (4) 3.83 2.50 0.25
+(1) The Company currently has no history or expectation of paying cash dividends on its common stock in the near future.
+(2) The risk-free interest rate is based on the U.S. Treasury yield for a term consistent with the expected term of the awards in effect at the time of grant.
+(3) The Company estimates the volatility of its common stock at the date of grant based on the implied volatility of publicly traded options on its common
+stock, with a term of one year or greater.
+(4) The expected life of stock options granted under the Plans is based on historical exercise patterns, which the Company believes are representative of
+future behavior. New grants issued by the Company had an expected life of 4 years in 2014. In 2015 and 2016, the Company did not issue new stock
+options. Options assumed in acquisitions had expected lives of less than 3 years.
+(5) During the first quarter of 2015, the Company discontinued the offering of the Employee Stock Purchase Plan to its employees.
+Restricted Stock and Restricted Stock Units . Restricted stock and restricted stock unit activity under the Plans for the year ended December 31, 2016 is
+summarized as follows (in thousands, except per share amounts):
+Weighted Average
+Grant Date Fair Value
+Shares Per Share
+[Awarded and unvested at December 31, 2015(1) 233,139 $ 39; 5 l
+granted (2) 14,3_9_3 $ 3i54
+.Vested (14.92) $ 32.4.9 I
+Canceled/Forfeited if 7 ﬁ fr :(767375757) 3 3,5;83
+TAwarded and unvested at December 31, 2016(1) : 22,250 s 41.40: I
+(1) Includes the maximum number of shares issuable under the Company’s performance-based restricted stock unit awards (including future-year tranches
+for which performance goals had not been set) as of the date shown.
+(2) Includes the maximum number of shares issuable under the performance-based restricted stock unit awards granted during the year ended
+December 31, 2016 (including future-year tranches for which performance goals had not been set during the period); excludes tranches of previously
+granted performance-based restricted stock units for which performance goals were set during the year ended December 31, 2016.
+154

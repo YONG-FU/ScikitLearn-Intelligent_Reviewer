@@ -1,0 +1,42 @@
+Under the terms of the 2012 Incentive Plan adopted by the Company’s Board of Directors on April 13, 2012 (the “2012 Plan”), 2,700,000 shares are
+available for issuance, plus a number of additional shares (not to exceed 1,327,000) underlying options outstanding under certain of the Company’s prior
+equity plans that thereafter terminate or expire unexercised, or are cancelled, forfeited, or lapse for any reason. Our shareholders approved an Amended and
+Restated 2012 Incentive Plan during our annual meeting held June 24, 2015, increasing the number of shares available for grant by 3,600,000. Awards issued
+under the 2012 Plan typically vest pro-rata and quarterly over four years.
+Accounting Treatment
+We use the straight-line amortization method for recognizing stock option compensation costs. Our share-based awards include (i) stock options, (ii)
+restricted stock awards, some of which are subject to time-based vesting (“Restricted Stock”) and some of which are subject to performance-based vesting
+(“Performance Stock”), and (iii) restricted stock units, some of which are subject to time-based vesting (“RSUs”) and some of which are subject to
+performance-based vesting (“Performance RSUs”).
+For the twelve months ended December 31, 2016, 2015, and 2014, respectively, the total stock-based compensation expense resulting from stock
+options, Restricted Stock, RSUs, Performance RSUs, and Performance Stock was recorded to the following line items of our consolidated statements of
+income:
+Year Ended December 31,
+(In thousands) 2016 _ 2015 _ 2014
+[Co st ofrevenue $ 17376 $ 1372 $ ligioj
+Research and development expenses 246 242 237
+Selling,g9316:2113nﬁdnﬁnistratixeﬁxmuses 1,351 _ 1,749 _ 1,2641
+Stock-based compensation expense $ 1,783 $ 2,173 $ 1,681
+Our 2016 stock-based compensation expense includes $280 thousand related to the accelerated vesting of awards related to our CFO transition. Our
+2015 stock-based compensation expense includes $540 thousand related to the accelerated vesting of awards related to our CEO transition. A deferred tax
+asset of $5 06 thousand, $625 thousand, and $462 thousand, resulting from stock-based compensation expense associated with awards relating to the
+Company’s U.S. operations, was recorded for the twelve months ended December 31, 2016, 2015, and 2014, respectively. As of December 31, 2016, there was
+$3.3 million oftotal unrecognized stock-based compensation related to non-vested share-based compensation awards granted under the stock option plans.
+This cost is expected to be recognized over a weighted average period of 1.7 years.
+We use the Black-Scholes Option Pricing Model (“BSOPM”) to determine the fair value of option grants. On January 1, 2006, we elected to use the
+“simpliﬁed” method to calculate the estimated life of options granted to employees. The Company continued to use the “simpliﬁed” method for all options
+granted through 2013. The Company elected to use the “historical” method to calculate the estimated life of any options that may be granted beginning
+2014. The expected stock price volatility was calculated by averaging the historical volatility of the Company’s common stock over a term equal to the
+expected life of the options. We granted 373,187 options in 2016. No options were granted in 2014 or 2015.
+The following weighted average assumptions were applied in determining the fair value of options granted during the respective periods:
+Year Ended December 31,
+v 2016 _ 2015 _ 2014
+Risk-free interest rate 1,21% — — l
+Qipected option life (years) 5.3 — —
+Ezipgctqdjtqch pn'cszvplatility 4,41%) — — l
+Qipected dividend yield — — —
+liairxaluequpligns,granted $ Lil — — l
+The assumptions used in the BSOPM valuation are critical as a change in any given factor could have a material impact on the ﬁnancial results of the
+Company. The weighted average grant-date fair value of awards of restricted stock and restricted stock units is based on quoted market price of the
+Company’s common stock on the date of grant.
+F—l 1

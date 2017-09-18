@@ -1,0 +1,22 @@
+“Internal Revenue Code ” means the Internal Revenue Code of 1986, as amended from time to time, and the regulations promulgated and the rulings
+issued thereunder.
+“ Interpolated Historical Screen Rate ” means, at any time, for any Interest Period, the rate per annum (rounded to the same number of decimal places
+as the relevant Historical Screen Rate) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be
+equal to the rate that results from interpolating on a linear basis between: (a) the applicable Historical Screen Rate (for the longest period for which the applicable
+Historical Screen Rate is available for Dollars) that is shorter than the applicable Interest Period and (b) the applicable Historical Screen Rate (for the shortest
+period for which the applicable Historical Screen Rate is available for Dollars) that exceeds the applicable Interest Period.
+“ InterpolatedRate,” means, at any time, for any Interest Period, the rate per annum (rounded to the same number of decimal places as the relevant
+Screen Rate) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be equal to the rate that results
+from interpolating on a linear basis between: (a) the applicable Screen Rate (for the longest period for which the applicable Screen Rate is available for Dollars) that
+is shorter than the applicable Interest Period and (b) the applicable Screen Rate (for the shortest period for which the applicable Screen Rate is available for Dollars)
+that exceeds the applicable Interest Period.
+“ Joint Bookrunners ” means JPMorgan Chase Bank, NA, The Bank of Tokyo-Mitsubishi UF J, Ltd, Credit Suisse Securities (USA) LLC, Goldman
+Sachs Bank USA, HSBC Securities (USA) Inc., Merrill Lynch, Pierce, F enner & Smith Incorporated and Mizuho Bank, Ltd.
+“ Joint Lead Arrangers ” means JPMorgan Chase Bank, NA, The Bank of Tokyo-Mitsubishi UF J, Ltd., Credit Suisse Securities (USA) LLC,
+Goldman Sachs Bank USA, HSBC Securities (USA) Inc., Merrill Lynch, Pierce, F enner & Smith Incorporated and Mizuho Bank, Ltd.
+“ Lenders ” means the Initial Lenders and their respective successors and permitted assignees.
+“ LIBQIRate,” means, with respect to any LIBO Rate Loan for any Interest Period, an interest rate per annum equal to either:
+(a) the Screen Rate as of 11:00 am. (London time) two Business Days before the ﬁrst day of such Interest Period; or
+(b) if the Screen Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest Period shall
+be the Interpolated Rate as of 11:00 am. (London time) two Business Days before the ﬁrst day of such Interest Period; or
+-10-

@@ -1,0 +1,39 @@
+SECTION 302. Denominations and Currencies.
+Unless otherwise provided with respect to any series of Securities as contemplated by Section 301, any Registered Securities of a series shall be issuable in
+denominations of $1,000 and any integral multiple thereof, or the equivalent amounts thereof in the case of Registered Securities denominated in a Foreign
+Currency or currency unit.
+SECTION 303. Execution, Authentication, Delivery and Dating.
+The Securities shall be executed on behalf of the Company by its Chairman of the Board, a Vice Chairman of the Board, or one or more of its Presidents or
+Vice Presidents. The Securities shall be so executed and attested to by its Secretary or any one of its Assistant Secretaries. The signature of any of these ofﬁcers on
+the Securities may be manual or facsimile.
+Securities bearing the manual or facsimile signatures of individuals who were at any time the proper officers of the Company shall bind the Company,
+notwithstanding that such individuals or any of them have ceased to hold such ofﬁces prior to the authentication and delivery of such Securities or did not hold such
+offices at the date of such Securities.
+At any time and from time to time after the execution and delivery of this Indenture, the Company may deliver Securities of any series, executed by the
+Company to the Trustee for the Securities of such series for authentication, together with a Company Order for the authentication and delivery of such Securities,
+and such Trustee, in accordance with the Company Order, shall authenticate and deliver such Securities. If any Security shall be represented by a permanent Global
+Security, then, for purposes of this Section and Section 304, the notation of a beneficial owner’s interest therein upon original issuance of such Security or upon
+exchange of a portion of a temporary Global Security shall be deemed to be delivery in connection with the original issuance of such beneﬁcial owner’s interest in
+such permanent Global Security. If all the Securities of any one series are not to be issued at one time and if a Board Resolution relating to such Securities shall so
+permit, such Company Order may set forth procedures acceptable to the Trustee for the issuance of such Securities, including, without limitation, procedures with
+respect to interest rate, Stated Maturity, date of issuance and date from which interest, if any, shall accrue.
+Notwithstanding any contrary provision herein, if all Securities of a series are not to be originally issued at one time, it shall not be necessary to deliver the
+Board Resolution, Ofﬁcers’ Certiﬁcate and Opinion of Counsel otherwise required pursuant to Sections 102 and 201 at or prior to the time of authentication of each
+Security of such series if such documents are delivered at or prior to the authentication upon original issuance of the first Security of such series to be issued.
+Each Registered Security shall be dated the date of its authentication. No Security shall be entitled to any benefit under this Indenture or be valid or
+obligatory for any purpose unless there appears on such Security a certiﬁcate of authentication substantially in the form provided for herein manually executed by
+the Trustee for such Security or on its behalf pursuant to Section 614, and such certificate upon any Security shall be conclusive evidence, and the only evidence,
+that such Security has been duly authenticated and delivered hereunder.
+Each Depositary designated pursuant to Section 301 for a Global Security in registered form must, at the time of its designation and at all times while it
+serves as Depositary, be a clearing agency registered under the Securities Exchange Act of 1934, as amended, and any other applicable statute or regulation.
+In case any Securities shall have been authenticated, but not delivered, by the Trustee or the Authenticating Agent for such series then in ofﬁce, any
+successor by merger, conversion or consolidation to such Trustee, or any successor Authenticating Agent, as the case may be, may adopt such authentication and
+deliver the Securities so authenticated with the same effect as if such successor Trustee or successor Authentication Agent had itself authenticated such Securities.
+SECTION 304. Temporary Securities and Exchange of Securities.
+Pending the preparation of deﬁnitive Securities of any particular series, the Company may execute, and upon Company Order the Trustee for the Securities of
+such series shall authenticate and deliver, in the manner speciﬁed in Section 303, temporary Securities which are printed, lithographed, typewritten, photocopied or
+otherwise produced, in any denomination, with like terms and conditions as the definitive Securities of like series in lieu of which they are issued in registered form
+and with such appropriate insertions, omissions, substitutions and other variations as the officers executing such Securities may determine, as evidenced by their
+execution of such Securities. Any such temporary Securities may be in global form, representing such of the Outstanding Securities of such series as shall be
+speciﬁed therein.
+14

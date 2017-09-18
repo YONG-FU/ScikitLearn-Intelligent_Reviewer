@@ -1,0 +1,40 @@
+the Termination of Employment not occurred. For purposes of this Section 17.1, a Termination of Employment for Good Reason shall not be
+considered to be for Good Reason unless:
+(a) the Participant has provided the Company with a written notice of his or her intent to terminate employment for Good Reason
+within sixty (60) days of the Participant becoming aware of the circumstances giving rise to Good Reason; and
+(b) the Participant allows the Company thirty (30) days to remedy such circumstances to the extent curable.
+17.2 Assumed Awards Deﬁned. For purposes of this Article 17, an Award shall be considered assumed (“Assumed”) if each of the
+following conditions are met:
+(a) Options and Stock Appreciation Rights are converted into a replacement Award in a manner that complies with Code Section
+409A;
+(b) RSUs and Restricted Stock Awards are converted into a replacement Award covering a number of shares of the entity
+effecting the Change in Control (or a successor or parent corporation), as determined in a manner substantially similar to the
+treatment of an equal number of Shares covered by the Award; provided that to the extent that any portion of the consideration
+received by holders of Shares in the Change in Control transaction is not in the form of the common stock of such entity (or a
+successor or parent corporation), the number of shares covered by the replacement Award shall be based on the average of the
+high and low selling prices of the common stock of such entity (or a successor or parent corporation) on the established stock
+exchange on the trading day immediately preceding the date of the Change in Control;
+(c) the replacement Award contains provisions for scheduled vesting and treatment on Termination of Employment (including
+the definition of Cause and Good Reason) that are no less favorable to the Participant than the underlying Award being replaced,
+and all other terms of the replacement Award (other than the security and number of shares represented by the replacement
+Award) are substantially similar to the underlying Award; and
+(d) the security represented by the replacement Award is of a class that is publicly held and widely traded on an established
+stock exchange; and
+(e) vesting does not depend upon the satisfaction of one or more performance conditions.
+17.3 Awards not Assumed by Successor
+(a) Upon the occurrence of a Change in Control, Awards under the Plan which are not Assumed by the person(s) or entity(s)
+effecting the Change in Control shall become fully vested and exercisable on the date of the Change in Control, any restrictions
+that apply to such Awards shall lapse, and any performance-based Award shall be deemed to be satisfied at the target level.
+Payment with respect to such Awards shall be made as follows:
+(i) For each Option and Stock Appreciation Right, the Participant shall receive a payment equal to the difference
+between the consideration (consisting of cash or other property (including securities of a successor or parent
+corporation)) received by holders of Shares in the Change in Control transaction and the exercise price of the applicable
+Option or Stock Appreciation Right, if such difference is positive. Such payment shall be made in the same form as the
+consideration received by holders of Shares. Any Options or Stock Appreciation Rights with an exercise price that is
+higher than the per share consideration received by holders of Shares in connection with the Change in Control shall be
+cancelled for no additional consideration.
+(ii) For each Share of Restricted Stock, RSU, or Performance Stock Unit, the Participant shall receive the consideration
+(consisting of cash or other prOperty (including securities of a successor or parent corporation)) which such Participant
+would have received in the Change in Control transaction had he or she been, immediately prior to such transaction, a
+holder of the number of Shares equal to the number of Shares covered by the Restricted Stock, RSUs, or Performance
+Stock Units (based on target level performance)

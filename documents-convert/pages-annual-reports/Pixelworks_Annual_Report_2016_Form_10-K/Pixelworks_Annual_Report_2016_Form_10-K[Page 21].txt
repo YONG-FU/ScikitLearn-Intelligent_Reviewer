@@ -1,0 +1,41 @@
+If we are not able to respond to the rapid technological changes and evolving industry standards in the markets in which we compete, or seek to compete,
+our products may become less desirable or obsolete.
+The markets in which we compete or seek to compete are subject to rapid technological change and miniaturization capabilities, frequent new product
+introductions, changing customer requirements for new products and features and evolving industry standards. The introduction of new technologies and
+emergence of new industry standards could render our products less desirable or obsolete, which could harm our business and signiﬁcantly decrease our
+revenue. Examples of changing industry standards include the growing use of broadband to deliver Video content, increased display resolution and size,
+faster screen refresh rates, video capability such as High Dynamic Range, the proliferation of new display devices and the drive to network display devices
+together. Our failure to predict market needs accurately or to timely develop new competitively priced products or product enhancements that incorporate
+new industry standards and technologies, including integrated circuits with increasing levels of integration and new features, using smaller geometry process
+technologies, may harm market acceptance and sales of our products.
+Our products are incorporated into our customers’ products, which have different parts and speciﬁcations and utilize multiple protocols that allow them to be
+compatible with speciﬁc computers, video standards and other devices. If our customers’ products are not compatible with these protocols and standards,
+consumers will return, or not purchase these products and the markets for our customers’ products could be signiﬁcantly reduced. Additionally, if the
+technology used by our customers becomes less competitive due to cost, customer preferences or other factors relative to alternative technologies, sales of our
+products could decline.
+Dependence on a limited number of sole-so urce, third-party manufacturers for our products exposes us to possible shortages based on low manufacturing
+yield, errors in manufacturing, uncontrollable lead-times for manufacturing, capacity allocation, price increases with little notice, volatile inventory levels
+and delays in product delivery, any of which could result in delays in satisfying customer demand, increased costs and loss of revenue.
+We do not own or operate a semiconductor fabrication facility and do not have the resources to manufacture our products internally. We rely on a limited
+number of foundries and assembly and test vendors to produce all of our wafers and for completion of ﬁnished products. Our wafers are not fabricated at more
+than one foundry at any given time and our wafers typically are designed to be fabricated in a speciﬁc process at only one foundry. Sole sourcing each
+product increases our dependence on our suppliers. We have limited control over delivery schedules, quality assurance, manufacturing yields, potential errors
+in manufacturing and production costs. We do not have long-term supply contracts with our third-party manufacturers, so they are not obligated to supply us
+with products for any speciﬁc period of time, quantity or price, except as may be provided in a particular purchase order. Our suppliers can increase the prices
+of the products we purchase from them with little notice, which may cause us to increase the prices to our customers and harm our competitiveness. Because
+our requirements represent only a small portion of the total production capacity of our contract manufacturers, they could reallocate capacity to other
+customers during periods of high demand for our products, as they have done in the past. We expect this may occur again in the future.
+Establishing a relationship with a new contract manufacturer in the event of delays or increased prices would be costly and burdensome. The lead time to
+make such a change would be at least nine months, and the estimated time for us to adapt a product’s design to a particular contract manufacturer’s process is
+at least four months. Additionally, we have chosen, and may continue to choose new foundries to manufacture our wafers which in turn, may require us to
+modify our design methodology ﬂow for the process technology and intellectual property cores of the new foundry. If we have to qualify a new foundry or
+packaging, assembly and testing supplier for any of our products or if we are unable to obtain our products from our contract manufacturers on schedule, at
+costs that are acceptable to us, or at all, we could incur signiﬁcant delays in shipping products, our ability to satisfy customer demand could be harmed, our
+revenue from the sale of products may be lost or delayed and our customer relationships and ability to obtain future design wins could be damaged.
+We use a customer-owned tooling process for manufacturing most of our products, which exposes us to the possibility of poor yields and unacceptably high
+pro duct costs.
+We build most of our products on a customer-owned tooling basis, whereby we directly contract the manufacture of our products, including wafer production,
+assembly and test. As a result, we are subject to increased risks arising from wafer manufacturing yields and risks associated with coordination of the
+manufacturing, assembly and testing process. Poor product yields result in higher product costs, which could make our products less competitive if we
+increase our prices to compensate for our higher costs, or could result in lower gross proﬁt margins if we do not increase our prices.
+21

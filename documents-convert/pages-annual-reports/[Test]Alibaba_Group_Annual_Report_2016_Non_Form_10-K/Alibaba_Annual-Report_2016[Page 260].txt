@@ -1,0 +1,45 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+4. Signiﬁcant equity transactions, restructuring transactions, mergers and acquisitions and equity investments
+(Continued)
+(f) Acquisition of UCWeb Inc. (“UCWeb”)
+In June 2014, the Company exchanged all of the issued and outstanding shares in UCWeb held by the other
+shareholders that the Company did not already own. Prior to this transaction, UCWeb was an equity investee
+which was accounted for under the cost method and was 66% owned by the Company with a carrying amount
+of RMB4,394 million. UCWeb is a developer of leading mobile web browsers in the PRC, India
+and Indonesia.
+The total exchange consideration consisted of 12.3 million restricted shares and RSUs of the Company and
+US$458 million (RMB2,826 million) in cash. Out of the total exchange consideration, 3.4 million restricted
+shares and RSUs which is classified as equity, as well as cash consideration of US$126 million
+(RMB777 million) are settled on a deferred basis. The fair value of restricted shares and RSUs approximate
+US$613 million (RMB3,782 million) as of the acquisition date.
+The allocation of the purchase price at the date of acquisition is summarized as follows:
+Amounts
+(in millions of RMB)
+Net assets acquired (i) 1,159
+Amortizable intangible assets (ii)
+User base and customer relationships 106
+Trade names, trademarks and domain names 591
+Developed technology and patents 561
+Non-compete agreements 1,823
+Goodwill 10,376
+Deferred tax liabilities (21)
+Total 14,595
+Total purchase price comprised of:
+- cash consideration 2,826
+- share-based consideration 3,782
+- fair value of previously held equity interests 7,987
+Total 14,595
+(i) Net assets acquired included noncontrolling interests of RMB220 million that is classified as mezzanine
+equity.
+(ii) Acquired amortizable intangible assets have estimated amortization periods not exceeding four years and
+a weighted-average amortization period of 3.4 years.
+A gain of RMB3,593 million was recognized in relation to the revaluation of previously held equity interest
+relating to the step acquisition of UCWeb in interest and investment income, net in the consolidated income
+statement for the year ended March 31, 2015. The fair value of the previously held equity interest was
+measured using an income approach determined by the Company. As UCWeb is a private company, the fair
+value of the previously held equity interest is estimated based on significant inputs that market participants
+would consider, which mainly include revenue growth rate, operating margin, discount rate and other factors
+that may affect such fair value estimation.
+F-44

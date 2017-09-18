@@ -1,0 +1,48 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Identifiable assets classiﬁed by the Company’s reportable segments are shown below. Long-lived assets consist of
+property and equipment, net, and are shown below.
+December 31,
+2016 2015
+(In thousands)
+Identifiable assets:
+Enterprise and Service Provider $ 5,690,343 $ 4,805,902
+GoTo Business 699,884 661,615
+Total identifiable assets 55 6,390,227 $ 5,467,517
+7 December 31, 7
+7 2016 7 7 2015 7
+7 (In thousands) 7
+Property and equipment, net:
+United States 55 267,305 $ 294,982
+United Kingdom 25,321 28,85 1
+Other countries 51,194 49,984
+Total property and equipment, net 77$ 343,820 7 77$ 373,817 7
+The increases in identiﬁable assets are primarily due to increases in the Company's available for sale investments. See
+Note 4 for additional information regarding the Company’s investments.
+In fiscal years 2016 and 2015, there were no individual customers that accounted for over 10% of the Company's total net
+revenues. In fiscal year 2014, one distributor, Ingram Micro, accounted for 13% of the Company’s total net revenues. The
+Company’s distributor arrangements with Ingram Micro consist of several non-exclusive, independently negotiated agreements
+with its subsidiaries, each of which covers different countries or regions. Each of these agreements is separately negotiated and
+is independent of any other contract (such as a master distribution agreement), one of which was individually responsible for
+over 10% of the Company ’s total net revenues in fiscal year 2014. Total net revenues associated with Ingram Micro are
+included in the Company's Enterprise and Service Provider segment.
+Revenues by product grouping for the Company’s Enterprise and Service Provider and GoTo Business segments were as
+follows for the years ended:
+December 31,
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 (In thousands) 7 7 7
+Net revenues:
+Enterprise and Service Provider
+Workspace Services revenues“) $ 1,690,783 8 1,639,072 $ 1,600,581
+Delivery Networking revenuesm 782,875 749,910 702,028
+Cloud Services Revenues (3) 130,955 101,403 75,569
+Professional services“) 131,229 147,488 175,541
+Other 7 2387 7 8,281 7 7 9,3457
+Total Enterprise and Service Provider revenues 7 2,736,080, 7 2,646,154 7 7 295610647
+GoTo Business revenues 682,185 629,440 579,792
+Total net revenues $ 3,418,265 8 3,275,594 8 3,142,856
+(1) Workspace Services revenues are primarily comprised of sales from XenDesktop, XenApp, XenMobile and related license
+updates and maintenance and support.
+(2) Delivery Networking revenues are primarily comprised of NetScaler ADC and NetScaler SD-WAN, and related license
+updates and maintenance and support.
+F-3 1

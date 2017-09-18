@@ -1,0 +1,34 @@
+Table,of,C,ontents
+Oracle also offers certain of these mobile development capabilities via the Oracle Cloud, including Oracle Mobile Cloud Service.
+Java
+Java is the computer industry’s most widely-used software development language and is viewed as a global standard. The Java programming language and platform
+together represent one of the most popular and powerful development environments in the world, one that is used by millions of developers globally to develop
+business applications. Oracle Fusion Middleware software products and certain of our Oracle Applications are built using our Java technology platform, which we
+believe is a key advantage for our business. Customers may license the use of Java or access Java through Oracle Java Cloud Service.
+Java is designed to enable developers to write software on a single platform and run it on many other different platforms, independent of operating system and
+hardware architecture. Java has been ad0pted by both independent software vendors (ISV) that have built their products on Java and by enterprise organizations
+building custom applications or consuming J ava-based ISV products.
+Software License Updates and Product Support
+We seek to protect and enhance our customers’ current investments in Oracle application and platform technologies by offering proactive and personalized support
+services, including Oracle Lifetime Support and product enhancements and upgrades. Software license updates provide on-premise new software license customers
+with rights to unspecified product upgrades and maintenance releases and patches released during the term of the support period. Product support includes internet
+and telephone access to technical support personnel located in our global support centers, as well as internet access to technical content through “My Oracle
+Support.” Software license updates and product support contracts are generally priced as a percentage of the net new software license fees. Substantially all of our
+customers purchase software license updates and product support contracts when they acquire on-premise new software licenses and renew their software license
+updates and product support contracts annually.
+Cloudjnfras,t1:u.ctu1:e,a s,a,S,e,1:vice,(IaaS)
+Our cloud infrastructure as a service segment, which is a part of our cloud and on-premise software business, represented 2% of total revenues in each of fiscal
+2016 and 2015 and 1% of total revenues in fiscal 2014. Our cloud IaaS segment includes Oracle Cloud IaaS and Oracle Managed Cloud Services offerings.
+Oracle Cloud IaaS is designed to deliver enterprise-grade, hosted and supported IT environments within the Oracle Cloud to perform elastic compute, storage and
+networking services for enterprise workloads. Organizations can also deploy certain of these IaaS offerings locally at their data center through our Oracle Cloud at
+Customer program. We continue to invest in IaaS technologies to simplify customer migration to the Oracle Cloud as well as to provide customers with ﬂexibility
+of running workloads on, and portability to shift workloads between, on-premise IT environments and the Oracle Cloud. Oracle Cloud IaaS offerings include,
+among others:
+° Oracle Compute Cloud Service, which is designed to allow organizations to quickly enable virtual compute environments and run them at scale on the
+Oracle Cloud with predictable, consistent performance and network isolation;
+° Oracle Storage Cloud Service, which is designed to be a secure and scalable object storage solution for storing and accessing data from any environment
+connected to the internet; and
+° Oracle Network Cloud Service, which offers site-to-site virtual private network secure extension and high bandwidth connection services.
+Oracle Managed Cloud Services provide comprehensive software and hardware management and maintenance services for customer IT infrastructure for a fee for a
+stated term that is hosted at our Oracle data center facilities, select partner data centers or physically on-premise at customer facilities.
+1 3

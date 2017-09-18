@@ -1,0 +1,39 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Accounting Standards Not Yet Adopted In May 2014 the FASB issued ASU 2014-09, “Revenue from Contracts with Customers” (ASU 2014-09), which
+requires us to recognize revenue when a customer obtains control rather than when we have transferred substantially all risks and rewards of a good or service
+and requires expanded disclosures. ASU 2014-09, as amended, is eﬁ‘ective for us beginning January 1, 2018. ASU 2014-09 will affect the amount and timing
+of certain revenue related transactions primarily resulting from the earlier recognition of certain sales incentives and ﬁxed fee license arrangements. Upon
+adoption of ASU 2014-09 sales incentives will be recorded at the time of sale rather than at the later of sale or announcement and ﬁxed fee license
+arrangements will be recognized when the customer is granted access to intellectual property instead of over the contract period. Certain transactions with
+daily rental car companies may also qualify to be accounted for as a sale as opposed to the current accounting as an operating lease. We have not yet
+determined whether we will adopt the provisions of ASU 2014-09 on a retrospective basis or through a cumulative adjustment to equity. We do not expect
+the adoption ofASU 2014-09 to be material to our consolidated ﬁnancial statements. We continue to assess the overall impact the adoption ofASU 2014-09
+will have on our consolidated ﬁnancial statements, and anticipate testing our new controls and processes designed to comply with ASU 2014-09 throughout
+2017 to permit adoption by January 1, 2018.
+In January 2016 the FASB issued ASU 2016-01, “Recognition and Measurement of Financial Assets and Financial Liabilities” (ASU 2016-01), which
+requires, among other items, equity investments that are not accounted for under the equity method of accounting to be measured at fair value with changes
+recognized in net income and updates certain presentation and disclosure requirements. ASU 2016-01 is effective for us beginning January 1, 2018. At
+December 31, 2016 the carrying value of equity investments that are not accounted for under the equity method of accounting totaled $526 million and
+unrealized gains or losses were insigniﬁcant. Currently we do not believe the adoption of ASU 2016-01 will have a material impact on our consolidated
+ﬁnancial statements, however changes in future market conditions and equity investment balances prior to the implementation date will affect the impact the
+adoption may have on our consolidated ﬁnancial statements.
+In February 2016 the FASB issued ASU 2016-02, "Leases" (ASU 2016-02), which requires us as the lessee to recognize most leases on the balance sheet
+thereby resulting in the recognition of lease assets and liabilities for those leases currently classiﬁed as operating leases. The accounting for leases where we
+are the lessor remains largely unchanged. ASU 2016-02 is effective for us beginning January 1, 2019 with early adoption permitted. While we are currently
+assessing the impact ASU 2016-02 will have on our consolidated ﬁnancial statements, we expect the primary impact to our consolidated ﬁnancial position
+upon adoption will be the recognition, on a discounted basis, of our minimum commitments under noncancelable operating leases on our consolidated
+balance sheets resulting in the recording of right of use assets and lease obligations. Our current minimum commitments under noncancelable operating
+leases are disclosed in Note 15.
+In June 2016 the FASB issued ASU 2016-13, "Financial Instruments — Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments"
+(ASU 2016-13), that requires entities to use a new impairment model based on expected losses. Under this new model an entity would recognize an
+impairment allowance equal to its current estimate of credit losses on ﬁnancial assets measured at amortized cost. ASU 2016-13 is effective for us beginning
+January 1, 2020 with early adoption permitted January 1, 2019. Credit losses under the new model will consider relevant information about past events,
+current conditions and reasonable and supportable forecasts, resulting in recognition of lifetime expected credit losses by GM Financial upon loan
+origination as compared to our current accounting that recognizes credit losses as incurred. We are currently evaluating new processes to calculate credit
+losses in accordance with ASU 2016-13 that, once completed, will determine the impact on our consolidated ﬁnancial statements which at the date of
+adoption will increase the allowance for credit losses with a resulting negative adjustment to retained earnings.
+Note 3. Marketable Securities
+The following table summarizes the fair value of cash equivalents and marketable securities which approximates cost:
+56

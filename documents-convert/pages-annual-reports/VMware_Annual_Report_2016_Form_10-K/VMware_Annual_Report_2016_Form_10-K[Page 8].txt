@@ -1,0 +1,42 @@
+Iablre,of,C,ontents
+for end users, while providing security and control to corporate IT organizations. With our EUC solutions, end users receive a consumer-like experience via a
+digital workspace that gives them the ability to access any application from any device of their choice, from any location. IT organizations are able to enhance their
+enterprise security for corporate applications and data utilizing our EUC solutions.
+Our complete EUC solution consists of VMware Workspace ONE (“Workspace ONE”), our digital workspace platform which includes VMware AirWatch
+(“AirWatch”) unified endpoint management and VMware Horizon (“Horizon”) application and desktop virtualization:
+- AirWatch— provides an enterprise mobility platform built to manage and secure endpoints from a single platform, enabling deployment of native, web
+or remote applications through an application catalog across every device with built-in single sign-on. It provides the core foundation to support an
+increasingly mobile workforce and customer base, enabling customers to take advantage of “bring your own device” initiatives.
+0 Horizon— provides a streamlined approach to delivering, protecting and managing virtual desktops and applications from one digital workspace, while
+containing costs and allowing end users to work anytime, anywhere and across any device.
+While AirWatch and Horizon are also offered separately, together this solution provides customers with a complete digital workspace solution that combines
+identity, mobile management, and application and desktop virtualization solutions. These technologies leverage our SDDC solutions, allowing customers to extend
+the value of virtualization and management from their data center to their devices. While many of these technologies are in use today, they are deployed in silos
+across enterprise IT. WorkSpace ONE, which is offered as both an on-premises installed platform or as-a-service, integrates these silos to streamline the delivery of
+new applications and experiences.
+Technology Alliances
+We have more than 1,200 technology partners with whom we bring joint offerings to the marketplace and over 4,300 active service provider partners. We
+classify our partners as follows:
+Independent Hardware Vendors (“IHVs”) We have established relationships with large system vendors, including Cisco, Fujitsu, HPE, IBM, Lenovo and
+NEC for joint certification and co-development, and we continue to work closely with Dell, now our controlling stockholder. We also work closely with AMD,
+Intel and other IHVs to provide input on product development to enable them to deliver hardware advancements that benefit virtualization users. We coordinate
+with the leading storage and networking vendors to ensure joint interoperability and enable our software to access their differentiated functionality.
+Independent Software Vendors (“ISVs”) We partner with leading systems management, infrastructure software and application software vendors-including
+healthcare, telecom, finance and retail market leaders to deliver value-added products that integrate with our products.
+VMware Service Providers We have established partnerships with over 4,300 active service providers in our vCAN program, including CenturyLink,
+Claranet, Fujitsu, IBM, KPN, Macquarie, Navisite, Nifty, NTT, OVH, Rackspace, Telefonica, Tieto, T-Systems and UOL Diveo, to enable them to host and deliver
+enterprise-class hybrid clouds as a way for enterprises to extend their data centers to external clouds, while preserving security, compliance and quality of service.
+In addition to our base of active service provider partnerships, during 2016, we announced a strategic alliance with AWS to build and deliver an integrated hybrid
+offering, VMware Cloud on AWS, which will enable customers to run applications across vSphere-based private, public and hybrid cloud environments. VMware
+Cloud on AWS is expected to become available in 2017.
+Our Technology Alliance Partner program facilitates joint solution creation and coordinated go-to-market activities with our partners. Over 4,600 of the most
+widely used applications from ISVs support the vSphere platform. These applications include business solutions for enterprise resource planning, human resource
+management, electronic medical records management, financial processing and middleware, such as application servers and databases.
+Our ISVs and other alliance partners, developers and additional VMware community members have distributed more than 2,900 software applications as
+virtual appliances. We invest significant capital in testing and certification of infrastructure to rigorously ensure our software works well with major hardware and
+software products.
+Research and Development
+We have made, and expect to continue to make, significant investments in research and development (“R&D”). We have assembled an experienced group of
+developers with system level, systems management, desktop, mobile devices, security, application development, collaborative applications, networking, storage
+and open source software expertise. We also have strong ties to leading academic institutions around the world, and we invest in joint research with academia.
+7

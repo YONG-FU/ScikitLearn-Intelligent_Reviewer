@@ -1,0 +1,42 @@
+I tem 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Statements
+This report contains a number of forward-looking statements relative to our future plans and our expectations concerning our business and the industries we serve. These
+forward-looking statements are based on assumptions about a number of important factors, and involve risks and uncertainties that could cause actual results to differ
+materially from estimates contained in the forward-looking statements. Some of the risks that are foreseen by management are outlined above within Item 1A., “Risk
+Factors”. Item 1A. constitutes an integral part of this report, and readers are strongly encouraged to review this section closely in conjunction with MD&A.
+MD&A Basis of Discussion - Impact of Divestiture
+In September 2015, we sold our cyber—security business, marketed under the Invotas brand, to certain former management personnel, resulting in a gain on the sale of
+$3.7 million, which is included in restructuring and reorganization charges in our 2015 Income Statement. The impact of Invotas to our business prior to the divestiture
+date was not material. We retained a minority interest in the business such that the results of operations from the business are not included in our financial statements
+subsequent to the divestiture date.
+In February 2016, this business was acquired by a third-party. Based on the terms of our agreement with former management personnel, we received additional
+consideration contingent upon a liquidation event, as defined in the agreement, resulting in an additional gain on the sale of approximately $6.6 million, which reduced
+our 2016 restructuring and reorganization charges in our Income Statement.
+Management Overview
+Results of Operations. A summary of our results of operations for 2016 and 2015, and other key performance metrics are as follows (in thousands, except percentages
+and per share amounts):
+Year Ended December 31,
+I 2016 2015
+Revenues 760,958 $ 752,520 7
+Operating Results:
+F Operating income 132,629 1 13,140 1
+Operating income margin 17.4% 15.0%
+Diluted EPS $ 1.90 $ 1.87 1
+Supplemental Data:
+T Restructuring and reorganization charges 416 $ 3,074 ‘
+Stock-based compensation (1) 22,795 21,371
+I Amortization of acquired intangible assets 8,489 11,983 ‘
+Amortization of OID 4,866 6,246
+I Loss on repurchase of convertible notes (8,651) — l
+(1) Stock-based compensation included in the table above excludes amounts that have been recorded in restructuring and reorganization charges.
+Revenues. Our revenues for 2016 were $761.0 million, a 1% increase when compared to $752.5 million for 2015. The increase can be primarily attributed to a 5%
+increase in our cloud and related solutions revenues. The increase in our cloud and related solutions revenues for 2016 was driven largely by the conversion of new
+customer accounts onto ACP during the year, and increases in revenues from recurring managed services arrangements. These increases more than offset the decline in
+our software and services and maintenance revenues.
+Operating Results. Operating income for 2016 was $132.6 million, or a 17.4% operating income margin percentage, compared to $113.1 million, or a 15.0% operating
+income margin percentage for 2015, with the increase mainly attributed to the scale benefits we are achieved from increasing the number of customer accounts to our
+cloud solutions, and operational cost improvements made throughout 2015 and 2016, to include the divestiture of Invotas in 2015, discussed above.
+Diluted EPS. Diluted EPS for 2016 was $1.90 compared to $1.87 for 2015 with the increase primarily attributed to the higher operating margin, which more than offset
+the negative impact of the loss on the repurchase of the 2010 Convertible Notes and higher interest expense, both related to the refinancing of this instrument earlier this
+year.
+23

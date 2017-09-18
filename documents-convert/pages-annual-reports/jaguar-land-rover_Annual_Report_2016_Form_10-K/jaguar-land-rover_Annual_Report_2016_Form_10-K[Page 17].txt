@@ -1,0 +1,49 @@
+8 8 | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+2 ACCOUNTING POLICIES (CONTINUED)
+IFRS 9 Financial Instruments addresses the classiﬁcation, measurement and recognition of ﬁnancial assets and ﬁnancial
+liabilities. The complete version of IFRS 9 was issued in July 2014. It replaces the guidance in IAS 39 that relates to the
+classiﬁcation and measurement ofﬁnancial instruments. IFRS 9 retains but simpliﬁes the mixed measurement model
+and establishes three primary measurement categories for ﬁnancial assets: amortised cost, fair value through other
+comprehensive income and fair value through proﬁt or loss. The basis of classiﬁcation depends on the entity’s business
+model and contractual cash flow characteristics of the ﬁnancial asset. Investments in equity instruments are required to be
+measured at fair value through proﬁt or loss with the irrevocable option at inception to present changes in fair value in other
+comprehensive income. There is now a new expected credit losses modelthat replaces the incurred loss model used in IAS
+39. For ﬁnancial liabilities there were no changes to classiﬁcation and measurement except for the recognition of changes
+in own credit risk in other comprehensive income, for liabilities designated at fair value through proﬁt or loss. IFRS 9 relaxes
+the requirements for hedge effectiveness by replacing the bright line hedge effectiveness tests. It requires an economic
+relationship between the hedged item and the hedging instrument and for the ‘hedged ratio’ to be the same as the one
+management actually use for the risk management process. Contemporaneous documentation is still required but is different
+to that currently prepared under IAS 39. The standard is effective for annual periods beginning on or after 1 January 2018 and
+earlier application is permitted subject to EU endorsement. The Group is assessing the impact of IFRS 9 and expects it to have
+a signiﬁcant impact on the consolidated ﬁnancial statements.
+The amendments to IFRS 10 Consolidated Financial Statements, IFRS 12 Disclosure of Interests in Other Entities and IAS
+28 Investments in Associates and Joint Ventures (2011) relate to investment entities. The amendment is effective for
+annual periods beginning on or after 1 January 2016 and earlier application is permitted subject to EU endorsement. JLR, its
+subsidiaries and its parent do not meet the deﬁnition of an ‘investment entity’ and therefore the amendment is not applicable.
+IFRS 16 speciﬁes how an IFRS reporter will recognise, measure, present and disclose leases. The standard provides a single
+lessee accounting model, requiring lessees to recognise assets and liabilities for all leases unless the lease term is 12 months
+or less or the underlying asset has a low value. Lessors continue to classify leases as operating or ﬁnance, with IFRS 16’s
+approach to lessor accounting substantially unchanged from its predecessor, IAS 17. The standard is effective for annual
+periods beginning on or after 1 January 2019 and earlier application is permitted subject to EU endorsement and the adoption
+of IFRS 15. The Group is assessing the impact of IFRS 16 and expects it to have a signiﬁcant impact on the consolidated
+ﬁnancial statements.
+IAS 12 Income taxes has been amended to clarify the treatment of deferred tax on debt held at fair value and clarify details on
+recognition of deferred tax assets. The amendment is effective for annual periods beginning on or after 1 January 2017, with
+early adoption permitted. These amendments do not have any impact on the consolidated ﬁnancial statements.
+IAS 7 has been amended to require additional disclosure to help users evaluate changes in borrowings. The amendment
+is effective for annual periods beginning on or after 1 January 2017 and earlier application is permitted subject to EU
+endorsement. The Group expects to include a net debt reconciliation within its disclosures following the adoption of
+this standard.
+3 EXCEPTIONAL ITEM
+The exceptional item of £157 million for the year ended 31 March 2016 relates to the full ﬁnancial year impact of the explosion
+at the port of Tianjin (China) in August 2015. A provision of £245 million against the carrying value of inventory (ﬁnished goods)
+was recorded in the second quarter ended 30 September 2015, based on the Group’s assessment of the physical condition
+of the vehicles involved. Subsequent to that, insurance proceeds of £55 million have been received, together with the
+conclusion of further assessments of the condition ofthe remaining vehicles, which had led to a reversal of £33 million of the
+initial provision.
+The process for ﬁnalising ongoing insurance claims may take some months to conclude, so further insurance and other
+potential recoveries will only be recognised in future periods when received or conﬁrmed as receivable.
+Due to the size of the provision recorded, the charge together with the associated tax impact has been disclosed as an
+exceptional item. Any future recoveries will similarly be recognised as a reversal of that charge through exceptional items.

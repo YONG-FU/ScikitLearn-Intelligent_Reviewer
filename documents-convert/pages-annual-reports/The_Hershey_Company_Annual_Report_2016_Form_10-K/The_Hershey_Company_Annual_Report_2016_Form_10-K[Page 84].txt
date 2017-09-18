@@ -1,0 +1,41 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Stock Options
+The exercise price of each stock option awarded under the EICP equals the closing price of our Common Stock on the
+New York Stock Exchange on the date of grant. Each stock option has a maximum term of 10 years. Grants of stock
+options provide for pro-rated vesting, typically over a four year period. Expense for stock options is based on grant
+date fair value and recognized on a straight-line method over the vesting period.
+A summary of activity relating to grants of stock options for the year ended December 31, 2016 is as follows:
+Weighted-
+Weighted- Average
+Average Remaining
+Exercise Price Contractual Aggregate
+Stock Options Shares (per share) Term Intrinsic Value,
+1 Outstanding at beginning of the period 6,842,563 $75.48 5.8 years 1
+Granted 1,356,440 $90.73
+] Exercised (1,762,827) $58.72 1
+Forfeited 7 (244,168), $98.72
+I Outstanding as of December 31, 2016 : 6,192,008 : $82.67 6.2 years $ 121,202 1
+Options exercisable as of December 31, 2016 3,498,601 $72.15 4.6 years $ 103,865
+The weighted-average fair value of options granted was $11.46, $18.99 and $21.50 per share in 2016, 2015 and 2014,
+respectively. The fair value was estimated on the date of grant using a Black-Scholes option-pricing model and the
+following weighted-average assumptions:
+For the years ended December 31, 2016 2015 2014 7
+l Dividend yields 2.4% 2.1% 20%}
+Expected volatility 16.8% 20.7% 22.3%
+[Risk—free interest rates 1.5% 1.9% 21%}
+Expected term in years 6.8 6.7 6.7
+O “Dividend yields” means the sum of dividends declared for the four most recent quarterly periods,
+divided by the average price of our Common Stock for the comparable periods;
+0 “Expected volatility” means the historical volatility of our Common Stock over the expected term of
+each grant;
+0 “Risk-free interest rates” means the US. Treasury yield curve rate in effect at the time of grant for
+periods within the contractual life of the stock option; and
+0 “Expected term” means the period of time that stock options granted are expected to be outstanding
+based primarily on historical data.
+The total intrinsic value of options exercised was $73,944, $66,161 and $133,948 in 2016, 2015 and 2014,
+respectively.
+As of December 31, 2016, there was $16,372 of total unrecognized compensation cost related to non—vested stock
+option awards granted under the EICP, which we expect to recognize over a weighted-average period of 2.4 years.
+82

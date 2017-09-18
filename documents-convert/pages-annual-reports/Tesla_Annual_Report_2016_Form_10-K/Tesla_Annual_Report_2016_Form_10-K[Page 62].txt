@@ -1,0 +1,64 @@
+Tesla, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Year Ended December 31,
+2016 2015 2014
+Cash Flows From Operating Activities
+Net 55 (773,046) $ (888,663) $ (294,040)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization 947,099 422,590 231,931
+Stock-based 334,225 197,999 156,496
+Amortization ofdiscount on convertible debt 87,286 72,063 69,734
+Inventory write-downs 65,520 44,940 15,609
+Loss on disposalofproperty and 34,633 37,723 14,178
+Foreign currency transaction (gain) (29,183) 55,765 (1,891)
+Gain onthe acquisition (88,727) — —
+Non—cash interest and other operating (7,775) 26,373 7,471
+Changes in operating assets and liabilities, net of effect of business combinations
+Accounts (216,565) 46,267 (183,658)
+Inventories and operating lease (2,465,703) (1,573,860) (1,050,264)
+Prepaid expenses and other current assets 56,806 (29,595) (60,637)
+MyPower notes 3,468 — —
+Other assets (52,821) (24,362) (4,493)
+Accounts payable and accrued 750,640 263,345 414,856
+Deferred 382,962 322,203 209,681
+Customer deposits 388,361 36,721 106,230
+Resale value guarantee 326,934 442,295 249,492
+Otherlong-term 132,057 23,697 61,968
+Net cashusedin operating (123,829) (524,499) (57,337)
+Cash Flows From Investing Activities
+Purchases of property and equipment excluding capital leases, net of (1,280,802) (1,634,850) (969,885)
+Purchase ofsolar energy system,leased to be (159,669) — —
+Purchases ofshort-term investments and marketable — — (205,841)
+Maturities ofshort-term marketable 16,667 — —
+Maturities ofshort-term marketable — — 189,131
+Increase in other restricted (206,149) (26,441) (3,849)
+Cash acquired through (usedin) business 213,523 (12,260) —
+Net cash used in investing (1,416,430) (1,673,551) (990,444)
+Cash Flows From Financing Activities
+Proceeds from issuance ofcommon stockin public 1,701,734 730,000 —
+Proceeds from issuance ofconvertible and other 2,852,964 318,972 2,300,000
+Repayments ofconvertible and other (1,857,594) — —
+Collateralized lease 769,709 568,745 3,271
+Proceeds from exercise ofstock options and other stock 163,817 106,611 100,455
+Principal payments on capital (46,889) (203,780) (11,179)
+Common stock and debtissuance (20,042) (17,025) (35,149)
+Proceeds from issuance — — 389,160
+Proceeds from issuance ofcommon stockin private — 20,000 —
+Purchase ofconvertible note — — (603,428)
+Proceeds from investment by noncontrolling interests in subsidiaries 201,527 — —
+Distributions paid to noncontrolling interests in (21,250) — —
+Net cash provided by ﬁnancing 3,743,976 1,523,523 2,143,130
+Effect ofexchange rate changes on cash and cash equivalents....................................................... (7,409) (34,278) (35,525)
+Netincrease (decrease) in cash and cash 2,196,308 (708,805) 1,059,824
+Cash and cash equivalents at beginning 1,196,908 1,905,713 845,889
+Cash and cash equivalents at end $ 3,393,216 $ 1,196,908 $ 1,905,713
+Supplemental noncash investing activities
+Shares issued in connection of business combination and assumed vested awards 33 2,145,977 — —
+Acquisition of property and equipment included in accounts payable and accrued liabilities 663,771 267,334 254,393
+Estimated fairvalue offacilities under build-to-suit 307,879 174,749 50,076
+Supplemental Disclosures
+Cashpaid during the period for $ 38,693 $ 32,060 $ 20,539
+Cashpaid during the period fortaxes,net 16,385 9,461 3,120
+The accompanying notes are an integral part of these consolidated ﬁnancial statements.
+59

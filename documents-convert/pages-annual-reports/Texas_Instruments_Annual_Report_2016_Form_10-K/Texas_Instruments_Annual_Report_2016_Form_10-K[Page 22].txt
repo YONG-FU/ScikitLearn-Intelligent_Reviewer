@@ -1,0 +1,41 @@
+Net income was $3.60 billion, an increase of $609 million, or 20 percent. EPS was $3.48 compared with $2.82. EPS benefited
+$0.13 in 2016 due to the application of the new accounting standard related to stock compensation.
+Segment results — 2016 compared with 2015
+Analog (included High Volume Ana/0g & Logic (H VAL), Power Management (Power), High Performance Analog (HPA) and Silicon
+Valley Analog (SVA) product lines)
+2016 2015 Change
+Revenue $8,536 $8,339 2%
+.ﬂ Operatingprofit............................................................. 3,380 3,048 11%
+g Operatingprofit%ofrevenue................................................... 39.6% 36.6%
+3
+3 Analog revenue increased primarily due to SVA and HPA. Power also grew, but to a lesser extent, while HVAL declined due to the
+5‘ mix of products shipped. Operating profit increased due to higher gross profit, which benefited from lower manufacturing costs.
+Embedded Processing (included Processors, Microcontrollers and Connectivity product lines)
+2016 2015 Change
+Revenue $3,023 $2,787 8%
+Operatingprofit............................................................. 801 596 34%
+Operatingprofit%ofrevenue................................................... 26.5% 21.4%
+Embedded Processing revenue increased due to, in declining order, Processors, Microcontrollers and Connectivity. Processors
+revenue increased due to the mix of products shipped. Operating profit increased primarily due to higher revenue and associated
+gross profit.
+Other (included DLP products, calculators, custom ASICS and royalties)
+2016 2015 Change
+Revenue $1,811 $1,874 (3)%
+Operatingprofit*............................................................. 618 630 (2)%
+Operatingprofit%ofrevenue.................................................... 34.1% 33.6%
+* Includes Acquisition charges and Restructuring charges/other
+Other revenue decreased due to, in declining order, lower royalties, custom ASIC products and calculators. This decrease was
+partially offset by growth in DLP products. Operating profit decreased $12 million.
+Prior results of operations
+In 2015, Analog revenue grew 3 percent, and Embedded Processing revenue grew 2 percent. Analog and Embedded Processing
+represented 86 percent of revenue in 2015, up from 83 percent in 2014. Gross margin was 58.2 percent for 2015.
+In 2015, cash flows from operations were $4.40 billion, up from $4.05 billion in 2014. Free cash flow in 2015, was 29.6 percent of
+revenue, up from 28.1 percent in 2014. During 2015, we returned $4.19 billion of cash to investors through a combination of stock
+repurchases and dividends.
+Details of financial results — 2015 compared with 2014
+Revenue of $13.00 billion was about even with 2014, as higher revenue from Analog and Embedded Processing was offset by
+lower revenue from Other. Our 2015 revenue was negatively affected by about $150 million from changes in foreign currency
+exchange rates.
+Gross profit was $7.56 billion, an increase of $133 million, or 2 percent, due to lower manufacturing costs. Gross profit margin was
+58.2 percent of revenue compared with 56.9 percent.
+18 TEXAS INSTRUMENTS - 2016 FORM 10-K

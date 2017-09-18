@@ -1,0 +1,42 @@
+(4) failure by TLLP for 120 days after written notice to TLLP by the Trustee or the Holders of at least 25% in aggregate principal amount of the
+Notes then-outstanding voting as a single class to comply with Section 4.03;
+(5) failure by TLLP or any of its Restricted Subsidiaries for 60 days after written notice to TLLP by the Trustee or the Holders of at least 25% in
+aggregate principal amount of the Notes then-outstanding voting as a single class to comply with any of the other agreements herein; or
+(6) default under any mortgage, indenture or instrument under which there may be issued or by which there may be secured or evidenced any
+Indebtedness for money borrowed by TLLP or any of its Restricted Subsidiaries (or the payment of which is guaranteed by TLLP or any of its Restricted
+Subsidiaries), whether such Indebtedness or Guarantee now exists, or is created after the Issue Date, if that default:
+(A) is caused by a failure to pay principal on such Indebtedness prior to the expiration of the grace period provided in such Indebtedness (a
+“P;ayment,Default”); or
+(B) results in the acceleration of such Indebtedness prior to its express maturity,
+and, in each case, the principal amount of any such Indebtedness, together with the principal amount of any other such Indebtedness under which there
+has been a Payment Default or the maturity of which has been so accelerated, aggregates, without duplication, $100.0 million or more;
+(7) failure by an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary to pay ﬁnal judgments entered by a court or courts
+of competent jurisdiction aggregating in excess of $100.0 million (excluding amounts covered by insurance policies issued by reputable and credit
+worthy insurance companies for which coverage has not been disclaimed), which judgments are not paid, discharged or stayed for a period of 60 days;
+(8) an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted Subsidiaries of TLLP that, taken
+together, would constitute a Signiﬁcant Subsidiary pursuant to or within the meaning of Bankruptcy Law:
+(A) commences a voluntary case,
+(B) consents to the entry of an order for relief against it in an involuntary case,
+(C) consents to the appointment of a custodian of it or for all or substantially all of its property,
+(D) makes a general assignment for the beneﬁt of its creditors, or
+(E) generally is not paying its debts as they become due;
+(9) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+(A) is for relief against an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted
+Subsidiaries of the TLLP that, taken together, would constitute a Signiﬁcant Subsidiary in an involuntary case;
+(B) appoints a custodian of an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted
+Subsidiaries of TLLP that, taken together, would constitute a Signiﬁcant Subsidiary or for all or substantially all of the property of an Issuer or
+any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted Subsidiaries of TLLP that, taken together, would
+constitute a Signiﬁcant Subsidiary; or
+(C) orders the liquidation of an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted
+Subsidiaries of TLLP that, taken together, would constitute a Signiﬁcant Subsidiary;
+and the order or decree remains unstayed and in effect for 60 consecutive days; and
+(10) except as permitted by this Indenture, any Note Guarantee from a Guarantor that is a Signiﬁcant Subsidiary is held in any judicial
+proceeding to be unenforceable or invalid or ceases for any reason to be in ﬁill force and effect, or any Guarantor that is a Signiﬁcant Subsidiary, or any
+Person acting on behalf of any Guarantor that is a Signiﬁcant Subsidiary, denies or disafﬁrms its Obligations under its Note Guarantee.
+In the case of an Event of Default speciﬁed in clause (6) of the ﬁrst paragraph of this Section 6.01 and all consequences thereof (excluding, however,
+any resulting payment default) will be annulled, waived and rescinded with respect to the Notes, automatically and without any action by the Trustee or the
+Holders of such Notes, if within 60 days after such Event of Default ﬁrst arose TLLP delivers an Ofﬁcers’ Certiﬁcate to the Trustee stating that (a) the
+Indebtedness or guarantee that is the basis for such Event of Default has been discharged, (b) the Holders of the Indebtedness have rescinded or waived the
+acceleration, notice or action (as the case may be) giving rise to such Event of Default or (c) the default that is the basis for such Event of Default has been
+cured.
+-44-

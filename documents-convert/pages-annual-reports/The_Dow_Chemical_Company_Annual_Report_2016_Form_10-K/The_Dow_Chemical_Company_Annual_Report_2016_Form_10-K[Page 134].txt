@@ -1,0 +1,43 @@
+The Company’s funding policy is to contribute to the plans when pension laws and/or economics either require or encourage
+funding. In 2016, Dow contributed $629 million to its pension plans, including contributions to fund benefit payments for its
+non-qualified supplemental plans. Dow expects to contribute approximately $500 million to its pension plans in 2017.
+The weighted-average assumptions used to determine pension plan obligations and net periodic benefit costs for the plans are
+provided in the two tables below:
+iWeighted-Average Assumptions Beneﬁt Obligations Net Periodic Costs 7
+for All Pension Plans at December 31 for the Year
+: ' 2016 2015 2014* * 2016 2015 2014;
+|Discount rate 3.52% 3.88% 3.60% 3.85% 3.60% 4.54%]|
+Rate of increase in future compensation levels 3.90% 4.13% 4.13% 4.04% 4.13% 4.15%
+lExpected long-term rate of return on plan assets 7 r r r r r 7.22% 7.35% 7.40%
+Weighted-Average Assumptions Beneﬁt Obligations Net Periodic Costs
+for US. Pension Plans at December 31 for the Year
+, * 2016 2015 2014’ ’ 2016 2015 2014:
+[Discount rate 4.1 1% 4.40% 4.04% 4.40% 4.04% 4.92%:|
+Rate of increase in future compensation levels 4.25% 4.50% 4.50% 4.50% 4.50% 4.50%
+[Expected long-term rate of return on plan assets 7 r r r r r 7.77% 7.85% 7.82%].
+The Company determines the expected long-term rate of return on plan assets by performing a detailed analysis of key
+economic and market factors driving historical returns for each asset class and formulating a projected return based on factors
+in the current environment. Factors considered include, but are not limited to, inﬂation, real economic growth, interest rate
+yield, interest rate spreads, and other valuation measures and market metrics. The expected long-term rate of return for each
+asset class is then weighted based on the strategic asset allocation approved by the governing body for each plan. The
+Company’s historical experience with the pension fund asset performance is also considered.
+Effective January 1, 2016, the Company adopted the spot rate approach to determine the discount rate utilized to measure the
+service cost and interest cost components of net periodic pension and other postretirement benefit costs for the US. and other
+selected countries. Under the spot rate approach, the Company calculates service cost and interest cost by applying individual
+spot rates from the Willis Towers Watson RATEzLink yield curve (based on high-quality corporate bond yields) for each
+selected country to the separate expected cash ﬂow components of service cost and interest cost; service cost and interest cost
+for all other plans (including all plans prior to adoption) are determined on the basis of the single equivalent discount rates
+derived in determining those plan obligations. The Company changed to the new method to provide a more precise measure of
+interest and service costs for certain countries by improving the correlation between projected benefit cash ﬂows and the
+discrete spot yield curves. The Company accounted for this change as a change in accounting estimate and it was applied
+prospectively starting in 2016.
+The discount rates utilized to measure the pension and other postretirement obligations of the US. qualified plans are based on
+the yield on high—quality corporate fixed income investments at the measurement date. Future expected actuarially determined
+cash ﬂows for Dow’s US. plans are individually discounted at the spot rates under the Willis Towers Watson U.S. RATEzLink
+60-90 corporate yield curve (based on 60th to 90th percentile high-quality corporate bond yields) to arrive at the plan’s
+obligations as of the measurement date.
+In 2014, the Society of Actuaries ("SOA") published updated mortality tables and mortality improvement scales (generational
+mortality tables), which reﬂect increased life expectancy. Based on an evaluation of the mortality experience of the Company's
+U.S. pension plans and the SOA's tables, effective for 2014 and forward, the Company adopted updated generational mortality
+tables for purposes of measuring U.S. pension and other postretirement obligations.
+126

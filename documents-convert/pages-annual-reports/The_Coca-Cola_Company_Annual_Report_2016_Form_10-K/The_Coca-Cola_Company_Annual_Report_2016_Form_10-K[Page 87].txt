@@ -1,0 +1,53 @@
+which the differences are expected to reverse. Valuation allowances are recorded to reduce deferred tax assets to the amount
+that will more likely than not be realized. The Company records taxes that are collected from customers and remitted to
+governmental authorities on a net basis in our consolidated statements of income.
+The Company is involved in various tax matters, with respect to some of which the outcome is uncertain. We establish reserves
+to remove some or all of the tax benefit of any of our tax positions at the time we determine that it becomes uncertain based
+upon one of the following conditions: (1) the tax position is not "more likely than not" to be sustained, (2) the tax position is
+"more likely than not" to be sustained, but for a lesser amount, or (3) the tax position is "more likely than not" to be sustained,
+but not in the financial period in which the tax position was originally taken. For purposes of evaluating whether or not a tax
+position is uncertain, (1) we presume the tax position will be examined by the relevant taxing authority that has full knowledge
+of all relevant information; (2) the technical merits of a tax position are derived from authorities such as legislation and statutes,
+legislative intent, regulations, rulings and case law and their applicability to the facts and circumstances of the tax position; and
+(3) each tax position is evaluated without consideration of the possibility of offset or aggregation with other tax positions taken.
+A number of years may elapse before a particular uncertain tax position is audited and finally resolved or when a tax
+assessment is raised. The number of years subject to tax assessments varies depending on the tax jurisdiction. The tax benefit
+that has been previously reserved because of a failure to meet the "more likely than not" recognition threshold would be
+recognized in income tax expense in the first interim period when the uncertainty disappears under any one of the following
+conditions: (1) the tax position is "more likely than not" to be sustained, (2) the tax position, amount, and/or timing is
+ultimately settled through negotiation or litigation, or (3) the statute of limitations for the tax position has expired. Refer to
+Note 11 and Note 14.
+Translation and Remeasurement
+We translate the assets and liabilities of our foreign subsidiaries from their respective functional currencies to US dollars at the
+appropriate spot rates as of the balance sheet date. Generally, our foreign subsidiaries use the local currency as their functional
+currency. Changes in the carrying value of these assets and liabilities attributable to ﬂuctuations in spot rates are recognized in
+foreign currency translation adjustment, a component of AOCI. Refer to Note 15. Income statement accounts are translated
+using the monthly average exchange rates during the year.
+Monetary assets and liabilities denominated in a currency that is diﬁerent from a reporting entity's functional currency must
+ﬁrst be remeasured from the applicable currency to the legal entity's functional currency. The effect of this remeasurement
+process is recognized in the line item other income (loss) — net in our consolidated statements of income and is partially offset
+by the impact of our economic hedging program for certain exposures on our consolidated balance sheets. Refer to Note 5.
+Hyperinﬂationary Economies
+A hyperinﬂationary economy is one that has cumulative inﬂation of 100 percent or more over a three-year period. In
+accordance with US. GAAP, local subsidiaries in hyperinﬂationary economies are required to use the US. dollar as their
+functional currency and remeasure the monetary assets and liabilities not denominated in US. dollars using the rate applicable
+to conversion of a currency for purposes of dividend remittances. All exchange gains and losses resulting from remeasurement
+are recognized currently in income.
+Venezuela has been designated as a hyperinﬂationary economy. Beginning in the first quarter of 20 14, the Venezuelan
+government recognized three legal exchange rates to convert bolivars to the US. dollar: (1) the oﬁicial rate of 6.3 bolivars per
+US. dollar; (2) SICAD 1, which was available to foreign investments and designated industry sectors to exchange a limited
+volume of bolivars for US. dollars using a bid rate established at weekly auctions; and (3) SICAD 2, which applied to
+transactions that did not qualify for either the official rate or SICAD 1. As of March 28, 2014, the three legal exchange rates
+were 6.3 (official rate), 10.8 (SICAD 1) and 50.9 (SICAD 2). We determined that the SICAD 1 rate was the most appropriate
+rate to use for remeasurement given our circumstances and estimates of the applicable rate at which future transactions could be
+settled, including the payment of dividends. Therefore, as of March 28, 2014, we remeasured the net monetary assets of our
+Venezuelan subsidiary using an exchange rate of 10.8 bolivars per US. dollar, resulting in a charge of $226 million recorded in
+the line item other income (loss) — net in our consolidated statement of income.
+In December 2014, due to the continued lack of liquidity and increasing economic uncertainty, the Company reevaluated the
+rate that should be used to remeasure the monetary assets and liabilities of our Venezuelan subsidiary. As of December 31,
+2014, we determined that the SICAD 2 rate of 50 bolivars per US. dollar was the most appropriate legally available rate and
+remeasured the net monetary assets of our Venezuelan subsidiary, resulting in a charge of $146 million recorded in the line item
+other income (loss) — net in our consolidated statement of income.
+In February 2015, the Venezuelan government merged SICAD 1 and SICAD 2 into a single mechanism called SICAD and
+introduced a new open market exchange rate system, SIMADI. As a result, management determined that the SIMADI rate was
+85

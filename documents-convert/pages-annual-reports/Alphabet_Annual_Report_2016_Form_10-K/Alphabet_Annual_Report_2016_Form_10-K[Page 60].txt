@@ -1,0 +1,54 @@
+IaibleiofiCiontents Alphabet Inc.
+As of December 31, 2016, the effective portion of our cash ﬂow hedges before tax effect was a net accumulated
+gain of $603 million, of which $567 million is expected to be reclassiﬁed from AOCI into earnings within the next 12
+months.
+Fair Value Hedges
+We use forward contracts designated as fair value hedges to hedge foreign currency risks for our investments
+denominated in currencies other than the U.S. dollar. We exclude changes in forward points for the forward contracts
+from the assessment of hedge effectiveness. The notional principal of these contracts was $1.8 billion and $2.4 billion
+as of December 31, 2015 and 2016.
+We have used interest rate swaps designated as fair value hedges to hedge interest rate risk for certain ﬁxed
+rate securities. The notional principal of these contracts was $295 million and $0 million as of December 31, 2015 and
+2016.
+Gains and losses on these forward contracts and interest rate swaps are recognized in other income (expense),
+net, along with the offsetting losses and gains of the related hedged items.
+Other Derivatives
+Other derivatives not designated as hedging instruments consist of foreign currency forward contracts that we
+use to hedge intercompany transactions and other monetary assets or liabilities denominated in currencies other than
+the local currency of a subsidiary. We recognize gains and losses on these contracts, as well as the related costs in
+other income (expense), net, along with the foreign currency gains and losses on monetary assets and liabilities. The
+notional principal of these foreign exchange contracts outstanding was $7.5 billion and $7.9 billion as of December
+31,2015 and 2016.
+We also use exchange-traded interest rate futures contracts and “To Be Announced” (TBA) fonNard purchase
+commitments of mortgage-backed assets to hedge interest rate risks on certain fixed income securities. The TBA
+contracts meet the definition of derivative instruments in cases where physical delivery of the assets is not taken at
+the earliest available delivery date. Our interest rate futures and TBA contracts (together interest rate contracts) are
+not designated as hedging instruments. We recognize gains and losses on these contracts, as well as the related
+costs, in other income (expense), net. The gains and losses are generally economically offset by unrealized gains and
+losses in the underlying available-for-sale securities, which are recorded as a component of AOCI until the securities
+are sold or other-than-temporarily impaired, at which time the amounts are moved from AOCI into other income
+(expense), net. The total notional amounts of interest rate contracts outstanding were $50 million and $0 million as of
+December 31, 2015 and 2016.
+The fair values of our outstanding derivative instruments were as follows (in millions):
+7 As of December 31, 2015 7
+Fair Value of Fair Value of
+Derivatives Derivatives Not
+Designated as Designated as Total Fair
+Balance Sheet Location Hedging Instruments Hedging Instruments Value
+Derivative Assets:
+[Level 2: 1
+Foreign exchange Prepaid revenue share,
+contracts expenses and other
+assets, current and non-
+current $ 626 $ 2 $ 628
+1 Total $ 626 $ 2 $ 628 l
+Derivative Liabilities: 7 7 7 7 7 7
+[Level 2: 1
+Foreign exchange Accrued expenses and
+contracts other liabilities, current
+and non-current $ 1 $ 13 $ 14
+Interest rate contracts Accrued expenses and
+other liabilities, current
+and non-current 2 0 2
+Total $ 3 $ 137$ 16,
+57

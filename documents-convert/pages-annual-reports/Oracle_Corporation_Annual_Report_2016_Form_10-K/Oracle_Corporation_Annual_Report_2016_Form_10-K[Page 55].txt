@@ -1,0 +1,36 @@
+Table,0f,C,ontents
+but that are inherently uncertain. Actual future results may differ from those estimates. In addition, we make certain judgments and assumptions in allocating
+shared assets and liabilities to determine the carrying values for each of our reporting units.
+Our most recent annual goodwill impairment analysis, which was performed on March 1, 2016, did not result in a goodwill impairment charge, nor did we
+recognize an impairment charge in ﬁscal 2014. In fiscal 2015, we recognized an impairment charge of $186 million in our hardware products reporting unit (refer
+to Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report for additional information).
+Other than our consulting reporting unit, all of our other reporting units had fair values that substantially exceeded their carrying values based on our most recent
+annual goodwill impairment review. Our consulting reporting unit had $1.8 billion of goodwill on March 1, 2016, and experienced revenue and operating margin
+declines in ﬁscal 2016. As of our most recent annual goodwill impairment review, our consulting reporting unit’s fair value was 11% in excess of its carrying
+value. We estimate that should our consulting reporting unit’s projected margins and related cash ﬂows unfavorably deviate from our projections by 20% or more
+each year, our consulting reporting unit likely would incur a goodwill impairment loss.
+We make judgments about the recoverability of purchased finite lived intangible assets whenever events or changes in circumstances indicate that an impairment
+may exist. Each period we evaluate the estimated remaining useful lives of purchased intangible assets and whether events or changes in circumstances warrant a
+revision to the remaining periods of amortization. Recoverability of finite lived intangible assets is measured by comparison of the carrying amount of the asset to
+the future undiscounted cash ﬂows the asset is expected to generate. We review indefinite lived intangible assets for impairment annually and whenever events or
+changes in circumstances indicate the carrying value may not be recoverable. Recoverability of indefinite lived intangible assets is measured by comparison of the
+carrying amount of the asset to its fair value. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the
+carrying value and the fair value of the impaired asset.
+Assumptions and estimates about future values and remaining useful lives of our intangible assets are complex and subjective. They can be affected by a variety of
+factors, including external factors such as industry and economic trends and internal factors such as changes in our business strategy and our internal forecasts.
+Although we believe the historical assumptions and estimates we have made are reasonable and appropriate, different assumptions and estimates could materially
+impact our reported financial results. We did not recognize any intangible asset impairment charges in fiscal 2016, 2015 or 2014.
+Accounting for Income Taxes
+Significant judgment is required in determining our worldwide income tax provision. In the ordinary course of a global business, there are many transactions and
+calculations where the ultimate tax outcome is uncertain. Some of these uncertainties arise as a consequence of revenue sharing and cost reimbursement
+arrangements among related entities, the process of identifying items of revenues and expenses that qualify for preferential tax treatment and segregation of foreign
+and domestic earnings and expenses to avoid double taxation. Although we believe that our estimates are reasonable, the final tax outcome of these matters could
+be different from that which is reﬂected in our historical income tax provisions and accruals. Such differences could have a material effect on our income tax
+provision and net income in the period in which such determination is made.
+Our effective tax rate includes the impact of certain undistributed foreign earnings for which no US. taxes have been provided because such earnings are planned
+to be indefinitely reinvested outside the United States. Remittances of foreign earnings to the United States are planned based on projected cash ﬂow, working
+capital and investment needs of our foreign and domestic operations. Based on these assumptions, we estimate the amount that will be distributed to the United
+States and provide US. federal taxes on these amounts. Material changes in our estimates as to how much of our foreign earnings will be distributed to the United
+States or tax legislation that limits or restricts the amount of undistributed foreign earnings that we consider indefinitely reinvested outside the United States could
+materially impact our income tax provision and effective tax rate.
+53

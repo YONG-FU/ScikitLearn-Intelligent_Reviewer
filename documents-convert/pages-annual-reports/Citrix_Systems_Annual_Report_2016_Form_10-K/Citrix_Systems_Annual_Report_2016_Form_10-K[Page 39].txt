@@ -1,0 +1,55 @@
+to assist us in determining the fair values and useful lives of product related technology assets and other intangible assets
+acquired. Such valuations and useful life determinations require us to make significant estimates and assumptions. These
+estimates are based on historical experience and information obtained from the management of the acquired companies and are
+inherently uncertain. Critical estimates in determining the fair value and useful lives of the product related technology assets
+include but are not limited to future expected cash ﬂows earned from the product related technology and discount rates applied
+in determining the present value of those cash flows. Critical estimates in valuing certain other intangible assets include but are
+not limited to future expected cash ﬂows from customer contracts, customer lists, distribution agreements, patents, brand
+awareness and market position, as well as discount rates.
+Management's estimates of fair value are based upon assumptions believed to be reasonable. Unanticipated events and
+circumstances may occur which may aﬁect the accuracy or validity of such assumptions, estimates or actual results.
+We monitor acquired intangible assets for impairment on a periodic basis by reviewing for indicators of impairment. If an
+indicator exists we compare the estimated net realizable value to the unamortized cost of the intangible asset. The
+recoverability of the intangible assets is primarily dependent upon our ability to commercialize products utilizing the acquired
+technologies, retain existing customers and customer contracts, and maintain brand awareness. The estimated net realizable
+value of the acquired intangible assets is based on the estimated undiscounted future cash flows derived from such intangible
+assets. Our assumptions about future revenues and expenses require significant judgment associated with the forecast of the
+performance of our products, customer retention rates and ability to secure and maintain our market position. Actual revenues
+and costs could vary significantly from these forecasted amounts. If these products are not ultimately accepted by our
+customers and distributors, and there is no alternative future use for the technology; or if we fail to retain acquired customers or
+successfully market acquired brands, we could determine that some or all of the remaining $228.0 million carrying value of our
+acquired intangible assets is impaired. In the event of impairment, we would record an impairment charge to earnings that
+could have a material adverse eﬁect on our results of operations. During the year ended December 31, 2015, we tested certain
+intangible assets for recoverability due to changes in facts and circumstances associated with the shift in strategic focus and
+reduced profitability expectations. As a result, we identified certain definite-lived intangible assets that were impaired within
+our Enterprise and Service Provider segment, primarily customer relationships and product technologies from the acquisition of
+ByteMobile, and recorded non-cash impairment charges of $123.0 million to write down the intangible assets to their estimated
+fair value of $26.8 million. Of the impairment charge, $67.1 million is included in Impairment of other intangible assets and
+$55.9 million is included in Impairment of product related intangible assets in the accompanying consolidated statements of
+income.
+Goodwill
+The excess of the fair value of purchase price over the fair values of the identifiable assets and liabilities from our
+acquisitions is recorded as goodwill. At December 31, 2016, we had $1.97 billion in goodwill related to our acquisitions. Our
+revenues are derived from sales of our Enterprise and Service Provider segment's products, which include our Workspace
+Services solutions, Delivery Networking products, and related license updates and maintenance, and our Cloud Services
+offerings, as well as from sales of the GoTo Business segment’s Communications Cloud and Workﬂow Cloud products. As part
+of our continued transformation, effective January 1, 2016, we reorganized a part of our business by creating a new Cloud
+Services product grouping, which resulted in a change in segment composition. In connection with this change, during the first
+quarter of 20 16, we performed an assessment of our goodwill reporting units and determined that the Cloud Services
+reorganization resulted in the identification of three goodwill reporting units (Enterprise and Service Provider excluding Cloud
+Services, Cloud Services and GoTo Business). The identification of these reporting units triggered a reallocation of goodwill as
+of January 1, 2016 based on the relative fair value approach, however no further quantitative impairment test was deemed
+necessary. Our reportable segments remain unchanged. We evaluate goodwill between our reportable segments, which are the
+Enterprise and Services Provider segment and the GoTo Business segment. Additionally, on January 31, 2017, we completed
+the separation and subsequent merger of the GoTo Business to LogMeIn. As a result, we are reevaluating our operating
+segments in the first quarter of 20 17. See Note 11 to our consolidated financial statements included in this Annual Report on
+Form 10-K for the year ended December 31, 2016 for additional information regarding our reportable segments.
+We account for goodwill in accordance with FASB’s authoritative guidance, which requires that goodwill and certain
+intangible assets are not amortized, but are subject to an annual impairment test. We complete our goodwill and certain
+intangible assets impairment test on an annual basis, during the fourth quarter of our fiscal year, or more frequently, if changes
+in facts and circumstances indicate that an impairment in the value of goodwill and certain intangible assets recorded on our
+balance sheet may exist.
+In the fourth quarter of 2016, we performed a qualitative assessment to determine whether further quantitative
+impairment testing for goodwill and certain intangible assets is necessary, which we refer to this assessment as the Qualitative
+Screen. In performing the Qualitative Screen, we are required to make assumptions and judgments including but not limited to
+35

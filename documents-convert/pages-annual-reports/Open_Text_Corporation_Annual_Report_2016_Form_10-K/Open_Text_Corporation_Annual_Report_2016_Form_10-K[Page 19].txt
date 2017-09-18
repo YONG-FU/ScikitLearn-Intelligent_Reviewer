@@ -1,0 +1,54 @@
+Research and Development
+The industry in which we compete is subject to rapid technological developments, evolving industry standards, changes
+in customer requirements and competitive new products and features. As a result, our success, in part, depends on our ability to
+continue to enhance our existing products in a timely and efficient manner and to develop and introduce new products that meet
+customer needs while reducing total cost of ownership. To achieve these objectives, we have made and expect to continue to
+make investments in research and development, through internal and third-party development activities, third-party licensing
+agreements and potentially through technology acquisitions. Our research and development expenses were $194.1 million for
+Fiscal 2016, $196.5 million for Fiscal 2015, and $176.8 million for Fiscal 2014. We believe our spending on research and
+development is an apprOpriate balance between managing our organic growth and results of operation. We expect to continue to
+invest in research and development to maintain and improve our products and services offerings.
+Acquisitions During the Last Five Fiscal Years
+Our competitive position in the marketplace requires us to maintain a complex and evolving array of technologies,
+products, services and capabilities. In light of the continually evolving marketplace in which we operate, we regularly evaluate
+acquisition opportunities within the EIM market and at any time may be in various stages of discussions with respect to such
+opportunities.
+Pursuing strategic acquisitions is an important aspect to our current and future growth strategy, which we expect to
+continue, in order to strengthen our service offerings in the EIM market. In Fiscal 2016 we acquired Daegis, ANX and CEM
+Business. Daegis was a global software and services company. Its acquisition brings a broad range of information governance
+expertise and technology to OpenText, which we believe better enables our customers to mitigate the risks and costs associated
+with "information sprawl" and the permanent retention of information. ANX was a leading provider of cloud-based information
+exchange services to the US. automotive and healthcare industries, which we believe complements our existing B2B
+integration solutions while strengthening our presence in these industries. Lastly, in Fiscal 2016 we also acquired CEM
+Business that we believe complement our current offerings in CEM and related cloud oﬁerings, while providing our customers
+with leading software products in marketing optimization, mobile marketing and in “voice” of the customer programs.
+Below is a summary of the more material acquisitions we have made over the last five fiscal years.
+In Fiscal 2016, we completed the following acquisitions:
+° On May 1, 2016, we acquired ANXe Business Corporation, a leading provider of cloud-based information exchange
+services to the automotive and healthcare industries, based in Michigan, United States. Total consideration for ANX
+was approximately $104.6 million.
+° On April 30, 2016, we acquired certain customer experience software and services assets and liabilities from HP Inc.
+(CEM Business) for approximately $160.0 million.
+° On November 23, 2015, we acquired Daegis Inc, a global information governance, data migration solutions and
+development company, based in Texas, United States. Total consideration for Daegis was approximately $23.3
+million.
+Prior to Fiscal 2016, we completed the following acquisitions:
+- On January 16, 2015, we acquired Actuate Corporation (Actuate), based in San Francisco, California, United States,
+for $332.0 million, comprised of approximately $322.4 million in cash and shares we purchased of Actuate in the
+open market with a fair value of approximately $9.5 million as of the date of acquisition. Actuate was a leader in
+personalized analytics and insights.
+- On January 2, 2015, we acquired Informative Graphics Corporation (IGC), based in Scottsdale, Arizona, United
+States, for approximately $40.0 million. IGC was a leading developer of viewing, annotation, redaction and
+publishing commercial software.
+- On January 16, 2014, we acquired GXS Group Inc. (GXS), a Delaware corporation and leader in cloud-based B2B
+integration services for $1.2 billion, inclusive of the issuance of 2,595,042 OpenText Common Shares.
+° On August 15, 2013, we acquired Cordys Holding B.V. (Cordys), a leading provider of BPM and case management
+solutions, offered on one platform with cloud, mobile, and social capabilities, based in Putten, the Netherlands for
+$33.2 million.
+° On May 23, 2013, we acquired ICCM Professional Services Limited (ICCM), a company based in Malmesbury,
+United Kingdom, for $18.9 million. ICCM is a provider of IT service management software solutions.
+° On March 5, 2013, we acquired Resonate KT Limited (RKT), a company based in Cardiff, United Kingdom, for
+$20.0 million. RKT was a leading provider of software that enables organizations to visualize unstructured data,
+create new user experiences for ECM and xECM for SAP, as well as build industry-based applications that
+maximize unstructured data residing within Content Server, a key component of the OpenText ECM suite.
+1 1

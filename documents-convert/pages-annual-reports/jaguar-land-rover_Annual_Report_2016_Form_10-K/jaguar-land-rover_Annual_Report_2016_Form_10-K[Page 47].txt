@@ -1,0 +1,58 @@
+1 1 8 | JAGUAR LAND ROVER AUTOMOTIVE PLO
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+34 FINANCIAL INSTRUMENTS (CONTINUED)
+i) HEDGE ACCOUNTING EXPOSURES
+The Group uses foreign currency contracts to hedge its risk associated with foreign currency fluctuations relating to highly
+probable forecast transactions. The fair value of such contracts designated in the hedge relationship as of 31 March 2016 was
+a net liability of £1,118 million (2015: net liability of £1,263 million, 2014: net asset of £673 million).
+Cash flow hedges are expected to be recognised in profit or loss during the years ending 31 March 2017 to 2021. The Group
+also has a number of foreign currency options which are entered into as an economic hedge Ofthe financial risks of the Group.
+The time value of options is excluded from the hedge relationship and thus the change in time value is recognised immediately
+in the consolidated income statement.
+Changes in the fair value of foreign currency contracts, to the extent determined to be an effective hedge, are recognised
+in the statement of other comprehensive income and the ineffective portion ofthe fair value change is recognised in the
+income statement. Accordingly, the fair value change of net loss of £169 million (2015: loss of £1,768 million, 2014: gain
+of £1,041 million) was recognised in other comprehensive income. The loss due to hedge ineffectiveness where forecast
+transactions are no longer expected to occur was £2 million (2015: loss of £5 million, 2014: gain of £5 million) which has
+been recognised in ‘Foreign exchange (loss)/gain’ in the consolidated income statement. The gain on derivative contracts not
+eligible for hedging was £88 million (2015: loss of £161 million, 2014: gain of £57 million) which has been recognised in ‘Foreign
+exchange (loss)/gain’ in the consolidated income statement.
+A 10 per cent depreciation/appreciation of the foreign currency underlying such contracts would have resulted
+in an approximate additional (loss)/gain of (£1,824) million/£1,690 million (2015: £1,251 million/(£1,382) million,
+2014: £734 million/(£893) million) in equity and a gain/(loss) of £60 million/£54 million (2015: £165 million/(£91) million,
+2014: £51 million/(£31) million) in the consolidated income statement.
+In addition to using derivative contracts to economically hedge future purchases in US Dollars, the Group issues bonds
+denominated in US Dollars to give a degree of natural hedging of future sales revenues.
+ii) BALANCE SHEET EXPOSURES
+The Group is also exposed to fluctuations in exchange rates which impact the valuation of foreign currency denominated
+assets and liabilities of its national sales companies and also foreign currency denominated balances on all Group’s balance
+sheet at each reporting period end.
+The following table sets forth information relating to foreign currency exposure as of 31 March 2016:
+I US Dollar Chinese Yuan Euro Others" Total
+As at 31 March 2016 Em Em Em Em Em
+Financial assets 664 666 621 384 2,335
+Financial liabilities (2,367) (571) (1,670) (326) (4,934)
+Net exposure asset/(liability) (1,703) 95 (1,049) 58 (2,599)
+A 10 per cent appredation/depreciation of the US Dollar, Chinese Yuan and Euro would result in an increase/decrease in the
+Group’s net profit before tax and total equity by approximately £170 million, £10 million and £105 million respectively for the
+year ended 31 March 2016.
+The following table sets forth information relating to foreign currency exposure as of 31 March 2015:
+I US Dollar Chinese Yuan Euro Others" Total
+As at 31 March 2015 Em Em Em Em Em
+Financial assets 727 742 483 312 2,264
+Financial liabilities (2,139) (756) (1,098) (182) (4,175)
+Net exposure asset/(liability) (1,412) (14) (615) 130 (1,911)
+A 10 per cent appredation/depreciation of the US Dollar, Chinese Yuan and Euro would result in an increase/decrease in the
+Group’s net profit before tax and total equity by approximately £141 million, £1 million and £62 million respectively for the year
+ended 31 March 2015.
+The following table sets forth information relating to foreign currency exposure as of 31 March 2014:
+' US Dollar Chinese Yuan Euro Others" Total
+As at 31 March 2014 Em Em Em Em Em
+Financial assets 463 840 296 335 1,934
+Financial liabilities (1,594) (715) (1,322) (285) (3,916)
+Net exposure asset/(liability) (1,131) 125 (1,026) 50 (1,982)
+A 10 per cent appreciation/depreciation of the US Dollar, Chinese Yuan and Euro would result in an increase/decrease in the
+Group’s net profit before tax and total equity by approximately £113 million, £13 million and £103 million respectively for the
+year ended 31 March 2014.
+* Others include Japanese Yen, Russian Rouble, Singapore Dollar, Swiss Franc, Australian Dollar, South African Rand, Thai Baht, Korean Won etc.

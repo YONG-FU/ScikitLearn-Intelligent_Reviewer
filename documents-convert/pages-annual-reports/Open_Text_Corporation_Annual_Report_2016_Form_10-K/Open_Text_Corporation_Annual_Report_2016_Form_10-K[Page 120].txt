@@ -1,0 +1,26 @@
+OPEN TEXT CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In thousands of US. dollars)
+Year Ended June 30,
+2016 2015 2014
+{Net income for the period 39 284,495 $ 234,406 $ 218,074 ‘
+Other comprehensive income—net of tax:
+[ Net foreign currency translation adjustments (3,318) 15,690 (2,779)}
+Unrealized gain (loss) on cash ﬂow hedges:
+[ Unrealized (loss) (2,574) (6,064) (357)}
+Loss reclassified into net income 2,956 5,710 3,242
+Actuarial gain (loss) relating to defined benefit
+pension plans:
+Actuarial loss (3,374) (3,302) (841)
+[ Amortization of actuarial loss into net income 347 357 294 I
+Unrealized net gain (loss) on short-term investments 445 (12) —
+[ Unrealized gain on marketable securities (Actuate) — 1,906 —]
+Release of unrealized gain on marketable securities _ (1 906) _
+(Actuate) 7 7 7 ’ 7 7 7
+[gggdother comprehensive income (loss), net, for the (5,518) 12,379 (441)
+Total comprehensive income : 278,977 246,785 217,633 :
+Comprehensive (income) loss attributable to non-
+[controlling interests 7 (18) (79) 7 51 I
+Total comprehensive income attributable to OpenText $ 278,959 $ 246,706 $ 217,684
+See accompanying Notes to Consolidated Financial Statements
+1 12

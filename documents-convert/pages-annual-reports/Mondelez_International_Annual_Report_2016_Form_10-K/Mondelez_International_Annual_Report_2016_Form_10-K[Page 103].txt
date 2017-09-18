@@ -1,0 +1,48 @@
+Iable,0f,Contents
+We used the following weighted-average assumptions to determine our postretirement beneﬁt obligations:
+U.S. Plans Non-U.S. Plans
+As of December 31, As of December 31,
+2016 2015 2016 2015
+Discount rate 4.14% 4.60% 4.55% 4.77% l
+Health care cost trend rate
+v assumed for next year 6.50% 6.50% 5.50% 5.37%
+[Ultimate trend rate 5.00% 5.00% 5.68% 5.55% I
+Year that the rate reaches the
+ultimate trend rate 2020 2020 2018 2018
+Year-end discount rates for our U.S., Canadian and UK. plans were developed from a model portfolio of high quality, ﬁxed-income debt instruments
+with durations that match the expected future cash flows of the benefit obligations. Year-end discount rates for our remaining non-U.S. plans were
+developed from local bond indices that match local beneﬁt obligations as closely as possible. Changes in our discount rates were primarily the result
+of changes in bond yields year-over-year. Our expected health care cost trend rate is based on historical costs.
+At the end 2015, we changed the approach used to measure service and interest costs for other postretirement beneﬁts. For 2015, we measured
+service and interest costs utilizing a single weighted-average discount rate derived from the yield curve used to measure the plan obligations. For
+2016, we measured service and interest costs by applying the speciﬁc spot rates along that yield curve to the plans’ liability cash ﬂows. We believe
+the new approach provided a more precise measurement of service and interest costs by aligning the timing of the plans’ liability cash ﬂows to the
+corresponding spot rates on the yield curve. The impact of this change was a decrease in net periodic postretirement cost of approximately $4 million
+for the year ended December 31, 2016. This change does not affect the measurement of our plan obligations. We accounted for this change as a
+change in accounting estimate and, accordingly, accounted for it on a prospective basis.
+Assumed health care cost trend rates have a signiﬁcant impact on the amounts reported for the health care plans. A one-percentage-point change in
+assumed health care cost trend rates would have the following effects:
+As of December 31, 2016
+One-Percentage-Point
+Increase Decrease
+(in millions)
+Effect on postretirement beneﬁt obligation $ 41 $ (3_3)j
+Effect on annual service and interest cost 3 (2)
+Components of Net Periodic Postretirement Health Care Costs:
+Net periodic postretirement health care costs consisted of the following:
+For the Years Ended December 31,
+2016 2015 2014
+(in millions)
+Service cost $ 12 $ 15 $ 13 l
+Interest cost 20 22 22
+Amortization: l
+Net loss from exrﬂience differences 10 13 5
+I Prior service credit (1) (240) (D (9)
+Net periodic postretirement health care costs 3 22: § 43 § 30:
+(1) For the year ended December 31, 2016, amortization of prior service credit includes $9 million of curtailment gain related to a change in the eligibility
+requirement.
+As of December 31, 2016, we expected to amortize from accumulated other comprehensive earnings / (losses) into pre-tax net periodic
+postretirement health care costs during 2017:
+0 an estimated $15 million of net loss from experience differences, and
+o an estimated $40 million of prior service credit.
+100

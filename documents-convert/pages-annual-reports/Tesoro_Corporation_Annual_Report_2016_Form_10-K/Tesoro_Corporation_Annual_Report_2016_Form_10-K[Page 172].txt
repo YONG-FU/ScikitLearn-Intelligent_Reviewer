@@ -1,0 +1,43 @@
+(4) if any Indebtedness bears a ﬂoating rate of interest, the interest expense on such Indebtedness will be calculated as if the average rate in effect
+from the beginning of the applicable period to the Calculation Date had been the applicable rate for the entire period (taking into account any Hedging
+Obligation applicable to such Indebtedness if such Hedging Obligation has a remaining term as at the Calculation Date in excess of 12 months); and
+(5) if any Indebtedness is incurred or repaid under a revolving credit facility and is being given pro forma effect, the interest on such indebtedness
+shall be calculated based on the average daily balance of such Indebtedness for the four ﬁscal quarters subject to the pro forma calculation.
+“Eixedﬂhargg” means,with respect to any speciﬁed Person for any period, (A) the sum, without duplication, of:
+(1) the consolidated interest expense of such Person and its Restricted Subsidiaries for such period, Whether paid or accrued, including, without
+limitation, amortization of debt issuance costs and original issue discount, non—cash interest payments, the interest component of any deferred payment
+obligations, the interest component of all payments associated with Financing Lease Obligations, imputed interest with respect to Attributable Debt,
+commissions, discounts and other fees and charges incurred in respect of letter of credit or bankers’ acceptance ﬁnancings, and net of the effect of all
+payments made or received pursuant to Hedging Obligations in respect of interest rates and excluding (s) penalties and interest relating to taxes, (t) any
+“additional interest” relating to customary registration rights with respect to securities, (u) non-cash interest expense attributable to movement in mark-
+to-market valuation of Hedging Obligations or other derivatives (in each case permitted hereunder and under GAAP), (V) accretion or accrual of
+discounts with respect to liabilities not constituting Indebtedness, (W) any expense resulting from the discounting of Indebtedness in connection with
+the application of recapitalization or purchase accounting, (x) amortization of deferred ﬁnancing fees, debt issuance costs, commissions, fees and
+expenses and, with respect to Indebtedness issued in connection with the Acquisition, original issue discount, (y) any expensing of bridge, commitment
+and other ﬁnancing fees and (z) any lease, rental or other expense in connection with a Non—Financing Lease Obligation; plus
+(2) the consolidated interest expense of such Person and its Restricted Subsidiaries that was capitalized during such period; plus
+(3) any interest expense on Indebtedness of another Person that is guaranteed by such Person or one of its Restricted Subsidiaries or secured by a
+Lien on assets of such Person or one of its Restricted Subsidiaries, whether or not such Guarantee or Lien is called upon; plus
+(4) all dividends, whether paid or accrued and whether or not in cash, on any series of Disqualiﬁed Equity of such Person or any of its Restricted
+Subsidiaries, other than dividends on Equity Interests payable (i) solely in Equity Interests of TLLP (other than Disqualiﬁed Equity) or (ii) to TLLP or a
+Restricted Subsidiary of TLLP; minus
+(B) to the extent included in (A) above, write-off of nonrecurring deferred ﬁnancing costs of such Person and its Restricted Subsidiaries during such period
+and any charge related to, or any premium orpenalty paid in connection with, paying any such Indebtedness of such Person and its Restricted Subsidiaries
+prior to its Stated Maturity.
+“GAAP” means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the
+American Institute of Certiﬁed Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other
+statements by such other entity as have been approved by a signiﬁcant segment of the accounting profession, which are in effect from time to time. If there
+occurs a change in generally accepted accounting principles relating to revenue recognition resulting from the joint revenue recognition standard of the
+Financial Accounting Standards Board and the International Accounting Standards Board, and such change would cause a change in the method of
+calculation of standards or terms as determined in good faith by TLLP (an “Ac,c,o,ummgChaug§”), then TLLP may elect, as evidenced by a written notice of
+TLLP to the Trustee, that such standards or terms shall be calculated as if such Accounting Change had not occurred. Any such election with respect to such
+Accounting Change may not thereafter be changed.
+“General Partner” means Tesoro Logistics GP, LLC, a Delaware limited liability company, and its successors and permitted assigns as general partner of
+TLLP or as the business entity with the ultimate authority to manage the business and operations of TLLP.
+“Global NoteiLegend” means the legend set forth in Section 2951. gig), hereof, which is required to be placed on all Global Notes issued under this
+Indenture.
+“Global Notes” means, individually and collectively, each of the Notes issued or issuable in the global form of Exhibit A hereto issued in accordance
+with Section 2.01 or 2.06 hereof.
+“Government Securities” means direct obligations of, or obligations guaranteed by, the United States of America for the payment of which guarantee or
+obligations the ﬁll faith and credit of the United States of America is pledged.
+-8-

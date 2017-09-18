@@ -1,0 +1,42 @@
+Table,of,Contents
+On November 1, 2016, the Department of Education released a new regulation, scheduled to take effect July 1, 2017, that
+makes significant changes to the financial responsibility criterion. Under the final regulation, an institution may no longer be
+considered ﬁnancially responsible if one or more of a list of “triggering events” occurs. The Department of Education will
+automatically determine that an institution is not financially responsible if, among other things, the institution receives certain
+warnings from the SEC, fails to timely file required reports, or has a cohort default rate of 30% or greater for each of the two most
+recent ofﬁcial calculations. The Department of Education will also determine that an institution is not financially responsible if
+certain triggering events, such as a lawsuit against the institution, an accrediting agency’s requirement that the institution submit a
+teach-out plan, or potential loss of Title IV eligibility for gainful employment programs, result in the institution’s recalculated
+composite score to be less than 1.0. The Department of Education may also invoke certain “discretionary” triggering events, such
+as citation by a state agency or accrediting agency for failure to satisfy the agency’s standards, to determine that an institution is
+not financially responsible. On January 30, 2017, the new Administration indicated in a notice published in the Federal Register
+that it intends to take action in relation to this regulation, but it is unclear what that action will be or when it will be taken.
+Student Loan Defaults
+Under the Higher Education Act, an educational institution may lose its eligibility to participate in some or all of the Title IV
+programs if defaults on the repayment of Direct Loan or Federal Family Education Loan (“F FEL”) Program loans by its students
+exceed certain levels. The Department of Education uses a speciﬁc methodology to determine default rates and imposes varying
+sanctions based upon the results of that calculation. As discussed below, the cohort default rate calculation and threshold for
+regulatory sanctions changed effective 2014 as a result of the reauthorization of the Higher Education Act through the Higher
+Education Opportunity Act (“HEOA”), which was effective August 18, 2008.
+The Department of Education calculates a rate of student defaults (known as a cohort default rate) for each institution with
+30 or more borrowers entering repayment in a given federal fiscal year. The Department of Education includes in the cohort all
+student borrowers at the institution who entered repayment on any Direct or FFEL Program loan during that year. The cohort
+default rate is the percentage of those borrowers who become subject to their repayment obligation in the relevant federal fiscal
+year and default by the end of the second federal fiscal year following that fiscal year, resulting in a three-year cohort default rate.
+Because of the need to collect data on defaults, the Department of Education publishes cohort default rates three years in arrears;
+for example, in the fall of 20 16, the Department of Education issued cohort default rates for federal fiscal year 2013.
+The Department of Education may take adverse action against an institution if it has excessive cohort default rates, including
+the following:
+o If an institution’s cohort default rate is 30% or more in a given fiscal year, the institution will be required to assemble a
+“default prevention task force” and submit to the Department of Education a default improvement plan.
+0 If an institution’s cohort default rate exceeds 30% for two consecutive years, the institution will be required to review,
+revise and resubmit its default improvement plan.
+0 If an institution’s cohort default rate exceeds 30% for two out of three consecutive years, the Department of Education
+may subject the institution to provisional certiﬁcation.
+0 If an institution’s cohort default rate is equal to or greater than 30% for each of the three most recent federal ﬁscal years
+for which data are available, the institution will be ineligible to participate in the Direct Loan Program and Federal Pell
+Grant Program.
+An institution generally loses eligibility to participate in Title IV programs if its most recent cohort default rate is greater
+than 40%, and institutions with a cohort default rate equal to or greater than 15% for any of the three most recent fiscal years for
+which data are available are subject to a 30-day delayed disbursement period for ﬁrst-year, first-time
+20

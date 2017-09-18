@@ -1,0 +1,41 @@
+In accounting for the transaction costs related to the 0.25 % Senior Notes issuance, the Company allocated
+the total amount incurred to the liability and equity components based on its relative values. Transaction costs
+attributable to the liability component are being amortized to expense over the terms of the 0.25 % Senior Notes,
+and transaction costs attributable to the equity component were netted with the equity component in temporary
+stockholders’ equity and stockholders’ equity.
+The 0.25% Senior Notes consisted of the following (in thousands):
+7 As of 7
+’January 31, January 31,7
+: 2016 : : 2015 :
+Liability component :
+Principal:
+0.25% Senior Notes (1) ................ $1,150,000 $1,150,000
+Less: debt discount, net
+0.25% Senior Notes (2) . . . . . . . . . . . . . . . . (54,941) (79,308)
+Net carrying amount .......................... $1,095,059 $1,070,692
+(1) The effective interest rates of the 0.25 % Senior Notes is 2.53%. These interest rates were based on the
+interest rates of a similar liability at the time of issuance that did not have an associated convertible feature.
+(2) Included in the consolidated balance sheets within Convertible 0.25 % Senior Notes (which is classified as a
+noncurrent liability) and is amortized over the life of the 0.25% Senior Notes using the effective interest rate
+method.
+The total estimated fair values of the Company’s 0.25% Senior Notes at January 31, 2016 was $1.4 billion.
+The fair value was determined based on the closing trading price per $100 of the 0.25% Senior Notes as of the
+last day of trading for fiscal 2016.
+Based on the closing price of the Company’s common stock of $68.06 on January 29, 2016, the if-converted
+value of the 0.25 % Senior Notes exceeded their principal amount by approximately $28.0 million. Based on the
+terms of the 0.25% Senior Notes, the Senior Notes were not convertible at any time during the fiscal year ended
+January 31, 2016.
+Note Hedges
+To minimize the impact of potential economic dilution upon conversion of the Notes, the Company entered
+into convertible note hedge transactions with respect to its common stock (the “Note Hedges”).
+(in thousands, except for shares) : Date : :Purchase: : Shares :
+0.25% Note Hedges ....................... March 2013 $153,800 17,308,880
+The Note Hedges cover shares of the Company’s common stock at a strike price that corresponds to the
+initial conversion price of the respective Notes, also subject to adjustment, and are exercisable upon conversion
+of the Notes. The Note Hedges will expire upon the maturity of the Notes. The Note Hedges are intended to
+reduce the potential economic dilution upon conversion of the Notes in the event that the market value per share
+of the Company’s common stock, as measured under the Notes, at the time of exercise is greater than the
+conversion price of the Notes. The Note Hedges are separate transactions and are not part of the terms of the
+Notes. Holders of the Notes will not have any rights with respect to the Note Hedges. The Note Hedges do not
+impact earnings per share.
+101

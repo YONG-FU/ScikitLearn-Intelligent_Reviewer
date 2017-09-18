@@ -1,0 +1,26 @@
+ARTICLE II
+Amounts and Terms of the Loans
+SECTION 2.01 The Loans .
+(a) leigationloiMakeiLoans,. Each Lender severally agrees, on the terms and conditions hereinafter set forth, (i) to make Three-Year Loans to the
+Borrower on a single Business Day during the Availability Period (the “ Three-Year Funding Date ”) in an aggregate amount not to exceed such Lender’s Three-
+Year Commitment, if any and (ii) to make F ive-Year Loans to the Borrower on a single Business Day during the Availability Period (the “ Five-LYeariEundingDate
+”) in an aggregate amount not to exceed such Lender’s Five-Year Commitment, if any; providedthat any Three-Year Commitments that are not drawn on the
+Three-Year Funding Date and any F ive-Year Commitments that are not drawn on the F ive-Year Funding Date are deemed automatically cancelled as of such date,
+as the case may be.
+(b) [Reserved]
+(c) lyperofLoansJ Each Borrowing shall consist of Three-Year Loans or F ive-Year Loans of the same Type made on the same day by the Lenders
+ratably according to their respective Commitments.
+SECTION 2.02 MakingtheLoans.
+(a) Noticebeorrowing, Each Borrowing shall be made on notice, given not later than (x) 11:00 am. (New York City time) on the third Business
+Day prior to the relevant Funding Date in the case of a Borrowing consisting of LIBO Rate Loans, or (y) 9:00 am. (New York City time) on the relevant Funding
+Date in the case of a Borrowing consisting of Base Rate Loans, by the Borrower to the Administrative Agent, which shall give to each Lender prompt notice thereof
+by telecopier. Each such notice of a Borrowing (a “ NﬂoticeiofBorrowingj’) shall be by telephone, confirmed immediately in writing, by registered mail, email or
+telecopier in substantially the form of Exhibit B-l hereto, specifying therein the requested:
+(i) Funding Date for such Borrowing,
+(ii) type of Loans comprising such Borrowing,
+(iii) amount of Three-Year Loans and/or amount of F ive-Year Loans
+(iv) aggregate amount of such Borrowing, and
+(v) in the case of a Borrowing consisting of LIBO Rate Loans, the initial Interest Period for such Loan. Notwithstanding anything herein to the
+contrary, no Borrower may select LIBO Rate Loans for any Borrowing if the obligation of the Lenders to make LIBO Rate Loans shall then be suspended
+pursuant to Section 2.06(b), 2.08(c) or 2.13.
+-15-

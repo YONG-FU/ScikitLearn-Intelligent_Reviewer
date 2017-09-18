@@ -1,0 +1,45 @@
+We may be unable to predict the future course of open source technology development, which could
+reduce the market appeal of our offerings, damage our reputation and adversely affect our business,
+financial condition, operating results and cash ﬂows.
+We do not exercise control over many aspects of the development of open source technology. Different
+groups of open source software programmers compete with one another to develop new technology. Typically,
+the technology developed by one group will become more widely used than that developed by others. If we
+acquire or adopt new technology and incorporate it into our offerings but competing technology becomes more
+widely used or accepted, the market appeal of our offerings may be reduced and that could harm our reputation,
+diminish our brands and adversely affect our business, financial condition, operating results and cash ﬂows.
+We include software licensed from other parties in our offerings, the loss of which could increase our costs
+and delay availability of our offerings.
+We utilize various types of software licensed from unaffiliated third parties in our offerings. Aspects of our
+business could be disrupted if any of the software we license from others or functional equivalents of this
+software were no longer available to us, no longer offered to us on commercially reasonable terms or changed in
+ways or included defects that make the third-party software unsuitable for our use. In these cases, we would be
+required to either redesign our technologies to function with software available from other parties, develop these
+components ourselves or eliminate the functionality, which could result in increased costs, the need to mitigate
+customer issues, delays in delivery of our offerings and the release of new offerings and limit the features
+available in our current or future offerings.
+RISKS RELATED TO LEGAL UN CERTAINTY
+If our technologies are found or alleged to infringe third-party intellectual property rights, we may be
+required to take costly and time-consuming actions to meet our commitments to customers.
+We regularly commit to our subscription customers that if portions of our offerings are found to infringe
+third-party intellectual property rights we will, at our expense and option: (i) obtain the right for the customer to
+continue to use the technology consistent with their subscription agreement with us; (ii) modify the technology so
+that its use is non-infringing; or (iii) replace the infringing component with a non-infringing component, and
+defend them against specified infringement claims. Although we cannot predict whether we will need to satisfy
+these commitments and we often have limitations on these commitments, satisfying these commitments could be
+costly, be time-consuming, divert the attention of technical and management personnel, and adversely affect our
+business, financial condition, operating results and cash flows. In addition, our insurance policies would likely
+not adequately cover our exposure to this type of claim. Finally, because we have agreed to defend our
+subscription customers against specified infringement claims arising from the use of our offerings, we could
+become involved in litigation brought against such customers if our services and technology are allegedly
+implicated.
+We are vulnerable to claims that our technologies infringe third-party intellectual property rights and an
+unfavorable legal decision affecting our intellectual property could adversely affect our business.
+We are vulnerable to claims that our technologies infringe third-party intellectual property rights, including
+patents, copyrights, trademarks and trade secrets, because our technologies are comprised of software
+components, many of which are developed by numerous independent parties. We are also unlikely to be able to
+assess adequately the relevance of patents to our technologies, and may be unable to take appropriate responsive
+action in a timely or economic manner because, among other reasons, the scope of software patent protection is
+often not well defined or readily determinable, patent applications in the U.S. are not publicly disclosed at the
+time of filing, and the number of software patents that are issued each year is significant and growing. Our
+exposure to risks associated with the use of intellectual property may increase as a result of acquisitions. In
+28

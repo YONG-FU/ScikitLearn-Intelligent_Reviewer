@@ -1,0 +1,45 @@
+Accounts Receivable
+The accounts receivable balance consists of assumed reinsurance premiums receivable (net of any commissions) on
+business written directly by the reinsurance subsidiary, and commission income receivable on excess and surplus lines business
+marketed by EMC Underwriters, LLC. These receivables are carried at their initial recognition amounts. It is the Company’s
+policy to reﬂect the impairment of receivables through a valuation allowance until ultimately collected or charged-off. No
+valuation allowance is currently carried, as no amounts are deemed impaired. No interest income, other fees, or deferred costs
+related to these receivables are assessed or recognized.
+Off-Balance-Sheet Credit Exposure
+Employers Mutual collects from agents, policyholders and ceding companies all written premiums associated with the
+insurance business produced by the pool participants and the assumed reinsurance business ceded to the reinsurance subsidiary.
+Employers Mutual also collects from its reinsurers all losses and settlement expenses recoverable under the reinsurance
+contracts protecting the pool participants and, starting in 2016, the additional reinsurance protection (see note 2) protecting the
+reinsurance subsidiary, as well as the fronting business ceded to the reinsurance subsidiary. Employers Mutual settles with the
+pool participants (monthly) and the reinsurance subsidiary (quarterly) the premiums written from these insurance policies and
+the paid losses and settlement expenses recoverable under the external reinsurance contracts, providing full credit for the
+premiums written and the paid losses and settlement expenses recoverable under the external reinsurance contracts generated
+during the period (not just the collected portion). Due to this arrangement, and since a significant portion of the premium
+balances are collected over the course of the underlying coverage periods, Employers Mutual carries a substantial receivable
+balance for insurance and reinsurance premiums in process of collection and, to a lesser extent, paid losses and settlement
+expenses recoverable from the external reinsurance companies. Any of these receivable amounts that are ultimately deemed to
+be uncollectible are charged-off by Employers Mutual and the expense is charged to the reinsurance subsidiary or allocated to
+the pool members on the basis of pool participation. As a result, the Company has off-balance sheet arrangements with an
+unconsolidated entity that results in credit-risk exposures (Employers Mutual’s insurance and reinsurance premium receivable
+balances, and paid loss and settlement expense recoverable amounts) that are not reﬂected in the Company’s financial
+statements. The average annual expense for such charge-offs allocated to the Company over the past ten years is
+$362,000. Based on this historical data, this credit-risk exposure is not considered to be material to the Company’s results of
+operations or financial position and, accordingly, no loss contingency liability has been recorded.
+Foreign Currency Transactions
+Included in the underlying reinsurance business assumed by the reinsurance subsidiary are reinsurance transactions
+conducted with foreign cedants denominated in their local functional currencies. In accordance with the terms of the quota
+share agreement (see note 2), the reinsurance subsidiary assumes all foreign currency exchange gains/losses associated with
+contracts incepting on January 1, 2006 and thereafter that are subject to the quota share agreement. The reinsurance subsidiary
+also has foreign currency exchange gains/losses associated with the business assumed outside the quota share agreement. The
+assets and liabilities resulting from these foreign reinsurance transactions are reported in US. dollars based on the foreign
+currency exchange rates that existed at the balance sheet dates. The foreign currency exchange rate gains/losses reported in the
+consolidated statements of income that resulted from these foreign reinsurance transactions are reported in US. dollars re-
+measured from the foreign currency exchange rates that existed at the inception of each reinsurance contract. The foreign
+currency exchange rate gains/losses resulting from these re-measurements to US. dollars are reported as a component of other
+income in the consolidated statements of income.
+Net Income Per Share - Basic and Diluted
+The Company’s basic and diluted net income per share is computed by dividing net income by the weighted average
+number of common shares outstanding during each period. As previously noted, the Company receives the current fair value
+for all shares issued under Employers Mutual ’s stock plans. As a result, the Company had no potential common shares
+outstanding during 2016, 2015 or 2014 that would have been dilutive to the calculation of net income per share.
+109

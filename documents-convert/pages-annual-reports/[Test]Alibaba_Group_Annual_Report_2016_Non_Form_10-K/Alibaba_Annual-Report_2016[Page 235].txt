@@ -1,0 +1,39 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(e) Segment reporting
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief
+operating decision-maker, which is a strategic committee comprised of members of the Company’s
+management team. In the respective periods presented, the Company had one single operating and reportable
+segment, namely the provision of online and mobile commerce and related services. Although the online and
+mobile commerce and related services consist of different business units of the Company, information
+provided to the chief operating decision-maker is at the revenue level and the Company does not allocate
+operating costs or assets across business units, as the chief operating decision-maker does not use such
+information to allocate resources or evaluate the performance of the business units. Details of the Company’s
+revenue are set out in Note 5. As the Company’s long-lived assets are substantially all located in the PRC and
+substantially all of the Company’s revenue is derived from within the PRC, no geographical information
+is presented.
+(f) Foreign currency translation
+The functional currency of the Company is U83? and reporting currency of the Company is RMB. The
+Company’s subsidiaries and VIEs with operations in the PRC, Hong Kong, United States and other
+jurisdictions use their respective currencies as their functional currencies. The financial statements of the
+Company’s subsidiaries and VIEs, other than the subsidiaries and VIEs with the functional currency of RMB,
+are translated into RMB using the exchange rate as of the balance sheet date for assets and liabilities and
+average exchange rate for the year for income and expense items. Translation gains and losses are recorded in
+accumulated other comprehensive income or loss as a component of shareholders’ equity.
+In the financial statements of the Company’s subsidiaries and VIEs, transactions in currencies other than the
+functional currency are measured and recorded in the functional currency using the exchange rate in effect at
+the date of the transaction. At the balance sheet date, monetary assets and liabilities that are denominated in
+currencies other than the functional currency are translated into the functional currency using the exchange
+rate at the balance sheet date. All gains and losses arising from foreign currency transactions are recorded in
+the determination of net income or loss during the year in which they occur.
+(g) Revenue recognition
+Revenue principally represents online marketing services revenue, commissions on transactions, membership
+and storefront fees and cloud computing services revenue. Revenue comprises the fair value of the
+consideration received or receivable for the provision of services in the ordinary course of the Company’s
+activities and is recorded net of value-added tax (“VAT”). Consistent with the criteria of ASC 605 “Revenue
+Recognition” (“ASC 605”), the Company recognizes revenue when the following four revenue recognition
+criteria are met: (i) persuasive evidence of an arrangement exists, (ii) delivery has occurred or services have
+been provided, (iii) the selling price is fixed or determinable, and (iv) collectability is reasonably assured.
+F-19

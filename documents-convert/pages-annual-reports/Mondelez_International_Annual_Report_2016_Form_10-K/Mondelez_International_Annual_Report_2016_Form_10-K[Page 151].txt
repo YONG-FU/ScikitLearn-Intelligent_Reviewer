@@ -1,0 +1,47 @@
+(9) if the currency in which the Securities of that series shall be issuable is Dollars, the denominations in which any Registered Securities of that series
+shall be issuable, if other than denominations of $1,000 and any integral multiple thereof;
+(10) if other than the principal amount thereof, the portion of the principal amount of Securities of that series which shall be payable upon a declaration
+of acceleration of the Maturity thereof pursuant to Section 502;
+(11) any Events of Default and covenants of the Company with respect to the Securities of that series, whether or not such Events of Default or
+covenants are consistent with the Events of Default or covenants set forth herein;
+(12) if a Person other than Deutsche Bank Trust Company Americas is to act as Trustee for the Securities of that series, the name and location of the
+Corporate Trust Office of such Trustee;
+(13) if other than Dollars, the currency or currency unit in which payment of the principal of, and premium, if any, and interest, if any, on the
+Securities of that series shall be made or in which the Securities of that series shall be denominated and the particular provisions applicable thereto in
+accordance with, in addition to or in lieu of the provisions of Section 311;
+(14) if the principal of, and premium, if any, and interest, if any, on the Securities of that series are to be payable, at the election of the Company or a
+Holder thereof, in a currency or currency unit other than that in which such Securities are denominated or stated to be payable, in accordance with provisions
+in addition to or in lieu of, or in accordance with, the provisions of Section 311, the period or periods within which (including the Election Date), and the
+terms and conditions upon which, such election may be made, and the time and manner of determining the exchange rate between the currency or currency
+unit in which such Securities are denominated or stated to be payable and the currency or currency unit in which such Securities are to be so payable;
+(15) the designation of the original Currency Determination Agent, if any;
+(16) if the Securities of such series are issuable as Indexed Securities, the manner in which the amount of payments of principal of, and premium, if
+any, and interest, if any, on that series shall be determined;
+(17) if the Securities of that series do not bear interest, the applicable dates for purposes of Section 701;
+(18) if other than as set forth in Article Four, provisions for the satisfaction and discharge of this Indenture with respect to the Securities of that series;
+(19) the date as of which any Global Security representing Outstanding Securities of that series shall be dated if other than the date of original issuance
+of the first Security of that series to be issued;
+(20) the application, if any, of Section 1010 to the Securities of that series;
+(21) whether the Securities of the series shall be issued in whole or in part in the form of a Global Security or Securities and, in such case, the
+Depositary and Global Exchange Agent, if any, for such Global Security or Securities, whether such global form shall be permanent or temporary and, if
+applicable, the Exchange Date;
+(22) if Securities of the series are to be issuable initially in the form of a temporary Global Security, the circumstances under which the temporary
+Global Security can be exchanged for deﬁnitive Securities and whether the definitive Securities will be Registered Securities and will be in global form and
+whether interest in reSpect of any portion of such Global Security payable in respect of an Interest Payment Date prior to the Exchange Date shall be paid to
+any clearing organization with respect to a portion of such Global Security held for its account and, in such event, the terms and conditions (including any
+certification requirements) upon which any such interest payment received by a clearing organization will be credited to the Persons entitled to interest
+payable on such Interest Payment Date if other than as provided in this Article Three;
+(23) whether the Securities of the series will be convertible or exchangeable into other securities of the Company or another Person, and if so, the
+terms and conditions upon which such Securities will be so convertible or exchangeable, including the conversion price or exchange rate and the conversion
+or exchange period, and any additions or changes to the Indenture with respect to the Securities of such series to permit or facilitate such conversion or
+exchange;
+(24) the form of the Securities of the series;
+(25) whether the Securities shall be issued with Guarantees and, if so, the terms, if any, of any Guarantee of the payment of principal and interest, if
+any, with respect to Securities of the Series and any corresponding changes to the provisions of this Indenture as then in effect; and
+(26) any other terms of that series (which terms shall not be inconsistent with the provisions of this Indenture).
+All Securities of any particular series shall be substantially identical except as to denomination, rate of interest, Stated Maturity and the date from which
+interest, if any, shall accrue, and except as may otherwise be provided in or pursuant to such Board Resolution relating thereto. The terms of such Securities, as set
+forth above, may be determined by the Company from time to time if so provided in or established pursuant to the authority granted in a Board Resolution. All
+Securities of any one series need not be issued at the same time, and unless otherwise provided, a series may be reopened for issuance of additional Securities of
+such series.
+1 3

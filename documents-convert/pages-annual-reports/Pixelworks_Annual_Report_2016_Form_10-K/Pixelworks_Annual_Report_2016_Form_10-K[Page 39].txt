@@ -1,0 +1,44 @@
+Critical Accounting Policies and Estimates
+The preparation of ﬁnancial statements in conformity with US. generally accepted accounting principles requires us to make estimates and judgments that
+affect the amounts reported. On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, product returns, warranty
+obligations, bad debts, inventories, property and equipment, impairment of long-lived assets, valuation of share-based payments, income taxes, litigation and
+other contingencies. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances.
+Actual results may differ from these estimates under different assumptions or conditions.
+We believe the following critical accounting policies affect our more signiﬁcant judgments and estimates used in the preparation of our consolidated
+ﬁnancial statements:
+Revenue Recognition. We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the
+price is ﬁxed and determinable, and collection is reasonably assured. For product sales, we require customers to provide purchase orders prior to shipment and
+we consider delivery to occur upon shipment provided title and risk of loss have passed to the customer based on the shipping terms. These conditions are
+generally satisﬁed upon shipment of the underlying product.
+On occasion, we derive revenue from the license of our internally developed IP. IP licensing agreements that we enter into generally provide licensees the
+right to incorporate our IP components in their products with terms and conditions that vary by licensee. Our license fee arrangements generally include
+multiple deliverables and we are required to determine whether there is more than one unit of accounting. To the extent that the deliverables are separable
+into multiple units of accounting, we allocate the total fee on such arrangements to the individual units of accounting using management’s best estimate of
+selling price ("ESP"), if third party evidence ("TPE") or vendor speciﬁc objective evidence ("VSOE") does not exist. We defer revenue recognition for
+consideration that is contingent upon ﬁature performance or other contractual terms.
+The Company’s process for determining its ESP for deliverables without VSOE or TPE considers multiple factors that may vary depending upon the unique
+facts and circumstances related to each deliverable. The key factors considered by the Company in developing the ESPs include the nature and complexity of
+different technologies being licensed, our cost to provide the deliverables, the availability of substitute technologies in the marketplace and the Company’s
+historical pricing practices. We then recognize revenue for each unit of accounting depending on the nature of the deliverable(s) comprising the unit of
+accounting in accordance with the revenue recognition criteria mentioned above.
+Sales Returns and Allowances. Our customers do not have a stated right to return product except for replacement of defective products under our warranty
+program discussed below. However, we have accepted customer returns on a case-by-case basis as customer accommodations in the past. As a result, we
+provide for these returns in our reserve for sales returns and allowances. At the end of each reporting period, we estimate the reserve for returns based on
+historical experience and knowledge of any applicable events or transactions.
+Certain of our distributors have stock rotation provisions in their distributor agreements, which allow them to return a limited amount of their in-stock
+inventory in exchange for products of equal value. At the end of each reporting period, we estimate the reserve for stock rotations based on historical
+experience and knowledge of any applicable events or transactions.
+Product Warranties. We warrant that our products will be free from defects in materials and workmanship for a period of twelve months from delivery.
+Warranty repairs are guaranteed for the remainder of the original warranty period. Our warranty is limited to repairing or replacing products, or refunding the
+purchase price.
+At the end of each reporting period, we estimate a reserve for warranty returns based on historical experience and knowledge of any applicable events or
+transactions. While we engage in extensive product quality programs and processes, which include actively monitoring and evaluating the quality of our
+suppliers, should actual product failure rates or product replacement costs differ from our estimates, revisions to the estimated warranty liability may be
+required.
+Allowance for Doubtful Accounts. We offer credit to customers after careﬁll examination of their creditworthiness. We maintain an allowance for doubtful
+accounts for estimated losses that may result from the inability of our customers to make required payments. At the end of each reporting period, we estimate
+the allowance for doubtful accounts based on our account-by-account risk analysis of outstanding receivable balances. The determination to write-off
+speciﬁc accounts receivable balances is made based on the likelihood of collection and past due status. Past due status is based on invoice date and terms
+speciﬁc to each customer. If the ﬁnancial condition of our customers were to deteriorate, resulting in an impairment of their ability to make payments,
+additional allowances may be required.
+39

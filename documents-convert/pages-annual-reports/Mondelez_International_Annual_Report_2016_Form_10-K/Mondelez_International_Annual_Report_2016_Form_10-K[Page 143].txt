@@ -1,0 +1,41 @@
+“Maturity”, when used with respect to any Security, means the date on which the principal (or, if the context so requires, in the case of an OID Security, a
+lesser amount or, in the case of an Indexed Security, an amount determined in accordance with the speciﬁed terms of that Security) of that Security becomes due
+and payable as therein or herein provided, whether at the Stated Maturity or by declaration of acceleration, call for redemption, request for redemption, repayment
+at the option of the holder, pursuant to any sinking fund or otherwise.
+“Notice of Default” has the meaning speciﬁed in Section 501(3).
+“Ofﬁcers’ Certiﬁcate” means a certiﬁcate signed by any Chairman of the Board, Vice Chairman of the Board, Chief Executive Officer, President or Vice
+President (any reference to a Vice President of the Company herein shall be deemed to include any Vice President of the Company whether or not designated by a
+number or a word or words added before or after the title “Vice President”), and by the Treasurer, an Assistant Treasurer, the Controller, an Assistant Controller, the
+Secretary or an Assistant Secretary of the Company, and delivered to the Trustee for the Securities of any series.
+“OID Security” means a Security which provides for an amount (excluding any amounts attributable to accrued but unpaid interest thereon) less than the
+principal amount thereof to be due and payable upon a declaration of acceleration of the Maturity thereof pursuant to Section 502.
+“Opinion of Counsel” means, for purposes of Section 1108, a written opinion of independent legal counsel of recognized standing and, for all other purposes
+hereof, means a written opinion of counsel, who may be an employee of or counsel to the Company.
+“Outstanding”, when used with respect to Securities, means, as of the date of determination, all Securities theretofore authenticated and delivered under this
+Indenture, except:
+(1) Securities theretofore canceled by the Trustee for such Securities or delivered to such Trustee for cancellation;
+(2) Securities or portions thereof for whose payment or redemption money in the necessary amount and in the required currency or currency unit has
+been theretofore deposited with the Trustee for such Securities or any Paying Agent (other than the Company or any other obligor upon the Securities) in
+trust or set aside and segregated in trust by the Company or any other obligor upon the Securities (if the Company or any other obligor upon the Securities
+shall act as its own Paying Agent) for the Holders of such Securities; provided, however, that, if such Securities or portions thereof are to be redeemed, notice
+of such redemption has been duly given pursuant to this Indenture, or provision therefor satisfactory to such Trustee has been made; and
+(3) Securities which have been paid pursuant to Section 306 or in exchange for or in lieu of which other Securities have been authenticated and
+delivered pursuant to this Indenture, other than any such Securities in respect of which there shall have been presented proof satisfactory to the Trustee for
+such Securities that any such Securities are held by bona ﬁde holders in due course;
+provided, however, that in determining whether the Holders of the requisite principal amount of Outstanding Securities have given any request, demand,
+authorization, direction, notice, consent or waiver hereunder, (a) Securities owned by the Company or any other obligor upon the Securities or any Afﬁliate of the
+Company or such other obligor shall be disregarded and deemed not to be Outstanding, except that, in determining whether the Trustee for such Securities shall be
+protected in relying upon any such request, demand, authorization, direction, notice, consent or waiver, only Securities which a Responsible Ofﬁcer of such Trustee
+actually knows to be so owned shall be so disregarded; Securities so owned which have been pledged in good faith may be regarded as Outstanding if the pledgee
+establishes to the satisfaction of such Trustee the pledgee’s right so to act with respect to such Securities and that the pledgee is not the Company or any other
+obligor upon the Securities or any Afﬁliate of the Company or of such other obligor; (b) the principal amount of an OID Security that shall be deemed to be
+Outstanding for such purposes shall be the amount of the principal thereof that would be due and payable as of the date of such determination upon a declaration of
+acceleration pursuant to Section 502; and (c) the principal amount of a Security denominated in a Foreign Currency or currency unit that shall be deemed to be
+outstanding for such purposes shall be determined in accordance with Section 115.
+“Paying Agent” means the Trustee or any other Person authorized by the Company to pay the principal of, and premium, if any, and interest, if any, on any
+Securities of any series on behalf of the Company.
+“Person” means any individual, ﬁrm, corporation, partnership, association, joint venture, tribunal, trust, government or political subdivision or agency or
+instrumentality thereof, or any other entity or organization.
+“Place of Payment”, when used with respect to the Securities of any particular series, means the place or places where the principal of, premium, if any, and
+interest, if any, on the Securities of that series are payable, as contemplated by Section 301.
+5

@@ -1,0 +1,51 @@
+Investments
+Available-for-sale Securities
+Our short-term and long-term investments consist primarily of investment— grade debt securities, all of which are classified as
+available-for—sale. Available-for—sale securities are recorded at fair value, and unrealized holding gains and losses are recorded,
+net of tax, as a component of accumulated other comprehensive income. Available-for—sale securities with remaining maturities
+of less than one year and those identified by management at the time of purchase to be used to fund operations within one year
+are classified as short-term. All other available-for—sale securities are classified as long-term. We evaluate our available-for—sale
+securities for other than temporary impairment on a quarterly basis. Unrealized losses are charged against net earnings when a
+decline in fair value is determined to be other than temporary. We review several factors to determine whether a loss is other
+than temporary, such as the length and extent of the fair value decline, the financial condition and near-term prospects of the
+issuer and whether we have the intent to sell or will more likely than not be required to sell before the securities' anticipated
+recovery, which may be at maturity. Realized gains and losses are accounted for using the specific identification method.
+Purchases and sales are recorded on a trade date basis.
+Trading Securities
+We also have a trading securities portfolio, which is comprised of marketable equity mutual funds and equity exchange-traded
+funds. Trading securities are recorded at fair value with unrealized holding gains and losses recorded in interest income and
+other, net on our consolidated statements of earnings. Our trading securities portfolio approximates a portion of our liability
+under our Management Deferred Compensation Plan ("MDCP"), which is included in accrued compensation and related costs,
+within accrued liabilities on our consolidated balance sheets. Changes in our MDCP liability are recorded in general and
+administrative expenses on our consolidated statements of earnings.
+Equity and Cost Method Investments
+Equity investments are accounted for using the equity method of accounting if the investment gives us the ability to exercise
+significant inﬂuence, but not control, over an investee. Equity method investments are included within long-term investments
+on our consolidated balance sheets. Our share of the earnings or losses as reported by equity method investees are classified as
+income from equity investees on our consolidated statements of earnings.
+Equity investments for which we do not have the ability to exercise significant inﬂuence are accounted for using the cost
+method of accounting and are recorded in long-term investments on our consolidated balance sheets. Under the cost method,
+investments are carried at cost and are adjusted only for other-than—temporary declines in fair value, certain distributions and
+additional investments.
+We evaluate our equity and cost method investments for impairment annually and when facts and circumstances indicate that
+the carrying value of such investments may not be recoverable. We review several factors to determine whether the loss is other
+than temporary, such as the length and extent of the fair value decline, the financial condition and near-term prospects of the
+investee, and whether we have the intent to sell or will more likely than not be required to sell before the investment’s
+anticipated recovery. If a decline in fair value is determined to be other than temporary, an impairment charge is recorded in net
+earnings.
+Fair Value
+Fair value is the price we would receive to sell an asset or pay to transfer a liability (exit price) in an orderly transaction
+between market participants. For assets and liabilities recorded or disclosed at fair value on a recurring basis, we determine fair
+value based on the following:
+Level 1: The carrying value of cash and cash equivalents approximates fair value because of the short-term nature of these
+instruments. For trading and US. government treasury securities and commodity futures contracts, we use quoted prices in
+active markets for identical assets to determine fair value.
+Level 2: When quoted prices in active markets for identical assets are not available, we determine the fair value of our
+available-for—sale securities and our over-the-counter forward contracts, collars and swaps based upon factors such as the
+quoted market price of similar assets or a discounted cash ﬂow model using readily observable market data, which may include
+interest rate curves and forward and spot prices for currencies and commodities, depending on the nature of the investment. The
+fair value of our long-term debt is estimated based on the quoted market prices for the same or similar issues or on the current
+rates offered to us for debt of the same remaining maturities.
+Level 3: We determine the fair value of our auction rate securities using an internally—developed valuation model, using inputs
+that include interest rate curves, credit and liquidity spreads and effective maturity.
+52 Starbucks Corporation 2016 Form 10-K

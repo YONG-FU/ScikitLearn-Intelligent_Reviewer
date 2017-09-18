@@ -1,0 +1,46 @@
+solution is architected to enable customers to reduce costs while delivering high-quality application experiences with
+minimal bandwidth impact, regardless of device, connectivity or public/private cloud architectures.
+Network Operator Solutions
+With the growth in consumer adoption of Internet video and other media, carriers around the world have experienced
+significant traffic increases, resulting in congestion across networks from aggregation, to backbone, to interconnection. Our
+Network Operator offerings are designed to help carriers operate a cost-efficient network that capitalizes on traffic growth and
+new subscriber services by reducing the complexity of building a CDN and interconnecting access providers. Similarly, our
+Mobile Network Solutions address the need for tailored solutions to handle the unique complexities of using mobile networks
+to offer access to content and applications. These offerings include:
+0 Aura Licensed CDN — Aura Licensed CDN is a suite of solutions designed to empower network operators to build and
+run a highly-scalable media content delivery network that efficiently delivers its own content as well as content from
+Akamai customers and other targeted services, all utilizing a common HTTP caching infrastructure. The Aura
+Licensed CDN federates with the Akamai Intelligent Platform, providing global delivery of operator content with a
+single business agreement. The solution also includes HyperCache, a common HTTP caching layer in the network
+that supports traffic ofﬂoad and delivery of content, and Request Router, a DNS-based content request router that
+directs user requests to an optimal available CDN node.
+0 Aura Managed CDN — Aura Managed CDN is a scalable, turnkey CDN solution designed to provide network
+operators with CDN capabilities through an infrastructure that is maintained by Akamai. With it, an operator can
+leverage the same CDN techniques used by Akamai, but on servers that are dedicated to the network operator's
+services. Operators can deliver multi-screen video services and large objects, plus offer commercial CDN services,
+relying on Akamai CDN experts and proven technology for content provisioning, delivery and reporting.
+- Intelligent DNS Solutions — Our AnswerX offering is an intelligent recursive DNS platform built for effective
+management of DNS traffic. To help make web services fast, safe and uniquely personal for subscribers, AnswerX
+manages subscriber preferences (e.g., opt-in or opt-out), tracks popular destinations and maintains lists of typo
+squatters (website addresses that are similar to popular ones but with misspelled names) and phishing domains.
+Media Delivery Solutions
+In recent years, streaming of movies, television and live events has come to represent a significant percentage of traffic on
+the Internet. Providing solutions to handle that media is an important part of our current and future strategy. Our Media
+Delivery Solutions are designed to enable enterprises to execute their digital media distribution strategies, not only by
+providing solutions for their volume and global reach requirements but also by improving the end-user experience, boosting
+reliability and reducing their cost of Internet-related infrastructure. Our offerings include:
+0 Adaptive Delivery — We provide adaptive delivery solutions for streaming video content that are designed to cope
+with variable connection speeds, different devices and disparate locations around the world.
+- Download Delivery — Our download delivery offerings provide accelerated distribution for large file downloads,
+including games, progressive media (video and audio) files, documents and other file-based content.
+- Infinite Media Acceleration — These media delivery acceleration solutions are designed with the goal to bring
+broadcast quality TV experiences to broadband.
+- Media Services —- These services help simplify the preparation of online media with integrated transcoding, digital
+rights management and content packaging designed to enable our customers to quickly and easily deliver live and on-
+demand content to multiple types of devices and platforms.
+- Media Analytics —- We offer a comprehensive suite of analytics tools to monitor online video viewer experiences and
+the effectiveness of web software downloads, while measuring audience engagement, and quality of service
+performance. These solutions are designed to provide actionable and relevant metrics to help businesses understand
+their entire media workﬂow from ingest to device through four complementary modules: Quality of Service Monitor,
+Viewer Diagnostics, Audience Analytics and Download Analytics.
+7

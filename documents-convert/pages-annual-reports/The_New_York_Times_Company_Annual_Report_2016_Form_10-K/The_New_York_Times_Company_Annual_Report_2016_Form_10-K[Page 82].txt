@@ -1,0 +1,48 @@
+Weighted-average assumptions used in the actuarial computations to determine net periodic pension cost for
+non-qualified plans were as follows:
+December 25, December 27, December 28,
+201 6 201 5 201 4
+|Discount rate for determining projected benefit obligation 4.40% 3.90% 4.60%j
+Discount rate in effect for determining interest cost 3.44% 3.90% 4.60%
+jRate of increase in compensation levels 2.50% 2.50% 2.50%j
+We determined our discount rate using a Ryan ALM, Inc. Curve (the “Ryan Curve”). The Ryan Curve provides
+the bonds included in the curve and allows adjustments for certain outliers (i.e., bonds on ”watch”). We believe the
+Ryan Curve allows us to calculate an appropriate discount rate.
+To determine our discount rate, we project a cash ﬂow based on annual accrued benefits. The projected plan
+cash ﬂow is discounted to the measurement date, which is the last day of our fiscal year, using the annual spot rates
+provided in the Ryan Curve.
+In determining the expected long-term rate of return on assets, we evaluated input from our investment
+consultants, actuaries and investment management firms, including our review of asset class return expectations, as
+well as long-term historical asset class returns. Projected returns by such consultants and economists are based on
+broad equity and bond indices. Our objective is to select an average rate of earnings expected on existing plan assets
+and expected contributions to the plan during the year, less expense expected to be incurred by the plan during the
+year.
+The market-related value of plan assets is multiplied by the expected long-term rate of return on assets to
+compute the expected return on plan assets, a component of net periodic pension cost. The market-related value of
+plan assets is a calculated value that recognizes changes in fair value over three years.
+In October 2014, the Society of Actuaries (“SOA”) released new mortality tables that increased life expectancy
+assumptions. During the fourth quarter of 2014, we adopted the new mortality tables and revised the mortality
+assumptions used in determining our pension and postretirement benefit obligations. The net impact to our qualified
+and non-qualified pension obligations resulting from the new mortality assumptions in 2014 was an increase of $117.0
+million.
+In October 2016, the SOA released new mortality tables that decreased life expectancy assumptions. During the
+fourth quarter of 2016, we adopted the new mortality tables and revised the mortality assumptions used in
+determining our pension and postretirement benefit obligations. The net impact to our qualified and non-qualified
+pension obligations resulting from the new mortality assumptions in 2016 was a decrease of $34.7 million.
+For fiscal year 2016, we changed the approach used to calculate the service and interest components of net
+periodic benefit cost for benefit plans to provide a more precise measurement of service and interest costs.
+Historically, we calculated these service and interest components utilizing a single weighted-average discount rate
+derived from the yield curve used to measure the benefit obligation at the beginning of the period. We elected to
+utilize an approach that discounts the individual expected cash ﬂows using the applicable spot rates derived from the
+yield curve over the projected cash flow period. The spot rates used to determine service and interest costs ranged
+from 1.32% to 4.79%. Service costs and interest costs for our pension plans were reduced by approximately $18 million
+due to the change in methodology.
+Plan Assets
+Company;$ponsored Pension Plans
+The assets underlying the Company-sponsored qualified pension plans are managed by professional
+investment managers. These investment managers are selected and monitored by the pension investment committee,
+composed of certain senior executives, who are appointed by the Finance Committee of the Board of Directors of the
+Company. The Finance Committee is responsible for adopting our investment policy, which includes rules regarding
+the selection and retention of qualified advisors and investment managers. The pension investment committee is
+responsible for implementing and monitoring compliance with our investment policy, selecting and monitoring
+P. 78 — THE NEW YORK TIMES COMPANY

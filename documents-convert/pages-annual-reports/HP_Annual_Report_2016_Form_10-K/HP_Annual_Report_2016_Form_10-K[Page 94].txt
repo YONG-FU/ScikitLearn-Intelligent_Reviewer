@@ -1,0 +1,49 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 7: Taxes on Earnings (Continued)
+intercompany advanced royalty payment arrangements resulting in advanced payments of $3.8 billion, while during fiscal year
+2014, HP executed a multi-year intercompany licensing arrangement and an intercompany advanced royalty payment
+arrangement which resulted in combined advanced payments of $3.8 billion, the result of which was the recognition of zero net
+U.S. deferred tax assets in fiscal years 2016 and 2015 and $0.6 billion in fiscal year 2014. In these transactions, the payments
+were received in the United States from a foreign consolidated affiliate, with a deferral of intercompany revenues over the term
+of the arrangements, which is approximately 18 months for fiscal year 2016, 5 years for fiscal year 2015 and 15 years for fiscal
+year 2014. Intercompany royalty revenue is eliminated in consolidation.
+Separation costs are expenses associated with HP’s plan to separate into two companies. HP recorded a deferred tax asset
+on these costs and expenses as they were incurred through fiscal year 2015. HP expected a portion of these deferred tax assets
+associated with separation costs and expenses to be non-deductible expenses, at the time the Separation was executed.
+Furthermore, HP has also concluded on the legal form of the Separation and in May 2015 announced that Hewlett Packard
+Enterprise was the spinnee in the United States. In order to reﬂect the impact of separation activities, HP recorded adjustments
+to certain deferred and prepaid tax assets as well as income tax liabilities reﬂecting the impact of separation related activities.
+As of October 31, 2016, HP had $627 million, $2.0 billion and $25.3 billion of federal, state and foreign net operating loss
+carryforwards, respectively. Amounts included in state and foreign net operating loss carryforwards will begin to expire in fiscal
+year 2018 and amounts included in federal net operating loss carryforwards will begin to expire in 2030. HP also has capital
+loss carryforwards of approximately $197 million which will expire in 2021. HP has provided a valuation allowance of $87
+million and $8.2 billion for deferred tax assets related to state and foreign net operating loss carryforwards, respectively, that
+HP does not expect to realize.
+As of October 31, 2016, HP had recorded deferred tax assets for various tax credit carryforwards as follows:
+Initial
+Valuation Year of
+7 Carryforward 7 7 Allowance 7 7 Expiration 7
+7 7 7 In millions 7 7 7
+IUS. foreign tax credits $ 6 $ — 2022 1
+US. R&D and other credits 2 — 2017
+1 Tax credits in state and foreign jurisdictions 256 (137) 2017 1
+Balance at end of year 7$ 264 7 7$ (137)
+Deferred Tax Asset Valuation Allowance
+The deferred tax asset valuation allowance and changes were as follows:
+7 As of October 31 7
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 In millions 7 7 7
+Balance at beginning of year $ 7,114 $ 8,231 $ 8,196 1
+Income tax expense (benefit) 1,421 (2,183) (14)
+Other comprehensive income, currency translation and charges to other
+accounts (15) 1,066 49
+Balance at end of year 7$ 8,520 7 7$ 7,114 7 7$ 8,231 7
+Gross deferred tax assets at October 31, 2016, 2015 and 2014, were reduced by valuation allowances of $8.5 billion, $7.1
+billion and $8.2 billion, respectively. Total valuation allowance increased by $1.4 billion in fiscal year 2016, associated
+primarily with foreign net operating losses, and decreased by $1.1 billion in fiscal year 2015, associated with the release of a
+valuation allowance against deferred tax assets in the United States, and increased by $35 million in fiscal 2014 associated
+primarily with foreign net operating losses.
+Tax Matters Agreement and Other Income Tax Matters
+94

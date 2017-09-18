@@ -1,0 +1,13 @@
+(8) Reconciliation of GAAP-based net income to Non-GAAP-based net income:
+Year Ended June 30, 2014
+Per share diluted
+GAAP-based net income, attributable to OpenText 7$ 218,125 $ 1.81 7
+[Add: I
+Amortization 150,940 1.25
+[ Share-based compensation 19,906 0.17 I
+Special charges (recoveries) 31,3 14 0.26
+[ Other (income) expense, net (3,941) (0.03)}
+GAAP-based provision for (recovery of) income taxes 58,461 0.48
+[Non-GAAP based provision for income taxes 7 (68,030) (0.57)il
+Non-GAAP-based net income, attributable to OpenText $ 406,775 $ 3.37
+59

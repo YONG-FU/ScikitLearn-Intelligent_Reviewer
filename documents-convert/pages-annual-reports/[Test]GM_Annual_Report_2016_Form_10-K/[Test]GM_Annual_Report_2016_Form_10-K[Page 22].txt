@@ -1,0 +1,38 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Non-GAAP Measures Our non-GAAP measures include earnings before interest and taxes (EBIT)—adjusted presented net of noncontrolling interests, EPS-
+diluted—adjusted, return on invested capital—adjusted (ROIC-adjusted) and adjusted automotive free cash ﬂow. Our calculation of these non-GAAP measures
+may not be comparable to similarly titled measures of other companies due to potential differences between companies in the method of calculation. As a
+result, the use of these non-GAAP measures has limitations and should not be considered superior to, in isolation from, or as a substitute for, related US.
+GAAP measures.
+These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons and benchmark performance
+between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of our core
+operating performance. Furthermore, these non—GAAP measures allow investors the opportunity to measure and monitor our performance against our
+externally communicated targets and evaluate the investment decisions being made by management to improve ROIC-adjusted. Management uses these
+measures in its ﬁnancial, investment and operational decision-making processes, for internal reporting and as part of its forecasting and budgeting processes.
+Further, our Board of Directors uses these and other measures as key metrics to determine management performance under our performance-based
+compensation plans. For these reasons we believe these non-GAAP measures are useful for our investors.
+EBIT-adjusted is used by management and can be used by investors to review our consolidated operating results because it excludes automotive interest
+income, automotive interest expense and income taxes as well as certain additional adjustments that are not considered part of our core operations. Examples
+of adjustments to EBIT include but are not limited to impairment charges related to goodwill; impairment charges on long-lived assets and other exit costs
+resulting from strategic shifts in our operations or discrete market and business conditions; costs arising from the ignition switch recall and related legal
+matters; and certain currency devaluations associated with hyperinﬂationary economies. For EBIT-adjusted and our other non—GAAP measures, once we have
+made an adjustment in the current period for an item, we will also adjust the related non-GAAP measure in any future periods in which there is an impact from
+the item.
+EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted earnings per share results on a consistent
+basis. EPS-diluted—adjusted is calculated as net income attributable to common stockholders-diluted less certain adjustments noted above for EBIT-adjusted
+and gains or losses on the extinguishment of debt obligations on an after-tax basis as well as redemptions of preferred stock and certain income tax
+adjustments divided by weighted-average common shares outstanding-diluted. Examples of income tax adjustments include the establishment or reversal of
+signiﬁcant deferred tax asset valuation allowances.
+ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions. We deﬁne ROIC-adjusted
+as EBIT-adjusted for the trailing four quarters divided by average net assets, which is considered to be the average equity balances adjusted for average
+automotive debt and interest liabilities, exclusive of capital leases; average automotive net pension and other postretirement beneﬁts (OPEB) liabilities; and
+average automotive net income tax assets during the same period.
+Adjusted automotive free cash ﬂow is used by management and can be used by investors to review the liquidity of our automotive operations and to
+measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements
+of our automotive operations. We measure adjusted automotive free cash ﬂow as automotive cash ﬂow from operations less capital expenditures adjusted for
+management actions, primarily related to strengthening our balance sheet, such as prepayments of debt and discretionary contributions to employee beneﬁt
+plans. Refer to the “Liquidity and Capital Resources” section of this MD&A for our reconciliation of Net Automotive cash provided by (used in) operating
+activities under US. GAAP to this non-GAAP measure.
+The following table reconciles Net income attributable to stockholders under US. GAAP to EBIT-adjusted used in the calculation of ROIC-adjusted:
+19

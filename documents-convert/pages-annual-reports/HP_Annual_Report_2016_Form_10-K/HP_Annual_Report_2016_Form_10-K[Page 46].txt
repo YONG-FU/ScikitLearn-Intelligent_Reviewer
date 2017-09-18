@@ -1,0 +1,41 @@
+HP INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+The cash conversion cycle is the sum of days of sales outstanding in accounts receivable (“DSO”) and days of supply in
+inventory (“DOS”) less days of purchases outstanding in accounts payable (“DPO”). Items which may cause the cash
+conversion cycle in a particular period to differ from a long-term sustainable rate include, but are not limited to, changes in
+business mix, changes in payment terms, extent of receivables factoring, seasonal trends and the timing of revenue recognition
+and inventory purchases within the period.
+DSO measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending
+accounts receivable, net of allowance for doubtful accounts, by a 90-day average of net revenue. For fiscal year 2016, the
+decrease in DSO compared to fiscal year 2015 was primarily due to favorable revenue linearity and strong collections, partially
+offset by unfavorable currency impacts. For fiscal year 2015, the increase in DSO compared to fiscal year 2014 was primarily
+due to lower usage of cash discounts by our customers.
+DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing
+ending inventory by a 90-day average of cost of goods sold. For fiscal year 2016, the DOS was ﬂat compared to fiscal year
+2015 due to strong inventory management offset by higher inventory balance to support future sales levels. For ﬁscal year
+2015, the increase in DOS compared to ﬁscal year 2014 was due to higher inventory balance to support future sales levels.
+DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing
+ending accounts payable by a 90-day average of cost of goods sold. For fiscal year 2016, the increase in DPO compared to
+fiscal year 2015 was primarily the result of extension of payment terms with our product suppliers and increased strategic
+inventory purchases. For fiscal year 2015, the increase in DPO compared to fiscal year 2014 was primarily the result of
+purchasing linearity and an extension of payment terms with our product suppliers.
+Investing Activities
+Net cash used in investing activities decreased by $5.6 billion for fiscal year 2016 as compared to ﬁscal year 2015, due to
+capital expenditures and payments made in connection with business acquisitions, net of cash acquired, in fiscal year 2015 by
+the discontinued operations.
+Net cash used in investing activities increased by approximately $2.7 billion for fiscal year 2015 as compared to fiscal
+year 2014, primarily due to the acquisition of Aruba Networks, Inc., which was transferred to Hewlett Packard Enterprise as a
+part of the Separation.
+Financing Activities
+Net cash used in financing activities increased by $15.8 billion in fiscal year 2016 primarily due to the cash transfer of
+$10.4 billion to Hewlett Packard Enterprise in connection with the Separation, the redemption of $2.1 billion of US. Dollar
+Global Notes and cash utilization of $2.0 billion for repurchases of common stock and dividends.
+Net cash used in financing activities decreased by approximately $7.9 billion for fiscal year 2015 as compared to net cash
+used in financing activities of $6.6 billion in fiscal year 2014. The change was primarily due to proceeds from the issuance of
+senior unsecured notes in October 2015 by Hewlett Packard Enterprise in principal amount of $14.6 billion and higher proceeds
+from issuance of commercial paper, partially offset by the redemption of $6.6 billion of US. Dollar Global Notes and higher
+repayment of commercial paper as compared to fiscal year 2014.
+Capital Resources
+Debt Levels
+46

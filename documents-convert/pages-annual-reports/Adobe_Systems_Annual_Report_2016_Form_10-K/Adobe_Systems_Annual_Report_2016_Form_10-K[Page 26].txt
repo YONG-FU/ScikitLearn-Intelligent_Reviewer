@@ -1,0 +1,55 @@
+Table of Contents
+our services, subject us to injunctions restricting our sale of products or services, cause severe disruptions to our operations or the
+markets in which we compete, or require us to satisfy indemnification commitments with our customers, including contractual
+provisions under various license arrangements and service agreements. In addition, we may incur significant costs in acquiring
+the necessary third-party intellectual property rights for use in our products, in some cases to fulfill contractual obligations with
+our customers. Any of these occurrences could significantly harm our business.
+Our intellectu al property portfolio is a valuable asset and we may not be able to protect our intellectual property rights, including
+our source code, from infringement or unauthorized copying, use or disclosure.
+Our intellectual property portfolio is a valuable asset. Infringement or misappropriation of assets in this portfolio could
+result in lost revenues and thereby ultimately reduce their value. Preventing unauthorized use or infringement of our intellectual
+property rights is inherently diﬁicult. We actively combat software piracy as we enforce our intellectual property rights, but we
+nonetheless lose significant revenue due to illegal use of our software. If piracy activities continue at historical levels or increase,
+they may further harm our business.
+If unauthorized disclosure of our source code occurs through security breach, cyber—attack or otherwise, we could lose future
+trade secret protection for that source code. The loss of future trade secret protection could make it easier for third parties to compete
+with our products by copying functionality, which could cause us to lose customers and could adversely affect our revenue and
+operating margins. We also seek to protect our confidential information and trade secrets through the use of non-disclosure
+agreements with our customers, contractors, vendors and partners. However, there is a risk that our confidential information and
+trade secrets may be disclosed or published without our authorization, and in these situations, enforcing our rights may be diﬁicult
+or costly.
+Increasing regulatory focus on privacy issues and expanding laws and regulations could impact our business models and
+expose us to increased liability
+Our industry is highly regulated, including for privacy and data security. We are also expanding our business in countries
+that have more stringent data protection laws than those in the United States, and such laws may be inconsistent across jurisdictions
+and are subject to evolving and differing interpretations. Governments, privacy advocates and class action attorneys are increasingly
+scrutinizing how companies collect, process, use, store, share and transmit personal data. New laws and industry self-regulatory
+codes have been enacted and more are being considered that may affect our ability to reach current and prospective customers, to
+understand how our products and services are being used, to respond to customer requests allowed under the laws, and to implement
+our business models effectively. Any perception of our practices, products or services as an invasion of privacy, whether or not
+consistent with current regulations and industry practices, may subject us to public criticism, class action lawsuits, reputational
+harm or claims by regulators, industry groups or other third parties, all of which could disrupt our business and expose us to
+increased liability. Additionally, both laws regulating privacy and third-party products purporting to address privacy concerns
+could negatively affect the functionality of, and demand for, our products and services, thereby reducing our revenue.
+On behalf of certain customers, we collect and store anonymous and personal information derived from the activities of
+end users with various channels, including traditional websites, mobile websites and applications, email interactions, direct mail,
+point of sale, text messaging and call centers. Federal, state and foreign governments and agencies have adopted or are considering
+adopting laws regarding the collection, storage, use and disclosure of this information. Our compliance with privacy laws and
+regulations and our reputation among consumers depend in part on our customers’ adherence to privacy laws and regulations and
+their use of our services in ways consistent with such consumers” expectations. We also rely on contractual representations made
+to us by customers that their own use of our services and the information they provide to us via our services do not violate any
+applicable privacy laws, rules and regulations or their own privacy policies. As a component of our standardized customer contract,
+we obligate customers to provide their consumers the opportunity to “opt out” of the information collection associated with our
+services, as applicable. We do not formally audit such customers to confirm compliance with these representations. If these
+representations are false or if our customers do not otherwise comply with applicable privacy laws, we could face adverse publicity
+and possible legal or other regulatory action. In addition, some countries are considering enacting laws that would expand the
+scope of privacy-related obligations required of service providers, such as Adobe, that would require additional compliance expense
+and increase our liability risk.
+In the past we have relied on the U.S.-European Union and the U.S.-Swiss Safe Harbor frameworks, as agreed to by the
+US. Department of Commerce and the European Union (“EU”) and Switzerland, as a means to legally transfer EU citizens’
+personal information from the EU to the United States. However, on October 6, 2015, the European Court of Justice invalidated
+the U.S.-EU Safe Harbor framework and the Swiss data protection authorities later invalidated the U.S.-Swiss Safe Harbor
+framework. As a result, we have worked to establish alternate legitimate means of transferring personal data from the European
+Economic Area and Switzerland to the United States; however, we continue to face uncertainty as to the legitimacy of these alternate
+means. At least one regulator has determined that, with respect to a small number of vendors that process certain of our EU employee
+26

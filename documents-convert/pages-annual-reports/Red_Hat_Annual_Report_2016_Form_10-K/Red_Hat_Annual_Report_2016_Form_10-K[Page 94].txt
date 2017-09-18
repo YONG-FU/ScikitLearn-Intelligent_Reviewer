@@ -1,0 +1,44 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+Post-acquisition ﬁnancial information
+The following is a summary of the post-acquisition revenue, expenses and losses of Ansible that are
+included in the Company’s Consolidated Statement of Operations for the fiscal year ended February 29, 2016 (in
+thousands):
+Year Ended
+February 29, 2016
+Revenue $ 695
+Operatingexpenses (7,707)
+(7,012)
+Taxbenefit 1,927
+$(5,085)
+Proforma consolidated ﬁnancial information
+The following unaudited pro forma consolidated financial information reﬂects the results of operations of
+the Company for the fiscal years ended February 29, 2016, February 28, 2015 and February 28, 2014 (in
+thousands, except per share amounts) as if the acquisition of Ansible had closed on March 1, 2014, and the
+acquisitions of FeedHenry, eNovance and Inktank had closed on March 1, 2013, after giving effect to certain
+purchase accounting adjustments. These pro forma results are not necessarily indicative of what the Company’s
+operating results would have been had the acquisitions actually taken place at the beginning of the period.
+7 Year ended 7
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+Revenue........................................ $2,055,057 $1,796,441 $1,551,301
+Netincome..................................... 193,099 162,385 150,870
+Basic net income per common share . . . . . . . . . . . . . . . . .. $ 1.06 $ 0.87 $ 0.79
+Diluted net income per common share . . . . . . . . . . . . . . . . $ 1.04 $ 0.86 $ 0.79
+Goodwill and other business combinations
+The Company completed its annual goodwill impairment test in February 2016. No goodwill impairment
+was deemed to have occurred. The following is a summary of goodwill for the years ended February 29,
+2016, February 28, 2015 and February 28, 2014 (in thousands):
+BalanceatFebruary28,2013 $ 690,911
+Final purchase price allocation adjustment for ManageIQ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3,164)
+Impactofforeigncurrencyﬂuctuations (317)
+BalanceatFebruary28,2014 $ 687,430
+AcquisitionofInktank.............................................................. 131,446
+AcquisitionofeNovance............................................................ 60,849
+AcquisitionofFeedHenry 68,491
+Impactofforeigncurrencyﬂuctuations (21,156)
+BalanceatFebruary28,2015 $ 927,060
+AcquisitionofAnsible 102,260
+Impact of foreign currency ﬂuctuations and other adjustments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2,043)
+BalanceatFebruary29,2016 $1,027,277
+90

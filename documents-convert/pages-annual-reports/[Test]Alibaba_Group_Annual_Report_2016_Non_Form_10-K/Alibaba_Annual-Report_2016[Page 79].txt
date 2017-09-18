@@ -1,0 +1,41 @@
+Sports
+Alibaba Sports Group, established in September 2015, is engaged in the development and operation of sports
+IP, sporting events, e-sports contests, sporting venues, sports merchandise and acquisition of selected media rights,
+leveraging our expertise in e-commerce and our various entertainment distribution platforms.
+Other Innovation Initiatives
+YunOS Operating System
+YunOS is a cloud-based mobile operating system for smartphones, Internet of Things devices, set-top boxes,
+smart televisions and smart cars, among others. Using YunOS, users can conveniently and securely synchronize
+data, such as call data, text messages and photos, across their devices through the cloud. YunOS provides the
+connectivity between cloud-based applications and hardware devices, with a focus on the data needs of users.
+AutoNavi
+AutoNavi is a leading provider of digital map, navigation and location-based services in China.
+DingTalk
+DingTalk is our proprietary enterprise communications app that provides support for text, voice and video
+communication, work ﬂow management and collaboration among team members and enterprises of various sizes.
+With a built-in enterprise directory, users can initiate text chats or voice and video conference calls as well as
+secured group chats with members of their organization. DingTalk unifies the tasks of critical communication and
+collaboration in the work place.
+Alibaba Health
+Alibaba Health is our ﬂagship vehicle to bring innovative solutions to the healthcare industry.
+Monetization Platforms and Systems
+Alimama
+Alimama is our marketing technology platform that provides the publisher-side serving and demand-side
+functionalities for merchants and brands to place various marketing display formats on our marketplaces and other
+third-party properties. The platform supports P4P marketing based on keyword search rankings or display
+marketing in fixed positions that are bid through auctions, as well as cost-per-thousand impression-based (CPM)
+marketing formats via the display of photos and graphics.
+The ranking of P4P search results on our core commerce marketplaces is based upon proprietary algorithms
+that take into account the bid price of keywords, the popularity of an item or merchant, customer feedback
+ranking of merchants and quality of product displays. For display marketing, the Alimama platform serves
+marketing messages based on data from our ecosystem, including transactions on our core commerce platforms,
+payment data from Ant Financial Services, logistics data from Cainiao Network, user navigation and behavioral
+data from our core commerce and media entertainment properties, as well as demographic and location-based
+data. The relevance and comprehensiveness of data based on commercial activities and user activities around our
+ecosystem provide a powerful and unique advantage for Alimama to target the most relevant information to the
+most relevant users.
+We have developed a system that we call Super ID to track users across different properties and devices. For
+example, we are able to identify a user watching a Youku Tudou video on a PC as the same user shopping on our
+Taobao App. Our Super ID system takes disparate data and attributes the data to a single user, and in this we can
+provide marketers with valuable insights into user behavior and preferences.
+74

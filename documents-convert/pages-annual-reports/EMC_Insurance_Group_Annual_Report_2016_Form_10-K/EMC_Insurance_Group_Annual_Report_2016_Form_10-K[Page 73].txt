@@ -1,0 +1,47 @@
+Internal actuarial evaluations of the prior quarter’s overall loss reserve levels are performed each quarter for all direct
+lines of business. There is a certain amount of random variation in loss and allocated settlement expense development patterns,
+which results in some uncertainty regarding the estimated ultimate projections, particularly for longer-tail lines such as
+workers” compensation, other liability and commercial auto liability. Therefore, the reasonableness of the actuarial projections
+is regularly monitored through an examination of the assumptions underlying those projections.
+As previously noted, one assumption underlying the reserve estimation process is that the inﬂation trends implicitly built
+into the historical loss and allocated settlement expense development patterns will continue into the future. To estimate the
+sensitivity of the estimated ultimate loss and allocated settlement expense payments to an unexpected change in inﬂationary
+trends, the actuarial department derived expected payment patterns separately for each major line of business. These patterns
+were applied to the December 31, 2016 loss and allocated settlement expense reserves to generate estimated annual incremental
+loss and allocated settlement expense payments for each subsequent calendar year. Then, for the purpose of sensitivity testing,
+an explicit annual inﬂationary variance of one percent was added to the inﬂationary trend that is implicitly embedded in the
+estimated payment patterns, and revised incremental loss and settlement expense payments were calculated. This unexpected
+inﬂation trend could arise from a variety of sources including a change in economic inﬂation, social inﬂation and, especially
+for the workers’ compensation line of business, the introduction of new medical technologies and procedures, changes in the
+utilization of procedures and changes in life expectancy. The estimated cumulative impact that this unexpected one percent
+variance in the inﬂationary trend would have on the Company’s results of operations over the lifetime of the underlying claims
+is shown below. A variance in the inﬂationary trend would also affect the Company’s financial position in that the Company’s
+equity would be impacted by an amount equivalent to the change in net income. A variance of this type would typically be
+recognized in loss and settlement expense reserves and, accordingly, would not have a material effect on liquidity because the
+claims have not been paid. A one percent variance in the projected inﬂationary trend is considered reasonably likely based on
+the range of actuarial indications developed during the analysis of the property and casualty insurance segment’s carried
+reserves.
+After-tax impact on earnings
+from a one percent variance
+($ in thousands) in the projected inﬂationary
+Line of business trend
+lPersonal auto liability $(83) to $84 ‘
+Commercial auto liability (1,096) to 1,1 17
+[Auto physical damage — to — 1
+Workers' compensation (4,133) to 4,699
+[Other liability (4,401) to 4,891 1
+Property (290) to 298
+[Homeowners (23) to 24 I
+The Company uses standard actuarial methods to produce estimates of ultimate loss ratios by accident year and line of
+business. Underlying each selection are explicit assumptions regarding the ultimate claim frequency and severity associated
+with the selected ultimate ratio. As the assumptions are based on estimates made at a specific point in time, it is likely that the
+ultimate claim frequency and severity experience, and, therefore, the ultimate loss ratio, will vary upwards or downwards from
+prior estimates. The expected variation will be greater for less mature accident years, and decreases as each accident year ages.
+This uncertainty is reﬂected in the unpaid loss estimates underlying the selected estimated ultimate loss ratios, which produce
+the carried loss reserves. Assuming the unpaid loss estimates are unbiased, the cumulative impact on the Company's results of
+operations of a one percent variance in the associated carried loss reserves over the lifetime of the underlying claims is shown
+below. A variance in carried loss reserves would also affect the Company’s financial position in that the Company’s equity
+would be impacted by an amount equivalent to the change in net income. A one percent variance in the unpaid loss estimates
+underlying the selected ultimate loss ratio estimates is considered reasonably likely based on the range of actuarial indications
+developed during the analysis of the property and casualty insurance segment’s carried loss reserves.
+62

@@ -1,0 +1,44 @@
+TI©GONSOA ]
+FINANCIAL ASSETS AND LIABILITIES AT FAIR VALUE (in millions)
+December 31, 2016
+Netting and
+Level 1 Level 2 Level 3 Collateral (a) Total
+Assets:
+Commodity Futures Contracts S 821 S — S — S (733) S 88
+Commodity Swap Contracts — 11 — (11) —
+Commodity Option Contracts 1 — — — 1
+Commodity Forward Contracts — 6 — — 6
+Total Assets S 822 S 17 S — S (744) S 95
+Liabilities: ’
+Commodity Futures Contracts S 870 S 1 S — S (821) S 50
+Commodity Swap Contracts — 15 — (11) 4
+Commodity Forward Contracts — 2 — — 2
+Environmental Credit Obligations — 79 — — 79
+Total Liabilities S 870 S 97 S — S (832) S 135
+December 31, 2015
+Netting and
+Level 1 Level 2 Level 3 Collateral (a) Total
+Assets:
+Commodity Futures Contracts S 711 S — S — S (660) S 51
+Commodity Swap Contracts — 22 — (15) 7
+Commodity Forward Contracts — 2 — — 2
+Total Assets S 711 S 24 S — S (675) S 60
+Liabilities: ’
+Commodity Futures Contracts S 673 S — S — S (673) S —
+Commodity Swap Contracts — 14 — (14) —
+Commodity Forward Contracts — 4 — — 4
+Environmental Credit Obligations — 40 — — 40
+Total Liabilities S 673 S 58 S — S (687) S 44
+(a) Certain of our derivative contracts, under master netting arrangements, include both asset and liability positions. We offset both the fair value amounts and any
+related cash collateral amounts recognized for multiple derivative instruments executed with the same counterparty when there is a legally enforceable right and
+an intention to settle net or simultaneously. As of December 31, 2016 and December 31, 2015, we had provided cash collateral amounts of $88 million and $12
+million, respectively, related to our unrealized derivative positions. Cash collateral amounts are netted with mark-to-market derivative assets.
+We believe the carrying value of our other financial instruments, including cash and cash equivalents, receivables, accounts payable and certain accrued
+liabilities approximate fair value. Our fair value assessment incorporates a variety of considerations, including the short-term duration of the instruments and the
+expected future insigniﬁcance of bad debt expense, which includes an evaluation of counterparty credit risk. The borrowings under the Revolving Credit Facility,
+the TLLP Revolving Credit Facility, TLLP Unsecured Term Loan Facility and our Term Loan Credit Facility, which include variable interest rates, approximate fair
+value. The fair value of our ﬁxed rate debt is based on prices from recent trade activity and is categorized in level 2 of the fair value hierarchy. The carrying and
+fair values of our debt were approximately $7.0 billion and $7.3 billion at December 31, 2016, respectively, and approximately $4.1 billion for both the carrying
+and fair values at December 31, 2015. These carrying and fair values of our debt do not consider the unamortized issuance costs, which are netted against our
+total debt.
+86 | Tesoro Corporation

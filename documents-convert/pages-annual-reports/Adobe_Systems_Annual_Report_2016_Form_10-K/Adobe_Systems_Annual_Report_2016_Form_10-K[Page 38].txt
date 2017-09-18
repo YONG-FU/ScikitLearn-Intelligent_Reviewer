@@ -1,0 +1,54 @@
+Table of Contents
+revenue is deferred until the earlier of the point at which VS OE of fair value exists for any undelivered element or until all elements
+of the arrangement have been delivered. However, if the only undelivered element is maintenance and support, the entire
+arrangement fee is recognized ratably over the performance period. Changes in assumptions or judgments or changes to the
+elements in a software arrangement could cause a material increase or decrease in the amount of revenue that we report in a
+particular period.
+We determine VSOE for each element based on historical stand-alone sales to third parties or from the stated renewal rate
+for the elements contained in the initial arrangement. In determining VSOE, we require that a substantial majority of the selling
+prices for a product or service fall within a reasonably narrow pricing range.
+We have established VSOE for our software maintenance and support services, custom software development services,
+consulting services and training, when such services are sold optionally with software licenses.
+For multiple-element arrangements containing our non-software services, we must: (1) determine whether and when each
+element has been delivered; (2) determine the fair value of each element using the selling price hierarchy of VSOE of selling price,
+third-party evidence (“TPE”) of selling price or best-estimated selling price (“BESP”), as applicable, and (3) allocate the total
+price among the various elements based on the relative selling price method.
+For multiple-element arrangements that contain both software and non-software elements, we allocate revenue to software
+or software-related elements as a group and any non-software elements separately based on the selling price hierarchy. We determine
+the selling price for each deliverable using VSOE of selling price, if it exists, or TPE of selling price. If neither VSOE nor TPE
+of selling price exist for a deliverable, we use BESP. Once revenue is allocated to software or software-related elements as a group,
+we recognize revenue in conformance with software revenue accounting guidance. Revenue is recognized when revenue recognition
+criteria are met for each element.
+We are generally unable to establish VSOE or TPE for non-software elements and as such, we use BESP. BESP is generally
+used for oﬁerings that are not typically sold on a stand-alone basis or for new or highly customized offerings. We determine BESP
+for a product or service by considering multiple factors including, but not limited to, major product groupings, geographies, market
+conditions, competitive landscape, internal costs, gross margin objectives and pricing practices. Pricing practices taken into
+consideration include historic contractually stated prices, volume discounts where applicable and our price lists. We must estimate
+certain royalty revenue amounts due to the timing of securing information from our customers. While we believe we can make
+reliable estimates regarding these matters, these estimates are inherently subjective. Accordingly, our assumptions and judgments
+regarding future products and services as well as our estimates of royalty revenue could diﬁer from actual events, thus materially
+impacting our financial position and results of operations.
+Product revenue is recognized when the above criteria are met. We reduce the revenue recognized for estimated future
+returns, rebates and price protection at the time the related revenue is recorded. In determining our estimate for returns and in
+accordance with our internal policy regarding global channel inventory which is used to determine the level of product held by
+our distributors on which we have recognized revenue, we rely upon historical data, the estimated amount of product inventory
+in our distribution channel, the rate at which our product sells through to the end user, product plans and other factors. Our estimated
+provisions for returns can vary from what actually occurs. Product returns may be more or less than what was estimated. The
+amount of inventory in the channel could be different than what is estimated. Our estimate of the rate of sell-through for product
+in the channel could be diﬁerent than what actually occurs. These factors and unanticipated changes in the economic and industry
+environment could make our return estimates differ from actual returns, thus impacting our financial position and results of
+operations.
+In the future, actual returns and price protection may exceed our estimates as unsold products in the distribution channels
+are exposed to rapid changes in consumer preferences, market conditions or technological obsolescence due to new platforms,
+product updates or competing products. While we believe we can make reliable estimates regarding these matters, these estimates
+are inherently subjective. Accordingly, if our estimates change, our returns and price protection reserves would change, which
+would impact the total net revenue we report.
+We recognize revenue for hosted services that are priced based on a committed number of transactions ratably beginning
+on the date the services associated with the committed transactions are ﬁrst made available to the customer and continuing through
+the end of the contractual service term. Over-usage fees, and fees billed based on the actual number of transactions from which
+we capture data, are billed in accordance with contract terms as these fees are incurred. We record amounts that have been invoiced
+in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met.
+Our consulting revenue is recognized on a time and materials basis and is measured monthly based on input measures, such
+as on hours incurred to date compared to total estimated hours to complete, with consideration given to output measures, such as
+contract milestones, when applicable.
+38

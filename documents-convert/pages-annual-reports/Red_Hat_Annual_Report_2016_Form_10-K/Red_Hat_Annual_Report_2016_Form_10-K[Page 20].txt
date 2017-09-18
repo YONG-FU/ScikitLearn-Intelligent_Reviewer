@@ -1,0 +1,47 @@
+2016, February 28, 2015, and February 28, 2014, respectively, in research and development costs. We focus and
+modify our research and development efforts based on our business strategy, the needs of users and changes in
+the marketplace. Our development efforts are currently focused on adding new or improved functionality to our
+offerings that is needed by customers or that supports the expansion of our third-party hardware and software
+ecosystem. However, any upgrades and enhancements are offered on an if—and-when-available basis. Red Hat is
+also investing in developing new software offerings and enabling new forms of development that are aimed at
+customers who seek hybrid, private and public cloud computing solutions. Our software engineers collaborate
+with open source software development teams working through open source communities, such as the Apache
+Camel, the CentOS project, the Ceph community project, Cloud Native Computing Foundation, the Fedora
+Project, FeedHenry, GlusterFS, the JBoss community projects, Linux Kernel, Open Container Initiative, Open
+Platform for NFV, OpenShift Origin, OpenStack and Project Kubernetes. This involvement enables us to remain
+abreast of, and in some instances lead, certain technical advances, plans for development of new features and
+timing of releases, as well as other information related to the management of open source projects.
+Our software engineers make development contributions to many components comprising Red Hat software
+offerings, such as Red Hat Enterprise Linux, Red Hat Satellite, Red Hat Enterprise Virtualization, Red Hat JBoss
+Middleware, Red Hat Enterprise Linux OpenStack Platform, Red Hat Cloud Infrastructure, OpenShift by Red
+Hat, Red Hat Mobile and Red Hat Storage, and provide leadership within the various open source communities
+across many of the core components. Our software engineers also perform extensive testing of Red Hat
+technologies. We use various industry recognized methods of quality assurance testing to seek to ensure that our
+technologies are ready for use by our customers when delivered. We also work closely with leading hardware
+and software vendors to seek to ensure that their hardware and applications will operate effectively with Red Hat
+platforms.
+INTELLECTUAL PROPERTY
+Most of our offerings, including Red Hat Enterprise Linux and Red Hat JBoss Middleware, are built
+primarily from software components licensed to the general public under various open source licenses. While
+some components are developed by our employees, Red Hat obtains many components from software developed
+and released by contributors to independent open source software development projects. Open source licenses
+grant licensees broad permissions to use, copy, modify and redistribute the software. Certain open source
+licenses, such as the GPL, impose significant limits on a distributor’s ability to license derivative works under
+more restrictive terms and generally require the distributor to disclose the source code of such works. The
+inclusion of software components governed by such licenses in our offerings limits our ability to use traditional
+proprietary software licensing models for those offerings. As a result, while we have substantial copyright
+interests in our software technologies, open source development and licensing practices may have the effect of
+limiting the value of our software copyright assets. Consequently, our trademarks may represent our most
+valuable intellectual property.
+We pursue registration of some of our trademarks in the US. and in other countries. We have registered the
+“Red Hat” and “JBoss” trademarks and the Red Hat Shadowman logo in countries in North America, South
+America, Europe, Asia and Africa as well as in Australia.
+Despite our efforts to protect our trademark rights, unauthorized third parties have, in the past, attempted
+and, in the future, may attempt, to misappropriate our trademark rights. We cannot be certain that we will
+succeed in preventing such misappropriation of our trade names and trademarks. The laws of some foreign
+countries do not protect or deter misappropriation of our trademark rights to the same extent as do the laws of the
+US. In addition, while we engage in certain enforcement activity, policing unauthorized use of our trademark
+rights is difficult, expensive and time-consuming, and our efforts may be inadequate. The loss of any material
+trademark or trade name could have a material adverse effect on our business, operating results and financial
+condition.
+16

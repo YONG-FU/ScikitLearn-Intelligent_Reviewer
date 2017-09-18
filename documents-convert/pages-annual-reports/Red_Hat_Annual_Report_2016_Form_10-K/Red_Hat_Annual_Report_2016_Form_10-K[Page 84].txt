@@ -1,0 +1,46 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+For additional discussion related to recent accounting pronouncements the Company has either recently
+adopted or is currently evaluating the impact from future adoption, see “Recent accounting pronouncements” in
+this note.
+Use of estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the balance sheet dates and
+the reported amounts of revenue and expenses during the reporting periods. Actual results could differ from such
+estimates.
+Revenue recognition
+The Company establishes persuasive evidence of a sales arrangement for each type of revenue transaction
+based on either a signed contract with the end customer, a click-through contract on the Company’s website
+whereby the customer agrees to the Company’s standard subscription terms, signed or click-through distribution
+contracts with original equipment manufacturers (“OEMs”) and other resellers, or, in the case of individual
+training seats, through receipt of payment which indicates acceptance of the Company’s training agreement
+terms.
+Subscription revenue
+Subscription revenue is comprised of direct and indirect sales of subscriptions relating to Red Hat
+technologies. Accounts receivable and deferred revenue are recorded at the time a customer enters into a binding
+subscription agreement for the purchase of a subscription, subscription services are made available to the
+customer and the customer is billed. The deferred revenue amount is recognized as revenue ratably over the life
+of the subscription. Red Hat technologies are generally offered with either one or three-year base subscription
+periods; the majority of the Company’s subscriptions have one-year terms. Under these subscription agreements,
+renewal rates are generally specified for one or three-year renewal terms. Subscriptions generally entitle the end
+user to the technology itself and post-contract customer support, generally consisting of varying levels of support
+services as well as access to security errata, fixes, functionality enhancements to the technology and upgrades to
+the technologies, each on an if and when available basis, during the term of the subscription. The Company sells
+its offerings through two principal channels: (1) direct, which includes sales by the Company’s sales force as
+well as web store sales, and (2) indirect, which includes certified cloud and service providers (“CCSPS”),
+distributors, value added resellers, systems integrators and OEMs. The Company recognizes revenue from the
+sale of Red Hat technologies ratably over the period of the subscription beginning on the commencement date of
+the subscription agreement.
+Subscription arrangements with large enterprise customers often have contracts with multiple elements (e. g.,
+software technology, support, training, consulting and other services). The Company allocates revenue to each
+element of the arrangement based on vendor-specific objective evidence of each element’s fair value when the
+Company can demonstrate sufficient evidence of the fair value of at least those elements that are undelivered.
+The fair value of each element in multiple element arrangements is created by either (i) providing the customer
+with the ability during the term of the arrangement to renew that element at the same rate paid for the element
+included in the initial term of the agreement or (ii) selling the element on a stand-alone basis.
+The Company derives a portion of its revenue from CCSPs that provide public clouds with and allow users
+to consume computing resources as a service. The Company earns revenue based on subscription units consumed
+by the CCSP or its end users. These cloud-usage services began expanding significantly in fiscal 2013 and have
+continued to grow.
+80

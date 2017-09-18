@@ -1,0 +1,43 @@
+Table of Contents
+Adobe Marketing Cloud Solutions
+Adobe Analytics
+Adobe Analytics helps our customers create a holistic view of their business by turning consumer interactions into actionable
+insights. With intuitive and interactive dashboards and reports, our customers can sift, sort, and share real-time information to
+provide insights that can be used to identify problems and opportunities and to drive conversion and relevant consumer experiences.
+Adobe Analytics enables web, social, video, mobile, attribution, and predictive analytics across online and ofﬂine channels to
+continuously improve the performance of marketing activities. It also provides the ability to perform advanced ad-hoc segmentation
+and to integrate data from ofﬂine and third-party sources.
+Adobe Target
+Adobe Target lets our customers test, target and personalize content across multiple devices. With Adobe Target, our
+customers have the tools they need to quickly discover what gets noticed, what increases conversion, and what keeps consumers
+coming back for more. Adobe Target paves a path from simple testing to targeting to true segmentation and optimization through
+A/B and multivariate testing, rules-based targeting and automated decision-making.
+Adobe Social
+Adobe Social provides marketers a comprehensive solution to build stronger connections through content guided by tangible
+data. Customers can create more relevant posts, monitor and respond to conversations, measure results, and connect social activities
+to business results. With Adobe Social, our customers can: manage social content and activities across multiple social networks
+and profile pages; listen and respond to consumer conversations in real time; create social campaigns; and use social insights,
+through Adobe Marketing Cloud integrations, to improve targeting and optimize the customer experience.
+Adobe Media Optimizer
+Adobe Media Optimizer is a powerful advertisement management platform and programmatic ad-buying solution that helps
+our customers forecast the best mix of search, display and social ads based on their budget. It also automates the execution of a
+company ’s media plan and helps users determine the most eﬁective way to deliver relevant content to their audiences. Customers
+get a consolidated view of how their media is performing, along with tools to both accurately forecast and continually optimize
+their mix of paid campaigns across digital media. Media Optimizer includes cross-channel optimization capabilities, search engine
+marketing management, and display and social advertising management.
+Adobe Experience Manager
+Adobe Experience Manager helps customers organize, create, and manage the delivery of creative assets and other content
+across digital marketing channels, including web, mobile, email, communities and video. It enables customers to manage content
+on premise or host it in the cloud, delivering agile and rapid deployment. With this ultimate control of content and campaigns,
+customers are able to deliver relevant experiences to consumers that help build the customers’ brand, drive demand and extend
+reach. Adobe Experience Manager includes digital asset management, web content management, digital publishing, integrated
+mobile app development, enterprise-level forms management, and social capabilities, providing customers with tools enabling
+users to improve their market and brand perception and provide a personalized experience to their consumers.
+Adobe Campaign
+Adobe Campaign enables marketers to orchestrate personalized experiences determined by each consumer’s behaviors and
+preferences. As part of its feature set, Adobe Campaign provides visual campaign orchestration, allowing for intuitive design and
+automated consumer experiences across channels, from one-off campaigns to triggered messages, with a graphically rich interface.
+Marketers can also integrate consumer data from across marketing channels to develop and deliver more relevant marketing
+experiences to their consumers. Features also include targeted segmentation, email execution, real-time interaction, in-app
+messaging, and operational reporting to easily see how well campaigns are performing.
+11

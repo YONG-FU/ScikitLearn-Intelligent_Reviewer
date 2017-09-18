@@ -1,0 +1,41 @@
+Inventories, net
+Inventories are stated at the lower of cost (first-in first-out basis) or market. Finished goods and work-in-process inventory values include the cost of raw
+materials, labor and manufacturing overhead. Inventory when written down to market value establishes a new cost basis and its value is not subsequently increased
+based upon changes in underlying facts and circumstances. The Company also makes adjustments to reduce the carrying amount of inventories for estimated excess
+or obsolete inventories. Factors inﬂuencing these adjustments include inventories on-hand compared with historical and estimated future sales for existing and new
+products and assumptions about the likelihood of obsolescence. Unabsorbed manufacturing costs are treated as expense in the period incurred.
+Property and Equipment
+Property and equipment are carried at cost and are depreciated using the straight-line method. Depreciation is provided over the estimated useful lives of the
+related assets ( three to ten years). Leasehold improvements are depreciated over the shorter of their estimated useful life or the term of the lease. Leasehold
+improvements funded by landlords are recorded as property and equipment, which is depreciated over the shorter of the estimated useful life of the asset or the
+lease term, and deferred rent, which is amortized over the lease term. As of December 31, 2016 and 2015 , the net book value of leasehold improvements funded by
+landlords was $1.7 million and $2.2 million , respectively. As of December 31, 2016 and 2015 , the unamortized balance of deferred rent related to landlord
+funding of leasehold improvements was $1.7 million and $2.2 million , respectively, which is included in “accounts payable and accrued liabilities” and “other
+long-term liabilities” in the consolidated balance sheets.
+Goodwill
+Goodwill, which represents the excess of the cost of an acquired business over the net fair value assigned to its assets and liabilities, is not amortized. Instead,
+goodwill is assessed annually at the reporting unit level for impairment under the Intangibles—Goodwill and Other Topic of the F ASB ASC. The Company has
+established December 31 as the annual impairment test date. In addition, the Company assesses goodwill in between annual test dates if an event occurs or
+circumstances change that could more likely than not reduce the fair value of a reporting unit below its carrying value. The Company ﬁrst makes a qualitative
+assessment as to whether goodwill is impaired. If it is more likely than not that goodwill is impaired, the Company performs a two-step quantitative impairment
+analysis to determine if goodwill is impaired. The Company may also determine to skip the qualitative assessment in any year and move directly to the quantitative
+test.
+During the year ended December 31, 2016 , the Company performed a quantitative step one goodwill impairment analysis for one reporting unit, which
+required the Company to make significant assumptions and estimates about the extent and timing of future cash ﬂows, discount rates and growth rates. The step
+one analysis indicated that the goodwill assigned to the reporting unit was not impaired and no further quantitative testing was performed. No impairments of
+goodwill were reported during the years ended December 31, 2016 , 2015 and 2014 . Also see Note 3, Goodwill, for further discussion of the Company’s goodwill
+impairment analysis.
+Impairment of Long-Lived Assets
+Property and equipment are reviewed for impairment whenever events or changes in circumstances indicate the carrying value of the assets may not be
+recoverable. If the Company determines that the carrying value of the asset is not recoverable, a permanent impairment charge is recorded for the amount by which
+the carrying value of the long-lived asset exceeds its fair value. During the year ended December 31, 2016 , the Company recorded impairment charges of $1 .4
+million related to property and equipment. In the fourth quarter of 2016, the Company recorded $1.2 million of impairment charges related to machinery which was
+no longer forecasted to be utilized during its remaining useful life based on the current production forecast and for which the fair value approximated zero.
+Additionally, during the third quarter of 20 16, $0.2 million of impairment charges were recorded related to the cancellation of a project. No impairments of
+property and equipment were recorded during the years ended December 31 2015 and 2014 .
+Warranty Obligation
+The Company provides warranties on all product sales. The majority of the Company’s warranties are for one to eight years in the normal course of business.
+The Company accrues for the estimated warranty costs at the time of sale based on historical warranty experience plus any known or expected changes in warranty
+exposure. As of December 31, 2016 and 2015 , the accrued warranty liability included in “accounts payable and accrued liabilities” in the consolidated balance
+sheets was $1.2 million and $1.3 million , respectively.
+56

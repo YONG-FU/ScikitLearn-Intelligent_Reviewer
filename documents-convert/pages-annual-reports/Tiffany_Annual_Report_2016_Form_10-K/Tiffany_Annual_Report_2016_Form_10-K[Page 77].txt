@@ -1,0 +1,47 @@
+Information on the location and amounts of derivative gains and losses in the consolidated financial statements is as
+follows:
+I Years Ended January 31,
+I 2017 2016 I
+Pre-Tax Gain (Loss) Pre-Tax Gain
+Pre-Tax Gain Reclassified from Pre-Tax Gain (Loss) Reclassified
+(Loss) Recognized Accumulated OCI (Loss) Recognized from Accumulated
+I I I in OCI (Effective into Earnings in OCI OCI into Earnings
+I(In mI/llons) Portion) (Effective Portion) (Effective Portion) (Effective Portion) I
+Derivatives in Cash Flow Hedging
+Relationships:
+Foreign exchange forward contracts a $ (1.5) $ (1.5) $ 3.9 $ 20.2
+Precious metal collars a — — 0.2 —
+Precious metal forward contracts a 14.0 (8.5) (26.3) (7.0)
+Cross-currency swaps C (0.4) 6.6 — — ‘
+Forward-starting interest rate swaps '0 I — (1.5) — (1.5)
+I$ 12.1 $ (4.9) $ (22.2) $ 11.77
+a The gain or loss recognized in earnings is included within Cost of sales. 3
+b The gain or loss recognized in earnings is included within Interest expense and financing costs. 2
+° The gain or loss recognized in earnings is included within Other (income) expense, net.
+LL
+The pre-tax losses on derivatives not designated as hedging instruments were $9.2 million in the year ended
+January 31, 2017 and were included in other (income) expense, net. Such gains and losses were not significant in
+the year ended January 31, 2016. There was no material ineffectiveness related to the Company's hedging
+instruments for the periods ended January 31, 2017 and 2016. The Company expects approximately $1.1 million of * ‘
+net pre-tax derivative losses included in accumulated other comprehensive income at January 31, 2017 will be
+reclassified into earnings within the next 12 months. This amount will vary due to fluctuations in foreign currency
+exchange rates and precious metal prices.
+For information regarding the location and amount of the derivative instruments in the Consolidated Balance Sheet,
+see "Note |. Fair Value of Financial Instruments."
+Concentration of Credit Risk
+A number of major international financial institutions are counterparties to the Company's derivative financial
+instruments. The Company enters into derivative financial instrument agreements only with counterparties meeting
+certain credit standards (a credit rating of A-/A2 or better at the time of the agreement) and limits the amount of
+agreements or contracts it enters into with any one party. The Company may be exposed to credit losses in the event
+of nonperformance by individual counterparties or the entire group of counterparties.
+I. FAIR VALUE OF FINANCIAL INSTRUMENTS
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit
+price) in the principal market for the asset or liability in an orderly transaction between market participants on the
+measurement date. U.S. GAAP establishes a fair value hierarchy which requires an entity to maximize the use of
+observable inputs and minimize the use of unobservable inputs when measuring fair value. U.S. GAAP prescribes
+three levels of inputs that may be used to measure fair value:
+Level 1 — Quoted prices in active markets for identical assets or liabilities and are considered to be most reliable.
+Level 2 — 0bservable market-based inputs or unobservable inputs that are corroborated by market data.
+Level 3 — Unobservable inputs reflecting the reporting entity's own assumptions and require the most judgment.
+TIFFANY & C0.
+K-71

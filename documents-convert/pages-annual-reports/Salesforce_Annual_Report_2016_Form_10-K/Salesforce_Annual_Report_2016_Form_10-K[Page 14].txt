@@ -1,0 +1,46 @@
+Key elements of our strategy include:
+Strengthening our market-leading solutions. We offer multiple editions of our solutions at different
+price points to meet the needs of customers of different sizes and we have designed our solutions to easily
+accommodate new features and functionality. We intend to continue to extend all editions of our solutions
+with new features, functions and increased security through our own development, acquisitions and
+partnerships. We also provide solutions for certain vertical industries.
+Expanding strategic relationships with customers. We see significant opportunity to deepen our
+relationships with our existing customers. As our customers realize the benefits of our services, we aim to
+upgrade the customer to premium editions and sell more subscriptions by targeting additional functional
+areas and business units, ultimately becoming our customers’ trusted advisors, inspiring enterprise-wide
+transformation and accelerating strategic engagements, including through direct engagement with the
+highest levels of our customers’ executive management.
+Extending distribution into new and high-growth product categories. As part of our growth strategy,
+we are delivering innovative solutions in new categories, including analytics, communities and the
+Internet of Things. We drive innovation both organically and through acquisitions, such as our February
+2016 acquisition of a company that has a next generation quote-to-cash solution delivered 100 percent
+natively on our platform.
+Expanding our world-class sales organization. We believe that our offerings provide significant value
+for businesses of any size. We will continue to pursue businesses of all sizes in top industries and major
+regions, primarily through our direct sales force. We have steadily increased and plan to continue to
+increase the number of direct sales professionals we employ, and we intend to develop additional
+distribution channels for our service.
+Reducing customer attrition. Our goal is to have all of our customers renew their subscriptions prior to
+the end of their contractual terms. We run customer success and other related programs in an effort to
+secure renewals of existing customers.
+Building our business in top software markets globally, which includes building partnerships that
+help add customers. We believe that there is a substantial market opportunity for our solutions globally.
+We plan to continue to aggressively market and sell to customers worldwide via local sales and support
+professionals with deep expertise in target industries and through partnerships with other enterprise
+software vendors, ISVs and system integrators. Additionally, we plan to increase the capacity that we are
+able to offer globally through data centers and third party infrastructure providers.
+Encouraging the development of third-party applications on our cloud computing platforms. The
+App Cloud enables existing customers, ISVs and third-party developers to create and deliver cloud-based
+apps. It is a platform on which apps can be created, tested, published and run. In addition, these apps can
+be marketed and sold on the AppExchange, our online marketplace for business apps, or sold directly by
+software vendors. We believe our ecosystem of developers and software vendors will address the business
+requirements of both current and future customers.
+Technology, Development and Operations
+We deliver our Salesforce solutions as highly scalable, cloud computing application and platform services
+on a multi-tenant technology architecture.
+Multi-tenancy is an architectural approach that allows us to operate a single application instance for multiple
+organizations, treating all customers as separate tenants who run in virtual isolation from each other. Customers
+can use and customize an application as though they each have a separate instance, yet their data and
+customizations remain secure and insulated from the activities of all other tenants. Our multi-tenant services run
+on a single stack of hardware and software, which is comprised of commercially available hardware and a
+7

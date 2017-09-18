@@ -1,0 +1,50 @@
+KELLY SERVICES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+receivable, workers’ compensation, goodwill and long-lived asset impairment, litigation costs and income taxes. Actual results
+could differ materially from those estimates.
+Cash and Equivalents Cash and equivalents are stated at fair value. The Company considers securities with original
+maturities of three months or less to be cash and equivalents.
+Property and Equipment Property and equipment are stated at cost and are depreciated on a straight-line basis over their
+estimated useful lives. Cost and estimated useful lives of property and equipment by function are as follows:
+7 Category 7 7 2016 7 7 2015 7 7 Life 7
+(In millions of dollars)
+[Land $ 3.8 $ 3.8 — 1
+Work in process 0.8 2.5 —
+lBuildings and improvements 61.1 60.2 15 to 45 years ‘
+Computer hardware and software 145.0 229.5 3 to 12 years
+lEquipment, furniture and ﬁxtures 33.8 34.0 5 years ‘
+Leasehold improvements 25.5 31.8 The lesser of the life
+of the lease or 5
+years.
+lTotal property and equipment $ 270.0 _ $ 361.8 ‘
+The Company capitalizes external costs and internal payroll costs directly incurred in the development of software for internal
+use as required by the Internal-Use Software Subtopic of the Financial Accounting Standards Board (“FASB”) Accounting
+Standards Codiﬁcation (“ASC”). Work in process represents capitalized costs for internal use software not yet in service.
+Depreciation expense was $20.7 million for 2016, $21.4 million for 2015 and $20.3 million for 2014.
+Operating Leases The Company recognizes rent expense on a straight-line basis over the lease term. This includes the impact
+of both scheduled rent increases and free or reduced rents (commonly referred to as “rent holidays”). The Company records
+allowances provided by landlords for leasehold improvements as deferred rent in the consolidated balance sheet and as
+operating cash ﬂows in the consolidated statements of cash ﬂows.
+Goodwill and Other Intangible Assets Goodwill represents the excess of the purchase price over the fair value of net assets
+acquired. Purchased intangible assets with deﬁnite lives are recorded at estimated fair value at the date of acquisition and are
+amortized over their respective useful lives (from 3 to 15 years) on a straight-line basis or, if appropriate, on an accelerated
+basis commensurate with the related cash ﬂows.
+Impairment of Long-Lived Assets, Goodwill and Intangible Assets The Company evaluates long-lived assets and intangible
+assets with deﬁnite lives for impairment whenever events or changes in circumstances indicate that the carrying amount of an
+asset may not be recoverable. When estimated undiscounted future cash ﬂows will not be sufﬁcient to recover the asset group’s
+carrying amount, in which the long-lived asset being tested for impairment resides, the asset is written down to its estimated
+fair value. Assets to be disposed of by sale, if any, are reported at the lower of the carrying amount or estimated fair value less
+cost to sell.
+We test goodwill for impairment at the reporting unit level annually in the fourth quarter and whenever events or circumstances
+make it more likely than not that an impairment may have occurred. We have determined that our reporting units are the same
+as our operating and reportable segments based on our organizational structure and the ﬁnancial information that is provided to
+and reviewed by the chief operating decision makers (“CODM”). We may use a qualitative assessment for one or more
+reporting units for the annual goodwill impairment test if we have determined that it is more likely than not that the fair value
+of the reporting unit(s) is more than their carrying value.
+For reporting units where the qualitative assessment is not used, goodwill is tested for impairment using a two-step process. In
+the ﬁrst step, the estimated fair value of a reporting unit is compared to its carrying value. If the estimated fair value of a
+reporting unit exceeds the carrying value of the net assets assigned to a reporting unit, goodwill is not considered impaired and
+no further testing is required.
+If the carrying value of the net assets assigned to a reporting unit exceeds the estimated fair value of a reporting unit, a second
+step of the impairment test is performed in order to determine the implied fair value of a reporting unit’s goodwill. If the
+55

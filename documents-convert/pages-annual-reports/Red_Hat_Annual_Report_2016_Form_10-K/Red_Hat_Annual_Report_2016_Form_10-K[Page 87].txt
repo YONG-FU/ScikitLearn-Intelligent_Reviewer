@@ -1,0 +1,46 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+Level 3—Unobservable inputs that are supported by little or no market activity and are significant to the fair
+value of the assets or liabilities.
+The Company’s investments are comprised primarily of debt securities that are classified as available for
+sale and recorded at their fair market values. Liquid investments with effective maturities of three months or less
+at the date of purchase are classified as cash equivalents. Investments with remaining effective maturities of
+twelve months or less from the balance sheet date are classiﬁed as short-term investments. Investments with
+remaining effective maturities of more than twelve months from the balance sheet date are classified as long-term
+investments. The Company’s Level 1 financial instruments are valued using quoted prices in active markets for
+identical instruments. The Company’s Level 2 financial instruments, including derivative instruments, are valued
+using quoted prices for identical instruments in less active markets or using other observable market inputs for
+comparable instruments.
+Unrealized gains and temporary losses on investments classified as available for sale are included within
+accumulated other comprehensive income, net of any related tax effect. Upon realization, such amounts are
+reclassified from accumulated other comprehensive income to Other income (expense), net. Realized gains and
+losses and other than temporary impairments, if any, are reﬂected in the consolidated statements of operations as
+Other income (expense), net. The Company does not recognize changes in the fair value of its investments in
+income unless a decline in value is considered other than temporary. The vast majority of the Company’s
+investments are priced by pricing vendors. These pricing vendors use the most recent observable market
+information in pricing these securities or, if specific prices are not available for these securities, use other
+observable inputs. In the event observable inputs are not available, the Company assesses other factors to
+determine the security’s market value, including broker quotes or model valuations. Independent price
+veriﬁcations of all holdings are performed by pricing vendors which are then reviewed by the Company. In the
+event a price fails a pre-established tolerance check, it is researched so that the Company can assess the cause of
+the variance to determine what the Company believes is the appropriate fair market value. See NOTE 18—Assets
+and Liabilities Measured at Fair Value on a Recurring Basis for further discussion on fair value measurements.
+The Company minimizes its credit risk associated with investments by investing primarily in investment
+grade, liquid securities. The Company’s policy is designed to limit exposures to any one issuer depending on
+credit quality. Periodic evaluations of the relative credit standing of those issuers are considered in the
+Company’s investment strategy.
+Internal use software
+The Company capitalizes costs related to the development of internal use software for its website, enterprise
+resource planning system and systems management applications. The Company amortizes the costs of computer
+software developed for internal use on a straight-line basis over an estimated useful life of five years. The
+carrying value of internal use software is included in property and equipment on the Company’s Consolidated
+Balance Sheets.
+Capitalized software costs
+Capitalization of software development costs for products to be sold to third parties begins upon the
+establishment of technological feasibility and ceases when the product is available for general release. As a result
+of the Company’s practice of frequently releasing source code that it has developed on an on-going basis for
+unrestricted download on the Internet, there is generally no passage of time between achievement of
+technological feasibility and the availability of the Company’s product for general release. Therefore, at
+February 29, 2016 and February 28, 2015, the Company had no internally developed capitalized software costs
+for products to be sold to third parties.
+83

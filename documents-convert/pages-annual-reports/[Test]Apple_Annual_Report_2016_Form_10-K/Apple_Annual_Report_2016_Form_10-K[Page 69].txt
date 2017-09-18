@@ -1,0 +1,49 @@
+Other Off-Balance Sheet Commitments
+Operating Leases
+The Company leases various equipment and facilities, including retail space, under noncancelable operating lease arrangements.
+The Company does not currently utilize any other off-balance sheet financing arrangements. As of September 24, 2016, the
+Company’s total future minimum lease payments under noncancelable operating leases were $7.6 billion.The Company's retail store
+and other facility leases are typically for terms not exceeding 10 years and generally contain multi-year renewal options.
+Rent expense under all operating leases, including both cancelable and noncancelable leases, was $939 million, $794 million and
+$717 million in 2016, 2015 and 2014, respectively. Future minimum lease payments under noncancelable operating leases having
+remaining terms in excess of one year as of September 24, 2016, are as follows (in millions):
+2017 $ 929
+'2018 919
+2019 915
+'2020 889
+2021 836
+Thereafter 3,139
+Total :$ 7,627
+Contingencies
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have
+not been fully adjudicated, as further discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors” and in Part I,
+Item 3 of this Form 10-K under the heading “Legal Proceedings.” In the opinion of management, there was not at least a reasonable
+possibility the Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss
+contingencies for asserted legal and other claims. However, the outcome of litigation is inherently uncertain. Therefore, although
+management considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against
+the Company in a reporting period for amounts in excess of management’s expectations, the Company’s consolidated financial
+statements for that reporting period could be materially adversely affected.
+Apple Inc. v. Samsung Electronics Co., Ltd., et al.
+On August 24, 2012, a jury returned a verdict awarding the Company $1.05 billion in its lawsuit against Samsung Electronics Co.,
+Ltd. and affiliated parties in the United States District Court, Northern District of California, San Jose Division. On March 6, 2014,
+the District Court entered final judgment in favor of the Company in the amount of approximately $930 million. On May 18, 2015,
+the US. Court of Appeals for the Federal Circuit affirmed in part, and reversed in part, the decision of the District Court. As a result,
+the Court of Appeals ordered entry of final judgment on damages in the amount of approximately $548 million, with the District Court
+to determine supplemental damages and interest, as well as damages owed for products subject to the reversal in part. Samsung
+paid $548 million to the Company in December 2015, which was included in net sales in the Condensed Consolidated Statement
+of Operations. Because the case remains subject to further proceedings, the Company has not recognized any further amounts in
+its results of operations. On October 11, 2016, the United States Supreme Court heard arguments in Samsung’s request for appeal
+related to the $548 million in damages.
+Note 11 — Segment Information and Geographic Data
+The Company reports segment information based on the “management” approach. The management approach designates the
+internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable
+operating segments.
+The Company manages its business primarily on a geographic basis. The Company’s reportable operating segments consist of the
+Americas, Europe, Greater China, Japan and Rest of Asia Pacific. The Americas segment includes both North and South America.
+The Europe segment includes European countries, as well as India, the Middle East and Africa.The Greater China segment includes
+China, Hong Kong and Taiwan. The Rest of Asia Pacific segment includes Australia and those Asian countries not included in the
+Company’s other reportable operating segments. Although the reportable operating segments provide similar hardware and software
+products and similar services, each one is managed separately to better align with the location of the Company’s customers and
+distribution partners and the unique market dynamics of each geographic region. The accounting policies of the various segments
+are the same as those described in Note 1, “Summary of Significant Accounting Policies.”
+Apple Inc. | 2016 Form 10-K l 66

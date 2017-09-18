@@ -1,0 +1,50 @@
+DOUGLAS DYNAMICS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In Thousands)
+Years ended December 31,
+2016 2015 2014
+Operating activities
+Netincome............................................ $39,009 $44,176 $39,961
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16,742 12,281 9,225
+Inventory step up of acquired business included in cost of sales . . . . . . 125 1,956 —
+Amortization of deferred financing costs and debt discount. . . . . . . . . 950 720 759
+Lossonextinguishmentofdebt............................ — — 1,870
+Loss recognized on impairment of assets held for sale . . . . . . . . . . . . — — 67
+Stock—basedcompensation................................ 2,898 3,275 2,868
+Provision for losses on accounts receivable . . . . . . . . . . . . . . . . . . . . 208 305 577
+Deferredincometaxes.................................. 5,413 5,807 (326)
+Earnoutliability....................................... (1,128) 623 947
+Changes in operating assets and liabilities:
+Accountsreceivable.................................... 2,419 (7,094) (4,201)
+Inventories........................................... 605 (5,292) (3,963)
+Prepaid assets, refundable income taxes and other assets . . . . . . . . . . 1,699 (5,886) 2,085
+Accountspayable...................................... (113) 4,802 (3,199)
+Accrued expenses and other current liabilities . . . . . . . . . . . . . . . . . . (3,434) 3,138 6,595
+Benefit obligations and other long-term liabilities. . . . . . . . . . . . . . . . 4,527 (2,346) 482
+Net cash provided by operating activities . . . . . . . . . . . . . . . . . . . . . . . 69,920 56,465 53,747
+Investing activities
+Capitalexpenditures...................................... (9,830) (10,009) (5,254)
+Proceeds from sale of equipment and assets held for sale. . . . . . . . . . . . — — 1,018
+Acquisition of businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (181,344) (11,818) (86,693)
+Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . (191,174) (21,827) (90,929)
+Financing activities
+Shares withheld on restricted stock vesting paid for employees’ taxes. . . . — (27) (97)
+Proceeds from exercise of stock options . . . . . . . . . . . . . . . . . . . . . . . . — 111 —
+Paymentsoffinancingcosts................................. (2,320) — (2,132)
+Borrowingsonlong-termdebt............................... 129,350 — 188,100
+Dividendspaid......................................... (21,451) (20,173) (19,598)
+Short—term borrowings (repayments), net . . . . . . . . . . . . . . . . . . . . . . . — — (13,000)
+Repayment of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2,560) (1,900) (111,760)
+Net cash provided by (used in) financing activities. . . . . . . . . . . . . . . . . 103,019 (21,989) 41,513
+Change in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . (18,235) 12,649 4,331
+Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . 36,844 24,195 19,864
+Cash and cash equivalents at end of year . . . . . . . . . . . . . . . . . . . . . . . $ 18,609 $ 36,844 $ 24,195
+Non-cash operating and financing activities
+Truck chassis inventory acquired through ﬂoorplan obligations. . . . . . . $ 13,697 $ — $ —
+Supplemental disclosure of cash ﬂow information
+Incometaxespaid....................................... $16,440 $21,633 $17,012
+Interestpaid........................................... $14,235 $10,519 $ 7,505
+See accompanying Notes to Consolidated Financial Statements
+F-9

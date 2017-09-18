@@ -1,0 +1,47 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+14. EARNINGS PER SHARE
+We compute basic earnings per share for Common Stock and Class B common stock using the two-class method. The
+Class B common stock is convertible into Common Stock on a share-for-share basis at any time. The computation of
+diluted earnings per share for Common Stock assumes the conversion of Class B common stock using the if-converted
+method, while the diluted earnings per share of Class B common stock does not assume the conversion of those shares.
+We compute basic and diluted earnings per share based on the weighted-average number of shares of Common Stock
+and Class B common stock outstanding as follows:
+For the years ended December 31, 2016 2015 2014
+Class B Class B Class B
+Common Common Common Common Common Common
+Stock Stock Stock Stock Stock Stock
+(Basic earnings per share: l
+Numerator:
+l Allocation of distributed earnings (cash I
+dividends paid) $ 367,081 $ 132,394 $ 352,953 $ 123,179 $ 328,752 $ 111,662
+Allocation of undistributed earnings 162,299 58,270 27,324 9,495 303,801 102,697
+1 Total earnings—basic is 529,380 190,664 Ts 380,277 132,674 Ts 632,553 2143591
+I Denominator (shares in thousands): ‘
+Total weighted—average shares—basic 153,519 60,620 158,471 60,620 161,935 60,620
+|Earnings Per Share—basic 755 3.457 739 3.157 7$ 2.407 755 2.197 733 3.917 755 3.54l
+| Diluted earnings per share: I
+l Numerator: ‘
+Allocation of total earnings used in basic
+computation $ 529,380 $ 190,664 $ 380,277 $ 132,674 $ 632,553 $ 214,359
+Reallocation of total earnings as a result
+of convers1on of Class B common stock
+to Common stock 190,664 — 132,674 — 214,359 —
+Reallocation of undistributed earnings — (324) — (69) — (1,071)
+1 Total earnings—diluted is 720,044 190,340 is 512,951 132,605 is 846,912 213,288)
+I Denominator (shares in thousands): ‘
+Number of shares used in basic
+computation 153,519 60,620 158,471 60,620 161,935 60,620
+l Weighted-average effect of dilutive l
+securltles:
+Conversion of Class B common stock
+to Common shares outstanding 60,620 — 60,620 — 60,620 —
+1 Employee stock options 964 — 1,335 — 1,920 — 1
+Performance and restricted stock
+options 20 1 — 225 — 362 —
+1 Total weighted—average shares—diluted : 215,304 60,620 220,651 60,620 224,837 60,6201
+[Earnings Per Share—diluted s 3.34, s 3.14 is 2.32, s 2.19, s 3.77, is 3.521
+The earnings per share calculations for the years ended December 31, 2016, 2015 and 2014 excluded 3,680, 2,660 and
+1,510 stock options, respectively, that would have been antidilutive.
+89

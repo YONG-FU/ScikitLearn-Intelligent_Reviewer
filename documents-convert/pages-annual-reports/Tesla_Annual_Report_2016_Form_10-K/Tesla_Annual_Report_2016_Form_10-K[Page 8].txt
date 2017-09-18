@@ -1,0 +1,44 @@
+Autopilot Systems
+We have developed an expertise in vehicle autopilot systems, including auto-steering, trafﬁc aware cruise control, lane changing,
+automated parking and Summon and driver warning systems. In October 2014, we began equipping all Model S vehicles with
+hardware to allow for the incremental introduction of autopilot technology. In October 2016, we began equipping all Tesla vehicles
+with hardware needed for full self-driving capability, including cameras that provide 360 degree visibility, updated ultrasonic sensors
+for object detection, a forward-facing radar with enhanced processing, and a powerful new onboard computer. Our autopilot systems
+relieve our drivers of the most tedious and potentially dangerous aspects of road travel. Although, at present, the driver is ultimately
+responsible for controlling the vehicle, our system provides safety and convenience functionality that allows our customers to rely on
+it much like the system that airplane pilots use when conditions permit. This hardware suite, along with over-the-air firmware updates
+and ﬁeld data feedback loops from the onboard camera, radar, ultrasonics, and GPS, enables the system to continually learn and
+improve its performance.
+Energy Storage
+We are leveraging many of the component level technologies from our vehicles to advance our energy storage products,
+including high density energy storage, cooling, safety, charge balancing, structural durability, and electronics management. By taking
+a modular approach to the design of battery systems, we are able to maximize manufacturing capacity to produce both Powerwall and
+Powerpack products. Additionally, we are making significant strides in the area of bi-directional, grid-tied power electronics that
+enable us to interconnect our battery systems seamlessly with global electricity grids while providing fast-acting systems for power
+injection and absorption.
+Solar Energy Systems
+We are continually innovating and developing new technologies to facilitate the growth of our solar energy systems business.
+For example, the solar roof is being designed to work seamlessly with Tesla Powerwall 2 and we have developed proprietary software
+to reduce system design and installation timelines and costs.
+Design and Engineering
+Vehicles
+In addition to the design, development and production of the powertrain, we have created significant in-house capabilities in the
+design and engineering of electric vehicles and their components and systems. We design and engineer bodies, chassis, interiors,
+heating and cooling and low voltage electrical systems in house and to a lesser extent in conjunction with our suppliers. Our team has
+core competencies in computer aided design and crash test simulations which reduces the product development time of new models.
+Additionally, our team has expertise in lightweight materials, a very important characteristic for electric vehicles given the
+impact of mass on range. Model S and Model X are built with a lightweight aluminum body and chassis which incorporates a variety
+of materials and production methods that help optimize the weight of the vehicle.
+Energy Storage
+We have an in-house engineering team that both designs our energy storage products themselves, and works with our residential,
+commercial and utility customers to design bespoke systems incorporating our products. Our team’s expertise in electrical,
+mechanical, civil and software engineering enables us to create integrated energy storage solutions that meet the particular needs of all
+customer types.
+Solar Energy Systems
+We also have an in-house engineering team that designs a customized solar energy system for each of our customers, and which
+works closely with our energy storage engineering teams to integrate an energy storage system when requested by the customer. We
+have developed software that simplifies and expedites the design process and optimizes the design to maximize the energy production
+of each system. Our engineers complete a structural analysis of each building and produce a full set of structural design and electrical
+blueprints that contain the speciﬁcations for all system components. Additionally, we design complementary mounting and grounding
+hardware.
+5

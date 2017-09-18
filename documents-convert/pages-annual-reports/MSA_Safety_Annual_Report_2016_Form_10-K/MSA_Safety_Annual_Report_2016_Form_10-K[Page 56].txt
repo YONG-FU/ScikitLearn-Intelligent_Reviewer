@@ -1,0 +1,53 @@
+unrecognized tax benefits in interest expense and penalties in Operating expenses. No provision is made for possible U.S. taxes
+on the undistributed earnings of foreign subsidiaries that are considered to be reinvested indefinitely.
+Stock-Based Compensation—We account for stock-based compensation in accordance with the FASB guidance on
+share-based payment, which requires that we recognize compensation expense for employee and non-employee director stock-
+based compensation based on the grant date fair value. Except for retirement-eligible participants, for whom there is no
+requisite service period, this expense is recognized ratably over the requisite service periods following the date of grant. For
+retirement-eligible participants, this expense is recognized at the grant date.
+Derivative Instruments—We may use derivative instruments to minimize the effects of changes in currency exchange
+rates. We do not enter into derivative transactions for speculative purposes and do not hold derivative instruments for trading
+purposes. Changes in the fair value of derivative instruments designated as fair value hedges are recorded in the balance sheet
+as adjustments to the underlying hedged asset or liability. Changes in the fair value of derivative instruments that do not qualify
+for hedge accounting treatment are recognized in the consolidated statements of income as currency exchange (income) loss in
+the current period.
+Commitments and ContingencieS=For asserted claims and assessments, liabilities are recorded when an unfavorable
+outcome of a matter is deemed to be probable and the loss is reasonably estimable. Management determines the likelihood of an
+unfavorable outcome based on many factors such as the nature of the matter, available defenses and case strategy, progress of
+the matter, views and opinions of legal counsel and other advisors, applicability and success of appeals processes, and the
+outcome of similar historical matters, among others. Once an unfavorable outcome is deemed probable, management weighs
+the probability of estimated losses, and the most reasonable loss estimate is recorded. If an unfavorable outcome of a matter is
+deemed to be reasonably possible, then the matter is disclosed and no liability is recorded. With respect to unasserted claims or
+assessments, management must first determine that the probability that an assertion will be made is likely, then, a determination
+as to the likelihood of an unfavorable outcome and the ability to reasonably estimate the potential loss is made. Legal matters
+are reviewed on a continuous basis to determine if there has been a change in management’s judgment regarding the likelihood
+of an unfavorable outcome or the estimate of a potential loss. Please refer to Note 19 Contingencies for further details on
+product liability related matters.
+Discontinued Operations and Assets Held For Sale=For those businesses where management has committed to a plan
+to divest, each business is valued at the lower of its carrying amount or estimated fair value less cost to sell. If the carrying
+amount of the business exceeds its estimated fair value, an impairment loss is recognized. Fair value is estimated using accepted
+valuation techniques such as a discounted cash ﬂow model, valuations performed by third parties, earnings multiples, or
+indicative bids, when available. A number of significant estimates and assumptions are involved in the application of these
+techniques, including the forecasting of markets and market share, sales volumes and prices, costs and expenses, and multiple
+other factors. Management considers historical experience and all available information at the time the estimates are made;
+however, the fair value that is ultimately realized upon the divestiture of a business may differ from the estimated fair value
+reﬂected in the Consolidated Financial Statements. Depreciation and amortization expense is not recorded on assets of a
+business to be divested once they are classified as held for sale.
+For businesses classified as discontinued operations, the results of operations are reclassiﬁed from their historical
+presentation to discontinued operations on the Consolidated Statement of Income, for all periods presented. The gains or losses
+associated with these divested businesses are recorded in discontinued operations on the Consolidated Statement of Income.
+Additionally, segment information does not include the operating results of businesses classified as discontinued operations for
+all periods presented. Management does not expect any continuing involvement with these businesses following their
+divestiture, and these businesses are expected to be disposed of within one year.
+Concentration of credit and business risks - We are exposed to credit risk in the event of nonpayment by customers,
+principally in the oil and gas, fire service, construction, utilities, chemicals and mining industries. Changes in these industries
+may significantly affect our financial performance and management's estimates. We mitigate our exposure to credit risk by
+performing ongoing credit evaluations and, when deemed necessary, requiring letters of credit, credit insurance, prepayments,
+guarantees or other collateral. No individual customer represented more than 10% of our sales.
+Reclassiﬁcations - Certain reclassifications of prior years' data have been made to conform to the current year
+presentation.
+Recently Adopted and Recently Issued Accounting StandarIIS=In April 2014, the FASB issued ASU 2014-08,
+Reporting Discontinued Operations and Disclosures of Disposals of an Entity. This ASU amends the definition of a
+discontinued operation to include a disposal of a component or group of components that is disposed of or is classiﬁed as held
+for sale and represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results. This
+48

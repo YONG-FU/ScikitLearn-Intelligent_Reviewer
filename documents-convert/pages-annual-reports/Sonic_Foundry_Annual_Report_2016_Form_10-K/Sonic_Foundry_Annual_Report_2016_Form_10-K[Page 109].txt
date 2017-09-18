@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+: September 30, :
+: 2016 : : 2015 :
+Deferred tax assets:
+Net operating loss and other carryforwards $ 34,563 $ 36,492
+Common stock options 1,134 961
+Unearned revenue 389 439
+Other 423 63
+Total deferred tax assets 36,509 37,955
+Deferred tax liabilities:
+Fixed assets — (149)
+Other (144) (157)
+Total deferred tax liabilities (144) (306)
+Net deferred tax asset 36,365 37,649
+Valuation allowance (36,299) (37,525)
+Equity gains on investment in Mediasite K (916) (916)
+Customer relationships (718) (7 16)
+Goodwill amortization (2,930) (2,690)
+Net deferred tax liability for goodwill and intangible assets amortization (4,498) (4,198)
+The Company has a $66 thousand and $124 thousand deferred tax asset at September 30, 2016 and 2015, respectively, recorded
+within the prepaid expenses and other current assets line on the consolidated balance sheet and is primarily related to net operating
+losses of MSKK.
+At September 30, 2016, the Company had net operating loss carryforwards of approximately $95 million for US. Federal and
+$43 million for state tax purposes. For Federal tax purposes, the carryforwards expire in varying amounts between 2019 and 2036.
+For state tax purposes, the carryforwards expire in varying amounts between 2016 and 2035. Utilization of the Company’s net
+operating loss may be subject to substantial annual limitation due to the ownership change limitations provided by the Internal
+Revenue Code and similar state provisions. Such an annual limitation could result in the expiration of the net operating loss
+carryforwards before utilization. In addition, the Company has research and development tax credit carryforwards of
+approximately $418 thousand, which expire in varying amounts between 2019 and 2020.
+The Company maintains an additional paid-in—capital (APIC) pool which represents the excess tax benefits related to share-based
+compensation that are available to absorb future tax deficiencies. If the amount of future tax deficiencies is greater than the
+available APIC pool, the Company records the excess as income tax expense in its consolidated statements of income. For fiscal
+2016 and fiscal 2015, the Company had a sufficient APIC pool to cover any tax deficiencies recorded and as a result, these
+deﬁciencies did not affect its results of operations. At September 30, 2016, the Company has $1.1 million of net operating loss
+carry forwards for which a benefit would be recorded in APIC when realized.
+Earnings of the Company’s foreign subsidiaries are generally subject to US. taxation upon repatriation to the US. and the
+Company’s tax provision reﬂects the related incremental US. tax except for certain foreign subsidiaries whose unremitted
+earnings are considered to be indefinitely reinvested. No deferred tax liability has been recognized with regard to the remittance
+of such earnings after MSKK and Sonic Foundry International BV acquisitions were completed. Because of the availability of
+US. foreign tax credits, it is likely no US. tax would be due if such earnings were repatriated. At September 30, 2016, unremitted
+earnings of $ 1 .4 million for foreign subsidiaries were deemed to be indefinitely reinvested.
+69

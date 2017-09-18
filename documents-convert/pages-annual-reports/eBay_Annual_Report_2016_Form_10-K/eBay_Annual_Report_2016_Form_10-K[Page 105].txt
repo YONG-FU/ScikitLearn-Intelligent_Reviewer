@@ -1,0 +1,44 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Effect of Derivative Contracts on Accumulated Other Comprehensive Income
+The following tables present the activity of derivative contracts that qualify for hedge
+accounting as of December 31, 2016 and 2015, and the impact of these derivative contracts on
+accumulated other comprehensive income for the years ended December 31, 2016 and 2015
+(in millions):
+Amount of Gain (Loss)
+Reclassified From
+Amount of Gain (Loss) Accumulated Other
+Recognized in Other Comprehensive Income
+Comprehensive Income to Earnings
+December 31, 2015 7 (Effective Portion) 7 7 (Effective Portion) (‘1 7 December 31, 2016
+Foreign exchange
+contracts
+desngnated as
+cash flow hedges $36 126 108 $54
+Amount of Gain (Loss)
+Reclassified From
+Amount of Gain (Loss) Accumulated Other
+Recognized in Other Comprehensive Income
+Comprehensive Income to Earnings
+December 31, 2014 (Effective Portion) (Effective Portion) (1) December 31, 2015
+Foreign exchange
+contracts
+desngnated as
+cash flow hedges $41 66 71 $36
+(1) In 2016, we reclassified $16 million in gains into earnings as a result of the discontinuance of certain cash flow hedges because it
+was probable the forecasted transaction would not occur by the end of the originally specified time period. There were no
+reclassifications as a result of the discontinuance of cash flow hedges in 2015.
+Effect of Derivative Contracts on Consolidated Statement of Income
+The following table provides the location in our financial statements of the recognized
+gains or losses related to our foreign exchange derivative instruments (in millions):
+7 Year Ended December 31, 7
+i 2016 f f 2015 f f 2014 :
+Foreign exchange contracts designated as cash-flow hedges
+recognized In cost of net revenues and operating expenses $ 7 $ 71 $—
+Foreign exchange contracts designated as cash flow hedges
+recognized In interest and other, net 101 — —
+Foreign exchange contracts not designated as hedging instruments
+recognized In interest and other, net 11 (1) 10
+Total gain (loss) recognized from foreign exchange derivative
+contracts In the consolidated statement of Income $119 $70 $10
+F-2S>

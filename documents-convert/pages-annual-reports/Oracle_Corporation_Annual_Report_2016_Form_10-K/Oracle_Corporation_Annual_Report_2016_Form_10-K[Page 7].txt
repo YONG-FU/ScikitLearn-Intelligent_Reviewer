@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+Our application technologies are generally designed using an industry standards-based architecture to manage and automate core business functions across the
+enterprise, as well as to help customers differentiate and innovate in those processes unique to their industries or organizations. In addition to applications that are
+deployable to meet a number of business automation requirements across a broad range of industries, we also offer industry-specific applications through a focused
+strategy of investments in internal development and strategic acquisitions. Our industry-specific applications provide solutions to customers in the communications,
+engineering and construction, ﬁnancial services, healthcare, hospitality and retail, manufacturing, public and utilities sectors, among others. Our ability to offer
+applications to address industry-specific complex processes provides us an opportunity to expand our customers’ knowledge of our broader product offerings and
+address customer-speciﬁc technology challenges.
+QracleiCloud,S,oﬁware,as,a,S,ervic,e,(SaaS,)
+Our broad spectrum of SaaS offerings provides customers a choice of software applications that are delivered via a cloud-based IT environment that we host,
+manage and support. Our SaaS offerings are built upon open industry standards such as SQL, Java and HTMLS for easier application accessibility, integration and
+development. Our SaaS offerings include a broad suite of modular, next-generation cloud software applications that span core business functions including human
+capital management (HCM), enterprise resource planning (ERP), customer experience (CX), and supply chain management (SCM), among others. We also offer a
+number of cloud-based industry solutions to address specific customer needs within certain industries.
+We believe the comprehensiveness and breadth of our SaaS offerings provide greater beneﬁt to our customers and differentiate us from many of our competitors
+that offer more limited or specialized cloud-based applications. Our SaaS offerings are designed to be interoperable with one another, thereby limiting the
+integration and tuning of multiple cloud applications from multiple vendors. Our SaaS offerings are designed to deliver secure data isolation and ﬂexible upgrades,
+self-service access controls for users, a Service-Oriented Architecture (SOA) for integration with on-premise systems, built-in social, mobile and business insight
+capabilities, and a high performance, high availability infrastructure based on our infrastructure technologies including Oracle Engineered Systems. These SaaS
+capabilities are designed to simplify IT environments and enable customers to focus resources on business growth opportunities.
+Oracle Human Capital Management Cloud
+Oracle HCM cloud applications are designed to be complete and integrated to help organizations ﬁnd, grow and retain the best talent, enable collaboration, provide
+complete workforce insights, increase operational efﬁciency and enable people to connect from any device. Oracle HCM Cloud includes:
+- Oracle Recruiting Cloud, which is designed to provide customers the ability to identify, source, recruit, screen and hire applicants efficiently and
+collaboratively;
+- Oracle HR Cloud, which is designed to provide organizations a complete View of their employee base and permit employees to manage their profiles and
+collaborate with other employees;
+° Oracle Compensation and Benefits Cloud, which is designed to provide organizations the tools to manage employee compensation, benefits, and payroll;
+- Oracle Performance Management Cloud, which is designed to provide customers with the ability to set meaningful performance management goals and
+capture feedback about employees to help them develop;
+- Oracle Learning Cloud, which is designed to provide customers with the ability to create and deliver personalized learning content to multiple audiences
+and track compliance; and
+° Oracle Workforce Management Cloud, which allows customers to track, monitor and increase accuracy of time reporting and implement absence and
+leave policies globally or locally.
+5

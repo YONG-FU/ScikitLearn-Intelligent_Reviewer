@@ -1,0 +1,56 @@
+Table of Contents
+We could have liability or our reputation could be damaged if we fail to protect client and/orAccenture data
+from security breaches or cyberattacks.
+We are dependent on information technology networks and systems to securely process, transmit and store
+electronic information and to communicate among our locations around the world and with our clients, alliance partners
+and vendors. As the breadth and complexity of this infrastructure continues to grow, including as a result of the use of
+mobile technologies, social media and cloud-based services, the potential risk of security breaches and cyberattacks
+increases. Such breaches could lead to shutdowns or disruptions of our systems and potential unauthorized disclosure
+of sensitive or conﬁdential information, including personal data.
+In providing services and solutions to clients, we often manage, utilize and store sensitive or conﬁdential client
+or Accenture data, including personal data, and we expect these activities to increase, including through the use of
+analytics. Unauthorized disclosure of sensitive or confidential client orAccenture data, whetherthrough systems failure,
+employee negligence, fraud or misappropriation, could damage our reputation, cause us to lose clients and could
+result in significant financial exposure. Similarly, unauthorized access to or through our information systems or those
+we develop for our clients, whether by our employees orthird parties, including a cyberattack by computer programmers,
+hackers, members of organized crime and/or state-sponsored organizations, who may develop and deploy viruses or
+other malicious software programs or social engineering attacks, could result in negative publicity, signiﬁcant
+remediation costs, legal liability, damage to our reputation and government sanctions and could have a material adverse
+effect on our results of operations. Cybersecurity threats are constantly evolving, thereby increasing the diﬁiculty of
+detecting and defending against them.
+We are subject to numerous laws and regulations designed to protect this information, such as the national laws
+implementing the European Union Directive on Data Protection (which will be replaced by the European Union General
+Data Protection Regulation from 2018 onwards), various US. federal and state laws governing the protection of health
+or other personally identiﬁable information and data privacy and cybersecurity laws in other regions. These laws and
+regulations are increasing in complexity and number, change frequently and sometimes conflict among the various
+countries in which we operate. If any person, including any of our employees, negligently disregards or intentionally
+breaches our established controls with respect to client orAccenture data, or otherwise mismanages or misappropriates
+that data, we could be subject to significant litigation, monetary damages, regulatory enforcement actions, ﬁnes and/
+or criminal prosecution in one or more jurisdictions. These monetary damages might not be subject to a contractual
+limit of liability or an exclusion of consequential or indirect damages and could be significant. In addition, our liability
+insurance, which includes cyber insurance, might not be sufficient in type or amount to cover us against claims related
+to security breaches, cyberattacks and other related breaches.
+Our profitability could materially suffer if we are unable to obtain favorable pricing for our services and
+solutions, if we are unable to remain competitive, if our cost-management strategies are unsuccessful or if
+we experience delivery inefficiencies.
+Our proﬁtability is highly dependent on a variety of factors and could be materially impacted by any of the following:
+Ourresults of operations could materially sufferif we are not able to obtain sufﬁcient pricing to meet ourproﬂtability
+expectations. lfwe are not able to obtain favorable pricing for our services and solutions, our revenues and profitability
+could materially suffer. The rates we are able to charge for our services and solutions are affected by a number of
+factors, including:
+- general economic and political conditions;
+- our clients’ desire to reduce their costs;
+- the competitive environment in our industry;
+- our ability to accurately estimate our service delivery costs, upon which our pricing is sometimes determined,
+includes our ability to estimate the impact of inflation and foreign exchange on our service delivery costs over
+long-term contracts; and
+- the procurement practices of clients and their use of third-party advisors.
+Our proﬁtability could suffer if we are not able to remain competitive. The competitive environment in our industry
+affects our ability to secure new contracts at our target economics in a number of ways, any of which could have a
+material negative impact on our results of operations. The less we are able to differentiate our services and solutions
+and/or clearly convey the value of our services and solutions, the more risk we have in winning new work in sufﬁcient
+volumes and at our target pricing and overall economics. In addition, the introduction of new services or products by
+competitors could reduce our ability to obtain favorable pricing and impact our overall economics for the services or
+solutions we offer. Competitors may be willing, at times, to price contracts lower than us in an effort to enter the market
+or increase market share.
+12

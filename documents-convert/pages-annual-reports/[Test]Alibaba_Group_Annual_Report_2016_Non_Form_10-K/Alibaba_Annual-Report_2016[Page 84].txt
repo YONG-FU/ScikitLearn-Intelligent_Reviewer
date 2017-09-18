@@ -1,0 +1,40 @@
+Anti-Counterfeiting
+To protect consumers, merchants and brands and to maintain the integrity of our marketplaces, we have taken
+the following measures through our platforms, with other industry participants and with governmental authorities:
+° Through our platforms. We proactively monitor our platforms and have implemented takedown measures to
+enforce IP rights, including:
+° operating an online takedown platform for brand owners to report infringements;
+° offering qualified rights holders a good-faith takedown program on Taobao Marketplace, where we
+process infringement takedown requests on a “good—faith” basis by expediting claims and simplifying
+the notification procedure;
+° conducting real-time initial screening of merchandise when merchants add or modify listings;
+° conducting test-buy programs to spot check whether the goods mailed by a merchant are genuine or
+meet quality standards; and
+0 improving our monitoring system by developing technologies to automate the process and investing in
+more manpower.
+° With other industry participants. We have established cooperative relationships with over 1,900 major brand
+owners and a large number of leading industry associations in connection with intellectual property rights
+protection to enhance the effectiveness of anti-counterfeiting measures.
+° With government authorities. We cooperate with government authorities, agencies and law enforcement
+authorities to conduct ofﬂine anti-counterfeiting investigations, and work with local governments in China to
+support original brands. With insights drawn from our data analytics, our team works closely with brands
+and law enforcement authorities, to identify manufacturers and large-scale distributors of counterfeit goods
+and bring them to justice.
+Combatting Fictitious Transactions
+With respect to fictitious activities, we have and will continue to invest significant resources in protecting the
+trust and credit system we have built on our marketplaces. Measures to prevent, detect and reduce the occurrence
+of fictitious transactions on Taobao Marketplace and Tmall we have implemented include:
+0 requiring the use of merchants’ real identities when opening accounts;
+0 analyzing transaction patterns to identify anomalies;
+0 offering dynamic password protection and engaging in real-time monitoring of user login behavior;
+0 enabling consumers and merchants to report suspicious transactions;
+0 maintaining a “blacklist” of merchants and sellers who have previously been involved in fictitious
+transactions; and
+0 collaborating with participants in our ecosystem such as Alipay and Cainiao Network as well as industry
+partners and law enforcement authorities on Internet security.
+Penalties
+We aim to protect consumers from being affected by excluding counterfeit merchandise and fictitious
+transactions from the ranking system, credit system and transaction volume statistics. When such activities are
+confirmed, we penalize the parties involved through a number of means including: limiting the relevant merchant’s
+ability to add listings, imposing restrictions on participation in promotional activities on our marketplaces, placing
+79

@@ -1,0 +1,41 @@
+(7) in the case of gathering, transportation, marketing, hedging, production handling, operating, construction, terminalling, processing,
+fractionation, storage, lease, platform use, or other operational contracts, any such contracts that are entered into in the ordinary course of business on
+terms substantially similar to those contained in similar contracts entered into by TLLP or any Restricted Subsidiary and third parties, or if neither
+TLLP nor any Restricted Subsidiary has entered into a similar contract with a third party, that the terms are no less favorable than those available from
+third parties on an arm’s-length basis, as determined by the Board of Directors of the General Partner;
+(8) loans or advances to employees in the ordinary course of business not to exceed $5.0 million in the aggregate at any one time outstanding;
+(9) the existence of, or the performance by TLLP or any Restricted Subsidiary of its obligations under the terms of, any written agreement in effect
+on the Issue Date, as such agreement may be amended, modiﬁed or supplemented from time to time and any similar agreements which it may enter into
+thereafter; provided, however, that the existence of, or the performance by TLLP or any Restricted Subsidiary of its obligations under, any future
+amendment to such agreements or under any such similar agreements shall only be permitted by this clause (9) to the extent that the terms of any such
+amendment or new agreement, taken as a whole, are not less favorable to the Holders in any material respect as compared to the terms of the agreement
+in effect on the Issue Date;
+(10) any transaction in which TLLP or any of its Restricted Subsidiaries, as the case may be, delivers to the Trustee a letter from an Independent
+Financial Advisor stating that such transaction is fair to TLLP or such Restricted Subsidiary from a ﬁnancial point of View or that such transaction
+meets the requirements of clause (1) of Section 4.1 1(a);
+(11) guarantees of performance by TLLP or any of its Restricted Subsidiaries in the ordinary course of business, except for guarantees of
+Indebtedness in respect of borrowed money;
+(12) (A) guarantees by TLLP or any of its Restricted Subsidiaries of performance of obligations of Unrestricted Subsidiaries or Joint Ventures in
+the ordinary course of business, except for guarantees of Indebtedness in respect of borrowed money, and (B) pledges by TLLP or any Restricted
+Subsidiary of Capital Stock in Unrestricted Subsidiaries or Joint Ventures for the beneﬁt of lenders or other creditors of Unrestricted Subsidiaries or
+Joint Ventures as contemplated by clause (13) of the deﬁnition of “Permitted Liens” with respect to clause (B) so long as any such transaction, if
+involving aggregate consideration in excess of $75.0 million, has been approved by a majority of the disinterested members of the Board of Directors
+of the General Partner;
+(13) any transactions between TLLP or any Restricted Subsidiary and any Person, a director of which is also a director of TLLP or a Restricted
+Subsidiary; provided that such director abstains from voting as a director of TLLP or the Restricted Subsidiary, as applicable, in connection with the
+approval of the transaction; and
+(14) any purchase or other acquisition or related transaction pursuant to the Omnibus Agreement.
+Section 4.12 Liens.
+TLLP will not and will not permit any Guarantor to, create, incur, assume or otherwise cause or suffer to exist or become effective any Lien of any kind
+(other than Permitted Liens) securing Indebtedness upon any of their property or assets, now owned or hereafter acquired, unless:
+(1) in the case of Liens securing Subordinated Obligations of TLLP or a Guarantor, the Notes or Note Guarantees, as applicable, are
+contemporaneously secured by a Lien on such property or assets on a senior basis to the Subordinated Obligations so secured with the same priority
+that the Notes or Note Guarantees, as applicable, have to such Subordinated Obligations until such time as such Subordinated Obligations are no longer
+so secured by a Lien; and
+(2) in the case of Liens securing Senior Indebtedness of TLLP or a Guarantor, the Notes or Note Guarantees, as applicable, are contemporaneously
+secured by a Lien on such property or assets on an equal and ratable basis with the Senior Indebtedness so secured until such time as such Senior
+Indebtedness is no longer so secured by a Lien.
+Any Lien on property or assets of TLLP or any Guarantor created for the beneﬁt of Holders of the Notes pursuant to the preceding paragraph shall
+provide by its terms that such Lien shall be automatically and unconditionally released and discharged at such time as there are no other Liens of any kind
+(other than Permitted Liens) on such property or assets securing Indebtedness.
+-39-

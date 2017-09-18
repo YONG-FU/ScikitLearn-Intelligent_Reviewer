@@ -1,0 +1,41 @@
+Table of Contents
+From time to time we identify products that we believe infringe our patents. We seek to license the companies that design, make, use, import, or sell those products
+but sometimes those companies are unwilling to enter into a license agreement. In those circumstances, we may elect to enforce our patent rights against those
+products. Litigation stemming from these or other disputes could harm our relationships with other licensees or our ability to gain new customers, who may
+postpone licensing decisions pending the outcome of the litigation or dispute, or who may, as a result of such litigation, choose not to adopt our technologies. In
+addition, these legal proceedings could be very expensive and may significantly reduce our profits.
+The costs associated with legal proceedings are typically high, relatively unpredictable and not completely within our control. These costs may be materially higher
+than expected, which could adversely affect our operating results and lead to volatility in the price of our common stock. Whether or not determined in our favor or
+ultimately settled, litigation diverts our managerial, technical, legal and financial resources from our business operations. Furthermore, an adverse decision in any
+of these legal actions could result in a loss of our proprietary rights, subject us to signiﬁcant liabilities, require us to seek licenses from others, limit the value of our
+licensed technology or otherwise negatively impact our stock price or our business and consolidated financial position, results of operations and cash ﬂows.
+Even if we prevail in our legal actions, significant contingencies may exist to their settlement and ﬁnal resolution, including the scope of the liability of each party,
+our ability to enforce judgments against the parties, the ability and willingness of the parties to make any payments owed or agreed upon, and the dismissal of the
+legal action by the relevant court, none of which are completely within our control. Parties that may be obligated to pay us royalties or damages could become
+insolvent or decide to alter their business activities or corporate structure, which could affect our ability to collect royalties or damages from, or enforce a judgment
+against, such parties.
+Competing technologies may harm our business.
+We expect that our technologies will continue to compete with technologies of internal design groups at semiconductor manufacturers, assemblers, electronic
+component and system manufacturers. The internal design groups of these companies create their own packaging and imaging solutions. If these internal design
+groups design around our patents or introduce unique solutions superior to our technology, they may not need to license our technology. These groups may design
+technology that is less expensive to implement or that enables products with higher performance or additional features. Many of these groups have substantially
+greater resources, greater financial strength and lower cost structures which may allow them to undercut our price. They also have the inherent advantage of access
+to internal corporate strategies, technology roadmaps and technical information. As a result, they may be able to bring alternative solutions to market more easily
+and quickly.
+For our embedded image processing technologies such as F ace Detection and our other FaceTools products, our offerings compete with other image processing
+software vendors such as ArcSoft, Inc. as well as internal design groups of our customers providing similar technologies by employing different approaches.
+In the future, our licensed technologies may also compete with other technologies that emerge. These technologies may be less expensive and provide higher or
+additional performance. Companies with these competing technologies may also have greater resources. Technological change could render our technologies
+obsolete, and new, competitive technologies could emerge that achieve broad adoption and adversely affect the use of our technologies and intellectual property.
+If we do not successfully further develop and commercialize the technologies we acquire, or cultivate strategic relationships that expand our licensable
+portfolio, our competitive position could be harmed and our operating results adversely affected.
+We also attempt to expand our licensable technology portfolio and technical expertise by further developing and acquiring new technologies or developing
+strategic relationships with others. These strategic relationships may include the right for us to sublicense technology and intellectual property to others. However,
+we may not be able to acquire or obtain rights to licensable technology and intellectual property in a timely manner or upon commercially reasonable terms. Even
+if we do acquire such rights, some of the technologies we invest in may be commercially unproven and may not be adopted or accepted by the industry. Moreover,
+our research and development efforts, and acquisitions and strategic relationships, may be futile if we do not accurately predict the future needs of the
+semiconductor, consumer and communication electronics, and consumer imaging industries. Our failure to acquire new technologies that are commercially viable
+in the semiconductor, consumer and communication electronics, and consumer imaging industries could significantly harm our business, financial position, results
+of operations and cash ﬂows.
+The way we integrate internally deveIOped and acquired technologies into our products and licensing programs may not be accepted by customers.
+12

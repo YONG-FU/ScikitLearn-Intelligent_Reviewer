@@ -1,0 +1,26 @@
+IablrepﬁContents
+Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements, including, without limitation, statements regarding expectations of, or our plans for:
+ﬁling of financial reports for our revised ﬁscal calendar; continued growth in sales of our NSX, vSAN, VMware vCloud Air Network and end-user computing
+offerings; expected benefits to customers of our product and service offerings; availability and anticipated benefits to customers of VMware Cloud on AWS and
+VMware Cross-Cloud Services; anticipated significant investments in research and development and related product opportunities; the extent to which our revenue
+is derived from our server virtualization products; a decline in sales and the portion of overall business derived from VMware vSphere; slowing demand for on-
+premises information technology (“IT”) resources and the increasing need for our products and services to compete with off-premises public cloud and SaaS-based
+offerings; the impact of a growing number of partnerships among our competitors; plans to further expand our international activities; anticipated investments in
+privacy and data protection compliance; acquisitions of other businesses, products, technologies; the impact of changes in tax laws in Ireland; the impact on our
+business, financial statements and results of operations of changes in accounting rules, including Topic 606 and ASU 2016-02; synergies and benefits resulting
+from the acquisition of EMC by Dell and the strategic alignment we have with Dell; continuing to be included in the consolidated tax group of Dell; our intention
+to add or expand facilities and our expectation that such facilities will be available as needed; our lack of intent to declare cash dividends; the IT industry
+transformation and our related strategic positioning; continued strong renewals resulting in additional license sales of both our existing and newer products and
+solutions; continued operation as a publicly traded company; a decline in compute license sales; the impact on professional services revenue of expanding our
+ecosystem of third-party professionals with expertise in our offerings; increases in employee-related expenses; indefinitely reinvesting our overseas earnings
+outside of the United States and not repatriating them to the United States; the sufficiency of our liquidity and capital reserves to fund our normal operating
+requirements; our ability to generate positive cash ﬂows from operations; our ability to obtain liquidity, arrange debt ﬁnancing or enter into credit facilities, should
+additional liquidity be required; the sufficiency of our director and officer insurance policy planning; the timing and amount of our total unrecognized tax benefits;
+intended uses of derivative ﬁnancial instruments and investments in ﬁxed income securities; deductibility of goodwill; the anticipated impact of contingent
+liabilities; the realizability of net deferred tax assets and likelihood of generating sufficient taxable income in future years.
+These forward-looking statements involve risks and uncertainties and the cautionary statements set forth above and those contained in the section of this report
+entitled “Risk Factors” identify important factors that could cause actual results to differ materially from those predicted in any such forward-looking statements.
+All forward-looking statements in this document are made as of the date hereof, based on information available to us as of the date hereof. We assume no
+obligation to, and do not currently intend to, update these forward-looking statements.
+3

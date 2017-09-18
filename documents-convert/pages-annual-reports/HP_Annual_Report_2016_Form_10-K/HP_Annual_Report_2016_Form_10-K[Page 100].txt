@@ -1,0 +1,36 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 10: Fair Value (Continued)
+Valuation Techniques
+Cash Equivalents and Investments: HP holds time deposits, money market funds, mutual funds, other debt securities
+primarily consisting of corporate and foreign government notes and bonds, and common stock and equivalents. HP values cash
+equivalents and equity investments using quoted market prices, alternative pricing sources, including NAV, or models utilizing
+market observable inputs. The fair value of debt investments was based on quoted market prices or model-driven valuations
+using inputs primarily derived from or corroborated by observable market data, and, in certain instances, valuation models that
+utilize assumptions which cannot be corroborated with observable market data.
+Derivative Instruments: HP uses forward contracts, interest rate and total return swaps and at times, option contracts to
+hedge certain foreign currency and interest rate exposures. HP uses industry standard valuation models to measure fair value.
+Where applicable, these models project future cash ﬂows and discount the future amounts to present value using market-based
+observable inputs, including interest rate curves, HP and counterparty credit risk, foreign exchange rates, and forward and spot
+prices for currencies and interest rates. See Note 11, “Financial Instruments” for a further discussion of HP’s use of derivative
+instruments.
+Other Fair Value Disclosures
+Short— and Long-Term Debt: HP estimates the fair value of its debt primarily using an expected present value technique,
+which is based on observable market inputs using interest rates currently available to companies of similar credit standing for
+similar terms and remaining maturities, and considering its own credit risk. The portion of HP’s debt that is hedged is reﬂected
+in the Consolidated Balance Sheets as an amount equal to the debt’s carrying amount and a fair value adjustment representing
+changes in the fair value of the hedged debt obligations arising from movements in benchmark interest rates. The estimated fair
+value of HP’s short— and long-term debt was $7.1 billion at October 31, 2016 compared to its carrying amount of $6.8 billion at
+that date. The estimated fair value of HP’s short— and long-term debt approximated its carrying value of $8.9 billion at
+October 31, 2015. If measured at fair value in the Consolidated Balance Sheets, short— and long-term debt would be classified in
+Level 2 of the fair value hierarchy.
+Other Financial Instruments: For the balance of HP’s financial instruments, primarily accounts receivable, accounts
+payable and financial liabilities included in other accrued liabilities, the carrying amounts approximate fair value due to their
+short maturities. If measured at fair value in the Consolidated Balance Sheets, these other financial instruments would be
+classified in Level 2 or Level 3 of the fair value hierarchy.
+Non-Marketable Equity Investments and Non-Financial Assets: HP’s non-marketable equity investments and non-
+financial assets, such as intangible assets, goodwill and property, plant and equipment, are recorded at fair value in the period
+an impairment charge is recognized. If measured at fair value in the Consolidated Balance Sheets, these would generally be
+classified in Level 3 of the fair value hierarchy.
+100

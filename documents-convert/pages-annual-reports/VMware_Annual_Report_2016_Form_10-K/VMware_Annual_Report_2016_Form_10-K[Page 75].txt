@@ -1,0 +1,25 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+The following table sets forth the computations of basic and diluted net income per share during the years ended December 31, 2016 , 2015 and 2014 (table in
+millions, shares in thousands):
+For the Year Ended December 31,
+2016 2015 2014
+'Net income 8 1,186 _ s 997 _ $ 886 l
+Gain on stock purchase with Dell, net of tax (8) — —
+'Net income, as adjusted $ 1,178 — $ 997 — $ 886 l
+Weighted-average shares, basic for Class A and Class B 7 420,520 7—? 424,003 7—? 430,3 5 5 7
+’Effect of stock purchase with Dell 7 — — ‘
+Effect of other dilutive securities 3,467 2,544 4,158
+[Weighted-average shares, diluted for Class A and Class B 423,994 _ 426,547 _ 434,513 1
+Net income per weighted-average share, basic for Class A and Class B :$ 2.82 :_:$ 2.3 5 :_:$ 2.05 :
+'Net income per weighted-average share, diluted for Class A and Class B 33 2.78 $ 2.34 $ 2.04 l
+The following table sets forth the weighted-average common share equivalents of Class A common stock that were excluded from the diluted net income per
+share calculations during the years ended December 31, 2016 , 2015 and 2014 , because their effect would have been anti-dilutive (shares in thousands):
+For the Year Ended December 31,
+2016 2015 2014
+’Anti-dilutive securities: — — 1
+Employee stock options 1,817 2,219 1,440
+1 Restricted stock units 652 249 16 l
+Total 2,469 _ 2,468 _ 1,456
+72

@@ -1,0 +1,39 @@
+Unless otherwise specified in such temporary Global Security or permanent Global Security, any such exchange shall be made free of charge to the beneficial
+owners of such temporary Global Security or permanent Global Security, except that a Person receiving deﬁnitive Securities must bear the cost of insurance,
+postage, tranSportation and the like in the event that such Person does not take delivery of such definitive Securities in person at the offices of Euroclear or
+Clearstream.
+Until exchanged in full as hereinabove provided, any temporary Global Security or permanent Global Security shall in all respects be entitled to the same
+beneﬁts under this Indenture as deﬁnitive Securities of the same series and with like terms and conditions, except as to payment of interest, if any, authenticated and
+delivered hereunder. Unless otherwise specified as contemplated by Section 301, interest payable on such temporary Global Security on an Interest Payment Date
+for Securities of such series shall be payable to Euroclear and Clearstream on such Interest Payment Date upon delivery by Euroclear and Clearstream to the Trustee
+for the Securities of the apprOpriate series or the Global Exchange Agent in the case of payment of interest on a temporary Global Security with respect to an
+Interest Payment Date occurring prior to the applicable Exchange Date of a certiﬁcate or certificates substantially in the form set forth in Exhibit C to this
+Indenture, for credit without further interest on or after such Interest Payment Date to the respective accounts of the Persons who are the beneﬁcial owners of such
+Global Security on such Interest Payment Date and who have, in the case of payment of interest on a temporary Global Security with respect to an Interest Payment
+Date occurring prior to the applicable Exchange Date, each delivered to Euroclear or Clearstream, as the case may be, a certiﬁcate substantially in the form set forth
+in Exhibit D to this Indenture.
+With respect to Exhibits A, B, C and D to this Indenture, the Company may, in its discretion and if required or desirable under applicable law, substitute one
+or more other forms of such exhibits for such exhibits, eliminate the requirement that any or all certiﬁcates be provided, or change the time that any certiﬁcate may
+be required, provided that such substitute form or forms or notice of elimination or change of such certification requirement have theretofore been delivered to the
+Trustee with a Company Request and such form or forms, elimination or change is reasonably acceptable to the Trustee.
+SECTION 305. Registration, Registration of Transfer and Exchange.
+The Company shall cause to be kept at the Corporate Trust Ofﬁce of the Trustee for the Securities of each series a register (the register maintained in such
+office being herein sometimes referred to as the “Security Register”) in which, subject to such reasonable regulations as it may prescribe, the Company shall
+provide for the registration of Registered Securities and of transfers of Registered Securities. The Trustee for the Securities of each series is hereby initially
+appointed “Security Registrar” for the purpose of registering Registered Securities and transfers of Registered Securities of such series as herein provided.
+Upon surrender for registration of transfer of any Registered Security of any particular series at the ofﬁce or agency of the Company in a Place of Payment
+for that series, the Company shall execute, and the Trustee for the Securities of each series shall authenticate and deliver, in the name of the designated transferee or
+transferees, one or more new Registered Securities of any authorized denominations, and of a like Stated Maturity and of a like series and aggregate principal
+amount and with like terms and conditions.
+Except as set forth below, at the option of the Holder, Registered Securities of any particular series may be exchanged for other Registered Securities of any
+authorized denominations, and of a like Stated Maturity and of a like series and aggregate principal amount and with like terms and conditions, upon surrender of
+the Registered Securities to be exchanged at such ofﬁce or agency. Whenever any Securities are so surrendered for exchange, the Company shall execute, and the
+Trustee for such Securities shall authenticate and deliver, the Securities which the Holder making the exchange is entitled to receive.
+Notwithstanding any other provision of this Section or Section 304, unless and until it is exchanged in whole or in part for Registered Securities in definitive
+form, a Global Security representing all or a portion of the Registered Securities of a series may not be transferred except as a whole by the Depositary for such
+series to a nominee of such Depositary or by a nominee of such Depositary to such Depositary or another nominee of such Depositary or by such Depositary or any
+such nominee to a successor Depositary for such series or a nominee of such successor Depositary. Neither the Trustee nor any Agent shall have any responsibility
+or liability for any actions taken or not taken by the Depositary.
+Whenever any Securities are so surrendered for exchange, the Company shall execute, and the Trustee for such Securities shall authenticate and deliver, the
+Securities which the Holder making the exchange is entitled to receive.
+16

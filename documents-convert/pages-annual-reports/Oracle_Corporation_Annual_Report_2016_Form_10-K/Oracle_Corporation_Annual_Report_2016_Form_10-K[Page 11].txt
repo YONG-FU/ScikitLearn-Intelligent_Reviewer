@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+- Oracle Mobile Cloud Service, which is designed to assist developers in deﬁning mobile application programming interfaces (APIs) and building mobile
+applications that connect to enterprise systems quickly and securely;
+- Oracle Application Builder Cloud Service, which is designed to enable the creation and hosting of business applications with a visual development
+environment from a web browser that integrates with Oracle SaaS applications such as Oracle Sales Cloud; and
+- Oracle Application Container Cloud, which is designed to enable the development of additional programming languages like Java SE and Node.J S within
+the Oracle Cloud and provides additional lifecycle tools for continuous integration and deployment.
+Oracle Integration Cloud
+Oracle Integration Cloud is designed to provide organizations with a unified and comprehensive solution to integrate disparate cloud and on-premise applications.
+Our Oracle Integration Cloud offerings include, among others:
+- Oracle Integration Cloud Service, which is designed to simplify the connections of SaaS applications and on-premise systems using an intuitive user
+interface;
+- Oracle SOA Cloud Service, which is designed to provide an integration platform to enable organizations to develop and deploy APIs and integration
+projects;
+- Oracle API Catalog Cloud Service, which is a collection of machine-readable APIs from a collection of Oracle’s SaaS and PaaS applications that is
+designed to facilitate integration between applications in the Oracle Cloud;
+- Oracle Internet of Things (IoT) Cloud Service, which is designed to provide an end-to-end solution for developing IoT-based applications by connecting
+existing sensors and devices to analytics engines in the Oracle Cloud; and
+° Oracle GoldenGate Cloud Service, which is designed to be a real-time, high performance, scalable, and secure public cloud data integration and
+replication solution.
+Oracle Content and Process Cloud
+Oracle Content and Process Cloud is designed to enable business users to easily collaborate, simplify business automation and communicate more effectively and
+includes the following offerings, among others:
+- Oracle Documents Cloud Service, which is an enterprise level, content collaboration solution that is designed to enable information to be accessed,
+uploaded and shared via the Oracle Cloud;
+° Oracle Sites Cloud Service, which is designed to enable the assembly of content, applications and processes to rapidly build and publish marketing and
+community websites; and
+- Oracle Process Cloud Service, which is designed to enable organizations to collaboratively model business processes, design forms, model decisions, and
+implement and deploy a process application to automate business tasks that are typically repetitive and manual.
+Oracle Business Analytics Cloud
+Oracle Business Analytics Cloud delivers business analytics across the entire enterprise and includes the following offerings, among others:
+- Oracle Business Intelligence Cloud Service is a cloud-based, enterprise-class analytics platform for creating business intelligence applications that are
+designed to convert data into business insight to optimize decision-making; and
+- Oracle Data Visualization Cloud Service, which is designed to enable the exploration of data across multiple platforms and devices using self-service
+discovery and visual analysis tools.
+9

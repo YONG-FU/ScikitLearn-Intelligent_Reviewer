@@ -1,0 +1,46 @@
+(b) in the case of Legal Defeasance, the Company shall have delivered to the Trustee for the Securities of that series an Opinion of Counsel in the
+United States reasonably acceptable to such Trustee conﬁrming that, subject to customary assumptions and exclusions, (1) the Company has received from, or there
+has been published by, the US. Internal Revenue Service a ruling or (2) since the Issue Date, there has been a change in the applicable US. federal income tax law,
+in either case to the effect that, and based thereon such Opinion of Counsel in the United States shall confirm that, subject to customary assumptions and exclusions,
+the Holders of the Outstanding Securities of that series will not recognize income, gain or loss for US. federal income tax purposes as a result of such Legal
+Defeasance and will be subject to US. federal income tax on the same amounts, in the same manner and at the same times as would have been the case if such
+Legal Defeasance had not occurred;
+(c) in the case of Covenant Defeasance, the Company shall have delivered to the Trustee for the Securities of that series an Opinion of Counsel in the
+United States reasonably acceptable to such Trustee confirming that, subject to customary assumptions and exclusions, the Holders of the Outstanding Securities of
+that series will not recognize income, gain or loss for US. federal income tax purposes as a result of such Covenant Defeasance and will be subject to such tax on
+the same amounts, in the same manner and at the same times as would have been the case if such Covenant Defeasance had not occurred;
+(d) no Event of Default or event which with the giving of notice or the lapse of time, or both, would become an Event of Default with respect to the
+Securities of that series shall have occurred and be continuing on the date of such deposit after giving effect to such Legal Defeasance or Covenant Defeasance and
+no Event of Default under Section 501(4) or Section 501(5) shall have occurred and be continuing on the 123rd day after such date;
+(e) such Legal Defeasance or Covenant Defeasance shall not result in a breach or violation of, or constitute a default under any material agreement or
+instrument to which the Company is a party or by which the Company is bound; and
+(f) the Company shall have delivered to the Trustee for the Securities of that series an Officers’ Certificate and an Opinion of Counsel in the United
+States (which Opinion of Counsel may be subject to customary assumptions and exclusions) each stating that all conditions precedent provided for or relating to the
+Legal Defeasance or the Covenant Defeasance, as the case may be, have been complied with.
+SECTION 405. Satisfaction and Discharge of Indenture.
+This Indenture will be discharged and will cease to be of further effect as to all Securities of any particular series issued hereunder when either (i) all
+Securities of that series theretofore authenticated and delivered (except (A) lost, stolen or destroyed Securities of such series which have been replaced or paid as
+provided in Section 306, and (B) Securities of such series for whose payment money has theretofore been deposited in trust and thereafter repaid to the Company or
+discharged from such trust, as provided in the last paragraph of Section 1003) have been delivered to the Trustee for the Securities of that series for cancellation or
+(ii) (A) all Securities of that series not theretofore delivered to Trustee for cancellation are due and payable by their terms within one year or have become due and
+payable by reason of the making of a notice of redemption and the Company has irrevocably deposited or caused to be deposited with such Trustee as trust funds in
+trust an amount of cash in any combination of currency or currency unit in which the Securities of such series are payable (except as otherwise specified pursuant to
+Section 301 for the Securities of such series and except as provided in Sections 311(b) and 311(d), in which case the deposit to be made with respect to Securities
+for which an election has occurred pursuant to Section 311(b) or a Conversion Event has occurred as provided in Section 311(d), shall be made in the currency or
+currency unit in which such Securities are payable as a result of such election or Conversion Event) sufficient to pay and discharge the entire indebtedness on such
+Securities not theretofore delivered to the Trustee for the Securities of that series for cancellation of principal, and premium, if any, and accrued and unpaid interest,
+if any, to the Stated Maturity or Redemption Date, as the case may be; (B) no Event of Default or event which with the giving of notice or the lapse of time, or both,
+would become an Event of Default shall have occurred and be continuing on the date of such deposit after giving effect thereto and no Event of Default under
+Section 501(4) or Section 501(5) shall have occurred and be continuing on the 123rd day after such date; (C) the Company has paid, or caused to be paid, all sums
+payable by it under this Indenture; and (D) the Company has delivered irrevocable written instructions to the Trustee for the Securities of that series under this
+Indenture to apply the deposited money toward the payment of such Securities at the Stated Maturity or the Redemption Date, as the case may be. In addition, the
+Company must deliver an Officers’ Certiﬁcate and an Opinion of Counsel to the Trustee for the Securities of that series stating that all conditions precedent to
+satisfaction and discharge have been satisfied.
+SECTION 406. Survival of Certain Obligations.
+Notwithstanding the satisfaction and discharge of this Indenture and of the Securities of a particular series referred to in Sections 401, 402, 404, or 405, the
+respective obligations of the Company and the Trustee for the Securities of a particular series under Sections 303, 304, 305, 307, 309, 407, 408, 409, 410, and 508,
+Article Six, and Sections 701, 702, 1002, 1003, 1004 and 1006, shall survive with respect to Securities of that series until the Securities of that series are no longer
+outstanding, and thereafter the obligations of the Company and the Trustee for the Securities of a particular series with respect to that series under Sections 407,
+408, 409, 410 and 607 shall survive. Nothing contained in this Article Four shall abrogate any of the obligations or duties of the Trustee of any series of Securities
+under this Indenture.
+23

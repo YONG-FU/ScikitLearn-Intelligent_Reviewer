@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+In February 2016, the FASB issued ASU 2016-02, “Leases” which, for operating leases, requires a lessee to recognize a right-of—use asset and a lease liability,
+initially measured at the present value of the lease payments, in its balance sheet. The standard also requires a lessee to recognize a single lease cost,
+calculated so that the cost of the lease is allocated over the lease term, on a generally straight-line basis. The ASU is effective for public companies for ﬁscal
+years beginning after December 15, 2018, including interim periods within those ﬁscal years. Early adoption is permitted. The Company is currently evaluating
+the effects that the adoption of ASU 2016-02 will have on the Company’s consolidated ﬁnancial position, results of operations and cash ﬂows and anticipates the
+new guidance will significantly impact its consolidated ﬁnancial statements given the Company has a signiﬁcant number of leases.
+In March 2016, the FASB issued ASU 2016-06, “Contingent put and call options in debt instruments, a consensus of the FASB’s Emerging Issues Task Force,”
+which simpliﬁes the embedded derivative analysis for debt instruments containing contingent call or put options. The new guidance clariﬁes that an exercise
+contingency does not need to be evaluated to determine whether it relates to interest rates and credit risk in an embedded derivative analysis. A contingent put
+or call option embedded in a debt instrument would be evaluated for possible separate accounting as a derivative instrument without regard to the nature of the
+exercise contingency. The ASU is effective for public companies for ﬁscal years beginning after December 15, 2016, and interim periods within those ﬁscal
+years. Early adoption is permitted for any interim and annual ﬁnancial statements that have not yet been issued. The new guidance is required to be applied on a
+modified retrospective basis to all existing and future debt instruments. An entity will be able to elect the fair value option at transition for the entire debt
+instrument, including its embedded features, but will not be able to unwind a previously-elected fair value option. The Company is not early adopting this
+standard and will consider the guidance for future transactions once it is effective.
+In March 2016, the FASB issued ASU 2016-07, “Simplifying the Transition to the Equity Method of Accounting,” which eliminates the requirement to apply the
+equity method of accounting retrospectively when a reporting entity obtains signiﬁcant inﬂuence over a previously held investment in order to reduce recognition
+and presentation complexity in ﬁnancial reporting. Instead, the new guidance requires equity method of accounting to be applied prospectively from the date
+signiﬁcant inﬂuence is obtained. The ASU is effective for public companies for ﬁscal years beginning after December 15, 2016, and interim periods within those
+ﬁscal years. Early adoption is permitted for any interim and annual ﬁnancial statements that have not yet been issued. The new guidance is required to be
+applied prospectively for investments that qualify for the equity method of accounting after the effective date. The Company is not early adopting this standard
+and will consider the guidance for future transactions once it is effective.
+In March 2016, the FASB issued ASU 2016-09, “Improvements to Employee Share-Based Payment Accounting” as part of its simpliﬁcation initiative, which
+involves several aspects of accounting for share-based payment transactions, including the income tax effects, statutory withholding requirements, forfeitures,
+and classiﬁcation on the statement of cash ﬂows. Under ASU 2016-09, stock based compensation excess beneﬁts (if any) will be recorded to the consolidated
+statements of operations. The ASU is effective for public companies for ﬁscal years beginning after December 15, 2016 and interim periods within those ﬁscal
+years. The Company will adopt this guidance in the ﬁrst quarter of 2017. Upon adoption of this guidance, the Company will record the cumulative tax beneﬁts
+that were not previously recognized because the related tax deduction had not reduced taxes payable. This cumulative impact is expected to increase retained
+earnings by approximately $100 million.
+In June 2016, the FASB issued ASU 2016-13, “Financial Instruments—Credit Losses”, which introduces new guidance for credit losses on instruments within its
+scope. The new guidance introduces an
+113

@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+listings only or both algorithmic and paid listings from Microsoft. To the extent the Company requests algorithmic listings only or requests paid listings but elects
+not to display such paid listings, the Company pays Microsoft serving costs but not a revenue share. In other cases and with respect to the Volume Commitment,
+the Revenue Share Rate applies.
+Previously under the Microsoft Search Agreement, Yahoo had sales exclusivity for both the Company’s and Microsoft’s premium advertisers. For reporting
+periods ending December 31, 2014 and 2015, and March 31, 2016, TAC related to the Company’s Microsoft Search Agreement was recorded as a reduction to
+revenue. Pursuant to the Eleventh Amendment, the Company completed the transition of its exclusive sales responsibilities to Microsoft for Microsoft’s paid
+search services to premium advertisers in the United States, Canada, and Europe on April 1, 2016 and in its remaining markets (other than Taiwan and Hong
+Kong) on June 1, 2016. Following the transition in each respective market, Yahoo is considered the principal in the sale of trafﬁc to Microsoft and other
+customers because Yahoo is the primary obligor in its arrangements with Microsoft and has discretion in how search queries from Afﬁliate sites will be fulﬁlled
+and monetized. As a result, the amounts paid to Affiliates under the Microsoft Search Agreement in the transitioned markets are recorded as cost of revenue—
+TAC rather than as a reduction to GAAP revenue, resulting in GAAP revenue from the Microsoft Search Agreement being reported on a gross rather than net
+basis.
+Effective June 3, 2016, the Company and Microsoft further amended the Microsoft Search Agreement to provide that sales responsibilities for premium
+advertisers in Taiwan and Hong Kong will not be transitioned. TAC in those markets will continue to be reported as a reduction to revenue.
+The term of the Microsoft Search Agreement is 10 years from its commencement date, February 23, 2010, subject to earlier termination as provided in the
+Microsoft Search Agreement. As of October 1, 2015, either the Company or Microsoft may terminate the Microsoft Search Agreement by delivering a written
+notice of termination to the other party. The Microsoft Search Agreement will remain in effect for four months from the date of the termination notice to provide for
+a transition period; however, the Company’s Volume Commitment will not apply in the third and fourth months of this transition period.
+Approximately 35 percent, 35 percent, and 37 percent of the Company’s revenue for the years ended December 31, 2014, 2015, and 2016, respectively, was
+attributable to the Microsoft Search Agreement. Commencing in the second quarter of 2016, TAC payments related to the Microsoft Search Agreement for
+transitioned markets, which previously would have been recorded as a reduction to revenue, began to be recorded as a cost of revenue due to a required
+change in revenue presentation. During the year ended December 31, 2016, $812 million of GAAP revenue and cost of revenue—TAC was due to the change in
+revenue presentation. See Note 1—“The Company and Summary of Signiﬁcant Accounting Policies” for additional information on change in revenue
+presentation.
+The Company’s uncollected revenue share in connection with the Microsoft Search Agreement was $267 million and $392 million, which is included in accounts
+receivable, net, as of December 31, 2015 and 2016, respectively.
+On December 4, 2009, in connection with entering into the Microsoft Search Agreement, the Company also entered into a License Agreement with Microsoft (as
+amended, the “License Agreement”). Under the License Agreement, Microsoft acquired an exclusive 10—year license to the Company’s core search technology
+and has the ability to integrate this technology into its existing web search platforms. Pursuant to the Eleventh Amendment, the exclusive licenses granted to
+Microsoft under the License Agreement became non—exclusive. The Company also agreed pursuant to the Eleventh Amendment to license certain sales tools to
+Microsoft to use solely in connection with Microsoft’s paid search services pursuant to the terms of the License Agreement.
+167

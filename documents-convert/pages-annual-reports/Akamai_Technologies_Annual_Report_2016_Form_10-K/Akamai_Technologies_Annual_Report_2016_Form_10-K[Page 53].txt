@@ -1,0 +1,34 @@
+AKAMAI TECHNOLOGIES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years Ended December 31,
+(in thousands) : 2016 2015 2014 :
+Cash ﬂows from operating activities: : : : : : :
+' Net income 3; 316,132 $ 321,406 $ 333,948 '
+I Adjustments to. reconcile net income to net cash provided by I
+operating act1v1t1es:
+I Depreciation and amortization 334,302 299,563 247,406 I
+' Stock-based compensation 144,506 126,677 111,996 '
+I Excess tax benefits from stock-based compensation (5,514) (29,301) (32,23 8)-
+I Provision (benefit) for deferred income taxes 7,308 4,098 (25,880)
+I Amortization of debt discount and issuance costs 18,638 18,525 15,463 I
+I Other non-cash reconciling items, net 10,574 5,804 2,565 I
+I Changes in operating assets and liabilities, net of effects of I
+acquisitions and divestitures:
+I Accounts receivable 3,356 (56,247) (58,397)
+I Prepaid expenses and other current assets 23,881 7,137 (60,788)-
+I Accounts payable and accrued expenses 18,491 51,624 94,698 I
+I Deferred revenue (1,213) 3,224 7,725 I
+' Other current liabilities 5,484 (345) (702)
+I Other non-current assets and liabilities (9,647) 11,986 22,274 I
+I Net cash provided by operating activities : 866,298 : : 764,151 : : 658,070 :
+Cash ﬂows from investing activities: I
+I Cash paid for acquisitions, net of cash acquired (95,439) (141,147) (3 86,5 32)-
+I Purchases of property and equipment (180,949) (311,676) (207,159)-
+I Capitalization of internal-use software development costs (135,340) (133,307) (111,468)
+I Purchases of short— and long-term marketable securities (781,061) (692,879) (1,225,409)-
+I Proceeds from sales of short— and long-term marketable securities 57,740 2,008 373,730 I
+I Proceeds from maturities of short- and long-term marketable I
+securities 664,837 843,931 372,287
+I Other non-current assets and liabilities 782 (2,494) 5,745 I
+I Net cash used in by investing activities : (469,430) : (435,564) : (1,178,806)
+5 1

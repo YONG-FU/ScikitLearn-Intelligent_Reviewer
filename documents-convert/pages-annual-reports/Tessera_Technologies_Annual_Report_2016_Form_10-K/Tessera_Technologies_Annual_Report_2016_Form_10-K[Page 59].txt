@@ -1,0 +1,45 @@
+Table of Contents
+Contingencies
+From time to time, the Company may be involved in legal and administrative proceedings and claims of various types. The Company records a liability in its
+consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. Management reviews
+these estimates in each accounting period as additional information becomes known and adjusts the loss provision when appropriate. If the loss is not probable or
+cannot be reasonably estimated, a liability is not recorded in the consolidated financial statements. If a loss is probable but the amount of loss cannot be reasonably
+estimated, the Company discloses the loss contingency and an estimate of possible loss or range of loss (unless such an estimate cannot be made). The Company
+does not recognize gain contingencies until they are realized. Legal costs incurred in connection with loss contingencies are expensed as incurred. See Note 14 — "
+Commitments and Contingencies ,” for further information regarding the Company’s pending litigation.
+Property and equipment
+Property and equipment are recorded at cost and depreciated using the straight-line method over their estimated useful lives. The depreciable lives range from one
+to five years.
+NOTE 3 — RECENT ACCOUNTING PRONOUNCEMENTS
+Recently Adopted Accounting Pronouncements
+In September 2015, the FASB issued ASU No. 2015-16, “Business Combinations (Topic 805): Simplifying the Accounting for Measurement-Period Adjustments”
+(“ASU 2015-16”). The standard requires that adjustments made to provisional amounts recognized in a business combination be recorded in the period such
+adjustments are determined, rather than retrospectively adjusting previously reported amounts. ASU 2015-16 is effective for fiscal years, and interim periods
+within those years, beginning after December 15, 2015, and early adoption is permitted. The adoption of ASU 2015-16 did not have a material effect on the
+Company’s consolidated ﬁnancial statements or disclosures.
+In November 2015, the F ASB issued ASU No. 2015-17, “Income Taxes (Topic 740): Balance Sheet Classiﬁcation of Deferred Taxes” (“ASU 2015-17”). The
+FASB issued this ASU as part of its ongoing simpliﬁcation initiative, with the objective of reducing complexity in accounting standards. The amendments in ASU
+2015-17 require entities that present a classified balance sheet to classify all deferred tax liabilities and assets as a noncurrent amount. This guidance does not
+change the offsetting requirements for deferred tax liabilities and assets, which results in the presentation of one amount on the balance sheet. Additionally, the
+amendments in this ASU align the deferred income tax presentation with the requirements in International Accounting Standards (IAS) 1, Presentation of Financial
+Statements. The amendments in ASU 2015-17 are effective for financial statements issued for annual periods beginning after December 15, 2016, and interim
+periods within those annual periods. Early adoption is permitted. The Company adopted this guidance prospectively as of December 31, 2015. The adoption of
+ASU 2015- 17 required short-term deferred tax assets be reclassiﬁed to long-term deferred tax assets. The adoption did not have any other material effect on the
+Company’s consolidated ﬁnancial statements or disclosures.
+Recent Accounting Pronouncements
+In May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers" (“ASU 2014-09”), which provides guidance for revenue recognition.
+ASU 2014-09 affects any entity that either enters into contracts with customers to transfer goods or services or enters into contracts for the transfer of nonﬁnancial
+assets and supersedes the revenue recognition requirements in Topic 605, “Revenue Recognition,” and most industry-speciﬁc guidance. This ASU also supersedes
+some cost guidance included in Subtopic 605-3 5, “Revenue Recognition-Construction-Type and Production-Type Contracts.” ASU 2014-09’s core principle is that
+a company will recognize revenue when it transfers promised goods or services to customers in an amount that reﬂects the consideration to which a company
+expects to be entitled in exchange for those goods or services. In doing so, companies will need to use more judgment and make more estimates than under today’s
+guidance, including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and
+allocating the transaction price to each separate performance obligation. ASU 2014-09 is effective for the Company beginning January 1, 2018 and, at that time,
+the Company may adopt the new standard under the full retrospective approach or the modiﬁed retrospective approach. At this time, some of the current guidance
+impacting the intellectual property licensing industry has not been ﬁnalized. Therefore, the Company is still considering how the guidance might affect its financial
+reporting once ﬁnalized.
+In June 2014, the Financial Accounting Standards Board ("FASB") issued ASU No. 2014-12, Accounting for Share-Based Payments When the Terms of an Award
+Provide That a Performance Target Could Be Achieved after the Requisite Service Period (“ASU 2014-12”). The amendments in ASU 2014-12 require that a
+performance target that affects vesting and that could be achieved after the requisite service period be treated as a performance condition. A reporting entity should
+apply existing guidance in Accounting Standards Codiﬁcation Topic No. 718, “Compensation - Stock Compensation” (“ASC 718”), as it
+F - 1 1

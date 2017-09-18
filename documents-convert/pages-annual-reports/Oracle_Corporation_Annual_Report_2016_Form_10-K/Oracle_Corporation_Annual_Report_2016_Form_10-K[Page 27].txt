@@ -1,0 +1,39 @@
+Table,0f,C,ontents
+particularly the Euro, Japanese Yen and British Pound, relative to the US. Dollar can signiﬁcantly affect our total assets, revenues, operating results and cash
+ﬂows, which are reported in US. Dollars. In particular, the economic uncertainties relating to European sovereign and other debt obligations may cause the value
+of the Euro to ﬂuctuate relative to the US. Dollar. Fluctuations in foreign currency rates, most notably the recent strengthening of the US. Dollar against the Euro
+and most other major international currencies, adversely affects our revenue growth in terms of the amounts that we report in US. Dollars after converting our
+foreign currency results into US. Dollars and in terms of actual demand for our products and services as these products become relatively more expensive for
+foreign currency-based enterprises to purchase. In addition, currency variations can adversely affect margins on sales of our products in countries outside of the
+United States. Generally, our revenues and operating results are adversely affected when the dollar strengthens relative to other currencies and are positively
+affected when the dollar weakens. In addition, our reported assets generally are adversely affected when the dollar strengthens relative to other currencies as a
+significant portion of our consolidated cash and bank deposits, among other assets, are held in foreign currencies. The US. Dollar generally strengthened relative to
+other currencies, including the Euro, in fiscal 2016, which is reﬂected in our results.
+In addition, we incur foreign currency transaction gains and losses, primarily related to sublicense fees and other intercompany agreements among us and our
+subsidiaries that we expect to cash settle in the near term, which are charged against earnings in the period incurred. We have a program which primarily utilizes
+foreign currency forward contracts designed to offset the risks associated with certain foreign currency exposures. We may suspend the program from time to time.
+As a part of this program, we enter into foreign currency forward contracts so that increases or decreases in our foreign currency exposures are offset at least in part
+by gains or losses on the foreign currency forward contracts in an effort to mitigate the risks and volatility associated with our foreign currency transaction gains or
+losses. A large portion of our consolidated operations are international, and we expect that we will continue to realize gains or losses with respect to our foreign
+currency exposures, net of gains or losses from our foreign currency forward contracts. For example, we will experience foreign currency gains and losses in
+certain instances if it is not possible or cost-effective to hedge our foreign currency exposures, if our hedging efforts are ineffective, or should we suspend our
+foreign currency forward contract program. Our ultimate realized loss or gain with respect to currency ﬂuctuations will generally depend on the size and type of
+cross-currency exposures that we enter into, the currency exchange rates associated with these exposures and changes in those rates, whether we have entered into
+foreign currency forward contracts to offset these exposures and other factors. All of these factors could materially impact our results of operations, ﬁnancial
+position and cash ﬂows.
+Certain of our international subsidiaries operate in economies that have been designated as highly inﬂationary. We have incurred foreign currency losses associated
+with the devaluation of currencies in these highly inﬂationary economies relative to the US. Dollar and we may continue to incur such losses in these countries or
+other emerging market countries where we do business.
+Economic, political and market conditions can adversely aﬂect our business, results of operations and financial condition, including our revenue growth and
+proﬁtability which in turn could adversely aﬂect our stock price. Our business is inﬂuenced by a range of factors that are beyond our control and that we have
+no comparative advantage in forecasting. These include:
+- general economic and business conditions;
+- overall demand for enterprise software, cloud offerings, hardware and services;
+° governmental budgetary constraints or shifts in government spending priorities; and
+- general political developments.
+Macroeconomic developments like the continued slow pace of economic recovery in Europe and parts of the United States, Asia and South America could
+negatively affect our business, operating results, financial condition and outlook, which, in turn, could adversely affect our stock price. Any general weakening of,
+and related declining corporate conﬁdence in, the global economy or the curtailment of government or corporate spending could cause current or potential
+customers to reduce or eliminate their IT budgets and spending, which could cause customers to delay, decrease or cancel purchases of our products and services or
+cause customers not to pay us or to delay paying us for previously purchased products and services.
+25

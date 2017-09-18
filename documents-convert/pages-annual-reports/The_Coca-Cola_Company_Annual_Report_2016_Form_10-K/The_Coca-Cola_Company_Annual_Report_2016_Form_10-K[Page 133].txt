@@ -1,0 +1,47 @@
+The following table provides a reconciliation of the beginning and ending balance of Level 3 assets for our US. and non-US.
+pension plans for the years ended December 31, 2016 and 2015 (in millions):
+F ixed-
+Equity Income
+Securities Securities Real Estate Other Total
+:2015 :
+Balance at beginning of year $ 17 $ 36 $ — $ 339 $ 392
+Actual return on plan assets:
+Related to assets held at the reporting date (6) 1 — 5 —
+Related to assets sold during the year — (4) — — (4)
+Purchases, sales and settlements — net — (6) — (77) 1 (83)
+Transfers into/(out of) Level 3 — net — (24) 2 (3) (25)
+Foreign currency translation adjustments — — — (45) (45)
+:Balance at end of year $ 11 SB 3 SB 2 $ 219 2 SB 235 :
+:2016 :
+Balance at beginning of year $ 11 $ 3 $ 2 $ 219 $ 235
+Actual return on plan assets:
+Related to assets held at the reporting date 4 2 — 7 13
+Related to assets sold during the year — (2) — 3 1
+Purchases, sales and settlements — net — 12 — (23) (11)
+Transfers into/(out of) Level 3 — net (1) 4 — 7 10
+Foreign currency translation adjustments — — — (2) (2)
+Balance at end of year $ 14 $ 19 $ 2 $ 211 2 $ 246
+1 Includes the reclassification of assets associated with the Company's consolidated German bottling operations to assets held for sale and
+liabilities held for sale as of December 31, 2015. During the year ended December 31, 2016, the Company deconsolidated our German
+bottling operations. Refer to Note 2.
+2 Includes purchased annuity insurance contracts.
+Other Postretirement Beneﬁt Plan Assets
+The following table summarizes the levels within the fair value hierarchy for our other postretirement beneﬁt plan assets as of
+December 31, 2016 and 2015 (in millions):
+December 31, 2016 December 31, 2015
+Level 1 Level 2 Other 1 Total Level 1 Level 2 Other 1 Total
+:Cash and cash equivalents $ 2 $ — $ — $ 2 $ 1 $ 7 $ — $ 8 :
+Equity securities:
+U.S.-based companies 116 — — 116 116 — — 1 16
+International-based companies 8 — — 8 6 — — 6
+Fixed-income securities:
+Government bonds — 3 — 3 77 3 — 80
+Corporate bonds and debt securities — 6 — 6 — 8 — 8
+Mutual, pooled and commingled funds 98 — 5 103 10 — 5 15
+Hedge funds/limited partnerships — — 9 9 — — 5 5
+Real estate — — 4 4 — — 3 3
+Other — — 4 4 — — 4 4
+Total $ 224 s 9 s 22 s 255 s 210 s 18 $ 17 $ 245’
+1 Certain investments that are measured at fair value using the net asset value per share (or its equivalent) practical expedient have not been
+categorized in the fair value hierarchy but are included to reconcile to the amounts presented in Note 13.
+13 1

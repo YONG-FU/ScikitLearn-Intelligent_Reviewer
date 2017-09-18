@@ -1,0 +1,53 @@
+Table of Contents
+ITEM 1A. RISK FACTORS
+As previously discussed, our actual results could differ materially from our forward-looking statements. Factors that might
+cause or contribute to such differences include, but are not limited to, those discussed below. These and many other factors described
+in this report could adversely affect our operations, performance and ﬁnancial condition.
+If we cannot continue to develop, market and offer new products and services or enhancements to existing products and services
+that meet customer requirements, our operating results could suffer:
+The process of developing new technology products and services and enhancing existing offerings is complex, costly and
+uncertain. If we fail to anticipate customers’ changing needs and emerging technological trends, our market share and results of
+operations could suffer. We must make long-term investments, develop or obtain appropriate intellectual property and commit
+significant resources before knowing whether our predictions will accurately reﬂect customer demand for our products and services.
+If we are unable to extend our core technologies into new applications and platforms and to anticipate or respond to technological
+trends, the market’s acceptance of our products and services could decline and our results would suffer. Additionally, any delay
+in the development, marketing or launch of a new offering or enhancement to an existing oﬂering could result in customer attrition
+or impede our ability to attract new customers, causing a decline in our revenue, earnings or stock price and weakening our
+competitive position. Furthermore, third parties market certain of our offerings and support certain product functionality. If we
+are unsuccessful in establishing or maintaining our strategic relationships with these third parties, our ability to compete in the
+marketplace, to reach new customers and geographies or to grow our revenue could be impaired and our operating results could
+suffer.
+We offer our products on a variety of hardware platforms. Consumers continue to shift away from personal computers to
+tablet and mobile devices. If we cannot continue to adapt our products to tablet and mobile devices, our business could be harmed.
+To the extent that consumer purchases of these devices slow down, or to the extent that significant demand arises for our products
+or competitive products on other platforms before we offer our products on those platforms, our business could be harmed. Releases
+of new devices or operating systems may make it more difficult for our products to perform or may require significant costs in
+order for us to adapt our solutions to such devices or operating systems. These potential costs and delays could harm our business.
+Introduction of new products, services and business models by competitors or others could harm our competitive position and
+results of operations.
+The markets for our products and services are characterized by intense competition, evolving industry standards, emerging
+business and distribution models, disruptive technology developments, short life cycles, customer price sensitivity and frequent
+new product introductions (including alternatives with limited functionality available at lower costs or free of charge). Any of
+these factors could create downward pressure on pricing and gross margins and could adversely affect our renewal and upgrade
+rates, as well as our ability to attract new customers. Our future success will depend on our continued ability to enhance and better
+integrate our existing products and services, introduce new products and services in a timely and cost-effective manner, meet
+changing customer needs, extend our core technology into new applications, and anticipate emerging standards, business models,
+software delivery methods and other technological developments. If any competing products, services or operating systems that
+are not compatible with our solutions achieve widespread acceptance, our operating results could suffer. In addition, consolidation
+has occurred among some of the competitors in the markets in which we compete. Further consolidations in these markets may
+subject us to increased competitive pressures and may therefore harm our results of operations.
+The introduction of certain technologies may reduce the eﬁectiveness of our products. For example, some of our products
+rely on third-party cookies, which are placed on individual browsers when consumers visit websites that contain advertisements.
+We use these cookies to help our customers more effectively advertise, to gauge the performance of their advertisements, and to
+detect and prevent fraudulent activity. Consumers can block or delete cookies through their browsers or “ad-blocking” software
+or applications. The most common Internet browsers allow consumers to modify their browser settings to prevent cookies from
+being accepted by their browsers, or are set to block third-party cookies by default. Increased use of methods, software or applications
+that block cookies could harm our business.
+For additional information regarding our competition and the risks arising out of the competitive environment in which
+we operate, see the section entitled “Competition” contained in Part I, Item 1 of this report.
+We may be unable to predict subscription renewal rates and the impact these rates may have on our future revenue and operating
+results.
+The hosted business model we use in our Adobe Marketing Cloud offerings typically involves selling services on a
+subscription basis pursuant to service agreements that are generally one to three years in length. Our individual Creative Cloud
+and Document Cloud subscription agreements are generally month-to-month or one year in length, ETLAs for our Digital Media
+20

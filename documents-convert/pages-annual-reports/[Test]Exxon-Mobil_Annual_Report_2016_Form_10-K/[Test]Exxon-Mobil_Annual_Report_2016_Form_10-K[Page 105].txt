@@ -1,0 +1,35 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Deferred income taxes reﬂect the impact of temporary differences between the amount of assets and liabilities recognized for
+financial reporting purposes and such amounts recognized for tax purposes.
+Deferred tax liabilities/(assets) are comprised of the following at December 31:
+Tax effects of temporary differences for: 2016 2015
+(millions of dollars)
+Property, plant and equipment 46,744 49,409
+Other liabilities 4,262 4,6 13
+Total deferred tax liabilities 51,006 54,022
+Pension and other postretirement benefits (6,053) (6,286)
+Asset retirement obligations (5,454) (6,277)
+Tax loss carryforwards (5,472) (4,983)
+Other assets 7&615) @5 92)
+Total deferred tax assets 7(22,5 94) (23,138)
+Asset valuation allowances 1,509 1,730
+Net deferred tax liabilities : 29,921 32,614:
+In 2016, asset valuation allowances of $1,509 million decreased by $221 million and included net provisions of $180 million and
+effects of foreign currency translation of $41 million.
+Deferred income tax (assets) and liabilities are included in the balance sheet as shown below. Effective September 30, 2016, the
+Corporation early-adopted Accounting Standard Update no. 2015-17 Income Taxes (Topic 740): Balance Sheet Classiﬁcation of
+Deferred Taxes on a prospective basis. This update eliminates the requirement to classify deferred tax assets and liabilities as
+current and noncurrent, and instead requires all deferred tax assets and liabilities to be classiﬁed as noncurrent.
+Balance sheet classiﬁcation 2016 2015
+(millions of dollars)
+Other current assets - (1,329)
+Other assets, including intangibles, net (4,120) (3,421)
+Accounts payable and accrued liabilities - 546
+Deferred income tax liabilities 34,041 36,8 18
+Net deferred tax liabilities :29,921 32,614:
+The Corporation had $54 billion of indefinitely reinvested, undistributed earnings from subsidiary companies outside the US. that
+were retained to fund prior and future capital project expenditures. Deferred taxes have not been recorded for potential future tax
+obligations as these earnings are expected to be indefinitely reinvested for the foreseeable future. As of December 31, 2016, it is
+not practical to estimate the unrecognized deferred tax liability associated with these earnings given the future availability of
+foreign tax credits and uncertainties about the timing of potential remittances.
+101

@@ -1,0 +1,45 @@
+Economic sanctions programs restrict our business dealings with certain countries and individuals. From time to time, certain of our foreign subsidiaries have had limited
+business dealings with entities in jurisdictions subject to OFAC-administered sanctions. As a result of our worldwide business, we are exposed to a heightened risk of
+violating anti-corruption laws and OFAC regulations. Violations of these laws and regulations are punishable by civil penalties, including fines, injunctions, asset
+seizures, debarment from government contracts and revocations or restrictions of licenses, as well as criminal fines and imprisonment.
+Our Use of Open Source Software May Subject Us to Certain Intellectual Property-Related Claims or Require Us to Re-Engineer Our Software, Which Could Harm
+Our Business.
+We use open source software in connection with our solutions, processes, and technology. Companies that use or incorporate open source software into their products
+have, from time to time, faced claims challenging their use, ownership and/or licensing rights associated with that open source software. As a result, we could be subject
+to suits by parties claiming certain rights to what we believe to be open source software. Some open source software licenses require users who distribute open source
+software as part of their software to publicly disclose all or part of the source code in their software and make any derivative works of the open source code available on
+unfavorable terms or at no cost. In addition to risks related to license requirements, use of open source software can lead to greater risks than use of third party
+commercial software, as open source licensors generally do not provide warranties, support, or controls with respect to origin of the software. Use of open source
+software also complicates compliance with export-related laws. While we take measures to protect our use of open source software in our solutions, open source license
+terms may be ambiguous, and many of the risks associated with usage of open source software cannot be eliminated. If we were found to have inappropriately used open
+source software, we may be required to release our proprietary source code, re-engineer our software, discontinue the sale of certain solutions in the event re-engineering
+cannot be accomplished on a timely basis, or take other remedial action that may divert resources away from our development efforts, any of which could adversely
+affect our business, financial position, and results of operations.
+We Face Signiﬁcant Competition in Our Industry.
+The market for our solutions is highly competitive. We directly compete with both independent providers and in—house solutions developed by existing and potential
+clients. In addition, some independent providers are entering into strategic alliances with other independent providers, resulting in either new competitors, or competitors
+with greater resources. Many of our current and potential competitors have signiﬁcantly greater financial, marketing, technical, and other competitive resources than our
+company, many with signiﬁcant and well-established domestic and international operations. There can be no assurance that we will be able to compete successfully with
+our existing competitors or with new competitors.
+Failure to Protect Our Intellectual Property Rights or Claims by Others That We Infringe Their Intellectual Property Rights Could Substantially Harm Our
+Business, Financial Position and Results of Operations.
+We rely on a combination of trade secret, copyright, trademark, and patent laws in the US. and similar laws in other countries, and non-disclosure, conﬁdentiality, and
+other types of contractual arrangements to establish, maintain, and enforce our intellectual property rights in our solutions. Despite these measures, any of our intellectual
+property rights could be challenged, invalidated, circumvented, or misappropriated. Further, our contractual arrangements may not effectively prevent disclosure of our
+confidential information or provide an adequate remedy in the event of unauthorized disclosure of our confidential information. Others may independently discover trade
+secrets and proprietary information, which may complicate our assertion of trade secret rights against such parties. Costly and time consuming litigation could be
+necessary to enforce and determine the scope of our proprietary rights, and failure to obtain or maintain trade secret protection could adversely affect our competitive
+business position. In addition, the laws of certain countries do not protect proprietary rights to the same extent as the laws of the US. Therefore, in certain jurisdictions,
+we may be unable to protect our proprietary technology adequately against unauthorized third party copying or use, which could adversely affect our competitive
+position.
+Although we hold a limited number of patents and patent applications on some of our solutions, we do not rely upon patents as a primary means of protecting our rights
+in our intellectual property. In any event, there can be no assurance that our patent applications will be approved, that any issued patents will adequately protect our
+intellectual property, or that such patents will not be challenged by third parties. Also, much of our business and many of our solutions rely on key technologies
+developed or licensed by third parties, and we may not be able to obtain or continue to obtain licenses and technologies from these third parties at all or on reasonable
+terms.
+Finally, third parties may claim that we, our clients, licensees or other parties indemniﬁed by us are infringing upon their intellectual property rights. Even if we believe
+that such claims are without merit, they can be time consuming and costly to defend and distract management’s and technical staff’s attention and resources. Claims of
+intellectual property infringement also might require us to redesign affected solutions, enter into costly settlement or license agreements or pay costly damage awards, or
+face a temporary or permanent injunction prohibiting us from marketing or selling certain of our solutions. Even if we have an agreement to indemnify us against such
+costs, the indemnifying party may be unable to uphold its contractual obligations. If we cannot or do not license the
+13

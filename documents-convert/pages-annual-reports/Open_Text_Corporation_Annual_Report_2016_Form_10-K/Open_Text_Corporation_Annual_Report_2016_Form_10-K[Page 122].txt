@@ -1,0 +1,61 @@
+OPEN TEXT CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands of US. dollars)
+Year Ended June 30,
+: 2016 2015 2014 :
+ICash ﬂows from operating activities: 7
+Net income for the period $ 284,495 $ 234,406 $ 218,074
+[Adjustments to reconcile net income to net cash provided by operating activities: I
+Depreciation and amortization of intangible assets 242,368 240,147 186,177
+I Share—based compensation expense 25,978 22,047 19,906 I
+Excess tax beneﬁts on share-based compensation expense (230) (1,675) (1,844)
+I Pension expense 4,577 4,796 3,232 I
+Amortization of debt issuance costs 4,678 4,556 3,191
+I Amortization of deferred charges and credits 9,903 10,525 11,307 I
+Loss on sale and write down of property and equipment 1,108 1,368 15
+I Release of unrealized gain on marketable securities to income — (3,098) — I
+Write off of unamortized debt issuance costs — 2,919 —
+I Deferred taxes (54,461) (14,578) (12,334)I
+Changes in operating assets and liabilities:
+I Accounts receivable 8,985 43,189 (17,186)I
+Prepaid expenses and other current assets 316 (3,534) 11,146
+I Income taxes 6,294 2,933 11,308 I
+Deferred charges and credits — — 9,870
+I Accounts payable and accrued liabilities (5,671) (22,714) (36,478)I
+Deferred revenue (4,781) 6,775 16,601
+I Other assets 7 2,163 (5,031)? (5,858)]
+Net cash provided by operating activities 525,722 523,031 417,127
+ICash ﬂows from investing activities: 7 7 7 7 7
+Additions of property and equipment (70,009) (77,046) (@268)
+I Proceeds from—maturity of sh6rt—term investments 11,297 17,017 —I
+Purchase of CEM Business (152,711) — —
+I Purchase of ANXe Business Corporation (104,570) — — I
+Purchase of Daegis Inc., net of cash acquired (22,146) — —
+I Purchase of Actuate Corporation, net of cash acquired (8,153) (291,800) — I
+Purchase of Informative Graphics Corporation, net of cash acquired (3,464) (35,180) —
+I Purchase of GXS Group, Inc., net of cash acquired — — (1,076,886)I
+Purchase of Cordys Holding BV, net of cash acquired — — (30,588)
+I Purchase of ICCM Professional Services Limited, net of cash acquired (2,027) — 7 —I
+Purchase of a division of Spicer Corporation — (222) —
+I Purchase of patents — — (192)I
+Purchase consideration for prior period acquisitions — (590) (887)
+I Other investing activities : (9,393)}: (10,574)}: (2,5475)
+Net cash used in investing activities (361,176) (398,395) (1,153,368)
+ICash ﬂows from financing activities: _ _ I
+Excess tax benefits on share-based compensation expense 230 1,675 1,844
+I Proceeds from issuance of Common Shares 20,097 15,240 24,808 I
+Proceeds from long-term debt 600,000 800,000 800,000
+I Repayment of long-term debt and revolver (8,000) (530,284) (£§,911)J1
+Debt issuance costs (6,765) (18,271) (@685)
+I Equ_ity issuance costs — — (144)]
+Common Shares repurchased (65,509) — —
+I Purchase of Treasury Stock ($527) (m,126) Q,275)I
+Payments of dividends to shareholders 7 (99,262); (87,629); (74,693)
+INet cash provided by financing activities : 430,164 :_: 170,605 :_: 687,944I
+Foreign exchange gain (loss) on cash held in foreign currencies (10,952): (23,132): 5,742
+IIncrease (decrease) in cash and cash equivalents during the period 7 583,758 272,109 (42,5 5 5);I
+Cash and cash equivalents at beginning of the period 699,999 427,890 470,445
+ICash and cash equivalents at end of the period :$ 1,283,757 $ 699,999 $ 427,890
+Supplemental cash ﬂow disclosures (note 20)
+See accompanying Notes to Consolidated Financial Statements
+1 14

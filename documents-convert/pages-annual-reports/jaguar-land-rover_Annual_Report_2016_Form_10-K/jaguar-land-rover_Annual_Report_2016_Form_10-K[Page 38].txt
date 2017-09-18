@@ -1,0 +1,50 @@
+Overview Strategic report Governance
+lFC—19 | 20—59 | 60-71 [ @039 ] 1
+31 EMPLOYEE BENEFITS
+The Group operates deﬁned beneﬁt schemes for qualifying employees of certain of its subsidiaries. The UK deﬁned beneﬁt
+schemes are administered by a trustee that is legally separated from the Company. The trustee of the pension schemes
+is required by law to act in the interest of the fund and of all relevant stakeholders in the schemes, is responsible for the
+investment policy with regard to the assets of the schemes and all other governance matters. The board of the trustee must
+be composed of representatives of the Company and scheme participants in accordance with each scheme’s regulations.
+Under the schemes, the employees are entitled to post—retirement beneﬁts based on their length of service and salary.
+Through its deﬁned beneﬁt pension schemes the Group is exposed to a number of risks, the most signiﬁcant of which are
+detailed below:
+ASSET VOLATILITY
+The scheme liabilities are calculated using a discount rate set with reference to corporate bond yields; if scheme assets under
+perform these corporate bonds, this will create or increase a deﬁcit. The deﬁned beneﬁt schemes hold a signiﬁcant proportion
+of equity type assets, which are expected to outperform corporate bonds in the long term although introducing volatility and
+risk in the short term.
+As the schemes mature, the Group intends to reduce the level of investment risk by investing more in assets that better match
+the liabilities.
+However, the Group believes that due to the long—term nature of the scheme liabilities and the strength ofthe supporting
+group, a level of continuing equity type investments is an appropriate element of the Group’s long—term strategy to manage
+the schemes efﬁciently.
+CHANGES IN BOND YIELDS
+A decrease in corporate bond yields will increase scheme liabilities, although this is expected to be partially offset by an
+increase in the value of the schemes’ bond holdings and interest rate hedging instruments.
+INFLATION RISK
+Some ofthe Group pension obligations are linked to inflation, and higher inflation will lead to higher liabilities (although, in most
+cases, caps on the level of inflationary increases are in place to protect the scheme against extreme inflation). The schemes
+hold a signiﬁcant proportion of assets in index linked gilts, together with other inflation hedging instruments and also assets
+which are more loosely correlated with inflation. However, an increase in inflation will also increase the deﬁcit to some degree.
+LIFE EXPECTANCY
+The majority of the scheme’s obligations are to provide beneﬁts for the life of the member, so increases in life expectancy
+will result in an increase in the scheme’s liabilities. This is particularly signiﬁcant in the UK deﬁned beneﬁt schemes, where
+inflationary increases result in higher sensitivity to changes in life expectancy.
+The following tables set out the disclosures pertaining to the retirement beneﬁt amounts recognised in the ﬁnancial statements:
+CHANGE IN PRESENT VALUE OF DEFINED BENEFIT OBLIGATION
+l 2016 2015 2014 '
+Year ended 31 March £m £m Em A
+Deﬁned beneﬁt obligation at beginning of year 7,883 6,053 6,021
+Current service cost 224 168 176
+Interest expense 263 274 262
+Actuarial (gains)/ losses arising from:
+Changes in demographic assumptions (36) (20) (39)
+Changes in ﬁnancial assumptions (569) 1,454 (243)
+Experience adjustments 63 101 8
+Past service cost — 1 6
+Exchange differences on foreign schemes 3 — (2)
+Member contributions 2 2 1
+Beneﬁts paid (165) (149) (137)
+Other adjustments — (1) —
+Deﬁned beneﬁt obligation at end of year 7,668 7,883 6,053

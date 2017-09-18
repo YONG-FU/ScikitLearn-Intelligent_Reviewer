@@ -1,0 +1,43 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+23. Related party transactions
+During the years ended March 31, 2014, 2015 and 2016, other than disclosed elsewhere, the Company had the
+following material related party transactions:
+Transactions with Yahoo
+Year ended
+March 31,
+2014 2015 2016
+(in millions of RMB)
+Amount incurred or disbursed by the Company
+Royalty fee 748 448 —
+Purchase of patents (ii) 430 144 —
+(i) The Company and Yahoo entered into a Technology and Intellectual Property Licensing Agreement in
+October 2005 whereby Yahoo granted to the Company the use of certain intellectual property and the
+Company agreed to pay Yahoo a royalty fee equal to 2%, until December 31, 2012 and equal to 1.5%
+thereafter, of revenues recognized on a consolidated basis under US. GAAP, less traffic acquisition costs
+incurred in connection with third-party distribution partners, business tax, value—added tax or similar sales
+tax based on revenue paid to governments. The arrangement was terminated upon the completion the
+Company’s initial public offering in September 2014. Such royalty expense was recognized in product
+development expenses.
+(ii) The Company and Yahoo entered into a patent sale and assignment agreement during the years ended
+March 31, 2014 and 2015 pursuant to which the Company acquired ownership of certain patents for
+aggregate consideration of US$70 million and US$24 million, respectively.
+Transactions with Ant Financial Services, Alipay, Koabei and their aﬁ‘iliates
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB)
+Amount earned by the Company
+Royalty fee and software technology services fee (i) 1,764 1,667 1,122
+SME Annual Fee (ii) — 90 708
+Reimbursement on options and RSUs (iii) 266 206 113
+Other services (iv) 46 158 1,086
+2,076 2,121 3,029
+Amount incurred by the Company
+Payment processing fee (v) 2,349 3,853 4,898
+Other services (iv) 21 306 299
+2,370 4,159 5,197
+(i) In 2011, the Company entered into an Intellectual Property License and Software Technology Services
+Agreement with Alipay whereby the Company licenses certain intellectual properties and provides certain
+software technology services to Alipay in exchange for a royalty fee and software technology services fee
+F-8O

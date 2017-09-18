@@ -1,0 +1,43 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+11. Employee Retirement Plans (Continued)
+The reconciliation of the beginning and ending balances of the fair value of plan assets, funded
+status of plans, and amounts recognized in the consolidated balance sheets consisted of the following:
+December 31
+2016 2015
+Benefit obligation at beginning of year . . . . . . . . . . . . . . . . . . $ 37,217 $ 38,362
+Servicecost...................................... 321 257
+Interestcost..................................... 1,639 1,489
+Actuarial(gain)loss................................ 1,469 (1,662)
+Benefitspaid..................................... (1,239) (1,229)
+Benefit obligation at end of year. . . . . . . . . . . . . . . . . . . . . . . 39,407 37,217
+Fair value of plan assets at beginning of year. . . . . . . . . . . . . . 26,378 26,046
+Actual return (loss) on plan assets . . . . . . . . . . . . . . . . . . . . . 2,373 (214)
+Employer contributions through December 31 . . . . . . . . . . . . . 1,711 1,775
+Benefitspaid..................................... (1,239) (1,229)
+Fair value of plan assets at end of year . . . . . . . . . . . . . . . . . . 29,223 26,378
+$(10,184) $(10,839)
+The components of net periodic pension cost consisted of the following for the years ended
+December 31,
+2016 2015 2014
+Components of net periodic pension cost:
+Servicecost............................... $321 $257 $216
+Interestcost.............................. 1,639 1,489 1,496
+Expected return on plan assets. . . . . . . . . . . . . . . . . (1,824) (1,630) (1,631)
+Amortization ofnetloss 724 1,021 203
+Netperiodicpensioncost $ 860 $1,137 $ 284
+The accumulated benefit obligation for all pension plans as of December 31, 2016 and 2015, was
+$38,799 and $36,749, respectively.
+In accordance with its adoption of ASC 715-20, the Company uses December 31 as its
+measurement date for all periods presented. Assumptions used in determining net periodic pension cost
+for the plans consisted of the following:
+Year ended December 31
+2016 2015 2014
+Discountrates 4.5%3.9%—4.0% 4.8%-4.9%
+Rates of increase in compensation levels:
+Salaried......................................... 3.5 3.5 3.5
+N/A N/A N/A
+Expected long-term rate of return on assets . . . . . . . . . . . . . . . . . 7.25 7.25 7.25
+F-36

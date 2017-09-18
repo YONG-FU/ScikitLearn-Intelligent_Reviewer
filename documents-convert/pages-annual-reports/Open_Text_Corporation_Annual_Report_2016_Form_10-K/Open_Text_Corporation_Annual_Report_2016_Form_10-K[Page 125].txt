@@ -1,0 +1,52 @@
+enhancements result in additional functionality, are capitalized. If upgrades and enhancements do not result in additional
+functionality, those costs are expensed as incurred. If diﬁerent determinations are made with respect to whether upgrades or
+enhancements to software projects would result in additional functionality, then the amount capitalized and the amount charged
+to expense for that project could diﬁer materially.
+We amortize capitalized costs with respect to development projects for internal-use software when the software is ready
+for use. The capitalized software development costs are generally amortized using the straight-line method over a 5-year period.
+In determining and reassessing the estimated useful life over which the cost incurred for the software should be amortized, we
+consider the effects of obsolescence, technology, competition and other economic factors. If different determinations are made
+with respect to the estimated useful life of the software, the amount of amortization charged in a particular period could differ
+materially.
+As of June 30, 2016 and 2015 our capitalized software development costs were $53.5 million and $38.6 million,
+respectively. Our additions, relating to capitalized software development costs, incurred during Fiscal 2016 and Fiscal 2015
+were $14.9 million and $18.6 million, respectively.
+Acquired intangibles
+Acquired intangibles consist of acquired technology and customer relationships associated with various acquisitions.
+Acquired technology is initially recorded at fair value based on the present value of the estimated net future income-
+producing capabilities of software products acquired on acquisitions. We amortize acquired technology over its estimated useful
+life on a straight-line basis.
+Customer relationships represent relationships that we have with customers of the acquired companies and are either
+based upon contractual or legal rights or are considered separable; that is, capable of being separated from the acquired entity
+and being sold, transferred, licensed, rented or exchanged. These customer relationships are initially recorded at their fair value
+based on the present value of expected future cash ﬂows. We amortize customer relationships on a straight-line basis over their
+estimated useful lives.
+We continually evaluate the remaining estimated useful life of our intangible assets being amortized to determine whether
+events and circumstances warrant a revision to the remaining period of amortization.
+Impairment oflong-lived assets
+We account for the impairment and disposition of long-lived assets in accordance with ASC Topic 360, “Property, Plant,
+and Equipment” (TOpic 360). We test long-lived assets or asset groups, such as property and equipment and definite lived
+intangible assets, for recoverability when events or changes in circumstances indicate that their carrying amount may not be
+recoverable. Circumstances which could trigger a review include, but are not limited to: significant adverse changes in the
+business climate or legal factors; current period cash ﬂow or operating losses combined with a history of losses or a forecast of
+continuing losses associated with the use of the asset; and a current expectation that the asset will more likely than not be sold
+or disposed of before the end of its estimated useful life.
+Recoverability is assessed based on comparing the carrying amount of the asset to the aggregate pre-tax undiscounted
+cash ﬂows expected to result from the use and eventual disposal of the asset or asset group. Impairment is recognized when the
+carrying amount is not recoverable and exceeds the fair value of the asset or asset group. The impairment loss, if any, is
+measured as the amount by which the carrying amount exceeds fair value, which for this purpose is based upon the discounted
+projected future cash ﬂows of the asset or asset group.
+We have not recorded any impairment charges for long-lived assets during Fiscal 2016, Fiscal 2015 and Fiscal 2014.
+Business combinations
+We apply the provisions of ASC Topic 805, “Business Combinations” (Topic 805), in the accounting for our acquisitions.
+It requires us to recognize separately from goodwill the assets acquired and the liabilities assumed at their acquisition date fair
+values. Goodwill as of the acquisition date is measured as the excess of consideration transferred over the net of the acquisition
+date fair values of the assets acquired and the liabilities assumed. While we use our best estimates and assumptions to
+accurately value assets acquired and liabilities, including contingent consideration where applicable, assumed at the acquisition
+date, our estimates are inherently uncertain and subject to refinement, particularly since these assumptions and estimates are
+based in part on historical experience and information obtained from the management of the acquired companies.As a result,
+during the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the assets
+acquired and liabilities assumed with the corresponding offset to goodwill in the period identified. Furthermore, when valuing
+certain intangible assets that we have acquired, critical estimates may be made relating to, but not limited to: (i) future expected
+cash ﬂows from software license sales, cloud SaaS and PaaS contracts, support agreements, consulting agreements and other
+1 17

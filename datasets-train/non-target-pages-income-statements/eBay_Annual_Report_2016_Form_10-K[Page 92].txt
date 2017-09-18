@@ -1,0 +1,35 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 2 — Net Income (loss) Per Share
+Basic net income (loss) per share is computed by dividing net income (loss) for the period
+by the weighted average number of common shares outstanding during the period. Diluted net
+income (loss) per share is computed by dividing net income (loss) for the period by the
+weighted average number of shares of common stock and potentially dilutive common stock
+outstanding during the period. The dilutive effect of outstanding options and equity incentive
+awards is reflected in diluted net income (loss) per share by application of the treasury stock
+method. The calculation of diluted net income (loss) per share excludes all anti-dilutive
+common shares.
+The following table presents the computation of basic and diluted net income (loss) per
+share (in millions, except per share amounts):
+7 Year Ended December 31, 7
+’ 2016 _ 2015 _ 2014 ’
+I Numerator: I
+Income (loss) from continuing operations $7,285 $1,947 $ (865)
+Income (loss) from discontinued operations, net of income
+taxes (19)_ (222) 911
+Net income $7,266 $1,725 $ 46
+I Denominator: I
+Weighted average shares of common stock — basic 1,133 1,208 1,251
+I Dilutive effect of equity incentive awards 11_ 12 — J
+Weighted average shares of common stock — diluted 1,144 1,220 1,251
+I Income (loss) per share — basic: I
+Continuing operations $ 6.43 $ 1.61 $(0.69)
+I Discontinued operations (0.02)_ (0.18) 0.73J
+Net income per share— basic $ 6.41 $ 1.43 $0.04
+I Income (loss) per share — diluted: I
+Continuing operations $ 6.37 $ 1.60 $(0.69)
+I Discontinued operations (0.02)_ (0.18) 0.73J
+Net income per share — diluted $ 6.35 $ 1.42 $0.04
+Common stock equivalents excluded from income per diluted
+share because their effect would have been anti-dilutive 8_ 2 54
+F—16

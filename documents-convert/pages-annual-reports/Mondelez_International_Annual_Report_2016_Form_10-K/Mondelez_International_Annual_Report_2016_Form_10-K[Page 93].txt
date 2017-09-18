@@ -1,0 +1,49 @@
+Iable,of,Contents
+The fair values (asset/ (liability)) of our derivative instruments were determined using:
+As of December 31, 2016
+Quoted Prices in
+Active Markets Significant Significant
+Total for Identical Other Observable Unobservable
+Fair Value of Net Assets Inputs Inputs
+Assetl (Liability) (Level 1) (Level 2) (Level 3)7
+(in millions)
+Currency exchange contracts S (S) S — S (S) S — l
+Commodity contracts ((1)) (8_6) 26 —
+Interest rate contracts 97 — 97 —j
+Total derivatives S 34 S (846) S 120 S e
+As of December 31, 2015
+Quoted Prices in
+Active Markets Significant Significant
+Total for Identical Other Observable Unobservable
+Fair Value of Net Assets Inputs Inputs
+Assetl (Liability) (Level 1) (Level 2) (Level 3)7
+(in millions)
+Currency exchange contracts S 41 S — S 41 S — l
+Commodity contracts 16 29 (£3) —
+Interest rate contracts (Q) — (IE —j
+Total derivatives S 27 S 29 S (2) S e
+Level 1 ﬁnancial assets and liabilities consist of exchange-traded commodity futures and listed options. The fair value of these instruments is
+determined based on quoted market prices on commodity exchanges. Our exchange-traded derivatives are generally subject to master netting
+arrangements that permit net settlement of transactions with the same counterparty when certain criteria are met, such as in the event of default. We
+also are required to maintain cash margin accounts in connection with funding the settlement of our open positions, and the margin requirements
+generally fluctuate daily based on market conditions. We have recorded margin deposits related to our exchange-traded derivatives of $133 million
+as of December 31, 2016 and margin deposits of $22 million as of December 31, 2015 within other current assets. Based on our net asset or liability
+positions with individual counterparties, in the event of default and immediate net settlement of all of our open positions, for derivatives we have in a
+net asset position, our counterparties would owe us a total of $48 million as of December 31, 2016 and $52 million as of December 31, 2015. For
+derivatives we have in a net liability position, we would owe $2 million as of December 31, 2016. As of December 31, 2015, there were no Level 1
+derivatives in a net liability position.
+Level 2 ﬁnancial assets and liabilities consist primarily of over-the-counter (“OTC”) currency exchange fonNards, options and swaps; commodity
+fonNards and options; and interest rate swaps. Our currency exchange contracts are valued using an income approach based on observable market
+fonNard rates less the contract rate multiplied by the notional amount. Commodity derivatives are valued using an income approach based on the
+observable market commodity index prices less the contract rate multiplied by the notional amount or based on pricing models that rely on market
+observable inputs such as commodity prices. Our calculation of the fair value of interest rate swaps is derived from a discounted cash ﬂow analysis
+based on the terms of the contract and the observable market interest rate curve. Our calculation of the fair value of ﬁnancial instruments takes into
+consideration the risk of nonperformance, including counterparty credit risk. Our OTC derivative transactions are governed by International Swap
+Dealers Association agreements and other standard industry contracts. Under these agreements, we do not post nor require collateral from our
+counterparties. The majority of our commodity and currency exchange OTC derivatives do not have a legal right of set-off. In connection with our
+OTC derivatives that could be net-settled in the event of default, assuming all parties were to fail to comply with the terms of the agreements, for
+derivatives we have in a net liability position, we would owe $40 million as of December 31, 2016 and $101 million as of December 31, 2015, and for
+derivatives we have in a net asset position, our counterparties would owe us a total of $162 million as of December 31, 2016 and $64 million as of
+December 31, 2015. We manage the credit risk in connection with these and all our derivatives by entering into transactions with counterparties with
+investment grade credit ratings, limiting the amount of exposure with each counterparty and monitoring the ﬁnancial condition of our counterparties.
+90

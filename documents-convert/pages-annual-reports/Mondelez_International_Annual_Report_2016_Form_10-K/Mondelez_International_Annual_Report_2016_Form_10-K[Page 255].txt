@@ -1,0 +1,22 @@
+SECTION 9.08 Designated Subsidiaries .
+(a) Designation . Mondelez may at any time, and from time to time after the Effective Date, by delivery to the Administrative Agent of a
+Designation Agreement duly executed by Mondelez and the respective Subsidiary and substantially in the form of Exhibit D hereto, designate such Subsidiary as a
+“Designated Subsidiary” for purposes of this Agreement and such Subsidiary shall thereupon become a “Designated Subsidiary” for purposes of this Agreement
+and, as such, shall have all of the rights and obligations of a Borrower hereunder. The Administrative Agent shall promptly notify each Lender of each such
+designation by Mondelez and the identity of the respective Subsidiary.
+Notwithstanding the foregoing, no Lender shall be required to make Advances to a Designated Subsidiary in the event that the making of such
+Advances would or could reasonably be expected to breach, Violate or otherwise be inconsistent with any internal policy (other than with respect to Designated
+Subsidiaries formed under the laws of any nation that is a member of the Organization for Economic Cooperation and Development as of the date hereof), law or
+regulation to which such Lender is, or would be upon the making of such Advance, subject. In addition, each Lender shall have the right to make any Advances to
+any Designated Subsidiary that is a Foreign Subsidiary of Mondeléz through an affiliate or non-US. branch of such Lender designated by such Lender at its sole
+option; provided such designation and Advance does not, in and of itself, subject the Borrowers to greater costs pursuant to Section 2.12 or 2.15 than would have
+been payable if such Lender made such Advance directly.
+(b) Termination . Upon the payment and performance in full of all of the indebtedness, liabilities and obligations under this Agreement of any
+Designated Subsidiary then, so long as at the time no Notice of Pro Rata Borrowing or Notice of Competitive Bid Borrowing in respect of such Designated
+Subsidiary is outstanding, such Subsidiary’s status as a “Designated Subsidiary” shall terminate upon notice to such effect from the Administrative Agent to the
+Lenders (which notice the Administrative Agent shall give promptly, upon and only upon its receipt of a request therefor from Mondeléz). Thereafter, the Lenders
+shall be under no further obligation to make any Advance hereunder to such former Designated Subsidiary until such time as it has been redesignated a Designated
+Subsidiary by Mondelez pursuant to Section 9.08(a).
+SECTION 9.09 Governing Law . This Agreement and the Notes shall be governed by, and construed in accordance with, the substantive laws of the
+State of New York without regard to choice of law doctrines.
+-59-

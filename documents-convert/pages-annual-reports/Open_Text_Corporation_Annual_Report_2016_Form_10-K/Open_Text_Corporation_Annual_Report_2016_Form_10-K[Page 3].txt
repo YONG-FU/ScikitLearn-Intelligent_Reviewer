@@ -1,0 +1,73 @@
+Cautionary Statement Regarding Forward-Looking Statements
+Certain statements in this letter, including statements about the focus of Open Text Corporation (“OpenText” or “the Company”) in our fiscal year ending June 30,
+2017 (Fiscal 2017) on growth in earnings and cash flows, creating value through investments in broader Enterprise Information Management (EIM) capabilities,
+distribution, the Company's presence in the cloud and in growth markets, expected growth in our revenue lines, adjusted operating income and cash flow, its financial
+condition, results of operations and earnings, announced acquisitions, ongoing tax matters, purchases of common shares by OpenText pursuant to the NCIB,
+declaration of quarterly dividends, future tax rates, and other matters, may contain words such as "anticipates", "expects", "intends", "plans", "believes", "seeks",
+"estimates", "may", "could", "would", "might", "will" and variations of these words or similar expressions are considered forward-looking statements or information
+under applicable securities laws. In addition, any information or statements that refer to expectations, beliefs, plans, projections, objectives, performance or other
+characterizations of future events or circumstances, including any underlying assumptions, are forward-looking, and based on our current expectations, forecasts and
+projections about the operating environment, economies and markets in which we operate. Forward-looking statements reflect our current estimates, beliefs and
+assumptions, which are based on management's perception of historic trends, current conditions and expected future developments, as well as other factors it
+believes are appropriate in the circumstances, such as certain assumptions about the economy, as well as market, financial and operational assumptions.
+Management's estimates, beliefs and assumptions are inherently subject to significant business, economic, competitive and other uncertainties and contingencies
+regarding future events and, as such, are subject to change. We can give no assurance that such estimates, beliefs and assumptions will prove to be correct. Such
+forward-looking statements involve known and unknown risks, uncertainties and other factors and assumptions that may cause the actual results, performance or
+achievements to differ materially. Such factors include, but are not limited to: (i) the future performance, financial and otherwise, of OpenText; (ii) the ability of
+OpenText to bring new products and services to market and to increase sales; (iii) the strength of the Company's product development pipeline; (iv) the Company's
+growth and profitability prospects; (v) the estimated size and growth prospects of the EIM market; (vi) the Company's competitive position in the EIM market and its
+ability to take advantage of future opportunities in this market; (vii) the benefits of the Company's products and services to be realized by customers; (viii) the demand
+for the Company's products and services and the extent of deployment of the Company's products and services in the EIM marketplace; (ix) the Company's financial
+condition and capital requirements; and (x) statements about the impact of "Open Text Release 16" and other product releases. The risks and uncertainties that may
+affect forward-looking statements include, but are not limited to: (i) integration of acquisitions and related restructuring efforts, including the quantum of
+restructuring charges and the timing thereof; (ii) the potential for the incurrence of or assumption of debt in connection with acquisitions and the impact on the ratings
+or outlooks of rating agencies on the Company’s outstanding debt securities; (iii) the possibility that the Company may be unable to meet its future reporting
+requirements under the US. Securities Exchange Act of 1934, as amended, and the rules promulgated thereunder; (iv) the risks associated with bringing new products
+and services to market; (v) fluctuations in currency exchange rates; (vi) delays in the purchasing decisions of the Company's customers; (vii) the competition the
+Company faces in its industry and/or marketplace; (viii) the final determination of litigation, tax audits (including tax examinations in the United States and elsewhere)
+and other legal proceedings; (ix) potential exposure to greater than anticipated tax liabilities or expenses, including with respect to changes in Canadian, US. or
+international tax regimes; (x) the possibility of technical, logistical or planning issues in connection with the deployment of the Company's products or services; (xi) the
+continuous commitment of the Company's customers; and (xii) demand for the Company's products and services. For additional information with respect to risks and
+other factors which could occur, see the Company's Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and other securities filings with the Securities and
+Exchange Commission (SEC) and other securities regulators. Readers are cautioned not to place undue reliance upon any such forward-looking statements, which
+speak only as of the date made. Unless otherwise required by applicable securities laws, the Company disclaims any intention or obligation to update or revise any
+forward-looking statements, whether as a result of new information, future events or otherwise.
+Notes
+(1) All dollar amounts in this letter are in US. Dollars unless otherwise indicated.
+(2) CC: Constant currency for this purpose is defined as the current period reported revenues/expenses/earnings represented at the prior comparative period's
+foreign exchange rate.
+(3) Use of Non-GAAP Financial Measures: In addition to reporting financial results in accordance with US. GAAP, the Company provides certain financial
+measures that are not in accordance with US. GAAP (Non-GAAP).These Non-GAAP financial measures have certain limitations in that they do not have a
+standardized meaning and thus the Company's definition may be different from similar Non-GAAP financial measures used by other companies and/or analysts
+and may differ from period to period. Thus it may be more difficult to compare the Company's financial performance to that of other companies. However, the
+Company's management compensates for these limitations by providing the relevant disclosure of the items excluded in the calculation of these Non-GAAP
+financial measures both in its reconciliation to the US. GAAP financial measures and its consolidated financial statements, all of which should be considered
+when evaluating the Company's results.
+The Company uses these Non-GAAP financial measures to supplement the information provided in its consolidated financial statements, which are presented
+in accordance with US. GAAP. The presentation of Non-GAAP financial measures are not meant to be a substitute for financial measures presented in
+accordance with US. GAAP, but rather should be evaluated in conjunction with and as a supplement to such US. GAAP measures. OpenText strongly
+encourages investors to review its financial information in its entirety and not to rely on a single financial measure. The Company therefore believes that
+despite these limitations, it is appropriate to supplement the disclosure of the US. GAAP measures with certain Non-GAAP measures defined below.
+Non-GAAP-based net income and Non-GAAP-based EPS are calculated as net income or earnings per share on a diluted basis, excluding the amortization of
+acquired intangible assets, other income (expense), share-based compensation, and Special charges (recoveries), all net of tax. Non-GAAP-based gross profit is
+the arithmetical sum of GAAP-based gross profit, and the amortization of acquired technology-based intangible assets and share-based compensation within
+cost of sales. Non-GAAP-based gross margin is calculated as Non-GAAP-based gross profit expressed as a percentage of total revenue. Non-GAAP-based
+income from operations is calculated as income from operations, excluding the amortization of acquired intangible assets, Special charges (recoveries), and
+share-based compensation expense. Non-GAAP-based operating margin is calculated as Non-GAAP-based income from operations expressed as a percentage
+of total revenue.
+The Company's management believes that the presentation, of the above defined Non-GAAP financial measures, provides useful information to investors
+because they portray the financial results of the Company before the impact of certain non-operational charges. The use of the term “non-operational charge”
+is defined for this purpose as an expense that does not impact the ongoing operating decisions taken by the Company's management and is based upon the way
+the Company's management evaluates the performance of the Company's business for use in the Company's internal reports. In the course of such evaluation
+and for the purpose of making operating decisions, the Company's management excludes certain items from its analysis, including amortization of acquired
+intangible assets, Special charges (recoveries), share-based compensation, other income (expense), and the taxation impact of these items. These items are
+excluded based upon the manner in which management evaluates the business of the Company and are not excluded in the sense that they may be used under
+US. GAAP.
+The Company believes the provision of supplemental Non-GAAP measures allow investors to evaluate the operational and financial performance of the
+Company's core business using the same evaluation measures that management uses, and is therefore a useful indication of OpenText's performance or
+expected performance of future operations and facilitates period-to-period comparison of operating performance (although prior performance is not
+necessarily indicative of future performance). As a result, the Company considers it appropriate and reasonable to provide, in addition to US. GAAP measures,
+supplementary Non-GAAP financial measures that exclude certain items from the presentation of its financial results in this letter.
+See historical filings, including the Company’s Annual Reports on Form 10-K, for reconciliations of certain Non-GAAP measures to GAAP measures. The
+following charts provide certain (unaudited) reconciliations of US. GAAP-based financial measures to Non-U.S. GAAP-based financial measures for the periods
+presented:

@@ -1,0 +1,50 @@
+(the "Non-dilutive Share Amount") equal to an amount which is a fraction the numerator of which is the number of shares of Common Stock
+outstanding immediately before such issuance of rights or warrants plus the maximum number of shares of Common Stock that could be acquired
+upon exercise in full of all such rights and warrants and the denominator of which is the number of shares of Common Stock outstanding
+immediately before such issuance of rights or warrants plus the number of shares of Common Stock which could be purchased at the Fair Market
+Value of a share of Common Stock at the time of such issuance for the maximum aggregate consideration payable upon exercise in full of all such
+rights or warrants. Concurrently with the automatic adjustment pursuant to this paragraph 9(B)(1), the Conversion Price, the Liquidation Price and
+the Preferred Dividend Rate of all shares of Series A Preferred Stock shall be adjusted by dividing the Conversion Price, the Liquidation Price and
+the Preferred Dividend Rate, respectively, in effect immediately before such issuance of rights or warrants by the Non-dilutive Share Amount
+determined pursuant to this paragraph 9(B)(1).
+(2) The Company and the Board of Directors shall each use its best efforts to take all necessary steps or to take all actions as are
+necessary or appropriate for implementation of the automatic adjustment provided in paragraph 9(B)(1). In the event for any reason the Company is
+precluded from giving full effect to the automatic adjustment provided in paragraph 9(B)(l), then no such automatic adjustment shall occur, but
+instead the Conversion Price shall automatically be adjusted by dividing the Conversion Price in effect immediately before such issuance of rights
+or warrants by the Non-Dilutive Share Amount determined pursuant to paragraph 9(B)(1), and the Liquidation Price and Preferred Dividend Rate will
+not be adjusted. If subsequently the Company is able to give full effect to the automatic adjustment as provided in paragraph 9(B)(1), then such
+automatic adjustment will proceed in accordance with the provisions of paragraph 9(B)(1) and the adjustment in the Conversion Price as provided in
+this paragraph 9(B)(2) will automatically be reversed and nullified prospectively.
+(C)(l) Subject to the provisions of paragraph 9(D), in the event the Company shall, at any time or from time to time while any of the
+shares of Series A Preferred Stock are outstanding, make an Extraordinary Distribution (as hereinafter defined) in respect of the Common Stock,
+whether by dividend, distribution, reclassification of shares or recapitalization of the Company (including recapitalization or reclassification effected
+by a merger or consolidation to which Section 8 hereof does not apply) or effect a Pro Rata Repurchase (as hereinafter defined) of Common Stock,
+then, in such event, each share of Series A Preferred Stock will automatically, without any action on the part of the holder thereof or the Company,
+become that number of shares of Series A Preferred Stock (the "Non-dilutive Share Amount") equal to an amount which is a fraction the numerator
+of which is the product of (a) the number of shares of Common Stock outstanding immediately before such Extraordinary Distribution or Pro Rata
+Repurchase minus, in the case of a Pro Rata Repurchase, the number of shares of Common Stock repurchased by the Company multiplied by (b) the
+Fair Market Value of a share of Common Stock on the record date with respect to an Extraordinary Distribution or on the applicable expiration date
+(including all extensions thereof) of any tender offer which is a Pro Rata Repurchase or on the date of purchase with respect to any Pro Rata
+Repurchase which is not a tender offer, as the case may be, and the denominator of which is (i) the product of (x) the number of shares of Common
+Stock outstanding immediately before such Extraordinary Distribution or Pro Rata Repurchase multiplied by (y) the Fair Market Value of a share of
+Common Stock on the record date with respect to an Extraordinary Distribution, or on the applicable expiration date (including all extensions
+thereof) of any tender offer which is a Pro Rata Repurchase, or on the date of purchase with respect to any Pro Rata Repurchase which is not a
+tender offer, as the case may be, minus (ii) the Fair Market Value of the Extraordinary Distribution or the aggregate purchase price of the Pro Rata
+Repurchase, as the case may be. The Company shall send each holder of Series A Preferred Stock (i) notice of its intent to make any dividend or
+distribution and (ii) notice of any offer by the Company to make a Pro Rata Repurchase, in each case at the same time as, or as soon as practicable
+after, such offer is first communicated (including by announcement of a record date in accordance with the rules of any stock exchange on which
+the Common Stock is listed or admitted to trading) to holders of Common Stock. Such notice shall indicate the intended record date and the amount
+and nature of such dividend or distribution, or the number of shares subject to such offer for a Pro Rata Repurchase and the purchase price payable
+by the Company pursuant to such offer, as well as the Conversion Price and the number of shares of Common Stock into which a share of Series A
+Preferred Stock may be converted at such time. Concurrently with the automatic adjustment pursuant to this paragraph 9(C)(l), the Conversion
+Price, the Liquidation Price and the Preferred Dividend Rate of all shares of Series A Preferred Stock shall be adjusted by dividing the Conversion
+Price, the Liquidation Price and the Preferred Dividend Rate, respectively, in effect immediately before such Extraordinary Distribution or Pro Rata
+Repurchase by the Non-dilutive Share Amount determined pursuant to this paragraph 9(C)(l).
+(2) The Company and the Board of Directors shall each use its best efforts to take all necessary steps or to take all actions as are
+necessary or appropriate for implementation of the automatic adjustment provided in paragraph 9(C)(l). In the event for any reason the Company is
+precluded from giving full effect to the automatic adjustment provided in paragraph 9(C)(l), then no such automatic adjustment shall occur, but
+instead the Conversion Price shall automatically be adjusted by dividing the Conversion Price in effect immediately before such Extraordinary
+Distribution or Pro Rata Repurchase by the Non-dilutive Share Amount, and the Liquidation Price and the Preferred Dividend Rate will not be
+adjusted. If subsequently the Company is able to give full effect to the automatic adjustment as provided in paragraph 9(C)(l), then such automatic
+adjustment will proceed
+A—7

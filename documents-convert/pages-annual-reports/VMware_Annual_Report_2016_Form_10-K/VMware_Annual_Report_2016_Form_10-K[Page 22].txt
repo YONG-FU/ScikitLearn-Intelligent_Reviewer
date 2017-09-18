@@ -1,0 +1,45 @@
+Iablrebeontents
+SaaS offerings, which involve various risks, constitute an important part of our business.
+As we continue to develop and offer SaaS versions of our products, we will need to continue to evolve our processes to meet a number of regulatory,
+intellectual property, contractual and service compliance challenges. These challenges include compliance with licenses for open source and third party software
+embedded in our SaaS offerings, maintaining compliance with export control and privacy regulations, including HIPAA, protecting our services from external
+threats, maintaining the continuous service levels and data security expected by our customers, preventing the inapprOpriate use of our services and adapting our
+go-to-market efforts. The expansion of our SaaS and related cross-cloud offerings will also require signiﬁcant investments, and our operating margins, results of
+operations and operating cash ﬂows may be adversely affected if our new offerings are not widely adopted by customers.
+Improper disclosure and use of personal data could result in liability and impact our business.
+Our business is subject to a wide variety of laws and regulations regarding privacy and protection of personal data. Federal, state and foreign governments and
+agencies have adopted or are considering adopting laws and regulations regarding the collection, storage, use and disclosure of this information. We collect contact
+and other personal or identifying information from our customers, and our customers increasingly use our services to store and process personal information and
+other regulated data, including protected health information subject to stringent data privacy laws. In the course of providing employee compensation and beneﬁts,
+we also maintain personal data of our employees and share that information with third party payroll and benefits providers. Our hybrid cloud computing service
+offerings, pursuant to which we offer hybrid cloud services and enable third-party service providers to offer hybrid cloud services built on our technology, expose
+us to particularly signiﬁcant risks. We rely on the contractual representations of these third parties that they do not violate any applicable privacy laws and
+regulations or their own privacy policies.
+Any failure or perceived failure by us or our business partners to comply with posted privacy policies, other federal, state or international privacy-related or
+data protection laws and regulations, or the privacy commitments contained in contracts could result in proceedings against us by governmental entities or others
+and signiﬁcant ﬁnes, which could have a material adverse effect on our business and operating results and harm our reputation. Further, any systems failure,
+unauthorized access or other compromise of our security that results in the release of our customers’ or employees’ data could (i) subject us to substantial damage
+claims, (ii) expose us to costly regulatory remediation, (iii) harm our reputation and brand, and (iv) disrupt our business activities. The application of US. and
+international data privacy laws and regulations to cloud computing vendors is evolving and uncertain, and our existing contractual provisions may prove to be
+inadequate to protect us from claims for data loss or regulatory noncompliance made against cloud computing providers with whom we may partner. Additionally,
+privacy laws and regulations could negatively affect demand for our services, thereby reducing our revenue.
+A new European Union data protection law, the General Data Protection Regulation, which will become effective in May 2018, is wide-ranging in scope. In
+order to meet the new EU requirements, we will have to invest resources necessary to implement policy changes across our business units and services relating to
+how we collect and use personal data relating to customers, employees and vendors. Failure to comply may lead to sizeable ﬁnes. EU data protection regulators are
+expected to publish guidance for compliance with the new law which may further impact our information processing activities. In parallel, with the advent of the
+EU-U.S. Privacy Shield (the new framework agreement between the US. Department of Commerce and the European Commission for transferring personal data
+from the European Union to the United States), we expect that the international transfer of personal data will present ongoing compliance challenges and
+complicate our business transactions as we negotiate and implement suitable arrangements with international customers and international and domestic vendors. In
+addition, countries outside the EU are considering or have passed legislation that requires local storage and processing of data, which could increase the cost and
+complexity of delivering our services. Our current arrangements for the transfer of personal data will also need to continue to adapt to future judicial decisions and
+future rulemaking activity as laws on privacy and the protection of personal data continue to evolve in the countries in which we do business.
+If we fail to comply with our customer contracts or government contracting regulations, our business could be adversely affected.
+Contracts with many of our customers include unique and specialized performance requirements. In particular, our contracts with federal, state, local and non-
+U.S. governmental customers and our arrangements with distributors and resellers who may sell directly to governmental customers are subject to various
+procurement regulations, contract provisions and other requirements relating to their formation, administration and performance. Any failure by us to comply with
+provisions in our customer contracts or any violation of government contracting regulations could result in the imposition of various civil and criminal penalties,
+which may include termination of contracts, forfeiture of profits, suspension of payments and, in the case of our government contracts, ﬁnes and suspension from
+future government contracting. Further, any negative publicity related to our customer contracts or any proceedings surrounding them, regardless of its accuracy,
+may damage our business and affect our ability to compete for new contracts. In the ordinary course of business, we also receive inquiries from and have ongoing
+discussions with government entities regarding the compliance of our contracting and sales practices with laws and regulations.
+2 1

@@ -1,0 +1,45 @@
+Changes in our Company’s stock options in 2016 were as follows:
+December 25, 2016
+7 Weighted 7
+Average
+Weighted Remaining Aggregate
+Average Contractual Intrinsic
+Exercise Term Value
+(Shares in thousands) Options Price (Years) $(000s)
+|Options outstanding at beginning of year 6,390 $ 16 3 $ 13,938‘
+Granted _ _
+I Exercised (115) 7 I
+Forfeited/ Expired (1 ,757) 24
+lOptions outstanding at end of period 4,518 $ 14 3 $ 12,797‘
+iOptions expected to vest at end of period 4,518 $ 14 3 $ 12,797 7
+l Options exercisable at end of period 4,518 $ 14 3 $ 12,797 ‘
+The total intrinsic value for stock options exercised was $0.7 million in 2016, $2.7 million in 2015 and $1.5
+million in 2014.
+The fair value of the stock options granted was estimated on the date of grant using a Black-Scholes valuation
+model that uses the following assumptions. The risk-free rate is based on the US. Treasury yield curve in effect at the
+time of grant. The expected life (estimated period of time outstanding) of stock options granted was determined using
+the average of the vesting period and term. Expected volatility was based on historical volatility for a period equal to
+the stock option’s expected life, ending on the date of grant, and calculated on a monthly basis. Dividend yield was
+based on expected Company dividends, if applicable on the date of grant. The fair value for stock options granted
+with different vesting periods and on different dates is calculated separately.
+Restricted Stock Units
+The 1991 Incentive Plan provided, and the 2010 Incentive Plan provides, for grants of other stock-based awards,
+including restricted stock units.
+Outstanding stock-settled restricted stock units have been granted with a stated vesting period up to 5 years.
+Each restricted stock unit represents our obligation to deliver to the holder one share of Class A Common Stock upon
+vesting. The fair value of stock-settled restricted stock units is the average market price on the grant date. Changes in
+our Company’s stock-settled restricted stock units in 2016 were as follows:
+December 25, 2016
+’ Weighted ’
+Restricted Average
+I Stock Grant-Date
+(Shares In thousands) Units Fair Value
+|Unvested stock-settled restricted stock units at beginning of period 1,159 $ 13 ‘
+Granted 482 13
+[Vested (582) 11 I
+Forfeited (51) 14
+lUnvested stock-settled restricted stock units at end of period 1,008 $ 14 l
+Unvested stock-settled restricted stock units expected to vest at end of period 960 $ 14
+The intrinsic value of stock-settled restricted stock units vested was $7.3 million in 2016, $5.5 million in 2015
+and $5.8 million in 2014.
+P. 94 —- THE NEW YORK TIlVIES COMPANY

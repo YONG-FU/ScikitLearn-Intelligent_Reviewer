@@ -1,0 +1,43 @@
+party leases with other tenants in the building, and the proportionate share of building expenses for those leases
+in other expense in the Company’s consolidated results of operations from the date of acquisition. These amounts
+are recorded in other expense as this net rental income is not part of our core operations. These amounts were not
+material for the periods presented.
+Business Combinations Fiscal 2016
+During fiscal 2016, the Company acquired several companies for an aggregate of $60.1 million in cash, net
+of cash acquired, and has included the financial results of these companies in its consolidated financial
+statements from the respective dates of acquisition. These transactions, individually and in aggregate, are not
+material to the Company. The Company accounted for these transactions as business combinations. In allocating
+the purchase consideration for each company based on estimated fair values, the Company recorded $68.7
+million of goodwill. Some of the goodwill balance associated with these transactions is deductible for U.S.
+income tax purposes.
+Fiscal Year 2015
+RelateIQ, Inc.
+On August 1, 2014, the Company acquired the outstanding stock of RelateIQ, Inc. (“RelateIQ”), a
+relationship intelligence platform company that uses data science and machine learning to automatically capture
+data from email, calendars and smartphone calls and provide data science-driven insights in real time. The
+Company acquired RelateIQ for the assembled workforce and expected synergies with the Company’s current
+offerings. The Company has included the financial results of RelateIQ in the consolidated financial statements
+from the date of acquisition, which have not been material to date. The acquisition date fair value of the
+consideration transferred for RelateIQ was approximately $340.2 million, which consisted of the following (in
+thousands, except share data):
+:Fair Value
+Cash $ 1,123
+Commonstock(6,320,735shares) 338,033
+Fair value of stock options and restricted stock awards assumed . . . . . 1,050
+Total $340,206
+The fair value of the stock options assumed by the Company was determined using the Black-Scholes
+option pricing model. The share conversion ratio of 0.12 was applied to convert RelateIQ’s outstanding equity
+awards for RelateIQ’s common stock into equity awards for shares of the Company’s common stock.
+The following table summarizes the estimated fair values of assets acquired and liabilities assumed as of the
+date of acquisition (in thousands):
+:Fair Value
+Cash $ 39,194
+Intangibleassets 16,200
+289,857
+Current and noncurrent liabilities . . . . . . . . . . . . . . . . . . . . . . (4,700)
+Deferredtaxliability (345)
+Netassetsacquired................................. $340,206
+The excess of purchase consideration over the fair value of net tangible and identifiable intangible assets
+acquired was recorded as goodwill. The fair values assigned to tangible assets acquired, liabilities assumed and
+identiﬁable intangible assets are based on management’s estimates and assumptions.
+97

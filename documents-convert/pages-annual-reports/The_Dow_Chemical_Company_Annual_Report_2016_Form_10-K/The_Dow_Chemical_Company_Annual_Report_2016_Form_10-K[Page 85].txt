@@ -1,0 +1,52 @@
+Inventories
+Inventories are stated at the lower of cost or market. The method of determining cost for each subsidiary varies among last-in,
+first-out (“LIFO”); first-in, first-out (“FIFO”); and average cost, and is used consistently from year to year.
+The Company routinely exchanges and swaps raw materials and finished goods with other companies to reduce delivery time,
+freight and other transportation costs. These transactions are treated as non-monetary exchanges and are valued at cost.
+Property
+Land, buildings and equipment, including property under capital lease agreements, are carried at cost less accumulated
+depreciation. Depreciation is based on the estimated service lives of depreciable assets and is calculated using the straight-line
+method, unless the asset was capitalized before 1997 when the declining balance method was used. Fully depreciated assets are
+retained in property and accumulated depreciation accounts until they are removed from service. In the case of disposals, assets
+and related accumulated depreciation are removed from the accounts, and the net amounts, less proceeds from disposal, are
+included in income.
+Impairment and Disposal of Long-Lived Assets
+The Company evaluates long-lived assets and certain identifiable intangible assets for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be recoverable. When undiscounted future cash ﬂows
+are not expected to be sufficient to recover an asset’s carrying amount, the asset is written down to its fair value based on bids
+received from third parties or a discounted cash ﬂow analysis based on market participant assumptions.
+Long-lived assets to be disposed of by sale, if material, are classified as held for sale and reported at the lower of carrying
+amount or fair value less cost to sell, and depreciation is ceased. Long-lived assets to be disposed of other than by sale are
+classified as held and used until they are disposed of and reported at the lower of carrying amount or fair value, and
+depreciation is recognized over the remaining useful life of the assets.
+Goodwill and Other Intangible Assets
+The Company records goodwill when the purchase price of a business combination exceeds the estimated fair value of net
+identified tangible and intangible assets acquired. Goodwill is tested for impairment at the reporting unit level annually, or more
+frequently when events or changes in circumstances indicate that the fair value of a reporting unit has more likely than not
+declined below its carrying value. When testing goodwill for impairment, the Company may first assess qualitative factors. If
+an initial qualitative assessment identifies that it is more likely than not that the carrying value of a reporting unit exceeds its
+estimated fair value, additional quantitative testing is performed. The Company may also elect to skip the qualitative testing
+and proceed directly to the quantitative testing. If the quantitative testing indicates that goodwill is impaired, the carrying value
+of goodwill is written down to fair value. The Company primarily utilizes a discounted cash ﬂow methodology to calculate the
+fair value of its reporting units. See Note 10 for further information on goodwill.
+Finite-lived intangible assets such as purchased customer lists, licenses, intellectual property, patents, trademarks and software,
+are amortized over their estimated useful lives, generally on a straight-line basis for periods ranging primarily from three to
+twenty years. Intangible assets are reviewed for impairment or obsolescence annually, or more frequently when events or
+changes in circumstances indicate that the carrying amount of an intangible asset may not be recoverable. If impaired,
+intangible assets are written down to fair value based on discounted cash ﬂows.
+Asset Retirement Obligations
+The Company records asset retirement obligations as incurred and reasonably estimable, including obligations for which the
+timing and/or method of settlement are conditional on a future event that may or may not be within the control of the Company.
+The fair values of obligations are recorded as liabilities on a discounted basis and are accreted over time for the change in
+present value. Costs associated with the liabilities are capitalized and amortized over the estimated remaining useful life of the
+asset, generally for periods of 10 years or less.
+Investments
+Investments in debt and marketable equity securities (including warrants), primarily held by the Company’s insurance
+operations, are classified as trading, available-for—sale or held-to-maturity. Investments classified as trading are reported at fair
+value with unrealized gains and losses related to mark-to-market adjustments included in income. Those classified as available-
+for-sale are reported at fair value with unrealized gains and losses recorded in AOCL. Those classified as held-to-maturity are
+recorded at amortized cost. The cost of investments sold is determined by FIFO or specific identification. The Company
+routinely reviews available-for—sale and held-to-maturity securities for other-than-temporary declines in fair value below the
+cost basis. When events or changes in circumstances indicate the carrying value of an asset may not be recoverable, the security
+is written down to fair value, establishing a new cost basis.
+77

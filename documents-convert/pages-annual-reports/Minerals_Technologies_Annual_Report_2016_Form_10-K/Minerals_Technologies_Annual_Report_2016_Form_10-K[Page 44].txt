@@ -1,0 +1,38 @@
+ILocation IPrincipal Customer I
+I International I
+IBrazil, Guaiba ICMPC - Celulose Rio Grandense I
+IBrazil, J acarei IMunksjo Brasil Ind e Com de Papeis Especiais Ltda. I
+IBrazil, Luiz Antonio IInternational Paper do Brasil Ltda. I
+IBrazil, Mucuri ISuzano Papel e Celulose S. A. I
+IBrazil, Suzano ISuzano Papel e Celulose S. A. I
+ICanada, St. Jerome, Quebec ILes Entreprises Rolland Inc I
+ICanada, Windsor, Quebec IDomtar Inc. I
+IChina, Dagang 1 IGold East Paper (J iangsu) Company Ltd. I
+IChina, Zhenjiang 1 IGold East Paper (J iangsu) Company Ltd. I
+IChina, Suzhou1 IGold HuaSheng Paper Company Ltd. I
+IChina, Henan IHenan J ianghe Paper Co., Ltd. I
+IChina, Guangxil’ 2 INanning J indaxing Paper Industry Company Ltd I
+IChina, Shandong2 IShandong Sun Paper Industry Joint Stock Company Ltd I
+IFinland, Aanekoski IM-real Corporation I
+IFinland, Tervakoski ITrierenberg Holding I
+IFrance, Alizay IDouble A Paper Company Ltd. I
+IFrance, Saillat Sur Vienne IInternational Paper Company I
+IGermany, Schongau IUPM Corporation I
+IIndia, Ballarshah1 IBallarpur Industries Ltd. I
+IIndia, Dandeli IWest Coast Paper Mill Ltd. I
+IIndia, Gaganapur1 IBallarpur Industries Ltd. I
+IIndia, Saila Khurd IKuantum Papers Ltd. I
+IIndia, Rayagada1 IJK Paper I
+IIndonesia, Perawang1 IPT Indah Kiat Pulp and Paper Corporation I
+IJapan, Shiraoi1 INippon Paper Group Inc. I
+IMalaysia, Sipitang IBallarpur Industries Ltd. I
+IPoland, Kwidzyn IInternational Paper — Kwidzyn, S.A I
+IPortugal, Figueira da Foz1 INavigator Paper Figueira, S.A. I
+ISlovakia, Ruzomberok IMondi Business Paper SCP I
+ISouth Africa, Merebank1 IMondi Paper Company Ltd. I
+IThailand, Namphong IPhoenix Pulp & Paper Public Co. Ltd. I
+IThailand, Tha Toom1 IDouble A Paper Company Ltd. I
+IThailand, Tha Toom 21 IDouble A Paper Company Ltd. I
+1 These plants are owned through joint ventures.
+2 These plants are under construction.
+22

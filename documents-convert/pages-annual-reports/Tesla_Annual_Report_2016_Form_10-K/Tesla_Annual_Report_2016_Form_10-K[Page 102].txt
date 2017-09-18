@@ -1,0 +1,49 @@
+The maximum potential future payments that we could have to make under this obligation would depend on the difference between
+the fair values of the solar energy systems sold or transferred to the funds as determined by us and the values that the US. Treasury
+Department would determine as fair value for the systems for purposes of claiming US. Treasury grants or the values the IRS would
+determine as the fair value for the systems for purposes of claiming ITCs or US. Treasury grants. We claim US. Treasury grants based
+on guidelines provided by the US. Treasury department and the statutory regulations from the IRS. We use fair values determined with
+the assistance of independent third-party appraisals commissioned by us as the basis for determining the ITCs that are passed-through to
+and claimed by the fund investors. Since we cannot determine future revisions to US. Treasury Department guidelines governing system
+values or how the IRS will evaluate system values used in claiming ITCs or US. Treasury grants, we are unable to reliably estimate the
+maximum potential future payments that it could have to make under this obligation as of each balance sheet date.
+We are eligible to receive certain state and local incentives that are associated with renewable energy generation. The amount of
+incentives that can be claimed is based on the projected or actual solar energy system size and/or the amount of solar energy produced.
+We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar
+energy systems placed in service. State and local incentives received are allocated between us and fund investors in accordance with
+the contractual provisions of each fund. We are not contractually obligated to indemnify any fund investor for any losses they may
+incur due to a shortfall in the amount of state or local incentives actually received.
+As disclosed in Note 18, we are contractually required to make payments to one fund investor to ensure that the fund investor
+achieves a specified minimum internal rate of return. The fund investor has already received a significant portion of the projected
+economic beneﬁts from US. Treasury grant distributions and tax depreciation benefits. The contractual provisions of the fund state
+that the fund has an indefinite term unless the members agree to dissolve the fund. Based on our current financial projections
+regarding the amount and timing of future distributions to the fund investor, we do not expect to make any payments as a result of this
+guarantee and has not accrued any liabilities for this guarantee. The amount of potential future payments under this guarantee is
+dependent on the amount and timing of future distributions to the fund investor and future tax benefits that accrue to the fund investor.
+Due to the uncertainties surrounding estimating the amounts of these factors, we are unable to estimate the maximum potential
+payments under this guarantee. To date, the fund investor has achieved the speciﬁed minimum internal rate of return as determined in
+accordance with the contractual provisions of the fund.
+As disclosed in Note 19, the lease pass-through financing funds have a one-time lease payment reset mechanism that occurs
+after the installation of all solar energy systems in a fund. As a result of this mechanism, we may be required to refund master lease
+prepayments previously received from investors. Any refunds of master lease prepayments would reduce the lease pass-through
+ﬁnancing obligation.
+Letters of Credit
+As of December 31, 2016, we had $105.1 million of unused letters of credit outstanding.
+Note 18 — VIE Arrangements
+SolarCity enters into various arrangements with investors to facilitate funding and monetization of solar energy systems. These
+arrangements include those described in this Note, as well as those described in Note 19, Lease Pass-Through Financing Obligation.
+Fund Arrangements
+SolarCity has a number of financing funds that were formed by wholly owned subsidiaries of SolarCity and fund investors.
+These arrangements were created to facilitate funding and monetization of solar energy systems. The following table shows the
+number of funds by investor classiﬁcation, carrying value of the solar energy systems in the funds, total investor contributions
+received and undrawn investor contributions as of December 31, 2016 (in thousands, except for number of funds, and unaudited) for
+funds that have been determined to be VIEs:
+Total Investor Carrying Value of
+Contributions Undrawn Investor Solar Energy
+Investor Classification Number of funds Received Contributions Systems
+Financial institutions 34 $ 2,623,918 $ 106,850 $ 3,085,024
+8 1,020,058 130,209 1,353,193
+4 278,888 35,033 178,280
+Other 1 1,788 — 1,946
+47 $ 3,924,652$ 272,092$ 4,618,443
+99

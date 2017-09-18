@@ -1,0 +1,55 @@
+Sonic Foundry, Inc.
+Consolidated Balance Sheets
+(in thousands, except for share and per share data)
+7 September 30, 7
+7 2016 77 2015 7
+Assets
+Current assets:
+Cash and cash equivalents $ 1,794 $ 1,976
+Accounts receivable, net of allowances of $225 and $150 11,646 12,659
+Inventories 1,904 2,385
+Prepaid expenses and other current assets 7 1,404 7 7 927 7
+Total current assets 16,748 17,947
+Property and equipment:
+Leasehold improvements 879 904
+Computer equipment 5,837 5,852
+Furniture and ﬁxtures 7 825 7 7 837 7
+Total property and equipment 7,541 7,593
+Less accumulated depreciation and amortization 7 5,510 7 7 4,785 7
+Property and equipment, net 2,031 2,808
+Other assets:
+Goodwill 11,310 10,853
+Customer relationships, net of amortization of $723 and $457 1,882 1,872
+Software development costs, net of amortization of $533 and $429 — 104
+Product rights, net of amortization of $287 and $164 385 508
+Other intangibles, net of amortization of $236 and $190 76 112
+Other long—term assets 7 726 7 7 599 7
+Total assets 33,158 7 34,803 7
+Liabilities and stockholders’ equity
+Current liabilities:
+Revolving line of credit $ 1,772 $ 1,818
+Accounts payable 961 2,026
+Accrued liabilities 1,883 1,666
+Unearned revenue 12,834 11,359
+Current portion of capital lease and ﬁnancing arrangements 283 211
+Current portion of notes payable and warrant debt, net of discounts 1,567 1,299
+Current portion of subordinated note payable 7 93 7 7 186 7
+Total current liabilities 19,3 93 1 8,565
+Long-term portion of unearned revenue 1,257 1,325
+Long-term portion of capital lease and ﬁnancing arrangements 231 196
+Long-term portion of notes payable and warrant debt, net of discounts 871 2,080
+Long-term portion of subordinated note payable — 92
+Derivative liability, at fair value 67 109
+Other liabilities 259 31 1
+Deferred tax liability 7 4,564 7 7 4,322 7
+Total liabilities 26,642 27,000
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock, $.01 par value, authorized 500,000 shares; none issued — —
+5% Preferred stock, Series B, voting, cumulative, convertible, $.01 par value (liquidation
+preference at par), authorized 1,000,000 shares, none issued — _
+Common stock, $.01 par value, authorized 10,000,000 shares; 4,424,275 and 4,376,456
+shares issued and 4,411,559 and 4,363,740 shares outstanding 44 44
+Additional paid-in capital 197,064 195,973
+Accumulated deﬁcit (190,214) (186,897)
+44

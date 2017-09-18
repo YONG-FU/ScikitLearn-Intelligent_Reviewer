@@ -1,0 +1,37 @@
+Table,of,C,ontents
+Our advanced customer support services are offered as standalone arrangements or as a part of arrangements to customers buying other software and non-software
+products and services. We offer these advanced support services, both on-premise and remote, to Oracle customers to enable increased performance and higher
+availability of their products and services. Depending upon the nature of the arrangement, revenues from these services are recognized as the services are
+performed or ratably over the term of the service period, which is generally one year or less.
+Education revenues are also a part of our services business and include instructor-led, media-based and internet-based training in the use of our software and
+hardware products. Education revenues are recognized as the classes or other education offerings are delivered.
+If an arrangement contains multiple elements and does not qualify for separate accounting for the product and service transactions, then new software licenses
+revenues and/or hardware products revenues, including the costs of hardware products, are generally recognized together with the services based on contract
+accounting using either the percentage-of-completion or completed-contract method. For the purposes of revenue classification of the elements that are accounted
+for as a single unit of accounting, we allocate revenues to software and non-software elements based on a rational and consistent methodology utilizing our best
+estimate of the relative selling price of such elements.
+We also evaluate arrangements with governmental entities containing “fiscal funding” or “termination for convenience” provisions, when such provisions are
+required by law, to determine the probability of possible cancellation. We consider multiple factors, including the history with the customer in similar transactions,
+the “essential use” of the software or hardware products and the planning, budgeting and approval processes undertaken by the governmental entity. If we
+determine upon execution of these arrangements that the likelihood of cancellation is remote, we then recognize revenues once all of the criteria described above
+have been met. If such a determination cannot be made, revenues are recognized upon the earlier of cash receipt or approval of the applicable funding provision by
+the governmental entity.
+We assess whether fees are fixed or determinable at the time of sale and recognize revenues if all other revenue recognition requirements are met. Our standard
+payment terms are net 30 days. However, payment terms may vary based on the country in which the agreement is executed. We evaluate non-standard payment
+terms based on whether we have successful collection history on comparable arrangements (based upon similarity of customers, products, and license economics)
+and, if so, generally conclude such payment terms are ﬁxed and determinable and thereby satisfy the required criteria for revenue recognition.
+While most of our arrangements for sales within our businesses include short-term payment terms, we have a standard practice of providing long-term financing to
+creditworthy customers primarily through our financing division. Since fiscal 1989, when our financing division was formed, we have established a history of
+collection, without concessions, on these receivables with payment terms that generally extend up to five years from the contract date. Provided all other revenue
+recognition criteria have been met, we recognize new software licenses revenues and hardware products revenues for these arrangements upon delivery, net of any
+payment discounts from financing transactions. We have generally sold receivables financed through our financing division on a non-recourse basis to third-party
+financing institutions within 90 days of the contracts’ dates of execution and we classify the proceeds from these sales as cash ﬂows from operating activities in our
+consolidated statements of cash flows. We account for the sales of these receivables as “true sales” as defined in ASC 860, Transfers and Servicing , as we are
+considered to have surrendered control of these financing receivables.
+Our customers include several of our suppliers and, occasionally, we have purchased goods or services for our operations from these vendors at or about the same
+time that we have sold our products to these same companies (Concurrent Transactions). Software license agreements, sales of hardware or sales of services that
+occur within a three-month time period from the date we have purchased goods or services from that same customer are reviewed for appropriate accounting
+treatment and disclosure. When we acquire goods or services from a customer, we negotiate the purchase separately from any sales transaction, at terms we
+consider to be at arm’s length and settle the purchase in cash. We recognize revenues from Concurrent Transactions if all of our revenue recognition criteria are met
+and the goods and services acquired are necessary for our current operations.
+50

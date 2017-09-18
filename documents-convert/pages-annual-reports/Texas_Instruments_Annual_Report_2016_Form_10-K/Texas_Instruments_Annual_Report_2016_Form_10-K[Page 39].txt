@@ -1,0 +1,49 @@
+We review inventory quarterly for salability and obsolescence. A statistical allowance is provided for inventory considered unlikely
+to be sold. The statistical allowance is based on an analysis of historical disposal activity, historical customer shipments, as well as
+estimated future sales. A specific allowance for each material type will be carried if there is a significant event not captured by the
+statistical allowance. We write off inventory in the period in which disposal occurs.
+Property, plant and equipment; acquisition-related intangibles; and other capitalized costs
+Property, plant and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method.
+Our cost basis includes certain assets acquired in business combinations that were initially recorded at fair value as of the date of
+acquisition. Leasehold improvements are amortized using the straight-line method over the shorter of the remaining lease term
+or the estimated useful lives of the improvements. We amortize acquisition-related intangibles on a straight-line basis over the
+estimated economic life of the assets. Capitalized software licenses generally are amortized on a straight-line basis over the term ’5
+of the license. Fully depreciated or amortized assets are written off against accumulated depreciation or amortization. 3
+E
+Impairments of long-lived assets 2‘,
+We regularly review whether facts or circumstances exist that indicate the carrying values of property, plant and equipment “'
+or other long-lived assets, including intangible assets, are impaired. We assess the recoverability of assets by comparing the
+projected undiscounted net cash flows associated with those assets to their respective carrying amounts. Any impairment charge
+is based on the excess of the carrying amount over the fair value of those assets. Fair value is determined by available market
+valuations, if applicable, or by discounted cash flows.
+Goodwill and indeﬁnite-lived intangibles
+Goodwill is not amortized but is reviewed for impairment annually or more frequently if certain impairment indicators arise. We
+perform our annual goodwill impairment test as of October 1 for our reporting units, which compares the fair value for each
+reporting unit to its associated carrying value, including goodwill. See Note 9 for additional information.
+Foreign currency
+The functional currency for our non-U.S. subsidiaries is the U.S. dollar. Accounts recorded in currencies other than the U.S. dollar
+are remeasured into the functional currency. Current assets (except inventories), deferred income taxes, other assets, current
+liabilities and long-term liabilities are remeasured at exchange rates in effect at the end of each reporting period. Property, plant .
+and equipment with associated depreciation and inventories are valued at historical exchange rates. Revenue and expense
+accounts other than depreciation for each month are remeasured at the appropriate daily rate of exchange. Currency exchange
+gains and losses from remeasurement are credited or charged to 0|&E. See Note 13 for additional information.
+Derivatives and hedgljg
+We use derivative financial instruments to manage exposure to foreign exchange risk. These instruments are primarily fonNard
+foreign currency exchange contracts, which are used as economic hedges to reduce the earnings impact that exchange rate
+fluctuations may have on our non-U.S. dollar net balance sheet exposures. Gains and losses from changes in the fair value of these
+fonNard foreign currency exchange contracts are credited or charged to 0|&E. We do not apply hedge accounting to our foreign
+currency derivative instruments.
+In connection with the issuance of long-term debt, we use financial derivatives such as treasury-rate lock agreements that are
+recognized in AOCl and amortized over the life of the related debt. The results of these derivative transactions have not been
+material.
+We do not use derivatives for speculative or trading purposes.
+Changes in accounting standards
+Adopted standards for current period
+In May 2015, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2015-07, Fair
+Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its
+Equivalent). This standard removes the requirement to categorize within the fair value hierarchy certain investments for which
+fair value is not readily available but measured using the net asset value per share. This standard was effective beginning
+January 1, 2016, and prior period amounts have been retrospectively adjusted for consistency in presentation. Our adoption of
+this standard only affects our presentation of fair values of postretirement plan assets in Note 10 and does not impact our financial
+position and results of operations.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 35

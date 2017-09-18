@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+High-profile security breaches at other companies have increased in recent years, and security industry experts and government officials have warned about the
+risks of hackers and cyber-attacks targeting IT products and businesses. Although this is an industry-wide problem that affects other software and hardware
+companies, it affects Oracle in particular because computer hackers tend to focus their efforts on the most prominent IT companies, and they may focus on Oracle
+because of our reputation for, and marketing efforts associated with, having secure products and services. These risks will increase as we continue to grow our
+cloud offerings and store and process increasingly large amounts of data, including personal information and our customers’ conﬁdential information and data and
+other external data, and host or manage parts of our customers’ businesses in cloud-based IT environments, especially in customer sectors involving particularly
+sensitive data such as health sciences, financial services and the government. We also have an active acquisition program and have acquired a number of
+companies, products, services and technologies over the years. While we make significant efforts to address any IT security issues with respect to our acquired
+companies, we may still inherit such risks when we integrate these companies within Oracle.
+We could suffer significant damage to our brand and reputation if a cyber-attack or other security incident were to allow unauthorized access to or modification of
+our customers’ or suppliers’ data, other external data, or our own data or our IT systems or if the services we provide to our customers were disrupted, or if our
+products or services are perceived as having security vulnerabilities. Customers could lose confidence in the security and reliability of our products and services,
+including our cloud offerings, and perceive them to be not secure. This could lead to fewer customers using our products and services and result in reduced revenue
+and earnings. The costs we would incur to address and fix these security incidents would increase our expenses. These types of security incidents could also lead to
+lawsuits, regulatory investigations and claims and increased legal liability, including in some cases contractual costs related to customer notification and fraud
+monitoring.
+Our business practices with respect to the collection, use and management of personal information could give rise to operational interruption, liabilities or
+reputational harm as a result of governmental regulation, legal requirements or industry standards relating to consumer privacy and data protection. As
+regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information expand and become
+more complex, potential risks related to data collection and use within our business will intensify. For example, in October 2015, the Court of Justice of the
+European Union (EU) invalidated the EU-U.S. Safe Harbor Framework, which Oracle as well as many other global enterprises had relied on in certain contexts to
+enable the transfer of EU personal data to the United States. While Oracle adapted to this judgment by implementing other transfer mechanisms permitted under
+applicable law, the validity of these other mechanisms could also be challenged. If successful, this could require Oracle to make disruptive operational adjustments
+to the delivery of certain services that could impact customers and sales in the region. In addition, US. and foreign governments have enacted or are considering
+enacting legislation or regulations, or may in the near future interpret existing legislation or regulations, in a manner that could significantly impact the ability of
+Oracle and our customers and data partners to collect, augment, analyze, use, transfer and share personal and other information that is integral to certain services
+Oracle provides and data services. This could be true particularly in those jurisdictions where privacy laws or regulators take a broader view of how personal
+information is defined, therefore subjecting the handling of such data to heightened restrictions that may be obstructive to the operations of Oracle and its
+customers and data providers. This impact may be acute in countries that have passed or are considering passing legislation that requires data to remain localized
+“in country,” as this imposes financial costs on any service provider that is required to store data in jurisdictions not of its choosing and nonstandard operational
+processes that are difficult and costly to integrate with global processes.
+Regulators globally are also imposing greater monetary fines for privacy violations, and the EU is considering legislation that would impose fines for privacy
+violations based on a percentage of global revenues. Changes in laws or regulations associated with the enhanced protection of certain types of sensitive data, such
+as healthcare data or other personal information, could greatly increase our cost of providing our products and services or even prevent us from offering certain of
+our services in jurisdictions that we operate. Additionally, public perception and standards related to the privacy of personal information can shift rapidly, in ways
+that may affect Oracle’s reputation or inﬂuence regulators to enact regulations and laws that may limit Oracle’s ability to provide certain
+23

@@ -1,0 +1,39 @@
+Presented in the tables below are the estimated fair values of the Company’s financial instruments as of December 31,
+2016 and 2015.
+December 31, 2016 Fair value measurements using
+: Quoted :
+prices in Significant
+active markets other Significant
+for identical observable unobservable
+assets inputs inputs
+($ in thousands) Total (Level 1) (Level 2) (Level 3)
+Financial instruments reported at fair value on : : : : : : : :
+recurring basis:
+Assets:
+Fixed maturity securities available-for—sale:
+I U.S. treasury $ 7,830 8 — $ 7,830 $ — I
+U.S. government-sponsored agencies 239,197 — 239,197 —
+I Obligations of states and political subdivisions 335,757 — 335,757 — I
+Commercial mortgage-backed 37,572 — 37,572 —
+I Residential mortgage-backed 96,434 — 96,434 — I
+Other asset-backed 26,393 — 26,393 —
+I Corporate 456,516 — 455,534 982 I
+Total fixed maturity securities available-for- : :
+sale 1,199,699 — 1,198,717 982
+I Equity securities available-for-sale: I
+I Common stocks: I
+Financial services 35,122 35,119 — 3
+I Information technology 30,542 30,542 — — I
+Healthcare 24,707 24,707 — —
+I Consumer staples 19,100 19,100 — — I
+Consumer discretionary 22,321 22,321 — —
+I Energy 19,071 19,071 — — I
+Industrials 24,245 24,245 — —
+I Other 18,384 18,384 — — I
+Non-redeemable preferred stocks 20,347 11,074 7,273 2,000
+I Total equity securities available-for-sale 7 213,839 _ 204,563 _ 7,273 _ 2,003 I
+I Short-term investments 39,670 39,670 — — I
+IFinancial instruments not reported at fair value: I
+Liabilities:
+I Surplus notes 11,228 — — 11,228 I
+138

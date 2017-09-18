@@ -1,0 +1,44 @@
+Total stock compensation expense recognized is as follows:
+For Years Ended December 31,
+2016 2015 2014
+COR $ 40 $ 47 $ 48
+152 169 156
+Acquisitioncharges............................................................ — 10 11
+Total $252 $286 $277
+=5
+These amounts include expenses related to non-qualified stock options, RSUs and stock options offered under our employee stock 3
+purchase plan and are net of expected forfeitures. E
+n:
+We issue awards of non-qualified stock options with graded vesting provisions (e.g., 25 percent per year for four years). We 8
+recognize the related compensation expense on a straight-line basis over the minimum service period required for vesting of the
+award, adjusting for expected forfeiture activity. Awards issued to employees who are retirement eligible or nearing retirement
+eligibility are expensed on an accelerated basis.
+Our RSUs generally vest four years after the date of grant. We recognize the related compensation expense on a straight-line basis
+over the vesting period, adjusting for expected forfeiture activity. RSUs issued to employees who are retirement eligible or nearing
+retirement eligibility are expensed on an accelerated basis.
+Fair- value methods and assumptions
+We account for all awards granted under our various stock compensation plans at fair value. We estimate the fair values for
+non-qualified stock options using the Black-Scholes-Merton option-pricing model with the following weighted average
+assumptions:
+For Years Ended December 31, q
+2016 2015 2014
+Weighted averagegrantdatefairvalue, pershare .................................. $10.03 $9.49 $8.13
+Weighted average assumptions used:
+Expectedvolatility............................................................ 25% 22% 22%
+Expectedlives(inyears)....................................................... 7.3 7.3 7.3
+Risk-freeinterestrates 1.72% 1.64% 2.45%
+Expecteddividendyields....................................................... 2.87% 2.52% 2.72%
+We determine expected volatility on all options granted using available implied volatility rates. We believe that market-based
+measures of implied volatility are currently the best available indicators of the expected volatility used in these estimates.
+We determine expected lives of options based on the historical option exercise experience of our optionees using a rolling 10-year
+average. We believe the historical experience method is the best estimate of future exercise patterns currently available.
+Risk-free interest rates are determined using the implied yield currently available for zero-coupon U.S. government issues with a
+remaining term equal to the expected life of the options.
+Expected dividend yields are based on the annualized approved quarterly dividend rate and the current market price of our
+common stock at the time of grant. No assumption for a future dividend rate change is included unless there is an approved plan to
+change the dividend in the near term.
+The fair value per share of RSUs is determined based on the closing price of our common stock on the date of grant.
+Our employee stock purchase plan is a discount-purchase plan and consequently the Black-Scholes-Merton option-pricing model
+is not used to determine the fair value per share of these awards. The fair value per share under this plan equals the amount of the
+discount.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 39

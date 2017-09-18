@@ -1,0 +1,43 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+OTHER INFORMATION
+Competition
+Various vendors provide lecture capture, enterprise webcasting or video content management capabilities, but few offer an end-
+to-end solution that addresses all phases of the video content lifecycle (capture, delivery, transformation and management) in a
+single platform like Mediasite.
+Lecture capture solutions designed specifically for higher education differ in their technology approach.
+- Appliance- or room-based lecture capture provides a fully integrated system with complete recording automation for
+live or on—demand content. The automated, pre-scheduled workﬂow results in the greatest faculty and staff adoption and
+largest volumes of recorded content in the shortest amount of time.
+° Software-based lecture capture that resides on a podium or computer in the classroom also captures and publishes rich
+media content, but relies on campus- or user-supplied hardware.
+- Desktop capture tools reside on individual users’ laptops or computers allowing them to record user-generated content.
+Few lecture capture vendors, offer a mix of all lecture capture approaches to best suit customers’ needs. Most vendors, including
+Crestron, Panopto and Tegrity, support only one approach to lecture capture. Likewise, a very small number of vendors provide
+an integrated platform like Mediasite to archive and manage video and rich media recorded with their solution. Most rely on a
+third-party platform, typically the institution’s learning or course management system, to publish, search and secure content.
+Enterprise video management solutions (e.g. Kaltura, Qumu) serve as centralized media repositories that facilitate the delivery,
+publishing and management of on—demand video. Unlike Mediasite, most platforms do not include a video capture, webcasting
+or live streaming component, but instead ingest or import video-based content captured by other third-party devices or solutions.
+Also, most other platforms focus on ingesting video-only content rather than rich video which combines multiple synchronous
+video and/or slide streams into an interactive media experience.
+Some current and potential customers develop their own home-grown lecture capture, webcasting or video content solutions
+which may also compete with Mediasite. However, we often find many of these organizations are now looking for a commercial
+solution that offers comprehensive management capabilities, requires fewer resources and internal maintenance and delivers a
+less cumbersome workﬂow
+Intellectual Property
+The status of United States patent protection in the Internet industry is not well defined and will evolve as the US. Patent and
+Trademark Office grants additional patents. Currently three US patents have been issued to us and we may seek additional
+patents in the future. We do not know if any future patent application will result in any patents being issued with the scope of the
+claims we seek, if such patents are issued at all. We do not know whether our patents which have been issued or any patents we
+may receive in the future will be challenged, invalidated or be of any value. It is difficult to monitor unauthorized use of
+technology, particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the United States,
+and our competitors may independently develop technology similar to ours. We will continue to seek patent and other intellectual
+property protections, when appropriate, for those aspects of our technology that we believe constitute innovations providing
+significant competitive advantages. Any future, patent applications may not result in the issuance of valid patents.
+Our success depends in part upon our rights to proprietary technology. We rely on a combination of copyright, trade secret,
+trademark and contractual protection to establish and protect our proprietary rights. We have registered three US. and four
+foreign country trademarks. We require our employees to enter into confidentiality and nondisclosure agreements upon
+commencement of employment. Before we will disclose any confidential aspects of our services, technology or business plans
+12

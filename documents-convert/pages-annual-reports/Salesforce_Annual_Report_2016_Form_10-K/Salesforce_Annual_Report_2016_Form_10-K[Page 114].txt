@@ -1,0 +1,38 @@
+The following table summarizes information about stock options outstanding as of January 31, 2016 :
+7 Options Outstanding 7 7 Options Exercisable 7
+7 Weighted-Average 7 7 7
+Remaining
+Range of Exercise Number Contractual Life Weighted-Average Number of Weighted-Average
+: Prices : :Outstanding: : (Years) : : Exercise Price : : Shares : : Exercise Price :
+$0.86 to $37.95 . . . . . . . . 4,555,639 2.0 $29.18 3,838,627 $28.42
+$38.03 to $52.14 . . . . . . . 2,556,681 2.3 39.94 1,826,462 39.62
+$52.30 . . . . . . . . . . . . . . . 3,800,524 4.8 52.30 1,852,072 52.30
+$53.60 to $57.79 . . . . . . . 1,466,601 5.4 55.29 459,196 55.31
+$59.34 . . . . . . . . . . . . . . . 6,313,261 5.8 59.34 1,739,344 59.34
+$59.37 to $77.86 . . . . . . . 1,925,609 6.2 68.04 47,862 63.07
+$80.99 . . . . . . . . . . . . . . . 5,640,483 6.8 80.99 0 0.00
+26,258,798 4.9 $56.26 9,763,563 $41.99
+Restricted stock activity is as follows:
+: Restricted Stock Outstanding :
+Weighted- Aggregate
+Average Intrinsic
+:Outstanding: Exercise Price : Value :
+Balance as of January 31, 2014 . . . . . . . . . 24,653,578 $0.001
+Granted- restricted stock units and
+awards....................... 11,170,913 0.001
+Canceled....................... (3,174,976) 0.001
+Vested and converted to shares . . . . . . (9,505,507) 0.001
+Balance as of January 31, 2015 . . . . . . . . . 23,144,008 $0.001
+Granted- restricted stock units and
+awards....................... 9,736,623 0.001
+Granted- performance stock units . . . . 191,382 0.001
+Canceled....................... (2,715,332) 0.001
+Vested and converted to shares . . . . . . (9,062,096) 0.001
+Balance as of January 31, 2016 . . . . . . . . . 21,294,585 $0.001 $1,449,309,455
+Expected to vest . . . . . . . . . . . . . . . . . . . . . 17,846,945 $1,214,663,077
+The restricted stock, which upon vesting entitles the holder to one share of common stock for each share of
+restricted stock, has an exercise price of $0.001 per share, which is equal to the par value of the Company’s
+common stock, and generally vests over 4 years.
+The weighted-average grant date fair value of the restricted stock issued for fiscal 2016, 2015 and 2014 was
+$73.61, $58.89 and $46.99, respectively.
+107

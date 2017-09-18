@@ -1,0 +1,53 @@
+The following table presents the fair values of the Company's derivative instruments that were designated and qualified as part
+of a hedging relationship (in millions):
+Fair Value"2
+: December 31, December 31, :
+Derivatives Designated as Hedging Instruments Balance Sheet Location1 2016 2015
+Assets: 7
+Foreign currency contracts Prepaid expenses and other assets $ 400 $ 572
+Foreign currency contracts Other assets 60 246
+Commodity contracts Prepaid expenses and other assets — 1
+Interest rate contracts Prepaid expenses and other assets — 2O
+7 Interest rate contracts Other assets 105 627
+7 Total assets $ 565 $ 901
+iLiabilities: *
+Foreign currency contracts Accounts payable and accrued expenses $ 40 $ 51
+Foreign currency contracts Other liabilities 54 75
+Commodity contracts Accounts payable and accrued expenses 1 —
+Interest rate contracts Accounts payable and accrued expenses 36 53
+7 Interest rate contracts Other liabilities 47 231 7
+f Total liabilities s 178 $ 410 i
+' All of the Company's derivative instruments are carried at fair value in our consolidated balance sheets after considering the impact of
+legally enforceable master netting agreements and cash collateral held or placed with the same counterparties, as applicable. Current
+disclosure requirements mandate that derivatives must also be disclosed without reﬂecting the impact of master netting agreements and
+cash collateral. Refer to Note 16 for the net presentation of the Company's derivative instruments.
+2 Refer to Note 16 for additional information related to the estimated fair value.
+The following table presents the fair values of the Company's derivative instruments that were not designated as hedging
+instruments (in millions):
+Fair Valuel’2
+December 31, December 31,
+Derivatives Not Designated as Hedging Instruments Balance Sheet Location1 2016 2015
+Assets: 7
+Foreign currency contracts Prepaid expenses and other assets $ 284 $ 105
+Foreign currency contracts Other assets — 241
+Commodity contracts Prepaid expenses and other assets 27 2
+Commodity contracts Other assets 1 1
+Other derivative instruments Prepaid expenses and other assets 4 17
+7 Other derivative instruments Other assets 1 3 7
+7 Total assets $ 317 $ 369
+iLiabilities: ’
+Foreign currency contracts Accounts payable and accrued expenses $ 60 $ 59
+Foreign currency contracts Other liabilities 16 9
+Commodity contracts Accounts payable and accrued expenses 16 154
+Commodity contracts Other liabilities 1 19
+Interest rate contracts Accounts payable and accrued expenses 8 —
+Interest rate contracts Other liabilities 1 1
+Other derivative instruments Accounts payable and accrued expenses 2 5
+7 Other derivative instruments Other liabilities 5 2 7
+f Total liabilities s 109 $ 249 i
+' All of the Company's derivative instruments are carried at fair value in our consolidated balance sheets after considering the impact of
+legally enforceable master netting agreements and cash collateral held or placed with the same counterparties, as applicable. Current
+disclosure requirements mandate that derivatives must also be disclosed without reﬂecting the impact of master netting agreements and
+cash collateral. Refer to Note 16 for the net presentation of the Company's derivative instruments.
+2 Refer to Note 16 for additional information related to the estimated fair value.
+97

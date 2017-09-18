@@ -1,0 +1,44 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+method investments are recorded in Equity income. Impairment charges related to cost method investments are recorded in Interest income and other non-
+operating income, net.
+Property, net Property, plant and equipment, including internal use software, is recorded at cost. Major improvements that extend the useful life or add
+ﬁlnctionality are capitalized. The gross amount of assets under capital leases is included in property, plant and equipment. Expenditures for repairs and
+maintenance are charged to expense as incurred. We depreciate all depreciable property using the straight-line method. Leasehold improvements are
+amortized over the period of lease or the life of the asset, whichever is shorter. The amortization of the assets under capital leases is included in depreciation
+expense. Upon retirement or disposition of property, plant and equipment, the cost and related accumulated depreciation are eliminated and any resulting
+gain or loss is recorded in earnings. Impairment charges related to property are recorded in Automotive cost of sales, Automotive selling, general and
+administrative expense or GM Financial interest, operating and other expenses.
+Special Tools Special tools represent product-speciﬁc powertrain and non-powertrain related tools, dies, molds and other items used in the vehicle
+manufacturing process. Expenditures for special tools are recorded at cost and are capitalized. We amortize special tools over their estimated useful lives
+using the straight-line method or an accelerated amortization method based on their historical and estimated production volume. Impairment charges related
+to special tools are recorded in Automotive cost of sales.
+Goodwill Goodwill is tested for impairment annually on October 1 or when events occur or circumstances change that would trigger such a review. Atwo-
+step impairment test is used to identify potential goodwill impairment. Impairment exists when the carrying amount of goodwill exceeds its implied fair
+value. When performing our goodwill impairment testing, the fair values of our reporting units are determined based on valuation techniques using the best
+available information, primarily discounted cash ﬂow projections. Because the fair value of goodwill can be measured only as a residual amount and cannot
+be determined directly we calculate the implied goodwill for those reporting units failing Step 1 in the same manner that goodwill is recognized in a business
+combination pursuant to Accounting Standards Codiﬁcation (ASC) 805.
+Intangible Assets, net Intangible assets, excluding goodwill, primarily include brand names, technology and intellectual property, customer relationships
+and dealer networks. Intangible assets are amortized on a straight-line or an accelerated method of amortization over their estimated useful lives. An
+accelerated amortization method reﬂecting the pattern in which the asset will be consumed is utilized if that pattern can be reliably determined. We consider
+the period of expected cash ﬂows and underlying data used to measure the fair value of the intangible assets when selecting a useful life. Impairment charges
+related to intangible assets are recorded in Automotive selling, general and administrative expense or Automotive cost of sales. Amortization of developed
+technology and intellectual property is recorded in Automotive cost of sales. Amortization of brand names, customer relationships and our dealer networks is
+recorded in Automotive selling, general and administrative expense or GM Financial interest, operating and other expenses.
+Valuation of Long-Lived Assets The carrying amount of long-lived assets and ﬁnite-lived intangible assets to be held and used in the business are evaluated
+for impairment when events and circumstances warrant. If the carrying amount of a long-lived asset group is considered impaired, a loss is recorded based on
+the amount by which the carrying amount exceeds fair value. Product-speciﬁc long-lived asset groups and non—product speciﬁc long-lived assets are
+separately tested for impairment on an asset group basis. Fair value is determined using either the market or sales comparison approach, cost approach or
+anticipated cash ﬂows discounted at a rate commensurate with the risk involved. Long-lived assets to be disposed of other than by sale are considered held
+for use until disposition.
+Pension and OPEB Plans
+Attribution, Methods and Assumptions The cost of beneﬁts provided by deﬁned beneﬁt pension plans is recorded in the period employees provide service.
+The cost of pension plan amendments that provide for beneﬁts already earned by plan participants is amortized over the expected period of beneﬁt which
+may be the duration of the applicable collective bargaining agreement speciﬁc to the plan, the expected ﬁlture working lifetime or the life expectancy of the
+plan participants.
+The cost of medical, dental, legal service and life insurance beneﬁts provided through postretirement beneﬁt plans is recorded in the period employees
+provide service. The cost of postretirement plan amendments that provide for beneﬁts already earned by plan participants is amortized over the expected
+period of beneﬁt which may be the average period to full eligibility or the average life expectancy of the plan participants.
+52

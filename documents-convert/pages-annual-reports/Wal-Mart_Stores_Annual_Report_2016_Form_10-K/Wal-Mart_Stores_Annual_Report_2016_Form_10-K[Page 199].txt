@@ -1,0 +1,28 @@
+Table of Contents
+Returns
+While we are focused primarily on growth, we also place a priority on generating returns to ensure our approach is appropriately balanced. We generate returns by
+efficiently deploying assets and effectively managing working capital. We monitor these efforts through our return on investment and free cash ﬂow metrics, which
+we discuss below. In addition, we are focused on providing returns to our shareholders in the form of share repurchases and dividends, which are discussed in the
+Liquidity and Capital Resources section.
+Return on Investment
+Management believes return on investment ("R01") is a meaningful metric to share with investors because it helps investors assess how effectively Walmart is
+deploying its assets. Trends in ROI can ﬂuctuate over time as management balances long-term potential strategic initiatives with possible short-term impacts.
+ROI was 15.5% and 16.9% for the fiscal years ended January 31, 2016 and 2015 , respectively. The decline in ROI was primarily due to our decrease in operating
+income, as well as continued capital investments.
+We deﬁne ROI as adjusted operating income (operating income plus interest income, depreciation and amortization, and rent expense) for the fiscal year divided
+by average invested capital during that period. We consider average invested capital to be the average of our beginning and ending total assets, plus average
+accumulated depreciation and average accumulated amortization, less average accounts payable and average accrued liabilities for that period, plus a rent factor
+equal to the rent for the fiscal year multiplied by a factor of eight. When we have discontinued operations, we exclude the impact of the discontinued operations.
+Our calculation of ROI is considered a non-GAAP financial measure because we calculate ROI using financial measures that exclude and include amounts that are
+included and excluded in the most directly comparable financial measure calculated and presented in accordance with generally accepted accounting principles in
+the US. ("GAAP"). For example, we exclude the impact of depreciation and amortization from our reported operating income in calculating the numerator of our
+calculation of ROI. In addition, we include a factor of eight for rent expense that estimates the hypothetical capitalization of our operating leases. We consider
+return on assets ("ROA") to be the financial measure computed in accordance with GAAP that is the most directly comparable financial measure to our calculation
+of R01. R01 differs from ROA (which is consolidated income from continuing operations for the period divided by average total assets of continuing operations
+for the period) because ROI: adjusts operating income to exclude certain expense items and adds interest income; adjusts total assets of continuing operations for
+the impact of accumulated depreciation and amortization, accounts payable and accrued liabilities; and incorporates a factor of rent to arrive at total invested
+capital. Because of the adjustments mentioned above, we believe ROI more accurately measures how we are deploying our key assets and is more meaningful to
+investors than ROA.
+Although R01 is a standard ﬁnancial metric, numerous methods exist for calculating a company's ROI. As a result, the method used by management to calculate
+our ROI may differ from the methods used by other companies to calculate their ROI.
+7

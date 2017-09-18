@@ -1,0 +1,47 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+20% ownership interest are generally accounted for using the cost method of accounting, and
+our share of the investees’ results of operations is included in our consolidated statement of
+income to the extent dividends are received.
+We have evaluated all subsequent events through the date the consolidated financial
+statements were issued.
+Revenue recognition
+We generate net transaction revenues primarily from final value fees and listing fees paid
+by sellers. Final value fee revenues are recognized at the time that the transaction is
+successfully closed, while listing fee revenues are recognized ratably over the estimated
+period of the listing. An auction transaction is considered successfully closed when at least
+one buyer has bid above the seller’s specified minimum price or reserve price, whichever is
+higher, at the end of the transaction term.
+Our marketing services revenues are derived principally from the sale of advertisements,
+revenue sharing arrangements, classifieds fees, marketing service fees and lead referral fees.
+Our advertising revenues are derived principally from the sale of online advertisements. The
+duration of our advertising contracts has ranged from one week to five years, but is generally
+one week to one year. Advertising revenues on contracts are recognized as “impressions”
+(i.e., the number of times that an advertisement appears in pages viewed by users of our
+platforms) are delivered, or as “clicks” (which are generated each time users on our platforms
+click through our advertisements to an advertiser’s designated website) are provided to
+advertisers. For contracts with minimum monthly or quarterly advertising commitments where
+the fee and commitments are fixed throughout the term, we recognize revenue ratably over
+the term of the agreement. We also may enter into arrangements to purchase services from
+certain customers and if the service is not considered an identifiable benefit that is separable
+from the customer’s purchase of our services or for which we cannot reasonably estimate fair
+value, the fees paid to the customer are recorded as a reduction in revenue. Some of our
+advertising contracts consist of multiple elements which generally include a blend of various
+impressions and clicks as well as other marketing deliverables. Where neither vendor-specific
+objective evidence nor third-party evidence of selling price exists, we use management’s best
+estimate of selling price (“BESP”) to allocate arrangement consideration on a relative basis to
+each element. BESP is generally based on the selling prices of the various elements when they
+are sold to customers of a similar nature and geography on a stand-alone basis or estimated
+stand-alone pricing when the element has not previously been sold on a stand-alone basis.
+These estimates are generally based on pricing strategies, market factors and strategic
+objectives. Revenues related to revenue sharing arrangements are recognized based on
+revenue reports received from our partners, provided that collectability is reasonably assured.
+Revenues related to fees for listing items on our Classifieds platforms are recognized over the
+estimated period of the classified listing. Lead referral fee revenue is generated from lead
+referral fees based on the number of times users click through to a merchant’s website from
+our platforms. Lead referral fees are recognized in the period in which a user clicks through to
+the merchant’s website.
+Our other revenues are derived principally from contractual arrangements with third
+parties that provide services to our users. Revenues from contractual arrangements with third
+parties are recognized as the contracted services are delivered to end users.
+F—9

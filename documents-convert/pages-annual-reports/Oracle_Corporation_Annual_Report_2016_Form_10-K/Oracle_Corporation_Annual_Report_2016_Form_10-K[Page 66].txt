@@ -1,0 +1,23 @@
+Table,0f,C,0ntents
+Fiscal 2016 Compared to Fiscal 2015: Excluding the effects of unfavorable currency rate ﬂuctuations of 6 percentage points, total hardware products revenues
+decreased during ﬁscal 2016 due to reductions in sales volumes of certain of our product lines, including lower margin products. This decrease was partially offset
+by incremental revenues during the first quarter of ﬁscal 2016 from our recently acquired companies, primarily MICROS. On a constant currency basis, ﬁscal 2016
+total hardware products revenues declines in the Americas and EMEA regions were partially offset by slight growth in the Asia Paciﬁc region.
+Excluding the effects of favorable currency rate ﬂuctuations of 6 percentage points, total hardware products expenses decreased in ﬁscal 2016 due to lower
+hardware products costs associated with lower hardware products revenues, and due to a reduction in expenses associated with certain of our intangible assets that
+became fully amortized.
+In constant currency, total margin and total margin as a percentage of revenues decreased in fiscal 2016 for this segment due to the decrease in our total revenues.
+Fiscal 2015 Compared to Fiscal 2014: Excluding the effects of unfavorable currency rate ﬂuctuations, total hardware products revenues were ﬂat in ﬁscal 2015
+as revenues from acquired companies, including MICROS, and increases in hardware revenues attributable to our Oracle Engineered Systems products were offset
+by reductions in the sales volumes of certain of our other hardware product offerings. On a constant currency basis, revenue increases in the Americas and EMEA
+regions were offset by revenue declines in the Asia Pacific region during ﬁscal 2015.
+Excluding the effects of favorable currency rate ﬂuctuations, total hardware products expenses decreased in ﬁscal 2015 primarily due to lower bad debt expenses
+and a reduction in amortization of intangible assets. These ﬁscal 2015 expense decreases were partially offset by higher fiscal 2015 employee related expenses due
+to increased headcount from our acquisitions and higher direct product costs that were primarily attributable to acquired products revenues.
+In constant currency, total margin and margin as a percentage of revenues increased in ﬁscal 2015 due to the decrease in total expenses for this segment.
+Hardware Support: Our hardware support offerings provide customers with software updates for software components that are essential to the functionality of
+our hardware products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support
+services. Expenses associated with our hardware support operating segment include the cost of materials used to repair customer products, the cost of providing
+support services, largely personnel related expenses, and the amortization of our intangible assets primarily associated with hardware support contracts and
+customer relationships obtained from our acquisitions.
+64

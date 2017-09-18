@@ -1,0 +1,43 @@
+Our annual billings proxy increased by 11.6%, or $240.5 million, to $2.31 billion for the year ended
+February 29, 2016 from $2.07 billion for the year ended February 28, 2015. Using the average foreign currency
+exchange rates from our prior year ended February 28, 2015, our billings proxy for the year ended February 29,
+2016 would have increased by approximately 17.4%, or $361.3 million.
+Seasonalily
+Our fourth fiscal quarter has historically been our strongest quarter for new billings and renewals. This
+pattern has become more pronounced over time as the number of customers with renewal dates occurring in the
+last half of our fiscal year has continued to increase. Furthermore, our quarterly sales cycles are frequently
+weighted toward the end of the quarter, with an increased volume of sales completed in the last weeks of each
+quarter. The year-over-year compounding effect of this seasonality in billing patterns and overall new business
+and renewal activity causes the value of invoices making up our billings that we generate in the last half of our
+fiscal year to continually increase in proportion to the value of our invoices making up our billings in the first
+half of our fiscal year. Below is a summary of our billings (approximated as described above by adding revenue
+for the period with the change in deferred revenue as reported on our Consolidated Statements of Cash Flows for
+the same period) by quarter for fiscal 2016, fiscal 2015, fiscal 2014, fiscal 2013 and fiscal 2012 (in thousands):
+First quarter Second quarter Third quarter 7 7 Fourth quarter 7
+: Billings % of fiscal: Billings % of fiscal: Billings % of fiscal” Billings % of ﬁscal
+7 proxy Hyear total” proxy Hyear total” proxy Hyear total” proxy Hyear total,
+Year ended February 29, 2016 . . . $449,439 19.4% $479,131 20.7% $620,244 26.8% $763,912 33.0%
+Year ended February 28, 2015 . . . $404,005 19.5% $439,690 21.2% $539,807 26.1% $688,680 33.2%
+Year ended February 28, 2014 . . . $346,359 19.9% $376,303 21.6% $452,555 26.0% $564,755 32.5%
+Year ended February 28, 2013 . . . $309,609 20.8% $349,025 23.4% $378,813 25.4% $453,944 30.4%
+Year ended February 29, 2012 . . . $266,016 20.3% $304,171 23.2% $322,072 24.6% $417,699 31.9%
+Backlog
+Our total backlog as of February 29, 2016 was approximately $2.13 billion and includes amounts billed to
+customers and recognized as current and long-term deferred revenue on our Consolidated Balance Sheet of $1.27
+billion and $449.6 million, respectively, plus the value of non-cancellable subscription and services agreements
+to be billed in the future and not reﬂected in our financial statements, which was in excess of $410.0 million. Our
+total backlog as of February 28, 2015 was approximately $1.86 billion. The value of non-cancellable subscription
+and service agreements to be billed in the future and not reﬂected in our financial statements as of February 28,
+2015 was in excess of $380.0 million. The increase in total backlog from approximately $1.86 billion as of
+February 28, 2015 to approximately $2.13 billion as of February 29, 2016 demonstrates increased customer
+commitment to our open source technologies.
+We report our off-balance sheet backlog as a conservative approximation, often describing the amount as
+“in excess of”, primarily because the value of underlying contracts is derived from data not yet subjected to the
+complete application of our revenue recognition policies. We endeavor to derive the value of our off-balance
+sheet backlog in a consistent manner year over year and therefore believe the amounts are comparable.
+Revenue by geography
+In the year ended February 29, 2016, approximately 40.9%, or $838.7 million, of our revenue was generated
+outside the US. compared to approximately 42.8%, or $766.7 million, for the year ended February 28, 2015.
+Excluding the impact of foreign currency exchange rate ﬂuctuations, our revenue generated outside the US.
+would have been 44.2%, or $959.5 million, of our total revenue. Our international operations are expected to
+49

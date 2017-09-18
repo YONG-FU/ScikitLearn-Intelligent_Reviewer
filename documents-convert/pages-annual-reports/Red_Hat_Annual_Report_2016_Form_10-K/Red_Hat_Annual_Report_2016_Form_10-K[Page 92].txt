@@ -1,0 +1,43 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+In May 2014, the FASB issued Accounting Standards Update 2014-09, Revenue from Contracts with
+Customers (“ASU 2014-09”). The FASB issued ASU 2014-09 to clarify the principles for recognizing revenue
+and to develop a common revenue standard for generally accepted accounting principles (“GAAP”) and
+International Financial Reporting Standards. The standard outlines a single comprehensive model for entities to
+use in accounting for revenue arising from contracts with customers and supersedes the most current revenue
+recognition guidance. This guidance is effective for the Company beginning the first quarter of its fiscal year
+ending February 28, 2019. The standard must be adopted using either a full retrospective approach for all periods
+presented in the period of adoption or a modified retrospective approach. The Company has initiated an
+assessment of its systems, data and processes related to the implementation of this accounting standard. This
+assessment is expected to be completed during fiscal 2017. Additionally, the Company is currently evaluating the
+potential impact that the implementation of this standard will have on its consolidated financial statements.
+NOTE 3—Business Combinations
+Acquisition of Ansible, Inc.
+On October 16, 2015 the Company completed its acquisition of all of the shares of Ansible, Inc.
+(“Ansible”). Ansible is a provider of IT automation solutions that allows its users to manage applications across
+hybrid cloud environments. The acquisition is intended to augment the Company’s management portfolio and
+help customers to deploy and manage applications across private and public clouds, speed service delivery
+through development and operations initiatives, streamline OpenStack installations and upgrades and accelerate
+container adoption by simplifying orchestration and configuration.
+The consideration paid was $126.0 million and includes $125.2 million of cash. Based on management’s
+provisional assessment of the acquisition-date fair value of the assets acquired and liabilities assumed, the total
+consideration transferred of $126.0 million has been allocated to the Company’s assets and liabilities on a
+preliminary basis as follows: $102.3 million to goodwill, $25.1 million to identifiable intangible assets and $1.4
+million to working capital as a net current liability.
+During February 2016, the Company completed its valuation of the identifiable intangible assets acquired
+from Ansible. As a result of the valuation, the Company reduced its preliminary estimate of identifiable
+intangible assets by $17.3 million to $25.1 million as of February 29, 2016 from $42.4 million as of
+November 30, 2015. The $17.3 million measurement-period adjustment resulted in an increase to goodwill of
+$10.8 million and a decrease to deferred taxes of $6.5 million. This adjustment had no significant impact on the
+Company’s financial results. Management expects to finalize its assessment of the acquisition-date fair value of
+Ansible’s other assets and liabilities, primarily deferred income taxes, in early fiscal 2017.
+The Company incurred approximately $3.9 million in transaction costs, including legal and accounting fees,
+relating to the acquisition. These transaction costs have been expensed as incurred and included in general and
+administrative expense on the Company’s Consolidated Statement of Operations for the ﬁscal year ended
+February 29, 2016.
+Acquisition of F eedHenry Ltd.
+On October 8, 2014 the Company completed its acquisition of all of the shares of FeedHenry Ltd.
+(“FeedHenry”). FeedHenry is a provider of cloud-based enterprise mobile application platforms. The acquisition
+is intended to expand the Company’s portfolio of application development, integration and platform as a service
+solutions, enabling the Company to support mobile application development in public and private environments.
+88

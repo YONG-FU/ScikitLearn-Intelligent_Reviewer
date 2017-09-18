@@ -1,0 +1,46 @@
+($ in thousands)
+Calendar Commercial Auto
+accident Personal auto physical Workers' Other Commercial
+7 year 7 7 lines 7 7 liability 7 7 damage 7 7 compensation 7 7 liability 7 7 property 7 7 Other 7 7 Total 7
+| Prior 8 (96) $ (490) $ (145) $ 218 $ 2,681 $ (158) $ (361) $ 1,649‘
+2011 (182) (277) (37) (770) (1,654) 672 (83) (2,331)
+l 2012 (243) (67) (72) (1,910) (3,435) 296 (200) (5,631)}
+2013 (199) 126 (116) (2,940) (495) 557 (142) (3,209)
+l 2014 (211) 1,129 (204) (3,643) (2,231) (332) (163) (5,655)}
+2015 7 (613), 7 3,1507 7 (1,310) 7 (6,431), 7 (7,511), 7 1,2437 7 (640), 7 (12,112),
+Total :$ (1,544): :8 3,571 : :$ (1,884) :$ (15,476): :$ (12,645): :8 2,278 : :$ (1,589): 77$ (27,289):
+The property and casualty insurance segment's new bulk reserving methodology is based on explicit assumptions
+concerning the ultimate number (frequency) and average size (severity) of claims expected to be incurred. The prior
+methodology separated the calculation of the aggregate reserves from the allocation of those reserves to the various accident
+years, and thus did not utilize explicit claim frequency and severity assumptions. Under the new reserving methodology,
+management seeks to better align expected and actual development by line of business and accident year. As this is a
+transitional year, there are some discontinuities in the development amounts reported for 2016. The following comments are
+based on a comparison of the explicit assumptions underlying the December 31, 2016 carried reserves to the implicit
+assumptions underlying the December 31, 2015 carried reserves.
+In the table above, five of the seven lines of business exhibited favorable development on a fairly consistent basis over
+the prior five accident years, those being personal lines, auto physical damage, workers” compensation, other liability and other.
+For these lines of business, favorable development for most accident years was driven by decreases in the frequency and/or
+severity assumptions underlying the estimated ultimate accident year loss and allocated settlement expense ratios. The
+workers” compensation line of business experienced adverse development on accident years prior to 2011, as management
+strengthened those reserves in response to increases in the severity assumptions for those years due to the expansion of the
+experience review period to thirty-five accident years.
+The commercial auto liability line of business experienced adverse development in each of the latest three accident
+years. Comparing the explicit assumptions utilized at December 31, 2016 to the implicit assumptions underlying the December
+31, 2015 reserves, the ultimate claim frequency and severity assumptions for accident year 2015 were underestimated by 1.8
+percent and 9.7 percent, respectively. Using the same comparison, claims severity for accident year 2014 was underestimated
+by 3.4 percent, and for accident year 2013, claim frequency was slightly underestimated.
+The commercial property line of business experienced the greatest number of development discontinuities by accident
+year in connection with the change in reserving methodology. Under the previous methodology, negative bulk case loss
+reserves were often carried in the commercial property line of business due to the perceived strength of the case loss reserves
+relative to the other lines of business. With the elimination of the bulk case loss reserves under the new methodology, the
+reserves for the commercial property line of business were reallocated in total and by accident year in accordance with the
+explicit claim frequency and severity assumptions developed during 2016. The implicit assumptions utilized at year-end 2015
+underestimated claim frequency for each of the five most recent accident years, and underestimated loss severity for all of those
+years except 2014.
+The Company increased asbestos and environmental IBNR loss and settlement expense reserves by $3.5 million during
+2016, which is primarily reﬂected in the other liability line of business. The increase was in response to an indicated increase
+in the ultimate asbestos liability produced by internal payout decay models. Management also notes that AM. Best increased
+the industry’s estimated ultimate liability by $15 billion during 2016. Newly reported asbestos claims have decreased slightly
+for the last two calendar years. Asbestos and environmental reserves constitute less than 3 percent of the property and casualty
+insurance segment’s total direct reserves.
+19

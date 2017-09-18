@@ -1,0 +1,46 @@
+Property and Equipment — Property and equipment are stated at cost. Costs to construct significant assets
+include capitalized interest incurred during the construction and development period. Expenditures for replacements
+and improvements are capitalized. Maintenance and repairs are expensed as incurred.
+Depreciation of property and equipment is calculated on a straight-line basis over the following estimated useful
+lives:
+Category Range
+iFacilities and improvements 73 to 40 years,
+Revenue and service equipment 2 to 20 years
+Furniture and office equipment 3 to 5years
+Net gains on the disposal of property and equipment are presented in the consolidated income statements within
+operating income.
+Tires on purchased revenue equipment are capitalized along with the related equipment cost when the vehicle is
+placed in service and depreciated over the life of the vehicle. Replacement tires are classified as inventory and
+expensed when placed in service.
+Management evaluates its property and equipment whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable in accordance with ASC Topic 360, Property, Plant and
+Equioment. When such events or changes in circumstances occur, management performs a recoverability test that
+compares the carrying amount with the projected undiscounted cash flows from the use and eventual disposition
+of the asset or asset group. An impairment is recorded for any excess of the carrying amount over the estimated
+fair value. Fair value is determined through various valuation techniques including discounted cash flow models,
+quoted market values and third-party independent appraisals, as considered necessary.
+Intangible Assets other than Goodwill — The Company's intangible assets other than goodwill primarily consist
+of acquired customer relationships and trade names. Amortization of acquired customer relationships is calculated
+on the 150% declining balance method over the estimated useful life of 15 years. The customer relationship
+contributed to the Company at May 9, 2007 is amortized over 15 years on a straight-line basis. The trade name
+has an indefinite useful life and is not amortized, but is tested for impairment at least annually, unless events occur
+or circumstances change between annual tests that would more likely than not reduce the fair value.
+Management reviews its intangible assets for impairment whenever events or circumstances indicate that the
+carrying amount of the asset may not be recoverable, in accordance with ASC Topic 350, Intangibles — Goodwill
+and Other. When such events or changes in circumstances occur, management performs a recoverability test that
+compares the carrying amount with the projected undiscounted cash flows from the use and eventual disposition
+of the asset or asset group. An impairment is recorded for any excess of the carrying amount over the estimated
+fair value, which is generally determined using discounted future cash flows.
+Goodwill —Management evaluates goodwill on an annual basis as of November 30th, or more frequently if indicators
+of impairment exist. The Company assesses qualitative factors to determine whether it is more likely than not that
+the fair value of a reporting unit is less than the carrying amount. If the Company concludes that it is more likely
+than not that the fair value of a reporting unit is less than its carrying amount, the Company conducts a two-step
+quantitative goodwill impairment test. The first step of the quantitative impairment test involves comparing the fair
+values of the applicable reporting units with their carrying values. Management estimates the fair values of its
+reporting units using a combination of the income and market approaches. If the carrying amount of a reporting
+unit exceeds the reporting unit's fair value, then management performs the second step of the quantitative impairment
+test. The second step of the quantitative impairment test involves comparing the implied fair value of the affected
+reporting unit's goodwill with the carrying value of that goodwill. Any amount by which the carrying value of the
+goodwill exceeds its implied fair value is recognized as an impairment loss. Refer to Note 8 for discussion of the
+results of the Company's annual evaluation as of November 30, 2016.
+90

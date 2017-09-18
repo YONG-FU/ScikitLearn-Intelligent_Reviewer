@@ -1,0 +1,55 @@
+Iablre,of,C,ontents
+VMware, Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+For the Year Ended December 31,
+2016 2015 2014
+IOperating activities: — — I
+Net income $ 1,186 $ 997 $ 886
+IAdjustments to reconcile net income to net cash provided by operating activities: I
+Depreciation and amortization 345 335 345
+I Stock-based compensation 636 504 529 I
+Excess tax beneﬁts from stock-based compensation (15) (28) (36)
+I Deferred income taxes, net (8) (31) (128) I
+Gain on Dell stock purchase (8) — —
+I Impairment of strategic investments 14 5 — I
+Loss on disposal of assets 16 — —
+I Other (2) (1 ) (7) I
+Changes in assets and liabilities, net of acquisitions:
+I Accounts receivable (224) (114) (267) I
+Other assets (215) 32 (70)
+I Due to/from related parties, net (54) (21) (46) I
+Accounts payable (9) (35) 69
+I Accrued expenses 187 1 135 I
+Income taxes payable (15) 13 77
+I Unearned revenue 547 242 693 I
+Net cash provided by operating activities 2,381 — 1,899 _ 2,180
+IInvesting activities: — — I
+Additions to property and equipment (153) (333) (352)
+IPurchases of available-for—sale securities (3,725) (3,323) (3,937) I
+Sales of available-for—sale securities 2,227 2,193 2,076
+IMaturities of available-for—sale securities 1,307 1,100 717 I
+Purchases of strategic investments (49) (14) (52)
+IProceeds from sales of strategic investments 1 4 11 I
+Business combinations, net of cash acquired (74) (3 8) (1,168)
+IDecrease (increase) in restricted cash (2) 75 (78) I
+Other investing 3 — (2)
+INet cash used in investing activities (465) — (336) — (2,785) I
+Financing activities: _ _
+IProceeds from issuance of common stock 109 126 164 I
+Proceeds from issuance of notes payable to Dell — — 1,050
+IReduction in capital from Dell — — (24) I
+Proceeds from non-controlling interests — 4 7
+IPayment to acquire non-controlling interests (4) — — I
+Repurchase of common stock (1575) (1,125) (700)
+IExcess tax beneﬁts from stock-based compensation 15 28 36 I
+Shares repurchased for tax withholdings on vesting of restricted stock (164) (174) (162)
+INet cash provided by (used in) ﬁnancing activities (1,619) — (1,141) — 371 I
+Net increase (decrease) in cash and cash equivalents 297 _ 422 _ (234)
+ICash and cash equivalents at beginning of the period 2,493 2,071 2,305 I
+Cash and cash equivalents at end of the period $ 2,790 — $ 2,493 _ $ 2,071
+ISupplemental disclosures of cash ﬂow information: : :—: f: I
+Cash paid for interest $ 29 $ 28 $ 27
+ICash paid for taxes, net 467 231 215 I
+Non-cash items:
+IChanges in capital additions, accrued but not paid 3; (7) $ (49) $ 19 I

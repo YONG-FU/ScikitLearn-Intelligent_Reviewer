@@ -1,0 +1,40 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+what was required under the contracts and failing to perform the services in a professional manner consistent with industry standards. The complaint alleges that
+Oracle violated Oregon’s False Claims Act by making false statements in order to obtain payment of invoices and by presenting invoices for payment that were
+false. The claims for violation of Oregon’s Civil Racketeer Inﬂuenced and Corrupt Organizations Act allege that Oracle violated the statute by making false
+statements in writing about the capabilities of Oracle’s products and the functionality and readiness of the healthcare exchange website, by using those false
+statements to obtain the signatures necessary to secure the contracts, execute documents, and enable payment, and by using the wires to transmit documents
+containing the allegedly false statements. On May 16, 2016, the State of Oregon filed a motion seeking to amend its complaint to add a demand for punitive
+damages against Oracle for the claims alleging fraud and violations of the Oregon Civil Racketeer Inﬂuenced and Corrupt Organizations Act.
+The claims against the individuals allege that one former employee violated Oregon’s False Claims Act by making false statements that fraudulently induced the
+State of Oregon to enter into its contracts with Oracle, and that the other four employees violated the statute by making false statements in order to get invoices
+paid.
+Oracle responded to the original complaint on December 2, 2014, and filed a response to the First Amended Complaint on August 20, 2015. Oracle denied all
+claims and allegations and filed counterclaims against the DCBS for breach of contract, quantum meruz‘t (a claim requesting payment for the value of services
+provided), and breach of the implied covenant of good faith and fair dealing. The court granted the State of Oregon’s motion to dismiss Oracle’s claims for breach
+of contract and the breach of the implied covenant of good faith and fair dealing. On October 26, 2015, Oracle filed its amended response to Plaintiffs’ First
+Amended Complaint and alleged counterclaims against the DCBS for breach of contract, breach of the implied covenant of good faith and fair dealing, breach of
+implied-in—fact contract, quantum merut't , and promissory estoppel (a claim seeking to enforce promises that Oracle relied upon in providing services). The State of
+Oregon filed a motion to dismiss all counterclaims except the causes of action for quantum meruz’t and promissory estoppel, and on February 5, 2016 the court
+granted that motion and dismissed with prejudice Oracle’s claims for breach of contract, breach of the implied covenant of good faith and fair dealing and breach of
+implied-in-fact contract. Oracle seeks monetary damages to compensate it for the value of unpaid services and its attorneys’ fees and costs. Trial is set to begin on
+January 10, 2017. We cannot currently estimate a reasonably possible range of loss for this action. We believe that we have meritorious defenses against this action,
+and we will continue to vigorously defend it.
+On August 8, 2014, Oracle filed a lawsuit in the US. District Court, for the District of Oregon in Portland against Cover Oregon. The complaint alleged claims for
+breach of contract and quantum merut’t and sought monetary damages to compensate Oracle for the value of unpaid services. On September 8, 2014, Oracle filed a
+First Amended Complaint adding two State of Oregon agencies as defendants and adding causes of action for copyright infringement and breach of the implied
+covenant of good faith and fair dealing. On January 27, 2015, Oracle filed a Second Amended Complaint. Cover Oregon, now the DCBS, is a defendant as to all
+causes of action; the other state agencies are defendants to the cause of action for copyright infringement. In addition to monetary damages, Oracle seeks an
+injunction prohibiting infringement of its copyrights. All defendants moved for judgment in their favor, claiming that the state entities have sovereign immunity
+(that is, they cannot be sued in federal court). On November 18, 2015, the court ruled on the motions, holding that two state agencies (Oregon Health Authority and
+Oregon Department of Human Services) do not have sovereign immunity, but that the DCBS does have sovereign immunity. On December 9 and 17, 2015, Oracle
+and the Oregon parties each filed notices of appeal from that decision. The Ninth Circuit Court of Appeals has coordinated the two matters, and briefing will begin
+in late April 2016.
+On November 12, 2015, Oracle filed a lawsuit in the Circuit Court of the State of Oregon for the County of Marion against Oregon’s Governor, Kate Brown, in her
+official capacity. Oracle filed a First Amended Complaint on January 15, 2016. In this lawsuit, Oracle alleges violations of Oregon’s Public Records Law and seeks
+a court order declaring that Governor Brown has violated Oregon’s Public Records Law and compelling compliance with that law. The Governor has moved to
+dismiss the complaint.
+134

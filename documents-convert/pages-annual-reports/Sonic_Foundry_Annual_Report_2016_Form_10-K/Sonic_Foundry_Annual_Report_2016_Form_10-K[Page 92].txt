@@ -1,0 +1,42 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+While the pricing model, currently in use, captures all critical variables, unforeseen changes due to external market forces may
+result in a revision of the inputs. These modifications may result in the consideration allocation differing from the one presently
+in use. Absent a signiﬁcant change in the pricing inputs or the way in which the industry structures its transactions, future changes
+in the pricing model are not expected to materially affect our allocation of arrangement consideration.
+Management has established VSOE for hosting services. Billings for hosting are spread ratably over the term of the hosting
+agreement, with the typical hosting agreement having a term of 1 year, with renewal on an annual basis. The Company sells most
+hosting contracts without the inclusion of products. When the hosting arrangement is sold in conjunction with product, the product
+revenue is recognized immediately while the remaining hosting revenue is spread ratably over the term of the hosting agreement.
+The selling price is allocated between these elements using the relative selling price method. The Company uses ESP for
+development of the selling price for hardware products with embedded software.
+The Company also offers hosting services bundled with events services. The Company uses VSOE to establish relative selling
+prices for its events services. The Company recognizes events revenue when the event takes place and recognizes the hosting
+revenue over the term of the hosting agreement. The total amount of the arrangement is allocated to each element based on the
+relative selling price method.
+Reserves
+The Company reserves for stock rotations, price adjustments, rebates, and sales incentives to reduce revenue and accounts
+receivable for these and other credits granted to customers. Such reserves are recorded at the time of sale and are calculated based
+on historical information (such as rates of product stock rotations) and the speciﬁc terms of sales programs, taking into account
+any other known information about likely customer behavior. If actual customer behavior differs from our expectations, it may
+compromise our ability to recognize revenue to these distributors at the time of shipment. Also, if the Company determines that
+it can no longer accurately estimate amounts for stock rotations and sales incentives, the Company would not be able to recognize
+revenue until resellers sell the inventory to the ﬁnal end user.
+Shipping and Handling
+The Company’s shipping and handling costs billed to customers are included in other revenue. Costs related to shipping and
+handling are included in cost of revenue and are recorded at the time of shipment to the customer.
+Concentration of Credit Risk and Other Risks and Uncertainties
+As of September 30, 2016, of the $1.8 million in cash and cash equivalents, $185 thousand is deposited with 2 major US. financial
+institutions. At times, deposits in these institutions exceed the amount of insurance provided on such deposits. The Company has
+not experienced any losses on such amounts and believes that it is not exposed to any significant credit risk on these balances.
+The remaining $1.6 million of cash and cash equivalents is held by our foreign subsidiaries in financial institutions in Japan and
+the Netherlands and held in their local currency. The cash held in foreign financial institutions is not guaranteed.
+We assess the realization of our receivables by performing ongoing credit evaluations of our customers’ financial condition.
+Through these evaluations, we may become aware of a situation where a customer may not be able to meet its financial obligations
+due to deterioration of its financial viability, credit ratings or bankruptcy. Our reserve requirements are based on the best facts
+available to us and are reevaluated and adjusted as additional information is received. Our reserves are also based on amounts
+determined by using percentages applied to certain aged receivable categories. These percentages are determined by a variety of
+factors including, but not limited to, current economic trends, historical payment and bad debt write-off experience. Allowance
+for doubtful accounts for accounts receivable was $225,000 at September 30, 2016 and $150,000 at September 30, 2015.
+52

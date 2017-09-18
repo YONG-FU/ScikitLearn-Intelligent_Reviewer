@@ -1,0 +1,36 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+0 ASU 2016-O6, Derivatives and Hedging (Topic 815): Contingent Put and Call Options in Debt Instruments;
+0 ASU 2016-05, Derivatives and Hedging (Topic 815): Eﬁ’ect of Derivative Contract Novations on Existing Hedge Accounting Relationships;
+0 ASU 2015-16, Business Combinations (Topic 805): Simpliﬁ/ing the Accounting for Measurement-Period Adjustments ;
+° ASU 2015-15, Interest—Imputation of Interest (Subtopic 83 5 -3 0) : Presentation and Subsequent Measurement of Debt Issuance Costs Associated with
+Line-of-Credit Arrangements—Amendments to SEC Paragraphs Pursuant to Staﬂ Announcement at June 18, 2015 E1 T F Meeting ;
+° ASU 2015-11, Inventory (Topic 330): Simpliﬁ/ing the Measurement of Inventory ; and
+0 ASU 2015-05, Intangibles—Goodwill and Other—Internal- Use Software (Subtopic 350-40): Customer ’s Accounting for Fees Paid in a Cloud
+Computing Arrangement .
+Use of Estimates
+Our consolidated ﬁnancial statements are prepared in accordance with US. generally accepted accounting principles (GAAP) as set forth in the Financial
+Accounting Standards Board’s (FASB) Accounting Standards Codification (ASC), and we consider the various staff accounting bulletins and other applicable
+guidance issued by the US. Securities and Exchange Commission. These accounting principles require us to make certain estimates, judgments and assumptions.
+We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these
+estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date
+of the ﬁnancial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between
+these estimates, judgments or assumptions and actual results, our consolidated ﬁnancial statements will be affected. In many cases, the accounting treatment of a
+particular transaction is speciﬁcally dictated by GAAP and does not require management’s judgment in its application. There are also areas in which management’s
+judgment in selecting among available alternatives would not produce a materially different result.
+Revenue Recognition
+Our sources of revenues include:
+- cloud and on-premise software revenues, which include the sale of: new software licenses, which generally grant to customers a perpetual right to use our
+database, middleware, applications and industry-speciﬁc software products; cloud SaaS and PaaS offerings, which grant customers access to a broad
+range of our software and related support offerings on a subscription basis in a secure, standards-based cloud computing environment; cloud IaaS
+offerings, which grant customers access to infrastructure cloud services to perform elastic compute, storage and networking services, and also provide
+management services for software and hardware and related IT infrastructure, both generally on a subscription basis; and software license updates and
+product support offerings (described further below);
+- hardware revenues, which include the sale of hardware products including Oracle Engineered Systems, computer servers, storage products, networking
+and data center fabric products, and industry-specific hardware; and hardware support revenues (described further below); and
+° services revenues, which are earned from providing software and hardware related services including consulting, advanced customer support and
+education services.
+Revenues generally are recognized net of any taxes collected from customers and subsequently remitted to governmental authorities.
+92

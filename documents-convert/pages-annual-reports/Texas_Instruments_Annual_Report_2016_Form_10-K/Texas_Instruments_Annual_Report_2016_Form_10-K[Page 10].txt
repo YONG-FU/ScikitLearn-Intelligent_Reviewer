@@ -1,0 +1,45 @@
+We own and operate semiconductor manufacturing facilities in North America, Asia, Japan and Europe. These include both wafer
+fabrication and assembly/test facilities. Our facilities require substantial investment to construct and are largely fixed-cost assets
+once in operation. We own much of our manufacturing capacity; therefore, a significant portion of our operating cost is fixed and
+changes in factory loadings can cause short-term variations in profit margins. When factory loadings decrease, our fixed costs
+are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings
+increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. Our
+operating focus is more on maximizing long-term free cash flow than minimizing short-term variations in profit margins caused
+by factory loadings. To this end, we seek to maximize long-term free cash flow by keeping capital expenditures low through
+opportunistic purchases of facilities and equipment ahead of demand.
+'3 We expect to maintain sufficient internal manufacturing capacity to meet the vast majority of our production needs. To supplement
+g our manufacturing capacity and maximize our responsiveness to customer demand and return on capital, we utilize the capacity of
+_, outside suppliers, commonly known as foundries, and subcontractors. In 2016, we sourced about 20 percent of our total wafers
+9 from external foundries and about 40 percent of our assembly/test services from subcontractors.
+x
+Customers
+We estimate that we sell our products to about 100,000 customers. Our customer base is diverse, with more than one-third of our
+revenue deriving from customers outside our largest 100.
+Sales and distribution
+We market and sell our semiconductor products through direct sales and distributors, and online. We have sales or marketing
+offices in more than 30 countries and we continue to expand our online presence. About 60 percent of our sales are fulfilled
+through distribution channels. Our distributors maintain an inventory of our products and sell directly to a wide range of customers.
+They also sell products from our competitors.
+Inventory
+Our inventory practices differ by product, but we generally maintain inventory levels that are consistent with our expectations
+of customer demand. We carry proportionally more inventory of products with long life cycles and a broad customer base.
+Additionally, we sometimes maintain product inventory in unfinished wafer form, as well as higher finished-goods inventory of
+low-volume products, allowing greater flexibility in periods of high demand.
+About 60 percent of TI revenue is fulfilled from consignment inventory programs that we have in place for our large customers
+and distributors. With these programs, we own inventory that is stored at our customers’ and distributors’ locations, and we
+recognize revenue when the product is pulled from consigned inventory. These consignment programs give us improved insight
+into demand, allowing us to better manage our factory loadings. About 65 percent of our distributor revenue is generated from
+sales of consigned inventory.
+Backlog
+We define backlog as of a particular date as purchase orders with a customer-requested delivery date within a specified length
+of time. Our backlog at any particular date may not be indicative of revenue for any future period. As customer requirements and
+industry conditions change, orders may be subject to cancellation or modification of terms such as pricing, quantity or delivery
+date. Customer order placement practices continually evolve based on customers’ individual business needs and capabilities, as
+well as industry supply and capacity considerations. Further, our consignment programs do not result in backlog because the order
+occurs at the same time as delivery, i.e., when the customer pulls the product from consigned inventory. Our backlog of orders
+was $1.09 billion at December 31, 2016, and $0.95 billion at December 31, 2015.
+Acquisitions, divestitures and investments
+From time to time we consider acquisitions and divestitures that may strengthen our strategic position. We also make investments
+directly or indirectly in private companies. Investments are focused primarily on next-generation technologies and markets
+strategic to us.
+6 TEXAS INSTRUMENTS - 2016 FORM 10-K

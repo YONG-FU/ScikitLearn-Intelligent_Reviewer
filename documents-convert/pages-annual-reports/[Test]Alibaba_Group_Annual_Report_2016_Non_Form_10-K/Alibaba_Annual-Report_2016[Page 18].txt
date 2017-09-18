@@ -1,0 +1,46 @@
+° dissatisfaction with Alipay’s services or lower use of Alipay by consumers and merchants;
+° changes to rules or practices applicable to payment card systems that link to Alipay;
+° breach of customers’ personal information and concerns over the use and security of any collected
+information;
+° service outages, system failures or failure to effectively scale the system to handle large and growing
+transaction volumes; and
+0 failure to manage funds accurately or loss of funds, whether due to employee fraud, security breaches,
+technical errors or otherwise.
+In addition, certain commercial banks in China impose limits on the amounts that may be transferred by
+automatic payment from customers’ bank accounts to their linked accounts with third-party payment services.
+Although we believe the impact of these restrictions has not been and will not be significant in terms of the overall
+volume of payments processed for our China retail marketplaces, and automatic payment services linked to bank
+accounts represent only one of many payment mechanisms that consumers may use to settle transactions, we
+cannot predict whether these and any additional restrictions that could be put in place would have a material
+adverse effect on our marketplaces.
+In addition, Alipay’s business is highly regulated. Alipay is required to comply with numerous complex and
+evolving laws, rules and regulations and faces the risk of failure to manage its regulatory risks. In particular,
+regulators and third parties in China have been increasing their focus on online and mobile payment services, and
+recent regulatory and other developments could reduce the convenience or utility of Alipay users’ accounts. See
+“— We and Ant Financial Services are subject to a broad range of laws and regulations, and future laws and
+regulations may impose additional requirements and other obligations on our business or otherwise that could
+materially and adversely affect our business, financial condition and results of operations,” and “Item 4.
+Information on the Company — B. Business Overview — Regulation — Regulation Applicable to Alipay.”
+If we needed to migrate to another third-party payment service, the transition would require significant time
+and management resources, and the third-party payment service may not be as effective, efficient or well-received
+by consumers and merchants on our marketplaces. These third-party payment services also may not provide escrow
+services, and we may not be able to receive commissions based on GMV transacted through these systems. We
+would also no longer have the benefit of the commercial agreement with Ant Financial Services and Alipay and
+would likely be required to pay more for payment processing and escrow services than we currently pay. There can
+be no assurance that we would be able to reach an agreement with an alternative online payments service on
+acceptable terms or at all.
+We do not control Alipay or its parent entity, Ant Financial Services, over which Jack Ma effectively controls a majority of
+the voting interests. If conﬂicts that could arise between us and Alipay or Ant Financial Services are not resolved in our
+favor; they could have a negative effect on our ecosystem and materially and adversely aﬁect our business, ﬁnancial
+condition, results of operations and prospects.
+Although we rely on Alipay to conduct substantially all of the payment processing and all of the escrow
+services on our marketplaces, we do not have any control over Alipay. Alipay provides payment services to us on
+preferential terms pursuant to our long-term commercial agreement with Ant Financial Services and Alipay.
+Following the divestment and subsequent equity holding restructuring related to Ant Financial Services, an entity
+controlled by Jack Ma, our executive chairman, became the general partner of Hangzhou Junhan Equity
+Investment Partnership, or Junhan, a PRC limited partnership, and Junao Equity Investment Partnership, or Junao,
+a PRC limited partnership, which are two major equity holders of Alipay’s parent, Ant Financial Services.
+Accordingly, Jack has an economic interest in Ant Financial Services and is able to exercise the voting power of
+the major shareholders of Ant Financial Services. We understand that through the exercise of this voting power,
+Jack continues to control a substantial majority of the voting interests in Ant Financial Services.
+13

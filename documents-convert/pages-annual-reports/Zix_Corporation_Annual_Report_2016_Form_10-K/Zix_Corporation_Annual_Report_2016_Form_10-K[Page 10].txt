@@ -1,0 +1,44 @@
+offerings, systems and infrastructure may require us to commit substantial ﬁnancial, operational and technical resources, with no assurance that the volume of
+our business will increase, which could reduce our net income, deplete our cash, and materially adversely affect our business, ﬁnancial condition and
+ﬁnancial results. Developing and launching new product offerings adjacent to or outside of our core encrypted email offerings can be particularly costly in
+terms of capital investments for both product development and marketing. At the same time, these new offerings involve greater uncertainty concerning both
+market acceptance and our ability to successfully execute a sales and marketing strategy that justiﬁes our investments. Our failure to properly manage and
+execute new product initiatives could materially adversely affect our business, ﬁnancial condition and ﬁnancial results.
+Our failure to keep pace with rapid technology changes could have a negative impact on our business, ﬁnancial condition and ﬁnancial results.
+The markets for our products and services are characterized by rapid technological developments and frequent changes in customer requirements. We
+must continually improve the performance, features and reliability of our products and services, particularly in response to competitive offerings, to keep
+pace with these developments. We must ensure that our products and services address evolving operating environments, devices, industry trends,
+certiﬁcations and standards. For example, we have been required to expand our offerings for virtual computer environments and mobile environments to
+support a broader range of mobile devices. We also may need to develop products that are compatible with new operating systems while remaining
+compatible with existing, popular operating systems. Our business could be harmed by our competitors announcing or introducing new products and services
+that could be perceived by customers as superior to ours. We spend considerable resources on technology research and development, but our research and
+development resources are more limited than many of our competitors. Our failure to introduce new or enhanced products on a timely basis, to keep pace with
+rapid industry, technological or market changes or to gain customer acceptance for our new and existing products and services, such as mobile device data
+protection, could have a material adverse effect on our business, ﬁnancial condition and ﬁnancial results.
+We face strong competition, which could negatively affect our business, ﬁnancial condition and ﬁnancial results.
+The markets in which we compete are characterized by rapid change and converging technologies and are very competitive. With rising demand for
+private and secure email communications, there is strong competition for email encryption products and services. Our Email Encryption and data loss
+prevention business competes with products and services offered by companies such as Microsoft, Barracuda Networks, Inc., Proofpoint, Virtru, HP (Voltage),
+and Sophos Inc. Our ZixOne business completes with products and services offered by companies such as AirWatch/VMWare, Citrix (with XenMobile),
+Blackberry, IBM/Fiberlink (with MaaS3 60), Microsoft (with ActiveSync), and MobileIron. Strong competition requires us to develop new technology
+solutions and service offerings to expand the functionality and value that we offer to our customers. Many of our competitors bundle their competing
+products and services with products and services that we do not offer, which could make our offerings less attractive by comparison. As a result of the
+bundling by these competitors, it can be difﬁcult for our customers to compare the cost of our offerings with competing offerings. In some instances,
+competing products and services may seem to be offered by our competitors at little to no additional cost to the customer. In addition, our competitors may
+develop products and services that are perceived by customers as equivalent to, or having advantages over, our products and services. Competitors could
+capture a signiﬁcant share in our markets, causing our sales and revenue to decline or grow more slowly. Barriers to entry are relatively low, and new ventures
+are often formed that create products competitive with our products. Competitive pressures could lead to price discounting or to increases in expenses such as
+advertising and marketing costs. Increased competition could also decrease demand for our products and services. Competition could reduce our revenues
+and net income and materially adversely affect our business, ﬁnancial condition and ﬁnancial results.
+Industry consolidation may lead to increased competition and may harm our operating results.
+There has been a trend toward industry consolidation in our industry for several years. We expect this trend to continue as companies attempt to
+strengthen or hold their market positions in an evolving industry and as companies are acquired or are unable to continue operations. For example, some of
+our current and potential competitors have made acquisitions, or announced new strategic alliances. Companies that are strategic alliance partners in some
+areas of our business may acquire or form alliances with our competitors, thereby reducing their business with us. We believe that industry consolidation may
+result in stronger competitors that are better able to compete as sole-source vendors for customers. This could have a material adverse effect on our business,
+ﬁnancial condition and ﬁnancial results.
+Some competitors have advantages that may allow them to compete more effectively than us, which could negatively affect our business, ﬁnancial
+condition and ﬁnancial results.
+Some of our competitors have longer operating histories, more extensive operations, greater name recognition, larger technical staffs, bigger product
+development and acquisition budgets, established relationships with more distributors and hardware vendors,
+10

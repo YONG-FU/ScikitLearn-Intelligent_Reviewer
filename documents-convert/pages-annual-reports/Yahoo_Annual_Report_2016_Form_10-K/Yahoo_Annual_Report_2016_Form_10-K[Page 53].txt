@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+Total revenue and TAG noted above included declines of $77 million and $40 million, respectively, for the year ended December 31, 2016 as compared to the
+same period of 2015, associated with the agreement we entered into with Mozilla Corporation (“Mozilla”) in November 2014 to compensate Mozilla for making us
+the default search provider on certain of Mozilla’s products in the United States. The decline in total revenue was due to a decline in Firefox browser search
+volume, while the decline in TAC was associated with an amendment to the Mozilla Agreement in the third quarter of 2016.
+For the year ended December 31, 2015, revenue and TAG increased $350 million and $660 million, respectively, or 8 percent and 303 percent, compared to
+2014. For the year ended December 31 , 2015, revenue ex-TAC (a non—GAAP ﬁnancial measure) decreased $310 million, or 7 percent, compared to 2014. The
+increase in revenue for the year ended December 31, 2015 was primarily attributable to an increase in search and display revenue resulting from an increase in
+revenue from distribution partners, including Mozilla, revenue from mobile devices and incremental revenue from the BrightRoll acquisition, a programmatic
+video advertising platform that we acquired in December 2014. This growth was partially offset by declines in our legacy desktop display business, search
+revenue driven by a decline in Yahoo search trafﬁc, and a decline in other revenue associated with Alibaba Group royalty revenue pursuant to the TIPLA, for
+which we ceased recognizing fees revenue in September 2014 due to our sale of American Depositary Shares (“ADSs”) of Alibaba Group in the Alibaba Group’s
+initial public offering (the “Alibaba Group IPO”). The increase in TAC for the year ended December 31, 2015, which exceeded the revenue increases for the
+same period resulting in a decline in revenue ex-TAC, was primarily driven by higher payments to distribution partners, including Mozilla, TAC increase
+associated with Yahoo Gemini, and incremental TAC related to the BrightRoll acquisition. Yahoo Gemini is our uniﬁed marketplace for search and native
+advertising on Yahoo Properties and Afﬁliate sites. Gemini ads appear on search results pages in response to queries and also as native ads alongside display
+content. Advertisers place ads on the Gemini platform through our simple self-serve interface, as well as through Yahoo’s traditional sales force; we do not
+source Gemini ads from Microsoft or other third-party providers. Because we are the primary obligor to Gemini advertisers, we recognize Gemini revenue gross
+of the related TAC paid to Afﬁliates.
+Of the $350 million increase in revenue and $660 million increase in TAC for the year ended December 31, 2015, $394 million and $375 million were attributable
+to the agreement we entered into in November 2014 to compensate Mozilla for making us the default search provider on certain of Mozilla’s products in the
+United States.
+See “Results of Operations” for a more detailed discussion of the factors that contributed to the changes in revenue and TAC during this period.
+Mavens Revenue
+One of our primary strategies is to invest in and grow our Mavens offerings. Revenue from our Mavens offerings is generated from, without duplication, (i) mobile
+(as deﬁned below), (ii) video ads and video ad packages, (iii) native ads, and (iv) Tumblr and Polyvore ads and fees.
+Mavens revenue for the year ended December 31, 2016 increased to $2,010 million, compared to $1,660 million for the year ended December 31, 2015. The
+change in revenue presentation associated with the Eleventh Amendment to the Microsoft Search Agreement contributed $386 million to Mavens revenue in the
+year ended December 31, 2016. Excluding the impact of the revenue presentation noted above, Mavens revenue would have been $1,624 million for the year
+ended December 31, 2016, a decline of $36 million, or 2 percent, compared to the same period of 2015. The decline in Mavens revenue for the year ended
+December 31, 2016 was primarily attributable to a decline in video advertising on Afﬁliate sites associated with pricing and demand, partially offset by an
+increase in mobile advertising and, to a lesser extent, social advertising.
+52

@@ -1,0 +1,52 @@
+Statutory Combined Ratio. The statutory combined ratio (expressed as a percentage) is calculated in the same manner as
+the GAAP combined ratio, but is based on results determined pursuant to statutory accounting rules and regulations. The
+statutory “trade combined ratio” differs from the statutory combined ratio in that the acquisition expense ratio is based on net
+premiums written rather than net premiums earned. Management uses the statutory trade combined ratio as a measure for
+comparison of the Company’s profitability relative to the proﬁtability of its competitors, all of whom must file statutory-basis
+ﬁnancial statements with insurance regulatory authorities.
+Catastrophe and storm losses. For the property and casualty insurance segment, catastrophe and storm losses include
+losses attributed to events that have occurred in the United States which have been assigned an occurrence number by the
+Property & Liability Resource Bureau (PLRB) Catastrophe Services. According to PLRB, an occurrence number is assigned
+when an event has produced conditions severe enough to have caused, or to be likely to have caused, property damage. For the
+reinsurance segment, catastrophe and storm losses include losses that have occurred in the United States, Puerto Rico and the
+US. Virgin Islands which have been designated as catastrophes by Property Claims Services (PCS), as well as non-U.S.
+catastrophe and storm losses reported by the ceding companies. According to PCS, catastrophe serial numbers are assigned to
+events that cause $25.0 million or more in direct insured losses to property, and affect a significant number of policyholders and
+insurers.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The preparation of the Company's financial statements in conformity with GAAP requires management to adopt
+accounting policies and make estimates and assumptions that aﬁect amounts reported in the consolidated financial statements
+and related disclosures. The Company's significant accounting policies are described in note 1, Summary of Significant
+Accounting Policies, of Notes to Consolidated Financial Statements under Part II, Item 8 of this Form lO-K. The following
+estimates and assumptions are considered by management to be critically important in the preparation and understanding of the
+Company's financial statements and related disclosures. The estimates and assumptions utilized are complex and require
+subjective judgment.
+Loss and settlement expense reserves
+Processes and assumptions for establishing loss and settlement expense reserves
+In the property and casualty insurance segment, the methodology used to establish direct loss and allocated settlement
+expense reserves changed in 2016. Beginning in September, estimated ultimate loss and allocated settlement expense amounts
+for most claims are established by accident year and line of business using standard actuarial techniques. At each reporting
+date, the amounts to be carried for IBNR loss reserves and allocated settlement expense reserves are determined by subtracting
+the amounts incurred to date (paid amounts plus case loss reserves carried for reported claims) from the estimated ultimate
+amounts. Under this methodology, changes in the incurred amounts will result in corresponding adjustments to the reserve
+amounts. Prior to September 2016, case loss reserves (including bulk case loss reserves), IBNR loss reserves and settlement
+expense reserves were all established independently of each other, and the amounts were added together to determine the total
+liability for losses and settlement expenses. Under that methodology, adjustments to any of the reserve components did not
+result in corresponding adjustments to the other reserve components. The implementation of the new reserving methodology
+did not have a material impact on total carried reserves for the property and casualty insurance segment; however, there was
+some movement of allocated settlement expense reserves to IBNR loss reserves, and a reallocation of loss and allocated
+settlement expense reserves by accident year. In connection with this reallocation of reserves by accident year, approximately
+$5.6 million of IBNR loss and allocated settlement expense reserves were moved from prior accident years to the current
+accident year in multiple lines of business. This reduction in prior accident years' reserves is reported as favorable
+development; however, this development is "mechanical in nature", and did not have any impact on earnings because the total
+amount of carried reserves did not change.
+In the reinsurance segment, Employers Mutual records the case and IBNR loss reserves reported by the ceding
+companies for the Home Office Reinsurance Assumed Department (“HORAD”) book of business. Since many ceding
+companies in the HORAD book of business do not report IBNR loss reserves, Employers Mutual establishes a bulk IBNR loss
+reserve, which is based on an actuarial reserve analysis, to cover a lag in reporting. For MRB, Employers Mutual records the
+case and IBNR loss reserves reported to it by the management of the association, along with a relatively small IBNR loss
+reserve to cover a one-month reporting lag. The booking of the lag IBNR loss reserve may be suspended, and negative bulk
+IBNR loss reserves may be established, during periods when the actuarial reviews indicate MRB's carried reserves are more
+than adequate to cover its liabilities. To verify the adequacy of the reported reserves, an actuarial evaluation of MRB’s reserves
+is performed at each year-end.
+60

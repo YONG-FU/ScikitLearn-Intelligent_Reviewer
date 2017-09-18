@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Lease commitments included future minimum rent payments for facilities that we have vacated pursuant to our restructuring and merger integration activities, as
+discussed in Note 9. We have approximately $54 million in facility obligations, net of estimated sublease income and other costs, in accrued restructuring for these
+locations in our consolidated balance sheet at May 31, 2016.
+Rent expense was $283 million, $290 million and $278 million for ﬁscal 2016, 2015 and 2014, respectively, net of sublease income of approximately $45 million
+for each of ﬁscal 2016 and 2015, and $55 million for fiscal 2014. Certain lease agreements contain renewal options providing for extensions of the lease terms.
+Unconditional Obligations
+In the ordinary course of business, we enter into certain unconditional purchase obligations with our suppliers, which are agreements that are enforceable and
+legally binding and specify terms, including: ﬁxed or minimum quantities to be purchased; ﬁxed, minimum or variable price provisions; and the approximate
+timing of the payment. We utilize several external manufacturers to manufacture sub-assemblies for our hardware products and to perform final assembly and
+testing of finished hardware products. We also obtain individual components for our hardware products from a variety of individual suppliers based on projected
+demand information. Such purchase commitments are based on our forecasted component and manufacturing requirements and typically provide for fulﬁllment
+within agreed upon lead-times and/or commercially standard lead-times for the particular part or product and have been included in the amounts below. Routine
+arrangements for other materials and goods that are not related to our external manufacturers and certain other suppliers and that are entered into in the ordinary
+course of business are not included in the amounts below, as they are generally entered into in order to secure pricing or other negotiated terms and are difficult to
+quantify in a meaningful way.
+As of May 31, 2016, our unconditional purchase and certain other obligations were as follows (in millions):
+Fiscal 2017 $ 574 l
+Fiscal 2018 153
+Fiscal2019 91 ‘
+Fiscal 2020 68
+Fiscal 2021 8j
+Total 894
+As described in Note 8 and Note 11 above, as of May 31, 2016 we have senior notes and other borrowings of $43.9 billion that mature at various future dates and
+derivative ﬁnancial instruments outstanding that we leverage to manage certain risks and exposures.
+Guarantees
+Our software, cloud and hardware product sales agreements generally include certain provisions for indemnifying customers against liabilities if our products
+infringe a third party’s intellectual property rights. To date, we have not incurred any material costs as a result of such indemniﬁcations and have not accrued any
+material liabilities related to such obligations in our consolidated ﬁnancial statements. Certain of our product sales agreements also include provisions indemnifying
+customers against liabilities in the event we breach confidentiality or service level requirements. It is not possible to determine the maximum potential amount
+under these indemnification agreements due to our limited and infrequent history of prior indemniﬁcation claims and the unique facts and circumstances involved
+in each particular agreement.
+Our software license and hardware products agreements also generally include a warranty that our products will substantially operate as described in the applicable
+program documentation for a period of one year after delivery. Our SaaS, PaaS and IaaS agreements generally include a warranty that the cloud services will be
+1 1 9

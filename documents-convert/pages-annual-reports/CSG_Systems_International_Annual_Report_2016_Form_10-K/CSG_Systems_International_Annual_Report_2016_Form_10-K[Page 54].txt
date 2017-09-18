@@ -1,0 +1,42 @@
+Earnings Per Common Share (“EPS”). Basic and diluted EPS amounts are presented on the face of our Income Statements.
+No reconciliation of the basic and diluted EPS numerators is necessary as net income is used as the numerators for all periods presented. The reconciliation of the basic
+and diluted EPS denominators related to the common shares is included in the following table (in thousands):
+2016 2015 2014
+Basic weighted-average common shares 30,968 31,051 32,449 1
+Dilutive effect of restricted common stock 603 624 569
+l Dilutive effect of 2010 Convertible Notes 1,062 1,633 717 l
+Dilutive effect of Stock Warrants 381 130 1
+Diluted weighted-average common shares : 33,014: : 33,43 8: : 33,736]
+In 2016, we repurchased 0.3 million shares of our common stock under our stock repurchase program.
+The Convertible Notes have a dilutive effect only in those quarterly periods in which our average stock price exceeds the current effective conversion price (see Note 5).
+The Stock Warrants have a dilutive effect only in those quarterly periods in which our average stock price exceeds the exercise price of $26.68 per warrant (under the
+treasury stock method), and are not subject to performance vesting conditions (see Note 10).
+Potentially dilutive common shares related to unvested restricted stock and Stock Warrants excluded from the computation of diluted EPS, as the effect was antidilutive,
+were not material in any period presented.
+Stock-Based Compensation . Stock-based compensation represents the cost related to stock-based awards granted to employees and non-employee directors. We measure
+stock-based compensation cost at the grant date of the award, based on the estimated fair value of the award and recognize the cost (net of estimated forfeitures) over the
+requisite service period. Benefits of tax deductions in excess of recognized compensation expense, if any, are reported as a financing cash inﬂow rather than as an
+operating cash inﬂow.
+Income Taxes. We account for income taxes using the asset and liability method. Under this method, income tax expense is recognized for the amount of taxes payable or
+refundable for the current year. In addition, deferred tax assets and liabilities are recognized for expected future tax consequences of temporary differences between the
+financial reporting and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a
+change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date.
+Accounting Pronouncements Adopted. In April 2015, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2015-O3,
+Interest-Imputation of Interest (Subtopic 835-30). This ASU requires that debt issuance costs related to a recognized debt liability be presented in the balance sheet as a
+reduction from the carrying amount of that debt liability, consistent with debt discounts. This ASU is effective in fiscal years beginning after December 15, 2015 and
+must be applied retrospectively. We adopted this ASU retrospectively on January 1, 2016, which resulted in the reclassification of $5.4 million of debt issuance costs
+from other assets to long-term debt on our December 31, 2015 Balance Sheet.
+In November 2015, the FASB issued ASU 2015-17, Income Taxes (Topic 740), requiring that all deferred tax liabilities and assets be classified as noncurrent. Prior
+guidance required us to record deferred tax balances as either current or non-current in accordance with the classification of the underlying attributes. This ASU is
+effective in fiscal years beginning after December 15, 2016, with early adoption permitted and may be applied either prospectively to all deferred tax liabilities and assets
+or retrospectively to all periods presented. We adopted this ASU retrospectively on January 1, 2016, which resulted in a decrease of $18.1 million in current deferred
+income tax assets, an increase in non-current deferred income tax assets of $9.1 million and a decrease in non-current deferred income tax liabilities of $9.0 million on
+our December 31, 2015 Balance Sheet.
+Accounting Pronouncement Issued But Not Yet Eﬁ’ective. The FASB has issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606). In August 2015, the
+FASB issued ASU 2015-14 Revenue from Contracts with Customers (Topic 606): Deferral of the Eﬁ’ective Date which deferred the effective date of ASU 2014-09 for
+one year. In December 2016, the FASB issued ASU 2016-20 Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers.
+Collectively, this ASU is a single comprehensive model which supersedes nearly all existing revenue recognition guidance under US. GAAP. Under the new guidance,
+revenue is recognized when promised goods or services are transferred to customers in an amount that reﬂects the consideration that is expected to be received for those
+goods or services. The ASU also requires additional disclosure about the nature, amount, timing, and uncertainty of revenue and cash ﬂows arising from customer
+contracts, including significant judgments and changes in judgments and assets recognized from costs incurred to obtain or fulfill a contract. The accounting guidance is
+53

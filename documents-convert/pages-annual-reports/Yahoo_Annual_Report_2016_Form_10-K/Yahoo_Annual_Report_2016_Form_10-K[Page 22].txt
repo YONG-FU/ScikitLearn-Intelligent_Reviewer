@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+Our business depends on a strong brand, and failing to maintain or enhance the Yahoo brands in a cost-effective manner could harm our operating
+results.
+Maintaining and enhancing our brands is an important aspect of our efforts to attract and expand our user, advertiser, and Afﬁliate base. We believe that the
+importance of brand recognition will increase due to the relatively low barriers to entry in certain portions of the Internet market. Maintaining and enhancing our
+brands will depend largely on our ability to provide high—quality, innovative products, and services, which we might not do successfully. We have spent and
+expect to spend considerable money and resources on the establishment and maintenance of our brands, as well as advertising, marketing, and other brand-
+building efforts to preserve and enhance consumer awareness of our brands. Our brands may be negatively impacted by a number of factors such as service
+outages, product malfunctions, data protection and security issues, exploitation of our trademarks by others without permission, and poor presentation or
+integration of our search marketing offerings by Afﬁliates on their sites or in their software and services.
+Further, while we attempt to ensure that the quality of our brands is maintained by our licensees, our licensees might take actions that could impair the value of
+our brands, our proprietary rights, or the reputation of our products and media properties. If we are unable to maintain or enhance our brands in a cost-effective
+manner, or if we incur excessive expenses in these efforts, our business, operating results and ﬁnancial condition could be harmed.
+If we are unable to attract, sustain, and renew distribution arrangements on favorable terms, our revenue may decline.
+We enter into distribution arrangements with third parties to promote or supply our services to their users. For example:
+- We maintain search and display advertising relationships with Afﬁliate sites, which integrate our advertising offerings into their websites.
+- We enter into distribution alliances with Internet service providers (including providers of cable and broadband Internet access) and software distributors to
+promote our services to their users.
+- We enter into agreements with mobile phone, tablet, television, and other device manufacturers, electronics companies and carriers to promote our software
+and services on their devices.
+In some markets, we depend on a limited number of distribution arrangements for a signiﬁcant percentage of our user, publisher, and advertiser activity. A failure
+by our distributors to attract or retain their user bases would negatively impact our user activity and, in turn, reduce our revenue. For mobile app distribution, we
+depend on a limited number of distributors, primarily the developers of the operating systems or device manufacturers. If we are unable to reach agreements
+with these distributors for distribution of our mobile apps or they refuse to distribute or block our mobile apps, our operating results will be harmed. In the future,
+as new methods for accessing the Internet and our services become available, including through alternative devices, we may need to enter into amended
+distribution agreements with existing access providers, distributors, and manufacturers to cover the new devices and new arrangements. We face a risk that
+existing and potential new access providers, distributors, and manufacturers may decide not to offer distribution of our services on reasonable terms, or at all.
+Distribution agreements often involve revenue sharing. Competition to enter into distribution arrangements has caused and may in the future cause our trafﬁc
+acquisition costs to increase. In some cases, we guarantee distributors a minimum level of revenue and, as a result, run a risk that the distributors’ performance
+(in terms of ad impressions, toolbar installations, etc.) might not be sufﬁcient to otherwise earn their minimum payments, in which case our payments could
+exceed the
+21

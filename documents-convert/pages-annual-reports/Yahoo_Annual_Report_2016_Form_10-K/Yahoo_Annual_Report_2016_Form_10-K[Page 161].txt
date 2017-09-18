@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+Deferred income taxes reﬂect the tax effects of temporary differences between the carrying amounts of assets and liabilities for ﬁnancial reporting purposes and
+the amounts used for income tax purposes. The components of deferred income tax assets and liabilities are as follows (in thousands):
+December 31 ,
+27015 2016
+Deferred income tax assets: l
+Net operating loss and tax credit carryfonNards 8 18_5_,g5 8 13_6_,9_2_9
+| Stock-based_compensation expense 35.65151 39,211 I
+Non-deductible accrued expenses 114,519 172,224
+| Deferred revenue 1_0,_1_5_3 12,345 I
+Fixed assets 14,_0_9_6 12,1_ 81
+| Fedieraibieneﬁtsirejaytiingjojax pioisjtiions 308,347 336,963 I
+Other 8,580 7,281
+| Gross deferred income tax assets 675,764 7_1_7_,_1_34 l
+Valuation allowance (279,001) (@354)
+| Defeﬂeid incomeitaxassets 8 646,763 8 680,780 I
+Deferred income tax liabilities:
+| Purchased intangible assets 8 (86,905) 8 (25,883) I
+Fixed assets (146,234) (89,831)
+| Alibabaiunreializeidigams (12,611,852) (13,833,988) l
+Unrealized incdmein investments (8_5_,76_1) (8,8_3_7)
+| Restructuring liabilities (4,046) (95) l
+Other (2,216) (1,278)
+| Defeﬂeid incpmejax liabﬂtjes 8 (g,937,029) 8 (3,759,375) I
+Net deferred income tax liabilities 8 (g,290,266) 8 (3,078,595)
+As of December 31, 2016, the Company’s federal and California net operating loss carryfon/vards for income tax purposes were approximately $172 million and
+$134 million, respectively. The federal and California net operating loss carryfonNards are subject to various limitations under Section 382 of the Internal
+Revenue Code and applicable state tax law. If not utilized, the federal and California net operating loss carryfon/vards will begin to expire in 2021.
+In the three months ended March 31, 2015, the Company satisﬁed the $3.3 billion income tax liability related to the sale by Yahoo! Hong Kong Holdings Limited,
+the Company’s wholly—owned subsidiary, of Alibaba Group ADSs in the Alibaba Group lPO on September 24, 2014. As of December 31, 2016 the Company
+accrued deferred tax liabilities of $13.6 billion associated with the 384 million ordinary shares of Alibaba Group (“Alibaba Group shares”) retained by the
+Company. Such deferred tax liabilities are subject to periodic adjustments due to changes in the fair value of the Alibaba Group shares.
+The Company’s state research tax credit carryfonNard for income tax purposes is approximately $200 million and it can be carried fonivard indeﬁnitely. Tax credit
+carryfonNards that result from the exercise of employee stock options are not recorded on the Company’s consolidated balance sheets
+160

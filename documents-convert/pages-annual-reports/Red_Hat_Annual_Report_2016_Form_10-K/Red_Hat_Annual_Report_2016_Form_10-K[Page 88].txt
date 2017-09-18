@@ -1,0 +1,43 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+Property and equipment
+Property and equipment is primarily comprised of furniture, computer equipment, computer software and
+leasehold improvements, which are recorded at cost and depreciated or amortized using the straight-line method
+over their estimated useful lives as follows: furniture and fixtures, seven years; computer equipment, three to four
+years; computer software, five years; leasehold improvements, over the lesser of the estimated remaining useful
+life of the asset or the remaining term of the lease. Expenditures for maintenance and repairs are charged to
+operations as incurred; major expenditures for renewals and betterments are capitalized and depreciated. Property
+and equipment acquired under capital leases are depreciated over the lesser of the estimated remaining useful life
+of the asset or the remaining term of the lease.
+Share-based compensation
+The Company measures share-based compensation cost as of the grant date, based on the estimated fair
+value of the award and recognizes the cost over the employee requisite service period, typically on a straight-line
+basis, net of estimated forfeitures. The Company estimates the fair value of stock options using the Black-
+Scholes-Merton valuation model. The fair value of nonvested share awards, nonvested share units and
+performance share units (PSUs”) are measured at their underlying closing share price on the date of grant. The
+Company’s share-based compensation is described further in NOTE 13—Share-based Awards.
+Sales and marketing expenses
+Sales and marketing expenses consist of costs, including salaries, sales commissions and related expenses,
+such as travel, of all personnel involved in the sales and marketing process. Sales and marketing expenses also
+include costs of advertising, sales lead generation programs, cooperative marketing arrangements and trade
+shows. Payments made to resellers or other customers are recognized as a reduction of revenue unless the
+Company (i) receives an identifiable beneﬁt (goods or services) in exchange for such payments that is
+sufficiently separable from the purchase of the Company’s products and (ii) the Company can reasonably
+estimate the fair value of the benefit identified. Advertising costs are expensed as incurred.
+Advertising expense totaled $88.9 million, $62.6 million and $53.4 million for the years ended February 29,
+2016, February 28, 2015 and February 28, 2014, respectively.
+Research and development expenses
+Research and development expenses include all direct costs, primarily salaries for Company personnel and
+outside consultants, related to the development of new software products, significant enhancements to existing
+software products, and the portion of costs of development of internal use software required to be expensed.
+Research and development costs are charged to operations as incurred with the exception of those software
+development costs that may qualify for capitalization.
+Income taxes
+The Company accounts for income taxes using the liability method in which deferred tax assets or liabilities
+are recognized for the temporary differences between ﬁnancial reporting and tax bases of the Company’s assets
+and liabilities and for tax carryforwards at enacted statutory tax rates in effect for the years in which the
+differences are expected to reverse.
+The Company continues to assess the realizability of its deferred tax assets, which primarily consist of
+share-based compensation expense deductions, tax credit carryforwards and deferred revenue. In assessing the
+realizability of these deferred tax assets, management considers whether it is more likely than not that some
+84

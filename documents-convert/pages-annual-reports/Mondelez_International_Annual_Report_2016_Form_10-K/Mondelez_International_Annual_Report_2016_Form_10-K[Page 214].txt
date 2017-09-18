@@ -1,0 +1,24 @@
+SECTION 2.05 Additional Interest on LIBO Rate Advances . Each Borrower shall pay to each Lender, so long as such Lender shall be required
+under regulations of the Board to maintain reserves with respect to liabilities or assets consisting of or including Eurocurrency Liabilities, additional interest on the
+unpaid principal amount of each LIBO Rate Advance of such Lender to such Borrower, from the date of such Advance until such principal amount is paid in full, at
+an interest rate per annum equal at all times to the remainder obtained by subtracting (i) the LIBO Rate for the Interest Period for such Advance from (ii) the rate
+obtained by dividing such LIBO Rate by a percentage equal to 100% minus the Eurocurrency Rate Reserve Percentage of such Lender for such Interest Period,
+payable on each date on which interest is payable on such Advance. Such additional interest shall be determined by such Lender and notiﬁed to Mondeléz through
+the Administrative Agent.
+SECTION 2.06 Conversion of Pro Rata Advances .
+(a) Conversion upon Absence of Interest Period . If any Borrower (or Mondeléz on behalf of any other Borrower) shall fail to select the duration of
+any Interest Period for any LIBO Rate Advances in accordance with the provisions contained in the definition of the term “Interest Period,” the Administrative
+Agent will forthwith so notify such Borrower and the Lenders and such Advances will automatically, on the last day of the then existing Interest Period therefor,
+Convert into Base Rate Advances.
+(b) Conversion upon Event of Default . Upon the occurrence and during the continuance of any Event of Default under Section 6.01(a), the
+Administrative Agent or the Required Lenders may elect that (i) each LIBO Rate Advance be, on the last day of the then existing Interest Period therefor,
+Converted into Base Rate Advances and (ii) the obligation of the Lenders to make, or to Convert Advances into LIBO Rate Advances be suspended.
+(c) KoluntaryLConversion. Subject to the provisions of Sections 2.06(b), 2.08(c) and 2.13, any Borrower may Convert all of its Pro Rata Advances
+of one Type constituting the same Pro Rata Borrowing into Advances of the other Type on any Business Day, upon notice given to the Administrative Agent not
+later than 11:00 am. (New York City time) on the third Business Day prior to the date of the proposed Conversion; provided , however , that the Conversion of a
+LIBO Rate Advance into a Base Rate Advance may be made on, and only on, the last day of an Interest Period for such LIBO Rate Advance. Each such notice of a
+Conversion shall, within the restrictions specified above, specify
+(i) the date of such Conversion;
+(ii) the Pro Rata Advances to be Converted; and
+(iii) if such Conversion is into LIBO Rate Advances, the duration of the Interest Period for each such Pro Rata Advance.
+-18-

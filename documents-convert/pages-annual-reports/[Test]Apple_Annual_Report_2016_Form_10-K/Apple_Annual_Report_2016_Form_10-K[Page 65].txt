@@ -1,0 +1,47 @@
+The following table shows the pre-tax amounts reclassified from AOCI into the Consolidated Statements of Operations, and the
+associated financial statement line item, for 2016 and 2015 (in millions):
+Comprehensive Income Components Financial Statement Line Item 2016 7 7 2015 7
+Unrealized (gains)/Iosses on derivative instruments: 7 7 7 7 7 7 7
+I Foreign exchange contracts Revenue $ (865) $ (2,432)
+I Cost of sales (130) (2,168)
+I Other income/(expense), net 111 456 I
+I Interest rate contracts Other income/(expense), net 12 17
+' ’ (872) ’ (4,127)
+Unrealized (gains)/Iosses on marketable securities Other income/(expense), net 87 91
+I Total amounts reclassified from AOCI 8 (785) 7$ (4,036)
+The following table shows the changes in AOCI by component for 2016 and 2015 (in millions):
+Cumulative Unrealized Unrealized
+Foreign Gains/Losses Gains/Losses
+Currency on Derivative on Marketable
+Translation Instruments Securities Total
+Balance at September 27, 2014 ’$ (242) ’$ 1,3647 ’$ (40) ’$ 1,082 ’
+I Other comprehensive income/(loss) before 7 7 7 7 7 7 7 7
+I reclassifications (612) 3,346 (747) 1 ,987 I
+Amounts reclassified from AOCI — (4,127) 91 (4,036)
+' Tax effect 201 189 232 622 '
+I Other comprehensive income/(loss) 7 (411) 7 (592) 7 (424) 7 (1,427)
+Balance at September 26, 2015 7 (653) 7 7727 7 (464) 7 (345)
+I Other comprehensive income/(loss) before 7 7 7 7 7 7 7 7
+reclassifications 67 14 2,445 2,526
+Amounts reclassified from AOCI — (872) 87 (785)
+' Tax effect 8 124 (894) (762)
+I Other comprehensive income/(loss) 7 757 7 (734) 7 1,6387 7 9797
+Balance at September 24, 2016 7$ (578) 7$ 387 7$ 1,1747 7$ 6347
+Note 9 — Benefit Plans
+2014 Employee Stock Plan
+In the second quarter of 2014, shareholders approved the 2014 Employee Stock Plan (the “2014 Plan”) and terminated the Company’s
+authority to grant new awards under the 2003 Employee Stock Plan (the “2003 Plan”). The 2014 Plan provides for broad-based
+equity grants to employees, including executive officers, and permits the granting of RSUs, stock grants, performance-based awards,
+stock options and stock appreciation rights, as well as cash bonus awards. RSUs granted under the 2014 Plan generally vest over
+four years, based on continued employment, and are settled upon vesting in shares of the Company’s common stock on a one-for-
+one basis. Each share issued with respect to RSUs granted under the 2014 Plan reduces the number of shares available for grant
+under the plan by two shares. RSUs cancelled and shares withheld to satisfy tax withholding obligations increase the number of
+shares available for grant under the 2014 Plan utilizing a factor of two times the number of RSUs cancelled or shares withheld.
+Currently, all RSUs granted under the 2014 Plan have dividend equivalent rights (“DERs”), which entitle holders of RSUs to the
+same dividend value per share as holders of common stock. DERs are subject to the same vesting and other terms and conditions
+as the corresponding unvested RSUs. DERs are accumulated and paid when the underlying shares vest. Upon approval of the 2014
+Plan, the Company reserved 385 million shares plus the number of shares remaining that were reserved but not issued under the
+2003 Plan. Shares subject to outstanding awards under the 2003 Plan that expire, are cancelled or otherwise terminate, or are
+withheld to satisfy tax withholding obligations with respect to RSUs, will also be available for awards under the 2014 Plan. As of
+September 24, 2016, approximately 386.4 million shares were reserved for future issuance under the 2014 Plan.
+Apple Inc. | 2016 Form 10-K l 62

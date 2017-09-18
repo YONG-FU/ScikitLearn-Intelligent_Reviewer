@@ -1,0 +1,47 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 3: Segment Information (Continued)
+A summary description of each segment follows.
+Personal Systems provides Commercial personal computers (“PCs”), Consumer PCs, workstations, thin clients,
+Commercial tablets and mobility devices , retail point-of-sale systems, displays and other related accessories, software, support
+and services for the commercial and consumer markets. HP groups Commercial notebooks, Commercial desktops, Commercial
+services, Commercial tablets and mobility devices, Commercial detachables, workstations, retail point-of-sale systems and thin
+clients into Commercial clients and Consumer notebooks, Consumer desktops, Consumer services and Consumer detachables
+into Consumer clients when describing performance in these markets. Described below are HP’s global business capabilities
+within Personal Systems.
+° Commercial PCs are optimized for enterprise and SMB customers, with a focus on robust designs, serviceability,
+connectivity, reliability and manageability in networked environments. Additionally, HP offers a range of services and
+solutions to enterprise and SMB customers to help them manage the lifecycle of their PC and mobility installed base.
+° Consumer PCs are notebooks, desktops, and hybrids that are optimized for consumer usage, focusing on multi-media
+consumption, online browsing, and light productivity.
+Printing provides consumer and commercial printer hardware, supplies, media, solutions and services, as well as scanning
+devices. Printing is also focused on imaging solutions in the commercial markets. HP groups LaserJet, Graphics and PageWide
+printers into Commercial Hardware and Inkj et printers into Consumer Hardware when describing performance in these
+markets. Described below are HP’s global business capabilities within Printing.
+- LaserJet and Enterprise Solutions delivers HP’s LaserJet printers, supplies and solutions to SMBs and large
+enterprises. HP goes to market through its extensive channel network and directly with HP sales. Ongoing key
+initiatives include design and deployment of A3 products and solutions for the copier and multifunction printer market,
+printer security solutions, PageWide Enterprise solutions, and award—winning JetIntelligence products.
+- Inlg‘et and Printing Solutions delivers HP’s consumer, SMB and PageWide Inkjet solutions (hardware, supplies, media,
+and web-connected hardware and services). Ongoing initiatives and programs such as Instant Ink and newer initiatives
+such as Continuous Ink Supply System provide innovative printing solutions to consumers and SMBs.
+° Graphics Solutions delivers large format printers (DesignJet, Large Format Production and Scitex Industrial), specialty
+printing, digital press solutions (Indigo and PageWide Presses), supplies and services to print service providers and
+design and rendering customers.
+- Print Solutions provides end-to-end services, as well as core platforms to develop and deploy services across printing
+systems. HP’s focus includes driving customer value through managed print services and providing support solutions
+for new and existing customers.
+Corporate Investments includes HP Labs and certain business incubation projects.
+The accounting policies HP uses to derive segment results are substantially the same as those used by the company in
+preparing these financial statements. HP derives the results of the business segments directly from its internal management
+reporting system. Segment net revenue includes revenues from sales to external customers and intersegment revenues that
+reﬂect transactions between the segments on an arm ’s-length basis. HP’s consolidated net revenue is derived and reported after
+the elimination of intersegment revenues from such arrangements.
+Effective at the beginning of its first quarter of ﬁscal year 2016, HP implemented a reporting change to its segment
+operating results. This reporting change resulted in the exclusion of retirement related credits representing the market related
+components of pension and post-retirement benefits such as interest expense, expected return on plan assets, and actuarial gain
+(loss) amortization (“Market related retirement credits”). The reporting change had an immaterial impact to previously reported
+segment net revenue and earnings from operations and no impact to previously reported consolidated net revenue, earnings
+from continuing operations, net earnings or net earnings per share.
+70

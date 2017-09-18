@@ -1,0 +1,44 @@
+Tablre,of,C,ontents
+As of December 31, 2015
+Fair Value Measurement Using:
+Quoted Signiﬁcant
+Prices Other Signiﬁcant
+in Active Observable Unobservable
+Carrying Total Fair Markets Inputs Inputs
+Amount Value (Level 1) (Level 2) (Level 3)
+(in thousands)
+[Financial Assets: l
+Marketable securities
+i Municipal bonds — available for sale $ 69,496 $ 69,496 $ — $ 69,496 $ — i
+Deferred compensation fund
+l Money Market <1) 8 3,896 $ 3,896 $ — $ 3,896 $ — l
+Balanced and Lifestyle 9,136 9,136 9,136 — —
+l Large Cap Growth 5,218 5,218 5,218 — — l
+Small Cap Value 2,275 2,275 2,275 — —
+l Fixed Income 2,624 2,624 2,624 — — l
+International 1,025 1,025 1,025 — —
+l Mid Cap Growth 1,217 1,217 1,217 — — l
+Deferred compensation fund $ 25,391 $ 25,391 $ 21,495 $ 3,896 $ —
+(1) The fair value of the money market fund is based on the net asset value (“NAV”) of the shares held by the plan at the end of the period. The money market
+fund includes short—term United States dollar denominated money-market instruments and the NAV is determined by the custodian of the fund. The money
+market fund can be redeemed at its NAV at the measurement date, as there are no significant restrictions on the ability to sell this investment.
+Gross Unrealized Gross Unrealized Other-Than-Temporary
+Amortized Cost Gains Losses Estimated Fair Value Impairments
+(in thousands)
+’December 31, 2016 ‘
+Marketable securities
+iMunicipal bonds — available for sale $ 68,220 _ $ 178 _ $ (668) _ $ 67,730 _ $ — i
+Total debt securities $ 68,220 $ 178 $ (668) $ 67,730 $ —
+[December 31, 2015 l
+Marketable securities
+’Municipal bonds — available for sale $ 68,640 $ 869 $ (13) $ 69,496 $ — i
+Total debt securities $ 68,640 $ 869 $ (13) $ 69,496 $ —
+[December 31, 2014 l
+Marketable securities
+[Municipal bonds — available for sale $ 11,758 8 48 $ (7) $ 11,799 $ — l
+Total debt securities 3; 11,758 $ 48 $ (7) $ 11,799 $ —
+For the years ended December 31, 2016 , 2015 and 2014 , we received total proceeds, less the amount of interest received, of $28.1 million , $16.4 million and $3.9
+million , respectively, from sales of available-for-sale municipal bonds. These sales resulted in realized losses of $0.2 million recorded in other income —
+investment and interest caption on our statement of comprehensive income for the year ended December 31, 2016 , and gains of less than $0.1 million in both 2015
+and 2014 . The basis for the sale of these securities was a specific identification of each bond sold during this period.
+45

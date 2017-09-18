@@ -1,0 +1,39 @@
+At any time after such a declaration of acceleration has been made and before a judgment or decree for payment of the money due has been obtained by the
+Trustee for the Securities of any series as hereinafter in this Article provided, the Holders of a majority in principal amount of the Outstanding Securities of that
+series, by written notice to the Company and such Trustee, may rescind and annul such declaration and its consequences if:
+(1) the Company has paid or deposited with such Trustee a sum sufﬁcient to pay in the currency or currency unit in which the Securities of such series
+are payable (except as otherwise speciﬁed pursuant to Section 301 for the Securities of such series and except as provided in Sections 311(b) and 311(d)):
+(A) all overdue interest on all Securities of that series;
+(B) the principal of, and premium, if any, on any Securities of that series which have become due otherwise than by such declaration of
+acceleration and interest thereon from the date such principal became due at a rate per annum equal to the rate borne by the Securities of such
+series (or, in the case of (i) OID Securities, the Securities’ Yield to Maturity or (ii) Indexed Securities, the rate determined in accordance with
+the speciﬁed terms of those Securities), to the extent that the payment of such interest shall be legally enforceable;
+(C) to the extent that payment of such interest is lawful, interest upon overdue interest at a rate per annum equal to the rate borne by the
+Securities of such series (or, in the case of (i) OID Securities, the Securities’ Yield to Maturity or (ii) Indexed Securities, the rate determined in
+accordance with the specified terms of those Securities); and
+(D) all sums paid or advanced by such Trustee hereunder and the reasonable compensation, expenses, disbursements and advances of
+such Trustee, its agents and counsel and all other amounts due to such Trustee under Section 607;
+and
+(2) all Events of Default with respect to the Securities of such series, other than the nonpayment of the principal of Securities of that series which has
+become due solely by such acceleration, have been cured or waived as provided in Section 513.
+No such rescission shall affect any subsequent default or impair any right consequent thereon.
+SECTION 503. Collection of Indebtedness and Suits for Enforcement by Trustee.
+The Company covenants that if:
+(1) default is made in the payment of any interest upon any Security of any series when such interest becomes due and payable and such default
+continues for a period of 30 days; or
+(2) default is made in the payment of principal of, or premium, if any, on any Security of any series at its Maturity;
+the Company will, upon demand of the Trustee for the Securities of such series, pay to it, for the beneﬁt of the Holders of such Securities, the whole amount then
+due and payable on such Securities for principal, premium, if any, and interest, if any, with interest upon the overdue principal and premium, if any, and, to the
+extent that payment of such interest shall be legally enforceable, upon any overdue installments of interest at a rate per annum equal to the rate borne by such
+Securities (or, in the case of (i) OID Securities, the Securities’ Yield to Maturity or (ii) Indexed Securities, the rate determined in accordance with the speciﬁed
+terms of those Securities); and, in addition thereto, such further amount as shall be sufficient to cover the costs and expenses of collection, including the reasonable
+compensation, expenses, disbursements and advances of such Trustee, its agents and counsel and all other amounts due to such Trustee under Section 607.
+If the Company fails to pay such amounts forthwith upon such demand, such Trustee, in its own name and as trustee of an express trust, may institute a
+judicial proceeding against the Company for the collection of the sums so due and unpaid, and may prosecute such proceedings to judgment or ﬁnal decree, and
+may enforce the same against the Company or any other obligor upon the Securities and collect the moneys adjudged or decreed to be payable in the manner
+provided by law out of the property of the Company or any other obligor upon the Securities, wherever situated.
+If an Event of Default with respect to Securities of any particular series occurs and is continuing, the Trustee for the Securities of such series may proceed to
+protect and enforce its rights and the rights of the Holders of Securities of that series by such appropriate judicial proceedings as such Trustee shall deem most
+effectual to protect and enforce any such rights, whether for the speciﬁc enforcement of any covenant or agreement in this Indenture or in aid of the exercise of any
+power granted herein, or to enforce any other proper remedy.
+26

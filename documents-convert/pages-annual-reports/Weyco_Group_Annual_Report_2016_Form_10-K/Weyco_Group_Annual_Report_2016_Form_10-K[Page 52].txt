@@ -1,0 +1,49 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+11. EMPLOYEE RETIREMENT PLANS — (continued)
+The following is a reconciliation of the change in benefit obligation and plan assets of both the
+defined benefit pension plan and the unfunded supplemental pension plan for the years ended
+December 31, 2016 and 2015:
+Defined Benefit Supplemental
+Pension Plan Pension Plan
+2016 2015 2016 2015
+(Dollars in thousands)
+Change in projected benefit obligation
+Projected benefit obligation, beginning of
+$48,677 $50,932 $14,261 $14,841
+Servicecost......................... 1,328 1,345 310 291
+lnterestcost......................... 1,833 2,051 616 614
+Plancurtailment (5,098) — (919) —
+Actuarial loss (gain) . . . . . . . . . . . . . . . . . . . . 2,282 (3,806) 1,527 (1,135)
+Benefits paid . . . . . . . . . . . . . . . . . . . . . . . . . (3,943) (1,845) (386) (350)
+Projected benefit obligation, end of year . . . $ 45,079 $ 48,677 $ 15,409 $ 14,261
+Change in plan assets
+Fair value of plan assets, beginning of year . . 32,345 32,027 — —
+Actual return on plan assets . . . . . . . . . . . . . 1,791 (320) — —
+Administrative expenses . . . . . . . . . . . . . . . . (315) (150) — —
+Contributions......................... 2,400 2,633 386 350
+Benefits paid . . . . . . . . . . . . . . . . . . . . . . . . . (3,943) (1,845) (386) (350)
+Fair value of plan assets, end of year . . . . . $ 32,278 $ 32,345 $ — $ —
+Funded status of plan . . . . . . . . . . . . . . . . . $(12,801) $(16,332) $(15,409) $(14,261)
+Amounts recognized in the consolidated
+balance sheets consist of:
+Accrued liabilities — other . . . . . . . . . . . . . . . . $ — $ — $ (409) $ (405)
+Long-term pension liability . . . . . . . . . . . . . . . (12,801) (16,332) (15,000) (13,856)
+Net amount recognized . . . . . . . . . . . . . . . $(12,801) $(16,332) $(15,409) $(14,261)
+Amounts recognized in accumulated other
+comprehensive loss consist of:
+Accumulated loss, net of income tax benefit of
+$5,373, $6,631, $1,802 and $1,808,
+respectively........................ $8,403 $10,371 $2,820 $2,828
+Prior service cost, net of income tax liability of
+$0, $0, ($91) and ($270), respectively . . . . . — — (143) (423)
+Net amount recognized . . . . . . . . . . . . . . . $ 8,403 $ 10,371 $ 2,677 $ 2,405
+On September 15, 2016, the pension plan was amended to offer an immediate pension payout
+either as a one-time lump sum or annuity payment to certain former employees who had not yet
+commenced benefits under the plan. Benefits were calculated as of December 1, 2016, with lump
+sum payments being paid in December 2016 and annuity payments beginning January 1, 2017. As of
+December 31, 2016, $1.9 million in lump sum payments were paid as a result of this amendment.
+These lump sum payments are included in the “Benefits paid” line item in the above table.
+On November 7, 2016, the Board of Directors of the Company authorized the freezing of the
+pension plan, whereby benefit accruals would be frozen effective December 31, 2016. The effect of the
+48

@@ -1,0 +1,48 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The following table summarizes information about stock options outstanding as of December 31, 2016:
+T Options Outstanding T T Options Exercisable T
+7 Weighted- 7 7 7
+Average
+Number Remaining Weighted- Number Weighted—
+Outstanding as Contractual Average Exercisable as of Average
+T Range of Exercise Prices of 12/31/16 Life in Years Exercise Price 12/31/16 Exercise Price T
+1 $33.40 - $60.68 1,825,259 3.5 $51.27 1,825,259 $51.27 1
+$60.69 - $90.39 2,208,766 7.5 $86.58 730,253 $81.66
+1 $90.40 - $111.76 T 2,157,983TT 7.1TT $105.22TT 943,089 $105.20\
+$33.40 - $111.76 T 6,192,008 T T 6,2T T $82.67T T 3,498,601 T $72.15
+Performance Stock Units and Restricted Stock Units
+Under the EICP, we grant PSUs to selected executives and other key employees. Vesting is contingent upon the
+achievement of certain performance objectives. We grant PSUs over 3-year performance cycles. If we meet targets
+for financial measures at the end of the applicable 3-year performance cycle, we award a resulting number of shares of
+our Common Stock to the participants. For PSUs granted, the target award is a combination of a market-based total
+shareholder return and performance-based components. The performance scores for 2014 through 2016 grants of
+PSUs can range from 0% to 250% of the targeted amounts.
+We recognize the compensation cost associated with PSUs ratably over the 3-year term. Compensation cost is based
+on the grant date fair value because the grants can only be settled in shares of our Common Stock. The grant date fair
+value of PSUs is determined based on the Monte Carlo simulation model for the market-based total shareholder return
+component and the closing market price of the Company’s Common Stock on the date of grant for performance-based
+components.
+In 2016, 2015 and 2014, we awarded RSUs to certain executive officers and other key employees under the EICP. We
+also awarded RSUs quarterly to non-employee directors.
+We recognize the compensation cost associated with employee RSUs over a specified award vesting period based on
+the grant date fair value or year-end market value of our Common Stock. We recognize expense for employee RSUs
+based on the straight-line method. We recognize the compensation cost associated with non-employee director RSUs
+ratably over the vesting period.
+A summary of activity relating to grants of PSUs and RSUs for the period ended December 31, 2016 is as follows:
+Weighted—average grant date fair value
+TPerformance Stock Units and Restricted Stock Units T T T Number of units T T T for equity awards (per unit) T
+1 Outstanding at beginning of year 495,207 $106.40 ‘
+Granted 545,750 $93.55
+’Performance assumption change 79,889 $92.43 ‘
+Vested (239,270) $94.59
+lForfeited T (53,348) $98.93 1
+Outstanding at end of year T 828,228 T $102.66
+The table above excludes PSU awards for 6,410 units as of December 31, 2016 and 20,586 units as of December 31,
+2015 for which the measurement date has not yet occurred for accounting purposes.
+The following table sets forth information about the fair value of the PSUs and RSUs granted for potential future
+distribution to employees and non-employee directors. In addition, the table provides assumptions used to determine
+the fair value of the market-based total shareholder return component using the Monte Carlo simulation model on the
+date of grant.
+83

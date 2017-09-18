@@ -1,0 +1,54 @@
+certain limits for certain other insurable risks, primarily physical loss to property and business interruptions resulting
+from such loss lasting two days or more in duration. Insurance coverage is maintained for catastrophic property and
+casualty exposures as well as those risks required to be insured by law or contract. The Company is fully self-insured
+for certain other types of liabilities, including environmental, product recall, warranty, and patent infringement.
+The Company is also self-insured for the majority of its medical beneﬁt plans up to certain limits. The Company
+estimates its aggregate liability for claims incurred by applying a lag factor to the Company’s historical claims and
+administrative cost experience. The appropriateness ofthe Company’s lag factor is evaluated and revised, if necessary,
+annually. Although management believes that the current estimates are reasonable, significant differences related to
+claim reporting patterns, plan design, legislation, and general economic conditions could materially affectthe Company’s
+medical beneﬁt plan liabilities, future expense, and cash flow.
+Income Taxes
+The Company uses certain assumptions and estimates in determining the income taxes payable or refundable
+for the current year, income tax expense, and deferred income tax liabilities and assets, which represent temporary
+and permanent differences between amounts within the financial statements and the income tax basis. Accounting
+Standards Codiﬁcation (“ASC”) Topic 740, Income Taxes (“ASC 740”), requires the evaluation and testing of the
+recoverability of deferred tax assets. Deferred tax assets are reduced by a valuation allowance if, based on the relevant
+factors, it is more likely than not that all or some portion of the deferred tax assets will not be realized. Reasonable
+judgment and estimates are required in determining whether a valuation allowance is necessary and, if so, the amount
+of such valuation allowance. In evaluating the need for a valuation allowance, the Company considers a number of
+factors, including, but not limited to: the nature and character of the deferred tax assets and liabilities; taxable income
+in prior carryback years; future reversals of existing temporary differences; and the length of time carryovers can be
+utilized.
+In light of the multiple taxjurisdictions in which the Company operates, the Company’s tax returns are subject to
+routine audit by the Internal Revenue Service (“IRS”) and other taxation authorities. The results of these audits at times
+produce uncertainty regarding particular tax positions taken in the year(s) of review. The Company records uncertain
+tax positions as prescribed by ASC 740, which requires recognition at the time when it is more likely than not that the
+position in question will be upheld. Although management believes that the judgment and estimates involved are
+reasonable and that the necessary provisions have been recorded, changes in circumstances or unexpected events
+could adversely or positively affect the Company’s ﬁnancial position, results of operations, and cash flows.
+Retirement Benefits
+The Company sponsors domestic and international deﬁned benefit pension plans and defined contribution plans
+and other postretirement plans. Assumptions are used to determine the estimated fair value of plan assets, the actuarial
+value of plan liabilities, and the current and projected costs forthese employee beneﬁt plans and include, among other
+factors, estimated discount rates, expected returns on the pension fund assets, estimated mortality rates, the rates of
+increase in employee compensation levels, and, for one international plan, retroactive inflationary adjustments. These
+assumptions are determined based on Company and market data and are evaluated annually as of the plans’
+measurement date. See the Pensions and Deﬁned Contribution Plans footnote of the Notes to Consolidated Financial
+Statements for further information on the Company’s plans, including the potential impact of changes to certain of
+these assumptions.
+Share-Based Compensation Expense
+The Company recognizes compensation cost relating to share-based payment transactions in the ﬁnancial
+statements based on the estimated fair value of the equity instrument issued. The Company accounts for stock options,
+restricted shares, and share units representing certain deferrals into the Director Deferred Compensation Plan or the
+Supplemental Deferred Savings Plan (both of which are discussed further in the Share-Based Payments footnote of
+the Notes to Consolidated Financial Statements) based on the grant—date fair value estimated under the provisions of
+ASC Topic 718, Compensation — Stock Compensation (“ASC 718”).
+The Company employs the Black-Scholes model in deriving the fairvalue estimates of certain share-based awards
+and estimates forfeitures of all share-based awards at the time of grant, which are revised in subsequent periods if
+actual forfeitures diﬁerfrom initial estimates. Forfeitures are estimated based on historical experience. If factors change
+causing different assumptions to be made in future periods, estimated compensation expense may differ signiﬁcantly
+from that recorded in the current period. See the SigniﬁcantAccounting Policies and Share-Based Payments footnotes
+of the Notes to Consolidated Financial Statements for more information regarding the assumptions used in estimating
+the fair value of stock options.
+32

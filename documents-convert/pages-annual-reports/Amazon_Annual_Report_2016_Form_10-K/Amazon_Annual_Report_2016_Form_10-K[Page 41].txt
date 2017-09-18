@@ -1,0 +1,38 @@
+Table of Contents
+AMAZON.COM, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Note 1—DESCRIPTION OF BUSINESS AND ACCOUNTING POLICIES
+Description of Business
+Amazon.com opened its virtual doors on the World Wide Web in July 1995. We seek to be Earth’s most customer-centric company. In each of our
+segments, we serve our primary customer sets, consisting of consumers, sellers, developers, enterprises, and content creators. We serve consumers through our
+retail websites and focus on selection, price, and convenience. We also manufacture and sell electronic devices. We offer programs that enable sellers to sell
+their products on our websites and their own branded websites and to fulﬁll orders through us, and programs that allow authors, musicians, ﬁlmmakers, app
+developers, and others to publish and sell content. We serve developers and enterprises of all sizes through our AWS segment, which provides access to
+technology infrastructure that enables Virtually any type of business. In addition, we provide services, such as advertising services and co-branded credit card
+agreements.
+We have organized our operations into three segments: North America, International, and AWS. See “Note 11—Segment Information.”
+Prior Period Reclassifications
+Certain prior period amounts have been reclassiﬁed to conform to the current period presentation, including the allocation of stock-based
+compensation and “Other operating expense, net” to segment results within “Note 1 1 — Segment Information.” These revised segment results reﬂect the way
+our chief operating decision maker evaluates the Company’s business performance and manages its operations. In Q1 2016, current deferred tax assets and
+current deferred tax liabilities were reclassiﬁed as non-current, and capitalized debt issuance costs were reclassiﬁed from “Other assets” to “Long-term debt”
+as a result of the adoption of new accounting guidance. The adoption of this guidance did not have a material impact on our consolidated ﬁnancial
+statements.
+Principles of Consolidation
+The consolidated ﬁnancial statements include the accounts of Amazon.com, Inc., its wholly-owned subsidiaries, and those entities in which we have a
+variable interest and of which we are the primary beneﬁciary, including certain entities in India and China and that support our seller lending ﬁnancing
+activities (collectively, the “Company”). Intercompany balances and transactions between consolidated entities are eliminated.
+Use of Estimates
+The preparation of ﬁnancial statements in conformity with GAAP requires estimates and assumptions that affect the reported amounts of assets and
+liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated ﬁnancial statements and accompanying notes.
+Estimates are used for, but not limited to, determining the selling price of products and services in multiple element revenue arrangements and determining
+the amortization period of these elements, incentive discount offers, sales returns, vendor funding, stock-based compensation forfeiture rates, income taxes,
+valuation and impairment of investments, inventory valuation and inventory purchase commitments, collectability of receivables, valuation of acquired
+intangibles and goodwill, depreciable lives of property and equipment, intemal-use software and website development costs, acquisition purchase price
+allocations, investments in equity interests, and contingencies. Actual results could differ materially from those estimates.
+Earnings per Share
+Basic earnings per share is calculated using our weighted-average outstanding common shares. Diluted earnings per share is calculated using our
+weighted-average outstanding common shares including the dilutive effect of stock awards as determined under the treasury stock method. In periods when
+we have a net loss, stock awards are excluded from our calculation of earnings per share as their inclusion would have an antidilutive effect. In 2014, we
+excluded stock awards of 17 million.
+41

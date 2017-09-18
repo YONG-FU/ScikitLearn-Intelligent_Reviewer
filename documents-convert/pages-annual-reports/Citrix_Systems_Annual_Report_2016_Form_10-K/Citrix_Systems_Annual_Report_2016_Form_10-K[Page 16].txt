@@ -1,0 +1,41 @@
+Cloud Services
+In the data sharing segment, our ShareFile product's direct competition includes Dropbox, Box, Syncplicity, BlackBerry's
+Watchdox, Accellion, Microsoft and Google, as well as legacy solutions such as traditional file transfer protocol, or FTP. Many
+of these competitors have strong brand recognition through consumer and free versions of their products. However, we believe
+our ShareFile product offers a superior solution for businesses as it is built specifically for the needs of business. Further, we
+believe that our strong reputation in certain vertical segments, along with ShareFile's integration with other Citrix products,
+such as Receiver and XenMobile, and our unique ability to store data on-premise or in the Cloud, are key differentiators.
+GoTo Business
+The GoTo Business segment competed against a host of products oﬁered by a number of established technology players
+including Adobe, Google, Apple, Cisco, LMI and Microsoft, and its voice service offerings compete against services provided
+by telecom service providers such as Verizon, AT&T, Intercall, PGi, RingCentral, Vonage and BT. Additionally, the GoTo
+Business competed against a number of emerging players such as Zoom, HighFive, TeamViewer, Blue Jeans, Intercall, PGi,
+Ring Central, Vonage and Splashtop. The GoTo Business also competed against a host of alternative technologies, such as VPN
+or cloud-based platforms, and on-premise support options.
+Proprietary Technology
+Our success is dependent upon certain proprietary technologies and core intellectual property. We have been awarded
+numerous domestic and foreign patents and have numerous pending patent applications in the United States and foreign
+countries. Our technology is also protected under copyright laws. Additionally, we rely on trade secret protection and
+confidentiality and proprietary information agreements to protect our proprietary technology. We have established proprietary
+trademark rights in markets across the globe, and own hundreds of US. and foreign trademark registrations and pending
+registration applications for marks such as Citrix, NetScaler ADC, NetScaler SD-WAN, ShareFile, Xen, XenApp, XenDesktop,
+XenServer, XenMobile and many others (including the widely known “GoTo” marks, which were transferred to LogMeIn in
+connection with the spin-off and subsequent merger of our subsidiary GetGo with LogMeIn that was completed in January
+2017). While our competitive position could be aﬁected by our ability to protect our proprietary information, we believe that
+because of the rapid pace of technological change in the industry, factors such as the technical expertise, knowledge and
+innovative skill of our management and technical personnel, our technology relationships, name recognition, the timeliness and
+quality of support services provided by us and our ability to rapidly develop, enhance and market software products could be
+more significant in maintaining our competitive position. See Part I-Item 1A entitled “Risk Factors” included in this Annual
+Report on Form 10-K for the year ended December 31, 2016.
+Available Information
+Our Internet address is http://www.citrix.com. We make available, free of charge, on or through our website our annual
+reports on Form 10—K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and any amendments to
+those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act as soon as reasonably
+practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission. The
+information on our website is not part of this Annual Report on Form 10-K for the year ended December 31, 2016.
+Employees
+As of December 31, 2016, we had approximately 9,600 employees, including approximately 1,700 employees related to
+the GoTo Business. We believe our relations with employees are good. In certain countries outside the United States, our
+relations with employees are governed by labor regulations that provide for specific terms of employment between our
+company and our employees.
+12

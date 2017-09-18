@@ -1,0 +1,37 @@
+upon the Notes and the due and punctual performance of all of the covenants and conditions of this Indenture to be performed by the Guarantor, such
+successor Person will succeed to and be substituted for the Guarantor with the same eﬁ‘ect as if it had been named herein as a Guarantor. Such successor
+Person thereupon may cause to be signed any or all of the Note Guarantees to be endorsed upon all of the Notes issuable hereunder which theretofore shall
+not have been signed by the Issuers and delivered to the Trustee. All the Note Guarantees so issued will in all respects have the same legal rank and beneﬁt
+under this Indenture as the Note Guarantees theretofore and thereafter issued in accordance with the terms of this Indenture as though all of such Note
+Guarantees had been issued at the date of the execution hereof.
+Except as set forth in Articles 4 and i hereof, and notwithstanding clauses 2(a) and (b) above, nothing contained in this Indenture or in any of the Notes
+will prevent any consolidation or merger of a Guarantor with or into the Issuers or another Guarantor, or will prevent any sale or conveyance of the property
+of a Guarantor as an entirety or substantially as an entirety to the Issuers or another Guarantor.
+Section 10.06 Releases.
+The Note Guarantee of a Guarantor will be released:
+(1) in connection with any sale or other disposition of all or substantially all of the assets of that Guarantor
+(including by way of merger or consolidation) to a Person that is not (either before or after giving effect to such transaction) TLLP or a Restricted
+Subsidiary of TLLP, if the sale or other disposition does not violate Section £110, hereof;
+(2) in connection with any sale or other disposition of the Capital Stock of that Guarantor after which the applicable Guarantor is no longer a
+Restricted Subsidiary of TLLP, if the sale or other disposition does not violate Section 4.10 hereof;
+(3) if TLLP designates any Restricted Subsidiary that is a Guarantor to be an Unrestricted Subsidiary in accordance with Section 4.11 hereof;
+(4) upon the release or discharge of the guarantee by such Guarantor with respect to the Indebtedness under the Credit Agreements or the
+guarantee that resulted in the creation of such Guarantee; provided, however, that release or discharge of the guarantee by such Guarantor with respect
+to Indebtedness under the Existing Notes occurs prior to or contemporaneously therewith; provided, further, however, that if, at any time following
+such release, that Guarantor later guarantees Indebtedness of any Issuer under the Credit Agreements, then such Guarantor shall provide a Note
+Guarantee at such time if required in accordance with Section 4.16 hereof;
+(5) upon the merger, amalgamation or consolidation of such Guarantor with and into an Issuer or another Guarantor that is the surviving Person in
+such merger, amalgamation or consolidation, or upon the liquidation or dissolution of such Guarantor;
+(6) upon Legal Defeasance or Covenant Defeasance in accordance with Article 8 hereof or upon satisfaction and discharge in accordance with
+Articleill hereof; or
+(7) in accordance with Article 9 hereof.
+Any Guarantor not released from its obligations under its Note Guarantee as provided in this Section 10.06 will remain liable for the full amount of
+principal of and interest and premium, if any, on the Notes and for the other obligations of any Guarantor under this Indenture as provided in this ArticleilQ.
+ARTICLE 11
+SATISFACTION AND DISCHARGE
+Section 11.01 Satisfaction and Discharge.
+This Indenture will be discharged and will cease to be of further effect as to all Notes issued hereunder, when:
+(1) either:
+(a) all Notes that have been authenticated, except lost, stolen or destroyed Notes that have been replaced or paid and Notes for whose
+payment money has theretofore been deposited in trust and thereafter repaid to the Issuers, have been delivered to the Trustee for cancellation; or
+-57-

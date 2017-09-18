@@ -1,0 +1,45 @@
+quantification of planned business activities and enhance subsequent follow-up with comparisons of
+actual to planned Adjusted EBITDA.
+The following is a reconciliation of our net income to Adjusted EBIT DA for fiscal 2016, 2015 and
+2014:
+February 27, February 28, March 1,
+2016 2015 2014
+(52 weeks) (52 weeks) (52 weeks)
+Netincome......................... $165,465 $2,109,173 $249,414
+Interest expense . . . . . . . . . . . . . . . . . . . . 449,574 397,612 424,591
+Income tax expense . . . . . . . . . . . . . . . . . 139,297 158,951 161,883
+Income tax valuation allowance reduction . (26,358) (1,841,304) (161,079)
+Depreciation and amortization expense . . . 509,212 416,628 403,741
+LIFO charge (credit) . . . . . . . . . . . . . . . . 11,163 (18,857) 104,142
+Lease termination and impairment charges 48,423 41,945 41,304
+Loss on debt retirements, net . . . . . . . . . . 33,205 18,512 62,443
+72,281 40,183 38,520
+Adjusted EBITDA. . . . . . . . . . . . . . . . . . . . $1,402,262 $ 1,322,843 $1,324,959
+The following is a reconciliation of our net income to Adjusted Net Income and Adjusted Net
+Income per Diluted Share for fiscal 2016, 2015 and 2014. Adjusted Net Income is defined as net
+income excluding the impact of amortization of EnvisionRx intangible assets, acquisition-related costs,
+loss on debt retirements and LIFO adjustments. We believe Adjusted Net Income and Adjusted Net
+Income per Diluted Share serve as appropriate measures to be used in evaluating the performance of
+our business and help our investors better compare our operating performance over multiple periods.
+Adjusted Net Income per Diluted Share is calculated using our above-referenced definition of Adjusted
+Net Income:
+February 27, February 28, March 1,
+2016 2015 2014
+(52 weeks) (52 weeks) (52 weeks)
+Netincome $165,465 $2,109,173 $249,414
+Add back—Income tax expense (benefit) . . . 112,939 (1,682,353) 804
+Income before income taxes . . . . . . . . . . . 278,404 426,820 250,218
+Adjustments:
+Amortization of EnvisionRx intangible
+assets.......................... 55,527 — —
+LIFO charge (credit) . . . . . . . . . . . . . . . . 11,163 (18,857) 104,142
+Loss on debt retirements, net . . . . . . . . . . 33,205 18,512 62,443
+Acquisition-related costs. . . . . . . . . . . . . . 27,482 8,309 —
+Adjusted income before income taxes . . . . . . . 405,781 434,784 416,803
+Adjusted income tax expense(a) . . . . . . . . . . . 164,747 161,740 269,672
+Adjusted net income. . . . . . . . . . . . . . . . . . . . $241,034 $ 273,044 $147,131
+Adjusted net income per diluted share. . . . . . . $ 0.23 $ 0.27 $ 0.12
+(a) The estimated annualized effective tax rate used for the fifty-two weeks ended
+February 28, 2015 is adjusted for the income tax valuation allowance reduction of
+$1.841 billion.
+64

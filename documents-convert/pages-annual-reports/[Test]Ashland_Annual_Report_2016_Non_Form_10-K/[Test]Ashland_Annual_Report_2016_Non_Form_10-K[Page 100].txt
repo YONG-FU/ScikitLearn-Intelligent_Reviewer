@@ -1,0 +1,53 @@
+NOTE A — SIGNIFICANT ACCOUNTING POLICIES (continued)
+Income taxes
+Ashland is subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment in the
+forecasting of taxable income using historical and projected future operating results is required in determining Ashland’s provision
+for income taxes and the related assets and liabilities. The provision for income taxes includes income taxes paid, currently payable
+or receivable, and deferred taxes. Deferred tax assets and liabilities are determined based on differences between financial reporting
+and tax basis of assets and liabilities, and are measured using enacted tax rates and laws that are expected to be in effect when the
+differences reverse. Deferred tax assets are also recognized for the estimated future effects of tax loss carryforwards. The effect
+on deferred taxes of changes in tax rates is recognized in the period in which the enactment date occurs. Valuation allowances are
+established when necessary on a jurisdictional basis to reduce deferred tax assets to the amounts expected to be realized. In the
+event that the actual outcome of future tax consequences differs from Ashland’s estimates and assumptions due to changes or
+future events such as tax legislation, geographic mix of earnings, completion of tax audits or earnings repatriation plans, the
+resulting change to the provision for income taxes could have a material effect on the Statements of Consolidated Comprehensive
+Income and Consolidated Balance Sheets. For additional information on income taxes, see Note M.
+A progression of activity in the tax valuation allowances for both continuing and discontinued operations is presented in the
+following table.
+(In millions) 2016 2015 2014
+Tax valuation allowances - beginning of year $ 107 $ 148 $ 166 7
+Adjustments to net income 43 (27) (5)
+Reserves utilized (8) (14) (14)
+Other changes — — 1
+Tax valuation allowances - end of year :$ 142 :$ 107 :$ 148
+Asbestos-related litigation
+Ashland is subject to liabilities from claims alleging personal injury caused by exposure to asbestos. Such claims result from
+indemnification obligations undertaken in 1990 in connection with the sale of Riley Stoker Corporation (Riley) and the acquisition
+of Hercules Incorporated (Hercules) in November 2008. Although Riley, a former subsidiary, was neither a producer nor a
+manufacturer of asbestos, its industrial boilers contained some asbestos-containing components provided by other
+companies. Hercules, an indirect wholly-owned subsidiary of Ashland, has liabilities from claims alleging personal injury caused
+by exposure to asbestos. Such claims typically arise from alleged exposure to asbestos fibers from resin encapsulated pipe and
+tank products sold by one of Hercules’ former subsidiaries to a limited industrial market.
+Ashland retained Hamilton, Rabinovitz & Associates, Inc. (HR&A) to assist in developing and annually updating independent
+reserve estimates for future asbestos claims and related costs given various assumptions. The methodology used by HR&A to
+project future asbestos costs is based largely on Ashland’s recent experience, including claim-filing and settlement rates, disease
+mix, enacted legislation, open claims, and litigation defense. Ashland’s claim experience is compared to the results of previously
+conducted epidemiological studies estimating the number of people likely to develop asbestos-related diseases. Those studies
+were undertaken in connection with national analyses of the population expected to have been exposed to asbestos. Using that
+information, HR&A estimates a range of the number of future claims that may be filed, as well as the related costs that may be
+incurred in resolving those claims. From the range of estimates, Ashland records the amount it believes to be the best estimate of
+future payments for litigation defense and claim settlement costs. For additional information on asbestos-related litigation, see
+Note 0.
+Environmental remediation
+Accruals for environmental remediation are recognized when it is probable a liability has been incurred and the amount of
+that liability can be reasonably estimated. Such costs are charged to expense if they relate to the remediation of conditions caused
+by past operations or are not expected to mitigate or prevent contamination from future operations. Liabilities are recorded at
+estimated cost values based on experience, assessments and current technology, without regard to any third-party recoveries and
+are regularly adjusted as environmental assessments and remediation efforts continue. For additional information on environmental
+remediation, see Note 0.
+Pension and other postretirement beneﬁts
+The funded status of Ashland’s pension and other postretirement benefit plans is recognized in the Consolidated Balance
+Sheets. The funded status is measured as the difference between the fair value of plan assets and the benefit obligation at
+September 30, the measurement date. For defined benefit pension plans, the benefit obligation is the projected benefit obligation
+(PEG) and for the other postretirement benefit plans, the benefit obligation is the accumulated postretirement benefit obligation
+F -13

@@ -1,0 +1,45 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+the Company’s intangible assets and other long-lived assets are estimated when events or changes in circumstances such as market
+value, asset utilization, physical change, legal factors, or other matters indicate that the carrying value may not be recoverable.
+In determining the fair value of financial assets and liabilities, the Company currently utilizes market data or other assumptions
+that it believes market participants would use in pricing the asset or liability in the principal or most advantageous market, and
+adjusts for non-performance and/or other risk associated with the Company as well as counterparties, as appropriate. When
+considering market participant assumptions in fair value measurements, the following fair value hierarchy distinguishes between
+observable and unobservable inputs, which are categorized in one of the following levels:
+Level 1 Inputs: Unadjusted quoted prices which are available in active markets for identical assets or liabilities accessible
+to the Company at the measurement date.
+Level 2 Inputs: Inputs other than quoted prices included in Level 1 inputs that are observable for the asset or liability,
+either directly or indirectly, for substantially the full term of the asset or liability.
+Level 3 Inputs: Unobservable inputs for the asset or liability used to measure fair value to the extent that observable
+inputs are not available, thereby allowing for situations in which there is little, if any, market activity for the asset or
+liability at measurement date.
+The hierarchy gives the highest priority to Level 1, as this level provides the most reliable measure of fair value, while giving the
+lowest priority to Level 3.
+Financial Liabilities Measured at Fair Value on a Recurring Basis
+The initial fair values of PF G debt and warrant debt (see Note 3) were based on the present value of expected future cash ﬂows
+and assumptions about current interest rates and the creditworthiness of the Company (Level 3). The fair value of the bifurcated
+conversion feature represented by the warrant derivative liability, which is measured at fair value on a recurring basis is based on
+a Black Scholes option pricing model with assumptions for stock price, exercise price, volatility, expected term, risk free interest
+rate and dividend yield similar to those described for share-based compensation which were generally observable (Level 2).
+Financial liabilities measured at fair value on a recurring basis are summarized below (in thousands):
+Total
+September 30, 2016 7 Level 1 7 7 Level 2 7 7 Level 3 7 7 Fair Value 7
+Derivative liability $ — $ 67 $ — $ 67
+Total
+September 30, 2015 7 Level 1 7 7 Level 2 7 7 Level 3 7 7 Fail. Value 7
+PFG debt, net of discount 55 — $ — $ 1,347 $ 1,347
+Warrant debt — — 63 63
+Derivative liability : —: : 109: : —: : 109:
+$ — $ 109 $ 1,410 $ 1,519
+Included below is a summary of the changes in our Level 3 fair value measurements (in thousands):
+PFG Debt, net Warrant
+: of discount : : Debt :
+Balance as of September 30, 2015 $ 1,347 $ 63
+Activity during the period:
+Disbursement of Tranche 2, net of discount 462 22
+Payments to PF G (655) —
+Change in fair value : 71 : : 17 :
+Balance as of September 30, 2016 $ 1,225 $ 102
+56

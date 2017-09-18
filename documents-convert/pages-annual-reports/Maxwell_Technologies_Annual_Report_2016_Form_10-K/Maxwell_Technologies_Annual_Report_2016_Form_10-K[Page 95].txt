@@ -1,0 +1,31 @@
+“ ,BackgraundjntellectuaLEronerti;” (or “ BIB)” means any Intellectual Property, excluding the Patents, owned or controlled by a Party prior to
+the execution of this Localization Agreement or arising outside the scope of the work performed under this Localization Agreement and without
+use of Conﬁdential Information of the other Party.
+" Conﬁdential Information " means:-
+- all information as so deﬁned within the Conﬁdential and Nondisclosure Agreement, as amended, by and between the Parties with an
+effective date of March 31, 2014 (hereinafter “ NDA ”);
+- such additional information which is designated as being conﬁdential information within this Localization Agreement or the Localization
+Term Sheet; and
+- any other information disclosed under or in relation to the negotiation of this Localization Agreement or the Localization Term Sheet.
+“ Control,” (and its derivate, “ Controlled”) means, in relation to any Person, the power to direct, directly or indirectly, the management or
+policies of a Person, whether through (1) ownership, direct or indirect, of more than ﬁfty percent (50%) of the issued and paid up voting share
+capital of such Person; or (2) ownership, direct or indirect, of more than ﬁfty percent (50%) of the voting power of such Person; or (3)
+possession, directly or indirectly, of the power to appoint or approve the appointment of more than half of the members of the board of
+directors or similar governing body of such Person.
+“ Customers,” means any purchasers or end users of the UCAP Modules in the Territory in the Field who are supplied UCAP Modules by or on
+behalf of Party A.
+“ ,Eﬁfectiveﬂate,” means the date appearing beneath the last signature affixed to this Localization Agreement.
+“ ﬁqgipment," means the equipment used for manufacturing UCAP Modules, details of which are set out in Annex A, including all related
+accessories, manuals and instructions provided for it, and which was delivered to Party A in accordance with the Equipment Letter.
+“ Equipmentietteﬂ means the letter from Party B to Party A regarding "Equipment Delivery for Localization Activities" dated November 7 2016.
+“ Extended Production Date ” means a period of six (6) months following the Production Date.
+“ ,EaiLlZalue," means a reasonable sale price having regard to the cost of manufacture, individual components (including the price of the UCAP
+Cell), labor and the relative cost of similar products in the Territory at the applicable level of supply chain.
+“ ,Eield,” means the bus market.
+“ Foreground Intellectual Propertig” (or “ FIP”) means all Intellectual Property invented, conceived, developed, devised, discovered, authored,
+or created by the Parties, either solely or jointly, in the course of the work performed under this Localization Agreement.
+“ InitiaLliCA/lMQdules,” means the versions of the UCAP Modules sold by Party B as of the date of this Localization Agreement in the form of a
+48V UCAP Module, a 54V UCAP Module, and a 96V UCAP Module.
+Conﬁdenﬁal
+Maxwell Agreement No.: 000004530
+Localization Agreement — SRI-Maxwell 3

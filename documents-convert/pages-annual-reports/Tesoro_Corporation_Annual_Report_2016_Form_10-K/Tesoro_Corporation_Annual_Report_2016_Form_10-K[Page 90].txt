@@ -1,0 +1,37 @@
+[ WEE GONSOA WW ]
+INCOME STATEMENT LOCATION OF GAINS (LOSSES) ON MARK-TO-MARKET DERIVATIVES (in millions)
+Years Ended December 31,
+2016 2015 2014
+Revenues $ (4) $ 67 $ 26
+Cost of sales (63) 212 456
+Other income, net — (5) (5)
+Total Gain (Loss) on Mark-to-Market Derivatives $ (67) $ 273 $ 477
+We did not designate any of our derivatives for hedge accounting during the years ended December 31, 2016, 2015 and 2014.
+OPEN LONG (SHORT) POSITIONS
+OUTSTANDING COMMODITY AND OTHER CONTRACTS (units in thousands)
+Contract Volumes by Year of Maturity
+Mark-to—Market Derivative Instrument 2017 2018 Unit of Measure
+Crude oil, refined products and blending products:
+Futures - short (6,457) — Barrels
+Futures - long — 15 Barrels
+Swap Contracts - long 467 — Barrels
+Forwards - short (261) — Barrels
+Environmental credits:
+Futures - long 1,000 — Tons
+Corn:
+Futures - short (6,310) — Bushels
+At December 31, 2016, we had open Forward Currency Contracts to purchase CAD $16 million that matured on January 24, 2017.
+NOTE 11 — FAIR VALUE MEASUREMENTS
+RECURRING FAIR VALUE MEASUREMENTS
+We classify ﬁnancial assets and liabilities according to the fair value hierarchy. Financial assets and liabilities classiﬁed as level 1 instruments are valued
+based on quoted prices in active markets for identical assets and liabilities. Level 2 instruments are valued based on quoted prices for similar assets and liabilities
+in active markets, and inputs other than quoted prices, such as liquidity, that are observable for the asset or liability. Our level 2 instruments include derivatives
+valued using market quotations from independent price reporting agencies, third-party brokers and commodity exchange price curves that are corroborated
+with market data. Level 3 instruments are valued using signiﬁcant unobservable inputs that are not supported by sufﬁcient market activity. We do not have any
+financial assets or liabilities classified as level 3 at December 31, 2016 or December 31, 2015.
+Our ﬁnancial assets and liabilities measured at fair value on a recurring basis include derivative instruments. Additionally, our ﬁnancial liabilities include
+obligations for Rle and cap and trade emission credits for the state of California (together with RINs, our "Environmental Credit Obligations”). See Note 10 for
+further information on our derivative instruments. Amounts presented below for Environmental Credit Obligations represent the estimated fair value amount at
+each balance sheet date for which we do not have sufﬁcient RINs and California cap and trade credits to satisfy our obligations to the EPA and the state of
+California, respectively.
+December 31, 2016 | 85

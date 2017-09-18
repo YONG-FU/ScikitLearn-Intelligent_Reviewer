@@ -1,0 +1,48 @@
+(d) If at any time:
+(1) the Trustee for the Securities of any series shall fail to comply with Section 310(b) of the Trust Indenture Act pursuant to Section 608 hereof after
+written request therefor by the Company or by any Holder who has been a bona fide Holder of a Security of such series for at least six months, unless the
+Trustee’s duty to resign is stayed in accordance with the provisions of Section 310(b) of the Trust Indenture Act, or
+(2) such Trustee shall cease to be eligible under Section 609 and shall fail to resign after written request therefor by the Company or by any such
+Holder, or
+(3) such Trustee shall become incapable of acting or shall be adjudged a bankrupt or insolvent or a receiver of such Trustee or of its property shall be
+appointed or any public officer shall take charge or control of such Trustee or of its property or affairs for the purpose of rehabilitation, conservation or
+liquidation,
+then, in any such case, (i) the Company by a Board Resolution may remove such Trustee or (ii) subject to Section 514, any Holder who has been a bona fide Holder
+of a Security of such series for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the
+removal of such Trustee and the appointment of a successor Trustee.
+(e) If the Trustee for the Securities of any series shall resign, be removed or become incapable of acting, or if a vacancy shall occur in the office of Trustee
+for the Securities of any series for any cause, the Company, by a Board Resolution, shall promptly appoint a successor Trustee with respect to the Securities of such
+series and shall comply with the applicable requirements of Section 611. If, within one year after such resignation, removal or incapability, or the occurrence of
+such vacancy, a successor Trustee with respect to the Securities of such series shall be appointed by Act of the Holders of a majority in principal amount of the
+Outstanding Securities of such series delivered to the Company and the retiring Trustee, the successor Trustee so appointed shall, forthwith upon its acceptance of
+such appointment in accordance with the applicable requirements of Section 611, become the successor Trustee for the Securities of such series and supersede the
+successor Trustee appointed by the Company. If no successor Trustee for the Securities of such series shall have been so appointed by the Company or the Holders
+and shall have accepted appointment in the manner required by Section 611, and if such Trustee is still incapable of acting, any Holder who has been a bona fide
+Holder of a Security of such series for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for
+the appointment of a successor Trustee with respect to the Securities of such series.
+(f) The Company shall give notice of each resignation and each removal of the Trustee with respect to the Securities of any series and each appointment of a
+successor Trustee with respect to the Securities of any series in the manner and to the extent provided in Section 106. Each notice shall include the name of the
+successor Trustee with respect to the Securities of that series and the address of its Corporate Trust Office.
+SECTION 611. Acceptance of Appointment by Successor.
+(a) Every such successor Trustee appointed hereunder with respect to the Securities of any series shall execute, acknowledge and deliver to the Company and
+to the retiring Trustee an instrument accepting such appointment, and thereupon the resignation or removal of the retiring Trustee shall become effective and such
+successor Trustee without any further act, deed or conveyance, shall become vested with all the rights, powers, trusts and duties of the retiring Trustee; but, on the
+written request of the Company or the successor Trustee, such retiring Trustee shall, upon payment of its charges, execute and deliver an instrument transferring to
+such successor Trustee all the rights, powers and trusts of the retiring Trustee and shall duly assign, transfer and deliver to such successor Trustee all property and
+money held by such retiring Trustee hereunder.
+(b) In case of the appointment hereunder of a successor Trustee with respect to the Securities of one or more (but not all) series, the Company, the retiring
+Trustee and each successor Trustee with respect to the Securities of one or more series shall execute and deliver an indenture supplemental hereto wherein each
+successor Trustee shall accept such appointment and which (1) shall contain such provisions as shall be necessary or desirable to transfer and confirm to, and to vest
+in, each successor Trustee all the rights, powers, trusts and duties of the retiring Trustee with respect to the Securities of that or those series to which the
+appointment of such successor Trustee relates, (2) if the retiring Trustee is not retiring with respect to all Securities, shall contain such provisions as shall be
+deemed necessary or desirable to confirm that all the rights, powers, trusts and duties of the retiring Trustee with respect to the Securities of that or those series as to
+which the retiring Trustee is not retiring shall continue to be vested in the retiring Trustee and (3) shall add to or change any of the provisions of this Indenture as
+shall be necessary to provide for or facilitate the administration of the trusts hereunder by more than one Trustee, it being understood that nothing herein or in such
+supplemental indenture shall constitute such Trustees co-trustees of the same trust and each such Trustee shall be trustee of a trust or trusts hereunder separate and
+apart from any trust or trusts hereunder administered by any other such Trustee; and upon the execution and delivery of such supplemental indenture the resignation
+or removal of the retiring Trustee shall become effective to the extent provided therein and each such successor Trustee, without any further act, deed or
+conveyance, shall become vested with all the rights, powers, trusts and duties of the retiring Trustee with respect to the Securities of that or those series to which the
+appointment of such successor Trustee relates; but, on written request of the Company or any successor Trustee, such retiring Trustee shall duly assign, transfer and
+deliver to such successor Trustee all property and money held by such retiring Trustee hereunder with respect to the Securities of that or those series to which the
+appointment of such successor Trustee relates.
+34

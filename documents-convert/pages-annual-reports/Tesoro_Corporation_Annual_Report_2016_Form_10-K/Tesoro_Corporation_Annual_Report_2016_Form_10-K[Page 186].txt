@@ -1,0 +1,44 @@
+(iii) If any holder of a beneﬁcial interest in a Global Note proposes to exchange such beneﬁcial interest for a Deﬁnitive Note or to transfer such
+beneﬁcial interest to a Person who takes delivery thereof in the form of a Deﬁnitive Note, then, upon notice by the Registrar of satisfaction of the conditions
+set forth in Sectionznﬁthg) hereof, the Trustee shall cause the aggregate principal amount of the applicable Global Note to be reduced accordingly
+pursuant to SectionZDﬁIQ hereof, and the Issuers shall execute and the Trustee shall authenticate and make available for delivery to the Person designated
+in the instructions a Deﬁnitive Note in the appropriate principal amount. Any Deﬁnitive Note issued in exchange for a beneﬁcial interest pursuant to this
+Secti,on,2,.0,6(g),( shall be registered in such name or names and in such authorized denomination or denominations as the holder of such beneﬁcial interest
+shall instruct the Registrar through instructions from the Depositary and the Participant or Indirect Participant. The Trustee shall make available for delivery
+such Deﬁnitive Notes to the Persons in whose names such Notes are so registered.
+((1) Transfer and Exchange of Deﬁnitive Notes for Beneﬁcial Interests.
+(i) [Reserved].
+(ii) [Reserved].
+(iii) A Holder of a Deﬁnitive Note may exchange such Note for a beneﬁcial interest in a Global Note or transfer such Deﬁnitive Note to a Person who
+takes delivery thereof in the form of a beneﬁcial interest in a Global Note at any time. Upon receipt of a request for such an exchange or transfer, the Trustee
+shall cancel the applicable Deﬁnitive Note and increase or cause to be increased the aggregate principal amount of one of the Global Notes.
+(iv) If any such exchange or transfer from a Deﬁnitive Note to a beneﬁcial interest is effected pursuant to subparagraph (iii) above at a time when a
+Global Note has not yet been issued, the Issuers shall issue and, upon receipt of an Authentication Order in accordance with S,e,c,tion,2,.0,2, hereof, the Trustee
+shall authenticate one or more Global Notes in an aggregate principal amount equal to the principal amount of beneﬁcial interests transferred pursuant to
+subparagraph (iii) above.
+(e) Transfer and Exchange of Deﬁnitive Notes for Deﬁnitive Notes. Upon request by a Holder of Deﬁnitive Notes and such Holder’s compliance with
+the provisions of this Section 2.06Q), the Registrar shall register the transfer or exchange of Deﬁnitive Notes. Prior to such registration of transfer or
+exchange, the requesting Holder shall present or surrender to the Registrar the Deﬁnitive Notes duly endorsed or accompanied by a written instruction of
+transfer in form satisfactory to the Registrar duly executed by such Holder or by his attorney, duly authorized in writing. In addition, the requesting Holder
+shall provide any additional certiﬁcations, documents and information, as applicable, pursuant to the provisions of this SectionZDLﬁCe).
+(f) [Reserved].
+(g) Lﬁegends. The following legends shall appear on the face of all Global Notes and Deﬁnitive Notes issued under this Indenture unless speciﬁcally
+stated otherwise in the applicable provisions of this Indenture.
+(i) :[Reseryed].
+(ii) Global Note Legend. Each Global Note shall bear a legend in substantially the following form:
+“THIS GLOBAL NOTE IS HELD BY TIE DEPOSITARY (AS DEFINED IN TIE INDENTURE GOVERNING THIS NOTE) OR ITS NOMINEE IN
+CUSTODY FOR THE BENEFIT OF TIE BENEFICIAL OWNERS IEREOF, AND IS NOT TRAN SFERABLE TO ANY PERSON UNDER ANY
+CIRCUMSTANCES EXCEPT THAT (I) TIE TRUSTEE MAY MAKE SUCH NOTAT IONS IEREON AS MAY BE REQUIRED PURSUANT TO
+ARTICLE II OF THE INDENTURE, (II) THIS GLOBAL NOTE MAY BE EXCHAN GED IN WHOLE BUT NOT IN PART PURSUANT T O SECJLLON
+2,.0,6,(a) OF TIE INDENTURE, (III) THIS GLOBAL NOTE MAY BE DELIVERED TO TIE TRUSTEE FOR CANCELLATION PURSUANT TO
+SECI 101512.171, OF THE INDENTURE AND (IV) THIS GLOBAL NOTE MAY BE TRAN SFERRED TO A SUCCESSOR DEPOSITARY WITH THE
+PRIOR WRITTEN CONSENT OF T ESORO LOGISTICS LP AND TESORO LOGISTICS FINANCE CORP. OR ANY SUCCESSOR TIERETO.”
+Additionally, for so long as DTC is the Depositary with respect to any Global Note, each such Global Note shall also bear a legend in substantially the
+following form:
+“UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY (AS DEFINED IN TIE INDENTURE
+GOVERNING TIIIS NOTE), TO T ESORO LOGISTICS LP AND TESORO LOGISTICS FINANCE CORP. OR ANY SUCCESSOR TIERETO OR T IEIR
+AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE, OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN TIE NAME OF
+CEDE & CO. OR IN SUCH OTIER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF TIE DEPOSITARY
+(AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTIER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE
+OF TIE DEPOSITARY), ANY TRANSFER, PLEDGE, OR OTIER USE IEREOF
+-22-

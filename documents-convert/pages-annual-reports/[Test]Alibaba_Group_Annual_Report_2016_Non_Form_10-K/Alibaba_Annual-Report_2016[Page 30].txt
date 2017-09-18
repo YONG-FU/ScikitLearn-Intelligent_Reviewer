@@ -1,0 +1,49 @@
+as negative publicity, which could harm our business and reputation and materially reduce our revenue and
+net income.
+Ant Financial Services, which through Alipay provides the substantial majority of the payment processing
+services on our marketplaces as well as other financial services such as wealth management, insurance and credit
+referencing services, is subject to various laws, rules and regulations in the PRC and other countries where it
+operates, including those governing banking, privacy, cross-border and domestic money transmission, anti—money
+laundering, counter-terrorist financing and consumer protection laws, rules and regulations. For example, the laws,
+rules and regulations governing account verification are evolving rapidly. The Administrative Measures for the
+Online Payment Business of Non-bank Payment Institutions, or the Online Payment Measures, which will come
+into effect on July 1, 2016, include provisions relating to account management, security measures and other matters
+and require third-party payment providers to open real-name payment accounts for clients after verifying clients’
+valid identification documents. Different identification verification procedures are required for the opening of
+different types and tiers of payment accounts, which are subject to a range of purchasing and account transfer
+limits. After the effectiveness of the Online Payment Measures, the ability of consumers to pay for purchases on
+our marketplaces using deposits in their Alipay payment accounts may be materially limited, although the Online
+Payment Measures do not affect Alipay’s escrow services. In April 2014, the China Banking Regulatory
+Commission, or the CBRC, and the PBOC issued Joint Circular 10, which requires commercial banks and other
+financial institutions in China to conduct additional customer verification procedures prior to establishing an
+automatic payment link between customers’ bank accounts and their accounts with third-party payment services,
+such as Alipay. These laws, rules and regulations are highly complex and could change or be reinterpreted to make
+it difficult or impossible for Ant Financial Services to comply. In recent years, the PRC government has
+increasingly focused on regulation of the financial industry, including laws, rules and regulations relating to the
+provision of payment services. In addition, Alipay is required to maintain a payment business license in the PRC.
+Ant Financial Services is also required to maintain other applicable money transmitter or other licenses and
+approvals from regulatory authorities in other jurisdictions outside China in which it operates, and the expansion
+by Ant Financial Services of its business may require additional licenses and approvals. In addition, in certain
+jurisdictions outside China where Alipay currently does not have the required money transmitter or other licenses,
+Alipay provides payment processing and escrow services through third-party service providers. If these providers
+were to terminate their relationship with Alipay or otherwise cease providing services to Alipay, cross-border
+transactions on our marketplaces would be negatively affected. If Alipay or its partners fail to obtain and maintain
+all required licenses and approvals or otherwise fails to comply with applicable laws, rules and regulations, if new
+laws, rules or regulations come into effect that impact Alipay or its partners’ businesses, its services could be
+suspended or severely disrupted, and our business, financial condition and results of operations would be materially
+and adversely affected.
+We may be accused of inﬁinging intellectual property rights of third parties and content restrictions of relevant laws.
+Third parties may claim that the technology used in the operation of our platforms or our service offerings or
+the content on our platforms, including content available through our search business, online reading platform and
+news feed features, infringe upon their intellectual property rights. Although we have not in the past faced material
+litigation involving direct claims of infringement by us, the possibility of intellectual property claims against us,
+whether in China or other jurisdictions, increases as we continue to grow, particularly internationally. We have also
+acquired businesses, such as Youku Tudou, that have been, and may continue to be, subject to liabilities for
+infringement of third-party intellectual property rights or other allegations based on the content available on their
+websites or the services they provide. In addition, we expect our ecosystem to involve more and more
+user-generated content, including the entertainment content on Youku Tudou, the interactive media content
+displayed on Tmall and Taobao Marketplace, as well as the data generated, uploaded and saved by users of our
+cloud computing services, over which we have limited control and we may be subject to claims for infringement of
+third-party intellectual property rights, or subject us to additional scrutiny by the relevant government authorities.
+Such claims or scrutiny, whether or not having merit, may result in our expenditure of significant financial and
+25

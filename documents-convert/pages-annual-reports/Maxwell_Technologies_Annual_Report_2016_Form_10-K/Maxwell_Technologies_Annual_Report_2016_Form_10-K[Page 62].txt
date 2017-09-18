@@ -1,0 +1,44 @@
+Stock-Based Compensation
+The Company issues stock-based compensation awards to its employees and non-employee directors, including stock options, restricted stock, restricted
+stock units, and shares under an employee stock purchase plan. The Company records compensation expense for stock-based awards in accordance with the criteria
+set forth in the Stock Compensation Subtopic of the F ASB ASC. The Company uses the Black-Scholes Option pricing model to estimate the fair value of stock
+option grants. The determination of the fair value of stock options utilizing the Black-Scholes model is affected by the Company’s stock price and a number of
+assumptions, including expected volatility, expected term, risk-free interest rate and expected dividends.
+The fair value of restricted stock awards (“RSAs”) and restricted stock unit awards (“RSUs”) with service-based or performance-based vesting is based on
+the closing market price of the Company’s common stock on the date of grant. Compensation expense equal to the fair value of each RSA or RSU is recognized
+ratably over the requisite service period. For RSUs with vesting contingent on Company performance conditions, the Company uses the requisite service period
+that is most likely to occur. The requisite service period is estimated based on the performance period as well as any time-based service requirements. If it is
+unlikely that a performance condition will be achieved, no compensation expense is recognized unless it is later determined that achievement of the performance
+condition is likely. Expense may be adjusted for changes in the expected outcomes of the related performance conditions, with the impact of such changes
+recognized as a cumulative adjustment in the consolidated statement of operations in the period in which the expectation changes.
+In 2014 and 2016, the Company issued market-condition RSUs to certain members of executive management. Since the vesting of the market-condition
+RSUs is dependent on stock price performance, the fair values of these awards were estimated using a Monte-Carlo valuation model. The determination of the fair
+value of market-condition RSUs utilizing a Monte-Carlo valuation model was affected by the Company’s stock price and a number of assumptions, including
+expected volatility, expected life, risk-free interest rate and expected dividends.
+In 2016, Company adopted a bonus plan that enabled participants to earn annual incentive bonuses based upon achievement of specified financial and
+strategic performance objectives. Under the terms of this plan, the Company has the ability to settle bonuses earned under the plan with fully vested RSUs. For the
+ﬁscal year 2016 performance period, the Company intends to settle the amounts earned under the bonus plan in fully vested RSUs in the first quarter of 20 17. The
+stock-based compensation expense accrued under this bonus plan represents stock-settled debt per ASC 718 and ASC 480, as such, the Company has recorded a
+liability for bonuses expected to be paid in fully vested RSUs in “accrued employee compensation” in the Company’s consolidated balance sheets.
+Stock-based compensation expense recognized in the consolidated statements of operations is based on equity awards ultimately expected to vest. The
+Company estimates forfeitures at the time of grant and revises forfeitures, if necessary, in subsequent periods with a cumulative catch up adjustment if actual
+forfeitures differ from those estimates. For market-condition awards, because the effect of the market-condition is reﬂected as an adjustment to the awards’ fair
+value at grant date, subsequent forfeitures due to the Company’s stock price performance do not result in a reversal of expense.
+Recent Accounting Pronouncements
+In May 2014, the Financial Accounting Standards Board (“F ASB”) issued Accounting Standards Update (“ASU”) No. 2014-09, Revenue ﬂom Contracts
+with Customers . The standard provides companies with a single model for accounting for revenue arising from contracts with customers and supersedes current
+revenue recognition guidance, including industry-speciﬁc revenue guidance. The core principle of the model is to recognize revenue when control of the goods or
+services transfers to the customer, as opposed to recognizing revenue when the risks and rewards transfer to the customer under the existing revenue guidance. The
+guidance permits companies to either apply the requirements retrospectively to all prior periods presented, or apply the requirements in the year of adoption,
+through a cumulative adjustment. In August 2015, the FASB issued ASU 2015-14, Deferral of the Effective Date , which defers the required adoption date of ASU
+2014-09 by one year. As a result of the deferred effective date, ASU 2014-09 will be effective for the Company in its first quarter of fiscal 2018. Early adoption is
+permitted but not before the original effective date of the new standard of the first quarter of fiscal 2017. The following ASUs were subsequently issued by the
+FASB to clarify the implementation guidance in some areas and add practical expedients: In March 2016, ASU 2016-08, Revenue ﬂom Contracts with Customers:
+Principal versus Agent Considerations; in April 2016, ASU 2016-10, Revenue ﬂom Contracts with Customers: Identifying Performance Obligations and
+Licensing; in May 2016, ASU 2016-12, Revenue from Contracts with Customers: Narrow Scope Improvements and Practical Expedients; and in December 2016,
+ASU 2016-20, Technical Corrections and Improvements to Revenue ﬂom Contracts with Customers . The Company’s has begun the process of evaluating its
+standard product sales arrangements and has not yet identified any expected material impact on the timing and measurement of revenue for these arrangements
+from the adoption of this standard; however, the Company has not yet formalized its final conclusions from this review process. The Company is still evaluating
+the impact of adoption on non-product sale arrangements, which represent less than five percent of revenue. The Company has also developed a comprehensive
+project plan to guide implementation of the new standard. The Company has not yet determined its method of adoption for the new accounting standard.
+59

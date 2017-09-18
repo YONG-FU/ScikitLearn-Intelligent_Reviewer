@@ -1,0 +1,40 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+The fair value of derivative instruments on our Consolidated Balance Sheets as of December 2, 2016 and November 27,
+2015 were as follows (in thousands):
+7 2016 7 7 2015 7
+7 Fair Value Fair Value 7 7 Fair Value Fair Value 7
+Asset Liability Asset Liability
+Derivatives Derivatives Derivatives Derivatives
+Derivatives designated as hedging instruments:
+I Foreign exchange option contracts mm 55 34,355 $ — $ 16,979 $ — 1
+Interest rate swap (2) 13,117 — 19,821 —
+{Derivatives not designated as hedging instruments: 1
+Foreign exchange forward contracts (1) 3,757 5,246 2,147 2,154
+’Total derivatives $ 51,229 _ $ 5,246 _ $ 38,947 _ $ 2,154 l
+(1) Included in prepaid expenses and other current assets and accrued expenses for asset derivatives and liability derivatives,
+respectively, on our Consolidated Balance Sheets.
+(2) Included in other assets on our Consolidated Balance Sheets.
+(3) Hedging effectiveness expected to be recognized to income within the next twelve months.
+The eﬁect of foreign currency derivative instruments designated as cash ﬂow hedges and of foreign currency derivative
+instruments not designated as hedges in our Consolidated Statements of Income for fiscal 2016, 2015 and 2014 were as follows
+(in thousands):
+7 2016 7 7 2015 7 7 2014 7
+7 Foreign Foreign 7 7 Foreign Foreign 7 7 Foreign Foreign 7
+Exchange Exchange Exchange Exchange Exchange Exchange
+Option Forward Option Forward Option Forward
+: Contracts : : Contracts : : Contracts : : Contracts : : Contracts : : Contracts :
+Derivatives in cash ﬂow hedging relationships:
+Net gain (loss) recognized in other comprehensive
+income, net oftaxa) $ 36,511 $ — $ 39,825 $ — $ 41,993 $ —
+Net gain (loss) reclassified from accumulated
+other comprehensive income into income, net of taxa) $ 18,823 $ — $ 56,336 $ — $ 18,705 EB —
+1 Net gain (loss) recognized in incomem $ (29,169) $ — $ (17,423) $ — $ (14,962) $ — ‘
+Derivatives not designated as hedging relationships:
+1 Net gain (loss) recognized in income“) 33 — $ (1,308) $ — EB 4,430 $ — SB 466 l
+(1) Net change in the fair value of the effective portion classified in other comprehensive income (“OCI”).
+(2) Eﬁective portion classified as revenue.
+(3) Ineffective portion and amount excluded from effectiveness testing classified in interest and other income (expense), net.
+(4) Classified in interest and other income (expense), net.
+8 1

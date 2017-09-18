@@ -1,0 +1,40 @@
+“ Applicable Facility Fee Rate ” means, for any date, a percentage per annum equal to the percentage set forth below determined by reference to the
+higher of (i) the rating of Mondeléz’s long-term senior unsecured Debt from Standard & Poor’s (or, if there shall be no outstanding rated long-term senior
+unsecured Debt of Mondeléz, the long-term company, issuer or similar rating established by Standard & Poor’s for Mondeléz) and (ii) the rating of Mondeléz’s
+long-term senior unsecured Debt from Moody’s (or, if there shall be no outstanding rated long-term senior unsecured Debt of Mondeléz, the long-term company,
+issuer or similar rating established by Moody’s for Mondeléz), in each case on such date:
+Rating Applicable Facility Fee Rate
+lA or higher by Standard & Poor’s
+{M or higher by Moody’s 0070?]
+A- by Standard & Poor’s
+A3 by Moody’s 0.080%
+BBB+ by Standard & Poor’s
+Baal by Moody’s 0.095%
+BBB by Standard & Poor’s
+Baa2 by Moody’s 0.110%
+Lower than BBB by Standard & Poor’s
+Lower than Baa2 by Moody’s 0.125% I
+provided that if on any date of determination (x) a rating is available on such date from only one of Standard & Poor’s and Moody’s but not the other, the
+Applicable Facility Fee Rate shall be determined by reference to the then available rating; (y) no rating is available from either of Standard & Poor’s or Moody’s,
+the Applicable Facility Fee Rate shall be determined by reference to the rating of any other nationally recognized statistical rating organization designated by
+Mondeléz and approved in writing by the Required Lenders and (z) no rating is available from any of Standard & Poor’s, Moody’s or any other nationally
+recognized statistical rating organization designated by Mondeléz and approved in writing by the Required Lenders, the Applicable Facility Fee Rate shall be
+0.125%.
+“ Applicable Interest Rate Margipn” means (a) as to any Base Rate Advance, the applicable rate per annum set forth below under the caption “Base
+Rate Spread” and (b) as to any LIBO Rate Advance, the applicable rate per annum set forth below under the caption “LIBO Rate Spread”, determined by reference
+to the higher of (i) the rating of Mondeléz’s long-term senior unsecured Debt from Standard & Poor’s (or, if there shall be no outstanding rated long-term senior
+unsecured Debt of Mondeléz, the long-term company, issuer or similar rating established by Standard & Poor’s for Mondeléz) and (ii) the rating of Mondeléz’s
+long-term senior unsecured Debt from Moody’s (or, if there shall be no outstanding rated long-term senior unsecured Debt of Mondeléz, the long-term company,
+issuer or similar rating established by Moody’s for Mondeléz), in each case on such date:
+Rating Base Rate Spread LIBO Rate Spread
+lA or higher by Standard & Poor’s
+{A2 or higher by Moody’s 0.000% 080W]
+A- by Standard & Poor’s
+A3 by Moody’s 0.000% 0.920%
+1333+ by Standard & Poor’s l
+Baal by Moody’s 0.030% 1.030%
+BBB by Standard & Poor’s
+Baa2 by Moody’s 0.140% 1.140%
+Lower than BBB by Standard & Poor’s l
+Lower than Baa2 by Moody’s 0.250% 1.250%
+-2-

@@ -1,0 +1,45 @@
+IableofContents
+° VMware vRealize Suite: cloud management platform that extends vCloud Suite capabilities beyond a vSphere private cloud environment to both
+heterogeneous and hybrid cloud environments.
+Software-Deﬁned Data Center Platform
+Our SDDC products can also be delivered through a unified platform. In 2016, we introduced Cloud Foundation, our unified platform that brings together our
+compute, storage and networking technologies into a natively integrated stack to deliver enterprise-ready cloud infrastructure for the private and public clouds. In
+addition, the combined offering includes lifecycle management capabilities to span the full stack. Cloud Foundation is a delivery independent platform that can be
+deployed on-premises or run as-a—service. Customers can choose a hybrid combination of on-premises and as-a-service platforms.
+Primary solutions include:
+° On-Premises— available through major compatible hardware solutions such as VxRack and HPE ProLiant. VxRack is a fully tested and pre-conﬁgured
+Dell EMC rack-scale system, powered by Cloud Foundation for VMware-centric data centers, or by vSphere for traditional architectures.
+- As-a-Service= available through major online service providers, such as IBM Cloud (through our VMware vCloud Air Network offering) and VMware
+vCloud Air (“vCloud Air”). In addition, it is expected to be available in 2017 on Amazon Web Services (“AWS”) through an integrated hybrid offering,
+VMware Cloud on AWS.
+Hybrid Cloud Computing
+In 2016, we re-articulated our cloud strategy and introduced our Cross-Cloud Architecture that enables consistent deployment models, security policies,
+visibility, and governance for all applications, running on-premises and off-premises, regardless of the underlying cloud, hardware platform or hypervisor. Our
+Cross-Cloud Architecture builds on our private and hybrid cloud capabilities by offering customers the freedom to innovate in multiple clouds, and is delivered
+through Cloud Foundation, the VMware vRealize cloud management platform, and a new set of Cross-Cloud Services which VMware is developing. Our
+overarching cloud strategy contains three key components: (i) continue to expand beyond compute virtualization in the private cloud, (ii) extend the private cloud
+into the public cloud and (iii) connect and secure endpoints across a range of public clouds. Our cloud strategy is designed to provide organizations with solutions
+that work across all clouds and all devices.
+We currently enable our customers to utilize off-premises vSphere-based hybrid cloud computing capacity through two offerings: VMware vCloud Air
+Network (“vCAN”) and vCloud Air. In addition, during 2016, we announced a strategic alliance with AWS to build and deliver an integrated hybrid offering,
+VMware Cloud on AWS, which will enable customers to run applications across vSphere-based private, public and hybrid cloud environments, furthering our
+strategic priority of integrating public clouds. VMware Cloud on AWS is expected to become available in 2017.
+vCAN, a key component of our strategic priority to integrate with public clouds, is a global ecosystem of over 4,300 cloud providers in more than
+100 countries providing VMware-based cloud services. Our vCAN program is directed at hosting and cloud computing vendors, enabling organizations to choose
+between running applications in virtual machines on their own private clouds inside their data center or on public clouds hosted by a service provider. For example,
+IBM, OVH and Rackspace are vCAN partners who leverage our SDDC technologies to create cloud services addressing the needs of customers around the world.
+IBM was our ﬁrst vCAN partner to offer Cloud Foundation as a service, which enables their customers to leverage our SDDC technologies on IBM’s Cloud in
+their worldwide cloud data centers.
+vCloud Air, built on the foundation of vSphere, is a public cloud operated by VMware that includes infrastructure and disaster recovery, while providing
+customers with a common platform to seamlessly extend their data center to the cloud. vCloud Air enables customers to extend the same skills, tools, networking
+and security models across both on- and off-premises environments.
+In addition, Cross-Cloud Services are new Software-as-a—Service (“SaaS”) offerings under development to enable visibility into cloud usage and costs,
+enhance consistent networking and security policies, and automate the deployment, management, and migration of applications and data across vSphere and non-
+vSphere private and public clouds. The Cross-Cloud Services we previewed at VMworld and expect to make available in 2017 include discovery and analytics,
+compliance and security and deployment and migration. Cross-Cloud will enable our customers to run, manage, connect and secure their applications across
+private and public clouds, including AWS, Azure, Google Cloud Platform and IBM Cloud, as well as all devices in a common operating environment, regardless of
+whether the underlying infrastructure is VMware-based.
+End-User Computing
+Our EUC portfolio enables our customers to securely deliver access to applications and data for their end users from any device of the user’s choice,
+empowering digital workspaces. Our EUC solutions are designed to Optimize simplicity and choice
+6

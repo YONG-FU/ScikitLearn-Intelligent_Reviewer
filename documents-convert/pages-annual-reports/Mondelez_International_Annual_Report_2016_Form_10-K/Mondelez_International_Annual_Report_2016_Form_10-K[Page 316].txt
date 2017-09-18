@@ -1,0 +1,26 @@
+(k) All amounts payable by the Borrower and Mondeléz hereunder or under any Note to any Lender or the Administrative Agent which (in whole or
+in part) constitute the consideration for a supply or supplies for VAT purposes shall be deemed to be exclusive of any VAT which is chargeable on such supply or
+supplies, and accordingly, if VAT is or becomes chargeable on any supply made by any Lender or the Administrative Agent under this Agreement or any Note and
+such Lender or the Administrative Agent is required to account to the relevant tax authority for the VAT, the Borrower or Mondeléz shall pay to such Lender or the
+Administrative Agent (in addition to and at the same time as paying any other consideration for such supply) an amount equal to the amount of such VAT, and such
+Lender or the Administrative Agent shall correctly and timely issue an appropriate VAT invoice that meets all EU requirements to the Borrower or Mondeléz,
+unless such VAT is owed by the Borrower or Mondeléz to the relevant taxing authority under a reverse charge mechanism.
+SECTION 2.16 Sharing of Payments, Etc . If any Lender shall obtain any payment (whether voluntary, involuntary, through the exercise of any right
+of set-off, or otherwise) on account of the Loans owing to it (other than pursuant to Section 2.12, 2.15 or 9.04(b) or (c)) in excess of its ratable share of payments on
+account of the Loans obtained by all the applicable Lenders, such Lender shall forthwith purchase from the other Lenders such participations in the Loans made by
+them as shall be necessary to cause such purchasing Lender to share the excess payment ratably with each of them; provided , however , that if all or any portion of
+such excess payment is thereafter recovered from such purchasing Lender, such purchase from each Lender shall be rescinded and such Lender shall repay to the
+purchasing Lender the purchase price to the extent of such recovery together with an amount equal to such Lender’s ratable share (according to the proportion of
+(i) the amount of such Lender’s required repayment to (ii) the total amount so recovered from the purchasing Lender) of any interest or other amount paid or
+payable by the purchasing Lender in respect of the total amount so recovered. The Borrower agrees that any Lender so purchasing a participation from another
+Lender pursuant to this Section 2.16 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of set-off) with respect to such
+participation as fully as if such Lender were the direct creditor of the Borrower in the amount of such participation.
+SECTION 2.17 Evidence of Debt .
+(a) Lender Records; Notes . Each Lender shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of
+the Borrower to such Lender resulting from each Loan owing to such Lender from time to time, including the amounts of principal and interest payable and paid to
+such Lender from time to time hereunder in respect of Loans. The Borrower shall, upon notice by any Lender to the Borrower (with a copy of such notice to the
+Administrative Agent) to the effect that a Note is required or appropriate in order for such Lender to evidence (whether for purposes of pledge, enforcement or
+otherwise) the Loans owing to, or to be made by, such Lender, promptly execute and deliver to such Lender a Note, in the case of any Five-Year Loans, in the form
+of Exhibit A-1 hereto and in the case of any Three-Year Loans, in the form of Exhibit A-2 hereto, in each case payable to such Lender (or its registered assigns) in a
+principal amount up to the Commitment or Loan of such Lender.
+-26-

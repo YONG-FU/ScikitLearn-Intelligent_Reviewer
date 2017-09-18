@@ -1,0 +1,38 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+11. DERIVATIVE FINANCIAL INSTRUMENTS
+Fair Value Hedges—Interest Rate Swap Agreements
+In July 2014, we entered into certain interest rate swap agreements that have the economic effect of modifying the fixed-interest obligations associated with our
+October 2019 Notes and July 2021 Notes so that the interest payable on these senior notes effectively became variable based on LIBOR. In July 2013, we entered
+into certain interest rate swap agreements that have the economic effect of modifying the fixed-interest obligations associated with our January 2019 Notes so that
+the interest payable on these senior notes effectively became variable based on LIBOR. The critical terms of the interest rate swap agreements match the critical
+terms of the October 2019 Notes, July 2021 Notes and the January 2019 Notes that the interest rate swap agreements pertain to, including the notional amounts and
+maturity dates.
+We have designated the aforementioned interest rate swap agreements as qualifying hedging instruments and are accounting for them as fair value hedges pursuant
+to ASC 815. These transactions are characterized as fair value hedges for financial accounting purposes because they protect us against changes in the fair values of
+certain of our fixed-rate borrowings due to benchmark interest rate movements. The changes in fair values of these interest rate swap agreements are recognized as
+interest expense in our consolidated statements of operations with the corresponding amounts included in other assets or other non-current liabilities in our
+consolidated balance sheets. The amount of net gain (loss) attributable to the risk being hedged is recognized as interest expense in our consolidated statements of
+operations with the corresponding amount included in notes payable, non-current. The periodic interest settlements for the interest rate swap agreements for the
+October 2019 Notes, July 2021 Notes and the January 2019 Notes are recorded as interest expense and are included as a part of cash ﬂows from operating
+activities.
+In July 2014, we settled the fixed to variable interest rate swap agreements associated with the July 2014 Notes. We do not use any interest rate swap agreements
+for trading purposes.
+Cash Flow Hedges—Cross-Currency Swap Agreements
+In connection with the issuance of our January 2021 Notes, we entered into certain cross-currency swap agreements to manage the related foreign currency
+exchange risk by effectively converting the fixed-rate, Euro-denominated January 2021 Notes, including the annual interest payments and the payment of principal
+at maturity, to fixed-rate, U.S. Dollar-denominated debt. The economic effect of the swap agreements was to eliminate the uncertainty of the cash ﬂows in US.
+Dollars associated with the January 2021 Notes by ﬁxing the principal amount of the January 2021 Notes at $1.6 billion with a fixed annual interest rate of 3.53%.
+We have designated these cross-currency swap agreements as qualifying hedging instruments and are accounting for these as cash ﬂow hedges pursuant to ASC
+815. The critical terms of the cross-currency swap agreements correspond to the January 2021 Notes, including the annual interest payments being hedged, and the
+cross-currency swap agreements mature at the same time as the January 2021 Notes.
+We used the hypothetical derivative method to measure the effectiveness of our cross-currency swap agreements. The fair values of these cross-currency swap
+agreements are recognized as other assets or other non-current liabilities in our consolidated balance sheets. The effective portions of the changes in fair values of
+these cross-currency swap agreements are reported in accumulated other comprehensive loss in our consolidated balance sheets, and an amount is reclassified out
+of accumulated other comprehensive loss into non-operating income (expense), net in the same period that the carrying value of the Euro-denominated January
+2021 Notes is remeasured and the interest expense is recognized. The ineffective portion of the unrealized gains and losses on these cross-currency swaps, if any, is
+recorded immediately to non-operating income (expense), net. We evaluate the effectiveness of our cross-currency swap agreements on a quarterly basis. We did
+not record any ineffectiveness for fiscal 2016, 2015 or 2014. The cash ﬂows related to the cross-currency swap agreements that
+116

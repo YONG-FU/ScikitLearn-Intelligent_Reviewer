@@ -1,0 +1,40 @@
+An analysis of our deferred tax asset valuation allowances is as follows (in millions):
+iYear Ended December 31, 2016 2015 2014 7
+Balance at beginning of year $ 477 SB 649 $ 586
+Additions 68 42 104
+Decrease due to reclassification to assets held for sale (9) (163) —
+:Deductions (6) (5 1) (41):
+Balance at end of year $ 530 $ 477 $ 649 r
+The Company's deferred tax asset valuation allowances are primarily the result of uncertainties regarding the future realization
+of recorded tax benefits on tax loss carryforwards from operations in various jurisdictions. Current evidence does not suggest
+we will realize sufficient taxable income of the appropriate character within the carryforward period to allow us to realize these
+deferred tax benefits. If we were to identify and implement tax planning strategies to recover these deferred tax assets or
+generate sufficient income of the appropriate character in these jurisdictions in the future, it could lead to the reversal of these
+valuation allowances and a reduction of income tax expense. The Company believes that it will generate suﬁicient future
+taxable income to realize the tax benefits related to the remaining net deferred tax assets in our consolidated balance sheets.
+In 2016, the Company recognized a net increase of $53 million in its valuation allowances. This increase was primarily due to
+the increase in non-deductible expenses incurred during the normal course of business operations.
+In 2015, the Company recognized a net decrease of $172 million in its valuation allowances. As a result of our German bottling
+operations meeting the criteria to be classified as held for sale, the Company was required to present the related assets and
+liabilities as separate line items in our consolidated balance sheets. In addition, the changes in net operating losses during the
+normal course of business and changes in deferred tax assets and related valuation allowances on certain equity investments
+also contributed to a decrease in the valuation allowances. These decreases were partially offset by an increase in the valuation
+allowances primarily due to the impact of currency devaluations in Venezuela on certain receivables.
+In 2014, the Company recognized a net increase of $63 million in its valuation allowances. This increase was primarily due to
+the increase in net operating losses during the normal course of business operations and due to the remeasurement of the net
+monetary assets of our local Venezuelan subsidiary into US. dollars using the SICAD 2 exchange rate. The Company
+recognized a reduction in the valuation allowances primarily due to changes in deferred tax assets and related valuation
+allowances on certain equity investments and decreases in net operating losses during the normal course of business operations.
+NOTE 15: OTHER COMPREHENSIVE INCOME
+AOCI attributable to shareowners of The Coca-Cola Company is separately presented in our consolidated balance sheets as a
+component of The Coca-Cola Company's shareowners' equity, which also includes our proportionate share of equity method
+investees' AOCI. OCI attributable to noncontrolling interests is allocated to, and included in, our balance sheets as part of the
+line item equity attributable to noncontrolling interests.
+AOCI attributable to shareowners of The Coca-Cola Company consisted of the following, net of tax (in millions):
+iDecember 31, 2016 2015 7
+Foreign currency translation adjustments $ (9,780) $ (9,167)
+Accumulated derivative net gains (losses) 314 696
+Unrealized net gains (losses) on available-for—sale securities 305 288
+Adjustments to pension and other benefit liabilities (2,044) (1,991)
+Accumulated other comprehensive income (loss) $ (11,205) $ (10,174)
+123

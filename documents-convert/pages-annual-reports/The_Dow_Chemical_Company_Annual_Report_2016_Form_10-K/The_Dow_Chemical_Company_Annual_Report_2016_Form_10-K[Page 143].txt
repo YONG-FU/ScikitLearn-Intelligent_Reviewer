@@ -1,0 +1,53 @@
+of 2015, included in "Sundry income (expense) - net" in the consolidated statements of income and reﬂected in the Agricultural
+Sciences segment.
+The Company previously held a variable interest in an owner trust, for which the Company was the primary beneficiary. The
+owner trust leased an ethylene production facility in The Netherlands to the Company, whereby substantially all of the rights
+and obligations of ownership were transferred to the Company. The Company’s variable interest in the owner trust related to a
+fixed purchase price option. On January 2, 2014, the Company purchased the ethylene production facility for $406 million. The
+Company classified $346 million as "Payments on long-term debt" and $60 million as "Purchases of noncontrolling interests"
+in the consolidated statements of cash flows.
+The Company's consolidated financial statements include the assets, liabilities and results of operations of variable interest
+entities ("VIEs") for which the Company is the primary beneficiary. The other equity holders’ interests are reﬂected in "Net
+income attributable to noncontrolling interests" in the consolidated statements of income and "Noncontrolling interests" and
+"Accrued and other current liabilities" in the consolidated balance sheets. The following table summarizes the carrying amounts
+of these entities’ assets and liabilities included in the Company’s consolidated balance sheets at December 31, 2016 and 2015:
+Assets and Liabilities of Consolidated VIEs at December 31
+In millions 2 01 6 2015
+[Cash and cash equivalents $ 75 $ 158
+Other current assets 95 112
+|Net pgperty 961 1,717 1
+,Other noncurrent assets 55 65 7
+[Total assets (1) $ 1,186 $ 2,052
+Current liabilities (nonrecourse 2016: $286; 2015: $256) $ 286 $ 258 7
+|Long-term debt (nonrecourse 2016: $330; 2015: $487) 330 504 1
+,Other noncurrent obligations (nonrecourse 2016: $47; 2015 : $51) 47 51 7
+[Total liabilities as 663 $ 813 j
+(1) All assets were restricted at December 31, 2016 and December 31, 2015.
+In addition, the Company holds a variable interest in an entity created to monetize accounts receivable of select European
+entities. This is the seventh entity for which the Company is the primary beneficiary and it results from the Company holding
+subordinated notes while maintaining servicing responsibilities for the accounts receivable. The carrying amounts of assets and
+liabilities included in the Company’s consolidated balance sheets pertaining to this entity were current assets of $477 million
+(zero restricted) at December 31, 2016 ($103 million, zero restricted, at December 31, 2015) and current liabilities of less than
+$1 million (zero nonrecourse) at December 31, 2016 (less than $1 million, zero nonrecourse, at December 31, 2015).
+Amounts presented in the consolidated balance sheets and the table above as restricted assets or nonrecourse obligations
+relating to consolidated VIEs at December 31, 2016 and 2015 are adjusted for intercompany eliminations and parental
+guarantees.
+Noneonsolidated Variable Interest Entities
+As a result of the DCC Transaction, the Company holds variable interests in Hemlock Semiconductor L.L.C. The variable
+interests relate to an equity interest held by the Company and arrangements between the Company and the joint venture to
+provide services. The Company is not the primary beneficiary, as it does not direct the activities that most significantly impact
+the economic performance of this entity; therefore, the entity is accounted for under the equity method of accounting. At
+December 31, 2016, the Company had a negative investment basis of $902 million in this joint venture, which is classified as
+"Other noncurrent obligations" in the consolidated balance sheets. The Company's maximum exposure to loss was zero at
+December 31, 2016. See Note 9 for additional information on this variable interest entity.
+Also as a result of the DCC Transaction, the Company holds minority voting interests in certain joint ventures that produce
+silicon inputs for the Company. These joint ventures operate under supply agreements that sell inventory to the equity owners
+using pricing mechanisms that guarantee a return, therefore shielding the joint ventures from the obligation to absorb expected
+losses. As a result of the pricing mechanisms of these agreements, these entities are determined to be variable interest entities.
+The Company is not the primary beneficiary, as it does not hold the power to direct the activities that most significantly impact
+the economic performance of these entities; therefore, the entities are accounted for under the equity method of accounting. The
+Company's maximum exposure to loss as a result of its involvement with these variable interest entities is determined to be the
+carrying value of the investment in these entities. At December 31, 2016, the Company's investment in these joint ventures was
+$96 million and is classified as "Investment in nonconsolidated affiliates" in the consolidated balance sheets, representing the
+Company's maximum exposure to loss.
+135

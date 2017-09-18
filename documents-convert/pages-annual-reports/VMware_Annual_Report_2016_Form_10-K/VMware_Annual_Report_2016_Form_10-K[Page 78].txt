@@ -1,0 +1,48 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+The following tables set forth the fair value hierarchy of VMware’s cash equivalents, available-for—sale securities and derivatives that were required to be
+measured at fair value as of December 31, 2016 and 2015 (tables in millions):
+December 31, 2016
+Level 1 Level 2 Total
+ICash equivalents: — — I
+Money-market funds $ 2,235 $ — $ 2,235
+I Time deposits — 26 26 I
+Municipal obligations — 17 17
+I Total cash equivalents $ 2,235 — $ 43 — $ 2,278 I
+Short-term investments: — —
+I US Government and agency obligations $ 441 $ 290 $ 731 I
+US and foreign corporate debt securities — 3,869 3,869
+I Foreign governments and multi-national agency obligations — 32 32 I
+Municipal obligations — 365 365
+I Asset-backed securities — 4 4 I
+Mortgage-backed securities — 194 194
+I Total short-term investments 33 441 — $ 4,754 — $ 5,195 I
+Other current assets: — —
+I Derivative on stock purchase with Dell (refer to Note B) $ — $ 8 $ 8 I
+Other assets: — —
+I Marketable available-for-sale equity securities $ 22 _ $ — _ $ 22 I
+December 31, 2015
+Level 1 Level 2 Total
+ICash equivalents: — — I
+Money-market funds $ 1,763 $ — $ 1,763
+I Time deposits — 5 5 I
+Total cash equivalents $ 1,763 — $ 5 — $ 1,768
+IShort—term investments: — — I
+Time deposits $ — $ 12 $ 12
+I US Government and agency obligations 543 207 750 I
+US and foreign corporate debt securities — 3,252 3,252
+I Foreign governments and multi-national agency obligations — 35 35 I
+Municipal obligations — 706 706
+I Asset-backed securities — 20 20 I
+Mortgage-backed securities — 241 241
+I Total short-term investments 33 543 — $ 4,473 — $ 5,016 I
+Other assets: — —
+I Marketable available-for-sale equity securities $ 18 $ — $ 18 I
+Notes payable to Dell are not adjusted to fair value. The fair value of the notes payable to Dell was approximately $1,489 million and $1,474 million ,
+respectively. Fair value was estimated primarily based on observable market interest rates (Level 2 inputs).
+VMware offers a deferred compensation plan for eligible employees, which allows participants to defer payment for part or all of their compensation. The net
+impact to the consolidated statements of income is not significant since changes in the fair value of the assets substantially offset changes in the fair value of the
+liabilities. As such, assets and liabilities associated with this plan have not been included in the above tables. Assets and liabilities associated with this plan were
+both approximately
+75

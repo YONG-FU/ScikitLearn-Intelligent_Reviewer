@@ -1,0 +1,44 @@
+volume, geography and industry lines. The Company allocates arrangement consideration across the multiple elements using the
+relative selling price method.
+At the inception of a customer contract, the Company makes an assessment as to that customer’s ability to pay for the
+services provided. The Company bases its assessment on a combination of factors, including the successful completion of a credit
+check or financial review, its collection experience with the customer and other forms of payment assurance. Upon the completion
+of these steps, the Company recognizes revenue monthly in accordance with its revenue recognition policy. If the Company
+subsequently determines that collection from the customer is not reasonably assured, the Company records an allowance for
+doubtful accounts and bad debt expense for all of that customer ’5 unpaid invoices and ceases recognizing revenue for continued
+services provided until cash is received from the customer. Changes in the Company’s estimates and judgments about whether
+collection is reasonably assured would change the timing of revenue or amount of bad debt expense that the Company recognizes.
+The Company also sells its services through reseller channels. Assuming all other revenue recognition criteria are met, the
+Company recognizes revenue from reseller arrangements based on the reseller’s contracted non-refundable minimum purchase
+commitments over the term of the contract, plus amounts sold by the reseller to its customers in excess of the minimum
+commitments. Amounts attributable to this excess usage are recognized as revenue in the period in which the service is provided.
+From time to time, the Company enters into contracts to sell its services or license its technology to unrelated enterprises at
+or about the same time that it enters into contracts to purchase products or services from the same enterprises. If the Company
+concludes that these contracts were negotiated concurrently, the Company records as revenue only the net cash received from the
+vendor, unless the product or service received has a separate identifiable benefit and the fair value of the vendor’s product or
+service can be established objectively.
+The Company may from time to time resell licenses or services of third parties. The Company records revenue for these
+transactions on a gross basis when the Company has risk of loss related to the amounts purchased from the third party and the
+Company adds value to the license or service, such as by providing maintenance or support for such license or service. If these
+conditions are present, the Company recognizes revenue when all other revenue recognition criteria are satisfied.
+Deferred revenue represents amounts billed to customers for which revenue has not been recognized. Deferred revenue
+primarily consists of the unearned portion of monthly billed service fees, prepayments made by customers for future periods,
+deferred integration and activation set-up fees and amounts billed under customer arrangements with extended payment terms.
+Cost of Revenue
+Cost of revenue consists primarily of fees paid to network providers for bandwidth and to third party network data centers for
+housing servers, also known as co-location costs. Cost of revenue also includes employee costs for services delivery and network
+operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of
+network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for
+the production of live events. The Company enters into contracts for bandwidth with third party network providers with terms
+typically ranging from several months to five years. These contracts generally commit the Company to pay minimum monthly
+fees plus additional fees for bandwidth usage above the committed level. In some circumstances, Internet service providers
+(“ISPs”) make rack space available for the Company’s servers and access to their bandwidth at a discount or no cost. In exchange,
+the ISP and its customers benefit by receiving content through a local Company server resulting in better content delivery. The
+Company does not consider these relationships to represent the culmination of an earnings process. Accordingly, the Company
+does not recognize as revenue the value to the ISPs associated with the use of the Company’s servers, nor does the Company
+recognize as expense the value of the rack space and bandwidth received at discounted or no cost.
+Research and Development Costs and Capitalized Internal— Use Software
+Research and development costs consist primarily of payroll and related personnel costs for the design, development,
+deployment, testing and enhancement of the Company’s services and network. Costs incurred in the development of the
+Company’s services are expensed as incurred, except certain internal-use software development costs eligible for capitalization.
+58

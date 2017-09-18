@@ -1,0 +1,48 @@
+Iable,of,Contents
+In November 2016, the FASB issued an ASU that requires the change in restricted cash or cash equivalents to be included with other changes in
+cash and cash equivalents in the statement of cash flows. The ASU is effective for fiscal years beginning after December 15, 2017, with early
+adoption permitted. We anticipate adopting this standard at the same time as the cash ﬂow statement classiﬁcation changes described below go into
+effect on January 1, 2018. We are currently assessing the impact on our consolidated ﬁnancial statements.
+In October 2016, the FASB issued an ASU to amend the consolidation guidance on the treatment of indirect interests held through related parties
+that are under common control. Under the amendments, a single decision maker is required to include those interests on a proportionate basis
+consistent with indirect interests held through other related parties ._The ASU is effective for ﬁscal years beginning after December 15, 2016, with
+early adoption permitted. We adopted the new standard on December 31, 2016 and it did not have a material impact on our consolidated ﬁnancial
+statements.
+In October 2016, the FASB issued an ASU that requires the recognition of tax consequences of intercompany asset transfers other than inventory
+when the transfer occurs and removes the exception to postpone recognition until the asset has been sold to an outside party. The ASU is effective
+for ﬁscal years beginning after December 15, 2017, with early adoption permitted. We anticipate adopting on January 1, 2018 and do not expect the
+ASU to have a material impact on our consolidated ﬁnancial statements.
+In August 2016, the FASB issued an ASU to provide guidance on eight speciﬁc cash ﬂow classiﬁcation issues and reduce diversity in practice in how
+some cash receipts and cash payments are presented and classiﬁed in the statement of cash ﬂows. The ASU is effective for fiscal years beginning
+after December 15, 2017, with early adoption permitted. We anticipate adopting this standard on January 1, 2018. We are currently assessing the
+impact on our consolidated statements of cash flows.
+In March 2016, the FASB issued an ASU to simplify the accounting for stock-based compensation. The ASU addresses several areas of accounting
+for share-based payment transactions, including the income tax consequences, classiﬁcation of awards as either equity or liabilities and cash ﬂow
+statement presentation. The ASU is effective for ﬁscal years beginning after December 15, 2016, with early adoption permitted. We will adopt the
+standard on January 1, 2017. Following adoption and on a prospective basis, we anticipate greater volatility in our consolidated statements of
+earnings as we will record certain stock-based compensation tax impacts in earnings (within the provision for income taxes) while under the former
+guidance and for periods prior to January 1, 2017, the tax impacts were recorded directly to equity (within additional paid-in capital).
+In March 2016, the FASB issued an ASU that simpliﬁes the transition accounting for increases in investments that require a change from the cost
+basis to the equity method of accounting. U.S. GAAP currently requires the impact of such changes in accounting method to be retroactively applied
+to all prior periods that the investment was held. Under the new standard, adjustments to the investor’s basis in the investment should be recorded
+on the date the investment becomes qualified for equity method accounting. The equity method of accounting is then applied prospectively from that
+date. The ASU is effective for fiscal years beginning after December 15, 2016, with early adoption permitted. We early adopted this standard on
+December 31, 2016 and it did not have an impact on our consolidated ﬁnancial statements.
+In March 2016, the FASB issued an ASU that clariﬁes whether contingent put and call options meet the “clearly and closely related” criteria in
+connection with accounting for embedded derivatives. U.S GAAP requires that embedded derivatives be separated from the host contract and
+accounted for separately as derivatives if certain criteria are met. The criteria include determining that the economic characteristics and risks of the
+embedded derivatives are not “clearly and closely related” to those of the host contract. The ASU is effective for ﬁscal years beginning after
+December 15, 2016, with early adoption permitted. We adopted the new standard on December 31, 2016 and it did not have a material impact on our
+consolidated ﬁnancial statements.
+In March 2016, the FASB issued an ASU that applies when there is a contract novation to a new counterparty for a derivative designated as an
+accounting hedge. The ASU clariﬁes that such a change in counterparty does not, in and of itself, require de-designation of the hedging relationship,
+provided that all other hedge accounting criteria continue to be met. The ASU is effective for ﬁscal years beginning after December 15, 2016, with
+early adoption permitted. We adopted the new standard on December 31, 2016 and it did not have a material impact on our consolidated ﬁnancial
+statements.
+In February 2016, the FASB issued an ASU on lease accounting. The ASU revises existing U.S. GAAP and outlines a new model for lessors and
+lessees to use in accounting for lease contracts. The guidance requires lessees to recognize a right-of-use asset and a lease liability on the balance
+sheet for all leases, with the exception of short-term leases. In the consolidated statement of earnings, lessees will classify leases as either operating
+(resulting in straight-line expense) or ﬁnancing (resulting in a front-loaded expense pattern). The ASU is effective for ﬁscal years beginning after
+December 15, 2018, with early adoption permitted. We anticipate adopting the new standard on January 1, 2019. We have made progress in our due
+diligence and continue to assess the impact of the new standard across our operations and on our consolidated financial statements.
+73

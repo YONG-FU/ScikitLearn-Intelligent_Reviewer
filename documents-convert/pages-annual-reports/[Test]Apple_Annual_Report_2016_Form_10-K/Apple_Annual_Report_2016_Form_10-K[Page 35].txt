@@ -1,0 +1,52 @@
+Manufacturing Purchase Obligations
+The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final
+assembly and testing of finished products. These outsourcing partners acquire components and build product based on demand
+information supplied by the Company, which typically covers periods up to 150 days.The Company also obtains individual components
+for its products from a wide variety of individual suppliers. Consistent with industry practice, the Company acquires components
+through a combination of purchase orders, supplier contracts, and open orders based on projected demand information. As of
+September 24, 2016, the Company had manufacturing purchase obligations of $28.6 billion.
+Other Purchase Obligations
+The Company’s other purchase obligations were comprised of commitments to acquire capital assets, including product tooling and
+manufacturing process equipment, and commitments related to advertising, licensing, R&D, internet and telecommunications
+services, energy and other obligations. As of September 24, 2016, the Company had other purchase obligations of $6.6 billion.
+The Company’s other non-current liabilities in the Consolidated Balance Sheets consist primarily of deferred tax liabilities, gross
+unrecognized tax benefits and the related gross interest and penalties. As of September 24, 2016, the Company had non-current
+deferred tax liabilities of $26.0 billion. Additionally, as of September 24, 2016, the Company had gross unrecognized tax benefits of
+$7.7 billion and an additional $1.0 billion for gross interest and penalties classified as non-current liabilities.At this time, the Company
+is unable to make a reasonably reliable estimate of the timing of payments due to uncertainties in the timing of tax audit outcomes;
+therefore, such amounts are not included in the above contractual obligation table.
+Indemnification
+The Company generally does not indemnify end-users of its operating system and application software against legal claims that the
+software infringes third-party intellectual property rights. Other agreements entered into by the Company sometimes include
+indemnification provisions under which the Company could be subject to costs and/or damages in the event of an infringement
+claim against the Company or an indemnified third-party. In the opinion of management, there was not at least a reasonable possibility
+the Company may have incurred a material loss with respect to indemnification of end-users of its operating system or application
+software for infringement of third-party intellectual property rights.
+The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the US,
+the UK. and mainland China. The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified
+amount when purchasing a new iPhone, provided certain conditions are met. The Company accounts for the trade-in right as a
+guarantee liability and recognizes arrangement revenue net of the fair value of such right with subsequent changes to the guarantee
+liability recognized within revenue.
+The Company has entered into indemnification agreements with its directors and executive officers. Under these agreements, the
+Company has agreed to indemnify such individuals to the fullest extent permitted by law against liabilities that arise by reason of
+their status as directors or officers and to advance expenses incurred by such individuals in connection with related legal proceedings.
+It is not possible to determine the maximum potential amount of payments the Company could be required to make under these
+agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each claim.
+However, the Company maintains directors and officers liability insurance coverage to reduce its exposure to such obligations.
+Critical Accounting Policies and Estimates
+The preparation of financial statements and related disclosures in conformity with US. generally accepted accounting principles
+(“GAAP”) and the Company’s discussion and analysis of its financial condition and operating results require the Company’s
+management to makejudgments, assumptions and estimates that affect the amounts reported in its consolidated financial statements
+and accompanying notes. Note 1, “Summary of Significant Accounting Policies,” of the Notes to Consolidated Financial Statements
+in Part II, Item 8 ofthis Form 10-K describes the significant accounting policies and methods used in the preparation of the Company’s
+consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it
+believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying
+values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material.
+Management believes the Company’s critical accounting policies and estimates are those related to revenue recognition, valuation
+and impairment of marketable securities, inventory valuation, valuation of manufacturing-related assets and estimation of purchase
+commitment cancellation fees, warranty costs, income taxes, and legal and other contingencies. Management considers these
+policies critical because they are both important to the portrayal of the Company’s financial condition and operating results, and
+they require management to makejudgments and estimates about inherently uncertain matters.The Company’s senior management
+has reviewed these critical accounting policies and related disclosures with the Audit and Finance Committee of the Company’s
+Board of Directors.
+Apple Inc. | 2016 Form 10-K l 32

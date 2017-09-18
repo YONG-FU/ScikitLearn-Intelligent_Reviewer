@@ -1,0 +1,43 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Information about VMware’s costs from such arrangements for the years ended December 31, 2016 , 2015 and 2014 consisted of the following (table in
+millions):
+For the Year Ended December 31,
+2016 2015 2014
+’Purchases and leases of products and purchases of services $ 97 $ 63 $ 71 1
+Collaborative technology project costs — 5 12
+’Dell subsidiary support and administrative costs 105 100 137 ‘
+VMware also purchases Dell products through Dell’s channel partners. Purchases of Dell products through Dell’s channel partners were not significant during
+the year ended December 31, 2016 . During the years ended December 31, 2015 and 2014 , purchases of Dell products through Dell’s channel partners were $36
+million and $25 million , respectively.
+Dell Financial Services (“DFS”)
+During 2016, DP S provided financing to certain of VMware’s end customers based on the customer’s discretion. Upon acceptance of the ﬁnancing
+arrangement by both VMware’s end customer and DF S, amounts classified as trade accounts receivable are reclassified to due from related parties, net on the
+consolidated balance sheets. Financing fees recognized on these arrangements were not significant during the year-ended December 31, 2016 .
+EM C Equity Awards Held by VMware Employees
+In connection with the Dell Acquisition, vesting was accelerated for all outstanding EMC stock options and restricted stock units and stock options were
+automatically exercised on the last trading day prior to the effective date of the merger. VMware’s portion of the expense associated with accelerated EMC equity
+awards held by VMware employees was $7 million and was included within stock-based compensation expense on the consolidated statements of income during
+the year ended December 31, 2016 .
+Due To/From Related Parties, Net
+Amounts due to and from related parties, net as of December 31, 2016 and 2015 consisted of the following (table in millions):
+December 31,
+2016 2015
+[Due (to) related parties $ (71) $ (68) 1
+Due from related parties 203 142
+’Due (to) from related parties, net 33 132 $ 74 l
+Amounts included in due from related parties, net, which are unrelated to DFS and tax obligations, are generally settled in cash within 60 days of each quarter-
+end.
+Stock Purchase Agreement with Dell
+On December 15, 2016, VMware entered into a stock purchase agreement with Dell to purchase $500 million of VMware Class A common stock. Through
+December 31, 2016, VMware had purchased 4.8 million shares for $375 million . A derivative asset was recognized related to VMware’s obligation to purchase
+additional shares for $125 million and is measured at fair value on a recurring basis. The fair value adjustment measured as of December 31, 2016 resulted in the
+recognition of an $8 million gain that was included in other income (expense), net on the consolidated statements of income.
+On February 15, 2017, the stock purchase agreement with Dell was completed. A total of $500 million was paid in exchange for 6.2 million shares. The
+aggregate number of shares purchased was determined based upon the volume-weighted average price during a defined period, less an agreed upon discount.
+Notes Payable to Dell
+VMware entered into a note exchange agreement with its Parent on January 21, 2014 providing for the issuance of three promissory notes in the aggregate
+principal amount of $1,500 million . The total debt of $1,500 million includes $450 million that was exchanged for the $450 million promissory note issued to
+VMware’s Parent in April 2007, as amended and restated in June 2011.
+67

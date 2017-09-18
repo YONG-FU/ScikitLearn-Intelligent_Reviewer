@@ -1,0 +1,44 @@
+Table of Contents
+We have devoted, and expect to continue to devote, considerable time and resources to developing, acquiring and integrating new and existing technologies into
+our products and licensing programs. However, if customers do not accept the way we have integrated our technologies, they may adopt competing solutions. In
+addition, as we introduce new products or licensing programs, we cannot predict with certainty if and when our customers will transition to those new products or
+licensing programs. Moreover, with respect to certain of our FotoNation technologies, even after we have signed a license agreement with a customer, we will
+often not see significant revenue from that customer until after such technologies have been successfully designed into the customer's integrated circuits, which can
+take 18 months or longer. If customers fail to accept new or upgraded products or licensing programs incorporating our technologies, our ﬁnancial position, results
+of operations and cash ﬂows could be adversely impacted.
+If we fail to protect and enforce our intellectual property rights and our conﬁdential information, our business will suffer.
+We rely primarily on a combination of license, development and nondisclosure agreements and other contractual provisions and patent, trademark, trade secret and
+copyright laws to protect our technology and intellectual property. If we fail to protect our technology and intellectual property, our licensees and others may seek
+to use our technology and intellectual property without the payment of license fees and royalties, which could weaken our competitive position, reduce our
+operating results and increase the likelihood of costly litigation. The growth of our business depends in large part on our ability to obtain intellectual property
+rights in a timely manner, our ability to convince third parties of the applicability of our intellectual property rights to their products, and our ability to enforce our
+intellectual property rights.
+In certain instances, we attempt to obtain patent protection for portions of our technology, and our license agreements typically include both issued patents and
+pending patent applications. If we fail to obtain patents in a timely manner or if the patents issued to us do not cover all of the inventions disclosed in our patent
+applications, others could use portions of our technology and intellectual property without the payment of license fees and royalties. For example, our business may
+suffer if we are unable to obtain patent protection in a timely manner from the PTO due to processing delays resulting from examiner turnover and a continuing
+backlog of patent applications.
+We also rely on trade secret laws rather than patent laws to protect other portions of our proprietary technology. However, trade secrets can be difficult to protect.
+The misappropriation of our trade secrets or other proprietary information could seriously harm our business. We protect our proprietary technology and processes,
+in part, through confidentiality agreements with our employees, consultants, suppliers and customers. We cannot be certain that these contracts have not been and
+will not be breached, that we will be able to timely detect unauthorized use or transfer of our technology and intellectual property, that we will have adequate
+remedies for any breach, or that our trade secrets will not otherwise become known or be independently discovered by competitors. If we fail to use these
+mechanisms to protect our technology and intellectual property, or if a court fails to enforce our intellectual property rights, our business will suffer. We cannot be
+certain that these protection mechanisms can be successfully asserted in the future or will not be invalidated or challenged.
+Further, the laws and enforcement regimes of certain countries do not protect our technology and intellectual property to the same extent as do the laws and
+enforcement regimes of the US. In certain jurisdictions we may be unable to protect our technology and intellectual property adequately against unauthorized use,
+which could adversely affect our business.
+Our business may suffer if third parties assert that we violate their intellectual property rights.
+Third parties may claim that either we or our customers are infringing upon their intellectual property rights. Even if we believe that such claims are without merit,
+they can be time-consuming and costly to defend against and will divert management's attention and resources away from our business. Furthermore, third parties
+making such claims may be able to obtain injunctive or other equitable relief that could block our ability to further develop or commercialize some or all of our
+products or services in the US. and abroad. Claims of intellectual property infringement also might require us to enter into costly settlement or license agreements
+or pay costly damage awards. Even if we have an agreement that provides for a third party to indemnify us against such costs, the indemnifying party may be
+unable to perform its contractual obligations under the agreement. If we cannot or do not license the infringed intellectual property on reasonable terms, or need to
+substitute similar technology from another source, our business, financial position, results of operations and cash ﬂows could suffer.
+Our licensing cycle is lengthy and costly, and our marketing, legal and sales efforts may be unsuccessful.
+We generally incur signiﬁcant marketing, legal and sales expenses prior to entering into our license agreements, generating a license fee and establishing a royalty
+stream from each licensee. The length of time it takes to establish a new licensing relationship, and/or for our customers to incorporate certain FotoNation
+technologies in their integrated circuits, can be 18 months or longer. As such, we may incur significant losses in any particular period before any associated
+revenue stream begins.
+1 3

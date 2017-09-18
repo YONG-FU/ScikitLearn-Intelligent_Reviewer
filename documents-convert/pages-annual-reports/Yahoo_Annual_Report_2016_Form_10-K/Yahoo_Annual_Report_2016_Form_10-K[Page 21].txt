@@ -1,0 +1,30 @@
+Table,0f,C,0ntents
+competitive with other search providers. If Microsoft fails to do this, our revenue and proﬁtability could decline and our ability to maintain and expand our
+relationships with Afﬁliates for search and paid search advertising could be negatively impacted. Further, our competitors may continue to increase revenue,
+profitability, and market share at a higher rate than we do.
+The term of the Microsoft Search Agreement is 10 years from its commencement date, February 23, 2010, subject to earlier termination as provided in the
+Microsoft Search Agreement. On or after October 1, 2015, either the Company or Microsoft may terminate the Microsoft Search Agreement by delivering a
+written notice of termination to the other party. The Microsoft Search Agreement will remain in effect for four months from the date of a termination notice to
+provide for a transition period. If Microsoft terminated the Microsoft Search Agreement and the Company was unable to rely on its own services or the Services
+Agreement with Google, the termination could have an adverse impact on our business, revenue and operating results.
+Risks associated with our Services Agreement with Google may adversely affect our business and operating results.
+Under our Services Agreement with Google, Google will provide us with search advertisements through Google’s AdSense for Search service, web algorithmic
+search services through Google’s Websearch Service, and image search services. We entered into the Services Agreement with Google in the fourth quarter of
+2015. In addition, if Microsoft were to terminate its Search Agreement with us, we would be required to rely on the Services Agreement and our Yahoo Gemini
+platform to replace the search revenue we currently receive under the Microsoft Search Agreement.
+We are dependent on Google continuing to invest and innovate to maintain and improve its algorithmic and paid search services and to be competitive with other
+search providers. If Google fails to do this, our revenue and profitability could decline. Further, Google has a number of termination rights under the Services
+Agreement. If Google terminated the Services Agreement and we were unable to rely on our Yahoo Gemini platform or the Microsoft Search Agreement, the
+termination could have an adverse impact on our business, revenue and operating results.
+If we are unable to provide innovative search experiences and other products and services that differentiate our services and generate significant
+traffic to our websites, our business could be harmed, causing our revenue to decline.
+Internet search is characterized by rapidly changing technology, signiﬁcant competition, evolving industry standards, and frequent product and service
+enhancements. Although we have agreements with Microsoft and Google to use their paid search platforms, we still need to continue to invest in our Yahoo
+Gemini search platform and to innovate to improve our users’ search experience (especially on mobile) to continue to differentiate our services and attract,
+retain, and expand our user base and paid search advertiser base. We also generate revenue through other online products, services and apps, and continue to
+innovate the products, services and apps in our portfolio. The research and development of new, technologically advanced products is a complex process that
+requires signiﬁcant levels of innovation and investment, as well as accurate anticipation of technology, market and consumer trends.
+If we are unable to provide innovative search experiences and other products and services which differentiate our services, gain user acceptance and generate
+signiﬁcant trafﬁc to our websites, or if we are unable to effectively monetize the traffic from such products and services, our business could be harmed, causing
+our revenue to decline.
+20

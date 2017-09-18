@@ -1,0 +1,49 @@
+Table of Contents
+Receivables
+Receivables are stated at their carrying values, net of a reserve for doubtful accounts. Receivables consist primarily of amounts due from:
+0 insurance companies resulting from pharmacy sales;
+° banks for customer credit and debit cards and electronic bank transfers that take in excess of seven days to process;
+0 consumer financing programs in certain international operations;
+° suppliers for marketing or incentive programs; and
+0 real estate transactions.
+The Walmart International segment offers a limited number of consumer credit products, primarily through its financial institutions in select countries. The
+receivable balance from consumer credit products was $1.0 billion , net of a reserve for doubtful accounts of $70 million at January 31, 2016 , compared to a
+receivable balance of $1.2 billion , net of a reserve for doubtful accounts of $ 114 million at January 31, 2015 . These balances are included in receivables, net, in
+the Company's Consolidated Balance Sheets.
+Inventories
+The Company values inventories at the lower of cost or market as determined primarily by the retail inventory method of accounting, using the last-in, ﬁrst-out
+("LIFO") method for substantially all of the Walmart U.S. segment's inventories. The inventory at the Walmart International segment is valued primarily by the
+retail inventory method of accounting, using the first-in, ﬁrst-out ("FIFO") method. The retail inventory method of accounting results in inventory being valued at
+the lower of cost or market since permanent markdowns are immediately recorded as a reduction of the retail value of inventory. The inventory at the Sam's Club
+segment is valued based on the weighted-average cost using the LIFO method. At January 31, 2016 and January 31, 2015 , the Company's inventories valued at
+LIFO approximated those inventories as if they were valued at FIFO.
+Property and Equipment
+Property and equipment are stated at cost. Gains or losses on disposition are recognized as earned or incurred. Costs of major improvements are capitalized, while
+costs of normal repairs and maintenance are charged to expense as incurred. The following table summarizes the Company's property and equipment balances and
+includes the estimated useful lives that are generally used to depreciate the assets on a straight-line basis:
+Fiscal Years Ended January 31,
+(Amounts in millions) Estimated Useful Lives _ 2016 _ 2015
+[Land N/A $ 25,624 $ 26,261 1
+Buildings and improvements 3-40 years 96,845 97,496
+’Fixtures and equipment 1-30 years 47,033 45,044 ‘
+Transportation equipment 3-15 years 2,917 2,807
+iConstruction in progress N/A 4,539 5,787 ‘
+Property and equipment $ 176,958 $ 177,395
+’Accumulated depreciation (66,787) (63,115) ‘
+Property and equipment, net $ 110,171 $ 114,280
+Leasehold improvements are depreciated or amortized over the shorter of the estimated useful life of the asset or the remaining expected lease term. Total
+depreciation and amortization expense for property and equipment, property under ﬁnancing obligations and property under capital leases for ﬁscal 2016 , 2015
+and 2014 was $9.4 billion , $9.1 billion and $8.8 billion , respectively. Interest costs capitalized on construction projects were $39 million , $59 million and $78
+million in ﬁscal 2016 , 2015 and 2014 , respectively.
+Leases
+The Company estimates the expected term of a lease by assuming the exercise of renewal options where an economic penalty exists that would preclude the
+abandonment of the lease at the end of the initial non-cancelable term and the exercise of such renewal is at the sole discretion of the Company. The expected term
+is used in the determination of whether a store or club lease is a capital or operating lease and in the calculation of straight-line rent expense. Additionally, the
+useful life of leasehold improvements is limited by the expected lease term or the economic life of the asset, whichever is shorter. If significant expenditures are
+made for leasehold improvements late in the expected term of a lease and renewal is reasonably assured, the useful life of the leasehold improvement is limited to
+the end of the renewal period or economic life of the asset, whichever is shorter. Rent abatements and escalations are considered in the calculation of minimum
+lease payments in the Company's capital lease tests and in determining straight-line rent expense for operating leases.
+The Company is often involved in the construction of its leased stores. In certain cases, payments made for certain structural components included in the lessor's
+construction of the leased assets result in the Company being deemed the owner of the leased assets for accounting purposes. As a result, regardless of the
+significance of the payments, Accounting Standards
+32

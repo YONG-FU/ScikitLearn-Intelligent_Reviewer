@@ -1,0 +1,45 @@
+° the increasing need to develop expertise in new areas of business that affect us; and
+0 the integration of new personnel and businesses from acquisitions.
+If we are not able to maintain our culture or if our culture fails to deliver the long-term results we expect to
+achieve, our business, financial condition, results of operations and prospects could be materially and adversely
+affected.
+We may not be able to maintain or grow our revenue or our business.
+We primarily derive our revenue from online marketing services, commissions based on transaction value
+derived from certain of our marketplaces, fees from the sale of memberships on our wholesale marketplaces and
+cloud service fees, and we have experienced significant growth in revenue in recent years. In particular, our
+revenue grew 45% from fiscal year 2014 to fiscal year 2015 and 33% from fiscal year 2015 to fiscal year 2016. Our
+ability to continue to generate and grow our revenue depends on a number of factors. See “Item 5. Operating and
+Financial Review and Prospects — A. Operating Results — Factors Affecting Our Results of Operations — Our
+Ability to Create Value for Our Users and Generate Revenue” and “— Our Monetization Model.”
+Our future revenue growth also depends on our ability to expand into new geographic regions, including our
+expansion into international markets, and grow our other businesses, including our cloud computing business and
+the businesses we have acquired or invested in and new business initiatives we may explore in the future. In
+particular, we face risks associated with expanding into sectors or geographies in which we have limited or no
+experience. For example, as we expand our entertainment business, we may be unable to produce or license quality
+content on commercially reasonable terms or at all, fail to anticipate or keep up with changes in user preferences,
+user behavior and technological developments or fail to gain access to content distribution channels. In addition, as
+we expand into the online video industry following the acquisition of Youku Tudou, we may not be able to acquire
+and retain users, attract marketers to purchase online marketing services on our video websites, obtain
+professionally produced content at competitive prices or at all, encourage more user-generated content, or grow
+user acceptance and the popularity of our online video content. Our expansion into new sectors and geographic
+regions will subject us to additional regulatory risks, such as permit requirements and regulations over content in
+the PRC. If we are unable to successfully monetize and expand these businesses in our target markets, our future
+revenue growth may be adversely affected.
+In addition, our revenue growth may slow or our revenues may decline for other reasons, including decreasing
+consumer spending, increasing competition and slowing growth of the China retail or China online retail industry
+and changes in government policies or general economic conditions. In addition, as our revenue grows to a higher
+base level, that rate of growth of our revenue has slowed and may further slow in the future.
+We rely on Alipay to conduct substantially all of the payment processing and all of the escrow services on our
+marketplaces. If Alipay ’s services are limited, restricted, curtailed or degraded in any way or become unavailable to us or
+our users for any reason, our business may be materially and adversely affected.
+Through contractual arrangements with us, Alipay provides convenient payment processing and escrow services
+to us on preferential terms. These services are critical to our platforms and the development of our ecosystem. In
+the twelve months ended March 31, 2016, approximately 75% of GMV on our China retail marketplaces were
+settled through Alipay’s escrow and payment processing services. We rely on the convenience and ease of use that
+Alipay provides to our users. If the quality, utility, convenience or attractiveness of Alipay’s services declines for
+any reason, the attractiveness of our marketplaces could be materially and adversely affected.
+Alipay’s business is subject to a number of risks that could materially and adversely affect its ability to provide
+payment processing and escrow services to us, including:
+0 increasing costs to Alipay, including fees charged by banks to process funds through Alipay, which would
+also increase our cost of revenues;
+12

@@ -1,0 +1,39 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+INDEX OF EXHIBITS
+The following exhibits are ﬁled herewith or are incorporated by reference to exhibits previously ﬁled with the US. Securities and Exchange Commission.
+Exhibit Incorporated by Reference
+N 0. Exhibit Description Form File N 0. Exhibit Filing Date Filed By
+3.01 Amended and Restated Certiﬁcate of Incorporation of Oracle 8-K 000-51788 3.01 2/6/06 Oracle Corporation
+Corporation and Certiﬁcate of Amendment of Amended and 12G3
+Restated Certiﬁcate of Incorporation of Oracle Corporation
+3.02 Amended and Restated Bylaws of Oracle Corporation 8-K 001-35992 3.02 6/16/16 Oracle Corporation
+4.01 Specimen Certiﬁcate of Registrant’s Common Stock S-3 333-166643 4.04 5/7/10 Oracle Corporation
+ASR
+4.02 Indenture dated January 13, 2006, among Ozark Holding Inc., 8-K 000-14376 10.34 1/20/06 Oracle Systems
+Oracle Corporation and Citibank, NA. Corporation
+4.03 Form of Old 2016 Note, together with the Ofﬁcers’ Certiﬁcate 8-K 000-14376 10.35 1/20/06 Oracle Systems
+issued January 13, 2006 pursuant to the Indenture dated January 13, Corporation
+2006, among Oracle Corporation (formerly known as Ozark Holding
+Inc.) and Citibank, NA.
+4.04 Form of New 5.25% Note due 2016 S-4/A 333-132250 4.4 4/ 14/06 Oracle Corporation
+4.05 First Supplemental Indenture dated May 9, 2007 among Oracle S-3 333-142796 4.3 5/10/07 Oracle Corporation
+Corporation, Citibank, NA. and The Bank of New York Trust ASR
+Company, NA.
+4.06 Forms of 5.75% Note due 2018 and 6.50% Note due 2038, together 8-K 000-51788 4.09 4/8/08 Oracle Corporation
+with Ofﬁcers’ Certificate issued April 9, 2008 setting forth the terms
+of the Notes
+4.07 Forms of 5.00% Note due 2019 and 6.125% Note due 2039, together 8-K 000-51788 4.08 7/8/09 Oracle Corporation
+with Ofﬁcers’ Certificate issued July 8, 2009 setting forth the terms
+of the Notes
+4.08 Forms of Original 2020 Note and Original 2040 Note, together with 10-Q 000-51788 4.08 9/20/10 Oracle Corporation
+Ofﬁcers’ Certiﬁcate issued July 19, 2010 setting forth the terms of
+the Notes
+4.09 Forms of New 2020 Note and New 2040 Note S-4 333- 176405 4.5 8/19/1 1 Oracle Corporation
+4.10 Forms of 1.20% Note due 2017 and 2.50% Note due 2022, together 8-K 000-51788 4.10 10/25/ 12 Oracle Corporation
+with Ofﬁcers’ Certificate issued October 25, 2012 setting forth the
+terms of the Notes
+4.11 Forms of 2.25% Note due 2021 and 3.125% Note due 2025, together 8-K 001-35992 4.11 7/10/13 Oracle Corporation
+with Ofﬁcers’ Certificate issued July 10, 2013 setting forth the terms
+of the Notes
+138

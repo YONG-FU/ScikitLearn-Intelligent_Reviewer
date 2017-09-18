@@ -1,0 +1,41 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+D. Realignment
+On January 22, 2016, VMware approved a plan to streamline its operations, with plans to reinvest the associated savings in ﬁeld, technical and support
+resources associated with growth products. As a result of these actions, approximately 800 positions were eliminated during the year ended December 31, 2016 .
+VMware recognized $50 million of severance-related realignment expenses during the year ended December 31, 2016 on the consolidated statements of income.
+Additionally, VMware consolidated certain facilities as part of this plan, which resulted in the recognition of $2 million of related expenses during the year ended
+December 31, 2016 on the consolidated statements of income. Actions associated with this plan were substantially completed by December 31, 2016.
+During the year ended December 31, 2015 , VMware eliminated approximately 380 positions across all major functional groups and geographies to
+streamline its operations. As a result of these actions, $23 million of realignment expenses were recognized during the year ended December 31, 2015 on the
+consolidated statements of income.
+During the year ended December 31, 2014 , VMware eliminated approximately 180 positions across all major functional groups and geographies to
+streamline its operations. As a result of these actions, $16 million of severance-related realignment expenses were recognized during the year ended December 31,
+2014 on the consolidated statements of income.
+The following table summarizes the activity for the accrued realignment expenses for the years ended December 31, 2016 , 2015 and 2014 (tables in millions):
+For the Year Ended December 31, 2016
+Balance as of Balance as of
+January 1, 2016 Realignment Utilization December 31, 2016
+lSeverance-related costs $ 3 $ 50 $ (52) $ 1 1
+Costs to exit facilities — 2 (1) 1
+1 Total $ 3 $ 52 $ (53) s 2 1
+For the Year Ended December 31, 2015
+Balance as of Balance as of
+January 1, 2015 Realignment Utilization December 31, 2015
+lSeverance-related costs $ 8 23 (28) $ 3 1
+For the Year Ended December 31, 2014
+Balance as of Balance as of
+January 1, 2014 Realignment Utilization December 31, 2014
+lWorkforce reductions $ — $ 18 $ (10) $ 8 1
+Asset impairments, exit of facilities and other exit
+costs 3 (2) (1) —
+1 Total $ 3 $ 16 $ (11) s 8 l
+E. Net Income per Share
+Basic net income per share is computed by dividing net income by the weighted-average number of common shares outstanding during the period. Diluted net
+income per share is computed by dividing net income by the weighted-average number of common shares outstanding and potentially dilutive securities
+outstanding during the period, as calculated using the treasury stock method. Potentially dilutive securities primarily include unvested restricted stock units,
+including performance stock units, stock options, including purchase options under VMware’s employee stock purchase plan. Securities are excluded from the
+computations of diluted net income per share if their effect would be anti-dilutive. VMware uses the two-class method to calculate net income per share as both
+classes share the same rights in dividends, therefore basic and diluted earnings per share are the same for both classes.
+71

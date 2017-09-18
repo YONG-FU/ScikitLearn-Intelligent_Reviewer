@@ -1,0 +1,6 @@
+﻿Led by state-of-the-art security, Windows 10 is starting to drive digital transformation for customers in the enterprise. The
+U.S. Department of Defense and Accenture are just a few of the customers deploying Windows 10 to millions of employees
+to help protect them with industry-leading security features like Credential Guard, Device Guard, Windows Hello, and new
+cloud-based security services like Windows Defender Advanced Threat Protection. Our belief in building world-class
+enterprise security in Windows has contributed to nearly every one of our enterprise customers piloting Windows 10 this
+past fiscal year.

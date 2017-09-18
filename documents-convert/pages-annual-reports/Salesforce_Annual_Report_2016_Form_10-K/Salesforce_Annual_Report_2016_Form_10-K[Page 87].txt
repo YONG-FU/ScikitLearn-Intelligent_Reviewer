@@ -1,0 +1,39 @@
+salesforce.com, inc.
+Notes to Consolidated Financial Statements
+1. Summary of Business and Significant Accounting Policies
+Description of Business
+Salesforcecom, inc. (the “Company”) is a leading provider of enterprise cloud computing solutions, with a
+focus on customer relationship management, or CRM. The Company introduced its first CRM solution in
+February 2000, and has since expanded its service offerings with new editions, solutions, features and platform
+capabilities.
+The Company’s mission is to help its customers transform themselves into customer-centric companies by
+empowering them to connect with their customers in entirely new ways. The Company’s Customer Success
+Platform, including sales force automation, customer service and support, marketing automation, community
+management, analytics, application development, Internet of Things integration and the Company’s professional
+cloud services, provide the neXt- generation platform of enterprise applications and services to enable customer
+success.
+Fiscal Year
+The Company’s fiscal year ends on January 31. References to fiscal 2016, for example, refer to the fiscal
+year ending January 31, 2016.
+Basis of Presentation
+On March 20, 2013, the Company’s certificate of incorporation was amended to increase the number of
+authorized shares of common stock from 400.0 million to 1.6 billion in order to provide for a four-for—one stock
+split of the common stock effected in the form of a stock dividend. The record date for the stock split was
+April 3, 2013, and the additional shares were distributed on April 17, 2013. Each stockholder of record on the
+close of business on the record date received three additional shares of common stock for each share held. All
+share and per share data presented herein reﬂect the impact of the increase in authorized shares and the stock
+split, as appropriate.
+Use of Estimates
+The preparation of financial statements in conformity with US. generally accepted accounting principles
+(“U.S. GAAP”) requires management to make estimates and assumptions in the Company’s consolidated
+financial statements and notes thereto.
+Signiﬁcant estimates and assumptions made by management include the determination of:
+0 the best estimate of selling price of the deliverables included in multiple deliverable revenue
+arrangements,
+0 the fair value of assets acquired and liabilities assumed for business combinations,
+0 the recognition, measurement and valuation of current and deferred income taxes,
+0 the fair value of convertible notes,
+0 the fair value of stock awards issued and related forfeiture rates,
+0 the useful lives of intangible assets, property and equipment and building and structural components, and
+0 the valuation of strategic investments and the determination of other-than-temporary impairments.
+80

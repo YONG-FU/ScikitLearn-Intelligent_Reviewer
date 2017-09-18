@@ -1,0 +1,44 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+against, among others, EMC and four directors who serve on both the EMC board and the VMware board, setting forth similar allegations to those in the Ford
+matter. The Jacobs matter settled in December 2016 for an immaterial amount. While VMware does not believe that the Ford case represents material adverse
+exposures, no assurances can be given that the litigation will not have any adverse consequences for the company or the directors named in the suits.
+During 2015, VMware reached an agreement with the Department of Justice (“DOJ”) and the General Services Administration (“GSA”) to pay $76 million to
+resolve allegations that VMware's government sales practices between 2006 and 2013 had violated the federal False Claims Act. The settlement was paid and
+recorded as a reduction of VMware's total revenue during the year ended December 31, 2015.
+VMware accrues for a liability when a determination has been made that a loss is both probable and the amount of the loss can be reasonably estimated. If
+only a range can be estimated and no amount within the range is a better estimate than any other amount, an accrual is recorded for the minimum amount in the
+range. Significant judgment is required in both the determination that the occurrence of a loss is probable and is reasonably estimable. In making such judgments,
+VMware considers the impact of negotiations, settlements, rulings, advice of legal counsel and other information and events pertaining to a particular matter. Legal
+costs are generally recognized as expense when incurred.
+VMware is also subject to other legal, administrative and regulatory proceedings, claims, demands and investigations in the ordinary course of business or in
+connection with business mergers and acquisitions, including claims with respect to commercial, contracting and sales practices, product liability, intellectual
+property, employment, corporate and securities law, class action, whistleblower and other matters. From time to time, VMware also receives inquiries from and has
+discussions with government entities and stockholders on various matters. As of December 31, 2016 , amounts accrued relating to these other matters arising as
+part of the ordinary course of business were considered immaterial. VMware does not believe that any liability from any reasonably foreseeable disposition of such
+claims and litigation, individually or in the aggregate, would have a material adverse effect on its consolidated ﬁnancial statements.
+Operating Leases and Other Contractual Commitments
+VMware leases office facilities and equipment under various operating arrangements. Rent expense for the years ended December 31, 2016 , 2015 and 2014
+was $112 million , $105 million and $85 million , respectively. VMware’s minimum future lease commitments and other contractual commitments at
+December 31, 2016 were as follows (table in millions):
+Future Lease Other Contractual
+Commitments (1) Purchase Obligations Commitments (2) Total
+12017 $ 89 $ 39 $ 3 $ 131 l
+2018 73 29 5 107
+12019 59 4 5 68 l
+2020 44 — 3 47
+12021 36 — 2 38 l
+Thereafter 544 — 9 553
+1 Total $ 845 $ 72 $ 27 $ 944 l
+(1) Amounts in the table above exclude expected sublease income.
+(2) Consisting of various contractual agreements, which include commitments on the lease for VMware’s Washington data center facility and asset retirement
+obligations.
+The amount of the future lease commitments after 2021 is primarily for the ground leases on VMware’s Palo Alto, California headquarter facilities, which
+expire in 2046 . As several of VMware’s operating leases are payable in foreign currencies, the operating lease payments may ﬂuctuate in response to changes in
+the exchange rate between the US dollar and the foreign currencies in which the commitments are payable.
+In addition to the amounts above, $1,500 million of notes payable to Dell was outstanding as of December 31, 2016 and reﬂected on the consolidated balance
+sheets. VMware also had an obligation as of December 31, 2016 to purchase $125 million of VMware Class A common stock under a stock purchase agreement
+with Dell, which was settled during February 2017. Refer to Note B for further information regarding the notes payable to Dell and the stock purchase agreement
+with Dell.
+78

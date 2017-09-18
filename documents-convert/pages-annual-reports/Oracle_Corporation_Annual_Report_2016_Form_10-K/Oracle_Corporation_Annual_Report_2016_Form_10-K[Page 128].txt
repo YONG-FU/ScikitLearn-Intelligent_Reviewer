@@ -1,0 +1,45 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+The provision for income taxes differed from the amount computed by applying the federal statutory rate to our income before provision for income taxes as
+follows:
+Year Ended May j,
+(in millions) _ 2016 2015 2014
+IT ax provision at statutory rate $ 4,005 $ 4,492 $ 4,796I
+Foreign earnings at other than United States rates (1,284) (1,627) (1,790)
+:State tax expense, net of federal benefit 176 176 154I
+Settlements and releases from judicial decisions and statute expirations, net (150) (85) (168)
+Domestic production activity deduction (155) (188) (174M
+Other, net (51) 128 (69)
+I Total provision for income taxes $ 2,541 $ 2,896 $ 2,749]
+The components of our deferred tax liabilities and assets were as follows:
+Mayﬂ,
+(in millions) 2016 2015
+Deferred tax liabilities: I
+Unrealized gain on stock $ (130) $ (130)
+I Acquired intangible assets (1,482) (1,879)]
+Unremitted earnings (987) (646)
+I Other (33) (11)I
+Total deferred tax liabilities $ (2,632) $ (2,666)
+Deferred tax assets: I
+Accruals and allowances $ 492 $ 421
+I Empgyee compensation and beneﬁts 1,149 1,123 I
+Differences in timing of revenue recognition 351 335
+I Depreciation and amortization 9 155 I
+Tax credit and net operating loss carryforwards 2,935 2,649
+I Total deferred tax assets 58 4,936 $ 4,683]
+Valuation allowance $ (1,173) $ (1,024)
+I Net deferred tax assets 58 1,131 $ 993]
+Recorded as:
+I Non-current deferred tax assets 1,291 1,458 I
+Non-current deferred tax liabilities (in other non-current liabilities) (160) (465)
+I Net deferred tax assets 58 1,131 $ 9931
+We provide for United States income taxes on the undistributed earnings and the other outside basis temporary differences of foreign subsidiaries unless they are
+considered indeﬁnitely reinvested outside the United States. At May 31, 2016, the amount of temporary differences related to undistributed earnings and other
+outside basis temporary differences of investments in foreign subsidiaries upon which United States income taxes have not been provided was approximately $42.6
+billion and $8.3 billion, respectively. If these undistributed earnings were repatriated to the United States, or if the other outside basis differences were recognized
+in a taxable transaction, they would generate foreign tax credits that would reduce the federal tax liability associated with the foreign dividend or the otherwise
+taxable transaction. At May 31, 2016, assuming a full utilization of the foreign tax credits, the potential net deferred tax liability associated with these temporary
+differences of undistributed earnings and other outside basis temporary differences would be approximately $13.3 billion and $2.7 billion, respectively.
+126

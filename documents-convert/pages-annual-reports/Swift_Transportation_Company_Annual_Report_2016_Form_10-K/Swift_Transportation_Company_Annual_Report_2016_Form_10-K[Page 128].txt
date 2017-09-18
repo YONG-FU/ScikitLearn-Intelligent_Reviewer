@@ -1,0 +1,38 @@
+During the year ended December 31 , 2016, the Company issued 77,462 shares, underthe 2012 ESPP at an average
+price per share of $17.29. As of December 31, 2016, the Company is authorized to issue an additional 1.7 million
+shares under the 2012 ESPP.
+Note 20 — Weighted Average Shares Outstanding
+Basic and diluted earnings per share, as presented in the consolidated income statements, are calculated by dividing
+net income by the respective weighted average common shares outstanding during the period.
+The following table reconciles basic weighted average shares outstanding to diluted weighted average shares
+outstanding:
+December 31,
+7 2016 2015 2014 7
+7 7 7 (In thousands) 7 7 7
+Basic weighted average common shares outstanding 134,139 142,018 141,431
+Dilutive effect of stock options 7 1,355” 1,650” 2,044
+Diluted weighted average common shares 7 7 7 7 7 7
+outstanding : 135'494: 143'668: 143'475
+Anti-dilutive shares excluded from diluted earnings : i l i l g
+per share (1) 7 1567 3547 162
+(1) Shares were excluded from the dilutive-effect calculation because the outstanding options' exercise prices were
+greater than the average market price of the Company's common shares during the period.
+Note 21 — Fair Value Measurement
+ASC Topic 820, Fair Value Measurements and Disclosures, requires that the Company disclose estimated fair values
+for its financial instruments. The estimated fair value of a financial instrument is the amount that would be received
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement
+date in the principal or most advantageous market for the asset or liability. Fair value estimates are made at a
+specific point in time and are based on relevant market information and information about the financial instrument.
+These estimates do not reflect any premium or discount that could result from offering for sale at one time the
+Company's entire holdings of a particular financial instrument. Changes in assumptions could significantly affect
+these estimates. Because the fair value is estimated as of December 31, 2016 and 2015, the amounts that will
+actually be realized or paid at settlement or maturity of the instruments in the future could be significantly different.
+The tables below exclude certain financial instruments. The excluded financial instruments are as follows: cash
+and cash equivalents, restricted cash, net accounts receivable, income tax refund receivable, and accounts payable.
+The estimated fair value of these financial instruments approximate carrying value as they are short-term in nature.
+Additionally, for notes payable under revolving lines of credit, fair value approximates the carrying value due to the
+variable interest rate. For capital leases, the carrying value approximates the fair value. The table below also
+excludes financial instruments reported at estimated fair value on a recurring basis. See "Recurring Fair Value
+Measurements." All remaining balance sheet amounts excluded from the table below are not considered financial
+instruments subject to this disclosure.
+124

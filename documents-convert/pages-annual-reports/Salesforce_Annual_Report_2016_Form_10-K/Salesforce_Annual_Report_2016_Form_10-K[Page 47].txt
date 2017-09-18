@@ -1,0 +1,44 @@
+Sources of Revenues
+We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription
+fees from customers accessing our enterprise cloud computing services and from customers paying for additional
+support beyond the standard support that is included in the basic subscription fees; and (2) related professional
+services such as process mapping, project management, implementation services and other revenue. “Other
+revenue” consists primarily of training fees. Subscription and support revenues accounted for approximately 93
+percent of our total revenues for fiscal 2016. Subscription revenues are driven primarily by the number of paying
+subscribers, varying service types, the price of our service and renewals. We define a “customer” as a separate
+and distinct buying entity (e.g., a company, a distinct business unit of a large corporation, a partnership, etc.) that
+has entered into a contract to access our enterprise cloud computing services. We define a “subscription” as a
+unique user account purchased by a customer for use by its employees or other customer-authorized users, and
+we refer to each such user as a “subscriber.” The number of paying subscriptions at each of our customers ranges
+from one to hundreds of thousands. None of our customers accounted for more than five percent of our revenues
+during fiscal 2016, 2015 or 2014.
+Subscription and support revenues are recognized ratably over the contract terms beginning on the
+commencement dates of each contract. The typical subscription and support term is 12 to 36 months, although
+terms range from one to 60 months. Our subscription and support contracts are non-cancelable, though customers
+typically have the right to terminate their contracts for cause if we materially fail to perform. We generally
+invoice our customers in advance, in annual installments, and typical payment terms provide that our customers
+pay us within 30 days of invoice. Amounts that have been invoiced are recorded in accounts receivable and in
+deferred revenue, or in revenue depending on whether the revenue recognition criteria have been met. In general,
+we collect our billings in advance of the subscription service period.
+Professional services and other revenues consist of fees associated with consulting and implementation
+services and training. Our consulting and implementation engagements are typically billed on a time and
+materials basis. We also offer a number of training classes on implementing, using and administering our service
+that are billed on a per person, per class basis. Our typical professional services payment terms provide that our
+customers pay us within 30 days of invoice.
+In determining whether professional services can be accounted for separately from subscription and support
+revenues, we consider a number of factors, which are described in “Critical Accounting Estimates—Revenue
+Recognition” below.
+Revenue by Cloud Service Offering
+We are providing the information below on a supplemental basis to give additional insight into the revenue
+performance of our individual core service offerings.
+Subscription and support revenues consisted of the following by core service offering (in millions):
+Fiscal Year Ended Fiscal Year Ended
+January 31, 20167 January 31, 2015 7 Variance-Percent
+Sales Cloud . . . . . . . . . . . . . . . . . . . $2,699.0 $2,443.0 10%
+Service Cloud ................. 1,817.8 1,320.2 38%
+App Cloud and Other . . . . . . . . . . . 1,034.7 745.3 39%
+Marketing Cloud . . . . . . . . . . . . . . . 654.1 505.3 29%
+Total.................... $6,205.6 $5,013.8
+Subscription and support revenues from the Analytics Cloud and Communities Cloud were not significant
+for fiscal 2016. Since the launch of IoT Cloud in September 2015, we have been piloting this offering with
+40

@@ -1,0 +1,41 @@
+Convertible Senior Notes
+In February 2014, we issued $690.0 million in par value of convertible senior notes due 2019 and entered into related
+convertible note hedge and warrant transactions. The terms of the notes, hedge and warrant transactions are discussed more
+fully in Note 10 to the consolidated financial statements included elsewhere in this annual report on Form 10—K. We have used,
+and intend to use, the net proceeds of the offering for share repurchases, working capital and general corporate purposes,
+including potential acquisitions and other strategic transactions.
+Liquidity Outlook
+We believe, based on our present business plan, that our current cash, cash equivalents and marketable securities balances
+and our forecasted cash ﬂows from operations will be sufficient to meet our foreseeable cash needs for at least the next 12
+months. Our foreseeable cash needs, in addition to our recurring operating costs, include our expected capital expenditures,
+investments in information technology and facility expansion, opportunistic business acquisitions, anticipated share
+repurchases, lease and purchase commitments and settlements of other long-term liabilities.
+Contractual Obligations, Contingent Liabilities and Commercial Commitments
+The following table presents our contractual obligations and commercial commitments, as of December 31, 2016, for the
+next five years and thereafter (in thousands):
+7 Payments Due by Period 7
+7 Less than 12 to 36 36 to 60 More than,
+_ : Total : : 12 Months : : Months : : Months : : 60 Months :
+Real estate operating leases $ 785,426 $ 53,410 $ 89,788 $ 109,140 $ 533,088
+Bandwidth and co-location agreements 126,197 105,451 20,167 579 ;
+Open vendor purchase orders 150,631 137,642 12,349 640 ;
+Convertible senior notes 7 690,000 7 7 7 7 7 7 690,000 7 7 7 7 7 7 ; 7
+Total contractual obligations $ 1,752,254 $ 296,503 $ 812,304 $ 110,359 $ 533,088
+In accordance with the authoritative guidance for accounting for uncertainty in income taxes, as of December 31, 2016, we
+had unrecognized tax benefits of $77.1 million, including $13.7 million of accrued interest and penalties. We believe that it is
+reasonably possible that $15.8 million of our unrecognized tax benefits will be recognized by the end of 20 17. The settlement
+period for the remaining amount of the unrecognized tax benefits is unknown.
+Letters of Credit
+As of December 31, 2016, we had outstanding $6.8 million in irrevocable letters of credit issued by us in favor of third
+party beneficiaries, primarily related to facility leases. These irrevocable letters of credit, which are not included in the table of
+contractual obligations above, are unsecured and are expected to remain in effect, in some cases, until 2028.
+Off-Balance Sheet Arrangements
+We have entered into indemnification agreements with third parties, including vendors, customers, landlords, our officers
+and directors, shareholders of acquired companies, joint venture partners and third parties to which we license technology.
+Generally, these indemnification agreements require us to reimburse losses suffered by a third party due to various events, such
+as lawsuits arising from patent or copyright infringement or our negligence. These indemnification obligations are considered
+off-balance sheet arrangements in accordance with the authoritative guidance for guarantor’s accounting and disclosure
+requirements for guarantees, including indirect guarantees of indebtedness of others. See Note 11 to our consolidated financial
+statements included elsewhere in this annual report on Form 10-K for further discussion of these indemnification agreements.
+The fair value of guarantees issued or modified during 2016 and 2015 was determined to be immaterial.
+4 1

@@ -1,0 +1,43 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+There is a great deal of competition in the market for our products, which could lower the demand for our products and have
+a negative impact on our operations.
+The market for our products and services is intensely competitive, dynamic and subject to rapid technological change. The
+intensity of the competition and the pace of change are expected to increase in the future. Increased competition is likely to result
+in price reductions, reduced gross margins and loss of market share, any one of which could seriously harm our business.
+Competitors vary in size and in the scope and breadth of the products and services offered, many of which have greater ﬁnancial
+resources, greater name recognition, more employees and greater ﬁnancial, technical, marketing, public relations and distribution
+resources than we have. In addition, new competitors with greater financial resources may arise through partnerships, distribution
+agreements, mergers, acquisitions or other types of transactions at any time. In particular, large companies have begun to make
+investments in and/or partner with smaller companies to enter the lecture capture and video management markets.
+Various vendors provide lecture capture, enterprise webcasting or video content management capabilities, but few offer an end-
+to-end solution that addresses all phases of the video content lifecycle (capture, delivery, transformation and management) in a
+single platform like Mediasite.
+Lecture capture solutions designed specifically for higher education differ in their technology approach.
+- Appliance- or room-based lecture capture provides a fully integrated system with complete recording automation for
+live or on-demand content. The automated, pre-scheduled workﬂow results in the greatest faculty and staff adoption and
+largest volumes of recorded content in the shortest amount of time.
+° Software-based lecture capture that resides on a podium or computer in the classroom also captures and publishes rich
+media content, but relies on campus- or user-supplied hardware.
+- Desktop capture tools reside on individual users’ laptops or computers allowing them to record user-generated content.
+Few lecture capture vendors, offer a mix of all lecture capture approaches to best suit customers’ needs. Most vendors, including
+Crestron, Panopto and Tegrity, support only one approach to lecture capture. Likewise, a very small number of vendors provide
+an integrated platform like Mediasite to archive and manage video and rich media recorded with their solution. Most rely on a
+third-party platform, typically the institution’s learning or course management system, to publish, search and secure content.
+Enterprise video management solutions (e.g. Kaltura, Qumu) serve as centralized media repositories that facilitate the delivery,
+publishing and management of on—demand video. Unlike Mediasite, most platforms do not include a video capture, webcasting
+or live streaming component, but instead ingest or import video-based content captured by other third-party devices or solutions.
+Also, most other platforms focus on ingesting video-only content rather than rich video which combines multiple synchronous
+video and/or slide streams into an interactive media experience.
+Some current and potential customers develop their own home-grown lecture capture, webcasting or video content solutions
+which may also compete with Mediasite. However, we often find many of these organizations are now looking for a commercial
+solution that offers comprehensive management capabilities, requires fewer resources and internal maintenance and delivers a
+less cumbersome workﬂow.
+The competitive environment may require us to make changes in our products, pricing, licensing, services, or marketing to
+maintain and extend our current technology. Price concessions or the emergence of other pricing, licensing, and distribution
+strategies or technology solutions of competitors may reduce our revenue, margins or market share. Other changes we have to
+make in response to competition could cause us to expend significant ﬁnancial and other resources, disrupt our operations, strain
+relationships with partners, release products and enhancements before they are thoroughly tested or result in customer
+dissatisfaction, any of which could harm our operating results and stock price.
+22

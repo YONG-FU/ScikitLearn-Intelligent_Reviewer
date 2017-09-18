@@ -1,0 +1,45 @@
+The following table sets forth a reconciliation of our net income to non-GAAP EBIT DA for the periods
+indicated:
+Year ended March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions)
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,665 8,649 23,403 24,320 71,289 11,056
+Less: Interest and investment income, net . . . . . . . . . . . (258) (39) (1,648) (9,455) (52,254) (8,104)
+Add: Interest expense . . . . . . . . . . . . . . . . . . . . . . . . 68 1,572 2,195 2,750 1,946 301
+Less: Other income, net . . . . . . . . . . . . . . . . . . . . . . . (327) (894) (2,429) (2,486) (2,058) (319)
+Add: Income tax expenses . . . . . . . . . . . . . . . . . . . . . 842 1,457 3,196 6,416 8,449 1,310
+Add: Share of results of equity investees . . . . . . . . . . . . 25 6 203 1,590 1,730 269
+Income from operations . . . . . . . . . . . . . . . . . . . . . . . . 5,015 10,751 24,920 23,135 29,102 4,513
+Add: Share-based compensation expense. . . . . . . . . . . . 1,254 1,259 2,844 13,028 16,082 2,494
+Add: Amortization of intangible assets . . . . . . . . . . . . . 155 130 315 2,089 2,931 455
+Add: Depreciation and amortization of property and
+equipment and land use rights . . . . . . . . . . . . . . . . . 715 805 1,339 2,326 3,770 584
+Add: Impairment of goodwill and intangible assets . . . . . 135 175 44 175 455 71
+Add: Yahoo TIPLA amendment payment . . . . . . . . . . . — 3,487 — — — —
+Add: Equity-settled donation expense . . . . . . . . . . . . . . — — 1,269 — — —
+Non-GAAP EBITDA . . . . . . . . . . . . . . . . . . . . . . . . . . 7,274 16,607 30,731 40,753 52,340 8,117
+The following table sets forth a reconciliation of our net income to non-GAAP net income for the periods
+indicated:
+Year ended March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions)
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,665 8,649 23,403 24,320 71,289 11,056
+Add: Share-based compensation expense. . . . . . . . . . . . 1,254 1,259 2,844 13,028 16,082 2,494
+Add: Amortization of intangible assets . . . . . . . . . . . . . 155 130 315 2,089 2,931 455
+Add: Impairment of goodwill, intangible assets and
+investments.............................. 399 420 163 1,032 2,319 360
+Less: Gain on deemed disposals/disposals/ revaluation of
+investments and others . . . . . . . . . . . . . . . . . . . . . . (21) (76) (384) (6,715) (50,144) (7,777)
+Add: Amortization of excess value receivable arising
+from the restructuring of commercial arrangements
+with Ant Financial Services . . . . . . . . . . . . . . . . . . . — — — 166 264 41
+Add: Yahoo TIPLA amendment payment . . . . . . . . . . . — 3,487 — — — —
+Add: Equity-settled donation expense . . . . . . . . . . . . . . — — 1,269 — — —
+Add: Expenses relating to the sale of shares by existing
+shareholders at initial public offering. . . . . . . . . . . . . — — — 231 — —
+Add: One—time charge for financing-related fees as a
+result of early repayment of bank borrowings . . . . . . . — — 664 830 — —
+Non-GAAP net income . . . . . . . . . . . . . . . . . . . . . . . . . 6,452 13,869 28,274 34,981 42,741 6,629
+4

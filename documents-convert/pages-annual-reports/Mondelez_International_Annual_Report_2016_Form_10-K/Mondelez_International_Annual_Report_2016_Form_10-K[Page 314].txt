@@ -1,0 +1,29 @@
+(b) In addition, the Borrower or Mondeléz shall pay any present or future stamp or documentary taxes or any other excise or property taxes, charges,
+irrecoverable value-added tax or similar levies (other than Taxes, or taxes referred to in Section 2.15(a)(i) to (v)) that arise from any payment made hereunder or
+from the execution, delivery or registration of, performing under, or otherwise with respect to, this Agreement or a Note other than any such taxes imposed by
+reason of an Assignment and Acceptance (hereinafter referred to as “ Other Taxes ”).
+(c) The Borrower or Mondeléz, as applicable, shall indemnify each Lender and the Administrative Agent for and hold it harmless against the full
+amount of Taxes or Other Taxes (including, without limitation, Taxes and Other Taxes imposed by any jurisdiction on amounts payable under this Section 2.15)
+payable by such Lender or the Administrative Agent (as the case may be), and any liability (including penalties, interest, additions to taxes and expenses) arising
+therefrom or with respect thereto, whether or not such Taxes or Other Taxes were correctly or legally asserted. This indemnification shall be made within 30 days
+from the date such Lender or the Administrative Agent (as the case may be), makes written demand therefor.
+((1) As soon as practicable after the date of any payment of Taxes or Other Taxes, the Borrower or Mondeléz, as applicable, shall furnish to the
+Administrative Agent, at its address referred to in Section 9.02, the original or a certified copy of a receipt evidencing such payment or other evidence of such
+payment reasonably satisfactory to the Administrative Agent.
+(e) Each Lender, on or prior to the date of its execution and delivery of this Agreement in the case of each Initial Lender and on the date of the
+Assignment and Acceptance pursuant to which it becomes a Lender in the case of each other Lender, shall provide each of the Administrative Agent, Mondeléz and
+the Borrower with any form or certificate that is required by any US. federal taxing authority to certify such Lender’s entitlement to any applicable exemption from
+or reduction in, US. federal withholding tax in respect of any payments hereunder or under any Note (including, if applicable, two original Internal Revenue
+Service Forms W-9, W-8BEN, W-8BEN-E or W—8ECI, as apprOpriate, or any successor or other form prescribed by the Internal Revenue Service or to the extent a
+Non-US. Lender is not the beneficial owner (for example, where the Non-US. Lender is a partnership or participating Lender granting a participation in
+accordance with the provisions of Section 9.07(e)), two original Internal Revenue Service Form W-SIMY, accompanied by any applicable certification documents
+from each beneficial owner) and any other documentation reasonably requested by Mondeléz, the Borrower or the Administrative Agent. Thereafter, each such
+Lender shall provide additional forms or certificates (i) to the extent a form or certificate previously provided has become inaccurate or invalid or has otherwise
+ceased to be effective or (ii) as requested in writing by Mondeléz, the Borrower or the Administrative Agent or, if such Lender no longer qualifies for the applicable
+exemption from or reduction in, US. federal withholding tax, promptly notify the Administrative Agent and the Borrower of its inability to do so. Unless the
+Borrower, Mondeléz and the Administrative Agent have received forms or other documents from each Lender satisfactory to them indicating that payments
+hereunder or under any Note are not subject to US. federal withholding tax or are subject to US. federal withholding tax at a rate reduced by an applicable tax
+treaty, the Borrower, Mondeléz or the Administrative Agent shall withhold such US. federal withholding tax from such payments at the applicable statutory rate in
+the case of payments to or for such Lender and the Borrower or Mondeléz, as applicable, shall pay additional amounts to the extent required by paragraph (a) of this
+Section 2.15 (subject to the exceptions contained in this Section 2.15).
+-24-

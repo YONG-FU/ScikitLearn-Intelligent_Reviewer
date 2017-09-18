@@ -1,0 +1,46 @@
+Table,of,C,ontents
+(2) Represents the amortization of intangible assets, substantially all of which were acquired in connection with our acquisitions. As of May 31, 2016, estimated future amortization expenses related to intangible
+assets were as follows (in millions):
+Eﬁf2ﬂ7 $ 1:0:2E
+Fiscal_2_0_1_8 8778
+13592112919 710]
+Ei§9a1_2929 6_2_1
+EigqaLZQZJ 4.761
+Thereafter_ 7 _ LE
+| IotaLintarlgiﬂejgsgtsmq s Aug: 1
+(3) Acquisition related and other expenses primarily consist of personnel related costs for transitional and certain other employees, stock-based compensation expenses, integration related professional services,
+certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net. Included in acquisition related and other expenses for
+ﬁscal 2015 was a goodwill impairment loss of $ 1 86 million (see Note 7 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report).
+(4) Restructuring expenses during ﬁscal 2016 primarily related to employee severance in connection with our 2015 Restructuring Plan. Restructuring expenses during ﬁscal 2015 primarily related to costs
+incurred pursuant to our 2015 Restructuring Plan and our Fiscal 2013 Oracle Restructuring Plan (2013 Restructuring Plan). Restructuring expenses during ﬁscal 2014 primarily related to costs incurred
+pursuant to our 2013 Restructuring Plan. Additional information regarding certain of our restructuring plans is provided in Note 9 of Notes to Consolidated Financial Statements included elsewhere in this
+Annual Report.
+(5) Stock-based compensation was included in the following operating expense line items of our consolidated statements of operations (in millions):
+Year Ended May g,
+g 2016 2015 2014
+S_ales and marketing $ 220 $ 180 $ 1_65j
+Cloud_sgﬁware_as_egelige_an_d platform asiaisgelice 17 10 8
+Clouﬁﬂ‘rasjruqturq as_a_serv_ic_e_ _4 _5 _4]
+smeliqensgupﬂgteeanq pgcluctguppprt 23 2,1 22
+Harman: prgdypts 7 6 5]
+Hgdﬂgguppprt .5 .6 .6
+Spikes 2_9 3_0 Zﬂ
+Res_ear_ch_and_deyeloprnent 6_0_9 5_22 3_85
+general_and_administrative 120 148 17 I?
+Subtotali 1,Q3_4 9_2_8 7_9_5
+IAcquisition_related_and_other 3 5 10?
+Total stock-based compensation 1,037: 933: 805:
+Stock-based compensation included in acquisition related and other expenses resulted from unvested stock options and restricted stock-based awards assumed from acquisitions whose vesting was
+accelerated upon termination of the employees pursuant to the terms of those stock options and restricted stock-based awards.
+(6) The income tax effects presented were calculated as if the above described charges were not included in our results of operations for each of the respective periods presented. Income tax effects for ﬁscal
+2016, 2015 and 2014 were calculated based on the applicable jurisdictional tax rates applied to the items within the table above and resulted in effective tax rates of 23.2%, 23.6% and 22.5%, respectively,
+instead of 22.2%, 22.6% and 20.1%, respectively, which represented our effective tax rates as derived per our consolidated statements of operations, primarily due to the net tax effects of acquisition related
+items, including the tax effects of amortization of intangible assets.
+Cloud and On-Premise Software Business
+Our cloud and on-premise software business consists of our cloud software and on—premise software segment, our cloud IaaS segment and our software license
+updates and product support segment.
+Cloud Software and On-Premise Software: Our cloud software and on-premise software segment engages in the sale, marketing and delivery of our cloud
+software offerings, including our cloud SaaS and PaaS offerings, and the licensing of our software for on-premise IT environments. Our cloud SaaS and PaaS
+offerings grant customers access to a broad range of our application and platform software technologies on a subscription basis in a secure, standards-based, cloud
+computing environment that generally includes access, hosting, infrastructure
+5 8

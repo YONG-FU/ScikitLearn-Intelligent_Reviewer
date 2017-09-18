@@ -1,0 +1,48 @@
+The Procter & Gamble Company 51
+The underfunding of pension benefits is primarily a function of the different funding incentives that exist outside of the US. In certain countries,
+there are no legal requirements or financial incentives provided to companies to pre-fund pension obligations prior to their due date. In these
+instances, benefit payments are typically paid directly from the Company's cash as they become due.
+Pension Benefits Other Retiree Benefits
+Years ended June 30 2016 2015 2016 2015
+iCLASSIFICATION OF NET AMOUNT RECOGNIZED _ — _ ‘
+Noncurrent assets 8 180 $ 276 $ — $ —
+)Currerrt liabilities (33) (39) (21) (20) l
+Noncurrent liabilities (6,761) _ (5,247) _ (1,808) _ (1,414)
+[NET AMOUNT RECOGNIZED 8 (6,614) ,_,$ (5,010) ,_,$ (1,829) ,_,$ (1,4301
+AMOUNTS RECOGNIZED IN ACCUMULATED OTHER COMPREHENSIVE INCOME (AOCI)
+lNet actuarial loss 8 6,088 8 4,488 8 2,247 8 1,731 1
+Prior service cost/(credit) 270 300 (334) (346)
+INET AMOUNTS RECOGNIZED IN AOCI $ 6,358 _ $ 4,788 _ $ 1,913 _ $ 1,385 l
+The accumulated benefit obligation for all defined benefit pension plans was $15,546 and $14,239 as of June 30, 2016 and 2015, respectively. Pension
+plans with accumulated benefit obligations in excess of plan assets and plans with projected benefit obligations in excess of plan assets consisted
+of the following:
+Accumulated Benefit Obligation Exceeds Projected Benefit Obligation Exceeds the
+the Fair Value of Plan Assets Fair Value of Plan Assets
+iYears ended June 30 2016 _ 2015 _ 2016 _ 2015
+’Projected benefit obligation 8 15,233 8 13,411 8 15,853 8 14,057 \
+Accumulated benefit obligation 13,587 11,918 14,149 12,419
+’Fair value of plan assets 8,082 7,931 8,657 8,435 ‘
+Net Periodic Beneﬁt Cost. Components of the net periodic benefit cost were as follows:
+Pension Benefits Other Retiree Benefits
+iXearsfendedil unei310, 20 16 _ 2015 _ 2014 _ 2016 _ 2015 _ 20 14
+iAMOUNTS RECOGNIZED IN NET PERIODIC BENEFIT COST 1
+Service cost 8 314 8 317 _$ 298 8 124 —$ 156 _$ 149
+[Interest cost 466 545 590 219 240 256 1
+Expected return on plan assets (731) (732) (701) (416) (406) (385)
+[Prior service cost/(credit) amortization 29 30 26 (52) (20) (20) 1
+Net actuarial loss amortization 265 275 214 78 105 118
+Epecial termination benefits 6 _ 11 _ 5 _ 12 _ 23 _ 9 ‘
+GROSS BENEFIT COST/(CREDIT) 349 _ 446 _ 432 _ (35) _ 98 _ 127
+’Dividends on ESOP preferred stock — _ — _ — _ (52) _ (58) _ (64) 1
+NET PERIODIC BENEFIT COST/(CREDIT) $ 349 $ 446 $ 432 $ (87) $ 40 $ 63
+iCHANGE IN PLAN ASSETS AND BENEFIT OBLIGATIONS RECOGNIZED IN AOCI 1
+Net actuarial loss/(gain) - current year $ 2,028 $ 240 $ 597 $ (3)
+’Prior service cost/(credit) — current year 8 17 (40) (325) ‘
+Amortization of net actuarial loss (265) (275) (78) (105)
+{Amortization of prior service (cost)/credit (29) (30) 52 20 ‘
+Currency translation and other (17 2) _ (677) (3) _ (34)
+iTOTAL CHANGE IN AOCI 1,570 _ (725) 528 _ (447) ‘
+NET AMOUNTS RECOGNIZED IN PERIODIC BENEFIT COST
+AND AOCI $ 1,919 $ (279) $ 441 $ (407)
+Net periodic benefit costs include amounts related to discontinued operations, which are not material for any period.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

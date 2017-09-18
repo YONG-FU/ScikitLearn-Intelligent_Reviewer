@@ -1,0 +1,48 @@
+OPEN TEXT CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME
+(In thousands of US dollars, except share and per share data)
+7 Year Ended June 30, 7
+2016 2015 2014
+[ Revenues: : [
+License $ 283,710 $ 294,266 $ 305,846
+[ Cloud services and subscriptions 601,018 605,309 373,400 [
+Customer support 746,409 731,797 707,024
+[ Professional service and other 193,091 220,545 238,429 [
+Total revenues : 1,824,228 1,851,917 1,624,699 :
+[Cost of revenues: _ _ [
+License 10,296 12,899 13,161
+[ Cloud services and subscriptions 244,021 237,310 142,193 [
+Customer support 89,861 94,456 96,068
+[ Professional service and other 155,584 172,742 189,403 [
+Amortization of acquired technology-based
+intangible assets (note 6) 74,238 81,002 69,917
+[ Total cost of revenues : 574,000 598,409 510,742[
+Gross profit : 1,250,228 1,253,508 1,113,957 :
+[Operating expenses: _ _ [
+Research and development 194,057 196,491 176,834
+[ Sales and marketing 344,235 373,610 346,941 [
+General and administrative 140,397 162,728 142,080
+[ Depreciation 54,929 50,906 35,237 [
+Amortization of acquired customer-based intangible
+assets (note 6) 113,201 108,239 81,023
+[ special charges (note 17) 34,846 12,823 31,314 [
+Total operating expenses 881,665 _ 904,797 _ 813,429
+[Income from operations : 368,563 348,711 300,528 [
+Other income (expense), net : (1,423)_ (28,047)_ 3,941 :
+[Interest and other related expense, net (76,363) (54,620) (27,934)]l
+Income before income taxes : 290,777 266,044 276,535 :
+[Provision for income taxes (note 14) 6,282 31,638 58,461 [
+Net income for the period $ 284,495 $ 234,406 $ 218,074
+[Net (income) loss attributable to non-controlling interests : (18)_ (7 9)_ 51 [
+Net income attributable to OpenText $ 284,477 _$ 234,327 _$ 218,125
+[Earnings per share—basic attributable to OpenText (note if 77—; 77—;
+21) 8 2.347 739 1.927 8 1.827
+Earnings per share—diluted attributable to OpenText : H H :
+(note 21) 8 2.33 7 755 1.917 755 1.817
+[Weighted average number of Common Shares 7 7‘ r;
+outstanding—basic 7 121,463 7 7 122,092 7 7 1 19,674 7
+Weighted average number of Common Shares : if E :
+outstanding—diluted 7 122,038 7 7 122,957 7 120,576 7
+[Dividends declared per Common Share *8 0.8300 8 0.7175 $ 0.6225 [
+See accompanying Notes to Consolidated Financial Statements
+1 11

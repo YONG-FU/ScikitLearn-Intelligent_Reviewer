@@ -1,0 +1,49 @@
+o BASICS — In December 2010, the FMCSA introduced a new enforcement and compliance model that ranks
+both fleets and individual drivers on seven categories of safety-related data, eventually replacing the current
+SafeStat model. The seven categories of safety-related data, known as BASICs, currently include Unsafe
+Driving, Fatigued Driving (hours-of-service), Driver Fitness, Controlled Substances/Alcohol, Vehicle
+Maintenance, Hazardous Materials Compliance, and Crash Indicator.
+Certain BASICs information was initially published and made available to carriers, as well as the general public.
+However, in December 2015, as part of the Fixing America's Surface Transportation ("FAST") Act, Congress
+mandated that the FMCSA remove all CSA scores from public view until a more comprehensive study regarding
+the effectiveness of BASICs improving truck safety could be completed. The study is currently underway and
+a report to Congress is expected to be published in June 2017.
+Implementation and effective dates are unclear. In October 2016, the F MCSA outlined proposed changes to
+its safety measurement system and sought public feedback through December 2016 before deciding whether
+to adopt the proposed changes. SafeStat is currently the authoritative safety measurement system in effect.
+We currently have a satisfactory SafeStat DOT rating, which is the best available rating under the current safety
+rating scale.
+0 Safety Fitness Determination — In January 2016, the F MCSA published a Notice of Proposed Rulemaking
+("NPRM") in the Federal Register, regarding carrier safety fitness determination. The NPRM proposes new
+methodologies that would determine when a motor carrier is not fit to operate a commercial motor vehicle. Key
+proposed changes included in the NPRM are as follows:
+0 There would be only one safety rating of "unfit," as compared to the current rules, which have three safety
+ratings (satisfactory, conditional, and unsatisfactory).
+o Carriers could be determined "unfit" by failing two or more BASICs, investigation results, or a combination
+of the two.
+0 Stricter standards would be used for BASICs with a higher correlation to crash risk (Unsafe Driving and
+Hours-of-Service Compliance).
+0 All investigation results would be used, not just results from comprehensive on-site reviews.
+0 Violations of a revised list of "critical" and "acute" safety regulations would result in failing a BASIC.
+c- Carriers would be assessed monthly.
+Public comments on the proposed rule were due in June 2016.
+- Moving Ahead for Progress in the 275t Century Bill — In July 2012, Congress passed the Moving Ahead
+for Progress in the 21 5‘ Century bill into law. Included in the highway bill was a provision that mandates electronic
+logging devices in commercial motor vehicles to record hours-of-service. Additionally, in response to the bill,
+a final rule related to entry-level driver training was passed in 2016, as well as amendments to the Drug and
+Alcohol Clearinghouse rules.
+c- Electronic Loggiing Devices ("ELD") — During 2012, the FMCSA published a Supplemental NPRM,
+announcing its plan to proceed with the ELDs and hours-of-service supporting documents rulemaking. The
+ELD rule became final in December 2015, as published in the Federal Register, with an effective date of
+February 16, 2016. The ELD rule phases in over a four-year period:
+w Phase 1 (February 16, 2016 through December 18, 2017): Carriers and drivers subject to the rule
+may voluntarily use ELDs or use other forms of logging devices.
+m Phase 2 (December 18, 2017 through December 16, 2019): Carriers and drivers subject to the rule
+can use Automatic On-board Recording Devices ("AOBRD") that were installed prior to December 18,
+2017 or ELDs certified and registered after December 16, 2015.
+w Phase 3 (after December 16, 2019): All drivers and carriers subject to the rule must use certified and
+registered ELDs that comply with the requirements of the ELD regulations.
+Although the final ELD rule may have a large impact on the industry as a whole, we do not expect a
+significant impact on Swift, as we previously installed ELDs in our operational trucks in conjunction with
+our efforts to improve efficiency and communications with drivers and owner-operators.
+18

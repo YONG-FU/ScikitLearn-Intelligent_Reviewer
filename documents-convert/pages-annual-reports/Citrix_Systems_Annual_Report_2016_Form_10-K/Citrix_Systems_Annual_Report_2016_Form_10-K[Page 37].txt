@@ -1,0 +1,54 @@
+Revenue Recognition
+We recognize revenue when it is earned and when all of the following criteria are met: persuasive evidence of the
+arrangement exists; delivery has occurred or the service has been provided and we have no remaining obligations; the fee is
+fixed or determinable; and collectability is probable. We define these four criteria as follows:
+- Persuasive evidence of the arrangement exists. Evidence of an arrangement generally consists of a purchase order
+issued pursuant to the terms and conditions of a distributor, reseller or end user agreement. For SaaS, we generally
+require the customer or the reseller to electronically accept the terms of an online services agreement or execute a
+contract.
+0 Delivery has occurred and we have no remaining obligations. We consider delivery of licenses under electronic
+licensing agreements to have occurred when the related products are shipped and the end-user has been electronically
+provided the software activation keys that allow the end-user to take immediate possession of the product. For
+hardware appliance sales, our standard delivery method is free-on—board shipping point. Consequently, we consider
+delivery of appliances to have occurred when the products are shipped pursuant to an agreement and purchase order.
+For SaaS, delivery occurs upon providing the users with their login id and password. For product training and
+consulting services, we fulfill our obligation when the services are performed. For license updates and maintenance,
+we assume that our obligation is satisfied ratably over the respective terms of the agreements, which are typically 12
+to 24 months. For SaaS, we assume that our obligation is satisfied ratably over the respective terms of the
+agreements, which are typically 12 months.
+0 The fee is ﬁxed or determinable. In the normal course of business, we do not provide customers with the right to a
+refund of any portion of their license fees or extended payment terms. The fees are considered fixed or determinable
+upon establishment of an arrangement that contains the final terms of the sale including description, quantity and
+price of each product or service purchased. For SaaS, the fee is considered fixed or determinable if it is not subject to
+refund or adjustment.
+° Collectability is probable. We assess collectability based primarily on the creditworthiness of the customer.
+Management’s judgment is required in assessing the probability of collection, which is generally based on an
+evaluation of customer specific information, historical experience and economic market conditions. If we determine
+from the outset of an arrangement that collectability is not probable, revenue recognition is deferred until customer
+payment is received and the other parameters of revenue recognition described above have been achieved.
+The majority of our product and license revenue consists of revenue from the sale of software products. Software sales
+generally include a perpetual license to our software and are subject to the industry specific software revenue recognition
+guidance. In accordance with this guidance, we allocate revenue to license updates related to our software and any other
+undelivered elements of the arrangement based on VSOE of fair value of each element and such amounts are deferred until the
+applicable delivery criteria and other revenue recognition criteria described above have been met. The balance of the revenues,
+net of any discounts inherent in the arrangement, is recognized at the outset of the arrangement using the residual method as the
+product licenses are delivered. If management cannot objectively determine the fair value of each undelivered element based on
+VSOE of fair value, revenue recognition is deferred until all elements are delivered, all services have been performed, or until
+fair value can be objectively determined. We also make certain judgments to record estimated reductions to revenue for
+customer programs and incentive offerings including volume-based incentives, at the time sales are recorded.
+For hardware appliance and software transactions, the arrangement consideration is allocated to stand-alone software
+deliverables as a group and the non-software deliverables based on the relative selling prices of using the selling price hierarchy
+in the revenue recognition guidance. The selling price hierarchy for a deliverable is based on its VSOE if available, third-party
+evidence, or TPE, if VSOE is not available, or estimated selling price if neither VSOE nor TPE is available. We then recognize
+revenue on each deliverable in accordance with our policies for product and service revenue recognition. VSOE of selling price
+is based on the price charged when the element is sold separately. In determining VSOE, we require that a substantial majority
+of the selling prices fall within a reasonable range based on historical discounting trends for specific products and services. TPE
+of selling price is established by evaluating competitor products or services in stand-alone sales to similarly situated customers.
+However, as our products contain a significant element of proprietary technology and our solutions offer substantially different
+features and functionality, the comparable pricing of products with similar functionality typically cannot be obtained.
+Additionally, as we are unable to reliably determine what competitors products” selling prices are on a stand-alone basis, we are
+not typically able to determine TPE. The estimate of selling price is established considering multiple factors including, but not
+limited to, pricing practices in different geographies and through different sales channels and competitor pricing strategies.
+For our non-software transactions, we allocate the arrangement consideration based on the relative selling price of the
+deliverables. For our hardware appliances, we use ESP as our selling price. For our support and services, we generally use
+33

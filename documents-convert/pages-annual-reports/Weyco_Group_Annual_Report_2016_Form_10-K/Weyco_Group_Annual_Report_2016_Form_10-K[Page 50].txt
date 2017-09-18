@@ -1,0 +1,48 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+8. OTHER ASSETS — (continued)
+On May 1, 2013, the Company purchased a 50% interest in a building in Montreal, Canada for
+approximately $3.2 million. The building, which is classified as an investment in real estate in the
+above table, serves as the Company’s Canadian office and distribution center. The purchase was
+accounted for as an equity-method investment under ASC 323, Investments — Equity Method and
+Joint Ventures.
+9. SHORT-TERM BORROWINGS
+At December 31, 2016, the Company had a $60 million unsecured revolving line of credit with
+a bank expiring November 3, 2017. The line of credit bears interest at LIBOR plus 0.75%. At
+December 31, 2016, outstanding borrowings were approximately $4.3 million at an interest rate of
+1.52%. The highest balance during the year was $28.4 million. At December 31, 2015, outstanding
+borrowings were $26.6 million at an interest rate of 1.18%.
+10. CONTINGENT CONSIDERATION
+Contingent consideration was comprised of two earn-out payments that the Company was
+obligated to pay the former shareholders of The Combs Company (“Bogs”) in connection with the
+Company’s acquisition of Bogs in 2011. The estimate of contingent consideration was formula-driven
+and was based on Bogs achieving certain levels of gross margin dollars between January 1, 2011,
+and December 31, 2015. The first earn-out payment was paid on March 28, 2013 in the amount of
+$1,270,000. The second and final earn-out payment was paid on March 23, 2016 in the amount of
+$5,217,000. In accordance with ASC 805, Business Combinations, the Company remeasured its
+estimate of the fair value of the liability at each reporting date. The change in fair value was
+recognized in earnings.
+The following table summarizes the activity during 2016 and 2015 related to the second earn-out
+payment as recorded in the Consolidated Statements of Earnings (dollars in thousands):
+2016 2015
+Beginningbalance.................................. $5,217 $5,675
+Net gain on remeasurement of contingent consideration . . . . . . — (458)
+Payment of contingent consideration . . . . . . . . . . . . . . . . . . . . . (5,217) —
+Endingbalance.................................... $ — $5,217
+The second and final earn-out payment was recorded within accrued liabilities at December 31,
+2015. The gain on remeasurement of contingent consideration was recorded within selling and
+administrative expenses in the consolidated statements of earnings for the year ended December 31,
+2015.
+The total contingent consideration was reflected in the Company’s wholesale segment. The fair
+value measurement of the contingent consideration was based on significant inputs not observed in
+the market and thus represented a level 3 valuation as defined by ASC 820.
+11. EMPLOYEE RETIREMENT PLANS
+The Company has a defined benefit pension plan covering substantially all employees, as well
+as an unfunded supplemental pension plan for key executives. Retirement benefits are provided
+based on employees’ years of credited service and average earnings or stated amounts for years of
+service. Normal retirement age is 65 with provisions for earlier retirement. The plan also has
+provisions for disability and death benefits. The plan closed to new participants as of August 1, 2011.
+Additionally, benefit accruals under the plan were frozen effective December 31, 2016.
+The Company’s funding policy for the defined benefit pension plan is to make contributions to
+the plan such that all employees’ benefits will be fully provided by the time they retire. Plan assets
+46

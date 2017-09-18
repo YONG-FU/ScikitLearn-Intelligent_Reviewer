@@ -1,0 +1,46 @@
+not significant and are attributable to changes in interest rates. The Company does not believe any unrealized losses represent
+other than temporary impairments based on the evaluation of available evidence.
+The following table details the fair value measurements within the fair value hierarchy of the Company’s financial assets
+and liabilities as of December 31, 2016 and 2015 (in thousands):
+Fair Value Measurements at Reporting Date Using
+Total Fair Value Level 1 Level 2 Level 3
+'As ofDecember 31,2016 : : : : : :
+I Cash Equivalents and Marketable Securities: I
+I Money market funds $ 8,726 $ 8,726 $ 7 7 $ ; I
+I Commercial paper 40,920 7 7 40,920 ; I
+I Corporate bonds 981,076 7 7 981,076 ; I
+I US. government agency obligations 266,142 7 7 266,142 ; I
+' Mutual funds 4,022 4,022 7 7 4 '
+' $ 1,300,886 $ 12,748 $ 1,288,138 $ —
+iLiabilities: I
+I Contingent consideration obligation related to I
+_ completed acquisitions $ (7,100) $ 7 7 $ 7 7 $ (7,100)-
+'As of December 31, 2015 I
+I Cash Equivalents and Marketable Securities: I
+I Money market funds 35 1,250 $ 1,250 $ 7 7 $ ; I
+I Commercial paper 2,487 7 7 2,487 ; I
+I Corporate bonds 991,808 7 7 991,808 ; I
+I US. government agency obligations 239,053 7 7 239,053 4 I
+I Mutual funds 1,414 1,414 7 7 ; I
+' $ 1,236,012 $ 2,664 $ 1,233,348 $ —
+The following table reﬂects the activity for the Company’s major classes of liabilities measured at fair value using Level 3
+inputs for the years ended December 31, 2016 and 2015 (in thousands):
+Other
+Liabilities:
+Contingent
+Consideration
+Obligation
+I Balance, January 1, 2015 :$ (900)
+I Fair value adjustment to Velocius contingent consideration included in general and administrative expense (100)
+Achievement of final milestone related to Velocius contingent consideration 1,000 I
+I Balance, December 31, 2015 :$ ; :
+Contingent consideration obligation related to Soha Systems, Inc. acquisition (1,600)-
+Contingent consideration obligation related to Cyberfend, Inc. acquisition (5,500)
+Balance, December 31, 2016 $ (7,100)
+As of December 31, 2016 and 2015, the Company grouped money market funds and mutual funds using a Level 1
+valuation because market prices for such investments are readily available in active markets. As of December 31, 2016 and
+2015, the Company grouped commercial paper, US. government agency obligations and corporate bonds using a Level 2
+valuation because quoted prices for identical or similar assets are available in markets that are inactive. The Company did not
+have any transfers of assets or liabilities between Level 1 and Level 2 of the fair value measurement hierarchy during the years
+ended December 31, 2016 and 2015.
+62

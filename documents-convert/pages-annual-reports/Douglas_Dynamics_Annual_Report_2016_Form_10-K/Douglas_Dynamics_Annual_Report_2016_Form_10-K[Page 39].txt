@@ -1,0 +1,47 @@
+December 31, 2015 is lower than 2014 due to the relief of valuation allowances in several states
+resulting from consecutive years of taxable income in those states.
+Net Income. Net income for the year ended December 31, 2015 was $44.2 million compared to
+net income of $40.0 million for the corresponding period in 2014, an increase of $4.2 million. This
+increase was driven by the factors described above.
+Discussion of Critical Accounting Policies
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of
+these consolidated financial statements requires us to make estimates and assumptions that affect the
+reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. These
+estimates and assumptions are often based on judgments that we believe to be reasonable under the
+circumstances at the time made, but all such estimates and assumptions are inherently uncertain and
+unpredictable. Actual results may differ from those estimates and assumptions, and it is possible that
+other professionals, applying their own judgment to the same facts and circumstances, could develop
+and support alternative estimates and assumptions that would result in material changes to our
+operating results and financial condition. We evaluate our estimates and assumptions on an ongoing
+basis. Our estimates are based on historical experience and various other assumptions that we believe
+to be reasonable under the circumstances.
+The most significant accounting estimates inherent in the preparation of our financial statements
+include estimates used in the determination of liabilities related to pension obligations, recovery of
+accounts receivable, impairment assessment of goodwill and other indefinite-lived intangible assets, as
+well as estimates used in the determination of the lower of cost or market value of inventory and
+liabilities related to taxation and product warranty.
+We believe the following are the critical accounting policies that affect our financial condition and
+results of operations.
+Deﬁned Beneﬁt Pension Obligation
+As discussed in Note 11 to our audited consolidated financial statements included elsewhere in this
+Annual Report on Form 10-K, the pension benefit obligation and related pension expense or income of
+our pension plans are calculated in accordance with Accounting Standards Codification (“ASC”)
+715-30, Defined Benefit Plans-Pension, and are impacted by certain actuarial assumptions, including the
+discount rate and the expected rate of return on plan assets. Rates are evaluated on an annual basis
+considering such factors as market interest rates and historical asset performance. Actuarial valuations
+for 2016 used a discount rate of 4.5% for both our hourly and salary pension plans and an expected
+long-term rate of return on plan assets of 7.25%. Meanwhile, actuarial valuations for 2015 used a
+discount rate of 4.0% and 3.9% for our hourly and salary pension plans, respectively, and an expected
+long-term rate of return on plan assets of 7.25%. Our discount rate reﬂects the expected future cash
+ﬂow based upon our funding valuation assumptions and participant data at the beginning of the plan
+year. The expected future cash ﬂow was discounted by the Principal Financial Group’s yield curve for
+the month preceding the 2016 year end.
+In estimating the expected return on plan assets, we analyze historical and expected returns for
+multiple asset classes. The overall rate for each asset class was developed by combining a long-term
+inﬂation component, the risk-free real rate of return, and the associated risk premium. A weighted
+average rate was then developed based upon those overall rates and the target asset allocation of the
+plan. Changes in the discount rate and return on assets can have a significant effect on the funded
+status of our pension plans, shareholders’ equity and related expense. We cannot predict these changes
+in discount rates or investment returns and, therefore, cannot reasonably estimate whether the impact
+in subsequent years will be significant. The funded status of our pension plans is the difference between
+33

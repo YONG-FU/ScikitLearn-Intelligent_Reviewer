@@ -1,0 +1,47 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+We are primarily exposed to market risks associated with ﬂuctuations in interest rates on our term loans and foreign
+currency exchange rates.
+Interest rate risk
+Our exposure to interest rate ﬂuctuations relate primarily to our Term Loan B.
+As of June 30, 2016, we had an outstanding balance of $780.0 million on Term Loan B. Term Loan B bears a ﬂoating
+interest rate of 2.5% plus the higher of LIBOR or 0.75%. As of June 30, 2016, an adverse change of one percent on the interest
+rate would have the effect of increasing our annual interest payment on Term Loan B by approximately $7.8 million, assuming
+that the loan balance as of June 30, 2016 is outstanding for the entire period.
+At June 30, 2015, an adverse change of one percent would have had the effect of increasing our annual interest payments
+on Term Loan B by approximately $7.9 million, assuming that the loan balance was outstanding for the entire period.
+Foreign currency risk
+Foreign currency transaction risk
+We transact business in various foreign currencies. Our foreign currency exposures typically arise from intercompany
+fees, intercompany loans and other intercompany transactions that are expected to be cash settled in the near term. We expect
+that we will continue to realize gains or losses with respect to our foreign currency exposures. Our ultimate realized gain or loss
+with respect to foreign currency exposures will generally depend on the size and type of cross-currency transactions that we
+enter into, the currency exchange rates associated with these exposures and changes in those rates. Additionally, we have
+hedged certain of our Canadian dollar foreign currency exposures relating to our payroll expenses in Canada.
+Based on the foreign exchange forward contracts outstanding as at June 30, 2016, a one cent change in the Canadian
+dollar to US. dollar exchange rate would have caused a change of approximately $0.3 million in the mark to market on our
+existing foreign exchange forward contracts.
+At June 30, 2015, a one cent change in the Canadian dollar to US. dollar exchange rate would have caused a change of
+approximately $0.8 million in the mark to market on our existing foreign exchange forward contracts.
+Foreign currency translation risk
+Our reporting currency is the US. dollar. Fluctuations in foreign currencies impact the amount of total assets and
+liabilities that we report for our foreign subsidiaries upon the translation of these amounts into US. dollars. In particular, the
+amount of cash and cash equivalents that we report in US. dollars for a significant portion of the cash held by these
+subsidiaries is subject to translation variance caused by changes in foreign currency exchange rates as of the end of each
+respective reporting period (the offset to which is recorded to accumulated other comprehensive income on our Consolidated
+Balance Sheets).
+The following table shows our cash and cash equivalents denominated in certain major foreign currencies as of June 30,
+2016 (equivalent in US. dollar):
+US. Dollar
+Equivalent at
+7 June 30, :
+(In thousands) _ 2016 _ 2015
+Euro 39 182,524 $ 125,411 ‘
+British Pound 29,572 28,634
+[Canadian Dollar 22,103 21,358 ]
+Swiss Franc 30,298 12,364
+{Other foreign currencies 72,107 55,996 i
+Total cash and cash equivalents denominated in foreign currencies 336,604 243,763
+[Us dollar 2 947,153 2 456,236‘
+Total cash and cash equivalents $ 1,283,757 $ 699,999
+If overall foreign currency exchange rates in comparison to the US. dollar uniformly weakened by 10%, the amount of
+68

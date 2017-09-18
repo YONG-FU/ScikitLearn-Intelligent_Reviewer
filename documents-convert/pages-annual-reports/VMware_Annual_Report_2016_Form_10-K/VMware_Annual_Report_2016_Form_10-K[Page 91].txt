@@ -1,0 +1,44 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Options outstanding that are exercisable and that have vested and are expected to vest as of December 31, 2016 were as follows:
+VMware Stock Options
+Outstanding Weighted Average Aggregate Intrinsic
+Options Weighted Average Remaining Term Value (1)
+(in thousands) Exercise Price (in years) (in millions)
+’Exercisable, December 31, 2016 1,436 $ 66.56 4.41 8 28 l
+Vested and expected to vest, December 31, 2016 2,050 67.47 4.48 39
+(1) The aggregate intrinsic values represent the total pre-tax intrinsic values based on VMware's closing stock price of $78.73 as of December 31, 2016 , which
+would have been received by the option holders had all in-the-money options been exercised as of that date.
+The total fair value of VMware stock options that vested during the years ended December 31, 2016 , 2015 , and 2014 was $29 million , $60 million and
+$64 million , respectively.
+The options exercised during the years ended December 31, 2016 , 2015 , and 2014 had a pre-tax intrinsic value of $22 million , $136 million and
+$147 million , respectively.
+The pre-tax intrinsic value of EMC stock options held by VMware employees that were exercised during the years ended December 31, 2016 , 2015 , and
+2014 was $13 million , $3 million and $7 million , respectively.
+VMware Shares Repurchased for Tax Mthholdings
+During the years ended December 31, 2016 , 2015 and 2014 , VMware repurchased and retired or withheld 2.6 million , 2.6 million and 1.8 million shares,
+respectively, of Class A common stock, for $167 million , $173 million and $162 million , respectively, to cover tax withholding obligations. These amounts may
+differ from the amounts of cash remitted for tax withholding obligations on the consolidated statements of cash ﬂows due to the timing of payments. Pursuant to
+the respective award agreements, these shares were withheld in conjunction with the net share settlement upon the vesting of restricted stock and restricted stock
+units during the period. The value of the withheld shares, including restricted stock units, was classified as a reduction to additional paid-in capital.
+Stock-Based Compensation
+The following table summarizes the components of total stock-based compensation included in VMware’s consolidated statements of income for the years
+ended December 31, 2016 , 2015 and 2014 (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+lCost of license revenue $ 2 $ 2 $ 2 ‘
+Cost of services revenue 52 44 42
+’Research and development 305 226 244 ‘
+Sales and marketing 195 168 172
+lGenerai and administrative 82 _ 64 _ 69 l
+Stock-based compensation 636 504 529
+[Income tax benefit (183) (144) (157) 1
+Total stock-based compensation, net of tax $ 453 $ 360 $ 372
+From time to time, VMware issues equity awards that have a guaranteed amount of value and are classiﬁed as liability awards on VMware’s consolidated
+balance sheets. Upon vesting, these grants will be settled in shares based upon the stock price or a trailing average stock price on a date determined by the terms of
+each individual award. As of December 31, 2016 and 2015 , there were no outstanding liability-classified awards. During the year ended December 31, 2014 ,
+$21 million of liability-classified awards was reclassified to additional paid-in capital upon vesting.
+As of December 31, 2016 , the total unrecognized compensation cost for stock options and restricted stock was $1,044 million and will be recognized through
+2020 with a weighted-average remaining period of 1.5 years . Stock-based
+88

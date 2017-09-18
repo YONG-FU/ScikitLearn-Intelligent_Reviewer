@@ -1,0 +1,46 @@
+A summary of the activity related to stock options for the year ended December 31, 2016 follows:
+Weighted Average
+Shares Under Weighted Average Remaining Aggregate Intrinsic
+7 Option 7 7 Exercise Price 7 7 Contractual Term 7 7 Value (1) 7
+7 7 7 7 7 (In years) 7 7 (In thousands) 7
+Stock options outstanding at
+December31, 2015 3224253 $ “'01 4'04 $ 9'051
+Granted 195,999 $ 15.51
+Exercised (1,253,152) $ 10.56
+Expired (11,119) $ 13.46
+Forfeited (37,818), $ 18.87
+Stock options outstanding at 7 7
+December 31, 2016 7 2'118'163 $ 13'427 4'19 $ 23'175
+Aggregate number of stock options 7 7 7 7 7 7 7 7
+expected to vest at a future date as of 234,300 $ 20.93 8.53 $ 803
+December 31, 2016 7 H H H 7
+Exercisable at December 31, 2016..... r 1,849,432: :$ 12.32: i 3.56: :$ 22,269:
+(1) The aggregate intrinsic value was computed using the closing share price on December 31, 2016 of $24.36
+and on December 31, 2015 of $13.82, as applicable.
+The fair value of each stock option grant is estimated on the grant date using the Black-Scholes-Merton option-
+pricing model, which uses a number of assumptions to determine the fair value of the options on the grant date.
+The following table presents the weighted average assumptions used to determine the fair value of stock options
+issued:
+Year Ended December 31,
+7 2016 2015 2014 7
+Dividend yield (1) ’ —% 7* —% " —% 7
+Risk-free rate of return (2) 1.23% 1.41% 1.28%
+Expected volatility (3) 40.33% 37.22% 40.00%
+Expected term (in years) (4) 4.9 5.8 5.8
+Weighted average fair value of stock options granted...... $6.39 $6.96 $6.79
+(1) The dividend yield assumption is based on anticipated dividend payouts.
+(2) The risk-free interest rate assumption is based on the United States Treasury yield curve at the grant date with
+maturity dates approximately equal to the expected life at the grant date.
+(3) The Company estimates the expected volatility and expected option life assumption consistent with ASC Topic
+718, Compensation — Stock Compensation. Beginning in 2016, we used our internal historical prices over the
+expected term of the options to determine our expected volatility. Prior to that, expected volatility was based
+upon an analysis of historical prices of similar market capitalized trucking group participants within the Dow
+Jones Total United States Market Index over the expected term of the options. The Company chose a daily
+measurement interval for historical volatility as it believes this better depicts the nature of employee option
+exercise decisions being based on shorter-term trends in the price of the underlying shares, rather than on
+monthly price movements.
+(4) As a result of the inability to predict the expected future employee exercise behavior, the Company estimated
+the expected term of the options using a simplified method based on contractual and vesting terms of the
+options. The Company uses historical data to estimate pre-vesting option forfeitures and records stock-based
+compensation expense only for those awards that are expected to vest.
+121

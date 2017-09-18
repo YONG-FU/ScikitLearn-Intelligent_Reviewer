@@ -1,0 +1,23 @@
+“ Funding Date ” means the Three-Year Funding Date and the F ive-Year Funding Date.
+“ SAAB” has the meaning specified in Section 1.03.
+“ Governmental Authority: ” means any nation or government and any state or other political subdivision thereof, and any agency, authority,
+instrumentality, regulatory body, court, administrative tribunal, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or
+administrative powers or functions of or pertaining to government (including any supra-national body exercising such powers or functions, such as the European
+Union or the European Central Bank).
+“ Guaranty: ” has the meaning specified in Section 8.01.
+“ Historical Screen Rate ” means, in relation to any LIBO Rate Loan, the most recent applicable Screen Rate for Dollars for a period equal in length to
+the Interest Period of that Loan and which is as of a day which is no more than two (2) Business Days before the start of the applicable Interest Period.
+“ Home Jurisdiction Withholding Tax ” means United States federal backup withholding tax under Section 3406 of the Internal Revenue Code.
+“ InterestPeriod,” means, for each LIBO Rate Loan comprising part of the same Borrowing, the period commencing on the date of Borrowing of such
+LIBO Rate Loan or the date of Conversion of any Base Rate Loan into such LIBO Rate Loan and ending on the last day of the period selected by the Borrower
+requesting such Borrowing pursuant to the provisions below. The duration of each such Interest Period shall be one (or less than one month if available to all
+Lenders), two, three or six months or, if available to all Lenders, twelve months, as the Borrower may select upon notice received by the Administrative Agent not
+later than 11:00 am. (New York City time) on the third Business Day prior to the first day of such Interest Period; provided, howeven, that:
+(a) the Borrower may not select any Interest Period that ends after the applicable Maturity Date for any Loan
+(b) whenever the last day of any Interest Period would otherwise occur on a day other than a Business Day, the last day of such Interest Period shall
+be extended to occur on the next succeeding Business Day, providedthat if such extension would cause the last day of such Interest Period to occur in the
+next following calendar month, the last day of such Interest Period shall occur on the immediately preceding Business Day; and
+(0) whenever the ﬁrst day of any Interest Period occurs on a day of an initial calendar month for which there is no numerically corresponding day in
+the calendar month that succeeds such initial calendar month by the number of months equal to the number of months in such Interest Period, such Interest
+Period shall end on the last Business Day of such succeeding calendar month.
+-9-

@@ -1,0 +1,40 @@
+Iablre,of,C,ontents
+The weighted average grant-date fair values and intrinsic values of options vested during 2016 , 2015 and 2014 are as follows:
+Year Ended December 31,
+2016 2015 2014
+(in thousands, excefi per share data)
+IWeighted average grant-date fair value of options granted $ 7.46 $ 6.64 $ 8.24 I
+Total intrinsic value of options exercised $ 4,886 $ 6,497 $ 9,303
+During 2016 , the Company received $6.0 million in cash and realized $1.2 million in tax beneﬁts from the exercise of stock options.
+The fair values of the stock option awards granted during 2016 , 2015 and 2014 were estimated on the dates of grant using the Black-Scholes option valuation
+model and the following assumptions:
+Year Ended December 31,
+2016 _ 2015 _ 2014
+IRisk—free interest rate 2.0% 1.9% 1.9%I
+Weighted average expected life (years) 5.8 years 5.8 years 5.9 years
+IExpected volatility 26.0% 27.2% 36.9%I
+Dividend yield 2.0% 2.2% 2.4%
+The following table summarizes other information about our stock options at December 31, 2016 :
+December 31, 2016
+(in thousands, except per share data)
+IOutstanding: I
+Number of options 2,615
+I Weighted average exercise price $ 24.61 I
+Aggregate intrinsic value $ 38,072
+I Weighted average remaining contractual life (years) 6.2 years I
+Exercisable:
+I Number of options 1,172 I
+Weighted average exercise price $ 18.39
+I Aggregate intrinsic value $ 24,350 I
+Weighted average remaining contractual life (years) 4.4 years
+Restricted Stock
+A summary of our restricted stock outstanding under the Plan as of December 31, 2016 and changes during 2016 is as follows:
+Number of Restricted Shares Weighted Average Grant-Date Fair Value
+(in thousands)
+IUnvested at December 31, 2015 40 $ 29.10 I
+Granted 44 $ 34. 14
+IVested (9) $ 28.76 I
+Forfeited (1) — $ 34.14
+IUnvested at December 31, 2016 74 $ 32.09 I
+(1) Number of restricted shares rounds to less than a thousand.
+49

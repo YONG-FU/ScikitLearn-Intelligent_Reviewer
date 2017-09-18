@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+continue to license their technologies or intellectual property to us on reasonable terms, or at all. Providers may change the fees they charge users or othenNise
+change their business model in a manner that slows the widespread acceptance of their technologies. In order for our services to be successful, there must be a
+large base of users of the technologies necessary to deliver our content, advertising, and services. We have limited or no control over the availability or
+acceptance of those technologies, and any change in the licensing terms, costs, availability, or user acceptance of these technologies could adversely affect our
+business.
+Our business depends on continued and unimpeded access to the Internet by us and our users. Internet access providers may be able to block,
+degrade, or charge for access to certain of our products and services, which could lead to additional expenses and the loss of users and advertisers.
+Our products and services depend on the ability of our users to access the Internet, and certain of our products require signiﬁcant bandwidth to work effectively.
+Currently, this access is provided by companies that have signiﬁcant market power in the broadband and internet access marketplace, including incumbent
+telephone companies, cable companies, mobile communications companies, and government—owned service providers. Some of these providers may take, or
+have stated that they may take, measures that could degrade, disrupt, or increase the cost of user access to certain of our products by restricting or prohibiting
+the use of their infrastructure to support or facilitate our offerings, or by charging increased fees to us or our users to provide our offerings. Such interference
+could result in a loss of existing users and advertisers, and increased costs, and could impair our ability to attract new users and advertisers, thereby harming
+our revenues and growth. The adoption of any laws or regulations that limit access to the Internet by blocking, degrading or charging access fees to us or our
+users for certain services could decrease the demand for, or the usage of, our products, services and apps, increase our cost of doing business and adversely
+affect our operating results.
+Any failure to manage changes to our business could adversely affect our operating results.
+If we are unable to effectively manage a large and geographically dispersed group of employees, our business may be adversely affected. Our business relies
+on data systems, billing systems, and ﬁnancial reporting and control systems, among others. All of these systems have become increasingly complex in the
+recent past due to the growing complexity of our business, acquisitions of new businesses with different systems, and increased regulation over controls and
+procedures. To manage our business in a cost-effective manner, we will need to continue to upgrade and improve our data systems, billing systems, and other
+operational and ﬁnancial systems, procedures, and controls. In some cases, we are outsourcing administrative functions to lower—cost providers. These
+upgrades, improvements and outsourcing changes will require a dedication of resources and in some cases are likely to be complex. If we are unable to adapt
+our systems and put adequate controls in place in a timely manner, our business may be adversely affected. In particular, sustained failures of our billing
+systems to accommodate increasing numbers of transactions, to accurately bill users and advertisers, or to accurately compensate Afﬁliates could adversely
+affect the viability of our business model.
+We have dedicated resources to provide a variety of premium enhancements to our products, services and apps, which might not prove to be
+successful in generating significant revenue for us.
+We offer fee-based enhancements for many of our free services. The development cycles for these technologies are long and generally require investment by
+us. We have invested and will continue to invest in premium products, services and apps. Some of these premium products, services and apps might not
+generate anticipated revenue or might not meet anticipated user adoption rates. We have previously discontinued some non-proﬁtable premium services and
+may discontinue others. General economic conditions as well as the rapidly evolving competitive landscape may affect users’ willingness to pay for such
+premium services. If we cannot generate revenue from our premium
+31

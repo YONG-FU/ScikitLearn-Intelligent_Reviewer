@@ -1,0 +1,48 @@
+(FINANCIAL STATEMENTS — NOTE 14 :)
+Agent equity awards vest and are measured estimate a hypothetical cost of eliminating the
+using the fair market value at the conclusion of downside risk associated with the sale
+the quarterly contest, which is the time that restrictions.
+performance IS.Complete’ However’ agent equ'ty The most significant assumptions in the Black—
+awards are subject to long—term sales . . .
+. . . . Scholes models are the volatility assumptions.
+restrictions expiring over three years. Because . . . . . .
+. . We derive volatility assumptions primarily from
+the sale restrictions extend up to three years . . . .
+. . . the historical volatility of our common stock
+beyond the vesting period, the fair market value . . .
+. . . . . . usmg terms comparable to the sale restriction
+of the awards incorporates an iIIIqUIdity discount terms
+reflecting the risk associated with the post— '
+vesting restrictions. To quantify this discount for The following table presents the assumptions
+each award, we use a series of put option used in valuing quarterly RSU grants to agents:
+models with one—, two— and three—year tenors to
+Year ended December 31,
+i 2016 2015 2014 :
+Expected volatility 24% to 42% 18% to 35% 17% to 31%
+Quarterly dividends expected $0.17 to $0.18 $ 0.16 $ 0.12
+Risk—free interest rates Less than 2% Less than 2% Less than 2%
+To the extent that these awards are an manner as other deferred policy acquisition
+incremental direct cost of successful acquisitions costs. All agent equity awards that are not
+of life insurance policies that result directly from directly related to the acquisition of life
+and are essential to the policy acquisition(s) and insurance policies are recognized as expense
+would not have been incurred had the policy over the requisite vesting period.
+acqu'si't'OMS) nfﬂ occurred’ we defer énd Details on the granting and valuation of these
+amortize the fair value of the awards in the same ,
+awards follow.
+: Year ended December 31, i
+r 2016 2015 2014 r
+7 (Dollars in thousands, except 7
+per-share amounts)
+Total quarterly non—employee RSUs granted 235,735 325,744 294,985
+Measurement date per—share fair value of
+awards $39.87 to $61.50 $40.98 to $46.71 $42.96 to $49.98
+Illiquidity discounts 10% to 11% 8% to 9% 8% to 9%
+Quarterly incentive awards expense recognized
+currently $ 910 $ 466 $ 453
+Quarterly incentive awards expense deferred 10,517 13,423 13,598
+Tax benefit associated with incentive awards 3,674 4,454 4,500
+As of December 31, 2016, all agent equity compensation cost not recognized as either
+awards were fully vested with the exception of expense or DAC in our financial statements
+approximately 42,000 shares that vested on through December 31, 2016 is immaterial.
+January 1, 2017. As such, any related
+Primerica 2016 Annual Report 139

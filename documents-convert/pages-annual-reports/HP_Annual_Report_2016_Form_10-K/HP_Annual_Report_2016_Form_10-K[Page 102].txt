@@ -1,0 +1,47 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 11: Financial Instruments (Continued)
+hedges. Additionally, for derivatives not designated as hedging instruments, HP categorizes those economic hedges as other
+derivatives. HP recognizes all derivative instruments at fair value in the Consolidated Balance Sheets. HP classifies cash ﬂows
+from its derivative programs with the activities that correspond to the underlying hedged items in the Consolidated Statements
+of Cash Flows.
+As a result of its use of derivative instruments, HP is exposed to the risk that its counterparties will fail to meet their
+contractual obligations. Master netting agreements mitigate credit exposure to counterparties by permitting HP to net amounts
+due from HP to counterparty against amounts due to HP from the same counterparty under certain conditions. To further limit
+credit risk, HP has collateral security agreements that allow HP to hold collateral from, or require HP to post collateral to,
+counterparties when aggregate derivative fair values exceed contractually established thresholds which are generally based on
+the credit ratings of HP and its counterparties. If HP’s or the counterparty’s credit rating falls below a specified credit rating,
+either party has the right to request full collateralization of the derivatives’ net liability position. The fair value of derivatives
+with credit contingent features in a net liability position was $2 million and $138 million as of October 31, 2016 and 2015,
+respectively, all of which were fully collateralized within two business days.
+Under HP’s derivative contracts, the counterparty can terminate all outstanding trades following a covered change of
+control event affecting HP that results in the surviving entity being rated below a specified credit rating. This credit contingent
+provision did not affect HP’s financial position or cash ﬂows as of October 31, 2016 and 2015.
+Fair Value Hedges
+HP enters into fair value hedges, such as interest rate swaps, to reduce the exposure of its debt portfolio to changes in fair
+value resulting from changes in interest rates by achieving a primarily US. dollar London Interbank Offered Rate (“LIBOR”)-
+based ﬂoating interest expense.
+For derivative instruments that are designated and qualify as fair value hedges, HP recognizes the change in fair value of
+the derivative instrument, as well as the offsetting change in the fair value of the hedged item, in Interest and other, net in the
+Consolidated Statements of Earnings in the period of change.
+Cash Flow Hedges
+HP uses forward contracts and at times, option contracts designated as cash ﬂow hedges to protect against the foreign
+currency exchange rate risks inherent in its forecasted net revenue and, to a lesser extent, cost of revenue, operating expenses,
+and intercompany loans denominated in currencies other than the US. dollar. HP’s foreign currency cash ﬂow hedges mature
+generally within twelve months; however, hedges related to longer term procurement arrangements extend several years and
+forward contracts associated with intercompany loans extend for the duration of the lease or loan term, which typically range
+from two to five years.
+For derivative instruments that are designated and qualify as cash ﬂow hedges, HP initially records changes in fair value
+for the eﬁective portion of the derivative instrument in Accumulated other comprehensive loss as a separate component of
+stockholders’ (deficit) equity in the Consolidated Balance Sheets and subsequently reclassifies these amounts into earnings in
+the period during which the hedged transaction is recognized in earnings. HP reports the effective portion of its cash ﬂow
+hedges in the same financial statement line item as changes in the fair value of the hedged item.
+Net Investment Hedges
+HP used forward contracts designated as net investment hedges to hedge net investments in certain foreign subsidiaries
+whose functional currency was the local currency. As part of the Separation, HP disposed of all these foreign subsidiaries and
+no longer utilizes net investment hedges. HP recorded the effective portion of such derivative instruments together with changes
+in the fair value of the hedged items in Cumulative translation adjustment as a separate component of stockholders’ (deficit)
+equity.
+Other Derivatives
+102

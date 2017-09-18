@@ -1,0 +1,44 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+2. Summary of Significant Accounting Policies (Continued)
+The following table presents financial assets and liabilities measured at fair value on a recurring
+basis and discloses the fair value of long-term debt:
+Fair Value Fair Value
+at December 31, at December 31,
+2016 2015
+Assets:
+Otherlong-termassets(a)................................. $ 3,458 $ 2,500
+TotalAssets............................................ $ 3,458 $ 2,500
+Liabilities:
+Interestrateswaps(b)................................... 1,985 1,501
+Longtermdebt(c)...................................... 315,940 185,540
+Earnout—Henderson(d)................................. 636 761
+Earnout—Trynex(e)..................................... — 1,606
+Earnout—Dejana(f)..................................... 10,373 —
+TotalLiabilities.......................................... $328,934 $189,408
+(a) Included in other assets is the cash surrender value of insurance policies on various individuals
+that are associated with the Company. The carrying amounts of these insurance policies
+approximates their fair value.
+(b) Valuation models are calibrated to initial trade price. Subsequent valuations are based on
+observable inputs to the valuation model (e.g. interest rates and credit spreads). Model inputs are
+changed only when corroborated by market data. A credit risk adjustment is made on each swap
+using observable market credit spreads. Thus, inputs used to determine fair value of the interest
+rate swap are Level 2 inputs. Interest rate swaps of $335 and $1,650 at December 31, 2016 are
+included in accrued expenses and other current liabilities and other long-term liabilities,
+respectively. Interest rate swaps of $286 and $1,215 at December 31, 2015 are included in accrued
+expenses and other current liabilities and other long-term liabilities, respectively.
+(c) The fair value of the Company’s long-term debt, including current maturities, is estimated using
+discounted cash ﬂows based on the Company’s current incremental borrowing rates for similar
+types of borrowing arrangements, which is a Level 2 input for all periods presented. Meanwhile,
+long-term debt is recorded at carrying amount, net of discount, as disclosed on the face of the
+balance sheet.
+(d) Included in accrued expenses and other current liabilities and other long term liabilities in the
+amounts of $194 and $442, respectively, at December 31, 2016 is the fair value of an obligation for
+a portion of the potential earn out acquired in conjunction with the acquisition of Henderson.
+Included in accrued expenses and other current liabilities and other long term liabilities in the
+amounts of $319 and $442, respectively, at December 31, 2015 is the fair value of an obligation for
+a portion of the potential earn out acquired in conjunction with the acquisition of Henderson. Fair
+value is based upon Level 3 discounted cash ﬂow analysis using key inputs of forecasted future
+F-16

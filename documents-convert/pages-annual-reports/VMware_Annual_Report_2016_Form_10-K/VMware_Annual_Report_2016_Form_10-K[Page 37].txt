@@ -1,0 +1,44 @@
+Iabl,e,of,C,ontents
+January 31 of each year to align with Dell’s. The change in our fiscal year was effective January 1, 2017. As a result of the change, the period beginning on
+January 1, 2017 and ending on February 3, 2017 is being reported as a transition period, and our first full fiscal year under the revised fiscal calendar began on
+February 4, 2017 and will end on February 2, 2018. We plan to include our unaudited financial statements for the approximately one-month transition period in our
+Quarterly Report on Form 10-Q ﬁled for the fiscal quarter ended May 5, 2017.
+Results of Operations
+Approximately 70% of our sales are denominated in the US. dollar, however, in certain countries we also invoice and collect in the following currencies:
+euro; British pound; Japanese yen; Australian dollar; and Chinese renminbi. In addition, we incur and pay operating expenses in currencies other than the US.
+dollar. As a result, our financial statements, including our revenue, operating expenses, unearned revenue, and the resulting cash flows derived from the US. dollar
+equivalent of foreign currency transactions are impacted by foreign exchange ﬂuctuations.
+Revenue
+Our revenue during the years ended December 31, 2016 , 2015 and 2014 was as follows (dollars in millions):
+For the Year Ended December 31, 2016 vs. 2015 2015 vs. 2014
+2016 2015 2014 $ Change % Change $ Change % Change
+’Revenue: ‘
+License $ 2,794 $ 2,720 $ 2,591 $ 74 3% $ 130 5%
+I Services: ‘
+Software maintenance 3,740 3,405 3,022 335 10 384 13
+1 Professional services 559 _ 522 _ 422 _ 37 7 98 23 1
+Total services 4,299 3,927 3,444 372 9 482 14
+l GSA settlement — _ (76) _ — _ 76 n/a (76) n/a 1
+Total revenue $ 7,093 $ 6,571 $ 6,035 $ 522 8 $ 536 9
+Revenue:
+1 United States 8 3,588 $ 3,311 8 2,912 $ 277 8% $ 399 14% 1
+International 3,505 3,260 3,123 245 8 137 4
+1 Total revenue 3; 7,093 $ 6,571 $ 6,035 $ 522 8 $ 536 9 1
+Hybrid cloud, including vCAN and vCloud Air, and our SaaS offerings, including our AirWatch mobile solutions, increased to approximately 8% of our total
+revenue during the year ended December 31, 2016 from greater than 6% during the year ended December 31, 2015. vCAN revenue is generally included in license
+revenue, and SaaS revenue, including vCloud Air and our AirWatch mobile solutions, is included in both license and services revenue.
+License revenue relating to the sale of perpetual licenses that are part of a multi—year arrangement is generally recognized upon delivery of the underlying
+license, whereas revenue derived from our hybrid cloud and SaaS offerings is recognized based on consumption or over a period of time.
+License Revenue
+License revenue growth in 2016 compared to 2015 was largely driven by license sales of NSX, vSAN and AirWatch mobile solutions, as well as growth in our
+vCAN offering. We experienced stronger than expected sales of our compute products, which also contributed to the license revenue growth in 2016 compared to
+2015. Strength in sales of our compute products were, in part, due to strong renewals of our EAs. We expect compute license sales to decline in 2017 and over the
+longer-term.
+License revenue increased in 2015 compared to 2014 primarily as a result of increased sales of our emerging product offerings, including NSX, AirWatch
+mobile solutions and vSphere with Operations Management (“vSOM”), as well as revenue from our hybrid cloud offerings. License revenue during 2015 also
+beneﬁted from declines in unearned license revenue.
+In 2015, our license revenue growth rate was negatively impacted by certain factors including lower license sales of our core compute products, changes in the
+value of the US. dollar against the foreign currencies in which we invoice and an increase in the percentage of sales derived from our hybrid cloud and SaaS
+offerings. Increased sales of our hybrid cloud and SaaS offerings resulted in less revenue being recognized up-front, which also had an adverse impact on our
+growth rate during 2015.
+36

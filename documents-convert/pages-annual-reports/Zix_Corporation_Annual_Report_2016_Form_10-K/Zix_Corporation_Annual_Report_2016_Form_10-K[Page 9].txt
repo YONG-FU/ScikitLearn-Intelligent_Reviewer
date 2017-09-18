@@ -1,0 +1,45 @@
+disclosure, modiﬁcation or removal of our conﬁdential or sensitive information, theft or unauthorized use or publication of our trade secrets, loss of
+customers, lost revenue and increased expense (including potentially indemniﬁcation or warranty costs), any of which could have a material adverse effect on
+our business, ﬁnancial condition and ﬁnancial results.
+Public key cryptography technology used in our businesses is subject to technology integrity risks that could reduce demand for our products and
+services and could negatively affect our business, ﬁnancial condition and ﬁnancial results.
+Our business employs public key cryptography technology and other encryption technologies to encrypt and decrypt messages. The security afforded
+by encryption depends on the integrity of the private key, which is predicated on the assumption that it is very difﬁcult to mathematically derive the private
+key from the related public key. Successful decryption of intercepted encrypted email, or public reports of successful decryption, whether or not true, could
+reduce demand for our products and services. If new methods or technologies, such as quantum computing, make it easier to derive the private key from the
+related public key, the security of encryption services using public key cryptography technology could be impaired and our products and services could
+become less marketable. That could require us to make signiﬁcant changes to our services, which could increase our costs, damage our reputation, or
+otherwise harm our business. Any of these events could reduce our revenues, increase our expenses and materially adversely affect our business, ﬁnancial
+condition and ﬁnancial results.
+Our business depends substantially on our data center facilities, and their unreliability or unavailability for a signiﬁcant period could cause us to lose
+customers and could negatively affect our business, ﬁnancial condition and ﬁnancial results.
+Much of the computer and communications hardware upon which our businesses depend is located in our data center facilities in Dallas and Austin,
+Texas and in the United Kingdom. Our data centers might be damaged or interrupted by ﬁre, ﬂood, power loss, telecommunications failure, break-ins, cyber-
+attacks, earthquakes, terrorist attacks, hostilities or war or other events. Computer viruses, equipment failure, denial of service attacks, and similar disruptions
+affecting the intemet or our systems might cause service interruptions, delays and loss of critical data, and could prevent us from providing our services.
+Problems affecting our data center operations or the networks on which we rely could result in loss of revenues, increased expenses, failure to achieve market
+acceptance, diversion of resources, injury to our reputation, liability and increased costs. We do not carry sufﬁcient insurance to compensate us for all losses
+that may occur as a result of any of these events. The occurrence of any of these events could materially adversely affect our business, ﬁnancial condition and
+ﬁnancial results.
+Outages or problems with systems and infrastructure supplied by third parties could negatively affect our business, ﬁnancial condition and ﬁnancial
+results.
+Our business relies on third-party suppliers of the telecommunications infrastructure. We use various communications service suppliers and the global
+intemet to provide network access between our data centers, our customers and end-users of our services. If those suppliers do not enable us to provide our
+customers with reliable, real-time access to our systems, we may be unable to gain or retain customers. These suppliers periodically experience outages or
+other operational problems as a result of internal system failures or external third party actions. Though our products generally tolerate isolated supplier
+failures, multiple supplier outages or problems could materially adversely affect our business, ﬁnancial condition and ﬁnancial results.
+The infrastructure supporting our business may suffer capacity constraints and business interruptions that could cause us to lose customers, increase
+our operating costs and could negatively affect our business, ﬁnancial condition and ﬁnancial results.
+Our business depends on our providing our customers reliable, real-time access to our data centers and networks. Customers will not tolerate a service
+hampered by slow delivery times, unreliable service levels, service outages, or insufﬁcient capacity. System capacity limits or constraints arising from
+unexpected increases in our volume of business or network trafﬁc could cause interruptions, outages or delays in our services, or deterioration in their
+performance, or could impair our ability to process transactions. We may not be able to accurately project the rate of increase in usage of our systems or to
+timely increase capacity to accommodate increased traffic on our systems. System delays or interruptions may prevent us from efﬁciently providing services
+to our customers or other third parties, which could result in our losing customers and revenues, or incurring liabilities that could have a material adverse
+effect on our business, ﬁnancial condition and ﬁnancial results.
+The growth of our business may require signiﬁcant investment in systems and infrastructure and these investments may achieve delayed, or lower than
+expected beneﬁts, which could impair our proﬁtability and negatively affect our business, ﬁnancial condition and ﬁnancial results.
+As our operations grow in size and scope, we continually need to improve and upgrade our technology offerings, systems and infrastructure to offer an
+increasing number of customers enhanced products, services, features and functionality, while maintaining the reliability and integrity of our systems and
+infrastructure and pursuing reduced costs per transaction. Expanding our technology
+9

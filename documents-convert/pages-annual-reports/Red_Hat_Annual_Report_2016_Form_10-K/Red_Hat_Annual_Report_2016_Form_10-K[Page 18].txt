@@ -1,0 +1,41 @@
+COMPETITION
+The rapidly evolving and intensely competitive enterprise software industry is characterized by new
+industry standards, disruptive technology developments and frequent new product introductions. We compete
+with a number of large and well-established companies that have significantly greater financial resources, larger
+development staffs and more extensive marketing and distribution capabilities. We also compete with emerging
+start-up companies that may be able to innovate and provide products and services faster than we can. No
+assurance can be given that our efforts to compete effectively will be sufficient.
+We believe that the major factors affecting the competitive landscape for our offerings include:
+° the name and reputation of the vendor or competitive offering;
+° the product price, performance, reliability, security and functionality;
+- the partnerships of the vendor with major industry hardware and/or software providers;
+° the channel strength and number of channel partners of the vendor;
+° the ability to adapt development, sales, marketing and support to the open source software model;
+- the financial and value relationship of subscription services;
+° the availability of third-party enterprise applications that are compatible with the technology;
+° the speed with which customers transition to cloud computing environments and the type of cloud
+computing environments utilized (public, private or hybrid);
+° the breadth of hardware and software ecosystem compatibility, including the ability to move IT
+workloads among various cloud offerings;
+- the number of cloud service providers;
+- the management framework for administering the software technologies;
+- the quality of consulting and support services;
+° the number of customer and company reference accounts;
+° the ability of the vendor to quickly diagnose software issues and provide patches and other solutions;
+and
+° the strength of the vendor’s relationships and reputation in the open source community.
+With respect to our operating system offerings, our competitors include Microsoft, which offers a hardware-
+independent, multi-user operating system that competes with Red Hat’s offerings. Moreover, we also compete
+with HPE, IBM, Oracle and Unisys Corporation, each of which offers the UNIX operating system. Many of these
+competitors bundle competitive operating systems, such as UNIX, with their own hardware and additional
+software offerings, thereby making it more difficult for us to penetrate their customer bases. With respect to
+Linux operating systems, our competitors include Micro Focus International plc, with its SUSE brand of Linux,
+and Amazon’s and Oracle’s Linux offerings. We also compete with freely available Linux distributions, such as
+CentOS, Debian, Fedora, openSUSE and Ubuntu.
+With respect to our virtualization offerings, our competitors include Citrix Systems, Inc. (“Citrix”),
+Microsoft, Oracle and VMware. Microsoft and VMware offer virtualization technologies that are certified and
+supported with Red Hat Enterprise Linux operating system offerings, and Microsoft supports its server operating
+systems and application servers running on our virtualization offerings.
+With respect to our middleware offerings, our competitors include IBM, Microsoft, Oracle and Pivotal
+Software, Inc. (“Pivotal”). Most of these vendors offer the majority of their middleware products under a typical
+14

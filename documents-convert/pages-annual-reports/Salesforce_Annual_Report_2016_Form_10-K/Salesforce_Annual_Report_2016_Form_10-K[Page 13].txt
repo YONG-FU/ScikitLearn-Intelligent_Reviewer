@@ -1,0 +1,44 @@
+cost effectively. Our multi-tenant application architecture maintains the integrity and separation of customer
+data while still permitting all customers to use the same application functionality simultaneously.
+Rapid deployment and lower total cost of ownership. Our services can be deployed rapidly since our
+customers do not have to spend time procuring, installing or maintaining the servers, storage, networking
+equipment, security products or other hardware and software. We enable customers to achieve up-front
+savings relative to the traditional enterprise software model. Customers benefit from the predictability of
+their future costs since they generally pay for the service on a per subscriber basis for the term of the
+subscription contract.
+Ease of integration and configuration. IT professionals are able to integrate and configure our solutions
+with existing applications quickly and seamlessly. We provide a set of application programming
+interfaces (“APIs”) that enable customers and independent software developers to both integrate our
+solution with existing third-party, custom and legacy apps and write their own application services that
+integrate with our solutions. For example, many of our customers use our App Cloud API to move
+customer-related data from custom-developed and packaged applications into our service on a periodic
+basis to provide greater visibility into their activities.
+High levels of user adoption. We have designed our solutions to be intuitive and easy to use. Our
+solutions contain many tools and features recognizable to users of popular consumer web services, so
+users have a more familiar user experience than typical enterprise applications. As a result, our users can
+often use and gain benefit from our solutions with minimal training. We have also designed our solutions
+to be used on popular mobile devices, making it possible for people to conduct business from their
+phones.
+Rapid development of apps and increased innovation. Our customers and third-party developers can
+create apps rapidly because of the ease of use and the benefits of a multi-tenant platform. We provide the
+capability for business users to easily customize our applications to suit their specific needs, and also
+support a variety of programming languages so developers can code complex apps spanning multiple
+business processes and deliver them via multiple mobile devices. By providing infrastructure and
+development environments on demand, we provide developers the opportunity to create new and
+innovative apps without having to invest in hardware. Developers with ideas for a new app can create, test
+and support their solutions on the App Cloud and make the app accessible for a subscription fee to
+customers.
+Continuous innovation. We release hundreds of new features to all of our customers three times a year.
+Our metadata-driven, multitenant cloud runs on a single code base, which enables every customer to run
+their business on the latest release without disruption. Because we deploy all upgrades on our servers,
+new features and functionality automatically become part of our service on the upgrade release date and
+therefore benefit all of our customers immediately.
+Positive environmental impact. Our multi-tenant cloud platform makes it possible to use a remarkably
+small number of servers as efficiently as possible. When organizations move business applications to
+Salesforce, they can significantly reduce their energy use and carbon footprints compared to traditional
+on-premises solutions.
+Our Strategy
+Our objective is to deliver solutions that transform how companies sell, service, market and innovate to
+connect with their customers in a whole new way. Not only do we provide enterprise cloud apps, we also provide an
+enterprise cloud computing platform upon which our customers and partners build and customize their own apps.
+6

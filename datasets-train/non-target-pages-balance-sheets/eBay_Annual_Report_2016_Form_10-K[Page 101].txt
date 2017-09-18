@@ -1,0 +1,43 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 8 — Fair Value Measurement of Assets and Liabilities
+The following tables present our financial assets and liabilities measured at fair value on a
+recurring basis as of December 31, 2016 and 2015 (in millions):
+Quoted Prices in
+Active Markets for Significant Other
+Identical Assets Observable Inputs
+December 31, 2016 7 (Level 1) 7 7 (Level 2) 7
+1 Assets: 7 7—7 7—7 1
+Cash and cash equivalents $ 1,816 $1,816 $ —
+1 Short-term investments: 1
+Restricted cash 19 19 —
+1 Corporate debt securities 5,246 — 5,246 1
+Government and agency securities 68 — 68
+1 Total short—term investments 5,333 19 5,314 1
+Derivatives 154 — 154
+1 Long—term investments: 1
+Corporate debt securities 3,851 — 3,851
+1 Total long—term investments 3,851 — 3,851 1
+Total financial assets $11,154 $1,835 $ 9,319
+1 Liabilities: 1
+Derivatives $ 48 $ — $ 48
+Quoted Prices in
+Active Markets for Significant Other
+Identical Assets Observable Inputs
+December 31, 2015 (Level 1) (Level 2)
+1 Assets: — — 1
+Cash and cash equivalents $ 1,832 $1,664 $ 168
+1 Short-term investments: 1
+Restricted cash 28 28 —
+1 Corporate debt securities 3,287 — 3,287 1
+Government and agency securities 55 — 55
+1 Equity instruments 929 929 — 1
+Total short—term investments 4,299 957 3,342
+1 Derivatives 97 — 97 1
+Long—term investments:
+1 Corporate debt securities 3,267 — 3,267 1
+Total long-term investments 3,267 — 3,267
+1 Total financial assets $9,495 $2,621 $6,874 1
+1 Liabilities: 1
+Derivatives $ 25 $ — $ 25
+F-25

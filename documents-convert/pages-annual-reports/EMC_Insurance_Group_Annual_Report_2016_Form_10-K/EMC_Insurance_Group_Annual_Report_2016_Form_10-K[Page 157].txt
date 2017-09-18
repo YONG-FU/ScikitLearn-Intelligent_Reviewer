@@ -1,0 +1,40 @@
+A summary of net investment income is as follows:
+Year ended December 31,
+(SE in thousands) 2016 2015 2014
+[Interest on fixed maturity securities $ 41,499 _ $ 42,261 _ $ 41,932 [
+Dividends on equity securities 6,922 5,617 6,007
+[Income on reverse repurchase agreements 236 117 — [
+Interest on short-term investments 121 2 —
+[Return on long-term investments 514 (461) 297 [
+Total investment income 49,292 47,536 48,236
+[Securities litigation income 111 32 107 [
+Investment expenses (1,913) (1,986) (1,878)
+[ Net investment income :0 47,490 _$ 45,582 _$ 46,465 [
+A summary of net changes in unrealized holding gains (losses) on securities available-for-sale is as follows:
+Year ended December 31,
+($ in thousands) : 2016 2015 2014 :
+[Fixed maturity securities $ (20,634) _ $ (16,685) $ 29,081 [
+Deferred income tax expense (benefit) (7,222) (5,840) 10,179
+[ Total fixed maturity securities : (13,412)_ (10,845) 18,902 [
+[Equity securities 4,293 (10,997) 17,051 [
+Deferred income tax expense (benefit) 1,502 (3,849) 5,967
+[ Total equity securities 2,791 _ (7,148) _ 11,084 [
+Total available-for-sale securities s (10,621)_$ (17,993) _$ 29,986
+10. INCOME TAXES
+Temporary differences between the consolidated financial statement carrying amount and tax basis of assets and
+liabilities that give rise to significant portions of the deferred income tax asset (liability) at December 31, 2016 and 2015 are as
+follows:
+December 31,
+($ in thousands) : 2016 2015 :
+[Loss reserve discounting is 13,442 is 13,929 [
+Unearned premium reserve limitation 16,497 16,310
+[Other policyholders' funds payable 4,574 3,052 [
+Other, net 2,561 1,730
+[ Total deferred income tax asset : 37,074 35,021 [
+Net unrealized holding gains on investment securities : (26,7 86)_ (32,506)
+[Deferred policy acquisition costs (14,328) (14,252)[
+Retirement benefits (3,510) (3,606)
+[Other, net (3,771) (3,686)]l
+Total deferred income tax liability (48,395) (54,050)
+[ Net deferred income tax liability $ (11,321)_$ (19,029)!
+146

@@ -1,0 +1,44 @@
+Item 1A. Risk Factors
+The following is a cautionary discussion of risks, uncertainties and assumptions that we believe are significant to our business, ﬁnancial condition
+and ﬁnancial results. In addition to the factors discussed elsewhere in this Annual Report on Form 1 0-K, the following are some of the important factors
+that, individually or in the aggregate, we believe could make our results diﬂer materially from those described in any forward-looking statements. It is
+impossible to predict or identify all such factors and, as a result, you should not consider the following factors to be a complete discussion of risks,
+uncertainties and assumptions.
+Our business depends upon customers using email to exchange conﬁdential information, and a signiﬁcant shift of those messages to other
+communication channels could impair our growth prospects and negatively affect our business, ﬁnancial condition and ﬁnancial results.
+Our customers deploy and use our products and services to easily, securely and conﬁdentially send and receive email messages. Our business and
+revenue substantially depend on our current and potential customers using email to exchange sensitive information electronically. New technologies,
+products, or business models that could support secure communications could be disruptive to our business. If prospective or current customers were to send
+and receive sensitive information using technology or communication channels other than email, our growth prospects and our business, ﬁnancial condition
+and ﬁnancial results could be materially adversely affected.
+Our business depends on market acceptance of our products and services, and our failure to achieve and maintain inﬂuential customers could
+negatively affect our business, ﬁnancial condition and ﬁnancial results.
+In order to continue to operate proﬁtably and grow, we must achieve and maintain broad market acceptance of our products and services at a price that
+provides us with an acceptable rate of return relative to our costs. We have been successful in selling our Email Encryption products and services to high-
+proﬁle customers in the healthcare, ﬁnancial services and government segments of the market. The acceptance and use of our products and services by those
+signiﬁcant customers facilitates our sales to other potential customers, and an expanding base of users in the Zix Directory aids in our market penetration and
+expansion. The loss of an inﬂuential customer of our existing products and services, or the failure to achieve sufficient market adoption of new products
+including ZixQuarantine and ZiXOne, could impair our ability to expand the market penetration of our products and services, or cause us to reduce or
+increase prices, which could reduce our revenues and net income and materially adversely affect our business, ﬁnancial condition and ﬁnancial results.
+Our business relies on securing new customer subscriptions and subscription renewals from existing customers.
+A large portion of our revenue is derived from customer subscriptions, and existing customers have no contractual obligations to purchase beyond the
+initial subscription or contract period. We may not maintain historical subscription rates, and we may be unable to accurately predict our customer renewal
+rates. Although we have historically retained approximately 90% of our recurring revenue on an annual basis, our customers’ renewal rates may decline or
+ﬂuctuate as a result of a number of factors, including the level of their satisfaction with our products and technical support services, customer merger or
+acquisition activity, customer budgets, the pricing of our products compared with those offered by our competitors, technology trends, the prevailing
+regulatory regime and general market conditions. If new subscriptions or subscription renewals decline, our revenue or revenue growth may decline, and our
+business may suffer.
+The security of our networks and data centers is critical to our business and an actual or perceived breach of security through a cyber-attack or
+otherwise could cause us to lose customers and could negatively affect our reputation, business, ﬁnancial condition and ﬁnancial results.
+We are dependent on our networks and data centers to provide our products and services. Due to the nature of the products and services we provide
+and the sensitive nature of the information we collect, process, store, use and transmit, we may face cyber-attacks, data protection breaches, computer viruses
+and other similar disruptions from unauthorized tampering or human error that attempt to penetrate and could harm our networks and data centers. Our
+business depends on customers having and maintaining conﬁdence that we provide effective network and security protection. To reduce the risk of a
+successful cyber—attack or similar event, we have implemented signiﬁcant physical and logical security measures to detect, identify and mitigate threats as
+well as to monitor for and respond to potential breaches and incidents. Despite these security measures, our networks and data centers may remain vulnerable.
+We may not be able to correct a security ﬂaw or particular vulnerability promptly, or at all. Further efforts to limit the ability of malicious third parties to
+disrupt or undermine our security efforts may be costly to implement and may not be successful. If a cyber—attack or other breach of security occurs, or is
+perceived to have occurred, in our internal systems or at our data centers and networks, it could cause negative publicity, interruption of our services, damage
+to our reputation, unauthorized disclosure of our customers’ conﬁdential or proprietary information (including personally identiﬁable information),
+disclosure of our intellectual property,
+8

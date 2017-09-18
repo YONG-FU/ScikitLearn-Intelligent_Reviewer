@@ -1,0 +1,51 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 1: Overview and Summary of Signiﬁcant Accounting Policies (Continued)
+sheet of each individual period presented, in order to reﬂect the period-specific effects of applying the new guidance. HP will
+adopt the amendments in the first quarter of fiscal year 2017. HP expects that the implementation of this guidance will not have
+a material effect on its Consolidated Financial Statements.
+In May 2014, the FASB amended the existing accounting standards for revenue recognition. The amendments are based
+on the principle that revenue should be recognized to depict the transfer of promised goods or services to customers in an
+amount that reﬂects the consideration to which the entity expects to be entitled in exchange for those goods or services. In
+August 2015, the FASB issued an accounting standard update for a one-year deferral of the effective date, with an option of
+applying the standard on the original effective date, which for HP is the first quarter of fiscal year 2018. In accordance with this
+deferral, HP is required to adopt these amendments in the first quarter of fiscal year 2019. The amendments may be applied
+retrospectively to each prior period presented or retrospectively with the cumulative eﬁect recognized as of the date of initial
+application. HP is continuing to evaluate the impact of this guidance and the transition alternatives on its Consolidated
+Financial Statements.
+Revenue Recognition
+General
+HP recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred or services are
+rendered, the sales price or fee is fixed or determinable, and collectability is reasonably assured. Additionally, HP recognizes
+hardware revenue on sales to channel partners, including resellers, distributors or value-added solution providers at the time of
+delivery when the channel partners have economic substance apart from HP, and HP has completed its obligations related to the
+sale.
+HP reduces revenue for customer and distributor programs and incentive offerings, including price protection, rebates,
+promotions, other volume-based incentives and expected returns, at the later of the date of revenue recognition or the date the
+sales incentive is offered. Future market conditions and product transitions may require HP to take actions to increase customer
+incentive offerings, possibly resulting in an incremental reduction of revenue at the time the incentive is offered. For certain
+incentive programs, HP estimates the number of customers expected to redeem the incentive based on historical experience and
+the specific terms and conditions of the incentive.
+In instances when revenue is derived from sales of third-party vendor products or services, HP records revenue on a gross
+basis when HP is a principal to the transaction and on a net basis when HP is acting as an agent between the customer and the
+vendor. HP considers several factors to determine whether it is acting as a principal or an agent, most notably whether HP is the
+primary obligor to the customer, has established its own pricing and has inventory and credit risks.
+HP reports revenue net of any taxes collected from customers and remitted to government authorities, with the collected
+taxes recorded as current liabilities until remitted to the relevant government authority.
+Multiple element arrangements
+When a sales arrangement contains multiple elements or deliverables, such as hardware and/or services, HP allocates
+revenue to each element based on a selling price hierarchy. The selling price for a deliverable is based on its vendor specific
+objective evidence (“VSOE”) of selling price, if available, third-party evidence (“TPE”) if VSOE of selling price is not
+available, or estimated selling price (“ESP”) if neither VSOE of selling price nor TPE is available. HP establishes VSOE of
+selling price using the price charged for a deliverable when sold separately and, in rare instances, using the price established by
+management having the relevant authority. HP evaluates TPE of selling price by reviewing largely similar and interchangeable
+competitor products or services in standalone sales to similarly situated customers. HP establishes ESP based on management
+judgment considering internal factors such as margin objectives, pricing practices and controls, customer segment pricing
+strategies and the product life cycle. Consideration is also given to market conditions such as competitor pricing strategies and
+technology industry life cycles.
+In most arrangements with multiple elements, HP allocates the transaction price to the individual units of accounting at
+inception of the arrangement based on their relative selling price. HP limits the amount of revenue recognized for delivered
+elements to the amount that is not contingent on the future delivery of products or services, future performance obligations or
+subject to customer-specified refund or return rights.
+63

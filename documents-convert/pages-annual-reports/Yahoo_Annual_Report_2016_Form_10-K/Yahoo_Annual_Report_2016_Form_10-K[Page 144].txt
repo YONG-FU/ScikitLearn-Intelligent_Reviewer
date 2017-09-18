@@ -1,0 +1,33 @@
+Table,of,C,ontents
+2013, October 9, 2014, and July 24, 2015) which provided for a $750 million unsecured revolving credit facility. The termination of the credit agreement took
+effect on May 23, 2016.
+Note 11 Convertible Notes
+0.00% Convertible Senior Notes
+As of December 31, 2016, the Company had $1.4 billion in principal amount of Notes outstanding. In 2013, the Company issued the Notes. The Notes were sold
+under a purchase agreement, dated November 20, 2013, with JP. Morgan Securities LLC and Goldman, Sachs & Co., as representatives of the several initial
+purchasers named therein (collectively, the “Initial Purchasers”). The Notes were sold to the Initial Purchasers for resale to qualiﬁed institutional buyers pursuant
+to Rule 144A under the Securities Act of 1933, as amended.
+In connection with the issuance of the Notes, the Company entered into an indenture (the “lndenture”) with The Bank of New York Mellon Trust Company, N.A.,
+as trustee. Under the lndenture, the Notes are senior unsecured obligations of Yahoo, the Notes do not bear regular interest, and the principal amount of the
+Notes was issued at par value. The Notes mature on December 1, 2018, unless previously purchased or converted in accordance with their terms prior to such
+date. The Company may not redeem the Notes prior to maturity. However, holders of the Notes may convert them at certain times and upon the occurrence of
+certain events in the future, as outlined in the indenture governing the Notes. Holders of the Notes who convert in connection with a “make-whole fundamental
+change,” as deﬁned in the lndenture, may require Yahoo to purchase for cash all or any portion of their Notes at a purchase price equal to 100 percent of the
+principal amount, plus accrued and unpaid special interest as deﬁned in the lndenture, if any. The Notes are convertible, subject to certain conditions, into
+shares of Yahoo common stock at an initial conversion rate of 18.7161 shares per $1,000 principal amount of Notes (which is equivalent to an initial conversion
+price of approximately $53.43 per share), subject to adjustment upon the occurrence of certain events. Certain corporate events described in the lndenture may
+increase the conversion rate for holders who elect to convert their Notes in connection with such corporate event should they occur. Upon conversion of the
+Notes, holders will receive cash, shares of Yahoo’s common stock, or a combination thereof, at Yahoo’s election. The Company’s intent is to settle the principal
+amount of the Notes in cash upon conversion. If the conversion value exceeds the principal amount, the Company would deliver shares of its common stock with
+respect to the remainder of its conversion obligation in excess of the aggregate principal amount (conversion spread). The conversion spread will be included in
+the denominator for the computation of diluted net income per common share, using the treasury stock method. As of December 31, 2016, none of the
+conditions allowing holders of the Notes to convert had been met.
+In accounting for the issuance of the Notes, the Company separated the Notes into liability and equity components. The carrying amount of the liability
+component was calculated by measuring the estimated fair value of a similar liability that does not have an associated convertible feature. The carrying amount
+of the equity component representing the conversion option was determined by deducting the fair value of the liability component from the face value of the
+Notes as a whole. The excess of the principal amount of the liability component over its carrying amount (“debt discount”) is amortized to interest expense over
+the term of the Notes using the effective interest method with an effective interest rate of 5.26 percent per annum. The equity component is not remeasured as
+long as it continues to meet the conditions for equity classification.
+In accounting for the transaction costs related to the Note issuance, the Company allocated the total amount incurred to the liability and equity components
+based on their relative values. Issuance costs
+143

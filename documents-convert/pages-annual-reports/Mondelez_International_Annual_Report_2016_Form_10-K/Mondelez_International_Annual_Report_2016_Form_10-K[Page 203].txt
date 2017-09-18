@@ -1,0 +1,28 @@
+“ Eligible Assignee ” means (i) a commercial bank organized under the laws of the United States, or any State thereof, and having total assets in excess
+of $5,000,000,000; (ii) a commercial bank organized under the laws of any other country which is a member of the Organization for Economic Cooperation and
+DeveIOpment (or any successor) (“ ,OECDL”), or a political subdivision of any such country, and having total assets in excess of $5,000,000,000, providedthat such
+bank is acting through a branch or agency located in the country in which it is organized or another country which is also a member of the OECD or the Cayman
+Islands; (iii) the central bank of any country which is a member of the OECD; (iv) a commercial finance company or ﬁnance Subsidiary of a corporation organized
+under the laws of the United States, or any State thereof, and having total assets in excess of $3,000,000,000; (v) an insurance company organized under the laws of
+the United States, or any State thereof, and having total assets in excess of $5,000,000,000; (vi) any Lender; (vii) an affiliate of any Lender; and (viii) any other
+bank, commercial ﬁnance company, insurance company or other Person approved in writing by Mondeléz (such approval not to be unreasonably withheld, delayed
+or conditioned), which approval shall be notiﬁed to the Administrative Agent; provided, that none of Mondeléz or its Subsidiaries, a Defaulting Lender or a natural
+person shall be permitted to be an Eligible Assignee.
+“ ERISA ” means the Employee Retirement Income Security Act of 1974, as amended from time to time, and the regulations promulgated and rulings
+issued thereunder.
+“ ERISA Affiliate ” means any Person that for purposes of Title IV of ERISA is a member of any Borrower’s controlled group, or under common
+control with any Borrower, within the meaning of Section 414 of the Internal Revenue Code.
+“ ERISA Event” means (a) (i) the occurrence with respect to a Plan of a reportable event, within the meaning of Section 4043 of ERISA, unless the
+30-day notice requirement with respect thereto has been waived by the Pension Beneﬁt Guaranty Corporation (or any successor) (“ PBGC ”), or (ii) the
+requirements of subsection (1) of Section 4043(b) of ERISA (without regard to subsection (2) of such section) are met with respect to a contributing sponsor, as
+deﬁned in Section 4001(a)(13) of ERISA, of a Plan, and an event described in paragraph (9), (10), (11), (12) or (13) of Section 4043(0) of ERISA is reasonably
+expected to occur with respect to such Plan within the following 30 days; (b) the application for a minimum funding waiver with respect to a Plan; (c) the provision
+by the administrator of any Plan of a notice of intent to terminate such Plan, pursuant to Section 4041(a)(2) of ERISA (including any such notice with respect to a
+plan amendment referred to in Section 4041(e) of ERISA); (d) the cessation of operations at a facility of any Borrower or any of their ERISA Afﬁliates in the
+circumstances described in Section 4062(e) of ERISA; (e) the conditions set forth in Section 303(k)(1)(A) and (B) of ERISA to the creation of a lien upon property
+or rights to property of any Borrower or any of their ERISA Afﬁliates for failure to make a required payment to a Plan are satisfied; or (f) the termination of a Plan
+by the PBGC pursuant to Section 4042 of ERISA, or the occurrence of any event or condition described in Section 4042 of ERISA that constitutes grounds for the
+termination of, or the appointment of a trustee to administer, a Plan.
+“ EU Bail-In Legislation Schedule ” means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any successor person),
+as in effect from time to time.
+-7-

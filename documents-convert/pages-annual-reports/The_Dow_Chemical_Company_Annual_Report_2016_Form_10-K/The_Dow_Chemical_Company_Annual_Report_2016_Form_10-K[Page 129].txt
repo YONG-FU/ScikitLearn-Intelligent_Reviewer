@@ -1,0 +1,47 @@
+to asbestos encapsulation as a result of planned demolition and remediation activities at manufacturing and administrative sites
+primarily in the United States, Canada, Argentina and Europe. The aggregate carrying amount of conditional asset retirement
+obligations recognized by the Company (included in the asset retirement obligations balance shown below) was $31 million at
+December 31, 2016 ($33 million at December 31, 2015).
+The following table shows changes in the aggregate carrying amount of the Company’s asset retirement obligations for the
+years ended December 31, 2016 and 2015:
+Asset Retirement Obligations 7
+In millions 2016 2015 7
+(Balance at January 1 $ 96 $ 841
+Additional accruals (1) 17 8
+|Liabilities settled (2) (§)Jl
+Accretion expense 2 1
+|Revisions in estimated cash ﬂows 5 17 ‘
+,Other (1) (6),
+[Balance at December 31 $ 110 $ 96
+(1) Includes $14 million of asset retirement obligations from the DCC Transaction.
+The discount rate used to calculate the Company’s asset retirement obligations at December 31, 2016, was 1.87 percent
+(1.48 percent at December 31, 2015). These obligations are included in the consolidated balance sheets as "Accrued and other
+current liabilities" and "Other noncurrent obligations."
+The Company has not recognized conditional asset retirement obligations for which a fair value cannot be reasonably estimated
+in its consolidated financial statements. Assets that have not been submitted/reviewed for potential demolition activities are
+considered to have continued usefulness and are generally still operating normally. Therefore, without a plan to demolish the
+assets or the expectation of a plan, such as shortening the useful life of assets for depreciation purposes in accordance with the
+accounting guidance related to property, plant and equipment, the Company is unable to reasonably forecast a time frame to use
+for present value calculations. As such, the Company has not recognized obligations for individual plants/buildings at its
+manufacturing sites where estimates of potential settlement dates cannot be reasonably made. In addition, the Company has not
+recognized conditional asset retirement obligations for the capping of its approximately 42 underground storage wells and
+141 underground brine mining and other wells at Dow-owned sites when there are no plans or expectations of plans to exit the
+sites. It is the opinion of the Company’s management that the possibility is remote that such conditional asset retirement
+obligations, when estimable, will have a material impact on the Company’s consolidated financial statements based on current
+costs.
+NOTE 16 — TRANSFERS OF FINANCIAL ASSETS
+The Company sells trade accounts receivable of select North American entities and qualifying trade accounts receivable of
+select European entities on a revolving basis to certain multi-seller commercial paper conduit entities ("conduits"). The
+proceeds received are comprised of cash and interests in specified assets of the conduits (the receivables sold by the Company)
+that entitle the Company to the residual cash ﬂows of such specified assets in the conduits after the commercial paper has been
+repaid. Neither the conduits nor the investors in those entities have recourse to other assets of the Company in the event of
+nonpayment by the debtors.
+During the year ended December 31, 2016, the Company recognized a loss of $20 million on the sale of these receivables
+($15 million loss for the year ended December 31, 2015 and $16 million loss for the year ended December 31, 2014), which is
+included in “Interest expense and amortization of debt discount” in the consolidated statements of income.
+The Company's interests in the conduits are carried at fair value and included in “Accounts and notes receivable —- Other” in the
+consolidated balance sheets. Fair value of the interests is determined by calculating the expected amount of cash to be received
+and is based on unobservable inputs (a Level 3 measurement). The key input in the valuation is the percentage of anticipated
+credit losses in the portfolio of receivables sold that have not yet been collected. Given the short-term nature of the underlying
+receivables, discount rates and prepayments are not factors in determining the fair value of the interests.
+121

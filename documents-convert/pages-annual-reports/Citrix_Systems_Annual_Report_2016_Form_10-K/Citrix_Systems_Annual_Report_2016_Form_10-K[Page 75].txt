@@ -1,0 +1,49 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+periodically reviews these estimated allowances by conducting an analysis of the customer's payment history and credit
+worthiness, the age of the trade receivable balances and current economic conditions that may affect a customer’s ability to
+make payments. Based on this review, the Company specifically reserves for those accounts deemed uncollectible. When
+receivables are determined to be uncollectible, principal amounts of such receivables outstanding are deducted from the
+allowance. The allowance for doubtful accounts was $3.9 million and $6.3 million as of December 31, 2016 and 2015,
+respectively. If the financial condition of a significant distributor or customer were to deteriorate, the Company’s operating
+results could be adversely affected. As of December 31, 2016 and 2015, there were no individual customers that accounted for
+over 10% of gross accounts receivable.
+Inventory
+Inventories are stated at the lower of cost or market on a standard cost basis, which approximates actual cost. The
+Company’s inventories primarily consist of finished goods as of December 31, 2016 and 2015.
+Property and Equipment
+Property and equipment is stated at cost. Depreciation is computed using the straight-line method over the estimated
+useful lives of the assets, which is generally three years for computer equipment and software, the lesser of the lease term or ten
+years for leasehold improvements, which is the estimated useful life, seven years for office equipment and furniture and the
+Company’s enterprise resource planning system and 40 years for buildings.
+During 2016 and 2015, the Company retired $220.8 million and $25.8 million, respectively, in property and equipment
+that were no longer in use. At the time of retirement, the remaining net book value of the assets retired was not material and no
+material asset retirement obligations were associated with them.
+Property and equipment consist of the following:
+7 December 31, 7
+7 2016 7 7 2015 7
+7 (In thousands) 7
+Buildings $ 85,092 $ 85,092
+Computer equipment 190,8 87 27 1,461
+Software 538,905 487,191
+Equipment and furniture 83,387 123,649
+Leasehold improvements 7 199,303 7 217,200
+' 1,097,574' ' 1,184,593,
+Less: accumulated depreciation and amortization (797,224) (852,460)
+Assets under construction 15,883 14,097
+Land 7 27,5877 7 27,5877
+Total ’$ 343,820 * s 373,817 '
+Long-Lived Assets
+The Company reviews for impairment of long-lived assets and certain identifiable intangible assets to be held and used
+whenever events or changes in circumstances indicate that the carrying amount of such assets may not be fully recoverable.
+Determination of recoverability is based on an estimate of undiscounted future cash ﬂows resulting from the use of the asset
+and its eventual disposition. Measurement of an impairment loss is based on the fair value of the asset compared to its carrying
+value. Long-lived assets and certain identifiable intangible assets to be disposed of are reported at the lower of carrying amount
+or fair value less costs to sell.
+For the year ended December 31, 2015, the Company identified certain intangible assets that were impaired within the
+Enterprise and Service Provider segment and recorded non-cash impairment charges of $123.0 million. These non-recurring fair
+value measurements were categorized as Level 3, as significant unobservable inputs were used in the valuation analysis. The
+impairment charges are included in Impairment of product related intangible assets and Impairment of other intangible assets in
+the accompanying consolidated statements of income. See Note 3 for more information regarding the Company's acquisitions
+and Note 5 for more information regarding fair value measurements.
+F-9

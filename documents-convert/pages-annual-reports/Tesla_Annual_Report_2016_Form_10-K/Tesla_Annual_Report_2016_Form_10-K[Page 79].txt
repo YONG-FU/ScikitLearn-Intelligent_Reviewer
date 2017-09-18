@@ -1,0 +1,46 @@
+Note 4 — Intangible Assets
+Information regarding our acquired intangible assets is as follows (in thousands):
+As of December 31, 2016
+Gross Carrying Accumulated Net Carrying
+Amount Amortization Amount
+Finite-lived intangible assets:
+Developedtechnology............................................................ $ 113,361 $ (1,740) $ 111,621
+Trade 43,500 (967) 42,533
+Favorable contracts andleases, 112,817 (864) 111,953
+26,679 (3,473) 23,206
+Total ﬁnite-lived intangible assets: $ 296,357 $ (7,044) $ 289,313
+Indeﬁnite-lived intangible assets:
+86,832 — 86,832
+Total inﬁnite-lived intangible assets: 86,832 — 86,832
+Total intangible :$ 383,189 :$ (7,044) :$ 376,145:
+As of December 31, 2016, total future amortization expense for intangible assets is estimated as follows (in thousands):
+Total
+121,063
+$289,313:
+Note 5 - Fair Value of Financial Instruments
+ASC 820, Fair Value Measurements, clarifies that fair value is an exit price, representing the amount that would be received to
+sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based
+measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+As a basis for determining the fair value of certain of our assets and liabilities, we follow a three-tier fair value hierarchy which
+prioritizes the inputs used in measuring fair value as follows: (Level I) observable inputs such as quoted prices in active markets;
+(Level 11) inputs other than the quoted prices in active markets that are observable either directly or indirectly; and (Level III)
+unobservable inputs in which there is little or no market data which requires us to develop our own assumptions. This hierarchy
+requires us to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair
+value. Our financial assets and financial liabilities that are measured at fair value on a recurring basis consist of cash equivalents,
+marketable securities and interest rate swaps.
+As of December 31, 2016 and 2015, the fair value hierarchy for our financial assets and financial liabilities that are carried at
+fair value was as follows, and unrealized gains (losses) on financial assets and liabilities presented in the table below for all periods
+presented were less than $1.0 million (in thousands):
+December 31, 2016 December 31, 2015
+Fair Value Level I Level II Level IH Fair Value Level I Level II Level IH
+Money market funds $2,226,322 $2,226,322 $ — $ — $ 297,810 $ 297,810 $ — $ —
+U.S. treasury bills............. — — — — 16,664 16,664 — —
+Interest rate swaps............ 1,490 — 1,490 — — — — —
+$2,227,812 $2,226,322 $ 1,490: $ 5 $ 314,474: $ 314,474: $ a $ 5
+All of our cash equivalents and current restricted cash, which are comprised primarily of money market funds, are classified
+within Level I of the fair value hierarchy because they are valued using quoted market prices or market prices for identical securities.
+Our restricted short-term marketable securities are classiﬁed within Level I of the fair value hierarchy.
+We have classified the interest rate swaps within Level 11 because their fair values are determined using alternative pricing
+sources or models that utilized market observable inputs, including current and forward interest rates.
+During the years ended December 31, 2016 and 2015, there were no transfers between the levels of the fair value hierarchy.
+76

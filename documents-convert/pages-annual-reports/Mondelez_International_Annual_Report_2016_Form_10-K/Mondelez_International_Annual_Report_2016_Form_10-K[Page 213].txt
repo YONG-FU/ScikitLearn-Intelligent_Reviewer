@@ -1,0 +1,26 @@
+If such Lender shall repay to the Administrative Agent such corresponding amount, such amount so repaid shall constitute such Lender’s Pro Rata Advance as part
+of such Pro Rata Borrowing for purposes of this Agreement.
+(e) Independent Lender Obligations . The failure of any Lender to make the Pro Rata Advance to be made by it as part of any Pro Rata Borrowing
+shall not relieve any other Lender of its obligation, if any, hereunder to make its Pro Rata Advance on the date of such Pro Rata Borrowing, but no Lender shall be
+responsible for the failure of any other Lender to make the Pro Rata Advance to be made by such other Lender on the date of any Pro Rata Borrowing.
+SECTION 2.03 Igpayment of Pro Rata Advances . Each Borrower shall repay to the Administrative Agent for the ratable account of each Lender on
+the Termination Date applicable to such Lender the unpaid principal amount of the Pro Rata Advances of such Lender then outstanding.
+SECTION 2.04 Interest,on,Pro,Rata,Advances.
+(a) Scheduledjnterest. Each Borrower shall pay interest on the unpaid principal amount of each Pro Rata Advance owing by such Borrower to each
+Lender from the date of such Pro Rata Advance until such principal amount shall be paid in full, at the following rates per annum:
+(i) B,as,e,Rate,Adv,ances,. During such periods as such Pro Rata Advance is a Base Rate Advance, a rate per annum equal at all times to the sum of
+(1) the Base Rate in effect from time to time plus (2) the Applicable Interest Rate Margin in effect from time to time, payable in arrears quarterly on the last
+Business Day of each March, June, September and December, and on the date such Base Rate Advance shall be Converted or paid in full either prior to or on
+the Termination Date.
+(ii) LIBO,Rate,Adv,ances,. During such periods as such Pro Rata Advance is a LIBO Rate Advance, a rate per annum equal at all times during each
+Interest Period for such Pro Rata Advance to the sum of (X) the LIBO Rate for such Interest Period for such Pro Rata Advance plus (y) the Applicable
+Interest Rate Margin in effect from time to time, payable in arrears on the last day of such Interest Period and, if such Interest Period has a duration of more
+than three months, on each day that occurs during such Interest Period every three months from the first day of such Interest Period, and on the date such
+LIBO Rate Advance shall be Converted or paid in full either prior to or on the Termination Date.
+(b) Default Interest . If any principal of or interest on any Pro Rata Advance or any fee or other amount payable by a Borrower hereunder (other than
+principal of or interest on any Competitive Bid Advance) is not paid when due, whether at stated maturity, upon acceleration or otherwise, such overdue amount
+shall bear interest, after as well as before judgment, payable in arrears on the dates referred to in Section 2.04(a)(i) or Section 2.04(a)(ii), as applicable, at a rate per
+annum equal at all times to (i) in the case of overdue principal of any Pro Rata Advance, 1% per annum above the rate per annum otherwise required to be paid on
+such Pro Rata Advance as provided in Section 2.04(a) or (ii) in the case of any other amount, 1% per annum plus the rate applicable to Base Rate Advances as
+provided in Section 2.04(a)(i).
+-17-

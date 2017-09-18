@@ -1,0 +1,22 @@
+(b) Upon each Commitment Increase pursuant to this Section 2.18, if, on the date of such Commitment Increase, there are any Pro Rata Advances
+outstanding, such Pro Rata Advances shall on or prior to the effectiveness of such Commitment Increase be prepaid from the proceeds of new Pro Rata Advances
+made hereunder (reﬂecting such Commitment Increase), which prepayment shall be accompanied by accrued interest on the Pro Rata Advances being prepaid and
+any costs incurred by any Lender in accordance with Section 9.04(b). The Administrative Agent and the Lenders hereby agree that the minimum borrowing, pro
+rata borrowing and pro rata payment requirements contained elsewhere in this Agreement shall not apply to the transactions effected pursuant to the immediately
+preceding sentence.
+(c) Commitment Increases and new Commitments created pursuant to this Section 2.18 shall become effective on the date speciﬁed in the notice
+delivered by Mondeléz pursuant to the first sentence of paragraph (a) above or on such other date as shall be agreed upon by Mondeléz, the Administrative Agent
+and the applicable Augmenting Lenders.
+((1) Notwithstanding the foregoing, no increase in the Commitments (or in any Commitment of any Lender) or addition of an Augmenting Lender
+shall become effective under this Section 2.18 unless on the date of such increase, the conditions set forth in Section 3.03 shall be satisﬁed as of such date (as
+though the effectiveness of such increase were a Borrowing) and the Administrative Agent shall have received a certiﬁcate of Mondeléz to that effect dated such
+date.
+SECTION 2.19 UsefofBroceeds. The proceeds of the Advances shall be available (and each Borrower agrees that it shall use such proceeds) for
+general corporate purposes of Mondeléz and its Subsidiaries.
+SECTION 2.20 DefaultingLendersmNotwithstanding any provision of this Agreement to the contrary, if any Lender becomes a Defaulting Lender,
+then the following provisions shall apply:
+(a) fees shall cease to accrue on the Commitment of such Defaulting Lender pursuant to Section 2.09(a); and
+(b) the Commitment and Advances of such Defaulting Lender shall not be included in determining whether the Required Lenders have taken or may
+take any action hereunder (including any consent to any amendment, waiver or modification of this Agreement pursuant to Section 9.01); provided that any
+amendment, waiver or modiﬁcation requiring the consent of all Lenders or each affected Lender shall require the consent of such Defaulting Lender.
+-34-

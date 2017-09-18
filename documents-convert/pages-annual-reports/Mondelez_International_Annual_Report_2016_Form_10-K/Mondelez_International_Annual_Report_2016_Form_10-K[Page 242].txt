@@ -1,0 +1,24 @@
+SECTION 7.02 Administrative Agent’s Reliance, Etc. Neither the Administrative Agent nor any of its directors, officers, agents or employees shall
+be liable for any action taken or omitted to be taken by it or them under or in connection with this Agreement, except for its or their own gross negligence or willful
+misconduct. Without limitation of the generality of the foregoing, the Administrative Agent:
+(a) may treat the Lender that made any Advance as the holder of the Debt resulting therefrom until the Administrative Agent receives and accepts an
+Assignment and Acceptance entered into by such Lender, as assignor, and an Eligible Assignee, as assignee, as provided in Section 9.07;
+(b) may consult with legal counsel (including counsel for Mondelez or any Borrower), independent public accountants and other experts selected by
+it and shall not be liable for any action taken or omitted to be taken in good faith by it in accordance with the advice of such counsel, accountants or experts;
+(c) makes no warranty or representation to any Lender and shall not be responsible to any Lender for any statements, warranties or representations
+(whether written or oral) made in or in connection with this Agreement by Mondeléz or any Borrower;
+(d) shall not have any duty to ascertain or to inquire as to the performance or observance of any of the terms, covenants or conditions of this
+Agreement on the part of Mondeléz or any Borrower or to inspect the property (including the books and records) of Mondeléz or such Borrower other than
+items or payments expressly required to be delivered or made to the Administrative Agent hereunder;
+(e) shall not be responsible to any Lender for the due execution, legality, validity, enforceability, genuineness, sufficiency or value of this Agreement
+or any other instrument or document furnished pursuant hereto; and
+(f) shall incur no liability under or in respect of this Agreement by acting upon any notice, consent, certificate or other instrument or writing (which
+may be by telecopier, telegram, telex, registered mail or, for the purposes of Section 2.02(a) or 2.07(b), email) believed by it to be genuine and signed or sent
+by the proper party or parties.
+SECTION 7.03 The Administrative Agent and Affiliates . With respect to its Commitment and the Advances made by it, the Administrative Agent
+shall have the same rights and powers under this Agreement as any other Lender and may exercise the same as though it were not the Administrative Agent; and the
+term “ Lender,” or “ Lenders,” shall, unless otherwise expressly indicated, include the Administrative Agent in its individual capacity. The Administrative Agent
+and its afﬁliates may accept deposits from, lend money to, act as trustee under indentures of, accept investment banking engagements from and generally engage in
+any kind of business with, Mondeléz, any Borrower, any of their respective Subsidiaries and any Person who may do business with or own securities of Mondeléz,
+any Borrower or any such Subsidiary, all as if the Administrative Agent were not the Administrative Agent and without any duty to account therefor to the Lenders.
+-46-

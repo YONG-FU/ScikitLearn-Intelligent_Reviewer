@@ -1,0 +1,41 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+The following table summarizes ESPP activity during the years ended December 31, 2016 , 2015 , and 2014 (cash proceeds in millions, shares in thousands):
+For the Year Ended December 31,
+2016 2015 2014
+lCash proceeds $ 103 — $ 98 — $ 80 1
+Class A common shares purchased 2,657 1,495 1,099
+’Weighted-average price per share $ 38.78 $ 65.54 $ 73.21 ‘
+As of December 31, 2016 , $56 million of ESPP withholdings were recorded as a liability in accrued expenses and other on the consolidated balance sheets for
+the purchase that occurred during January 2017 .
+VMware Stock Options
+The following table summarizes stock option activity since January 1, 2014 (shares in thousands):
+VMware Stock Options EMC Stock Options
+Weighted-Average Weighted-Average
+Number of Exercise Price Number of Exercise Price
+Shares (per share) Shares (per share)
+lOutstanding, January 1, 2014 5,755 — $ 44.12 _ 1,696 _ $ 15.53 1
+Options relating to employees transferred (to) from EMC — — 149 15.87
+lGranted 2,695 50.91 — — l
+Forfeited (220) 47. 89 (2) 19.10
+[Expired — — (9) 14.14 1
+Exercised (2,361) 35.58 (563) 14.37
+lOutstanding, December 31, 2014 5,869 50.54 1,271 16.08 1
+Options relating to employees transferred (to) from EMC — — 8 20.23
+lGranted 21 54.23 — — l
+Forfeited (322) 70.42 (1) 19.37
+[Expired — — (14) 14.21 1
+Exercised (2,404) 29.44 (201) 13.96
+lOutstanding, December 31, 2015 3,164 64.56 1,063 16.54 ‘
+Options relating to employees transferred (to) from EMC — — 19 15.90
+lGranted 66 6.53 — — l
+Forfeited (259) 77.42 — —
+[Expired (476) 80.52 (17) 14.44 1
+Exercised (418) 13.41 (1,065) 16.56
+lOutstanding, December 31, 2016 2,077 6775 — _ l
+The above table includes stock options granted in conjunction with unvested stock options assumed in business combinations. As a result, the weighted-
+average exercise price per share may vary from the VMware stock price at time of grant.
+The stock options outstanding as of December 31, 2016 had an aggregate intrinsic value of $39 million based on VMware’s closing stock price as of
+December 31, 2016 .
+87

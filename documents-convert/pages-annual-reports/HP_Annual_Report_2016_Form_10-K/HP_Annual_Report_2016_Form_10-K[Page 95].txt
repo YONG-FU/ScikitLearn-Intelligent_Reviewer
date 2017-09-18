@@ -1,0 +1,48 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 7: Taxes on Earnings (Continued)
+In connection with the Separation, HP entered into the TMA with Hewlett Packard Enterprise effective on November 1,
+2015 that governs the rights and obligations of HP and Hewlett Packard Enterprise for certain pre Separation tax liabilities. The
+TMA provides that HP and Hewlett Packard Enterprise will share certain pre Separation income tax liabilities. In certain
+jurisdictions, HP and Hewlett Packard Enterprise have joint and several liability for past income tax liabilities and accordingly,
+HP could be legally liable under applicable tax law for such liabilities and required to make additional tax payments.
+In addition, if the distribution of Hewlett Packard Enterprise’s common shares to HP stockholders is determined to be
+taxable, Hewlett Packard Enterprise and HP would share the tax liability equally, unless the taxability of the distribution is the
+direct result of action taken by either Hewlett Packard Enterprise or HP subsequent to the distribution in which case the party
+causing the distribution to be taxable would be responsible for any taxes imposed on the distribution.
+Upon completion of the Separation on November 1, 2015, HP recorded net income tax indemnification receivables from
+Hewlett Packard Enterprise for certain income tax liabilities that HP is jointly and severally liable for, but for which it is
+indemnified by Hewlett Packard Enterprise under the TMA. The actual amount that Hewlett Packard Enterprise may be
+obligated to pay HP could vary depending upon the outcome of certain unresolved tax matters, which may not be resolved for
+several years. The net receivable as of October 31, 2016 was $1.6 billion. In connection with the TMA, Interest and other, net
+for fiscal year 2016 includes $472 million of changes in the tax indemniﬁcations amounts.
+Note 8: Balance Sheet Details
+Balance sheet details were as follows:
+Accounts Receivable, Net
+7 As of October 31 7
+7 2016 7 7 2015 7
+’ In millions ’
+{Accounts receivable $ 4,221 $ 4,905 ‘
+Allowance for doubtful accounts (107) (80)
+1 :$ 4,1147 is 4,82571
+The allowance for doubtful accounts related to accounts receivable and changes were as follows:
+7 As of October 31 7
+7 2016 7 7 2015 7 7 2014 7
+7 7 7 In millions 7 7 7
+{Balance at beginning of year $ 80 $ 106 $ 182 1
+Provision for doubtful accounts 65 19 (25)
+I Deductions, net of recoveries 7 (3 (45)77 (51):
+Balance at end of year $ 107 $ 80 $ 106
+HP has third-party arrangements, consisting of revolving short-term financing, which provide liquidity to certain partners
+in order to facilitate their working capital requirements. These financing arrangements, which in certain circumstances may
+contain partial recourse, result in a transfer of HP’s receivables and risk, to the third-party. As these transfers qualify as true
+sales under the applicable accounting guidance, the receivables are derecognized from the Consolidated Balance Sheets upon
+transfer, and HP receives a payment for the receivables from the third-party within a mutually agreed upon time period. For
+arrangements involving an element of recourse, the recourse obligation is measured using market data from the similar
+transactions and reported as a current liability in the Consolidated Balance Sheets. The recourse obligations as of October 31,
+2016, 2015 and 2014 were not material. As of October 31, 2016, 2015 and 2014, HP had $149 million, $93 million and $271
+million, respectively, outstanding from the third parties, which is reported in Accounts receivable in the Consolidated Balance
+Sheets. The costs associated with the sales of trade receivables for fiscal year 2016 were not material.
+The following is a summary of the activity under these arrangements:
+95

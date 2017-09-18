@@ -1,0 +1,41 @@
+[ MEG-@069 GONSOA WW ]
+WEIGHTED AVERAGE ASSUMPTIONS USED TO MEASURE PERFORMANCE SHARE AWARDS
+Years Ended December 31,
+2016 2015 2014
+Expected volatility 35% 35% 43%
+Expected dividend yield —% —% —%
+Risk-free interest rate 1.0% 1.0% 0.6%
+Total unrecognized compensation cost related to all non-vested performance share awards totaled $11 million as of December 31, 2016, which is expected
+to be recognized over a weighted average period of 1.6 years. The estimated weighted average payout percentage for these awards was approximately 111% as
+of December 31, 2016. The weighted-average grant-date fair value per share of performance share awards granted during 2016, 2015 and 2014 was $87.90,
+$117.96 and $54.42, respectively.
+SUMMARY OF PERFORMANCE SHARE AWARD ACTIVITY, ASSUMING 100% PAYOUT (shares in thousands)
+Weighted-Average Intrinsic Value (in
+Number of Shares Grant-Date Fair Value millions)
+Nonvested atJanuary 1, 2016 431 $71.76 $45
+Granted 157 $87.90
+Vested (188) $55.20
+Forfeited (22) $90.37
+Nonvested at December 31, 2016 378 $83.53 $33
+MARKET STOCK UNITS
+We granted market stock units under the 2011 Plan in February 2015 and January 2016. These market stock units represent the right to receive a target
+number of shares that will vest at the end of a 3-year performance period. The number of shares ultimately issued will be based on Tesoro’s stock price changes
+over the performance period. The market stock units’ potential payout can range from 50% to 200% of the targeted award value, unless the average closing
+stock price at vesting has decreased more than 50% from the average closing stock price at the grant date, then no market stock units will be paid out. The fair
+value of each market stock unit is estimated on the grant date using a Monte Carlo simulation model. The estimated fair value of these market stock units is
+amortized over a 3-year vesting period using the straight-line method. The estimated weighted average payout percentage for these awards was 130% as of
+December 31, 2016. Total unrecognized compensation cost related to non-vested market stock units totaled $39 million as of December 31, 2016, which is
+expected to be recognized over a weighted average period of 1.6 years. The weighted-average grant-date fair value per share of market stock units granted
+during 2016, 2015 and 2014 was $84.84, $114.57 and $57.60, respectively.
+SUMMARY OF MARKET STOCK UNIT AWARD ACTIVITY, ASSUMING 100% PAYOUT (units in thousands)
+Weighted-Average Intrinsic Value (in
+Number of Units Grant-Date Fair Value millions)
+Nonvested atJanuary 1, 2016 1,135 $78.99 $119
+Granted 693 $84.84
+Vested (711) $65.95
+Forfeited (47) $89.79
+Nonvested at December 31, 2016 1,070 $84.78 $94
+Expected volatilities are based on the historical volatility of our stock. We use historical data to estimate employee termination within the valuation model.
+Expected dividend yield is based on annualized dividends at the date of grant. The risk-free rate for periods within the performance period is based on the US.
+Treasury yield curve in effect at the time of grant.
+December 31, 2016 | 107

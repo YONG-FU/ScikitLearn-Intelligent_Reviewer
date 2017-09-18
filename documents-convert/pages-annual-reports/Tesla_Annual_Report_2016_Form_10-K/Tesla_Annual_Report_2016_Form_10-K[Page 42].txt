@@ -1,0 +1,48 @@
+Vehicle sales to customers with a resale value guarantee
+We offered resale value guarantees or similar buy-back terms to all customers who purchase vehicles and who financed their
+vehicle through one of our speciﬁed commercial banking partners. Subsequent to June 30, 2016, this program is available only in
+certain international markets. Under this program, customers have the option of selling their vehicle back to us during the guarantee
+period for a determined resale value. Guarantee periods generally range from 36 to 39 months. Although we receive full payment for
+the vehicle sales price at the time of delivery, we are required to account for these transactions as operating leases. The amount of sale
+proceeds equal to the resale value guarantee is deferred until the guarantee expires or is exercised. The remaining sale proceeds are
+deferred and recognized on a straight-line basis over the stated guarantee period to automotive leasing revenue. The guarantee period
+expires at the earlier of the end of the guarantee period or the pay-off of the initial loan. We capitalize the cost of these vehicles on our
+Consolidated Balance Sheets as operating lease vehicles, net, and depreciate their value, less salvage value, to cost of automotive
+leasing revenue over the same period.
+In cases when customer retains ownership of the vehicle at the end of the guarantee period, the resale value guarantee liability
+and any remaining deferred revenue balances related to the vehicle are settled to automotive leasing revenue and the net book value of
+the leased vehicle is expensed to costs of automotive leasing revenue. In cases when customers return the vehicle back to us during
+the guarantee period, we purchase the vehicle from the customer at an amount equal to the resale value guarantee and settle any
+remaining deferred balances to automotive leasing revenue and we reclassify the net book value of the vehicle on our balance sheet to
+pre-owned vehicle inventory. As of December 31, 2016, $179.5 million of guarantees are exercisable by customers within the next
+twelve months.
+Vehicle sales to leasing partners with a resale value guarantee
+We also offer resale value guarantees in connection with automobile sales to certain bank leasing partners. As we have
+guaranteed the value of these vehicles and as the vehicles are leased to end-customers, we account for these transactions as interest
+bearing collateralized borrowings as required under Accounting Standards Codification (ASC) 840 - Leases. Under this program,
+cash is received for the full price of the vehicle and is recorded within resale value guarantee for the long-term portion and deferred
+revenue for the current portion. We accrete the deferred revenue amount to automotive leasing revenue on a straight line basis over
+the guarantee period and accrue interest expense based on our borrowing rate. We capitalize vehicles under this program to leased
+vehicles on our Consolidated Balance Sheets and record depreciation from these vehicles to cost of automotive leasing revenues
+during the period the vehicle is under a lease arrangement. Cash received for these vehicles, net of revenue recognized during the
+period, is classified as collateralized lease borrowings within cash ﬂows from financing activities in our Consolidated Statements of
+Cash Flows.
+At the end of the lease term, we settle our liability in cash by either purchasing the vehicle from the leasing partner for the resale
+value guarantee amount, or paying a shortfall to the guarantee amount the leasing partner may realize on the sale of the vehicle. Any
+remaining balances within deferred revenue and resale value guarantee will be settled to automotive leasing revenue. In cases where
+the bank retains ownership of the vehicle after the end of our guarantee period, we expense the net value of the leased vehicle to costs
+of automotive leasing revenue. The maximum cash we could be required to pay under this program, assuming we repurchase of all
+vehicles under this program is $855.9 million at December 31, 2016.
+As of December 31, 2016 and December 31, 2015, we had $1.18 billion and $527.5 million of such borrowings recorded in the
+resale value guarantee liability and $289.1 million and $120.5 million recorded in deferred revenue liability.
+At least annually, we assess the estimated market values of vehicles under our resale value guarantee program to determine if
+we have sustained a loss on any of these contracts. As we accumulate more data related to the resale values of our vehicles or as
+market conditions change, there may be significant changes to their estimated values.
+Direct Vehicle Leasing Program
+We offer a vehicle leasing program in certain locations in the North America and Europe. Qualifying customers are permitted
+to lease a vehicle directly from Tesla for up to 48 months. At the end of the lease term, customers have the option of either returning
+the vehicle to us or purchasing if for a pre-determined residual value. We account for these leasing transactions as operating leases
+and recognize leasing revenues over the contractual term and record the depreciation of these vehicles to cost of automotive revenues.
+As of December 31, 2016 and 2015, we had deferred $67.2 million and $25.8 million of lease-related upfront payments which will be
+recognized on a straight-line basis over the contractual term of the individual leases.
+39

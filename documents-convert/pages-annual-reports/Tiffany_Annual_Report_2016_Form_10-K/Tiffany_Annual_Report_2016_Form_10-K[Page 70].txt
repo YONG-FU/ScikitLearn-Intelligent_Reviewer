@@ -1,0 +1,45 @@
+E. PROPERTY, PLANT AND EQUIPMENT
+7 January 31,7
+(in millions) 2017 2016
+Land $ 41.8 $ 45.6
+Buildings 122.5 120.9
+Leasehold and building improvements 1,195.8 1,108.6
+Office equipment 245.7 254.0
+Software 312.4 295.1
+Furniture and fixtures 281.2 265.3
+Machinery and equipment 177.7 169.2
+* Construction-in-progress 78.6 95.7
+2,455.7 2,354.4
+Accumulated depreciation and amortization 7 (1,523.9) (1,418.6),
+s 931.8 s 935.8
+m : :
+Z
+i The provision for depreciation and amortization for the years ended January 31, 2017, 2016 and 2015 was $202.5
+g million, $196.3 million and $182.8 million, respectively.
+Information Systems Assessment. The Company is engaged in a multi-year program to evaluate and, where
+appropriate, upgrade and/or replace certain of its information systems. As part of this program, the Company
+identified opportunities to enhance its finished goods inventory management and merchandising capabilities, and
+began development efforts to replace certain of its existing systems and provide these enhanced capabilities. The
+Company recently completed an assessment of the replacement system under development to evaluate whether the
+continued development of this system would deliver sufficiently improved operating capabilities. Following the
+completion of this assessment, in the three months ended January 31, 2017, the Company concluded that the
+development of this system should be modified such that the finished goods inventory management and
+merchandising capabilities that were intended to be delivered utilizing this new system will instead be delivered
+through further development of the Company’s current Enterprise Resource Planning system and continued
+implementation of a new order management system. Accordingly, the Company has evaluated the costs capitalized
+for the development of the replacement system for impairment in accordance with its policy on the review of long-
+lived assets (see "Note B. Summary of Significant Accounting Policies"), and determined, based on specific
+identification of costs capitalized pertaining to the development of specific capabilities in the new system, that
+$25.4 million of such capitalized costs relate to software functionality which will not be utilized, and therefore will
+not have future benefit to the Company. As such, the Company recorded a pre-tax impairment charge of $25.4
+million as a component of SG&A expenses in the three months ended January 31, 2017.
+F. ACCOUNTS PAYABLE AND ACCRUED LlABlLTlES
+7 January 31,7
+(in millions) 2017 2016
+Accounts payable - trade $ 108.6 $ 127.8
+Accrued compensation and commissions 96.3 77.9
+Accrued sales, withholding and other taxes 26.7 21.9
+Other 81.2 101.5
+7 $ 312.8 $ 329.1 7
+TIFFANY & co.
+K-64

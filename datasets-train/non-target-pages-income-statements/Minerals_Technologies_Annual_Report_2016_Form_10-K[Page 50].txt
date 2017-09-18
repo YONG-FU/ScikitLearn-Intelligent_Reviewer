@@ -1,0 +1,49 @@
+Item 6. Selected Financial Data
+I Year Ended December 31, I
+I 2016 I 2015 I 2014 I 2013 I 2012 I
+I (in millions, except per share data) I
+Net sales $ 1,638.0 $ 1,797.6 $ 1,725.0 $ 1,018.2 $ 996.8
+Cost of sales 1,177.6 1,326.6 1,289.6 784.5 774.5
+Production margin 460.4 471.0 435.4 233.7 222.3
+Marketing and administrative expenses 179.4 190.1 182.2 89.2 88.5
+Research and development expenses 23.8 23.6 24.4 20.1 20.2
+Insurance / litigation settlement (gain) — - (2.3) (2.5) —
+Acquisition related transaction and integration costs 8.0 11.8 19.1 - —
+Restructuring and other items, net 28.3 45.2 43.2 - —
+Income from operations 220.9 200.3 168.8 126.9 113.6
+Interest expense, net (54.4) (60.9) (41.8) (0.2) (0.1)
+Premium on early extinguishment of debt — (4.5) (5.8) - —
+Other non-operating income (deductions), net 3.8 (2.3) 1.8 (3.0) (2.9)
+Total non-operating deductions, net I (50.6)I (67.7)I (45 .8)I (3.2)I (3.0)I
+Income from continuing operations before provision
+for taxes and equity in earnings 170.3 132.6 123.0 123.7 110.6
+Provision for taxes on income 35.3 22.8 30.8 34.5 31.9
+Equity in earnings of afﬁliates, net of tax 2.1 1.8 1.2 - —
+Income from continuing operations, net of tax 137.1 111.6 93.4 89.2 78.7
+Income (loss) from discontinued operations, net of tax — - 2.1 (5.8) (2.5)
+Consolidated net income 137.1 11 1.6 95.5 83.4 76.2
+Less:
+Net income attributable to non-controlling interests 3.7 3.7 3.1 3.1 2.1
+Net income attributable to Minerals Technologies Inc. (MTI) $ 133.4 I $ 107.9 I $ 92.4 I $ 80.3 I $ 74.1
+Earnings (Loss) per share attributable to MTI:
+Basic:
+Income from continuing operations $ 3.82 $ 3.11 $ 2.62 $ 2.48 $ 2.17
+Income (loss) from discontinued operations — - 0.06 (0.17) (0.07)
+Basic earnings per share $ 3.82 | $ 3.11 | $ 2.68 | $ 2.31 | $ 2.10
+Diluted:
+Income from continuing operations $ 3.79 $ 3.08 $ 2.59 $ 2.46 $ 2.16
+Income (loss) from discontinued operations — - 0.06 (0.16) (0.07)
+Diluted earnings per share $ 3.79 I $ 3.08 I $ 2.65 I $ 2.30 I $ 2.09
+Cash dividends declared per common share $ 0.20 I $ 0.20 I $ 0.20 I $ 0.20 I $ 0.13
+Shares used in computation of earnings per share:
+Basic 34.9 34.7 34.5 34.7 35.3
+Diluted 35.2 35.0 34.8 35.0 35.5
+I Year Ended December 31, I
+I 2016 I 2015 I 2014 I 2013 I 2012 I
+| (in millions) |
+Working capital $ 455.6 $ 485.0 35 552.0 $ 634.2 $ 514.4
+Total assets 2,863.4 2,980.0 3,157.5 1,217.5 1,211.2
+Long-term debt, net of unamortized discount and deferred ﬁnancing costs 1,069.9 1,255.3 1,429.4 75.0 8.5
+Total debt 1,082.8 1,264.9 1,435.3 88.7 92.6
+Total shareholders' equity 1,030.9 937.7 888.9 874.4 813.7
+28

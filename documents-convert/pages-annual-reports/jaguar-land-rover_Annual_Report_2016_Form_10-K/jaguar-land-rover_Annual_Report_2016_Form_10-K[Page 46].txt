@@ -1,0 +1,49 @@
+Overview | Strategic report | Governance [ ] 1 1 7
+IFC—19 20—59 60-71 m
+34 FINANCIAL INSTRUMENTS (CONTINUED)
+FAIR VALUE HIERARCHY
+Financial instruments held at fair value are required to be measured by reference to the following levels.
+- Quoted prices in an active market (Level 1): This level of hierarchy includes financial instruments that are measured by
+reference to quoted prices (unadjusted) in active markets for identical assets or liabilities;
+- Valuation techniques with observable inputs (Level 2): This level of hierarchy includes financial assets and liabilities measured
+using inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e.
+as prices) or indirectly (i.e. derived from prices);
+- Valuation techniques with significant unobservable inputs (Level 3): This level of hierarchy includes financial assets and
+liabilities measured using inputs that are not based on observable market data (unobservable inputs). Fair values are
+determined in whole or in part using avaluation model based on assumptions that are neither supported by prices from
+observable current market transactions in the same instrument nor are they based on available market data.
+There has been no change in the valuation techniques adopted or any transfers between fair value levels.
+The financial instruments that are measured subsequent to initial recognition at fair value are classified as Level 2 fair
+value measurements, as defined by IFRS 13, being those derived from inputs other than quoted prices that are observable.
+These valuation techniques maximise the use of observable market data where it is available and rely as little as possible
+on entity specific estimates. Fair value of forward derivative financial assets and liabilities are estimated by discounting
+expected future contractual cash flows using prevailing market interest rate curves from Reuters. Commodity swap contracts
+are similarly fair valued by discounting expected future contractual cash flows. Option contracts on foreign currency are
+entered into on a zero cost collar basis and fair value estimates are calculated from standard Black—Scholes options pricing
+methodology, using prevailing market interest rates and volatilities.
+Additionally, a Credit Valuation Adjustment (CVA)/ Debit Value Adjustment (DVA) is taken on derivative financial assets and
+liabilities and is calculated by discounting the fair value gain or loss on the financial derivative using credit default swap (CDS)
+prices quoted for the counterparty or Jaguar Land Rover respectively. CDS prices are obtained from Bloomberg.
+The long—term unsecured listed bonds are held at amortised cost. Their fair value for disclosure purposes is determined using
+Level 1 valuation techniques, based on the closing price at 31 March 2016 on the EURO MTF market.
+Fair values of cash and cash equivalents, short—term deposits, trade receivables and payables, short—term borrowings and
+other financial assets and liabilities (current and non—current excluding derivatives) are assumed to approximate to cost due
+to the short—term maturity of the instruments and as the impact of discounting is not significant.
+Management uses its bestjudgement in estimating the fair value of its financial instruments. However, there are inherent
+limitations in any estimation technique. Therefore, for substantially all financial instruments, the fair value estimates
+presented above are not necessarily indicative of all the amounts that the Group could have realised in a sales transaction
+as of respective dates. The estimated fair value amounts as of 31 March 2016, 31 March 2015 and 31 March 2014 have been
+measured as of the respective dates. As such, the fair values of these financial instruments subsequent to the respective
+reporting dates may be different than the amounts reported at each year—end.
+(B) FINANCIAL RISK MANAGEMENT
+As discussed in the Strategic report under the section Our Risks, the Group is exposed to foreign currency exchange rate,
+commodity price, interest rate, liquidity and credit risks. The Group has a risk management framework in place which monitors
+all of these risks.
+(C) FOREIGN CURRENCY EXCHANGE RATE RISK
+The fluctuation in foreign currency exchange rates may have a potential impact on the consolidated income statement, the
+consolidated statement of comprehensive income, the consolidated balance sheet, the consolidated statement of changes in
+equity and the consolidated cash flow statement where any transaction references more than one currency or where assets/
+liabilities are denominated in a currency other than the functional currency of the respective consolidated entities.
+Considering the countries and economic environment in which the Group operates, its operations are subject to risks arising
+from fluctuations in exchange rates in those countries. The risks primarily relate to fluctuations in US Dollar, Chinese Yuan and
+Euro against the functional currency of the Company and its subsidiaries.

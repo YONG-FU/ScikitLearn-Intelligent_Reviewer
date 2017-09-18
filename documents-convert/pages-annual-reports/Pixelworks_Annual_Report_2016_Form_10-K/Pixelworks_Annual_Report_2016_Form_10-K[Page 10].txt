@@ -1,0 +1,44 @@
+Research and Development
+Our research and development efforts are focused on the development of our solutions for the mobile device and digital projector markets. Our development
+efforts are focused on pursuing higher levels of video performance, integration and new features in order to provide our customers with solutions that enable
+them to introduce market leading products and help lower ﬁnal systems costs.
+We have invested, and expect to continue to invest, signiﬁcant resources in research and development activities. Our research and development expenses
+were $19.0 million, $24.6 million and $25.3 million in 2016, 2015 and 2014, respectively.
+Manufacturing
+Within the semiconductor industry we are known as a "fabless" company, meaning that we do not manufacture the semiconductors that we design and
+develop, but instead contract with a limited number of foundries and assembly and test vendors to produce all of our wafers and for completion of ﬁnished
+products. The fabless approach allows us to concentrate our resources on product design and development where we believe we have greater competitive
+advantages.
+See "Risk Factors" in Part I, Item 1A of this Annual Report on Form 10-K for information on risks related to our manufacturing strategy and processes.
+Intellectual Property
+We rely on a combination of nondisclosure agreements and patent, copyright, trademark and trade secret laws to protect the algorithms, design and
+architecture of our technology. As of December 31, 2016, we held 148 patents and have 20 patent applications pending, compared to 135 patents and 33
+patent applications pending as of December 31, 2015. These patents relate generally to improvements in the Visual display of digital image data including,
+but not limited to, improvements in image scaling, image correction, automatic image optimization and video signal processing for digital displays. Our U.S.
+and foreign patents are generally enforceable for 20 years from the date they were ﬁled. Accordingly, our issued patents have from approximately 1 to
+19 years remaining in their respective term, depending on their ﬁling dates. We believe that the remaining term of our patents is adequate relative to the
+expected lives of our related products.
+We intend to seek patent protection for other signiﬁcant technologies that we have already developed and expect to seek patent protection for ﬁiture
+products and technologies as necessary. Patents may not be issued as a result of any pending applications and any claims allowed under issued patents may
+be insufﬁciently broad to protect our technology. Existing or future patents may be invalidated, diluted, circumvented, challenged or licensed to others.
+Furthermore, the laws of certain foreign countries in which our products are or may be developed, manufactured or sold, including various countries in Asia,
+may not protect our products or intellectual property rights to the same extent as do the laws of the US. and, thus, make the possibility of piracy of our
+technology and products more likely in these countries.
+The semiconductor industry is characterized by vigorous protection of intellectual property rights, which have resulted in signiﬁcant and often protracted
+and expensive litigation. We, our customers or our foundries from time to time may be notiﬁed of claims that we may be inﬁinging patents or other
+intellectual property rights owned by third parties. Litigation by or against us relating to patent infringement or other intellectual property matters could
+result in signiﬁcant expense to us and divert the efforts of our technical and management personnel, whether or not such litigation results in a determination
+favorable to us. In the event of an adverse result in any such litigation, we could be required to pay substantial damages, cease the manufacture, use and sale
+of infringing products, expend signiﬁcant resources to develop non-infringing technology, discontinue the use of certain processes or obtain licenses to the
+inﬁinging technology. We may not be able to settle any alleged patent inﬁingement claim through a cross-licensing arrangement. In the event any third party
+made a valid claim against us, our customers or our foundries, and a license was not made available to us on terms that are acceptable to us or at all, we would
+be adversely affected.
+See "Risk Factors" in Part I, Item 1A, and "Note 7: Commitments and Contingencies" in Part II, Item 8 of this Annual Report on Form 10-K for information on
+various risks related to intellectual property.
+Environmental Matters
+Environmental laws and regulations are complex, change frequently and have tended to become more stringent over time. We have incurred, and may
+continue to incur, signiﬁcant expenditures to comply with these laws and regulations and we may incur additional capital expenditures and asset
+impairments to ensure that our products and our vendors’ products are in compliance with these regulations. We would be subject to signiﬁcant penalties for
+failure to comply with these laws and regulations.
+See "Risk Factors" in Part I, Item 1A of this Annual Report on Form 10-K for information on various environmental risks.
+10

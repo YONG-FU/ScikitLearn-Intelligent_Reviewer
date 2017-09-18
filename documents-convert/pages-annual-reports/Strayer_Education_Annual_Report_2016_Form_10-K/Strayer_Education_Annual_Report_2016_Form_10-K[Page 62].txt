@@ -1,0 +1,40 @@
+Table,of,C,ontents
+STRAYER EDUCATION, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. Nature of Operation s
+Strayer Education, Inc. (the “Company”), a Maryland corporation, conducts its operations through its wholly-owned
+subsidiaries, Strayer University (the “University”) and New York Code and Design Academy (“NYCDA”). The University is an
+accredited institution of higher education that provides undergraduate and graduate degrees in various fields of study through
+physical campuses, predominantly located in the Eastern United States, and online. NYCDA is a New York City-based provider
+of non-degree web and mobile app development courses. NYCDA courses are delivered on-ground to students seeking to further
+their career in software application development. The Company has only one reporting segment.
+2. Signiﬁcant Accounting Policies
+Financial Statement Presentation
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. On January
+13, 2016, the Company acquired all of the outstanding stock of NYCDA, and the results of NYCDA are included with the
+Company from the acquisition date. All intercompany accounts and transactions have been eliminated in the consolidated
+financial statements.
+Revenue Recognition
+The Company’s educational programs typically are offered on a quarterly basis and such periods coincide with the
+Company’s quarterly financial reporting periods. Approximately 95% of the Company’s revenues during the year ended
+December 31, 2016 consisted of tuition revenue, which is recognized ratably over the course of instruction as academic services
+are provided. Tuition revenue is assessed for collectibility on a student—by-student basis throughout the quarter of instruction, and
+is shown net of any refunds, withdrawals, corporate discounts, scholarships and employee tuition discounts. This collectibility
+assessment considers available sources of funds for the student including Federal Financial Student Aid programs. The Company
+reassesses the collectibility of tuition revenue that it may earn based on new information and changes in the facts and
+circumstances relevant to a student’s ability to pay, including the timing of a student’s withdrawal from a program of study.
+At the start of each academic term or program, a liability (deferred revenue) is recorded for academic services to be provided
+and a tuition receivable is recorded for the portion of the tuition not paid in advance. Any cash received prior to the start of an
+academic term or program is recorded as deferred revenue. Some students may be eligible for scholarship awards, the estimated
+value of which will be realized in the future and is deducted from revenue when earned, based on historical student attendance
+and completion behavior. Deferred revenue is recorded as a current or long-term liability in the consolidated balance sheets based
+on when the benefit is expected to be realized. Revenues also include textbook-related income, certificate revenue, certain
+academic fees, licensing revenue, and other income, all of which are recognized when earned.
+The Company’s refund policy typically permits students who complete less than half of a course to receive a partial refund
+of tuition for that course. Refunds reduce the tuition revenue that would have otherwise been recognized for that student. Since
+the University’s academic terms coincide with the Company’s financial reporting periods, nearly all refunds are processed and
+recorded within the same quarter as the corresponding revenue. The amount of tuition revenue refundable to students may vary
+based on the student’s state of residence. Unused books and related academic materials may be returned for a full refund within
+21 days of the start of class; however, purchases of electronic content are not refundable if downloaded. Revenues derived from
+fees are not eligible for a refund.
+6 1

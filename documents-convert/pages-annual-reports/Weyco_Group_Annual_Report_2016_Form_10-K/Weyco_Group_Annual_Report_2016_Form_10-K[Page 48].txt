@@ -1,0 +1,50 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+6. PROPERTY, PLANT AND EQUIPMENT, NET
+At December 31, 2016 and 2015, property, plant and equipment consisted of:
+2016 2015
+(Dollars in thousands)
+Landandlandimprovements $ 3,714 $ 3,706
+Buildings and improvements . . . . . . . . . . . . . . . . . . . . . . . . . .. 26,912 26,912
+Machineryandequipment 30,906 27,142
+Retail fixtures and leasehold improvements . . . . . . . . . . . . . . . . 12,455 11,232
+Constructioninprogress.............................. 39 24
+Property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . . 74,026 69,016
+Less: Accumulated depreciation . . . . . . . . . . . . . . . . . . . . . . (40,309) (37,183)
+Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . $ 33,717 $ 31,833
+7. INTANGIBLE ASSETS
+The Company’s indefinite-lived intangible assets as recorded in the Consolidated Balance
+Sheets consisted of the following:
+December 31, 2016 December 31, 2015
+Gross Gross
+Carrying Accumulated Carrying Accumulated
+Amount Impairment Net Amount Impairment Net
+(Dollars in thousands) (Dollars in thousands)
+Indefinite-lived intangible
+assets
+Goodwill . . . . . . . . . . .. $11,112 $ — $11,112 $11,112 $— $11,112
+Trademarks . . . . . . . . . 34,748 (1,770) 32,978 34,748 — 34,748
+Total indefinite-lived
+intangible assets . . . . . . $45,860 $(1,770) $44,090 $45,860 $— $45,860
+The Company performs impairment tests for goodwill and trademarks on an annual basis and
+more frequently if an event or changes in circumstances indicate that their carrying values may not
+be recoverable. Conditions that would trigger an impairment assessment include, but are not limited
+to, a significant adverse change in legal factors or business climate that could affect the value of the
+asset
+The Company’s goodwill resulted from the 2011 acquisition of the BOGS/Rafters brands. The
+Company uses a two-step process to test this goodwill for impairment. The first step is to compare
+the applicable reporting unit’s fair value to its carrying value. The Company determined that the
+applicable reporting unit is its wholesale segment. If the fair value of the wholesale segment is
+greater than its carrying value, there is no impairment. If the carrying value is greater than the fair
+value, then the second step must be completed to measure the amount of the impairment, if any. The
+second step calculates the implied fair value of the goodwill, which is compared to its carrying value.
+If the implied fair value is less than the carrying value, an impairment loss is recognized equal to the
+difference. In 2016, the testing determined that the estimated fair value of the wholesale segment
+exceeded its carrying value, therefore there was no impairment of goodwill. The Company has never
+recorded an impairment charge on this goodwill.
+The Company tests its trademarks for impairment annually by comparing the fair value of each
+trademark to its related carrying value. Fair value is estimated using a discounted cash flow
+methodology. During the fourth quarter of 2016, the Company evaluated the current state of the Umi
+business and determined the brand did not fit the long-term strategic objectives of the Company. As a
+result, the Company recorded a $1,770,000 impairment charge to write off the majority of the value of
+44

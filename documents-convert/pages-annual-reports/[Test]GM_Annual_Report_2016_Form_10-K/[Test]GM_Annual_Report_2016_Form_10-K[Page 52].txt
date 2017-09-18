@@ -1,0 +1,42 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Note 1. Nature of Operations and Basis of Presentation
+General Motors Company was incorporated as a Delaware corporation in 2009. We design, build and sell cars, trucks, crossovers and automobile parts
+worldwide. We also provide automotive ﬁnancing services through GM Financial. We analyze the results of our business through the following segments:
+GMNA, GME, GMIO, GMSA and GM Financial. Nonsegment operations and Maven, our ride- and car-sharing business, are classiﬁed as Corporate. Corporate
+includes certain centrally recorded income and costs such as interest, income taxes, corporate expenditures including autonomous vehicle-related
+engineering costs and certain nonsegment speciﬁc revenues and expenses.
+Principles of Consolidation The consolidated ﬁnancial statements are prepared in conformity with US. GAAP. All intercompany balances and transactions
+have been eliminated in consolidation. Except for per share amounts or as otherwise speciﬁed, amounts presented Within tables are stated in millions.
+We consolidate entities that we control due to ownership of a majority voting interest and we consolidate variable interest entities (VIEs) when we have
+variable interests and are the primary beneﬁciary. We continually evaluate our involvement with VIEs to determine when these criteria are met. Our share of
+earnings or losses of nonconsolidated affiliates is included in our consolidated operating results using the equity method of accounting when we are able to
+exercise signiﬁcant inﬂuence over the operating and ﬁnancial decisions of the affiliate. We use the cost method of accounting if we are not able to exercise
+signiﬁcant inﬂuence over the operating and ﬁnancial decisions of the afﬁliate.
+Use of Estimates in the Preparation of the Financial Statements Accounting estimates are an integral part of the consolidated ﬁnancial statements. These
+estimates require the use of judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and
+liabilities at the date of the ﬁnancial statements and the reported amounts of revenues and expenses in the periods presented. We believe that the accounting
+estimates employed are appropriate and the resulting balances are reasonable; however, due to the inherent uncertainties in making estimates actual results
+could differ from the original estimates, requiring adjustments to these balances in ﬁlture periods.
+GM Financial The amounts presented for GM Financial have been adjusted to include the effect of our tax attributes on GM Financial's deferred tax
+positions and provision for income taxes, which are not applicable to GM Financial on a stand—alone basis, and to eliminate the effect of transactions between
+GM Financial and the other members of the consolidated group. Accordingly, the amounts presented will differ from those presented by GM Financial on a
+stand—alone basis.
+Note 2. Signiﬁcant Accounting Policies
+The accounting policies which follow are utilized by our automotive and automotive ﬁnancing operations, unless otherwise indicated.
+Revenue Recognition
+Automotive Automotive net sales and revenue primarily consist of revenue generated from the sale of vehicles. Vehicle sales are recorded when title and
+risks and rewards of ownership have passed to our customers. For the majority of our automotive sales this occurs when a vehicle is released to the carrier
+responsible for transporting it to a dealer and when collectability is reasonably assured. Vehicle sales are recorded when the vehicle is delivered to the dealer
+in most remaining cases. Provisions for recurring or announced dealer and customer sales and leasing incentives, consisting of allowances and rebates, are
+recorded as reductions to Automotive net sales and revenue at the time of vehicle sale. All other incentives, allowances and rebates related to vehicles
+previously sold are recorded as reductions to Automotive net sales and revenue when announced. Taxes assessed by various government entities, such as
+sales, use and value-added taxes, collected at the time of sale are excluded from Automotive net sales and revenue.
+Vehicle sales to daily rental car companies with guaranteed repurchase obligations are accounted for as operating leases. Estimated lease revenue is
+recorded ratably over the estimated term of the lease based on the difference between net sales proceeds and the guaranteed repurchase amount. The
+difference between the cost of the vehicle and estimated residual value is depreciated on a straight-line basis over the estimated term of the lease.
+Automotive Financing - GM Financial Finance charge income earned on receivables is recognized using the effective interest method. Fees and
+commissions (including incentive payments) received and direct costs of originating loans are deferred and amortized over the term of the related ﬁnance
+receivables using the effective interest method and are removed from the consolidated
+49

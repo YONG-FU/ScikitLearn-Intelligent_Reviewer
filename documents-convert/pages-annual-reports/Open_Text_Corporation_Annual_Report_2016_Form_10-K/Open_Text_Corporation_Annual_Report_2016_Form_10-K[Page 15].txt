@@ -1,0 +1,49 @@
+- Email Management Solutions enable the archiving, control and monitoring of email, regardless of platform, to
+reduce the size of the email database, improve email server performance, control the lifecycle of email content, and
+monitor email content to improve compliance.
+° Capture solutions help bridge the gap between structured and unstructured data by providing the ability to capture
+and image paper content while applying metadata and applicable policies and schedules. By transforming the
+information contained in these documents, it can then be used effectively to automate or streamline business processes
+while being governed consistently alongside digital content.
+° Core is a software as a service (SaaS)—based, multi-tenant cloud solution that provides eﬂicient ways to share
+documents and collaborate for teams of any size, from small groups to large enterprises.
+Business Process Management
+BPM provides the software capabilities for analyzing, automating, monitoring and optimizing structured business
+processes that typically fall outside the scope of existing enterprise systems. BPM solutions help empower employees,
+customers and partners. Our BPM solutions include:
+- Process suite platform puts the business in direct control of its processes and fosters alignment between business and
+IT, resulting in tangible benefits for both. OpenText Process Suite Platform offers one platform that can be accessed
+simply through a web browser and is built from the ground up to be truly multi-tenant and to support all of the
+deployment models required for on—premise, private or public clouds.
+0 Capture and recognition systems convert documents from analog sources, such as paper or facsimile (fax), to
+electronic documents and apply value-added functions, such as optical / intelligent character recognition (OCR/ICR)
+and barcode seaming, and then releases these documents into repositories where they can be stored, managed, and
+searched.
+- Process suite solutions are packaged applications built on the Process Suite and address specific business problems.
+This includes Contract Management, Cloud Brokerage Services, Digital Media Supply Chain, and Enterprise App
+Store, to name a few.
+Customer Experience Management
+CEM generates improved time-to-market by giving customers, employees, and channel partners personalized and
+engaging experiences. Our CEM solutions include:
+- Web Content Management provides software for authoring, maintaining, and administering websites designed to
+offer a “visitor experience” that integrates content from internal and external sources.
+- Digital Asset Management provides a set of content management services for browsing, searching, viewing,
+assembling, and delivering rich media content such as images, audio and Video.
+° Customer Communications Management software makes it possible for organizations to process and deliver highly
+personalized documents in paper or electronic format rather than a “one message fits all” approach.
+° Social Software helps companies “socialize” their web presence by adding blogs, wikis, ratings and reviews, and
+build communities for public websites and employee intranets.
+- Portal enables organizations to aggregate, integrate and personalize corporate information and applications and
+provide a central, contextualized, and personalized view of information for executives, departments, partners, and
+customers.
+Business Network
+The OpenText Business Network (BN), previously known as Information Exchange (iX), is a set of offerings that
+facilitate eﬁicient, secure, and compliant exchange of information inside and outside the enterprise. BN solutions include:
+- Business-to-Business (B2B) Integration services help optimize the reliability, reach, and cost efficiency of an
+enterprise's electronic supply chain while reducing costs, infrastructure and overhead.
+- Fax Solutions automate business fax and electronic document distribution to improve the business impact of company
+information, increase employee productivity and decrease paper-based operational costs.
+° Secure Messaging helps to share and synchronize files across an organization, across teams and with business
+partners, while leveraging the latest smartphones and tablets to provide information on the go without sacrificing
+information governance or security.
+7

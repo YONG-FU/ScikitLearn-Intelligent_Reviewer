@@ -1,0 +1,38 @@
+9. Goodwill and acquisition-related intangibles
+Goodwill, net, by segment as of December 31, 2016 and 2015, is as follows:
+Goodwill
+$4,158
+EmbeddedProcessing 172
+32
+Total $4,362
+3
+:1 We perform our annual goodwill impairment test as of October 1 and determine whether the fair value of each of our reporting
+f units is in excess of its carrying value. Determination of fair value is based upon management estimates and judgment, using
+9 unobservable inputs in discounted cash flow models to calculate the fair value of each reporting unit. These unobservable
+5: inputs are considered Level 3 measurements, as described in Note 8. In 2016, 2015 and 2014, we determined no impairment
+was indicated.
+The components of Acquisition-related intangibles, net, are as follows:
+December 31, 2016 December 31 , 2015
+Amortization Gross Carrying Accumulated Gross Carrying Accumulated
+Acquisition-Related Intangibles Period (Years) Amount Amortization Net Amount Amortization Net
+Developed technology . . . . 7 - 10 $ 2,130 $1,144 $ 986 $ 2,131 $ 928 $ 1,203
+Customer relationships . . . 8 810 532 278 810 431 379
+Other intangibles . . . . . . . 5 — — — 3 2 1
+Total $2,940 $1,676 $1,264 $2,944 $1,361 $1,583
+Amortization of acquisition-related intangibles was $319 million, $319 million and $321 million in 2016, 2015 and 2014,
+respectively, primarily related to developed technology. Fully amortized assets are written off against accumulated amortization.
+Future estimated amortization of acquisition-related intangibles is as follows:
+Amortization of
+Acquisition-Related
+Intangibles
+Thereafter —
+10. Postretirement benefit plans
+Plan descriptions
+We have various employee retirement plans, including defined contribution, defined benefit and retiree health care benefit plans.
+For qualifying employees, we offer deferred compensation arrangements.
+U. S. retirement plans
+0ur principal retirement plans in the U.S. are a defined contribution plan; an enhanced defined contribution plan; and qualified and
+non-qualified defined benefit pension plans. The defined benefit plans were closed to new participants in 1997, and then current
+participants were allowed to make a one-time election to continue accruing a benefit in the plans, or to cease accruing a benefit
+and instead to participate in the enhanced defined contribution plan described below.
+48 TEXAS INSTRUMENTS - 2016 FORM 10-K

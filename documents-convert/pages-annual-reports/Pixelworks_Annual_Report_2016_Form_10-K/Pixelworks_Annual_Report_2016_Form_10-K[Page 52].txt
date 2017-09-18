@@ -1,0 +1,37 @@
+In February 2016, the FASB issued Accounting Standards Update No. 2016-02, Leases (Topic 842) ("ASU 2016-02"). ASU 2016-02 requires a dual approach
+for lessee accounting under which a lessee would account for leases as ﬁnance leases or operating leases. Both ﬁnance leases and operating leases will result
+in the lessee recognizing a right-of—use (ROU) asset and a corresponding lease liability. For ﬁnance leases the lessee would recognize interest expense and
+amortization of the ROU asset and for operating leases the lessee would recognize a straight-line total lease expense. ASU 2016-02 will become effective for
+the Company on January 1, 2019. While we are currently assessing the impact ASU 2016-02 will have on our ﬁnancial statements, we expect the primary
+impact to our ﬁnancial position upon adoption will be the recognition, on a discounted basis, of our minimum commitments under noncancelable operating
+leases on our consolidated balance sheets resulting in the recording of right of use assets and lease obligations. Our current minimum commitments under
+noncancelable operating leases are disclosed in "Note 7: Commitments and Contingencies".
+In July 2015, the FASB issued Accounting Standards Update No. 2015—1 1, Simplifying the Measurement of Inventory ("ASU 2015-1 1"), which changes the
+measurement principle for inventory from the lower of cost or market to the lower of cost and net realizable value. ASU 2015-1 1 deﬁnes net realizable value
+as estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. ASU 2015-11 is
+effective prospectively and is effective for the Company on January 1, 2017, with early adoption permitted. We do not expect the adoption of this update to
+materially impact our ﬁnancial position, results of operations, or cash ﬂows.
+In May 2014, the FASB issued Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers ("ASU 2014-09"), which requires that an
+entity recognize revenue when it transfers promised goods or services to customers in an amount that reﬂects the consideration to which the entity expects to
+be entitled in exchange for those goods or services. ASU 2014-09 will replace most existing revenue recognition guidance in US. GAAP when it becomes
+effective. ASU 2014-09 allows for either full retrospective or modiﬁed retrospective adoption and will become effective for the Company on January 1, 2018.
+We have developed an implementation plan to adopt this new guidance. As part of this plan, we are currently assessing the impact of the new guidance on
+our results of operations. Based on our procedures performed to date, nothing has come to our attention that would indicate that the adoption of ASU 2014-
+09 will have a material impact on our ﬁnancial statements, however, we will continue to evaluate this assessment in 2017. We intend to adopt ASU 2014-09
+on January 1, 2018. We have not yet selected a transition method, but expect to do so in 2017 upon completion of ﬁirther analysis.
+NOTE 3. BALANCE SHEET COMPONENTS
+Accounts Receivable, Net
+Accounts receivable consists of the following:
+December 31,
+2016 _ 2015
+lAccounts receivable, gross $ 3,150 $ 6,048 l
+Allowance for doubtful accounts (32) _ (60)
+1 Accounts receivable, net $ 3,118 $ 5,988 l
+The following is a summary of the change in our allowance for doubtﬁil accounts:
+Year Ended December 31,
+2016 _ 2015 _ 2014
+lBalance at beginning ofyear $ 60 $ 301 $ 315 1
+Additions charged (reductions credited) (28) 9 2
+lAccounts written-off, net of recoveries — _ (250) _ (16) l
+Balance at end ofyear $ 32 $ 60 $ 301
+52

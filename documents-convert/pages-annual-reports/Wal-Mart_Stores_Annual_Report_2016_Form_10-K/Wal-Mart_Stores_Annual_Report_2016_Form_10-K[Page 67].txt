@@ -1,0 +1,33 @@
+Committee in its discretion, and, in the case of an Incentive Stock Option, shall be determined at the time of grant.
+6.3 Exercise of Options. An Option shall be deemed to be exercised when the person entitled to exercise the Option gives notice
+of exercise to Walmart in accordance with the Option’s terms and Walmart receives full payment for the Shares as to which the
+Option is exercised or other provision for such payment is made in accordance with rules and procedures established by the
+Committee from time to time. Except with respect to Incentive Stock Options, such rules and procedures may include procedures for
+a “net-share settlement” method of exercise, under which, subject to the method requirements in the rules and procedures, the
+Recipient provides an irrevocable notice of exercise of the Option and Walmart retains a number of Shares sufficient to cover the
+exercise price and the minimum required withholding, and delivers the net number of Shares to the Recipient. In addition, if
+determined by the Committee in its discretion, which may be applied differently among Recipients or Plan Awards, an Option will
+be deemed exercised by the Recipient (or in the event of the death of the Recipient then by the person authorized to exercise the
+Recipient’s Option under Section 11.6) on the expiration date of the Option, or if the NYSE is not open on the expiration date, on the
+last day prior to the expiration date on which the NYSE is open, using a net share settlement method of exercise to the extent that as
+of such expiration date the Option is vested and exercisable and the per Share exercise price of the Option is below the Fair Market
+Value of a Share on such expiration date.
+6.4 Termination of Employment. If a Recipient’s Continuous Status is terminated for any reason other than Cause, the Recipient
+may exercise Options that are not subject to Restrictions as of the termination date to the extent set out in the Recipient’s Notice of
+Plan Award. Incentive Stock Options may be exercised only within 60 days (or other period of time determined by the Committee at
+the time of grant of the Option and not exceeding 3 months) after the date of the termination (but in no event later than the expiration
+date of the term of that Option as set forth in the Notice of Plan Award), and only to the extent that Recipient was entitled to exercise
+the Incentive Stock Option at the date of that termination. To the extent the Recipient is not entitled to or does not exercise an Option
+at the date of that termination or within the time specified herein or in the Notice of Plan Award, the Option shall terminate. In
+addition, the Recipient’s right to exercise Options will be tolled pending any period initiated by the Committee to determine the
+existence of Cause with respect to the Recipient regardless of whether the commencement of such period is prior to, coincident with,
+or subsequent to the termination of the Recipient’s Continuous Status. If the Committee determines there is no Cause, then the
+tolling period will end and the Recipient’s right to exercise Options will be reinstated; provided, however, in no event will the
+exercise date of an Option be later than the earlier of (a) 90 days following the termination of the Recipient’s Continuous Status plus
+the tolling period, or (b) the expiration date of the Option as set forth in the Notice of Plan Award. Notwithstanding any provision in
+the Plan to the contrary, an Associate’s Continuous Status is not terminated for purposes of the Associate’s Options if immediately
+upon the termination of the Associate’s employment relationship with Walmart or an Affiliate the Associate becomes a Non-
+Management Director.
+6.5 Administrative Suspension from Employment. During a period for which the Recipient is subject to administrative
+suspension from employment, the Recipient’s right to exercise Options will be suspended. If upon the conclusion of the
+administrative suspension the Recipient returns to employment, then the Recipient’s right to exercise Options will be reinstated

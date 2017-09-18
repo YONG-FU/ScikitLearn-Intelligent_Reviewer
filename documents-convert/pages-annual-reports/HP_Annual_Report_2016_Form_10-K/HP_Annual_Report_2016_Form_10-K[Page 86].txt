@@ -1,0 +1,48 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 6: Stock-Based Compensation (Continued)
+units issued by HP contain only service vesting conditions. However, starting in fiscal year 2014, HP began granting
+performance-adj usted restricted stock units that vest only on the satisfaction of both service and market conditions prior to the
+expiration of the awards.
+Stock options granted under the principal equity plans are generally non-qualified stock options, but the principal equity
+plans permit some options granted to qualify as incentive stock options under the US. Internal Revenue Code. Stock options
+generally vest over three to four years from the date of grant. The exercise price of a stock option is equal to the closing price of
+HP’s stock on the option grant date. The majority of stock options issued by HP contain only service vesting conditions.
+However, starting in fiscal year 2011, HP began granting performance-contingent stock options that vest only on the satisfaction
+of both service and market conditions prior to the expiration of the awards.
+Restricted S tack Awards
+HP uses the closing stock price on the grant date to estimate the fair value of service-based restricted stock units. HP
+estimates the fair value of restricted stock units subject to performance-adjusted vesting conditions using a combination of the
+closing stock price on the grant date and the Monte Carlo simulation model. The weighted-average fair value and the
+assumptions used to measure fair value of restricted stock units subject to performance-adjusted vesting conditions in the Monte
+Carlo simulation model were as follows:
+7 For the ﬁscal years ended October 31 7
+: 2016 7 7 2015 7 7 2014
+{Weighted-average fair value“) $ 13 $ 47 $ 37 1
+Expected volatilitya) 32.5% 33.6% 24.8%
+[Risk—free interest tate<3> 1.2% 1.0% 0.4%}
+Expected performance period in years“) 2.9 2.9 1.3
+(I) The weighted-average fair value was based on performance-adjusted restricted stock units granted during the period.
+(2) The expected volatility was estimated using the historical volatility derived from HP ’3 common stock.
+(3) The risk-free interest rate was estimated based on the yield on US. Treasury zero-coupon issues.
+(4) The expected performance period was estimated based on the length of the remaining performance period from the grant
+date.
+A summary of restricted stock awards activity is as follows:
+7 As of October 31 7
+7 2016 2015 2014 ’
+Weighted- Weighted- Weighted-
+Average Average Average
+Grant Date Grant Date Grant Date
+Fair Value Fair Value Fair Value
+7 Shares : : Per Share : : Shares : : Per Share : : Shares : : Per Share :
+In thousands In thousands In thousands
+] Outstanding at beginning ofyear 29,717 $ 32 40,808 $ 24 32,262 $ 21 l
+Granted and assumed through
+acquisition 29,286 $ 10 26,991 $ 35 26,036 $ 28
+[Vested (4,161) $ 13 (34,177) $ 26 (14,253) $ 24 1
+Awards cancelled due to
+Separation (23,926) $ 32 — $ — — $ —
+{Forfeited g (2,206) $ 14 g (3,905) $ 29 7 (3,237) $ 22 1
+Outstanding at end of year f 28,710 77 $ 13 f 29,717 i 35 32 f 40,808 i 38 24
+86

@@ -1,0 +1,46 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+7. Income tax expenses (Continued)
+As of March 31, 2016, the accumulated tax losses of subsidiaries incorporated in Hong Kong, the
+United States and Singapore, subject to the agreement of the relevant tax authorities, of RMB1,175 million,
+RMB696 million and RMB220 million, respectively, are allowed to be carried forward to offset against future
+taxable profits. Such carry forward of tax losses in Hong Kong and Singapore has no time limit, while the tax
+losses in the United States will expire, if unused, in the years ending March 31, 2019 through 2036. The
+accumulated tax losses of subsidiaries incorporated in PRC, subject to the agreement of the PRC tax
+authorities, of RMB2,917 million as of March 31, 2016 will expire, if unused, in the years ending March 31,
+2017 through 2021.
+Reconciliation of the diﬁcerenceS between the statatOIy EI T rate applicable to proﬁts of the consolidated entities and
+the income tax expenses of the Company:
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB, except per
+share data)
+Income before income tax and share of results of equity investees 26,802 32,326 81,468
+Income tax computed at statutory EIT rate (25%) 6,701 8,082 20,367
+Effect of different tax rates available to different jurisdictions (9) 33 (869)
+Effect of tax holiday and preferential tax benefit on assessable profits of
+subsidiaries incorporated in the PRC (6,414) (5,881) (6,680)
+Non-deductible expenses and non-taxable income, net (i) 1,657 3,368 (4,994)
+Tax savings from additional deductions on certain research and development
+expenses available for subsidiaries incorporated in the PRC (ii) (483) (1,096) (1,205)
+Withholding tax on the earnings remitted and anticipated to be remitted 1,445 1,898 1,573
+Change in valuation allowance, deduction of certain share-based compensation
+expense and others 299 12 257
+Income tax expenses 3,196 6,416 8,449
+Effect of tax holidays inside the PRC on basic earnings per share/ADS (RMB) 2.95 2.57 2.72
+(i) Expenses not deductible for tax purposes and non-taxable income primarily represent investment income
+(loss), share-based compensation expense, equity-settled donation expense, interest expense, exchange
+differences. Investment income (loss) during the year ended March 31, 2016 included gains from the
+revaluation of the Company’s remaining equity interest in Alibaba Pictures (Note 4(e)) and from the
+revaluation of previously held equity interest relating to obtaining Control of Alibaba Health (Note 4(c)).
+(ii) This amount represents tax incentives relating to the research and development expenses of certain major
+operating subsidiaries in the PRC. This tax incentive enables the Company to claim an additional tax
+deduction amounting to 50% of the qualified research and development expenses incurred.
+8. Share-based awards
+Share-based awards such as incentive and non-statutory options, restricted shares, RSUs, dividend equivalent
+rights, share appreciation rights and share payments may be granted to any directors, employees and
+consultants of the Company or affiliated companies under the employee share option plans adopted in 1999,
+2004, 2005, the incentive plan adopted in 2007 and the equity incentive plan adopted in 2011, which govern
+the terms of the awards. In September 2014, the Company adopted a post-IPO equity incentive plan
+F-59

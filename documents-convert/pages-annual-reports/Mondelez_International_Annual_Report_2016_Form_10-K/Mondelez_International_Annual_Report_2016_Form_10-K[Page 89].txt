@@ -1,0 +1,46 @@
+Iable,of,Contents
+Long-Term Debt:
+Our long-term debt consisted of (interest rates are as of December 31, 2016):
+As of December 31,:
+2016 2015
+(in millions)
+US. dollar notes, 0.881% to 7.000% (weighted-average effective rate 3.527%), I
+I due through 2040 $ 8,812 $ 8,371
+Euro notes, 1.000% to 2.375% (weighted-average effective rate 1.808%),
+due through 2035 7 3,980 4,305
+Pound sterling notes, 3.875% to 7.250% (weighted-average effective rate 4.441%), I
+I due through 2045 418 1,399
+Swiss franc notes, 0.000% to 1.125% (weighted-average effective rate 0.636%),
+due through 2025 1,449 1,075
+@pital leases and other obligations 9 12j
+Total 14,668 15,162
+:Less current portion of long-term debt 7(1,451) (605)j
+Long-term debt $13,217 $14,557
+Deferred debt issuance costs of $40 million as of December 31, 2016 and $46 million as of December 31, 2015 are netted against the related debt in
+the table above. These amounts were reclassiﬁed from long-term other assets to offset the related debt in the fourth quarter of 2015, except for
+deferred financing costs related to our revolving credit facility which remain in long-term other assets and were immaterial for all periods presented.
+As of December 31, 2016, aggregate maturities of our debt and capital leases based on stated contractual maturities, excluding unamortized
+non-cash bond premiums, discounts, bank fees and mark-to-market adjustments of $(69) million, were (in millions):
+2017 2018 2019 2020 2021 Thereafter Total
+$1,451 $1,144 $2,650 $658 $3,260 $5,574 $14,737
+On December 16, 2016, we redeemed $850 million of 2.250% ﬁxed rate notes, maturing on February 1, 2019, that were issued on January 16, 2014.
+The notes were redeemed at a redemption cost equal to $866 million, plus accrued and unpaid interest of $7 million. In connection with this
+redemption, during the three months ended December 31, 2016, we recorded a $19 million loss on debt extinguishment within interest and other
+expense,neL
+On October 31, 2016, we completed a cash tender offer and retired $3.18 billion of U.S. dollar, euro and British pound sterling-denominated notes.
+We ﬁnanced the repurchase of the notes, including the payment of accrued interest and other costs incurred, from net proceeds received on
+October 28, 2016 from the $3.75 billion note issuance and the term loans described below. In connection with retiring this debt, during the three
+months ended December 31, 2016, we recorded a $409 million loss on debt extinguishment within interest expense related to the amount we paid to
+retire the debt in excess of its carrying value and from recognizing unamortized premiums and deferred ﬁnancing costs in earnings at the time of the
+debt extinguishment. Cash costs related to tendering the debt are included in long-term debt repayments in the consolidated statement of cash ﬂows
+for the year ended December 31, 2016. We also recognized $1 million in interest income related to the partial settlement of fair value hedges due to
+the tender.
+On October 19, 2016, Mondelez International Holdings Netherlands B.V. (“MIHN”), a wholly owned subsidiary of Mondelez International, Inc.,
+launched an offering of $3.75 billion of notes, guaranteed by Mondelez International, Inc. The $1.75 billion of 1.625% notes and the $500 million of
+ﬂoating rate notes will mature on October 28, 2019 and the $1.5 billion of 2.0% notes will mature on October 28, 2021. On October 28, 2016, we
+received proceeds, net of discounts and associated ﬁnancing costs, of $3.73 billion. Proceeds from the notes issuance were used for general
+corporate purposes, including to grant loans or make distributions to Mondelez International, Inc. or its subsidiaries to fund the October 2016 cash
+tender offer and near-term debt maturities. We recorded approximately $20 million of deferred ﬁnancing costs and discounts, which will be amortized
+into interest expense over the life of the notes. We entered into cross-currency swaps, serving as cash ﬂow hedges, so that the U.S. dollar-
+denominated debt payments will effectively be paid in euros over the life of the debt.
+86

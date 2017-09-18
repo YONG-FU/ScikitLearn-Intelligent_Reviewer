@@ -1,0 +1,26 @@
+Iable,of,Contents
+Note 10. Stock Plans
+Under our Amended and Restated 2005 Performance Incentive Plan (the “Plan”), we are authorized through May 21, 2024 to issue a maximum of
+243.7 million shares of our Common Stock to employees and non-employee directors. As of December 31, 2016, there were 74.2 million shares
+available to be granted under the Plan.
+Stock Options:
+Stock options (including stock appreciation rights) are granted at an exercise price equal to the market value of the underlying stock on the grant
+date, generally become exercisable in three annual installments beginning on the ﬁrst anniversary of the grant date and have a maximum term of ten
+years.
+We account for our employee stock options under the fair value method of accounting using a Black-Scholes methodology to measure stock option
+expense at the date of grant. The fair value of the stock options at the date of grant is amortized to expense over the vesting period. We recorded
+compensation expense related to stock options held by our employees of $57 million in 2016, $50 million in 2015 and $47 million in 2014 in our
+results from continuing operations. The deferred tax beneﬁt recorded related to this compensation expense was $15 million in 2016, $13 million in
+2015 and $12 million in 2014. The unamortized compensation expense related to our employee stock options was $52 million at December 31, 2016
+and is expected to be recognized over a weighted-average period of 1 year.
+Our weighted-average Black-Scholes fair value assumptions were:
+Risk-Free Expected Expected Fair Value
+Interest Rate gpected Life Volatility: Dividend Yield at Grant Date
+2016 1.40% 6 years 23.11% 1.61% $ 7.86 l
+2015 1.70% 6 years 18.51% 1.61 % $ 6.12
+2014 1.87% 6 years 21.48% 1.64% $ 6.60 l
+The risk-free interest rate represents the constant maturity U.S. government treasuries rate with a remaining term equal to the expected life of the
+options. The expected life is the period over which our employees are expected to hold their options. Volatility reflects historical movements in our
+stock price for a period commensurate with the expected life of the options. The dividend yield reﬂects the dividend yield in place at the time of the
+historical grants.
+102

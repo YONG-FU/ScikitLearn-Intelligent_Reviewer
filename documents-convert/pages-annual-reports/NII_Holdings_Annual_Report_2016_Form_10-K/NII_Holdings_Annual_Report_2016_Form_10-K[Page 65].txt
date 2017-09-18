@@ -1,0 +1,44 @@
+NH HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+1. Summary of Operations
+Unless the context requires otherwise, “NII Holdings, Inc.,” “NII Holdings,” “we,” “our,” “us” and “the Company” refer to the combined businesses of
+N11 Holdings, Inc. and its consolidated subsidiaries. We refer to our wholly-owned Brazilian operating company, Nextel Telecomunicacoes Ltda., as Nextel
+Brazil. Our consolidated results from continuing operations in this annual report on Form 10-K include the results of operations of Nextel Brazil and our
+corporate headquarters. We provide wireless communication services under the NextelTM brand in Brazil with our principal operations located in major urban
+and suburban centers with high population densities and related transportation corridors of that country where we believe there is a concentration of Brazil's
+business users and economic activity, including primarily Rio de Janeiro and Sﬁo Paulo.
+In the second half of 2013, Nextel Brazil commercially launched services on its wideband code division multiple access, or WCDMA, network in Sﬁo
+Paulo, Rio de Janeiro and surrounding areas and extended those services to other areas in Brazil by expanding the coverage of its network and utilizing
+roaming services and network sharing arrangements pursuant to agreements that it reached with another network operator in Brazil. Our WCDMA network
+enables us to offer a wide range of products and services supported by that technology, including data services provided at substantially higher speeds than
+can be delivered on our legacy integrated digital enhanced network, or iDEN.
+Prior to the deployment of our WCDMA network, our services were primarily targeted to meet the needs of business customers. With the deployment of
+our WCDMA network in Brazil, our target market has shifted to individual consumers who use our services to meet both professional and personal needs. Our
+target subscribers generally exhibit above average usage, revenue and loyalty characteristics. We believe our target market is attracted to the services and
+pricing plans we offer, as well as the quality of and data speeds provided by our WCDMA network.
+We also offer long-term evolution, or LTE, services in Rio de Janeiro, and starting in December 2016, in Sﬁo Paulo, and we continue to provide services
+on our legacy iDEN network throughout various regions in Brazil. Our transition to standards—based technologies such as WCDMA also gives us more
+ﬂexibility to offer customers the option of purchasing services by acquiring the subscriber identity module, or SIM, cards from us separately, and by
+providing the customer with the option to use the SIM cards in one or more devices that they acquire from us or from other sources.
+The services we currently offer include:
+- mobile telephone voice service;
+- wireless data services, including text messaging services, mobile intemet services and email services;
+° push—to-talk services, including Direct Connect®, Prip and International Direct Connect® services, which allow subscribers to talk to each other
+instantly;
+- other value-added services, including location—based services, which include the use of Global Positioning System, or GPS, technologies; digital
+media services; and a wide ranging set of applications available via our content management system, as well as the AndroidTM open application
+market;
+- business solutions, such as security, work force management, logistics support and other applications that help our business subscribers improve
+their productivity; and
+- voice and data roaming services outside of our coverage areas.
+Revision of Prior Period Financial Statements. In connection with the preparation of our condensed consolidated ﬁnancial statements for the three
+months ended March 31, 2016, we determined that an error existed in our previously issued ﬁnancial statements. Speciﬁcally, selling, general and
+administrative expenses for the six months ended December 31, 2015 were understated by $6.9 million as the result of a failure to properly accrue expenses
+for services Nextel Brazil received under a management consulting services arrangement. We evaluated this error under the SEC's authoritative guidance on
+materiality and the quantiﬁcation of the effect of prior period misstatements on ﬁnancial statements, and we determined that the impact of this error on our
+prior period consolidated ﬁnancial statements is immaterial. However, since the correction of this error in the ﬁrst quarter of 2016 would have been material
+to our results of operations for the three months ended March 31, 2016, we revised our prior period ﬁnancial statements herein to correct this error.
+As a result of the correction of this error, as of December 31, 2015, accrued expenses and other increased by $6.8 million, accumulated deﬁcit increased
+by $6.9 million and accumulated other comprehensive loss decreased by $0.1 million. For the six months ended December 31, 2015, this error resulted in a
+$6.9 million increase to selling, general and administrative expenses,
+F—8

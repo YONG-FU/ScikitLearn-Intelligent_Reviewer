@@ -1,0 +1,50 @@
+of our core technology is based in part on the technology covered by these patents, patent applications and copyrights. These
+patents are scheduled to expire beginning in 2018. As the patents expire, we will no longer have the right to exclude others from
+practicing the technologies covered by them. Furthermore, we cannot be certain that any pending or future patent applications
+will be granted, that any future patent will not be challenged, invalidated or circumvented, or that rights granted under any
+patent that may be issued will provide competitive advantages to us. If we are unable to protect our proprietary rights from
+unauthorized use, the value of our intellectual property assets may be reduced. Although we have licensed from other parties
+proprietary technology covered by patents, we cannot be certain that any such patents will not be challenged, invalidated or
+circumvented. Such licenses may also be non-exclusive, meaning our competition may also be able to access such technology.
+We rely on certain “open-source” software the use of which could result in our having to distribute our proprietary software,
+including our source code, to third parties on unfavorable terms, which could materially aﬂect our business.
+Certain of our service offerings use software that is subject to open-source licenses. Open-source code is software that is
+freely accessible, usable and modifiable. Open-source software may have security ﬂaws and other deficiencies that could make
+our solutions less reliable and damage our business. Certain open-source code is governed by license agreements, the terms of
+which could require users of such software to make any derivative works of the software available to others on unfavorable
+terms or at no cost. Because we use open-source code, we may be required to take remedial action in order to protect our
+proprietary software. Such action could include replacing certain source code used in our software, discontinuing certain of our
+products or taking other actions that could be expensive and divert resources away from our development efforts. In addition,
+the terms relating to disclosure of derivative works in many open-source licenses are unclear. If a court interprets one or more
+such open-source licenses in a manner that is unfavorable to us, we could be required to make certain of our key software
+available at no cost.
+We may be unsuccessful at developing and maintaining strategic relationships with third parties that expand our
+distribution channels and increase revenue, which could significantly limit our long-term growth.
+Our future success will likely require us to maintain and increase the number and depth of our relationships with resellers,
+systems integrators, product makers and other strategic partners and to leverage those relationships to expand our distribution
+channels and increase revenue. If we become reliant on a small number of large partners, any termination of our relationship
+with one of them could have an adverse impact on our financial condition. The need to develop such relationships can be
+particularly acute in areas outside of the US. We have not always been successful at developing these relationships due to the
+complexity of our services, our historical reliance on an internal sales force and other factors. Recruiting and retaining qualified
+channel partners and training them in the use of our technology and services and ensuring that they are compliant with our
+ethical expectations requires significant time and resources. In order to develop and expand our distribution channel, we must
+continue to expand and improve our portfolio of solutions as well as the systems, processes and procedures that support our
+channels. Those systems, processes and procedures may become increasingly complex and difficult to manage. The time and
+expense required for the sales and marketing organizations of our channel partners to become familiar with our offerings,
+including our new services developments, may make it more difficult to introduce those products to enterprises. Our failure to
+maintain and increase the number and quality of relationships with channel partners, and any inability to successfully execute
+on the partnerships we initiate, could significantly impede our revenue growth prospects in the short and long term.
+If the accounting estimates we make, and the assumptions on which we rely, in preparing our ﬁnancial statements prove
+inaccurate, our actual results may be adversely affected
+Our financial statements have been prepared in accordance with accounting principles generally accepted in the US. The
+preparation of these financial statements requires us to make estimates and judgments about, among other things, taxes, revenue
+recognition, stock-based compensation costs, capitalization of internal-use software development costs, investments, contingent
+obligations, allowance for doubtful accounts, intangible assets and restructuring charges. These estimates and judgments affect,
+among other things, the reported amounts of our assets, liabilities, revenue and expenses, the amounts of charges accrued by us,
+and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and on various other
+assumptions that we believe to be reasonable under the circumstances and at the time they are made. If our estimates or the
+assumptions underlying them are not correct, actual results may differ materially from our estimates and we may need to,
+among other things, accrue additional charges that could adversely affect our results of operations, which in turn could
+adversely affect our stock price. In addition, new accounting pronouncements and interpretations of accounting
+pronouncements have occurred and may occur in the future that could adversely affect our reported financial results.
+1 9

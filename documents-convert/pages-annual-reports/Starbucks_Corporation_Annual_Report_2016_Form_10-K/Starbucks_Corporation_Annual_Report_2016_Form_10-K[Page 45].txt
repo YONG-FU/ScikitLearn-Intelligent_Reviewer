@@ -1,0 +1,39 @@
+We performed a sensitivity analysis based on a 10% change in the underlying equity prices of our investments as of October 2,
+2016 and determined that such a change would not have a significant impact on the fair value of these instruments.
+Interest Rate Risk
+Long-term Debi
+We utilize short-term and long-term financing and may use interest rate hedges to manage our overall interest expense related
+to our existing fixed-rate debt, as well as to hedge the variability in cash ﬂows due to changes in benchmark interest rates
+related to anticipated debt issuances. See Note 3, Derivative Financial Instruments and Note 9, Debt, to the consolidated
+financial statements included in Item 8 of Part II of this 10-K for further discussion of our interest rate hedge agreements and
+details of the components of our long-term debt, respectively, as of October 2, 2016.
+The following table summarizes the impact of a change in interest rates as of October 2, 2016 on the fair value of Starbucks
+debt (in millions):
+, f f f [ ]
+[2016 notes 0.875% 8 400 8 — 8 r r J
+2018 notes 2.000% $ 357 $ (7) $ 7
+[2021 notes 2.100% 8 766 8 (31) 8 31 [
+2022 notes 2.700% $ 526 $ (27) $ 27
+[2023 notes 3.850% 8 839 8 (51) 8 51 [
+2026 notes 2.450% $ 509 $ (43) $ 43
+[2045 notes 4.300% 8 417 8 (70) 8 70 [
+Available-for-Sale Securities
+Our available-for—sale securities comprise a diversified portfolio consisting mainly of investment-grade debt securities. The
+primary objective of these investments is to preserve capital and liquidity. Available-for—sale securities are recorded on the
+consolidated balance sheets at fair value with unrealized gains and losses reported as a component of accumulated other
+comprehensive income. We do not hedge the interest rate exposure on our available-for—sale securities. We performed a
+sensitivity analysis based on a 100 basis point change in the underlying interest rate of our available-for—sale securities as of
+October 2, 2016 and determined that such a change would not have a significant impact on the fair value of these instruments.
+APPLICATION OF CRITICAL ACCOUNTING POLICIES
+Critical accounting policies are those that management believes are both most important to the portrayal of our financial
+condition and results and require the most difficult, subjective or complex judgments, often as a result of the need to make
+estimates about the effect of matters that are inherently uncertain. Judgments and uncertainties affecting the application of those
+policies may result in materially diﬁerent amounts being reported under different conditions or using different assumptions.
+Our significant accounting policies are discussed in Note 1, Summary of Significant Accounting Policies, to the consolidated
+financial statements included in Item 8 of Part II of this 10-K. We believe that of our significant accounting policies, the
+following policies involve a higher degree of judgment and/or complexity.
+We consider financial reporting and disclosure practices and accounting policies quarterly to ensure that they provide accurate
+and transparent information relative to the current economic and business environment. During the past three fiscal years, we
+have not made any material changes to the accounting methodologies used to assess the areas discussed below, unless noted
+otherwise.
+Starbucks Corporation 2016 Form 10-K 41

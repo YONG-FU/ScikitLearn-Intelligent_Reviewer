@@ -1,0 +1,40 @@
+Bloxx
+On October 30, 2015, the Company acquired Bloxx Limited ("Bloxx"), a provider of Secure Web Gateway technology, for
+$18.7 million in cash. The acquisition is expected to provide the Company with technology to complement its cloud security
+strategy for protecting businesses against Internet vulnerabilities. The Company allocated $17.7 million of the cost of the
+acquisition to goodwill and $3.9 million to the acquired intangible assets. The allocation of the purchase price was finalized in
+the second quarter of 2016. The total weighted average useful life of the intangible assets acquired from Bloxx is 7.2 years. The
+value of the goodwill from the acquisition can be attributed to a number of business factors including a trained technical
+workforce and cost synergies expected to be realized. The total amount of goodwill related to the acquisition of Bloxx expected
+to be deducted for tax purposes is $17.7 million.
+2014 Acquisitions
+Prolexic Acquisition
+On February 18, 2014, the Company acquired all of the outstanding capital stock of Prolexic Technologies, Inc.
+("Prolexic") in exchange for $392.1 million in cash and the assumption of unvested stock options. The goal of acquiring
+Prolexic was to provide the Company's customers with a comprehensive portfolio of security solutions designed to defend an
+enterprise’s web and IP infrastructure against application—layer, network-layer and data center attacks delivered via the Internet.
+The consolidated financial statements include the operating results of Prolexic from the date of acquisition.
+The purchase price allocation was finalized in the fourth quarter of 2014. The Company recorded an increase of $2.2
+million to goodwill upon the finalization of measurement period adjustments related to certain tax-related assets and liabilities
+in the fourth quarter of 20 14.
+The following table presents the final allocation of the purchase price for Prolexic (in thousands):
+:Total purchase consideration $ 392,104
+:Allocation of the purchase consideration:
+Cash 33 33,072
+I Accounts receivable 11,208 I
+Property and equipment 12,225
+I Identifiable intangible assets 87,040 I
+Goodwill 293,926
+I Deferred tax assets 16,340 I
+Other current and long-term assets 7 5,664 7
+I Total assets acquired 7 459,475 I
+Other current liabilities (5,940)
+I Current deferred revenue (5 ,8 12)
+Deferred tax liabilities (36,203)
+I Debt, capital leases and other long-term liabilities (19,416)
+Total liabilities assumed 7 (67,371)
+I Net assets acquired $ 392,104
+The value of the goodwill can be attributed to a number of business factors, including a trained technical and sales
+workforce and the fair value of cost synergies expected to be realized. The total amount of goodwill related to the acquisition
+of Prolexic expected to be deducted for tax purposes is $62.4 million.
+68

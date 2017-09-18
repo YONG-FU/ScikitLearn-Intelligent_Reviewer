@@ -1,0 +1,45 @@
+sale transactions entered into on an arms-length basis known to us. If such references were not available, the
+valuations of our ordinary shares were determined in accordance with the guidelines outlined in the American
+Institute of Certified Public Accountants’ Practice Aid, Valuation of Privately—Held Company Equity Securities
+Issued as Compensation, and with the assistance of an independent appraisal firm from time to time. The
+assumptions we use in the valuation model are based on future expectations combined with management judgment,
+with inputs of numerous objective and subjective factors such as our operating and financial performance, expected
+growth rates, expected profit margins and the market performance of industry peers, to determine the fair value of
+our ordinary shares.
+In order to determine the fair value of our ordinary shares underlying each share-based award grant, we first
+determined our business enterprise value, or BEV, and then allocated the BEV to each element of our capital
+structure (convertible preference shares and ordinary shares) using a hybrid method comprising the probability-
+weighted expected return method and the option pricing method. In our case, two scenarios were assumed,
+namely: (i) the redemption scenario, in which the option pricing method was adopted to allocate the value between
+convertible preference shares and ordinary shares, and (ii) the mandatory conversion scenario, in which equity
+value was allocated to convertible preference shares and ordinary shares on an as-if converted basis. Increasing
+probability was assigned to the mandatory conversion scenario during fiscal year 2014 and the subsequent periods
+in light of preparations for our initial public offering.
+Before April 2014, our BEV was estimated using a combination of two generally accepted approaches: the
+market approach using the guideline company method, or GCM, and the income approach using the discounted
+cash ﬂow method, or DCF. The market approach considers valuation metrics based on trading multiples of a
+selected industry peer group of companies. The DCF method estimates enterprise value based on the estimated
+present value of future net cash ﬂows that the business is expected to generate over a forecasted period and an
+estimate of the present value of cash ﬂows beyond that period, which is referred to as terminal value. The
+estimated present value is calculated using a discount rate based on the guideline companies’ weighted average
+cost of capital, which accounts for the time value of money and the appropriate degree of risks inherent in the
+business. The GCM and DCF methods are then weighted equally in determining our BEV.
+In addition to the GCM and DCF methods, starting from April 2014, the market transaction method, or
+MT M, was also adopted. MTM considers recent transactions of secondary shares by our existing shareholders,
+which indicate the equity value of the underlying business being evaluated. We assigned a 50% weight to MT M
+and the remaining 50% weight equally to GCM and DCF.
+Subsequent to our initial public offering in September 2014, the market price of our publicly traded ADSs is
+used as an indicator of fair value of our ordinary shares.
+If the fair value of the underlying equity and any of the assumptions used in the Black-Scholes model changes
+significantly, share-based compensation expense for future awards may differ materially compared with the awards
+granted previously.
+Subscription of rights to acquire our restricted Shares
+We offered selected partners of the Alibaba Partnership and they have subscribed for rights to acquire our
+restricted shares. These rights are not subject to any vesting conditions and entitle the holders to purchase
+restricted shares at a price of US$14.50 per share during a four year period. Upon the exercise of such rights, the
+underlying ordinary shares may not be transferred for a period of eight years from the date of subscription of the
+relevant rights. The fair value of the rights was determined by the Black-Scholes option-valuation model. A
+discount for post-vesting sales restriction was applied to arrive at the estimated value of the restricted shares for
+the determination of the fair value of the rights. Share-based compensation expense equivalent to the entire fair
+value of these rights less the initial subscription price was recorded in the period of subscription.
+143

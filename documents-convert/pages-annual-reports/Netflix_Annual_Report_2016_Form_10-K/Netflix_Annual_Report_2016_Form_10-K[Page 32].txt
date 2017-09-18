@@ -1,0 +1,44 @@
+Table of Contents
+amortization of the content assets on a regular basis. Our estimates related to these factors require considerable management judgment. In the third quarter of 20 16,
+we changed the amortization method of certain content given changes in estimated viewing patterns of this content. The effect of this change in estimate was a
+$19.8 million decrease in operating income and a $12.3 million decrease in net income for the year ended December 31, 2016. The effect on both basic and diluted
+earnings per share was a decrease of $0.03 for the year ended December 31, 2016. Changes in our estimates could have a signiﬁcant impact on our future results of
+operations.
+Our business model is subscription based as opposed to a model generating revenues at a speciﬁc title level. Therefore, content assets, both licensed and
+produced, are reviewed in aggregate at the operating segment level when an event or change in circumstances indicates a change in the expected usefulness or that
+the fair value may be less than amortized cost. To date, we have not identiﬁed any such event or changes in circumstances. If such changes are identified in the
+future, these aggregated content assets will be stated at the lower of unamortized cost, net realizable value or fair value. In addition, unamortized costs for assets
+that have been, or are expected to be, abandoned are written off No material write-down from unamortized cost was recorded in any of the periods presented.
+Income Taxes
+We record a provision for income taxes for the anticipated tax consequences of our reported results of operations using the asset and liability method.
+Deferred income taxes are recognized by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying
+amounts of existing assets and liabilities and their respective tax bases as well as net operating loss and tax credit carryforwards. The effect on deferred tax assets
+and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The measurement of deferred tax assets is reduced, if
+necessary, by a valuation allowance for any tax beneﬁts for which future realization is uncertain. There was no signiﬁcant valuation allowance as of December 31,
+2016 or 2015 .
+Although we believe our assumptions, judgments and estimates are reasonable, changes in tax laws or our interpretation of tax laws and the resolution of any
+tax audits could significantly impact the amounts provided for income taxes in our consolidated ﬁnancial statements.
+In evaluating our ability to recover our deferred tax assets, in full or in part, we consider all available positive and negative evidence, including our past
+operating results, and our forecast of future earnings, future taxable income and prudent and feasible tax planning strategies. The assumptions utilized in
+determining future taxable income require signiﬁcant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses.
+Actual operating results in future years could differ from our current assumptions, judgments and estimates. However, we believe that it is more likely than not that
+substantially all deferred tax assets recorded on our Consolidated Balance Sheets will ultimately be realized. In the event we were to determine that we would not
+be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to earnings in the period in which
+we make such determination.
+We did not recognize certain tax beneﬁts from uncertain tax positions within the provision for income taxes. We may recognize a tax benefit only if it is
+more likely than not the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax beneﬁts
+recognized in the financial statements from such positions are then measured based on the largest beneﬁt that has a greater than 50% likelihood of being realized
+upon settlement. At December 31, 2016 , our estimated gross unrecognized tax benefits were $19.7 million of which $17.0 million, if recognized, would favorably
+impact our future earnings. Due to uncertainties in any tax audit outcome, our estimates of the ultimate settlement of our unrecognized tax positions may change
+and the actual tax benefits may differ signiﬁcantly from the estimates. See Note 9 to the consolidated financial statements for further information regarding income
+taxes.
+Stock-Based Compensation
+We grant fully vested non-qualiﬁed stock options to our employees on a monthly basis. As a result of immediate vesting, stock-based compensation expense
+is fully recognized on the grant date, and no estimate is required for post-vesting option forfeitures. Stock-based compensation expense at the grant date is based on
+the total number of options granted and an estimate of the fair value of the awards.
+0 Expected Volatility: The Company calculates expected volatility based solely on implied volatility. We believe that implied volatility of publicly traded
+options in our common stock is more reﬂective of market conditions and, given consistently high trade volumes of the options, can reasonably be
+expected to be a better indicator of expected volatility than historical volatility of our common stock. An increase/decrease of 10% in our computation of
+expected volatility would increase/decrease the total stock-based compensation expense by approximately $14.4 million for the year ended
+December 31, 2016 .
+29

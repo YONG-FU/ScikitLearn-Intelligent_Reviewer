@@ -1,0 +1,50 @@
+If our P4P and other related services are characterized as a form of online advertising which may require an
+ICP license or other licenses, we may have to conduct our P4P business through variable interest entities, which
+are qualified to operate online advertising business and hold ICP or other licenses, and we may face increased
+scrutiny from the tax authorities and may incur additional taxes on any service fees paid by our variable interest
+entities to our wholly-foreign owned enterprises. In addition, advertising services are subject to a cultural
+construction fee under PRC law, which is a 3% surcharge in addition to the applicable value-added tax. If our P4P
+and other related services were to be considered a form of online advertising, our revenue from those services
+would be subject to the 3% surcharge. If that were to occur, our margins would decline and our net income could
+be reduced. In addition, the substantial revenue streams attributable to our P4P services would then be collected
+from variable interest entities and subject to the risks associated with variable interest entities. If the change in
+classification of our P4P and other related services were to be retroactively applied, we might be subject to
+sanctions, including payment of delinquent taxes and late payment interest.
+Moreover, PRC advertising laws, rules and regulations require advertisers, advertising operators and
+advertising distributors to ensure that the content of the advertisements they prepare or distribute is fair and
+accurate and is in full compliance with applicable law. Violation of these laws, rules or regulations may result in
+penalties, including fines, confiscation of advertising fees, orders to cease dissemination of the advertisements and
+orders to publish an advertisement correcting the misleading information. In circumstances involving serious
+violations, the PRC government may revoke a violator’s license for operating an advertising business. In addition,
+the Draft Internet Advertising Measures requires paid-for search results to be obviously distinguished from natural
+search results so that consumers will not misunderstand the nature of such search results. If the Draft Internet
+Advertising Measures are promulgated as proposed, we will be obligated to distinguish from others the merchants
+who purchase P4P and related services or the relevant listings by such merchants. Complying with such
+requirements, including any penalties or fines for any failure to comply, may significantly reduce the attractiveness
+of our platforms and increase our costs and could have a material adverse effect on our business, financial
+condition and results of operations.
+In addition, for advertising content related to specific types of products and services, advertisers, advertising
+operators and advertising distributors must confirm that the advertisers have obtained requisite government
+approvals, including the advertiser’s operating qualifications, proof of quality inspection of the advertised products,
+government pre-approval of the contents of the advertisement and filing with the local authorities. If we become
+subject to PRC advertising laws, we would need to take steps to monitor, and to ensure that our third-party
+marketing affiliates monitor, the content of any advertisements displayed on our platforms. This could require
+considerable resources and time, and could significantly affect the operation of our business, while also subjecting
+us to increased liability under the relevant laws, rules and regulations. The costs associated with complying with
+such laws, rules and regulations, including any penalties or fines for our failure to so comply if required, could
+have a material adverse effect on our business, financial condition and results of operations. Any change in the
+classification of our P4P and other related services by the PRC government may also significantly disrupt our
+operations and materially and adversely affect our business and prospects.
+We may be treated as a resident enterprise for PRC tax purposes under the PRC Enterprise Income Tax Law, and we may
+therefore be subject to PRC income tax on our global income.
+Under the PRC Enterprise Income Tax Law and its implementing rules, both of which came into effect on
+January 1, 2008, enterprises established under the laws of jurisdictions outside of China with “de facto
+management bodies” located in China may be considered PRC tax resident enterprises for tax purposes and may
+be subject to the PRC enterprise income tax at the rate of 25% on their global income. “De facto management
+body” refers to a managing body that exercises substantive and overall management and control over the
+production and business, personnel, accounting books and assets of an enterprise. The State Administration of
+Taxation issued the Notice Regarding the Determination of Chinese-Controlled Offshore-Incorporated Enterprises
+as PRC Tax Resident Enterprises on the Basis of De Facto Management Bodies, or Circular 82, on April 22, 2009.
+Circular 82 provides certain specific criteria for determining whether the “de facto management body” of a
+Chinese-controlled offshore-incorporated enterprise is located in China. Although Circular 82 only applies to
+45

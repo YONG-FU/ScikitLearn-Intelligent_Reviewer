@@ -1,0 +1,40 @@
+The following were the identified intangible assets acquired and their respective weighted average useful lives (in
+thousands, except for years):
+_ Weighted
+Gross Carrylng Average Useful
+I : Amount : : Life (in years) :
+Completed technologies 55 26,800 6.9 I
+Customer-related intangible assets 58,500 10.4
+Non-compete agreements 940 3.0 I
+Trademark 7 800 7 4.9
+Total $ 87,040 _
+The total weighted average amortization period for the intangible assets acquired from Prolexic is 9.2 years. The intangible
+assets are being amortized based upon the pattern in which the economic benefits of the intangible assets are being utilized.
+9. Accrued Expenses and Other Liabilities
+Accrued expenses consisted of the following as of December 31, 2016 and 2015 (in thousands):
+December 31, December 31,
+_ : 20 l 6 : : 2015 :
+I Payroll and other related benefits 55 111,421 $ 108,230 I
+Bandwidth and co-location 61,084 48,228
+Property, use and other taxes 52,959 47,364 I
+Professional service fees 4,277 4,636
+Other accrued expenses 7 9,036 7 7 7,708 7
+Total $ 238,777 $ 216,166
+Other liabilities consisted of the following as of December 31, 2016 and 2015 (in thousands):
+December 31, December 31,
+_ : 2016 : : 2015 :
+Deferred rent 55 29,668 $ 32,876 I
+Uncertain tax positions 73,231 53,641
+Other long-term liabilities 7 15,792 7 7 6,751 7
+Total $ 118,691 $ 93,268
+10. Convertible Senior Notes
+In February 2014, the Company issued $690.0 million in par value of convertible senior notes due 2019 (the "Notes"). The
+Notes are senior unsecured obligations of the Company, do not bear regular interest and mature on February 15, 2019, unless
+repurchased or converted prior to maturity.
+At their option, holders may convert their Notes prior to the close of business on the business day immediately preceding
+August 15, 2018 only under the following circumstances:
+- during any calendar quarter commencing after the calendar quarter ended June 30, 2014 (and only during such
+calendar quarter), if the last reported sale price of the Company's common stock for at least 20 trading days (whether
+or not consecutive) during the period of 30 consecutive trading days ending on the last trading day of the immediately
+preceding calendar quarter is greater than or equal to 130% of the conversion price on each applicable trading day; or
+69

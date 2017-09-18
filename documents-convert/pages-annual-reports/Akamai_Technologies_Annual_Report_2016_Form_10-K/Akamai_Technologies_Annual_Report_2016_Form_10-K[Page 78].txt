@@ -1,0 +1,45 @@
+Stock Options
+The following table summarizes stock option activity during the year ended December 31, 2016:
+Weighted
+Average
+Remaining
+Weighted Contractual Aggregate
+Shares Average Term Intrinsic Value
+(in thousands) Exercise Price (in years) (in thousands)
+Outstanding at January 1, 2016 1,524 $ 32.39
+Exercised (643) 28.17
+Forfeited (7) 29.69
+Outstanding at December 31, 2016 874 7$ 35.51 2.36 7$ 27,261
+Exercisable at December 31, 2016 7 829 7 7$ 35.58 7 7 2.24 7 7$ 25,781 7
+Vested or expected to vest December 31, 2016 870 $ 35.52 2.35 $ 27,123
+The total pre-tax intrinsic value of options exercised during the years ended December 31, 2016, 2015 and 2014 was $18.3
+million, $53.6 million and $45.8 million, respectively. The total fair value of options vested for the years ended December 31,
+2016, 2015 and 2014 was $6.5 million, $10.3 million and $16.9 million, respectively.
+The aggregate intrinsic value in the preceding table represents the total pre-tax intrinsic value, based on the Company’s
+closing stock price of $66.68 on December 31, 2016, that would have been received by the option holders had all option
+holders exercised their “in-the-money” options as of that date. The total number of shares issuable upon the exercise of “in-the-
+money” options exercisable as of December 31, 2016 was 0.8 million.
+Deferred Stock Units
+The Company has granted deferred stock units ("DSUS") to non-employee members of its Board of Directors. Each DSU
+represents the right to receive one share of the Company’s common stock upon vesting. The holder may elect to defer receipt of
+the vested shares of stock represented by the DSU for a period of at least one year but not more than ten years from the grant
+date. For those granted prior to 2014, DSUS vested 50% upon the first anniversary of the grant date, with the remaining 50%
+vesting in equal installments of 12.5% each quarter thereafter such that all DSUS vested in full at the end of two years from
+date of grant. Beginning in 2014, DSUs vest 100% on the first anniversary of the grant date. If a director has completed one
+year of Board service, vesting of 100% of the DSUs held by such director will accelerate at the time of his or her departure
+from the Board.
+The following table summarizes the DSU activity for the year ended December 31, 2016:
+Weighted
+Units Average Grant
+7 (in thousands) 7 7Date Fair Value
+Outstanding at January 1, 2016 146 $ 45.42
+Granted 46 50.72
+Vested and distributed (28) 57.24
+Outstanding at December 31, 2016 7 164 7 7$ 44.90 7
+The total pre-tax intrinsic value of DSUS that were vested and distributed during the years ended December 31, 2016, 2015
+and 2014 was $1.4 million, $10.7 million and $1.4 million, respectively. The total fair value of DSUs that were vested and
+distributed during the years ended December 31, 2016, 2015 and 2014 was $1.6 million, $4.9 million and $0.8 million,
+respectively. The grant-date fair value is calculated based upon the Company’s closing stock price on the date of grant. As of
+December 31, 2016, 46,000 DSUS were unvested, with an aggregate intrinsic value of approximately $3.1 million and a
+weighted average remaining contractual life of approximately 0.4 years. These units are expected to vest in May 2017.
+76

@@ -1,0 +1,46 @@
+The following is a rollforward of the Company’s unrecognized tax benefits for the years ended December 31, 2016, 2015
+and 2014 (in thousands):
+2016 2015 2014
+Balance at beginning of year $ 65,290 $ 33,320 $ 24,651
+I Gross increases ; tax positions of prior periods 6,391 11,238 12,925 I
+Gross increases ; current-period tax positions 6,252 27,043 2,106 I
+Gross decreases r 7 tax positions of prior periods (6,778) (5,996) (6,362)-
+I Gross decreases * 7 settlements (2,038) (315) ; I
+Balance at end ofyear $ 69,117 $ 65,290 $ 33,320
+As of December 31, 2016, 2015 and 2014, the Company had approximately $77.1 million, $72.3 million and $41.1
+million, respectively, of total unrecognized tax benefits, including $13.7 million, $10.0 million, and $7.7 million of accrued
+interest and penalties as of December 31, 2016, 2015 and 2014, respectively. Interest and penalties related to unrecognized tax
+benefits are recorded in the provision for income taxes and were $3.9 million, $2.2 million and $1.8 million for the years ended
+December 31, 2016, 2015 and 2014, respectively. If recognized, the aggregate amount of unrecognized tax benefits would have
+resulted in a reduction of income tax expense, impacting the effective income tax rate.
+As of December 31, 2016, the Company believes it is reasonably possible that $15.8 million of its unrecognized tax
+benefits may be recognized by the end of 20 17 as a result of the expiration of local statutes of limitations. Certain state and
+foreign income tax returns from 2011 through 2014 are currently under audit in those jurisdictions, including an audit in the
+Commonwealth of Massachusetts. The Company has reserved for those positions that are not more likely than not of being
+sustained.
+Generally, in the US. federal and state taxing jurisdictions, tax periods in which certain loss and credit carryovers are
+generated remain open for audit until such time as the limitation period ends for the year in which such losses or credits are
+utilized. In major foreign jurisdictions, tax years after 2012 are open for examination.
+17. Net Income per Share
+Basic net income per share is computed using the weighted average number of common shares outstanding during the
+applicable period. Diluted net income per share is computed using the weighted average number of common shares outstanding
+during the period, plus the dilutive effect of potential common stock. Potential common stock consists of shares issuable
+pursuant to stock options, RSUS, DSUS, convertible senior notes and warrants issued by the Company. The dilutive effect of
+outstanding awards and convertible securities is reﬂected in diluted earnings per share by application of the treasury stock
+method.
+The following table sets forth the components used in the computation of basic and diluted net income per share for the
+years ended December 31, 2016, 2015 and 2014 (in thousands, except per share data):
+2016 2015 2014
+Numerator: : : : : : :
+' Net income 8 316,132 $ 321,406 $ 333,948 '
+I Denominator: I
+I Shares used for basic net income per share 174,917 178,391 178,279 I
+Effect of dilutive securities: I
+' Stock options 384 794 1,221 '
+' RSUs and DSUs 914 1,230 1,686 '
+I Convertible senior notes 7 r ; ; I
+I Warrants related to issuance of convertible senior notes 7 r r r ; I
+I Shares used for diluted net income per share 176,215 180,415 181,186
+I Basic net income per share 27$ 1.81 27$ 1.80 i$ 1.87
+I Diluted net income per share $ 1.79 $ 1.78 $ 1.84 I
+80

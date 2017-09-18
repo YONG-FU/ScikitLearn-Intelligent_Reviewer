@@ -1,0 +1,51 @@
+a master distribution agreement), one of which was individually responsible for over 10% of our total net revenues in fiscal
+year 2014.
+We are not obligated to accept product returns from our distributors under any conditions, unless the product item is
+defective in manufacture. See “Management's Discussion and Analysis of Financial Condition and Results of Operations-
+Critical Accounting Policies and Estimates” and Note 2 to our consolidated financial statements included in this Annual Report
+on Form 10-K for the year ended December 31, 2016 for information regarding our revenue recognition policy.
+International revenues (sales outside the United States) accounted for approximately 40.7% of our net revenues for the
+year ended December 31, 2016, 43.1% of our net revenues for the year ended December 31, 2015 and 45.2% of our net
+revenues for the year ended December 31, 2014. For detailed information on our international revenues, please refer to Note 11
+to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2016.
+Segment Revenue
+Our revenues are derived from our Enterprise and Service Provider products, which primarily include Workspace
+Services solutions, Delivery Networking products, Cloud Services solutions, and related license updates and maintenance,
+support and professional services and from the GoTo Business segment's Communications Cloud and Workﬂow Cloud
+products. The Enterprise and Service Provider and the GoTo Business segment constitute our two reportable segments. On
+January 31, 2017, we completed the divestiture of the GoTo Business of our wholly-owned subsidiary, GetGo. As such, we are
+currently evaluating our segment reporting for 2017 as a result of these changes. See Note 11 to our consolidated financial
+statements included in this Annual Report on Form 10-K for the year ended December 31, 2016.
+Operations
+For our Delivery Networking products, which include NetScaler ADC, we use independent contractors to provide a
+redundant source of manufacture and assembly capabilities. Independent contractors provide us with the ﬂexibility needed to
+meet our product quality and delivery requirements. We have manufacturing relationships that we enter into in the ordinary
+course of business, primarily with Flextronics under which we have subcontracted the majority of our hardware manufacturing
+activity, generally on a purchase order basis. These third-party contract manufacturers also provide final test, warehousing and
+shipping services. This subcontracting activity extends from prototypes to full production and includes activities such as
+material procurement, final assembly, test, control, shipment to our customers and repairs. Together with our contract
+manufacturers, we design, specify and monitor the tests that are required to meet internal and external quality standards. Our
+contract manufacturers manufacture our products based on forecasted demand for our products. Each of the contract
+manufacturers procures components necessary to assemble the products in our forecast and test the products according to our
+specifications. We are dual-sourced on our components, however, in some instances, those sources may be located in the same
+geographic area. Accordingly, if a natural disaster occurred in one of those areas, we may need to seek additional sources.
+Products are then shipped to our distributors, VARs or end-users. If the products go unsold for specified periods of time, we
+may incur carrying charges or obsolete material charges for products ordered to meet our forecast or customer orders. In 2016,
+we did not experience any material diﬁiculties or significant delays in the manufacture and assembly of our products.
+We control all purchasing, inventory, scheduling, order processing and accounting functions related to our operations. For
+our software products, production, warehousing and shipping are performed by our independent contractors HPE, Ireland and
+Digital River. Master software, development of user manuals, packaging designs, initial product quality control and testing are
+primarily performed at our facilities. In some cases, independent contractors also duplicate master software, print
+documentation and package and assemble products to our specifications.
+While it is generally our practice to promptly ship product upon receipt of properly finalized purchase orders, we
+sometimes have orders that have not shipped upon receipt of a purchase order. Although the amount of such product license
+orders may vary, the amount, if any, of such orders at the end of a fiscal year is not material to our business. We do not believe
+that backlog, as of any particular date, is a reliable indicator of future performance.
+We believe that our fourth quarter revenues and expenses are affected by a number of seasonal factors, including the lapse
+of many corporations' fiscal year budgets and an increase in amounts paid pursuant to our sales compensation plans due to
+compensation plan accelerators that are often triggered in the fourth quarter. We believe that these seasonal factors are common
+within our industry. Such factors historically have resulted in first quarter revenues in any year being lower than the
+immediately preceding fourth quarter. We expect this trend to continue through the first quarter of 2017. In addition, our
+European operations generally generate lower revenues in the summer months because of the generally reduced economic
+activity in Europe during the summer. This seasonal factor also typically results in higher fourth quarter revenues.
+1 0

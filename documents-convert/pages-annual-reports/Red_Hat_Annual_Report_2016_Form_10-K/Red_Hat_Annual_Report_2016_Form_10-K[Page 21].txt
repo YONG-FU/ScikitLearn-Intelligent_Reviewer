@@ -1,0 +1,38 @@
+Red Hat also seeks patent protection of some of the innovative ideas of our software developers and other
+employees. Some of these inventions are applicable to our current technologies, while others provide protection
+to new and other technologies. Moreover, our principal objectives in seeking patent protection are to provide a
+measure of deterrence against the potential patent infringement claims of third parties and to a more limited
+extent to help ensure that new technologies and innovations covered by our patents remain open. As part of Red
+Hat’s commitment to the open source community, we provide our Patent Promise, an undertaking, subject to
+certain limitations, not to enforce our patent rights against users of open source software covered by certain open
+source licenses. This permits the development and distribution of open source applications by third parties that
+could otherwise infringe on our patents. For these reasons, it is unlikely that our patents will, of themselves,
+provide us substantial revenue.
+Third parties have, in the past, asserted and, in the future, may assert, infringement claims against us which
+may result in costly litigation or require us to obtain a license to third-party intellectual property rights. See Part
+I, Item 3, “Legal Proceedings”. There can be no assurance that such licenses will be available on reasonable
+terms or at all, which could have a material adverse effect on our business, operating results and financial
+condition. Red Hat regularly commits to its subscription customers that if portions of our offerings are found to
+infringe third-party intellectual property rights we will, at our expense and option: (i) obtain the right for the
+customer to continue to use the technology consistent with their subscription agreement with us; (ii) modify the
+technology so that its use is non-infringing; or (iii) replace the infringing component with a non-infringing
+component, and defend them against specified infringement claims. Although we cannot predict whether we will
+need to satisfy these commitments and we often have limitations on these commitments, satisfying these
+commitments could be costly, be time-consuming, divert the attention of technical and management personnel,
+and adversely affect our business, financial condition, operating results and cash flows.
+We also generally enter into confidentiality and nondisclosure agreements with our employees and
+consultants and seek to control access to and distribution of our confidential documentation and other proprietary
+information.
+EMPLOYEES
+As of February 29, 2016, Red Hat had approximately 8,800 employees.
+AVAILABLE INFORMATION
+We maintain a website at www.redhat.com. We make available, free of charge on our website, our Annual
+Report on Form lO-K, Quarterly Reports on Form lO-Q, Current Reports on Form 8-K, and amendments to those
+reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended
+(the “Securities Exchange Act”), as soon as reasonably practicable after we electronically file those reports with,
+or furnish them to, the SEC. We also similarly make available, free of charge on our website, the reports filed
+with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the
+Securities Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by
+those persons. We are not including the information contained at www.redhat.com, or at any other Internet
+address, as part of, or incorporating it by reference into, this Annual Report on Form 10-K.
+17

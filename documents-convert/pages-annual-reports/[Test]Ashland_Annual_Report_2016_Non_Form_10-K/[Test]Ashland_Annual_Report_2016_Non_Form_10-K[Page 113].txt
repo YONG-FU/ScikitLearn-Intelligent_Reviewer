@@ -1,0 +1,45 @@
+NOTE G — FAIR VALUE MEASUREMENTS (continued)
+Other ﬁnancial instruments
+At September 30, 2016 and 2015, Ashland’s long-term debt (including current portion and excluding debt issuance cost
+discounts) had a carrying value of $3,103 million and $3,431 million, respectively, compared to a fair value of $3,336 million and
+$3,484 million, respectively. The fair values of long-term debt are based on quoted market prices or, if market prices are not
+available, the present values of the underlying cash ﬂows discounted at Ashland’s incremental borrowing rates, which are deemed
+to be Level 2 measurements within the fair value hierarchy.
+NOTE H — PROPERTY, PLANT AND EQUIPMENT
+The following table describes the various components of property, plant and equipment within the Consolidated Balance
+Sheets.
+(In millions) 2016 2015
+Land $ 226 $ 202
+Buildings 744 710
+Machinery and equipment 3,024 2,957
+Construction in progress 7 3497 7 275 7
+Total property, plant and equipment (gross) 4,343 4,144
+Accumulated depreciation (a) 7 (2,1 19) 7 (1,962)
+Total property, plant and equipment (net) $ 2,224 $ 2,182
+(a) As of September 30, 2016, accumulated depreciation included impairment charges to buildings and machinery and equipment of $1 million and $9 million:
+respectively, related to Intermediates/S olvents. See Note I for more information.
+The following table summarizes various property, plant and equipment charges included within the Statements of Consolidated
+Comprehensive Income.
+(In millions) 2016 2015 2014
+Depreciation $ 260 $ 263 $ 304
+Capitalized interest 1 2 1
+During 2016 and 2015, depreciation included $4 million and $6 million, respectively, of accelerated depreciation related to
+the restructuring plan of an existing manufacturing facility within the Specialty Ingredients reportable segment. These charges
+were recorded within the cost of sales caption of the Statements of Consolidated Comprehensive Income. Additionally, during
+2016, depreciation included $2 million of accelerated depreciation within Unallocated and other and was recorded within the
+selling, general and administrative expense caption of the Statements of Consolidated Comprehensive Income. During 2014,
+depreciation included $36 million of accelerated depreciation and asset impairment, including a $19 million impairment charge
+related to the impairment of a product line within the Specialty Ingredients reportable segment. This charge was recorded within
+the cost of sales caption of the Statements of Consolidated Comprehensive Income. The remaining $17 million relates to accelerated
+depreciation associated with plant closures within the Performance Materials reportable segment.
+NOTE I — GOODWILL AND OTHER INTANGIBLES
+Goodwill
+Ashland reviews goodwill and indefinite-lived intangible assets for impairment annually or when events and circumstances
+indicate an impairment may have occurred. This annual assessment is performed as of July 1 and consists of Ashland determining
+each reporting unit’s current fair value compared to its current carrying value. Ashland determined that its reporting units for the
+allocation of goodwill include the Specialty Ingredients reportable segment, the Composites and Intermediates/ Solvents reporting
+units within the Performance Materials reportable segment, and the Core North America, Quick Lubes and International reporting
+units within the Valvoline reportable segment.
+In the first step of the impairment model, Ashland compares the carrying value of each reporting unit to its respective estimated
+fair value. Ashland makes various estimates and assumptions in determining the estimated fair values of those units through the
+F -26

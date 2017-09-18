@@ -1,0 +1,39 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+other-than-temporarily impaired. The realized gains and losses on investments during the years ended December 31, 2016 , 2015 and 2014 were not significant.
+Unrealized losses on cash equivalents and available-for-sale investments as of December 31, 2016 and 2015 , which have been in a net loss position for less
+than twelve months, were classiﬁed by sector as follows (table in millions):
+December 31, 2016 December 31, 2015
+Fair Value Unrealized Losses Fair Value Unrealized Losses
+IUS. Government and agency obligations $ 608 $ (3) $ 657 $ (3) ‘
+US. and foreign corporate debt securities 2,595 (18) 2,564 (11)
+lMortgage-backed securities 164 _ (2) _ 171 _ (1) l
+Total $ 3,367 $ (23) $ 3,392 $ (15)
+As of December 31, 2016 and 2015 , unrealized losses on cash equivalents and available-for-sale investments in the other investment categories, which have
+been in a net loss position for less than twelve months, were not signiﬁcant. Unrealized losses on cash equivalents and available-for-sale investments, which have
+been in a net loss position for twelve months or greater, were not signiﬁcant as of December 31, 2016 and 2015 .
+Contractual M aturities
+The contractual maturities of short-term investments held at December 31, 2016 consisted of the following (table in millions):
+Amortized Aggregate
+Cost Basis Fair Value
+[Due within one year $ 1,570 $ 1,570 1
+Due after 1 year through 5 years 3,171 3,153
+lDue after 5 years through 10 years 113 112 ‘
+Due after 10 years 362 360
+I Total short-term investments $ 5,216 $ 5,195 l
+G. Fair Value Measurements
+Assets and Liabilities Measured and Recorded at Fair Value on a Recurring Basis
+Certain financial assets and liabilities are measured at fair value on a recurring basis. VMware determines fair value using the following hierarchy:
+0 Level 1 - Quoted prices in active markets for identical assets or liabilities
+0 Level 2 - Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in
+markets that are noted active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the
+assets or liabilities
+0 Level 3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities
+VMware’s ﬁxed income securities are primarily classiﬁed as Level 2, with the exception of some of the US. Government and agency obligations which are
+classified as Level 1. Additionally, VMware’s Level 2 classiﬁcation includes forward contracts and notes payable to Dell. At December 31, 2016 and 2015 ,
+VMware’s Level 2 securities were generally priced using non-binding market consensus prices that are corroborated by observable market data, quoted market
+prices for similar instruments, or pricing models such as discounted cash ﬂow techniques.
+VMware did not have any significant assets or liabilities that fell into Level 3 of the fair value hierarchy as of December 31, 2016 and 2015 , and there have
+been no transfers between fair value measurement levels during the years ended December 31, 2016 and 2015 .
+74

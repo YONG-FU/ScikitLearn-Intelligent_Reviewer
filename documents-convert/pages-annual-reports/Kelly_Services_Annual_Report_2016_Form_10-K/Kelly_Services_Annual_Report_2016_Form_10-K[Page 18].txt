@@ -1,0 +1,48 @@
+Cyber attacks or other breaches of network or information technology security could have an adverse effect on our
+systems, services, reputation and ﬁnancial results.
+We rely upon multiple information technology systems and networks, some of which are web-based or managed by third
+parties, to process, transmit and store electronic information and to manage or support a variety of critical business processes
+and activities. Our networks and applications are increasingly accessed from locations and by devices not within our physical
+control, and the speciﬁcs of our technology systems and networks may vary by geographic region. In the course of ordinary
+business, we may store or process proprietary or conﬁdential information concerning our business and ﬁnancial performance
+and current, past or prospective employees, customers, vendors and managed suppliers. The secure and consistent operation of
+these systems, networks and processes is critical to our business operations. Moreover, our temporary employees may be
+exposed to, or have access to, similar information in the course of their customer assignments. We routinely experience cyber
+attacks, which may include the use of malware, computer Viruses, social engineering schemes and other means of attempted
+disruption or unauthorized access.
+The actions we take to reduce the risk of impairments to our operations or systems and breaches of conﬁdential or proprietary
+data may not be sufﬁcient to prevent or repel future cyber events or other impairments of our networks or information
+technologies. An event involving the destruction, modiﬁcation, accidental or unauthorized release, or theft of sensitive
+information from systems related to our business, or an attack that results in damage to or unavailability of our key technology
+systems or those of critical vendors, could result in damage to our reputation, ﬁnes, regulatory sanctions or interventions,
+contractual or ﬁnancial liabilities, additional compliance and remediation costs, loss of employees or customers, loss of
+payment card network privileges, operational disruptions and other forms of costs, losses or reimbursements, any of which
+could materially adversely affect our operations or ﬁnancial condition. Our cyber security and business continuity plans may
+not be effective in anticipating, preventing and effectively responding to all potential cyber risk exposures. Our insurance
+coverage may not be sufﬁcient to cover all such costs or consequences, and there can be no assurance that any insurance that
+we now maintain will remain available under acceptable terms.
+Damage to our key data centers could affect our ability to sustain critical business applications.
+Many business processes critical to our continued operation are housed in our data center situated within the corporate
+headquarters complex as well as regional data centers in Asia-Paciﬁc and Europe. Those processes include, but are not limited
+to, payroll, customer reporting and order management. While we have taken steps to protect these operations and have
+developed remote recovery capabilities, the loss of a data center would create a substantial risk of business interruption which
+could have a material adverse effect on our business, ﬁnancial condition and results of operations.
+Our information technology projects may not yield their intended results.
+We have a number of information technology projects in process or in the planning stages, including improvements to applicant
+onboarding and tracking systems, order management, and improvements to ﬁnancial processes such as billing and accounts
+payable through system consolidation and upgrades. Although the technology is intended to increase productivity and
+operating efﬁciencies, these projects may not yield their intended results. Any delays in completing, or an inability to
+successfully complete, these technology initiatives or an inability to achieve the anticipated efﬁciencies could adversely affect
+our operations, liquidity and ﬁnancial condition. In addition, our information technology investments and strategy may not
+provide the ability to keep up with evolving industry trends and customer expectations which could weaken our competitive
+position. We also do not currently utilize a single enterprise resource planning system, which limits our ability and increases
+the amount of investment and effort necessary to provide global service integration to our customers.
+Failure to maintain adequate ﬁnancial and management processes and controls could lead to errors in our ﬁnancial
+reporting.
+Failure to maintain adequate ﬁnancial and management processes and controls could lead to errors in our ﬁnancial reporting. If
+our management is unable to certify the effectiveness of our internal controls or if our independent registered public accounting
+ﬁrm cannot render an opinion on the effectiveness of our internal controls over ﬁnancial reporting, or if material weaknesses in
+our internal controls are identiﬁed, we could be subject to regulatory scrutiny and a loss of public conﬁdence. In addition, if
+we do not maintain adequate ﬁnancial and management personnel, processes and controls, we may not be able to accurately
+report our ﬁnancial performance on a timely basis, which could have a negative effect on our stock price.
+1 1

@@ -1,0 +1,47 @@
+10.32(BB)@ Form of Restricted Stock Unit Agreement for use under the 2013 Stock Incentive Plan (time vesting)
+10.33(BB)@ Form of Restricted Stock Unit Agreement for use under the 2013 Stock Incentive Plan (performance
+vesting)
+10.34(BB)@ Form of Stock Option Agreement for use under the 2013 Stock Incentive Plan
+10.35(BB) Form of Deferred Stock Unit Agreement for use under the 2013 Stock Incentive Plan
+10.36(CC)@ Form of Performance-Based Vesting Restricted Stock Unit Agreement with Retirement Provision
+10.37(D) Form of Call Option Confirmation between Akamai and each Option Counterparty
+10.38(D) Form of Warrant Confirmation between Akamai and each Option Counterparty
+10.39(U)@ Form of Restricted Stock Unit Agreement for use under the 2013 Stock Incentive Plan (performance vesting
+2015)
+10.40(DD)@ Akamai Technologies, Inc. US. Non-Qualified Deferred Compensation Plan
+10.41(EE)@ Separation and Release Agreement dated February 9, 2016 between the Registrant and Robert W. Hughes
+21.1 Subsidiaries of the Registrant
+23.1 Consent of Independent Registered Public Accounting Firm
+31.1 Certification of Chief Executive Officer pursuant to Rule 13a— 14(a)/Rule 15d-14(a) of the Securities
+Exchange Act of 1934, as amended
+31.2 Certification of Chief Financial Officer pursuant to Rule 13a- 14(a)/Rule 15d-14(a) of the Securities
+Exchange Act of 1934, as amended
+32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002
+32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002
+101.INS XBRL Instance Document
+101.SCH XBRL Taxonomy Extension Schema Document
+101.CAL XBRL Taxonomy Calculation Linkbase Document
+101.DEF XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB XBRL Taxonomy Label Linkbase Document
+101.PRE XBRL Taxonomy Presentation Linkbase Document
+(A) Incorporated by reference to the Registrant’s Quarterly Report on Form 10-Q (File No. 000-27275, 701319) filed with
+the Commission on August 14, 2000.
+(B) Incorporated by reference to the Registrant's Current Report on Form 8—K (File No. 000-27275, 141172551) filed with
+the Commission on October 24, 2014.
+(C) Incorporated by reference to the Registrant’s Registration Statement on Form 8-1, as amended, filed with the
+Commission on October 13, 1999.
+(D) Incorporated by reference to the Registrant's Current Report on Form 8—K (File No. 000-27275, 14629736) filed with
+the Commission on February 20, 2014.
+(E) Incorporated by reference to the Registrant’s Annual Report on Form 10-K (File No. 000-27275, 4660513) filed with
+the Commission on March 3, 2014.
+(F) Incorporated by reference to the Registrant’s Quarterly Report on Form 10-Q (File No. 000-27275, 04961682) filed
+with the Commission on August 9, 2004.
+(G) Incorporated by reference to the Registrant’s Annual Report on Form 10-K (File No. 000-27275, 06691330) filed with
+the Commission on March 16, 2006.
+(H) Incorporated by reference to the Registrant’s Quarterly Report on Form 10-Q (File No. 000-27275, 08823347) filed
+with the Commission on May 12, 2008.
+(I) Incorporated by reference to the Registrant’s Annual Report on Form 10-K (File No. 000-27275, 02560808) filed with
+the Commission on February 27, 2002.
+87

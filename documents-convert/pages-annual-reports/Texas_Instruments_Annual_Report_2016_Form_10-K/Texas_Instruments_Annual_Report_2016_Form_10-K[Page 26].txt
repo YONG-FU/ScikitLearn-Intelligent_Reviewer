@@ -1,0 +1,47 @@
+Revenue recognition
+We recognize revenue from sales of our products, including sales to our distributors, when title and risk of loss pass, which usually
+occurs upon shipment or delivery to the customer or distributor, depending upon the terms of the sales order; when persuasive
+evidence of an arrangement exists; when sales amounts are fixed or determinable; and when collectability is reasonably assured.
+For sales to distributors, payment is due on our standard commercial terms and is not contingent upon resale of the products.
+Revenue from sales of our products that are subject to inventory consignment agreements, including consignment arrangements
+with distributors, is recognized in accordance with the principles discussed above. Delivery occurs when the customer or
+distributor pulls product from consignment inventory that we store at designated locations.
+.ﬂ
+0
+Q We recognize revenue net of allowances, which are management’s estimates of future credits to be granted to customers or
+‘ distributors under programs common in the semiconductor industry. These allowances, which are not material, generally include
+9 volume-based incentives, product returns due to quality issues, incentives designed to maximize growth opportunities and special
+5‘ pricing arrangements. Allowances are based on analysis of historical data, current economic conditions and contractual terms
+and are recorded when revenue is recognized. We believe we can reasonably and reliably estimate allowances for credits to
+distributors in a timely manner.
+In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of
+accounts receivable primarily through review of the accounts receivable aging. When collection is at risk, we assess the impact
+on amounts recorded for bad debts and, if necessary, will record a charge in the period such determination is made.
+We recognize in revenue shipping fees, if any, received from customers. We include shipping and handling costs in cost of
+revenue. The majority of our customers pay these fees directly to third parties.
+Income taxes
+In determining Net income for financial statement purposes, we must make certain estimates and judgments in the calculation of
+tax provisions and the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences
+between the tax and financial statement recognition of revenue and expense.
+In the ordinary course of global business, there may be many transactions and calculations where the ultimate tax outcome is
+uncertain. The calculation of tax liabilities involves dealing with uncertainties in the application of complex tax laws. We recognize
+potential liabilities for anticipated tax audit issues in the U.S. and other taxjurisdictions based on an estimate of the ultimate
+resolution of whether, and the extent to which, additional taxes will be due. Although we believe the estimates are reasonable, no
+assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income
+tax provisions and accruals.
+As part of our financial process, we must assess the likelihood that our deferred tax assets can be recovered. lf recovery is not
+likely, the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax
+assets that are estimated not to be ultimately recoverable. In this process, certain relevant criteria are evaluated, including the
+existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior years that can be
+used to absorb net operating losses and credit carrybacks, and taxable income in future years. Our judgment regarding future
+recoverability of our deferred tax assets based on these criteria may change due to various factors, including changes in US. or
+international tax laws and changes in market conditions and their impact on our assessment of taxable income in future periods.
+These changes, if any, may require material adjustments to the deferred tax assets and an accompanying reduction or increase in
+Net income in the period when such determinations are made. Also, our plans for the permanent reinvestment or eventual
+repatriation of the accumulated earnings of certain of our non-U.S. operations could change. Such changes could have a material
+effect on tax expense in future years.
+In addition to the factors described above, the estimated annual tax rate, which excludes discrete items, reflected in forward-
+looking statements is based on then-current tax law. Significant changes in tax law enacted during the year could affect
+these estimates. Retroactive changes in tax law enacted subsequent to the end of a reporting period are reflected in the period
+of enactment.
+22 TEXAS INSTRUMENTS - 2016 FORM 10-K

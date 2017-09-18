@@ -1,0 +1,46 @@
+Yearended
+March31,
+2014 2015 2016
+% % %
+(as percentage of
+revenue)
+Revenue
+Chinacommerce........................................ 86 82 83
+Internationalcommerce................................... 9 9 8
+Cloudcomputing........................................ 2 2 3
+3 7 6
+100 100 100
+Costofrevenue.......................................... (25) (31) (34)
+Productdevelopmentexpenses................................ (10) (14) (14)
+Salesandmarketingexpenses................................. (9) (11) (11)
+General and administrative expenses . . . . . . . . . . . . . . . . . . . . . . . . . . .. (8) (10) (9)
+Amortizationofintangibleassets............................... (1) (3) (3)
+Impairmentofgoodwill..................................... — (1) —
+Incomefromoperations..................................... 47 30 29
+Interestandinvestmentincome,net 3 13 52
+Interestexpense.......................................... (4) (4) (2)
+Otherincome,net........................................ 5 3 2
+Income before income tax and share of results of equity investees . . . . . . . . 51 42 81
+Incometaxexpenses....................................... (6) (8) (8)
+Shareofresultsofequityinvestees — (2) (2)
+Netincome............................................. 45 32 71
+Net income attributable to noncontrolling interests (1) — —
+Net income attributable to Alibaba Group Holding Limited 44 32 71
+Accretion of convertible preference shares — — —
+Dividends accrued on convertible preference shares. . . . . . . . . . . . . . . . .. — — —
+Net income attributable to ordinary shareholders 44 32 71
+Comparison of Fiscal Years 2015 and 2016
+Revenue
+Year ended March 31,
+2015 2016
+RMB RMB US$ %Change
+(in millions, except percentages)
+Chinacommerce............................ 62,937 84,321 13,077 34%
+International commerce . . . . . . . . . . . . . . . . . . . . . .. 6,486 7,629 1,183 18%
+Cloudcomputing........................... 1,271 3,019 468 138%
+5,510 6,174 958 12%
+Totalrevenue..............................76,204101,143 15,686 33%
+Total revenue increased by 33%, from RMB76,204 million in fiscal year 2015 to RMB101,143 million
+(US$15,686 million) in fiscal year 2016. The increase was mainly driven by the continued rapid growth of our
+China commerce retail business.
+125

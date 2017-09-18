@@ -1,0 +1,23 @@
+“ Base Rate Advance ” means a Pro Rata Advance that bears interest as provided in Section 2.04(a)(i).
+“ Board,” means the Board of Governors of the Federal Reserve System of the United States (or any successor).
+“ Borrower Agent” means agents of Mondeléz acting in capacity with, or beneﬁtting from, this Agreement or the proceeds of any Advance.
+“ Borrowers,” means, collectively, Mondeléz and each Designated Subsidiary that shall become a party to this Agreement pursuant to Section 9.08.
+“ Borrowing” means a Pro Rata Borrowing or a Competitive Bid Borrowing.
+“ Business Day: means a day of the year on which banks are not required or authorized by law to close in New York City and, if the applicable
+Business Day relates to any LIBO Rate Advances or Floating Rate Bid Advances, on which dealings are carried on in the London interbank market and banks are
+open for business in London.
+“ Commission ” means the United States Securities and Exchange Commission.
+“ Commitment,” means as to any Lender (i) the Dollar amount set forth opposite such Lender’s name on Schedule I hereto, (ii) if such Lender has
+entered into an Assignment and Acceptance, the Dollar amount set forth for such Lender in the Register maintained by the Administrative Agent, pursuant to
+Section 9.07(d), or (iii) if such Lender becomes a Lender pursuant to a Commitment Increase Amendment, the Dollar amount set forth for such Lender in such
+Commitment Increase Amendment, in each case as such amount may be increased pursuant to Section 2.18 or reduced pursuant to Section 2.10.
+“ Commitment Increase ” has the meaning assigned to such term in Section 2.18(a).
+“ CommitmenLIncreaseAmendment,” has the meaning assigned to such term in Section 2.18(a).
+“ Competitive Bid Advance ” means an advance by a Lender to any Borrower as part of a Competitive Bid Borrowing resulting from the competitive
+bidding procedure described in Section 2.07 and refers to a Fixed Rate Bid Advance or a Floating Rate Bid Advance.
+“ Competitive Bid Borrowin g” means a borrowing consisting of simultaneous Competitive Bid Advances from each of the Lenders whose offer to
+make one or more Competitive Bid Advances as part of such borrowing has been accepted under the competitive bidding procedure described in Section 2.07.
+“ CornpetitiyeiBidjiote," means a promissory note of any Borrower payable to any Lender (or its registered assigns), in substantially the form of
+Exhibit A-2 hereto, evidencing the indebtedness of such Borrower to such Lender resulting from a Competitive Bid Advance made by such Lender to such
+Borrower.
+-4-

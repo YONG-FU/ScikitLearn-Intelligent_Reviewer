@@ -1,0 +1,43 @@
+DEFINED TERMS
+Ad 1 Page
+Affected Security 1 Interest Payment Date 4
+Affiliate 1 Issue Date 4
+Authenticating Agent 1 Judgment Date 4
+Board of Directors 2 LIBOR 4
+Board Resolution 2 LIBOR Currency 4
+Business Day 2 LIBOR Security 4
+Capital Stock 2 London Business Day 4
+Certificate of a Firm of Independent Public Accountants 2 Luxembourg StOCk EXChange 4
+Clearstream 2 Market Exchange Rate 4
+Code 2 Maturity 5
+Commission 2 Notice of Default 5
+Company 1, 2 Ofﬁcers’ Certificate 5
+Company Order 2 OID Security 5
+Company Request 2 Opinion of Counsel 5
+Component Currency 2 Outstanding 5
+Consolidated Capitalization 2 Paying Agent 5
+Consolidated Net Tangible Assets 3 Person 5
+Conversion Event 3 Place of Payment 5
+Corporate Trust Office 3 Predecessor Security 6
+corporation 3 Principal Facility 6
+Currency Determination Agent 3 PrinCipal Financial Center 6
+Defaulted Interest 3 Redemption Date 6
+Depositary 3 Redemption Price 6
+Determination Notice 3 Registered Security 6
+Dollars 3 Regular Record Date 6
+Election Date 3 Responsible Ofﬁcer 6
+Euro 3 Securities 1, 6
+Euroclear 3 Security Register 6
+Event of Default 3 Security Registrar 6
+Exchange Date 3 series 6
+Foreign Currency 3 Special Record Date 6
+Global Exchange Agent 3 Stated Maturity 6
+Global Securities 3 Subsidiary 6
+Government Obligations 3 SUbStitute Date 6
+Holder 4 Trust Indenture Act 6
+Indenture 4 Trustee 1a 7
+Indexed Security 4 United States 7
+interest 4 United States Alien 7
+Western Europe 7
+Yield to Maturity 7
+vii

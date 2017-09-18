@@ -1,0 +1,40 @@
+For example, Sony adds their proprietary "4K HDR Processor X1 TM" to their latest TV sets and Samsung adds their "mDNIeTM" video processors to their
+mobile phones.
+Content formats are evolving to take advantage of these display improvements. For example, Dolby introduced the “Dolby VisionTM” format for movies and
+devices, in order to allow consumers to realize the beneﬁts of high dynamic range and wide gamut. The industry standards body Society of Motion Picture &
+Television Engineers, released a format speciﬁcation known as "HDR10" that similarly bridges the gap in contrast and color between content and devices.
+The Ultra-HD Blu—ray disk format and streaming services such as Netﬂix and Amazon Video now support 4k HDR, aided by improved compression standards
+such as H.265.
+Managing many content formats across a rapidly evolving range of displays is a signiﬁcant and growing challenge. Older content tends not to get upgraded
+to the newer formats, yet consumers expect all content to display correctly. As the number of content formats grows, the technology of video processing
+becomes increasingly complex.
+Bridging the gap in color, contrast and resolution, while delivering the intent of the content creator, requires sophisticated algorithms and hardware circuits.
+However, frame-rate and motion incompatibilities require a signiﬁcantly higher level of processing and more sophisticated algorithms in order to avoid
+creating new problems. Most TVs today include frame-rate conversion chips, but many reviewers complain about artifacts such as halos, breakup in the image
+and the so—called "soap opera effect". Unfortunately, without frame-rate conversion the video can appear to have judder and blur at levels that have increased
+substantially as a result of the improvements in contrast, color and detail.
+In addition to judder, high—resolution displays suffer from softness and smearing in motion sequences called motion blur. There are numerous causes of
+motion blur. The materials used in constructing pixels on the display take a ﬁnite amount of time to transition from one state to another. If this time is too
+long, the image does not update swiftly and motion sequences seem to smear or blur. For example, Hollywood movies, TV shows and other premium content
+are usually authored at 24 frames per second or 24Hz. At this frame rate, the brain can easily notice the transition from one frame to the next. As the brain and
+eyes track objects in motion, they have to jump in discrete steps due to the low frame rate. This stop-start motion is perceived by the brain as motion blur,
+reducing the visible clarity and ﬁdelity of obj ects in motion. Additionally, when a motion sequence is played on a digital display device, the new updated
+frame is drawn over the top of the still visible previous frame. This "hold" effect is perceived by the brain as blur.
+Judder and motion blur artifacts are more noticeable on high contrast, wider gamut displays, regardless of screen size (for example, a 5-inch smartphone
+screen viewed from ten inches away appears to be the same size as a 60-inch large screen TV viewed from ten feet away). Pixelworks' advanced video display
+processing provides original equipment manufacturers ("OEMS") with solutions that avoid or minimize these artifacts and help realize the potential of their
+investment in high-resolution displays. We believe the most effective method for removing both judder and reducing blur is motion estimation/motion
+compensation ("MEMC") technology. This technology is based on complex mathematical algorithms that insert additional, interpolated frames to create a
+new, faster sequence of frames that has smooth, continuous motion. This technique works for virtually all types of panel technology.
+Video Consumption Trend
+With the advent of digital video, it has become possible to deliver video to consumers in an ever increasing number of ways. Traditional delivery
+mechanisms such as over the air broadcasts, cable, satellite, DVDs and Blu-ray are being supplemented with Internet streaming and download services. With
+these new video delivery options comes the ability to offer more services and improved quality.
+According to recent studies by Cisco, Video will constitute 82% of all global consumer Internet trafﬁc by 2020 and global IP Video trafﬁc will grow threefold
+and Internet video trafﬁc will grow fourfold from 2015 to 2020. To put this into perspective, it would take one person over 5 million years to watch the total
+amount of video crossing global Internet networks each month in 2020. This rapid increase in video consumption is being driven by a variety of connected
+digital video devices and applications that allow consumers to easily create, share and consume Video. In particular, mobile video consumption is rapidly
+expanding. The "always on" and ease of use of mobile devices are helping to make them the preferred choice as the "ﬁrst screen" for many consumers.
+As more content becomes increasingly available via the Internet, consumers have more choices for how and Where they can enjoy content. According to
+DisplaySearch the number of TVs, tablets, smartphones and UltrabookTM devices being sold is expected to increase beyond 2.3 billion devices by 2018.
+5

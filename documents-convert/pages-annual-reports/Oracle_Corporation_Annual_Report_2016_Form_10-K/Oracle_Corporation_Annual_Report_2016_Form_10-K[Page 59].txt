@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+Excluding the effects of unfavorable foreign currency rate ﬂuctuations, our total operating margin and total operating margin as a percentage of revenues decreased
+in ﬁscal 2016 as our total expenses increased at a faster rate than our total revenues.
+Fiscal 2015 Compared to Fiscal 2014: Our results of operations for fiscal 2015 compared to ﬁscal 2014 were significantly impacted by movements in
+international currencies relative to the US. Dollar, which decreased our total revenues by 4 percentage points, total operating expenses by 3 percentage points and
+total operating income by 6 percentage points.
+Excluding the effects of unfavorable currency variations, our total revenues increased in fiscal 2015 due to revenue increases in our cloud and on-premise software
+and hardware businesses. The constant currency growth in our cloud and on-premise software revenues was attributable to similar reasons as noted above. The
+constant currency growth in our hardware business was attributable to growth in our hardware support revenues, which were primarily attributable to revenue
+contributions from our acquisitions. Excluding the effects of currency rate ﬂuctuations, the Americas region contributed 69%, the EMEA region contributed 28%
+and the Asia Paciﬁc region contributed 3% to the growth in our total revenues during ﬁscal 2015.
+Excluding the effects of favorable currency variations, our total operating expenses increased during fiscal 2015 due to expense increases across all of our lines of
+business, the largest of which were due to increased sales and marketing and research and development expenses resulting primarily from increased headcount,
+increased cloud SaaS and PaaS expenses to support the increase in our cloud SaaS and PaaS revenues, and increased acquisition related and other expenses that was
+primarily attributable to the goodwill impairment charge as noted above.
+Excluding the effects of unfavorable foreign currency rate ﬂuctuations, our ﬁscal 2015 operating margin was ﬂat in comparison to the prior year, while our
+Operating margin as a percentage of revenues decreased in ﬁscal 2015 as our total operating expenses increased at a faster rate than our total revenues.
+Supplemental Disclosure Related to Certain Charges
+To supplement our consolidated ﬁnancial information, we believe the following information is helpful to an overall understanding of our past ﬁnancial
+performance and prospects for the future. You should review the introduction under “Impact of Acquisitions” (above) for a discussion of the inherent limitations in
+comparing pre- and post-acquisition information.
+Our operating results included the following business combination accounting adjustments and expenses related to acquisitions, as well as certain other expense
+and income items:
+Year Ended Mayﬂ,
+(in millions) 2016 2015 2014
+Cloud software as a service and platform as a service deferred revenues (1) $ 7 $ 12 $ 17)
+Software license updates and product support deferred revenues (1) 2 11 3
+Hardware support deferred revenues (1) 1 4 11 l
+Amortization of intangible assets (2) 1,638 2,149 2,300
+{Acquisition related and other (3X5) 42 211 41 ‘
+Restructuring (4) 458 207 183
+Stock-based compensation (5) 1,034 928 795 1
+Income tax effects (6) (846) (971) (1,091)
+1 $ 2,336) $ 2,551, $ 2,259]
+(1) In connection with our acquisitions, we have estimated the fair values of the cloud SaaS and PaaS subscriptions, software support and hardware support obligations assumed. Due to our application of
+business combination accounting rules, we did not recognize the cloud SaaS and PaaS, software license updates and product support and hardware support revenue amounts as presented in the above table
+that would have otherwise been recorded by the acquired businesses as independent entities upon delivery of the contractual obligations. To the extent customers to which these contractual obligations pertain
+renew these contracts with us, we expect to recognize revenues for the full contracts’ values over the respective contracts’ renewal periods.
+57

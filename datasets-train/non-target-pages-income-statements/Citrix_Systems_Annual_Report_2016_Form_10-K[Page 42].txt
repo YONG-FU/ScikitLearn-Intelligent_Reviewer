@@ -1,0 +1,48 @@
+Results of Operations
+The following table sets forth our consolidated statements of income data and presentation of that data as a percentage of
+change from year-to-year (in thousands other than percentages):
+Year Ended December 31,
+: : 2016 2015
+Compared to Compared to
+2016 2015 2014 2015 2014
+Revenues:
+Pteduet and licenses $ 883,329 $ 875,807 $ 899,736 0.9% (2.7)%
+Software as a service 816,436 731,292 651,562 11.6 12.2
+License updates and maintenance 1,587,271 1,521,007 1,416,017 4.4 7.4
+Professional services 131,229 147,488 175,541 (11.0) (16.0)
+Total net revenues : 3,418,265 : : 3,275,594 : : 3,142,856 : 4.4 4.2
+Cost of net revenues: : : : : : :
+Cost of product and license revenues 121,391 1189265 12491 10 26 (4.7)
+Cost of services and maintenance revenues 377,731 364,916 349,683 35 4.4
+Amortization of product related intangible assets 59,291 74,912 93,431 (209) (19, 8)
+Impairment of product related intangible assets 1,128 56,271 52,995 (980) 62
+Total cost ofnet revenues : 559,541 : : 614,364 : : 620,219 : (8.9) (0.9)
+Gross margin : 2,858,724 : : 2,661,230 : : 2,522,637 : 7.4 5.5
+Operating expenses:
+Reseafeh and deVelOPment 489,265 563,975 553,817 (13.2) 1.8
+Sales» marketing and SeI'VieeS 1,185,814 1,195,362 1,280,265 (0.8) (6.6)
+General and administrative 377,568 336,313 319,922 12.3 5.1
+Amortization of other intangible assets 29,173 41,595 39,577 (299) 5.1
+Impairment of other intangible assets in 7 67,137 6,321 (100.0) 962.1
+Restructuring 71,122 100,41 1 20,424 (29.2) 391.6
+Separation 56,624 6,352 e 7 791.4 *
+Total operating expenses : 2,209,566 : : 2,311,145 : : 2,220,326 : (4.4) 4.1
+Income from operations : 649,158 : : 350,085 : : 302,311 : 85.4 15.8
+Interest income 16,686 1 1,675 9,421 42.9 23.9
+Interest expense 44,949 44,153 28,332 1.8 55.8
+Other expense, net (4,131) (5,730) (7,694) (27.9) (25.5)
+Income before income taxes 616,764 311,877 275,706 97.8 13.1
+Income tax expense (benefit) : 80,652 i : (7,484) : 23,983 : 1,177.7 (131.2)
+Net income 8 536,112 8 319,361 $ 251,723 67.9 26.9
+:* not meaningful :
+Revenues by Segment
+Net revenues of our Enterprise and Service Provider segment include Product and licenses, License updates and
+maintenance, Professional services and SaaS revenues related to our Cloud Services products. Product and licenses primarily
+represent fees related to the licensing of the following major products:
+° Workspace Services is primarily comprised of XenDesktop, XenApp, XenMobile and Workspace Suite; and
+0 Delivery Networking primarily includes NetScaler ADC and NetScaler SD—WAN.
+In addition, we offer incentive programs to our VADs and VARs to stimulate demand for our products. Product and
+license revenues associated with these programs are partially offset by these incentives to our VADs and VARs. Our CSP
+program provides subscription-based services in which the CSP partners host software services to their end users. The fees
+from the CSP program are recognized based on usage and as the CSP services are provided to their end users.
+38

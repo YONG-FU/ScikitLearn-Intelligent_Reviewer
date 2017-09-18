@@ -1,0 +1,43 @@
+Our engineering and manufacturing efforts have been performed with a longer-term goal of building a foundation for further
+development. For instance, we have designed our battery pack to permit ﬂexibility with respect to battery cell chemistry and form
+factor. In so doing, we can leverage the substantial investments and advancements being made globally by battery cell manufacturers
+to continue to improve cost. We maintain extensive testing and R&D capabilities at the individual cell level, the full battery-pack level,
+and other critical battery pack systems. As a result, we have built an expansive body of knowledge on lithium-ion cell vendors,
+chemistry types, and performance characteristics. We believe that the ﬂexibility of our designs, combined with our research and real-
+world performance data, will enable us to continue to evaluate new battery cells as they become commercially viable, and thereby
+optimize battery pack system performance and cost for our current and future vehicles.
+Power Electronics
+The power electronics in our electric vehicle powertrain govern the ﬂow of high voltage electrical current throughout the vehicle.
+The power electronics have two primary functions, powering our electric motor to generate torque while driving and delivering energy
+into the battery pack while charging.
+The first function is accomplished through the drive inverter, which converts direct current (DC) from the battery pack into
+alternating current (AC) to drive our induction motors. The drive inverter also provides “regenerative braking” functionality, which
+captures energy from the wheels to charge the battery pack. Tesla has developed a family of drive inverter designs that are customized
+to our proprietary motor designs to most efficiently meet the demands of each of our vehicles. The primary technological advantages
+to our designs include the ability to drive large amounts of current in a small physical package.
+The second function, charging the battery pack, is accomplished by the charger, which converts alternating current (usually from
+a wall outlet or other electricity source) into direct current that can be accepted by the battery. Tesla vehicles can recharge on a wide
+variety of electricity sources due to the design of this charger, from a common household outlet to high power circuits meant for more
+industrial uses. Tesla vehicles come with a Universal Mobile Connector that allows for multiple different charging services to be used.
+We also offer a Tesla Wall Connector that can be set up to provide higher power charging than the Universal Mobile Connectors.
+On the road, customers can also charge using our Supercharger network or at a variety of destinations that have deployed our
+charging equipment. In addition, our vehicles can charge at a variety of public charging stations around the world, either natively or
+through a suite of adapters. This ﬂexibility in charging provides customers with additional mobility, while also allowing them to
+conveniently charge the vehicle overnight at home.
+Dual Motor Powertrain
+In October 2014, we launched the initial version of our dual motor powertrain, which uses two electric motors to provide greater
+efficiency, performance, and range in an all-wheel drive configuration. Conventional all-wheel drive vehicles distribute power to the
+wheels ﬁom a single engine driving a complex mechanical transmission system. By contrast, Tesla’s dual motor powertrain digitally
+and independently controls torque to the front and rear wheels. The almost instantaneous response of the motors, combined with low
+centers of gravity, provides drivers with controlled performance and increased traction control.
+Vehicle Control and Infotainment Software
+The performance and safety systems of our vehicles and their battery packs require sophisticated control software. There are
+numerous processors in our vehicles to control these functions, and we write custom firmware for many of these processors. The ﬂow
+of electricity between the battery pack and the motor must be tightly controlled in order to deliver the performance and behavior
+expected in an automobile. For example, software algorithms enable the vehicle to mimic the “creep” feeling which drivers expect
+from an internal combustion engine vehicle without having to apply pressure on the accelerator. Similar algorithms control traction,
+vehicle stability and the sustained acceleration and regenerative braking of the vehicle. Software also is used extensively to monitor
+the charge state of each of the cells of the battery pack and to manage all of its safety systems. Drivers use the information and control
+systems in our vehicles to optimize performance, customize vehicle behavior, manage charging modes and times and control all
+infotainment functions. We develop almost all of this software, including most of the user interfaces, internally.
+4

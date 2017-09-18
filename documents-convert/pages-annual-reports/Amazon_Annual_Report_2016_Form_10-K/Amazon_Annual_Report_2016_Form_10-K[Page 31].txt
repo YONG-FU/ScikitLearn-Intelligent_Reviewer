@@ -1,0 +1,38 @@
+Table of Contents
+Free Cash Flow Less Finance Lease Principal Repayments and Assets Acquired Under Capital Leases
+Free cash ﬂow less ﬁnance lease principal repayments and assets acquired under capital leases is free cash ﬂow reduced by “Principal repayments of
+ﬁnance lease obligations,” which are included in cash ﬂow from ﬁnancing activities, and property and equipment acquired under capital leases. In this
+measure, property and equipment acquired under capital leases is reﬂected as if these assets had been purchased with cash, which is not the case as these
+assets have been leased. The following is a reconciliation of free cash ﬂow less ﬁnance lease principal repayments and assets acquired under capital leases to
+the most comparable GAAP cash ﬂow measure, “Net cash provided by (used in) operating activities,” for 2014, 2015, and 2016 (in millions):
+Year Ended December 31,
+2014 2015 2016
+Net cash provided by (used in) operating activities $ 6,842 $ 11,920 $ 16,443 l
+Purchases of property and equipment, including intemal—use software and website development,
+net (4,893) (4,589) (6,737)
+lProperty and equ_ipment acquired under capital leases (4,008) (4,717) (5,704) l
+Principal repayments of ﬁnance lease obligations (13 5) (121) (147)
+’Free cash ﬂow less ﬁnance lease principal repayments and assets acquired under capital leases $ (2,194) $ 2,493 $ 3,855 l
+Net cash provided by (used in) investing activities $ (5,065) $ (6,450) $ (9,876) l
+Net cash provided by (used in) ﬁnancing activities $ 4,432 $ (3,763) $ (2,911)
+All of these free cash ﬂows measures have limitations as they omit certain components of the overall cash ﬂow statement and do not represent the
+residual cash ﬂow available for discretionary expenditures. For example, these measures of free cash ﬂows do not incorporate the portion of payments
+representing principal reductions of debt or cash payments for business acquisitions. Additionally, our mix of property and equipment acquisitions with cash
+or other ﬁnancing options may change over time. Therefore, we believe it is important to view free cash ﬂows measures only as a complement to our entire
+consolidated statements of cash ﬂows.
+Eﬂect of Foreign Exchange Rates
+Information regarding the effect of foreign exchange rates, versus the US. Dollar, on our net sales, operating expenses, and operating income is
+provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the comparable prior year periods.
+The effect on our net sales, operating expenses, and operating income is as follows (in millions):
+Year Ended December 31, 2014 Year Ended December 31, 2015 Year Ended December 31, 2016
+Exchange At Prior Exchange At Prior Exchange At Prior
+As Rate Year As Rate Year As Rate Year
+Reported _ Effect (1) _ Rates (2) _ Reported _ Effect (1) _ Rates (2) _ Reported Effect (1) _ Rates (2)
+Net sales $ 88,988 $ 636 $ 89,624 $ 107,006 $ 5,167 $ 112,173 $ 135,987 $ 550 $ 136,537 ‘
+Operating expenses 88,810 656 89,466 104,773 5,183 109,956 131,801 660 132,461
+'Qperating income (loss) 178 (20) 158 2,233 (16) 2,217 4,186 (110) 4,076 l
+TEKQEE—tisﬁiﬁ—Eiease or decrease in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior
+year period for operating results.
+(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the comparable
+prior year period for operating results.
+3 1

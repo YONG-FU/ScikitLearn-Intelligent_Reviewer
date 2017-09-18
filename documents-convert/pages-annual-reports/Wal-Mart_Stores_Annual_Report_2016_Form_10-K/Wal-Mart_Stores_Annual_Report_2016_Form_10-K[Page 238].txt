@@ -1,0 +1,38 @@
+Table of Contents
+Note 9. Taxes
+Income from Continuing Operations
+The components of income from continuing operations before income taxes are as follows:
+Fiscal Years Ended January 31,
+(Amounts in millions) 2016 2015 2014
+[us $ 16,685 _ 8 18,610 _ $ 19,412 1
+Non-U.S. 4,953 6,189 5,244
+lTotal income from continuing operations before income taxes 8 21,638 — $ 24,799 — $ 24,656 i
+A summary of the provision for income taxes is as follows:
+Fiscal Years Ended January 31,
+(Amounts in millions) 2016 2015 2014
+lCurrent: — — ‘
+US. federal $ 5,562 $ 6,165 $ 6,377
+’ US. state and local 622 810 719 ‘
+International 1,400 1,529 1,523
+lTotal current tax provision 7,584 — 8,504 — 8,619 ‘
+Deferred: — —
+1 US. federal (704) (387) (72) 1
+US. state and local (106) (55) 37
+’ International (216) (77) (479) ‘
+Total deferred tax expense (beneﬁt) (1,026) — (519) — (514)
+lTotal provision for income taxes 8 6,558 — $ 7,985 — $ 8,105 1
+Effective Income Tax Rate Reconciliation
+The Company's effective income tax rate is typically lower than the US. statutory tax rate primarily because of beneﬁts from lower-taxed global operations,
+including the use of global funding structures and certain US. tax credits as further discussed in the "Cash and Cash Equivalents" section of the Company's
+significant accounting policies in Note 1. The Company's non-US. income is generally subject to local country tax rates that are below the 35% US. statutory tax
+rate. Certain non-US. earnings have been indeﬁnitely reinvested outside the US. and are not subject to current US. income tax. A reconciliation of the significant
+differences between the US. statutory tax rate and the effective income tax rate on pretax income from continuing operations is as follows:
+Fiscal Years Ended January 31,
+2016 2015 2014
+’US. statutory tax rate 35.0 % — 35.0 % — 35.0 %‘
+US. state income taxes, net of federal income tax beneﬁt 1.8 % 1.8 % 2.0 %
+’Income taxed outside the US. (4.0)% (2.7)% (2.8)%‘
+Net impact of repatriated international earnings 0.1 % (1.5)% (1.4)%
+)Other, net (2.6)% (0.4)% 0.1 %\
+Effective income tax rate 30.3 % — 32.2 % — 32.9 %
+45

@@ -1,0 +1,45 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+This Management 19 Discussion and Analysis of Financial Condition and Results of Operations, or MD&A, should be read
+in conjunction with our consolidated ﬁnancial statements and notes thereto that appear elsewhere in this annual report on
+Form 1 0-K. See “Risk Factors ” elsewhere in this annual report on Form 1 0-K for a discussion of certain risks associated with
+our business. T he following discussion contains forward-looking statements. T he forward-looking statements do not include the
+potential impact of any mergers, acquisitions, divestitures or other events that may be announced after the date hereof
+Overview
+We provide cloud services for delivering, optimizing and securing content and business applications over the Internet. The
+key factors that inﬂuence our financial success are our ability to build on recurring revenue commitments for our performance
+and security offerings, increase media traffic on our network, develop new products and carefully manage our capital spending
+and other expenses.
+Revenue
+For most of our solutions, our customers commit to contracts having terms of a year or longer, which allows us to have a
+consistent and predictable base level of revenue. In addition to a base level of revenue, we are also dependent on media
+customers where usage of our services is more variable. As a result, our revenue is impacted by the amount of media and
+software download traffic we serve on our network, the rate of adoption of social media and video platform capabilities, the
+timing and variability of customer-specific one-time events and the impact of seasonal variations on our business. The ability to
+expand our product portfolio and to maintain the prices we charge for our services are also key factors impacting our revenue
+growth.
+We have observed the following trends related to our revenue in recent years:
+0 Increased sales of our security solutions have made a significant contribution to revenue growth, and we expect to
+continue our focus on security solutions in the future.
+° We have experienced increases in the amount of traffic delivered for customers that use our solutions for video,
+gaming, social media and software downloads, contributing to an increase in our revenue. However, from the second
+half of 2015 onward, our traffic growth rates have moderated, primarily due to the “do—it—yourself” efforts by some of
+our customers that are among the large Internet platform companies: Amazon, Apple, Facebook, Google, Microsoft
+and Netflix. We refer to these companies as our Internet Platform Customers. Some of these customers have elected to
+develop and rely on their internal infrastructure to deliver more of their media content themselves rather than use our
+services. As a result, we are likely to continue experiencing lower revenue from these customers. We have not,
+however, been experiencing a significant shift to internal infrastructure usage across the remainder of our media
+services customer base.
+° We have increased committed recurring revenue from our solutions by increasing sales of incremental services to our
+existing customers and adding new customers. These increases helped to limit the impact of reductions in usage of our
+services and contract terminations by certain customers, as well as the effect of price decreases negotiated as part of
+contract renewals.
+- The unit prices paid by some of our customers have declined, reﬂecting the impact of competition. Our revenue would
+have been higher absent these price declines.
+° We have experienced variations in certain types of revenue from quarter to quarter. In particular, we experience higher
+revenue in the fourth quarter of the year for some of our solutions as a result of holiday season activity. We also
+experience lower revenue in the summer months, particularly in Europe, from both e-commerce and media customers
+because overall Internet use declines during that time. In addition, we experience quarterly variations in revenue
+attributable to, among other things, the nature and timing of software and gaming releases by our customers using our
+software download solutions; whether there are large live sporting or other events that increase the amount of media
+traffic on our network; and the frequency and timing of purchases of custom services.
+26

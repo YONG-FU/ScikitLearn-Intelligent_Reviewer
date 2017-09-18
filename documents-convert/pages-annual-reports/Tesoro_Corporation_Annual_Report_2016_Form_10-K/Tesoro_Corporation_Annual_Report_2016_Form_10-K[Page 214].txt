@@ -1,0 +1,38 @@
+(e) If the Trustee, after written request by any Holder who has been a Holder for at least six months, fails to comply with Section 7.10 hereof, such
+Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+(f) A successor Trustee will deliver a written acceptance of its appointment to the retiring Trustee and to the Issuers. Thereupon, the resignation or
+removal of the retiring Trustee will become effective, and the successor Trustee will have all the rights, powers and duties of the Trustee under this Indenture.
+The successor Trustee will mail a notice of its succession to Holders. The retiring Trustee will promptly transfer all property held by it as Trustee to the
+successor Trustee; provided all sums owing to the Trustee hereunder have been paid and subject to the Lien provided for in Section 7.07 hereof.
+Notwithstanding replacement of the Trustee pursuant to this Section 7.08, the Issuers’ obligations under Section 7.07 hereof will continue for the beneﬁt of
+the retiring Trustee.
+Section 7.09 Successor Trustee by Merger, etc.
+Ifthe Trustee consolidates, merges or converts into, or sells or otherwise transfers all or substantially all of its corporate trust business to, another
+corporation, the successor corporation without any further act will be the successor Trustee. As soon as practicable, the successor Trustee shall mail a notice
+of its succession to the Issuers and the Holders of the Notes.
+Section 7.10 Eligibility; Disqualification.
+There will at all times be a Trustee hereunder that is a corporation organized and doing business under the laws of the United States of America or of
+any state thereof that is authorized under such laws to exercise corporate trustee power, that is subject to supervision or examination by federal or state
+authorities and that has a combined capital and surplus of at least $100.0 million as set forth in its most recent published annual report of condition.
+This Indenture will always have a Trustee who satisﬁes the requirements of TIA § 310(a)(1), (2) and (5). The Trustee is subject to TIA § 310(b).
+Section 7.11 Preferential Collection of Claims Against the Issuers.
+The Trustee is subject to TIA § 311(a), excluding any creditor relationship listed in TIA § 311(b). A Trustee who has resigned or been removed shall be
+subject to TIA § 31 1(a) to the extent indicated therein.
+ARTICLE 8
+LEGAL DEFEASANCE AND COVENANT DEFEASANCE
+Section 8.01 Option to Effect Legal Defeasance or Covenant Defeasance.
+The Issuers may at their option and at any time, elect to have either Section 8.02 or 8.03 hereof be applied to all outstanding Notes and all obligations
+of the Guarantors with respect to the Note Guarantees upon compliance with the conditions set forth below in this Articlen8.
+Section 8.02 Legal Defeasance and Discharge.
+Upon the Issuers’ exercise under Section 8.01 hereof of the option applicable to this Section 8.02, the Issuers and each of the Guarantors will, subject to
+the satisfaction of the conditions set forth in Section 8.04 hereof, be deemed to have been discharged from their obligations with respect to all outstanding
+Notes (including the Note Guarantees) and all Events of Default cured on the date the conditions set forth below are satisﬁed (hereinafter, “Le/gm
+Defeasance”). For this purpose, Legal Defeasance means that the Issuers and the Guarantors will be deemed to have paid and discharged the entire
+Indebtedness represented by the outstanding Notes (including the Note Guarantees), which will thereafter be deemed to be “outstanding” only for the
+purposes of ,S,e,c,tion,8,.05, hereof and the other Sections of this Indenture referred to in clauses (1) and (2) below, and to have satisﬁed all their other
+obligations under the Notes, the Note Guarantees and this Indenture (and the Trustee, on demand of and at the expense of the Issuers, shall execute proper
+instruments acknowledging the same) and to have cured all then existing Events of Default, except for the following provisions which will survive until
+otherwise terminated or discharged hereunder:
+(1) the contractual rights of Holders of outstanding Notes to institute suit for the enforcement of any payments in respect of the principal of, or
+interest or premium, if any, on, such Notes when such payments are due from the trust referred to in Section 8.04 hereof;
+-50-

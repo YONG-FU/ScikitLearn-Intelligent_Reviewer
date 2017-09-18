@@ -1,0 +1,57 @@
+Overview Strategic report Governance
+ti—19 | 20—59 | 60-71 [ @023 ] 8 5
+2 ACCOUNTING POLICIES (CONTINUED)
+Deﬁned beneﬁt costs are split into three categories:
+- Current service cost, past service cost and gains and losses on curtailments and settlements;
+- Net interest cost; and
+- Remeasurement.
+The Group presents these deﬁned beneﬁt costs within ‘Employee costs’ in the consolidated income statement (see note 6).
+A separate deﬁned contribution plan is available to new employees of Jaguar Land Rover. Costs in respect of this plan are
+charged to the consolidated income statement as incurred.
+POST-RETIREMENT MEDICARE SCHEME
+Under this unfunded scheme, employees of some subsidiaries receive medical beneﬁts subject to certain limits of
+amount, periods after retirement and types of beneﬁts, depending on their grade and location at the time of retirement.
+Employees separated from the Group as part of an Early Separation Scheme, on medical grounds or due to permanent
+disablement are also covered under the scheme. The applicable subsidiaries account for the liability for the post—retirement
+medical scheme based on an annual actuarial valuation.
+ACTUARIAL GAINS AND LOSSES
+Actuarial gains and losses relating to retirement beneﬁt plans are recognised in other comprehensive income in the year in
+which they arise. Actuarial gains and losses relating to long—term employee beneﬁts are recognised in the consolidated income
+statement in the year in which they arise.
+MEASUREMENT DATE
+The measurement date of all retirement plans is 31 March.
+FINANCIAL INSTRUMENTS
+CLASSIFICATION, INITIAL RECOGNITION AND MEASUREMENT
+A ﬁnancial instrument is any contract that gives rise to a ﬁnancial asset of one entity and a ﬁnancial liability or equity instrument
+of another entity Financial assets are classiﬁed into categories: ﬁnancial assets at fair value through proﬁt or loss (which can either
+be held for trading or designated as fair value options), held—to—maturity investments, loans and receivables and available—for—sale
+ﬁnancial assets. Financial liabilities are classiﬁed into ﬁnancial liabilities at fair value through proﬁt or loss and other ﬁnancial liabilities.
+No ﬁnancial instruments have been designated as fair value through proﬁt or loss using the fair value option or have been classiﬁed
+as held—to—maturity.
+Financial instruments are recognised on the balance sheet when the Group becomes a party to the contractual provisions of
+the instrument.
+Initially, a ﬁnancial instrument is recognised at its fair value. Transaction costs directly attributable to the acquisition or issue of ﬁnancial
+instruments are recognised in determining the carrying amount, if it is not classiﬁed as at fair value through proﬁt or loss. Subsequently,
+ﬁnancial instruments are measured according to the category in which they are classiﬁed.
+Financial assets and ﬁnancial liabilities at fair value through proﬁt or loss — held for trading: Derivatives, including embedded
+derivatives separated from the host contract, are classiﬁed into this category Financial assets and liabilities are measured at fair
+value with changes in fair value recognised in the consolidated income statement with the exception of those derivatives which
+are designated as cash flow hedging instruments and for which hedge accounting is applied.
+Loans and receivables: Loans and receivables are non—derivative ﬁnancial assets with ﬁxed or determinable payments that are
+not quoted in an active market and which are not classiﬁed as ﬁnancial assets at fair value through proﬁt or loss or ﬁnancial assets
+available—for—sale. Subsequently, these are measured at amortised cost using the effective interest method less any impairment
+losses. These include cash and cash equivalents, trade receivables, ﬁnance receivables and other ﬁnancial assets.
+Available-for—sale ﬁnancial assets: Available—for—sale ﬁnancial assets are those non—derivative ﬁnancial assets that are either
+designated as such upon initial recognition or are not classiﬁed in any of the other ﬁnancial assets categories. Subsequently, these
+are measured at fair value and changes therein are recognised in other comprehensive income, net of applicable deferred income
+taxes, and accumulated in the investments revaluation reserve with the exception of impairment losses, interest calculated using the
+effective interest method and foreign exchange gains and losses on monetary assets, which are recognised directly in proﬁt or loss.
+The Group does not hold any available—for—sale ﬁnancial assets.
+Investments in equity instruments that do not have a quoted market price in an active market and whose fair value cannot be reliably
+measured, are measured at cost.
+Embedded derivatives relating to prepayment options on Senior Notes are not considered as closely related and are separately
+accounted unless the exercise price of these options is approximately equal on each exercise date to the amortised cost of the
+Senior Notes.
+EQUITY INSTRUMENTS
+An equity instrument is any contract that evidences residual interests in the assets of the Group after deducting all of its liabilities.
+Equity instruments issued by the Group are recorded at the proceeds received, net of direct issue costs.

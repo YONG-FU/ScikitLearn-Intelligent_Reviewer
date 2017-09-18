@@ -1,0 +1,48 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The gains and losses resulting from changes in the fair value of derivatives are recorded in income. In some cases, the
+Corporation designates derivatives as fair value hedges, in which case the gains and losses are offset in income by the gains and
+losses arising from changes in the fair value of the underlying hedged item.
+Fair Value
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants. Hierarchy Levels 1, 2 and 3 are terms for the priority of inputs to valuation techniques used to measure fair value.
+Hierarchy Level 1 inputs are quoted prices in active markets for identical assets or liabilities. Hierarchy Level 2 inputs are inputs
+other than quoted prices included within Level 1 that are directly or indirectly observable for the asset or liability. Hierarchy
+Level 3 inputs are inputs that are not observable in the market.
+Inventories
+Crude oil, products and merchandise inventories are carried at the lower of current market value or cost (generally determined
+under the last-in, first-out method — LIFO). Inventory costs include expenditures and other charges (including depreciation)
+directly and indirectly incurred in bringing the inventory to its existing condition and location. Selling expenses and general and
+administrative expenses are reported as period costs and excluded from inventory cost. Inventories of materials and supplies are
+valued at cost or less.
+Property, Plant and Equipment
+Cost Basis. The Corporation uses the “successful efforts” method to account for its exploration and production activities. Under
+this method, costs are accumulated on a field-by-field basis. Costs incurred to purchase, lease, or otherwise acquire a property
+(whether unproved or proved) are capitalized when incurred. Exploratory well costs are carried as an asset when the well has
+found a sufficient quantity of reserves to justify its completion as a producing well and where the Corporation is making
+sufficient progress assessing the reserves and the economic and operating viability of the project. Exploratory well costs not
+meeting these criteria are charged to expense. Other exploratory expenditures, including geophysical costs and annual lease
+rentals, are expensed as incurred. Development costs, including costs of productive wells and development dry holes, are
+capitalized.
+Depreciation, Depletion and Amortization. Depreciation, depletion and amortization are primarily determined under either the
+unit-of-production method or the straight-line method, which is based on estimated asset service life taking obsolescence into
+consideration.
+Acquisition costs of proved properties are amortized using a unit-of-production method, computed on the basis of total proved oil
+and gas reserves. Capitalized exploratory drilling and development costs associated with productive depletable extractive
+properties are amortized using the unit-of-production rates based on the amount of proved developed reserves of oil and gas that
+are estimated to be recoverable from existing facilities using current operating methods. Under the unit-of-production method, oil
+and gas volumes are considered produced once they have been measured through meters at custody transfer or sales transaction
+points at the outlet valve on the lease or field storage tank. In the event that the unit-of-production method does not result in an
+equitable allocation of cost over the economic life of an upstream asset, an alternative method is used. The straight-line method is
+used in limited situations where the expected life of the asset does not reasonably correlate with that of the underlying reserves.
+For example, certain assets used in the production of oil and natural gas have a shorter life than the reserves, and as such, the
+Corporation uses straight-line depreciation to ensure the asset is fully depreciated by the end of its useful life.
+Under the SEC definition of proved reserves, certain quantities of oil and natural gas did not qualify as proved reserves at year-
+end 2016, the substantial majority of which relates to the Kearl oil sands operation, where no proved reserves remain. To the
+extent that proved reserves for a property are entirely de—booked and that property continues to produce, assets will be depreciated
+using a unit-of-production method based on reserves determined at the most recent SEC price which results in a quantity of
+proved reserves greater than zero, appropriately adjusted for production and technical changes.
+Investments in refinery, chemical process, and lubes basestock manufacturing equipment are generally depreciated on a
+straight-line basis over a 25-year life. Service station buildings and fixed improvements generally are depreciated over a 20-year
+life. Maintenance and repairs, including planned major maintenance, are expensed as incurred. Maj or renewals and improvements
+are capitalized and the assets replaced are retired.
+71

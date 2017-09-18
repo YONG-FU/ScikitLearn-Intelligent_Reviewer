@@ -1,0 +1,41 @@
+Table of Contents
+Our business incurs signiﬁcant reverse engineering expenditures on products of potential licensees in order to prepare sales and marketing collateral. We employ
+intensive marketing and sales efforts to educate licensees, potential licensees and original equipment manufacturers about the beneﬁts of our technologies. In
+addition, even if these companies adopt our technologies, they must devote signiﬁcant resources to integrate fully our technologies into their operations. If our
+marketing and sales efforts are unsuccessful, then we may not be able to achieve widespread acceptance of our technology. In addition, ongoing litigation could
+impact our ability to gain new licensees which could have an adverse effect on our financial condition, results of operations and cash ﬂows.
+If our licensees delay, refuse to or are unable to make payments to us due to ﬁnancial difﬁculties or otherwise, or shift their licensed products to other
+companies to lower their royalties to us, our operating results and cash ﬂows could be adversely affected.
+A number of companies in the semiconductor and consumer electronics industries face severe ﬁnancial difﬁculties from time to time. As a result, there have been
+recent bankruptcies and restructuring of companies in these industries. Our licensees may face similar financial difﬁculties which may result in their inability to
+make payments to us in a timely manner, or at all. In addition, we have had a history of, and we may in the future experience, customers that delay or refuse to
+make payments owed to us under license agreements. Our licensees may also merge with or may shift the manufacture of licensed products to companies that are
+not currently licensees to us. This could make the collection process complex and difficult which could adversely impact our business, ﬁnancial condition, results
+of operations and cash ﬂows.
+We have in the past recorded, and may in the future record, signiﬁcant valuation allowances on our deferred tax assets, and the recording and release of
+such allowances may have a material impact on our results of operations and cause ﬂuctuations in our stock price.
+During the third quarter of 2015, we released the valuation allowance recorded primarily against Ireland deferred tax assets. We released a majority of our
+valuation allowance against US. federal deferred tax assets during the third quarter of 20 14. The need for a valuation allowance requires an assessment of both
+positive and negative evidence when determining whether it is more likely than not that deferred tax assets are recoverable; such assessment is required on a
+jurisdiction-by-jurisdiction basis. In making such assessment, signiﬁcant weight is given to evidence that can be objectively veriﬁed. After considering both
+negative and positive evidence to assess the recoverability of our net deferred tax assets during the third quarter of 2014, we determined that it was more likely than
+not we would realize our US. federal deferred tax assets. As such, we determined that no valuation allowance is required on the majority of our US. federal
+deferred tax assets. Likewise, during the third quarter of 2015, we determined that it was more likely than not we would realize Ireland deferred tax assets. In the
+future, we may release valuation allowance and recognize deferred state tax assets or deferred tax assets of other foreign subsidiaries depending on achieving
+profitability in relevant jurisdictions. We continue to monitor the likelihood that we will be able to recover our deferred tax assets, including those for which a
+valuation allowance is still recorded. There can be no assurance that the Company will generate proﬁts in future periods enabling it to fully realize its deferred tax.
+The timing of recording a valuation allowance or the reversal of such valuation allowance is subject to objective and subjective factors that cannot be readily
+predicted in advance. Both the establishment of a valuation allowance and the reversal of a previously recorded valuation allowance may have a material impact on
+our quarterly ﬁnancial results, which may lead to ﬂuctuation in the value of our stock.
+Failure by the semiconductor industry to adopt our technology for the next generation high performance DRAM chips would signiﬁcantly harm our
+business.
+To date, our technology has been used by several companies for high performance DRAM chips. For example, packaging using our technology is used for DDR3
+and DDR4 DRAM and we currently have licensees, including SK hynix Inc., Samsung Electronics, Co., Ltd. and Micron Technology, Inc., who are paying
+royalties for DRAM chips in advanced packages.
+DRAM manufacturers are also currently developing next generation high performance DRAM chips to meet increasing speed and performance requirements of
+electronic products. We believe that these next-generation, high performance DRAM chips will require advanced technologies.
+We anticipate that royalties from shipments of these next generation, high performance DRAM chips using our technology may account for a significant
+percentage of our future revenues. If semiconductor manufacturers do not continue to use our technology for the next generation of high performance DRAM chips
+and find viable alternative technologies for use with next generation high performance DRAM chips, or if we do not receive royalties from the next generation,
+high performance DRAM chips that use our technology, our future revenues could be adversely affected.
+14

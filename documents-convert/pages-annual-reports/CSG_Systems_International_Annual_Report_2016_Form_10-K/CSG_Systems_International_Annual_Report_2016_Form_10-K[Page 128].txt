@@ -1,0 +1,55 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+I Description of Item/U nit of Measure I Frequency I Fee I
+I 1. Non-CSG Printed Inserts - machine insertion (per , per I I
+********* )
+I 2.CSG Printed Inserts-machine insertion (per ******,per I I
+I C.Insert Banding (Per I *** I
+**********
+I D. Cancel/Reschedule Letter of Authorization Fee (per ** I *** I
+**********
+I E. Late InsertNotiﬁcation (per*******,per I *** I
+**********
+I F.Late ArrivalofNon—CSGPrinted Inserts (per *******,per I *** I
+**********
+I G.Afﬁdavit (per *******,per *****,per ****** (Note 7)
+I VII.Other print and mail ancillary service fees I I I
+| A.RESERVED | | |
+I B.Print and Mail Support Services I I I
+I 1.Development and Programming (Technical Programming Support) I *** I
+I 2.Marketing/Creative Services & AESP Support Services (per per ****)
+I 3.Statement Design Services (per ******,per
+I C.Other Services I I I
+I 1. Flat File Transfer for Statement Creation off-site (non-AESP format only) I *** I
+I 2. Postal Endorsement — Address Change Service (per *******)
+I 3. NCOA Link Address Change Service for Print Suppressed Subscribers I
+******
+I 4. Mail Tracking, DirectNet View and Daily Scan File I I I
+- Mail Trace Software Development — Analysis, Architecture, Design, ***
+Development, Testing, Certiﬁcation and Deployment
+I ~MailTrace Processing Fee (per I I
+I - Mail Trace Scan Data View in ACSR B (Note 17) I *** I
+° CSG Vantage® Set-Up — Support for Mail Trace Information “,3
+- Feed
+I - Mail Trace — Data File Restoration (Note 15) I *** I
+I - Mail Trace Mailer Identiﬁcation (MID) Fee (Note 16) I I
+I - Automatic Suspension of Delinquency Actions I I I
+-Optional Mail Trace Automated Delinquency Delay Service (per $******
+(Note 18)
+VIILPaper and Envelopes (=*‘.<>l<>l<>l<=i$>l<>l<>l<>l<>l<g ******** ******* and **** ***
+*******)
+I A. 24# Plain White Paper (used for SmartColor Printing) (per ****, per I I
+*********)
+I B. Carrier Envelope_CSG Stock (per ********, per ****** ******* I
+I C. Remittance Envelope — CSG Stock ES-65546 (per per I I
+*********)
+I D. Other Custom Materials (per ****gper I I
+I E. Other Miscellaneous Shippiing Materials (per ****, per
+I F. Paper/Envelope Set-up/Revision (Note 9) I
+I ]X.Postage I I I
+I A. Statements (pel- ********* *******, per ****** *********) I ******* I ****** *******I
+I B. CustomerLetters (otherthan (per per I I
+****** *********) ************* ***>l<
+I C. Customer Letters — standard rate mail (Note 12) (Note 13) I I
+D. Past Due Notices (per notice mailing, per system principle)
+************* ***>l<
+I E. Pre-Sort Mail I I I

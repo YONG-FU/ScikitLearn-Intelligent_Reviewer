@@ -1,0 +1,37 @@
+(b) The Trustee may resign in writing at any time and be discharged from the trust hereby created by so notifying the Issuers. The Holders of at least a
+majority in aggregate principal amount of the then-outstanding Notes may remove the Trustee by so notifying the Trustee and the Issuers in writing. The
+Issuers may remove the Trustee if:
+(1) the Trustee fails to comply with Section 7.10 hereof;
+(2) the Trustee is adjudged a bankrupt or an insolvent or an order for relief is entered with respect to the Trustee under any Bankruptcy Law;
+(3) a custodian or public ofﬁcer takes charge of the Trustee or its property; or
+(4) the Trustee becomes incapable of acting.
+(c) If the Trustee resigns or is removed or if a vacancy exists in the ofﬁce of Trustee for any reason, the Issuers will promptly appoint a successor
+Trustee. Within one year after the successor Trustee takes ofﬁce, the Holders of at least a majority in aggregate principal amount of the then-outstanding
+Notes may appoint a successor Trustee to replace the successor Trustee appointed by the Issuers.
+(d) If a successor Trustee does not take ofﬁce within 60 days after the retiring Trustee resigns or is removed, the retiring Trustee (at the Issuers’ expense),
+the Issuers, or the Holders of at least 10% in aggregate principal amount of the then-outstanding Notes may petition any court of competent jurisdiction for
+the appointment of a successor Trustee.
+(e) If the Trustee, after written request by any Holder who has been a Holder for at least six months, fails to comply with Section 7.10 hereof, such
+Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+(t) A successor Trustee will deliver a written acceptance of its appointment to the retiring Trustee and to the Issuers. Thereupon, the resignation or
+removal of the retiring Trustee will become effective, and the successor Trustee will have all the rights, powers and duties of the Trustee under this Indenture.
+The successor Trustee will mail a notice of its succession to Holders. The retiring Trustee will promptly transfer all property held by it as Trustee to the
+successor Trustee; provided all sums owing to the Trustee hereunder have been paid and subject to the Lien provided for in Section’LDl hereof.
+Notwithstanding replacement of the Trustee pursuant to this ,S,e,c,ti,onl.0,8,, the Issuers’ obligations under SectionJJOJ hereof will continue for the beneﬁt of
+the retiring Trustee.
+Section 7.09 Successor Trustee by Merger, etc.
+Ifthe Trustee consolidates, merges or converts into, or sells or otherwise transfers all or substantially all of its corporate trust business to, another
+corporation, the successor corporation without any further act will be the successor Trustee. As soon as practicable, the successor Trustee shall mail a notice
+of its succession to the Issuers and the Holders of the Notes.
+Section 7.10 Eligibility; Disqualification.
+There will at all times be a Trustee hereunder that is a corporation organized and doing business under the laws of the United States of America or of
+any state thereof that is authorized under such laws to exercise corporate trustee power, that is subject to supervision or examination by federal or state
+authorities and that has a combined capital and surplus of at least $100.0 million as set forth in its most recent published annual report of condition.
+This Indenture will always have a Trustee who satisﬁes the requirements of TIA § 310(a)(1), (2) and (5). The Trustee is subject to TIA § 310(b).
+Section 7.11 Preferential Collection of Claims Against the Issuers.
+The Trustee is subject to TIA § 311(a), excluding any creditor relationship listed in TIA § 311(b). A Trustee who has resigned or been removed shall be
+subject to TIA § 31 1(a) to the extent indicated therein.
+ARTICLE 8
+LEGAL DEFEASANCE AND COVENANT DEFEASANCE
+Section 8.01 Option to Effect Legal Defeasance or Covenant Defeasance.
+-50-

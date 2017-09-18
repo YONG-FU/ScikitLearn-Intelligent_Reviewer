@@ -1,0 +1,44 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE l—BASIS OF PRESENTATION AND ORGANIZATION
+Nature of the business:
+Columbia Sportswear Company is a global leader in the design, sourcing, marketing, and distribution of outdoor and
+active lifestyle apparel, footwear, accessories, and equipment.
+Principles of consolidation:
+The consolidated financial statements include the accounts of Columbia Sportswear Company, its wholly owned
+subsidiaries and entities in which it maintains a controlling financial interest (the "Company"). All intercompany balances
+and transactions have been eliminated in consolidation.
+Estimates and assumptions:
+The preparation of financial statements in conformity with accounting principles generally accepted in the United
+States of America (US. GAAP) requires management to make estimates and assumptions that aﬁect the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements
+and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from these estimates
+and assumptions. Some of these more significant estimates relate to revenue recognition, including sales returns and claims
+from customers, allowance for doubtful accounts, excess, slow-moving and close-out inventories, product warranty, long-
+lived and intangible assets, goodwill, income taxes, and stock-based compensation.
+Changes affecting comparability:
+In March 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU")
+No. 2016-09, Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting, which
+simpliﬁes how several aspects of share-based payments are accounted for and presented in the financial statements. The
+Company elected to early-adopt ASU 2016-09 with an effective date of January 1, 2016. Under previous guidance, excess
+tax benefits and deficiencies from stock-based compensation arrangements were recorded in equity when the awards vested
+or were settled. ASU 20 16-09 requires prospective recognition of excess tax benefits and deficiencies in the income statement,
+resulting in the recognition of excess tax benefits of $5,499,000 in income tax expense, rather than in paid-in capital, for
+the year ended December 3 l, 2016. If we had retrospectively adopted this guidance, we would have recognized excess tax
+benefits of $7,925,000 and $5,119,000 in income tax expense, rather than in paid-in capital, for the years ended December
+3 l, 2015 and 2014, respectively.
+In addition, under ASU 2016-09, excess income tax benefits from stock-based compensation arrangements are
+classified as cash ﬂow from operations, rather than as cash ﬂow from financing activities. The Company has elected to
+apply the cash ﬂow classification guidance of ASU 2016-09 prospectively, resulting in an increase to operating cash ﬂow
+of $5,538,000 for the year ended December 3 l, 2016; the prior years have not been adjusted.
+The Company has elected to continue to estimate the number of stock-based awards expected to vest, as permitted
+by ASU 2016-09, rather than electing to account for forfeitures as they occur.
+ASU 2016-09 requires excess tax benefits and deficiencies to be prospectively excluded from assumed future proceeds
+in the calculation of diluted shares, resulting in an increase in diluted weighted average shares outstanding of 240,0 1 6 shares
+for the year ended December 3 l, 2016.
+NOTE 2—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Cash and cash equivalents:
+Cash and cash equivalents are stated at fair value or at cost, which approximates fair value, and include investments
+with original maturities of 90 days or less at the date of acquisition. At December 3 l, 2016, and 2015 cash and cash equivalents
+consisted of cash, money market funds and time deposits.
+49

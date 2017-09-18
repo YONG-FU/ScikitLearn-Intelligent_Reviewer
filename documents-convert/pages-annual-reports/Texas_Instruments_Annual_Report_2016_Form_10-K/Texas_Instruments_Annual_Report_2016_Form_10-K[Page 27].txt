@@ -1,0 +1,40 @@
+Inventory valuation allowances
+Inventory is valued net of allowances for unsalable or obsolete raw materials, work-in-process and finished goods. Statistical
+allowances are determined quarterly for raw materials and work-in-process based on historical disposals of inventory for salability
+and obsolescence reasons. For finished goods, quarterly statistical allowances are determined by comparing inventory levels of
+individual parts to historical shipments, current backlog and estimated future sales in order to identify inventory judged unlikely to
+be sold. A specific allowance for each material type will be carried it there is a significant event not captured by the statistical
+allowance. Examples are an end-of-life part or demand with imminent risk of cancellation. Allowances are also calculated quarterly
+for instances where inventoried costs for individual products are in excess of market prices for those products. Actual future write-
+offs of inventory for salability and obsolescence reasons may differ from estimates and calculations used to determine valuation
+allowances due to changes in customer demand, customer negotiations, technology shifts and other factors. ’3
+Changes in accounting standards E
+0
+See Note 2 to the financial statements for information on new accounting standards. "'
+Off—balance sheet arrangements
+As of December 31, 2016, we had no significant off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of SEC
+Regulation S—K.
+Commitments and contingencies
+See Note 12 to the financial statements for a discussion of our commitments and contingencies.
+ITEIVI 7A. Quantitative and Qualitative Disclosures About Market Risk.
+Foreign exchange risk ‘
+The U.S. dollar is the functional currency for financial reporting. Our non-U.S. entities own assets or liabilities denominated in U.S.
+dollars or other currencies. Exchange rate fluctuations can have a significant impact on taxable income in those jurisdictions, and
+consequently on our effective tax rate.
+Our balance sheet also reflects amounts remeasured from non-U.S. dollar currencies. Because most of the aggregate non-U.S.
+dollar balance sheet exposure is hedged by fonNard currency exchange contracts, based on year-end 2016 balances and currency
+exchange rates, a hypothetical 10 percent plus or minus fluctuation in non-U.S. currency exchange rates relative to the U.S. dollar
+would result in a pre-tax currency exchange gain or loss of about $1 million.
+We use these forward currency exchange contracts to reduce the earnings impact exchange rate fluctuations may have on our
+non-U.S. dollar net balance sheet exposures. For example, at year-end 2016, we had fonNard currency exchange contracts
+outstanding with a notional value of $494 million to hedge net balance sheet exposures (including $158 million to sell Japanese
+yen and $123 million to sell euros). Similar hedging activities existed at year-end 2015.
+Interest rate risk
+We have the following potential exposure to changes in interest rates: (1) the effect of changes in interest rates on the fair value
+of our investments in cash equivalents and short-term investments, which could produce a gain or a loss; and (2) the effect of
+changes in interest rates on the fair value of our debt.
+As of December 31, 2016, a hypothetical 100 basis point increase in interest rates would decrease the fair value of our
+investments in cash equivalents and short-term investments by $7 million and decrease the fair value of our long-term debt by
+$104 million. Because interest rates on our long-term debt are fixed, changes in interest rates would not affect the cash flows
+associated with long-term debt.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 23

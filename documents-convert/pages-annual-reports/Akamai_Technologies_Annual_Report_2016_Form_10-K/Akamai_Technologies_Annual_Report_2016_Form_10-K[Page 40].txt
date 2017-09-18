@@ -1,0 +1,42 @@
+We consider Adjusted EBITDA to be another important indicator of the operational strength and performance of our
+business and a good measure of our historical operating trends. Adjusted EBITDA eliminates items that are either not part of
+our core operations or are non-cash in nature. We define Adjusted EBITDA as GAAP net income excluding the following items:
+interest income; income taxes; depreciation and amortization of tangible and intangible assets; stock-based compensation;
+amortization of capitalized stock-based compensation; acquisition-related costs; restructuring charges; benefit from adoption of
+software development activities; gains and other activity related to divestiture of a business; gains and losses on legal
+settlements; costs incurred with respect to our internal FCPA investigation; foreign exchange gains and losses; loss on early
+extinguishment of debt; amortization of debt discount and issuance costs; amortization of capitalized interest expense; certain
+gains and losses on investments; and other non-recurring or unusual items that may arise from time to time. Adjusted EBITDA
+margin represents Adjusted EBITDA stated as a percentage of revenue.
+The following table reconciles GAAP net income to Adjusted EBITDA and Adjusted EBITDA margin for the years ended
+December 31, 2016, 2015 and 2014 (in thousands):
+2016 2015 2014
+Net income 78 316,132 77$ 321,406 77$ 333,948 7
+Amortization of acquired intangible assets 26,642 27,067 32,057 I
+I Stock-based compensation 144,506 126,677 111,996 I
+Amortization of capitalized stock-based compensation and capitalized interest I
+expense 15,439 13,618 10,506
+I Restructuring charges 10,301 767 1,189 I
+Acquisition-related costs 1,064 865 4,807 I
+Legal matter costs 890 3,291 285 I
+Benefit from adoption of software development activities 7 e 4 (2,670) I
+interest income (14,702) (11,200) (7,680) '
+Amortization of debt discount and issuance costs 18,638 18,525 15,463 I
+I Provision for income taxes 143,314 135,218 145,828 I
+Depreciation and amortization 292,221 258,878 204,843 I
+I Other (income) expense, net (3,788) 2,201 1,960 I
+' Adjusted EBITDA $ 950,657 $ 897,313 $ 852,532
+' Adjusted EBITDA margin 7 41%7 7 41%7 7 43%7
+Impact of Foreign Currency Exchange Rates
+Revenue and earnings from our international operations have historically been an important contributor to our financial
+results. Consequently, our financial results have been impacted, and management expects they will continue to be impacted, by
+ﬂuctuations in foreign currency exchange rates. For example, when the local currencies of our foreign subsidiaries weaken,
+generally our consolidated results stated in US. dollars are negatively impacted.
+Because exchange rates are a meaningful factor in understanding period-to-period comparisons, management believes the
+presentation of the impact of foreign currency exchange rates on revenue and earnings enhances the understanding of our
+financial results and evaluation of performance in comparison to prior periods. The dollar impact of changes in foreign currency
+exchange rates presented is calculated by translating current period results using monthly average foreign currency exchange
+rates from the comparative period and comparing them to the reported amount. The percentage change at constant currency
+presented is calculated by comparing the prior period amounts as reported and the current period amounts translated using the
+same monthly average foreign currency exchange rates from the comparative period.
+38

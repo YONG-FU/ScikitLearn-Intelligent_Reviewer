@@ -1,0 +1,50 @@
+boycotts), class action lawsuits, reputational harm or claims by regulators, industry groups or other third parties, all of which
+could disrupt our business and expose us to increased liability.
+In the past we have relied on the U.S.-European Union and the U.S.-Swiss Safe Harbor Frameworks, as agreed to by the
+US. Department of Commerce and the European Union and Switzerland as a means to legally transfer covered personal data
+from Europe to the United States. However, on October 6, 2015, the European Court of Justice invalidated the U.S.-European
+Union Safe Harbor Framework and Swiss data protection authorities later invalidated the U.S.-Swiss Safe Harbor Framework.
+As a result, we have been establishing alternate legitimate means of transferring covered personal data from the European
+Economic Area to the United States, including the new Privacy Shield framework. The legitimacy of these alternate means are
+subject to ongoing judicial challenge and review in the European Union. Any changing or new requirements or rulings by the
+European Union or member jurisdictions may impact our services or subject us to sanctions, including fines and a prohibition
+on data transfers, by EU data protection regulators. Furthermore, the European Court of Justice’s decision may result in
+different European data protection regulators applying differing standards for the transfer of personal data, which could result in
+increased regulation, cost of compliance and limitations on data transfer for us and our customers. These developments could
+harm our business, financial condition and results of operations.
+We also have a publicly-available privacy policy concerning our collection, use and disclosure of user data. Any failure, or
+perceived failure, by us to comply with our posted privacy policy could result in damage to our reputation or proceedings or
+actions against us, which could potentially have an adverse effect on our business.
+Fluctuations in foreign currency exchange rates aﬂect our operating results in US. dollar terms.
+An increasing portion of our revenue is derived from international operations. Revenue generated and expenses incurred by
+our international subsidiaries are often denominated in the currencies of the local countries. As a result, our consolidated US.
+dollar financial statements are subject to ﬂuctuations due to changes in exchange rates as the financial results of our
+international subsidiaries are translated from local currencies into US. dollars. In addition, our financial results are subject to
+changes in exchange rates that impact the settlement of transactions in non-functional currencies. While we have implemented a
+foreign currency hedging program to mitigate transactional exposures, there is no guarantee that such program will be effective.
+We may need to defend against patent or copyright infringement claims, which would cause us to incur substantial costs or
+limit our ability to use certain technologies in the future.
+As we expand our business and develop new technologies, products and services, we may become increasingly subject to
+intellectual property infringement and other claims, including those that may arise under international laws. In many cases, we
+have agreed to indemnify our customers and channel and strategic partners if our services infringe or misappropriate specified
+intellectual property rights; therefore, we could become involved in litigation or claims brought against customers or channel or
+strategic partners if our services or technology are the subject of such allegations. Any litigation or claims, whether or not valid,
+brought against us or pursuant to which we indemnify our customers or channel or strategic partners could result in substantial
+costs and diversion of resources and require us to do one or more of the following:
+° cease selling, incorporating or using features, functionalities, products or services that incorporate the challenged
+intellectual property;
+° pay substantial damages and incur significant litigation expenses;
+° obtain a license from the holder of the infringed intellectual property right, which license may not be available on
+reasonable terms or at all; or
+- redesign products or services.
+If we are forced to take any of these actions, our business may be seriously harmed.
+Our business will be adversely aﬂected if we are unable to protect our intellectual property rights from unauthorized use or
+infringement by third parties.
+We rely on a combination of patent, copyright, trademark and trade secret laws and contractual restrictions on disclosure to
+protect our intellectual property rights. These legal protections afford only limited protection. We have previously brought
+lawsuits against entities that we believed were infringing our intellectual property rights but have not always prevailed. Such
+lawsuits can be expensive and require a significant amount of attention from our management and technical personnel, and the
+outcomes are unpredictable. Monitoring unauthorized use of our services is difficult, and we cannot be certain that the steps we
+have taken or will take will prevent unauthorized use of our technology. We have licensed technology from the Massachusetts
+Institute of Technology that is covered by various patents and copyrights relating to Internet content delivery technology. Some
+1 8

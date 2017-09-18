@@ -1,0 +1,45 @@
+IableofContents
+- Network and Security
+0 Management and Automation
+Compute
+vSphere, our ﬂagship data center platform, provides the fundamental compute layer for VMware environments. A “hypervisor” is a layer of software that
+resides between the operating system and system hardware to enable compute virtualization. Users deploy the vSphere hypervisor when they purchase vSphere,
+Cloud Foundation or suite versions that include vSphere, such as VMware vCloud Suites and vSphere with Operations Management (“VSOM”).
+We have continued to develop vSphere solutions for compatibility with new technologies and tools utilized by software developers and enterprises. In 2016,
+we introduced our VMware vSphere Integrated Containers solution that allows customers to deploy containerized and traditional applications side-by-side on a
+common platform, without re-architecting their existing infrastructure. In addition, our OpenStack solution, VMware Integrated OpenStack, is an OpenStack
+distribution that enables organizations to provide developers with open, cloud-style application program interfaces (“APIs”) to access VMware’s enterprise-class
+infrastructure.
+VMware also introduced a new developer ready, cloud native application solution in 2016 called Photon Platform. Primarily focused on modern application
+development and container frameworks like Pivotal Cloud Foundry and Kubernetes, Photon Platform leverages key VMware SDDC technologies such as our
+hypervisor, NSX and vSAN to help enterprise customers meet their digital transformation objectives.
+Storage and Availability
+We provide many storage and availability products to offer cost-effective, holistic data storage and protection options to all applications running on the
+vSphere platform. These products serve as hyper-converged infrastructure solutions designed to enable customers to deploy a broad range of hardware
+solutions. Key hyper-converged infrastructure solutions in this area include:
+0 vSAN— clusters server disks to create radically simple, shared storage designed for virtual machines.
+- VxRail— a fully integrated and pre-configured Dell EMC Appliance powered by vSAN and vSphere software that extends the VMware environment.
+° vSphere Replication— provides a cost-efficient and simple way to manage replication.
+0 vCenter Site Recovery Manager— leverages vSphere and vSphere Replication to protect applications against site failures and to streamline planned
+migrations.
+We experienced growth in both customer count and sales of vSAN during 2016.
+Network and Security
+Network virtualization abstracts physical networks and greatly simplifies the provisioning and consumption of networking resources. In addition, security
+services are built in, do not require purpose-built hardware and can scale with the network which transforms security. Our network virtualization solution, NSX,
+was launched in 2013. Sales of NSX continued to grow during 2016.
+Management and Automation
+Our management and automation products move beyond core compute infrastructure to manage and automate overarching IT processes involved in
+provisioning IT services and resources to users from initial infrastructure deployment to retirement. These IT processes manage virtualized and non-virtualized
+infrastructure resources and private and public cloud infrastructures, including hybrid cloud services. Examples of products in the management and automation
+product portfolio include:
+0 vRealize Operations— provides performance, capacity and conﬁguration management for virtual or physical infrastructure.
+0 vRealize Automation— enables customers to rapidly deploy and provision cloud services.
+0 vRealize Business— provides transparency and control over the costs and quality of IT services.
+Software-Deﬁned Data Center Suites
+Our SDDC products are available separately or our compute and management and automation products may be acquired as part of a broader offering. The
+VMware vCloud Suite, vSOM and VMware vRealize Suite are packaged solutions for building and managing a complete cloud infrastructure optimized for use
+with the vSphere platform:
+0 VMware vCloud Suite— designed to fulfill the promise of the software-defined data center by pooling industry-standard hardware and running compute
+and management functions in the data center as software-defined services.
+0 vSOM— allows users to optimize capacity and monitor the workload performance of their vSphere environments.
+5

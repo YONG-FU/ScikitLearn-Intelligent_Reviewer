@@ -1,0 +1,40 @@
+CONSOLIDATED INCOME STATEMENT
+FOR THE YEAR ENDED 31 MARCH
+' 2016 2015 2014 ‘
+_ Note Em Em Em I
+Revenue 4 22,208 21,866 19,386
+| Material cost of sales excluding exceptional item (13,146) (13,185) (11,904) |
+Exceptional item 3 (157) — —
+Material and other cost of sales 5 (13,303) (13,185) (11,904)
+Employee cost 6 (2,321) (1,977) (1,654)
+Other expenses 9 (4,674) (4,109) (3,717)
+Development costs capitalised 10 1,242 1,158 1,030
+Other income 128 143 153
+Depreciation and amortisation (1,418) (1,051) (875)
+Foreign exchange (loss)/gain (317) (138) 236
+Finance income 11 38 48 38
+Finance expense (net) 11 (90) (135) (185)
+Share of proﬁt/(loss) of equity accounted investments 14 64 (6) (7)
+Proﬁt before tax 12 1,557 2,614 2,501
+Income tax excluding tax on exceptional item (293) (576) (622)
+l Tax on exceptional item 3 48 — — |
+Income tax expense 13 (245) (576) (622)
+Proﬁt for the year 1,312 2,038 1,879
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 MARCH
+l 2016 2015 2014 '
+Note Em Em Em A
+Proﬁt for the year 1,312 2,038 1,879
+Items that will not be reclassiﬁed subsequently to proﬁt or loss:
+Remeasurement of deﬁned beneﬁt obligation 31 489 (355) (135)
+Income tax related to items that will not be reclassiﬁed 13, 19 (113) 71 (4)
+376 (284) (139)
+Items that may be reclassiﬁed subsequently to proﬁt or loss:
+(Loss)/gain on effective cash flow hedges 34 (169) (1,768) 1,041
+Cash flow hedges reclassiﬁed to ‘Foreign exchange (loss)/gain’ in
+proﬁt or loss 34 224 (44) (112)
+Currency translation differences (1) 21 —
+Income tax related to items that may be reclassiﬁed 13, 19 (18) 363 (194)
+36 (1,428) 735
+Other comprehensive income/(expense) net of tax 412 (1,712) 596
+Total comprehensive income attributable to shareholders 1,724 326 2,475

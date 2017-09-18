@@ -1,0 +1,30 @@
+The following table sets forth a reconciliation of the incurred and paid claims development tables to the liability for
+losses and settlement expenses:
+($ in thousands) December 31, 2016
+Net outstanding liabilities for losses and allocated settlement expenses: : :
+I Commercial auto liability insurance $ 100,252 I
+Commercial property insurance 30,371
+I Workers' compensation insurance 136,782 I
+Other liability insurance 163,781
+I Personal auto liability insurance 9,000 I
+Homeowners insurance 2,445
+I Auto physical damage insurance 998 I
+Assumed pro rata reinsurance 58,459
+I Assumed excess of loss reinsurance 139,393 I
+Other lines of insurance 1,967
+I Liability for losses and allocated settlement expenses, net of reinsurance : 643,448 I
+ICeded reserves for losses and allocated settlement expenses: I
+Commercial auto liability insurance 526
+I Commercial property insurance 3,608 I
+Workers' compensation insurance 8,265
+I Other liability insurance 2,547 I
+Personal auto liability insurance 1,511
+I Homeowners insurance 41 I
+Auto physical damage insurance 21
+I Assumed pro rata reinsurance 2,242 I
+Assumed excess of loss reinsurance 1,880
+I Other lines of insurance 23 I
+Total ceded reserves for losses and allocated settlement expenses 7 20,664 7
+IUnallocated settlement expenses 26,420 I
+IGross reserve for losses and settlement expenses $ 690,532 I
+129

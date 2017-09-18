@@ -1,0 +1,31 @@
+*** Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled with the Commission.
+)( * )-
+“ Warrant ” means this Warrant and all other warrants issued upon transfer, division or combination of, or in
+substitution for, this Warrant or such other warrants in accordance with the terms and conditions hereof.
+“ Warrant Shares ” has the meaning ascribed to such term in the Preamble.
+(b) Capitalized terms used but not defined herein shall have the respective meanings ascribed to such terms
+in the Master Agreement. For the avoidance of doubt, in the event of any inconsistency between the definitions set forth herein and the
+definitions set forth in the Master Agreement, the definitions set forth herein shall govern for purposes of this Warrant.
+2. Method of Exercise .
+(a) ExercisexNoticei. Subject to the terms and conditions set forth herein, including the vesting milestones set
+forth in Section 3(a), this Warrant may be exercised by the Holder at any time and from time to time during the Exercise Period for all or
+any portion of the number of Warrant Shares purchasable hereunder; it being understood and agreed that this Warrant shall be void and all
+rights represented hereby shall cease unless vested and exercised on or before the Expiration Date. In order to exercise this Warrant, in
+whole or in part, the Holder shall deliver this Warrant, together with a duly executed copy of the form of notice of exercise attached
+hereto as Exhibit A (together, the “ Exercise Notice ”), to the Company at its principal offices, which Exercise Notice shall specify the
+number of Warrant Shares subject to such Exercise Notice (subject to the last sentence of Section 3(b)(ii), the date on which such delivery
+shall have taken place being referred to as the “ Exercise Date ”). Each exercise of this Warrant shall be settled through Physical Delivery
+or Net Share Settlement, as elected by the Holder in its sole discretion and set forth in the Exercise Notice, which may also include, at the
+Holder’s sole discretion, a request for a settlement of such exercise through Net Cash Settlement. Notwithstanding anything herein to the
+contrary, including this Section 2, from and after the occurrence of a Fundamental Change, the exercise of this Warrant shall be governed
+by Section 3(b).
+(b) Physical Delivery:. Subject to Section 2(d) (if the Exercise Notice included a request for Net Cash
+Settlement) and Section 3(e), if the Holder has elected to settle the exercise of this Warrant through physical delivery of Warrant Shares
+upon cash payment of the Exercise Price by the Holder (“ PhysicaLDelixerL”) in accordance with Section 2(a), then, within three (3)
+Business Days following the Exercise Date, the Holder shall deliver to the Company the aggregate Exercise Price for the Warrant Shares
+specified in the applicable Exercise Notice by wire transfer of immediately available funds to an account or accounts designated by the
+Company. The Warrant Shares to be issued and delivered to the Holder upon Physical Delivery shall be issued and delivered as provided
+in Section 2(e).
+(c) N eLSharenSettlemenL. Subject to Section 2(d) (if the Exercise Notice included a request for Net Cash
+Settlement) and Section 3(e), if the Holder has elected to settle the exercise of this Warrant through a net, or “cashless”, exercise by using
+certain Warrant Shares that the Holder otherwise would have received upon such settlement as payment of the Exercise Price

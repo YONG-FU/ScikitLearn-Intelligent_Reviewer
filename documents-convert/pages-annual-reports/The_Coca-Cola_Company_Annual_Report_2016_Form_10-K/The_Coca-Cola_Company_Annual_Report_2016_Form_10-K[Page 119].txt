@@ -1,0 +1,39 @@
+The following table sets forth the changes in AOCI for our benefit plans (in millions, pretax):
+7 Pension Benefits 7 7 Other Beneﬁts 7
+iYear Ended December 31, 7 2016 2015 7 7 2016 2015
+Balance in AOCI at beginning of year $ (2,907) $ (3,069) $ (26) $ (67)
+Recognized prior service cost (credit) (2) (2) (28) 2 (19)
+Recognized net actuarial loss (gain) 301 348 7 10
+Prior service credit (cost) arising in current year (17) (6) 4 10
+Net actuarial (loss) gain arising in current year (404) (270) (6) 2 40
+Impact of divestitures‘ 64 — — —
+Foreign currency translation gain (loss) 33 92 1 —
+Balance in AOCI at end of year $ (2,932) $ (2,907) $ (48) $ (26)?
+1 Related to the deconsolidation of our German bottling operations. Refer to Note 2.
+2 Includes $9 million of recognized prior service credit and $17 million of actuarial gains arising in the current year due to the impact of
+curtailments.
+The following table sets forth amounts in AOCI for our benefit plans (in millions, pretax):
+7 Pension Benefits 7 7 Other Benefits 7
+December 31, 7 2016 20157 7 2016 2015
+Prior service credit (cost) $ (14) SS 3 $ 69 $ 93
+Net actuarial loss (2,9 18) (2,910) (1 17) (1 19)
+Balance in AOCI at end of year $ (2,932) $ (2,907) $ (48) $ (26)?
+Amounts in AOCI expected to be recognized as components of net periodic beneﬁt cost in 2017 are as follows (in millions,
+pretax):
+Pension Benefits Other Beneﬁts
+Amortization of prior service cost (credit) 33 — $ (20)
+Amortization of actuarial loss 178 8 7
+Total $ 178 $ (12)
+Assumptions
+Certain weighted-average assumptions used in computing the benefit obligations are as follows:
+7 Pension Benefits 7 7 Other Benefits 7
+December 31, 7 2016 2015 7 7 2016 2015
+Discount rate 4.00% 4.25% 4.00% 4.25%
+Rate of increase in compensation levels 3.75% 3.50% N/A N/Ai
+Certain weighted-average assumptions used in computing net periodic benefit cost are as follows:
+Pension Beneﬁts Other Beneﬁts
+iYear Ended December 31, 2016 2015 2014 2016 2015 2014 7
+Discount rate 4.25% 3.75% 4.75% 4.25% 3.75% 4.75%
+Rate of increase in compensation levels 3.50% 3.50% 3.50% N/A N/A N/A
+rExpected long-term rate of return on plan assets 8.25% 8.25% 8.25% 4.75% 4.75% 4.75%?
+1 17

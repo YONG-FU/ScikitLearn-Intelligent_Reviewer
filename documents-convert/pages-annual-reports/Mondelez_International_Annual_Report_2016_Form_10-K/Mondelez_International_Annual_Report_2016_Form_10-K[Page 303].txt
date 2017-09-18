@@ -1,0 +1,25 @@
+“ Sanctions ” means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by (a) the US.
+government, including those administered by the Ofﬁce of Foreign Assets Control of the US. Department of the Treasury or the US. Department of State, or
+(b) the United Nations Security Council, the European Union or Her Maj esty’s Treasury of the United Kingdom.
+“ Sanctioned Person ” shall mean, at any time, (a) any Person listed in any Sanctions-related list of designated Persons maintained by the Office of
+Foreign Assets Control of the US. Department of the Treasury, the US. Department of State, or by the United Nations Security Council, the European Union or
+any European Union member state or (b) any Person controlled by any such Person or Persons described in the foregoing clause (a).
+“ Screen Rate ” means the London interbank offered rate as administered by ICE Benchmark Administration (or any other Person that takes over the
+administration of such rate for Dollars for a period equal in length to such Interest Period as displayed on page LIBOROl of the Reuters screen that displays such
+rate) or, in the event such rate does not appear on a Reuters page or screen, on any successor or substitute page on such screen that displays such rate, or on the
+apprOpriate page of such other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion.
+“ .SingleEmplioyeriPlan,” means a single employer plan, as defined in Section 4001(a)(15) of ERISA, that (a) is maintained for employees of any
+Obligor or any ERISA Affiliate and no Person other than such Obligor and the ERISA Affiliates or (b) was so maintained and in respect of which such Obligor or
+any ERISA Affiliate could have liability under Section 4069 of ERISA in the event such plan has been or were to be terminated.
+“ Standardi&,Po,orjs,” means Standard & Poor’s Ratings Services, a Standard & Poor’s Financial Services LLC business, and any successor thereto.
+“ Subsidiary: ” of any Person means any Person of which (or in which) more than 50% of the outstanding capital stock having voting power to elect a
+majority of the Board of Directors of such Person (irrespective of whether at the time capital stock of any other class or classes of such corporation shall or might
+have voting power upon the occurrence of any contingency) is at the time directly or indirectly owned or controlled by such Person, by such Person and one or more
+of its other Subsidiaries or by one or more of such Person’s other Subsidiaries.
+“ Taxes,” has the meaning specified in Section 2.15(a).
+“ Three-LYeariCommitment,” means as to any Lender (i) the Dollar amount set forth opposite such Lender’s name on Schedule I hereto under the
+heading Three-Year Commitment, or (ii) if such Lender has entered into an Assignment and Acceptance, the Dollar amount set forth for such Lender as such
+Lender’s Three-Year Commitment in the Register maintained by the Administrative Agent, pursuant to Section 9.07(d), in each case as such amount may be
+reduced pursuant to Section 2.10.
+“ Thre,e;¥eanFundingDate,” has the meaning specified in Section 2.01(a).
+-13-

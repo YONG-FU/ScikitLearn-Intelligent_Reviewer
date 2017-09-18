@@ -1,0 +1,43 @@
+IableofContents
+time-to-time as a consistent trading market in Class V common stock is established. Any volatility in the market for Class V common stock could
+contribute to volatility in the price of VMware Class A common stock.
+0 With the closing of the Dell Acquisition, Dell has become more highly leveraged and may be required to commit a substantial portion of its cash ﬂows to
+servicing its indebtedness. While Dell has publicly stated that it plans to leave VMware free to use its cash to invest in the VMware business, Dell’s
+significant debt could create the perception that Dell may exercise its control over us to limit our growth in favor of its other businesses or cause us to
+transfer cash to Dell. In addition, if Dell defaults, or appears in danger of defaulting, on its indebtedness, the trading price of the Class V common stock
+issued by Dell would be adversely affected, which could negatively impact the price of our Class A common stock, and uncertainty as to the impact of
+such a default on VMware could disrupt our business.
+° Some of our products compete directly with products sold or distributed by Dell, which could result in reduced sales.
+0 The Dell Acquisition creates potential litigation risk. Various lawsuits have been filed against EMC and others in connection with the Dell Acquisition,
+including one ongoing litigation in which the Company and our directors are named as defendants. It is possible that we or our directors may be named in
+other lawsuits.
+Holders of our Class A common stock have limited ability to inﬂuence matters requiring stockholder approval.
+As of December 31, 2016 , Dell controlled 38,250,166 shares of our Class A common stock and all 300,000,000 shares of our Class B common stock,
+representing 82.8% of the total outstanding shares of common stock or 97.7% of the voting power of outstanding common stock held by EMC. Through its control
+of the Class B common stock, which is generally entitled to 10 votes per share, Dell controls the vote to elect all of our directors and to approve or disapprove all
+other matters submitted to a stockholder vote.
+Prior to a distribution by Dell to its stockholders under Section 355 of the Internal Revenue Code of 1986, as amended (a “355 Distribution”), shares of Class
+B common stock transferred to any party other than a successor-in-interest or a subsidiary of EMC automatically convert into Class A common stock. Dell’s voting
+control over VMware will continue so long as the shares of Class B common stock it controls continue to represent at least 20% of our outstanding stock. If its
+ownership falls below 20% of the outstanding shares of our common stock, all outstanding shares of Class B common stock will automatically convert to Class A
+common stock. If Dell effects a 355 Distribution at a time when it holds shares of Class B common stock, its stockholders will receive Class B common stock.
+These shares will remain entitled to 10 votes per share, holders of these shares will remain entitled to elect 80% of the total number of directors on our board of
+directors and the holders of our Class A common stock will continue to have limited ability to inﬂuence matters requiring stockholder approval and have limited
+ability to elect members of our board of directors. Following a 355 Distribution, shares of Class B common stock may convert to Class A common stock if such
+conversion is approved by VMware stockholders after the 355 Distribution and we have obtained a private letter ruling from the Internal Revenue Service. In
+January 2014, the IRS announced in Revenue Procedure 2014-3 that, generally, it would no longer issue private letter rulings on 355 Distributions.
+Dell has the ability to prevent us from taking actions that might be in our best interest.
+Under our certificate of incorporation and the master transaction agreement we entered into with EMC, we must (subject to certain exceptions) obtain the
+consent of EMC (which is controlled by Dell) or its successor-in-interest, as the holder of our Class B common stock, prior to taking specified actions, such as
+acquiring other companies for consideration in excess of $100 million, issuing stock or other VMware securities, except pursuant to employee benefit plans
+(provided that we obtain Class B common stockholder approval of the aggregate annual number of shares to be granted under such plans), paying dividends,
+entering into any exclusive or exclusionary arrangement with a third party involving, in whole or in part, products or services that are similar to EMC’s or
+amending certain provisions of our charter documents. In addition, we have agreed that for so long as EMC or its successor-in-interest continues to own greater
+than 50% of the voting control of our outstanding common stock, we will not knowingly take or fail to take any action that could reasonably be expected to
+preclude the ability of EMC or its successor-in-interest (including Dell) to undertake a tax-free spin-off Dell is entitled to exercise the voting control and
+contractual rights of EMC, and may do so in a manner that could vary significantly from EMC’s historic practice. If Dell does not provide any requisite consent
+allowing us to conduct such activities when requested, we will not be able to conduct such activities. As a result, we may have to forgo capital raising or
+acquisition Opportunities that would otherwise be available to us, and we may be precluded from pursuing certain growth initiatives.
+By becoming a stockholder in our company, holders of our Class A common stock are deemed to have notice of and have consented to the provisions of our
+certificate of incorporation and the master transaction agreement with reSpect to the limitations that are described above.
+25

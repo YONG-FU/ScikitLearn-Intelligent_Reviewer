@@ -1,0 +1,38 @@
+Notes to financial statements
+1. Description of business, including segment and geographic area information
+We design, make and sell semiconductors to electronics designers and manufacturers all over the world. For 2016, we have two
+reportable segments, which are established along major categories of products as follows:
+0 Analog— consisting of the following product lines: High Volume Analog & Logic, Power Management, High Performance
+Analog and Silicon Valley Analog.
+0 Embedded Processing— consisting of the following product lines: Processors, Microcontrollers and Connectivity. x
+We report the results of our remaining business activities in Other. Other includes operating segments that do not meet the 3
+quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other E
+includes DLP® products, calculators, custom ASle and royalties received from agreements involving license rights to our patent o
+portfolio. "'
+In Other, we also include items that are not used in evaluating the results of or in allocating resources to our segments. Examples
+of these items include Acquisition charges (see Note 13); restructuring charges (see Note 3); and certain corporate-level items,
+such as litigation expenses, environmental costs, insurance settlements, and gains and losses from other activities, including asset
+dispositions. We allocate the remainder of our expenses associated with corporate activities to our operating segments based on
+specific methodologies, such as percentage of operating expenses or headcount.
+Our centralized manufacturing and support organizations, such as facilities, procurement and logistics, provide support to our
+operating segments, including those in Other. Costs incurred by these organizations, including depreciation, are charged to the
+segments on a per-unit basis. Consequently, depreciation expense is not an independently identifiable component within the
+segments’ results and, therefore, is not provided. The assets and liabilities associated with these organizations are included in
+Other.
+With the exception of goodwill, we do not identify or allocate assets by operating segment, nor does the chief operating decision .
+maker evaluate operating segments using discrete asset information. We have no material intersegment revenue. The accounting
+policies of the segments are the same as those described below in the summary of significant accounting policies and practices.
+Segment information
+For Years Ended December 31,
+2016 2015 2014
+Revenue:
+$ 8,536 $ 8,339 $ 8,104
+EmbeddedProcessing.................................................. 3,023 2,787 2,740
+1,811 1,874 2,201
+Totalrevenue........................................................... $13,370 $13,000 $13,045
+Operating profit:
+$ 3,380 $ 3,048 $ 2,786
+EmbeddedProcessing.................................................. 801 596 384
+618 630 777
+Totaloperatingprofit $ 4,799 $ 4,274 $ 3,947
+TEXAS INSTRUMENTS - 2016 FORM 10-K 31

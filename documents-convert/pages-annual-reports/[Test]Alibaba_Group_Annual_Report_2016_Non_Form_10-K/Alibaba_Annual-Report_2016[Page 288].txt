@@ -1,0 +1,45 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+13. Prepayments, receivables and other assets (Continued)
+(iv) Employee loans mainly represent full recourse, interest-bearing share purchase, option exercise and tax
+loans, with a term of four to five years, to employees of the Company and its related companies in order
+to finance their purchase of ordinary shares, exercise of options underlying the ordinary shares as well as
+payment of related personal taxes. Such employee loans are pledged by ordinary shares owned by the
+employees and carried interest at market rates. The balance also includes an interest-free loan program,
+with a term of five years, to eligible employees for purchase of their first residential properties.
+14. Investment in equity investees
+Cost Equity
+method method Total
+(in millions of RMB)
+Balance at April 1, 2014 13,589 4,077 17,666
+Additions 12,304 16,518 28,822
+Share of results and other comprehensive income (i) — (1,148) (1,148)
+Less: disposals and transfers (ii) (9,818) (806) (10,624)
+Less: impairment loss (419) (438) (857)
+Foreign currency translation adjustments 17 1 18
+Balance at March 31, 2015 15,673 18,204 33,877
+Additions (iii) 19,764 41,968 61,732
+Share of results and other comprehensive income (i) — (1,296) (1,296)
+Less: disposals and transfers (ii) (2,150) (751) (2,901)
+Less: impairment loss (902) — (902)
+Foreign currency translation adjustments 879 72 951
+Balance at March 31, 2016 33,264 58,197 91,461
+(i) Share of results and other comprehensive income includes the share of results of the equity investees, the
+gain arising from the deemed disposal of the equity investees and the amortization of basis differences.
+The balance excludes the gain arising from fair value adjustments of contingent consideration related to
+an equity investee and the expenses in connection with the share-based awards relating to ordinary shares
+of the Company and Ant Financial Services granted to employees of certain equity investees (Note 8(d)).
+(ii) During the year ended March 31, 2015, transfers under the equity method were primarily related to the
+step acquisitions of OneTouch (Note 4(g)), UCWeb (Note 4(f)), AutoNavi (Note 4(d)), as well as an
+additional investment in Weibo (Note 4(u)).
+During the year ended March 31, 2016, disposals under the cost method were primarily related to the
+partial disposal of the Company’s investment in an equity investee. A gain of approximately
+US$471 million (RMB3,078 million) arising from such disposal was recognized in interest and investment
+income, net in the consolidated income statement. Transfers under the equity method were primarily
+related to the consolidation of Alibaba Health upon which the control was obtained by the Company
+(Note 4(c)).
+(iii) Additions during the year ended March 31, 2016 included the fair value of the retained noncontrolling
+investment in Alibaba Pictures which is accounted for as an equity method investee after the
+deconsolidation (Note 4(e)).
+F-72

@@ -1,0 +1,29 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+VMware’s provision for income taxes consisted of the following (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+’Federal: — — ‘
+Current $ 153 $ 142 $ 1 88
+l Deferred 5 (33) _ (116) l
+158 _ 109 72
+lState: ‘
+Current 14 9 15
+l Deferred (5) _ (1) _ (12) l
+9 8 3
+’Foreign: ‘
+Current 128 96 87
+I Deferred (8) _ 3 _ — l
+120 99 87
+lTotal provision for income taxes 33 287 $ 216 $ 162 l
+A reconciliation of VMware’s income tax rate to the statutory federal tax rate is as follows:
+For the Year Ended December 31,
+2016 2015 2014
+lStatutory federal tax rate 35 % — 35 % 35 %l
+State taxes, net of federal benefit 1 % 1 % 1 %
+'Tax rate differential for non-US. jurisdictions (16)% (20)% (21)%‘
+US. tax credits (3)% (2)% (3)%
+’Permanent items and other 2 % 4 % _ 4 %l
+Effective tax rate 19 % 18 % 16 %
+8 1

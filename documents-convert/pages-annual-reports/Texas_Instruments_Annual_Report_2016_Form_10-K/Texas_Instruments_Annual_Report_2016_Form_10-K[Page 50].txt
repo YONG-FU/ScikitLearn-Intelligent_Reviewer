@@ -1,0 +1,46 @@
+Details of these accounts receivable allowances are as follows:
+2016 2015 2014
+Balance,January1 $ 7 $12 $22
+Additionscharged(credited)tooperatingresults........................................... 10 (5) (9)
+Recoveriesandwrite-offs,net........................................................ — — (1)
+Balance,December31 $17 $ 7 $12
+8. Valuation of debt and equity investments and certain liabilities
+.ﬂ
+g Debt and equity investments
+.. We classify our investments as available for sale, trading, equity method or cost method. Most of our investments are classified as
+‘5: available for sale.
+Available-for-sale and trading securities are stated at fair value, which is generally based on market prices or broker quotes. See
+the fair-value discussion below. Unrealized gains and losses on available-for-sale securities are recorded as an increase or
+decrease, net of taxes, in AOCl on our Consolidated Balance Sheets. We record other-than-temporary impairments on
+available-for-sale securities in Ol&E in our Consolidated Statements of Income.
+We classify certain mutual funds as trading securities. These mutual funds hold a variety of debt and equity investments intended
+to generate returns that offset changes in certain deferred compensation liabilities. We record changes in the fair value of these
+mutual funds and the related deferred compensation liabilities in SG&A.
+Our other investments are not measured at fair value but are accounted for using either the equity method or cost method. These
+investments consist of interests in venture capital funds and other non-marketable equity securities. Gains and losses from
+equity-method investments are reflected in 0l&E based on our ownership share of the investee’s financial results. Gains and losses
+on cost-method investments are recorded in Ol&E when realized or when an impairment of the investment’s value is warranted
+based on our assessment of the recoverability of each investment.
+Details of our investments are as follows:
+December 31, 2016 December 31,2015
+Cash and Cash Short-Term Long-Term Cash and Cash Short-Term Long-Term
+Equivalents Investments Investments Equivalents Investments Investments
+Measured at fair value:
+Available-for-sale securities:
+Moneymarketfunds............ $ 346 $ — $ — $ 395 $ — $ —
+Corporate obligations . . . . . . . . . . . 107 544 — 132 285 —
+US. government agency and
+Treasury securities . . . . . . . . . . . 490 1,792 — 245 1,933 —
+Trading securities:
+Mutualfunds................. — — 201 — — 187
+Total.......................... 943 2,336 201 772 2,218 187
+Other measurement basis:
+Equity-method investments . . . . . . . — — 25 — — 25
+Cost-method investments . . . . . . . . — — 9 — — 9
+Cashonhand................. 211 — — 228 — —
+Total.......................... $1,154 $2,336 $235 $1,000 $2,218 $221
+As of December 31, 2016 and 2015, unrealized gains and losses associated with our available-for-sale investments were not
+material. We did not recognize any credit losses related to available-for-sale investments in 2016, 2015 and 2014.
+In 2016, 2015 and 2014, the proceeds from sales, redemptions and maturities of short-term available-for-sale investments were
+$3.39 billion, $2.89 billion and $2.97 billion, respectively. Gross realized gains and losses from these sales were not material.
+46 TEXAS INSTRUMENTS - 2016 FORM 10-K

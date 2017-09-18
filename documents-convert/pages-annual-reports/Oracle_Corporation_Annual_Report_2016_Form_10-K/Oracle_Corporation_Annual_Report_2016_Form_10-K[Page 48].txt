@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+more signiﬁcant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported
+financial results include:
+- Revenue Recognition;
+- Business Combinations;
+° Goodwill and Intangible Assets—Impairment Assessments;
+- Accounting for Income Taxes; and
+- Legal and Other Contingencies.
+In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application.
+There are also areas in which management’s judgment in selecting among available alternatives would not produce a materially different result. Our senior
+management has reviewed our critical accounting policies and related disclosures with the Finance and Audit Committee of the Board of Directors.
+Revenue Recognition
+Our sources of revenues include:
+- cloud and on-premise software revenues, which include the sale of: new software licenses, which generally grant to customers a perpetual right to use our
+database, middleware, applications and industry-specific software products; cloud SaaS and PaaS offerings, which grant customers access to a broad
+range of our software and related support offerings on a subscription basis in a secure, standards-based cloud computing environment; cloud IaaS
+offerings, which grant customers access to infrastructure cloud services to perform elastic compute, storage and networking services, and also provide
+management services for software and hardware and related IT infrastructure, both generally on a subscription basis; and software license updates and
+product support offerings (described further below);
+- hardware revenues, which include the sale of hardware products including Oracle Engineered Systems, computer servers, storage products, networking
+and data center fabric products, and industry-specific hardware; and hardware support revenues (described further below); and
+° services revenues, which are earned from providing software and hardware related services including consulting, advanced customer support and
+education services.
+Revenues generally are recognized net of any taxes collected from customers and subsequently remitted to governmental authorities.
+ReyenuezRecognition,for,S,oftware,Broducts,and,S,oftware,Relate,d,S,ervices,(,S,oftware,Elements)
+New software licenses revenues primarily represent fees earned from granting customers licenses to use our database, middleware, application and industry-specific
+software products and exclude cloud SaaS and PaaS revenues and revenues derived from software license updates, which are included in software license updates
+and product support revenues. The basis for our new software licenses revenue recognition is substantially governed by the accounting guidance contained in ASC
+985-605, Software-Revenue Recognition. We exercise judgment and use estimates in connection with the determination of the amount of software and software
+related services revenues to be recognized in each accounting period.
+For software license arrangements that do not require significant modification or customization of the underlying software, we recognize new software licenses
+revenues when: (1) we enter into a legally binding arrangement with a customer for the license of software; (2) we deliver the products; (3) the sale price is ﬁxed or
+determinable and free of contingencies or significant uncertainties; and (4) collection is probable. Revenues that are not recognized at the time of sale because the
+foregoing conditions are not met, are recognized when those conditions are subsequently met.
+46

@@ -1,0 +1,51 @@
+offerings, which includes the cost to support the voice and video offerings in the Company's Communications Cloud products.
+Also included in Cost of net revenues is amortization of product related intangible assets and impairment of product related
+intangible assets.
+Foreign Currency
+The functional currency for all of the Company’s wholly-owned foreign subsidiaries is the US. dollar. Monetary assets
+and liabilities of such subsidiaries are remeasured into US. dollars at exchange rates in effect at the balance sheet date, and
+revenues and expenses are remeasured at average rates prevailing during the year. Effective January 1, 2015, the functional
+currency of the Company’s wholly-owned foreign subsidiaries of its GoTo Business segment became the US. dollar as a result
+of a reorganization in the foreign subsidiaries' operations. Prior to January 1, 2015, the functional currency of the Company’s
+wholly-owned foreign subsidiaries of its GoTo Business segment was the currency of the country in which each subsidiary is
+located. The Company translated assets and liabilities of these foreign subsidiaries at exchange rates in effect at the balance
+sheet date and included accumulated net translation adjustments in equity as a component of Accumulated other comprehensive
+loss. The change in functional currency is applied on a prospective basis, therefore any gains and losses that were previously
+recorded in Accumulated other comprehensive loss remain unchanged from January 1, 2015. Foreign currency transaction gains
+and losses are the result of exchange rate changes on transactions denominated in currencies other than the functional currency,
+including US. dollars. The remeasurement of those foreign currency transactions is included in determining net income or loss
+for the period of exchange. See Note 11 for information on the Company's Enterprise and Service Provider and GoTo Business
+segments.
+Derivatives and Hedging Activities
+In accordance with the authoritative guidance, the Company records derivatives at fair value as either assets or liabilities
+on the balance sheet. For derivatives that are designated as and qualify as effective cash ﬂow hedges, the portion of gain or loss
+on the derivative instrument eﬁective at offsetting changes in the hedged item is reported as a component of Accumulated other
+comprehensive loss and reclassified into earnings as operating expense, net, when the hedged transaction affects earnings.
+Derivatives not designated as hedging instruments are adjusted to fair value through earnings as Other expense, net, in the
+period during which changes in fair value occur. The application of the authoritative guidance could impact the volatility of
+earnings.
+The Company formally documents all relationships between hedging instruments and hedged items, as well as its risk-
+management objective and strategy for undertaking various hedge transactions. This process includes attributing all derivatives
+that are designated as cash ﬂow hedges to ﬂoating rate assets or liabilities or forecasted transactions. The Company also
+formally assesses, both at the inception of the hedge and on an ongoing basis, whether each derivative is highly eﬂective in
+offsetting changes in cash ﬂows of the hedged item. Fluctuations in the value of the derivative instruments are generally oﬁset
+by changes in the hedged item; however, if it is determined that a derivative is not highly effective as a hedge or if a derivative
+ceases to be a highly effective hedge, the Company will discontinue hedge accounting prospectively for the affected derivative.
+The Company is exposed to risk of default by its hedging counterparties. Although this risk is concentrated among a
+limited number of counterparties, the Company’s foreign exchange hedging policy attempts to minimize this risk by placing
+limits on the amount of exposure that may exist with any single financial institution at a time.
+Pension Liability
+The Company provides retirement benefits to certain employees who are not US. based. Generally, benefits under these
+programs are based on an employee’s length of service and level of compensation. The majority of these programs are
+commonly referred to as termination indemnities, which provide retirement benefits in accordance with programs mandated by
+the governments of the countries in which such employees work.
+The Company had accrued $13.2 million and $13.8 million for these pension liabilities at December 31, 2016 and 2015,
+respectively. Expenses for the programs for 2016, 2015 and 2014 amounted to $2.5 million, $3.8 million and $3.2 million,
+respectively.
+Advertising Costs
+The Company expenses advertising costs as incurred. The Company has advertising agreements with, and purchases
+advertising from, online media providers to advertise its products. The Company also has cooperative advertising agreements
+with certain distributors and resellers whereby the Company will reimburse distributors and resellers for qualified advertising
+of Company products. Reimbursement is made once the distributor, reseller or provider provides substantiation of qualiﬁed
+expenses. The Company estimates the impact of these expenses and recognizes them at the time of product sales as a reduction
+F-14

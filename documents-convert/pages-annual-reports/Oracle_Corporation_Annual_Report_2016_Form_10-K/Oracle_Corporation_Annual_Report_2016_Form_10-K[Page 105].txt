@@ -1,0 +1,39 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+N on-Operating Income (Expense), net
+Non-operating income (expense), net consists primarily of interest income, net foreign currency exchange gains (losses), the noncontrolling interests in the net
+proﬁts of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Japan) and net other income (losses), including net
+realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify
+as trading.
+Year Ended May g,
+(in millions) 72016 iZﬂSf 72014
+Interest income 3; 538 $ 349 $ 2631
+Foreign currency losses, net (1 10) (157) (375)
+Noncontrolling interests in income (116) (113) (ﬁﬂ
+Other (loss) income, net (7) 27 69
+I Total non-operating income (e_xpense)_, net 3057 106V (141)]
+Included in foreign currency losses, net were foreign currency remeasurement losses of $7 million, $23 million and $213 million in ﬁscal 2016, 2015 and 2014,
+respectively, related to our Venezuelan subsidiary due to the continued “highly inﬂationary” designation of the Venezuelan economy in accordance with ASC 830,
+Foreign Currency Matters (ASC 830); certain currency exchange legislation in Venezuela that created certain foreign exchange mechanisms that based upon our
+speciﬁc facts and circumstances, were the most appropriate for the reporting of our Venezuelan subsidiary’s Bolivar-based transactions and net monetary assets in
+US Dollars; and the remeasurement of certain assets and liabilities of our Venezuelan subsidiary pursuant to such foreign exchange mechanisms with the
+corresponding loss recorded to earnings as required by ASC 830.
+Income Taxes
+We account for income taxes in accordance with ASC 740, Income Taxes . Deferred income taxes are recorded for the expected tax consequences of temporary
+differences between the tax bases of assets and liabilities for financial reporting purposes and amounts recognized for income tax purposes. We record a valuation
+allowance to reduce our deferred tax assets to the amount of future tax benefit that is more likely than not to be realized.
+A two-step approach is applied pursuant to ASC 740 in the recognition and measurement of uncertain tax positions taken or expected to be taken in a tax return.
+The ﬁrst step is to determine if the weight of available evidence indicates that it is more likely than not that the tax position will be sustained in an audit, including
+resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be
+realized upon ultimate settlement. We recognize interest and penalties related to uncertain tax positions in our provision for income taxes line of our consolidated
+statements of operations.
+A description of our accounting policies associated with tax related contingencies and valuation allowances assumed as a part of a business combination is provided
+under “Business Combinations” above.
+Recent Accounting Pronouncements
+Financial Instruments: In June 2016, the F ASB issued ASU 2016-13, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on
+Financial Instruments (ASU 2016-13), which requires measurement and recognition of expected credit losses for ﬁnancial assets held. ASU 2016-13 is effective
+for us in our first quarter of fiscal 2021, and earlier adoption is permitted beginning in the first quarter of ﬁscal 2020. We are currently evaluating the impact of our
+pending adoption of ASU 2016-13 on our consolidated financial statements.
+103

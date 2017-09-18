@@ -1,0 +1,47 @@
+56 The Procter & Gamble Company
+The following table sets forth the Company's financial assets as of June 30, 2016 and 2015 that were measured at fair value on a recurring basis
+during the period:
+Fair Value Asset
+:Yiea[siendedilunejﬂ 2016 _ 2015
+llnvestments: l
+US. government securities $ 4,839 $ 3,495
+l Corporate bond securities 1,407 1,272 l
+Other investments 28 _ 30
+lTOTAL $ 6,274 $ 4,797 1
+Investment securities are presented in Available-for—sale investment securities and Other noncurrent assets. The amortized cost of the US.
+government securities with maturities less than one year was $292 and $700 as of June 30, 2016 and 2015, respectively. The amortized cost of the
+US. government securities with maturities between one and five years was $4,513 and $2,789 as of June 30, 2016 and 2015, respectively. The
+amortized cost of corporate bond securities with maturities of less than a year was $382 and $221 as of June 30, 2016 and 2015, respectively. The
+amortized cost of corporate bond securities with maturities between one and five years was $1,018 and $1,052 as of June 30, 2016 and 2015,
+respectively. The Company's investments measured at fair value are generally classified as Level 2 within the fair value hierarchy. There are no
+material investment balances classified as either Level 1 or Level 3 within the fair value hierarchy. Fair values are generally estimated based upon
+quoted market prices for similar instruments.
+The fair value of long-term debt was $24,362 and $23,127 as of June 30, 2016 and 2015, respectively. This includes the current portion ($2,761 and
+$2,776 as of June 30, 2016 and 2015, respectively) of debt instruments. Certain long-term debt is recorded at fair value. Certain long-term debt is not
+recorded at fair value on a recurring basis, but is measured at fair value for disclosure purposes. Long-term debt with fair value of $2,331 and $2,180
+as of June 30, 2016 and 2015, respectively, is classified as Level 2 within the fair value hierarchy. All remaining long-term debt is classified as Level 1
+within the fair value hierarchy. Fair values are generally estimated based on quoted market prices for identical or similar instruments.
+Disclosures about Derivative Instruments
+The notional amounts and fair values of qualifying and non-qualifying financial instruments used in hedging transactions as of June 30, 2016 and
+2015 are as follows:
+Notional Amount Fair Value Asset Fair Value (Liability)
+Years ended June 30 2016 _ 2015 _ 2016 _ 2015 _ 2016 _ 2015
+lDERIVATIVES IN CASH FLOW HED GING RELATIONSHIPS 1
+Foreign currency contracts 3 798 :_:$ 951 :_:$ 94 :_:$ 312 :_:$ (63) :_:$ — :
+lDERIVATIV ES IN FAIR VALUE HEDGING RELATIONSHIPS _ _ 1
+Interest rate contracts :$ 4,993 :_:$ 7,208 :_:$ 371 :_:$ 172 :_:$ — :_:$ (13):
+lDERIVATIVES IN NET INVESTMENT HEDGING RELATIONSHIPS _ 1
+Net investment hedges :$ 3,013 :_:$ 537 :_:$ 23 :_:$ 96 :_:$ (115) :_:$ (1):
+lDERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS _ _ 1
+Foreign currency contracts :$ 6,432 i :33 6,610 i :3 23 : :$ 13 i :3 (38): :$ (68):
+All derivative assets are presented in Prepaid expenses and other current assets or Other noncurrent assets. All derivative liabilities are presented in
+Accrued and other liabilities or Other noncurrent liabilities. The total notional amount of contracts outstanding at the end of the period is indicative
+of the level of the Company's derivative activity during the period. The decrease in the notional balance of interest rate fair value hedges is due to
+the maturity of fixed rate debt and underlying swaps in the current period. The increase in the notional balance of net investment hedges primarily
+reﬂects a movement into Euro cross currency swaps due to lower interest rates in the current period. All of the Company's derivative assets and
+liabilities measured at fair value are classified as Level 2 within the fair value hierarchy.
+The Company recognizes transfers between levels within the fair value hierarchy, if any, at the end of each quarter. There were no transfers between
+levels during the periods presented. In addition, there was no significant activity within the Level 3 assets and liabilities during the periods
+presented. Except for the impairment charges related to our Batteries business (see Note 4), there were no significant assets or liabilities that were
+re-measured at fair value on a non-recurring basis during the years ended June 30, 2016 and 2015.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

@@ -1,0 +1,52 @@
+KIMCO REALTY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, continued
+included in AOCI, as a separate component of the Company’s stockholders’ equity. Gains or losses resulting from foreign
+currency transactions are translated to local currency at the rates of exchange prevailing at the dates of the transactions. The
+effect of the transaction’s gain or loss is included in the caption Other income/(expense), net in the Consolidated Statements of
+Income. The Company is required to release cumulative translation adjustment (“CTA”) balances into earnings when the
+Company has substantially liquidated its investment in a foreign entity.
+Derivative/Financial Instruments
+The Company is exposed to certain risks arising from both its business operations and economic conditions. The Company
+principally manages its exposures to a wide variety of business and operational risk through management of its core business
+activities. The Company manages economic risks, including interest rate, liquidity, and credit risk primarily by managing the
+amount, sources, and duration of its debt funding and the use of derivative financial instruments. Specifically, the Company may
+use derivatives to manage exposures that arise from changes in interest rates, foreign currency exchange rate ﬂuctuations and
+market value ﬂuctuations of equity securities. The Company limits these risks by following established risk management policies
+and procedures including the use of derivatives.
+The Company measures its derivative instruments at fair value and records them in the Consolidated Balance Sheet as an asset or
+liability, depending on the Company’s rights or obligations under the applicable derivative contract. The accounting for changes
+in the fair value of the derivatives depends on the intended use of the derivative, whether the Company has elected to designate a
+derivative in a hedging relationship and apply hedge accounting and whether the hedging relationship has satisfied the criteria
+necessary to apply hedge accounting. Derivatives designated and qualifying as a hedge of the exposure to changes in the fair
+value of an asset, liability, or firm commitment attributable to a particular risk, such as interest rate risk, are considered fair value
+hedges. Derivatives designated and qualifying as a hedge of the exposure to variability in expected future cash ﬂows, or other
+types of forecasted transactions, are considered cash ﬂow hedges. Derivatives may also be designated as hedges of the foreign
+currency exposure of a net investment in a foreign operation. Hedge accounting generally provides for the matching of the timing
+of gain or loss recognition on the hedging instrument with the recognition of the changes in the fair value of the hedged asset or
+liability that are attributable to the hedged risk in a fair value hedge or the earnings effect of the hedged forecasted transactions in
+a cash ﬂow hedge. The Company may enter into derivative contracts that are intended to economically hedge certain of its risk,
+even though hedge accounting does not apply or the Company elects not to apply hedge accounting under the Derivatives and
+Hedging guidance issued by the FASB.
+The effective portion of the changes in fair value of derivatives designated and that qualify as cash ﬂow hedges is recorded in
+AOCI and is subsequently reclassified into earnings in the period that the hedged forecasted transaction affects earnings. Any
+ineffective portion of the change in fair value of the derivatives is recognized directly in earnings. During 2016, 2015 and 2014,
+the Company had no hedge ineffectiveness.
+Noncontrolling Interests
+The Company accounts for noncontrolling interests in accordance with the Consolidation guidance and the Distinguishing
+Liabilities from Equity guidance issued by the FASB. Noncontrolling interests represent the portion of equity that the Company
+does not own in those entities it consolidates. The Company identifies its noncontrolling interests separately within the equity
+section on the Company’s Consolidated Balance Sheets. The amounts of consolidated net earnings attributable to the Company
+and to the noncontrolling interests are presented separately on the Company’s Consolidated Statements of Income.
+Noncontrolling interests also includes amounts related to partnership units issued by consolidated subsidiaries of the Company in
+connection with certain property acquisitions. These units have a stated redemption value or a defined redemption amount based
+upon the trading price of the Company’s common stock and provides the unit holders various rates of return during the holding
+period. The unit holders generally have the right to redeem their units for cash at any time after one year from issuance. For
+convertible units, the Company typically has the option to settle redemption amounts in cash or common stock.
+The Company evaluates the terms of the partnership units issued in accordance with the FASB’s Distinguishing Liabilities from
+Equity guidance. Units which embody an unconditional obligation requiring the Company to redeem the units for cash after a
+specified or determinable date (or dates) or upon the occurrence of an event that is not solely within the control of the issuer are
+determined to be contingently redeemable under this guidance and are included as Redeemable noncontrolling interest and
+classified within the mezzanine section between Total liabilities and Stockholders’ equity on the Company’s Consolidated
+Balance Sheets. Convertible units for which the Company has the option to settle redemption amounts in cash or Common Stock
+are included in the caption Noncontrolling interest within the equity section on the Company’s Consolidated Balance Sheets.
+54

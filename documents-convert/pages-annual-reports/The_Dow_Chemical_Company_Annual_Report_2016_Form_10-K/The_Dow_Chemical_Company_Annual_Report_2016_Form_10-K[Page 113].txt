@@ -1,0 +1,57 @@
+Basis of Fair Value Measurements Quoted Prices Signiﬁcant
+on a Recurring Basis in Active Other Significant Counterparty
+at December 31, 2015 Markets for Observable Unobservable and Cash
+Identical Items Inputs Inputs Collateral
+In millions (Level 1) (Level 2) (Level 3) Netting (1) Total
+[Assets at fair value: I
+Cash equivalents (2) $ 7 7 $ 5,043 $ 7 7 $ 7 7 $ 5,043
+[ Interests in trade accounts receivable I
+conduits (3) 7 7 7 7 943 4 943
+Eqigty securities (4) 564 39 7 7 7 7 603
+| Debt securities: (4) ‘
+Government debt (5) 7 7 612 7 7 7 7 612
+| Corporate bonds 7 7 651 4 4 651 ‘
+Derivatives relating to: (6)
+| Commodities 5 2 4 (1) 6 l
+: Foreign currency 7 7 161 7 7 (52) 109 :
+[Total assets at fair value $ 569 $ 6,508 $ 943 $ (53) $ 7,967
+Liabilities at fair value:
+| Long-term debt (1) $ 7 7 $ 18,000 $ 4 $ 4 $ 18,000 I
+Derivatives relating to: (6)
+| Interest Rates 7 7 4 4 4 4 ‘
+Commodities 6 256 7 7 (E) 248
+l Foreign currency 7 7 84 4 (52) 32)
+Total liabilities at fair value $ 6 $ 18,344 $ 7 7 $ (66) $ 18,284
+(1) Counterparty and cash collateral amounts represent the estimated net settlement amount when applying netting and set—oﬂ" rights
+included in master netting arrangements between the Company and its counterparties and the cash collateral placed with the same
+counterparty.
+(2) Treasury Bills and money market funds included in "Cash and cash equivalents” in the consolidated balance sheets and held at amortized
+cost, which approximates fair value.
+(3) Included in "Accounts and notes receivable — Other" in the consolidated balance sheets. See Note 16 for additional information on
+transfers of financial assets.
+(4) The Company’s investments in equity and debt securities are primarily classified as available-for—sale and are included in “Other
+investments” in the consolidated balance sheets.
+(5) US. Treasury obligations, U.S. agency obligations, agency mortgage-backed securities and other municipalities’ obligations.
+(6) See Note 11 for the classification of derivatives in the consolidated balance sheets.
+(7) See Note 11 for information on fair value measurements of long-term debt.
+Assets and liabilities related to forward contracts, interest rate swaps, currency swaps, options and other conditional or
+exchange contracts executed with the same counterparty under a master netting arrangement are netted. Collateral accounts are
+netted with corresponding liabilities. The Company posted cash collateral of less than $1 million at December 31, 2016
+($26 million of cash collateral at December 31, 2015).
+For assets and liabilities classified as Level 1 measurements (measured using quoted prices in active markets), total fair value is
+either the price of the most recent trade at the time of the market close or the official close price, as defined by the exchange on
+which the asset is most actively traded on the last trading day of the period, multiplied by the number of units held without
+consideration of transaction costs.
+For assets and liabilities classified as Level 2 measurements, where the security is frequently traded in less active markets, fair
+value is based on the closing price at the end of the period; where the security is less frequently traded, fair value is based on
+the price a dealer would pay for the security or similar securities, adjusted for any terms specific to that asset or liability, or by
+using observable market data points of similar, more liquid securities to imply the price. Market inputs are obtained from well-
+established and recognized vendors of market data and subjected to tolerance and quality checks.
+For derivative assets and liabilities, standard industry models are used to calculate the fair value of the various financial
+instruments based on significant observable market inputs, such as foreign exchange rates, commodity prices, swap rates,
+interest rates and implied volatilities obtained from various market sources. Market inputs are obtained from well-established
+and recognized vendors of market data and subjected to tolerance/quality checks.
+For all other assets and liabilities for which observable inputs are used, fair value is derived through the use of fair value
+models, such as a discounted cash ﬂow model or other standard pricing models. See Note 11 for further information on the
+types of instruments used by the Company for risk management.
+105

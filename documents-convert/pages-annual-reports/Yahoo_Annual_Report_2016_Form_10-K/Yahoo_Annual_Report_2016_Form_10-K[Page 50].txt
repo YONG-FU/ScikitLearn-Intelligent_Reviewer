@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Revenue under the Search Agreement represented approximately 35 percent, 35 percent, and 37 percent of our revenue for the years ended December 31,
+2014, 2015, and 2016, respectively. The increase in revenue from Microsoft from 2015 to 2016 was due to the change in revenue presentation related to the
+Eleventh Amendment that took place in the second quarter of 2016 for which we now account for amounts paid to Afﬁliates in transitioned markets as cost of
+revenue—TAC rather than as a reduction to GAAP revenue, resulting in revenue from the Microsoft Search Agreement being reported on a gross rather than net
+basis. Excluding the impact of the change in revenue presentation related to the Eleventh Amendment, revenue under the Search Agreement represented
+approximately 25 percent of our revenue for the year ended December 31, 2016. This was partially offset by a shift in composition of revenue due to the use of
+Google and Yahoo Gemini (our uniﬁed marketplace for search and native advertising on Yahoo Properties and Afﬁliate sites) to source search results and
+advertisements as allowed by the Eleventh Amendment. See Note 19—“Microsoft Search Agreement” in the Notes to our consolidated ﬁnancial statements for
+additional information.
+Key FinanCIal Metrics
+The key ﬁnancial metrics we use are as follows: revenue; revenue less trafﬁc acquisition costs (“TAC”), or revenue ex-TAC; income (loss) from operations; net
+income (loss) attributable to Yahoo! Inc; adjusted EBITDA; net cash provided by (used in) operating activities; and free cash ﬂow. Revenue ex-TAC, adjusted
+EBITDA, and free cash ﬂow are financial measures that are not deﬁned in accordance with U.S. generally accepted accounting principles (“GAAP”). We use
+these non-GAAP ﬁnancial measures for internal managerial purposes and to facilitate period-to-period comparisons. See “Non-GAAP Financial Measures” below
+for a description of, and limitations speciﬁc to, each of these non-GAAP ﬁnancial measures.
+Years Ended December 31,
+2014 2015 2016
+- (in_t£°_l§aﬂ(is)
+Revenue $ 4,618,133 $ 4.9.6839] $ 5..1_6_9,1_3_5 l
+Revenue ex—TAC _, $ 4,400,602 $ 4,090,187 $ 3,548,349
+income (loss) from operations (1) $ 142,942 $ (4,748,494) $ (645,0_5_8)4‘
+Net income (Ibis) attributable to Yahoo! Inc. $ 7,5g131 $ (4,3_5_9,0_8_2) $ (21_4,_3§)
+Adjusted EBITDA $ 1,361,548 $ 951,740 $ 812,612 7
+Net cashiprovidedby_(used in) _operating activities $ 946,850 $ (2,3_8_3,£2) $ 1,§8,_8_6_3
+Free cash flow (2x3) 35 586,632 $ (3,010,172) $ 1,120,580 l
+(1) lncltgies:
+[ Stock-based compensation expense $ 420,114 $ 451, 153 $ 491,902 I
+Restructuring chargg, net $ 10_3_,45_0 $ 104,04 9 $ 88,629
+| Asset impairment charge $ — $ 44,381 $ — l
+Goodwill impairment charge $ 8_8,414 $ 4,460,837 $ 3_94,9_01
+l Intangible assets impairment charge $ — $ 15,423 $ 87,335 l
+(2) During the year ended December 31, 2015, we satisﬁed the $3.3 billion income tax liability related to the sale of Alibaba Group American Depositary
+Shares (“ADSs”) in Alibaba Group’s initial public offering (“Alibaba Group lPO”) in September 2014.
+(3) During the year ended December 31, 2016, we received net cash proceeds from the sale of land of $246 million and a cash tax refund of $190 million
+associated with our claim to carry back our 2015 losses and tax attributes to earlier taxable years.
+49

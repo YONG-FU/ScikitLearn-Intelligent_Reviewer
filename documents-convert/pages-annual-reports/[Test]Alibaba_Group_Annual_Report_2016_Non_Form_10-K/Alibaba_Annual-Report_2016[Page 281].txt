@@ -1,0 +1,47 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+9. Equity-settled donation expense
+During the year ended March 31, 2014, the Company granted 50,000,000 share options to a non-profit
+organization designated by two members of management of the Company, subject to irrevocable instructions
+to designate and transfer these share options to the separate charitable trusts to be established by these two
+members of management of the Company. These share options were approved by the directors of the board
+and such options are not subject to any vesting conditions and are exercisable for a period of four years
+starting from the grant date. The exercise price of these options is US$25.00 per share and was determined
+with reference to the fair market value of the ordinary shares of the Company at the time of the grant. For
+each of the eight years beginning one year after the date of listing of the ordinary shares of the Company on a
+recognized stock exchange, the charitable trusts are permitted to sell only up to 6,250,000 ordinary shares per
+year excluding such number of unsold ordinary shares carried forward from previous years.
+The fair value of each share option is estimated on the grant date using the Black-Scholes model and the
+assumptions below:
+Year ended
+March 31,
+2014
+Risk-free interest rate (i) 1.02%
+Expected dividend yield (ii) 0%
+Expected life (years) (iii) 4.00
+Expected volatility (iv) 37.2%
+Discount for post-vesting sale restrictions (v) 18.0% - 38.0%
+(i) Risk-free interest rate is based on the yields of United States Treasury securities with maturities similar to
+the expected life of these options at the time of grant.
+(ii) Expected dividend is assumed to be 0% as the Company has no history or expectation of paying a
+dividend on its ordinary shares.
+(iii) Expected life of the options is based on management’s estimate on timing of exercise.
+(iv) Expected volatility is assumed based on the historical volatility of the Company’s comparable companies
+in the period equal to expected life of the options.
+(v) Discount for post-vesting sale restrictions applied on the underlying ordinary shares takes into
+consideration of the restriction on sales of two to eight years.
+As there are no vesting conditions attached to the above share options, equity-settled donation expense of
+RMB1,269 million was recognized in full and recorded in general and administrative expenses during the year
+ended March 31, 2014.
+10. Earnings per share
+Basic earnings per share is computed by dividing net income attributable to ordinary shareholders by the
+weighted average number of outstanding ordinary shares, adjusted for outstanding ordinary shares that are
+subject to repurchase.
+For the calculation of diluted earnings per share, net income attributable to ordinary shareholders for basic
+earnings per share is adjusted by the effect of dilutive securities, including share-based awards, under the
+treasury stock method. In addition, the computation of the diluted earnings per share assumes the conversion
+of Convertible Preference Shares (Note 22) since their issuance. Potentially dilutive securities, of which the
+amounts are insignificant, have been excluded from the computation of diluted net income per share if their
+inclusion is anti-dilutive.
+F-65

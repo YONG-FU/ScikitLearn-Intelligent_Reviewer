@@ -1,0 +1,46 @@
+The provision for (benefit from) income taxes consisted of the following (in thousands):
+7 Fiscal Year Ended January 31, 7
+2016 : : 2015 : : 2014
+Current:
+Federal $ 40,723 $ 893 $ (10,431)
+13,023 1,388 (245)
+57,347 50,493 39,784
+111,093 52,774 29,108
+Deferred:
+Federal................................. 1,453 8,771 (128,798)
+(426) (10,830) (22,012)
+(415) (1,112) (4,058)
+612 (3,171) (154,868)
+Provision for (benefit from) income taxes . . . . . . $111,705 $ 49,603 $(125,760)
+During fiscal 2016, 2015 and 2014, the Company recorded net tax beneﬁts that resulted from allocating
+certain tax effects related to exercises of stock options and vesting of restricted stock directly to stockholders’
+equity in the amount of $59.5 million, $7.7 million and $8.1 million, respectively.
+In fiscal 2016, the Company recorded income taxes in profitable jurisdictions outside the United States and
+current tax expense in the United States. The Company had U.S. current tax expense as a result of taxable income
+before considering certain excess tax benefits from stock options and vesting of restricted stock. In fiscal 2015,
+the Company recorded income taxes in profitable jurisdictions outside the United States, which was partially
+offset by tax benefits from current year losses incurred by ExactTarget in certain state jurisdictions. In fiscal
+2014, the Company recorded a partial release of its valuation allowance primarily in connection with the
+acquisition of ExactTarget. Due to the ExactTarget acquisition, a deferred tax liability was recorded for the book-
+tax basis difference related to purchased intangibles. The net deferred tax liability from acquisitions provided an
+additional source of income to support the realizability of the Company’s pre-existing deferred tax assets and as a
+result, the Company released a portion of its valuation allowance and recorded a tax benefit of $143.1 million.
+A reconciliation of income taxes at the statutory federal income tax rate to the provision for (benefit from)
+income taxes included in the accompanying consolidated statements of operations is as follows (in thousands):
+Fiscal Year Ended January 31,
+: 2016 : : 2015 : : 2014 :
+U.S. federal taxes at statutory rate . . . . . . . . . . . . . . . $ 22,498 $ (74,580) $(125,277)
+State, net of the federal benefit . . . . . . . . . . . . . . . . . . (5,260) (5,332) (10,780)
+Foreign taxes in excess of the U.S. statutory rate . . . . (25,780) 29,880 33,412
+Change in valuation allowance . . . . . . . . . . . . . . . . . . 139,565 100,143 (25,048)
+Taxcredits.................................. (48,943) (28,056) (22,293)
+Non-deductible expenses . . . . . . . . . . . . . . . . . . . . . . 26,841 26,224 21,407
+Tax expense/(benefit) from acquisitions . . . . . . . . . . . 1,584 2,341 1,811
+Other,net................................... 1,200 (1,017) 1,008
+Provision for (benefit from) income taxes . . . . . . . . . $111,705 $ 49,603 $(125,760)
+In December 2015, the US Tax Court (“Tax Court”) formally entered its decision in Altera Corporation’s
+(“Altera”) litigation with the Internal Revenue Service (“IRS”). The litigation relates to the treatment of stock-
+based compensation expense in an inter-company cost-sharing arrangement with Altera’s foreign subsidiary. In
+its opinion, the Tax Court accepted Altera’s position of excluding stock-based compensation from its inter-
+company cost-sharing arrangement. However, the IRS appealed the Tax Court’s decision on February 19, 2016.
+109

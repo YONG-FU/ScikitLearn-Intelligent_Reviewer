@@ -1,0 +1,47 @@
+Share-based Compensation Expense and Valuation of the Underlying Awards
+Granting of share options, restricted shares and RS Us relating to our ordinary shares
+We account for various types of share-based awards granted to the employees, consultants and directors of our
+company, our affiliates and certain other companies, such as Ant Financial Services, in accordance with the
+authoritative guidance on share-based compensation expense. Under the fair value recognition provision of such
+guidance, compensation for share—based awards granted, including share options, restricted shares and RSUs, is
+measured at the grant date, or at future vesting date in the case of consultants or other grantees, based on the fair
+value of the awards and is recognized as expense over the requisite service period, which is generally the vesting
+period of the respective award, on an accelerated attribution method. In the case of share-based awards to
+non-employees, the fair value of the unvested portion is re-measured each period, with the resulting difference, if
+any, recognized as expense during the period the related services are rendered. Under the accelerated attribution
+method, each vesting installment of a graded vesting award is treated as a separate share-based award, and
+accordingly each vesting installment is separately measured and attributed to expense, resulting in accelerated
+recognition of share-based compensation expense.
+Share-based compensation expense is recorded net of estimated forfeitures in our consolidated income
+statement and as such is recorded for only those share-based awards that we expect to vest. We estimate the
+forfeiture rate based on historical forfeitures of equity awards and adjust the rate to reﬂect changes in facts and
+circumstances, if any. We revise our estimated forfeiture rate if actual forfeitures differ from our initial estimates.
+Determining the fair value of share-based awards requires significant judgment. We estimated the fair value of
+our share options using the Black-Scholes option-valuation model, which requires inputs such as the fair value of
+our ordinary shares, risk-free interest rate, expected dividend yield, expected life and expected volatility on the
+following assumptions:
+0 Fair value of our ordinary shares — prior to our initial public offering in September 2014, the fair value was
+determined based on management estimates, as discussed in the paragraphs below. Subsequent to our initial
+public offering, the market price of our publicly traded ADSs is used as an indicator of fair value for our
+ordinary shares.
+0 Risk free interest rate — the risk free interest rate is based on the yields of US. Treasury securities with
+maturities similar to the expected life of the share options.
+0 Expected dividend yield — we have never declared or paid any cash dividends on our ordinary shares and
+do not presently plan to pay cash dividends in the foreseeable future. Consequently, we used an expected
+dividend yield of zero.
+° Expected life — the expected term was estimated based on the average between the vesting period and the
+contractual term.
+0 Expected volatility — as we have a short period of trading history for our ordinary shares, the expected
+volatility for our ordinary shares was estimated by taking the average historical price volatility for industry
+peers based on the price ﬂuctuations of their shares over a period equivalent to the expected term of the
+share options granted. Industry peers consist of several public companies in the technology industry similar
+in size, which are engaged in similar business sectors in China and worldwide. We intend to continue to
+consistently apply this process using the same or similar public companies until a sufficient amount of
+historical information regarding the volatility of our own ordinary share price becomes available, or unless
+circumstances change such that the identified companies are no longer similar to us, in which case, more
+suitable companies whose share prices are publicly available would be utilized in the calculation.
+The fair value of restricted shares and RSUs is determined based on the fair value of our ordinary shares.
+Prior to our initial public offering in September 2014, in the absence of a public trading market, the
+determination of the fair value of our ordinary shares by the administrators was made with reference to the price
+at which we had recently sold our ordinary shares to third-party investors, or other representative private share
+142

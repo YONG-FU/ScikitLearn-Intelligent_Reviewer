@@ -1,0 +1,27 @@
+December 31, 2015 Gross Gross
+Amortized unrealized unrealized Estimated
+($ in thousands) cost gains losses fair values
+Securities available-for—sale: : : : : : : : :
+Fixed maturity securities:
+I U.S. treasury $ 12,566 $ 23 s — $ 12,589 I
+U.S. government-sponsored agencies 202,486 1,817 1,637 202,666
+I Obligations of states and political subdivisions 319,940 24,419 — 344,359 I
+Commercial mortgage-backed 44,433 1,692 17 46,108
+I Residential mortgage-backed 94,279 1,059 6,795 88,543 I
+Other asset-backed 17,000 883 39 17,844
+I Corporate 439,513 12,992 3,589 448,916 I
+Total fixed maturity securities : 1,130,2 17 42,885 12,077 1,161,025 :
+I Equity securities: I
+I Common stocks: I
+Financial services 24,557 9,731 333 33,955
+I Information technology 19,427 8,807 132 28,102 I
+Healthcare 15,599 10,359 64 25,894
+I Consumer staples 1 1,136 7,090 26 18,200 I
+Consumer discretionary 10,270 8,65 8 5 18,923
+I Energy 16,384 5,972 1,288 21,068 I
+Industrials 1 1,525 8,902 1 1 20,416
+I Other 17,246 3,672 235 20,683 I
+Non-redeemable preferred stocks 1 8,032 1,168 198 19,002
+I Total equity securities : 144,176 64,359 2,292 206,243 I
+Total securities available-for-sale $ 1,274,393 _$ 107,244 _$ 14,369 _$ 1,367,268
+142

@@ -1,0 +1,56 @@
+ITEM 1A. RISK FACTORS
+Our operating results and financial condition have varied in the past and could in the future vary significantly depending
+on a number of factors. From time to time, information provided by us or statements made by our employees contain “forward-
+looking” information that involves risks and uncertainties. In particular, statements contained in this Annual Report on Form
+10-K for the year ended December 31, 2016, and in the documents incorporated by reference into this Annual Report on Form
+10-K for the year ended December 31, 2016, that are not historical facts, including, but not limited to, statements concerning
+new products, product development and offerings of products and services, market positioning, distribution and sales channels,
+our partners and other strategic or technology relationships, financial information and results of operations for future periods,
+product and price competition, strategy, operational and growth initiatives, seasonal factors, natural disasters, stock-based
+compensation, licensing and subscription renewal programs, international operations and expansion, investment transactions
+and valuations of investments and derivative instruments, reinvestment or repatriation of foreign earnings, ﬂuctuations in
+foreign exchange rates, tax matters, acquisitions, stock repurchases, our debt, changes in accounting rules or guidance, changes
+in domestic and foreign economic conditions, delays or reductions in technology purchases, liquidity, litigation matters and
+intellectual property matters, constitute forward-looking statements and are made under the safe harbor provisions of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+These statements are neither promises nor guarantees. Our actual results of operations and financial condition could vary
+materially from those stated in any forward-looking statements. The following factors, among others, could cause actual results
+to differ materially from those contained in forward-looking statements made in this Annual Report on Form 10-K for the year
+ended December 31, 2016, in the documents incorporated by reference into this Annual Report on Form 10-K or presented
+elsewhere by our management from time to time. Such factors, among others, could have a material adverse effect upon our
+business, results of operations and financial condition. We caution readers not to place undue reliance on any forward-looking
+statements, which only speak as of the date made. We undertake no obligation to update any forward-looking statement to
+reﬂect events or circumstances after the date on which such statement is made.
+RISKS RELATED TO OUR BUSINESS AND INDUSTRY
+A significant portion of our revenues has historically come from ourApplication Virtualization and VDI solutions, and
+decreases in sales for certain of these products could adversely aﬂect our results of operations and ﬁnancial condition
+A significant portion of our revenues has historically come from our Application Virtualization and VDI solutions. We
+continue to anticipate that sales of our Application Virtualization and VDI solutions and related enhancements and upgrades
+will constitute a majority of our revenue for the foreseeable future; and with the completion of the spinoﬁ of the GoTo
+Business, our business will be further dependent upon sales of these products. Declines and variability in sales of certain of our
+Application Virtualization and VDI solutions could occur as a result of:
+0 new competitive product releases and updates to existing products, especially cloud-based products;
+0 industry trend to focus on the secure delivery of applications on mobile devices;
+- introduction of new or alternative technologies, products or service offerings by third parties;
+- termination or reduction of our product offerings and enhancements;
+° potential market saturation;
+- failure to enter new markets;
+0 price and product competition resulting from rapid and frequent technological changes and customer needs;
+0 general economic conditions;
+° complexities and cost in implementation;
+0 failure to deliver satisfactory technical support;
+0 dissatisfied customers; or
+0 lack of commercial success of our technology relationships.
+In addition, we have experienced increased competition in the Application Virtualization and VDI business from directly
+competing products, alternative products and products on new platforms. For example, Amazon Web Services provides
+Amazon WorkSpaces and VMWare provides Horizon, both of which compete with our XenApp product oﬁerings. Also, there
+continues to be an increase in the number of alternatives to Windows operating system powered desktops, in particular mobile
+devices such as smartphones and tablet computers. Users may increasingly turn to these devices to perform functions that
+would have been traditionally performed on desktops and laptops, which in turn may reduce the market for our Application
+Virtualization and VDI solutions. Further, increased use of certain SaaS applications may result in customers relying less on
+Windows applications. If sales of our Application Virtualization and VDI solutions decline as a result of these or other factors,
+our revenue would decrease and our results of operations and financial condition would be adversely affected. In addition,
+modifications to certain of our Application Virtualization and VDI solutions may cause variability in our Application
+Virtualization and VDI revenue, and make it difficult to predict our revenue growth and trends, as our customers adjust their
+purchasing decisions in response to such events.
+1 3

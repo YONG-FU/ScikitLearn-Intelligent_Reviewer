@@ -1,0 +1,55 @@
+Property, Plant and Equipment and Other Finite-Lived Assets
+We evaluate property, plant and equipment and other finite-lived assets for impairment when facts and circumstances indicate
+that the carrying values of such assets may not be recoverable. When evaluating for impairment, we first compare the carrying
+value of the asset to the asset’s estimated future undiscounted cash ﬂows. If the estimated undiscounted ﬁJture cash ﬂows are
+less than the carrying value of the asset, we determine if we have an impairment loss by comparing the carrying value of the
+asset to the asset's estimated fair value and recognize an impairment charge when the asset’s carrying value exceeds its
+estimated fair value. The adjusted carrying amount of the asset becomes its new cost basis and is depreciated over the asset's
+remaining useﬁdl life.
+Long-lived assets are grouped with other assets and liabilities at the lowest level for which identifiable cash ﬂows are largely
+independent of the cash ﬂows of other assets and liabilities. For company-operated store assets, the impairment test is
+performed at the individual store asset group level. The fair value of a store’s assets is estimated using a discounted cash ﬂow
+model. For other long-lived assets, fair value is determined using an approach that is appropriate based on the relevant facts and
+circumstances, which may include discounted cash ﬂows, comparable transactions, or comparable company analyses.
+Our impairment calculations contain uncertainties because they require management to make assumptions and to apply
+judgment to estimate ﬁJture cash ﬂows and asset fair values. Key assumptions used in estimating ﬁJture cash ﬂows and asset
+fair values include projected revenue growth and operating expenses, as well as forecasting asset useﬁJl lives and selecting an
+appropriate discount rate. For company—operated stores, estimates of revenue growth and operating expenses are based on
+internal projections and consider the store’s historical performance, the local market economics and the business environment
+impacting the store’s performance. The discount rate is selected based on what we believe a buyer would assume when
+determining a purchase price for the store. These estimates are subjective and our ability to realize future cash ﬂows and asset
+fair values is affected by factors such as ongoing maintenance and improvement of the assets, changes in economic conditions,
+and changes in operating performance.
+During fiscal 2016, there were no significant changes in any of our estimates or assumptions that had a material impact on the
+outcome of our impairment calculations. However, as we periodically reassess estimated future cash ﬂows and asset fair values,
+changes in our estimates and assumptions may cause us to realize material impairment charges in the future.
+Goodwill and Indefinite-Lived Intangible Assets
+We evaluate goodwill and indefinite-lived intangible assets for impairment annually during our third fiscal quarter, or more
+frequently if an event occurs or circumstances change that would indicate that impairment may exist. When evaluating these
+assets for impairment, we may first perform a qualitative assessment to determine whether it is more likely than not that a
+reporting unit or intangible asset group is impaired. If we do not perform a qualitative assessment, or if we determine that it is
+not more likely than not that the fair value of the reporting unit or intangible asset group exceeds its carrying amount, we
+calculate the estimated fair value of the reporting unit using discounted cash ﬂows.
+When assessing goodwill for impairment, our decision to perform a qualitative impairment assessment for an individual
+reporting unit in a given year is inﬂuenced by a number of factors, inclusive of the size of the reporting unit's goodwill, the
+significance of the excess of the reporting unit's estimated fair value over carrying value at the last quantitative assessment date,
+the amount of time in between quantitative fair value assessments and the date of acquisition. If we perform a quantitative
+assessment of an individual reporting unit’s goodwill, our impairment calculations contain uncertainties because they require
+management to make assumptions and to apply judgment when estimating future cash ﬂows and asset fair values, including
+projected revenue growth and operating expenses related to existing businesses, product innovation and new store concepts, as
+well as selecting an appropriate discount rate. Estimates of revenue growth and operating expenses are based on internal
+projections considering the reporting unit’s past performance and forecasted growth, strategic initiatives, local market
+economics and the local business environment impacting the reporting unit’s performance. The discount rate is selected based
+on the estimated cost of capital for a market participant to operate the reporting unit in the region. These estimates are highly
+subjective, and our ability to realize the ﬁJture cash ﬂows used in our fair value calculations is affected by factors such as the
+success of strategic initiatives, changes in economic conditions, changes in our operating performance and changes in our
+business strategies, including retail initiatives and international expansion.
+When assessing indefinite-lived intangible assets for impairment, where we perform a qualitative assessment, we evaluate if
+changes in events or circumstances have occurred that indicate that impairment may exist. If we do not perform a qualitative
+impairment assessment or if changes in events and circumstances indicate that a quantitative assessment should be performed,
+management is required to calculate the fair value of the intangible asset group. The fair value calculation includes estimates of
+revenue growth, which are based on past performance and internal projections for the intangible asset group's forecasted
+growth, and royalty rates, which are adjusted for our particular facts and circumstances. The discount rate is selected based on
+the estimated cost of capital that reﬂects the risk profile of the related business. These estimates are highly subjective, and our
+ability to achieve the forecasted cash ﬂows used in our fair value calculations is aﬁected by factors such as the success of
+42 Starbucks Corporation 2016 Form 10-K

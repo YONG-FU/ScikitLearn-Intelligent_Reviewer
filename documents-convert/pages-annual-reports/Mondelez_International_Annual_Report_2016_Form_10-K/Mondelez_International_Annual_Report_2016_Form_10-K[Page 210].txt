@@ -1,0 +1,28 @@
+“ Single Emplgyer Plan ” means a single employer plan, as deﬁned in Section 4001(a)(15) of ERISA, that (a) is maintained for employees of any
+Borrower or any ERISA Affiliate and no Person other than such Borrower and the ERISA Afﬁliates or (b) was so maintained and in respect of which such
+Borrower or any ERISA Affiliate could have liability under Section 4069 of ERISA in the event such plan has been or were to be terminated.
+“ Standard & Poor’s ” means Standard & Poor’s Ratings Services, a Standard & Poor’s Financial Services LLC business, and any successor thereto.
+“ Subsidiary: of any Person means any Person of which (or in which) more than 50% of the outstanding capital stock having voting power to elect a
+majority of the Board of Directors of such Person (irrespective of whether at the time capital stock of any other class or classes of such corporation shall or might
+have voting power upon the occurrence of any contingency) is at the time directly or indirectly owned or controlled by such Person, by such Person and one or more
+of its other Subsidiaries or by one or more of such Person’s other Subsidiaries.
+“ Taxes ” has the meaning specified in Section 2.15(a).
+“ IerminationDate,” means the earlier of October 14, 2021, subject to the extension thereof pursuant to Section 2.10(b), and the date of termination in
+whole of the Commitments pursuant to Section 2.10(a) or 6.02.
+“ IotaLShareholdersLquty: means total shareholders’ equity, as reﬂected on the consolidated balance sheet of Mondeléz and its Subsidiaries
+(excluding (a) accumulated other comprehensive income or losses, (b) the cumulative effects of any changes in accounting principles, including in connection with
+any adoption of “mark-to-market” accounting in respect of pension and other retirement plans of Mondeléz and its Subsidiaries, and (c) if
+“mark-to-market” accounting in respect of such pension and other retirement plans is so adopted, any income or losses recognized in connection with the ongoing
+application thereof).
+“ Write-Down and Conversion Powers ” means, with respect to any EEA Resolution Authority, the write-down and conversion powers of such EBA
+Resolution Authority from time to time under the Bail-In Legislation for the applicable EBA Member Country, which write-down and conversion powers are
+described in the EU Bail-In Legislation Schedule.
+SECTION 1.02 ComputationofiTimePeriods,. In this Agreement in the computation of periods of time from a speciﬁed date to a later speciﬁed
+date, the word “from” means “from and including” and the words “to” and “until” each mean “to but excluding.”
+SECTION 1.03 Accounting Terms . All accounting terms not speciﬁcally deﬁned herein shall be construed in accordance with accounting principles
+generally accepted in the United States of America (subject to the exceptions set forth in this Section 1.03, “ GAAB”), except that if there has been a material
+change in an accounting principle affecting the definition of an accounting term as compared to that applied in the preparation of the ﬁnancial statements of
+Mondelez as of and for the year ended December 31, 2015, then such new accounting principle shall not be used in the determination of the amount associated with
+that accounting term. A material change in an accounting principle is one that, in the year of its adoption, changes the amount associated with the relevant
+accounting term for any quarter in such year by more than 10%.
+-14-

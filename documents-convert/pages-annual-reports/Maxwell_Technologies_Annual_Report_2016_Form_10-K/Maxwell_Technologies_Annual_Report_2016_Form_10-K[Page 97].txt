@@ -1,0 +1,30 @@
+“ Ierrltorvémeans the People's Republic of China, excluding, except where the context otherwise requires and for purposes of this Localization
+Agreement, Hong Kong, the Macau Special Administrative Region of the PRC and Taiwan Region.
+“ IbirdJBam/j means any Person other than Party A or Party B.
+“ UCAP Cell ” means a standalone fully functional ultracapacitor (which is a device that is an electric double layer capacitor), including any
+thermal, mechanical, and electrical interfaces, for use individually or in a UCAP Module.
+“ UCAP Module ” means an assembly of more than one UCAP Cell, including associated packaging, electrical connections, electronic monitoring
+and controls, sensors, and other parts as required to obtain higher energy (capacitance, voltage or both) as compared to a single UCAP Cell.
+1.2. Section, Annex and paragraph headings shall not affect the interpretation of this Localization Agreement.
+1.3. The Annexes form part of this Localization Agreement and shall have effect as if set out in full in the body of this Localization Agreement. Any
+reference to this Localization Agreement includes the Schedules.
+1.4. Unless the context otherwise requires, words in the singular shall include the plural and in the plural shall include the singular.
+1.5. This Localization Agreement shall be binding on, and inure to the benefit of, the parties to this Localization Agreement and their respective
+personal representatives, successors and permitted assigns, and references to any party shall include that party‘s personal representatives,
+successors and permitted assigns.
+1.6. A reference to a statute or statutory provision is a reference to it as amended, extended or re—enacted from time to time.
+1.7. A reference to this Localization Agreement or to any other agreement or document referred to in this Localization Agreement is a reference of
+this Localization Agreement or such other agreement or document as varied or novated (in each case, other than in breach of the provisions of
+this Localization Agreement) from time to time.
+1.8. References to Sections and Annexes are to the Sections and Annexes of this Localization Agreement
+1.9. Any words following the terms including, include, in particular, for example or any similar expression shall be construed as illustrative and shall
+not limit the sense of the words, description, definition, phrase or term preceding those terms.
+2. TERM OF AGREEMENT
+2.1. Unless terminated earlier in accordance with its terms, this Localization Agreement is effective as of the Effective Date and will remain in force
+until the conclusion of a period of 10 years from the Production Date (" ,Inltianerm,") and shall automatically extend for 1 year (" Extended
+Term ") at the end of the Initial Term and at the end of each Extended Term.
+3. ASSET TRANSFER
+3.1. E:qgipment.
+Conﬁdenﬁal
+Maxwell Agreement No.: 000004530
+Localization Agreement — SRI-Maxwell 5

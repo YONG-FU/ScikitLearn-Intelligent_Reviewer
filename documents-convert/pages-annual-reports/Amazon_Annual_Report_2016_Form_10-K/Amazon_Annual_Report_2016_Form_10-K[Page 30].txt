@@ -1,0 +1,40 @@
+Table of Contents
+Equity—Method Investment Activity, Net of Tax
+Equity-method investment activity, net of tax, was $37 million, $(22) million, and $(96) million in 2014, 2015, and 2016. The primary component of
+this activity during 2014 was our share of a gain recorded by LivingSocial related to the sale of its Korean operations. This gain was partially offset by
+operating losses incurred by LivingSocial during the period. The primary components of this activity during 2015 and 2016 were our equity-method
+investment losses during the periods and impairments recorded in 2016.
+Non-GAAP Financial Measures
+Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations deﬁne and prescribe the conditions for use of certain
+non-GAAP ﬁnancial information. Our measures of free cash ﬂows and the effect of foreign exchange rates on our consolidated statements of operations, meet
+the deﬁnition of non-GAAP ﬁnancial measures.
+We provide multiple measures of free cash ﬂows because we believe these measures provide additional perspective on the impact of acquiring property
+and equipment with cash and through capital and ﬁnance leases.
+Free Cash Flow
+Free cash ﬂow is cash ﬂow from operations reduced by “Purchases of property and equipment, including intemal-use software and website
+development, net,” which is included in cash ﬂow from investing activities. The following is a reconciliation of free cash ﬂow to the most comparable GAAP
+cash ﬂow measure, “Net cash provided by (used in) operating activities,” for 2014, 2015, and 2016 (in millions):
+Year Ended December 31,
+2014 _ 2015 _ 2016
+Net cash provided by (used in) operating activities $ 6,842 $ 11,920 $ 16,443 1
+Purchases of property and equipment, including intemal—use software and website development,
+net (4,893) _ (4,589) _ (6,737)
+Free cash ﬂow $ 1,949 $ 7,331 $ 9,706 1
+Net cash provided by (used in) investing activities $ (5,065) $ (6,450) $ (9,876) 1
+Net cash provided by (used in) ﬁnancing activities $ 4,432 $ (3,763) $ (2,911)
+Free Cash Flow Less Lease Principal Repayments
+Free cash ﬂow less lease principal repayments is free cash ﬂow reduced by “Principal repayments of capital lease obligations,” and “Principal
+repayments of ﬁnance lease obligations,” which are included in cash ﬂow from ﬁnancing activities. Free cash ﬂow less lease principal repayments
+approximates the actual payments of cash for our capital and ﬁnance leases. The following is a reconciliation of free cash ﬂow less lease principal repayments
+to the most comparable GAAP cash ﬂow measure, “Net cash provided by (used in) operating activities,” for 2014, 2015, and 2016 (in millions):
+Year Ended December 31,
+2014 _ 2015 _ 2016
+Net cash provided by (used in) operating activities $ 6,842 $ 11,920 $ 16,443 1
+Purchases of property and equipment, including intemal—use software and website development,
+net (4,893) (4,589) (6,737)
+lPrincipal reIEyments of capital lease obligations (1,285) (2,462) (3,860) 1
+Principal repayments of ﬁnance lease obligations (135) _ (121) _ (147)
+Free cash ﬂow less lease principal repayments $ 529 $ 4,748 $ 5,699 1
+Net cash provided by (used in) investing activities $ (5 ,065) $ (6,450) $ (9,876) 1
+Net cash provided by (used in) ﬁnancing activities $ 4,432 $ (3 ,763) $ (2,911)
+30

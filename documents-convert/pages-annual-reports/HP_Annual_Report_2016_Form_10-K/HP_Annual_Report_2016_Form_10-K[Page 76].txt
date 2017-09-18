@@ -1,0 +1,50 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 5: Retirement and Post-Retirement Beneﬁt Plan (Continued)
+HP offers various deﬁned contribution plans for US. and non-US. employees. Total defined contribution expense was
+$100 million for fiscal year 2016, $92 million in fiscal year 2015 and $93 million in fiscal year 2014.
+US. employees are automatically enrolled in the HP Inc. 401(k) Plan when they meet eligibility requirements, unless
+they decline participation. The quarterly employer matching contributions in the HP Inc. 401(k) Plan are 100% of an
+employee’s contributions, up to a maximum of 4% of eligible compensation. Eﬁective January 2017, the funding of employer
+matching contributions will change to be made annually, sometime after the end of the calendar year.
+Pension and Post-Retirement Beneﬁt Expense
+The components of HP’s pension and post-retirement benefit cost (credit) recognized in the Consolidated Statements of
+Earnings were as follows:
+7 For the ﬁscal years ended October 31 7
+: 2016 7 7 2015 7 7 2014 7 7 2016 7 7 2015 7 7 2014 7 7 2016 7 7 2015 7 7 2014
+7 us. Deﬁned 7 7 News. Deﬁned ’ ’ Post-Retirement ’
+7 Beneﬁt Plans 7 7 Beneﬁt Plans 7 7 Beneﬁt Plans 7
+7 7 7 In millions 7 7 7
+[serviceccst $ — $ 1 $ 1 $ 47 $ 208 $ 234 $ 1 $ 5 $ 5‘
+Interest cost 543 556 554 20 289 454 20 28 32
+1 Expected return on plan assets (732) (849) (811) (36) (601) (776) (33) (39) (34)]
+Amortization and deferrals:
+] Actuarial loss (gain) 55 52 13 28 213 236 (12) (11) (10)]
+Prior service beneﬁt (credit) — — — (3) (15) (21) (17) (19) (41)
+I Net periodic benefit (credit) cost 7 (134)? (240)? (243)? 56 94 127 (41)? (36)? (48):
+Curtailment gain ’ —” —” —” (1)” —” (6) 7 —” —” —’
+] Settlement loss (gain) 180 (79) l 3 — 4 — — — 1
+Special termination benefits — — — — 7 1 1 4 1 32
+I Plan expense (credit) allocation“) 7 — — — — 25 (6)? — 28 18
+Total beneﬁt cost (credit) from continuing 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+operations 7$ 46 7 7$ (319), 7$ (242) 7$ 587 7$ 1267 7$ 1307 7$ (37), 7$ (7) 7$ 27
+I Summary of total beneﬁt (credit) cost: ‘
+Continuing operations $ 46 $ (319) $ (242) $ 58 $ 126 $ 130 $ (37) $ (7) $ 2
+’Discontinued operations 7 236? 17? 105T 1257 (28)? (18):
+Total beneﬁt cost (credit) ’8 46 7 8 (83) 8 (225) ’8 58 7 ’8 231 ’ ’8 255 ’ ’8 (37) ’8 (35) ’8 (16)
+(1) Plan expense (credit) allocation relates to the employees of HP covered under Hewlett Packard Enterprise plans or
+employees of Hewlett Packard Enterprise covered under HP plans.
+Lump sum program
+During fiscal year 2016, HP oﬁered certain terminated vested participants of the Pension Plan the option of receiving
+their pension benefit in a one-time voluntary lump sum during a specific window. Approximately 16,000 plan participants
+elected to receive their beneﬁts and as a result the pension plan trust paid $977 million in lump sum payments to these
+participants in fiscal year 2016. As a result of the lump sum program, HP recognized a settlement expense of approximately
+$177 million in October 2016. The resulting re-measurement coincided with annual year end plan remeasurement and no
+additional net periodic pension cost was incurred in fiscal year 2016.
+In January 2015, HP offered certain terminated vested participants of the Pension Plan the option of receiving their
+pension benefit in a one-time voluntary lump sum during a specified window. Approximately 50% of the eligible participants
+elected to receive their beneﬁts and as a result the pension plan trust paid $826 million in lump sum payments to these
+participants in fiscal year 2015. As a result of the lump sum program, HP recognized a settlement credit of approximately $79
+million in fiscal year 2015. As a result of the settlement, additional net periodic benefit cost of $20 million was recorded in
+76

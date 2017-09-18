@@ -1,0 +1,41 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+The consideration paid as of the closing date was $80.2 million and has been allocated to the Company’s
+assets and liabilities as follows: $68.5 million to goodwill, $9.0 million to identifiable intangible assets and the
+remaining $2.7 million to net working capital.
+The Company incurred approximately $1.1 million in transaction costs, including legal and accounting fees,
+relating to the acquisition. These transaction costs have been expensed as incurred and included in general and
+administrative expense on the Company’s Consolidated Statement of Operations for the ﬁscal year ended
+February 28, 2015.
+Acquisition of eNovance, SAS
+On June 24, 2014, the Company completed its acquisition of all of the shares of eNovance, SAS
+(“eNovance”), a provider of open source cloud computing services. The acquisition is intended to assist in
+advancing the Company’s market position in OpenStack, and the addition of eNovance’s systems integration
+capabilities and engineering talent is expected to help meet growing demand for enterprise OpenStack
+consulting, design and deployment.
+The consideration paid was $67.6 million and has been allocated to the Company’s assets and liabilities as
+follows: $60.8 million to goodwill, $5.3 million to identifiable intangible assets and the remaining $1.5 million to
+net working capital.
+In addition to the cash consideration transferred, the Company issued a total of 529,057 restricted common
+shares to certain employee-shareholders. The vesting of these restricted shares is conditioned on continued
+employment with the Company. As a result of the employment condition, the transfer of these shares has been
+accounted for apart from the business combination. The shares effectively vest 25% per year, with the closing-
+date date fair value of the shares being amortized, on a straight-line basis, to share-based compensation expense
+in the Company’s Consolidated Statement of Operations.
+The Company incurred approximately $0.9 million in transaction costs, including legal and accounting fees,
+relating to the acquisition. These transaction costs have been expensed as incurred and included in general and
+administrative expense on the Company’s Consolidated Statement of Operations for the fiscal year ended
+February 28, 2015.
+Acquisition of Inktank Storage, Inc.
+On April 30, 2014, the Company completed its acquisition of all of the shares of Inktank Storage, Inc.
+(“Inktank”), a provider of scale-out, open source storage systems, whose ﬂagship technology, Inktank Ceph
+Enterprise, delivers object and block storage software to enterprises deploying public or private clouds. The
+acquisition is intended to complement the Company’s existing GlusterFS-based storage offering.
+The consideration paid was $152.5 million and has been allocated to the Company’s assets and liabilities as
+follows: $131.4 million to goodwill, $10.8 million to identifiable intangible assets and the remaining $10.3
+million to net working capital.
+The Company incurred approximately $2.0 million in transaction costs, including legal and accounting fees,
+relating to the acquisition. These transaction costs have been expensed as incurred and included in general and
+administrative expense on the Company’s Consolidated Statement of Operations for the fiscal year ended
+February 28, 2015.
+89

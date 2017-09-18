@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+Noncontrolling Interests
+As of December 31, noncontrolling interests were as follows (in thousands):
+2015 2016
+I3_eginning noncontrolling interests 8 43,155 8_3_5_,8_8_3 l
+Disitributions to noncontrolling interests (1_5_,84_7) (5,948)
+(Net income attributable to noncontrolling interests 7,975 4,8581
+Ending noncontrolling interests 8 35,883 $73,193.:
+Other Income (Expense), Net
+Other income (expense), net for 2014, 2015, and 2016 were as follows (in thousands):
+Years Ended December 31,
+2014 2015 2016
+Interest and investment income 8 26,309 8 34,383 $ 6_0,9_3_1 l
+lnLereSt expensiﬁi , _ (6_8,§3_5_1) (7_1.§5_6_5) (23,183)
+gain on sale of Alibaba Group ADSS 19,319,437 _ _ j
+Gain7(loss)ion Hortonworks warrants 9_8,p_6_2 (1_9_,1_9_9) (59,046)
+Foreign exchange_(loss)_gain (1_4,8_8_7) (242,226) 4,282 j
+Other 7 9,169 3,125 4,700
+| Total other income (e_xpense)_, net 8 10,369,439: 8 (775,782) 8 (573,916)J
+Interest and investment income consists of income earned from cash and cash equivalents in bank accounts and investments made in marketable debt
+secunﬁes.
+Interest expense is related to the Notes and notes payable related to building and capital lease obligations for data centers.
+Gain on sale of Alibaba Group ADSs during the year ended December 31, 2014 is attributable to the pre-tax gain related to the sale of 140 million ADSs of
+Alibaba Group in the Alibaba Group lPO on September 24, 2014.
+During the year ended December 31, 2014, the Company recorded a gain of $57 million upon the initial public offering of Hortonworks and a $41 million gain
+related to the mark to market of the warrants as of December 31, 2014, which were included within other income (expense), net in the consolidated statements
+of operations. During the year ended December 31, 2015, the Company recorded a loss of $19 million related to the mark to market of the warrants as of
+December 31, 2015, which was included within other income (expense), net in the Company’s consolidated statements of operations. During the year ended
+December 31, 2016, the Company recorded a loss of $50 million related to the mark to market of the warrants as of December 31, 2016, which was included
+within other income (expense), net in the Company’s consolidated statements of operations. Changes in the estimated fair value of the Hortonworks warrants will
+be recorded through other income (expense), net in the Company’s consolidated statements of operations. See Note 2—“Marketable Securities, Investments
+and Fair Value Disclosures” for additional information.
+124

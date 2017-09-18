@@ -1,0 +1,40 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+The excess of purchase price paid for Ansible, FeedHenry, eNovance, Inktank and other acquisitions over
+the fair value of the net assets acquired was recognized as goodwill. Goodwill comprises the majority of the
+purchase price paid for each of the acquired businesses because these businesses were focused on emerging
+technologies such as development and operations automation, mobile technologies, cloud-enabling technologies
+and software-defined storage technologies, which consequently—at the time of acquisition—generated relatively
+little revenue. However, these acquired businesses, with their assembled, highly-specialized workforces and
+community of contributors, are expected to both expand the Company’s existing technology portfolio and
+advance the Company’s market position overall in open source solutions.
+NOTE 4—Accounts Receivable
+Accounts receivable are presented net of an allowance for doubtful accounts. Activity in the Company’s
+allowance for doubtful accounts for the years ended February 29, 2016, February 28, 2015 and February 28, 2014
+is presented in the following table (in thousands):
+Balance at Charged Balance at
+beginning to end of
+:of period: :expense: Adjustments (1) : period :
+$1,339 841 (194) $1,986
+$1,986 469 (208) $2,247
+$2,247 1,323 (772) $2,798
+(1) Represents foreign currency translation adjustments and amounts written-off as uncollectible accounts
+receivable.
+As of February 29, 2016 and February 28, 2015, no individual customer accounted for 10% or more of the
+Company’s accounts receivable.
+NOTE S—Prepaid Expenses
+Prepaid expenses include sales commissions, taxes and insurance. Sales commissions are the incremental
+costs that are directly associated with non-cancelable subscription contracts with customers and consist of sales
+commissions paid to the Company’s sales force. The commissions are deferred and amortized over a period to
+approximate the period of the subscription term. For further discussion on deferred commissions see NOTE 2=
+Summary of Significant Accounting Policies. Prepaid expenses, including sales commissions, were comprised of
+the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Deferredcommissions $102,254 $107,313
+Professionalservices.................................................... 21,160 14,934
+15,819 17,543
+2,160 1,859
+9,484 9,066
+Prepaidexpenses $150,877 $150,715
+91

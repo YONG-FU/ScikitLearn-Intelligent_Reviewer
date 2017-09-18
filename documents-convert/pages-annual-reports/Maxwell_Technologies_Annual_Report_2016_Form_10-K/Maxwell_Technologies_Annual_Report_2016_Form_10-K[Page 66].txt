@@ -1,0 +1,41 @@
+In 2016, the Company assessed the qualitative factors for one of its two reporting units and concluded that it was more likely than not that its fair value
+exceeded its carrying value and therefore did not perform quantitative testing for the reporting unit. For its other reporting unit, the Company determined to skip
+the qualitative assessment and moved directly to the first quantitative test. The Company utilized a discounted cash flow methodology to calculate the fair value of
+the reporting unit. Based on the fair value analysis, management concluded that fair value exceeded carrying value of the reporting unit and no additional
+quantitative testing was required. As a result of the Company’s annual assessments, no impairment was indicated as of December 31, 2016 , 2015 and 2014 .
+The change in the carrying amount of goodwill during 2015 and 2016 was as follows (in thousands):
+’Balance at December 31, 2014 $ 23,599 ‘
+Foreign currency translation adjustments 36
+’Balance at December 31, 2015 23,635 1
+Foreign currency translation adjustments (545)
+I Disposition of microelectronics product line (291) ‘
+Balance at December 31, 2016 $ 22,799
+Note 4 — Sale of Microelectronics Product Line
+On April 27, 2016, the Company sold substantially all of the assets and liabilities comprising its microelectronics product line to Data Device Corporation, a
+privately-held Delaware corporation. The transaction purchase price was $21.0 million , subject to a working capital adjustment and a one year $1.5 million escrow
+holdback on the purchase price.
+The assets sold were primarily comprised of inventory, accounts receivable and property and equipment. The liabilities sold were comprised mainly of
+deferred revenue, accounts payable and other current liabilities. During the first quarter of 2016, the Company met the held for sale criteria in accordance with ASC
+Topic 380, Impairment or Disposal of Long Lived Assets, and the Company ceased depreciation on the property and equipment and classified the assets to be sold
+as held for sale. During the second quarter of 2016, all assets and liabilities formerly classified as held for sale were disposed of pursuant to the sale. The sale of the
+microelectronics product line did not represent a strategic shift that had a major effect on the Company’s operations and ﬁnancial results. As such, the Company
+did not account for the disposition as a discontinued operation. During the year ended December 31, 2016, the Company recorded a gain of $6.7 million related to
+the sale of the microelectronics product line.
+In connection with the sale of the microelectronics product line, the Company guaranteed the future operating lease commitment related to the facility
+formerly occupied by the microelectronics product line, which was assumed by the buyer. The Company is obligated to perform under the guarantee if Data Device
+Corporation defaults on the lease at any time during the remainder of the lease agreement. The lease had a remaining lease term of fifteen months from the date of
+sale and expires on July 31, 2017. As of December 31, 2016 , the undiscounted maximum amount of potential future payments under the lease guarantee is $0.6
+million . The Company assessed the probability that it will be required to make payments under the terms of the guarantee based upon its actual and expected loss
+experience. Consistent with the requirements of FASB ASC 460, Guarantees, the Company has not recorded a liability on its consolidated balance sheet as of
+December 31, 2016 as a loss is not considered probable.
+Note 5 — Restructuring and Exit Costs
+In 2015, the Company initiated a restructuring plan to consolidate US. manufacturing operations and to reduce headcount and operating expenses in order to
+align the Company’s cost structure with the current business forecast and to improve operational efficiency. The plan also included the disposition of the
+Company’s microelectronics product line which was completed in April 2016. The restructuring plan was otherwise substantially completed in the first quarter of
+2016. Total restructuring and exit costs were $2.8 million , which included $1.3 million in facilities costs related to the consolidation of manufacturing operations,
+$1.2 million in employee severance costs and $0.3 million in other exit costs. The Company also incurred $0.6 million in accelerated equipment depreciation
+expense related to the consolidation of manufacturing operations. Total cash expenditures related to restructuring activities were approximately $1.5 million .
+The Company accounts for charges resulting from restructuring and exit activities in accordance with ASC Topic 420, Exit or Disposal Cost Obligations
+(“ASC 420”), and ASC Topic 712, Compensation-Nometirement Postemployment Beneﬁts, for employee termination benefits to be paid in accordance with its
+ongoing employee termination benefit arrangement.
+63

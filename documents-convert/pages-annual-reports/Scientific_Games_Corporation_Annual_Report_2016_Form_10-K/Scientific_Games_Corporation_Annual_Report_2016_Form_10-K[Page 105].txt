@@ -1,0 +1,43 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+covenant, which is based on our consolidated net first lien leverage. Following these designations, the social gaming
+subsidiaries remain wholly owned direct and indirect subsidiaries of the Company.
+Debt issuance costs
+We capitalize debt issuance costs associated with long-term financing arrangements and amortize ratably the deferred
+debt issuance costs over the term of the arrangement. The capitalized debt issuance costs associated with long-term debt
+ﬁnancing, other than line-of—credit arrangements, is presented as a direct reduction from the carrying value of long-term debt,
+consistent with the treatment of unamortized debt discount.
+Terms of Outstanding Debt
+Restrictive covenants
+Our only financial maintenance covenant is contained in our credit agreement. This covenant is tested at the end of
+each fiscal quarter and requires us to not exceed a maximum consolidated net first lien leverage ratio of 5.5x Consolidated
+EBITDA (as defined in the credit agreement) for the quarter ended December 31, 2016. In connection with the amendments to
+the credit agreement as part of the February 2017 Financing, this ratio will be 6.0x for the quarter ended March 31, 2017, then
+stepping down to 5.5x for the quarter ended June 30, 2018 and 5.0x for the quarter ended June 30, 2019.
+The credit agreement, 2018 Notes Indenture, 2020 Notes Indenture, 2021 Notes Indenture, Unsecured Notes Indenture,
+and Secured Notes Indenture also contain certain covenants that, among other things and subject to certain exceptions, limit
+SGC'S and its restricted subsidiaries' (including SGI) ability to incur additional indebtedness or guarantees, pay dividends or
+make distributions or certain other restricted payments, purchase or redeem capital stock, prepay junior indebtedness or modify
+certain debt instruments, make investments or extend credit, engage in certain transactions with affiliates, engage in sale-
+leaseback transactions, consummate certain assets sales, effect a consolidation or merger, sell, transfer, lease or otherwise
+dispose of assets, create certain liens and other encumbrances on assets, enter into arrangements that restrict the ability to pay
+dividends or change fiscal years. These agreements also contain events of default customary for agreements of their type (with
+customary grace periods, as applicable).
+We were in compliance with the financial covenants under our debt agreements as of December 31, 2016.
+(17) Fair Value Measurements
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price)
+in the principal or most advantageous market for the asset and liability in an orderly transaction between market participants at
+the measurement date. We estimate the fair value of our assets and liabilities when required using an established three-level
+hierarchy in accordance with ASC 820.
+The fair value of our financial assets and liabilities is determined by reference to market data and other valuation
+techniques as appr0priate. We believe the fair value of our ﬁnancial instruments, which are principally cash and cash
+equivalents, accounts receivable, other current assets, accounts payable and accrued liabilities, approximates their recorded
+values. Our assets and liabilities measured at fair value on a recurring basis are described below
+Interest rate swap contracts
+We record derivative financial instruments on the balance sheet at their respective fair values. We currently use swap
+contracts as described below to mitigate gains or losses associated with the change in expected cash ﬂows due to ﬂuctuations in
+interest rates on our variable rate debt.
+We hedge a portion of our interest expense associated with our variable rate debt to eﬁectively fix the interest rates
+that we pay. We have interest rate swap contracts designated as cash ﬂow hedges under ASC 815. Under these hedges, we pay
+105

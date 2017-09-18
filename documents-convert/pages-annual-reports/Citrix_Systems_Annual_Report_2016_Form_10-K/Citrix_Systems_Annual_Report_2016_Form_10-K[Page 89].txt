@@ -1,0 +1,54 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+the indexed return by 40% or more. If the Company's return over the performance period is positive but underperforms the
+index, a number of non-vested stock units will be issued, below the target award, based on interpolation; however, no non-
+vested stock units will be issued if the Company's return underperforms the index by more than 20% over the performance
+period. In the event the Company's return to stockholders is negative but still meets or exceeds the indexed return, only 75% of
+the target award shall be issued. If the awardee is not employed by the Company at the end of the performance period; the
+extent to which the awardee will vest in the award, if at all, is dependent upon the timing and character of the termination as
+provided in the award agreement. Each non-vested stock unit, upon vesting, represents the right to receive one share of the
+Company's common stock. The performance metric under the March 2014 award was met, therefore awards vested as of
+December 31, 2016.
+The market condition requirements are reﬂected in the grant date fair value of the award, and the compensation expense
+for the award will be recognized assuming that the requisite service is rendered regardless of whether the market conditions are
+achieved. The grant date fair value of the non-vested performance stock unit awards was determined through the use of a Monte
+Carlo simulation model, which utilized multiple input variables that determined the probability of satisfying the market
+condition requirements applicable to each award as follows:
+March 2016 January 2016 March 2015 March 2014
+Grant Grant Grant Grant
+Expected volatility factor 0.29 - 0.39 0.29 - 0.37 0.14 - 0.29 0.19 - 0.38
+Risk free interest rate 0.91% 1.10% 0.85% 0.81%
+Expected dividend yield 0% 0% 0% 0%
+For the March 2016 and January 2016 grants, the range of expected volatilities utilized was based on the historical
+volatilities of the Company's common stock and the average of its peer group. The Company chose to use historical volatility to
+value these awards because historical stock prices were used to develop the correlation coefficients between the Company and
+its peer group in order to model the stock price movements. The volatilities used were calculated over a 3.00 year period, which
+is commensurate with the awards’ performance period at the date of grant. The risk free interest rate was based on the implied
+yield available on US. Treasury zero-coupon issues with remaining terms equivalent to the performance period. The Company
+does not intend to pay dividends on its common stock in the foreseeable future. Accordingly, the Company used a dividend
+yield of zero in its model. The estimated fair value of each award as of the date of grant was $66.18 for the March 2016 grant
+and $49.68 for the January 2016 grant.
+For the March 2015 and March 2014 grants, the range of expected volatilities utilized was based on the historical
+volatilities of the Company's common stock and the XCMP. The Company chose to use historical volatility to value these
+awards because historical stock prices were used to develop the correlation coefficients between the Company and the XCMP
+in order to model the stock price movements. The volatilities used were calculated over the most recent 2.76 year period, which
+is commensurate with the awards' performance period at the date of grant. The risk free interest rate was based on the implied
+yield available on US. Treasury zero-coupon issues with remaining terms equivalent to the performance period. The Company
+does not intend to pay dividends on its common stock in the foreseeable future. Accordingly, the Company used a dividend
+yield of zero in its model. The estimated fair value of each award as of the date of grant was $61.01 for the March 2015 grant
+and $56.94 for the March 2014 grant.
+Service Based Stock Units
+The Company also awards senior level employees, certain other employees and new non-employee directors, non-vested
+stock units granted under the 2014 Plan that vest based on service. The majority of these non-vested stock unit awards generally
+vest 33.33% on each anniversary subsequent to the date of the award. The Company also assumes non-vested stock units in
+connection with certain of its acquisitions. The assumed awards have the same three year vesting schedule. Each non-vested
+stock unit, upon vesting, represents the right to receive one share of the Company’s common stock. In addition, the Company
+awards non-vested stock units to all of its continuing non-employee directors. These awards vest monthly in 12 equal
+installments based on service and, upon vesting, each stock unit represents the right to receive one share of the Company's
+common stock.
+Performance Stock Units
+During 2015, the Company awarded certain senior level employees non-vested performance stock units granted under the
+2014 Plan. The number of non-vested stock units underlying each award will be determined within sixty days of the calendar
+year following completion of the one-year performance period ending December 31, 2016 and will be based on achievement of
+a specific corporate financial performance goal determined at the time of the award. The number of non-vested stock units
+F-23

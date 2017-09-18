@@ -1,0 +1,51 @@
+based on peer data. The market approach methodology measures value through an analysis of peer companies. The analysis
+entails measuring the multiples of EBITDA at which peer companies are trading.
+In the event the estimated fair value of a reporting unit per the weighted average of the DCF and market approach models
+is less than the carrying value, additional analysis would be required. The additional analysis would compare the carrying
+amount of the reporting unit’s goodwill with the implied fair value of that goodwill, which may involve the use of valuation
+experts. The implied fair value of goodwill is the excess of the fair value of the reporting unit over the fair value amounts
+assigned to all of the assets and liabilities of that unit as if the reporting unit had been acquired in a business combination and
+the fair value of the reporting unit represented the purchase price. If the carrying value of goodwill exceeds its implied fair
+value, an impairment loss equal to such excess would be recognized, which could significantly and adversely impact reported
+consolidated results of operations and shareholders’ equity. At October 1, 2016, based on our quantitative test, the fair values of
+all of our reporting units exceeded their carrying value by at least 40%.
+Foreign currency. As part of our currency exchange rate risk management strategy, we enter into certain derivative
+foreign currency forward contracts that do not meet the US. GAAP criteria for hedge accounting, but which have the impact of
+partially offsetting certain foreign currency exposures. We account for these forward contracts on a full mark-to-market basis
+and report the related gains or losses in currency exchange losses (gains) in the consolidated statement of income. Please refer
+to Note 17 to the Consolidated Financial Statements in Part II Item 8 of this Form 10-K for further details on our current
+positions.
+RECENTLY ADOPTED AND RECENTLY ISSUED ACCOUNTING STANDARDS
+In April 2014, the FASB issued ASU 2014-08, Reporting Discontinued Operations and Disclosures of Disposals of an
+Entity. This ASU amends the definition of a discontinued operation to include a disposal of a component or group of
+components that is disposed of or is classified as held for sale and represents a strategic shift that has (or will have) a major
+effect on an entity's operations and financial results. This ASU was adopted on January 1, 2015. The adoption of this ASU may
+have a material effect on our consolidated financial statements in the event that we were to divest of a component that meets the
+definition of discontinued operations.
+In May 2014, the FASB issued ASU 2014-09, Revenue with Contracts from Customers. This ASU establishes a single
+revenue recognition model for all contracts with customers based on recognizing revenue to depict the transfer of promised
+goods or services to customers in an amount that reﬂects the consideration to which the entity expects to be entitled in exchange
+for those goods or services, eliminates industry specific requirements, and expands disclosure requirements. This ASU is
+required to be adopted beginning January 1, 2018. Our revenue streams include agreements with distributors, agreements with
+end users and agreements with governmental entities. The Company continues to evaluate the impact that the adoption of this
+ASU will have on the consolidated financial statements, including the timing of revenue recognition associated with certain
+customized products. We have conducted a risk assessment and have worked with outside consultants to develop a transition
+plan that will enable us to meet the implementation requirement. We are currently in the process of reviewing and analyzing
+contracts. We anticipate using the modified retrospective method of adoption and having enhanced disclosures surrounding
+revenue recognition.
+In June 2014, the FASB issued ASU 2014-12, Accounting for Share-Based Payments When the Terms of an Award
+Provide That a Performance Target Could be Achieved after the Requisite Service Period. This ASU clarifies the accounting
+treatment for share based payment awards that contain performance targets. This ASU was adopted on January 1, 2016. The
+adoption of this ASU did not have a material effect on our consolidated financial statements.
+In August 2014, the FASB issued ASU 2014-15, Presentation of Financial Statements - Going Concern. This ASU
+clarifies management's responsibility to evaluate whether there is a substantial doubt about the entity's ability to continue as a
+going concern and provides guidance for related footnote disclosures. This ASU is effective for the annual period ending
+December 31, 2016. The adoption of this ASU did not have a material effect on our consolidated ﬁnancial statements.
+In January 2015, the FASB issued ASU 2015-01, Income Statement - Extraordinary and Unusual Items. This ASU
+eliminates the requirement to separately present and disclose extraordinary and unusual items in the ﬁnancial statements. This
+ASU was adopted on January 1, 2016. The adoption of this ASU did not have a material effect on our consolidated financial
+statements.
+In February 2015, the FASB issued ASU 2015-02, Amendments to the Consolidation Analysis. This ASU changes the
+analysis that an entity must perform to determine whether it should consolidate certain types of legal entities. This ASU was
+adopted on January 1, 2016. The adoption of this ASU did not have a material effect on our consolidated financial statements.
+33

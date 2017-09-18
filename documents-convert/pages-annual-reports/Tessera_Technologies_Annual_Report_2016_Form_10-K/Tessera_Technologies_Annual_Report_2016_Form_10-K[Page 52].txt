@@ -1,0 +1,48 @@
+Table of Contents
+The accompanying notes are an integral part of these consolidated ﬁnancial statements.
+TESSERA TECHNOLOGIES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Years Ended December 31,
+2015 2014 2013
+ICash ﬂows from operating activities: I
+Net income (loss) $ 117,016 $ 170,454 $ (185,555)
+I Adjustments to reconcile net income (loss) to net cash from operating activities: I
+Depreciation and amortization of property and equipment 1,590 1,834 15,937
+I Amortization of intangible assets 20,624 18,472 22,330 I
+Stock-based compensation expense 11,517 13,269 13,503
+I Gain on disposal of property and equipment and other assets, net — (19,618) (8,975) I
+Impairment of goodwill — — 6,664
+I Non-cash restructuring, impairment of long-lived assets and other charges — 820 64,716 I
+Deferred income tax and other, net 18,809 (44,042) 22,735
+I Amortization of premium or discount on investments and other (2,601) (144) 3,104 I
+Tax effect from employee stock option plan 668 (1,968) —
+I Excess tax beneﬁts from employee stock option plan (726) — — I
+Patents acquired through settlement agreements — (4,280) —
+I Changes in operating assets and liabilities: I
+Accounts receivable, net 2,694 (1,217) 8,445
+I Inventories — — 1,123 I
+Other assets (10,051) 5,307 (2,568)
+I Accounts payable (2,685) 566 (5,887) I
+Accrued legal fees (1,819) (5,749) (1,537)
+I Accrued and other liabilities (5,074) (8,568) 1,608 I
+Deferred revenue (3,412) 9,068 (3,720)
+I Net cash from operating activities 146,550 — 134,204 — (48,077) I
+Cash ﬂows from investing activities: — —
+I Purchases of property and equipment (1,002) (1,769) (20,111) I
+Proceeds from sale of property and equipment and other assets — 31,173 19,708
+I Purchases of short-term available-for—sale investments (298,848) (301,629) (233,888) I
+Proceeds from maturities and sales of short-term investments 324,713 203,659 285,598
+I Acquisition, net of cash acquired (38,561) (2,450) — I
+Purchases of intangible assets (7,588) (5,635) (3,360)
+I Net cash from investing activities (21,286) — (76,651) — 47,947 I
+Cash ﬂows from ﬁnancing activities: _ _
+I Dividend paid (41,677) (48,335) (37,588) I
+Excess tax beneﬁt from stock-based compensation 726 — —
+I Proceeds from exercise of stock options 8,995 32,581 33,497 I
+Proceeds from employee stock purchase program 1,665 1,700 3,417
+I Repurchase of common stock (123,282) (66,313) (29,276) I
+Net cash from ﬁnancing activities (153,573) _ (80,367) _ (29,950)
+INet increase (decrease) in cash and cash equivalents (28,309) — (22,814) — (30,080) I
+Cash and cash equivalents at beginning of period 50,908 73,722 103,802
+ICash and cash equivalents at end of period 3; 22,599 — $ 50,908 — $ 73,722 I

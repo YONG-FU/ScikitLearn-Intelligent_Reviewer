@@ -1,0 +1,43 @@
+Pension Retiree Medical
+: US. International : : :
+2016 2015 2016 2015 2016 2015
+[Amounts recognized : [
+Other assets $ — $ — $ 51 $ 56 S — $ —
+[Other current liabilities (42) (47) (1) (1) (54) (63)[
+Other liabilities (1,692) (1,589) (280) (104) (834) (883)
+[Net amount recognized $ (1,734)_$ (1,636)_$ (230)_$ (49)_$ (888)—33 (946)!
+[Amounts included in accumulated other comprehensive loss awe-tax) [
+Net loss/(gain) 8 3,220 $ 3,065 8 884 $ 733 s (193) $ (138)
+[Prior service cost/(credit) 20 1 (5) (7) (91) (127)]l
+Total 8 3,240 _$ 3,066 _$ 879 _$ 726 _$ (284)_$ (265)
+[Components of the increase/(decrease) in net loss/( gain) included in accumulated other comprehensive loss J
+[Change in discount rate $ 296 $ (593) $ 554 $ (150) $ 21 $ (42)}
+Employee-related assumption changes 5 (35) 8 6 (50) (37)
+[Liability-related experience different from assumptions 318 51 (2) (77) (22) (36)[
+Actual asset return different from expected return (46) 935 (246) 97 (6) 29
+[Amortization and settlement of (losses)/ gains (413) (205) (46) (77) 1 (2)[
+Other, including foreign currency adjustments (5) (6) (117) (69) 1 (1)
+[Total $ 155 _$ 147 _$ 151 ‘8 (270)_$ (55)_$ (89)!
+[Accumulated benefit obligation at end of year $ 12,211 $ 12,077 $ 2,642 $ 2,453 [
+The amounts we report as pension and retiree medical cost consist of the following components:
+0 Service cost is the value of benefits earned by employees for working during the year.
+0 Interest cost is the accrued interest on the projected benefit obligation due to the passage of time.
+- Expected return on plan assets is the long-term return we expect to cam on plan investments for our
+funded plans that will be used to settle future benefit obligations.
+- Amortization of prior service (credit)/ cost represents the recognition in the income statement of benefit
+changes resulting from plan amendments.
+- Amortization of net loss/(gain) represents the recognition in the income statement of changes in the
+amounts of plan assets and the projected benefit obligation based on changes in assumptions and
+actual experience.
+0 Settlement/curtailment loss/(gain) represents the result of actions that effectively eliminate all or a
+portion of related projected benefit obligations. Settlements are triggered when payouts to settle the
+projected benefit obligation of a plan due to lump sums or other events exceed the annual service and
+interest cost. Settlements are recognized when actions are irrevocable and we are relieved of the
+primary responsibility and risk for projected benefit obligations. Curtailments are due to events such
+as plant closures or the sale of a business resulting in a reduction of future service or benefits.
+Curtailment losses are recognized when an event is probable and estimable, while curtailment gains
+are recognized when an event has occurred (when the related employees terminate or an amendment
+is adopted).
+- Special termination benefits are the additional benefits offered to employees upon departure due to
+actions such as restructuring.
+108

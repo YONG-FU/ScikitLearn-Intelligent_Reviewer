@@ -1,0 +1,55 @@
+contribute to a decline in our customers’ spending on our products and services. Additionally, in response to sustained
+economic uncertainty, many governmental organizations outside the US. that are current or prospective customers for our
+products and services continue to make significant spending cutbacks, which may continue to reduce the amount of
+government spending on IT and demand for our products and services from government organizations. Adverse economic
+conditions also may negatively impact our ability to obtain payment for outstanding debts owed to us by our customers or other
+parties with whom we do business.
+Industry volatility and consolidation may result in increased competition.
+The industry has been volatile and there has been a trend toward industry consolidation in our markets for several years.
+We expect this trend to continue as companies attempt to strengthen or hold their market positions in an evolving and volatile
+industry and as companies are acquired or are unable to continue operations. For example, some of our competitors have made
+acquisitions or entered into partnerships or other strategic relationships to offer a more comprehensive solution than they had
+previously offered. Further, some companies are making plans or may be under pressure by stockholders to divest businesses
+and such divestitures may result in stronger competition. Additionally, as IT companies attempt to strengthen or maintain their
+market positions in the evolving Workspace Services, Delivery Networking and electronic file sync and sharing markets, these
+companies continue to seek to deliver comprehensive IT solutions to end users and combine enterprise-level hardware and
+software solutions that may compete with our Workspace Services and Delivery Networking and Cloud Services
+solutions. These consolidators or potential consolidators may have significantly greater financial, technical and other resources
+and brand loyalty than we do, and may be better positioned to acquire and oﬁer complementary products and services. The
+companies resulting from these possible combinations may create more compelling product and service offerings and be able to
+offer greater pricing ﬂexibility or sales and marketing support for such offerings than we can. These heightened competitive
+pressures could result in a loss of customers or a reduction in our revenues or revenue growth rates, all of which could
+adversely affect our business, results of operations and financial condition.
+Actual or perceived security vulnerabilities in our products and services or cyberattacks on our networks could have a
+material adverse impact on our business, results of operations and ﬁnancial condition.
+Use of our products and services may involve the transmission and/or storage of data, including in certain instances
+customers' business and personally identifiable information. Thus, maintaining the security of products, computer networks and
+data storage resources is important as security breaches could result in product or service vulnerabilities and loss of and/or
+unauthorized access to confidential information. We devote significant resources to addressing security vulnerabilities in our
+products and services through our efforts to engineer more secure products and services, enhance security and reliability
+features in our products and services, deploy security updates to address security vulnerabilities and seek to respond to known
+security incidents in sufficient time to minimize any potential adverse impact. Despite our eﬁorts, from time to time, we
+experience attacks and other cyber-threats. Generally speaking, unauthorized parties may attempt to misappropriate or
+compromise our confidential information or that of third parties, create system disruptions, product or service vulnerabilities or
+cause shutdowns. These perpetrators of cyberattacks also may be able to develop and deploy viruses, worms, malware and
+other malicious software programs that directly or indirectly, for example, through a vendor or other third-party, attack our
+products, services or networks, or otherwise exploit any security vulnerabilities of our products, services and networks.
+Because techniques used by these perpetrators to sabotage or obtain unauthorized access to our systems change frequently and
+generally are not recognized until long after being launched against a target, we may be unable to anticipate these techniques or
+to implement adequate preventative measures. We can make no assurance that we will be able to detect, prevent, timely and
+adequately address, or mitigate the negative effects of cyberattacks or other security breaches.
+A breach of our security measures as a result of third-party action, malware, employee error, malfeasance or otherwise
+could result in (among other consequences):
+- harm to our reputation or brand, which could lead some customers to seek to cancel subscriptions, stop using certain
+of our products or services, reduce or delay future purchases of our products or services, or use competing products
+or services;
+- individual and/or class action lawsuits, which could result in financial judgments against us or the payment of
+settlement amounts, which would cause us to incur legal fees and costs,
+° state or federal enforcement action, which could result in fines and/or penalties or other sanctions and which would
+cause us to incur legal fees and costs; and/or
+- in the event that we or one of our customers were the victim of a cyberattack or other security breach, additional
+costs associated with responding to such breach, such as investigative and remediation costs, and the costs of
+providing data owners or others with notice of the breach, legal fees, costs of any additional fraud detection
+activities required by such customers' credit card issuers, and costs incurred by credit card issuers associated with
+the compromise and additional monitoring of systems for further fraudulent activity.
+1 6

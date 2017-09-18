@@ -1,0 +1,47 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Unrecognized Tax Benefits
+A reconciliation of the beginning and ending amount of gross unrecognized tax benefits, excluding interest and penalties associated with unrecognized tax
+beneﬁts, is as follows (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+’Balance, beginning of the year $ 245 $ 190 $ 167 ‘
+Tax positions related to current year:
+1 Additions 45 41 32 1
+Tax positions related to prior years:
+1 Additions 9 54 1 l
+Reductions (8) (14) (3)
+] Settlements (16) (12) (1) l
+Reductions resulting from a lapse of the statute of limitations (14) (11) (2)
+I Foreign currency effects (1) (3) (4) ‘
+Balance, end of the year $ 260 $ 245 $ 190
+Of the net unrecognized tax beneﬁts, including interest and penalties, of $277 million as of December 31, 2016 , approximately $259 million would, if
+recognized, benefit VMware's annual effective income tax rate. The $277 million of net unrecognized tax beneﬁts are included in other liabilities on the
+consolidated balance sheets. VMware includes interest expense and penalties related to income tax matters in the income tax provision. VMware had accrued
+$44 million and $34 million of interest and penalties associated with unrecognized tax beneﬁts as of December 31, 2016 and 2015 , respectively. Income tax
+expense for the years ended December 31, 2016 , 2015 and 2014 included interest and penalties of $10 million , $13 million and $8 million , respectively,
+associated with uncertain tax positions.
+The Dell-owned EMC consolidated group is routinely under audit by the Internal Revenue Service (“IRS”). All US federal income tax matters have been
+concluded for years through 2010 , except for any matters under appeal. The 2011 federal tax returns of the Dell-owned EMC consolidated group are currently
+under audit by the IRS. In addition, we are under corporate income tax audits in various states and non-US jurisdictions. Consistent with our historical practices
+under the tax sharing agreement with EMC, when we become subject to federal tax audits as a member of Dell’s consolidated group, the tax sharing agreement
+provides that Dell has authority to control the audit and represent Dell’s and VMware’s interests to the IRS.
+Open tax years subject to examinations for larger non-US jurisdictions vary beginning 2008 . Open tax years for Ireland, the largest non-US. jurisdiction,
+begin 2O 10 . Audit outcomes and the timing of audit settlements are subject to significant uncertainty. When considering the outcomes and the timing of tax
+examinations, the expiration of statutes of limitations for speciﬁc jurisdictions, or the timing and result of ruling requests from taxing authorities, it is reasonably
+possible that total unrecognized tax benefits could be potentially reduced by approximately $8 million within the next 12 months.
+N. Stockholders’ Equity
+VMware Class B Common Stock Conversion Rights
+Each share of Class B common stock is convertible into one share of Class A common stock. If VMware’s Class B common stock is distributed to security
+holders of Dell in a qualified distribution, the Class B shares will no longer be convertible into shares of Class A common stock unless a stockholder vote is
+obtained after certain conditions are satisfied. Prior to any such distribution, all Class B shares automatically convert into shares of Class A common stock if Dell
+transfers such shares to a third party that is not a successor or a Dell subsidiary or at such time as the number of shares of common stock owned by Dell or its
+successor falls below 20% of the outstanding shares of VMware’s common stock. As of December 31, 2016 and 2015 , 300.0 million shares of Class A common
+stock were reserved for conversion.
+VMware Equity Plan
+In June 2007, VMware adopted its 2007 Equity and Incentive Plan (the “2007 Plan”). As of December 31, 2016 , the number of authorized shares under the
+2007 Plan was 121.6 million . The number of shares underlying outstanding equity awards that VMware assumes in the course of business acquisitions are also
+added to the 2007 Plan reserve on an as-converted basis. VMware has assumed 4.4 million shares, which accordingly have been added to authorized shares under
+the 2007 Plan reserve.
+84

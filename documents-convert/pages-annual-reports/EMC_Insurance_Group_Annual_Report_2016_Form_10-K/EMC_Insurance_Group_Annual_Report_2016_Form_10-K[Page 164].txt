@@ -1,0 +1,42 @@
+Presented below is a reconciliation of the assets measured at fair value using significant unobservable inputs (Level 3)
+for the years ended December 31, 2016 and 2015.
+Fair value measurements
+using significant unobservable
+7 (Level 3) inputs 7
+7 Life insurance contracts 7
+($ in thousands) 2016 2015
+[Balance at beginning of year $ 13,792 $ 13,408 I
+Actual return on plan assets:
+[ Increase in cash surrender value of life insurance contracts 7 367 7 7 3841
+Balance at end of year :$ 14,159 : :$ 13,792 :
+Employers Mutual uses Global Portfolio Strategies, Inc. to advise on the asset allocation strategy for its qualified
+pension plan. The asset allocation strategy and process of Global Portfolio Strategies, Inc. uses a diversified allocation of
+equity, debt and real estate exposures that is customized to the plan’s payment risk and return targets.
+Global Portfolio Strategies, Inc. reviews the plan’s assets and liabilities in relation to expectations of long-term market
+performance and liability development to determine the appropriate asset allocation. The data for the contributions and
+emerging liabilities is provided from the plan’s actuarial valuation, while the current asset and monthly benefit payment data is
+provided by the plan record keeper.
+Following is a brief description of the pricing techniques used for the asset classes of Employers Mutual’s qualified
+pension plan.
+- Pooled Separate Accounts: Each of the funds held by the Plan is in a pooled or commingled investment vehicle that
+is maintained by the fund sponsor, each with many investors. The Plan asset is represented by a “unit of account”
+and a per unit value, whose value is the accumulated value of the underlying investments less liabilities. The
+sponsor of the fund specifies the source(s) used for the underlying investment asset prices and the protocol used to
+value each fund.
+In accordance with ASU 2015-07, a fair value hierarchy table is not included here since all of the Plan's investments are
+measured at fair value using the net asset value per share (or its equivalent) practical expedient, which are not classified in the
+fair value hierarchy. Presented below are the fair values of assets held in Employers Mutual's defined benefit retirement plan:
+7 December 31, 7
+($ in thousands) 7 2016 7 7 2015 7
+[Pooled separate accounts $ 300,915 $ 283,231 1
+Total benefit plan assets 77$ 300,915 i 77$ 283,231 i
+Employers Mutual plans to contribute approximately $9.0 million to the pension plan in 2017. No contributions are
+expected to be made to the VEBA trust in 2017.
+The Company participates in other benefit plans sponsored by Employers Mutual, including its 401(k) Plan, Board and
+Executive Non-Qualified Excess Plans and Defined Contribution Supplemental Executive Retirement Plan. The Company’s
+share of expenses for these plans amounted to $2.7 million, $2.5 million and $1.7 million in 2016, 2015 and 2014, respectively.
+Note that the amount for 2016 includes an allocation of retirement benefit expenses to the Company's reinsurance subsidiary
+(portion of the service cost components of the qualified and non-qualified pension plans and the postretirement benefits plans).
+In prior years the Company's reinsurance subsidiary was allocated a portion of all activities of these plans (including the
+balance sheet amounts) which are included in the relevant tables and disclosures contained in this footnote.
+1 5 3

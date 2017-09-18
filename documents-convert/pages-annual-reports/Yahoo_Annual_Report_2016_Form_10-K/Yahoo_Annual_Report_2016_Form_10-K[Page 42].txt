@@ -1,0 +1,34 @@
+Table,0f,C,0ntents
+(3) Our net income attributable to Yahoo! Inc. for the year ended December 31 , 2012 included a pre-tax gain of approximately $4.6 billion and an after-tax
+gain of $2.8 billion related to our sale to Alibaba Group of 523 million ordinary shares of Alibaba Group (“Alibaba Group shares”). In addition, in the year
+ended December 31, 2012, we recorded net restructuring charges of $236 million related to our cost reduction initiatives. In the aggregate, these items
+had a net positive impact of $2.6 billion on net income attributable to Yahoo! Inc, or $2.15 per basic share and $2.13 per diluted share, for the year
+ended December 31, 2012.
+(4) Our net income attributable to Yahoo! Inc. for the year ended December 31, 2013 included pre-tax gains of approximately $80 million related to sales of
+patents and a goodwill impairment charge of $64 million. In the year ended December 31, 2013, we recorded net restructuring charges of $4 million
+related to our cost reduction initiatives. The tax impact of these items was $22 million, and in the aggregate, these items had a net negative impact of
+$10 million on net income attributable to Yahoo! Inc, or $0.01 per both basic and diluted share, for the year ended December 31, 2013.
+(5) Our net income attributable to Yahoo! Inc. for the year ended December 31, 2014 included a pre-tax gain of approximately $10.3 billion and an after—tax
+gain of $6.3 billion related to our sale of American Depositary Shares (“ADSs”) of Alibaba Group in Alibaba Group’s initial public offering (the “Alibaba
+Group IPO”) in September 2014. In addition, in the year ended December 31, 2014, we recorded gains of approximately $98 million related to sales of
+patents, a gain on the Hortonworks lnc. (“Hortonworks”) warrants of $98 million, a goodwill impairment charge of $88 million, and net restructuring
+charges of $103 million related to our cost reduction initiatives. The tax impact of these items was $3.9 billion, and in the aggregate, these items had a
+net positive impact of $6 billion on net income attributable to Yahoo! Inc, or $6.04 per basic share and $5.94 per diluted share, for the year ended
+December 31, 2014.
+(6) Our net loss attributable to Yahoo! Inc. for the year ended December 31, 2015 included a goodwill impairment charge of $4,461 million, net restructuring
+charges of $104 million related to our cost reduction initiatives, an asset impairment charge of $44 million related to originally developed and acquired
+content, a loss on the Hortonworks warrants of $19 million, an intangible assets impairment charge of $15 million and gains of approximately $11 million
+related to sales of patents. The tax impact of these items was a $129 million beneﬁt, and in the aggregate, these items had a net negative impact of
+$4,503 million on net income attributable to Yahoo! Inc, or $4.79 per both basic share and diluted share, for the year ended December 31, 2015.
+(7) Our net loss attributable to Yahoo! Inc. for the year ended December 31, 2016 included a goodwill impairment charge of $395 million, net restructuring
+charges of $89 million related to our cost reduction initiatives, a loss on the Hortonworks warrants of $50 million, an intangible assets impairment charge
+of $87 million, a gain on sale of land of $120 million and gains of approximately $2 million related to sales of patents. The tax impact of these items was a
+$25 million beneﬁt, and in the aggregate, these items had a net negative impact of $474 million on net loss attributable to Yahoo! Inc, or $0.50 per both
+basic share and diluted share, for the year ended December 31, 2016.
+(8) Commencing in the second quarter of 2016, TAC payments related to the Microsoft Search Agreement, which previously would have been recorded as a
+reduction to revenue, began to be recorded as cost of revenue—TAG due to a required change in revenue presentation.
+Years Ended December 31,
+2014 2015 2016
+post of revenue - TAC in transitioned markets $ — $ — $ 812,105 I
+Reduction to revenue in transitioned markets $ 1,319,242 $ 1,269,134 $ 273,705
+41

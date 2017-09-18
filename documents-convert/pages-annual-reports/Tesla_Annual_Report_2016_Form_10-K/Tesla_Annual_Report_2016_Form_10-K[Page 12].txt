@@ -1,0 +1,46 @@
+Gigafactory 1 outside of Reno, Nevada
+We are developing Gigafactory 1 as a facility where we work together with our suppliers to integrate battery material, cell,
+module and battery pack production in one location. We plan to use the battery packs manufactured at Gigafactory 1 for our vehicles,
+including Model 3 and energy storage products. We broke ground on Gigafactory l in June 2014, began assembling our energy
+storage products in the fourth quarter of 2015, and began production of lithium-ion battery cells for our energy storage products in the
+first quarter of 20 17. We also intend to manufacture Model 3 drive units at Gigafactory l.
+Gigafactory l is being built in phases so that Tesla, Panasonic, and other partners can begin manufacturing immediately inside
+the finished sections and continue to expand thereafter. Gigafactory 1 is currently expected to attain full production capacity by 2020,
+which is anticipated to be sufficient for the production of approximately 500,000 vehicles annually as well as for the production of our
+energy storage products.
+We believe that Gigafactory 1 will allow us to achieve a signiﬁcant reduction in the cost of our battery packs once we are in
+volume production with Model 3. We have committed to invest heavily on capital expenditures for Gigafactory 1. Panasonic has
+agreed to partner with us on Gigafactory l with investments in production equipment that it will use to manufacture and supply us
+with battery cells. We have agreed to prepare and provide the land, buildings and utilities, to invest in production equipment for
+battery module and pack production and to be responsible for the overall management of Gigafactory 1.
+Supply Chain
+Our vehicles use thousands of purchased parts which we source globally from hundreds of suppliers. We have developed close
+relationships with several key suppliers particularly in the procurement of cells and certain other key system parts. While we obtain
+components from multiple sources in some cases, similar to other automobile manufacturers, many of the components used in our
+vehicles are purchased by us from a single source. In addition, while several sources of the battery cell we have selected for our
+battery packs are available, we have currently fully qualified only one cell supplier for the battery packs we use in our production
+vehicles. We are working to fully qualify additional cells ﬁom other manufacturers.
+We use various raw materials in our business including aluminum, steel, cobalt, lithium, nickel and copper. The prices for these
+raw materials ﬂuctuate depending on market conditions and global demand for these materials. We believe that we have adequate
+supplies or sources of availability of the raw materials necessary to meet our manufacturing and supply requirements.
+Energy Storage
+Our energy storage products are manufactured at Gigafactory 1. We leverage the same supply chain process and infrastructure
+as we use for our vehicles. The battery architecture and many of the components used in our energy storage products are the same or
+similar to those used in our vehicles’ battery pack, enabling us to take advantage of manufacturing efficiencies and supply chain
+economies of scale. The power electronics and grid-tie inverter for the Powerwall and Powerpack systems are also manufactured at
+Gigafactory 1, allowing us to ship deployment-ready systems directly from Gigafactory 1.
+Solar Energy Systems
+We currently purchase major components such as solar panels and inverters directly from multiple manufacturers. We typically
+purchase solar panels and inverters on an as-needed basis from our suppliers at then-prevailing prices pursuant to purchase orders
+issued under our master contractual arrangements. In December 2016, we entered into a long-term agreement with Panasonic to
+manufacture photovoltaic (PV) cells at our Gigafactory 2 in Buffalo, New York, with negotiated pricing provisions and the intent to
+manufacture l gigawatt of solar panels annually.
+Governmental Programs, Incentives and Regulations
+Vehicles
+California Alternative Energy and Advanced Transportation Financing Authority Tax Incentives
+We have entered into multiple agreements over the past few years with the California Alternative Energy and Advanced
+Transportation Financing Authority (CAEATF A) that provide multi-year sales tax exclusions on purchases of manufacturing
+equipment that will be used for specific purposes including the expansion and ongoing development of Model S, Model X, Model 3
+and future electric vehicles and expansion of electric vehicle powertrain production in California. We estimate the combined tax
+savings under these agreements will be approximately $198 million, of which $100 million has been realized as of December 31, 2016.
+9

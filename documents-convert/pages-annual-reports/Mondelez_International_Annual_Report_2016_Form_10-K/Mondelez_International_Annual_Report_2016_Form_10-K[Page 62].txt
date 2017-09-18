@@ -1,0 +1,33 @@
+Iable,of,Contents
+The VAR model assumes normal market conditions, a 95% confidence interval and a one-day holding period. A parametric delta-gamma
+approximation technique was used to determine the expected return distribution in interest rates, currencies and commodity prices for the purpose of
+calculating the ﬁxed income, currency exchange and commodity VAR, respectively. The parameters used for estimating the expected return
+distributions were determined by observing interest rate, currency exchange, and commodity price movements over the prior quarter for the
+calculation of VAR amounts at December 31, 2016 and 2015, and over each of the four prior quarters for the calculation of average VAR amounts
+during each year. The values of currency and commodity options do not change on a one-to-one basis with the underlying currency or commodity
+and were valued accordingly in the VAR computation.
+As of December 31, 2016 and December 31, 2015, the estimated potential one-day loss in fair value of our interest rate-sensitive instruments,
+primarily debt, and the estimated potential one-day loss in pre-tax earnings from our currency and commodity instruments, as calculated in the VAR
+model, were:
+Pre-Tax Earnings Impact Fair Value Impact
+At 12/31/16 Average High Low At 12l31l16 Average High Low
+7 (in millions)
+Instruments sensitive to: |
+Interest rates $ 62 $ 62 $ 91 $ 45
+EForeign_ currency rates $ 170 $ 178 $ 276 $ 170 |
+Commodity prices 16 12 16 10
+Pre-Tax Earnings Impact Fair Value Impact
+At 12l31l15 Average High Low At 12l31l15 Average High Low
+7 (in millions)
+Instruments sensitive to: |
+Interest rates $ 56 $ 60 $ 78 $ 50
+EForeign_ currency rates $ 176 $ 55 $ 17073 $ 176 |
+Commodity prices 15 23 31 15
+The impacts in the 2015 tables above have not been recast to reﬂect the deconsolidation of our legacy coffee business or Venezuela business and
+the related derivative activity for those businesses as it is impracticable to do so.
+This VAR computation is a risk analysis tool designed to statistically estimate the maximum expected daily loss, under the speciﬁed conﬁdence
+interval and assuming normal market conditions, from adverse movements in interest rates, currency exchange rates and commodity prices. The
+computation does not represent actual losses in fair value or earnings we will incur, nor does it consider the effect of favorable changes in market
+rates. We cannot predict actual future movements in market rates and do not present these VAR results to be indicative of future movements in
+market rates or to be representative of any actual impact that future changes in market rates may have on our future financial results.
+59

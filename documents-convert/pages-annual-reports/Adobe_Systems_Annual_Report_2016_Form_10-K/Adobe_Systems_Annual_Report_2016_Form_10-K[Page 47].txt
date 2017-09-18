@@ -1,0 +1,38 @@
+Table of Contents
+Cost of Revenue (dollars in millions)
+Fiscal Fiscal Fiscal % Change % Change
+2016 2015 2014 2016-2015 2015-2014
+lSubscription is 461.9 409.2 335.5 13 22 %}
+Percentage of total revenue 8% 9% 8%
+{Product 68.9 90.0 97.1 (23)% (7)%}
+Percentage of total revenue 1% 2% 2%
+I Services and support 289.1 245.1 189.5 18 % 29 %}
+Percentage of total revenue 5% 5% 5%
+{Total cost ofrevenue is 819.9 :$ 744.3 :s 622.1 : 10 % 20 %}
+Subscription
+Cost of subscription revenue consists of third-party royalties and expenses related to operating our network infrastructure,
+including depreciation expenses and operating lease payments associated with computer equipment, data center costs, salaries and
+related expenses of network operations, implementation, account management and technical support personnel, amortization of
+intangible assets and allocated overhead. We enter into contracts with third parties for the use of their data center facilities and
+our data center costs largely consist of amounts we pay to these third parties for rack space, power and similar items.
+Cost of subscription revenue increased due to the following:
+% Change % Change
+2016-2015 2015-2014
+lData center costs 9% _ 4%:
+Amortization of purchased intangibles (4) 3
+1 Compensation and related benefits associated with headcount 2 4 ‘
+Depreciation expense 2 3
+I Royalty costs 2 4 ‘
+Various individually insigniﬁcant items 2 4
+I Total change 13%_ 22%!
+Data center costs increased during ﬁscal 2016 compared to fiscal 2015 primarily due to the continued increase in transaction
+volumes in our Adobe Marketing Cloud and Creative Cloud services. Increases in data center costs were partially offset by decreases
+in amortization of purchased intangibles driven by the decrease in amortization expense associated with intangible assets purchased
+through our acquisitions of Omniture and Efficient Frontier that became fully amortized in the latter part of fiscal 2015.
+Data center costs increased during ﬁscal 2O 15 compared to fiscal 2014 primarily due to higher transaction volumes in our
+Adobe Marketing Cloud and Creative Cloud services. Depreciation expense increased primarily due to higher capital expenditures
+as we invested in our network and data center infrastructure to support the growth of our subscription and hosted services business.
+Royalty costs increased primarily due to increases in subscriptions and downloads of our SaaS offerings and increased royalties
+due to the introduction of our stock photography offering. Amortization of purchased intangibles increased primarily due to
+amortization of intangibles acquired from our acquisition of Fotolia in fiscal 2015.
+47

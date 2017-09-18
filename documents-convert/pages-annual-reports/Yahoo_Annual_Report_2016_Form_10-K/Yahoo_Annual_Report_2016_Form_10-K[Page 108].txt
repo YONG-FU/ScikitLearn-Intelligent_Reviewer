@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+qualify for sales recognition under the sale-leaseback accounting guidance. If the Company continues to be the deemed owner, the facilities are accounted for
+as ﬁnance leases.
+Income Taxes. Deferred income taxes are determined based on the differences between the ﬁnancial reporting and tax bases of assets and liabilities and are
+measured using the currently enacted tax rates and laws. The Company records a valuation allowance against particular deferred income tax assets if it is more
+likely than not that those assets will not be realized. The provision for income taxes comprises the Company’s current tax liability and change in deferred income
+tax assets and liabilities.
+Signiﬁcant judgment is required in evaluating the Company’s uncertain tax positions and determining its provision for income taxes. The Company establishes
+liabilities for tax-related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. These liabilities are established when
+the Company believes that certain positions might be challenged despite its belief that its tax return positions are in accordance with applicable tax laws. The
+Company adjusts these liabilities when new information becomes available, such as the closing of a tax audit, new tax legislation, developments in case law or
+interactions with the tax authorities. To the extent that the ﬁnal tax outcome of these matters is different than the amounts recorded, such differences will affect
+the provision for income taxes in the period in which such determination is made. The provision for income taxes includes the effect of changes to liabilities for
+tax-related uncertainties that are considered appropriate, as well as the related net interest and penalties. lncome taxes paid, net of refunds received, were
+$90 million, $3 billion in the years ended December 31, 2014 and 2015, respectively. Income taxes refund received, net of payments made, was $151 million in
+the year ended December 31, 2016. Interest paid was not material in any of the years presented. See Note 16—“lncome Taxes” for additional information.
+Revenue Recognition. Revenue is generated from offerings, which include clicks on text-based links to advertisers’ websites that appear primarily on search
+results pages (“search advertising”), the display of graphical, non—graphical, and video advertisements (“display advertising”), and other sources.
+Search Revenue. Search revenue is generated from mobile and desktop clicks on text-based links to advertisers’ websites that appear primarily on search
+results pages (“search advertising”). The Company recognizes revenue from search advertising on Yahoo Properties and Affiliate sites. Search revenue is
+recognized based on Paid Clicks. A Paid Click occurs when an end—user clicks on a sponsored listing on Yahoo Properties and Afﬁliate sites for which an
+advertiser pays on a per click basis. The Company also sells search trafﬁc to certain customers where it does not have a direct relationship with the advertiser, in
+which case revenue is also recognized based on Paid Clicks. In the Microsoft Search Agreement, the Company agreed to request paid search results from
+Microsoft for 51 percent of search queries originating from desktop computers accessing Yahoo Properties and Affiliate sites (the “Volume Commitment”). There
+is no such Volume Commitment for trafﬁc generated on mobile devices.
+On April 15, 2015, the Company and Microsoft Corporation (“Microsoft”) entered into the Eleventh Amendment (the “Eleventh Amendment”) to the Search and
+Advertising Services and Sales Agreement (“Microsoft Search Agreement”). Pursuant to the Eleventh Amendment, the Company completed the transition of its
+exclusive sales responsibilities to Microsoft for Microsoft’s paid search services to premium advertisers in the United States, Canada, and Europe on April 1,
+2016 and in its remaining markets (other than Taiwan and Hong Kong) on June 1, 2016. Following the transition in each respective market, Yahoo is considered
+the principal in the sale of trafﬁc to Microsoft and other customers because Yahoo is the primary obligor in its arrangements with Microsoft and has discretion in
+how search queries from Afﬁliate sites will be fulﬁlled and monetized. As a result,
+107

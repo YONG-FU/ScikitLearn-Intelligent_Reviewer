@@ -1,0 +1,53 @@
+Table of contents
+where appropriate. For example, we typically assign an account manager to manage relationships across our business with large
+enterprise customers. The account manager is supported by a team of specialists with product and services expertise. For other
+customers and for consumers, we typically manage direct online sales as well as channel relationships with retailers, while our
+business segments collaborate to manage relationships with commercial resellers targeting SMBS where appropriate.
+Manufacturing and Materials
+We utilize a significant number of outsourced manufacturers (“OMS”) around the world to manufacture HP-designed
+products. The use of OMS is intended to generate cost efficiencies and reduce time to market for HP-designed products. We use
+multiple OMS to maintain ﬂexibility in our supply chain and manufacturing processes. In some circumstances, third-party
+suppliers produce products that we purchase and resell under the HP brand. In addition to our use of OMS, we currently
+manufacture a limited number of finished products from components and subassemblies that we acquire from a wide range of
+vendors.
+We utilize two primary methods of fulﬁlling demand for products: building products to order and configuring products to
+order. We build products to order to maximize manufacturing and logistics efficiencies by producing high volumes of basic
+product configurations. Alternatively, configuring products to order enables units to match a customer’s particular hardware
+and software customization requirements. Our inventory management and distribution practices in both building products to
+order and configuring products to order seek to minimize inventory holding periods by taking delivery of the inventory and
+manufacturing shortly before the sale or distribution of products to our customers.
+We purchase materials, supplies and product subassemblies from a substantial number of vendors. For most of our
+products, we have existing alternate sources of supply or such alternate sources of supply are readily available. However, we do
+rely on sole sources for laser printer engines, LaserJet supplies, certain customized partS and parts for products with Short life
+cycles (although some of these sources have operations in multiple locations in the event of a disruption). For instance, we
+source laser printer engines and laser toner cartridges from Canon. Any non-renewal, or limitation or reduction of the scope of
+our agreement with Canon could adversely affect our net revenue from LaserJet products; however, we have a long-standing
+business relationship with Canon and do not anticipate non-renewal of thiS agreement.
+We are dependent upon Intel and AMD as suppliers of x86 processors and Microsoft for variouS software products,
+however, we believe that disruptions with these suppliers would result in industry-wide ramifications and therefore would not
+disproportionately disadvantage us relative to our competitors. See “Risk Factors—We depend on third-party suppliers, and our
+ﬁnancial resultS could suffer if we fail to manage our suppliers effectively,” in Item 1A, which is incorporated herein by
+reference.
+Like other participants in the information technology (“IT”) industry, we ordinarily acquire materials and components
+through a combination of blanket and scheduled purchase orders to support our demand requirements for periods averaging 90
+to 120 days. From time to time, we may experience Signiﬁcant price volatility or supply constraints for certain components that
+are not available from multiple sources. We also may acquire component inventory in anticipation of supply constraints or enter
+into longer-term pricing commitments with vendors to improve the priority, price and availability of supplies. See “Risk
+Factors—We depend on third-party suppliers, and our financial resultS could suffer if we fail to manage our suppliers
+effectively,” in Item 1A, which iS incorporated herein by reference.
+Sustainability also plays a role in the manufacturing and sourcing of materials and components for our products. Some
+customer segments expect that our products are made in an ethical and sustainable manner, which we strive to ensure through
+our sustainability programs. We have committed to building an efficient and sustainable supplier network, and we collaborate
+with our suppliers to improve their labor practices and working conditions, and to reduce the environmental impact of their
+operations. These actions, together with our broader sustainability program, help uS in our eﬁort to meet customer sustainability
+requirements and comply with regulations, for example, regarding supplier labor practices and conﬂict minerals disclosure.
+For more information on our sustainability goals, programs, and performance, we refer you to our annual sustainability report,
+available on our website (which is not incorporated by reference herein).
+International
+Our products and services are available worldwide. We believe this geographic diversity allows uS to meet demand on a
+worldwide baSis for both consumer and enterprise customers, draws on business and technical expertise from a worldwide
+workforce, provides stability to our operations, provides revenue streams that may oﬂset geographic economic trendS and
+offers uS an opportunity to access new markets for maturing products. In addition, we believe that future growth iS dependent in
+part on our ability to develop products and saleS models that target developing countries. In thiS regard, we believe that our
+broad geographic presence gives us a solid base on which to build such future growth.
+6

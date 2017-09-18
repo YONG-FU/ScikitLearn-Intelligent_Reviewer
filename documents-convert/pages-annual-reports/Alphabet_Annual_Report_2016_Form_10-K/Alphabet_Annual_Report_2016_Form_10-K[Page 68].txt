@@ -1,0 +1,50 @@
+IaibleiofiCiontents Alphabet Inc.
+Other Income (Expense), Net
+The components of other income (expense), net, were as follows (in millions):
+7 Year Ended December 31, 7
+: 2014 2015 2016
+[Interest income $ 746 $ 999 $ 1,220 i
+Interest expense (101) (104) (124)
+[Foreign currency exchange losses, net (1) (402) (422) (475):
+Gain (loss) on marketable securities, net 153 (208) (210)
+[Gain (loss) on non-marketable investments, net 237 (126) (65):
+Other f 13077 15277 887
+I Other income (expense), net $ 763 $ 291 $ 434‘
+(1) Ourforeign currency exchange losses, net, are related to the option premium costs and forward points for ourforeign currency
+hedging contracts, our foreign exchange transaction gains and losses from the conversion of the transaction currency to the
+functional currency, offset by the foreign currency hedging contract losses and gains. The net foreign currency transaction
+losses were $107 million, $123 million, and $112 million in 2014, 2015, and 2016, respectively.
+Note 6. Acquisitions
+2016 Acquisitions
+Apigee
+In October 2016, we completed the acquisition of Apigee Corp., a provider of application programming interface
+(API) management, for approximately $571 million in cash. We expect the acquisition to accelerate our Google Cloud
+customers’ move to supporting their businesses with high quality digital interactions. Ofthe total purchase price of $571
+million, $41 million was cash acquired, $127 million was attributed to intangible assets, $376 million was attributed to
+goodwill, and $27 million was attributed to net assets acquired. Goodwill, which was recorded in the Google segment, is
+primarily attributable to synergies expected to arise after the acquisition and is not deductible for tax purposes.
+OtherAcquisitions
+During the year ended December 31, 2016, we completed other acquisitions and purchases of intangible assets
+for total consideration of approximately $448 million. In aggregate, $12 million was cash acquired, $143 million was
+attributed to intangible assets, $288 million was attributed to goodwill, and $5 million was attributed to net assets
+acquired. These acquisitions generally enhance the breadth and depth of our offerings, as well as expanding our
+expertise in engineering and other functional areas. The amount of goodwill expected to be deductible for tax purposes
+is approximately $67 million.
+Proforma results of operations for these acquisitions have not been presented because they are not material to
+the consolidated results of operations, either individually or in aggregate.
+For all intangible assets acquired and purchased during the year ended December 31, 2016, patents and
+developed technology have a weighted-average useful life of 4.5 years, customer relationships have a weighted-
+average useful life of 3.4 years, and trade names and other have a weighted-average useful life of 6.2 years.
+2015 Acquisitions
+bebop Technologies
+In December 2015, we completed the acquisition of bebop Technologies Inc. (bebop), a company with a cloud-
+based development platform focused on enterprise applications. The fair value of total consideration transferred in
+connection with the close was $272 million, of which $1 million was paid in cash and $271 million was paid in the form
+of Alphabet Class C capital stock. We issued a total of approximately 514 thousand shares ofAlphabet Class C capital
+stock in relation to this acquisition, part of which will be accounted for as compensation expense. The fair value of the
+shares of capital stock issued was determined based on the closing market price of Alphabet's Class C capital stock
+as of the close date. The Class C capital stock issued by Alphabet in connection with the acquisition was treated as
+a capital contribution from Alphabet to Google. We expect the acquisition will help us provide a new platform to build
+and maintain enterprise applications. As part of the acquisition, Diane Greene, the former CEO of bebop and a member
+of our Board of Directors, has joined Google.
+65

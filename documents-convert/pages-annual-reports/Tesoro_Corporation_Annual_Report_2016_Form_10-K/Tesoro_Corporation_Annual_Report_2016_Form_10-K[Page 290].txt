@@ -1,0 +1,40 @@
+Section 6.06 Limitation on Suits.
+A Holder may pursue a remedy with respect to this Indenture or the Notes only if:
+(1) such Holder gives to the Trustee written notice that an Event of Default is continuing;
+(2) Holders of at least 25% in aggregate principal amount of the then—outstanding Notes make a written request to the Trustee to pursue the
+remedy;
+(3) such Holder or Holders oﬁ‘er and, if requested, provide to the Trustee reasonable security or indemnity reasonably satisfactory to the Trustee
+against any loss, liability or expense;
+(4) the Trustee does not comply with the request within 60 days after receipt of the request and the offer of security or indemnity; and
+(5) during such 60-day period, Holders of at least a majority in aggregate principal amount of the then-outstanding Notes do not give the Trustee
+a direction inconsistent with such request.
+A Holder of a Note may not use this Indenture to prejudice the rights of another Holder of a Note or to obtain a preference or priority over another
+Holder of a Note.
+Section 6.07 Rights of Holders of Notes to Institute Suit.
+Notwithstanding any other provision of this Indenture, the contractual right of any Holder of outstanding Notes to institute suit for the enforcement of
+any payments of principal of, or interest or premium, if any, on, such Holder’s Notes on or after the due dates expressed in such outstanding Notes (including
+in connection with an offer to purchase), shall not be impaired or aﬁ‘ected without the consent of such Holder.
+Section 6.08 Collection Suit by Trustee.
+Ifan Event of Default speciﬁed in Section 601(1) or (2) hereof occurs and is continuing, the Trustee is authorized to recover judgment in its own name
+and as trustee of an express trust against the Issuers for the whole amount of principal of, premium and interest remaining unpaid on, the Notes and interest on
+overdue principal and, to the extent lawful, interest and such ﬁirther amount as shall be sufﬁcient to cover the costs and expenses of collection, including the
+reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel.
+Section 6.09 Trustee May File Proofs of Claim.
+The Trustee is authorized to ﬁle such proofs of claim and other papers or documents as may be necessary or advisable in order to have the claims of the
+Trustee (including any claim for the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel) and the Holders
+of the Notes allowed in any judicial proceedings relative to the Issuers (or any other obligor upon the Notes), their creditors or their property and shall be
+entitled and empowered to collect, receive and distribute any money or other property payable or deliverable on any such claims and any custodian in any
+such judicial proceeding is hereby authorized by each Holder to make such payments to the Trustee, and in the event that the Trustee shall consent to the
+making of such payments directly to the Holders, to pay to the Trustee any amount due to it for the reasonable compensation, expenses, disbursements and
+advances of the Trustee, its agents and counsel, and any other amounts due the Trustee under Section 7.07 hereof. To the extent that the payment of any such
+compensation, expenses, disbursements and advances of the Trustee, its agents and counsel, and any other amounts due the Trustee under Section 7.07 hereof
+out of the estate in any such proceeding, shall be denied for any reason, payment of the same shall be secured by a Lien on, and shall be paid out of, any and
+all distributions, dividends, money, securities and other properties that the Holders may be entitled to receive in such proceeding whether in liquidation or
+under any plan of reorganization or arrangement or otherwise. Nothing herein contained shall be deemed to authorize the Trustee to authorize or consent to
+or accept or adopt on behalf of any Holder any plan of reorganization, arrangement, adjustment or composition affecting the Notes or the rights of any
+Holder, or to authorize the Trustee to vote in respect of the claim of any Holder in any such proceeding.
+Section 6.10 Priorities.
+Ifthe Trustee collects any money pursuant to this Articleﬁ, it shall pay out the money in the following order:
+First: to the Trustee, its agents and attorneys for amounts due under .Sectiole’Z hereof, including payment of all compensation, expenses and
+liabilities incurred, and all advances made, by the Trustee and the Trustee’s costs and expenses of collection;
+-46-

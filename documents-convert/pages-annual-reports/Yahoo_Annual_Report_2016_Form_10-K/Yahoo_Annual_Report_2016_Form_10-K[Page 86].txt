@@ -1,0 +1,31 @@
+Table,0f,C,ontents
+consolidated ﬁnancial statements for additional information. We establish liabilities for tax-related uncertainties based on estimates of whether, and the extent to
+which, additional taxes will be due. These liabilities are established when we believe that certain positions might be challenged despite our belief that our tax
+return positions are in accordance with applicable tax laws. We adjust these liabilities in light of changing facts and circumstances, such as the closing of a tax
+audit, new tax legislation, developments in case law or interactions with the tax authorities. To the extent that the ﬁnal tax outcome of these matters is different
+than the amounts recorded, such differences will affect the provision for income taxes in the period in which such determination is made. The provision for
+income taxes includes the effect of liability provisions and changes to reserves that are considered appropriate, as well as the related net interest and penalties.
+We record a valuation allowance against certain of our deferred income tax assets if it is more likely than not that those assets will not be realized. In evaluating
+our ability to realize our deferred income tax assets we consider all available positive and negative evidence, including our operating results, ongoing tax
+planning, and forecasts of future taxable income on a jurisdiction by jurisdiction basis. In the event we were to determine that we would be able to realize these
+deferred income tax assets in the future, we would make an adjustment to the valuation allowance, which would reduce the provision for income taxes.
+Goodwill. Goodwill is not amortized but is evaluated for impairment annually (as of October 31) or whenever we identify certain triggering events or
+circumstances that would more likely than not reduce the estimated fair value of a reporting unit below its carrying amount. Events or circumstances that might
+indicate an interim evaluation is warranted include, among other things, unexpected adverse business conditions, regulatory changes, loss of key personnel and
+reporting unit and macro-economic factors.
+Goodwill is tested for impairment at the reporting unit level, which is at or one level below our operating segments. We identiﬁed U.S. & Canada, Latin America,
+and Tumblr as the reporting units below the Americas operating segment; EMEA is the reporting unit as well as the operating segment; and Taiwan, Hong Kong,
+Australia & New Zealand, and India & Southeast Asia as the reporting units below the Asia Paciﬁc operating segment. These operating segments are the same
+as our reportable segments.
+To test for impairment, we use the two-step quantitative test. The ﬁrst step of the quantitative test involves comparing the estimated fair value of our reporting
+units to their carrying values, including goodwill. If the carrying value of the reporting unit exceeds its fair value, the second step of the quantitative test is
+performed by comparing the carrying value of the goodwill in the reporting unit to its implied fair value. An impairment charge is recognized for the excess of the
+carrying value of goodwill over its implied fair value.
+We use a combination of income and market approaches for valuing the reporting units. Refer to Note 5—“Goodwill” in the Notes to our consolidated ﬁnancial
+statements for discussion of the methodologies utilized in 2016, 2015, and 2014 for each reporting unit. The components of these approaches, as outlined
+below, require us to make assumptions about the timing and amount of future cash flows, growth rates and discount rates. Signiﬁcant management judgment is
+involved in determining these estimates and assumptions, and actual results may differ from those used in valuations. Changes in these estimates and
+assumptions could materially affect the determination of fair value for each reporting unit which could trigger future impairment.
+- Market comparables . We select comparable companies in the speciﬁc regions in which these reporting units operate based on similarity of type of
+business, primarily those involved in online advertising, relative size, ﬁnancial proﬁle, and other characteristics of those companies compared
+85

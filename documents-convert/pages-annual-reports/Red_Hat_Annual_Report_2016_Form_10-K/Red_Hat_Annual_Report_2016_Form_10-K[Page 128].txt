@@ -1,0 +1,19 @@
+EXHIBIT INDEX
+Exhibit No: Description of Exhibits
+21.1 Subsidiaries of Red Hat, Inc.
+23.1 Consent of PricewaterhouseCoopers LLP
+31.1 Certification of the registrant’s Chief Executive Officer pursuant to Rule 13a—14(a)/Rule 15d-14(a)
+under the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of
+the Sarbanes-Oxley Act of 2002
+31.2 Certification of the registrant’s Chief Financial Officer pursuant to Rule 13a—14(a)/Rule 15d-14(a)
+under the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of
+the Sarbanes-Oxley Act of 2002
+32.1 Certification of the registrant’s principal executive officer and principal ﬁnancial ofﬁcer pursuant
+to 18 U.S.C. Section 1350
+101.INS XBRL Instance Document
+101.SCH XBRL Taxonomy Extension Schema
+101.CAL XBRL Taxonomy Extension Calculation Linkbase
+101.DEF XBRL Taxonomy Extension Definition Linkbase
+101.LAB XBRL Taxonomy Extension Label Linkbase
+101.PRE XBRL Taxonomy Extension Presentation Linkbase
+124

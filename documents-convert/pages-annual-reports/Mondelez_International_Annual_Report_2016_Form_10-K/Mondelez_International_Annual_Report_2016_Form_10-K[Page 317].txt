@@ -1,0 +1,20 @@
+(b) Record of Borrowing, Payables and Payments . The Register maintained by the Administrative Agent pursuant to Section 9.07(d) shall include
+a control account, and a subsidiary account for each Lender, in which accounts (taken together) shall be recorded as follows:
+(i) the date and amount of each Borrowing made hereunder, the Type of Loans comprising such Borrowing and, if appropriate, the Interest Period
+applicable thereto;
+(ii) the terms of each Assignment and Acceptance delivered to and accepted by it;
+(iii) the amount of any principal or interest due and payable or to become due and payable from the Borrower to each Lender hereunder and the
+Maturity Date(s) applicable thereto; and
+(iv) the amount of any sum received by the Administrative Agent from the Borrower hereunder and each Lender’s share thereof.
+(0) Evidence of Payment Obligations . Entries made in good faith by the Administrative Agent in the Register pursuant to Section 2.17(b), and by
+each Lender in its account or accounts pursuant to Section 2.17(a), shall be prima facie evidence of the amount of principal and interest due and payable or to
+become due and payable from the Borrower to, in the case of the Register, each Lender and, in the case of such account or accounts, such Lender, under this
+Agreement, absent manifest error; provided , however , that the failure of the Administrative Agent or such Lender to make an entry, or any finding that an entry is
+incorrect, in the Register or such account or accounts shall not limit or otherwise affect the obligations of the Borrower under this Agreement.
+SECTION 2.18 [Reserved]
+SECTION 2.19 UseiofBroceeds. The proceeds of the Loans shall be available (and the Borrower agrees that it shall use such proceeds) for general
+corporate purposes, including for dividends, capital reductions or intercompany loans and/or for the repayment of indebtedness.
+SECTION 2.20 Defaulting Lenders . Notwithstanding any provision of this Agreement to the contrary, if any Lender becomes a Defaulting Lender,
+then the following provisions shall apply:
+(a) Commitment Fees shall cease to accrue on the Commitment of such Defaulting Lender pursuant to Section 2.09(a); and
+-27-

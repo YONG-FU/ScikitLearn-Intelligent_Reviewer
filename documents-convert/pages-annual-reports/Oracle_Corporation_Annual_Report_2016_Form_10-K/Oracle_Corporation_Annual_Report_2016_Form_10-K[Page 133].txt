@@ -1,0 +1,35 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+segment revenues to our total revenues as reported in our consolidated statements of operations. Our cloud software and on-premise software and services revenues for management reporting also differ from
+amounts reported per our consolidated statements of operations for the periods presented due to certain insigniﬁcant reclassiﬁcations between these lines for management reporting purposes.
+(2) The margins reported reﬂect only the direct controllable costs of each line of business and do not include allocations of product development, marketing and partner programs, and corporate, general and
+administrative and IT expenses. Additionally, the margins reported do not reﬂect amortization of intangible assets, acquisition related and other expenses, restructuring expenses, stock-based compensation,
+interest expense or certain other income (expense), net.
+The following table reconciles total operating segment revenues to total revenues as well as total operating segment margin to income before provision for income
+taxes:
+Year Ended Mayf371,
+(in millions) _ 2016 2015 2014
+lTotal revenues for operating ﬁgments $ 37,057 $ 38,253 $ 38,306)
+Cloud software as a service and platform as a service revenues (1) (7) (2) (ﬂ)
+:Software license updates and product support revenues (1) (2) (1_1) (3)]
+Hardware support revenues (1) (1) (4) (11)
+l Total revenues $ 37,047 $ 38,226 58 38,27 5]
+Total margin for operating ﬁgments $ 22,904 $ 24,221 $ 24,647
+Cloud software as a service and platform as a service revenues (1) (7) (Q) (1_7)j
+Software license updates and product support revenues (1) (2) (11) (3)
+Hardware support revenues (1) _ (l) (4) (9)
+Product development (4,978) (4,812) (4,590)
+Marketing and partner pggram expenses (505) (520) (564)]
+Corporate, general and administrative and information technology expenses (1,635) (1,496) (1,384)
+LAmortization of intangible assets (1,63 8) (2,149) (2,300)]
+Acquisition related and other (Q) (211) (E)
+Restructuring (458) (207) (183)]
+Stock-based compensation (1,034) (928) (795)
+Interest expense (1,467) (1,143) (914)]
+Non-operating income (expense), net 305 106 (141)
+1 Income before provision for income taxes 33 11,442 $ 12,834 $ 13,704]
+(1) Cloud SaaS and PaaS revenues, software license updates and product support revenues and hardware support revenues for management reporting included revenues that would have otherwise been recorded
+by our acquired businesses as independent entities but were not recognized in our consolidated statements of operations for the periods presented due to business combination accounting requirements.
+13 l

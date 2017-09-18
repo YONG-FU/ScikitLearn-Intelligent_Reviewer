@@ -1,0 +1,40 @@
+[ mmmmﬁm]
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS FOR THE YEAR ENDED DECEMBER 31, 2016
+(In millions)
+Guarantor Non- Consolidating
+Parent Subsidiaries Guarantors Adjustments Consolidated
+Cash Flows From (Used in) Operating Activities
+Net cash from (used in) operating activities 5 (33) $ 1,006 $ 637 $ (306) $ 1,304
+Cash Flows From (Used in) Investing Activities
+Capital expenditures — (616) (278) — (894)
+Acquisitions — (67) (346) — (413)
+Deposits for acquisitions — — (33) — (33)
+Proceeds from asset sales 17 — 8 — 25
+Investment in subsidiaries (321) (455) — 776 —
+Intercompany notes, net (1,453) — — 1,453 —
+Notes to general partner — — (760) 760 —
+Other investing activities — — (2) — (2)
+Net cash used in investing activities (1,757) (1,138) (1,411) 2,989 (1,317)
+Cash Flows From (Used in) Financing Activities
+Borrowings under revolving credit agreements — — 1,451 — 1,451
+Repayments on revolving credit agreements — — (1,426) — (1,426)
+Proceeds from debt offerings 1,600 — 1,451 — 3,051
+Repayments of debt — (9) (251) — (260)
+Dividend payments (249) — — — (249)
+Proceeds from stock options exercised 2 — — — 2
+Net proceeds from issuance of TLLP common units — — 364 — 364
+Notes from general partner 760 — — (760) —
+Distributions to noncontrolling interest — — (216) — (216)
+Purchases of common stock (250) — — — (250)
+Taxes paid related to net share settlement of equity awards (25) — — — (25)
+Contributions by parent — — 776 (776) —
+Net intercompany borrowings (repayments) — 1,822 (369) (1,453) —
+Distributions to TLLP unitholders and general partner — — (81) 81 —
+Distributions from TLLP and general partner to TSO — — (225) 225 —
+Payments of debt issuance costs (16) — (21) — (37)
+Other financing activities (32) — (7) — (39)
+Net cash from financing activities 1,790 1,813 1,446 (2,683) 2,366
+Increase in Cash and Cash Equivalents — 1,681 672 — 2,353
+Cash and Cash Equivalents, Beginning of Year — 895 47 — 942
+Cash and Cash Equivalents, End of Year 5 — $ 2,576 $ 719 $ — S 3,295
+December 31, 2016 | 117

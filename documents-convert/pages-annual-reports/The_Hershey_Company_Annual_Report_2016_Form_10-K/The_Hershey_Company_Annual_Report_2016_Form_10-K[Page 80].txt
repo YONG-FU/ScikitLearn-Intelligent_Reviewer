@@ -1,0 +1,40 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The weighted-average assumptions used in computing net periodic benefit cost were as follows:
+7 Pension Beneﬁts 7 7 Other Beneﬁts 7
+For the years ended December 31, 2016 2015 2014 7_7 2016 2015 2014 7
+{Discount rate 4.0% 3.7% 4.5% 4.0% 3.7% 45%}
+Expected long-term return on plan assets 61% 63% 7 0% N/A N/A N/A
+’Rate of compensation increase 3.8% 4.1% 4.0% N/A N/A N/A ‘
+The Company’s discount rate assumption is determined by developing a yield curve based on high quality corporate
+bonds with maturities matching the plans’ expected benefit payment streams. The plans’ expected cash ﬂows are then
+discounted by the resulting year-by-year spot rates. We base the asset return assumption on current and expected asset
+allocations, as well as historical and expected returns on the plan asset categories.
+For purposes of measuring our post-retirement benefit obligation at December 31, 2016, we assumed a 7.0% annual
+rate of increase in the per capita cost of covered health care benefits for 2017, grading down to 5.0% by 2021. For
+measurement purposes as of December 31, 2015, we assumed a 6.5% pre-65 and a 7.3% post-65 annual rate of
+increase in the per capita cost of covered health care benefits for 2016, grading down to 5.0% by 2019. Assumed
+health care cost trend rates could have a significant effect on the amounts reported for the post-retirement health care
+plans. A one-percentage point change in assumed health care cost trend rates would have the following effects:
+One-Percentage One—Percentage
+iImpact of assumed health care cost trend rates Point Increase Point Decrease 7
+{Effect on total service and interest cost components 35 151 $ (132):
+Effect on accumulated post-retirement benefit obligation 3,8 58 (3,373)
+The valuations and assumptions reﬂect adoption of the Society of Actuaries updated RP-2014 mortality tables with
+NIP-2016 generational projection scales, which we adopted as of December 31, 2016. Adoption of the updated scale
+did not have a significant impact on our current pension obligations or net period benefit cost since our primary plans
+are cash balance plans and most participants take lump-sum settlements upon retirement.
+Plan Assets
+We broadly diversify our pension plan assets across public equity, fixed income, diversified credit strategies and
+diversified alternative strategies asset classes. Our target asset allocation for our major domestic pension plans as of
+December 31, 2016 was as follows:
+Asset Class _ Target Asset Allocation
+I Cash 1% ‘
+Equity securities 25%
+’Fixed income securities 49% ‘
+Alternative investments, including real estate, listed infrastructure and other 25%
+As of December 31, 2016, actual allocations were consistent with the targets and within our allowable ranges. We
+expect the level of volatility in pension plan asset returns to be in line with the overall volatility of the markets within
+each asset class.
+78

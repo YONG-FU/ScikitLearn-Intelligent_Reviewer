@@ -1,0 +1,33 @@
+Expenses
+Our level of profitability is also impacted by our expenses, including direct costs to support our revenue such as bandwidth
+and co—location costs. We have observed the following trends related to our profitability in recent years:
+° Network bandwidth costs represent a significant portion of our cost of revenue. Historically, we have been able to
+mitigate increases in these costs by reducing our network bandwidth costs per unit and investing in internal-use
+software development to improve the performance and efficiency of our network. Our total bandwidth costs may
+increase in the future as a result of expected higher traffic levels and serving more traffic from higher cost regions. We
+will need to continue to effectively manage our bandwidth costs to maintain current levels of profitability.
+° Co-location costs are also a significant portion of our cost of revenue. By improving our internal-use software and
+managing our hardware deployments to enable us to use servers more efficiently, we have been able to manage the
+growth of co-location costs. We expect to continue to scale our network in the future and will need to continue to
+effectively manage our co-location costs to maintain current levels of profitability.
+- Due to the fixed nature of some of our co-location and bandwidth costs over a minimum time period, it may not be
+possible to quickly reduce those costs. If our revenue growth rate declines, our profitability could decrease.
+- Payroll and related compensation costs have grown as we have increased headcount to support our revenue growth and
+strategic initiatives. We increased our headcount by 406 employees during the year ended December 31, 2016. During
+the year ended December 31, 2015, we increased our headcount by 979 employees. We expect to continue to hire
+additional employees, both domestically and internationally, in support of our strategic initiatives.
+Fluctuations in foreign currency exchange rates have also impacted our reported results. Revenue and expenses of our
+operations outside of the US. are important contributors to our overall financial performance, and as currencies have weakened
+against the US. dollar, our revenue has been negatively impacted and our expenses have been positively impacted. If foreign
+currency exchange rates during the year ended December 31, 2016 had remained the same as exchange rates during the year
+ended December 31, 2015, our revenue would have increased by 7% as opposed to 6%. Conversely, diluted earnings per share
+would have decreased by 1% as opposed to increasing by 1%. If foreign currency exchange rates during the year ended
+December 31, 2015 had remained the same as exchange rates during the year ended December 31, 2014, our revenue would
+have increased by 16% as opposed to 12%. Similarly, diluted earnings per share would have increased by 2% as opposed to
+decreasing 3% had exchange rates remained constant during the same period.
+In recent years, we have used strategic acquisitions to complement and augment existing technological capabilities. During
+2016, 2015 and 2014 we completed various acquisitions which were immaterial to our financial results as a whole during those
+years, but have contributed to increases in our revenue and level of expenses. Also in February 2014, we completed an offering
+of $690.0 million in par value of convertible senior notes. The notes do not bear regular interest, but have an effective interest
+rate of 3.2% attributable to the conversion feature.
+27

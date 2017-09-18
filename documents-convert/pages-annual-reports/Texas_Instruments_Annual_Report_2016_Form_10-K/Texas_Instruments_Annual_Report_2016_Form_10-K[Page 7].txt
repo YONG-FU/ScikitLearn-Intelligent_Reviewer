@@ -1,0 +1,42 @@
+HPA
+HPA included products that we market to many different customers who use them in manufacturing a wide range of end products.
+HPA products included high-speed data converters, amplifiers, sensors, high-reliability products, interface products and precision
+products that are typically used in systems that require high performance. HPA products generally have long life cycles, often more
+than 10 years.
+SVA
+SVA included a broad portfolio of industrial, high-voltage power management, data converter, interface and operational amplifier
+products used in manufacturing a wide range of electronic systems. SVA products support applications like video and data
+interface products, high voltage power conversion, and mobile lighting and display systems. SVA products generally have long life ’5
+cycles, often more than 10 years. SVA consisted primarily of products that we acquired through our purchase of National 3
+Semiconductor Corporation in 2011. E
+0
+Embedded Processing “'
+Embedded Processing generated $3.02 billion of revenue in 2016. Embedded Processing products are the “brains” of many
+types of electronic equipment. Embedded processors are designed to handle specific tasks and can be optimized for various
+combinations of performance, power and cost, depending on the application. Our devices vary from simple, low-cost
+microcontrollers used in electric toothbrushes to highly specialized, complex devices used in automotive applications such as
+infotainment systems and advanced driver assistance systems (ADAS). Our Embedded Processing products are used in many
+markets, particularly industrial, automotive and communications equipment.
+An important characteristic of our Embedded Processing products is that our customers often invest their own research and
+development (R&D) to write software that operates on our products. This investment tends to increase the length of our customer
+relationships because many customers prefer to re-use software from one product generation to the next.
+Sales of Embedded Processing products generated about 23 percent of our revenue in 2016. According to external sources,
+the market for embedded processors was about $18 billion in 2016. Our Embedded Processing segment’s revenue in 2016 was .
+about 17 percent of this fragmented market, among the leaders. We believe we are well positioned to increase our market share
+over time.
+In 2016, our Embedded Processing segment included the following major product lines: Processors, Microcontrollers and
+Connectivity.
+Processors
+Processors included digital signal processors (DSPs) and applications processors. DSPs perform mathematical computations
+almost instantaneously to process or improve digital data. Applications processors are designed for specific computing activity.
+Microcontrollers
+Microcontrollers included self-contained systems with a processor core, memory and peripherals that are designed to control a
+set of specific tasks for electronic equipment. Microcontrollers tend to have minimal requirements for memory and program length,
+with no operating system and low software complexity. Analog components that control or interface with sensors and other
+systems are often integrated into microcontrollers.
+Connectivity
+Connectivity included products that enable electronic equipment to connect and transfer data wirelessly, with the requirements for
+speed, data capability, distance, power and security varying depending on the application. Our Connectivity products support many
+wireless technologies to meet these requirements, including low-power wireless network standards like Sub-1GHz, Zigbee® and
+other technologies like Bluetooth® and WiFi.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 3

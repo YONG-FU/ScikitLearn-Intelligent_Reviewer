@@ -1,0 +1,29 @@
+(b) Record of Borrowing, Payables and Payments . The Register maintained by the Administrative Agent pursuant to Section 9.07(d) shall include
+a control account, and a subsidiary account for each Lender, in which accounts (taken together) shall be recorded as follows:
+(i) the date and amount of each Borrowing made hereunder, the Type of Advances comprising such Borrowing and, if appropriate, the Interest Period
+applicable thereto;
+(ii) the terms of each Assignment and Acceptance delivered to and accepted by it;
+(iii) the amount of any principal or interest due and payable or to become due and payable from each Borrower to each Lender hereunder and the
+Termination Date applicable thereto; and
+(iv) the amount of any sum received by the Administrative Agent from the Borrowers hereunder and each Lender’s share thereof.
+(0) Evidence of Payment Obligations . Entries made in good faith by the Administrative Agent in the Register pursuant to Section 2.17(b), and by
+each Lender in its account or accounts pursuant to Section 2.17(a), shall be prima facie evidence of the amount of principal and interest due and payable or to
+become due and payable from each Borrower to, in the case of the Register, each Lender and, in the case of such account or accounts, such Lender, under this
+Agreement, absent manifest error; provided , however , that the failure of the Administrative Agent or such Lender to make an entry, or any finding that an entry is
+incorrect, in the Register or such account or accounts shall not limit or otherwise affect the obligations of any Borrower under this Agreement.
+SECTION 2.18 Commitmentjncreases.
+(a) Mondeléz may from time to time (but not more than three times in any calendar year), by written notice to the Administrative Agent (which shall
+promptly deliver a copy to each of the Lenders), executed by Mondeléz and one or more financial institutions (any such financial institution referred to in this
+Section 2.18 being called an “ Augmenting Lender ”), which may include any Lender, cause new Commitments to be extended by the Augmenting Lenders or cause
+the existing Commitments of the Augmenting Lenders to be increased, as the case may be (the aggregate amount of such increase for all Augmenting Lenders on
+any single occasion being referred to as a “ Commitmentlncrease”), in an amount for each Augmenting Lender set forth in such notice; providedthat (i) the
+amount of each Commitment Increase shall be not less than $25,000,000, except to the extent necessary to utilize the remaining unused amount of increase
+permitted under this Section 2.18(a), and (ii) the aggregate amount of the Commitment Increases shall not exceed $500,000,000, provided further that, each Lender
+may, in its sole discretion, elect to participate or decline to participate in any Commitment Increase. Each Augmenting Lender (if not then a Lender) shall be
+subject to the approval of the Administrative Agent (which approval shall not be unreasonably withheld or delayed) and shall not be subject to the approval of any
+other Lenders, and Mondeléz and each Augmenting Lender shall execute all such documentation as the Administrative Agent shall reasonably specify to evidence
+the Commitment of such Augmenting Lender and/or its status as a Lender hereunder (such documentation in respect of any Commitment Increase together with the
+notice of such Commitment Increase being referred to collectively as the “ CornmitmentjncreaseiAmendment,” in respect of such Commitment Increase). The
+Commitment Increase Amendment may, without the consent of any other Lenders, effect such amendments to this Agreement as may be necessary or appropriate,
+in the reasonable opinion of the Administrative Agent, to effect the provisions of this Section 2.18.
+-33-

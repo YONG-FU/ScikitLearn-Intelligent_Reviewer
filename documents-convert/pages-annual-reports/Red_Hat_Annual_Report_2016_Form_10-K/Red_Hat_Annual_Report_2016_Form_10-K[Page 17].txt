@@ -1,0 +1,44 @@
+allows users to deploy, monitor and manage services across cloud service providers, virtualized and container-
+based solutions. We also offer Ansible Tower, which is an IT automation and development and operations
+platform that provides simplified multi-tier application deployment and IT automation across hybrid clouds.
+Red Hat Mobile. Red Hat Mobile technologies enable customers to develop, integrate, deploy and manage
+mobile applications for the enterprise. The Red Hat Mobile Application Platform offers ﬂexibility in choosing
+front-end development tools while providing mobile backend as a service functionality, which is intended to
+provide more secure integration of mobile applications with back-end systems.
+Red Hat Storage. Red Hat Storage technologies offer a software-defined storage platform that enables users
+to treat storage as a virtual resource across block, object and file system storage for deployment in hybrid cloud
+environments. Red Hat Storage software aggregates disk and memory resources of multiple physical servers into
+a unified storage pool, offering customers the ability to treat storage as a single scalable, shared, centrally-
+managed pool of virtual storage for files, block and object storage. Additionally, users of enterprise OpenStack
+deployments often use Red Hat Storage technologies for their storage needs.
+Additional Red Hat offerings. Red Hat offerings also include other technologies, such as a realtime
+operating system, high-performance distributed computing, directory services and user authentication. These
+offerings broaden customer choice and are components of our open source architecture for the enterprise.
+Red Hat consulting, support, and training services
+Red Hat offers a range of services that are designed to help our customers derive additional value from Red
+Hat offerings.
+Consulting. We offer the services of experienced consultants focused on our offerings to assist with the
+technology and strategic infrastructure needs of our customers. Our consulting services include assessments,
+implementations, upgrade planning, platform migrations, solution integration and application development.
+Support. Our Red Hat subscriptions generally include varying levels of technical support to assist customers
+with implementing, configuring and using Red Hat technologies. In addition, Red Hat’s Customer Portal
+provides an online method for customers to obtain certified software, access a knowledge base and software
+update alerts and advisories, as well as interact with our technical support engineers. We also offer technical
+account management services for customers that require a more personalized support relationship. The technical
+account management services are designed to offer a highly skilled, proactive support engineer who understands
+a customer’s IT infrastructure and serves as a primary point of contact for technical support that is tailored to the
+customer’s business.
+Training. Our training services consist of an array of interactive courses designed to meet the diverse needs
+of our customers. We deliver courses worldwide in classroom, corporate on-site and online settings. These
+courses span topics such as system administration, deployment, management and security, and enterprise
+application development and integration. Certifications include Red Hat Certified Architect, Red Hat Certified
+Engineer, Red Hat Certified J Boss Administrator, Red Hat Certified JBoss Developer, Red Hat Certified System
+Administrator, Red Hat Certified System Administrator in Red Hat OpenStack, Red Hat Certified Virtualization
+Administrator and Red Hat Certificates of Expertise in a variety of specialties.
+By providing consulting and support services that help to enable infrastructure, application integration and
+middleware solutions both on-premise or in a cloud, we facilitate further adoption and use of our technologies in
+the enterprise. In addition, our training services help populate customers and partners with skilled Red Hat
+certified professionals who often serve as internal open source advocates, increasing opportunities for successful
+adoption and use of our technologies. Our service capabilities promote and reinforce the use of open source
+technologies as well as our Red Hat brands.
+13

@@ -1,0 +1,50 @@
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT [WARKE T RISK
+The following discussion about our market risk includes “forward-looking statements” that involve risks and
+uncertainties. Actual results could differ materially from those projected in the forward-looking statements. The analysis
+methods we used to assess and mitigate risk discussed below should not be considered projections of future events, gains or
+losses.
+We are exposed to financial market risks, including changes in foreign currency exchange rates and interest rates that
+could adversely affect our results of operations or financial condition. To mitigate foreign currency risk, we utilize derivative
+financial instruments. The counterparties to our derivative instruments are major financial institutions. All of the potential
+changes noted below are based on sensitivity analyses performed on our financial position as of December 31, 2016. Actual
+results could differ materially.
+Discussions of our accounting policies for derivatives and hedging activities are included in Notes 2 and 14 to our
+consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2016.
+Exposure to Exchange Rates
+A substantial majority of our overseas expense and capital purchasing activities are transacted in local currencies,
+including Euros, British pounds sterling, Japanese yen, Australian dollars, Swiss francs, Indian rupees, Hong Kong dollars,
+Canadian dollars, Singapore dollars and Chinese renminbi. To reduce the volatility of future cash ﬂows caused by changes in
+currency exchange rates, we have established a hedging program. We use foreign currency forward contracts to hedge certain
+forecasted foreign currency expenditures. Our hedging program significantly reduces, but does not entirely eliminate, the
+impact of currency exchange rate movements.
+At December 31, 2016 and 2015, we had in place foreign currency forward sale contracts with a notional amount of
+$113.8 million and $85.3 million, respectively, and foreign currency forward purchase contracts with a notional amount of
+$152.3 million and $169.9 million, respectively. At December 31, 2016, these contracts had an aggregate fair value liability of
+$1.9 million and at December 31, 2015, these contracts had an aggregate fair value liability of $2.6 million. Based on a
+hypothetical 10% appreciation of the US. dollar from December 31, 2016 market rates, the fair value of our foreign currency
+forward contracts would decrease by $3.7 million. Conversely, a hypothetical 10% depreciation of the US. dollar from
+December 31, 2016 market rates would increase the fair value of our foreign currency forward contracts by $3.7 million,
+resulting in a net asset position. In these hypothetical movements, foreign operating costs would move in the opposite direction.
+This calculation assumes that each exchange rate would change in the same direction relative to the US. dollar. In addition to
+the direct effects of changes in exchange rates quantified above, changes in exchange rates could also change the dollar value
+of sales and affect the volume of sales as the prices of our competitors” products become more or less attractive. We do not
+anticipate any material adverse impact to our consolidated financial position, results of operations, or cash ﬂows as a result of
+these foreign exchange forward contracts.
+Exposure to Interest Rates
+We have interest rate exposures resulting from our interest-based available-for—sale investments. We maintain available-
+for-sale investments in debt securities and we limit the amount of credit exposure to any one issuer or type of instrument. The
+securities in our investment portfolio are not leveraged. The securities classified as available-for—sale are subject to interest rate
+risk. The modeling technique used measures the change in fair values arising from an immediate hypothetical shift in market
+interest rates and assumes that ending fair values include principal plus accrued interest and reinvestment income. If market
+interest rates were to increase by 100 basis points from December 31, 2016 and 2015 levels, the fair value of the available-for-
+sale portfolio would decline by approximately $19.2 million and $14.4 million, respectively. If market interest rates were to
+decrease by 100 basis points from December 31, 2016 and 2015 levels, the fair value of the available-for—sale portfolio would
+increase by approximately $17.8 million and $12.2 million, respectively. These amounts are determined by considering the
+impact of the hypothetical interest rate movements on our available-for-sale and trading investment portfolios. This analysis
+does not consider the effect of credit risk as a result of the changes in overall economic activity that could exist in such an
+environment.
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Our consolidated financial statements and related financial statement schedule, together with the report of independent
+registered public accounting firm, appear at pages F-l through F-42 of this Annual Report on Form 10—K for the year ended
+December 31, 2016.
+52

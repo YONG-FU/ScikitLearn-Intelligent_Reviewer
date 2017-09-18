@@ -1,0 +1,49 @@
+If our actual future cash ﬂows differ from our projections materially, certain stores that are either
+not impaired or partially impaired in the current period may be further impaired in future periods. A
+50 basis point decrease in our future sales assumptions as of February 27, 2016 would have resulted in
+an additional fiscal 2016 impairment charge of $1.6 million. A 50 basis point increase in our future
+sales assumptions as of February 27, 2016 would have reduced the fiscal 2016 impairment charge by
+$0.4 million. A 100 basis point decrease in our future sales assumptions as of February 27, 2016 would
+have resulted in an additional fiscal 2016 impairment charge of $4.5 million. A 100 basis point increase
+in our future sales assumptions as of February 27, 2016 would have reduced the fiscal 2016 impairment
+charge by $0.8 million.
+Revenue recognition for our loyalty program: We offer a chain wide customer loyalty program,
+“wellness+”. Members participating in our wellness+ loyalty card program earn points on a calendar
+year basis for eligible front end merchandise purchases and qualifying prescriptions. One point is
+awarded for each dollar spent towards front end merchandise and 25 points are awarded for each
+qualifying prescription.
+Members reach specific wellness+ tiers based on the points accumulated during the calendar year,
+which entitle them to certain future discounts and other benefits upon reaching that tier. For example,
+any customer that reaches 1,000 points in a calendar year achieves the “Gold” tier, enabling the
+customer to receive a 20% discount on qualifying purchases of front end merchandise for the
+remaining portion of the calendar year and the next calendar year. There are also similar “Silver” and
+“Bronze” levels with lower thresholds and benefit levels.
+As wellness+ customers accumulate points, we defer the value of the points earned as deferred
+revenue based on the expected usage. The amount deferred is based on historic and projected customer
+activity (e.g., tier level, spending level). As customers receive discounted front end merchandise, we
+recognize an allocable portion of the deferred revenue. If the achieved combined Gold, Silver, and
+Bronze levels differ from the assumptions by 5.0% it would have affected pretax income by
+$1.3 million. If the assumed spending levels, which are the drivers of future discounts, differ by 5.0% it
+would have affected pretax income by $1.3 million.
+Rite Aid has partnered with American Express Travel Related Services Company, Inc. to be part
+of a coalition loyalty program titled Plenti. This awards program allows a customer to earn points based
+on qualifying purchases at participating retailers. Each Plenti point is worth the equivalent of $0.01.
+The customer has the opportunity to redeem their accumulated points on a future purchase at any of
+the participating retailers. All points are redeemed using a FIFO methodology (e.g., first points earned
+are the first to be redeemed). Points expire on December 31St of each year for any point that has aged
+a minimum of two years that has not been redeemed by the customer.
+For a majority of the Plenti point issuances, funding is provided by our vendors through
+contractual arrangements. This funding is treated as deferred revenue and remains in deferred revenue
+until a customer redeems their points. Upon redemption, the deferred revenue account is decremented
+with an offsetting credit to sales. For Plenti point redemptions that are not vendor funded, deferred
+revenue is recorded and not recognized until the points are redeemed.
+Self-insurance liabilities: We expense claims for self-insured workers’ compensation and general
+liability insurance coverage as incurred including an estimate for claims incurred but not paid. The
+expense for self-insured workers’ compensation and general liability claims incurred but not paid is
+determined using several factors, including historical claims experience and development, severity of
+claims, medical costs and the time needed to settle claims. We discount the estimated expense for
+workers’ compensation to present value as the time period from incurrence of the claim to final
+settlement can be several years. We base our estimates for such timing on previous settlement activity.
+The discount rate is based on the current market rates for Treasury bills that approximate the average
+time to settle the workers’ compensation claims. These assumptions are updated on an annual basis. A
+60

@@ -1,0 +1,49 @@
+A summary of foreign currency forward exchange contracts and the corresponding amounts at contracted forward rates
+is as follows:
+December 31, 7 7 2016 7 7 2015 7
+7 7 7 Contract Primary 7 7 Contract Primary 7
+7 Amount 7 7 Currencies 7 7 Amount 7 7 Currencies 7
+In millions of dollars 7 9
+Foreign currency forward exchange
+contracts to purchase foreign currencies $ 9.4 Euros $ 19.8 Euros
+Canadian dollars
+Foreign currency forward exchange Brazilian reals Brazilian reals
+contracts to sell foreign currencies $ 80.4 Japanese yen $ 11.9 Japanese yen
+The fair value of foreign currency forward exchange contracts represents the diﬁerence between the contracted and
+current market foreign currency exchange rates at the end of the period. We estimate the fair value of foreign currency
+forward exchange contracts on a quarterly basis by obtaining market quotes of spot and forward rates for contracts
+with similar terms, adjusted where necessary for maturity differences. At December 31, 2016 and 2015, the net fair
+value of these instruments was an asset of $1.4 million and a liability of $0.1 million, respectively. Assuming an
+unfavorable 10% change in year-end foreign currency exchange rates, the fair value of these instruments would have
+declined by $9.6 million and $3.2 million, respectively.
+CommoditiesiPrice Risk Management and Futures Contracts
+Our most significant raw material requirements include cocoa products, sugar, dairy products, peanuts and almonds.
+The cost of cocoa products and prices for related futures contracts and costs for certain other raw materials historically
+have been subject to wide ﬂuctuations attributable to a variety of factors. These factors include:
+o Commodity market ﬂuctuations;
+0 Foreign currency exchange rates;
+0 Imbalances between supply and demand;
+0 The effect of weather on crop yield;
+0 Speculative inﬂuences;
+0 Trade agreements among producing and consuming nations;
+9 Supplier compliance with commitments;
+0 Political unrest in producing countries; and
+0 Changes in governmental agricultural programs and energy policies.
+We use futures and options contracts and other commodity derivative instruments in combination with forward
+purchasing of cocoa products, sugar, corn sweeteners, natural gas and certain dairy products primarily to reduce the
+risk of future price increases and provide visibility to future costs. Currently, active futures contracts are not available
+for use in pricing our other major raw material requirements, primarily peanuts and almonds. We attempt to minimize
+the effect of future price ﬂuctuations related to the purchase of raw materials by using forward purchasing to cover
+future manufacturing requirements generally for 3 to 24 months. However, dairy futures liquidity is not as developed
+as many of the other commodities futures markets and, therefore, it can be difficult to hedge our costs for dairy
+products by entering into futures contracts or other derivative instruments to extend coverage for long periods of time.
+We use diesel swap futures contracts to minimize price ﬂuctuations associated with our transportation costs. Our
+commodity procurement practices are intended to reduce the risk of future price increases and provide visibility to
+future costs, but also may potentially limit our ability to benefit from possible price decreases. Our costs for major
+raw materials will not necessarily reﬂect market price ﬂuctuations primarily because of our forward purchasing and
+hedging practices.
+During 2016, average cocoa futures contract prices decreased compared with 2015 and traded in a range between
+$1.03 and $1.38 per pound, based on the Intercontinental Exchange futures contract. Cocoa production was lower
+during the 2015 to 2016 crop year and global demand was slightly higher, which produced a small reduction in global
+cocoa stocks over the past year. Despite the slight decrease in global cocoa inventories, prices started to decline in
+42

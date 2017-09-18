@@ -1,0 +1,39 @@
+15.5 Interpretation of Performance-Based Compensation. In the event an Award is intended to be Performance-Based Compensation, all
+terms of the Award and any accompanying Committee action shall be interpreted in a manner that results in the Award complying with Code
+Section 162(m), and, to the extent a Plan term or Committee action is inconsistent with Code Section 162(m), the Plan term or Committee action shall
+be deemed modified (or, if necessary, treated as void) in a manner that results in compliance with Code Section 162(m).
+15.6 Committee Discretion. In the event that applicable tax or securities laws change to permit Committee discretion to alter the
+governing Performance Measures or permit ﬂexibility with respect to the terms of any Award or Awards to be treated as Performance-Based
+Compensation without obtaining shareholder approval of such changes, the Committee shall have sole discretion to make such changes without
+obtaining shareholder approval. In addition, in the event that the Committee determines that it is advisable to grant Awards that shall not qualify as
+Performance-Based Compensation, the Committee may make such grants without satisfying the requirements of Code Section 162(m) and base
+vesting on Performance Measures other than those set forth in Section 15.2.
+Article 16. Termination of Employment or Termination of Directorship
+16.1 Effect of Termination of Employment or Directorship Generally. Each Award Agreement evidencing the grant of an Award shall
+provide for the following:
+(a) The extent to which a Participant shall vest in or forfeit such Award following the Participant’s Termination of
+Employment or Termination of Directorship, as applicable.
+(b) With respect to an Award in the form of an Option or SAR, the extent to which a Participant shall have the right to
+exercise the Option or SAR following the Participant’s Termination of Employment or Termination of Directorship, as applicable.
+The foregoing provisions shall be determined in the sole discretion of the Committee, shall be included in each Award Agreement entered
+into with each Participant, need not be uniform among all Award Agreements and may reﬂect distinctions based on the reasons for termination.
+16.2 Effect of Termination of Employment for Cause. In addition to the forfeiture events specified in the Award Agreements as
+authorized by Section 16.1 above, a Participant’s Termination of Employment or Directorship for Cause shall result in the forfeiture of the
+Participant’s outstanding Awards in accordance with the following:
+(a) Any outstanding and non-vested Options, SARs, Restricted Stock, RSUs, Performance Stock Units, Cash-Based
+Awards and Other Stock-Based Awards granted to the Participant shall be forfeited as of the Participant’s Termination of
+Employment or Directorship; and
+(b) Any vested and unexercised Options and SARs, vested but not settled RSUs, earned but not settled Performance
+Stock Units, and earned and/or vested Cash-Based Awards and Other Stock-Based Awards granted to the Participant shall be
+forfeited as of the Participant’s Termination of Employment or Directorship.
+Article 17. Effect of a Change in Control
+Notwithstanding any other provision of this Plan to the contrary, the provisions of this Article 17 shall apply in the event of a Change in
+Control:
+17.1 Awards Assumed by Successor. Upon the occurrence of a Change in Control, any Award granted under the Plan that is Assumed
+(as defined in Section 17.2 below) by the entity effecting the Change in Control shall vest and be exercisable, if applicable, in accordance with the
+terms of the original grant unless, during the two (2) year period commencing on the date of the Change in Control:
+(a) the Participant is involuntarily terminated for reasons other than for Cause; or,
+(b) the Participant terminates his or her employment for Good Reason.
+If clause (a) or (b) applies, the Award shall become fully vested and exercisable, if applicable, and any restrictions that apply to the Award
+shall lapse, and any performance-based Award shall be deemed to be satisfied at the target level, except that, with respect to any Award subject to
+Code Section 409A, payment shall be made on the date payment would have been made had

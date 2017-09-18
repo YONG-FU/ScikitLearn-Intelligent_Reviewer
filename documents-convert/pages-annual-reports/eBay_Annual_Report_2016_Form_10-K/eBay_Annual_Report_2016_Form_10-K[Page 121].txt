@@ -1,0 +1,43 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Deferred tax assets and liabilities are recognized for the future tax consequences of
+differences between the carrying amounts of assets and liabilities and their respective tax
+bases using enacted tax rates in effect for the year in which the differences are expected to be
+reversed. Significant deferred tax assets and liabilities consist of the following (in millions):
+As of December 31,
+i 2016 i i 2015 i
+j Deferred tax assets: I
+Net operating loss, capital loss and credits $ 78 $ 206
+j Accruals and allowances 222 209 j
+Stock-based compensation 65 65
+j Amortizable tax basis in intangibles 4,621 — j
+Net unrealized losses — 8
+j Net deferred tax assets 4,986 488]
+Valuation allowance (37) (41)
+l $4,949 $ 447]
+Deferred tax liabilities:
+j Unremitted foreign earnings $(1,578) $(1,656)j
+Acquisition-related intangibles (29) (19)
+j Depreciation and amortization (158) (190)j
+Available—for-sale securities (29) (251)
+j Other — — j
+(1,794) (2,116)
+j $ 3,155 $(1,669)]
+As of December 31, 2016, our federal, state and foreign net operating loss carryforwards for
+income tax purposes were approximately $22 million, $74 million and $135 million,
+respectively. The federal and state net operating loss carryforwards are subject to various
+limitations under Section 382 of the Internal Revenue Code and applicable state tax laws. If not
+utilized, the federal and state net operating loss carryforwards will both begin to expire in 2018.
+The carryforward periods on our foreign net operating loss carryforwards are as follows:
+$37 million do not expire, $79 million are subject to valuation allowance and begin to expire in
+2023, and $20 million are not subject to valuation allowance but will begin to expire in 2019. As
+of December 31, 2016, state tax credit carryforwards for income tax purposes were
+approximately $69 million. Most of the state tax credits carry forward indefinitely.
+As of December 31, 2016 and 2015, our federal capital loss carryover amounted to zero and
+$336 million, respectively. The decrease in the capital loss carryover of $336 million is due to
+utilization of the loss carryover against gains primarily from the sale of our equity holdings of
+MercadoLibre, Inc, in 2016.
+As of December 31, 2016 and 2015, we maintained a valuation allowance with respect to
+certain of our deferred tax assets relating primarily to operating losses in certain non—U.S.
+jurisdictions that we believe are not likely to be realized.
+F-45

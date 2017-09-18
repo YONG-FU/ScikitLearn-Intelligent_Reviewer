@@ -1,0 +1,44 @@
+Iabl,e,of,C,ontents
+charge in our financial statements during the period in which any impairment of our goodwill or amortizable intangible assets is determined, which would
+negatively impact our operating results.
+Problems with our information systems could interfere with our business and could adversely impact our operations.
+We rely on our information systems and those of third parties for processing customer orders, delivering products, providing services and support to our
+customers, billing and tracking our customers, fulfilling contractual obligations and otherwise running our business. If our systems fail, our disaster and data
+recovery planning and capacity may prove insufficient to enable timely recovery of important functions and business records. Any disruption in our information
+systems and those of the third parties upon whom we rely could have a significant impact on our business. In addition, we continuously work to enhance our
+information systems, such as our enterprise resource planning software. The implementation of these types of enhancements is frequently disruptive to the
+underlying business of an enterprise, which may especially be the case for us due to the size and complexity of our business. Implementation may disrupt internal
+controls and business processes and could introduce unintended vulnerability to error. Additionally, our information systems may not support new business models
+and initiatives and signiﬁcant investments could be required in order to upgrade them. For example, in February 2017 we implemented a change in our fiscal
+calendar, which required us to make adjustments to our critical business processes and data systems. Any disruptions relating to our systems enhancements,
+particularly any disruptions impacting our operations during the implementation period, could adversely affect our business in a number of respects. Additionally,
+delays in adapting our information systems to address new business models could limit the success or result in the failure of such initiatives and impair the
+effectiveness of our internal controls. Even if we do not encounter these adverse effects, the implementation of these enhancements may be much more costly than
+we anticipated. If we are unable to successfully implement the information systems enhancements as planned, our operating results could be negatively impacted.
+We may have exposure to additional tax liabilities, and our operating results may be adversely impacted by higher than expected tax rates.
+As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property
+and goods and services taxes, in both the US. and various foreign jurisdictions. Our domestic and international tax liabilities are subject to the allocation of
+revenue and expenses in different jurisdictions and the timing of recognizing revenue and expenses. Significant judgment is required in determining our worldwide
+provision for income taxes and other tax liabilities. We are subject to income and indirect tax examinations. The Dell-owned EMC consolidated group is routinely
+under audit by the Internal Revenue Service (the “IRS”). All US. federal income tax matters have been concluded for years through 2010, except for any matters
+under appeal. The IRS is currently auditing the Dell-owned EMC consolidated group’s federal tax returns for tax year 2011. In addition, we are under corporate
+income tax audits in various states and non-U.S. jurisdictions. While we believe we have complied with all applicable income tax laws, a governing tax authority
+could have a different interpretation of the law and assess us with additional taxes. Any assessment of additional taxes could materially affect our financial
+condition and operating results.
+Our future effective tax rate may be affected by such factors as changes in tax laws, changing interpretation of existing laws or regulations, the impact of
+accounting for stock-based compensation, the impact of accounting for business combinations, changes in the composition of global earnings, the expiration of
+statute of limitations, settlements of audits, changes in our international organization and changes in overall levels of income before tax.
+In addition, in the ordinary course of our global business, there are many intercompany transactions, including the transfer of intellectual property, where the
+ultimate tax determination is uncertain. Although we believe that our tax estimates are reasonable, the final determination of tax audits or tax disputes may differ
+from what is reﬂected in our historical income tax provisions and accruals.
+Our rate of taxation in foreign jurisdictions is lower than our US. tax rate. Our international income is primarily earned by our subsidiaries organized in
+Ireland, and, as such, our effective tax rate can be impacted by the composition of our earnings in the US. and foreign jurisdictions. During October 2014, Ireland
+announced revisions to its tax regulations that will require foreign earnings of our subsidiaries organized in Ireland to be taxed at higher rates. We will be impacted
+by the changes in tax laws in Ireland beginning in 2021. Prior to this date, we may proactively make structural changes in Ireland that may reduce the impact to our
+future tax rates. Currently, there are certain structural changes in Ireland that may be available to multi—national companies. However, due to the Dell Acquisition,
+we could be subject to higher tax obligations in the event we executed similar structural changes.
+The current US. administration has made public statements indicating that tax reform is a priority. Any significant change to US. tax laws could have a
+material impact on our financial condition and operating results.
+In addition, numerous other countries have recently enacted or are considering enacting changes to tax laws, administrative interpretations, decisions, policies
+and positions. The Organisation for Economic Cooperation and Development issued
+23

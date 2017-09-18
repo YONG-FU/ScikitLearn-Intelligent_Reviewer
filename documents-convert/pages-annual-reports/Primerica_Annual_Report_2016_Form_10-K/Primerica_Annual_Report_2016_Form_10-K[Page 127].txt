@@ -1,0 +1,43 @@
+(FINANCIAL STATEMENTS — NOTE 4 i)
+7 December 31, 2015 r
+7 Less than 12 months 12 months or longer 7
+Number Number
+Unrealized of Unrealized of
+7 Fair value losses securities Fair value losses securities
+7 (Dollars in thousands) 7
+Fixed—maturity securities:
+US. government and agencies $ 13,651 $ (22) 7 $ — $ — —
+Foreign government 23,572 (829) 20 2,396 (693) 3
+States and political subdivisions 2,729 (44) 6 878 (497) 2
+Corporates 413,131 (17,481) 393 34,624 (6,730) 54
+Residential mortgage—backed securities 9,681 (61) 9 4,762 (60) 7
+Commercial mortgage—backed securities 56,216 (493) 49 3,199 (62) 6
+Other asset—backed securities 26,611 (77) 23 260 (2) 2
+Total fixed—maturity securities 545,591 (19,007) 46,119 (8,044)
+Equity securities 3,652 (287) 17 3,209 (95) 8
+Total fixed—maturity and equity
+securities $549,243 $(19,294) $49,328 $(8,139)
+The amortized cost and fair value of AFS fixed—maturity securities in default were as follows:
+December 31, 2016 December 31, 2015
+Amortized Fair 7 Amortized Fair 7
+cost value cost value
+(In thousands)
+Fixed—maturity securities in default $5 $125 $138 $262
+Impairment charges recognized in earnings on AFS securities were as follows:
+Year ended December 31,
+r 2016 2015 20147
+7 (In thousands) 7
+Impairments on fixed—maturity securities not in default $3,257 $5,108 $3,656
+Impairments on fixed—maturity securities in default 121 29 —
+Impairments on equity securities 42 1,756 389
+Total impairment charges $3,420 $6,893 $4,045
+The securities noted above were considered to issuances with severe ratings downgrades that
+be other—than—temporarily impaired due to our indicated a significant increase in the possibility
+intent to sell them; adverse credit events, such as of default. We also recognized impairment
+news of an impending filing for bankruptcy; losses related to invested assets held at the
+analyses of the issuer’s most recent financial Parent Company that we intended to sell to fund
+statements or other information in which share repurchases, as well as credit impairments
+liquidity deficiencies, significant losses and large on certain other investments.
+3532:: lgfchfilrEallgagzg Vli/ﬁgrfrll/ﬁgnffg: As of December 31, 2016, the unrealized losses
+y g g y on our AFS invested asset portfolio were largely
+Primerica 2016 Annual Report 115

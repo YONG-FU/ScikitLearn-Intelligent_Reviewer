@@ -1,0 +1,49 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Years Ended May 31, 2016, 2015 and 2014
+Year Ended May g,
+(in millions, except per share data) 2016 2015 2014
+Revenues: I
+Cloud software as a service and platform as a service $ 2,207 $ 1,485 $ 1,121
+I Cloud infrastructure as a service 646 608 456]
+Total cloud revenues 2,853 2,093 1,577
+I New software licenses 7,276 8,535 9,416]
+Software license updates and product support 18,861 18,847 18,206
+I Total on-premise software revenues 26,137 27,382 27,622]
+Total cloud and on-premise software revenues 28,990 29,475 29,199
+I Hardware products 2,471 2,825 2,976]
+Hardware support 2,197 2,380 2,396
+I Total hardware revenues 4,668 5,205 5 ,372]
+Total services revenues 3,389 3,546 3,704
+I Total revenues 37,047 38,226 38,275]
+Operating expenses:
+F Sales and marketing (1) 7,884 7,655 7,567 I
+Cloud software as a service and platform as a service (1) 1,152 773 455
+I Cloud infrastructure as a service (1) 366 344 308 I
+Software license updates and product support (1) 1,146 1,199 1,162
+I Hardware products (I) 1,371 1,471 1,521 I
+Hardware support (1) 693 816 836
+I Services (1) _ 2,751 2,929 2,954 I
+Research and development 5,787 5,524 5,151
+I General and administrative 1,155 1,077 1,038 I
+Amortization of intangible assets 1,638 2,149 2,300
+I Acquisition related and other 42 211 41 I
+Restructuring 45 8 207 1 83
+I Total operating gpenses 24,443 24,355 23,516]
+Operating income 12,604 13,871 14,759
+fnterest expense (1,467) (1,143) (914)]
+Non-operating income (expense), net 305 106 (141)
+Income before provision for income taxes 11,442 12,834 13,704]
+Provision for income taxes 2,541 2,896 2,749
+Net income $ 8,901 $ 9,938 $ 10,955]
+Earnings per share:
+I Basic 8 2.11 $ 2.26 $ 2.42]
+Diluted $ 2.07 $ 2.21 $ 2.38
+Weighted average common shares outstanding: ]
+Basic 4,221 4,404 4,528
+I Diluted 4,305 4,503 4,604]
+Dividends declared per common share $ 0.60 $ 0.51 $ 0.48
+(1) Exclusive of amortization of intangible assets, which is shown separately
+See notes to consolidated financial statements.
+87

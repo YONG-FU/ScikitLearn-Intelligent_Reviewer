@@ -1,0 +1,40 @@
+PIXELWORKS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+(In thousands, except share and per share data)
+NOTE 1. BASIS OF PRESENTATION
+Nature of Business
+Pixelworks designs, develops and markets video processing semiconductors, intellectual property cores, software and custom ASIC solutions for high-quality
+energy efﬁcient digital video applications. Our products enable our customers to deliver the highest energy efﬁcient video quality on their devices. Our core
+video display processing technology intelligently processes video signals from a variety of sources and optimizes the image for the viewer. The rapid growth
+in video—capable consumption devices, especially mobile, has increased the demand for video display processing technology in recent years. Our
+technologies can be applied to a wide range of devices from large-screen projectors to low power mobile tablets and smartphones. Our products are
+architected and optimized for power, cost, bandwidth, and overall system performance, according to the application requirements. Our primary target markets
+include digital projection systems, tablets, and smartphones.
+As of December 31, 2016, we had an intellectual property portfolio of 148 patents related to the visual display of digital image data. We focus our research
+and development efforts on developing video algorithms that improve quality, and architectures that reduce system power, cost, bandwidth and increase
+overall system performance and device ﬁlnctionality. We seek to expand our technology portfolio through internal development and co—development with
+business partners, and we continually evaluate acquisition opportunities and other ways to leverage our technology into other high-value markets.
+Pixelworks was founded in 1997 and is incorporated under the laws of the state of Oregon.
+Our consolidated ﬁnancial statements include the accounts of Pixelworks and its wholly-owned subsidiaries. Intercompany accounts and transactions have
+been eliminated. All foreign subsidiaries use the US. dollar as the ﬁlnctional currency, and as a result, transaction gains and losses are included in the
+consolidated statements of operations. Transaction losses were $153, $125 and $159 for the years ended December 31, 2016, 2015 and 2014, respectively.
+Use of Estimates
+The preparation of consolidated ﬁnancial statements in conformity with US. generally accepted accounting principles ("US GAAP") requires us to make
+estimates and judgments that affect amounts reported in the ﬁnancial statements and accompanying notes. Our signiﬁcant estimates and judgments include
+those related to revenue recognition, product returns, warranty obligations, bad debts, inventories, property and equipment, impairment of long-lived assets,
+valuation of share-based payments, income taxes, litigation and other contingencies. The actual results experienced could differ materially from our
+estimates.
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Cash and Cash Equivalents
+We classify all cash and highly liquid investments with original maturities of three months or less at the date of purchase as cash and cash equivalents. Cash
+equivalents, which consist of US. denominated money market ﬁlnds totaled $17,960 and $25,343 as of December 31, 2016 and 2015, respectively.
+Accounts Receivable
+Accounts receivable are recorded at invoiced amount and do not bear interest when recorded or accrue interest when past due. We maintain an allowance for
+doubtful accounts for estimated losses that may result from the inability of our customers to make required payments. At the end of each reporting period, we
+estimate the allowance for doubtﬁll accounts based on an account-by-account risk analysis of outstanding receivable balances. The determination to write-off
+speciﬁc accounts receivable balances is made based on the likelihood of collection and past due status. Past due status is based on invoice date and terms
+speciﬁc to each customer.
+Inventories
+Inventories consist of ﬁnished goods and work-in-process, and are stated at the lower of standard cost (which approximates actual cost on a ﬁrst—in, ﬁrst-out
+basis) or market (net realizable value).
+48

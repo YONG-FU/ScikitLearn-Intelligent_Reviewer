@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+- Jay Rossiter—Senior Vice President, Product and Engineering, Science and Technology;
+- Rose Tsou—Senior Vice President, Asia Paciﬁc; and
+- lan Weingarten—Senior Vice President, Corporate Development and Partnerships.
+Our current Board of Directors is composed of:
+- Marissa Mayer, our President and CEO; Eric Brandt, our Chairman of the Board; Maynard Webb, our Chairman Emeritus; Tor Braham; David Filo;
+Catherine Friedman; Eddy Hartenstein; Richard Hill; Thomas Mclnerney; Jane Shaw Ph.D.; and Jeffrey Smith.
+Pending Sale of the Operating Business to Verizon Communications Inc.
+On July 23, 2016, we entered into a Stock Purchase Agreement (the “Original Stock Purchase Agreement”) with Verizon Communications Inc. (“Verizon”),
+pursuant to which we have agreed to sell, and Verizon has agreed to purchase (the “Sale”), all of the outstanding shares of Yahoo Holdings, Inc, a newly formed
+wholly-owned subsidiary of Yahoo (“Yahoo Holdings”) (and prior to the sale of Yahoo Holdings, to cause Yahoo Holdings to sell to a foreign subsidiary of Verizon
+all of the equity interests in a foreign subsidiary of Yahoo Holdings that will hold certain foreign subsidiaries relating to our operating business), which,
+immediately prior to the consummation of the Sale, will own our operating business. Under the Original Stock Purchase Agreement, the aggregate consideration
+to be paid to us by Verizon in connection with the Sale was $4,825,800,000 in cash, subject to certain adjustments as provided in the Original Stock Purchase
+Agreement.
+Concurrently with the execution of the Original Stock Purchase Agreement, we entered into a Reorganization Agreement (the “Original Reorganization
+Agreement”) with Yahoo Holdings, pursuant to which we will transfer to Yahoo Holdings prior to the consummation of the Sale all of our assets and liabilities
+relating to our operating business, other than speciﬁed excluded assets and retained liabilities (the “Reorganization”).
+On February 20, 2017, Yahoo and Verizon entered into an Amendment to Stock Purchase Agreement amending the Original Stock Purchase Agreement (the
+“SPA Amendment” and, together with the Original Stock Purchase Agreement, the “Amended Stock Purchase Agreement”), and, concurrently with the execution
+of the SPA Amendment, Yahoo and Yahoo Holdings entered into an Amendment to Reorganization Agreement amending the Original Reorganization
+Agreement (the “RA Amendment”). Additionally, concurrently with the execution of the SPA Amendment and the RA Amendment, Yahoo, Yahoo Holdings, and
+Verizon entered into a Settlement and Release Agreement (the “Settlement and Release Agreement”).
+The SPA Amendment, among other things, (i) reduced the consideration to be paid by Verizon to Yahoo in connection with the Sale by $350,000,000 to
+$4,475,800,000, (ii) provided that certain data security incidents to which Yahoo has been subject will be disregarded for purposes of determining whether
+certain closing conditions have been satisﬁed and in determining whether a “Business Material Adverse Effect” has occurred, and (iii) provided that the date after
+which each of Yahoo and Verizon may terminate the Amended Stock Purchase Agreement if the Closing (as deﬁned in the Amended Stock Purchase
+Agreement) has not occurred has been extended to July 24, 2017.
+The RA Amendment provides, among other things, that Yahoo and Verizon will each be responsible for 50 percent of certain post-closing cash liabilities related
+to certain data security incidents and other data breaches incurred by the Company.
+5

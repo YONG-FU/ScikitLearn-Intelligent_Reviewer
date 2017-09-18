@@ -1,0 +1,35 @@
+During the third quarter of fiscal 2013, we recorded for GAAP purposes a valuation allowance against a
+significant portion of our US. deferred tax assets. During fiscal 2014, we recorded a partial valuation allowance
+release, primarily in connection with the acquisition of ExactTarget. The increasing number of tax adjustments
+reﬂected below was the result of the GAAP valuation allowance and the Company’s increasing acquisition
+activities. The following table for fiscal 2014 reﬂects the calculation of our non-GAAP tax expense:
+Fiscal Year Ended January 31,
+Non-GAAP tax expense (in thousands); 2014
+GAAPtaxbenefit $(125,760)
+GAAP to Non-GAAP adjustments—tax effects of:
+Stock-based expenses, amortization of purchased
+intangibles and amortization of debt discount, net (1) . . 229,277
+Deferred tax asset partial valuation release . . . . . . . . . . . . 25,048
+State income tax credits not benefited (2) . . . . . . . . . . . . . . 5,325
+Acquisitions-related costs (3) . . . . . . . . . . . . . . . . . . . . . . . (19,708)
+Other,net....................................... 2,787
+Totaladjustments 242,729
+Non-GAAPtaxexpense $116,969
+(1) The Company excluded stock-based expenses, amortization of purchased intangibles, and amortization of
+debt discount, net, in reporting its non-GAAP net income. Accordingly, the Company excluded the related
+tax effects of these items. The related tax effects were computed by applying the relevant statutory tax rate
+to these items for each respective jurisdiction.
+(2) During fiscal 2014, California mandated a change to the way it apportioned income to the state, which
+significantly reduced the Company’s California income tax expense. Accordingly, for computing non-
+GAAP tax expense, the Company did not recognize tax benefits related to certain California research and
+development tax credits as the Company believed these credits may not be realized given the lowered
+California income tax expense.
+(3) During fiscal 2014, the Company excluded certain tax effects related to acquisitions in computing its non-
+GAAP tax expense. The majority of this adjustment was attributable to non-cash tax costs associated with
+the transfer of purchased intangibles. This non-cash tax item was excluded because the decisions which
+gave rise to these non-cash tax costs were neither made to increase revenue nor directly related to
+performance in any particular period, but were made for the Company’s long term benefit over multiple
+periods. The remainder of this adjustment included the tax effects of legal and accounting fees incurred to
+facilitate transactions, which amount was not material. The related tax effects were computed by applying
+the relevant statutory tax rate to these items for each respective jurisdiction.
+69

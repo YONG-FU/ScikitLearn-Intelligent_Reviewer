@@ -1,0 +1,30 @@
+SECTION 2.14 ﬂyments and Computations .
+(a) Time and Distribution of Payments . Mondeléz and each Borrower shall make each payment hereunder, without set-off or counterclaim, not later
+than 11:00 am. (New York City time) on the day when due to the Administrative Agent at the Administrative Agent Account in same day funds. The
+Administrative Agent will promptly thereafter cause to be distributed like funds relating to the payment of principal or interest or Facility Fees ratably (other than
+amounts payable pursuant to Section 2.07, 2.12, 2.15 or 9.04(b)) to the Lenders for the accounts of their respective Applicable Lending Ofﬁces, and like funds
+relating to the payment of any other amount payable to any Lender to such Lender for the account of its Applicable Lending Office, in each case to be applied in
+accordance with the terms of this Agreement. From and after the effective date of an Assignment and Acceptance pursuant to Section 9.07, the Administrative
+Agent shall make all payments hereunder in respect of the interest assigned thereby to the Lender assignee thereunder, and the parties to such Assignment and
+Acceptance shall make all apprOpriate adjustments in such payments for periods prior to such effective date directly between themselves.
+(b) Computation,of,Interest,and,Fees,. All computations of interest based on the Administrative Agent’s prime rate shall be made by the
+Administrative Agent on the basis of a year of 365 or 366 days, as the case may be. All computations of interest based on the LIBO Rate or the Federal Funds
+Effective Rate and of Facility Fees shall be made by the Administrative Agent and all computations of interest pursuant to Section 2.05 shall be made by the
+applicable Lender, on the basis of a year of 360 days. All computations of interest in respect of Competitive Bid Advances shall be made by the Administrative
+Agent on the basis of a year of 360 days in the case of Floating Rate Bid Advances and on the basis of a year of 365 or 366 days in the case of Fixed Rate Bid
+Advances, as specified in the applicable Notice of Competitive Bid Notice. Computations of interest or Facility Fees shall in each case be made for the actual
+number of days (including the ﬁrst day but excluding the last day) occurring in the period for which such interest or Facility Fees are payable. Each determination
+by the Administrative Agent (or, in the case of Section 2.05 by a Lender), of an interest rate hereunder shall be conclusive and binding for all purposes, absent
+manifest error.
+(0) PéaymentDueiDatesJ Whenever any payment hereunder shall be stated to be due on a day other than a Business Day, such payment shall be
+made on the next succeeding Business Day, and such extension of time shall in such case be included in the computation of payment of interest or Facility Fees, as
+the case may be; provided , however , that if such extension would cause payment of interest on or principal of LIBO Rate Advances or Floating Rate Bid Advances
+to be made in the next following calendar month, such payment shall be made on the immediately preceding Business Day.
+((1) EresumptioncfZBorroweriBayment,. Unless the Administrative Agent receives notice from any Borrower prior to the date on which any payment
+is due to the Lenders hereunder that such Borrower will not make such payment in full, the Administrative Agent may assume that such Borrower has made such
+payment in full to the Administrative Agent on such date and the Administrative Agent may, in reliance upon such assumption, cause to be distributed to each
+Lender on such due date an amount equal to the amount then due such Lender. If and to the extent such Borrower has not made such payment in full to the
+Administrative Agent, each Lender shall repay to the Administrative Agent forthwith on demand such amount distributed to such Lender together with interest
+thereon, for each day from the date such amount is distributed to such Lender until the date such Lender repays such amount to the Administrative Agent at the
+Federal Funds Effective Rate.
+-28-

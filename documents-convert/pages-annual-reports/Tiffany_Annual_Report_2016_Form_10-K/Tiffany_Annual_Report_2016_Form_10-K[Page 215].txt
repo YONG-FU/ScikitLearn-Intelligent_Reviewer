@@ -1,0 +1,45 @@
+Explanation of Potential Payments on Termination Following a Change in Control
+Severance Arrangements
+The Company and Tiffany entered into retention agreements with each of the executive officers (other than Mr. Cumenal,
+whose employment agreement with the Company addressed severance benefits following a change in control). These
+agreements would provide a covered executive with compensation if he or she should incur an involuntary termination
+after a Change in Control.
+In the event that a Change in Control occurs, the covered executives would have fixed terms of employment under their
+retention agreements of two years.
+If the executive incurs an involuntary termination during his or her fixed term of employment under a retention agreement,
+compensation would be payable to the executive as follows:
+0 Two times the sum of the executive's salary and target short-term incentive award, as severance; and
+0 Two years of benefits continuation under Tiffany's health and welfare plans.
+,Vesting of thions and Restricted Stock Units on an Involuntary Termination following a Change in Control
+Stock thion Grants
+Outstanding stock options will vest in full and become exercisable in the event of a Change in Control that is a Terminating
+Transaction (as defined below in "Definition of a Change in Control.")
+For all other Change in Control events (see "Definition of a Change in Control" below), early vesting will occur in full but
+only if the executive is involuntarily terminated from employment following the Change in Control.
+Performance-Based Restricted Stock Unit Grants
+In the event of a Change in Control, PSUs convert to time-vesting restricted stock units as follows:
+i. If a Change in Control occurs before the start of the three-year performance period, no conversion or vesting ‘
+shall occur for the award in connection with the change in control;
+ii. If a Change in Control occurs in the first or second fiscal year of the three-year performance period, then 55%
+of the performance-based stock units awarded shall convert to time-vesting restricted stock units; and
+Q
+iii. If a Change in Control occurs in the last fiscal year of the three-year performance period, the percentage of 5
+PSUs to convert to time-vesting restricted stock units will be based on the Company's cumulative performance
+during the first and second fiscal year of the performance period, as compared to the performance goals expressed 3:3
+in the original notice of grant; however, such performance goals will be pro-rated for the cumulative two-year 0.
+period (66.67%). For PSUs granted in 2014, 2015 and 2016, the RDA target will be disregarded for these
+purposes. ,
+The resulting time-vesting restricted stock units will vest on the earlier of (i) the original maturity date in the notice of
+grant (which, for grants made in January 2014, 2015 and 2016, isthree business days followingthe public announcement
+of the Company's audited, consolidated financial results for the last fiscal year in the performance period), or (ii) if the
+executive is earlier involuntarily terminated without cause, on such termination date.
+An assumed Change of Control on January 31, 2017, would occur in the third year of the performance period of the
+PSUs granted in 2014. Actual results for the first and second years of the performance period, compared to pro-rated
+performance goals, would result in 30% of such PSUs converting to time-vesting restricted stock units. The assumed
+Change in Control would occur in the first two years of the performance period of the 2015 and 2016 PSUs, resulting
+in 55% of each of those grants converting to time-vesting restricted stock units. For the grants awarded in January
+2017, the three-year performance period began on February 1, 2017; because the Change in Control is assumed to
+have taken place before that date, no portion of the January 2017 grants are reflected as vested as a result of the
+assumed Change in Control.
+TIFFANY & co.
+PS-93

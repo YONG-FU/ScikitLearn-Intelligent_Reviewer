@@ -1,0 +1,31 @@
+Core Technologies and Products
+We have developed a portfolio of advanced video algorithms and IP to address a broad range of challenges in digital video. We believe our technologies can
+signiﬁcantly improve video quality and will become increasingly important as the popularity of Video content consumption grows, and pixel densities,
+screen size and image quality increase. Our products are designed with a ﬂexible architecture that allows us to combine algorithms and functional blocks of
+digital and mixed signal circuitry. Accordingly, our technologies can be implemented across multiple products, in combinations within single products and
+can be applied to a broad range of applications including smartphones, tablets, and projectors. The majority of our products include one or more technologies
+to provide optimal high-quality Video display processing solutions to our customers, regardless of screen size.
+Our core Video Display Processing technologies include:
+0 Halo Free MEM C. Our proprietary Halo Free MEMC technology signiﬁcantly improves the performance and viewing experience of any screen by
+addressing problems such as judder and motion blur. Unlike competitive solutions it also reduces halo effects that are a byproduct of MEMC. Halos
+are objectionable blurred regions that surround moving objects as the MEMC algorithms try to reconstruct missing image data caused by the
+concealing and revealing of obj ects as they pass over or behind one another. Removing halos dramatically improves image quality and is of
+particular importance on high-resolution displays where artifacts become more visible.
+0 Advanced Scaling. As display resolutions continue to increase, there is a need to convert lower resolution content to higher resolution in order to
+display content properly. With the latest wave of high-resolution displays, the quality and quantity demands of scaling have increased signiﬁcantly.
+Artifacts become more noticeable on these types of displays as they distract from the realism effect. In addition, with the availability of high
+resolution content lagging behind the availability of high resolution displays, high-quality scaling is required to ensure high resolution displays do
+not suffer when compared to Full-HD displays of the same size. Our advanced scaling is designed to ensure that up-conversion of lower resolution
+content is of the highest quality in maintaining the ﬁdelity of image.
+0 Mobile Video Display Processing. We have developed innovative video display processing solutions, that are designed to optimize power
+consumption for mobile devices. Beyond MEMC and advanced scaling, these mobile solutions provide the kind of improvements in color, contrast,
+sharpness and de-blur that are currently only found in high quality TVs today. Furthermore, this technology can reduce system power consumption
+and extend battery life.
+Our product development strategy is to leverage our expertise in video display processing to address the evolving needs of the digital projection and mobile
+markets. We plan to continue to focus our development resources to maintain position in these markets by providing leading edge solutions for the advanced
+digital projection market and to enhance our video processing solutions for mobile markets. Additionally, we plan to leverage our research and development
+investment into products that address high-value markets, such as mobile, where our innovative proprietary technology provides differentiation and system
+power saving beneﬁts. We deliver our technology in a variety of offerings, which take the form of single-purpose chips, highly integrated SoCs that
+incorporate specialized software, full solutions incorporating software and other tools and IP cores that allow our technology to be incorporated into third
+party solutions.
+7

@@ -1,0 +1,46 @@
+the primary beneficiary of the VIE. The primary beneficiary has both (i) the power to direct the activities of the
+VIE that most significantly impact the entity’s economic performance, and (ii) the obligation to absorb losses or
+the right to receive benefits from the VIE that could potentially be significant to the VIE.
+For the entities that we invested in or associated with but in which the usual conditions of consolidation
+mentioned above do not apply, we continuously reassess whether these entities possess any of the characteristic of
+a VIE and whether we are the primary beneficiary.
+We consolidate our subsidiaries and the VIEs of which we are the primary beneficiary. On a periodic basis, we
+reconsider the initial determination of whether a legal entity is a consolidated entity upon certain events listed in
+ASC 810-10-35-4 occurred and also continuously reconsider whether we are the primary beneficiaries of our
+affiliated entities as facts and circumstances change.
+Recognition of Revenue
+Revenue principally represents online marketing services revenue, commissions on transactions, membership
+and cloud computing revenue. Revenue comprises the fair value of the consideration received or receivable for the
+provision of services in our ordinary course activities and is recorded net of VAT. Consistent with the criteria of
+ASC 605 “Revenue Recognition,” we recognize revenue when the following four revenue recognition criteria are
+met: (i) persuasive evidence of an arrangement exists, (ii) delivery has occurred or services have been provided,
+(iii) the selling price is fixed or determinable, and (iv) collectability is reasonably assured.
+The application of various accounting principles related to the measurement and recognition of revenue
+requires us to make judgments and estimates. Specifically, complex arrangements with non-standard terms and
+conditions may require significant contract interpretation to determine the appropriate accounting treatment,
+including whether the deliverables specified in a multiple element arrangement should be treated as separate units
+of accounting. Other significant judgments include determining whether we are acting as the principal or the agent
+from an accounting perspective in a transaction.
+For multiple element arrangements with customers, which primarily relate to the sale of membership packages
+and online marketing services on our international wholesale marketplace, the arrangement consideration is
+allocated at the inception of the arrangement to each element based on their relative fair values for revenue
+recognition purposes. The consideration is allocated to each element using vendor-specific objective evidence or
+third-party evidence of the standalone selling price for each deliverable, or if neither type of evidence is available,
+using management’s best estimate of selling price. Significant judgment is required in assessing the fair values of
+these elements by considering standalone selling price and other observable data. Changes in the estimated fair
+values may cause the revenue recognized for each element to change but not the total amount of revenue allocated
+to a contract. We periodically re-assess the fair value of the elements as a result of changes in market conditions.
+These multiple element arrangements are currently not significant to our operations. Revenue recognition for P4P
+marketing service and display marketing on our marketplaces does not require our management to exercise
+significant judgment or estimate.
+For other arrangements, we apply significant judgment in determining whether we are acting as the principal
+or agent in a transaction; we record P4P marketing services revenue and display marketing revenue generated
+through third-party marketing affiliate programs on a gross basis; and revenue relating to the Taobaoke program
+generated through third-party marketing affiliate partners’ websites where we do not take inventory risks on a net
+basis. In addition, revenue generated from certain platforms in which we operate as a primary obligor is reported
+on a gross basis while such revenue was insignificant for each of the periods presented. Generally, when we are
+primarily obligated in a transaction and are subject to inventory risk or have latitude in establishing prices, or have
+several but not all of these indicators, we record revenue on a gross basis. We record the net amount as revenue
+share earned if we are not primarily obligated and do not have inventory risk or latitude in establishing prices.
+These judgments could have significant implications on the amount of revenue we recognize.
+141

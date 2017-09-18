@@ -1,0 +1,39 @@
+Non-GAAP free cash ﬂow
+We define the non-GAAP measure free cash ﬂow as GAAP net cash provided by operating activities, less
+capital expenditures. For this purpose, capital expenditures does not include our strategic investments, nor does it
+include any costs or activities related to our purchase of 50 Fremont land and building, and building in
+pro gress—leased facilities.
+Limitations on the use of non-GAAP ﬁnancial measures
+A limitation of our non-GAAP financial measures of non-GAAP gross profit, non-GAAP operating profit,
+non-GAAP net income, non-GAAP earnings per share and non-GAAP free cash ﬂow is that they do not have
+uniform definitions. Our definitions will likely differ from the definitions used by other companies, including
+peer companies, and therefore comparability may be limited. Thus, our non-GAAP measures of non-GAAP gross
+profit, non-GAAP operating profit, non-GAAP net income, non-GAAP earnings per share and non-GAAP free
+cash ﬂow should be considered in addition to, not as a substitute for, or in isolation from, measures prepared in
+accordance with GAAP. Additionally, in the case of stock-based expense, if we did not pay a portion of
+compensation in the form of stock-based expense, the cash salary expense included in costs of revenues and
+operating expenses would be higher which would affect our cash position.
+We compensate for these limitations by reconciling our non-GAAP financial measures to the most
+comparable GAAP financial measure. We encourage investors and others to review our financial information in
+its entirety, not to rely on any single financial measure, and to view our non-GAAP ﬁnancial measures in
+conjunction with the most comparable GAAP financial measures.
+Our reconciliation of the non-GAAP financial measures are as follows (in thousands, except for share
+numbers):
+: Fiscal Year Ended January 31, :
+:Non-GAAP gross profit : 2016 : : 2015 : : 2014 :
+GAAP gross profit. . . . . . . . . . . . . . . . . . . . . . . . $5,012,668 $4,084,316 $3,102,575
+Plus:
+Amortization of purchased intangibles . . . . 80,918 90,300 109,356
+Stock-based expenses . . . . . . . . . . . . . . . . . 69,443 53,812 45,608
+Non-GAAP gross profit . . . . . . . . . . . . . . . . . . . $5,163,029 $4,228,428 $3,257,539
+: Fiscal Year Ended January 31, :
+:Non-GAAP income from operations : 2016 : : 2015 : : 2014 :
+GAAP income (loss) from operations . . . . . . . . . . . . $114,923 $(145,633) $(286,074)
+Plus:
+Amortization of purchased intangibles . . . . . . . 158,070 154,973 146,535
+Stock-based expenses . . . . . . . . . . . . . . . . . . . . 593,628 564,765 503,280
+Less:
+Operating lease termination resulting from
+purchase of 50 Fremont . . . . . . . . . . . . . . . . . (36,617) 0 0
+Non-GAAP operating profit . . . . . . . . . . . . . . . . . . . $830,004 $ 574,105 $ 363,741
+66

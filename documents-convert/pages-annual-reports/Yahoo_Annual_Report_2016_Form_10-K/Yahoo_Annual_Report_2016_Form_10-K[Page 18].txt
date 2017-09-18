@@ -1,0 +1,33 @@
+Table,0f,C,ontents
+Company, and the Company likely being removed from the Standard and Poor’s 500 Index and other indices which could have an adverse impact on the
+Company’s share price following the Sale transaction.
+All of these risks and uncertainties could potentially have an adverse impact on our business and ﬁnancial performance, and could cause our stock price to
+decline.
+We are still in the process of assessing the full extent of the impact of the Security Incidents and the related government investigations and civil
+litigation on our results of operations, which could be material.
+We are still in the process of assessing the ﬁnancial and other effects of the Security Incidents (See Item 7—“Management’s Discussion and Analysis of
+Financial Condition and Results of Operations—Security Incidents”), which may have an adverse impact on our business, results of operations and reputation.
+As a result of the Security Incidents, we are facing approximately 43 putative consumer class action lawsuits, four stockholder derivative actions and one
+putative stockholder class action, and other lawsuits and claims may be asserted by or on behalf of users, partners, shareholders, or others seeking damages or
+other related relief, allegedly arising out of the Security Incidents. We are also facing investigations by a number of federal, state, and foreign governmental
+ofﬁcials and agencies. These claims and investigations may adversely affect how we operate our business, divert the attention of management from the
+operation of the business, and result in additional costs and potential fines. In addition, the governmental agencies investigating the Security Incidents may seek
+to impose injunctive relief, consent decrees, or other civil or criminal penalties which could, among other things, materially increase our data security costs, and
+affect how we operate our systems and collect and use customer and user information.
+Our security measures may be breached as they were in the Security Incidents and user data accessed, which may cause users and customers to
+curtail or stop using our products and services, and may cause us to incur significant legal and financial exposure.
+Our products and services involve the storage and transmission of Yahoo’s users’ and customers’ personal and proprietary information in our facilities and on
+our equipment, networks, and corporate systems. Yahoo is routinely targeted by outside third parties, including technically sophisticated and well—resourced
+state-sponsored actors, attempting to access or steal our user and customer data or othenNise compromise user accounts. We believe such a state-sponsored
+actor was responsible for the theft involved in the 2014 Security Incident and for at least some of the Cookie Forging Activity. Security breaches or other
+unauthorized access or actions expose us to a risk of theft of user data, regulatory actions, litigation, investigations, remediation costs, damage to our reputation
+and brand, loss of user and partner conﬁdence in the security of our products and services and resulting fees, costs, and expenses, loss of revenue, damage to
+our reputation, and other potential liability. Outside parties may attempt to fraudulently induce our employees, users, partners, customers, or other parties to
+disclose sensitive information or take other actions to gain access to our data or our users’ or customers’ data, and such unauthorized access may continue
+undetected for an extended period of time. In addition, hardware, software, or applications we procure from third parties may contain defects in design or
+manufacture or other problems that could unexpectedly compromise network and data security. In addition, systems and software implemented by us or our
+partners may contain security vulnerabilities, or may be implemented improperly due to human error or limitations in affected systems. Additionally, some third
+parties, such as our distribution partners, service providers, vendors, and app developers, may receive, transmit, process, access or store information provided
+by us or by our users through systems and applications that are integrated with Yahoo systems, properties and services. If these third parties fail to adopt or
+adhere to adequate data security practices, or in the event of a breach of their networks, our data or our users’ data may be improperly
+17

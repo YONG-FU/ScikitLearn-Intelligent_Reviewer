@@ -1,0 +1,51 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 14: Earnings Per Share (Continued)
+(2) HP excludes stock options and restricted stock units where the assumed proceeds exceed the average market price from
+the calculation of diluted net EPS, because their effect would be anti-dilutive. The assumed proceeds of a stock option
+include the sum of its exercise price, average unrecognized compensation cost and excess tax beneﬁts. The assumed
+proceeds of a restricted stock unit include the sum of its average unrecognized compensation cost and excess tax benefits.
+Note 15: Litigation and Contingencies
+HP is involved in lawsuits, claims, investigations and proceedings, including those identified below, consisting of IP,
+commercial, securities, employment, employee benefits and environmental matters that arise in the ordinary course of business.
+HP accrues a liability when management believes that it is both probable that a liability has been incurred and the amount of
+loss can be reasonably estimated. HP believes it has recorded adequate provisions for any such matters and, as of October 31,
+2016, it was not reasonably possible that a material loss had been incurred in excess of the amounts recognized in HP’s
+financial statements. HP reviews these matters at least quarterly and adjusts its accruals to reﬂect the impact of negotiations,
+settlements, rulings, advice of legal counsel, and other information and events pertaining to a particular case. Pursuant to the
+separation and distribution agreement, HP shares responsibility with Hewlett Packard Enterprise for certain matters, as
+indicated below, and Hewlett Packard Enterprise has agreed to indemnify HP in whole or in part with respect to certain matters.
+Based on its experience, HP believes that any damage amounts claimed in the specific matters discussed below are not a
+meaningful indicator of HP’s potential liability. Litigation is inherently unpredictable. However, HP believes it has valid
+defenses with respect to legal matters pending against it. Nevertheless, cash ﬂows or results of operations could be materially
+affected in any particular period by the resolution of one or more of these contingencies.
+Litigation, Proceedings and Investigations
+Comﬁght Levies. Proceedings are ongoing or have been concluded involving HP in certain European countries,
+including litigation in Belgium and other countries, seeking to impose or modify levies upon equipment (such as multifunction
+devices (“MFDS”) and PCs), alleging that these devices enable the production of private copies of copyrighted materials. The
+levies are generally based upon the number of products sold and the per-product amounts of the levies, which vary. Some
+European countries that do not yet have levies on digital devices are expected to implement similar legislation to enable them to
+extend existing levy schemes, while other European countries have phased out levies or are expected to limit the scope of levy
+schemes and applicability in the digital hardware environment, particularly with respect to sales to business users. HP, other
+companies and various industry associations have opposed the extension of levies to the digital environment and have
+advocated alternative models of compensation to rights holders.
+Reprobel, a cooperative society with the authority to collect and distribute the remuneration for reprography to Belgian
+copyright holders, requested by extrajudicial means that HP amend certain copyright levy declarations submitted for inkj et
+MFDs sold in Belgium from January 2005 to December 2009 to enable it to collect copyright levies calculated based on the
+generally higher copying speed when the MFDs are operated in draft print mode rather than when operated in normal print
+mode. In March 2010, HP filed a lawsuit against Reprobel in the French-speaking chambers of the Court of First Instance of
+Brussels seeking a declaratory judgment that no copyright levies are payable on sales of MFDs in Belgium or, alternatively, that
+copyright levies payable on such MFDs must be assessed based on the copying speed when operated in the normal print mode
+set by default in the device. On November 16, 2012, the court issued a decision holding that Belgium law is not in conformity
+with EU law in a number of respects and ordered that, by November 2013, Reprobel substantiate that the amounts claimed by
+Reprobel are commensurate with the harm resulting from legitimate copying under the reprographic exception. HP
+subsequently appealed that court decision to the Courts of Appeal in Brussels seeking to confirm that the Belgian law is not in
+conformity with EU law and that, if Belgian law is interpreted in a manner consistent with EU law, no payments by HP are
+required or, alternatively, the payments already made by HP are sufficient to comply with its obligations under Belgian law. On
+October 23, 2013, the Court of Appeal in Brussels stayed the proceedings and referred several questions to the CJ EU relating to
+whether the Belgian reprographic copyright levies system is in conformity with EU law. The case was heard by the CJEU on
+January 29, 2015 and on November 12, 2015, the CJEU published its judgment providing that a national legislation such as the
+Belgian one at issue in the main proceedings is incompatible with EU law on multiple legal points, as argued by HP. The Court
+of Appeal in Brussels now has to rule on the litigation between HP and Reprobel following the answers provided by the CJEU.
+112

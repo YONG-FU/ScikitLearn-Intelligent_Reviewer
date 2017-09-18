@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+We have three businesses that deliver our application, platform and infrastructure technologies: cloud and on-premise software, hardware and services. These
+businesses can be further divided into certain operating segments (Note 16 of Notes to Consolidated Financial Statements, included elsewhere in this Annual
+Report, provides additional information related to our operating segments):
+° our cloud and on-premise software business is comprised of three operating segments: (1) cloud software and on-premise software, which includes our
+SaaS and PaaS offerings, (2) cloud infrastructure as a service and (3) software license updates and product support. Our cloud and on-premise software
+business represented 78%, 77% and 76% of our total revenues in fiscal 2016, 2015 and 2014, respectively;
+° our hardware business is comprised of two operating segments: (1) hardware products and (2) hardware support. Our hardware business represented 13%
+of our total revenues in fiscal 2016, and 14% of our total revenues in each of fiscal 2015 and 2014; and
+° our services business is comprised of the remainder of our operating segments and offers consulting services, enhanced support services and education
+services. Our services business represented 9% of our total revenues in each of fiscal 2016 and 2015, and 10% of our total revenues in fiscal 2014.
+Oracle Corporation was incorporated in 2005 as a Delaware corporation and is the successor to operations originally begun in June 1977.
+Application, Platform and Infrastructure Technologies
+Oracle’s comprehensive portfolio of application, platform and infrastructure technologies address an organization’s business, infrastructure and development IT
+requirements. Our applications, platform and infrastructure technologies are based upon industry standards and are designed to be enterprise-grade, reliable,
+scalable and secure. We offer these technologies through our cloud and on-premise software, hardware and services businesses and deliver them through ﬂexible
+and interoperable deployment models that enable customer choice and best meet customer IT needs.
+Application and Platform Technologieis
+Our application and platform technologies consist of comprehensive on-premise and cloud software offerings including our SaaS and PaaS offerings, Oracle
+Applications, Oracle Database, Oracle Fusion Middleware and Java, among others, and related support.
+Our application and platform technologies are substantially built on standards-based architectures that are designed to help customers reduce the cost and
+complexity of their IT infrastructure. Our commitment to industry standards results in software that works in customer environments with Oracle or non-Oracle
+hardware or software components and that can be adapted to meet specific industry or business needs. This approach is designed to support customer choice and
+reduce customer risk. Our software offerings are substantially designed to Operate on both single server and clustered server configurations for cloud or on-premise
+IT environments, and to support a choice of operating systems including Oracle Solaris, Oracle Linux, Microsoft Windows and third-party UNIX products, among
+others.
+Our application and platform technologies are marketed, sold and delivered through our cloud and on-premise software business, which includes our cloud software
+and on-premise software segment and software license updates and product support segment, among others. Cloud software and on-premise software revenues
+represented 25%, 26% and 28% of our total revenues in fiscal 2016, 2015 and 2014, respectively. Software license updates and product support revenues
+represented 51%, 49% and 47% of our total revenues in ﬁscal 2016, 2015 and 2014, respectively.
+Application Technologies
+Our application technologies are available through subscription to our Oracle Cloud SaaS offerings or by the purchase of an on-premise software license.
+Regardless of the deployment model selected, our application technologies are designed to reduce the risk, cost and complexity of our customers’ IT
+infrastructures, while supporting customer choice with ﬂexible deployment models that readily enable agility, compatibility and extendibility.
+4

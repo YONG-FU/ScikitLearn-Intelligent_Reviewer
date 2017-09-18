@@ -1,0 +1,48 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+ASC 606 will signiﬁcantly increase revenue disclosure requirements; however, many of these newly required
+disclosures, including disaggregation of revenue, discussion of deferred revenue and certain required policy disclosures are
+included in our current Note 3. Upon adoption, we anticipate further increased disclosure requirements for new concepts arising
+from ASC 606 such as disclosures about variable consideration, contract assets, performance obligations, recognition over time
+versus at a point-in-time and when our customers control the goods or services delivered.
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842). The amended guidance is intended to
+increase transparency and comparability among organizations by recognizing lease assets and liabilities on the balance sheet
+and disclosing key information about leasing arrangements. The adoption of this guidance is expected to result in a significant
+portion of our operating leases, where we are the lessee, to be recognized on our Consolidated Balance Sheet. The guidance
+requires lessees and lessors to recognize and measure leases at the beginning of the earliest period presented using a modified
+retrospective approach. This guidance is effective for fiscal years beginning after December 15, 2018 and interim periods
+within those fiscal years, with earlier adoption permitted. We are currently evaluating the impact and timing of adopting this
+guidance.
+In March 2016, the FASB issued ASU No. 2016-09, Compensation - Stock Compensation (Topic 718): Improvements
+to Employee Share-Based PaymentAccounting. The amended guidance is intended to simplify several aspects of accounting for
+share-based payment award transactions, including income tax consequences, accounting for forfeitures, classiﬁcation of
+awards as either equity or liabilities and classification in the statement of cash ﬂows. ASU 2016-09 has separate transition
+guidance for each element of the new standard and will be adopted in the first quarter of 2017. We do not expect a material
+effect on our financial statements.
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments - Credit Losses (Topic 326). The new
+guidance replaces the incurred loss impairment methodology in current GAAP with a methodology that reﬂects expected credit
+losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
+For trade and other receivables, loans, and other financial instruments, we will be required to use a forward-looking expected
+loss model rather than the incurred loss model for recognizing credit losses which reﬂects losses that are probable. The new
+standard will be eﬁective for us beginning January 1, 2020, with early adoption permitted beginning January 1, 2018.
+Application of the amendments is through a cumulative-effect adjustment to retained earnings as of the effective date. We are
+currently evaluating the impact and timing of adopting this guidance.
+In January 2017, the FASB issued ASU No. 2017-04, Intangibles-Goodwill and Other (Topic 350): Simpliﬁ/ing the
+Test for Goodwill Impairment. The amended guidance simplifies the subsequent measurement of goodwill by eliminating Step 2
+from the goodwill impairment test. Under the amended guidance, we will perform our annual or interim goodwill impairment
+test by comparing the fair value of a reporting unit with its carrying value, and an impairment charge is recognized for the
+amount by which the carrying value exceeds the reporting unit’s fair value, not to exceed the total amount of goodwill allocated
+to that reporting unit. This guidance is effective for annual or any interim goodwill impairment tests in ﬁscal years beginning
+after December 15, 2021, with early adoption permitted for interim or annual goodwill impairment tests performed on testing
+dates after January 1, 2017. We are currently evaluating the impact and timing of adopting this guidance, but anticipate early
+adoption in 2017.
+We do not expect that any other recently issued accounting guidance will have a signiﬁcant effect on our financial
+statements.
+(2) Business Segments
+We report our operations in three business segments - Gaming, Lottery and Interactive - representing our different
+products and services. Our Gaming business segment generally sells gaming machines, VGTS, VLTs and conversion kits and
+parts, leases or otherwise provides gaming machines, server-based systems and content, sells and supports casino-management
+systems-based software and hardware, and sells and leases PTG content and Shuﬁlers to commercial, tribal and governmental
+gaming operators. Our Lottery business segment provides instant and draw lottery games and related value-added services, as
+79

@@ -1,0 +1,38 @@
+Property and Equipment
+Property and equipment are stated at cost. Depreciation and amortization is calculated on a straight-line basis over the estimated useful life of the assets
+which are generally as follows:
+Software Lesser of 3 years or contractual license term
+Equipment, ﬁlmiture and ﬁxtures 2 years
+Tooling 2 to 4 years
+Leasehold improvements Lesser of lease term or estimated useﬁll life
+The cost of property and equipment repairs and maintenance is expensed as incurred.
+Licensed Technology
+We have capitalized licensed technology assets in other long-term assets. These assets are stated at cost and are amortized on a straight—line basis over the
+term of the license or the estimated life of the asset, if the license is not contractually limited, which is generally two to ﬁve years.
+Useful Lives and Recoverability of Equipment and Other Long-Lived Assets
+We evaluate the remaining useﬁll life and recoverability of equipment and other assets, including identiﬁable intangible assets, whenever events or changes
+in circumstances indicate that the carrying amount of the assets may not be recoverable. Ifthere is an indicator of impairment, we prepare an estimate of
+ﬁlture, undiscounted cash ﬂows expected to result from the use of each asset and its eventual disposition. If these cash ﬂows are less than the carrying value
+of the asset, we adjust the carrying amount of the asset to its estimated fair value.
+Revenue Recognition
+We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the price is ﬁxed and
+determinable, and collection is reasonably assured. For product sales, we require customers to provide purchase orders prior to shipment and we consider
+delivery to occur upon shipment provided title and risk of loss have passed to the customer based on the shipping terms. These conditions are generally
+satisﬁed upon shipment of the underlying product.
+There are no customer acceptance provisions associated with our products, and except for replacement of defective products under our warranty program
+discussed below, we have no obligation to accept product returns from end customers; however, we have accepted returns on a case-by-case basis as customer
+accommodations in the past. As a result, we provide for estimated reductions to gross proﬁt for these sales returns in our reserve for sales returns and
+allowances. At the end of each reporting period, we estimate the reserve based on historical experience and knowledge of any applicable events or
+transactions. The reserve is included in accrued liabilities in our consolidated balance sheets.
+A portion of our sales are made to distributors under agreements that grant the distributor limited stock rotation rights and price protection on in-stock
+inventory. The stock rotation rights allow these distributors to exchange a limited amount of their in-stock inventory for other Pixelworks product. As a
+result, we provide for estimated reductions to gross proﬁt for these stock rotations in our reserve for sales returns and allowances. At the end of each reporting
+period, we estimate the reserve based on historical experience and knowledge of any applicable events or transactions. The reserve is included in accrued
+liabilities in our consolidated balance sheets.
+On occasion, we derive revenue from the license of our internally developed intellectual property ("IP"). IP licensing agreements that we enter into generally
+provide licensees the right to incorporate our IP components in their products with terms and conditions that vary by licensee. Our license fee arrangements
+generally include multiple deliverables and we are required to determine whether there is more than one unit of accounting. To the extent that the
+deliverables are separable into multiple units of accounting, we allocate the total fee on such arrangements to the individual units of accounting using
+management’s best estimate of selling price ("ESP"), if third party evidence ("TPE") or vendor speciﬁc objective evidence ("VSOE") does not exist. We defer
+revenue recognition for consideration that is contingent upon future performance or other contractual terms.
+49

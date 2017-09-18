@@ -1,0 +1,45 @@
+F. Effect of New Accounting Standards
+In November 2016, the Financial Accounting Standards Board, or the FASB, issued Accounting Standard Update, or ASU, No. 2016-18, “Statement of
+Cash Flows (Topic 230): Restricted Cash,” which provides guidance regarding cash ﬂow statement classiﬁcation and presentation of changes in restricted
+cash. The new standard will be effective for interim and annual reporting periods beginning on January 1, 2018, with early adoption permitted. The
+amendments in this ASU require that a statement of cash ﬂows explain the change during the period in the total of cash, cash equivalents and amounts
+generally described as restricted cash or restricted cash equivalents. Entities will also be required to reconcile this total to amounts on the consolidated
+balance sheet and disclose the nature of the restrictions. We are currently evaluating the timing of adoption, as well as the effect ASU No. 2016-18 will have
+on our consolidated statement of cash ﬂows.
+In February 2016, the FASB issued ASU No. 2016-02, "Leases (Topic 842)," which replaces existing leasing rules with a comprehensive lease
+measurement and recognition standard and expanded disclosure requirements. ASU No. 2016-02 will require lessees to recognize most leases on their balance
+sheet as liabilities, with corresponding "right-of—use" assets, and is effective for interim and annual reporting periods beginning after December 15, 2018,
+subject to early adoption. The new standard allows us to make an accounting policy election not to recognize lease assets and liabilities on the balance sheet
+for leases with a term of 12 months or less. The accounting applied by a lessor is largely unchanged from previous guidance. In transition, lessees and lessors
+are required to recognize and measure leases at the beginning of the earliest period presented using a modiﬁed retrospective approach. The modiﬁed
+retrospective approach includes a number of optional practical expedients that we may elect to apply. We are currently evaluating the timing of adoption, as
+well as the eﬁ‘ect ASU No. 2016-02 will have on our consolidated ﬁnancial statements.
+In May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers," which will provide us with a single revenue recognition
+model for recognizing revenue from contracts with customers and signiﬁcantly expand the disclosure requirements for revenue arrangements. The new
+standard, as amended, will be effective for interim and annual reporting periods beginning on January 1, 2018, at which point we plan to adopt the standard.
+The two permitted transition methods under the new standard are the ﬁll retrospective method, in which the standard would be applied to each prior
+reporting period presented, or the modiﬁed retrospective method, in which case the cumulative effect of applying the standard would be recognized at the
+date of initial application, with disclosure of results under the new and old standards for the ﬁrst year of adoption. We are in the process of evaluating the
+available adoption methods.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+Our revenues are primarily denominated in Brazilian reais, while a portion of our operations are ﬁnanced in US. dollars. As a result, ﬂuctuations in the
+Brazilian real relative to the US. dollar expose us to foreign currency exchange risks. These risks include the impact of translating our local currency reported
+earnings into US. dollars when the US. dollar strengthens against the Brazilian real. In addition, Nextel Brazil pays the purchase price for some of its capital
+assets and a portion of its handsets in US. dollars, but generates revenue from its operations in local currency.
+We occasionally enter into derivative transactions for hedging or risk management purposes. We have not and will not enter into any derivative
+transactions for speculative or proﬁt generating purposes. During the years ended December 31, 2016 and 2014, as well as during the six months ended
+December 31, 2015 and the six months ended June 30, 2015, Nextel Brazil entered into hedge agreements to manage foreign currency risk on certain
+forecasted transactions. The fair values of these instruments are not material.
+Interest rate changes expose our ﬁxed rate long-term borrowings to changes in fair value and expose our variable rate long-term borrowings to changes
+in future cash ﬂows. As of December 31, 2016, approximately 30% of our consolidated principal amount of debt was ﬁxed rate debt, and the remaining 70%
+of our total consolidated debt was variable rate debt.
+The table below presents projected principal amounts, related interest rates by year of maturity and aggregate amounts as of December 31, 2016 for
+both our ﬁxed and variable rate debt obligations, all of which have been determined at their fair values. See Note 3 to our consolidated ﬁnancial statements
+for more information. Because it is unlikely that we will be able to satisfy one of the applicable ﬁnancial covenants included in Nextel Brazil's local bank
+loans as of the next measurement date at December 31, 2017, and as a result of certain events of default related to Nextel Brazil's equipment ﬁnancing
+facility, we classiﬁed the principal amounts outstanding under these facilities as current liabilities in our consolidated balance sheet as of December 31,
+2016. The changes in the fair values of our debt obligations compared to their fair values as of December 31, 2015 reﬂect changes in applicable market
+conditions and changes in other company-speciﬁc conditions during 2016. In addition, the interest rates presented below reﬂect the impact of the
+implementation of fresh start accounting on our capital lease obligations. All of the information in the table is presented in US. dollar equivalents, which is
+our reporting currency. The actual cash ﬂows associated with our debt obligations are denominated in US. dollars (US$) and Brazilian reais (BRL).
+5 0

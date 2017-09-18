@@ -1,0 +1,38 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Guarantees and Indemnification Obligations
+VMware enters into agreements in the ordinary course of business with, among others, customers, distributors, resellers, system vendors and systems
+integrators. Most of these agreements require VMware to indemnify the other party against third-party claims alleging that a VMware product infringes or
+misapprOpriates a patent, copyright, trademark, trade secret, and/or other intellectual property right. Certain of these agreements require VMware to indemnify the
+other party against certain claims relating to property damage, personal injury, or the acts or omissions of VMware, its employees, agents, or representatives.
+VMware has agreements with certain vendors, financial institutions, lessors and service providers pursuant to which VMware has agreed to indemnify the
+other party for specified matters, such as acts and omissions of VMware, its employees, agents, or representatives.
+VMware has procurement or license agreements with reSpect to technology that it has obtained the right to use in VMware’s products and agreements. Under
+some of these agreements, VMware has agreed to indemnify the supplier for certain claims that may be brought against such party with respect to VMware’s acts
+or omissions relating to the supplied products or technologies.
+VMware has agreed to indemnify the directors and executive officers of VMware, to the extent legally permissible, against all liabilities reasonably incurred in
+connection with any action in which such individual may be involved by reason of such individual being or having been a director or executive ofﬁcer. VMware’s
+by-laws and charter also provide for indemniﬁcation of directors and officers of VMware and VMware subsidiaries to the extent legally permissible, against all
+liabilities reasonably incurred in connection with any action in which such individual may be involved by reason of such individual being or having been a director
+or executive officer. VMware also indemnifies certain employees who provide service with respect to employee benefits plans, including the members of the
+Administrative Committee of the VMware 401(k) Plan, and employees who serve as directors or ofﬁcers of VMware’s subsidiaries.
+In connection with certain acquisitions, VMware has agreed to indemnify the former directors and ofﬁcers of the acquired company in accordance with the
+acquired company’s by-laws and charter in effect immediately prior to the acquisition or in accordance with indemnification or similar agreements entered into by
+the acquired company and such persons. VMware typically purchases a “tail” directors and officers insurance policy, which should enable VMware to recover a
+portion of any future indemniﬁcation obligations related to the former ofﬁcers and directors of an acquired company.
+It is not possible to determine the maximum potential amount under these indemnification agreements due to the Company’s limited history with prior
+indemniﬁcation claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made by the Company under these
+agreements have not had a material effect on the Company’s consolidated results of operations, financial position, or cash ﬂows.
+K. Accrued Expenses and Other
+Accrued expenses and other as of December 31, 2016 and 2015 consisted of the following (table in millions):
+December 31,
+2016 2015
+’Salaries, commissions, bonuses, and benefits 3; 503 $ 388 ‘
+Accrued partner liabilities 219 146
+)Other 176 212 1
+Total $ 898 $ 746
+Accrued partner liabilities primarily relate to rebates and marketing development fund accruals for channel partners, system vendors and systems integrators.
+Additionally, from time to time, unearned revenue for professional services is reclassified to accrued partner liabilities as VMware intends to leverage channel
+partners to directly fulﬁll the obligation to its customers.
+79

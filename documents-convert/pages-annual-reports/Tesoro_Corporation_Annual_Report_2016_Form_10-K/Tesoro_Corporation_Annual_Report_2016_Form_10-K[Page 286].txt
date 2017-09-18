@@ -1,0 +1,42 @@
+as they continue to constitute Unrestricted Subsidiaries. Notwithstanding the preceding, any Guarantee of a Restricted Subsidiary that was incurred pursuant
+to this Section 4.;6, will be released in accordance with Section 10.06 hereof.
+Section 4.17 Designation of Restricted and Unrestricted Subsidiaries.
+The Board of Directors of the General Partner may designate any Subsidiary of TLLP to be an Unrestricted Subsidiary if that designation would not
+cause a Default. If a Subsidiary is designated as an Unrestricted Subsidiary, the aggregate Fair Market Value of all outstanding Investments owned by TLLP
+and its Restricted Subsidiaries in the Subsidiary designated as an Unrestricted Subsidiary will be deemed to be an Investment made as of the time of the
+designation and will reduce the amount available for Restricted Payments under Section 4.07 hereof or under one or more clauses of the deﬁnition of
+“Permitted Investments”, as determined by TLLP; provided that any designation will only be permitted if the Investment would be permitted at that time and
+if the Restricted Subsidiary otherwise meets the deﬁnition of an “Unrestricted Subsidiary”.
+Any designation of a Subsidiary of TLLP as an Unrestricted Subsidiary will be evidenced to the Trustee by ﬁling with the Trustee a certiﬁed copy of a
+resolution of the Board of Directors of the General Partner giving effect to such designation and an Ofﬁcers’ Certiﬁcate certifying that such designation
+complied with the preceding conditions and was permitted by Section 4.07, hereof. If, at any time, any Unrestricted Subsidiary would fail to meet the
+preceding requirements as an Unrestricted Subsidiary, it will thereafter cease to be an Unrestricted Subsidiary for purposes of this Indenture and any
+Indebtedness of such Subsidiary will be deemed to be incurred by a Restricted Subsidiary of TLLP as of such date and, if such Indebtedness is not permitted
+to be incurred as of such date under Section 4.09 hereof, TLLP will be in default of such covenant. The Board of Directors of the General Partner may at any
+time designate any Unrestricted Subsidiary to be a Restricted Subsidiary of TLLP; provided that such designation will be deemed to be an incurrence of
+Indebtedness by a Restricted Subsidiary of TLLP of any outstanding Indebtedness of such Unrestricted Subsidiary, and such designation will only be
+permitted if (1) such Indebtedness is permitted under Section 4.09 hereof, calculated on a pro forma basis and (2) no Default or Event of Default would be in
+existence following such designation.
+Section 4.18 Covenant Termination.
+Ifat any time (a) the Notes are assigned an Investment Grade Rating from either Moody’s or S&P, (b) no Default or Event of Default has occurred and is
+continuing under this Indenture and (c) the Issuers have delivered to the Trustee an Ofﬁcers’ Certiﬁcate certifying as to matters speciﬁed in clauses (a) and
+(b) of this sentence as of the date of such certiﬁcate (the “TerminationDateU, TLLP and its Restricted Subsidiaries will no longer be subject to the provisions
+of Sections A .01, 4.08, 4.02, iLQ, iﬂ, $176, and i .DICaX i), of this Indenture.
+No Subsidiary shall be designated as an Unrestricted Subsidiary after the Termination Date.
+ARTICLE 5
+SUCCESSORS
+Section 5.01 Merger, Consolidation or Sale of Assets.
+(a) Neither of the Issuers may, directly or indirectly: (l) consolidate or merge with or into another Person (whether or not such Issuer is the surviving
+entity) or (2) sell, assign, transfer, lease, convey or otherwise dispose of all or substantially all of the properties or assets of the Issuers and the Restricted
+Subsidiaries, taken as a whole, in one or more related transactions, to another Person, unless:
+(1) either:
+(A) such Issuer is the surviving entity; or
+(B) the Person formed by or surviving any such consolidation or merger (if other than such Issuer) or to which such sale, assignment,
+transfer, lease, conveyance or other disposition has been made is a Person organized or existing under the laws of the United States, any state of
+the United States or the District of Columbia; provided, however, that Finance Corp. may not consolidate or merge with or into any Person other
+than a corporation satisfying such requirement so long as TLLP (or any successor entity) is not a corporation;
+(2) the Person formed by or surviving any such consolidation or merger (if other than such Issuer) or the Person to which such sale, assignment,
+transfer, lease, conveyance or other disposition has been made assumes all the obligations of such Issuer under the Notes and this Indenture pursuant to
+agreements reasonably satisfactory to the Trustee;
+(3) immediately after such transaction, no Default or Event of Default exists; and
+-42-

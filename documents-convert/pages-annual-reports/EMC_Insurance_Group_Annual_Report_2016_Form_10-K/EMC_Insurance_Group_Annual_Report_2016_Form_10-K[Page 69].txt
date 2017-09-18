@@ -1,0 +1,49 @@
+Reserving methodology
+During the third quarter of 2016, management implemented a new reserving methodology for the determination of bulk
+reserves in the property and casualty insurance segment. The new methodology, which is referred to as the accident year
+ultimate estimate approach, better conforms to industry practices and will provide increased transparency of the drivers of the
+property and casualty insurance segment's performance.
+The implementation of the new reserving methodology did not have a material impact on total carried reserves for the
+property and casualty insurance segment; however, approximately $5.6 million of incurred but not reported (IBNR) loss
+reserves and allocated settlement expense reserves were reallocated from prior accident years to the current accident year in
+multiple lines of business. This reduction in prior accident year reserves is reported as favorable development; however, this
+development is "mechanical" in nature, and did not have any impact on earnings because the total amount of carried reserves
+did not change as a result of this reallocation.
+The property and casualty insurance segment's prior reserving methodology was focused on maintaining a consistent
+level of overall reserve adequacy. Case and IBNR loss reserves, as well as settlement expense reserves, were established
+independently of each other and added together to get the total loss and settlement expense reserve. The prior reserving
+methodology also separated the calculation of the aggregate reserves from the allocation of those reserves to the various
+accident years, and thus did not utilize explicit claim frequency and severity assumptions.
+There is an inherent amount of uncertainty involved in the establishment of insurance liabilities. This uncertainty is
+greatest in the current and more recent accident years because a smaller percentage of the expected ultimate claims have been
+reported, adjusted and settled compared to more mature accident years. For this reason, the property and casualty insurance
+segment's carried reserves for these accident years reﬂect prudently conservative assumptions. As the carried reserves for these
+accident years run off, the overall expectation is that, more often than not, favorable development will occur.
+Management believes the explicit assumptions utilized in the new reserving methodology provide more meaningful
+accident year information than the implicit assumptions underlying the prior methodology.
+European Union/ United States Covered Agreement
+Solvency 11 came into effect in the European Union (EU) on January 1, 2016. Solvency II requires that in order for
+insurers and reinsurers outside of the EU to conduct business in the European market, their country of domicile regulatory
+system must be deemed equivalent. The US regulatory system has not been deemed equivalent at this time.
+Due to this requirement, some European countries (primarily Germany and Belgium) have begun to enforce Solvency
+II, requiring that nonequivalent reinsurers establish a branch oﬁice in their country in order to conduct business. Both countries
+granted exceptions to this rule for 2017 renewals, which allowed the reinsurance segment to renew most of its EU business;
+however, these exceptions are not likely to be extended beyond 2017.
+On January 13, 2017, the United States and the European Union announced they had completed negotiation of a
+"Bilateral Agreement between the European Union and the United States of America on Prudential Measures Regarding
+Insurance and Reinsurance" (the "Covered Agreement"). This agreement was submitted to the US Congress and the Oﬁice of
+the US Trade Representative on the same day so they could begin a required 90-day review of this document. The Covered
+Agreement eliminates collateral and local presence requirements for US and EU reinsurers operating on a cross-border basis;
+however, to qualify for the elimination of these requirements, reinsurers must meet several requirements, including a minimum
+of $250 million of capital and surplus. At December 31, 2016, the reinsurance subsidiary had $209 million of capital and
+surplus.
+Management is closely monitoring this situation. If the agreement is ultimately approved, management will have to
+consider its alternatives. Such alternatives could include injecting additional capital into the reinsurance subsidiary, ceasing
+operations in the EU, fronting the business through other reinsurers, or utilizing other arrangements deemed acceptable by
+regulators. In 2017, the Company expects to write approximately $9 million of assumed reinsurance business in the EU.
+MEASUREMENT OF RESULTS
+The Company’s consolidated financial statements are prepared on the basis of GAAP. The Company also prepares
+ﬁnancial statements for each of its insurance subsidiaries based on statutory accounting principles that are filed with insurance
+regulatory authorities in the states where they do business. Statutory accounting principles are designed to address the concerns
+of state regulators and stress the measurement of the insurer ’s ability to satisfy its obligations to its policyholders and creditors.
+58

@@ -1,0 +1,45 @@
+IableﬁﬂContentS
+Currency exchange cash flow hedges . We use various ﬁnancial instruments to mitigate our exposure to changes in exchange rates from third-party
+and intercompany current and forecasted transactions. These instruments may include currency exchange forward contracts, futures, options and
+swaps. Based on the size and location of our businesses, we use these instruments to hedge our exposure to certain currencies, including the euro,
+pound sterling, Swiss franc, Canadian dollar and Mexican peso.
+Interest rate cash flow and fair value hedges . We manage interest rate volatility by modifying the pricing or maturity characteristics of certain
+liabilities so that the net impact on expense is not, on a material basis, adversely affected by movements in interest rates. As a result of interest rate
+ﬂuctuations, hedged ﬁxed-rate liabilities appreciate or depreciate in market value. We expect the effect of this unrealized appreciation or depreciation
+to be substantially offset by our gains or losses on the derivative instruments that are linked to these hedged liabilities. We use derivative
+instruments, including interest rate swaps that have indices related to the pricing of speciﬁc liabilities as part of our interest rate risk management
+strategy. As a matter of policy, we do not use highly leveraged derivative instruments for interest rate risk management. We use interest rate swaps
+to economically convert a portion of our ﬁxed-rate debt into variable-rate debt. Under the interest rate swap contracts, we agree with other parties to
+exchange, at speciﬁed intervals, the difference between fixed-rate and ﬂoating-rate interest amounts, which is calculated based on an agreed-upon
+notional amount. We also use interest rate swaps to hedge the variability of interest payment cash ﬂows on a portion of our future debt obligations.
+Most recently in October 2016, we executed cross-currency interest rate swaps that we use to hedge interest payment cash ﬂows on newly issued
+debt denominated in a different currency than the functional currency of the borrowing entity. Substantially all of these derivative instruments are
+highly effective and qualify for hedge accounting treatment.
+Hedges of net investments in non-U.S. operations . We have numerous investments outside the United States. The net assets of these subsidiaries
+are exposed to changes and volatility in currency exchange rates. We use local currency denominated debt to hedge our non-U.S. net investments
+against adverse movements in exchange rates. We designated our euro, pound sterling and Swiss franc denominated borrowings as a net
+investment hedge of a portion of our overall European operations. The gains and losses on our net investment in these designated European
+operations are economically offset by losses and gains on our euro, pound sterling and Swiss franc denominated borrowings. The change in the
+debt’s value, net of deferred taxes, is recorded in the currency translation adjustment component of accumulated other comprehensive earnings /
+(losses).
+Income Taxes:
+Our provision for income taxes includes amounts payable or refundable for the current year, the effect of deferred tax and impacts from uncertain tax
+positions. We recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the ﬁnancial
+statement and tax basis of our assets and liabilities, operating loss carryforwards and tax credit carryforwards. Deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply in the years in which those differences are expected to reverse.
+The realization of certain deferred tax assets is dependent on generating sufﬁcient taxable income in the appropriate jurisdiction prior to the
+expiration of the carryforward periods. Deferred tax assets are reduced by a valuation allowance if it is more likely than not that some portion, or all,
+of the deferred tax assets will not be realized. When assessing the need for a valuation allowance, we consider any carryback potential, future
+reversals of existing taxable temporary differences (including liabilities for unrecognized tax beneﬁts), future taxable income and tax planning
+strategies.
+We recognize tax benefits in our ﬁnancial statements from uncertain tax positions only if it is more likely than not that the tax position will be
+sustained by the taxing authorities based on the technical merits of the position. The amount we recognize is measured as the largest amount of
+beneﬁt that is greater than 50 percent likely of being realized upon settlement. Future changes in judgment related to the expected resolution of
+uncertain tax positions could affect income in the period when the change occurs.
+New Accounting Pronouncements:
+In January 2017, the Financial Accounting Standards Board (“FASB”) issued an Accounting Standards Update (“ASU”) that clariﬁes the deﬁnition of a
+business with the objective of adding guidance to assist companies with evaluating whether transactions should be accounted for as acquisitions or
+disposals of assets or businesses. The deﬁnition of a business may affect many areas of accounting including acquisitions, disposals, goodwill and
+consolidation. The ASU is applied on a prospective basis and is effective for ﬁscal years beginning after December 15, 2017 with early adoption
+permitted. We are currently assessing the ASU and potential prospective impact on our consolidated ﬁnancial statements.
+72

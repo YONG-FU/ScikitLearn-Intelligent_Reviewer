@@ -1,0 +1,43 @@
+Depreciation and amortization is calculated using the straight-line method over the estimated useful lives of the respective assets
+as follows:
+Solar energy systems leased to customers........................ 30 to 35 years
+Initial direct costs related to customer solar
+energy system lease acquisition costs Lease term (20 years)
+Solar energy systems held for lease to customers are installed systems pending interconnection with the respective utility
+companies and will be depreciated as solar energy systems leased to customers when the respective systems have been interconnected
+and placed in service. Solar energy systems under construction represents systems that are under installation, which will be
+depreciated as solar energy systems leased to customers when the respective systems are completed, interconnected and subsequently
+leased to customers. Initial direct costs related to customer solar energy system lease acquisition costs are capitalized and amortized
+over the term of the related customer lease agreements.
+Property, Plant and Equipment
+Property, plant and equipment, including leasehold improvements, are recognized at cost less accumulated depreciation and
+amortization. Depreciation is generally computed using the straight-line method over the estimated useful lives of the related assets as
+follows:
+Machinery, equipment, vehicles and ofﬁce furniture....... 2 to 12 years
+Building and building improvements............................... 20 to 30 years
+Computer equipment and software 3 to 10 years
+Depreciation for tooling is computed using the units-of-production method whereby capitalized costs are amortized over the
+total estimated productive life of the related assets. As of December 31, 2016, the estimated productive life for tooling was 250,000
+vehicles based on our current estimates of production.
+Leasehold improvements are amortized on a straight-line basis over the shorter of their estimated useful lives or the term of the
+related lease.
+Upon the retirement or sale of our property, plant and equipment, the cost and related accumulated depreciation are removed
+from our Consolidated Balance Sheets and the resulting gain or loss is reﬂected in our Consolidated Statements of Operations.
+Maintenance and repair expenditures are expensed as incurred, while major improvements that increase the functionality, output or
+expected life of the asset are capitalized and depreciated ratably to expense over the identified useful life. Land is not depreciated.
+Interest expense on outstanding debt is capitalized during the period of significant capital asset construction. Capitalized interest
+on construction in progress is included in property, plant and equipment, net and is amortized over the life of the related assets.
+Furthermore, we are deemed to be the owner, for accounting purposes, during the construction phase of certain long-lived assets
+under build-to-suit lease arrangements because of our involvement with the construction, our exposure to any potential cost overruns
+and our other commitments under the arrangements. In these cases, we recognize a build-to-suit lease asset under construction and a
+corresponding build-to-suit lease liability on our Consolidated Balance Sheets.
+Long-Lived Assets Including Acquired Intangible Assets
+We review property and equipment, long-term prepayments and intangible assets, for impairment whenever events or changes in
+circumstances indicate the carrying amount of an asset (or asset group) may not be recoverable. We measure recoverability of these
+assets by comparing the carrying amounts to the future undiscounted cash ﬂows the assets are expected to generate. If property and
+equipment and intangible assets are considered to be impaired, the impairment to be recognized equals the amount by which the
+carrying value of the assets exceeds their fair value. We have made no material adjustments to our long-lived assets in any of the years
+presented.
+Intangible assets with definite lives are amortized over their estimated useful lives. We amortize our acquired intangible assets
+on a straight-line basis with deﬁnite lives over periods ranging from two to thirty years.
+69

@@ -1,0 +1,38 @@
+Stock-based compensation expense recognized in the consolidated statement of operations is based on equity awards ultimately expected to vest. We
+estimate forfeitures at the time of grant and revise, as necessary, in subsequent periods with a cumulative catch up adjustment if actual forfeitures differ from those
+estimates.
+Assumptions and Approach Used . In determining the value of stock option and market-condition RSU grants, we estimate an expected dividend yield of zero
+because we have never paid cash dividends and have no present intention to pay cash dividends. The expected term calculation is based on the actual life of
+historical stock option grants. Expected volatility is based on our historical stock prices using a mathematical formula to measure the standard deviation of the
+change in the natural logarithm of our underlying stock price over a period of time commensurate with the expected term. The risk-free interest rate is derived from
+the zero coupon rate on US. Treasury instruments with a term commensurate with the awards expected term.
+For RSUs with vesting contingent on the achievement of Company performance conditions, the amount of compensation expense is estimated based on the
+expected achievement of the performance condition. This requires us to make estimates of the likelihood of the achievement of Company performance conditions,
+which is highly judgmental. We base our judgments as to the expected achievement of Company performance conditions based on the ﬁnancial projections of the
+Company that are used by management for business purposes, which represent our best estimate of expected Company performance. If it is unlikely that a
+performance condition will be achieved, no compensation expense is recognized unless it is later determined that achievement of the performance condition is
+likely. Further, the requisite service period is estimated based on the performance period as well as any time-based employee service requirements.
+We evaluate the assumptions used to value stock-based awards on a quarterly basis. If factors change and we employ different assumptions, stock-based
+compensation expense may differ significantly from what we have recorded in the past. If there are any modiﬁcations or cancellations of stock-based awards, we
+may be required to accelerate, increase or decrease any remaining, unrecognized stock-based compensation expense. Compensation expense may be signiﬁcantly
+impacted in the future to the extent our estimates differ from actual results.
+Income Taxes
+Nature of Estimates Required . We record an income tax valuation allowance when the realization of certain deferred tax assets, including net operating
+losses, is not likely. Not included in the net operating loss deferred tax asset is approximately $10.0 million of gross deferred tax asset attributable to stock option
+exercises, restricted stock grants, and disqualifying dispositions of both incentive stock options and stock issued under the Company’s ESPP as they did not reduce
+taxes payable.
+We record US. income taxes on the undistributed earnings of foreign subsidiaries unless the subsidiaries” earnings are considered indeﬁnitely reinvested
+outside of the US. As of December 31, 2016 , we have recorded a $4.9 million deferred tax liability for Swiss withholding taxes associated with $97.6 million of
+undistributed earnings of our Swiss subsidiary that are no longer considered indeﬁnitely reinvested. In the event that we repatriate these funds, this withholding tax
+would become payable to the Swiss government. As of December 31, 2016 , there were no undistributed earnings considered indeﬁnitely reinvested.
+Assumptions and Approach Used . Deferred income taxes arise from temporary differences between tax and ﬁnancial statement recognition of revenue and
+expense. In evaluating our ability to recover our deferred tax assets within the jurisdiction from which they arise, we consider all available positive and negative
+evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax-planning strategies, and results of recent operations.
+Signiﬁcant judgments and estimates are required in this evaluation. If we determine that we are able to realize a portion or all of these deferred tax assets in the
+future, we will record an adjustment to increase their recorded value and a corresponding adjustment to increase income or additional paid in capital, as
+appropriate, in that same period.
+Commitments and Contingencies
+Nature of Estimates Required . We are involved in litigation, regulatory and other proceedings and claims. We prosecute and defend these matters
+aggressively. However, there are many uncertainties associated with any litigation, and there can be no assurance that these actions or other third-party claims
+against us will be resolved without costly litigation and/or substantial settlement charges.
+43

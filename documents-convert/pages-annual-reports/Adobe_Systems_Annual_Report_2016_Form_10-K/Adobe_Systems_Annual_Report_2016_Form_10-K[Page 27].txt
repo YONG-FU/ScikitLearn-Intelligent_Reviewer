@@ -1,0 +1,53 @@
+Table of Contents
+data, we did not implement these alternate means quickly enough, resulting in a fine levied against us. We are closely monitoring
+developments regarding requirements for transferring personal data outside the EU, such as Privacy Shield. These requirements
+may result in an increase in the obligations required of us to provide our services in the EU and in sanctions and fines for non-
+compliance. These developments could harm our business, financial condition and results of operations.
+Failure to manage our sales and distribution channels and third-party customer service and technical support providers
+effectively could result in a loss of revenue and harm to our business.
+We contract with a number of software distributors, none of which is individually responsible for a material amount of our
+total net revenue for any recent period. Nonetheless, if any single agreement with one of our distributors were terminated, any
+prolonged delay in securing a replacement distributor could have a negative impact on our results of operations.
+Successfully managing our indirect distribution channel efforts to reach various customer segments for our products and
+services is a complex process across the broad range of geographies where we do business or plan to do business. Our distributors
+and other channel partners are independent businesses that we do not control. Notwithstanding the independence of our channel
+partners, we face legal risk and potential reputational harm from the activities of these third parties including, but not limited to,
+export control violations, workplace conditions, corruption and anti-competitive behavior. We cannot be certain that our distribution
+channel will continue to market or sell our products and services effectively. If our distribution channel is not successful, we may
+lose sales opportunities, customers and revenue.
+Our distributors also sell our competitors’ products and services, and if they favor our competitors’ products or services for
+any reason, they may fail to market our products or services effectively or to devote resources necessary to provide eﬁective sales,
+which would cause our results to suffer. We also distribute some products and services through our OEM channel, and if our OEMs
+decide not to bundle our applications on their devices, our results could suffer.
+In addition, the financial health of our distributors and our continuing relationships with them are important to our success.
+Some of these distributors may be unable to withstand adverse changes in economic conditions, which could result in insolvency
+and/or the inability of such distributors to obtain credit to finance purchases of our products and services. In addition, weakness
+in the end-user market could negatively affect the cash ﬂows of our distributors who could, in turn, delay paying their obligations
+to us, which would increase our credit risk exposure. Our business could be harmed if the financial condition of some of these
+distributors substantially weakened and we were unable to secure replacement distributors in a timely manner.
+We also sell certain of our products and services through our direct sales force. Risks associated with this sales channel
+include more extended sales and collection cycles associated with direct sales efforts, challenges related to hiring, retaining and
+motivating our direct sales force, and substantial amounts of training for sales representatives, including regular updates to cover
+new and upgraded systems, products and services. Moreover, recent hires may not become as productive as we would like, as in
+most cases it takes a significant period of time before they achieve full productivity. Our business could be seriously harmed if
+our expansion efforts do not generate a corresponding significant increase in revenue and we are unable to achieve the efficiencies
+we anticipate. In addition, the loss of key sales employees could impact our customer relationships and future ability to sell to
+certain accounts covered by such employees.
+We also provide products and services, directly and indirectly, to a variety of government entities, both domestically and
+internationally. Risks associated with licensing and selling products and services to government entities include more extended
+sales and collection cycles, varying governmental budgeting processes and adherence to complex procurement regulations and
+other government-specific contractual requirements. Inelfectively managing these risks could result in various civil and criminal
+penalties and administrative sanctions, including termination of contracts, payment of fines, and suspension or debarment from
+future government business, as well as harm to our reputation.
+We outsource a substantial portion of our customer service and technical support activities to third-party service providers.
+We rely heavily on these third-party customer service and technical support representatives working on our behalf, and we expect
+to continue to rely heavily on third parties in the future. This strategy presents risks to our business due to the fact that we may
+not be able to inﬂuence the quality of support as directly as we would be able to do if our own employees performed these activities.
+Our customers may react negatively to providing information to, and receiving support from, third-party organizations, especially
+if these third-party organizations are based overseas. If we encounter problems with our third-party customer service and technical
+support providers, our reputation may be harmed and we could lose customers and associated revenue.
+If we are unable to recruit and retain key personnel, our business may be harmed
+Much of our future success depends on the continued service, availability and performance of our senior management.
+These individuals have acquired specialized knowledge and skills with respect to Adobe. The loss of any of these individuals could
+harm our business, especially in the event that we have not been successful in developing adequate succession plans. Our business
+27

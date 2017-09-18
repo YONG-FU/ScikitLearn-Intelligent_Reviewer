@@ -1,0 +1,45 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+7 Revenue recognized for Year Ended December 31, 7
+Revenue category : 2016 : : 2015 : : 2014 :
+Gaming
+I Gaming operations $ 725.3 33 763.2 33 414.0 I
+Gaming machine sales 618.2 571.1 335 .0
+I Gaming systems“) 240.8 273.0 37.4 I
+Table products“) 7 188.4 166.3 20.07
+I Total 0 1,772.7 1,773.6 806.4 I
+Lottery _ _
+I Instant products $ 573.7 33 557.2 33 546.2I
+Lottery systems 7 204.2 218.0 289.37
+I Total 0 777.9 s 775.2 s 835.5 I
+Interactive _ _
+I Social B2C $ 274.4 s 170.6 s 125.5I
+Other 7 58.4? 39.4? 19.07
+I Total :$ 332.8 210.0 144.5 I
+(1) See General revenue recognition policy below.
+General
+We evaluate the recognition of revenue based on the criteria set forth in ASC 605 or ASC 985 , as apprOpriate. Revenue
+is recognized when the risks and rewards of ownership have substantively transferred to customers. This condition normally is
+met when the product has been delivered or upon performance of services. Revenue is reported net of incentive rebates,
+discounts, sales taxes and all other items of a similar nature. Shipping and handling costs are included in cost of sales.
+Collectability is evaluated based on a review of the customer's creditworthiness and a review of historic collection experience
+under contracts with extended payment terms, as applicable. We separately assess whether pricing is fixed or determinable
+under arrangements with extended payment terms reﬂected in the issuance of a note receivable.
+The majority of our sales agreements are for standard products and services with customer acceptance occurring upon
+delivery of the product or performance of the service. However, to a limited extent SGC also enters into agreements that
+involve multiple elements (such as gaming machines, systems hardware and software, installation and service as well as
+maintenance and product support), or non-standard terms and conditions.
+For non-software multiple-element arrangements, we recognize revenue for delivered elements when they have stand-
+alone value to the customer, they have been accepted by the customer, and for which there are only customary refund or return
+rights. The transaction price is allocated to the deliverables by use of the relative selling price method. The selling price used
+for each deliverable is based on vendor-specific objective evidence (VSOE) if available, third-party evidence (TPE) if VSOE is
+not available, or estimated selling price (ESP) if neither VSOE nor TPE is available. ESP is determined in a manner consistent
+with that used to establish the price to sell the deliverable on a standalone basis. In addition to the preceding conditions,
+equipment revenue is not recorded until the installation has been completed if equipment acceptance is dependent upon
+installation or if installation is essential to the functionality of the equipment. Installation revenues are not recorded until
+installation has been completed.
+For software elements not essential to functionality of related hardware, we follow the industry specific software
+guidance set forth in ASC 985, which only allows for the use of VSOE in establishing fair value if such elements remain
+undelivered. Generally, VSOE is the price charged when the deliverable is sold separately or the price established by
+82

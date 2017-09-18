@@ -1,0 +1,48 @@
+AKAMAI TECHNOLOGIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. Nature of Business and Basis of Presentation
+Akamai Technologies, Inc. (the “Company”) provides cloud services for delivering, optimizing and securing content and
+business applications. The Company's globally-distributed platform comprises more than 200,000 servers in over 1,600
+networks in 131 countries. The Company was incorporated in Delaware in 1998 and is headquartered in Cambridge,
+Massachusetts. The Company currently operates in one industry segment: providing cloud services for delivering, optimizing
+and securing content and business applications over the Internet.
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned
+subsidiaries. All intercompany transactions and balances have been eliminated in the accompanying consolidated financial
+statements.
+2. Summary of Signiﬁcant Accounting Policies
+Use of Estimates
+The Company prepares its consolidated financial statements in conformity with accounting principles generally accepted in
+the United States of America. These principles require management to make estimates, judgments and assumptions that affect the
+reported amounts of assets, liabilities, revenue and expenses, and the amounts disclosed in the related notes to the consolidated
+financial statements. Actual results and outcomes may differ materially from management’s estimates, judgments and
+assumptions. Significant estimates, judgments and assumptions used in these financial statements include, but are not limited to,
+those related to revenue, accounts receivable and related reserves, valuation and impairment of investments and marketable
+securities, valuation and useful lives of acquired intangible assets, useful lives and realizability of long-lived assets, capitalized
+internal-use software development costs, income tax reserves and accounting for stock-based compensation. Estimates are
+periodically reviewed in light of changes in circumstances, facts and experience. The effects of material revisions in estimates are
+reﬂected in the consolidated financial statements prospectively from the date of the change in estimate.
+Cash, Cash Equivalents and Marketable Securities
+Cash and cash equivalents consist of cash held in bank deposit accounts and short-term, highly-liquid investments with
+remaining maturities of three months or less at the date of purchase. Marketable securities consist of corporate, government and
+other securities. Securities having remaining maturities of less than one year from the date of the balance sheet are classified as
+short-term, and those with maturities of more than one year from the date of the balance sheet are classified as long-term in the
+consolidated balance sheet.
+The Company classifies its debt and equity investments with readily determinable market values as available-for—sale. These
+investments are classified as marketable securities on the consolidated balance sheets and are carried at fair market value, with
+unrealized gains and losses considered to be temporary in nature and reported as accumulated other comprehensive loss, a
+separate component of stockholders’ equity. The Company reviews all investments for reductions in fair value that are other-than—
+temporary. When such reductions occur, the cost of the investment is adjusted to fair value through recording a loss on
+investments in the consolidated statements of income. Gains and losses on investments are calculated on the basis of specific
+identification.
+Marketable securities are considered to be impaired when a decline in fair value below cost basis is determined to be other-
+than—temporary. The Company periodically evaluates whether a decline in fair value below cost basis is other-than-temporary by
+considering available evidence regarding these investments including, among other factors: the duration of the period that, and
+extent to which, the fair value is less than cost basis; the financial health and business outlook of the issuer, including industry and
+sector performance and operational and financing cash ﬂow factors; overall market conditions and trends and the Company’s
+intent and ability to retain its investment in the security for a period of time sufficient to allow for an anticipated recovery in
+market value. Once a decline in fair value is determined to be other-than-temporary, a write-down is recorded and a new cost
+basis in the security is established. Assessing the above factors involves inherent uncertainty. Write-downs, if recorded, could be
+materially different from the actual market performance of marketable securities in the Company’s portfolio if, among other
+things, relevant information related to the marketable securities was not publicly available or other factors not considered by the
+Company would have been relevant to the determination of impairment.
+55

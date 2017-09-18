@@ -1,0 +1,45 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+Total tangible long-lived assets located in the United States, the Company’s country of domicile, and similar
+tangible long-lived assets held outside the US. are summarized in the following table for the years ended
+February 29, 2016, February 28, 2015 and February 28, 2014 (in thousands):
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+United States, the Company’s country of domicile . . . . . . . . . . . . . . . . . . $126,937 $131,792 $137,356
+39,949 40,359 36,561
+Total tangible long-lived assets ................................. $166,886 $172,151 $173,917
+Supplemental information about major customers
+For the year ended February 29, 2016, the US. government and its agencies represented in the aggregate
+approximately 10% of the Company’s total revenue. For the years ended February 28, 2015 and February 28,
+2014, there were no individual customers from which the Company generated 10% or greater revenue.
+Supplemental information about products and services
+The following table, for each of the fiscal years ended February 29, 2016, February 28, 2015 and
+February 28, 2014, provides further detail, by type, of our subscription and services revenues. Infrastructure-
+related offerings subscription revenue includes subscription revenue generated from Red Hat Enterprise Linux
+and related technologies such as Red Hat Satellite and Red Hat Enterprise Virtualization. Subscription revenue
+generated from our Application development-related and other emerging technology offerings includes Red Hat
+JBoss Middleware, Red Hat Storage, Red Hat Mobile and Red Hat cloud offerings such as Red Hat Enterprise
+Linux OpenStack Platform and OpenShift by Red Hat (in thousands):
+Year ended Year ended Year ended
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+Subscription revenue:
+Infrastructure-related offerings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $1,480,463 $1,324,693 $1,171,103
+Application development-related and other emerging technology
+offerings 322,986 236,541 165,668
+Total subscription revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,803,449 1,561,234 1,336,771
+Training and services revenue:
+Consultingservices...................................... 190,870 171,436 145,191
+57,911 56,819 52,653
+Total training and services revenue . . . . . . . . . . . . . . . . . . . . . . 248,781 228,255 197,844
+Totalrevenue............................................... $2,052,230 $1,789,489 $1,534,615
+NOTE 21—Other Long-Term Obligations
+Other long-term obligations were comprised of the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Accruedincometaxes $73,403 $57,083
+Deferredrentcredits.................................................... 13,197 12,992
+Net non-current deferred tax liability (see NOTE 11—Income Taxes) . . . . . . . . . . . . . 169 815
+1,143 1,156
+Otherlong-termobligations............................................... $87,912 $72,046
+11 1

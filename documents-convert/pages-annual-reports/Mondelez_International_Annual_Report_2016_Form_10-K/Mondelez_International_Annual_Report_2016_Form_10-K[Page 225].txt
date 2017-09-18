@@ -1,0 +1,26 @@
+SECTION 2.15 Taxes .
+(a) Any and all payments by each Borrower and Mondeléz hereunder or under any Note shall be made, in accordance with Section 2.14, free and
+clear of and without deduction for any and all present or future taxes, levies, imposts, deductions, charges or withholdings, and all liabilities (including penalties,
+interest, additions to taxes and expenses) with respect thereto, excluding, (i) in the case of each Lender and the Administrative Agent, taxes imposed on or measured
+by its net income, and franchise taxes and branch profits taxes imposed on it, in each case, as a result of such Lender or the Administrative Agent (as the case may
+be) being organized under the laws of the taxing jurisdiction, (ii) in the case of each Lender, taxes imposed on or measured by its net income, and franchise taxes
+and branch proﬁts taxes imposed on it, in each case, as a result of such Lender having its Applicable Lending Office in the taxing jurisdiction, (iii) in the case of
+each Lender and the Administrative Agent, taxes imposed on or measured by its net income, franchise taxes and branch profits taxes imposed on it, and any tax
+imposed by means of withholding, in each case, to the extent such tax is imposed solely as a result of a present or former connection (other than a connection
+arising from such Lender or the Administrative Agent having executed, delivered, enforced, become a party to, performed its obligations, received payments,
+received or perfected a security interest under, and/or engaged in any other transaction pursuant to this Agreement or a Note) between the Lender or the
+Administrative Agent, as the case may be, and the taxing jurisdiction, (iv) in the case of each Lender and the Administrative Agent, any US. federal withholding
+taxes imposed pursuant to F ATCA, (v) in the case of each Lender and the Administrative Agent, any Home Jurisdiction U.S. Withholding Tax to the extent that
+such tax is imposed with respect to any payments pursuant to any law in effect at the time such Lender becomes a party hereto (or changes its Applicable Lending
+Ofﬁce), except (A) to the extent of the additional amounts in respect of such taxes under this Section 2.15 to which such Lender’s assignor (if any) or such Lender’s
+prior Applicable Lending Ofﬁce (if any) was entitled, immediately prior to such assignment or change in its Applicable Lending Ofﬁce or (B) if such Lender
+becomes a party hereto pursuant to an Assignment and Acceptance upon the demand of Mondeléz, and (vi) taxes attributable to a Lender’s or the Administrative
+Agent’s (as applicable) failure to comply with Sections 2.15(e), (f), and (g) (all such taxes, levies, imposts, deductions, charges, withholdings and liabilities in
+respect of payments by each Borrower and Mondeléz hereunder or under any Note, other than taxes referred to in this Section 2.15(a)(i), (ii), (iii), (iv), (v), or (vi),
+are referred to herein as “ Taxes ”). If any applicable withholding agent shall be required by law to deduct any Taxes from or in respect of any sum payable
+hereunder or under any Note to any Lender or the Administrative Agent, (i) the sum payable by Mondeléz or the applicable Borrower shall be increased as may be
+necessary so that after all required deductions (including deductions applicable to additional sums payable under this Section 2.15) have been made, such Lender (or
+the Administrative Agent where the Administrative Agent receives payments for its own account) receives an amount equal to the sum it would have received had
+no such deductions been made, (ii) the applicable withholding agent shall make such deductions and (iii) the applicable withholding agent shall pay the full amount
+deducted to the relevant taxation authority or other authority in accordance with applicable law.
+-29-

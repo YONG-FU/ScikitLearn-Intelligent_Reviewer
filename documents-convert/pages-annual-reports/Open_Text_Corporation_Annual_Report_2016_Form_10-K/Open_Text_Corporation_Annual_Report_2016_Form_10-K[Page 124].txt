@@ -1,0 +1,48 @@
+NOTE 2—ACCOUNTING POLICIES AND RECENT ACCOUNTING PRONOUNCEMENTS
+Accounting Policies
+Cash and cash equivalents
+Cash and cash equivalents include balances with banks as well as deposits that have terms to maturity of three months or
+less. Cash equivalents are recorded at cost and typically consist of term deposits, commercial paper, certificates of deposit and
+short-term interest bearing investment-grade securities of major banks in the countries in which we operate.
+Short- Term Investments
+In accordance with Financial Accounting Standards Board (FASB), Accounting Standards Codification (ASC) Topic 320
+"Investments - Debt and Equity Securities" (Topic 320) related to accounting for certain investments in debt and equity
+securities, and based on our intentions regarding these instruments, we classify our marketable securities as available for sale
+and account for these investments at fair value. Marketable securities consist primarily of high quality debt securities with
+original maturities over 90 days, and may include corporate notes, United States government agency notes and municipal notes.
+Allowance for doubtful accounts
+We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of customers to make
+payments. We evaluate the creditworthiness of our customers prior to order fulfillment and based on these evaluations, we
+adjust our credit limit to the respective customer. In addition to these evaluations, we conduct on- going credit evaluations of our
+customers' payment history and current creditworthiness. The allowance is maintained for 100% of all accounts deemed to be
+uncollectible and, for those receivables not specifically identified as uncollectible, an allowance is maintained for a specific
+percentage of those receivables based upon the aging of accounts, our historical collection experience and current economic
+expectations. To date, the actual losses have been within our expectations. No single customer accounted for more than 10% of
+the accounts receivable balance as of June 30, 2016 and 2015.
+Property and equipment
+Property and equipment are stated at the lower of cost or net realizable value, and shown net of depreciation which is
+computed on a straight-line basis over the estimated useful lives of the related assets. Gains and losses on asset disposals are
+taken into income in the year of disposition. Fully depreciated property and equipment are retired from the consolidated balance
+sheet when they are no longer in use. We did not recognize any significant property impairment charges in Fiscal 2016, Fiscal
+2015, or Fiscal 2014. The following represents the estimated useful lives of property and equipment:
+[Furniture and fixtures 5 years [
+Office equipment 5 years
+[Computer hardware 3 years [
+Computer software 3 years
+[Capitalized software 5 years [
+Leasehold improvements Lesser of the lease term or 5 years
+[Building 40 years [
+Capitalized Software
+We capitalize software development costs in accordance with FASB ASC Topic 350-40 — Accounting for the Costs of
+Computer Software Developed or Obtained for Internal-Use. We capitalize costs for software to be used internally when we
+enter the application development stage. This occurs when we complete the preliminary project stage, management authorizes
+and commits to funding the project, and it is feasible that the project will be completed and the software will perform the
+intended function. We cease to capitalize costs related to a software project when it enters the post implementation and
+operation stage. If different determinations are made with respect to the state of development of a software project, then the
+amount capitalized and the amount charged to expense for that project could differ materially.
+Costs capitalized during the application development stage consist of payroll and related costs for employees who are
+directly associated with, and who devote time directly to, a project to develop software for internal use. We also capitalize the
+direct costs of materials and services, which generally includes outside contractors, and interest. We do not capitalize any
+general and administrative or overhead costs or costs incurred during the application development stage related to training or
+data conversion costs. Costs related to upgrades and enhancements to internal-use software, if those upgrades and
+l 16

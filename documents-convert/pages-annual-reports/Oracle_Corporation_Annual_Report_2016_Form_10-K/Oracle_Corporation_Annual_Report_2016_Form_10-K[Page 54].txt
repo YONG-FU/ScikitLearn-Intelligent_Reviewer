@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+customers to which these contractual obligations pertain renew these contracts with us, we expect to recognize revenues for the full contracts’ values over the
+respective contracts” renewal periods.
+In connection with a business combination or other strategic initiative, we may estimate costs associated with restructuring plans committed to by our management.
+Restructuring costs are typically comprised of employee severance costs, costs of consolidating duplicate facilities and contract termination costs. Restructuring
+expenses are based upon plans that have been committed to by our management, but may be reﬁned in subsequent periods. We account for costs to exit or
+restructure certain activities of an acquired company separately from the business combination pursuant to ASC 420, Exit or Disposal Cost Obligations. A liability
+for costs associated with an exit or disposal activity is recognized and measured at its fair value in our consolidated statement of operations in the period in which
+the liability is incurred. When estimating the fair value of facility restructuring activities, assumptions are applied regarding estimated sub-lease payments to be
+received, which can differ materially from actual results. This may require us to revise our initial estimates which may materially affect our results of operations
+and financial position in the period the revision is made.
+For a given acquisition, we may identify certain pre-acquisition contingencies as of the acquisition date and may extend our review and evaluation of these pre-
+acquisition contingencies throughout the measurement period in order to obtain sufficient information to assess whether we include these contingencies as a part of
+the fair value estimates of assets acquired and liabilities assumed and, if so, to determine their estimated amounts.
+If we cannot reasonably determine the fair value of a pre-acquisition contingency (non-income tax related) by the end of the measurement period, which is
+generally the case given the nature of such matters, we will recognize an asset or a liability for such pre-acquisition contingency if: (1) it is probable that an asset
+existed or a liability had been incurred at the acquisition date and (2) the amount of the asset or liability can be reasonably estimated. Subsequent to the
+measurement period, changes in our estimates of such contingencies will affect earnings and could have a material effect on our results of operations and financial
+position.
+In addition, uncertain tax positions and tax related valuation allowances assumed in connection with a business combination are initially estimated as of the
+acquisition date. We reevaluate these items quarterly based upon facts and circumstances that existed as of the acquisition date with any adjustments to our
+preliminary estimates being recorded to goodwill if identified within the measurement period. Subsequent to the measurement period or our ﬁnal determination of
+the tax allowance’s or contingency’s estimated value, whichever comes first, changes to these uncertain tax positions and tax related valuation allowances will
+affect our provision for income taxes in our consolidated statement of operations and could have a material impact on our results of operations and financial
+position.
+Goodwill and Intangible Assets—Impairment Assessments
+We review goodwill for impairment annually and whenever events or changes in circumstances indicate its carrying value may not be recoverable in accordance
+with ASC 350, Intangibles—Goodwill and Other . According to ASC 350, we can opt to perform a qualitative assessment to test a reporting unit’s goodwill for
+impairment or we can directly perform the two-step impairment test. Based on our qualitative assessment, if we determine that the fair value of a reporting unit is
+more likely than not (i.e., a likelihood of more than 50 percent) to be less than its carrying amount, the two-step impairment test prescribed by ASC 350 will be
+performed. In the first step, we compare the fair value of each reporting unit to its carrying value. If the fair value of the reporting unit exceeds the carrying value of
+the net assets assigned to that unit, goodwill is not considered impaired and we are not required to perform further testing. If the carrying value of the net assets
+assigned to the reporting unit exceeds the fair value of the reporting unit, then we must perform the second step of the impairment test in order to determine the
+implied fair value of the reporting unit’s goodwill. If the carrying value of a reporting unit’s goodwill exceeds its implied fair value, then we would record an
+impairment loss equal to the difference.
+Determining the fair value of a reporting unit involves the use of significant estimates and assumptions. These estimates and assumptions include revenue growth
+rates and operating margins used to calculate projected future cash ﬂows, risk-adjusted discount rates, future economic and market conditions and the determination
+of appropriate market comparables. We base our fair value estimates on assumptions we believe to be reasonable
+52

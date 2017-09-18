@@ -1,0 +1,42 @@
+Our Business is Highly Dependent on the Global Communications Industry.
+Since a large percentage of our revenues are generated from clients that operate within the global communications industry sector, we are highly dependent on the health
+and the business trends occurring within this industry (in particular for our North American cable and satellite clients). Key factors within this industry that could
+potentially impact our clients’ businesses, and thus, our business, are as follows:
+0 Key Market Conditions: The global communications industry has undergone significant ﬂuctuations in growth rates and capital investment cycles in the past
+decade. Current economic indices suggest a slow stabilization of the industry, but it is impossible to predict whether this stabilization will persist or be subject
+to future instability.
+In addition, changes in demand for traditional services for CSPS are causing them to seek new revenue sources, while also managing their cost structure and
+quality of service delivery during their business transformation. The result is that many CSPs are delaying investment decision on maintaining/advancing
+legacy systems, and/or making investments in new solutions to drive their business forward into new areas.
+0 Market Consolidation: The pace of consolidation within the industry continues to accelerate as service providers look to increase the scale of their operations
+and footprint within the entire communications ecosystem. Potential byproducts of this consolidation that could impact us are as follows: (i) there could be
+fewer providers in the market, each with potentially greater bargaining power and economic leverage due to their larger size, which may result in our having
+to lower our prices to remain competitive, retain our market share, or comply with the surviving client’s current more favorable contract terms, and (ii) the
+controlling entity in a consolidation that is not our current client, may acquire one of our existing clients and choose to consolidate both entities onto the
+controlling entity’s software platform, thus reducing and possibly eliminating our business with our existing client.
+Also, as consolidated entities execute upon their revenue and operational synergies, there is generally a slowdown in decision-making on large
+transformational projects, discretionary spending, and/or on new business initiatives. While this could be a timing issue only, it could impact quarterly and
+annual results.
+0 Increased Competition : Our clients operate in a highly competitive environment. Competitors range from traditional wireline and wireless providers to new
+entrants like new digital lifestyle service providers such as Hulu, YouTube, Google, Netﬂix, Apple, and Amazon. Should these competitors be successful in
+their strategies, it could threaten our clients’ market share, pricing power, and level of services delivered, all of which could negatively impact our clients’
+revenues, putting pressure on our source of revenues, as generally speaking, these companies do not use our core solutions and there can be no assurance that
+new entrants will become our clients. In addition, demand for spectrum, network bandwidth and content continues to increase and any changes in the
+regulatory environment could have a significant impact to not only our clients’ businesses, but in our ability to help our clients be successful.
+The above industry factors are impacting our clients’ businesses, and thus could cause delays, cancellations/loss of business, and/or downward pricing pressure on our
+sales and services. This could cause us to either fall short of revenue expectations or have a cost model that is misaligned with revenues, either or both of which could
+have a material adverse effect on our financial position and results of operations.
+We May Not Be Able to Respond to Rapid Technological Changes.
+The market for business support solutions, such as customer care and billing solutions, is characterized by rapid changes in technology and is highly competitive with
+respect to the need for timely product innovations and new product introductions. As a result, we believe that our future success in sustaining and growing our revenues
+depends upon: (i) our ability to continuously expand, adapt, modify, maintain, and operate our solutions to address the increasingly complex and evolving needs of our
+clients without sacrificing the reliability or quality of the solutions; (ii) the integration of acquired technologies and their widely distributed, complex worldwide
+operations; and (iii) creating and maintaining an integrated suite of customer care and billing solutions, which are portable to new verticals such as utilities, ﬁnancial
+services, and content distribution. In addition, the market is demanding that our solutions have greater architectural ﬂexibility and interoperability, and that we are able
+to meet the demands for technological advancements to our solutions at a greater pace. Our attempts to meet these demands subjects our R&D efforts to greater risks.
+As a result, substantial and effective R&D and product investment will be required to maintain the competitiveness of our solutions in the market. Technical problems
+may arise in developing, maintaining, integrating, and operating our solutions as the complexities are increased. Development projects can be lengthy and costly, and
+may be subject to changing requirements, programming difficulties, a shortage of qualified personnel, and/or unforeseen factors which can result in delays. In addition,
+we may be responsible for the implementation of new solutions and/or the conversion of clients to new solutions, and depending upon the speciﬁc solution, we may also
+be responsible for operations of the solution.
+10

@@ -1,0 +1,35 @@
+effective for annual and interim reporting periods in ﬁscal years beginning after December 15, 2017. Early adoption is permitted. An entity may choose to adopt this
+ASU either retrospectively or through a cumulative effect adjustment as of the start of the ﬁrst period for which it applies the standard.
+We are currently evaluating the impact this ASU will have to our accounting policies, business processes and potential differences in the timing and/or method of
+revenue recognition for our customer contracts. In conjunction with this evaluation, we are updating our policies to align with the new accounting guidance as well as
+evaluating our significant customer contracts to determine if the guidance will materially impact our existing portfolio of customer contracts. In addition, we will review
+new contracts entered into up until the adoption of the ASU. Based upon our initial evaluations, the adoption of this guidance is not expected to have a material impact on
+our consolidated ﬁnancial statements. We currently intend to adopt the ASU in the first quarter of 2018, utilizing the cumulative effect approach.
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). This ASU requires lessees to recognize a lease liability and a right-to-use asset for all leases,
+including operating leases, with a term greater than twelve months on its balance sheet. This ASU is effective in annual and interim periods in ﬁscal years beginning
+after December 15, 2018, with early adoption permitted, and requires a modified retrospective transition method. We are currently in the process of evaluating the
+impact this ASU will have on our Financial Statements. Currently, we plan to early adopt this ASU in the first quarter of 2018. Based on our initial evaluations, we
+believe the adoption of this standard will have a material impact on our consolidated balance sheet.
+In March 2016, the FASB issued ASU 2016-09, Compensation — Stock Compensation (Topic 718). This ASU simplifies several aspects of the accounting for share-
+based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash
+ﬂows. This ASU is effective for fiscal years beginning after December 15, 2016, with early adoption permitted. The methods of adoption for this ASU vary by
+amendment. We plan to adopt this ASU in the ﬁrst quarter of 2017, prospectively applying the guidance related to the recognition of excess tax beneﬁts and tax
+deficiencies in the income statement and the presentation of excess tax beneﬁts on the statement of cash ﬂows. We do not expect the adoption of this ASU to have a
+material impact on our consolidated financial statements.
+In October 2016, the FASB issued ASU 2016-16, Income Taxes (Topic 740) Intra-Entity Transfers of Assets Other Than Inventory . This ASU requires entities to
+recognize at the transaction date the income tax consequences of intercompany asset transfers. This ASU is effective in annual and interim periods in fiscal years
+beginning after December 15, 2017, with early adoption permitted, and requires a modified retrospective transition method. We are currently in the process of evaluating
+the impact that this new guidance will have on our Financial Statements.
+3. Segment Reporting and Signiﬁcant Concentration
+Segment Information. We have evaluated how our chief operating decision maker has organized our company for purposes of making operating decisions and assessing
+performance, and have concluded that as of December 31, 2016, we have one reportable segment.
+Products and Services. Our products and services help companies with complex transaction-centric business models manage the opportunities and challenges associated
+with accurately capturing, managing, generating, and optimizing the revenue associated with the immense volumes of customer interactions and then manage the intricate
+nature of those customer relationships. Our core billing and customer care platform, Advanced Convergent Platform (“ACP”), is a pre-integrated cloud-based platform.
+We generate a substantial percentage of our revenues by providing our ACP cloud-based and customer interaction management solutions, and related software products
+(e. g., Advanced Customer Service Representative, Workforce Express, etc.) to the North American cable and satellite markets. Our next-generation solution, Ascendon, a
+SaaS-based, cloud platform, that provides a trusted path to digital transformation. Additionally, we license certain software products (e. g., WBMS, TSM, and
+Singleview) and provide our professional services to implement, conﬁgure, and maintain these software products, and allow clients to effectively roll out new products as
+well as attract and retain customers. We also provide our software solutions under managed services arrangements, where we assume long-term responsibility for
+delivering our solutions and related operations under a defined scope and speciﬁed service levels.
+54

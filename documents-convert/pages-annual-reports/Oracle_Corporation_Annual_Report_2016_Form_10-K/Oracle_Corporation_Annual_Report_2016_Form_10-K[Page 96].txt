@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Revenue Recognition for Cloud SaaS, PaaS and IaaS Oﬂerings, Hardware Products, Hardware Support and Related Services (Non-software Elements)
+Our revenue recognition policy for non-software deliverables including cloud SaaS, PaaS and IaaS offerings, hardware products, support and related services is
+based upon the accounting guidance contained in ASC 605-25, Revenue Recognition , Multiple-Element Arrangements, and we exercise judgment and use
+estimates in connection with the determination of the amount of cloud SaaS, PaaS and IaaS revenues, hardware products revenues, support and related services
+revenues to be recognized in each accounting period.
+Revenues from the sales of our non-software elements are recognized when: (1) persuasive evidence of an arrangement exists; (2) we deliver the products and
+passage of the title to the buyer occurs; (3) the sale price is ﬁxed or determinable; and (4) collection is reasonably assured. Revenues that are not recognized at the
+time of sale because the foregoing conditions are not met are recognized when those conditions are subsequently met. When applicable, we reduce revenues for
+estimated returns or certain other incentive programs where we have the ability to sufficiently estimate the effects of these items. Where an arrangement is subject
+to acceptance criteria and the acceptance provisions are not perfunctory (for example, acceptance provisions that are long-term in nature or are not included as
+standard terms of an arrangement), revenues are recognized upon the earlier of receipt of written customer acceptance or expiration of the acceptance period.
+Our cloud SaaS and PaaS offerings generally provide customers access to certain of our software within a cloud-based IT environment that we manage, host and
+support and offer to customers on a subscription basis. Revenues for our cloud SaaS and PaaS offerings are generally recognized ratably over the contract term
+commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisfied.
+Our cloud IaaS offerings provide infrastructure cloud services and also include deployment and management offerings for software and hardware and related IT
+infrastructure. Our cloud IaaS offerings are generally sold on a subscription basis and revenues for these cloud IaaS offerings are generally recognized ratably over
+the contract term commencing with the date the service is made available to customers and all other revenue recognition criteria have been satisﬁed.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage,
+networking and industry-specific hardware and are recognized upon the delivery of the hardware product to the customer provided all other revenue recognition
+criteria have been satisfied.
+Our hardware support offerings generally provide customers with software updates for the software components that are essential to the functionality of our
+hardware products and can also include product repairs, maintenance services and technical support services. Hardware support contracts are generally priced as a
+percentage of the net hardware products fees. Hardware support contracts are entered into at the customer’s option and are recognized ratably over the contractual
+term of the arrangements, which is typically one year, provided all other revenue recognition criteria have been satisﬁed.
+RevenueRecognitionfoLMu1tiple:Element,Arrangements:Cl,o,ud,S,aaS,,BaaS,and,IaaSLOfferings,,Hardwareﬁroducts,,Hardware,S,upportandRelate,d,S,ervices
+{NomsoftwareArrangements)
+We enter into arrangements with customers that purchase non-software related products and services from us at the same time, or within close proximity of one
+another (referred to as non-software multiple-element arrangements). Each element within a non-software multiple-element arrangement is accounted for as a
+separate unit of accounting provided the following criteria are met: the delivered products or services have value to the customer on a standalone basis; and for an
+arrangement that includes a general right of return relative to the delivered products or services, delivery or performance of the undelivered product or service is
+considered probable and is substantially controlled by us. We consider a deliverable to have standalone value if the product or service is sold separately by us or
+another vendor or could be resold by the customer. Further, our revenue
+94

@@ -1,0 +1,49 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 6: Stock-Based Compensation
+HP’s stock-based compensation plans include incentive compensation plans and an employee stock purchase plan
+(“ESPP”).
+Stock-Based Compensation Expense and Related Income Tax Beneﬁts for Continuing Operations
+Stock-based compensation expense and the resulting tax benefits for continuing operations were as follows:
+For the ﬁscal years
+7 ended October 31 7
+: 2016 7 7 2015 7 7 2014
+In millions
+j Stock-based compensation expense $ 182 $ 212 $ 196 ‘
+Income tax benefit 7 (63) 7 (62) 7 (65)
+jStock—based compensation expense, net of tax $ 119 _ $ 150 _ $ 131 l
+In connection with the Separation and in accordance with the employee matters agreement, HP has made certain
+adjustments to the exercise price and number of stock-based compensation awards with the intention of preserving the intrinsic
+value of the awards prior to the Separation. Exercisable and non-exercisable stock options have been converted to similar
+awards of the entity where the employee is working post-separation. Restricted stock unit awards and performance-contingent
+awards have been adjusted to provide holders with restricted stock units awards and performance-contingent awards in the
+company that employs such employee following the Separation. The pre-tax stock-based compensation expense due to the
+adjustments was $2 million in fiscal year 2016. All outstanding restricted stock awards and stock options for employees
+transferred to Hewlett Packard Enterprise were cancelled in connection with the Separation. The restricted stock awards activity
+and stock options activity for fiscal years 2015 and 2014 in the tables below include discontinued operations, as the awards
+were not cancelled until the Separation became effective in the ﬁrst quarter of fiscal year 2016.
+In connection with the Separation, the Board of Directors approved amendments to certain outstanding long-term
+incentive awards on July 29, 2015. The amendments provided for the accelerated vesting on September 17, 2015 of certain
+stock-based awards that were otherwise scheduled to vest between September 18, 2015 and December 31, 2015. The pre-tax
+stock-based compensation expense due to the acceleration for continuing operations was approximately $23 million in ﬁscal
+year 2015.
+Cash received from option exercises and purchases under the Hewlett-Packard Company 2011 Employee Stock Purchase
+Plan (the “2011 ESPP”) was $48 million in fiscal year 2016, $206 million in fiscal year 2015 and $143 million in fiscal year
+2014. The beneﬁt realized for the tax deduction from option exercises in fiscal years 2016, 2015 and 2014 was $9 million, $30
+million and $9 million, respectively.
+Stock-Based Incentive Compensation Plans
+HP’s stock-based incentive compensation plans include equity plans adopted in 2004 and 2000, as amended (“principal
+equity plans”), as well as various equity plans assumed through acquisitions under which stock-based awards are outstanding.
+Stock-based awards granted from the principal equity plans include restricted stock awards, stock options and performance—
+based awards. Employees meeting certain employment qualifications are eligible to receive stock-based awards.
+Restricted stock awards are non-vested stock awards that may include grants of restricted stock or restricted stock units.
+Restricted stock awards and cash-settled awards are generally subject to forfeiture if employment terminates prior to the lapse
+of the restrictions. Such awards generally vest one to three years from the date of grant. During the vesting period, ownership of
+the restricted stock cannot be transferred. Restricted stock has the same dividend and voting rights as common stock and is
+considered to be issued and outstanding upon grant. The dividends paid on restricted stock are non-forfeitable. Restricted stock
+units do not have the voting rights of common stock, and the shares underlying restricted stock units are not considered issued
+and outstanding upon grant. However, shares underlying restricted stock units are included in the calculation of diluted net EPS.
+Restricted stock units have forfeitable dividend equivalent rights equal to the dividend paid on common stock. HP expenses the
+fair value of restricted stock awards ratably over the period during which the restrictions lapse. The majority of restricted stock
+85

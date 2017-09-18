@@ -1,0 +1,62 @@
+ILocation IFacility IProduct Line ISegment I
+I International I
+IAustralia, Carlingford ISales Ofﬁce2 IMonolithic Refractories IRefractories I
+IAustralia, Perth IOperations base2 IFiltration services IEnergy Services I
+IBelgium, Brussels IAdministrative Ofﬁce IMonolithic Refractories/FCC IRefractories |
+IBrazil, Macae IOperations base2 IFiltration services IEnergy Services I
+IBrazil, Sao Jose dos Campos ISales OfﬁceZ/Adnﬁnistrative Ofﬁce IPCC ISpecialty Minerals I
+ICanada, Pt. Claire IAdministrative Ofﬁce IPCC/Monolithic Refractories ISpecialty Minerals; Refractories I
+IChina, Chao Yang, Liaoning IPlant; Mine IMetalcasting and fabric care products IPerformance Materials I
+IChina, Shanghai IAdministrative Ofﬁce/ Sales Ofﬁce IPCC/Monolithic Refractories ISpecialty Minerals; Refractories I
+IChina, Suzhou IPlant IEnVlronmental and bulldmg mammals IConstruction Technologies I
+products
+IChina, Suzhou IPlant/ Sales Ofﬁce/Research laboratories IPCC/Monolithic Refractories ISpecialty Minerals; Refractories I
+IChina, Tianjin IPlant; Mine; Research laboratories IMetalcasting and fabric care products IPerformance Materials I
+. . Laser Scanning Instrumentation/ .
+D Pl 1 ff h 1 t . . . R fr t
+IGermany, ulsburg I ant/Sa es 0 lee/Researc abora ories IPmbeS/NIonollthlc Refractones I e ac ones I
+IHolland, Hengelo IPlant/Sales Ofﬁce IMetallurgical Wire IRefractories |
+. . ' ' R f t ' M t 11 ' l . . .
+IInd1a, Mumbai ISales OfﬁceZ/Adnﬁnistrative Ofﬁce Igfifemonommc 6 mo oneS/ e a urglca ISpec1alty Mmerals;Refractor1es I
+IIndonesia, Jakarta IOperations base2 IFiltration services IEnergy Services I
+_ . . . 2
+Ireland, Cork Plant’ Aqmmlsuatwe Ofﬁce /Resear0h Monolithic Refractories Refractories I
+laboratories
+IItaly, Brescia ISales Ofﬁce IMonolithic Refractories/Shapes IRefractories I
+IItaly, Nave IPlant IMonolithic Refractories/ Shapes IRefractories I
+IJapan, Gamagori IPlant/Research laboratories IMonolithic Refractories/Shapes, Calcium IRefractories I
+IJapan, Tokyo ISales Ofﬁce IMonolithic Refractories IRefractories I
+' ' ' ' 1 th . .
+IKorea, Pyeongtaek IPlant IEnVlmnmental’ bulldmg matena S and 0 er IConstruction TechnologIes I
+products
+IMalaysia, Kenamen Ioperations base2 IFiltration and well testing services IEnergy Services I
+IMeXico, Villahermosa IOperations base2 IFiltration services IEnergy Services I
+INigeria, Port Harcourt IOperations base2 IWell Testing services IEnergy Services I
+IPOland, Szczytno IPlant IEnvironmental products IConstruction Technologies I
+IScotland, Aberdeen IOperations base2 IFiltration services IEnergy Services I
+ISingapore ISales OfﬁceZ/Administrative Ofﬁce IPCC ISpecialty Minerals |
+ISouth Africa, Johannesburg ISales Ofﬁce/ Administrative Ofﬁce2 IMonolithic Refractories IRefractories I
+ISouth Africa, Pietermaritzburg IPlant IMonolithic Refractories IRefractories I
+ISOUth Afma’ Rillghoek Farm’ IPlant; Mine IMetalcasting and basic minerals products IPerformance Materials I
+Northwest Provmce
+ISOUth Korea’ YangbUk-Myeun’ IPlant; Mine IMetalcasting products IPerformance Materials I
+Kyeung-buk
+ISpain, Cheste IPlant IEnvironmental products IConstruction Technologies I
+ISpain, Santander ISales OfﬁceZ/Adnﬁnistrative Ofﬁce IMonolithic Refractories IRefractories I
+IThailand, Laemchabang IPlant IMetalcasting and fabric care products IPerformance Materials I
+ITurkey, Enez IPlant; Mine IMetalcaStmg’ Spemalty and basm mmerals IPerformance Materials I
+products
+ITurkey, Gebze IPlant/Research Laboratories IMOITOhthIC ReﬁaCtorleS/ShapeS/ Apphcauon IRefractories I
+Eqqument
+ITurkey, Istanbul ISales Ofﬁce/Administrative Ofﬁce IMonolithic Refractories IRefractories |
+ITurkey, Kutahya IPlant IMonolithic Refractories/ Shapes IRefractories I
+. . . . P f M t ' l
+IUnited ngdom, Blrkenhead IResearch laboratories2 IEnv1ronmental products I er ormarice a em S a.nd I
+Construction TechnologIes
+IUnited Kingdom, Lifford IPlant IPCC, Lime ISpecialty Minerals |
+IUnited Kingdom, Rotherham IPlant/ Sales Ofﬁce IMonolithic Refractories/ Shapes IRefractories I
+IUnited Kingdom, Winsford IPlant, Research laboratories IFabric care and other products IPerformance Materials I
+1 This plant and quarry is leased to another company.
+2 Leased by the Company. The facilities in Cork, Ireland, are operated pursuant to a 99—year lease, the term of which commenced in 1963. The
+Company's headquarters in New York, New York, are held under a lease which expires in 2021.
+20

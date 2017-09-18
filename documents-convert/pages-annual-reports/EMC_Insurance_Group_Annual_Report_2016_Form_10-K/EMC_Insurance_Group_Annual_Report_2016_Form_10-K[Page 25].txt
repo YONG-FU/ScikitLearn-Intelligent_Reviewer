@@ -1,0 +1,50 @@
+The Company does not discount reserves. Inﬂation is implicitly provided for in the reserving function through analysis
+of cost trends, reviews of historical reserving results and projections of future economic conditions. Estimates of individual
+case loss reserves are monitored and reviewed on a regular basis by claim staff members. Special attention is given to claims
+of $100,000 or greater, and long-term and lifetime medical claims. Based on currently available information, individual case
+loss reserves are revised to reﬂect changes in estimated ultimate settlement values.
+Despite the inherent uncertainties of estimating loss and settlement expense reserves, management believes that the
+Company’s reserves are being calculated in accordance with sound actuarial practices and, based upon current information, that
+the reserve for losses and settlement expenses at December 31, 2016 represents management’s best estimate of the Company’s
+overall liability.
+Reserving Methodology and Determination of Management’s Best Estimate of Overall Liability:
+Property and casualty insurance
+The property and casualty insurance segment establishes case loss, IBNR loss and settlement expense reserves separately
+for three categories of losses, which are (1) all claims other than those stemming from storms, catastrophic events, asbestos and
+environmental exposures (general claims), (2) storms and catastrophic events, and (3) asbestos and environmental claims. Case
+loss reserves are established on a common basis for all three categories based on the specific facts for each reported claim.
+Individual case loss reserves are based on the probable, or most likely, outcome for each claim, with probable outcome defined
+as what is most likely to be awarded if the case were to be decided by a civil court in the applicable venue or, in the case of a
+workers’ compensation case, by that state’s Workers’ Compensation Commission. IBNR loss and settlement expense reserves
+are established differently for the three categories of losses as discussed below.
+Reserves for General Claims
+Effective September 30, 2016, IBNR loss reserves for general claims are calculated by subtracting paid loss
+amounts and the case loss reserves carried on reported claims from the estimated ultimate loss amounts established by line
+of business and accident year. Allocated settlement expense reserves are established in a similar manner, except that only
+paid expenses to date are subtracted from the estimated ultimates, as adjusters do not establish case-basis settlement
+expense reserves. Unallocated settlement expenses reserves are determined through a study of historical paid expenses
+compared to paid loses. The unallocated settlement expense reserve established through this process is for all accident
+years combined, and the total is allocated to the various accident years proportional to the loss reserves.
+Lines of Business and Process Overview
+Reserves are evaluated for adequacy on a quarterly basis, and are the end-product of a broader process by which
+management establishes estimated ultimate loss (net of salvage, subrogation and reimbursement recoveries) and allocated
+settlement expense amounts by line of business and accident year. At quarter-end, carried bulk reserves are established as
+the difference between management's estimated ultimate amounts, and the reported amounts incurred to date. At the
+highest level, the actuarial department establishes estimated ultimate loss and allocated settlement expense amounts by
+accident year for claims aggregated into eight reserving lines of business: personal auto liability, commercial auto liability,
+auto physical damage, workers' compensation, other liability, commercial property, homeowners, and an “all other”
+category, which consists mostly of fidelity and surety bonds.
+For each line of business, the establishment of IBNR loss and allocated settlement expense reserves begins with a
+review of historical experience as of the end of the previous quarter. The actuarial department utilizes standard actuarial
+incurred and paid chain ladder (triangle) development methods, expected loss and settlement expense ratio methods, and
+various methodologies which blend the development and expected ratio methods, such as the Bornhuetter—Ferguson
+method. The actuarial department employs these methods using incurred and paid losses and paid allocated settlement
+expenses aggregated on both a calendar/accident year basis and an accident quarter basis. The calendar/accident year
+development triangles generated in this process contain thirty-five years of historic data, and provide the tail development
+factors used in the accident quarter development triangles, which only utilize ten years of historic data. The end result of
+the process is a separate set of estimated ultimate ratios to earned premiums for losses and allocated settlement expenses
+by reserving line of business and accident year/quarter. At the end of each quarter, the selected estimated ultimate ratios
+are applied to the corresponding calendar year/quarter earned premiums to produce the estimated ultimate dollar amounts,
+from which the amounts reported to date are subtracted to produce the IBNR loss reserves and allocated settlement
+expense reserves to be recorded.
+14

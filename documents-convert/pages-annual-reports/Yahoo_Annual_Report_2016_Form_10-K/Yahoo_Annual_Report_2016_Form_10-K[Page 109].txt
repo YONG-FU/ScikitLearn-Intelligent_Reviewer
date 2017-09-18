@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+amounts paid to Affiliates under the Microsoft Search Agreement in the transitioned markets are recorded as cost of revenue—TAC rather than as a reduction to
+revenue, resulting in revenue from the Microsoft Search Agreement being reported on a gross rather than net basis. Effective June 3, 2016, the Company and
+Microsoft further amended the Microsoft Search Agreement to provide that sales responsibilities for premium advertisers in Taiwan and Hong Kong will not be
+transitioned. TAC in those markets will continue to be reported as a reduction to revenue.
+The table below presents how the Company accounted for amounts paid to Afﬁliates related to the Microsoft Search Agreement in transitioned markets, and
+shows the impact of the implementation of the Eleventh Amendment in transitioned markets (in thousands):
+Years Ended December 31,
+2014 2015 2016
+Cost of revenue—TAC in transitioned markets (*) $ — $ — $ 812,105 I
+Reduction to revenue in transitioned markets $ 1,319,242 $ 1,269,134 $ 273,705
+(*) For the year ended December 31, 2016, cost of revenue—TAC included $701 million in the Americas segment, $106 million in the EMEA segment, and
+$5 million in the Asia Paciﬁc segment.
+See Note 19—“Microsoft Search Agreement” for a description of the Search Agreement with Microsoft.
+Prior to the Eleventh Amendment, the Company was entitled to receive a percentage of the revenue (the “Revenue Share Rate”) generated from Microsoft’s
+services on Yahoo Properties and on Affiliate sites after deduction of the Afﬁliate sites’ share of revenue and certain Microsoft costs. The Revenue Share Rate
+was 88 percent for the ﬁrst five years of the Microsoft Search Agreement and then increased to 90 percent on February 23, 2015. Pursuant to the Eleventh
+Amendment, the Revenue Share Rate increased to 93 percent, but Microsoft now receives its 7 percent revenue share before deduction of the Afﬁliate site’s
+share of revenue. The Company is responsible for paying the Afﬁliate for the Afﬁliate site’s share of revenue.
+The Company also recognizes search revenue generated from mobile and desktop ads served through Yahoo Gemini (Yahoo’s uniﬁed marketplace for search
+and native advertising on Yahoo Properties and Afﬁliate sites). The Company is considered the primary obligor to the advertisers who are the customers of the
+search advertising service. Accordingly, the search revenue generated from mobile and desktop ads served through Yahoo Gemini that involve trafﬁc supplied
+by Afﬁliates is reported gross of the traffic acquisition costs (“TAC”) paid to Afﬁliates (reported as cost of revenue—TAC) as the Company performs the search
+service for advertisers.
+In October 2015, Yahoo reached an agreement with Google that provides Yahoo with additional ﬂexibility to choose among suppliers of search results and ads.
+Google’s offerings complement the search services provided by Microsoft and Yahoo Gemini. Yahoo is considered the principal in the sale of traffic to Google
+because Yahoo is the primary obligor in its arrangement with Google and has discretion in how search queries from Afﬁliate sites will be fulﬁlled and monetized.
+As a result, amounts paid to Affiliates under the Google agreement are recorded as cost of revenue—TAC. Additionally, the Company generates search revenue
+from a revenue sharing arrangement with Yahoo Japan for search technology and services and records the related revenue as reported.
+Display Revenue. The Company recognizes revenue from display advertising on Yahoo Properties and Afﬁliate sites as impressions of or clicks on display
+advertisements, including native ads, are delivered. Impressions are delivered when a sold advertisement appears in pages viewed by users.
+108

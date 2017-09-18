@@ -1,0 +1,48 @@
+7 Notes to Consolidated Financial Statements *
+Note 1 — Introduction and Basis of Presentation
+Certain acronyms and terms used throughout this Annual Report on Form 10-K are speciﬁc to our company,
+commonly used in our industry, or are otherwise frequently used throughout our document. Deﬁnitions
+for these acronyms and terms are pro vided in the "Glossary of Terms, "available in the front of this document.
+Description of Business
+Swift is a transportation solutions provider, headquartered in Phoenix, Arizona. As of December 31, 2016, the
+Company's fleet of revenue equipment included 18,366 tractors (comprised of 13,937 company tractors and 4,429
+owner-operator tractors), 64,066 trailers and 9,131 intermodal containers. The Company's four reportable segments
+are Truckload, Dedicated, Swift Refrigerated, and lntermodal.
+Basis of Presentation
+The accompanying consolidated financial statements include the accounts of Swift Transportation Company and
+its wholly-owned subsidiaries. A” significant intercompany balances and transactions have been eliminated in
+preparing the consolidated financial statements. When the Company does not have a controlling interest in an
+entity, but exerts significant influence over the entity, the Company applies the equity method of accounting. In
+management's opinion, the accompanying financial statements were prepared in accordance with principles
+generally accepted in the United States and include all adjustments necessary for the fair presentation of the periods
+presented.
+Change in Accounting Estimate
+In August 2016, the Company decreased the estimated residual values of a certain group of its tractors, as a result
+of recent trends in the used tractor market. Management prospectively accounted for this as a change in accounting
+estimate. This change increased "Depreciation and amortization of property and equipment" in the consolidated
+income statements by approximately $9.0 million for the year ended December 31, 2016. Without this change in
+estimate, basic and diluted earnings per share would have been $0.05 higher for the year ended December 31,
+2016.
+In October 2016, the Company changed its estimated residual values on certain trailers. This accelerated the
+depreciation on some trailers, while decelerating the depreciation on others. Management prospectively accounted
+forthis as a change in accounting estimate. The impact on "Depreciation and amortization of property and equipment"
+was a decrease of approximately $0.6 million. Without this change in estimate, basic and diluted earnings per share
+would have been unaffected for the year ended December 31, 2016.
+Changes in Presentation
+Beginning in 2016, the Company made the following changes in presentation:
+In April 2015, FASB issued ASU 2015-03, Simplifying the Presentation of Debt Issuance Costs, which amended
+ASC Subtopic 835-30, Interest - Imputation of Interest. The amendments in this ASU simplify the presentation of
+debt issuance costs and align the presentation with debt discounts. Entities are required to present debt issuance
+costs within liabilities as a direct deduction from the face amount of the related debt, rather than as a deferred charge
+within assets. In August 2015, FASB issued ASU 2015-15, Presentation and Subsequent Measurement of Debt
+Issuance Costs Associated with Line-of-CreditArrangements —Amendments to SEC Paragraphs Pursuant to Staff
+Announcement atJune 78, 2075 E/TF Meeting (SE C Update), which also amended ASC Subtopic 835-30, Interest
+— Imputation of Interest. The SEC determined that ASU 2015-03 (discussed above) did not address costs related
+to line-of-credit arrangements. The amendments in ASU 2015-15 clarify that entities may defer and present debt
+issuance costs as an asset, and subsequently amortize the deferred debt issuance costs ratably over the term of
+the line-of-credit arrangement, regardless of whether there are any outstanding borrowings on the line-of—credit
+arrangement. The amendments in these ASUs require retrospective application, with related disclosures for a
+change in accounting principle. For public business entities, the amendments in these ASUs were effective for
+financial statements issued for fiscal years beginning after December 15, 2015, and the interim periods within those
+fiscal years, with early adoption permitted.
+87

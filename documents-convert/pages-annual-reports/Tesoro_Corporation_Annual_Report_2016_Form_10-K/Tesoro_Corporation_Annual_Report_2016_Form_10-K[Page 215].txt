@@ -1,0 +1,44 @@
+(2) the Issuers’ obligations with respect to the Notes concerning issuing temporary Notes, registration of Notes, mutilated, destroyed, lost or
+stolen Notes and the maintenance of an ofﬁce or agency for payment and money for security payments held in trust;
+(3) the rights, powers, trusts, duties and immunities of the Trustee hereunder and the Issuers’ and the Guarantors’ Obligations in connection
+therewith; and
+(4) this Article,8,.
+Subject to compliance with this Article 8, the Issuers may exercise their option under this Section 8.02 notwithstanding the prior exercise of their
+option under Section8103, hereof.
+Section 8.03 Covenant Defeasance.
+Upon the Issuers’ exercise under Section8101 hereof of the option applicable to this Section8103, the Issuers and each of the Guarantors will, subject to
+the satisfaction of the conditions set forth in Section810ﬁ hereof, be released from each of their obligations under the covenants contained in Sections A .03,
+4,04,, 4,01, 4,08,, 4, .091 4110,, 4111, 4, .12, 4, .13, 4115,, 4,16,, 4,11 and 4,18, hereof and clause (a)(4) of ,S,e,c,tion,5,.01, hereof with respect to the outstanding Notes,
+and the Guarantors will be released from their obligations with respect to the Note Guarantees, on and after the date the conditions set forth in S,e,c,tion,8,.0£l
+hereof are satisﬁed (hereinafter, “Covenant,Defeasanc,e,”), and the Notes will thereafter be deemed not “outstanding” for the purposes of any direction, waiver,
+consent or declaration or act of Holders (and the consequences of any thereof) in connection with such covenants, but will continue to be deemed
+“outstanding” for all other purposes hereunder (it being understood that such Notes will not be deemed outstanding for accounting purposes). For this
+purpose, Covenant Defeasance means that, with respect to the outstanding Notes and Note Guarantees, the Issuers and the Guarantors may omit to comply
+with and will have no liability in respect of any term, condition or limitation set forth in any such covenant, whether directly or indirectly, by reason of any
+reference elsewhere herein to any such covenant or by reason of any reference in any such covenant to any other provision herein or in any other document
+and such omission to comply will not constitute a Default or an Event of Default under Section 6.01 hereof, but, except as speciﬁed above, the remainder of
+this Indenture and such Notes and Note Guarantees will be unaffected thereby. In addition, upon the Issuers’ exercise under Section 8.01 hereof of the option
+applicable to this Section 8.03, subject to the satisfaction of the conditions set forth in Section 8.04 hereof, Sections 6.01Q) through 6.01(D_ inclusive and
+6.01 (10) hereofwill not constitute Events of Default.
+Section 8.04 Conditions to Legal or Covenant Defeasance.
+In order to exercise either Legal Defeasance or Covenant Defeasance as to the Notes under either Section 8.02 or 8.03 hereof:
+(1) the Issuers must irrevocably deposit with the Trustee, in trust, for the beneﬁt of the Holders of the Notes, cash in US. dollars, non-callable
+Government Securities, or a combination thereof, in such amounts as will be sufﬁcient, in the opinion of a nationally recognized investment bank,
+appraisal ﬁrm or ﬁrm of independent public accountants, to pay the principal of, or interest and premium, if any, on the outstanding Notes on the stated
+date for payment thereof or on the applicable Redemption Date, as the case may be, and the Issuers must specify whether the Notes are being defeased
+to such stated date for payment or to a particular Redemption Date;
+(2) in the case of an election under Section 8.02 hereof, the Issuers must deliver to the Trustee an Opinion of Counsel conﬁrming that, subject to
+customary assumptions and exclusions:
+(A) the Issuers have received from, or there has been published by, the Internal Revenue Service a ruling; or
+(B) since the Issue Date, there has been a change in the applicable US. federal income tax law, in either case to the effect that, and based
+thereon such Opinion of Counsel shall conﬁrm that, the Holders of the outstanding Notes will not recognize income, gain or loss for US. federal
+income tax purposes as a result of such Legal Defeasance and will be subject to US. federal income tax on the same amounts, in the same manner
+and at the same times as would have been the case if such Legal Defeasance had not occurred;
+(3) in the case of an election under Section 8.03 hereof, the Issuers must deliver to the Trustee an Opinion of Counsel reasonably acceptable to
+the Trustee conﬁrming that the Holders of the outstanding Notes will not recognize income, gain or loss for US. federal income tax purposes as a result
+of such Covenant Defeasance and will be subject to US. federal income tax on the same amounts, in the same manner and at the same times as would
+have been the case if such Covenant Defeasance had not occurred;
+(4) no Default or Event of Default with respect to the Notes shall have occurred and be continuing on the date of such deposit (other than a
+Default or Event of Default resulting from the incurrence of Indebtedness or other borrowing of funds or the grant of Liens securing such Indebtedness
+or other borrowing, all or a portion of the proceeds of which will be applied to such deposit);
+-5 1-

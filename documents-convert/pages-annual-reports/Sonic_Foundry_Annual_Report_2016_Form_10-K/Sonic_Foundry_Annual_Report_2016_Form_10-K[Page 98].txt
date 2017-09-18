@@ -1,0 +1,46 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+these outstanding warrants as of September 30, 2016 was 3.23 years. The fair value of the warrants was determined using the
+lattice model and the same inputs as those used for valuing the Company’s stock option fair value. The fair value of the warrants
+was $133 thousand at the date of issuance. The Company determined that the warrants are freestanding and do not fall within the
+scope of ASC 480 or ASC 815. The warrants were recorded in conjunction with the stock issued.
+See Note 3, Credit Arrangements for disclosures on additional warrants issued during fiscal 2015.
+Per Share Computation
+Basic earnings (loss) per share has been computed using the weighted-average number of shares of common stock outstanding
+during the period, less shares that may be repurchased, and excludes any dilutive eﬁects of options and warrants. In periods where
+the Company reports net income, diluted net income per share is computed using common equivalent shares related to outstanding
+options and warrants to purchase common stock. The numerator for the calculation of basic and diluted earnings per share is net
+income (loss). The following table sets forth the computation of basic and diluted weighted average shares used in the earnings
+per share calculations:
+Years Ending
+: September 30, :
+: 2016 : : 2015 :
+Denominator for basic earnings (loss) per share
+-weighted average common shares 4,389,421 4,332,576
+Effect of dilutive options and warrants (treasury method) — —
+Denominator for diluted earnings (loss) per share
+-adjusted weighted average common shares 4,389,421 4,332,576
+Options and warrants outstanding during each year, but not included in the
+computation of diluted earnings (loss) per share because they are antidilutive 1>737>624 1>5 60>211
+RecentAccounting Pronouncements
+In May 2014, the Financial Accounting Standards Board (the "FASB") issued Accounting Standards Update ("ASU") 2014-09,
+“Revenue from Contracts with Customers (Topic 606)”. The guidance substantially converges ﬁnal standards on revenue
+recognition between the FASB and the International Accounting Standards Board providing a framework on addressing revenue
+recognition issues and, upon its effective date, replaces almost all existing revenue recognition guidance, including industry-
+speciﬁc guidance, in current US. generally accepted accounting principles. The FASB subsequently issued a one-year deferral
+of the effective date for the new revenue reporting standard for entities reporting under US. GAAP. In accordance with the
+deferral, the guidance is effective for annual reporting periods beginning after December 15, 2017. Subsequently, the FASB issued
+ASU 2016-08, "Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations" ("ASU 2016-08");
+ASU 2016-10, "Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing"
+("ASU 2016-10"); and ASU 2016-12, "Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and
+Practical Expedients" ("ASU 2016-12"). The Company must adopt ASU 2016-08, ASU 2016-10 and ASU 2016-12 with ASU
+2014-09. We are currently evaluating the timing of adopting and the related impact, if any, it may have on our financial statements.
+In April 2015, the FASB issued ASU 2015-03, “Simplifying the Presentation of Debt Issuance Costs” (“ASU 2015-03”), which
+amends the current presentation of debt issuance costs in the ﬁnancial statements. ASU 2015 -03 requires that debt issuance costs
+related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt
+liability, consistent with debt discounts, instead of as an asset. The amendments are to be applied retrospectively and are eﬁective
+for public business entities for fiscal years, and for interim periods within those fiscal years, beginning after December 15, 2015 ,
+but early adoption is permitted. The adoption of the new guidance is not expected to have a material impact on the Company’s
+condensed consolidated financial statements.
+58

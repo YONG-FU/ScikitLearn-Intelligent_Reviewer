@@ -1,0 +1,46 @@
+The following table presents the carrying amounts and estimated fair values of the Company's financial instruments:
+7 As of December 31, 7
+7 2016 2015 7
+: Carrying Estimated : : Carrying Estimated :
+7 Value 7 7 Fair Value 7 7 Value 7 7 Fair Value 7
+7 7 7 (In thousands) 7 7 7
+Financial Assets:
+Restricted investments (1) $ 22,717 $ 22,688 $ 23,215 $ 23,190
+Financial Liabilities:
+2015 Agreement: New Term Loan A,
+due July 2020 (2) 492912 494'250 668'055 669'750
+Accounts receivable securitization, due
+January 2019 (3) 279'285 280'000 223927 225'000
+Revolving line of credit, due July 2020... 130,000 130,000 200,000 200,000
+The carrying amounts of the final instruments shown in the table are included in the consolidated balance sheets,
+as follows:
+(1) Restricted investments are included in "Restricted investments, held to maturity, amortized cost."
+(2) The New Term Loan A is included in "Current portion of long-term debt" and "Long-term debt, less current
+portion." Carrying value is net of $1.3 million and $1.7 million DLCs as of December 31, 2016 and 2015,
+respectively.
+(3) Carrying value is net of $0.7 million and $1.1 million DLCs as of December 31, 2016 and 2015, respectively.
+The estimated fair values of the financial instruments shown in the above table as of December 31 , 2016 and 2015,
+represent management's best estimates of the amounts that would be received to sell those assets or that would
+be paid to transfer those liabilities in an orderly transaction between market participants at that date. The estimated
+fair value measurements maximize the use of observable inputs. However, in situations where there is little, if any,
+market activity for the asset or liability at the measurement date, the estimated fair value measurement reflects the
+Company's ownjudgments about the assumptions that market participants would use in pricing the asset or liability.
+Thesejudgments are developed by the Company based on the best information available under the circumstances.
+The following summary presents a description of the methods and assumptions used to estimate the fair value of
+each class of financial instrument.
+Restricted Investments — The estimated fair value of the Company's restricted investments is based on quoted
+prices in active markets that are readily and regularly obtainable.
+Term Loans — The estimated fair value of the Term Loan A approximates the face value.
+Securitization of Accounts Receivable — The Company's securitization of accounts receivable consists of
+borrowings outstanding pursuant to the Company's 2015 RSA as of December 31, 2016 and 2015, as discussed
+in Note 12. Its fair value is estimated by discounting future cash flows using a discount rate commensurate with the
+uncertainty involved.
+Fair Value Hierarchy—ASC Topic 820 establishes a framework for measuring fair value in accordance with US-
+GAAP and expands financial statement disclosure requirements for fair value measurements. ASC Topic 820 further
+specifies a hierarchy of valuation techniques, which is based on whether the inputs into the valuation technique are
+observable or unobservable. The hierarchy follows:
+0 Level 7— Valuation techniques in which all significant inputs are quoted prices from active markets for assets
+or liabilities that are identical to the assets or liabilities being measured.
+0 Level 2— Valuation techniques in which significant inputs include quoted prices from active markets for assets
+or liabilities that are similar to the assets or liabilities being measured and/or quoted prices from markets that
+125

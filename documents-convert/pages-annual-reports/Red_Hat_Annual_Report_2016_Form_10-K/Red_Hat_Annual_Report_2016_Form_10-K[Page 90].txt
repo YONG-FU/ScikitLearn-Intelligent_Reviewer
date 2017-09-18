@@ -1,0 +1,43 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+share is computed by dividing net income by the weighted average number of common shares and dilutive
+potential common share equivalents then outstanding. Potential common share equivalents consist of shares
+issuable upon the exercise of stock options or vesting of share-based awards.
+With respect to the Company’s 0.25% convertible senior notes due 2019 (the “convertible notes”), the
+Company has the option to pay cash or deliver, as the case may be, either cash, shares of its common stock or a
+combination of cash and shares of its common stock for the aggregate amount due upon conversion of the
+convertible notes. The Company’s intent is to settle the principal amount of the convertible notes in cash upon
+conversion. As a result, upon conversion of the convertible notes, only the amounts payable in excess of the
+principal amounts of the notes are considered in diluted earnings per share under the treasury stock method. See
+NOTE 22—Convertible Notes to the Company’s Consolidated Financial Statements for detailed information on
+the convertible notes.
+Segment reporting
+The Company is organized primarily on the basis of three geographic business units: the Americas (US,
+Latin America and Canada), EMEA (Europe, Middle East and Africa) and Asia Pacific. These business units are
+aggregated into one reportable segment due to the similarity in nature of products and services provided,
+financial performance economic characteristics (e. g., revenue growth and gross margin), methods of production
+and distribution and customer classes (e. g., cloud service providers, distributors, resellers and enterprise).
+The Company has offices in more than 85 locations around the world. The Company manages its
+international business on an Americas-wide, EMEA-wide and Asia Pacific-wide basis. See NOTE 20—Segment
+Reporting for further discussion.
+Recent accounting pronouncements
+Accounting pronouncements adopted
+In November 2015, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards
+Update 2015-17, Income Taxes (Topic 740): Balance Sheet Classification of Deferred Taxes (“ASU 2015-17”).
+ASU 2015-17 removes the requirement that deferred tax assets and liabilities be classified as either current or
+non-current in a classified statement of ﬁnancial position and instead considers deferred tax assets and liabilities
+to be classified as non-current. The Company adopted ASU 2015-17 for the fiscal year ended February 29, 2016
+and has applied the update retrospectively to its Consolidated Balance Sheet as of February 28, 2015.
+In September 2015, the FASB issued Accounting Standards Update 2015-16, Business Combinations (Topic
+805): Simplifying the Accounting for Measurement-Period Adjustments (“ASU 2015-16”). The FASB issued
+ASU 2015-16 to simplify US. GAAP to require that the acquirer record, in the same period’s financial
+statements, the effect of changes to provisional, measurement period amounts calculated as if the accounting had
+been completed at the acquisition date and disclose the portion of the amount recorded in current-period earnings
+by line item that would have been recorded in previous reporting periods if the adjustment to the provisional
+amounts had been recognized as of the acquisition date. The Company adopted ASU 2015-16 for the fiscal year
+ended February 29, 2016.
+In April 2015, the FASB issued Accounting Standards Update 2015-03, Interest—Imputation of Interest
+(Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs (“ASU 2015-03”). The FASB issued
+ASU 2015-03 to simplify the presentation of debt issuance costs related to a recognized debt liability to present
+the debt issuance costs as a direct deduction from the carrying value of the debt liability rather than showing the
+86

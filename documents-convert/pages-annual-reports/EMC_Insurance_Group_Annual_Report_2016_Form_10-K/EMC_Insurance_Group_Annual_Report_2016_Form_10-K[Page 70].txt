@@ -1,0 +1,53 @@
+Management evaluates the Company’s operations by monitoring key measures of growth and profitability. Management
+measures the Company’s growth by examining direct premiums written and, perhaps more importantly, premiums written
+assumed from affiliates. Management generally measures the Company’s operating results by examining the Company’s net
+income and return on equity, as well as the loss and settlement expense, acquisition expense and combined ratios. The
+following provides further explanation of the key measures management uses to evaluate the Company’s results:
+Direct Premiums Written. Direct premiums written is the sum of the total policy premiums, net of cancellations,
+associated with policies underwritten and issued by the Company’s property and casualty insurance subsidiaries. These direct
+premiums written are transferred to Employers Mutual under the terms of the pooling agreement and are reﬂected in the
+Company’s consolidated ﬁnancial statements as premiums written ceded to affiliates. See note 3 of Notes to Consolidated
+Financial Statements.
+Premiums Written Assumed From Aﬁliates and Premiums Written Assumed From Nonafﬁliates. For the property and
+casualty insurance segment, premiums written assumed from affiliates and nonaffiliates reﬂects the property and casualty
+insurance subsidiaries’ aggregate 30 percent participation interest in 1) the total direct premiums written by all the participants
+in the pooling arrangement, and 2) the involuntary business assumed by the pool participants pursuant to state law, respectively.
+For the reinsurance segment, premiums written assumed from nonaﬂiliates reﬂects the reinsurance business assumed through
+the quota share agreement (including “fronting” activities initiated by Employers Mutual) and reinsurance business assumed
+outside the quota share agreement. See note 3 of Notes to Consolidated Financial Statements. Management uses premiums
+written assumed from affiliates and nonaffiliates, which excludes the impact of written premiums ceded to reinsurers, as a
+measure of the underlying growth of the Company’s insurance business from period to period.
+Net Premiums Written. Net premiums written is calculated by summing direct premiums written, premiums written
+assumed from affiliates and nonaffiliates, and then subtracting from that result premiums written ceded to aﬂiliates and
+nonaffiliates. For the property and casualty insurance segment, premiums written ceded to nonaﬂiliates is the portion of the
+direct and assumed premiums written that is transferred to l) reinsurers in accordance with the terms of the underlying
+reinsurance contracts, based upon the risks they accept, and 2) state organizations on a mandatory basis in connection with
+various workers' compensation and assigned risk programs. For the reinsurance segment, premiums written ceded to
+nonaffiliates reﬂects reinsurance business that is ceded to other insurance companies in connection with “fronting” activities
+initiated by Employers Mutual. Premiums written ceded to affiliates includes both the cession of the Company’s property and
+casualty insurance subsidiaries’ direct business to Employers Mutual under the terms of the pooling agreement, and premiums
+ceded by the Company’s subsidiaries to Employers Mutual under the terms of the inter-company reinsurance programs with
+Employers Mutual. See note 3 of Notes to Consolidated Financial Statements. Management uses net premiums written to
+measure the amount of business retained after cessions to reinsurers.
+Loss and Settlement Expense Ratio. The loss and settlement expense ratio is the ratio (expressed as a percentage) of
+losses and settlement expenses incurred to premiums earned, and measures the underwriting profitability of a company’s
+insurance business. The loss and settlement expense ratio is generally measured on both a gross (direct and assumed) and net
+(gross less ceded) basis. Management uses the gross loss and settlement expense ratio as a measure of the Company’s overall
+underwriting profitability of the insurance business it writes and to assess the adequacy of the Company’s pricing. The net loss
+and settlement expense ratio is meaningful in evaluating the Company’s financial results, which are net of ceded reinsurance, as
+reﬂected in the consolidated financial statements. The loss and settlement expense ratios are generally calculated in the same
+way for GAAP and statutory accounting purposes.
+Acquisition Expense Ratio. The acquisition expense ratio is the ratio (expressed as a percentage) of net acquisition and
+other expenses incurred to premiums earned, and measures a company’s operational eﬂiciency in producing, underwriting and
+administering its insurance business. For statutory accounting purposes, acquisition and other expenses of an insurance
+company exclude investment expenses. There is no such industry definition for determining an acquisition expense ratio for
+GAAP purposes. As a result, management applies the statutory definition to calculate the Company’s acquisition expense ratio
+on a GAAP basis. The net acquisition expense ratio is meaningful in evaluating the Company’s ﬁnancial results, which are net
+of ceded reinsurance, as reﬂected in the consolidated financial statements.
+GAAP Combined Ratio. The combined ratio (expressed as a percentage) is the sum of the loss and settlement expense
+ratio and the acquisition expense ratio, and measures a company’s overall underwriting profit/loss. If the combined ratio is at
+or above 100, an insurance company cannot be profitable without investment income (and may not be profitable if investment
+income is insufficient). Management uses the GAAP combined ratio in evaluating the Company’s overall underwriting
+profitability and as a measure for comparison of the Company’s profitability relative to the profitability of its competitors who
+prepare GAAP-basis financial statements.
+5 9

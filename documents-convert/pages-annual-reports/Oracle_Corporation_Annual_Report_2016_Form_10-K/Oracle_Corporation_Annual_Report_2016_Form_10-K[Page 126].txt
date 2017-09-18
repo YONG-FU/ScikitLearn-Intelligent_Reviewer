@@ -1,0 +1,41 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Stock-based compensation was included in the following operating expense line items in our consolidated statements of operations:
+Year Ended May j,
+(in millions) 2016 2015 2014
+[Sales and marketing s 220 s 180 s 165)
+Cloud software as a service and platform as a service 17 10 8
+Cloud infrastructure as a service 4 5 4 \
+Software license updates and product support 23 21 22
+Hardware products 7 6 5 \
+Hardware support 5 6 6
+:Services 29 3O 29 ‘
+Research and development 609 522 385
+:General and administrative 120 148 171 \
+Acquisition related and other 3 5 10
+I Total stock-based compensation $ 1,037 $ 933 $ 805]
+Estimated income tax benefit included in provision for income taxes (322) (294) (260)
+I Total stock-based compensation, net of estimated income tax benefit 715: 63 9: 5451
+IaxBenefits,from,Exercis,e,ofStock,Op,tions,andXe sting,ofRestricte,d,Sto,ck:Base,d,Awards
+Total cash received as a result of option exercises was approximately $1.3 billion, $1.7 billion and $2.0 billion for fisca12016, 2015 and 2014, respectively. The
+aggregate intrinsic value of vesting of restricted stock-based awards and options exercised was $1.0 billion, $1.3 billion and $1.5 billion for ﬁscal 2016, 2015 and
+2014, respectively. In connection with the vesting of restricted stock-based awards and stock option exercises, the tax benefits realized by us were $311 million,
+$396 million and $480 million for fiscal 2016, 2015 and 2014, respectively. Of the total tax benefits received, we classified excess tax benefits from stock-based
+compensation of $124 million, $244 million and $250 million as cash ﬂows from financing activities rather than cash ﬂows from operating activities for fiscal
+2016, 2015 and 2014, respectively.
+Employee Stock Purchase Plan
+We have an Employee Stock Purchase Plan (Purchase Plan) that allows employees to purchase shares of common stock at a price per share that is 95% of the fair
+market value of Oracle stock as of the end of the semi-annual option period. As of May 31, 2016, 54 million shares were reserved for future issuances under the
+Purchase Plan. We issued 3 million shares under the Purchase Plan in each of fiscal 2016, 2015 and 2014.
+Deﬁned Contribution and Other Postretirement Plans
+We offer various defined contribution plans for our US. and non-US. employees. Total deﬁned contribution plan expense was $387 million, $362 million and
+$357 million for fiscal 2016, 2015 and 2014, respectively. The number of plan participants in our benefit plans has generally increased in recent years as we have
+hired additional employees and assumed eligible employees from our acquisitions.
+In the United States, regular employees can participate in the Oracle Corporation 401(k) Savings and Investment Plan (Oracle 401(k) Plan). Participants can
+generally contribute up to 40% of their eligible compensation on a per-pay-period basis as defined by the Oracle 401(k) Plan document or by the section 402(g)
+limit as defined by the US. Internal Revenue Service (IRS). We match a portion of employee contributions, currently 50% up to 6% of compensation each pay
+period, subject to maximum aggregate matching amounts. Our contributions to the Oracle 401(k) Plan, net of forfeitures, were $153 million, $144 million and $134
+million in fiscal 2016, 2015 and 2014, respectively.
+124

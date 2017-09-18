@@ -1,0 +1,46 @@
+Iable,of,Contents
+The accumulated benefit obligation, which represents beneﬁts earned to the measurement date, was $1,540 million at December 31, 2016 and
+$1,463 million at December 31, 2015 for the U.S. pension plans. The accumulated beneﬁt obligation for the non-U.S. pension plans was
+$9,531 million at December 31, 2016 and $9,267 million at December 31, 2015.
+For salaried and non-union hourly employees hired after January 1, 2009, we discontinued beneﬁts under our U.S. pension plans and replaced them
+with an enhanced Company contribution to our employee deﬁned contribution plan. Effective December 31, 2019, beneﬁt accruals will cease under
+the U.S. non-union pension plan. For non-union employees participating in that plan on December 31, 2019, we will calculate the pension beneﬁt
+obligation based on pay and service as of that date and no longer accrue new beneﬁts.
+The combined U.S. and non-U.S. pension plans resulted in a net pension liability of $1,882 million at December 31, 2016 and $2,145 million at
+December 31, 2015. We recognized these amounts in our consolidated balance sheets as follows:
+As of December 31,
+2016 2015
+(in millions)
+Prepaid pension assets $ 159 $ 69 l
+Other accrued liabilities (2_7) (3_1)
+Accrued pension costs (2,014) (2,183)]
+§ (1.882,) § (2.145,)
+Certain of our U.S. and non-U.S. plans are underfunded and have accumulated beneﬁt obligations in excess of plan assets. For these plans, the
+projected beneﬁt obligations, accumulated beneﬁt obligations and the fair value of plan assets were:
+U.S. Plans Non-U.S. Plans
+As of December 31, As of December 31,
+2016 2015 2016 2015
+(in millions)
+Projected beneﬁt obligation $ 96 $ 1,566 $ 8,386 $ 8,139 l
+Accumulated beneﬁt obligation 88 1,463 8,168 7,920
+,Fair value of plan assets 2 1,247 6,451 6,252 I
+We used the following weighted-average assumptions to determine our beneﬁt obligations under the pension plans:
+U.S. Plans Non-U.S. Plans
+As of December 31, As of December 31,
+2016 2015 2016 2015
+:Discount rate 4.19% 4.50% 2.31% 3.11% l
+gpected rate of return on plan assets 6.25% 6.75% 5.14% 5.87%
+Rate of compensation increase 4.00% 4.00% 3.29% 3.18% l
+Year-end discount rates for our U.S., Canadian, Eurozone and UK. plans were developed from a model portfolio of high quality, ﬁxed-income debt
+instruments with durations that match the expected future cash ﬂows of the beneﬁt obligations. Year-end discount rates for our remaining non-U.S.
+plans were developed from local bond indices that match local benefit obligations as closely as possible. Changes in our discount rates were
+primarily the result of changes in bond yields year-over-year. We determine our expected rate of return on plan assets from the plan assets’ historical
+long-term investment performance, current asset allocation and estimates of future long-term returns by asset class.
+At the end of 2015, we changed the approach used to measure service and interest costs for pension beneﬁts. For 2015, we measured service and
+interest costs utilizing a single weighted-average discount rate derived from the yield curve used to measure the plan obligations. For 2016, we
+measured service and interest costs by applying the speciﬁc spot rates along that yield curve to the plans’ liability cash ﬂows. We believe the new
+approach provided a more precise measurement of service and interest costs by aligning the timing of the plans’ liability cash ﬂows to the
+corresponding spot rates on the yield curve. The impact of this change was a decrease in net periodic pension cost of approximately $64 million for
+the year ended December 31, 2016. This change did not affect the measurement of our plan obligations. We accounted for this change as a change
+in accounting estimate and, accordingly, accounted for it on a prospective basis.
+94

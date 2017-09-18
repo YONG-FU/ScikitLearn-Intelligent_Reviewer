@@ -1,0 +1,47 @@
+Revenue
+For the year ended February 29, 2016, total revenue increased 14.7%, or $262.7 million, to $2.05 billion
+from $1.79 billion for the year ended February 28, 2015. Excluding the impact of foreign currency exchange rate
+ﬂuctuations, total revenue increased by 21.4% for the fiscal year ended February 29, 2016, as detailed in the
+following table.
+The growth rates of subscription revenue by offering type, training and services revenue and total revenue,
+as reported and excluding the impact of foreign currency exchange rate ﬂuctuations, for the fiscal year ended
+February 29, 2016 versus the fiscal year ended February 28, 2015 are as follows (in thousands):
+: Fiscal Year Ended :
+Year-Over-
+February 29, February 28, Year Growth
+: 2016 : : 2015 : : Rate :
+Infrastructure-related subscription revenue, as reported . . . . . . . . . . . . . . . $1,480,463 $1,324,693 11.8%
+Adjustment for foreign currency exchange rates . . . . . . . . . . . . . . . . . . . . . 80,616 —
+Infrastructure-related subscription revenue, excluding foreign currency
+impact 1,561,079 1,324,693 17.8%
+Application development-related and other emerging technology
+subscription revenue, as reported . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322,986 236,541 36.5%
+Adjustment for foreign currency exchange rates . . . . . . . . . . . . . . . . . . . . . 21,714 —
+Application development-related and other emerging technology
+subscription revenue, excluding foreign currency impact . . . . . . . . . . . . 344,700 236,541 45.7%
+Total subscription revenue, as reported . . . . . . . . . . . . . . . . . . . . . . . . . . .. 1,803,449 1,561,234 15.5%
+Adjustment for foreign currency exchange rates . . . . . . . . . . . . . . . . . . . . . 102,330 —
+Total subscription revenue, excluding foreign currency impact . . . . . . . . . 1,905,779 1,561,234 22.1%
+Total training and services revenue, as reported . . . . . . . . . . . . . . . . . . . . . 248,781 228,255 9.0%
+Adjustment for foreign currency exchange rates . . . . . . . . . . . . . . . . . . . . . 18,460 —
+Total training and services revenue, excluding foreign currency impact . . . 267,241 228,255 17.1%
+Total subscription and training and services revenue, as reported . . . . . . . . 2,052,230 1,789,489 14.7%
+Adjustment for foreign currency exchange rates . . . . . . . . . . . . . . . . . . . . . 120,790 —
+Total subscription and training and services revenue, excluding foreign
+currencyimpact $2,173,020 $1,789,489 21.4%
+Revenue from our non-U.S. operations has been translated into U.S. dollars using the average foreign
+currency exchange rates for each month of the twelve months ended February 29, 2016. In an effort to
+provide a comparable framework for assessing how our business performed when compared to the fiscal
+year ended February 28, 2015 in light of the effect of exchange rate differences, we believe it is helpful to
+exclude the impact of foreign currency exchange rate ﬂuctuations by translating revenue from our non-U.S.
+operations for the fiscal year ended February 29, 2016 using the average foreign currency exchanges rates
+for the twelve months ended February 28, 2015.
+Subscription revenue
+Our enterprise technologies are delivered primarily under subscription agreements. These agreements
+typically have a one- or three-year subscription period. A subscription generally entitles a customer to, among
+other things, a specified level of support, as well as security updates, fixes, functionality enhancements, upgrades
+to the technologies, each if and when available, and compatibility with an ecosystem of certified hardware and
+software. Subscription revenue increased sequentially for each quarter of fiscal 2016, fiscal 2015 and fiscal 2014
+and was driven primarily by the increased use of our offerings by customers and our expansion of sales channels
+and geographic footprint during these periods.
+47

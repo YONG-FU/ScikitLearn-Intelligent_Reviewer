@@ -1,0 +1,44 @@
+“ Applicable Commitment Fee Rate ” means, for any date, a percentage per annum equal to the percentage set forth below determined by reference to
+the higher of (i) the rating of Mondeléz’s long-term senior unsecured Debt from Standard & Poor’s (or, if there shall be no outstanding rated long-term senior
+unsecured Debt of Mondeléz, the long-term company, issuer or similar rating established by Standard & Poor’s for Mondeléz) and (ii) the rating of Mondeléz’s
+long-term senior unsecured Debt from Moody’s (or, if there shall be no outstanding rated long-term senior unsecured Debt of Mondeléz, the long-term company,
+issuer or similar rating established by Moody’s for Mondeléz), in each case on such date:
+Applicable Commitment
+Rating Fee Rate
+'A or higher by Standard & Poor’s
+{M or higher by Moody’s 0.070%]
+A- by Standard & Poor’s
+A3 by Moody’s 0.080%
+BBB+ by Standard & Poor’s
+Baal by Moody’s 0.095%
+BBB by Standard & Poor’s
+Baa2 by Moody’s 0.110%
+Lower than BBB by Standard & Poor’s
+Lower than Baa2 by Moody’s 0.125% I
+provided that if on any date of determination (x) a rating is available on such date from only one of Standard & Poor’s and Moody’s but not the other, the
+Applicable Commitment Fee Rate shall be determined by reference to the then available rating; (y) no rating is available from either of Standard & Poor’s or
+Moody’s, the Applicable Commitment Fee Rate shall be determined by reference to the rating of any other nationally recognized statistical rating organization
+designated by Mondeléz and approved in writing by the Required Lenders and (z) no rating is available from any of Standard & Poor’s, Moody’s or any other
+nationally recognized statistical rating organization designated by Mondeléz and approved in writing by the Required Lenders, the Applicable Commitment Fee
+Rate shall be 0.095%.
+“ Applicable Interest Rate Margipn” means (a)(i) as to any Three-Year Loan that is a Base Rate Loan, 0.000% and (ii) as to any F ive-Year Loan that is
+a Base Rate Loan, the applicable rate per annum set forth below under the caption “F ive-Year Base Rate Spread” and (b) (i) as to any Three-Year Loan that is a
+LIBO Rate Loan, the applicable rate per annum set forth below under the caption “Three-Year LIBO Rate Spread”, and (ii) as to any F ive-Year Loan that is a LIBO
+Rate Loan, the applicable rate per annum set forth below under the caption “F ive-Year LIBO Rate Spread”, in each case, with respect to clauses (b)(i) and (b)(ii),
+determined by reference to the higher of (i) the rating of Mondeléz’s long-term senior unsecured Debt from Standard & Poor’s (or, if there shall be no outstanding
+rated long-term senior unsecured Debt of Mondeléz, the long-term company, issuer or similar rating established by Standard & Poor’s for Mondeléz) and (ii) the
+rating of Mondeléz’s long-term senior unsecured Debt from Moody’s (or, if there shall be no outstanding rated long-term senior unsecured Debt of Mondeléz, the
+long-term company, issuer or similar rating established by Moody’s for Mondeléz), in each case on such date:
+Five-Year Base Rate Three-Year LIBO Five-Year LIBO Rate
+Rating Spread Rate Spread Spread
+'A or higher by Standard & Poor’s
+142 or higher by Moody’s 0.000% 0.600% 0.6509]
+A- by Standard & Poor’s
+A3 by Moody’s 0.000% 0.675% 0.750%
+1333+ by Standard & Poor’s l
+Baal by Moody’s 0.000% 0.750% 0.850%
+BBB by Standard & Poor’s
+Baa2 by Moody’s 0.000% 0.825% 0.950%
+Lower than BBB by Standard & Poor’s l
+Lower than Baa2 by Moody’s 0.050% 0.900% 1.050%
+-2-

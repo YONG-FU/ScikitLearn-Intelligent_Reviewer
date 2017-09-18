@@ -1,0 +1,39 @@
+Table of Contents
+T ypekit
+Adobe Typekit brings thousands of fonts from foundry partners into one library for quick browsing, easy use on the web
+or on the user’s desktop, and endless typographic inspiration. Our full library of thousands of commercially-licensed fonts is
+included in most paid Creative Cloud subscriptions, while a more limited selection is available free of charge to anyone with an
+Adobe ID. In addition, customers may subscribe to the standalone Typekit font service, or license individual fonts in the Adobe
+Typekit Marketplace at prices set by foundry partners.
+Behance
+Behance is the leading social community to showcase and discover creative work online. Adobe Portfolio allows users to
+quickly and simply build a fully customizable and hosted website that seamlessly syncs with Behance.
+Adobe Spark
+Adobe Spark is our new integrated web and mobile software for creating and sharing impactful visual stories. Designed
+for everyday communication, Spark empowers users to create stunning visual content that engages audiences across multiple
+channels and on any device. The Adobe Spark web app seamlessly syncs with Spark Post, Spark Page (formerly Adobe Slate) and
+Spark Video (formerly Adobe Voice) iOS mobile apps, allowing users to create, edit and share their story from any location
+regardless of their design experience. Adobe Spark is currently offered free of charge to attract new users and Adobe ID accounts.
+Acrobat and Adobe Document Cloud
+Adobe Document Cloud is a complete portfolio of secure digital document solutions that speed business transactions through
+digital workﬂows. With Adobe Document Cloud, users can create, review, approve, sign and track documents, whether on a desktop
+or mobile device.
+At the heart of Adobe Document Cloud is Adobe Acrobat DC, the industry standard for PDF creation and conversion.
+Acrobat enables users to create secure, reliable and compact Adobe PDF documents from desktop authoring applications such as
+Microsoft Office software, graphics applications and more. Use of Acrobat enables automated collaborative workﬂows with a rich
+set of commenting tools and review tracking features and includes everything needed to create and distribute rich, secure electronic
+documents that can be viewed easily within leading web browsers or on computer desktops via the free Adobe Acrobat Reader
+DC.
+Acrobat is available to both Creative Cloud and Document Cloud subscribers. Customers can also license Acrobat Pro or
+Acrobat Standard (which has a subset of Acrobat Pro features) as individual point products, either as a cloud-enabled subscription
+or in the form of desktop software. Acrobat is also available as a free mobile app that allows users to view, annotate, and scan
+documents. Acrobat Reader is our free software for reliable viewing, searching, reviewing and printing of Adobe PDF documents
+on a variety of hardware and operating system platforms. Users of both Acrobat and Acrobat Reader can also access, edit and save
+changes to their PDF files stored on the Dropbox website or mobile app.
+Our Adobe Sign e-signature services, which can be purchased as part of Document Cloud, allow users to securely
+electronically send and sign any document from any device. Adobe Sign has a mobile app companion allowing users to e-sign
+documents and forms, send them for signature, track responses in real-time, and obtain instant signatures with in—person signing.
+Adobe Sign integrates with users’ enterprise systems through a comprehensive set of applicable programming interfaces, and
+Adobe Experience Manager Forms and Advanced Workﬂows for Adobe Sign to create forms and provide seamless experiences
+to customers across web and mobile sites.
+10

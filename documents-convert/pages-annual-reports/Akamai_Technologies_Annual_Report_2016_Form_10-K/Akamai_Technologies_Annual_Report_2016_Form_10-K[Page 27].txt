@@ -1,0 +1,31 @@
+Item 6. Selected Financial Data
+The following selected consolidated financial data should be read in conjunction with our consolidated financial statements
+and related notes, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and other
+financial data included elsewhere in this annual report on Form 10—K. The consolidated statements of income and balance sheet
+data for all periods presented is derived from the audited consolidated financial statements included elsewhere in this annual
+report on Form 10-K or in prior year annual reports on Form 10-K on file with the Commission.
+The following table sets forth selected financial data for the last five fiscal years (in thousands, except per share data):
+Year ended December 31, 2016 2015 2014 2013 2012
+Revenue $ 2,340,049 $ 2,197,448 $ 1,963,874 $ 1,577,922 $ 1,373,947
+Total costs and operating expenses 1,880,455 1,731,298 1,474,355 1,163,954 1,059,460 I
+I Income from operations 459,594 466,150 489,519 413,968 314,487 I
+Net income 316,132 321,406 333,948 293,487 203,989 '
+'Basic net income per share 1.81 1.80 1.87 1.65 1.15 I
+Diluted net income per share 1.79 1.78 1.84 1.61 1.12 I
+Cash, cash equivalents and marketable I
+securities 1,616,329 1,524,235 1,628,284 1,246,922 1,095,240
+Total assets 4,373,146 4,181,684 4,001,546 2,957,685 2,600,627 I
+Convertible senior notes 640,087 624,288 604,851 ; ; I
+Other long-term liabilities 134,101 110,319 117,349 65,088 51,929 '
+Total stockholders’ equity 3,224,370 3,120,878 2,945,335 2,629,431 2,345,754 '
+The following items impact the comparability of the consolidated financial data presented above:
+- During the years presented in the table above, various acquisitions occurred, the results of which are presented
+prospectively from the date of acquisition. See Note 8 to our consolidated financial statements included elsewhere in
+this annual report on Form 10—K for more details regarding these acquisitions.
+- Effective January 1, 2013, we increased the expected average useful lives of our network assets, primarily servers,
+from three to four years to reﬂect software and hardware related initiatives to manage our global network more
+efficiently. For the years ended December 31, 2016, 2015, 2014 and 2013, this change decreased depreciation expense
+on network assets as compared to the year ended December 31, 2012. The change increased net income and both basic
+and diluted net income per share for the years ended December 31, 2016, 2015, 2014 and 2013 as compared to the
+year ended December 31, 2012.
+25

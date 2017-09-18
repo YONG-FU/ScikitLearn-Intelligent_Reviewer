@@ -1,0 +1,39 @@
+Table of Contents
+December 31, 2014 Less Than 12 Months 12 Months or More Total
+Gross Gross Gross
+Unrealized Fair Unrealized Unrealized
+Fair Value _ Losses _ Value _ Losses _ Fair Value _ Losses
+lCorporate bonds and notes $ 240,165 $ (535) $ 5,453 $ (3) $ 245,618 $ (538) 1
+Municipal bonds and notes 1,061 (1) — — 1,061 (1)
+lCommercial paper 9,482 (1) — — 9,482 (1) 1
+Treasury and agency notes and bills 16,245 (13) — — 16,245 (13)
+1 Total $ 266,953 $ (550) $ 5,453 $ (3) $ 272,406 $ (553) l
+The estimated fair value of marketable securities by contractual maturity at December 31, 2015 is shown below (in thousands). Actual maturities may differ from
+contractual maturities because issuers may have the right to call or prepay obligations without call or prepayment penalties.
+Estimated
+Fair Value
+lDue in one year or less 33 153,396 l
+Due in one to two years 119,693
+lDue in two to three years 86,771 l
+Total $ 359,860
+NOTE 6 — DISCONTINUED OPERATIONS
+The following are included in the Company's discontinued operations:
+0 In 2013, the Company continued to restructure its DigitalOptics business through the sale of its Micro-Optics business based in Charlotte, North Carolina.
+Originally purchased in 2006, this business focused on diffractive optical elements, refractive optical elements, and integrated micro-Optic sub-assemblies.
+The Company determined these offerings were no longer part of its long-term strategy for the DigitalOptics business. As a result, on August 9, 2013, the
+Company sold all of the related assets of the Micro-Optics business, except the land and building, to a buyer in exchange for $14.9 million in cash which
+resulted in a disposal gain of $8.7 million , and is included in the net loss from discontinued operations. The land and building assets were classiﬁed as
+assets held for sale until they were sold in August 2014.
+0 In 2014, the Company announced a restructuring of its DigitalOptics segment to cease all remaining manufacturing operations resulting in the impairment
+charges related to the Company's long-lived assets. For the year ended December 31, 2013, the Company incurred cumulative charges, which include
+continuing and discontinued operations in total, of $5.9 million in severance and $70.9 million in impairment of long-lived assets and other charges.
+0 In 2014, the Company announced the cessation of all memslcam manufacturing operations. As part of these efforts, the Company is no longer operating
+facilities in Arcadia, California, Rochester, New York, Hsinchu, Taiwan and Japan. As a result of these actions, certain assets were impaired or were
+written off entirely and restructuring and other charges were taken in 2013. All material assets of these operations were sold or licensed to a third party in
+December 2014 generating a gain of $7.6 million which is included in discontinued operations.
+For more information regarding these actions, see Note 9 - " Goodwill and Identiﬁed Intangible Assets " and Note 16 - "Restructuring, Impairment ofLong-Lived
+Assets and Other Charges and Gain on Sale of Patents. "
+The businesses discussed above are considered discontinued operations, and accordingly, the Company has reported the results of operations and financial position
+of these businesses in discontinued operations within all statements of operations presented and the current balance sheet.
+The results from discontinued operations were as follows (in thousands):
+F - 14

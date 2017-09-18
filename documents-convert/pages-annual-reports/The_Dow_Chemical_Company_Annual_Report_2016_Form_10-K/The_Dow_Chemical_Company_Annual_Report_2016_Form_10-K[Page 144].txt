@@ -1,0 +1,51 @@
+The Company holds a variable interest in a joint venture that manufactures crude acrylic acid in the United States and Germany
+on behalf of the Company and the other joint venture partner. The variable interest relates to a cost-plus arrangement between
+the joint venture and each joint venture partner. The Company is not the primary beneficiary, as a majority of the joint venture’s
+output is committed to the other joint venture partner; therefore, the entity is accounted for under the equity method of
+accounting. At December 31, 2016, the Company’s investment in the joint venture was $171 million ($160 million at
+December 31, 2015), classified as “Investment in nonconsolidated affiliates” in the consolidated balance sheets, representing
+the Company’s maximum exposure to loss.
+The Company holds variable interests in AFSI, a company that produces and sells proprietary technologies for the horticultural
+market. The variable interests in AF SI relate to a sublease agreement between Dow and AFSI; a tax receivable agreement that
+entitles Dow to additional consideration in the form of tax savings, which is contingent on the operations and earnings of AF SI;
+and contingent consideration, which is subject to certain performance conditions. The Company is not the primary beneficiary,
+as Dow is a minority shareholder in AFSI and AFSI is governed by a board of directors, the composition of which is mandated
+by AF SI's corporate governance requirements that a majority of the directors be independent. At December 31, 2016, the
+Company's investment in AFSI was $46 million ($191 million at December 31, 2015), and is classified as "Investment in
+nonconsolidated affiliates" in the consolidated balance sheets. In the fourth quarter of 20 16, as a result of a decline in the
+market value of AFSI, the Company recognized a $143 million pretax impairment charge related to its equity interest in AF SI
+(see Notes 9 and 12 for further information). In addition, the Company has a receivable with AFSI related to the tax receivable
+agreement of $ 12 million at December 31, 2016 (zero at December 31, 2015) and a receivable for six million warrants, valued
+at $1 million at December 31, 2016 ($6 million at December 31, 2015), which are classified as "Accounts and notes receivable
+- Other" in the consolidated balance sheets. The Company's maximum exposure to loss was $59 million at December 31, 2016
+($197 million at December 31, 2015).
+NOTE 21 — STOCK-BASED COMPENSATION
+The Company provides stock-based compensation in the form of the Employee Stock Purchase Plan (“ESPP”), which grants
+eligible employees the right to purchase shares of the Company's common stock at a discounted price. The Company also
+grants stock-based compensation to employees and non-employee directors in the form of stock incentive plans, which include
+stock options, deferred stock, performance deferred stock and restricted stock. Information regarding these plans is provided
+below.
+Accounting for Stock-Based Compensation
+The Company grants stock-based compensation awards that vest over a specified period or upon employees meeting certain
+performance and/or retirement eligibility criteria. The fair value of equity instruments issued to employees is measured on the
+grant date. The fair value of liability instruments issued to employees (specifically, performance deferred stock awards, which
+are granted to executive employees subject to stock ownership requirements, that provide the recipient the option to elect to
+receive a cash payment equal to the value of the stock award on the date of delivery) is measured at the end of each quarter. The
+fair value of equity and liability instruments is expensed over the vesting period or, in the case of retirement, from the grant
+date to the date on which retirement eligibility provisions have been met and additional service is no longer required.
+The Company uses a lattice-based option valuation model to estimate the fair value of stock options, the Black-Scholes option
+valuation model for subscriptions to purchase shares under the ESPP and Monte Carlo simulation for the market portion of
+performance deferred stock awards. The weighted-average assumptions used to calculate total stock-based compensation are
+included in the following table:
+iWeighted-Average Assumptions 2016 2015 2014 7
+[Dividend yield 4.13% 3.54% 3.08%}
+Expected volatility 31.60% 27.84% 28.1 1%
+|Risk-free interest rate 1.12% 1.02% 1.11%]
+Expected life of stock options granted during_period (years) 7.8 7.7 7.7
+[Life of Employee Stock Purchase Plan (months) 4 6 6
+The dividend yield assumption for 2016 and 2015 was equal to the dividend yield on the grant date, which reﬂected the most
+recent quarterly dividend payment of $0.46 per share in 2016 ($0.42 per share in 2015). The dividend yield assumption for
+2014 was equal to the dividend yield on the grant date, which for stock options was the most recent quarterly dividend declared
+on the grant date of $0.37 per share and for the ESPP was the first quarter dividend payment of $0.32 per share. The expected
+volatility assumptions for stock options and ESPP were based on an equal weighting of the historical daily volatility for the
+136

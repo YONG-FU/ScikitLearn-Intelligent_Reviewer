@@ -1,0 +1,44 @@
+Table of Contents
+settlement. The Company recognizes interest and penalties related to uncertain tax positions in income tax expense. See Note 9 to the consolidated financial
+statements for further information regarding income taxes.
+Foreign Currency
+The functional currency for the Company's subsidiaries is determined based on the primary economic environment in which the subsidiary operates. The
+Company translates the assets and liabilities of its non-US. dollar functional currency subsidiaries into US. dollars using exchange rates in effect at the end of
+each period. Revenues and expenses for these subsidiaries are translated using rates that approximate those in effect during the period. Gains and losses from these
+translations are recognized in cumulative translation adjustment included in "Accumulated other comprehensive loss" in Stockholders’ equity on the Consolidated
+Balance Sheets.
+Prior to January 1, 2015, the functional currency of certain of the Company's European entities was the British pound. The Company changed the functional
+currency of these entities to the euro effective January 1, 2015 following the redomiciliation of the European headquarters and the launch of the Netﬂix service in
+several signiﬁcant European countries. The change in functional currency was applied prospectively from January 1, 2015. Monetary assets and liabilities have
+been remeasured to the euro at current exchange rates. Non-monetary assets and liabilities have been remeasured to the euro using the exchange rate effective for
+the period in which the balance arose. As a result of this change of functional currency, the Company recorded a $21.8 million cumulative translation adjustment
+included in other comprehensive loss for year ended December 31, 2015.
+The Company remeasures monetary assets and liabilities that are not denominated in the functional currency at exchange rates in effect at the end of each
+period. Gains and losses from these remeasurements are recognized in interest and other income (expense). Foreign currency transactions resulted in a gain of
+$22.8 million for the year ended December 31, 2016 and losses of $37.3 million and $8.2 million for the years ended December 31, 2015 and 2014 respectively.
+Earnings Per Share
+In June 2015, the Company's Board of Directors declared a seven -for-one stock split in the form of a stock dividend that was paid on July 14, 2015 to all
+shareholders of record as of July 2, 2015 ("Stock Split").
+Outstanding share and per-share amounts disclosed for all periods provided have been retroactively adjusted to reﬂect the effects of the Stock Split.
+Basic earnings per share is computed using the weighted-average number of outstanding shares of common stock during the period. Diluted earnings per
+share is computed using the weighted-average number of outstanding shares of common stock and, when dilutive, potential common shares outstanding during the
+period. Potential common shares consist of incremental shares issuable upon the assumed exercise of stock options. The computation of earnings per share is as
+follows:
+Year ended December 31,
+2016 2015 2014
+(in thousands, excepi per share data)
+IBasic earnings per share: I
+Net income $ 186,678 $ 122,641 $ 266,799
+I Shares used in computation: I
+Weighted-average common shares outstanding 428,822 425,889 420,544
+I Basic earnings per share $ 0.44 $ 0.29 $ 0.63 I
+Diluted earnings per share: 7 7 7 7 7 7
+I Net income 3% 186,678 $ 122,641 $ 266,799 I
+Shares used in computation:
+I Weighted-average common shares outstanding 428,822 425,889 420,544 I
+Employee stock options 9,830 10,567 11,350
+I Weighted-average number of shares 438,652 436,456 431,894 I
+Diluted earnings per share $ 0.43 $ 0.28 $ 0.62
+Employee stock options with exercise prices greater than the average market price of the common stock were excluded from the diluted calculation as their
+inclusion would have been anti-dilutive. The following table summarizes the potential common shares excluded from the diluted calculation:
+48

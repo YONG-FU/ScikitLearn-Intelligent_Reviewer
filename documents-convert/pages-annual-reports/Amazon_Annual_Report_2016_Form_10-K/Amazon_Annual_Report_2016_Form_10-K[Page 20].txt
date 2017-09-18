@@ -1,0 +1,47 @@
+Table of Contents
+Critical Accounting Judgments
+The preparation of ﬁnancial statements in conformity with generally accepted accounting principles of the United States (“GAAP”) requires estimates
+and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities in
+the consolidated ﬁnancial statements and accompanying notes. The SEC has deﬁned a company’s critical accounting policies as the ones that are most
+important to the portrayal of the company’s ﬁnancial condition and results of operations, and which require the company to make its most difficult and
+subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. Based on this deﬁnition, we have identiﬁed the
+critical accounting policies and judgments addressed below. We also have other key accounting policies, which involve the use of estimates, judgments, and
+assumptions that are signiﬁcant to understanding our results. For additional information, see Item 8 of Part II, “Financial Statements and Supplementary Data
+—Note 1—Description of Business and Accounting Policies.” Although we believe that our estimates, assumptions, and judgments are reasonable, they are
+based upon information presently available. Actual results may differ signiﬁcantly from these estimates under different assumptions, judgments, or
+conditions.
+Inventories
+Inventories, consisting of products available for sale, are primarily accounted for using the ﬁrst-in ﬁrst-out method, and are valued at the lower of cost
+or market value. This valuation requires us to make judgments, based on currently available information, about the likely method of disposition, such as
+through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable values of each disposition category. These
+assumptions about ﬁlture disposition of inventory are inherently uncertain and changes in our estimates and assumptions may cause us to realize material
+write-downs in the future. As a measure of sensitivity, for every 1% of additional inventory valuation allowance as of December 31, 2016, we would have
+recorded an additional cost of sales of approximately $130 million.
+In addition, we enter into supplier commitments for certain electronic device components. These commitments are based on forecasted customer
+demand. If we reduce these commitments, we may incur additional costs.
+Income Taxes
+We are subject to income taxes in the US. (federal and state) and numerous foreign jurisdictions. Tax laws, regulations, and administrative practices in
+various jurisdictions may be subject to signiﬁcant change, with or Without notice, due to economic, political, and other conditions, and signiﬁcant judgment
+is required in evaluating and estimating our provision and accruals for these taxes. There are many transactions that occur during the ordinary course of
+business for which the ultimate tax determination is uncertain. Our effective tax rates could be affected by earnings being lower than anticipated in
+jurisdictions where we have lower statutory rates and higher than anticipated in jurisdictions where we have higher statutory rates, losses incurred in
+jurisdictions for which we are not able to realize the related tax beneﬁt, changes in foreign currency exchange rates, entry into new businesses and
+geographies and changes to our existing businesses, acquisitions (including integrations) and investments, changes in our stock price, changes in our
+deferred tax assets and liabilities and their valuation, and changes in the relevant tax, accounting, and other laws, regulations, administrative practices,
+principles, and interpretations, including fundamental changes to the tax laws applicable to corporate multinationals. The US, the European Union and its
+member states, and a number of other countries are actively pursuing changes in this regard.
+Except as required under US. tax laws, we do not provide for US. taxes on our undistributed earnings of foreign subsidiaries that have not been
+previously taxed since we intend to invest such undistributed earnings indeﬁnitely outside of the US. If our intent changes or if these ﬁlnds are needed for
+our US. operations, we would be required to accrue or pay U.S. taxes on some or all of these undistributed earnings and our effective tax rate would be
+adversely aﬁ‘ected. We are also currently subject to audit in various jurisdictions, and these jurisdictions may assess additional income tax liabilities against
+us. Developments in an audit, litigation, or the relevant laws, regulations, administrative practices, principles, and interpretations could have a material effect
+on our operating results or cash ﬂows in the period or periods for which that development occurs, as well as for prior and subsequent periods. For instance, the
+IRS is seeking to increase our US. taxable income related to transfer pricing with our foreign subsidiaries for transactions undertaken in 2005 and 2006, and
+we are currently contesting the matter in US. Tax Court. In addition to the risk of additional tax for 2005 and 2006 transactions, if this litigation is adversely
+determined or if the IRS were to seek transfer pricing adjustments of a similar nature for transactions in subsequent years, we could be subject to signiﬁcant
+additional tax liabilities. In addition, in October 2014, the European Commission opened a formal investigation to examine whether decisions by the tax
+authorities in Luxembourg with regard to the corporate income tax paid by certain of our subsidiaries comply with European Union rules on state aid. If this
+matter is adversely resolved, Luxembourg may be required to assess, and we may be required to pay, additional amounts with respect to current and prior
+periods and our taxes in the future could increase. Although we believe our tax estimates are reasonable, the ﬁnal outcome of tax audits, investigations, and
+any related litigation could be materially different from our historical income tax provisions and accruals.
+20

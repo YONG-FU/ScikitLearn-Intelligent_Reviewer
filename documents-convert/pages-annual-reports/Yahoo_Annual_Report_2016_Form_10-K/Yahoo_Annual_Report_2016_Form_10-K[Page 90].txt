@@ -1,0 +1,27 @@
+Table,0f,C,0ntents
+Recent Accounting Pronouncements
+See Note 1—“The Company and Summary of Signiﬁcant Accounting Policies” in the Notes to our consolidated ﬁnancial statements, which is incorporated herein
+by reference.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to financial market risks, including changes in currency exchange rates and interest rates and changes in the market values of our investments.
+We may use derivative ﬁnancial instruments to mitigate certain risks in accordance with our investment and foreign exchange policies.
+We enter into master netting arrangements, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. We
+present our derivative assets and liabilities at their gross fair values on the consolidated balance sheets.
+Interest Rate Exposure
+We are exposed to various risks that relate to our marketable securities portfolio, including market and interest rate risk. While our interest rate risk relates
+primarily to the marketable debt securities in which we invest, interest rates may also impact our costs associated with foreign exchange hedging. We invest
+excess cash in money market funds, time deposits, and liquid debt instruments of the U.S. and foreign governments and their agencies, and high credit-quality
+corporate issuers which are classiﬁed as cash equivalents and/or marketable securities.
+Investments in ﬁxed rate and floating rate interest earning instruments carry a degree of interest rate risk. Fixed rate securities may have their fair market value
+adversely impacted due to a rise in interest rates, while ﬂoating rate securities may produce less income than expected if interest rates fall. Due in part to these
+factors, our future investment income may fall short of expectations due to changes in interest rates or we may suffer losses in principal if forced to sell securities
+that have declined in market value due to changes in interest rates or changes in credit quality. A hypothetical 100 basis point increase in interest rates would
+result in a $35 million and $28 million decrease in the fair value of our available-for-sale debt securities as of December 31, 2016 and 2015, respectively.
+In November 2013, we issued $1.4375 billion of the Notes. We carry the Notes at face value less unamortized discount on our consolidated balance sheets. The
+fair value of the Notes ﬂuctuates due to changes in interest rates, credit spreads, and time to maturity. There is no coupon payment associated with the Notes.
+Foreign Currency Exposure
+The objective of our foreign exchange risk management program is to identify material foreign currency exposures and identify methods to manage these
+exposures to minimize the potential effects of currency fluctuations on our reported consolidated cash flows and results of operations. All counterparties to our
+derivative contracts are major ﬁnancial institutions. See Note 9—“Foreign Currency Derivative Financial Instruments” in the Notes to our consolidated ﬁnancial
+statements for additional information on our hedging programs.
+89

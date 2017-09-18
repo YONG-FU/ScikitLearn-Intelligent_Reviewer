@@ -1,0 +1,43 @@
+The increase in total cost of revenue for 2015 as compared to 2014 was primarily due to increases in:
+- amounts paid to network providers for bandwidth fees to support the increase in traffic served on our network;
+- amounts paid for network build-out and supporting services related to the increase in server deployments and
+investments in network expansion;
+- payroll and related costs of service personnel due to more hiring in our services and network operations organizations
+to support revenue growth; and
+- depreciation of network equipment and amortization of internal-use software as we continued to invest in our
+infrastructure and release internally developed software onto our network.
+We have long-term purchase commitments for co—location services and bandwidth usage with various vendors and network
+and Internet service providers. Our minimum commitments related to bandwidth usage and co-location services may vary from
+period to period depending on the timing and length of contract renewals with our service providers. See Note 11 to our
+consolidated financial statements included elsewhere in this annual report on Form 10-K for details regarding our bandwidth
+usage and co—location services purchase commitments.
+We believe that cost of revenue will increase during 2017 as compared to 2016 primarily due to higher bandwidth expenses
+associated with increased customer traffic on our network and the costs of efforts to increase our network's capacity and
+resiliency to combat potential attacks on our platform. Additionally, during 2017, we anticipate amortization of intemal-use
+software development costs to increase as compared to 2016, along with increased payroll and related costs associated with our
+professional services personnel and related expenses. We plan to continue making investments in our network with the
+expectation that our customer base will continue to expand and that we will continue to deliver more traffic to existing
+customers.
+Research and Development Expenses
+Research and development expenses consisted of the following for the periods presented (in thousands):
+For the Years Ended December 31, For the Years Ended December 31,
+2016 2015 % Change 2015 2014 % Change
+Payroll and related costs *8 253,351 7 *8 220,198 * * 15.1% *8 220,198 ’ *8 188,509 * * 16.8%
+Stock-based compensation 29,739 23,926 24. 3 23,926 19,351 23 .6
+Capitalized salaries and related costs (122,084) (103,352) 18.1 (103,352) (91,106) 13.4
+Other expenses 6,622 7,819 (15.3) 7,819 8,532 (8.4)
+Total research and development :55 167,628 :$ 148,591 12.8%: :$ 148,591 :$ 125,286 18.6%:
+As a percentage of revenue : 7 .2 %: l 6.8%: l i l 6.8%: l 6.4 %: l i
+The increases in research and development expenses for 2016 as compared to 2015, and 2015 as compared to 2014, were
+due to increases in payroll and related costs as a result of headcount growth to support investments in new product development
+and network scaling, partially offset by increases in capitalized salaries and related costs.
+Research and development costs are expensed as incurred, other than certain internal-use software development costs
+eligible for capitalization. Capitalized development costs consist of payroll and related costs for personnel and external
+consulting expenses involved in the development of intemal-use software used to deliver our services and operate our network.
+For the years ended December 31, 2016, 2015 and 2014, we capitalized $21.4 million, $16.7 million and $13.7 million,
+respectively, of stock-based compensation. These capitalized intemal-use software development costs are amortized to cost of
+revenue over their estimated useful lives, which is generally two years.
+We believe that research and development expenses during 2017 will increase as compared to 2016, as we expect to
+continue to increase the number of development personnel, through hiring or acquisition activity, in order to make
+improvements to our core technology and support engineering innovation and the development of new services.
+3 1

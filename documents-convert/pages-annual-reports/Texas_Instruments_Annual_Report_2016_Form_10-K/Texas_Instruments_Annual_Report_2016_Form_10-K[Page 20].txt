@@ -1,0 +1,50 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results
+of Operations.
+Overview
+We design, make and sell semiconductors to electronics designers and manufacturers all over the world. Our business model is
+carefully constructed around the following attributes:
+o Industry’s broadest portfolio of differentiated analog and embedded processing semiconductors. Our customers need
+.ﬂ multiple chips for their systems. The breadth of our portfolio means we can solve more of these needs than can our
+3 competitors, which gives us access to more customers and the opportunity to generate more revenue per system. We
+3 invest more than $1 billion each year to develop new products for our portfolio.
+3 o A strong foundation of manufacturing technology and low-cost production. We invest in manufacturing technologies that
+5': differentiate the features of our semiconductors, and we do most of our own production in-house, as opposed to
+outsourcing it. This ability to directly control our manufacturing helps ensure a consistent supply of products for our
+customers. We produce billions of semiconductors each yearon a mixture of 150-, 200- and BOO-millimeter wafers, and we
+are able to keep costs low for manufacturing facilities and equipment because our Analog and much of our Embedded
+Processing semiconductors can be made using mature assets that we acquire ahead of demand when their prices are most
+attractive. In 2016, we increased factory loadings by about 15 percent for our Analog semiconductors on 300-millimeter
+wafers, which have a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. The majority of our
+Analog growth will be produced on 300-millimeter wafers, which will be meaningful to the growth of our cash flow over the
+long term.
+0 Industry’s largest market channels. Our global sales force is larger than those of our competitors. The breadth of our
+portfolio attracts an increasing number of visits to our website, where customers often begin their initial product
+searches and design-in journey. Our web presence, together with our global sales force, provides us unique access to
+about 100,000 customers.
+0 Diversity and longevity in our products and in the markets we serve. Together, the attributes above result in diverse and
+long-lived positions that deliver high terminal value to our shareholders. Because of the breadth of our portfolio, we are not
+dependent on any single product, and because of the breadth of our markets we are not dependent on any single
+application or customer. Some of our products generate revenue for decades, which strengthens the return on our
+investments.
+The combined effect of these attributes is that over time we have grown free cash flow and gained market share in Analog and
+Embedded Processing. These attributes put us in a unique class of companies with the ability to grow, generate cash, and return
+that cash to shareholders.
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with
+the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results
+of operations:
+0 All dollar amounts in the tables are stated in millions of US. dollars.
+0 When we discuss our results:
+0 Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced
+by fluctuations in shipment volumes.
+0 New products tend not to have a significant impact on our revenue in any given period because we sell such a large
+number of products.
+0 From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced
+products, which we refer to as changes in the “mix” of products shipped.
+0 Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory
+loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins
+decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other
+circumstances, our profit margins increase. Increases and decreases in factory loadings tend to correspond to increases
+and decreases in demand.
+0 Over time, we have been allocating resources from areas like manufacturing support and SG&A into R&D activities. As a
+result, R&D expense will continue increasing in 2017.
+16 TEXAS INSTRUMENTS - 2016 FORM 10-K

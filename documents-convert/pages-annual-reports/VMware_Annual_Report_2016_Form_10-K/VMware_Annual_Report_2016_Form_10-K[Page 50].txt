@@ -1,0 +1,45 @@
+Iablrebeontents
+New Accounting Pronouncements
+Topic 606, Revenue from Contracts with Customers
+During May 2014, the Financial Accounting Standards Board (“F ASB”) issued Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts
+with Customers (Topic 606). In 2016, the FASB issued ASU 2016-08, ASU 2016-10 and ASU 2016-12, which provide interpretive clariﬁcations on the new
+guidance in Topic 606 (collectively, “Topic 606”). The updated revenue standard replaces all existing revenue recognition guidance under GAAP and establishes
+common principles for recognizing revenue for all industries. It also provides guidance on the accounting for costs to fulﬁll or obtain a customer contract. The core
+principle underlying the updated standard is the recognition of revenue based on consideration expected to be entitled from the transfer of goods or services to a
+customer. The updated standard is effective for interim and annual periods beginning after December 15, 2017 and permits the use of either the full retrospective or
+cumulative effect transition method. Early adoption is permitted for annual periods beginning after December 15, 2016.
+We plan to adopt Topic 606 using the full retrospective transition method when it becomes effective for us in the first ﬁscal quarter of 2019, under our new
+ﬁscal calendar. While we are continuing to assess the potential impacts of Topic 606, we currently expect unearned license revenue related to the sale of perpetual
+licenses will decline signiﬁcantly upon adoption. Currently, we defer all license revenue related to the sale of our perpetual licenses in the event certain revenue
+recognition criteria are not met. However, under T0pic 606 we would generally expect that substantially all license revenue related to sale of our perpetual licenses
+will be recognized upon delivery. We are continuing to evaluate the effect that Topic 606 will have on our ﬁnancial statements and related disclosures, and
+preliminary assessments are subject to change.
+ASU No. 2016-02, Leases
+During February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires a lessee to recognize a lease liability for the obligation to
+make lease payments and a right-to-use asset for the right to use the underlying asset for the lease term. This updated standard also requires additional disclosure
+regarding leasing arrangements. It is effective for interim and annual periods beginning after December 15, 2018 and requires a modified retrospective adoption,
+with early adoption permitted. We are currently evaluating the effect that ASU 2016-02 will have on its consolidated financial statements and related disclosures,
+and expect that most of our lease commitments will be subject to the updated standard and recognized as lease liabilities and right-of-use assets upon adoption.
+ASUNo. 2016-09, Compensation
+During March 2016, the FASB issued ASU No. 2016-09, Compensation—Stock Compensation (Topic 718), which impacts the accounting for share-based
+payment transactions, including the income tax consequences, classiﬁcation of awards as either equity or liabilities, and classiﬁcation on the statements of cash
+ﬂows. The updated standard is effective for interim and annual periods beginning after December 15, 2016 and permits early adoption in any interim or annual
+period. We adopted the updated standard effective February 4, 2017. The updated standard is expected to cause volatility in our effective tax rates and net income
+per share due to the treatment of the tax effects on exercised or vested stock-based awards recorded to the consolidated statements of income. The volatility in
+future periods will depend on our stock price at the awards’ vest dates or exercise dates and the number of awards that vest or exercise in each period. In addition,
+all tax-related cash flows resulting from share-based payments are required to be reported as operating activities in the consolidated statement of cash ﬂows. As
+permitted under the updated standard, we will continue to estimate forfeitures at each period and did not elect an accounting policy change to record forfeitures as
+they occur.
+ASU No. 2016-16, Income Taxes
+During October 2016, the FASB issued ASU No. 2016-16, Income Taxes: Intra-Entity Transfers of Assets Other Than Inventory (Topic 740), which requires
+entities to recognize at the transaction date the income tax consequences of intra-entity asset transfers. Previous guidance requires the tax effects from intra-entity
+asset transfers to be deferred until that asset is sold to a third party or recovered through use. The updated standard is effective in annual and interim periods
+beginning after December 15, 2017, with early adoption permitted during the ﬁrst interim period of a ﬁscal year, and requires a modiﬁed retrospective transition
+method. We are currently evaluating the effect that the updated standard will have on our consolidated financial statements and related disclosures.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Foreign Exchange Risk
+We operate in foreign countries, which expose us to market risk associated with foreign currency exchange rate ﬂuctuations between the US. dollar and
+various foreign currencies, the most signiﬁcant of which is the euro.
+Although approximately 70% of our sales are denominated in the US. dollar, we also invoice and collect in the euro, the British pound, the Japanese yen, the
+Australian dollar and the Chinese renminbi in their respective regions. The US dollar is
+49

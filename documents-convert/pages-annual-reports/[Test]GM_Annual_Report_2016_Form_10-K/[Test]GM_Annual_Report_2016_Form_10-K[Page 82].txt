@@ -1,0 +1,46 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+to be indeﬁnitely reinvested. Taxes have not been provided on basis differences in investments primarily as a result of earnings in foreign subsidiaries which
+are deemed indeﬁnitely reinvested of $2.4 billion and $2.8 billion at December 31, 2016 and 2015. Additional basis differences related to investments in
+nonconsolidated China IVS exist of $4.1 billion at December 31, 2016 and 2015 as a result of fresh—start reporting. Quantiﬁcation of the deferred tax liability,
+if any, associated with indeﬁnitely reinvested basis differences is not practicable. The non-U.S. deferred income tax beneﬁt in the year ended December 31,
+2015 relates primarily to the release of valuation allowances in GME.
+Years Ended December 31,
+2016 _ 2015 _ 2014
+lIncome tax expense at US. federal statutory income tax rate $ 3,291 $ 1,933 $ 753 l
+State and local tax expense 144 115 73
+lNon-US. income taxed at other than 35% (125) (28) (72) l
+US. tax on Non-US. income (1,026) (417) (8)
+{Change in valuation allowances (103) (3,666) (402) l
+Change in tax laws 147 29 602
+Research and manufacturing incentives 177 (3 67) (279) l
+Goodwill impairment — — 41
+lSettlements of prior year tax matters (46) — (275) l
+Realization of basis differences in afﬁliates (94) — (256)
+Foreign currency remeasurement (2) 209 124 l
+Financial penalty under the DPA(a) — 3 15 —
+{Other adjustments 53 _ (20) _ (73) l
+Total income tax expense (beneﬁt) 35 2,416 $ (1,897) $ 228
+§:RTfe:rt=o Note 15 for additional information on the DPA.
+Deferred Income Tax Assets and Liabilities Deferred income tax assets and liabilities at December 31, 2016 and 2015 reﬂect the effect of temporary
+differences between amounts of assets, liabilities and equity for ﬁnancial reporting purposes and the bases of such assets, liabilities and equity as measured
+based on tax laws, as well as tax loss and tax credit carryforwards. The following table summarizes the components of temporary differences and carryforwards
+that give rise to deferred tax assets and liabilities:
+December 31, 2016 December 31, 2015
+Deferred tax assets
+lPostretirement beneﬁts other than pensions $ 2,720 $ 2,712 l
+Pension and other employee beneﬁt plans 5,701 6,502
+lWarranties, dealer and customer allowances, claims and discounts(a) 8,102 6,725 l
+Property, plants and equipment 756 1,981
+lUS. capitalized research expenditures 6,127 7,413 l
+U.S. operating loss and tax credit carryforwards(b) 8,987 8,623
+lNon-US. operating loss and tax credit carryforwards(c) 5,621 5,826 l
+Miscellaneous(a) 1,950 _ 2,086
+l Total deferred tax assets before valuation allowances 39,964 41,868 l
+Less: valuation allowances (4,644) (5,021)
+lTotal deferred tax assets 35,320 36,847 1
+Deferred tax liabilities
+lIntangible assets 732 _ 590 1
+Net deferred tax assets $ 34,588 $ 36,257
+79

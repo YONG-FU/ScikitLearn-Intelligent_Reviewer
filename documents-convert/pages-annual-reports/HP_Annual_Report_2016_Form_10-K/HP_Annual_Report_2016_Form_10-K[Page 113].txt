@@ -1,0 +1,54 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 15: Litigation and Contingencies (Continued)
+Based on industry opposition to the extension of levies to digital products, HP’s assessments of the merits of various
+proceedings and HP’s estimates of the number of units impacted and the amounts of the levies, HP has accrued amounts that it
+believes are adequate to address the ongoing disputes.
+Hewlett-Packard Company v. Oracle Corporation. On June 15, 2011, HP filed suit against Oracle Corporation
+(“Oracle”) in California Superior Court in Santa Clara County in connection with Oracle’s March 2011 announcement that it
+was discontinuing software support for HP’s Itanium-based line of mission critical servers. HP asserted, among other things,
+that Oracle’s actions breached the contract that was signed by the parties as part of the settlement of the litigation relating to
+Oracle’s hiring of Mark Hurd. The matter eventually progressed to trial, which was bifurcated into two phases. HP prevailed in
+the first phase of the trial, in which the court ruled that the contract at issue required Oracle to continue to oﬁer its software
+products on HP’s Itanium-based servers for as long as HP decided to sell such servers. The second phase of the trial was then
+postponed by Oracle’s appeal of the trial court’s denial of Oracle’s “anti-SLAPP” motion, in which Oracle argued that HP’s
+damages claim infringed on Oracle’s First Amendment rights. On August 27, 2015, the California Court of Appeals rejected
+Oracle’s appeal. The matter was remanded to the trial court for the second phase of the trial, which began on May 23, 2016 and
+was submitted to the jury on June 29, 2016. On June 30, 2016, the jury returned a verdict in favor of HP, awarding HP
+approximately $3.0 billion in damages, which included approximately$1.7 billion for past lost profits and $1.3 billion for future
+lost profits. On October 20, 2016, the court entered judgment for HP for this amount with interest accruing until the judgment is
+paid. Oracle has filed a motion for a new trial and has publicly stated that it will appeal the jury’s verdict. HP expects that any
+appeals process could take several years to complete. Litigation is unpredictable, and there can be no assurance that HP will
+recover damages, or that any award of damages will be for the amount awarded by the jury’s verdict. The amount ultimately
+awarded, if any, would be recorded in the period received. No adjustment has been recorded in the financial statements in
+relation to this potential award. Pursuant to the terms of the separation and distribution agreement, HP and Hewlett Packard
+Enterprise will share equally in any recovery from Oracle once Hewlett Packard Enterprise has been reimbursed for all costs
+incurred in the prosecution of the action prior to the Separation.
+F orsyth, et al. VS. HP Inc. and Hewlett Packard Enterprise. This is a purported class and collective action filed on
+August 18, 2016 in the United States District Court, Northern District of California, against HP and Hewlett Packard Enterprise
+alleging the defendants violated the Federal Age Discrimination in Employment Act (“ADEA”), the California Fair
+Employment and Housing Act, California public policy and the California Business and Professions Code by terminating older
+workers and replacing them with younger workers. Plaintiffs seek to certify a nationwide collective class action under the
+ADEA comprised of all US. residents employed by defendants who had their employment terminated pursuant to a workforce
+reduction (“WFR”) plan on or after May 23, 2012 and who were 40 years of age or older. Plaintiffs also seek to represent a Rule
+23 class under California law comprised of all persons 40 years or older employed by defendants in the state of California and
+terminated pursuant to a WP R plan on or after May 23, 2012. On November 14, 2016, the defendants filed a partial motion to
+dismiss and a motion to compel arbitration as to one plaintiff. On November 15, 2016, the defendants filed a motion to strike
+the class definition so as to shorten the class period.
+India Directorate of Revenue Intelligence Proceeding; On April 30 and May 10, 2010, the India Directorate of
+Revenue Intelligence (the “DRI”) issued show cause notices to Hewlett-Packard India Sales Private Limited (“HP India”), a
+subsidiary of HP, seven HP India employees and one former HP India employee alleging that HP India underpaid customs
+duties while importing products and spare parts into India and seeking to recover an aggregate of approximately $370 million,
+plus penalties. Prior to the issuance of the show cause notices, HP India deposited approximately $16 million with the DRI and
+agreed to post a provisional bond in exchange for the DRI’s agreement to not seize HP India products and spare parts and to not
+interrupt the transaction of business by HP India.
+On April 11, 2012, the Bangalore Commissioner of Customs issued an order on the products-related show cause notice
+affirming certain duties and penalties against HP India and the named individuals of approximately $386 million, of which HP
+India had already deposited $9 million. On December 11, 2012, HP India voluntarily deposited an additional $10 million in
+connection with the products-related show cause notice. The differential duty demand is subject to interest. On April 20, 2012,
+the Commissioner issued an order on the parts-related show cause notice affirming certain duties and penalties against HP India
+and certain of the named individuals of approximately $17 million, of which HP India had already deposited $7 million. After
+the order, HP India deposited an additional $3 million in connection with the parts-related show cause notice so as to avoid
+certain penalties.
+113

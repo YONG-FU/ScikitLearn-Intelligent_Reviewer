@@ -1,0 +1,32 @@
+Table,of,C,ontents
+Clicks are delivered when a user clicks on an advertisement. Arrangements for these services generally have terms of up to one year. For display advertising on
+Afﬁliate sites, the Company pays Afﬁliates from the revenue generated from the display of these advertisements on the Afﬁliate sites. Trafﬁc acquisition costs
+(“TAC”) are payments made to Afﬁliates and payments made to companies that direct consumer and business trafﬁc to Yahoo Properties. The display revenue
+derived from these arrangements that involve trafﬁc supplied by Afﬁliates is reported gross of the TAC paid to Affiliates (reported as cost of revenue—TAC) when
+the Company is the primary obligor to the advertisers who are the customers of the display advertising service.
+From time-to-time, the Company may offer customized display advertising solutions to advertisers. These customized display advertising solutions combine the
+Company’s standard display advertising with customized content, customer insights, and campaign analysis which are separate units of accounting. Due to the
+unique nature of these products, the Company may not be able to establish selling prices based on historical stand—alone sales or third-party evidence;
+therefore, the Company may use its best estimate to establish selling prices. The Company establishes best estimates within a range of selling prices
+considering multiple factors including, but not limited to, class of advertiser, size of transaction, seasonality, margin objectives, observed pricing trends, available
+online inventory, industry pricing strategies, and market conditions. The Company believes the use of the best estimates of selling price allows revenue
+recognition in a manner consistent with the underlying economics of the transaction.
+Other Revenue. Other revenue includes listings—based services revenue, e—commerce transaction revenue, royalties, patent licenses and fees revenue.
+Listings—based services revenue is generated from a variety of consumer and business listings—based services, including classiﬁed advertising such as Yahoo
+Local and other services. The Company recognizes listings—based services revenue when the services are performed. Transaction revenue is generated from
+facilitating commercial transactions through Yahoo Properties, principally from Yahoo Small Business, Yahoo Travel, and Yahoo Shopping. The Company
+recognizes transaction revenue when there is evidence that qualifying transactions have occurred. The Company also receives royalties from Yahoo Japan
+which are recognized when earned. Alibaba Group’s obligation to make royalty payments under the Technology and Intellectual Property License Agreement
+(the “TlPLA”) ceased on September 24, 2014 as a result of the Alibaba Group’s initial public offering (the “Alibaba Group lPO”) of American Depositary Shares
+(“ADSs”) and the Company’s recognition of the remaining TIPLA deferred revenue was completed on September 18, 2015. See Note 8—“lnvestments in Equity
+Interests Accounted for Using the Equity Method of Accounting” for additional information on the revenue recognized related to the TIPLA. Fees revenue
+consists of revenue generated from a variety of consumer and business fee-based services as well as services for small businesses. The Company recognizes
+fees revenue when the services are performed.
+In all cases, revenue is recognized only when the price is ﬁxed or determinable, persuasive evidence of an arrangement exists, the service is performed, and
+collectability of the related fee is reasonably assured. The Company’s arrangements generally do not include a provision for cancellation, termination, or refunds
+that would signiﬁcantly impact revenue recognition.
+The Company accounts for cash consideration given to customers, for which it does not receive a separately identiﬁable benefit and cannot reasonably estimate
+fair value, as a reduction to revenue.
+Current deferred revenue is comprised of contractual billings in excess of recognized revenue and payments received in advance of revenue recognition. Long-
+term deferred revenue includes amounts received for which revenue will not be earned within the next 12 months.
+109

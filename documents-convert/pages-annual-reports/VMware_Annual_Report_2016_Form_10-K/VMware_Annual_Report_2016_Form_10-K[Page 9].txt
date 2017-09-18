@@ -1,0 +1,44 @@
+Iablre,of,C,ontents
+We prioritize our product development efforts through a combination of engineering-driven innovation and customer— and market-driven feedback. Our R&D
+culture places a high value on innovation, quality and open collaboration with our partners. We currently participate in numerous standards groups, and VMware
+employees hold a variety of standards organization leadership positions.
+Our R&D expenses totaled $1,503 million , $1,300 million and $1,239 million in 2016, 2015 and 2014, respectively.
+Sales and Marketing
+We have a highly leveraged go-to-market strategy that includes a direct sales force that is complementary to our channel. Our renewals team is focused on
+extending customer relationships and renewing customer contracts with us.
+We have established ongoing business relationships with our distributors. Our distributors purchase software licenses and software support from us for resale
+to end-user customers via resellers. These resellers are part of our VMware Partner Network (“VPN”), which offers resellers sales and product training, pricing
+incentives, rebates and access to the worldwide network of VMware distributors and the VMware Partner Central Web portal. In addition, our channel partner
+network includes certain systems integrators and resellers trained and certified to deliver consulting services and solutions leveraging our products.
+We generally do not have long-term contracts or minimum purchase commitments with our distributors, resellers, system vendors and systems integrators, and
+our contracts with these channel partners do not prohibit them from offering products or services that compete with ours.
+End users can obtain licenses to our products through discrete purchases to meet their immediate needs or through the adoption of enterprise agreements
+(“EAs”). EAs are comprehensive volume license offerings that provide for multi—year maintenance and support at negotiated prices. EAs enable us to build long-
+term relationships with our customers as they commit to our virtual infrastructure solutions in their data centers. Our sales cycle can vary greatly depending on
+numerous factors, including the size and complexity of the proposed offering and customer’s infrastructure footprint.
+In establishing list prices for our products, we take into account, among other numerous factors, the value our products and solutions deliver and the cost of
+alternative virtualization, end-user computing and hardware solutions.
+Our marketing efforts focus on communicating the beneﬁts of our solutions and educating our customers, distributors, resellers, system vendors, systems
+integrators, the media and analysts about the advantages of our innovative virtualization technology and end-user computing solutions. We raise awareness of our
+company and brands, market our products and generate sales leads through VMware and industry events, public relations efforts, marketing materials, advertising,
+direct marketing, social media initiatives, free downloads and our website. We have invested in multiple online communities that enable customers and partners to
+share and discuss sales and development resources, best practices implementation and industry trends among other topics. Our annual user conference, VMworld,
+is held in both the United States (“U.S.”) and Europe, while our APJ vForum events are held in the Asia Paciﬁc and Japan region. We also offer management
+presentations, seminars and webinars on our products of virtualization, end-user computing and cloud services. We believe the combination of these activities
+strengthens our brand and enhances our leading position in our industry.
+During 2016, we continued joint marketing, sales, branding and product development efforts with Dell and other Dell Technologies companies to enhance the
+collective value we deliver to our customers. We also announced strategic partnerships with AWS and IBM to jointly provide the expertise, solutions and go-to-
+market capabilities to help our customers efficiently and securely extend their proven software-defined solutions into public clouds, utilizing the tools and
+processes with which our customers are already familiar.
+Our business is subject to seasonality in the sale of our products and services. For example, our fourth quarter revenue is affected by a number of seasonal
+factors, including year-end spending trends.
+Backlog
+Backlog is comprised of unfulfilled orders against purchase orders or executed agreements received at the end of the period. While we generally ship products
+immediately upon receipt of purchase orders or executed agreements from customers, we sometimes have orders with unshipped products. As of December 31,
+2016, our backlog was $80 million consisting of licenses, maintenance, and services. Backlog was not signiﬁcant as of December 31, 2015. We do not believe that
+the amount of backlog, as of any particular date, is indicative of future sales.
+Customers
+Our product offerings allow customers to manage IT resources across private clouds and complex multi-cloud, multi-device environments. Customer
+deployments range in size from a single virtualized server for small businesses to thousands of virtual machines and managed devices for our largest enterprise
+customers.
+8

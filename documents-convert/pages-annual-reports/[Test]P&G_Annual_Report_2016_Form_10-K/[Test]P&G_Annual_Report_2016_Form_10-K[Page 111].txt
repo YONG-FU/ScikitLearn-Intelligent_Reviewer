@@ -1,0 +1,50 @@
+Preferred Stock shall, by virtue of such transaction and on the same terms as apply to the holders of Common Stock, be converted into or
+exchanged for the aggregate amount of shares, securities, cash or other property (payable in like kind) receivable by a holder of the number of
+shares of Common Stock into which such shares of Series A Preferred Stock could have been converted immediately prior to such transaction if
+such holder of Common Stock failed to exercise any rights of election as to the kind or amount of shares, securities, cash or other property
+receivable upon such transaction (provided that, if the kind or amount of shares, securities, cash or other property receivable upon such transaction
+is not the same for each non-electing share, then the kind and amount of shares, securities, cash or other property receivable upon such transaction
+for each non-electing share shall be the kind and amount so receivable per share by a plurality of non-electing shares).
+(C) In the event the Company shall enter into any agreement providing for any consolidation or merger or similar transaction described in
+paragraph (B) of this Section 8, then the Company shall as soon as practicable thereafter (and in any event at least ten (10) business days before
+consummation of such transaction) give notice of such agreement and the material terms thereof to each holder of Series A Preferred Stock and
+each such holder shall have the right to elect, by written notice to the Company, to receive, upon consummation of such transaction (if and when
+such transaction is consummated), from the Company or the successor of the Company, in redemption and retirement of such Series A Preferred
+Stock, a cash payment equal to the Liquidation Price in effect on the date set for redemption plus all accrued (whether or not accumulated) and
+unpaid dividends. No such notice of redemption shall be effective unless given to the Company prior to the close of business on the fifth business
+day prior to consummation of such transaction, unless the Company or the successor of the Company shall waive such prior notice, but any notice
+of redemption so given prior to such time may be withdrawn by notice of withdrawal given to the Company prior to the close of business on the
+fifth business day prior to consummation of such transaction.
+9. Anti-dilution Adjustments.
+(A)(1) Subject to the provisions of paragraph 9(D), in the event the Company shall, at any time or from time to time while any of the
+shares of the Series A Preferred Stock are outstanding, (i) pay a dividend or make a distribution in respect of the Common Stock in shares of
+Common Stock or (ii) subdivide or combine the outstanding shares of Common Stock into a greater or lesser number of shares, in each case whether
+by reclassification of shares, recapitalization of the Company (excluding a recapitalization or reclassification effected by a merger or consolidation to
+which Section 8 hereof applies) or otherwise, then, in such event, each share of Series A Preferred Stock will automatically, without any action on
+the part of the holder thereof or the Company, become that number of shares of Series A Preferred Stock (the "Non-dilutive Share Amount") equal
+to an amount which is a fraction the numerator of which is the number of shares of Common Stock outstanding immediately after such event and the
+denominator of which is the number of shares of Common Stock outstanding immediately before such event. An adjustment pursuant to this
+paragraph 9(A)(1) shall be effective upon payment of such dividend or distribution in respect of the Common Stock and in the case of a subdivision
+or combination shall become effective immediately as of the effective date thereof. Concurrently with the automatic adjustment pursuant to this
+paragraph 9(A)(1), the Conversion Price, the Liquidation Price and the Preferred Dividend Rate of all shares of Series A Preferred Stock shall be
+adjusted by dividing the Conversion Price, the Liquidation Price and the Preferred Dividend Rate, respectively, in effect immediately before the
+event by the Non-dilutive Share Amount determined pursuant to this paragraph 9(A)(l).
+(2) The Company and the Board of Directors shall each use its best efforts to take all necessary steps or to take all actions as are
+necessary or appropriate for implementation of the automatic adjustment provided in paragraph 9(A)(l). In the event for any reason the Company is
+precluded from giving full effect to the automatic adjustment provided in paragraph 9(A)(1), then no such automatic adjustment shall occur, but
+instead the Conversion Price shall automatically be adjusted by dividing the Conversion Price in effect immediately before the event by the Non-
+dilutive Share Amount determined pursuant to paragraph 9(A)(1), and the Liquidation Price and the Preferred Dividend Rate will not be adjusted.
+An adjustment to the Conversion Price made pursuant to this paragraph 9(A)(2) shall be given effect, upon payment of such a dividend or
+distribution, as of the record date for the determination of shareholders entitled to receive such dividend or distribution (on a retroactive basis) and
+in the case of a subdivision or combination shall become effective immediately as of the effective date thereof. If subsequently the Company is able
+to give full effect to the automatic adjustment as provided in paragraph 9(A)(1), then such automatic adjustment will proceed in accordance with the
+provisions of paragraph 9(A)(1) and the adjustment in the Conversion Price as provided in this paragraph 9(A)(2) will automatically be reversed and
+nullified prospectively.
+(B)(1) Subject to the provisions of paragraph 9(D), in the event the Company shall, at any time or from time to time while any of the
+shares of Series A Preferred Stock are outstanding, issue to holders of shares of Common Stock as a dividend or distribution, including by way of a
+reclassification of shares or a recapitalization of the Company, any right or warrant to purchase shares of Common Stock (but not including as such
+a right or warrant any security convertible into or exchangeable for shares of Common Stock) at a purchase price per share less than the Fair Market
+Value (as hereinafter defined) of a share of Common Stock on the date of issuance of such right or warrant, then, in such event, each share of Series
+A Preferred Stock will automatically, without any action on the part of the holder thereof or the Company, become that number of shares of Series A
+Preferred Stock
+A-6

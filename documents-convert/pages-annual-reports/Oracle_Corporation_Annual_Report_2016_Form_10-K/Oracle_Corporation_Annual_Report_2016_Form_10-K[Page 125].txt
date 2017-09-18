@@ -1,0 +1,40 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Options outstanding that have vested and that are expected to vest as of May 31, 2016 were as follows:
+Weighted-
+Weighted- Average In-the-Money Aggregate
+Outstanding Average Remaining Options as of Intrinsic
+Options Exercise Contract Term May 31, 2016 Value (1)
+v ,(in millions), Priciei 7(inyieaLs)i i(in millionsL (in millions)
+lVested 253 $ 27.52 4.83 245 $ 3,232l
+Expected to vest (2) 115 $ 33.91 7.20 76 736
+1 Total 7 3687 $ 29.52 5.57 7 3217 8 3,968]
+(1) The aggregate intrinsic value was calculated based on the gross difference between our closing stock price on the last trading day of ﬁscal 2016 of $40.20 and the exercise prices for all “in-the—money”
+options outstanding, excluding tax effects.
+(2) The unrecognized compensation expense calculated under the fair value method for shares expected to vest (unvested shares net of expected forfeitures) as of May 31, 2016 was approximately $474 million
+and is expected to be recognized over a weighted-average period of 2.02 years. Approximately 7 million shares outstanding as of May 31, 2016 were not expected to vest.
+S,to,ck:Base,d,C,ompensation,Expense,ananluation,of,S,to,ck,Awards
+We estimated the fair values of our restricted stock-based awards that are solely subject to service-based vesting requirements based upon their intrinsic values as
+of the grant dates.
+The fair values of our PSUs were also measured based upon their intrinsic values as of their respective grant dates. The vesting conditions and related terms of our
+PSUs were communicated to each participating employee as of their respective grant dates and included attainment metrics that were defined, ﬁxed and based upon
+consistent US. GAAP metrics or internal metrics that are defined, fixed and consistently determined, and that require the employee to render service. Therefore,
+these awards met the performance-based award classification criteria as deﬁned within ASC 718.
+We estimated the fair values of our stock options using the Black-Scholes-Merton option-pricing model, which was developed for use in estimating the fair values
+of stock options. Option valuation models, including the Black-Scholes-Merton option-pricing model, require the input of assumptions, including stock price
+volatility. Changes in the input assumptions can affect the fair value estimates and ultimately how much we recognize as stock-based compensation expense. The
+fair values of our stock options were estimated at the grant dates or at the acquisition dates for options assumed in a business combination. The weighted-average
+input assumptions used and resulting fair values of our stock options were as follows for fiscal 2016, 2015 and 2014:
+Year Ended Mayﬂ,
+V 72016 72357 72014
+gpected life (in years) 4.8 5.1 4.9l
+Risk-free interest rate 1.6% 1.7% 1.3%
+|Volatility 24% 23% 27% l
+Dividend yield 1.5% 1.2% 1.5%
+Weighted-average fair value per share $ 8.49 $ 9.62 $ 7.47 l
+The expected life input is based on historical exercise patterns and post-vesting termination behavior, the risk-free interest rate input is based on US. Treasury
+instruments, the annualized dividend yield input is based on the per share dividend declared by our Board of Directors and the volatility input is calculated based on
+the implied volatility of our publicly traded options.
+123

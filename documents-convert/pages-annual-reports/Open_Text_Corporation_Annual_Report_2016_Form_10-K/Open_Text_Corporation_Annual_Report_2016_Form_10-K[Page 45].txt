@@ -1,0 +1,54 @@
+units of accounting and are not separated. We believe these services do not have stand-alone value as (i) the customer only
+receives value from these services in conjunction with the use of the related transaction processing service, (ii) we do not sell
+such services separately, and (iii) the output of such services cannot be re-sold by the customer. Revenues related to
+implementation and start-up services are recognized over the longer of the contract term or the estimated customer life. In some
+arrangements, we also sell professional services which do have stand-alone value and can be separated from other elements in
+the arrangement, in which case the revenue related to these services is recognized as the service is performed. In some
+arrangements, we also sell professional services as a separate single element arrangement. The revenue related to these services
+is recognized as the service is performed. We defer all direct and relevant costs associated with implementation of long-term
+customer contracts to the extent such costs can be recovered through guaranteed contract revenues.
+Service revenues consist of revenues from consulting, implementation, training and integration services. These services
+are set forth separately in the contractual arrangements such that the total price of the customer arrangement is expected to vary
+as a result of the inclusion or exclusion of these services. For those contracts where the services are not essential to the
+functionality of any other element of the transaction, we determine VSOE of fair value for these services based upon normal
+pricing and discounting practices for these services when sold separately. These consulting and implementation services
+contracts are primarily time and materials based contracts that are, on average, less than six months in length. Revenues from
+these services are recognized at the time such services are performed.
+Revenue for contracts that are primarily fixed fee arrangements, wherein the services are not essential to the functionality
+of a software element, are recognized using the proportional performance method.
+Revenues from training and integration services are recognized in the period in which these services are performed.
+We may enter into certain long-term sales contracts involving the sale of integrated solutions that include the modification
+and customization of software and the provision of services that are essential to the functionality of the other elements in this
+arrangement. As prescribed by ASC T0pic 985-605, we recognize revenues from such arrangements in accordance with the
+contract accounting guidelines in ASC T0pic 605-35, “Construction-Type and Production-Type Contracts” (Topic 605-35), after
+evaluating for separation of any non-Topic 605-35 elements in accordance with the provisions of ASC Topic 605-25, “Multiple-
+Element Arrangements” (Topic 605-25).
+When circumstances exist that allow us to make reasonably dependable estimates of contract revenues, contract costs and
+the progress of the contract to completion, we account for sales under such long-term contracts using the percentage-of-
+completion (POC) method of accounting. Under the POC method, progress towards completion of the contract is measured
+based upon either input measures or output measures. We measure progress towards completion based upon an input measure
+and calculate this as the proportion of the actual hours incurred compared to the total estimated hours. For training and
+integration services rendered under such contracts, revenues are recognized as the services are rendered. We will review, on a
+quarterly basis, the total estimated remaining costs to completion for each of these contracts and apply the impact of any
+changes on the POC prospectively. If at any time we anticipate that the estimated remaining costs to completion will exceed the
+value of the contract, the resulting loss will be recognized immediately.
+When circumstances exist that prevent us from making reasonably dependable estimates of contract revenues, we account
+for sales under such long-term contracts using the completed contract method.
+We execute certain sales contracts through resellers and distributors (collectively, resellers) and also large, well-
+capitalized partners such as SAP and Accenture. (collectively, channel partners).
+Revenues relating to sales through resellers and channel partners are recognized when all the recognition criteria have
+been met, in other words, persuasive evidence of an arrangement exists, delivery has occurred in the reporting period, the fee is
+fixed and determinable, and collectability is probable. In addition we assess the creditworthiness of each reseller and if the
+reseller is newly formed, undercapitalized or in financial difficulty any revenues expected to emanate from such resellers are
+deferred and recognized only when cash is received and all other revenue recognition criteria are met.
+Capitalized software
+We capitalize software development costs in accordance with ASC Topic 350-40 — "Accounting for the Costs of
+Computer Software Developed or Obtained for Internal-Use". We capitalize costs for software to be used internally when we
+enter the application development stage. This occurs when we complete the preliminary project stage, management authorizes
+and commits to funding the project, and it is feasible that the project will be completed and the software will perform the
+intended function. We cease to capitalize costs related to a software project when it enters the post implementation and
+operation stage. If different determinations are made with respect to the state of development of a software project, then the
+amount capitalized and the amount charged to expense for that project could differ materially.
+Costs capitalized during the application development stage consist of payroll and related costs for employees who are
+directly associated with, and who devote time directly to, a project to develop software for internal use. We also capitalize the
+37

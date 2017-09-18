@@ -1,0 +1,38 @@
+[ mmmmﬁm]
+CONDENSED CONSOLIDATING BALANCE SHEET AS OF DECEMBER 31, 2016
+(In millions)
+Guarantor Non- Consolidating
+Parent Subsidiaries Guarantors Adjustments Consolidated
+ASSETS
+Current Assets
+Cash and cash equivalents $ — $ 2,576 $ 719 $ — $ 3,295
+Receivables, net of allowance for doubtful accounts 10 882 216 — 1,108
+Short-term receivables from affiliates — 171 28 (199) —
+Inventories — 2,321 319 — 2,640
+Prepayments and other current assets 50 298 23 — 371
+Total Current Assets 60 6,248 1,305 (199) 7,414
+Net Property, Plant and Equipment — 6,183 3,793 — 9,976
+Investment in Subsidiaries 9,201 785 — (9,986) —
+Long-Term Receivables from Affiliates 3,326 — — (3,326) —
+Long-Term lntercompany Note Receivable — — 2,386 (2,386) —
+Other Noncurrent Assets:
+Acquired intangibles, net — 329 948 — 1,277
+Other, net 46 1,138 549 (2) 1,731
+Total Other Noncurrent Assets 46 1,467 1,497 (2) 3,008
+Total Assets 5 12,633 5 14,683 5 8,981 $ (15,899) 5 20,398
+LIABILITIES AND EQUITY
+Current Liabilities
+Accounts payable 5 6 $ 1,762 $ 264 $ — $ 2,032
+Short-term payables to affiliates — 28 171 (199) —
+Current maturities of debt 450 14 1 — 465
+Other current liabilities 99 853 106 (1) 1,057
+Total Current Liabilities 555 2,657 542 (200) 3,554
+Long-Term Payables to Affiliates — 3,074 252 (3,326) —
+Deferred Income Taxes 1,428 2 — (2) 1,428
+Debt 2,321 94 4,053 — 6,468
+Long-Term lntercompany Note Payable 2,386 — — (2,386) —
+Other Noncurrent Liabilities 479 289 53 — 821
+Equity-Tesoro Corporation 5,464 8,567 1,419 (9,985) 5,465
+Equity-Noncontrolling Interest — — 2,662 — 2,662
+Total Liabilities and Equity 5 12,633 5 14,683 5 8,981 $ (15,899) 5 20,398
+December 31, 2016 | 115

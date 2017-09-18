@@ -1,0 +1,35 @@
+Table,of,C,ontents
+Recent Highlights
+We are continuing to focus on introducing new products, winning new customers, developing new product applications, adjusting production capacity,
+reducing costs to align with near-term revenue forecasts, and improving production and other operational processes. Some of these efforts are described below:
+0 In January 2016, we announced that our ultracapacitors had been selected by Beijing Huadian Tianren Electric Power Control Technology Co., Ltd, a
+subsidiary of China Guodian Corporation, as the core component of a wind farm energy storage demonstration project. One of the ﬁve largest power
+producers in the country, China Guodian Corporation’s system is the first megawatt-scale, ultracapacitor-based wind farm energy storage system in the
+world.
+0 In February 2016, we announced the newest addition to our K2 family with a 3-volt, 3,000-farad ultracapacitor cell. With 31 percent higher power than
+our leading 2.7-volt, 3,000-farad cell in the industry-standard 60 mm cylindrical form factor, customers now have the ﬂexibility to either increase
+available power and energy in the same volume or significantly cost-optimize their system designs with fewer cells or modules while maintaining the
+same power and energy.
+0 In March 2016, Duke Energy, the largest electric power holding company in the United States, announced the commissioning of a new hybrid-energy
+storage system utilizing our ultracapacitors to manage solar smoothing events.
+0 In April 2016, we announced that we entered into a deﬁnitive agreement to sell our microelectronics product line to Data Device Corporation, a
+subsidiary of ILC Industries, Inc. The transaction was completed on April 27, 2016.
+o In July 2016, we announced that our ultracapacitors are being used for regenerative braking energy storage in the Beijing subway system. As part of the
+strategic partnership with China Railway Rolling Stock Corporation (“CRRC-SRI”) that we announced last year, we continue to collaborate to develop
+next-generation capacitive energy storage solutions for the China rail market.
+0 In July 2016, we entered into a 12-month joint development agreement with one of the world’s leading automotive OEMs to develop a “proof of
+concept” that, if successful, could lead to the world’s first electric drivetrain based on our technology, targeting a 2021 automotive platform launch.
+- In October 2016, we announced our 51-volt (“51V”) module, the newest addition to our ultracapacitor product offerings for rugged applications. The
+51V module uses our leading 2.85V, 3,400-farad ultracapacitor cell to deliver the highest energy and power density available in the market today.
+0 In November 2016, we announced the first commercial application of lithium-ion capacitors, developed in conjunction with CRRC-SRI, China’s largest
+rail manufacturer. The technology will be used for rapid energy regeneration in the trolley system in the capital city of the Hunan province in China.
+Following last year’s announcement of our strategic partnership with CRRC-SRI to collaborate on developing next-generation capacitive energy storage
+solutions, this project is the first to leverage our new lithium-ion technology and validates its unique value proposition for rail applications.
+0 In December 2016, we announced the Generator Starting Solutions (“GS S”) product line. As the newest addition to our ultracapacitor-based product
+offerings, the GSS modules help start commercial and industrial standby and backup generators (“gensets”). We are the first company to offer dedicated
+ultracapacitor-based products that provide strong successful genset starts within seconds of loss of power.
+0 In January 2017, we announced a definitive agreement with CRRC-SRI to localize manufacturing of our ultracapacitor-based modules for use in the
+China new energy bus market. Under the terms of the agreement, localized production of our ultracapacitor-based modules is expected to begin
+in China in the second half of 20 17, coinciding with the peak buying season for China's new energy bus market. The production of bus modules extends
+our strategic partnership with CRRC-SRI and will enable us to compete more effectively in the China bus market moving forward.
+33

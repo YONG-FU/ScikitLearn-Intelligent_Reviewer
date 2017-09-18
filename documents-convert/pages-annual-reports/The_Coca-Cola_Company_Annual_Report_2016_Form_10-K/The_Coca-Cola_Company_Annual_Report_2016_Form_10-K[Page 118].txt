@@ -1,0 +1,45 @@
+Other Postretirement Beneﬁt Plan Assets
+Plan assets associated with other postretirement benefits primarily represent funding of one of the US. postretirement benefit
+plans through a US. Voluntary Employee Beneficiary Association ("VEBA"), a tax-qualified trust. The VEBA assets are
+primarily invested in liquid assets due to the level and timing of expected future benefit payments.
+The following table presents total assets for our other postretirement benefit plans (in millions):
+December 31, 2016 2015
+:Cash and cash equivalents $ 2 $ 8 :
+Equity securities:
+U.S.-based companies 116 116
+International-based companies 8 6
+F ixed-income securities:
+Government bonds 3 80
+Corporate bonds and debt securities 6 8
+Mutual, pooled and commingled funds 103 15
+Hedge funds/limited partnerships 9 5
+Real estate 4 3
+Other 4 4
+Total other postretirement benefit plan assets1 $ 255 $ 245 7
+1 Fair value disclosures related to our other postretirement benefit plan assets are included in Note 16. Fair value disclosures include, but are
+not limited to, the levels within the fair value hierarchy in which the fair value measurements in their entirety fall and information about the
+valuation techniques and inputs used to measure the fair value of our other postretirement benefit plan assets.
+Components of Net Periodic Beneﬁt Cost
+Net periodic benefit cost for our pension and other postretirement benefit plans consisted of the following (in millions):
+Pension Beneﬁts Other Benefits
+Year Ended December 31, 2016 2015 2014 2016 2015 2014 7
+Service cost $ 239 $ 265 $ 261 $ 22 $ 27 $ 26
+Interest cost 319 379 406 31 37 43
+Expected return on plan assets1 (653) (705) (713) (11) (1 1) (1 1)
+Amortization of prior service cost
+(credit) (2) (2) (2) (19) (1 9) (17)
+Amortization of actuarial loss2 183 199 73 7 10 2
+Net periodic benefit cost 86 136 25 30 44 43 7
+Settlement charge3 118 149 4 — — —
+Special termination benefits3 37 20 5 1 2 —
+Other (3) — — 23 — — 7
+Total cost recognized in statements of 7
+income $ 238 $ 305 $ 34 $ 54 $ 46 $ 43 7
+1 The Company has elected to use the actual fair value of plan assets as the market—related value of assets in the determination of the
+expected return on plan assets.
+2 Actuarial gains and losses are amortized using a corridor approach. The gain/loss corridor is equal to 10 percent of the greater of the benefit
+obligation and the market-related value of assets. Gains and losses in excess of the corridor are generally amortized over the average future
+working lifetime of the plan participants.
+3 The settlement charge and special termination benefits are primarily related to the Company's North America refranchising and
+productivity, restructuring and integration initiatives. Refer to Note 2 and Note 18.
+1 16

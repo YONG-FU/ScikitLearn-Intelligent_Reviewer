@@ -1,0 +1,48 @@
+denominated monetary assets and liabilities using foreign currency forward contracts in euros, yen, Canadian dollars, and
+Swiss francs. Non-functional currency denominated monetary assets and liabilities consist primarily of cash and cash
+equivalents, short-term investments, payables, and intercompany loans.
+The net fair value of our derivative contracts was favorable by approximately $12.8 million at December 31, 2016.
+A 10% unfavorable exchange rate change in the euro, franc, Canadian dollar, yen, and renminbi against the US. dollar
+would have resulted in the net fair value declining by approximately $27.1 million at December 31, 2016. Changes in fair
+value resulting from foreign exchange rate ﬂuctuations would be substantially offset by the change in value of the underlying
+hedged transactions.
+Our negotiated credit facilities generally charge interest based on a benchmark rate such as the London Interbank
+Offered Rate ("LIBOR"). Fluctuations in short-term interest rates cause interest payments on drawn amounts to increase
+or decrease. At December 31, 2016, no balance was outstanding under our credit facilities.
+Critical Accounting Policies and Estimates
+Management's discussion and analysis of our financial condition and results of operations are based on our consolidated
+financial statements, which have been prepared in accordance with accounting principles generally accepted in the United
+States of America. The preparation of these financial statements requires us to make various estimates and assumptions that
+affect reported amounts of assets and liabilities and related disclosure of contingent assets and liabilities at the date of the
+consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. We believe
+that the estimates and assumptions involved in the accounting policies described below have the greatest potential impact
+on our financial statements, so we consider these to be our critical accounting policies and estimates. Because of the
+uncertainty inherent in these matters, actual results may differ from the estimates we use in applying these critical accounting
+policies. We base our ongoing estimates on historical experience and various other assumptions that we believe to be
+important in the circumstances. Many of these critical accounting policies affect working capital account balances, including
+the policy for revenue recognition, the allowance for doubtful accounts, the provision for potential excess, closeout and
+slow moving inventory, product warranty, income taxes, and stock-based compensation.
+Management regularly discusses with our Audit Committee each of our critical accounting estimates, the development
+and selection of these accounting estimates, and the disclosure about each estimate in Management's Discussion and Analysis
+of Financial Condition and Results of Operations. These discussions typically occur at our quarterly Audit Committee
+meetings and include the basis and methodology used in developing and selecting these estimates, the trends in and amounts
+of these estimates, specific matters affecting the amount of and changes in these estimates, and any other relevant matters
+related to these estimates, including significant issues concerning accounting principles and financial statement presentation.
+Revenue Recognition
+We record wholesale, distributor, e-commerce and licensed product revenues when title passes and the risks and
+rewards of ownership have passed to the customer. Title generally passes upon shipment to or upon receipt by the customer
+depending on the applicable terms of sale with the customer. Retail store revenues are recorded at the time of sale. Revenue
+is recorded net of sales taxes, value added taxes or similar taxes, which are collected on behalf of local taxing authorities.
+Where title passes upon receipt by the customer, predominantly in our European wholesale business, Japan and in
+certain of our e-commerce operations, precise information regarding the date of receipt by the customer is not readily
+available. In these cases, we estimate the date of receipt by the customer based on historical and expected delivery times
+by geographic location. We periodically test the accuracy of these estimates based on actual transactions. Delivery times
+vary by geographic location, generally from one to seven days. To date, we have found these estimates to be materially
+accurate.
+At the time of revenue recognition, we also provide for estimated sales returns and miscellaneous claims from customers
+as reductions to revenues. The estimates are based on historical rates of product returns and claims, as well as events and
+circumstances that indicate changes to historical rates of returns and claims. However, actual returns and claims in any
+future period are inherently uncertain and thus may differ from the estimates. If actual or expected future returns and claims
+are significantly greater or lower than the reserves that we have established, we will record a reduction or increase to net
+revenues in the period in which we make such a determination.
+38

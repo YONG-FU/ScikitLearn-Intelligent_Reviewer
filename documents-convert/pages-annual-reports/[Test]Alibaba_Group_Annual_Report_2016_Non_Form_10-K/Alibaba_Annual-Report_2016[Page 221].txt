@@ -1,0 +1,40 @@
+ALIBABA GROUP HOLDING LIMITED
+CONSOLIDATED BALANCE SHEETS
+As of March 31,
+2015 2016
+RMB RMB US$
+(Note 2(a))
+(in millions)
+Notes
+Assets
+Current assets:
+Cash and cash equivalents 108,193 106,818 16,566
+Short-term investments 2(q) 14,148 4,700 729
+Restricted cash 11 2,297 1,346 209
+Investment securities 12 3,658 4,178 648
+Prepayments, receivables and other assets 13 13,813 17,028 2,640
+Total current assets 142,109 134,070 20,792
+Investment securities 12 14,611 29,392 4,558
+Prepayments, receivables and other assets 13 4,085 6,007 932
+Investment in equity investees 14 33,877 91,461 14,184
+Property and equipment, net 15 9,139 13,629 2,114
+Land use rights 2(v) 3,105 2,876 446
+Intangible assets 16 6,575 5,370 833
+Goodwill 17 41,933 81,645 12,662
+Total assets 255,434 364,450 56,521
+Liabilities, Mezzanine Equity and Shareholders’ Equity
+Current liabilities:
+Current bank borrowings 20 1,990 4,304 667
+Income tax payable 2,733 2,790 433
+Accrued expenses, accounts payable and other liabilities 19 19,834 27,334 4,240
+Merchant deposits 2(ab) 7,201 7,314 1,134
+Deferred revenue and customer advances 18 7,914 10,297 1,597
+Total current liabilities 39,672 52,039 8,071
+Deferred revenue 18 445 418 65
+Deferred tax liabilities 7 4,493 6,471 1,004
+Non-current bank borrowings 20 1,609 1,871 290
+Unsecured senior notes 21 48,994 51,596 8,002
+Other liabilities 19 2,150 2,166 335
+Total liabilities 97,363 114,561 17,767
+The accompanying notes form an integral part of these consolidated financial statements.
+F-5

@@ -1,0 +1,45 @@
+Table of Contents
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to market risk for the effect of interest rate changes, foreign currency ﬂuctuations, and changes in the market values of our investments.
+Information relating to quantitative and qualitative disclosures about market risk is set forth below and in Item 7 of Part H, “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources.”
+Interest Rate Risk
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our long-term debt. Our long-term debt is
+carried at amortized cost and ﬂuctuations in interest rates do not impact our consolidated ﬁnancial statements. However, the fair value of our debt, which
+pays interest at a ﬁxed rate, will generally ﬂuctuate with movements of interest rates, increasing in periods of declining rates of interest and declining in
+periods of increasing rates of interest. All of our cash equivalent and marketable ﬁxed income securities are designated as available-for—sale and, accordingly,
+are presented at fair value on our consolidated balance sheets. We generally invest our excess cash in investment grade short- to intermediate-term ﬁxed
+income securities and AAA-rated money market funds. Fixed income securities may have their fair market value adversely affected due to a rise in interest
+rates, and we may suffer losses in principal if forced to sell securities that have declined in market value due to changes in interest rates.
+The following table provides information about our cash equivalents and marketable ﬁxed income securities, including principal cash ﬂows by
+expected maturity and the related weighted-average interest rates as of December 31, 2016 (in millions, except percentages):
+Estimated Fair
+Value as of
+December 31,
+2017 _ 2018 _ 2019 _ 2020 _ 2021 _ Thereafter _ Total _ 2016
+[Money market funds $ 11,940 $ — s — $ — $ — $ — $ 11,940 $ 11,940 |
+Weighted-average interest rate 0.21% —% 0.21%
+{Corporate debt securities 1,300 577 156 28 30 — 2,091 2,104 l
+Weighted-average interest rate 1.27% 1.58% 1.26 % 0.60 % 2.24% —% 1.36%
+'U.S. government and agency securities 3,545 1,136 88 28 10 — 4,807 4,816 ‘
+Weighted-average interest rate 0.71% 1.20% 1.67 % 1.99 % 2.28% —% 0.85%
+lAsset backed securities 217 84 40 10 — — 351 353 l
+Weighted-average interest rate 1.41% 1.52% 1.78 % 2.38 % —% 1.51%
+Foreign government and agency
+securities 163 129 39 2 1 — 334 337
+Weighted-average interest rate 1.10% 0.94% (0.45)% (0.01)% 0.79% —% 0.85%
+{Other securities 59 15 11 4 7 — 96 97 l
+Weighted-average interest rate 1.33% 1.67% 1.90 % 2.07 % 2.33% —% 1.56%
+y $ 17,224 $ 1,941 $ 334 $ 72 $ 48 $ — $ 19,619 1
+Cash equivalent and marketable 7 7 7 7 7 7 7 r r r r r r 7
+ﬁxed income securities $ 19,647 7
+As of December 31, 2016, we had $8.8 billion of debt, including the current portion, primarily consisting of the following ﬁxed rate unsecured debt (in
+millions):
+l1.20% Notes due on November 29, 2017 $ 1,000 l
+2.60% Notes due on December 5, 2019 $ 1,000
+[3.30% Notes due on December 5,2021 $ 1,000 l
+2.50% Notes due on November 29, 2022 $ 1,250
+[3.80% Notes due on December 5, 2024 $ 1,250 l
+4.80% Notes due on December 5, 2034 $ 1,250
+{4.95% Notes due on December 5, 2044 $ 1,500 l
+32

@@ -1,0 +1,42 @@
+Subscription revenue increased 15.5%, or $242.2 million, for the fiscal year ended February 29, 2016
+compared to the fiscal year ended February 28, 2015. Excluding the impact of foreign currency exchange rate
+ﬂuctuations, subscription revenue increased by 22.1% for the fiscal year ended February 29, 2016. The increase
+in subscription revenue is driven primarily by additional subscriptions related to our principal Red Hat Enterprise
+Linux and Red Hat JBoss Middleware offerings, which continue to gain broader market acceptance in mission-
+critical areas of computing, and our expansion of sales channels and our geographic footprint. The increase is, in
+part, a result of the continued migration of enterprises in industries such as financial services, government,
+technology and telecommunications to our open source solutions from proprietary technologies.
+Training and services revenue
+Training and services revenue increased 9.0%, or $20.5 million, for the year ended February 29, 2016 as
+compared to the year ended February 28, 2015. Excluding the impact of foreign currency exchange rates, training
+and services revenue increased by 17.1%. The increase is driven primarily by customer interest in new products
+and increased demand for our open source solutions.
+Deferred revenue, billings proxy, seasonality and backlog
+Deferred revenue
+Our deferred revenue, current and long-term, balance at February 29, 2016 was $1.72 billion. Total deferred
+revenue at February 29, 2016 increased 16.2%, or $240.2 million, as compared to the balance of $1.48 billion at
+February 28, 2015. Because of our subscription model and revenue recognition policies, deferred revenue
+improves predictability of future revenue. For example, current deferred revenue provides a baseline for revenue
+to be recognized over the next twelve months. Similarly, long-term deferred revenue provides a baseline for
+revenue to be recognized beyond twelve months. Revenue derived from CCSPs for the delivery of our
+technologies as a service available on demand is recognized by us in the period earned and billed in arrears. As a
+result, revenue derived from CCSPs has no associated deferred revenue.
+The increase in deferred revenue reported on our Consolidated Balance Sheets of $240.2 million differs
+from the increase of $260.5 million we reported on our Consolidated Statements of Cash Flows for the fiscal year
+ended February 29, 2016 as the amount reported on our Consolidated Statements of Cash Flows for the fiscal
+year ended February 29, 2016 excludes (i) the impact of changes in foreign currency exchange rates used to
+translate deferred revenue balances from our foreign subsidiaries’ functional currency into US. dollars and
+(ii) deferred revenue of approximately $0.4 million acquired as part of business combinations during the same
+period.
+Current deferred revenue increased by 16.2%, or $177.8 million, to $1.27 billion at February 29, 2016 from
+$1.10 billion at February 28, 2015 and long-term deferred revenue increased by 16.1%, or $62.4 million, to
+$449.6 million at February 29, 2016 from $387.2 million at February 28, 2015. Excluding the impact of foreign
+currency exchange rate ﬂuctuations, current deferred revenue increased by 17.4%, or $190.9 million, and long-
+term deferred revenue increased by 18.0%, or $69.6 million, from February 28, 2015 to February 29, 2016.
+Billings proxy
+We approximate our annual billings by adding revenue recognized on our Consolidated Statements of
+Operations to the change in total deferred revenue reported on our Consolidated Statements of Cash Flows. We
+use the change in deferred revenue as reported on our Consolidated Statements of Cash Flows because the
+amount has been adjusted for the impact of changes in foreign currency exchange rates used to translate deferred
+revenue balances from our foreign subsidiaries’ functional currencies into US. dollars.
+48

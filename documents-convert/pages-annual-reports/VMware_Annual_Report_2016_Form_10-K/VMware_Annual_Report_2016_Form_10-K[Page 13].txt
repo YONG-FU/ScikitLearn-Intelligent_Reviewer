@@ -1,0 +1,46 @@
+IableoﬁContents
+Sanj ay Poonen has served as VMware’s Chief Operating Ofﬁcer, Customer Operations since October 2016. Prior to that he served as Executive Vice
+President and General Manager, End-User Computing, Head of Global Marketing from April 2016 to October 2016. He joined VMware as Executive Vice
+President and General Manager, End-User Computing in August 2013. Prior to joining VMware, he spent more than seven years at SAP AG, an enterprise
+application software and services company, serving as President and Corporate Officer of Platform Solutions and the Mobile Division from April 2012 to July
+2013, prior to that as President of Global Solutions from November 2010 to March 2012, as Executive Vice President of Performance Optimization Apps from
+June 2008 to September 2009 and Senior Vice President of Analytics from April 2006 to May 2008. Mr. Poonen's over 20 years of technology industry experience
+also includes executive-level positions with Symantec and Veritas, and product management and engineering positions with Alphablox Corporation, Apple, Inc.
+and Microsoft Corporation.
+Rangarajan (Raghu) Raghuram has served as VMware's Chief Operating Ofﬁcer, Products and Cloud Services since October 2016. Prior to that he served
+as Executive Vice President, Software-Defined Data Center Division from April 2012 to October 2016. Mr. Raghuram joined VMware in 2003 and has held
+multiple product management and marketing roles. Mr. Raghuram served as Senior Vice President and General Manager, Cloud Infrastructure and Management,
+Virtualization and Cloud Platforms, and Enterprise Products from December 2009 through March 2012. Mr. Raghuram previously served as Vice President of
+VMware's Server Business Unit and of Product and Solutions Marketing from September 2003 through December 2009. Prior to VMware, Mr. Raghuram held
+product management and marketing roles at Netscape Communications Corporation and Bang Networks, Inc.
+Rajiv Ramaswami has served as VMware’s Chief Operating Ofﬁcer, Products and Cloud Services since October 2016. Mr. Ramaswami joined VMware in
+April 2016 and served as VMware’s Executive Vice President and General Manager of Networking. Prior to joining VMware he was Executive Vice President and
+General Manager of the Infrastructure and Networking Group of Broadcom Corporation, a semiconductor company, from 2010. Prior to that he was Vice President
+and General Manager of the Cloud Services and Switching Technology Group at Cisco Systems, Inc., where he also served as Vice President and General Manager
+for a variety of business units in Optical, Switching and Storage Networking. Prior to joining Cisco, he served in various technical and leadership positions at Xros,
+Tellabs Inc. and IBM’s Thomas J. Watson Research Center. Mr. Ramaswami is a member of the board of directors of NeoPhotonics Corporation.
+S. Dawn Smith has served as VMware’s Senior Vice President, Chief Legal Officer and Secretary at VMware since December 2015. She joined VMware as
+Senior Vice President, General Counsel and Secretary in September 2009, and she served as Chief Compliance Officer from August 2010 through January 2017.
+Prior to joining VMware, Ms. Smith was a partner at Morrison & Foerster LLP, a law firm. Prior to joining Morrison & Foerster LLP, she was an attorney at
+Wilson Sonsini Goodrich & Rosati P.C.
+ITEM 1A. RISK FACTORS
+The risk factors that appear below could materially affect our business, ﬁnancial condition and operating results. The risks and uncertainties described below
+are not the only risks and uncertainties facing us. Our business is also subject to general risks and uncertainties that affect many other companies. Specific risk
+factors related to our status as a controlled subsidiary of Dell Technologies Inc. (“Dell”) following Dell’s acquisition of our former majority stockholder EMC
+Corporation (“EMC”) on September 7, 2016 (the “Dell Acquisition”), including, among other things, overlapping business opportunities, Dell’s ability to control
+certain transactions and resource allocations and related persons transactions with Dell and its other affiliated companies, are set forth below under the heading
+“Risks Related to Our Relationship with Dell.”
+Risks Related to Our Business
+Our success depends increasingly on customer acceptance of our emerging products and services.
+Our products and services are primarily based on server Virtualization and related compute technologies used for virtualizing on-premises data center servers,
+which form the foundation for private cloud computing. As the market for server Virtualization continues to mature, the rate of growth in license sales of our
+vSphere hypervisor product has declined. We are increasingly directing our product development and marketing efforts toward products and services that enable
+businesses to utilize Virtualization as the foundation for private, public and hybrid cloud-based computing and mobile computing, including our vSphere-based
+software-deﬁned data center (“SDDC”) products such as our management and automation and network Virtualization (“NSX”) offerings, our Horizon client
+Virtualization offerings, VMware AirWatch (“AirWatch”) mobile device management offerings and VMware VSAN (“VSAN”) storage Virtualization offerings. We
+have also been introducing software-as-a-service (“SaaS”) versions of our on-premises products, including VMware Horizon Suite and certain AirWatch offerings,
+and are working to extend our SDDC and NSX offerings into the public cloud and to introduce cross-cloud products and services by investing in cross-cloud and
+SaaS initiatives and partnering with public cloud providers such as Amazon Web Services (“AWS”) and IBM. These initiatives present new and difﬁcult
+technological and compliance challenges, and signiﬁcant investments will be required to develop or acquire solutions to address those challenges. Our success
+depends on our current and future customers perceiving technological and operational beneﬁts and cost savings associated with adopting our
+12

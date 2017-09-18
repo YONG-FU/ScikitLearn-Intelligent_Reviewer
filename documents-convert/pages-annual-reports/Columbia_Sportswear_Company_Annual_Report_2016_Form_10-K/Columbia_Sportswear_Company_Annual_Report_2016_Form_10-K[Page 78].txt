@@ -1,0 +1,37 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(C0ntinued)
+Assets and liabilities measured at fair value on a recurring basis at December 3 1, 2015 are as follows (in thousands):
+: Level 1 Level 2 Level 3 Total :
+’Assets: 1
+Cash equivalents:
+I Moneymarketfunds......................... $ 114,247 $ — $ — $ 114,2471
+Timedeposits.............................. 63,327 — — 63,327
+1 Other short-term investments: 1
+Mutualfundshares.......................... 629 — — 629
+1 Other current assets: 1
+Derivative financial instruments (Note 19). . . . . . . . — 6,722 — 6,722
+I Non-current assets: 1
+Derivative financial instruments (Note 19). . . . . . . . — 566 — 566
+l Mutualfundshares.......................... 6,887_ —_ —_ 6,8871
+Total assets measured at fair value . . . . . . . . . 77$ 185,090i 77$ 7,2887, 77$ —i 77$ 192,378,,
+’Liabilities: 7 i i 7 7 i i l
+Accrued liabilities:
+I Derivative financial instruments (Note 19). . . . . . . . $ — _ $ 1,917 _ $ — _ $ 1,917 1
+Total liabilities measured at fair value. . . . . . . r$ —: :$ 1,917: :$ —: :$ 1,917:
+Level 1 instrument valuations are obtained from real-time quotes for transactions in active exchange markets involving
+identical assets. Level 2 instrument valuations are obtained from inputs, other than quoted market prices in active markets,
+that are directly or indirectly observable in the marketplace and quoted prices in markets with limited volume or infrequent
+transactions.
+There were no material assets and liabilities measured at fair value on a nonrecurring basis at December 31, 2016 or
+2015.
+NOTE 21—BUSINESS ACQUISITION
+On May 30, 2014, the Company purchased 100% of the equity interest in prAna Living, LLC ("prAna") for
+$188,467,000, net of acquired cash of $4,946,000.
+Purchase price allocation
+Acquired assets and liabilities were recorded at estimated fair value as of the acquisition date. The excess of the
+purchase price over the estimated fair value of identifiable net assets resulted in the recognition of goodwill of$54, 156,000,
+all of which was assigned to the United States segment, and is attributable to future growth opportunities and any intangible
+assets that did not qualify for separate recognition. The goodwill is deductible for tax purposes.
+The following table summarizes the fair value of the net assets acquired and liabilities assumed as of the acquisition
+date of May 30, 2014, including measurement period adjustments (in thousands):
+72

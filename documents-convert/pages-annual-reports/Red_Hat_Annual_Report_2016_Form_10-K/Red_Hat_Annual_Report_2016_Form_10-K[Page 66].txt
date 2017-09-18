@@ -1,0 +1,46 @@
+Revenue
+Subscription revenue
+Subscription revenue increased by 16.8%, or $224.5 million, to $1.56 billion for the year ended
+February 28, 2015 from $1.34 billion for the year ended February 28, 2014.
+Revenue derived from the sale of subscriptions supporting our Infrastructure-related offerings, increased by
+13.1%, or $153.6 million, to $1.32 billion for the year ended February 28, 2015 from $1.17 billion for the year
+ended February 28, 2014 and is primarily due to increases in volumes sold, including additional subscriptions
+attributable to geographic expansion and the continued migration of customers to our open source Linux platform
+from proprietary platforms.
+Revenue derived from the sale of subscriptions supporting our Application Development-related and other
+emerging technology offerings increased by 42.8%, or $70.9 million, to $236.5 million for the year ended
+February 28, 2015 from $165.7 million for the year ended February 28, 2014. The increase is primarily due to
+additional subscriptions for Red Hat JBoss Middleware offerings. We expect the growth rate of revenue derived
+from our Application Development-related and other emerging technology offerings to exceed the growth rate of
+revenue derived from our Infrastructure-related offerings as our Application Development-related and other
+emerging technology offerings continue to gain broader market acceptance in the enterprise IT environment.
+Training and services revenue
+Total training and services revenue increased by 15.4%, or $30.4 million, to $228.3 million for the year
+ended February 28, 2015 from $197.8 million for the year ended February 28, 2014. Training revenue increased
+7.9%, or $4.2 million. Our services revenue increased by 18.1%, or $26.2 million, as a result of an increase in
+consulting engagements driven by increased demand for our open source solutions. We expect services revenue
+to continue growing, though at a slower pace than subscription revenue as we continue to expand our reach by
+enabling our channel partners to provide consulting services on our behalf. Combined training and services
+revenue as a percentage of total revenue was 12.8% and 12.9% for the year ended February 28, 2015 and
+February 28, 2014, respectively.
+Cost of revenue
+Cost of subscription revenue
+Cost of subscription revenue increased by 16.2%, or $15.8 million, to $112.9 million for the year ended
+February 28, 2015 from $97.1 million for the year ended February 28, 2014. Employee-related expenses
+increased $11.4 million for the year ended February 28, 2015 as compared to the year ended February 28, 2014,
+due to the expansion of our technical staff in order to meet the demands of our growing subscriber base for
+support, security updates and fixes. The remaining increase relates to increased expense of $1.7 million related to
+facility and technology infrastructure enhancements. As the number of open source technology subscriptions
+continues to increase, we expect associated support cost will continue to increase, although we anticipate this will
+occur at an overall slower rate than that of subscription revenue growth due to economies of scale. Gross profit
+margin on subscriptions was 92.8% and 92.7% for the year ended February 28, 2015 and February 28, 2014,
+respectively.
+Cost of training and services revenue
+Cost of training and services revenue increased by 18.3%, or $24.8 million, to $160.3 million for the year
+ended February 28, 2015 from $135.5 million for the year ended February 28, 2014. Costs to deliver our services
+revenue increased by 21.4%, or $23.0 million, to $130.2 million for the year ended February 28, 2015. The
+increase in costs to deliver services includes $11.9 million and $9.2 million of increased employee compensation
+expenses and outside contractor fees, respectively. The increase in both employee compensation expense and
+contractor fees is due to the expansion of our professional consulting teams needed to provide services related to
+our emerging technology offerings. As a result of such investment in staffing, profit margin from professional
+62

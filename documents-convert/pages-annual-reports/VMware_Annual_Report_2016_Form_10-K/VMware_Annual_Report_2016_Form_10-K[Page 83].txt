@@ -1,0 +1,31 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+L. Unearned Revenue
+Unearned revenue as of December 31, 2016 and 2015 consisted of the following (table in millions):
+December 31,
+2016 2015
+’Unearned license revenue $ 503 $ 428 ‘
+Unearned software maintenance revenue 4,628 4,174
+lUnearned professional services revenue 493 _ 474 l
+Total unearned revenue $ 5,624 $ 5,076
+Unearned license revenue is generally recognized upon delivery of existing or future products or services, or is otherwise recognized ratably over the term of
+the arrangement. Future products include, in some cases, emerging products that are offered as part of product promotions where the purchaser of an existing
+product is entitled to receive the future product at no additional charge. To the extent the future product has not been delivered and VSOE of fair value cannot be
+established, the revenue for the entire order is deferred until such time as all product delivery obligations have been fulﬁlled. In the event the arrangement does not
+include professional services, unearned license revenue may also be recognized ratably, if the customer is granted the right to receive unspecified future products
+or VSOE of fair value on the software maintenance element of the arrangement does not exist.
+Unearned software maintenance revenue is attributable to VMware’s maintenance contracts and is generally recognized ratably over the contract period. The
+weighted-average remaining term at December 31, 2016 was approximately two years . Unearned professional services revenue results primarily from prepaid
+professional services, including training, and is generally recognized as the services are delivered.
+Unearned license and software maintenance revenue will ﬂuctuate based upon a variety of factors including sales volume, the timing of both product
+promotion offers and delivery of the future products offered, and the amount of arrangements sold with ratable revenue recognition. Additionally, the amount of
+unearned revenue derived from transactions denominated in a foreign currency is impacted by ﬂuctuations in the foreign currencies in which VMware invoices.
+M. Income Taxes
+The domestic and foreign components of income before provisions for income taxes were as follows (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+[Domestic s 478 $ 257 $ 174 1
+Foreign 995 _ 956 _ 874
+1 Total $ 1,473 $ 1,213 $ 1,048 l
+80

@@ -1,0 +1,41 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+8. Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities are summarized as follows:
+December 31,
+2016 2015
+Payrollandrelatedcosts.............................. $8,731 $8,927
+Employeebenefits.................................. 5,179 4,113
+Accruedwarranty................................... 3,535 7,423
+Earnout—Dejana................................... 5,487 —
+4,393 5,086
+$27,325 $25,549
+9. Warranty Liability
+The Company accrues for estimated warranty costs as sales are recognized and periodically
+assesses the adequacy of its recorded warranty liability and adjusts the amount as necessary. The
+Company’s warranties generally provide, with respect to its snow and ice control equipment, that all
+material and workmanship will be free from defect for a period of one to two years after the date of
+purchase by the end-user, and with respect to its parts and accessories purchased separately, that such
+parts and accessories will be free from defect for a period of one year after the date of purchase by the
+end-user. Certain snowplows only provide for a one year warranty. The Company determines the
+amount of the estimated warranty costs (and its corresponding warranty reserve) based on the
+Company’s prior five years of warranty history utilizing a formula driven by historical warranty expense
+and applying management’s judgment. The Company adjusts its historical warranty costs to take into
+account unique factors such as the introduction of new products into the marketplace that do not
+provide a historical warranty record to assess. The warranty reserve is $6,160 at December 31, 2016 of
+which $2,625 is included in Other long term liabilities and $3,535 is included in Accrued expenses and
+other current liabilities in the accompanying Consolidated Balance Sheet. At December 31, 2015 $7,423
+is included in accrued expenses and other current liabilities in the accompanying Consolidated Balance
+Sheet.
+The following is a rollforward of the Company’s warranty liability:
+December 31,
+2016 2015 2014
+Balance at the beginning of the period. . . . . . . . . . . . . $ 7,423 $ 6,279 $ 3,808
+Establish warranty liability for Dejana . . . . . . . . . . . . . 35 — —
+Establish warranty liability for Henderson . . . . . . . . . . — — 697
+Warrantyprovision........................... 2,452 4,931 4,574
+Claims paid/settlements. . . . . . . . . . . . . . . . . . . . . . . . (3,750) (3,787) (2,800)
+Balance at the end of the period . . . . . . . . . . . . . . . . . $ 6,160 $ 7,423 $ 6,279
+F-32

@@ -1,0 +1,43 @@
+Exhibit No: pescription of Exhibits
+10.32+>‘< Form of Performance Share Unit Agreement (TSR Hurdle Form) adopted August 6, 2014
+(incorporated by reference to Exhibit 10.2 to the registrant’s Quarterly Report on Form 10-Q
+filed with the SEC on September 29, 2014 (File no. 001-33162»
+1033+ Form of Call Option Conﬁrmation between Red Hat, Inc. and each Option Counterparty
+(incorporated by reference to Exhibit 10.1 to the registrant’s Current Report on Form 8-K filed
+with the SEC on October 7, 2014 (File no. 001-33162»
+10.34+ Form of Warrant Confirmation between Red Hat, Inc. and each Option Counterparty (incorporated
+by reference to Exhibit 10.2 to the registrant’s Current Report on Form 8-K filed with the SEC
+on October 7, 2014 (File no. 001-33162»
+10.35+ Master Confirmation between Goldman, Sachs & Co. and Red Hat, Inc., dated October 2, 2014
+(incorporated by reference to Exhibit 10.3 to the registrant’s Current Report on Form 8-K filed
+with the SEC on October 7, 2014 (File no. 001-33162»
+1036+ Supplemental Confirmation between Goldman, Sachs & Co. and Red Hat, Inc., dated October 2,
+2014 (incorporated by reference to Exhibit 10.4 to the registrant’s Current Report on Form 8-K
+filed with the SEC on October 7, 2014 (File no. 001-33162»
+10.37+>‘< Policy on Gross-up Payments for Excise Taxes Payable under Section 4999 (incorporated by
+reference to Exhibit 10.44 to the registrant’s Annual Report on Form 10-K ﬁled with the SEC
+on April 28, 2015 (File no. 001-33162»
+10.38+>‘< Letter Agreement dated June 17, 2015, between Red Hat, Inc. and Frank A. Calderoni
+(incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q
+filed with the SEC on October 7, 2015 (File no. 001-33162»
+10.39+>‘< Bonus Agreement dated June 21, 2015, between Red Hat, Inc. and Frank A. Calderoni
+(incorporated by reference to Exhibit 10.2 to the registrant’s Quarterly Report on Form 10-Q
+filed with the SEC on October 7, 2015 (File no. 001-33162»
+10.40+>‘< Letter Agreement dated July 24, 2015, between Red Hat, Inc. and Charles E. Peters, Jr.
+(incorporated by reference to Exhibit 99.1 to the registrant’s Current Report on Form 8-K filed
+with the SEC on July 24, 2015 (File no. 001-33162»
+21.1 Subsidiaries of Red Hat, Inc.
+23.1 Consent of PricewaterhouseCoopers LLP
+31.1 Certification of the registrant’s Chief Executive Officer pursuant to Rule 13a—14(a)/Rule 15d-14(a)
+under the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of
+the Sarbanes-Oxley Act of 2002
+31.2 Certification of the registrant’s Chief Financial Officer pursuant to Rule 13a—14(a)/Rule 15d-14(a)
+under the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of
+the Sarbanes-Oxley Act of 2002
+32.1 Certification of the registrant’s principal executive officer and principal ﬁnancial ofﬁcer pursuant
+to 18 U.S.C. Section 1350
+101.INS XBRL Instance Document
+101.SCH XBRL Taxonomy Extension Schema
+101.CAL XBRL Taxonomy Extension Calculation Linkbase
+101.DEF XBRL Taxonomy Extension Definition Linkbase
+121

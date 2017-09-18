@@ -1,0 +1,37 @@
+any Additional Notes, the Issuers shall set forth in a resolution of the Board of Directors and an Ofﬁcers’ Certiﬁcate, a copy of each which shall be delivered
+to the Trustee, the following information: (a) the aggregate principal amount at maturity of such Additional Notes to be authenticated and delivered pursuant
+to this Indenture; and (b) the issue price, the issue date and the CUSIP number and corresponding ISlN of such Additional Notes.
+Section 2.14 One Class of Notes.
+The Initial Notes issued on the Issue Date and any Additional Notes shall be treated as a single class for all purposes under this Indenture.
+Section 2.15 C USIP Numbers.
+The Issuers in issuing the Notes may use “CUSIP” numbers (if then generally in use), and, if so, the Trustee shall use “CUSIP” numbers in notices of
+redemption or repurchase, as the case may be, as a convenience to Holders; provided that any such notice may state that no representation is made as to the
+correctness of such numbers either as printed on the Notes or as contained in any notice of a redemption or repurchase, as the case may be, and that reliance
+may be placed only on the other identiﬁcation numbers printed on the Notes, and any such redemption or repurchase, as the case may be, shall not be affected
+by any defect in or omission of such numbers. The Issuers shall promptly notify the Trustee of any change in the “CUSIP” numbers.
+ARTICLE 3
+REDEMPTION AND PREPAYMENT
+Section 3.01 Notices to Trustee.
+Ifthe Issuers elect to redeem Notes pursuant to the optional redemption provisions of SectioniDl hereof, it must fumish to the Trustee, at least 15 days
+but not more than 60 days before a Redemption Date, an Oﬁicers’ Certiﬁcate setting forth:
+(1) the clause of this Indenture pursuant to which the redemption shall occur;
+(2) the Redemption Date;
+(3) the principal amount of Notes to be redeemed; and
+(4) the redemption price.
+Section 3.02 Selection of Notes To Be Redeemed or Purchased.
+Ifless than all of the Notes are to be redeemed or purchased in an offer to purchase at any time, the Trustee will select Notes for redemption or purchase
+as follows:
+(1) if the Notes are listed on any national securities exchange, in compliance with the requirements of the principal national securities exchange
+on which such Notes are listed; or
+(2) on a pro rata basis to the extent practicable; or
+(3) on a pro rata basis, by lot or such other similar method in accordance with the procedures of DTC.
+No Notes of $2,000 or less can be redeemed in part. In the event of partial redemption or purchase by lot, the particular Notes to be redeemed or
+purchased will be selected, unless otherwise provided herein, not less than 15 nor more than 60 days prior to the redemption or purchase date by the Trustee
+from the outstanding Notes not previously called for redemption or purchase.
+The Trustee will promptly notify the Issuers in writing of the Notes selected for redemption or purchase and, in the case of any Note selected forpartial
+redemption or purchase, the principal amount thereof to be redeemed or purchased. Notes and portions of Notes selected will be in amounts of $2,000 or
+whole multiples of $ 1 ,000 in excess thereof; except that if all of the Notes of a Holder are to be redeemed or purchased, the entire outstanding amount of
+Notes held by such Holder, even if not a multiple of$ 1,000, shall be redeemed or purchased. Except as provided in the preceding sentence, provisions of this
+Indenture that apply to Notes called for redemption or purchase also apply to portions of Notes called for redemption or purchase.
+Section 3.03 Notice of Redemption.
+-26-

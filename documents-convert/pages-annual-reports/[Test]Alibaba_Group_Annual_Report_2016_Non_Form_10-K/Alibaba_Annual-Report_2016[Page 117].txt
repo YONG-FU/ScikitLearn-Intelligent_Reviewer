@@ -1,0 +1,43 @@
+developing and marketing new products and services, enhancing our cloud computing business, and YunOS, a
+cloud-based mobile operating system for Internet of Things devices, developing new ways to interact with
+consumers through our mobile media and entertainment assets, developing new software tools to attract additional
+consumers and merchants to our marketplaces as well as executing our globalization strategy. Our operating
+leverage and margin levels enable us to continue to invest in our people, particularly engineers, scientists and
+product management personnel, as well as in our underlying technology capabilities and infrastructure. In addition,
+as a result of our financial strength, we expect to invest in the above mentioned new and existing businesses which
+will lower our margins but deliver overall long-term growth.
+Strategic Investments and Acquisitions. We have made, and intend to make, strategic investments and
+acquisitions to increase user acquisition and engagement, improve customer experience and expand our product,
+service, and content offerings. Our strategic investments and acquisitions may affect our future financial results,
+including our margins and our net income. For example, we expect that our recent acquisitions of Youku Tudou
+and a controlling stake in Lazada will have a negative effect on our financial results, at least in the short-term. In
+addition, some of our acquisitions and investments may not be successful, and we may incur impairment charges in
+the future.
+Components of Results of Operations
+Revenue
+The following table sets forth the principal components of our revenue for the periods indicated:
+Year ended March 31,
+2014 2015 2016
+% 0f % 0f % of
+RMB revenue RMB revenue RMB US$ revenue
+(in millions, except percentages)
+China commerce
+Retail. . . . . . . . . . . . . . . . . . . . . . . 42,832 82% 59,732 78% 80,033 12,412 79%
+Wholesale. . . . . . . . . . . . . . . . . . . . 2,300 4% 3,205 4% 4,288 665 4%
+Total China commerce . . . . . . . . . . . . . 45,132 86% 62,937 82% 84,321 13,077 83%
+International commerce
+Retail....................... 938 2% 1,768 3% 2,204 342 2%
+Wholesale. . . . . . . . . . . . . . . . . . . . 3,913 7% 4,718 6% 5,425 841 6%
+Total international commerce . . . . . . . . 4,851 9% 6,486 9% 7,629 1,183 8%
+Cloud computing. . . . . . . . . . . . . . . . . 773 2% 1,271 2% 3,019 468 3%
+Others........................ 1,748 3% 5,510 7% 6,174 958 6%
+Total revenue . . . . . . . . . . . . . . . . . . . 52,504 100% 76,204 100% 101,143 15,686 100%
+GMV . . . . . . . . . . . . . . . . . . . . . . . . 1,677,587 2,443,721 3,092,385
+We generate substantially all of our revenue from our retail and wholesale marketplaces. We also earn
+revenue from services associated with our cloud computing services and other revenue primarily from mobile
+Internet services provided by UCWeb. Substantially all of our revenue is attributable to our businesses in China.
+See “— Our Monetization Model” for additional information regarding our revenue.
+Cost of Revenue
+The principal components of our cost of revenue include: payment processing fees paid to Alipay or other
+financial institutions; traffic acquisition costs paid to third-party marketing affiliates either at a fixed price or on a
+112

@@ -1,0 +1,38 @@
+ALIBABA GROUP HOLDING LIMITED
+CONSOLIDATED INCOME STATEMENTS
+Year ended March 31,
+2014 2015 2016
+RMB RMB RMB US$
+(Note 2(a))
+(in millions, except per share data)
+Notes
+Revenue 5 52,504 76,204 101,143 15,686
+Cost of revenue 23 (13,369) (23,834) (34,355) (5,328)
+Product development expenses 23 (5,093) (10,658) (13,788) (2,138)
+Sales and marketing expenses 23 (4,545) (8,513) (11,307) (1,753)
+General and administrative expenses 9, 23 (4,218) (7,800) (9,205) (1,428)
+Amortization of intangible assets 16 (315) (2,089) (2,931) (455)
+Impairment of goodwill 17 (44) (175) (455) (71)
+Income from operations 24,920 23,135 29,102 4,513
+Interest and investment income, net 1,648 9,455 52,254 8,104
+Interest expense (2,195) (2,750) (1,946) (301)
+Other income, net 6, 23 2,429 2,486 2,058 319
+Income before income tax and share of results of equity
+investees 26,802 32,326 81,468 12,635
+Income tax expenses 7 (3,196) (6,416) (8,449) (1,310)
+Share of results of equity investees 14 (203) (1,590) (1,730) (269)
+Net income 23,403 24,320 71,289 11,056
+Net (income) loss attributable to noncontrolling interests (88) (59) 171 27
+Net income attributable to Alibaba Group Holding Limited 23,315 24,261 71,460 11,083
+Accretion of Convertible Preference Shares 22 (31) (15) — —
+Dividends accrued on Convertible Preference Shares 22 (208) (97) — —
+Net income attributable to ordinary shareholders 23,076 24,149 71,460 11,083
+Earnings per share/ADS attributable to ordinary shareholders 10
+Basic 10.61 10.33 29.07 4.51
+Diluted 10.00 9.70 27.89 4.33
+Weighted average number of share/ADS used in computing
+earnings per share/ADS (million share) 10
+Basic 2,175 2,337 2,458
+Diluted 2,332 2,500 2,562
+The accompanying notes form an integral part of these consolidated financial statements.
+F-3

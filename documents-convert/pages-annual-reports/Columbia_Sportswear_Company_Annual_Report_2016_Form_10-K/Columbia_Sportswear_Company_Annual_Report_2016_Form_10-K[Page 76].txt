@@ -1,0 +1,48 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(C0ntinued)
+The following table presents the balance sheet classification and fair value of derivative instruments (in thousands):
+7 December 31, 7
+i Balance Sheet Classiﬁcation _ 2016 2015
+Derivative instruments designated as cash ﬂow
+hedges:
+Derivative instruments in asset positions:
+I Currency forward contracts. . . . . . . . . . . . . Prepaid expenses and other current assets 33 9,805 $ 5,394 I
+Currency forward contracts. . . . . . . . . . . . . Other non-current assets 1,969 566
+I Derivative instruments in liability positions: I
+Currency forward contracts. . . . . . . . . . . . . Accrued liabilities 106 224
+I Derivative instruments not designated as hedges: I
+Derivative instruments in asset positions:
+I Currency forward contracts. . . . . . . . . . . . . Prepaid expenses and other current assets 1,361 1,328 I
+Derivative instruments in liability positions:
+I Currency forward contracts. . . . . . . . . . . . . Accrued liabilities 180 1,693 I
+The following table presents the effect and classification of derivative instruments for the years ended December 31,
+2016, 2015 and 2014 (in thousands):
+For the Year Ended
+7 December 31, 7
+Statement Of Operations 7 7
+Classiﬁcation 2016 2015 2014
+I Currency Forward Contracts: I
+Derivative instruments designated as cash ﬂow
+hedges:
+Gain recognized in other comprehensive
+income,netoftax................... — $ 583 $ 9,791 $ 9,462
+Gain (loss) reclassified from accumulated
+other comprehensive income to income
+for the effective portion. . . . . . . . . . . . . . Cost of sales (724) 15,446 2,727
+Loss reclassified from accumulated other
+comprehensive income to income as a
+result of cash ﬂow hedge discontinuance COSt 0f sales (24) — —
+Gain (loss) reclassified from accumulated
+other comprehensive income to income
+for the effective portion. . . . . . . . . . . . . . Net sales 115 385 (27)
+Gain (loss) recognized in income for
+amount excluded from effectiveness
+testing and for the ineffective portion . . . Cost of sales 1,240 (209) (353)‘
+Gain (loss) recognized in income for
+amount excluded from effectiveness
+testing and for the ineffective portion . . . Net sales 1 (30) —
+Derivative instruments not designated as
+hedges:
+Other non-operating
+Gain recognized in income . . . . . . . . . . . . . expense 2,739 2,838 7,111
+70

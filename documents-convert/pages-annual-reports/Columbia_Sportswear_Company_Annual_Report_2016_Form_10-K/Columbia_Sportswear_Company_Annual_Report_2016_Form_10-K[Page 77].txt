@@ -1,0 +1,32 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(C0ntinued)
+NOTE 20—FAIR VALUE MEASURES
+Certain assets and liabilities are reported at fair value on either a recurring or nonrecurring basis. Fair value is defined
+as an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants, under a three-tier fair value hierarchy that prioritizes the inputs used in measuring
+fair value as follows:
+Level 1 — observable inputs such as quoted prices for identical assets or liabilities in active liquid markets;
+Level 2 — inputs, other than the quoted market prices in active markets, that are observable, either directly or
+indirectly; or observable market prices in markets with insufficient volume or infrequent transactions;
+and
+Level 3 — unobservable inputs for which there is little or no market data available, that require the reporting entity
+to develop its own assumptions.
+Assets measured at fair value on a recurring basis as of December 31, 2016 are as follows (in thousands):
+Level 1 _ Level 2 _ Level 3 _ Total
+lAssets: ‘
+Cash equivalents:
+l Moneymarketfunds......................... $ 299,769 $ — $ — $ 299,769l
+Timedeposits.............................. 73,127 — — 73,127
+I Other short-term investments: 1
+Mutualfundshares.......................... 472 — — 472
+l Other current assets: 1
+Derivative financial instruments (Note 19). . . . . . . . — 11,166 — 11,166
+I Non-current assets: 1
+Derivative financial instruments (Note 19). . . . . . . . — 1,969 — 1,969
+l Mutualfundshares.......................... 8,411_ —_ —_ 8,4111
+Total assets measured at fair value . . . . . . . .. 7$ 381,779, 733 13,135 7$ —7 758 394,914,
+lLiabilities: ’ ’ ’ ’ ’ ’ ’ l
+Accrued liabilities:
+l Derivative financial instruments (Note 19). . . . . . . . $ — _ $ 286 _ $ — _ $ 286 1
+Total liabilities measured at fair value. . . . . . . 77$ —i 77$ 286i 77$ —i 77$ 28677
+71

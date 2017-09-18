@@ -1,0 +1,45 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES — (continued)
+Foreign Currency Translations— The Company accounts for currency translations in accordance
+with ASC 830, Foreign Currency Matters. The Company’s non-U.S. subsidiaries’ local currencies are
+the functional currencies under which the balance sheet accounts are translated into US. dollars at
+the rates of exchange in effect at fiscal year-end and income and expense accounts are translated at
+the weighted average rates of exchange in effect during the year. Translation adjustments resulting
+from this process are recognized as a separate component of accumulated other comprehensive
+loss, which is a component of equity.
+Foreign Currency Transactions — Gains and losses from foreign currency transactions are
+included in other income (expense), net, in the Consolidated Statements of Earnings. Net foreign
+currency transaction gains (losses) totaled $513,000 of gains in 2016, as compared to losses of
+($961,000) and ($268,000) in 2015 and 2014, respectively.
+The foreign currency transaction gains recognized in 2016 resulted mainly from unrealized gains
+on foreign exchange contracts entered into by Florsheim Australia. The foreign currency transaction
+losses recognized in 2015 resulted mainly from unrealized losses on foreign exchange contracts
+entered into by Florsheim Australia, as well as losses from the revaluation of intercompany loans
+between the Company’s wholesale segment and Florsheim Australia. The foreign currency
+transaction losses recognized in 2014 resulted mainly from the revaluation of intercompany loans
+between the Company’s wholesale segment and Florsheim Australia
+Financial Instruments =At December 31, 2016, the Company had foreign exchange contracts
+outstanding to sell $6.0 million Canadian dollars at a price of approximately $4.5 million US. dollars.
+Additionally, the Company’s majority-owned subsidiary, Florsheim Australia, had foreign exchange
+contracts outstanding to buy $2.6 million US. dollars at a price of approximately $3.5 million
+Australian dollars. These contracts all expire in 2017.
+Realized gains and losses on foreign exchange contracts are related to the purchase and sale of
+inventory and therefore are included in the Company’s net sales or cost of sales. In 2016, there were
+no significant realized gains or losses on foreign exchange contracts. In 2015, the Company
+recognized realized gains of $1.4 million related to foreign exchange contracts, and in 2014, there
+were no significant realized gains or losses related to foreign exchange contracts.
+Earnings Per Share — Basic earnings per share excludes any dilutive effects of restricted stock
+and options to purchase common stock. Diluted earnings per share includes any dilutive effects of
+restricted stock and options to purchase common stock. See Note 15.
+Comprehensive Income —Comprehensive income includes net earnings and changes in
+accumulated other comprehensive loss. Comprehensive income is reported in the Consolidated
+Statements of Comprehensive Income.
+The components of accumulated other comprehensive loss as recorded on the accompanying
+Consolidated Balance Sheets were as follows:
+2016 2015
+(Dollars in thousands)
+Foreign currency translation adjustments . . . . . . . . . . . . . . . . . $ (5,489) $ (5,691)
+Pension liability, net of tax ............................ (11,080) (12,776)
+Total accumulated other comprehensive loss . . . . . . . . . . . . . $(16,569) $(18,467)
+39

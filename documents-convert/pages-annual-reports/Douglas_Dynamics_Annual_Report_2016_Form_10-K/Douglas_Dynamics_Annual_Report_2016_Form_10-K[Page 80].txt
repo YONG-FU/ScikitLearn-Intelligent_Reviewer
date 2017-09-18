@@ -1,0 +1,36 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+2. Summary of Significant Accounting Policies (Continued)
+sales as well as a growth rate reduced by the market required rate of return. See reconciliation of
+liability included below:
+December 31,
+2016 2015
+BeginningBalance..................................... $761 $600
+— —
+Adjustmentstofairvalue................................ — 322
+Paymenttoformerowners (125) (161)
+Endingbalance $636 $761
+(e) Included in accrued expenses and other current liabilities in the amount of $1,606 at December 31,
+2015 is the fair value of an obligation for the potential earn out incurred in conjunction with the
+acquisition of substantially all of TrynEx Inc.’s (“TrynEx”) assets. Fair value is based upon Level 3
+inputs of a monte carlo simulation analysis using key inputs of forecasted future sales and financial
+performance as well as a growth rate reduced by the market required rate of return. See
+reconciliation of liability included below:
+December 31,
+2016 2015
+BeginningBalance $1,606 $1,987
+— —
+Adjustmentstofairvalue.............................. — (113)
+Paymentstoformerowners............................. (1,606) (268)
+Endingbalance $ — $1,606
+(f) Included in Accrued expenses and other current liabilities and Other long term liabilities in the
+amounts of $5,487 and $4,886, respectively, at December 31, 2016 is the fair value of an obligation
+for a portion of the potential earn out incurred in conjunction with the acquisition of Dejana. The
+carrying amount of the earn out approximates its fair value. Fair value is based upon Level 3
+inputs of a real options approach where gross sales were simulated in a risk-neutral framework
+using Geometric Brownian Motion, a well-accepted model of stock price behavior that is used in
+option pricing models such as the Black-Scholes option pricing model, using key inputs of
+forecasted future sales and financial performance as well as a risk adjusted expected growth rate
+F-17

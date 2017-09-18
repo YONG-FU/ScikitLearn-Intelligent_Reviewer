@@ -1,0 +1,51 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 1: Overview and Summary of Signiﬁcant Accounting Policies (Continued)
+to limit exposure from any particular institution. As part of its risk management processes, HP performs periodic evaluations of
+the relative credit standing of these financial institutions. HP has not sustained material credit losses from instruments held at
+these financial institutions. HP utilizes derivative contracts to protect against the eﬁects of foreign currency and interest rate
+exposures. Such contracts involve the risk of non-performance by the counterparty, which could result in a material loss. The
+likelihood of which HP deems to be remote.
+HP sells a significant portion of its products through third-party distributors and resellers and, as a result, maintains
+individually significant receivable balances with these parties. If the financial condition or operations of these distributors” and
+resellers’ aggregated business deteriorates substantially, HP’s operating results could be adversely aﬁected. The ten largest
+distributor and reseller receivable balances, which were concentrated primarily in North America and Europe, collectively
+represented approximately 34% and 42% of gross accounts receivable as of October 31, 2016 and 2015, respectively. No single
+customer accounts for more than 10% of gross accounts receivable as of October 31, 2016 or 2015. Credit risk with respect to
+other accounts receivable is generally diversified due to the large number of entities comprising HP’s customer base and their
+dispersion across many different industries and geographic regions. HP performs ongoing credit evaluations of the financial
+condition of its third-party distributors, resellers and other customers and may require collateral, such as letters of credit and
+bank guarantees, in certain circumstances.
+HP utilizes outsourced manufacturers around the world to manufacture HP-designed products. HP may purchase product
+components from suppliers and sell those components to its outsourced manufacturers thereby creating receivable balances
+from the outsourced manufacturers. The three largest outsourced manufacturer receivable balances collectively represented
+78% and 81% of HP’s supplier receivables of $774 million and $634 million as of October 31, 2016 and 2015, respectively. HP
+includes the supplier receivables in Other current assets in the Consolidated Balance Sheets on a gross basis. HP’s credit risk
+associated with these receivables is mitigated wholly or in part, by the amount HP owes to these outsourced manufacturers, as
+HP generally has the legal right to offset its payables to the outsourced manufacturers against these receivables. HP does not
+reﬂect the sale of these components in net revenue and does not recognize any profit on these component sales until the related
+products are sold by HP, at which time any profit is recognized as a reduction to cost of revenue.
+HP obtains a significant number of components from single source suppliers due to technology, availability, price, quality
+or other considerations. The loss of a single source supplier, the deterioration of HP’s relationship with a single source supplier,
+or any unilateral modification to the contractual terms under which HP is supplied components by a single source supplier
+could adversely affect HP’s net revenue and gross margins.
+Upon completion of the Separation on November 1, 2015, HP recorded net income tax indemnification receivables from
+Hewlett Packard Enterprise for certain income tax liabilities that HP is jointly and severally liable for, but for which it is
+indemnified by Hewlett Packard Enterprise under the tax matters agreement (“TMA”). The actual amount that Hewlett Packard
+Enterprise may be obligated to pay HP could vary depending upon the outcome of certain unresolved tax matters, which may
+not be resolved for several years. The net receivable as of October 31, 2016 was $1.6 billion.
+Inventory
+HP values inventory at the lower of cost or market. Cost is computed using standard cost which approximates actual cost
+on a first-in, first-out basis. Adjustments to reduce the cost of inventory to its net realizable value are made, if required, for
+estimated excess, obsolete or impaired balances.
+Property, Plant and Equipment
+HP states property, plant and equipment at cost less accumulated depreciation. HP capitalizes additions and improvements
+and expenses maintenance and repairs as incurred. Depreciation expense is recognized on a straight-line basis over the
+estimated useful lives of the assets. Estimated useful lives are five to 40 years for buildings and improvements and three to
+15 years for machinery and equipment. HP depreciates leasehold improvements over the life of the lease or the asset, whichever
+is shorter. HP depreciates equipment held for lease over the initial term of the lease to the equipment’s estimated residual value.
+On retirement or disposition, the asset cost and related accumulated depreciation are removed from the Consolidated Balance
+Sheets with any gain or loss recognized in the Consolidated Statements of Earnings.
+Goodwill
+66

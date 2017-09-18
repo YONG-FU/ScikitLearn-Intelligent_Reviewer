@@ -1,0 +1,42 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+As of June 30, 2015, in connection with the implementation of fresh start accounting, we adjusted our AROs to their estimated fair value.
+As of December 31, 2016 and 2015, our asset retirement obligations were as follows (in thousands):
+’Balance, January 1, 2015 — Predecessor Company 19,177 ‘
+New asset retirement obligations 3 5 0
+lAccretion 1,321 l
+Settlement of asset retirement obligations (168)
+’Foreign currency translation and other (2,01 1)!
+Balance, June 30, 2015 — Predecessor Company 18,669
+lFresh start adjustments 5,024 l
+Balance, July 1, 2015 — Successor Company 23,693
+iNew asset retirement obligations 547 ‘
+Accretion 1,688
+jSettlement of asset retirement obligations (1,3 3 7)}
+Foreign currency translation and other (4,949)
+’Balance, December 31, 2015 — Successor Company 19,642 1
+New asset retirement obligations 19 8
+{Change in assumptions (1,619)}
+Accretion 2,552
+’Settlement of asset retirement obligations (44 1
+Foreign currency translation and other 7,274
+jBalance, December 31, 2016 — Successor Company $ 27,606 1
+Derivative Financial Instruments. We occasionally enter into derivative transactions for hedging or risk management purposes. We have not and will
+not enter into any derivative transactions for speculative or proﬁt generating purposes. See Note 8 for additional information.
+Valuation of Long-Lived Assets. We review long-lived assets such as property, plant and equipment and identiﬁable intangible assets with deﬁnite
+useﬁll lives, which include our telecommunications licenses, for impairment whenever events or changes in circumstances indicate that the carrying amount
+may not be recoverable. If the total of the expected undiscounted future cash ﬂows of the asset or asset group is less than the carrying amount of the asset, we
+recognize a loss, if any, for the difference between the fair value and carrying value of the asset.
+Intangible Assets. Prior to our emergence from Chapter 11, intangible assets primarily consisted of our telecommunications licenses. We amortize our
+intangible assets using the straight-line method over the estimated beneﬁt period. As a result of the implementation of fresh start accounting in connection
+with our emergence from Chapter 11, we recorded our intangible assets, which consisted of our telecommunications licenses, our exclusive right to use the
+Nextel tradename in Brazil and our customer relationships, at their estimated fair values. We calculate amortization on our licenses using the straight—line
+method based on an estimated useful life of 26 to 30 years. We calculate amortization on our customer relationships using the straight-line method based on
+an estimated useful life of 4 years.
+In Brazil, licenses are customarily issued conditionally for speciﬁed periods of time ranging from 10 to 40 years, including renewals. In addition, the
+wireless telecommunications industry is experiencing signiﬁcant technological change, and the commercial life of any particular technology is difﬁcult to
+predict. In light of these uncertainties, we classify our licenses as deﬁnite lived intangible assets. In connection with the implementation of fresh start
+accounting, we revised the remaining estimated useﬁll lives of our licenses to include renewal periods in cases where it is probable that a renewal will occur.
+Revenue Recognition. Operating revenues primarily consist of wireless service revenues and revenues generated from the sale of handsets and
+accessories. We present our operating revenues net of value-added taxes, but we include certain revenue-based taxes that are our primary obligation.
+F—12

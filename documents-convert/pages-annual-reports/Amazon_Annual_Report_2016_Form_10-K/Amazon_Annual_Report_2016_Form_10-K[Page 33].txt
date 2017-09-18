@@ -1,0 +1,28 @@
+Table of Contents
+Based upon quoted market prices and Level 2 inputs, the fair value of our total debt was $9.3 billion as of December 31, 2016.
+Foreign Exchange Risk
+During 2016, net sales from our International segment accounted for 32% of our consolidated revenues. Net sales and related expenses generated from
+our intemationally-focused websites, and from www.amazon.ca and www.amazon.com.mx (which are included in our North America segment), are primarily
+denominated in the functional currencies of the corresponding websites and primarily include Euros, Japanese Yen, and British Pounds. The results of
+operations of, and certain of our intercompany balances associated with, our intemationally-focused websites and AWS are exposed to foreign exchange rate
+ﬂuctuations. Upon consolidation, as foreign exchange rates vary, net sales and other operating results may differ materially from expectations, and we may
+record signiﬁcant gains or losses on the remeasurement of intercompany balances. For example, as a result of ﬂuctuations in foreign exchange rates during
+2016, International segment net sales decreased by $489 million in comparison with the prior year.
+We have foreign exchange risk related to foreign-denominated cash, cash equivalents, and marketable securities (“foreign funds”). Based on the
+balance of foreign funds as of December 31, 2016, of $9.1 billion, an assumed 5%, 10%, and 20% adverse change to foreign exchange would result in fair
+value declines of $455 million, $915 million, and $1.8 billion. All investments are classiﬁed as “available-for—sale.” Fluctuations in fair value are recorded in
+“Accumulated other comprehensive loss,” a separate component of stockholders’ equity.
+We have foreign exchange risk related to our intercompany balances denominated in various foreign currencies. Based on the intercompany balances
+as of December 31, 2016, an assumed 5%, 10%, and 20% adverse change to foreign exchange would result in losses of $225 million, $476 million, and $1.1
+billion, recorded to “Other income (expense), net.”
+See Item 7 of Part H, “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Results of Operations—Effect of
+Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates.
+Investment Risk
+As of December 31, 2016, our recorded value in equity and equity warrant investments in public and private companies was $467 million. We record
+our equity and equity warrant investments in publicly traded companies at fair value, which is subject to market price volatility, and represents $242 million
+of our investments as of December 31, 2016. We evaluate our equity and equity warrant investments in private companies for impairment when events and
+circumstances indicate that the decline in fair value of such assets below the carrying value is other-than-temporary. Our analysis includes a review of recent
+operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. The current global economic climate
+provides additional uncertainty. Valuations of private companies are inherently more complex due to the lack of readily available market data. As such, we
+believe that market sensitivities are not practicable.
+33

@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+products. Any failure, or perceived failure, by Oracle to comply with US. federal, state, or foreign laws and regulations, including laws and regulations regulating
+privacy, data security, or consumer protection, or other policies, public perception, standards, self-regulatory requirements or legal obligations, could result in lost
+or restricted business, proceedings, actions or fines brought against us or levied by governmental entities or others, or could adversely affect our business and harm
+our reputation.
+We might experience significant coding, manufacturing or conﬁguration errors in our software, hardware and cloud offerings. Despite testing prior to the
+release and throughout the lifecycle of a product or service, our software, hardware and cloud offerings sometimes contain coding or manufacturing errors that can
+impact their function, performance and security, and result in other negative consequences. The detection and correction of any errors in released software,
+hardware or cloud offerings can be time consuming and costly. Errors in our software, hardware or cloud offerings could affect their ability to properly function or
+operate with other software, hardware or cloud offerings, could delay the development or release of new products or services or new versions of products or
+services, could create security vulnerabilities in our products or services, and could adversely affect market acceptance of our products or services. This includes
+third-party software products or services incorporated into our own. If we experience errors or delays in releasing our software, hardware or cloud offerings or new
+versions thereof, our sales could be affected and revenues could decline. In addition, we run Oracle’s business operations as well as cloud and other services that
+we offer to our customers on our products and networks. Therefore, any ﬂaws could affect our ability to conduct our business operations and the operations of our
+customers. Enterprise customers rely on our software, hardware and cloud offerings and services to run their businesses and errors in our software, hardware or
+cloud offerings could expose us to product liability, performance and warranty claims as well as significant harm to our brand and reputation, which could impact
+our future sales.
+We may fail to achieve our financial forecasts due to inaccurate sales forecasts or other factors. Our revenues, particularly our new software licenses revenues
+and hardware revenues, are difficult to forecast. As a result, our quarterly operating results can ﬂuctuate substantially.
+We use a “pipeline” system, a common industry practice, to forecast sales and trends in our business. Our sales personnel monitor the status of all proposals and
+estimate when a customer will make a purchase decision and the dollar amount of the sale. These estimates are aggregated periodically to generate a sales pipeline.
+Our pipeline estimates can prove to be unreliable both in a particular quarter and over a longer period of time, in part because the “conversion rate” or “closure
+rate” of the pipeline into contracts can be very difficult to estimate. A reduction in the conversion rate, or in the pipeline itself, could cause us to plan or budget
+incorrectly and adversely affect our business or results of operations. In particular, a slowdown in IT spending or economic conditions generally can unexpectedly
+reduce the conversion rate in particular periods as purchasing decisions are delayed, reduced in amount or cancelled. The conversion rate can also be affected by
+the tendency of some of our customers to wait until the end of a fiscal period in the hope of obtaining more favorable terms, which can also impede our ability to
+negotiate, execute and deliver upon these contracts in a timely manner. In addition, for newly acquired companies, we have limited ability to predict how their
+pipelines will convert into sales or revenues for a number of quarters following the acquisition. Conversion rates post-acquisition may be quite different from the
+acquired companies’ historical conversion rates. Differences in conversion rates can also be affected by changes in business practices that we implement in our
+newly acquired companies. These changes may negatively affect customer behavior.
+A substantial portion of our new software licenses and hardware contracts is completed in the latter part of a quarter and a significant percentage of these are larger
+orders. Because a significant portion of our cost structure is largely fixed in the short term, sales and revenue shortfalls tend to have a disproportionately negative
+impact on our profitability. The number of large new software licenses transactions and, to a lesser extent, hardware products transactions increases the risk of
+ﬂuctuations in our quarterly results because a delay in even a small number of these transactions could cause our quarterly sales, revenues and profitability to fall
+significantly short of our predictions.
+We may experience foreign currency gains and losses. Changes in currency exchange rates can adversely affect customer demand and our revenue and
+proﬁtability. We conduct a significant number of transactions and hold cash in currencies other than the US. Dollar. Changes in the values of major foreign
+currencies,
+24

@@ -1,0 +1,51 @@
+MINERALS TECHNOLOGIES INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Acquired intangible assets subject to amortization as of December 31, 2016 and December 31, 2015 were as follows:
+| | Weighted | December 31, 2016 | December 31, 2015 |
+Average
+Useful Life Gross Gross
+(Years) I Carrying l Accumulated l Carrying l Accumulated l
+Amount Amortization Amount Amortization
+| (millions of dollars) I
+Tradenames 34 $ 199.8 $ 15.3 $ 199.8 $ 9.3
+Technology 12 18.8 3.6 18.8 2.5
+Patents and trademarks 17 6.4 4.8 6.4 4.4
+Customer relationships ﬂ 7 4.5 7 7 1.4 7 7 4.5 7 7 0.6 7
+| 28 |$ 229.5|$ 25.1| 7:$ 229.5|$ 16.8|
+The weighted average amortization period of the acquired intangible assets subject to amortization is approximately 28
+years. Amortization expense was approximately $8.2 million, $7 .9 million and $4.6 million for the years ended December
+31, 2016, 2015 and 2014, respectively and is recorded within the Marketing and administrative expenses line within the
+Consolidated Statements of Income. The estimated amortization expense is $7.9 million annually for 2017-2021, and $164.9
+million thereafter.
+Note 11. Derivative Financial Instruments and Hedging Activities
+As a multinational corporation with operations throughout the world, the Company is exposed to certain market risks.
+The Company uses a variety of practices to manage these market risks, including, when considered appropriate, derivative
+ﬁnancial instruments. The Company's objective is to offset gains and losses resulting from interest rates and foreign currency
+exposures with gains and losses on the derivative contracts used to hedge them. The Company uses derivative ﬁnancial
+instruments only for risk management and not for trading or speculative purposes.
+By using derivative ﬁnancial instruments to hedge exposures to changes in interest rates and foreign currencies, the
+Company exposes itself to credit risk and market risk. Credit risk is the risk that the counterparty will fail to perform under
+the terms of the derivative contract. When the fair value of a derivative contract is positive, the counterparty owes the
+Company, which creates credit risk for the Company. When the fair value of a derivative contract is negative, the Company
+owes the counterparty, and therefore, it does not face any credit risk. The Company minimizes the credit risk in derivative
+instruments by entering into transactions with major ﬁnancial institutions.
+Market risk is the adverse effect on the value of a ﬁnancial instrument that results from a change in interest rates, currency
+exchange rates, or commodity prices. The market risk associated with interest rate and forward exchange contracts is
+managed by establishing and monitoring parameters that limit the types and degree of market risk that may be undertaken.
+Cash/low hedges:
+For derivative instruments that are designated and qualify as cash ﬂow hedges, the Company records the effective portion
+of the gain or loss in accumulated other comprehensive income (loss) as a separate component of shareholders' equity. The
+Company subsequently reclassiﬁes the effective portion of gain or loss into earnings in the period during which the hedged
+transaction is recognized in earnings.
+The Company utilizes interest rate swaps to limit exposure to market ﬂuctuations on ﬂoating-rate debt. During the
+second quarter of 2016, the Company entered into a ﬂoating to ﬁxed interest rate swap for an initial aggregate notional
+amount of $300 million. The notional amount at December 31, 2016 was $257 million. This interest rate swap is designated
+as a cash ﬂow hedge. The gains and losses associated with this interest rate swap are recorded in accumulated other
+comprehensive income (loss). The fair value of this swap was an asset of $2.5 million at December 31, 2016 and is recorded
+in other assets and deferred charges on the Consolidated Balance Sheet.
+In addition, the Company uses foreign exchange forward contracts to protect against foreign currency exchange rate risks
+inherent in its forecasted inventory purchases. The Company had 2 open foreign exchange contracts as of December 31,
+2016, designated as cash ﬂow hedges. The gains and losses associated with these forward exchange contracts are recognized
+into cost of sales. Gains and losses and hedge ineffectiveness associated with these derivatives were not signiﬁcant. The fair
+value of these contracts at December 31, 2016 and 2015 was not signiﬁcant.
+F-22

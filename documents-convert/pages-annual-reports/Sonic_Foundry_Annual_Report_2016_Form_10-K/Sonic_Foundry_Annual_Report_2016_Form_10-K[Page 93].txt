@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+We had billings for Mediasite product and support services as a percentage of total billings to one distributor of approximately
+14% in 2016 and 10% in 2015 and to a second distributor of approximately 13% in 2016 and 12% in 2015 . At September 30,
+2016 and 2015, these two distributors represented 28% and 22% of total accounts receivable, respectively.
+Currently all of our product inventory purchases are from one third-party contract manufacturer. Although we believe there are
+multiple sources of supply from other contract manufacturers as well as multiple suppliers of component parts required by the
+contract manufacturers, a disruption of supply of component parts or completed products, even if short term, would have a
+material negative impact on our revenues. At September 30, 2016 and 2015, this supplier represented 40% and 49%, respectively,
+of total accounts payable. We also license technology from third parties that is embedded in our software. We believe there are
+alternative sources of similar licensed technology from other third parties that we could also embed in our software, although it
+could create potential programming related issues that might require engineering resources.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash
+equivalents. As of September 30, 2016, of the $1.8 million aggregate cash and cash equivalents held by the Company, the amount
+of cash and cash equivalents held by our foreign subsidiaries was $1.6 million. If the funds held by our foreign subsidiaries were
+needed for our operations in the United States, the repatriation of some of these funds to the United States could require payment
+of additional U.S. taxes.
+Trade Accounts Receivable
+The majority of the Company’s accounts receivable are due from entities in, or distributors or value added resellers to, the
+education, corporate and government sectors. Credit is extended based on evaluation of a customer’s financial condition and,
+generally, collateral is not required. Accounts receivable are typically due within 30 days and are stated at amounts due from
+customers net of an allowance for doubtful accounts. Accounts outstanding longer than the contractual payment terms are
+considered to be past due. The Company determines its allowance by considering a number of factors, including the length of
+time trade accounts receivable are past due, the Company’s previous loss history, the customer’s current ability to pay its
+obligation to the Company, and the condition of the general economy and the industry as a whole. The Company writes-off
+accounts receivable when they become uncollectible, and payments subsequently received on such receivables are credited to the
+allowance for doubtful accounts. Interest is not accrued on past due receivables.
+Inventmy Valuation
+Inventory consists of raw materials and supplies used in the assembly of Mediasite recorders and finished units. Inventory of
+completed units and spare parts are carried at the lower of cost or market, with cost determined on a ﬁrst-in, first-out basis.
+Inventory consists of the following (in thousands):
+: September 30, :
+: 2016 : : 2015 :
+Raw materials and supplies $ 149 $ 254
+Finished goods : 1,755 : : 2,131 :
+:$ 1,904 : 2,385 :
+Capitalized Software Development Costs
+Software development costs incurred in conjunction with product development are charged to research and development expense
+until technological feasibility is established. Thereafter, until the product is released for sale, software development costs are
+capitalized and reported at the net realizable value of the related product. Typically the period between achieving technological
+feasibility of the Company’s products and the general availability of the products has been short. Consequently, software
+53

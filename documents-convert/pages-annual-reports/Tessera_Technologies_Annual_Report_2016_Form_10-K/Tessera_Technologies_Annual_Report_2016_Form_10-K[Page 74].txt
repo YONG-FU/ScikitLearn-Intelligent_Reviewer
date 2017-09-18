@@ -1,0 +1,47 @@
+Table of Contents
+December 31,
+2015 _ 2014
+’Deferred tax assets l
+Net operating loss carryforwards $ 15,268 $ 15,053
+I Research tax credit 5,438 8,332 ‘
+Foreign tax credit 5,587 22,885
+I Expenses not currently deductible 12,453 15,096 ‘
+Basis difference in ﬁxed and intangible assets 4,227 7,090
+lGross deferred tax assets 42,973 68,456 ‘
+Valuation allowance (13,852) (27,087)
+'Net deferred tax assets 29,121 41,369 ‘
+Deferred tax liabilities
+1 Acquired intangible assets, foreign (13,597) (276) l
+Unremitted earnings of foreign subsidiaries (130) (187)
+'Net deferred tax assets 55 15,394 $ 40,906 l
+At December 31, 2015 and 2014, the Company had a valuation allowance of $13.9 million and $27.1 million , respectively, related to federal, state, and foreign tax
+attributes that the Company believes to be not realizable on a more-likely-than-not basis. The decrease of $13.2 million was due to a valuation allowance that was
+released against certain deferred tax assets, primarily consisting of Ireland deferred tax assets, as the Company concluded such assets were realizable. The need for
+a valuation allowance requires an assessment of both positive and negative evidence when determining whether it is more likely than not that deferred tax assets
+are recoverable. Such assessment is required on a jurisdiction—by-jurisdiction basis. In making such assessment, signiﬁcant weight is given to evidence that can be
+objectively verified. After considering both negative and positive evidence to assess the recoverability of the Company's net deferred tax assets during the 2015
+year, the Company determined that it was more likely than not that it would realize certain deferred tax assets given current certainties regarding the timing of
+profits and forecasted future profitability within the Ireland tax jurisdiction. The Company will continue to monitor the likelihood that it will be able to recover the
+deferred tax assets in the future, including those for which a valuation allowance is still recorded. This determination includes objectively verifiable positive
+evidence that outweighs potential negative evidence.
+A reconciliation of the statutory US. federal income tax rate to the Company’s effective tax rate is as follows:
+Years Ended December 31,
+2015 _ 2014 _ 2013
+IUS. federal statutory rate 35.0 % 35.0 % (35.0)%‘
+State, net of federal benefit — — 0.1
+lStock-based compensation expense 0.5 0.3 4.0 ‘
+Tax exempt interest (0.1) — (2.6)
+Research tax credit and other (0.3) (0.3) (11.2) ‘
+Foreign withholding tax 15.7 18.8 292.5
+’Foreign losses not beneﬁted — — (32.8) ‘
+Foreign tax rate differential (2.8) (2.2) (7.4)
+’Foreign tax credit (15.3) (17.9) — ‘
+Change in valuation allowance (3.0) (38.7) 491.1
+)Others (0.4) 0.4 11.5 1
+Total 29.3 % (4.6)% 710.2 %
+As of December 31, 2015, the Company had federal net operating loss carryforwards of approximately $15.0 million and state net operating loss carryforwards of
+approximately $64.8 million. The federal net operating loss carryforwards are carried over from Ziptronix, Inc., acquired in 2015. The state net operating loss
+carryforwards are carried over from acquired entities, Siimpel Corporation in 2010 and Ziptronix, Inc. in 2015. These operating loss carryforwards, if not utilized,
+will begin to expire on various dates beginning in 2016, and will continue to expire through 2031. In addition, the Company has research tax credit carryforwards
+of approximately $0.3 million for federal purposes, which were carried over from Ziptronix, Inc. The
+F - 26

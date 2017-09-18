@@ -1,0 +1,33 @@
+Signiﬁcant accounting policies and practices
+Revenue recognition
+We recognize revenue from sales of our products, including sales to our distributors, when title and risk of loss pass, which usually
+occurs upon shipment or delivery to the customer or distributor, depending upon the terms of the sales order; when persuasive
+evidence of an arrangement exists; when sales amounts are fixed or determinable; and when collectability is reasonably assured.
+For sales to distributors, payment is due on our standard commercial terms and is not contingent upon resale of the products.
+Revenue from sales of our products that are subject to inventory consignment agreements, including consignment arrangements
+with distributors, is recognized in accordance with the principles discussed above. Delivery occurs when the customer or
+distributor pulls product from consignment inventory that we store at designated locations. 3
+6
+We recognize revenue net of allowances, which are management’s estimates of future credits to be granted to customers or ;
+distributors under programs common in the semiconductor industry. These allowances, which are not material, generally include g;
+volume-based incentives, product returns due to quality issues, incentives designed to maximize growth opportunities and special 8
+pricing arrangements. Allowances are based on analysis of historical data, current economic conditions and contractual terms and
+are recorded when revenue is recognized. We believe we can reasonably and reliably estimate allowances for credits to
+distributors in a timely manner.
+In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of
+accounts receivable primarily through review of the accounts receivable aging. When collection is at risk, we assess the impact on
+amounts recorded for bad debts and, if necessary, will record a charge in the period such determination is made.
+We recognize in revenue shipping fees, if any, received from customers. We include shipping and handling costs in COR. The
+majority of our customers pay these fees directly to third parties.
+Advertising costs
+We expense advertising and other promotional costs as incurred. This expense was $44 million in 2016, $46 million in 2015 and
+$45 million in 2014.
+Income taxes
+We account for income taxes using an asset and liability approach. We record the amount of taxes payable or refundable for the
+current year and the deferred tax assets and liabilities for future tax consequences of events that have been recognized in the
+financial statements or tax returns. We record a valuation allowance when it is more likely than not that some or all of the deferred
+tax assets will not be realized.
+Other assessed taxes
+Some transactions require us to collect taxes such as sales, value-added and excise taxes from our customers. These transactions
+are presented in our Consolidated Statements of Income on a net (excluded from revenue) basis.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 33

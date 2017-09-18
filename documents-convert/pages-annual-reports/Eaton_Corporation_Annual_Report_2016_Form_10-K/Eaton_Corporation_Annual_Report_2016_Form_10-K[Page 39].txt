@@ -1,0 +1,40 @@
+The estimated pretax net amounts that will be recognized from Accumulated other comprehensive loss into net periodic
+beneﬁt cost in 2017 follow:
+United States Non—United States Other postretirement
+7 pension liabilities 7 7 pension liabilities 7 7 liabilities 7
+[Actuarial loss $ 142 $ 54 $ 2 j
+Prior service cost (credit) 7 1 7 7 1 7 7 (14),
+[ Total :$ 143 i is 55: is (12)|
+Retirement Beneﬁts Plans Assumptions
+For purposes of determining liabilities related to pension plans and other postretirement beneﬁts plans in the United States,
+the Company updated its mortality assumption in 2014 to use the RP-2014 tables with a generational improvement scale based
+on NIP-2014. In 2015, the Company updated its mortality assumption to use 2014 tables and a generational improvement scale
+that are based on MP-2015. In 2016, the Company updated its mortality assumption to use 2014 tables and a generational
+improvement scale that are based on MP-2016.
+In 2016, the Company adopted a change in the method it uses to estimate the service and interest cost components of net
+periodic beneﬁt cost for its deﬁned beneﬁt pension and other postretirement beneﬁt plans. Prior to 2016, for the vast majority
+of its plans, the service and interest cost components were estimated using a single weighted-average discount rate derived
+from the yield curve used to measure the beneﬁt obligation at the beginning of the period. Beginning in 2016, the Company
+used a spot rate approach by applying the speciﬁc spot rates along the yield curve to the relevant projected cash ﬂows in the
+estimation of the service and interest components of beneﬁt cost, resulting in a more precise measurement. This change does
+not affect the measurement of total beneﬁt obligations. The change was accounted for as a change in estimate and, accordingly,
+was accounted for prospectively starting in 2016. The reductions in service cost and interest cost for 2016 associated with this
+change in estimate were $3 and $42, respectively.
+Pension Plans
+United States Non-United States
+7 pension plans 7 7 pension plans 7
+2016 if 2015 if 2014 2016 if 2015 if 2014
+[Assumptions used to determine beneﬁt obligation at year-end J
+Discount rate 4.12% 4.22% 3.97% 2.63% 3.46% 3.33%
+[ Rate of compensation increase 3.15% 3.18% 3.16% 3.13% 3.12% 3.13%]
+Assumptions used to determine expense
+[ Discount rate used to determine beneﬁt obligation 4.22% 3.97% 4.67% 3.46% 3.33% 4.20%]
+Discount rate used to determine service cost 4.35% 3.97% 4.67% 4.13% 3.33% 4.20%
+[ Discount rate used to determine interest cost 3.42% 3.97% 4.67% 3.07% 3.33% 4.20%]
+Expected long-term return on plan assets 8.50% 8.50% 8.40% 6.62% 6.92% 7.00%
+[ Rate of compensation increase 3.18% 3.16% 3.16% 3.12% 3.13% 3.12%]
+The expected long-term rate of return on pension assets was determined for each country and reﬂects long-term historical
+data taking into account each plan's target asset allocation. The expected long-term rates of return on pension assets for United
+States pension plans and Non-United States pension plans for 2017 are 7.90% and 6.30%, respectively. The discount rates were
+determined using appropriate bond data for each country.
+32

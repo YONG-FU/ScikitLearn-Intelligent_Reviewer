@@ -1,0 +1,54 @@
+Assets and liabilities recognized or disclosed at fair value on a nonrecurring basis include items such as property, plant and
+equipment, goodwill and other intangible assets, equity and cost method investments and other assets. We determine the fair
+value of these items using Level 3 inputs, as described in the related sections below.
+Derivative Instruments
+We manage our exposure to various risks within our consolidated financial statements according to a market price risk
+management policy. Under this policy, we may engage in transactions involving various derivative instruments to hedge
+interest rates, commodity prices and foreign currency denominated revenue streams, inventory purchases, assets and liabilities
+and investments in certain foreign operations. In order to manage our exposure to these risks, we use various types of derivative
+instruments including forward contracts, commodity futures contracts, collars and swaps. Forward contracts and commodity
+futures contracts are agreements to buy or sell a quantity of a currency or commodity at a predetermined future date and at a
+predetermined rate or price. A collar is a strategy that uses a combination of a purchased call option and a sold put option with
+equal premiums to hedge a portion of anticipated cash ﬂows, or to limit the range of possible gains or losses on an underlying
+asset or liability to a specific range. A swap agreement is a contract between two parties to exchange cash ﬂows based on
+specified underlying notional amounts, assets and/or indices. We do not enter into derivative instruments for speculative
+purposes.
+We record all derivatives on our consolidated balance sheets at fair value. We generally do not offset derivative assets and
+liabilities in our consolidated balance sheets or enter into derivative instruments with maturities longer than three years.
+However, we are allowed to net settle transactions with respective counterparties for certain derivative contracts, inclusive of
+interest rate swaps and foreign currency forwards, with a single, net amount payable by one party to the other. We also enter
+into collateral security arrangements that provide for collateral to be received or posted when the net fair value of certain
+financial instruments ﬂuctuates from contractually established thresholds. As of October 2, 2016 and September 27, 2015, we
+posted and received $19.5 million and $2.6 million, respectively, of cash collateral related to the derivative instruments under
+collateral security arrangements. As of October 2, 2016 and September 27, 2015, the potential effects of netting arrangements
+with our derivative contracts, excluding the effects of collateral, would be a reduction to both derivative assets and liabilities of
+$9.4 million and $12.5 million, respectively, resulting in a net derivative asset of $24.7 million and net derivative liabilities of
+$80.2 million as of October 2, 2016, and net derivative assets of $93.0 million and net derivative liabilities of $21.2 million as
+of September 27, 2015.
+By using these derivative instruments, we expose ourselves to potential credit risk. Credit risk is the failure of the counterparty
+to perform under the terms of the derivative contract. We minimize this credit risk by entering into transactions with careﬁally
+selected, credit-worthy counterparties and distribute contracts among several financial institutions to reduce the concentration
+of credit risk.
+Cash F low Hedges
+For derivative instruments that are designated and qualify as a cash ﬂow hedge, the effective portion of the derivative's gain or
+loss is reported as a component of other comprehensive income ("OCI") and recorded in accumulated other comprehensive
+income ("AOCI") on our consolidated balance sheets. The gain or loss is subsequently reclassified into net earnings when the
+hedged exposure affects net earnings.
+To the extent that the change in the fair value of the contract corresponds to the change in the value of the anticipated
+transaction using forward rates on a monthly basis, the hedge is considered effective and is recognized as described above. The
+remaining change in fair value of the contract represents the ineffective portion, which is immediately recorded in interest
+income and other, net on our consolidated statements of earnings.
+Cash ﬂow hedges related to anticipated transactions are designated and documented at the inception of each hedge by matching
+the terms of the contract to the underlying transaction. Cash ﬂows from hedging transactions are classified in the same
+categories as the cash ﬂows from the respective hedged items. Once established, cash ﬂow hedges generally remain designated
+as such until the hedge item impacts net earnings, or the anticipated transaction is no longer likely to occur. For de—designated
+cash ﬂow hedges or for transactions that are no longer likely to occur, the related accumulated derivative gains or losses are
+recognized in interest income and other, net or interest expense on our consolidated statements of earnings based on the nature
+of the underlying transaction.
+Net Investment Hedges
+For derivative instruments that are designated and qualify as a net investment hedge, the effective portion of the derivative's
+gain or loss is reported as a component of OCI and recorded in AOCI. The gain or loss will be subsequently reclassified into net
+earnings when the hedged net investment is either sold or substantially liquidated.
+To the extent that the change in the fair value of the forward contract corresponds to the change in value of the anticipated
+transactions using spot rates on a monthly basis, the hedge is considered effective and is recognized as described above. The
+Starbucks Corporation 2016 Form 10-K 53

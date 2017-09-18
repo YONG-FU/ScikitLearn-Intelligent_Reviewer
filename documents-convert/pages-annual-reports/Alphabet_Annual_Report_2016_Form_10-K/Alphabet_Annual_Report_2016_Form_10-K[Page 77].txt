@@ -1,0 +1,45 @@
+IaibleiofiCiontents Alphabet Inc.
+Year Ended December 31,
+: 2016 :
+: Class A Class B Class C :
+I Basic net income per share: _ _ I
+Numerator
+I Allocation of undistributed earnings 8,332 1,384 9,762 I
+Denominator
+I Number of shares used in per share computation 294,217 48,859 344,702 I
+Basic net income per share $ 28.32 $ 28.32 $ 28.32
+I Diluted net income per share: T I
+Numerator
+I Allocation of undistributed earnings for basic computation $ 8,332 $ 1,384 $ 9,762 I
+Effect of dilutive securities in equity method investments and subsidiaries (9) (2) (10)
+I Allocation of undistributed earnings for diluted computation : 8,323 1,382 9,752I
+Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares 1382 o o
+I Reallocation of undistributed earnings (94) (21) 94 I
+Allocation of undistributed earnings 9,611 1,361 9,846
+I Denominator : I
+Number of shares used in basic computation 294,217 48,859 344,702
+I Weighted-average effect of dilutive securities I
+Add:
+I Conversion of Class B to Class A common shares outstanding 48,859 0 o I
+Restricted stock units and other contingently issuable shares 2055 0 8,873
+I Number of shares used in per share computation 345,131 _ 48,859 _ 353,575 I
+Diluted net income per share $ 27.85 $ 27.85 $ 27.85
+Note 12. Stockholders’ Equity
+Convertible Preferred Stock
+Our board of directors has authorized 100 million shares of convertible preferred stock, $0.001 par value, issuable
+in series. As of December 31, 2015 and 2016, there were no shares issued or outstanding.
+Class A and Class B Common Stock and Class C Capital Stock
+Our board of directors has authorized three classes of stock, Class A and Class B common stock, and Class C
+capital stock. The rights of the holders of each class of our common and capital stock are identical, except with respect
+to voting. Each share of Class A common stock is entitled to one vote per share. Each share of Class B common stock
+is entitled to 10 votes per share. Class C capital stock has no voting rights, except as required by applicable law.
+Shares of Class B common stock may be converted at any time at the option of the stockholder and automatically
+convert upon sale or transfer to Class A common stock.
+Stock Plans
+Under our 2012 Stock Plan, RSUs or stock options may be granted. An RSU award is an agreement to issue
+shares of our publicly traded stock at the time the award vests. Incentive and non-qualified stock options, or rights to
+purchase common stock, are generally granted for a term of 10 years. Options and RSUs granted to participants under
+the 2012 Stock Plan generally vest over four years contingent upon employment or service with us on the vesting date.
+As of December 31, 2016, there were 26,206,647 shares of stock reserved for future issuance under our Stock
+Plan.
+74

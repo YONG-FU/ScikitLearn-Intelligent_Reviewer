@@ -1,0 +1,30 @@
+For Years Ended December 31,
+Consolidated Statements oflncome 2016 2015 2014
+(Millions of dollars, except share and per-share amounts)
+Revenue $13,370 $13,000 $13,045
+Costofrevenue(COR) 5,130 5,440 5,618
+8,240 7,560 7,427
+Researchanddevelopment(R&D)............................................ 1,370 1,280 1,358
+Selling,generalandadministrative(SG&A)..................................... 1,767 1,748 1,843
+Acquisitioncharges...................................................... 319 329 330
+'3 Restructuringcharges/other................................................ (15) (71) (51)
+g Operatingprofit......................................................... 4,799 4,274 3,947
+3 0therincome(expense),net(OI&E)........................................... 211 32 21
+5‘ Interestanddebtexpense................................................. 80 90 94
+Incomebeforeincometaxes................................................ 4,930 4,216 3,874
+Provisionforincometaxes................................................. 1,335 1,230 1,053
+$3,595 $2,986 $2,821
+Earnings per common share (EPS):
+$ 3.54 $ 2.86 $ 2.61
+$ 3.48 $ 2.82 $ 2.57
+Average shares outstanding (millions):
+1,003 1,030 1,065
+1,021 1,043 1,080
+Cashdividendsdeclaredpercommonshare.................................... $ 1.64 $ 1.40 $ 1.24
+Asaresult of accounting rule A80 260, which requiresaportion of Net income to be allocated to unvested restricted stock units
+(RSUs) on which we pay dividend equivalents, diluted EPS is calculated using the following:
+$3,595 $2,986 $2,821
+IncomeallocatedtoRSUs.................................................. (44) (42) (43)
+Income allocatedto common stockfordiluted EPS $ 3,551 $ 2,944 $ 2,778
+See accompanying notes.
+26 TEXAS INSTRUMENTS - 2016 FORM10-K

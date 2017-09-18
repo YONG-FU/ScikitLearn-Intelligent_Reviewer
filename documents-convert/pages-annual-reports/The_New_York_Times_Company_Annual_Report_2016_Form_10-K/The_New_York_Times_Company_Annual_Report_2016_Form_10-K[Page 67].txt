@@ -1,0 +1,49 @@
+Revenue Recognition
+Circulation revenues include single-copy and subscription revenues. Circulation revenues are based on the
+number of copies of the printed newspaper (through home-delivery subscriptions and single-copy sales) and digital
+subscriptions sold and the rates charged to the respective customers. Single-copy revenue is recognized based on date
+of publication, net of provisions for related returns. Proceeds from subscription revenues are deferred at the time of
+sale and are recognized in earnings on a pro rata basis over the terms of the subscriptions. When our digital
+subscriptions are sold through third parties, we are a principal in the transaction and, therefore, revenues and related
+costs to third parties for these sales are reported on a gross basis. Several factors are considered to determine whether
+we are a principal, most notably whether we are the primary obligor to the customer and have determined the selling
+price and product specifications.
+Advertising revenues are recognized when advertisements are published in newspapers or placed on digital
+platforms or, with respect to certain digital advertising, each time a user clicks on certain advertisements, net of
+provisions for estimated rebates and rate adjustments.
+We recognize a rebate obligation as a reduction of revenues, based on the amount of estimated rebates that will
+be earned and claimed, related to the underlying revenue transactions during the period. Measurement of the rebate
+obligation is estimated based on the historical experience of the number of customers that ultimately earn and use the
+rebate. We recognize an obligation for rate adjustments as a reduction of revenues, based on the amount of estimated
+post-billing adjustments that will be claimed. Measurement of the rate adjustment obligation is estimated based on
+historical experience of credits actually issued.
+Other revenues are recognized when the related service or product has been delivered.
+Income Taxes
+Income taxes are recognized for the following: (1) amount of taxes payable for the current year and (2) deferred
+tax assets and liabilities for the future tax consequence of events that have been recognized differently in the financial
+statements than for tax purposes. Deferred tax assets and liabilities are established using statutory tax rates and are
+adjusted for tax rate changes in the period of enactment.
+We assess whether our deferred tax assets should be reduced by a valuation allowance if it is more likely than
+not that some portion or all of the deferred tax assets will not be realized. Our process includes collecting positive (i.e.,
+sources of taxable income) and negative (i.e., recent historical losses) evidence and assessing, based on the evidence,
+whether it is more likely than not that the deferred tax assets will not be realized.
+We recognize in our financial statements the impact of a tax position if that tax position is more likely than not
+of being sustained on audit, based on the technical merits of the tax position. This involves the identification of
+potential uncertain tax positions, the evaluation of tax law and an assessment of whether a liability for uncertain tax
+positions is necessary. Different conclusions reached in this assessment can have a material impact on our
+Consolidated Financial Statements.
+We operate within multiple taxing jurisdictions and are subject to audit in these jurisdictions. These audits can
+involve complex issues, which could require an extended period of time to resolve. Until formal resolutions are
+reached between us and the tax authorities, the timing and amount of a possible audit settlement for uncertain tax
+benefits is difficult to predict.
+Stock-Based Compensation
+We establish fair value for our stock-based awards to determine our cost and recognize the related expense over
+the appropriate vesting period. We recognize stock-based compensation expense for outstanding stock-settled long-
+term performance awards, stock-settled and cash-settled restricted stock units, stock options and stock appreciation
+rights. See Note 15 for additional information related to stock-based compensation expense.
+Earnings/(Loss) Per Share
+Basic earnings / (loss) per share is calculated by dividing net earnings/ (loss) available to common stockholders
+by the weighted-average common stock outstanding. Diluted earnings/ (loss) per share is calculated similarly, except
+that it includes the dilutive effect of the assumed exercise of securities, including outstanding warrants and the effect
+of shares issuable under our Company’s stock-based incentive plans if such effect is dilutive.
+THE NEW YORK TIMES COMPANY — P. 63

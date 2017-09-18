@@ -1,0 +1,52 @@
+Iable,of,Contents
+Note 13. Reclassifications from Accumulated Other Comprehensive Income
+The following table summarizes the changes in the accumulated balances of each component of accumulated other comprehensive earnings /
+(losses) attributable to Mondelez International. Amounts reclassiﬁed from accumulated other comprehensive earnings / (losses) to net earnings (net
+of tax) were net losses of $250 million in 2016, $350 million in 2015 and $79 million in 2014.
+For the Years Ended December 31,
+2016 2015 2014
+(in millions)
+Currency Translation Adjustments: I
+Balance at beginning of period 8 (8,006) 8 (5,042) 8 (1_,414)
+I Currency translation adjustments (847) (2,905) (8,433)]
+Reclassiﬁcation to earnings related to:
+I Venezuela deconsolidation — 99 — I
+Equ_ity method investment exchange 57 — —
+I Tax (e_xpense) / benefit (135) (184) (228)]
+Other comprehensive earnings / (Ioisses) (925) (2,990) (8,661)
+I Less: loss attributable to noncontrolling interests 17 26 33]
+Balance at end of period (8,914) (8,006) (5,042)
+:Pension and Other Benefit Plans: ]
+Balance at beginning of period 8 (1_,934) 8 (2,274) 8 (1_,592)
+I Net actuarial gain / (loss) arising during_period (491) (6_0) (1_,388)]
+Tax (e_xpense) / beneﬁt on net actuarial gain / (loss) 70 3 442
+I Losses / (gains) reclassiﬁed into net earnings: I
+Amortization of experience losses and prior service costs (1) 150 207 132
+I Settlement losses (1) 36 111 42 I
+Venezuela deconsolidation H — 2 —
+I Tax (e_xpense) / beneﬁt on reclassiﬁcations (2) (4_6) (6_9) (5_6)]
+Currency impact 128 146 146
+I Other comprehensive earnings / (losses) (153) 340 (682)]
+Balance at end of period (2,087) (1,934) (2,274)
+Derivative Cash Flow Hedges: ]
+Balance at beginmjg of period 8 (4_6) 8 (2) 8 117
+I Net derivative gains / (losses) (151) (7_5) (166)]
+Tax (e_xpense) / beneﬁt on net derivative gain / (loss) 20 30 86
+I Losses / (gains) reclassiﬁed into net earnings: I
+Currency exchange contracts —
+forecasted transactions (3) 3 (9_0) (2_7)
+I Commodity contracts (3) 9 64 (2_1)]
+Interest rate contracts (4) H 83 47 3
+I Tax (e_xpense) / beneﬁt on reclassiﬁcations (2) (4_2) (2_1) 6 I
+Currency impact 3 1 —
+I Other comprehensive earnings / (losses) (745) (444) (119)]
+Balance at end of period (121) (g) (2)
+'Accumulated other comprehensive income attributable to Mondeléz ]
+I International:
+Balance at beginning of period 8 (9,986) 8 (7,318) 8 (2,889)
+I Total other comprehensive earnings / (losses) (1_,153) (2,694) (4,462)]
+Less: loss attributable to noncontrolling interests 17 26 33
+I Other comprehensive earnings / (losses) ]
+attributable to Mondelez International (1,136) (2,668) (4,429)
+Balance at end of period 8 (ﬂ,122) 8 (9,986) 8 (7,318)
+107

@@ -1,0 +1,54 @@
+RED HAT, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+: Year Ended :
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+Cash ﬂows from operating activities:
+$ 199,365$ 180,201 $178,292
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76,088 76,263 74,405
+Amortization of debt discount and transaction costs . . . . . . . . . . . . . . . . . . 21,003 8,227 —
+Deferredincometaxes.......................................... (13,673) 23,517 13,776
+Share-based compensation expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166,234 135,232 113,774
+Net amortization of bond premium on debt securities available for sale . . . 12,169 9,314 8,697
+4,418 (3,474) 1,411
+Changes in operating assets and liabilities net of effects of acquisitions:
+Accountsreceivable........................................... (48,404) (121,536) (61,785)
+Prepaidexpenses.............................................. (24,486) (40,741) (25,122)
+Accounts payable and accrued expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62,438 71,040 28,436
+Deferredrevenue.............................................. 260,495 282,693 205,357
+445 2,059 3,339
+Net cash provided by operating activities . . . . . . . . . . . . . . . . . . . . . . . $ 716,092 $ 622,795 $ 540,580
+Cash ﬂows from investing activities:
+Purchase of investment in debt securities available for sale . . . . . . . . . . . . . (982,935) (568,551) (772,741)
+Proceeds from sales and maturities of investment in debt securities
+availableforsale............................................ 655,622 580,158 764,122
+Acquisitions of businesses, net of cash acquired . . . . . . . . . . . . . . . . . . . . . (126,459) (296,121) —
+Purchase of developed software and other intangible assets . . . . . . . . . . . . (13,964) (6,123) (17,972)
+Purchase of property and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (41,553) (45,648) (79,587)
+(2,819) 11,282 (2,084)
+Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . $ (512,108) $ (325,003) $(108,262)
+Cash ﬂows from financing activities:
+Excess tax benefits from share-based payment arrangements . . . . . . . . . . . 20,231 5,607 12,837
+Proceeds from exercise of common stock options . . . . . . . . . . . . . . . . . . . . 3,596 2,434 2,122
+Purchase oftreasury stock. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (262,643) (535,062) (239,363)
+Payments related to settlement of employee shared-based awards . . . . . . . . (66,907) (43,462) (37,402)
+Proceeds from issuance of convertible notes, net of issuance costs . . . . . . . — 789,769 —
+Purchaseofconvertiblenotehedges............................... — (148,040) —
+Proceedsfromissuanceofwarrants — 79,776 —
+Payments onotherborrowings (1,843) (2,782) (1,304)
+Net cash provided by (used in) financing activities . . . . . . . . . . . . . . . $ (307,566) $ 148,240 $(263,110)
+Effect of foreign currency exchange rates on cash and cash equivalents . . . . . . . $ (16,113) $ (45,301) $ (9,550)
+Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . $ (119,695) $ 400,731 $ 159,658
+Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . 1,047,473 646,742 487,084
+Cash and cash equivalents at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 927,778 $1,047,473 $ 646,742
+Supplemental cash ﬂow information:
+Cash paid during the year for:
+$ 2,039$ 52 $ 43
+Incometaxes................................................. $ 63,400$ 33,701 $ 34,736
+N on—cash investing and financing activities:
+Fixed assets acquired under capital leases . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,892 $ 1,818 $ 1,560
+The accompanying notes are an integral part of these consolidated financial statements.
+78

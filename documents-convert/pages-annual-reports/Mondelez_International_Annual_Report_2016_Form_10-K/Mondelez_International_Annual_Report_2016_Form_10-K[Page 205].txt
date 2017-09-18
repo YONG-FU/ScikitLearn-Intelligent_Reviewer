@@ -1,0 +1,27 @@
+“ Federal Funds Effective Rate ” means, for any day, the weighted average (rounded upwards, if necessary, to the next 1/100 of 1%) of the rates on
+overnight Federal funds transactions with members of the Federal Reserve System, as published on the next succeeding Business Day by the Federal Reserve Bank
+of New York, or, if such rate is not so published for any day that is a Business Day, the average (rounded upwards, if necessary, to the next 1/ 100 of 1%) of the
+quotations for such day for such transactions received by the Administrative Agent from three Federal funds brokers of recognized standing selected by it.
+“ Eee,L,e,tter,” means the administrative agent fee letter, dated as of September 28, 2016, between Mondeléz and the Administrative Agent.
+“ Fixed Rate Bid Advance ” means a Competitive Bid Advance bearing interest based on a fixed rate per annum as specified in the relevant Notice of
+Competitive Bid Borrowing.
+“ Floating Rate Bid Advance ” means a Competitive Bid Advance bearing interest at a rate of interest quoted as a margin over the LIBO Rate as
+specified in the relevant Notice of Competitive Bid Borrowing.
+“ ForeignSubsidiary: means, with respect to any Person, each Subsidiary of such Person that is not organized under the laws of the United States of
+America, any state thereof or the District of Columbia.
+“ ,GAAB” has the meaning specified in Section 1.03.
+“ Governmental Authority: ” means any nation or government and any state or other political subdivision thereof, and any agency, authority,
+instrumentality, regulatory body, court, administrative tribunal, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or
+administrative powers or functions of or pertaining to government (including any supra-national body exercising such powers or functions, such as the European
+Union or the European Central Bank).
+“ Guaranty: ” has the meaning specified in Section 8.01.
+“ Historical Screen Rate ” means, in relation to any LIBO Rate Advance or Floating Rate Bid Advance, the most recent applicable Screen Rate for
+Dollars for a period equal in length to the Interest Period of that Advance and which is as of a day which is no more than two (2) Business Days before the start of
+the applicable Interest Period.
+“ Home Jurisdiction Non-US. Withholding Taxes ” means in the case of a Designated Subsidiary that is not a “United States person” within the
+meaning of Section 7701(a)(30) of the Internal Revenue Code, withholding taxes imposed by the jurisdiction under the laws of which such Designated Subsidiary is
+organized, resident or doing business or any political subdivision thereof.
+“ Homelurisodi.ction,U.S,.iWithholdingIaxes,” means, in the case of Mondeléz and a Designated Subsidiary that is a “United States person” within the
+meaning of Section 7701(a)(30) of the Internal Revenue Code, withholding for United States federal income taxes and United States federal back-up withholding
+taxes.
+-9-

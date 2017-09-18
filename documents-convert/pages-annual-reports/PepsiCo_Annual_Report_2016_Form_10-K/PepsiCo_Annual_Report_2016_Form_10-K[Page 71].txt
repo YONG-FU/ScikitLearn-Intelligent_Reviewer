@@ -1,0 +1,46 @@
+Certain assumptions reﬂect our historical experience and management’s best judgment regarding future
+expectations. Due to the significant management judgment involved, our assumptions could have a material
+impact on the measurement of our pension and retiree medical expenses and obligations.
+At each measurement date, the discount rates are based on interest rates for high-quality, long-term corporate
+debt securities with maturities comparable to those of our liabilities. Our US. obligation and pension and
+retiree medical expense is based on the discount rates determined using the Mercer Above Mean Curve. This
+curve includes bonds that closely match the timing and amount of our expected benefit payments and reﬂects
+the portfolio of investments we would consider to settle our liabilities.
+Effective as of the beginning of 2016, we changed the method we use to estimate the service and interest
+cost components of net periodic benefit cost for our US. and the majority of our significant international
+pension and retiree medical plans. Historically, we estimated the service and interest cost components using
+a single weighted-average discount rate derived from the yield curve used to measure the projected benefit
+obligation (or accumulated post-retirement benefit obligation for the retiree medical plans) at the beginning
+of the period. We have now elected to use a full yield curve approach in the estimation of these components
+of benefit cost by applying the specific spot rates along the yield curve used in the determination of the
+benefit obligation to the relevant projected cash ﬂows. We have made this change to improve the correlation
+between projected benefit cash ﬂows and the corresponding yield curve spot rates, which we believe will
+result in a more precise measurement of service and interest costs. This change does not affect the measurement
+of our benefit obligation. We have accounted for this change in estimate on a prospective basis as of the
+beginning of 2016. The pre-tax reduction in net periodic benefit cost associated with this change was $125
+million ($81 million after-tax or $0.06 per share) for the full year 2016.
+See Note 7 to our consolidated financial statements for information about the expected rate of return on plan
+assets and our plans’ investment strategy. Although we review our expected long-term rates of return on an
+annual basis, our asset returns in a given year do not significantly inﬂuence our evaluation of long-term rates
+of return.
+The health care trend rate used to determine our retiree medical plan’s liability and expense is reviewed
+annually. Our review is based on our claims experience, information provided by our health plans and
+actuaries, and our knowledge of the health care industry. Our review of the trend rate considers factors such
+as demographics, plan design, new medical technologies and changes in medical carriers.
+Weighted-average assumptions for pension and retiree medical expense are as follows:
+7 2017” 2016” 2015 7
+[Pension 7 I
+Service cost discount rate (a) 4.3% 4.5% n/a
+1 Interest cost discount rate (a) 3.5% 3.8% n/aj
+Expense discount rate (‘1) n/a n/a 4.1%
+1 Expected rate of return on plan assets 7.2% 7.2% 7.3%]
+Expected rate of salary increases 3.2% 3.2% 3.5%
+[Retiree medical I
+Service cost discount rate (a) 4.0% 4.3% n/a
+1 Interest cost discount rate (a) 3.2% 3.3% n/aj
+Expense discount rate (‘1) n/a n/a 3.8%
+1 Expected rate of return on plan assets 7 .5% 7.5% 7.5%]
+Current health care cost trend rate 5.9% 6.0% 6.2%
+(a) In the first quarter of 2016, we changed the method we use to estimate the service and interest cost components of pension and retiree
+medical expense.
+52

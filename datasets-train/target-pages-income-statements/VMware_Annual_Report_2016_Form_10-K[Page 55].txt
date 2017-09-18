@@ -1,0 +1,37 @@
+Tablebeontents
+VMware, Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(amounts in millions, except per share amounts, and shares in thousands)
+For the Year Ended December 31,
+2016 2015 2014
+IRevenue: — — I
+License $ 2,794 $ 2,720 $ 2,591
+I Services 4,299 3,927 3,444 I
+GSA settlement — (76) —
+ITotal revenue 7,093 _ 6,571 _ 6,035 I
+Operating expenses (1):
+I Cost of license revenue 159 186 192 I
+Cost of services revenue 894 832 725
+I Research and development 1,503 1,300 1,239 I
+Sales and marketing 2,357 2,267 2,141
+I General and administrative 689 766 695 I
+Realignment 52 23 16
+IOperating income 1,439 _ 1,197 _ 1,027 I
+Investment income 77 49 38
+IInterest expense with Dell (26) (26) (24) I
+Other income (expense), net (17) (7) 7
+IIncome before income taxes 1,473 — 1,213 — 1,048 I
+Income tax provision 287 216 162
+INet income 8 1,186 $ 997 $ 886 I
+Net income per weighted-average share, basic for Class A and Class B $ 2.82 $ 2.35 $ 2.06
+INet income per weighted-average share, diluted for Class A and Class B $ 2.78 $ 2.34 $ 2.04 I
+Weighted-average shares, basic for Class A and Class B 420,520 424,003 430,355
+IWeighted-average shares, diluted for Class A and Class B 423,994 426,547 434,513 I
+I“) Includes stock-based compensation as follows: I
+Cost of license revenue $ 2 $ 2 $ 2
+I Cost of services revenue 52 44 42 I
+Research and development 305 226 244
+I Sales and marketing 195 168 172 I
+General and administrative 82 64 69
+The accompanying notes are an integral part of the consolidated financial statements.
+54

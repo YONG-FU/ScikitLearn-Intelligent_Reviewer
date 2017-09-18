@@ -1,0 +1,43 @@
+SECTION 516. Judgment Currency.
+If, for the purpose of obtaining a judgment in any court with respect to any obligation of the Company hereunder or under any Security, it shall become
+necessary to convert any amount in the currency or currency unit due hereunder or under such Security into any other currency or currency unit, then such
+conversion shall be made by the Currency Determination Agent at the Market Exchange Rate as in effect on the date of entry of the judgment (the “Judgment
+Date”). If pursuant to any such judgment, conversion shall be made on a date (the “Substitute Date”) other than the Judgment Date and there shall occur a change
+between the Market Exchange Rate as in effect on the Judgment Date and the Market Exchange Rate as in effect on the Substitute Date, the Company agrees to pay
+such additional amounts (if any) as may be necessary to ensure that the amount paid is equal to the amount in such other currency or currency unit which, when
+converted at the Market Exchange Rate as in effect on the Judgment Date, is the amount due hereunder or under such Security. Any amount due from the Company
+under this Section 516 shall be due as a separate debt and is not to be affected by or merged into any judgment being obtained for any other sums due hereunder or
+in reSpect of any Security. In no event, however, shall the Company be required to pay more in the currency or currency unit due hereunder or under such Security
+at the Market Exchange Rate as in effect on the Judgment Date than the amount of currency or currency unit stated to be due hereunder or under such Security so
+that in any event the Company’s obligations hereunder or under such Security will be effectively maintained as obligations in such currency or currency unit, and
+the Company shall be entitled to withhold (or be reimbursed for, as the case may be) any excess of the amount actually realized upon any such conversion on the
+Substitute Date over the amount due and payable on the Judgment Date.
+Article Six
+THE TRUSTEE
+SECTION 601. Certain Duties and Responsibilities.
+(a) Except during the continuance of an Event of Default with respect to the Securities of any series for which the Trustee is serving as such,
+(1) such Trustee undertakes to perform such duties and only such duties as are specifically set forth in this Indenture, and no implied covenants or
+obligations shall be read into this Indenture against such Trustee; and
+(2) in the absence of gross negligence or willful misconduct on its part, such Trustee may conclusively rely, as to the truth of the statements and the
+correctness of the opinions expressed therein, upon certificates or opinions furnished to such Trustee and conforming to the requirements of this Indenture;
+but in the case of any such certificates or opinions which by any provisions hereof are specifically required to be furnished to such Trustee, such Trustee shall
+be under a duty to examine the same to determine whether or not they conform to the requirements of this Indenture (but need not confirm or investigate the
+accuracy of mathematical calculations or other facts stated therein).
+(b) In case an Event of Default with reSpect to a series of Securities has occurred and is continuing, the Trustee for the Securities of such series shall exercise
+such of the rights and powers vested in it by this Indenture, and use the same degree of care and skill in their exercise, as a prudent person would exercise or use
+under the circumstances in the conduct of such person’s own affairs.
+(0) No provision of this Indenture shall be construed to relieve the Trustee for Securities of any series from liability for its own negligent action, its own
+negligent failure to act, or its own willful misconduct, except that:
+(1) this Subsection shall not be construed to limit the effect of Subsection (a) of this Section;
+(2) such Trustee shall not be liable for any error of judgment made in good faith by a Responsible Officer, unless it shall be proved that the Trustee
+was negligent in ascertaining the pertinent facts;
+(3) such Trustee shall not be liable with respect to any action taken, suffered or omitted to be taken by it in good faith in accordance with the direction
+of the Holders of not less than a majority in principal amount of the Outstanding Securities of any particular series, determined as provided in Sections 104
+and 512, relating to the time, method and place of conducting any proceeding for any remedy available to such Trustee, or exercising any trust or power
+conferred upon such Trustee, under this Indenture with respect to the Securities of that series; and
+(4) no provision of this Indenture shall require the Trustee for any series of Securities to expend or risk its own funds or otherwise incur any liability,
+financial or otherwise, in the performance of any of its duties hereunder or in the exercise of any of its rights or powers, if it shall have reasonable grounds for
+believing that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured to it.
+(d) Whether or not therein expressly so provided, every provision of this Indenture relating to the conduct or affecting the liability of or affording protection
+to the Trustee for any series of Securities shall be subject to the provisions of this Section.
+30

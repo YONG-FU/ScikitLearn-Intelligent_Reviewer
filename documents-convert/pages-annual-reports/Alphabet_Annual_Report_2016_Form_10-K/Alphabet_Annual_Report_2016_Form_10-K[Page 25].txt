@@ -1,0 +1,52 @@
+IaibleiofiCiontents Alphabet Inc.
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+Please read the following discussion and analysis of our financial condition and results of operations together
+with our consolidated ﬁnancial statements and related notes included under Item 8 of this Annual Report on Form 10-
+K.
+Trends in Our Business
+The following trends have contributed to the results of our consolidated operations, and we anticipate that they
+will continue to impact our future results:
+- Users' behaviors and advertising continue to shift online as the digital economy evolves.
+The continuing shift from an ofﬂine to online world has contributed to the growth of our business since inception,
+resulting in increasing revenues, and we expect that this online shift will continue to benefit our business.
+- As online advertising evolves, we continue to expand our product offerings which may impact our
+monetization.
+As interactions between users and advertisers change, we continue to expand and evolve our product offerings
+to serve their changing needs. Over time, we expect our monetization trends to ﬂuctuate. For example, we have seen
+an increase in YouTube engagement ads, which monetize at a lower rate than traditional desktop search ads.
+Additionally, we continue to see a shift to programmatic buying which presents opportunities for advertisers to connect
+with the right user, in the right moment, in the right context. Programmatic buying has a different monetization profile
+than traditional advertising buying on Google properties. These trends will continue to affect our revenues and margins
+in the future.
+- Users are increasingly using multiple devices to access our products and services, and our advertising
+revenues are increasingly coming from mobile and other new formats.
+Our users are accessing the Internet via multiple devices and want to feel connected no matter where they are
+or what they are doing. We seek to expand our products and services to stay in front of this shift in order to maintain
+and grow our business.
+In this multi-device world, we generate our advertising revenues increasingly from mobile and newer advertising
+formats, and the margins from the advertising revenues from these sources have generally been lower than those
+from traditional desktop search. We also expect trafﬁc acquisition costs (TAC) paid to our distribution partners to
+increase due to changes in device mix between mobile, desktop, and tablet, partner mix, partner agreement terms,
+and the percentage of queries channeled through paid access points. We expect these trends to continue to put
+pressure on our overall margins.
+- As users in developing economies increasingly come online, our revenues from international markets
+continue to increase and movements in foreign exchange rates impact such revenues.
+The shift to online, as well as the advent of the multi-device world, has brought opportunities outside of the U.S.,
+including in emerging markets, and we continue to develop localized versions of our products and relevant advertising
+programs useful to our users in these markets. This has led to a trend of increased revenues from international markets
+over time and we expect that our results will continue to be impacted by our performance in these markets, particularly
+as low-cost mobile devices become more available.
+Our international revenues represent a signiﬁcant portion of our revenues and are subject to ﬂuctuations in foreign
+currency exchange rates relative to the U.S. dollar. While we have a foreign exchange risk management program
+designed to reduce our exposure to these ﬂuctuations, this program does not fully offset their effect on our revenues
+and earnings.
+- The portion of our revenues that we derive from non-advertising revenues is increasing.
+Non-advertising revenues have grown over time. We expect this trend to continue as we focus on expanding our
+Google offerings to our users through products and services like Google Cloud, Google Play, and hardware products.
+Across these initiatives, we currently derive non-advertising revenues primarily from hardware sales, sales of apps,
+in-app purchases and digital content products, and service and licensing fees; the margins on these non-advertising
+businesses vary signiﬁcantly and may be lower than the margins on our advertising business. A number of our Other
+Bets initiatives are in their initial development stages, and as such, the sources of revenues from these businesses
+could change over time and the revenues could be volatile.
+22

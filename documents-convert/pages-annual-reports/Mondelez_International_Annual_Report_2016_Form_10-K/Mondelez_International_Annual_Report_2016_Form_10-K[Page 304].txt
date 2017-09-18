@@ -1,0 +1,26 @@
+“ Three-Year Loans ” means loans borrowed hereunder maturing on the Three-Year Maturity Date.
+“ Three-jiearIMaturityLDate,” means the date that is the third anniversary of the Three-Year Funding Date.
+“ Three-Year Note ” a promissory note of the Borrower payable to any Lender (or its registered assigns), delivered pursuant to a request made under
+Section 2.17 in substantially the form of Exhibit A-2 hereto, evidencing the aggregate indebtedness of the Borrower to such Lender resulting from the Three-Year
+Loans made by such Lender to the Borrower.
+“ Total Shareholders’ quty: means total shareholders’ equity, as reﬂected on the consolidated balance sheet of Mondeléz and its Subsidiaries
+(excluding (a) accumulated other comprehensive income or losses, (b) the cumulative effects of any changes in accounting principles, including in connection with
+any adoption of “mark-to-market” accounting in respect of pension and other retirement plans of Mondeléz and its Subsidiaries, and (c) if
+“mark-to-market” accounting in respect of such pension and other retirement plans is so adopted, any income or losses recognized in connection with the ongoing
+application thereof).
+“ Egg” with respect to any Loan, refers to whether such Loan is a Base Rate Loan or a LIBO Rate Loan.
+“ MAT” means (a) any tax imposed in compliance with the Council Directive of November 28, 2006 on the common system of value added tax (EC
+Directive 2006/ 1 12) and (b) any other tax of similar nature, whether imposed in a member state of the European Union in substitution for, or levied in addition to,
+such tax referred to in clause (a) above, or imposed elsewhere.
+“ Write:Down,and,C,onversionllowers,” means, with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA
+Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are
+described in the EU Bail-In Legislation Schedule.
+SECTION 1.02 ComputationiofiTimeiBeriods,. In this Agreement in the computation of periods of time from a speciﬁed date to a later specified
+date, the word “from” means “from and including” and the words “to” and “until” each mean “to but excluding.”
+SECTION 1.03 Accountinglerms. All accounting terms not specifically defined herein shall be construed in accordance with accounting principles
+generally accepted in the United States of America (subject to the exceptions set forth in this Section 1.03, “ GAAP ”), except that if there has been a material
+change in an accounting principle affecting the definition of an accounting term as compared to that applied in the preparation of the ﬁnancial statements of
+Mondeléz as of and for the year ended December 31, 2015, then such new accounting principle shall not be used in the determination of the amount associated with
+that accounting term. A material change in an accounting principle is one that, in the year of its adoption, changes the amount associated with the relevant
+accounting term for any quarter in such year by more than 10%.
+-14-

@@ -1,0 +1,41 @@
+Note 12: Employee Stock and Beneﬁt Plans
+We maintain several equity incentive plans under which we may grant non-qualified stock options, incentive stock options,
+restricted stock, restricted stock units ("RSUs") or stock appreciation rights to employees, non-employee directors and
+consultants. We issue new shares of common stock upon exercise of stock options and the vesting of RSUs. We also have an
+employee stock purchase plan ("ESPP").
+As of October 2, 2016, there were 86.7 million shares of common stock available for issuance pursuant to future equity-based
+compensation awards and 13.9 million shares available for issuance under our ESPP.
+Stock-based compensation expense recognized in the consolidated financial statements (in millions):
+EiscaLYeanEnded [ «imam ] [ myﬂw ] [ swam ]
+IOptions $ 42.7 s 37.8 $ 41.8 I
+RSUs 7 175.4 7 172.07 7 141.4
+Total stock-based compensation expense recognized in the 7 7 7 7 7 7
+consolidated statements of earnings 8 218.1 7 739 209.8 r 8 183.2 7
+Total related tax benefit 77$ 73.0 L 77$ 72.3 L 77$ 63.4 77
+Total capitalized stock-based compensation included in net
+property, plant and equipment and inventories on the consolidated
+balance sheets 33 1.5 $ 1.9 $ 1.9
+Stock Option Plans
+Stock options to purchase our common stock are granted at the fair value of the stock on the grant date. The majority of options
+become exercisable in four equal installments beginning a year from the grant date and generally expire 10 years from the grant
+date. Options granted to non-employee directors generally vest over one to three years. Nearly all outstanding stock options are
+non-qualified stock options.
+The fair value of stock option awards was estimated at the grant date with the following weighted average assumptions for
+fiscal years 2016, 2015 and 2014:
+' m r? '
+I I
+EisnaLXeanEnded I 2am I I 3035 I I m I
+IExpected term (in years) 3.9 4.2 4.5 I
+Expected stock price volatility 23.9% 22.3% 26.8%
+IRisk—free interest rate 1.2% 1.1% 1.1%I
+Expected dividend yield 1.3% 1.6% 1.3%
+IWeighted average grant price $ 60.20 $ 39.89 $ 40.12 I
+Estimated fair value per option granted $ 10.54 $ 6.58 $ 8.36
+The expected term of the options represents the estimated period of time until exercise and is based on historical experience of
+similar awards, giving consideration to the contractual terms, vesting schedules and expectations of future employee behavior.
+Expected stock price volatility is based on a combination of historical volatility of our stock and the one-year implied volatility
+of Starbucks traded options, for the related vesting periods. The risk-free interest rate is based on the implied yield available on
+US. Treasury zero-coupon issues with an equivalent remaining term. The dividend yield assumption is based on our anticipated
+cash dividend payouts. The amounts shown above for the estimated fair value per option granted are before the estimated effect
+of forfeitures, which reduce the amount of expense recorded in the consolidated statements of earnings.
+Starbucks Corporation 2016 Form 10-K 77

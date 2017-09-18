@@ -1,0 +1,51 @@
+OpenT ext and Microsoft Corporation (Microsoft)
+Our strategic alliance with Microsoft offers integration between our EIM solutions and Microsoft's desktop, cloud and
+server products, such as Microsoft SharePoint and Exchange, as well as Oﬂice 365 and SharePoint online. Microsoft and
+OpenText have partnered to drive the creation of comprehensive business and industry-specific EIM solutions leveraging
+customers' significant investments in the Microsoft platform and productivity applications. We provide support for Microsoft
+platforms such as Windows and SQL Server and integration with many Microsoft products such as Exchange, Rights
+Management and Windows Azure. The integration of our solutions with Microsoft Office and SharePoint allows an OpenText
+customer to work with information from ERP, CRM, EIM and other enterprise applications from within the Microsoft
+SharePoint or Microsoft Office interface.
+OpenT ext and Oracle Corporation (Oracle)
+For more than ten years, OpenText has developed innovative solutions for Oracle applications that enhance the
+experience and productivity of users working with these tools. OpenText is committed to continued development that extends
+and enhances the Oracle application and technology portfolio. Our partnership extends our enterprise solutions framework with
+integration between OpenText and Oracle eBusiness Suite, analogous to our integration with SAP.
+Our global systems integrators are:
+Accenture plc (Accenture)
+Accenture, a global management consulting, technology services and outsourcing company, is one of our systems
+integrator partners. Together we provide strategic EIM solutions. Accenture's extensive experience with enterprise-rollout
+planning and design, combined with our EIM technology, provides solutions designed to address an organization's EIM
+requirements.
+Deloitte Consulting LLP (Deloitte)
+Deloitte is also one of our systems integrator partners. Together, we help organizations build value through improved
+ECM performance. Deloitte's services provide value across human capital, strategy and operations, and technology within
+multiple industries.
+Other System Integrators
+Other OpenText systems integrator partners include Cap Gemini Inc., CGI Group Inc. (through its acquisition of Logica
+plc), ATOS SE, EY and others.
+International Markets
+We provide our product offerings worldwide. Our geographic coverage allows us to draw on business and technical
+expertise from a geographically diverse workforce, providing greater stability to our operations and revenue streams by
+diversifying our portfolio to better mitigate against the risks of a single geographically focused business.
+There are inherent risks to conducting operations internationally. For more information about these risks, see “Risk
+Factors” included in Item 1A of this Annual Report on Form 10-K.
+Competition
+The market for our products and services is highly competitive, subject to rapid technological change and shifting
+customer needs and economic pressures. We compete with multiple companies, some that have single or narrow solutions and
+some that have a range of information management solutions, like ourselves. Our competitors include International Business
+Machines Corporation (IBM), EMC Corporation (EMC), Hewlett Packard Enterprise and Adobe Inc. In certain markets,
+OpenText competes with Oracle and Microsoft, who are also our partners. In addition there are numerous, other niche software
+vendors in the Information Management sector, such as j2 Inc. and Pegasystems Inc., that compete with OpenText in certain
+segments of the EIM market. We also face competition from systems integrators that configure hardware and software into
+customized systems. Additionally, new competitors or alliances among existing competitors may emerge and could rapidly
+acquire additional market share. We also expect that competition will increase as a result of ongoing software industry
+consolidation.
+We believe that the principal competitive factors aﬁecting the market for our software products and services include:
+(i) vendor and product reputation; (ii) product quality, performance and price; (iii) the availability of software products on
+multiple platforms; (iv) product scalability; (V) product integration with other enterprise applications; (vi) software
+functionality and features; (vii) software ease of use; (viii) the quality of professional services, customer support services and
+training; and (ix) the ability to address specific customer business problems. We believe the relative importance of each of these
+factors depends upon the concerns and needs of each specific customer.
+10

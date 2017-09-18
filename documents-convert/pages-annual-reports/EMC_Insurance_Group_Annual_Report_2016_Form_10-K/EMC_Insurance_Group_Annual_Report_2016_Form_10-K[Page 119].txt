@@ -1,0 +1,48 @@
+The Company regularly monitors its investment portfolio for securities whose fair value is less than the carrying value
+for indications of “other-than-temporary” impairment. Several factors are used to determine whether the carrying value of an
+individual security has been “other-than-temporarily” impaired. Such factors include, but are not limited to (1) the security’s
+value and performance in the context of the overall markets, (2) length of time and extent the security’s fair value has been
+below carrying value, (3) key corporate events, (4) for fixed maturity securities, the amount of collateral available, and (5) for
+equity securities, the ability and intent to hold the security until recovery to its cost basis. When an equity security is deemed to
+be “other-than-temporarily” impaired, the carrying value is reduced to fair value and a realized loss is recognized and charged
+to income. For fixed maturity securities, if the present value of cash ﬂows expected to be collected is less than the amortized
+cost of the security, a credit loss is deemed to exist and the security is considered “other-than-temporarily” impaired. The
+portion of the impairment related to a credit loss is recognized through earnings, and the portion of the impairment related to
+other factors, if any, is recognized through “other comprehensive income”. Alternatively, if the Company has the intent to sell a
+ﬁxed maturity security that is in an unrealized loss position, or determines that it will "more likely than not" be required to sell
+a fixed maturity security that is in an unrealized loss position before recovery of its amortized cost basis, then the carrying
+value is reduced to fair value and the entire amount of the impairment is recognized through earnings.
+Income Taxes
+The Company files a consolidated Federal income tax return with its subsidiaries. Consolidated income taxes/benefits
+are allocated among the entities based upon separate tax liabilities.
+Deferred income taxes are provided for temporary differences between the tax basis of assets and liabilities and the
+reported amounts of those assets and liabilities for financial reporting purposes. Deferred tax assets and liabilities are measured
+using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to
+be recovered or settled. Income tax expense provisions increase or decrease in the same period in which a change in tax rates is
+enacted. A valuation allowance is established to reduce deferred tax assets to their net realizable value if it is “more likely than
+not” that a tax benefit will not be realized.
+An assessment of the Company’s current tax positions indicated no uncertainties that would warrant diﬁerent recognition
+and valuation from that applied in the Company’s tax returns.
+Stock-Based Compensation
+The Company has no stock-based compensation plans of its own; however, Employers Mutual has several stock plans
+that utilize the common stock of the Company. The Company receives the current fair value for all shares issued under these
+plans. A portion of the compensation expense recognized by Employers Mutual (as the requisite service period for granted
+options and restricted stock awards is rendered) is allocated to the Company’s property and casualty insurance subsidiaries
+though their participation in the pooling agreement (see note 2). Because a portion of Employers Mutual’s stock compensation
+expense is reﬂected in the Company’s financial statements and issuances of the Company’s stock under Employers Mutual’s
+stock plans have an impact on the Company’s capital accounts, the disclosures required by the Compensation — Stock
+Compensation Topic 718 of the Financial Accounting Standards Board (FASB) Accounting Standards CodificationTM
+(Codification or ASC) are included in the Company’s consolidated financial statements.
+Employee Retirement Plans
+Employers Mutual has various employee benefit plans, including two defined benefit pension plans, and two
+postretirement benefit plans that provide retiree healthcare and life insurance benefits. Although the Company has no
+employees of its own, it is responsible for its share of the plans' expenses and related prepaid assets and liabilities (the "funded
+status") as determined under the terms of the pooling agreement. Accordingly, the Company recognizes its share of the funded
+status of Employers Mutual’s pension and postretirement benefit plans on its balance sheet, with changes in the funded status of
+the plans recognized through “other comprehensive income.” In addition,the Company is responsible for its share of costs of
+these plans allocated by Employers Mutual to subsidiaries that do not participate in the pooling agreement (see note 2). During
+2016, Employers Mutual's management determined that an allocation of the plans' funded status to the Company's reinsurance
+subsidiary would no longer be made because the amounts were immaterial and significant time and cost was needed to
+determine the allocation. As a result, the assets and liabilities allocated to the reinsurance subsidiary as of December 31, 2015
+were settled with Employers Mutual during 2016.
+108

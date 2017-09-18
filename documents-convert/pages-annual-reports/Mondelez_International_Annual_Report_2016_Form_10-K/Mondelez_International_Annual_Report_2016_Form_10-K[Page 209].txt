@@ -1,0 +1,28 @@
+“ Person ” means an individual, partnership, corporation (including a business trust), joint stock company, trust, unincorporated association, joint
+venture, limited liability company or other entity, or a government or any political subdivision or agency thereof.
+“ Plan ” means a Single Employer Plan or a Multiple Employer Plan.
+“ ProcessAgent,” has the meaning specified in Section 9.11(a).
+“ Pro Rata Advance ” means an advance by a Lender to any Borrower as part of a Pro Rata Borrowing and refers to a Base Rate Advance or a LIBO
+Rate Advance (each of which shall be a “Type” of Pro Rata Advance).
+“ Pro Rata Borrowing: means a borrowing consisting of simultaneous Pro Rata Advances of the same Type made by each of the Lenders pursuant to
+Section 2.01.
+“ Pro,Rata,N,ote,” means a promissory note of any Borrower payable to any Lender (or its registered assigns), delivered pursuant to a request made
+under Section 2.17 in substantially the form of Exhibit A-l hereto, evidencing the aggregate indebtedness of such Borrower to such Lender resulting from the Pro
+Rata Advances made by such Lender to such Borrower.
+“ Register ” has the meaning specified in Section 9.07(d).
+“ IggulationA,” means Regulation A of the Board, as in effect from time to time.
+“ Regulation U ” means Regulation U of the Board, as in effect from time to time.
+“ RequiredLenders,” means at any time Lenders having Pro Rata Advances representing more than 50% of the aggregate outstanding Pro Rata
+Advances at such time, or, if no Pro Rata Advances are then outstanding, Lenders having Commitments representing more than 50% of the aggregate Commitments
+at such time.
+“ Sanctions,” means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by (a) the US.
+government, including those administered by the Ofﬁce of Foreign Assets Control of the US. Department of the Treasury or the US. Department of State, or
+(b) the United Nations Security Council, the European Union or Her Majesty’s Treasury of the United Kingdom.
+“ SanctionedPerson,” shall mean, at any time, (a) any Person listed in any Sanctions-related list of designated Persons maintained by the Office of
+Foreign Assets Control of the US. Department of the Treasury or the US. Department of State or (b) any Person controlled by any such Person or Persons
+described in the foregoing clause (a).
+“ Screen Rate ” means the London interbank offered rate as administered by ICE Benchmark Administration (or any other Person that takes over the
+administration of such rate for Dollars for a period equal in length to such Interest Period as displayed on page LIBOROl of the Reuters screen that displays such
+rate) or, in the event such rate does not appear on a Reuters page or screen, on any successor or substitute page on such screen that displays such rate, or on the
+appr0priate page of such other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion.
+-13-

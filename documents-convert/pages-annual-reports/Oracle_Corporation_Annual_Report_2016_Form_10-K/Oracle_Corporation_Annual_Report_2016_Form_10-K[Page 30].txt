@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+The variety of risks and challenges listed above could also disrupt or otherwise negatively impact the supply chain operations for our hardware products segment
+and the sales of our products and services in affected countries or regions.
+As the majority shareholder of Oracle Financial Services Software Limited (OFSS), a publicly traded company in India, and Oracle Corporation Japan (N OKK), a
+publicly traded company in Japan, we are faced with several additional risks, including being subject to local securities regulations and being unable to exert full
+control that we would otherwise have if OFSS or NOKK were wholly-owned subsidiaries.
+Acquisitions present many risks and we may not realize the financial and strategic goals that were contemplated at the time of a transaction. We continue to
+invest billions of dollars to acquire companies, products, services and technologies. We have a selective and active acquisition program and we expect to continue
+to make acquisitions in the future because acquisitions are an important element of our overall corporate strategy. Risks we may face in connection with our
+acquisition program include:
+° our ongoing business may be disrupted and our management’s attention may be diverted by acquisition, transition or integration activities;
+- we may have difficulties (1) managing an acquired company’s technologies or lines of business; (2) entering new markets where we have no or limited
+direct prior experience or where competitors may have stronger market positions; or (3) retaining key personnel from the acquired companies;
+- an acquisition may not further our business strategy as we expected, we may not integrate an acquired company or technology as successfully as we
+expected, we may impose our business practices or alter go-to-market strategies that adversely impact the acquired business or we may overpay for, or
+otherwise not realize the expected return on, our investments, which could adversely affect our business or operating results and potentially cause
+impairment to assets that we recorded as a part of an acquisition including intangible assets and goodwill;
+° our operating results or financial condition may be adversely impacted by claims or liabilities that we assume from an acquired company or technology or
+that are otherwise related to an acquisition, including, among others, claims from government agencies, terminated employees, current or former
+customers, former stockholders or other third parties; pre-existing contractual relationships of an acquired company that we would not have otherwise
+entered into, the termination or modiﬁcation of which may be costly or disruptive to our business; unfavorable revenue recognition or other accounting
+treatment as a result of an acquired company’s practices; and intellectual property claims or disputes;
+- we may fail to identify or assess the magnitude of certain liabilities, shortcomings or other circumstances prior to acquiring a company or technology,
+which could result in unexpected litigation or regulatory exposure, unfavorable accounting treatment, unexpected increases in taxes due, a loss of
+anticipated tax benefits or other adverse effects on our business, operating results or financial condition;
+- we may not realize the anticipated increase in our revenues from an acquisition for a number of reasons, including if a larger than predicted number of
+customers decline to renew software or hardware support contracts or cloud-based subscription contracts, if we are unable to sell the acquired products or
+service offerings to our customer base or if contract models of an acquired company do not allow us to recognize revenues on a timely basis;
+- we may have difficulty incorporating acquired technologies, products, services and their related supply chain operations with our existing lines of
+business and supply chain infrastructure and maintaining uniform standards, architecture, controls, procedures and policies;
+- we may have multiple product lines or services offerings as a result of our acquisitions that are offered, priced and supported differently, which could
+cause customer confusion and delays;
+- we may have higher than anticipated costs in continuing support and development of acquired products or services, in general and administrative
+functions that support new business models, or in compliance with associated regulations that are more complicated than we had anticipated;
+28

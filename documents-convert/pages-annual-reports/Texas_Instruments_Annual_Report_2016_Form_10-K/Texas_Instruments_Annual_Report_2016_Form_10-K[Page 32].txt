@@ -1,0 +1,52 @@
+December31,
+Consolidated Balance Sheets 2016 2015
+(Millions of dollars, except share amounts)
+Assets
+Current assets:
+Cashandcashequivalents........................................................ $1,154 $1,000
+Short-terminvestments.......................................................... 2,336 2,218
+Accountsreceivable,netofallowancesof($17)and($7) 1,267 1,165
+Rawmaterials............................................................... 102 109
+.ﬂ Workinprocess.............................................................. 954 846
+g Finishedgoods.............................................................. 734 736
+3 Inventories 1,790 1,691
+9 Prepaidexpensesandothercurrentassets 910 1,000
+x Totalcurrentassets............................................................. 7,457 7,074
+Property,plantandequipmentatcost................................................. 4,923 5,465
+Accumulateddepreciation........................................................ (2,411) (2,869)
+Property,plantandequipment,net 2,512 2,596
+Long-terminvestments............................................................ 235 221
+4,362 4,362
+Acquisition-relatedintangibles,net 1,264 1,583
+Deferredincometaxes............................................................. 374 201
+Capitalizedsoftwarelicenses,net 52 46
+Overfundedretirementplans........................................................ 96 85
+79 62
+Totalassets $16,431 $16,230
+Liabilities and stockholders’ equity
+Current liabilities:
+Currentportionoflong-termdebt................................................... $ 631 $1,000
+Accountspayable 396 386
+Accruedcompensation 710 664
+lncometaxespayable........................................................... 83 95
+Accruedexpensesandotherliabilities............................................... 444 410
+Totalcurrentliabilities........................................................... 2,264 2,555
+2,978 3,120
+Underlundedretirementplans....................................................... 129 196
+Deferredincometaxes............................................................. 33 37
+Deferredcreditsandotherliabilities................................................... 554 376
+Totalliabilities................................................................... 5,958 6,284
+Stockholders’ equity:
+Preferred stock, $25 par value. Authorized — 10,000,000 shares
+Participatingcumulativepreferred.Noneissued. — —
+Common stock, $1 par value. Authorized — 2,400,000,000 shares
+Sharesissued—1,740,815,939.................................................. 1,741 1,741
+1,674 1,629
+Retainedearnings.............................................................. 33,107 31,176
+Treasury common stock at cost
+Shares:2016—744,831,978;2015—729,547,527................................... (25,523) (24,068)
+Accumulated othercomprehensiveincome(loss),netoftaxes(AOCl) (526) (532)
+Totalstockholders’equity........................................................ 10,473 9,946
+Totalliabilitiesandstockholders’equity................................................ $16,431 $16,230
+See accompanying notes.
+28 TEXAS INSTRUMENTS - 2016 FORM10-K

@@ -1,0 +1,49 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1—Company
+Red Hat, Inc., incorporated in Delaware, together with its subsidiaries (“Red Hat” or the “Company”) is a
+leading global provider of open source software solutions, using a community-powered approach to develop and
+offer reliable and high-performing operating system, virtualization, management, middleware, cloud, mobile and
+storage technologies.
+Open source software is an alternative to proprietary software and represents a different model for the
+development and licensing of commercial software code than that typically used for proprietary software.
+Because open source software code is often freely shared, there are customarily no licensing fees for the use of
+open source software. Therefore, the Company does not recognize revenue from the licensing of the code itself.
+The Company provides value to its customers through the development, aggregation, integration, testing,
+certification, delivery, maintenance, enhancement and support of its Red Hat technologies, and by providing a
+level of performance, scalability, ﬂexibility, reliability, and security for the technologies the Company packages
+and distributes. Moreover, because communities of developers not employed by the Company assist with the
+creation of the Company’s open source offerings, opportunities for further innovation of the Company’s
+offerings are supplemented by these communities.
+The Company derives its revenue and generates cash from customers primarily from two sources:
+(i) subscription revenue and (ii) training and services revenue. These arrangements typically involve
+subscriptions to Red Hat technologies. The arrangements with the Company’s customers that produce this
+revenue and cash are explained in further detail in NOTE 2—Summary of Significant Accounting Policies.
+NOTE 2—Summary of Signiﬁcant Accounting Policies
+Basis of presentation
+The accompanying Consolidated Financial Statements include the accounts of the Company and all of its
+wholly owned subsidiaries. All significant inter-company accounts and transactions are eliminated in
+consolidation. There are no significant foreign exchange restrictions on the Company’s foreign subsidiaries.
+The Consolidated Balance Sheet as of February 28, 2015 includes the effect of retrospective application of
+Accounting Standards Update 2015-17, Income Taxes (Topic 740): Balance Sheet Classification of Deferred
+Taxes (“ASU 2015-17”) and the effect of retrospective application of Accounting Standards Update 2015-03,
+Interest—Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs (“ASU
+2015-03”). The following table summarizes the retrospective-application adjustments made to the as-reported
+Consolidated Balance Sheet as of February 28, 2015, by line item (in thousands):
+Adjustments for Adjustments for
+As reported retrospective retrospective Adjusted
+February 28, application of application of February 28,
+: 2015 : : ASU 2015-17 : : ASU 2015-03 : : 2015 :
+ASSETS
+Current assets:
+Deferred tax assets, net . . . . . . . . . . . . . . . . . . . . $ 86,796 (86,796) — $ —
+Non-current assets:
+Deferred tax assets, net . . . . . . . . . . . . . . . . . . . . $ = 98,892 — $ 98,892
+Other assets, net ......................... $ 53,243 (18,049) (12,463) $ 22,731
+LIABILITIES
+Current liabilities:
+Other current obligations . . . . . . . . . . . . . . . . . . $ 1,844 (659) — $ 1,185
+Non-current liabilities:
+Convertible notes . . . . . . . . . . . . . . . . . . . . . . . . $715,402 = (12,463) $702,939
+Other long-term obligations . . . . . . . . . . . . . . . . $ 77,340 (5,294) — $ 72,046
+79

@@ -1,0 +1,43 @@
+The following table presents the income statement location and impact of derivative ﬁnancial instruments:
+Loss
+7 Recognized in Income 7
+Year ended
+Income Statement : December 31’ :
+(In thousands) Location 7 2016 1: 2015 :
+[Derivatives not designated as hedging instruments: J
+Foreign exchange contracts Currency exchange loss 33 6,675 $ 2,187
+Note 18—Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. The fair value hierarchy consists of three broad levels, which
+gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1) and the lowest
+priority to unobservable inputs (Level 3). The three levels of the fair value hierarchy are:
+Level l—Observable inputs that reﬂect unadjusted quoted prices for identical assets or liabilities in active markets.
+Level 2—Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either
+directly or indirectly.
+Level 3—Unobservable inputs for the asset or liability.
+The valuation methodologies we used to measure ﬁnancial assets and liabilities were limited to the pension plan assets
+described in Note 14 and the derivative ﬁnancial instruments described in Note 17. See Note 14 for the fair value hierarchy
+classification of pension plan assets. We estimate the fair value of the derivative financial instruments, consisting of foreign
+currency forward contracts, based upon valuation models with inputs that generally can be veriﬁed by observable market
+conditions and do not involve signiﬁcant management judgment. Accordingly, the fair values of the derivative financial
+instruments are classiﬁed within Level 2 of the fair value hierarchy.
+With the exception of fixed rate long-term debt, we believe that the reported carrying amounts of our financial assets and
+liabilities approximate their fair values. The reported carrying amount of long-term debt (including the current portion) was
+$175 million and $140 million at December 31, 2016 and 2015, respectively. The fair value of this debt was $194 million and
+$145 million at December 31, 2016 and 2015, respectively. The fair value of this debt was determined using Level 2 inputs by
+evaluating like rated companies with publicly traded bonds where available or current borrowing rates available for financings
+with similar terms and maturities.
+Note 19—Contingencies
+Product Liability
+The Company categorizes the product liability losses of its subsidiary MSA LLC into two main categories: single incident
+and cumulative trauma.
+Single incident claims. Single incident product liability claims involve incidents of short duration that are typically
+known to us when they occur and involve observable injuries, which provide an objective basis for quantifying damages. MSA
+LLC estimates its liability for single incident product liability claims based on expected settlement costs for reported claims and
+an estimate of costs for unreported claims (claims incurred but not reported or IBNR). The estimate for IBNR claims is based
+on experience, sales volumes, and other relevant information. The reserve for single incident product liability claims, which
+includes reported and IBNR claims, was $3.4 million at December 31, 2016 and $3.5 million at December 31, 2015. Single
+incident product liability expense during the year ended December 31, 2016 was $0.8 million and was $0.9 million for the year
+ended December 31, 2015. Single incident product liability exposures are evaluated on an annual basis, or more frequently if
+changing circumstances warrant. Adjustments are made to the reserve as apprOpriate.
+74

@@ -1,0 +1,36 @@
+Table of Contents
+The calculation of ROI, along with a reconciliation to the calculation of ROA, the most comparable GAAP ﬁnancial measure, is as follows:
+Fiscal Years Ended January 31,
+(Amounts in millions) 2016 _ 2015
+ICALCULATION OF RETURN ON INVESTMENT I
+Numerator
+I Operating income $ 24,105 $ 27,147 I
++ Interest income 81 1 13
+I + Depreciation and amortization 9,454 9,173 I
++ Rent 2,532 2,777
+I = Adjusted operating income $ 36,172 — $ 39,210 I
+IDenominator I
+Average total assets of continuing operations (1) $ 201,536 $ 203,786
+I + Average accumulated depreciation and amortization (1) 68,759 63,375 I
+- Average accounts payable (1) 38,449 37,913
+I - Average accrued liabilities (1) 19,380 18,973 I
++ Rent X 8 20,256 22,216
+I = Average invested capital $ 232,722 — $ 232,491 I
+Return on investment (ROI) 15.5% — 16.9%
+ICALCULATION OF RETURN ON ASSETS I
+INumerator I
+Income from continuing operations $ 15,080 $ 16,814
+IDenominator : f: I
+Average total assets of continuing operations (1) $ 201,536 $ 203,786
+IReturn on assets (ROA) : 7.5% f: 8.2%I
+As of January 31,
+2016 _ 2015 _ 2014
+ICertain Balance Sheet Data I
+Total assets of continuing operations (2) $ 199,581 $ 203,490 $ 204,081
+IAccumulated depreciation and amortization 71,538 65,979 60,771 I
+Accounts payable 38,487 38,410 37,415
+IAccrued liabilities 19,607 19,152 18,793 I
+(1) The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior period and dividing by 2.
+(2) Total assets of continuing operations were adjusted to reﬂect the adoption of ASU 2015-03, Interest-Imputation of Interest (Subtopic 835-3 0): Simpliﬁ/ing the Presentation of Debt Issuance
+Cost, for all periods.
+8

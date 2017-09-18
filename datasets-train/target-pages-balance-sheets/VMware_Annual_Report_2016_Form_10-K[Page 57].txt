@@ -1,0 +1,45 @@
+IablreIQf7Contents
+VMware, Inc.
+CONSOLIDATED BALANCE SHEETS
+(amounts in millions, except per share amounts, and shares in thousands)
+December 31,
+2016 2015
+I ASSETS — I
+Current assets:
+I Cash and cash equivalents $ 2,790 $ 2,493 I
+Short-term investments 5,195 5,016
+I Accounts receivable, net of allowance for doubtful accounts of $2 and $2 1,856 1,633 I
+Due from related parties, net 132 74
+I Other current assets 362 144 I
+Total current assets 10,335 _ 9,360
+IPropelty and equipment, net 1,049 1,128 I
+Other assets 248 193
+IDeferred tax assets 462 456 I
+Intangible assets, net 517 616
+IGoodwill 4,032 3,993 I
+Total assets $ 16,643 $ 15,746
+I LIABILITIES AND STOCKHOLDERS’ EQUITY : I
+Current liabilities:
+I Accounts payable $ 125 $ 138 I
+Accrued expenses and other 898 746
+I Unearned revenue 3,531 3,245 I
+Total current liabilities 4,554 _ 4,129
+INotes payable to Dell 1,500 1,500 I
+Unearned revenue 2,093 1,831
+IOther liabilities 399 363 I
+Total liabilities 8,546 _ 7,823
+IContingencies (refer to Note J) I
+Stockholders’ equity:
+I Class A common stock, par value $.01; authorized 2,500,000 shares; issued and I
+outstanding 108,351 and 121,947 shares 1 1
+Class B convertible common stock, par value $.01; authorized 1,000,000 shares;
+issued and outstanding 300,000 shares 3 3
+I Additional paid-in capital 1,721 2,728 I
+Accumulated other comprehensive income (loss) (9) (8)
+I Retained earnings 6,381 5,195 I
+Total VMware, Inc’s stockholders’ equity 8,097 _ 7,919
+INon-controlling interests — 4 I
+Total stockholders’ equity 8,097 _ 7,923
+I Total liabilities and stockholders’ equity $ 16,643 — $ 15,746 I
+The accompanying notes are an integral part of the consolidated financial statements.
+56

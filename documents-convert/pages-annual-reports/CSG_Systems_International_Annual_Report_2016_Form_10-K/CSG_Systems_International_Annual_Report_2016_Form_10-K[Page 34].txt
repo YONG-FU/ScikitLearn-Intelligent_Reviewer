@@ -1,0 +1,39 @@
+(2) C ash ﬂows from operating activities for the ﬁrst quarter of 2016 were negatively impacted by a prospective change in the timing of payment terms for a key
+vendor related to postage.
+(3) For the third quarter of 2016, cash ﬂows from operating activities were negatively impacted by the increase in the accounts receivable balance primarily
+related to the timing around certain recurring client payments that were delayed at quarter-end.
+(4) Cash ﬂows from operating activities for the fourth quarter of 2016 were negatively impacted by year-end working capital timing ﬂuctuations, and a payment
+made at year-end as part of the closure of several years of outstanding tax audits with the IRS.
+We believe the above table illustrates our ability to generate recurring quarterly cash ﬂows from our operations, and the importance of managing our working capital
+items. The quarterly and annual variations in our net cash provided by operating activities are related mostly to the changes in our operating assets and liabilities (related
+mostly to ﬂuctuations in timing at quarter-end of client payments and changes in accrued expenses), and generally over longer periods of time, do not signiﬁcantly
+impact our cash ﬂows from operations.
+Significant ﬂuctuations in key operating assets and liabilities between 2016 and 2015 that impacted our cash ﬂows from operating activities are as follows:
+BillediTradeAccountalieceﬂable
+Management of our billed accounts receivable is one of the primary factors in maintaining strong quarterly cash ﬂows from operating activities. Our billed trade
+accounts receivable balance includes significant billings for several non-revenue items (primarily postage, sales tax, and deferred revenue items). As a result, we
+evaluate our performance in collecting our accounts receivable through our calculation of days billings outstanding (“DBO”) rather than a typical days sales
+outstanding (“DSO”) calculation. DBO is calculated by taking the average monthly net trade accounts receivable balance for the period divided by billings for the
+period (including non-revenue items).
+Our gross and net billed trade accounts receivable and related allowance for doubtful accounts receivable (“Allowance”) as of the end of the indicated quarterly
+periods, and the related DBOs for the quarters then ended, are as follows (in thousands, except DBOS):
+Quarter Ended _ Gross _ Allowance _ N cit Billeid _ DBOs
+2016: 1
+March 31 $ 185,297 $ (3,647) $ 181,650 61
+1 June 30 182,640 (3,726) 178,914 63 1
+September 30 204,516 (2,906) 201,610 69
+1 December 31 212,010 (3,080) 208,930 70 l
+2015:
+1 March 31 $ 183,283 $ (3,187) $ 180,096 64 1
+June 30 176,206 (3,937) 172,269 65
+I September 30 181,225 (3,878) 177,347 62 1
+December 31 182,454 (3,600) 178,854 60
+The increases in gross and net billed accounts receivable at September 30, 2016 and December 31, 2016 are primarily related to the timing around certain
+recurring customer payments that were delayed at each quarter end, thus negatively impacting our DB0 for the third and fourth quarters of 2016.
+As a global provider of software and professional services, a portion of our accounts receivable balance relates to clients outside the US. As a result, this diversity
+in the geographic composition of our client base may adversely impact our DBOs as longer billing cycles (i.e., billing terms and cash collection cycles) are an
+inherent characteristic of international software and professional services transactions. For example, our ability to bill (i.e., send an invoice) and collect
+arrangement fees may be dependent upon, among other things: (i) the completion of various client administrative matters, local country billing protocols and
+processes (including local cultural differences), and/or non-client administrative matters; (ii) us meeting certain contractual invoicing milestones; or (iii) the
+overall project status in certain situations in which we act as a subcontractor to another vendor on a project.
+33

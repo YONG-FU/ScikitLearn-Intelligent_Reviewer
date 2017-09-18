@@ -1,0 +1,35 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+12. Earnings Per Share
+Earnings per common share 2016 2015 2014
+Net income attributable to ExxonMobil (millions of dollars) 7,840 16,150 32,520
+Weighted average number of common shares outstanding (millions of shares) 4,177 4,196 4,282
+Earnings per common share (dollars) (1) 1.88 3.85 7.60
+Dividends paid per common share (dollars) 2.98 2.88 2.70
+(I) The earnings per common share and earnings per common share - assuming dilution are the same in each period shown.
+13. Financial Instruments and Derivatives
+Financial Instruments. The fair value of financial instruments is determined by reference to observable market data and other
+valuation techniques as appropriate. The only category of financial instruments where the difference between fair value and
+recorded book value is notable is long-term debt. The estimated fair value of total long-term debt, excluding capitalized lease
+obligations, was $28.0 billion and $18.9 billion at December 31, 2016, and 2015, respectively, as compared to recorded book
+values of $27.7 billion and $18.7 billion at December 31, 2016, and 2015, respectively. The increase in the estimated fair value
+and book value of long-term debt reﬂects the Corporation’s issuance of $12.0 billion of long-term debt in the first quarter of
+2016.
+The fair value of long-term debt by hierarchy level at December 31, 2016, is: Level 1 $27,825 million; Level 2 $137 million; and
+Level 3 $6 million.
+Derivative Instruments. The Corporation’s size, strong capital structure, geographic diversity and the complementary nature of
+the Upstream, Downstream and Chemical businesses reduce the Corporation’s enterprise-wide risk from changes in interest rates,
+currency rates and commodity prices. As a result, the Corporation makes limited use of derivatives to mitigate the impact of such
+changes. The Corporation does not engage in speculative derivative activities or derivative trading activities nor does it use
+derivatives with leveraged features. When the Corporation does enter into derivative transactions, it is to offset exposures
+associated with interest rates, foreign currency exchange rates and hydrocarbon prices that arise from existing assets, liabilities
+and forecasted transactions.
+The estimated fair value of derivative instruments outstanding and recorded on the balance sheet was a net liability of $22 million
+at year-end 2016 and a net asset of $21 million at year-end 2015. Assets and liabilities associated with derivatives are usually
+recorded either in “Other current assets” or “Accounts payable and accrued liabilities”.
+The Corporation’s fair value measurement of its derivative instruments use either Level 1 or Level 2 inputs.
+The Corporation recognized a before-tax gain or (loss) related to derivative instruments of $(81) million, $39 million and
+$110 million during 2016, 2015 and 2014, respectively. Income statement effects associated with derivatives are usually recorded
+either in “Sales and other operating revenue” or “Crude oil and product purchases”.
+The Corporation believes there are no material market or credit risks to the Corporation’s financial position, results of operations
+or liquidity as a result of the derivative activities described above.
+84

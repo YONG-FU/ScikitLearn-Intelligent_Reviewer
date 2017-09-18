@@ -1,0 +1,41 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Cash, cash equivalents and short-term investments consisted of the following as of November 27, 2015 (in thousands):
+Amortized Unrealized Unrealized Estimated
+Cost Gains Losses Fair Value
+Current assets:
+1 Cash $ 352,371 $ — $ — $ 352,371 1
+Cash equivalents: : :
+l Money market mutual funds 482,479 — — 482,479 1
+Municipal securities 1,850 — ( 1) 1,849
+1 Time deposits 13,461 — — 13,461 1
+US. Treasury securities 26,400 — — 26,400
+I Total cash equivalents : 524,190 — (1)_ 524,189 1
+Total cash and cash equivalents : 876,561 — (1)_ 876,560 :
+l Short-term fixed income securities: : 1
+Asset backed securities 83,449 11 (146) 83,314
+I Corporate bonds and commercial paper 1,890,253 2,273 (5,612) 1,886,914 1
+Foreign government securities 1,276 — (8) 1,268
+1 Municipal securities 137,280 101 (49) 137,332 1
+US. agency securities 130,397 85 (14) 130,468
+I US. Treasury securities 873,400 101 (1,273) 872,228 1
+Total short-term investments : 3,116,055 2,571 (7,102) 3,111,524 :
+lTotal cash, cash equivalents and short-term investments 33 3,992,616 — $ 2,571 — EB (7,103) $ 3,988,084 1
+See Note 4 for further information regarding the fair value of our ﬁnancial instruments.
+The following table summarizes the fair value and gross unrealized losses related to available-for—sale securities, aggregated
+by investment category, that have been in an unrealized loss position for less than twelve months, as of December 2, 2016 and
+November 27, 2015 (in thousands):
+7 2016 7 7 2015 7
+Gross Gross
+Fair Unrealized Fair Unrealized
+Value Losses Value Losses
+1 Corporate bonds and commercial paper :55 1,282,076 (9,474)_$ 1,112,883 (5,377):
+Asset-backed securities 54,063 (189) 60,057 (147)
+1 Municipal securities 1 14,810 (525) 35,594 (50)}
+Foreign government securities — — 1,268 (8)
+IUS. Treasury and agency securities 7 580,529 7 7 (1,470) 7 820,570, 7 (1,287):
+Total $ 2,031,478 $ (11,658) $ 2,030,372 $ (6,869)
+There were 1,052 securities and 914 securities in an unrealized loss position for less than twelve months at December 2,
+2016 and at November 27, 2015, respectively.
+75

@@ -1,0 +1,41 @@
+Section 3.05 Deposit of Redemption or Purchase Price.
+On or prior to the redemption or purchase date, the Issuers will deposit with the Trustee or with the Paying Agent money sufﬁcient to pay the
+redemption or purchase price of and accrued interest on all Notes to be redeemed or purchased on that date. The Trustee or the Paying Agent will promptly
+return to the Issuers any money deposited with the Trustee or the Paying Agent by the Issuers in excess of the amounts necessary to pay the redemption or
+purchase price of, and accrued interest on, all Notes to be redeemed or purchased.
+Ifthe Issuers comply with the provisions of the preceding paragraph, on and after the redemption or purchase date, interest will cease to accrue on the
+Notes or the portions of Notes called for redemption or purchase. If a Note is redeemed or purchased on or after an interest record date but on or prior to the
+related Interest Payment Date, then any accrued and unpaid interest shall be paid to the Person in whose name such Note was registered at the close of
+business on such record date. Ifany Note called for redemption or purchase is not so paid upon surrender for redemption or purchase because of the failure of
+the Issuers to comply with the preceding paragraph, interest shall be paid on the unpaid principal, from the redemption or purchase date until such principal
+is paid, and to the extent lawful on any interest not paid on such unpaid principal, in each case at the rate provided in the Notes and in Section 4.01 hereof.
+Section 3.06 Notes Redeemed or Purchased in Part.
+Upon surrender of a Note that is redeemed or purchased in part, the Issuers will issue and, upon receipt of an Authentication Order, the Trustee will
+authenticate for the Holder at the expense of the Issuers a new Note equal in principal amount to the unredeemed or unpurchased portion of the Note
+surrendered.
+Section 3.07 Optional Redemption.
+(a)
+(1) At any time prior to May 1, 2019, the Issuers may on any one or more occasions redeem up to 35% of the aggregate principal amount of the
+outstanding Notes (including any Additional Notes) issued under this Indenture at a redemption price of 106.375% of the principal amount with an
+amount not to exceed the net cash proceeds of one or more Equity Offerings, plus accrued and unpaid interest to, but excluding, the Redemption Date
+(subject to the right of Holders of record on the relevant record date to receive interest due on an Interest Payment Date that is on or prior to the
+Redemption Date); provided that:
+(i) at least 65% of the aggregate principal amount of Notes originally issued under this Indenture (excluding Notes held by TLLP and its
+Subsidiaries) remains outstanding immediately after the occurrence of such redemption; and
+(ii) the redemption occurs within 180 days of the date of the closing of such Equity Offering.
+(2) On or after May 1, 2019, the Issuers may redeem all or a part of the Notes at the redemption prices (expressed as percentages of principal
+amount) set forth below plus accrued and unpaid interest on the Notes redeemed, to, but excluding, the applicable Redemption Date, if redeemed
+during the twelve-month period beginning on May 1 of each year indicated below, subject to the rights of Holders of Notes on the relevant record date
+to receive interest on the relevant Interest Payment Date:
+Year Percentage
+2019 104.7 8 1 %
+2020 103 .1 8 8 %
+2021 101 .5 94 %
+2022 and thereafter 100.000 %
+(3) At any time prior to May 1, 2019, the Issuers may also redeem all or a part of the Notes at a redemption price equal to 100% of the principal
+amount of Notes redeemed plus the Applicable Premium as of, and accrued and unpaid interest thereon to, but excluding, the redemption date (the
+"RedemptionDate"), subject to the rights of Holders of Notes on the relevant record date to receive interest due on the relevant Interest Payment
+Date. The notice need not set forth the Applicable Premium but only the manner of calculation of the redemption price. With respect to any redemption
+pursuant to this Section 3 .07(a)(3), the Issuers shall notify the Trustee of the Applicable Premium with respect to the Notes promptly after the
+calculation thereof and the Trustee shall not be responsible for such calculation.
+-27-

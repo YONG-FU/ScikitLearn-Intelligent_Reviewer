@@ -1,0 +1,43 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Use of Accounting Estimates
+The preparation of ﬁnancial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities, the reported amounts of revenue and expenses during the reporting periods, and the disclosure of contingent liabilities at the date of the
+ﬁnancial statements. Estimates are used for, but not limited to, trade receivable valuation, marketing development funds and rebates, useful lives assigned to ﬁxed
+assets and intangible assets, valuation of goodwill and definite-lived intangibles, income taxes, stock-based compensation, and contingencies. Actual results could
+differ from those estimates.
+Revenue Recognition
+VMware derives revenue primarily from licensing software under perpetual licenses, related software maintenance and support, training, consulting services
+and hosted services. Revenue is recognized when persuasive evidence of an arrangement exists, delivery has occurred or service has been provided, the sales price
+is ﬁxed or determinable and collectibility is probable.
+License Revenue
+VMware sells most of its license software through distributors, resellers, system vendors, systems integrators and through its direct sales force. VMware
+recognizes revenue from the sale of its software licenses upon shipment, provided all other revenue recognition criteria have been met. VMware also rents its
+software to customers using a pay-as-you—go consumption model. Revenue from this selling model is generally recognized based upon the customer's reported
+usage. When software license arrangements are offered with new products that become available on a when-and-if-available basis, revenue associated with these
+arrangements is recognized ratably over the subscription period.
+For software sold by system vendors that is bundled with their hardware, unless VMware has a separate license agreement which governs the transaction,
+revenue is recognized in arrears upon the receipt of royalty reports.
+Services Revenue
+VMware’s services revenue generally consist of software maintenance and support, training, consulting services and hosted services. Software maintenance
+and support offerings entitle customers to receive major and minor product upgrades on a when-and-if-available basis and technical support. Revenue from
+software maintenance and support offerings is generally recognized ratably over the contract period.
+Professional services include design, implementation and training. Professional services are not considered essential to the functionality of VMware’s products
+as these services do not alter the intended product capabilities and may be performed by customers or other vendors. Revenue from professional services
+engagements performed for a fixed fee, for which VMware is able to make reasonably dependable estimates of progress toward completion, is recognized on a
+proportional performance basis assuming all other revenue recognition criteria are met. Revenue from professional services engagements invoiced on a time and
+materials basis is recognized as the hours are incurred.
+VMware’s hosted services consist of certain software offerings sold as a service without the customer’s ability to take possession of the software over the
+subscription term. These arrangements are offered to VMware’s customers over a specified period of time and revenue is recognized in both license and services
+revenue ratably over the subscription term commencing upon delivery of the service. Hosted services are also provided on a consumption basis with revenue
+recognized commensurate with customer’s usage of the related services.
+Rebate Reserves and Marketing Development Funds
+Rebates are offered to certain channel partners, which are recognized as a reduction to revenue or unearned revenue. Rebates based on actual partner sales are
+recognized as a reduction of revenue as the underlying revenue is recognized. Rebates earned based upon partner achievement of cumulative level of sales are
+recognized as a reduction of revenue proportionally for eligible sales required to achieve the target.
+VMware participates in marketing development programs with certain channel partners wherein VMware reimburses its partners for certain direct costs
+incurred by the partners for marketing-related expenses or other services under the terms of the programs. Reimbursed costs to channel partners are recognized as a
+reduction of revenue based upon the maximum potential liability. The difference between the maximum potential liability recognized and the actual amount paid
+out has not been material to date.
+60

@@ -1,0 +1,51 @@
+The following table sets forth, as of December 31, 2016 certain significant obligations that will affect our future liquidity (in
+thousands):
+Year Ended December 31,
+Total 2017 2018 2019 2020 2021 Thereafter
+Operating lease obligations (1) $ 925,977 $ 165,457 $ 150,925 $ 125,148 $ 102,804 $ 88,950 $ 292,693
+Capital lease obligations, including interest....... 122,573 38,712 33,730 23,793 7,333 2,746 16,259
+Purchase obligations (2)(3) 7,293,507 2,755,762 92,625 79,239 3,871 3,831 15,471
+Long-term debt (4)(5) 8,198,241 1,074,553 1,333,675 1,817,434 1,229,656 1,634,897 1,108,026
+$16,540,298 $4,034,484 $1,610,955 $2,045,614 $1,343,664 $1,730,424 $1,432,449
+(1) The operating lease obligations amount includes $257.5 million recorded as other long-term liabilities in our Consolidated
+Balance Sheets in accordance with built-to-suit accounting.
+(2) Amounts do not include future cash payments for purchase obligations which were recorded in Accounts payable or Accrued
+liabilities as of December 31, 2016.
+(3) These totals represent a quantiﬁcation of aggregate amounts pursuant to purchase orders issued under binding and enforceable
+agreements with all vendors as of December 31, 2016, as well as any other estimable and calculable purchase obligations
+pursuant to such agreements, including any additional amounts we may have to pay vendors if we do not meet certain minimum
+purchase obligations. In cases where no purchase orders were outstanding under binding and enforceable agreements as of
+December 31, 2016, we have included estimated amounts based on our best estimates and assumptions or discussions with the
+relevant vendors as of such date, and/or amounts or assumptions included in such agreements for purposes of discussion or
+reference. In certain cases, such estimated amounts were subject to unsatisfied market conditions and contingent events. Where
+the timing of payments are not known or estimable, we have included the amount only in the total column. If contracts where no
+purchase orders were outstanding under binding and enforceable agreements were terminated on or prior to December 31, 2016,
+our obligations under such contracts would have been substantially lower.
+(4) During the fourth quarter of 2016, the closing price of our common stock exceeded 130% of the applicable conversion price of
+our 2018 Notes on at least 20 of the last 30 consecutive trading days of the quarter; therefore, holders of 2018 Notes may
+convert their notes during the first quarter of 2017. As such, we classified the $205.0 million principal balance of our 2018
+Notes as current liabilities on our Consolidated Balance Sheet as of December 31, 2016 and have included related contractual
+payments in the year ended December 31, 2017 category in the table above.
+(5) Long-term debt reported above includes SolarCity’s total consolidated indebtedness of $3.58 billion as of December 31, 2016,
+representing outstanding recourse indebtedness of $1.62 billion and non-recourse indebtedness of $1.95 billion. Long-term debt
+reported above also includes our remaining non-recourse indebtedness of $457.3 million. Recourse debt refers to debt that is
+recourse to the general assets of the debt issuer. Non-recourse debt refers to debt that is recourse only to specified assets of the
+debt issuer and/or its subsidiaries. SolarCity’s non-recourse credit facilities have been structured to be supported solely by the
+solar assets that are pledged as collateral, and, to date, have not experienced any failure to pay such non-recourse indebtedness.
+The contractual obligations table above excludes uncertain tax benefits of approximately $198.3 million that are disclosed in
+Note 16 in the notes to our Consolidated Financial Statements because these uncertain tax positions, if recognized, would be an
+adjustment to the deferred tax assets.
+Off-Balance Sheet Arrangements
+During the periods presented, we did not have relationships with unconsolidated entities or financial partnerships, such as
+entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of
+facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Foreign Currency Risk
+We transact business globally in multiple currencies. Our international revenues, as well as costs and expenses denominated in
+foreign currencies, expose us to the risk of ﬂuctuations in foreign currency exchange rates against the functional currencies of our
+foreign subsidiaries and against the US. dollar. Upon consolidation, as foreign exchange rates vary, revenues and expenses may be
+significantly impacted and we may record significant gains or losses on the remeasurement of monetary assets and liabilities,
+including intercompany balances. As of December 31, 2016, our largest currency exposures are from the Euro, Japanese yen, and
+British Pounds. We recorded foreign exchange gain of $26.1 million in other income (expense), net, for the year ended December 31,
+2016 related to the impact of changes in exchange rates on foreign currency denominated monetary assets and liabilities.
+5 1

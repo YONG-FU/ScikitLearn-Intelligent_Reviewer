@@ -1,0 +1,32 @@
+Table,0f,C,ontents
+To estimate fair value, the company uses the market approach, income approach, or a combination of the two. Under the market approach, the Company utilizes
+publicly-traded comparable company information to determine revenue and earnings multiples that are used to value the Company’s reporting units. Under the
+income approach, the Company determines fair value based on estimated future cash flows of each reporting unit discounted by an estimated weighted-average
+cost of capital, reﬂecting the overall level of inherent risk of a reporting unit and the rate of return an outside investor would expect to earn. The Company bases
+cash flow projections for each reporting unit using a forecast of cash ﬂows and a terminal value based on the Perpetuity Growth Model.
+Step Two
+For any reporting units, where the carrying value exceeds the estimated fair value, as determined in step one, the Company performs step two to measure the
+amount of impairment, if any. The second step of the quantitative test is performed by comparing the carrying value of the goodwill in the reporting unit to its
+implied fair value. The implied fair value is calculated by allocating all of the assets and liabilities of the reporting unit, including any unrecognized intangible
+assets, in a hypothetical analysis that calculates the implied fair value of goodwill in the same manner as if the reporting unit was being acquired in a business
+combination. An impairment charge is recognized for the excess of the carrying value of goodwill over its implied fair value.
+2016 Impairment Testing
+Interim Test. After recording the goodwill impairment charge for Tumblr during the fourth quarter of 2015, the fair value of the Tumblr reporting unit
+approximated its carrying value. As such, any signiﬁcant unfavorable changes in the forecast would result in the fair value being less than the carrying value.
+During the second quarter of 2016, the Company determined that there were indicators present to suggest that it was more likely than not that the fair value of
+the Tumblr reporting unit was less than its carrying amount. The signiﬁcant changes for the Tumblr reporting unit subsequent to the annual goodwill impairment
+test performed as of October 31, 2015 included a decline in the 2016 and beyond forecasted revenue, operating income and cash ﬂows.
+To test the Tumblr reporting unit for impairment, the Company used the two-step quantitative test. Consistent with methodology used for the prior year’s annual
+goodwill impairment testing, the Company estimated the fair value of the Tumblr reporting unit using an income approach which was deemed to be the most
+indicative of fair value in an orderly transaction between market participants. Under the income approach, the Company determined fair value based on
+estimated future cash ﬂows of the Tumblr reporting unit discounted by an estimated weighted-average cost of capital, reﬂecting the overall level of inherent risk
+of the Tumblr reporting unit and the rate of return an outside investor would expect to earn. The Company based its cash flow projections for the Tumblr
+reporting unit using a forecast of cash ﬂows and a terminal value based on the Perpetuity Growth Model. The forecast and related assumptions were derived
+from an updated ﬁnancial forecast prepared during the second quarter of 2016. As a result of the analysis, the Company concluded that the carrying value of the
+Tumblr reporting unit exceeded its estimated fair value. The second step of the quantitative test was performed by comparing the carrying value of the goodwill
+in the Tumblr reporting unit to its implied fair value. The step two quantitative test for the Tumblr reporting unit resulted in an impairment for the Tumblr reporting
+unit, and the Company recorded a goodwill impairment charge of $395 million during the second quarter of 2016.
+Annual Test. As of October 31, 2016, the Company conducted its annual impairment test and no additional impairment was identiﬁed.
+The remaining goodwill related to the Tumblr reporting unit as of December 31, 2016 was $124 million, which is included in the Americas operating segment. As
+of December 31, 2016, there was also
+133

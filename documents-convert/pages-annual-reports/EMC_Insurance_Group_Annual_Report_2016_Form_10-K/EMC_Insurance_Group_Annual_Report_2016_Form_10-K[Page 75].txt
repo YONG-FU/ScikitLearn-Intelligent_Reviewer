@@ -1,0 +1,46 @@
+The estimation of settlement expense reserves assumes a consistent claims department philosophy regarding the defense
+of lawsuits. If the pool participants should in the future take a more aggressive defense posture, defense costs would increase
+and it is likely that the Company’s carried allocated settlement expense reserves would be deficient. However, such a change in
+philosophy would likely reduce losses, generating some offsetting redundancy in the loss reserves.
+The property and casualty insurance subsidiaries have exposure to environmental and asbestos claims arising primarily
+from the other liability line of business. These exposures are closely monitored by management, and IBNR loss reserves have
+been established to cover estimated ultimate losses. The loss and settlement expense reserves associated with asbestos claims
+have been increased each year for the last several years due to continued reporting of new claims at a rate not previously
+anticipated, as well as updated internal ultimate loss and settlement expense evaluations. In 2016, the loss and settlement
+expense reserves for asbestos claims were strengthened approximately $3.5 million.
+Environmental IBNR loss reserves are established in consideration of the implied three-year survival ratio (ratio of loss
+and settlement expense reserves to the three-year average of loss and settlement expense payments). Estimation of ultimate
+liabilities for these exposures is unusually diﬁicult due to unresolved issues such as whether coverage exists, the definition of
+an occurrence, the determination of ultimate damages and the allocation of such damages to financially responsible parties.
+Therefore, any estimation of these liabilities is subject to greater than normal variation and uncertainty, and ultimate payments
+for losses and settlement expenses for these exposures may differ significantly from the carried reserves.
+Reinsurance Segment
+Following is a summary of the carried loss and settlement expense reserves for the reinsurance segment at December 31,
+2016 and 2015.
+December 31,
+($ in thousands)
+Line of business 7 2016 7 7 2015 7
+[Pro rata reinsurance $ 60,412 $ 60,098 ‘
+Excess of loss reinsurance 143,733 138,263
+[ Total reinsurance segment 733 204,145 7 8 198,361
+The reinsurance book of business is comprised of two major components. The first is HORAD, which includes the
+reinsurance business assumed by the reinsurance subsidiary through the quota share agreement and the business written directly
+by the reinsurance subsidiary outside of the quota share agreement. The second is MRB, which is a voluntary reinsurance pool
+in which Employers Mutual participates with four other unaffiliated insurers.
+The primary actuarial methods used to project ultimate policy year losses on the assumed reinsurance business are paid
+development, incurred development and Bornhuetter-Ferguson. The assumptions underlying the various projection methods
+include stability in the mix of business, consistent claims processing procedures, immaterial impact of loss cost trends on
+development patterns, consistent case loss reserving practices and appropriate Bornhuetter—Ferguson expected loss ratio
+selections.
+At December 31, 2016, the carried reserves for HORAD and MRB combined were in the upper quartile of the range of
+actuarial reserve indications. This selection reﬂects the fact that there are inherent uncertainties involved in establishing
+reserves for assumed reinsurance business. Such uncertainties include the fact that a reinsurance company generally has less
+knowledge than the ceding company about the underlying book of business and the ceding company’s reserving practices.
+Because of these uncertainties, there is a risk that the reinsurance segment’s reserves for losses and settlement expenses could
+prove to be inadequate, with a consequential adverse impact on the Company’s future earnings and stockholders’ equity.
+At December 31, 2016, there was no backlog in the processing of assumed reinsurance information. Approximately
+$133.4 million, or 65 percent, of the reinsurance segment’s carried reserves were reported by the ceding companies. Employers
+Mutual receives loss reserve and paid loss data from its ceding companies on individual excess of loss contracts. If a claim
+involves a single or small group of claimants, a summary of the loss and claim outlook is normally provided. Summarized data
+is provided for catastrophe claims and pro rata business, which is subject to closer review if inconsistencies are suspected.
+64

@@ -1,0 +1,45 @@
+Article Five
+REMEDIES
+SECTION 501. Events of Default.
+(a) “Event of Default” wherever used herein with respect to any particular series of Securities means any one of the following events and such other events as
+may be established with respect to the Securities of such series as contemplated by Section 301 (whatever the reason for such Event of Default and whether it shall
+be voluntary or involuntary or be effected by operation of law pursuant to any judgment, decree or order of any court or any order, rule or regulation of any
+administrative or governmental body):
+(1) default in the payment of any installment of interest upon any Security of that series when it becomes due and payable, and continuance of such
+default for a period of 30 days; or
+(2) default in the payment of principal of, or premium, if any, on any Security of that series at its Maturity or default in the deposit of any sinking fund
+payment when and as due by the terms of any Security of that series; or
+(3) default in the performance of, or breach of, any covenant or warranty of the Company in respect of any Security of that series contained in this
+Indenture or in such Securities (other than a covenant or warranty a default in whose performance or whose breach is elsewhere in this Section specifically
+dealt with) or in the applicable Board Resolution under which such series is issued as contemplated by Section 301 and continuance of such default or breach
+for a period of 90 days after there has been given, by registered or certified mail, to the Company by the Trustee for the Securities of such series or to the
+Company and such Trustee by the Holders of at least 25% in principal amount of the Outstanding Securities of that series a written notice specifying such
+default or breach and requiring it to be remedied and stating that such notice is a “Notice of Default” hereunder; or
+(4) the Company shall commence any case or proceeding seeking to have an order for relief entered on its behalf as debtor or to adjudicate it as
+bankrupt or insolvent or seeking reorganization, liquidation, dissolution, winding-up, arrangement, composition or readjustment of its debts or any other
+relief under any bankruptcy, insolvency, reorganization, liquidation, dissolution, arrangement, composition, readjustment of debt or other similar act or law
+of any jurisdiction, domestic or foreign, now or hereafter existing; or the Company shall apply for a receiver, custodian or trustee (other than any trustee
+appointed as a mortgagee or secured party in connection with the issuance of indebtedness for borrowed money of the Company) of it or for all or a
+substantial part of its property; or the Company shall make a general assignment for the benefit of creditors; or the Company shall take any corporate action
+in furtherance of any of the foregoing; or
+(5) an involuntary case or other proceeding shall be commenced against the Company with respect to it or its debts under any bankruptcy, insolvency
+or other similar law now or hereafter in effect seeking the appointment of a trustee, receiver, liquidator, custodian or similar official of it or any substantial
+part of its property; and such case or other proceeding (A) results in the entry of an order for relief or a similar order against it or (B) shall continue unstayed
+and in effect for a period of 60 consecutive days; or
+(6) any other Event of Default provided in the Security or the Board Resolution with respect to Securities of that series.
+(b) So long as any of the Notes are outstanding, the Company will deliver to the Trustee within 30 days of any Officer becoming aware of any Default or
+Event of Default, an Ofﬁcers’ Certificate specifying such Default or Event of Default and what action the Company is taking or proposes to take with respect
+thereto.
+SECTION 502. Acceleration of Maturity; Rescission and Annulment.
+If an Event of Default with reSpect to any particular series of Securities and is continuing (other than an Event of Default described in Section 501(4) or
+501(5)), then and in every such case either the Trustee for the Securities of such series or the Holders of not less than 25% in principal amount of the Outstanding
+Securities of that series may declare the entire principal amount (or, in the case of (i) OID Securities, such lesser amount as may be provided for in the terms of that
+series or (ii) Indexed Securities, the amount determined in accordance with the specified terms of those Securities) of all the Securities of that series to be due and
+payable immediately, by a notice in writing to the Company (and to such Trustee if given by Holders), and upon any such declaration of acceleration such principal
+or such lesser amount, as the case may be, together with accrued interest and all other amounts owing hereunder, shall become immediately due and payable,
+without presentment, demand, protest or notice of any kind, all of which are hereby expressly waived.
+If any Event of Default specified in Section 501(4) or 501(5) occurs with respect to the Company, all of the unpaid principal amount (or, if the Securities of
+any series then outstanding are (i) OID Securities, such lesser amount as may be provided for in the terms of that series or (ii) Indexed Securities, the amount
+determined in accordance with the specified terms of those Securities) and accrued interest on all Securities of each series then outstanding shall ipso facto become
+and be immediately due and payable without any declaration or other act by the Trustee or any Holder.
+25

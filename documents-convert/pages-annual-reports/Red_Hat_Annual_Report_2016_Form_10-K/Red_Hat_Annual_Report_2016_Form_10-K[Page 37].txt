@@ -1,0 +1,38 @@
+° laws and policies of the US. and other jurisdictions affecting trade, foreign investment, loans, and taxes;
+0 difficulty selecting and monitoring channel partners;
+- differing technology standards and customer requirements;
+° lower levels of availability or use of the Internet, through which our software is often delivered;
+- difficulty protecting our intellectual property rights globally due to, among other reasons, the
+uncertainty of laws and enforcement in certain countries relating to the protection of intellectual
+property rights;
+- difficulty in staffing, developing and managing foreign operations as a result of distance, language,
+legal, cultural and other differences;
+- different employee/employer relationships and the existence of works councils and labor unions;
+- difficulty maintaining quality standards consistent with the our brands;
+° export and import laws and regulations that could prevent us from delivering our offerings into and from
+certain countries;
+° public health risks and natural disasters, particularly in areas in which we have significant operations;
+- limitations on the repatriation and investment of funds and foreign currency exchange restrictions;
+° changes in import/export duties, quotas or other trade barriers that could affect the competitive pricing
+of our offerings and reduce our market share in some countries; and
+- economic or political instability or terrorist acts in some international markets that could adversely
+affect our business in those markets or result in the loss or forfeiture of some foreign assets and the loss
+of sums spent developing and marketing those assets and the revenue associated with them.
+Any failure by us to effectively manage the challenges associated with the international expansion of our
+operations could adversely affect our business, financial condition, operating results and cash flows.
+A substantial portion of our revenue is derived from our Red Hat Enterprise Linux platform.
+During our fiscal year ended February 29, 2016, a substantial portion of our subscription revenue was
+derived from our Red Hat Enterprise Linux offerings. Although we are continuing to develop other offerings, we
+expect that revenue from Red Hat Enterprise Linux will constitute a majority of our revenue for the foreseeable
+future. Declines and variability in demand for Red Hat Enterprise Linux could occur as a result of:
+° competitive products and pricing;
+- failure to release new or enhanced versions of Red Hat Enterprise Linux on a timely basis, or at all;
+° technological change that we are unable to address with Red Hat Enterprise Linux; or
+- future economic conditions.
+Additionally, as more customers and potential customers virtualize their data centers and move computing
+projects to cloud environments, demand for operating systems such as Red Hat Enterprise Linux may decline.
+Moreover, as data centers become more virtualized and move to cloud environments, we may experience a
+decline in growth if we are unsuccessful in adapting our business model and offerings accordingly. Due to the
+concentration of our revenue from Red Hat Enterprise Linux, our business, financial condition, operating results
+and cash flows could be adversely affected by a decline in demand for Red Hat Enterprise Linux.
+33

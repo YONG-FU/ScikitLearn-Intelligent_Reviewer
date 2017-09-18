@@ -1,0 +1,44 @@
+Mobile Video
+There has been continued growth in the share of online video viewed by mobile devices. The Q3 2016 Global Video Index report from Ooyala showed more
+than 52% of all Video views are now on mobile devices. Since Q3 2013, mobile video views have increased more than 233%, outpacing the growing
+penetration rate of mobile devices globally as viewers spend more time watching video on the small screen. Meanwhile, Nielsen points out that the amount of
+time consumers spend on mobile devices daily increased to 189 minutes from 126 minutes between Q1 2015 and Q1 2016. Recent research from eMarketer
+notes that 78 million Millennials will watch mobile Video in 2016, with 34% watching a complete episode of a TV show and 18% watching an entire movie
+on either a smartphone or tablet.
+Mobile display systems pose a number of unique challenges. Power is of primary importance, impacting form factor, cost and performance. As these systems
+have added more functionality, new features have had to compete for battery life, internal bandwidth and space. The addition of high—resolution displays has
+ﬁlrther increased the burden on these resources.
+Using the same technology developed for large screen TVs is neither feasible nor desirable. The video display processing pipelines used in TVs consume
+many watts of power and would be unsuitable for battery powered systems. In T Vs, the size constraints on electronics are signiﬁcantly less stringent when
+compared to mobile systems. To fumish the mobile market with appropriate solutions, Pixelworks has taken a holistic, system-Wide View and re-invented its
+video display processing technology to ﬁt within the mobile constraints of battery life, bandwidth, form factor and performance. This approach has enabled
+us to create technology that meets the power and size requirements of mobile as well as offering additional beneﬁts such as reducing the bandwidth burden of
+high-resolution video and freeing up more bandwidth for the CPU and GPU.
+The mobile market today is primarily comprised of smartphones and tablets. Our technology addresses both of these markets.
+0 Smartphones. Smartphones have become a popular choice for many consumers. CCS Insight estimates that almost 2 billion smartphones will be sold
+in 2019, accounting for 88% of all mobile phones sold in 2019. The resolution of smartphone displays is growing, while the color gamut and
+contrast is moving toward DCI—P3 and HDR. These improvements in displays actually exacerbate the quality issues of video playback, a growing
+problem as users increasingly use their smartphones as their primary form of video consumption.
+0 Tablets. The line between tablets and smartphones is becoming increasingly indistinct as more tablets are offering mobile connectivity and are now
+available in sizes similar to those of smartphones. Tablets offer broad appeal to consumers. With the display being the salient component of
+smartphones and tablets, and the rapidly increasing use of these devices for video consumption, we believe that the incorporation of video display
+processing is the next logical step.
+Digital Projection Market
+Increasingly affordable price points are driving continued adoption ofdigital projectors in business and education, as well as among consumers. Technology
+improvements are helping to reduce the size and weight of proj ection devices While increasing theirperformance. Projector models range from larger units
+designed to be permanently installed in a conference hall or other venue, to ultra-portable devices weighing fewer than two pounds for maximum portability.
+According to PMA Research Limited (formerly Paciﬁc Media Associates), the worldwide front projector market shipped 8.7 million units in 2015 and is
+forecasted to reach 10.2 million units by 2019.
+The feature set of proj ection systems differs from that of a typical large-screen ﬂat panel display such as a TV. This is primarily because the projector is a
+sharing and collaboration device While the TV is designed for direct consumption of content.
+The front projection market serves several different areas such as business, education and home theater. Business users employ multimedia projectors to
+display both still and Video presentation materials from PCs and other sources. Requirements for the business market include portability, compatibility with
+multiple software and hardware applications, and features that ensure simple operation. In education environments ranging from elementary schools to
+university campuses, projectors help teachers integrate media-rich instruction into classrooms. Home theater projector systems can drive large-screen displays
+for content consumption where ﬂat panel displays are either economically not viable or physically incompatible for use.
+Consistent with the trends of other consumer products, digital projectors are increasingly incorporating networking capabilities that enable the sharing of
+video and other content among multiple devices. This, in turn, is enabling new use models for digital projection in both the education and business
+environments. For example, one teacher can present the same material simultaneously in multiple classrooms, and students in different classrooms can
+display and discuss their work. Such connectivity allows instant access to content and sharing of content, which promotes interaction and collaboration
+among dispersed groups. In the business setting, this connectivity enables teleconferencing and the seamless sharing of content for more effective meetings.
+6

@@ -1,0 +1,39 @@
+These newly issued measures impose more stringent requirements and obligations on the online trading or service
+operators as well as the marketplace platform providers. For example, the marketplace platform providers are
+obligated to make public and file its transaction rules with MOFCOM or its provincial counterparts, examine the
+legal status of each third-party merchant selling products or services on the platform and display on a prominent
+location on the web page of such merchant the information stated in the merchant’s business license or a link to
+such business license, and a group buying website operator must only allow a third-party merchant with a proper
+business license to sell products or services on its platform. Where the marketplace platform providers also act as
+online distributors, these marketplace platform providers must make a clear distinction between their online direct
+sales and sales of third-party merchant products on the marketplace platform.
+Since the promulgation of the Administrative Measures for Online Trading, the SAIC has issued a number of
+guidelines and implementing rules aimed at adding greater specificity to these regulations. The SAIC continues to
+consider and issue guidelines and implementing rules, and we expect that there will be further development of
+regulation in this industry. For example, three PRC governmental authorities (the Ministry of Finance, General
+Administration of Customs and State Administration of Taxation) issued a notice on March 24, 2016 to regulate
+cross-border e-commerce trading which has experienced rapid growth in recent years. The Notice on Tax Policies
+of Cross-Border E-Commerce Retail Importation effective as of April 8, 2016, or the New Cross-Border
+E-commerce Tax Notice, introduced the concept of the Cross-Border E-Commerce Retail Importation Goods
+Inventory, or the Cross-Border E-Commerce Goods Inventory, which are to be issued and updated by the three
+authorities together with other relevant authorities from time to time. Goods beyond the scope of the Cross-
+Border E-commerce Goods Inventory will have no tax codes and be effectively removed from cross-border
+e-commerce platforms. Two batches of the Cross-Border E-Commerce Goods Inventory have been issued on
+April 6, 2016 and April 15, 2016, respectively. Cosmetics imported for the first time, nutrition supplements and
+other special food products required to be registered with the State Food and Drug Administration are excluded
+from the Cross-Border E-Commerce Goods Inventory and will not be able to be sold on the relevant cross-border
+e-commerce platforms. However, pursuant to a transition policy issued by the General Administration of Customs,
+goods which have been imported to or in transit to the bonded areas and special regulated areas of customs before
+April 8, 2016 can still be sold on the cross-border e-commerce platforms no matter whether these goods are
+included in the Cross-Border E-Commerce Goods Inventory or not.
+Regulation of Internet Content
+The PRC government has promulgated measures relating to Internet content through various ministries and
+agencies, including the MIIT, the News Office of the State Council, the Ministry of Culture and the General
+Administration of Press and Publication. In addition to various approval and license requirements, these measures
+specifically prohibit Internet activities that result in the dissemination of any content which is found to contain
+pornography, promote gambling or violence, instigate crimes, undermine public morality or the cultural traditions
+of the PRC or compromise State security or secrets. ICPs must monitor and control the information posted on
+their websites. If any prohibited content is found, they must remove such content immediately, keep a record of it
+and report to the relevant authorities. If an ICP violates these measures, the PRC government may impose fines
+and revoke any relevant business operation licenses.
+87

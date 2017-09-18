@@ -1,0 +1,47 @@
+(b) Notwithstanding the provisions of subparagraph (a) of this Paragraph 6, at any time prior to May 1, 2019, the Issuers may on any one or more
+occasions redeem up to 35% of the aggregate principal amount of the outstanding Notes (including any Additional Notes) issued under this Indenture at a
+redemption price of 106.375% of the principal amount with an amount not to exceed
+the net cash proceeds of one or more Equity Offerings, plus accrued and unpaid interest to, but excluding, the Redemption Date (subject to the right of
+Holders of record on the relevant record date to receive interest due on an Interest Payment Date that is on or prior to the Redemption Date); provided that at
+least 65% of the aggregate principal amount of Notes originally issued under this Indenture (excluding Notes held by TLLP and its Subsidiaries) remains
+outstanding immediately after the occurrence of such redemption; and the redemption occurs within 180 days of the date of the closing of such Equity
+Offering.
+(0) Notwithstanding the provisions of subparagraph (a) of this Paragraph 6, at any time prior to May 1, 2019, the Issuers may redeem all or a part of the
+Notes at a redemption price equal to 100% of the principal amount of Notes redeemed plus the Applicable Premium, and accrued and unpaid interest thereon
+to, but excluding, the Redemption Date, subject to the rights of Holders on the relevant record date to receive interest due on the relevant Interest Payment
+Date.
+For purposes of this Paragraph 6, “Appliiqablej’iremium” means, with respect to any Note on any Redemption Date, the greater of (1) 1.0% of the
+principal amount of the Note; and (2) the excess of: (a) the present value at such Redemption Date of (i) the principal amount of the Notes plus (ii) all
+required interest payments due on the Note (excluding accrued and unpaid interest to, but excluding, the Redemption Date) through May 1, 2019, computed
+using a discount rate equal to the Treasury Rate as of such Redemption Date plus 50 basis points; over (b) the principal amount of the Note. “TreasuryiRate”
+means, as of any Redemption Date, the yield to maturity as of such Redemption Date of United States Treasury securities with a constant maturity (as
+compiled and published in the most recent Federal Reserve Statistical Release H15 (519) that has become publicly available at least two Business Days prior
+to the Redemption Date (or, if such Statistical Release is no longer published, any publicly available source of similar market data)) most nearly equal to the
+period from the Redemption Date to May 1, 2019; provided, however, that if the period from the Redemption Date to May 1, 2019, is less than one year, the
+weekly average yield on actually traded United States Treasury securities adjusted to a constant maturity of one year will be used.
+7. Mandatory Redemption. Neither of the Issuers is required to make mandatory redemption or sinking ﬁind payments with respect to the Notes.
+8. Repurchase at the Option of Holder.
+(a) If there is a Change of Control Triggering Event, the Issuers will be required to make an offer (a “Change,o,f,C,ontro,Lfoer”) to each Holder to
+repurchase all or any part (equal to $1,000 or an integral multiple of $ 1 ,000 in excess thereof) of each Holder’s Notes at a purchase price in cash equal to
+101% of the aggregate principal amount thereof, plus accrued and unpaid interest on the Notes repurchased to, but excluding, the date of purchase, subject to
+the rights of Holders on the relevant record date to receive interest due on the relevant Interest Payment Date (the “Change,o,f,C,ontrol,Payment"). Within 30
+days following any Change of Control Triggering Event, the Issuers will mail a notice to each Holder setting forth the procedures governing the Change of
+Control Offer as required by the Indenture.
+(b) If the Issuers or a Restricted Subsidiary of TLLP consummates any Asset Sales, within ﬁve days aﬁer the date on which the aggregate amount of
+Excess Proceeds exceeds $50.0 million (or, at the Issuers’ option, any earlier date), the Issuers will commence an offer to all Holders of Notes and all holders
+of other Indebtedness that is pari passu with the Notes containing provisions similar to those set forth in the Indenture with respect to offers to purchase or
+redeem with the proceeds of sales of assets (an “AssetiSaleiOﬂer’ﬁ pursuant to Section 3.09 of the Indenture to purchase the maximum principal amount of
+Notes and such other pari passu Indebtedness that may be purchased out of the Excess Proceeds at an oﬁ‘er price in cash in an amount equal to 100% of the
+principal amount
+(or accreted value) thereof plus accrued and unpaid interest to the date of purchase, in accordance with the procedures set forth in the Indenture. To the extent
+that the aggregate amount of Notes and other pari passu Indebtedness tendered pursuant to an Asset Sale Offer is less than the Excess Proceeds, the TLLP (or
+such Restricted Subsidiary) may use such deﬁciency for any purpose not otherwise prohibited by the Indenture. If the aggregate principal amount of Notes
+and other pari passu Indebtedness tendered into such Asset Sale Oﬁ‘er exceeds the amount of Excess Proceeds, the Trustee shall select the Notes and the
+representative of such other pari passu Indebtedness will select such other pari passu Indebtedness to be purchased on a pro rata basis. Holders of Notes that
+are the subject of an oﬁ‘er to purchase will receive an Asset Sale Offer from the Issuers prior to any related purchase date and may elect to have such Notes
+purchased by completing the form entitled “Qpﬁon of Holder to Elect Purchase” attached to the Notes.
+9. Notice of Redemption. Notice of redemption will be mailed at least 15 days but not more than 60 days before the Redemption Date to each Holder
+whose Notes are to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a Redemption Date if the
+notice is issued in connection with a defeasance of the Notes or a satisfaction or discharge of the Indenture. Notes in denominations larger than $2,000 may
+be redeemed in part but only in whole multiples of $ 1 ,000 and in excess of $2,000, unless all of the Notes held by a Holder are to be redeemed.
+A—4

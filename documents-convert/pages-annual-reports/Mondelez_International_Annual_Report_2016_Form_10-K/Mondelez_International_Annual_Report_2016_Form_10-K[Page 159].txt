@@ -1,0 +1,42 @@
+(e) For purposes of this Indenture the following terms shall have the following meanings:
+A “Component Currency” shall mean any currency which is a component of any unit.
+“Election Date” shall mean, for the Registered Securities of any series, the date speciﬁed pursuant to Section 301(14).
+(f) Notwithstanding any other provisions of this Section 311, the following shall apply: (i) if the ofﬁcial unit of any Component Currency is altered by
+way of combination or subdivision, the number of units of that currency as a component shall be divided or multiplied in the same proportion, (ii) if two or more
+Component Currencies are consolidated into a single currency, the amounts of those currencies as components shall be replaced by an amount in such single
+currency equal to the sum of the amounts of the consolidated Component Currencies expressed in such a single currency, (iii) if any Component Currency is
+divided into two or more currencies, the amount of that original Component Currency as a component shall be replaced by the amounts of such two or more
+currencies having an aggregate value on the date of division equal to the amount of the former Component Currency immediately before such division, and (iv) in
+the event of an official redenomination of any currency (including, without limitation, a currency unit), the obligations of the Company to make payments in or with
+reference to such currency on the Registered Securities of any series shall, in all cases, be deemed immediately following such redenomination to be obligations to
+make payments in or with reference to that amount of redenominated currency representing the amount of such currency immediately before such redenomination.
+(g) All determinations referred to in this Section 311 made by the Currency Determination Agent shall be in its sole discretion and shall, in the absence
+of manifest error, be conclusive for all purposes and irrevocably binding upon the Holders of the applicable Securities. The Currency Determination Agent shall
+promptly give written notice to the Trustee for the Securities of such series of any such decision or determination. The Currency Determination Agent shall
+promptly give written notice to the Trustee of any such decision or determination. The Currency Determination Agent shall have no liability for any determinations
+referred to in this Section 311 made by it in the absence of willful misconduct or gross negligence.
+(h) The Trustee for the Securities of a particular series shall be fully justiﬁed and protected in relying and acting upon information received by it from
+the Company and the Currency Determination Agent with respect to any of the matters addressed in or contemplated by this Section 311 and shall not otherwise
+have any duty, responsibility or obligation to determine such information independently.
+SECTION 312. Appointment and Resignation of Currency Determination Agent.
+(a) If and so long as the Securities of any series (i) are denominated in a currency unit or a currency other than Dollars, or (ii) may be payable in a
+currency unit or a currency other than Dollars, or so long as it is required under any other provision of this Indenture, then the Company shall maintain with respect
+to each such series of Securities, or as so required, a Currency Determination Agent. The Company shall cause the Currency Determination Agent to make the
+necessary foreign exchange determinations at the time and in the manner speciﬁed pursuant to Section 301 for the purpose of determining the applicable rate of
+exchange and for the purpose of converting the issued currency or currency unit into the applicable payment currency or currency unit for the payment of principal,
+and premium, if any, and interest, if any, pursuant to Section 311.
+(b) No resignation of the Currency Determination Agent and no appointment of a successor Currency Determination Agent pursuant to this Section
+shall become effective until the acceptance of appointment by the successor Currency Determination Agent as evidenced by a written instrument delivered to the
+Company and the Trustee of the apprOpriate series of Securities accepting such appointment executed by the successor Currency Determination Agent.
+(c) If the Currency Determination Agent shall resign, be removed or become incapable of acting, or if a vacancy shall occur in the ofﬁce of the
+Currency Determination Agent for any cause, with respect to the Securities of one or more series, the Company, by a Board Resolution, shall promptly appoint a
+successor Currency Determination Agent or Currency Determination Agents with respect to the Securities of that or those series (it being understood that any such
+successor Currency Determination Agent may be appointed with respect to the Securities of one or more or all of such series and that at any time there shall only be
+one Currency Determination Agent with respect to the Securities of any particular series).
+SECTION 313. CUSIP Numbers.
+The Company in issuing the Securities may use “CUSIP” numbers (if then generally in use), and, if so, the Trustee shall use “CUSIP” numbers in notices of
+redemption as a convenience to Holders; provided that any such notice may state that no representation is made as to the correctness of such numbers either as
+printed on the Securities or as contained in any notice of a redemption and that reliance may be placed only on the other identiﬁcation numbers printed on the
+Securities, and any such redemption shall not be affected by any defect in or omission of such numbers. The Company will promptly notify the Trustee in writing of
+any change in the “CUSIP” numbers.
+2 1

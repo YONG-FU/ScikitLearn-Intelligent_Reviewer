@@ -1,0 +1,35 @@
+Subsidiary, and such designation will only be permitted if (1) such Indebtedness is permitted under Section 4.09 hereof, calculated on a pro forma basis and
+(2) no Default or Event of Default would be in existence following such designation.
+Section 4.18 Covenant Termination.
+Ifat any time (a) the Notes are assigned an Investment Grade Rating from both Rating Agencies, (b) no Default or Event of Default has occurred and is
+continuing under this Indenture and (c) the Issuers have delivered to the Trustee an Ofﬁcers’ Certiﬁcate certifying as to matters speciﬁed in clauses (a) and
+(b) of this sentence as of the date of such certiﬁcate (the “TerminalionDaLeU, TLLP and its Restricted Subsidiaries will no longer be subject to the provisions
+of Sections A, .01, 4,08,, 4,09,, 4,1,0, 4,1,1, 4,1,6, and 75,011, a),( 31,) of this Indenture.
+No Subsidiary shall be designated as an Unrestricted Subsidiary after the Termination Date.
+ARTICLE 5
+SUCCESSORS
+Section 5.01 Merger, Consolidation or Sale of Assets.
+(a) Neither of the Issuers may, directly or indirectly: (l) consolidate or merge with or into another Person (whether or not such Issuer is the surviving
+entity) or (2) sell, assign, transfer, lease, convey or otherwise dispose of all or substantially all of the properties or assets of the Issuers and the Restricted
+Subsidiaries, taken as a whole, in one or more related transactions, to another Person, unless:
+(1) either:
+(A) such Issuer is the surviving entity; or
+(B) the Person formed by or surviving any such consolidation or merger (if other than such Issuer) or to which such sale, assignment,
+transfer, lease, conveyance or other disposition has been made is a Person organized or existing under the laws of the United States, any state of
+the United States or the District of Columbia; provided, however, that Finance Corp. may not consolidate or merge with or into any Person other
+than a corporation satisfying such requirement so long as TLLP (or any successor entity) is not a corporation;
+(2) the Person formed by or surviving any such consolidation or merger (if other than such Issuer) or the Person to which such sale, assignment,
+transfer, lease, conveyance or other disposition has been made assumes all the obligations of such Issuer under the Notes and this Indenture pursuant to
+agreements reasonably satisfactory to the Trustee;
+(3) immediately after such transaction, no Default or Event of Default exists; and
+(4) in the case of a transaction involving TLLP and not Finance Corp., TLLP or the Person formed by or surviving any such consolidation or
+merger (if other than TLLP), or to which such sale, assignment, transfer, lease, conveyance or other disposition has been made, will:
+(A) on the date of such transaction after giving pro forma effect thereto and any related ﬁnancing transactions as if the same had occurred at
+the beginning of the applicable Reference Period, be permitted to incur at least $1.00 of additional Indebtedness pursuant to the Fixed Charge
+Coverage Ratio test set forth in Section 4.09(a); or
+(B) have a Fixed Charge Coverage Ratio, on the date of such transaction and after giving pro forma effect thereto and any related ﬁnancing
+transactions as if the same had occurred at the beginning of the applicable Reference Period, not less than the Fixed Charge Coverage Ratio of
+TLLP immediately prior to such transaction; and
+(5) such Issuer has delivered to the Trustee an Ofﬁcers’ Certiﬁcate and an Opinion of Counsel, each stating that such consolidation, merger or
+disposition and such supplemental indenture (if any) comply with this Indenture.
+-42-

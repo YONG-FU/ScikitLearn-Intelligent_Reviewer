@@ -1,0 +1,25 @@
+ARTICLE VI
+Events of Default
+SECTION 6.01 Events of Default . Each of the following events (each an “ Event of Default ”) shall constitute an Event of Default:
+(a) Any Borrower or Mondeléz shall fail to pay any principal of any Advance when the same becomes due and payable; or any Borrower or
+Mondeléz shall fail to pay interest on any Advance, or Mondeléz shall fail to pay any fees payable under Section 2.09, within ten days after the same
+becomes due and payable (or after notice from the Administrative Agent in the case of fees referred to in Section 2.09(b)); or
+(b) Any representation or warranty made or deemed to have been made by any Borrower or Mondeléz herein or by any Borrower or Mondeléz (or
+any of their respective officers) in connection with this Agreement shall prove to have been incorrect in any material respect when made or deemed to have
+been made; or
+(c) Any Borrower or Mondeléz shall fail to perform or observe (i) any term, covenant or agreement contained in Section 5.01(b) or 5.02(b), (ii) any
+term, covenant or agreement contained in Section 5.02(a) if such failure shall remain unremedied for 15 days after written notice thereof shall have been
+given to Mondeléz by the Administrative Agent or any Lender or (iii) any other term, covenant or agreement contained in this Agreement on its part to be
+performed or observed if such failure shall remain unremedied for 30 days after written notice thereof shall have been given to Mondeléz by the
+Administrative Agent or any Lender; or
+((1) Any Borrower or Mondeléz or any Major Subsidiary shall fail to pay any principal of or premium or interest on any Debt which is outstanding in
+a principal amount of at least $100,000,000 in the aggregate (but excluding Debt arising under this Agreement) of such Borrower or Mondeléz or such Major
+Subsidiary (as the case may be), when the same becomes due and payable (whether by scheduled maturity, required prepayment, acceleration, demand or
+otherwise), and such failure shall continue after the applicable grace period, if any, specified in the agreement or instrument relating to such Debt unless
+adequate provision for any such payment has been made in form and substance satisfactory to the Required Lenders; or any Debt of any Borrower or
+Mondeléz or any Major Subsidiary which is outstanding in a principal amount of at least $100,000,000 in the aggregate (but excluding Debt arising under
+this Agreement) shall be declared to be due and payable, or required to be prepaid (other than by a scheduled required prepayment), redeemed, purchased or
+defeased, or an offer to prepay, redeem, purchase or defease such Debt shall be required to be made, in each case prior to the stated maturity thereof as a
+result of a breach by such Borrower, Mondeléz or such Major Subsidiary (as the case may be) of the agreement or instrument relating to such Debt unless
+adequate provision for the payment of such Debt has been made in form and substance satisfactory to the Required Lenders; or
+-43-

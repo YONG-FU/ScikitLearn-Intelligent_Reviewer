@@ -1,0 +1,42 @@
+Table of Contents
+TESSERA TECHNOLOGIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 — THE COMPANY AND BASIS OF PRESENTATION
+Tessera Technologies, Inc., including its Invensas, F otoNation and Ziptronix subsidiaries (the "Company"), licenses its technologies and intellectual property to
+customers for use in areas such as mobile computing and communications, memory and data storage, and 3-D Integrated Circuit (“3D-IC”) technologies, among
+others. Our technologies include semiconductor packaging and interconnect solutions, including xF D ® , BVA ® , ZiBond ® , and DBI ® , and products and
+solutions for mobile and computational imaging, including our F aceTools ® , FacePower ® , FotoSavvy ® , DigitalAperture TM, IrisCam TM , LifeFocus TM , face
+beautification, red-eye removal, High Dynamic Range, autofocus, panorama, and image stabilization intellectual property.
+The consolidated financial statements include the accounts of Tessera Technologies, Inc. and each of its wholly owned subsidiaries. The accompanying
+consolidated financial statements have been prepared in accordance with generally accepted accounting principles (“GAAP”) in the United States (“US”). All
+significant intercompany balances and transactions are eliminated in consolidation.
+The Company’s ﬁscal year ends on December 31. The Company employs a calendar month-end reporting period for its quarterly reporting.
+Reclassification
+Certain reclassifications have been made to prior period balances in order to conform to the current period’s presentation. The most significant of these
+reclassiﬁcations are as follows:
+- Amortization expense is now shown separately on the Consolidated Statements of Operations.
+0 Certain balance sheet items from 2014 have been grouped together to conform with current periods presented.
+NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Use of estimates
+The preparation of ﬁnancial statements in conformity with US. GAAP requires management to make estimates and assumptions that affect the amounts reported in
+the ﬁnancial statements and accompanying notes. The accounting estimates and assumptions that require management’s most significant, difficult, and subjective
+judgment include the recognition and measurement of current and deferred income tax assets and liabilities, the fair value measurements of investments, the
+assessment of the recoverability of goodwill, the assessment of useful lives and recoverability of long-lived assets, the assessment of unrecognized tax beneﬁts and
+the valuation and recognition of stock-based compensation expense, among others. Actual results experienced by the Company may differ from management’s
+estimates.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments purchased with an original or remaining maturity of three months or less at the date of purchase to be cash
+equivalents. Cash and cash equivalents are maintained with various financial institutions.
+Financial Instruments
+Investments consist primarily of municipal bonds and notes, corporate bonds and notes, treasury and agency notes and bills, commercial paper, certificates of
+deposit, and money market funds. Investments with remaining maturities from original purchase date of three months or less are considered to be cash equivalents.
+Investments with remaining maturities from original purchase date greater than three months are generally classiﬁed as available-for—sale, if required, in current
+operations, and are classiﬁed as short-term investments. Investments determined to lack an active market for a period greater than 12 months are classiﬁed as
+available-for—sale and classiﬁed as long-term investments. The Company’s cash equivalents and short-term investments are classiﬁed as available-for—sale.
+Unrealized gains and losses on securities, net of tax, are recorded in accumulated other comprehensive income and reported as a separate component of
+stockholders’ equity. The Company evaluates the investments periodically for possible other-than-temporary impairment and reviews factors such as the length of
+time and extent to which fair value has been below cost basis, the ﬁnancial condition of the issuer, the Company’s ability and intent to hold the security until
+maturity on a more-likely-than-not basis. If the declines in the fair value of the investments are determined to be other-than-temporary, the Company reports the
+credit loss portion of such decline in other income and expense, net, and the remaining noncredit loss portion in accumulated other comprehensive income. The
+cost of securities sold
+F- 7

@@ -1,0 +1,40 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+18. LEGAL PROCEEDINGS
+Hewlett-Packard Company Litigation
+On June 15, 2011, Hewlett-Packard Company (HP) filed a complaint in the California Superior Court, County of Santa Clara against Oracle Corporation alleging
+numerous causes of action including breach of contract, breach of the covenant of good faith and fair dealing, defamation, intentional interference with prospective
+economic advantage, and violation of the California Unfair Business Practices Act. The original plaintiff, Hewlett Packard Company, is now Hewlett Packard
+Enterprise Company. The complaint alleged that when Oracle announced on March 22 and 23, 2011 that it would no longer develop future versions of its software
+to run on HP’s Itanium-based servers, it breached a settlement agreement signed on September 20, 2010 between HP and Mark Hurd (the Hurd Settlement
+Agreement), who was both HP’s former chief executive officer and chairman of HP’s board of directors. HP sought a judicial declaration of the parties’ rights and
+obligations under the Hurd Settlement Agreement, and other equitable and monetary relief.
+Oracle answered the complaint and filed a cross-complaint, which was amended on December 2, 2011. The amended cross-complaint alleged claims including
+violation of the Lanham Act. Oracle alleged that HP had secretly agreed to pay Intel to continue to develop and manufacture the Itanium microprocessor, and had
+misrepresented to customers that the Itanium microprocessor had a long roadmap, among other claims. Oracle sought equitable rescission of the Hurd Settlement
+Agreement, and other equitable and monetary relief.
+The court bifurcated the trial and tried HP’s causes of action for declaratory relief and promissory estoppel without a jury in June 2012. The court issued a final
+statement of decision on August 28, 2012, finding that the Hurd Settlement Agreement required Oracle to continue to develop certain of its software products for
+use on HP’s Itanium-based servers and to port such products at no cost to HP for as long as HP sells those servers. Oracle has announced that it is appealing this
+decision. The issues of breach, HP’s performance, causation and damages, HP’s tort claims, and Oracle’s cross-claims will all be tried before a jury. As of April 8,
+2013, the trial was stayed pending Oracle’s appeal of the court’s denial of its anti-SLAPP motion. On August 27, 2015, the Court of Appeal affirmed the trial
+court’s denial of Oracle’s anti-SLAPP motion. The Court of Appeal’s decision became final on September 26, 2015. The matter was remanded to the trial court for
+further proceedings and trial, which began on May 23, 2016. While we believe that we have meritorious defenses against this action, and we will continue to
+vigorously defend it, we cannot currently estimate a reasonably possible range of loss for this action due to the complexities and uncertainty surrounding the
+judicial process and the nature of the claims.
+State of Oregon Litigation
+On August 22, 2014, the Attorney General for the State of Oregon, the State of Oregon, and the Oregon Health Insurance Exchange Corporation, doing business as
+Cover Oregon (Cover Oregon), filed a lawsuit in the Circuit Court of the State of Oregon for the County of Marion against Oracle, our then-President and Chief
+Financial Officer, three current and two former Oracle employees, and Mythics, Inc. The complaint alleges claims related to the work Oracle performed on
+Oregon’s healthcare exchange website and Oregon’s system for delivering health and human services to low-income residents. Thereafter, Cover Oregon was
+dissolved, and the Oregon Department of Consumer and Business Services (the DCBS) continued to assert Cover Oregon’s claims. Also, one of the former Oracle
+employees was dismissed from the lawsuit. A First Amended Complaint was filed on August 10, 2015.
+The complaint alleges claims against Oracle for fraud, violations of Oregon’s False Claims Act, breach of contract, and violations of the Oregon Civil Racketeer
+Inﬂuenced and Corrupt Organizations Act, and alleges a violation of Oregon’s False Claims Act against each of the individuals. The complaint seeks monetary
+damages, statutory penalties, attorneys’ fees and costs, and a permanent injunction prohibiting Oracle from marketing to or entering into a contract with any public
+corporation or agency of the State of Oregon. Specifically, the complaint alleges that Oracle committed fraud by making false statements about the capabilities and
+functionality of its products and about the amount of time and effort it would take Oracle’s consulting and managed cloud services operations to perform the
+requested work. It also alleges that Oracle breached the contracts by failing to provide
+133

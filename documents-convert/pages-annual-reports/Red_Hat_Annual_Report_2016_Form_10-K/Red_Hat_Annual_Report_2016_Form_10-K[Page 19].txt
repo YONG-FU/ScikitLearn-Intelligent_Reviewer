@@ -1,0 +1,42 @@
+proprietary software license model. IBM and Oracle often bundle hardware and software for their customers,
+making it more difficult for us to penetrate their customer bases. Our middleware offerings are heavily dependent
+on the Java computing platform, which is controlled by Oracle.
+With respect to our cloud technologies, we compete with companies that provide tools for enterprises to
+create private clouds, such as Citrix, HPE, Microsoft, Mirantis Inc., Pivotal and VMware, companies that provide
+platform as a service offerings, such as IBM and Pivotal, and companies that provide public clouds and that
+allow users to consume computing resources as a service without the need to purchase equipment or software,
+such as Alphabet, Amazon, IBM, Microsoft and Rackspace.
+With respect to our mobile offerings, our competitors include IBM, Oracle, salesforce.com, inc.
+(“Salesforce”) and SAP as well as more mobile-focused companies such as Kony, Inc., Kinvey, Inc. and
+AnyPresence, Inc. Increasingly, cloud service providers are also offering mobile development services as part of
+their enterprise cloud offerings.
+With respect to our storage offerings, we compete with companies that provide storage products, such as
+EMC and NetApp. Public cloud service providers, such as Amazon and Rackspace, also offer storage
+capabilities.
+With respect to our service offerings, we face competition in the markets for services related to the
+development, deployment and integration of enterprise technologies. Our competitors in these markets include
+Accenture, HPE, IBM and TCS, as well as other technology consulting companies.
+Due to the nature of open source technology, the open source software model is not characterized by the
+traditional barriers to entry that are found in the proprietary software model. For example, the financial and legal
+barriers to creating a new Linux distribution are relatively low because the software components typically
+included in Linux distributions are publicly available under open source licenses that permit copying,
+modification and redistribution. Anyone can use, copy, modify and redistribute Red Hat Enterprise Linux, Red
+Hat JBoss Middleware and our other open source offerings. However, they are not permitted to refer to these
+products as “Red Hat” or “Red Hat JBoss” products unless they have a formal business relationship with us that
+allows for such references. Moreover, our customers agree that during their support relationship with Red Hat,
+they will purchase a support subscription based on the number of computer systems, cores, sockets or other units
+on which they deploy Red Hat’s software. In addition, the primary means by which customers can receive Red
+Hat software, as well as security updates, fixes, functionality enhancements and upgrades to the technologies,
+each if and when available, is to purchase and maintain a current subscription directly from us or our partners
+with whom we have agreements.
+There are significantly more enterprise applications available for competing operating systems technologies,
+such as Windows, than there are for Red Hat Enterprise Linux. An integral part of our strategy has been to help
+address these shortcomings by, among other methods, strengthening our existing strategic and channel partner
+relationships and entering into new ones to expand our marketing and distribution capabilities and by attracting
+more attention to the open source movement. Also, increasing the adoption of Red Hat technologies as well as
+the .Net infrastructure becoming available to the open source community can create additional opportunities and
+incentives for software developers to write more applications that are compatible with Red Hat technologies.
+SOFTWARE ENGINEERING AND DEVELOPMENT
+We have invested, and intend to continue to invest, significant resources in research and development. We
+expended $413.3 million, $367.9 million and $317.3 million, in our fiscal years ended February 29,
+15

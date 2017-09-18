@@ -1,0 +1,29 @@
+Table,0f,C,ontents
+existing security incident response protocols related to the 2014 Security Incident, the Company’s disclosure controls and procedures for each of the annual and
+quarterly periods ended December 31, 2014 through September 30, 2016 were not effective at the end of each such period. When the Company’s principal
+executive ofﬁcer and principal ﬁnancial ofﬁcer concluded that our disclosure controls and procedures were effective for each of the annual and quarterly periods
+ended December 31, 2014 through September 30, 2016, such conclusions were based on such persons’ knowledge at the time of certiﬁcation.
+The Company is in the process of remediating deﬁciencies in its existing disclosure controls and procedures related to its security incident response protocols
+consistent with the Independent Committee’s recommendations described in Item 7—“Management’s Discussion and Analysis of Financial Condition and
+Results of Operations—Security Incidents,” including revising the design of its technical and legal information security incident response protocols to ensure that
+material information about cybersecurity incidents we are required to disclose in reports ﬁled or submitted under the Exchange Act is recorded, processed,
+summarized and reported within the time periods speciﬁed in the SEC’s rules and forms.
+Management’s Report on Internal Control Over Financial Reporting
+The Company’s management is responsible for establishing and maintaining adequate internal control over ﬁnancial reporting as deﬁned in Rules 13a—15(f) and
+15d-15(f) under the Exchange Act. Under the supervision and with the participation of the Company’s management, including its principal executive ofﬁcer and
+principal ﬁnancial ofﬁcer, the Company conducted an evaluation of the effectiveness of its internal control over ﬁnancial reporting based on criteria established in
+the framework in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework).
+Based on this evaluation, the Company’s management concluded that its internal control over financial reporting was effective as of December 31, 2016.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect all misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate.
+The Company’s independent registered public accounting ﬁrm has issued an attestation report regarding its assessment of the Company’s internal control over
+ﬁnancial reporting as of December 31, 2016, which appears on page 93.
+Changes in Internal Control Over Financial Reporting
+There have been no changes in Yahoo’s internal control over ﬁnancial reporting (as such term is deﬁned in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act) during the quarter ended December 31, 2016 that have materially affected, or are reasonably likely to materially affect, internal control over ﬁnancial
+reporting.
+Item QB. Other Information
+The information under “Item 7—“Management’s Discussion and Analysis of Financial Condition and Results of Operations—Security Incidents—Management
+Changes” with respect to the resignation of the Company’s General Counsel is incorporated herein by reference.
+171

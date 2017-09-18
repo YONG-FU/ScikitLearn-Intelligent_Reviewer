@@ -1,0 +1,31 @@
+“Guarantee” means any obligation, contingent or otherwise, of any Person directly or indirectly guaranteeing any Securities of any other Person and any
+obligation, direct or indirect, contingent or otherwise, of such Person:
+(1) to purchase or pay (or advance or supply funds for the purchase or payment of) such Securities of such other Person (whether arising by virtue of
+partnership arrangements, or by agreement to keep-well, to purchase assets, goods, securities or services, to take-or-pay, or to maintain financial statement
+conditions or otherwise), or
+(2) entered into for purposes of assuring in any other manner the obligee of such Securities of the payment thereof or to protect such obligee against
+loss in respect thereof (in whole or in part);
+provided, however,, that the term “Guarantee” shall not include endorsements for collection or deposit in the ordinary course of business. The term “Guarantee”
+used as a verb has a corresponding meaning. The term “Guarantor” shall mean any Person Guaranteeing any obligation.
+“Holder”, when used with respect to any Security, means the Person in whose name a Security is registered in the Security Register.
+“Indenture” means this instrument as it may from time to time be supplemented or amended by one or more indentures supplemental hereto entered into
+pursuant to the applicable provisions hereof and shall include the terms of a particular series of Securities established as contemplated by Section 301.
+“Indexed Security” means any Security as to which the amount of payments of principal, premium, if any, and/or interest, if any, clue thereon is determined
+with reference to the rate of exchange between the currency or currency unit in which the Security is denominated and any other specified currency or currency unit,
+to the relationship between two or more currencies or currency units, to the price of one or more speciﬁed securities or commodities, to one or more securities or
+commodities exchange indices or other indices or by other similar methods or formulas, all as specified in accordance with Section 301.
+“interest”, when used with respect to any Security which by its terms bears interest only after Maturity, means interest payable after Maturity.
+“Interest Payment Date”, when used with respect to any Security, means the Stated Maturity of an installment of interest on such Security.
+“Issue Date” means the date on which the Securities of a particular series are originally issued under this Indenture.
+“Judgment Date” has the meaning speciﬁed in Section 516.
+“LIBOR” means, with respect to any LIBOR Security, the rate specified as LIBOR for such series of Securities in accordance with Section 301.
+“LIBOR Currency” means the currency specified pursuant to Section 301 as to which LIBOR will be calculated or, if no currency is speciﬁed pursuant to
+Section 301, Dollars.
+“LIBOR Security” means any Security which bears interest at a ﬂoating rate calculated with reference to LIBOR.
+“London Business Day” means, with respect to any LIBOR Security, a day on which commercial banks are open for business, including dealings in the
+LIBOR Currency, in London.
+“Luxembourg Stock Exchange”, unless specified with reSpect to any particular series of Securities, means the Luxembourg Stock Exchange.
+“Market Exchange Rate” with respect to any Foreign Currency or currency unit on any date means, unless otherwise speciﬁed in accordance with
+Section 30 1, the noon buying rate in The City of New York for cable transfers in such Foreign Currency or currency unit as certified for customs purposes by the
+Federal Reserve Bank of New York for such Foreign Currency or currency unit.
+4

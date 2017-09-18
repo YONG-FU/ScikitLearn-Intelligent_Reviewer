@@ -1,0 +1,42 @@
+[ mmmmﬁm]
+OTHER LIABILITIES
+COMPONENTS OF OTHER CURRENT LIABILITIES AND OTHER NONCURRENT LIABILITIES (in millions)
+December 31,
+2016 2015
+Other Current Liabilities:
+Taxes other than income taxes $ 288 $ 320
+Employee costs 229 298
+Rle liabilities 126 40
+Environmental credit obligations 123 —
+Interest 62 46
+Environmental liabilities 60 64
+Income taxes payable 38 —
+Current liabilities related to discontinued operations 22 22
+Pension and other postretirement benefits 11 10
+Asset retirement obligations 6 5
+Legal costs 2 5
+Other 90 146
+Total Other Current Liabilities $ 1,057 $ 956
+Other Noncurrent Liabilities:
+Pension and other postretirement benefits $ 430 $ 401
+Environmental liabilities 167 191
+Employee costs, excluding pension and other postretirement benefits 50 35
+Environmental credit obligations 42 10
+Deferred income 39 37
+Asset retirement obligations 20 25
+Liability for unrecognized tax benefits, including interest and penalties 8 7
+Noncurrent liabilities related to discontinued operations 1 19
+Other 54 48
+Total Other Noncurrent Liabilities $ 821 $ 773
+NOTE 10 — DERIVATIVE INSTRUMENTS
+In the ordinary course of business, our proﬁt margins, earnings and cash ﬂows are impacted by the timing, direction and overall change in pricing for
+commodities used throughout our operations. We use non-trading derivative instruments to manage our exposure to the following:
+0 price risks associated with the purchase or sale of feedstocks, reﬁned products and energy supplies related to our reﬁneries, terminals, marketing fuel
+inventory and customers;
+0 price risks associated with inventories above or below our target levels;
+0 future emission credit requirements; and
+0 exchange rate fluctuations on our purchases of Canadian crude oil.
+Our accounting for derivative instruments depends on whether the underlying commodity will be used or sold in the normal course of business. For
+contracts where the crude oil or reﬁned products are expected to be used or sold in the normal course of business, we apply the normal purchase normal sale
+exception and follow the accrual method of accounting. All other derivative instruments are recorded at fair value using mark-to-market accounting.
+December 31, 2016 | 83

@@ -1,0 +1,48 @@
+Income Taxes
+Income taxes are computed using the asset and liability method, under which deferred tax assets and liabilities are determined
+based on the difference between the financial statement and tax bases of assets and liabilities using enacted tax rates in effect for the
+year in which the differences are expected to affect taxable income. Valuation allowances are established when necessary to reduce
+deferred tax assets to the amount expected to be realized.
+We record liabilities related to uncertain tax positions when, despite our belief that our tax return positions are supportable, we
+believe that it is more likely than not that those positions may not be fully sustained upon review by tax authorities. Accrued interest
+and penalties related to unrecognized tax benefits are classified as income tax expense.
+Comprehensive Income (Loss)
+Comprehensive Income (loss) is comprised of net loss and other comprehensive income (loss). Other comprehensive income
+(loss) consists of unrealized gains and losses on derivatives, our available-for—sale marketable securities, and foreign currency
+translation adjustment that have been excluded from the determination of net loss.
+Stock-based Compensation
+We recognize compensation expense for costs related to all share-based payments, including stock options, restricted stock units
+(RSUs) and our employee stock purchase plan (the ESPP). The fair value of stock options and the ESPP are estimated on the grant
+date and offering date using an option pricing model, respectively. The fair value of RSUs is measured on the grant date based on the
+closing fair market value of our common stock. Stock-based compensation expense is recognized on a straight-line basis over the
+requisite service period, net of estimated forfeitures. Stock-based compensation associated with assumed awards as a result of the
+SolarCity acquisition is measured as of the acquisition date using the relevant assumptions and recognized on a straight-line basis over
+the remaining requisition service period, net of estimated forfeitures.
+For performance-based awards, stock-based compensation expense is recognized over the expected performance achievement
+period of individual performance milestones when the achievement of each individual performance milestone becomes probable.
+For performance-based awards with a vesting schedule based entirely on the attainment of both performance and market
+conditions, the stock-based compensation expense is recognized for each pair of performance and market conditions over the longer of
+the expected achievement period of the performance and market conditions, beginning at the point in time that the relevant
+performance condition is considered probable of being met (see Note 15 — Equity Incentive Plans).
+Noncontrolling Interests and Redeemable Noncontrolling Interests
+Noncontrolling interests and redeemable noncontrolling interests represent third-party interests in the net assets under certain
+funding arrangements, or funds, that SolarCity enters into to finance the costs of solar energy systems under operating leases. We have
+determined that the contractual provisions of the funds represent substantive profit sharing arrangements. We have further determined
+that the apprOpriate methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that
+reﬂects the substantive proﬁt sharing arrangements is a balance sheet approach using the Hypothetical Liquidation Book Value
+(HLBV) method. Under the HLBV method, the amounts reported as noncontrolling interests and redeemable noncontrolling interests
+in our Consolidated Balance Sheets represent the amounts the third-parties would hypothetically receive at each balance sheet date
+under the liquidation provisions of the funds, assuming the net assets of the funds were liquidated at their recorded amounts
+determined in accordance with GAAP and distributed to the third-parties. The third-parties” interests in the results of operations of the
+funds are determined as the difference in the noncontrolling interest and redeemable noncontrolling interest balances in our
+Consolidated Balance Sheets between the start and end of each reporting period, after taking into account any capital transactions
+between the funds and the third-parties. However, the redeemable noncontrolling interest balance is at least equal to the redemption
+amount. The redeemable noncontrolling interest balance is presented as temporary equity in the mezzanine section of our
+Consolidated Balance Sheets since these third-parties have the right to redeem their interests in the funds for cash or other assets.
+Net Income (Loss) per Share of Common Stock Attributable to Common Stockholders
+Our basic and diluted net income (loss) per share of common stock attributable to common stockholders is calculated by
+dividing net income (loss) attributable to common stockholders by the weighted-average shares of common stock outstanding for the
+period. Potentially dilutive shares, which are based on the number of shares underlying outstanding stock options and warrants as well
+as our Convertible Senior Notes, including the assumed awards and convertible notes from the SolarCity acquisition, using the
+treasury stock method or the if-converted method, as applicable, are not included when their effect is antidilutive.
+66

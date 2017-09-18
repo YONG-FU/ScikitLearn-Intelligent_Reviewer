@@ -1,0 +1,47 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 11: Financial Instruments
+Cash Equivalents and Available-for-Sale Investments
+7 As of October 31, 2016 7 7 As of October 31, 2015 7
+Gross Gross Gross Gross
+Unrealized Unrealized Fair Unrealized Unrealized Fair
+Cost Gain Loss Value Cost Gain Loss Value
+In millions
+I Cash Equivalents: I
+Time deposits 53 2,092 $ — $ — $ 2,092 $ 1,111 $ — $ — $ 1,111
+I Money market funds 2,568 — — 2,568 4,303 — — 4,303 I
+Total cash equivalents 4,660 — — $ 4,660 5,414 — — $ 5,414
+IAvailable-for—Sale Investments: I
+I Equity securities in public companies 1 3 — 4 1 4 — 5 I
+Foreign bonds — — — — 32 10 — 42
+I Mutual ﬁlnds 35 9 — 44 — — — — I
+Otherdebtsecurities 7 2H —” —” 2H 2H —” —” 27
+ITotal available-for—sale investments 7 38 7 7 12 7 7 —7 7 50 7 7 35 7 7 14 7 7 —7 7 49I
+Total cash equivalents and available—for—
+sale investments :$ 4,698: :$ 12: :$ —: :$ 4,710: :$ 5,449: :$ 14: :$ —: :$ 5,463:
+All highly liquid investments with original maturities of three months or less at the date of acquisition are considered cash
+equivalents. As of October 31, 2016 and 2015, the carrying amount of cash equivalents approximated fair value due to the short
+period of time to maturity. Interest income related to cash, cash equivalents and debt securities was approximately $24 million
+in fiscal year 2016, $75 million in ﬁscal year 2015, and $72 million in fiscal year 2014. Time deposits were primarily issued by
+institutions outside the United States as of October 31, 2016 and 2015. The estimated fair value of the available-for—sale
+investments may not be representative of values that will be realized in the future.
+There was no gross unrealized loss as of October 31, 2016 and 2015.
+Contractual maturities of investments in available-for—sale debt securities were as follows:
+7 As of October 31, 2016 7
+7 Amortized 7
+Cost Fair Value
+In millions
+IDue in one year $ 2 $ 2 I
+Due in one to five years — —
+I Due in more than ﬁve years 7 35 7 7 44 I
+77$ 37: :$ 46 :
+Equity securities in privately held companies include cost basis and equity method investments and are included in Other
+non-current assets in the Consolidated Balance Sheets. These amounted to $16 million and $13 million as of October 31, 2016
+and 2015, respectively.
+Derivative Instruments
+HP uses derivatives to oﬂset business exposure to foreign currency and interest rate risk on expected future cash ﬂows
+and on certain existing assets and liabilities. As part of its risk management strategy, HP uses derivative instruments, primarily
+forward contracts, interest rate swaps, total return swaps and, at times, option contracts to hedge certain foreign currency,
+interest rate and, to a lesser extent, equity exposures. HP may designate its derivative contracts as fair value hedges or cash ﬂow
+10 l

@@ -1,0 +1,42 @@
+Table,0f,C,0ntents
+Results of Operations
+Comparison of Years Ended December 31, 2016 , 2015 and 2014
+The following table presents certain statement of operations data expressed as a percentage of revenue for the periods indicated:
+Years Ended December 31,
+2016 2015 2014
+lrotal revenue 100 % _ 100 % _ 100 %l
+Cost of revenue 73 % 70 % 63 %
+lGross proﬁt 27 % _ 3o % _ 37 %l
+Operating expenses:
+l Selling, general and administrative 30 % 24 % 24 %\
+Research and development 17 % 15 % 14 %
+I Restructuring and exit costs — % 2 % — % ‘
+Impairment of assets 1 % — % — %
+I Total operating expenses 48 % — 41 % — 38 %l
+Loss from operations (21)% _ (11)% _ (1)%
+lGain on sale of product line (5)% — % — % l
+Loss before income taxes (16)% _ (11)% _ (1)%
+’Income tax provision 3 % _ 2 % _ 2 %‘
+Net loss (19)% (13)% (3)%
+Net loss reported for 2016 was $23.7 million , or $0.74 per share, compared with a net loss in 2015 of $22.3 million , or $0.73 per share, and a net loss in
+2014 of $6.3 million, or $0.21 per diluted share. The increase in net loss of $1.4 million in 2016 compared with 2015 was driven by a decline in revenue of 28%
+and a decline in gross proﬁt of 35% , which were primarily related to changes in China’s government subsidy programs. The effect of these declines was largely
+offset by a $6.7 million gain from the sale of our microelectronics product line and fully realized savings in 2016 from our restructuring and cost reduction efforts.
+Despite lower operating expenses in absolute dollars resulting from our restructuring and cost reduction efforts, operating expenses in 2016 increased to 48% of
+revenue, compared with 41% of revenue in the prior year, primarily attributable to the significant decline in revenue in 2016.
+The increase in net loss of $16.1 million in 2015 compared with 2014 was primarily driven by a decline in revenue of 10% and decline in gross profit of 26%
+. Total operating expenses increased to 41% of revenue in 2015 compared with 38% in 2014.
+Revenue and Gross Proﬁt
+The following table presents revenue, cost of revenue and gross profit for the years ended December 31, 2016, 2015 and 2014 (in thousands, except
+percentages):
+Years Ended December 31, 2016 vs. 2015 2015 vs. 2014
+2016 _ 2015 _ 2014 _ Decrease _ % Change _ Decrease _ % Change
+’Revenue $ 121,244 $ 167,372 $ 186,586 $ (46,128) (28)% $ (19,214) (10)% ‘
+Cost of revenue 88,274 116,410 118,143 (28,136) (24)% (1,733) (1)%
+l % ofRevenue 73% 70% 63% l
+Gross proﬁt $ 32,970 $ 50,962 $ 68,443 $ (17,992) (35)% $ (17,481) (26)%
+l %0fRevenue : 27%:7 30%:7 37%:_: l
+Revenue
+During 2016 , revenue decreased 28% to $121.2 million , compared with $167.4 million in the prior year. This decrease in revenue was primarily related to
+lower revenue for our ultracapacitor product line which decreased by $43.0 million , or 38% , to $71.5 million from $114.5 million .
+34

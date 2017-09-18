@@ -1,0 +1,49 @@
+Table of Contents
+class of certain current and former employees under the Fair Labor Standards Act and/or state-law-based subclasses for certain current and former employees
+in states including Arizona, California, Pennsylvania, South Carolina, Kentucky, Washington, and Nevada, and one complaint asserts nationwide breach of
+contract and unjust enrichment claims. The complaints seek an unspeciﬁed amount of damages, interest, injunctive relief, and attorneys’ fees. We have been
+named in several other similar cases. In December 2014, the Supreme Court ruled in Busk that time spent waiting for and undergoing security screening is not
+compensable working time under the federal wage and hour statute. In February 2015, the courts in those actions alleging only federal law claims entered
+stipulated orders dismissing those actions without prejudice. In March 2016, the United States District Court for the Western District of Kentucky dismissed
+the Vance case with prejudice. In April 2016, the plaintiffs appealed the district court’s judgment to the United States Court of Appeals for the Federal
+Circuit. We dispute any remaining allegations of wrongdoing and intend to defend ourselves vigorously in these matters.
+In September 2013, Personalized Media Communications, LLC ﬁled a complaint against Amazon.com, Inc. and Amazon Web Services, LLC in the
+United States District Court for the District of Delaware. The complaint alleges, among other things, that the use of certain Kindle devices, Kindle apps and/or
+Amazon.com, Inc.’s website to purchase and receive electronic media infringes nine US. Patents: Nos. 5,887,243, 7,801,304, 7,805,749, 7,940,931,
+7,769,170, 7,864,956, 7,827,587, 8,046,791, and 7,883,252, all entitled “Signal Processing Apparatus And Methods.” The complaint also alleges, among
+other things, that CloudFront, S3, and EC2 web services infringe three of those patents, Nos. 7,801,304, 7,864,956, and 7,827,587. The complaint seeks an
+unspeciﬁed amount of damages, interest, and injunctive relief. In August 2015, the court invalidated all asserted claims of all asserted patents and dismissed
+the case with prejudice. In September 2015, Personalized Media appealed that judgment to the United States Court of Appeals for the Federal Circuit. In
+December 2016, the court of appeals affirmed the district court’s decision. In January 2017, Personalized Media ﬁled a petition for rehearing en banc. We
+dispute the allegations of wrongdoing and intend to defend ourselves vigorously in this matter.
+In December 2013, Appistry, Inc. ﬁled a complaint against Amazon.com, Inc. and Amazon Web Services, Inc. for patent infringement in the United
+States District Court for the Eastern District of Missouri. The complaint alleges, among other things, that Amazon’s Elastic Compute Cloud infringes US.
+Patent Nos. 8,200,746, entitled “System And Method For Territory-Based Processing Of Information,” and 8,341,209, entitled “System And Method For
+Processing Information Via Networked Computers Including Request Handlers, Process Handlers, And Task Handlers.” The complaint seeks injunctive relief,
+an unspeciﬁed amount of damages, treble damages, costs, and interest. In March 2015, the case was transferred to the United States District Court for the
+Western District of Washington. In July 2015, the court granted our motion for judgment on the pleadings and invalidated the patents-in-suit. In August
+2015, the court entered judgment in our favor. In September 2015, the plaintiff appealed that judgment to the United States Court of Appeals for the Federal
+Circuit, and ﬁled a new complaint against Amazon.com, Inc. and Amazon Web Services, Inc. in the United States District Court for the Western District of
+Washington. The 2015 complaint alleges, among other things, that Amazon’s Elastic Compute Cloud, Simple Workﬂow, and Herd infringe US. Patent Nos.
+8,682,959, entitled “System And Method For Fault Tolerant Processing Of Information Via Networked Computers Including Request Handlers, Process
+Handlers, And Task Handlers,” and 9,049,267, entitled “System And Method For Processing Information Via Networked Computers Including Request
+Handlers, Process Handlers, And Task Handlers.” The 2015 complaint seeks injunctive relief, an unspeciﬁed amount of damages, treble damages, costs, and
+interest. In July 2016, the court invalidated the patents asserted in the 2015 complaint and granted our motion to dismiss the complaint with prejudice. In
+July 2016, Appistry appealed that judgment to the United States Court of Appeals for the Federal Circuit. We dispute the allegations of wrongdoing and
+intend to defend ourselves vigorously in these matters.
+In March 2014, Kaavo, Inc. ﬁled a complaint against Amazon.com, Inc. and Amazon Web Services, Inc. forpatent inﬁingement in the United States
+District Court for the District of Delaware. The complaint alleges, among other things, that Amazon Web Services’ Elastic Beanstalk and CloudFormation
+infringe US. Patent No. 8,271,974, entitled “Cloud Computing Lifecycle Management For N—Tier Applications.” The complaint seeks injunctive relief, an
+unspeciﬁed amount of damages, costs, and interest. In June 2015, the case was stayed pending resolution of a motion for judgment on the pleadings in a
+related case. In May 2016, the case was reopened for claim construction discovery. In July 2015, Kaavo Inc. ﬁled another complaint against Amazon.com,
+Inc. and Amazon Web Services, Inc. in the United States District Court for the District of Delaware. The 2015 complaint alleges, among other things, that
+CloudFormation inﬁinges US. Patent No. 9,043,751, entitled “Methods And Devices For Managing A Cloud Computing Environment.” The 2015 complaint
+seeks injunctive relief, an unspeciﬁed amount of damages, enhanced damages, attomeys’ fees, costs, and interest. In January 2016, the 2015 case was stayed
+pending resolution of a motion for judgment on the pleadings. In December 2016, the case was reopened following denial without prejudice of the motion for
+judgment on the pleadings. We dispute the allegations of wrongdoing and intend to defend ourselves vigorously in these matters.
+In December 2014, Smartﬂash LLC and Smartﬂash Technologies Limited ﬁled a complaint against Amazon.com, Inc., Amazon.com, LLC, AMZN
+Mobile, LLC, Amazon Web Services, Inc. and Audible, Inc. for patent infringement in the United States District Court for the Eastern District of Texas. The
+complaint alleges, among other things, that Amazon Appstore, Amazon Instant Video, Amazon Music, Audible Audiobooks, the Amazon Mobile Ad
+Network, certain Kindle and Fire devices, Kindle e-bookstore, Amazon’s proprietary Android operating system, and the servers involved in operating
+Amazon Appstore,
+59

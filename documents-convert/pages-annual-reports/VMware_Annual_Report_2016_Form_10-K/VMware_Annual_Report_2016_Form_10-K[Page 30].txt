@@ -1,0 +1,40 @@
+Iabl,e,of,C,ontents
+Our historical ﬁnancial information as a majority—owned subsidiary may not be representative of the results of a completely independent public
+company.
+The financial information covering the periods included in this report does not necessarily reﬂect what our financial condition, operating results or cash ﬂows
+would have been had we been a completely independent entity during those periods. In certain geographic regions where we do not have an established legal
+entity, we contract with Dell subsidiaries for support services and Dell personnel who are managed by us. The costs incurred by Dell on our behalf related to these
+employees are passed on to us and we are charged a mark-up intended to approximate costs that would have been charged had we contracted for such services with
+an unrelated third party. These costs are included as expenses on our consolidated statements of income. Additionally, we engage with Dell in intercompany
+transactions, including agreements regarding the use of Dell’s and our intellectual property and real estate, agreements regarding the sale of goods and services to
+one another and to Pivotal, and agreements for Dell to resell our products and services to third party customers. If Dell were to distribute its shares of our common
+stock to its stockholders or otherwise divest itself of all or a significant portion of its VMware shares, there would be numerous implications to us, including the
+fact that we could lose the benefit of these arrangements with Dell. There can be no assurance that we would be able to renegotiate these arrangements with Dell or
+replace them on the same or similar terms. Additionally, our business could face significant disruption and uncertainty as we transition from these arrangements
+with Dell. Moreover, our historical ﬁnancial information is not necessarily indicative of what our financial condition, operating results or cash ﬂows would be in
+the future if and when we contract at arm’s length with independent third parties for the services we have received and currently receive from Dell. During the year
+ended December 31, 2016 , we recognized revenue of $663 million and as of December 31, 2016 , $652 million of sales were included in unearned revenue from
+such transactions with Dell. For additional information, refer to “Our Relationship with Dell” in “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations” in Part II, Item 7 and Note B to the consolidated financial statements in Part II, Item 8 of this Annual report on Form 10-K.
+Risks Related to Owning Our Class A Common Stock
+The price of our Class A common stock has ﬂuctuated signiﬁcantly in recent years and may ﬂuctuate signiﬁcantly in the future.
+The trading price of our Class A common stock has ﬂuctuated significantly in the past and could ﬂuctuate substantially in the future due to the factors
+discussed in this Risk Factors section and elsewhere in this report. The trading market for Dell Class V common stock that was issued upon the closing of the Dell
+Acquisition that is expected to track the performance of VMware, as well as continuing volatility in technology company share prices, could also lead to volatility
+in our stock price.
+Dell, which beneficially owned 82.8% of our outstanding stock as of December 31, 2016 , is not restricted from selling its shares and is entitled to certain
+registration rights. If a signiﬁcant number of shares enters the public trading markets in a short period of time, the market price of our Class A common stock may
+decline. In addition, if our Class B common stock is distributed to Dell stockholders and remains outstanding, it would trade separately from and potentially at a
+premium to our Class A common stock, and could thereby contribute additional volatility to the price of our Class A common stock.
+Broad market and industry factors may also decrease the market price of our Class A common stock, regardless of our actual operating performance. The
+stock market in general and technology companies in particular have often experienced extreme price and volume ﬂuctuations. Our public ﬂoat is also relatively
+small due to Dell’s holdings, which can result in greater volatility in our stock compared to that of other companies with a market capitalization similar to ours. It
+is also uncertain what impact the trading of Dell Class V common stock, which represents approximately 53% of the economic interest in us, will have on the
+volatility and the liquidity of our Class A common stock and how the Dell Class V common stock will trade in relation to our Class A common stock over time. In
+addition, in the past, following periods of volatility in the overall market and the market price of a company’s securities, securities class action litigation has often
+been instituted, including against us, and, if not resolved swiftly, can result in substantial costs and a diversion of management’s attention and resources.
+If securities or industry analysts change their recommendations regarding our stock adversely, our stock price and trading volume could decline.
+The trading market for our Class A common stock is inﬂuenced by the research and reports that industry or securities analysts publish about us, our business,
+our market or our competitors. If any of the analysts who cover us or who cover the Dell Class V common stock change their recommendation regarding our stock
+adversely, or provide more favorable relative recommendations about our competitors, our stock price would likely decline.
+29

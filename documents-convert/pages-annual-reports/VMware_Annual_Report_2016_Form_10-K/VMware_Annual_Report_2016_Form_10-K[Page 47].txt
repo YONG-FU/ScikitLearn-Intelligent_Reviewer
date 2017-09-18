@@ -1,0 +1,44 @@
+IablrebﬁContents
+Off-Balance Sheet Arrangements and Contractual Obligations
+Guarantees and Indemnification Obligations
+We enter into agreements in the ordinary course of business with, among others, customers, distributors, resellers, system vendors and systems integrators.
+Most of these agreements require us to indemnify the other party against third—party claims alleging that one of our products infringes or misappropriates a patent,
+copyright, trademark, trade secret or other intellectual property right. Certain of these agreements require us to indemnify the other party against certain claims
+relating to property damage, personal injury, or the acts or omissions by us and our employees, agents or representatives.
+We have agreements with certain vendors, ﬁnancial institutions, lessors and service providers pursuant to which we have agreed to indemnify the other party
+for specified matters, such as acts and omissions by us and our employees, agents, or representatives.
+We have procurement or license agreements with respect to technology that we have obtained the right to use in our products and agreements. Under some of
+these agreements, we have agreed to indemnify the supplier for certain claims that may be brought against such party with respect to our acts or omissions relating
+to the supplied products or technologies.
+We have agreed to indemnify our directors and executive officers, to the extent legally permissible, against all liabilities reasonably incurred in connection
+with any action in which such individual may be involved by reason of such individual being or having been a director or officer. Our by-laws and charter also
+provide for indemnification of our directors and ofﬁcers to the extent legally permissible, against all liabilities reasonably incurred in connection with any action in
+which such individual may be involved by reason of such individual being or having been a director or executive ofﬁcer. We also indemnify certain employees
+who provide service with respect to employee beneﬁts plans, including the members of the Administrative Committee of the VMware 401(k) Plan, and employees
+who serve as directors or officers of our subsidiaries.
+In connection with certain acquisitions, we have agreed to indemnify the former directors and ofﬁcers of the acquired company in accordance with the
+acquired company’s by-laws and charter in effect immediately prior to the acquisition or in accordance with indemnification or similar agreements entered into by
+the acquired company and such persons. We typically purchase a “tail” directors and officers insurance policy, which should enable us to recover a portion of any
+future indemniﬁcation obligations related to the former directors and officers of an acquired company.
+We are unable to determine the maximum potential amount under these indemnification agreements due to our limited history with prior indemniﬁcation
+claims and the unique facts and circumstances involved in each particular agreement. Historically, costs related to these indemniﬁcation provisions have not been
+signiﬁcant.
+Contractual Obligations
+We have various contractual obligations impacting our liquidity. The following represents our contractual obligations as of December 31, 2016 (table in
+millions):
+Payments Due by Period
+Total Less than 1 year 1—3 years 3-5 years More than 5 years
+'Notes payable to Dell (1) $ 1,576 $ 26 $ 713 $ 563 $ 274 1
+Operating leases (2) 845 89 132 80 544
+[Purchase obligations 81 48 33 — — 1
+Stock purchase obligation (3) 125 125 — — —
+lOther contractual commitments (4) 27 3 10 5 9 ‘
+Sub-Total 2,654 291 888 648 827
+’Uncertain tax positions (5) 260 ‘
+Total $ 2,914
+(1) Consists of principal and interest payments on the notes payable to Dell. Refer to “Liquidity and Capital Resources” for a discussion of the $1,500 million
+notes payable we entered into with our Parent on January 21, 2014, in connection with our agreement to acquire AirWatch.
+(2) Our operating leases are primarily for facility space and land, and amounts in the table above exclude expected sublease income.
+(3) On December 15, 2016, we entered into a stock purchase agreement with Dell to purchase $500 million of our Class A common stock. Through December 31,
+2016, we had purchased 4.8 million shares for $375 million and had an obligation to purchase $125 million of additional shares.
+46

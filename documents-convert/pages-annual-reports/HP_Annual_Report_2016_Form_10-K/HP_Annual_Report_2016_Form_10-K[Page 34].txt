@@ -1,0 +1,51 @@
+HP INC. AND SUBSIDIARIES
+Management’s Discussion and Analysis of
+Financial Condition and Results of Operations (Continued)
+We establish the selling prices used for each deliverable based on vendor specific objective evidence (“VSOE”) of selling
+price, if available, third-party evidence (“TPE”), if VSOE of selling price is not available, or estimated selling price (“ESP”), if
+neither VSOE of selling price nor TPE is available. We establish VSOE of selling price using the price charged for a deliverable
+when sold separately and, in rare instances, using the price established by management having the relevant authority. We
+evaluate TPE of selling price by reviewing largely similar and interchangeable competitor products or services in standalone
+sales to similarly situated customers. ESP is established based on management’s judgment considering internal factors such as
+margin objectives, pricing practices and controls, customer segment pricing strategies and the product life cycle. Consideration
+is also given to market conditions such as competitor pricing strategies and industry technology life cycles. We may modify or
+develop new go-to-market practices in the future, which may result in changes in selling prices, impacting both VSOE of
+selling price and ESP. In most arrangements with multiple elements, the transaction price is allocated to the individual units of
+accounting at inception of the arrangement based on their relative selling price. However, the aforementioned factors may result
+in a different allocation of the transaction price to deliverables in multiple element arrangements entered into in future periods.
+This may change the pattern and timing of revenue recognition for identical arrangements executed in future periods, but will
+not change the total revenue recognized for any given arrangement.
+We reduce revenue for customer and distributor programs and incentive oﬁerings, including price protection, rebates,
+promotions, other volume-based incentives and expected returns. Future market conditions and product transitions may require
+us to take actions to increase customer incentive offerings, possibly resulting in an incremental reduction of revenue at the time
+the incentive is offered. For certain incentive programs, we estimate the number of customers expected to redeem the incentive
+based on historical experience and the specific terms and conditions of the incentive.
+For hardware products, we recognize revenue generated from direct sales to end customers and indirect sales to channel
+partners (including resellers, distributors and value-added solution providers) when the revenue recognition criteria are
+satisfied. For indirect sales to channel partners, we recognize revenue at the time of delivery when the channel partner has
+economic substance apart from HP and HP has completed its obligations related to the sale.
+We recognize revenue from fixed-price support or maintenance contracts ratably over the contract period.
+Warranty
+We accrue the estimated cost of product warranties at the time we recognize revenue. We evaluate our warranty
+obligations on a product group basis. Our standard product warranty terms generally include post-sales support and repairs or
+replacement of a product at no additional charge for a specified period of time. While we engage in extensive product quality
+programs and processes, including actively monitoring and evaluating the quality of our component suppliers, we base our
+estimated warranty obligation on contractual warranty terms, repair costs, product call rates, average cost per call, current
+period product shipments and ongoing product failure rates, as well as specific product class failure outside of our baseline
+experience. Warranty terms generally range from 90 days to three years for parts, labor and onsite services, depending upon the
+product. Over the last three fiscal years, the annual warranty expense and actual warranty costs have averaged approximately
+2.2% and 2.5% of annual net revenue, respectively.
+Restructuring and Other Charges
+We have engaged in restructuring actions which require management to estimate the timing and amount of severance and
+other employee separation costs for workforce reduction and enhanced early retirement programs, fair value of assets made
+redundant or obsolete, and the fair value of lease cancellation and other exit costs. We accrue for severance and other employee
+separation costs under these actions when it is probable that benefits will be paid and the amount is reasonably estimable. The
+rates used in determining severance accruals are based on existing plans, historical experiences and negotiated settlements.
+Other charges include non-recurring costs that are distinct from ongoing operational costs such as information technology costs
+incurred in connection with the Separation. For a full description of our restructuring actions, refer to our discussions of
+restructuring in “Results of Operations” below and in Note 4, “Restructuring and Other Charges” to the Consolidated Financial
+Statements in Item 8, which are incorporated herein by reference.
+Retirement and Post-Retirement Beneﬁts
+Our pension and other post-retirement benefit costs and obligations depend on various assumptions. Our major
+assumptions relate primarily to discount rates, mortality rates, expected increases in compensation levels and the expected long—
+34

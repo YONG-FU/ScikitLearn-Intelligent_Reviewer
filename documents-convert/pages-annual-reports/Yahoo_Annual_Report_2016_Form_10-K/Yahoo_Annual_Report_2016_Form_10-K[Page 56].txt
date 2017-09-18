@@ -1,0 +1,34 @@
+Table,of,C,ontents
+Agreement) and Google because we are the primary obligor in our arrangements with Microsoft (in transitioned markets) and Google and have discretion in how
+search queries from Afﬁliate sites will be fulﬁlled and monetized. We perform the search service for mobile ads served through Yahoo Gemini, and, accordingly,
+we are considered the primary obligor to the advertisers who are the customers of the search advertising service. Revenue from Afﬁliates is reported gross of
+TAC payments for Microsoft (in markets that have transitioned pursuant to the Eleventh Amendment to the Microsoft Search Agreement), Google and Yahoo
+Gemini. We also generate search revenue from a revenue sharing arrangement with Yahoo Japan for search technology and services as reported.
+The following table presents search revenue and search revenue as a percentage of total revenue for the periods presented (dollars in thousands):
+Years Ended December 31,
+2014 2015 2016
+Search |
+Yahoo Properties $ 1,5_5z,1_5_9 $ 1839,20 $ 1,802,546
+| Afﬁliate sites 274,826 274,428 870,554 I
+Total search revenue $ 1,831,985 $ 2,113,848 $ 2,673,100
+Search as a percentage of total revenue |
+Yahoo Properties 34_% 37_% 35%:
+| Afﬁliate sites 6% 6% 17% l
+Total search revenue 40% 43% 52%
+Search revenue for the year ended December 31, 2016 increased $559 million, compared to 2015. The increase in search revenue was primarily due to the
+change in the revenue presentation associated with the Eleventh Amendment to the Microsoft Search Agreement that took place in the second quarter of 2016
+for which we now record amounts paid to Afﬁliates in transitioned markets as cost of revenue—TAC rather than as a reduction to GAAP revenue, resulting in
+revenue from the Microsoft Search Agreement being reported on a gross rather than net basis. The revenue and TAG increase from the change in revenue
+presentation was $812 million for the year ended December 31, 2016. See “Signiﬁcant Transactions—Microsoft Search Agreement,” above, for further detail.
+Excluding the impact of the change in revenue presentation, noted above, search revenue for the year ended December 31, 2016 declined $253 million, or
+12 percent, primarily in the Americas segment due to a decline in Paid Clicks on Yahoo Properties and Afﬁliate sites driven by a decline in traffic. A decline in
+revenue of $77 million associated with the Mozilla Agreement also contributed to the decline in search revenue on Yahoo Properties. For the year ended
+December 31 , 2016, despite the decline in Paid Clicks on Affiliate sites, advertising revenue on Affiliate sites grew by $112 million (excluding the impact of the
+change in revenue presentation) primarily from improved Price-per—Click in the Americas segment due to a signiﬁcant reduction in lower monetizing Afﬁliate
+clicks as compared to the same period of 2015.
+Search revenue for the year ended December 31, 2015 increased $282 million, or 15 percent, compared to 2014, which was attributable to growth in revenue
+generated on Yahoo Properties in the Americas segment. This increase resulted from higher search volume on desktop due primarily to the Mozilla Agreement,
+which contributed $394 million, as well as an increase in revenue from search advertising on mobile devices. The increase was partially offset by a decline in
+click volume on other visits to Yahoo Properties. Affiliate search revenue overall remained ﬂat but consisted of declines in the Asia Paciﬁc and EMEA segments
+of $30 million and $13 million, respectively, partially offset by an increase in the Americas segment of $42 million.
+55

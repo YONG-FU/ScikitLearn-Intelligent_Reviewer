@@ -1,0 +1,33 @@
+SECTION 9.04 Costs and Expenses .
+(a) Administrative Agent; Enforcement . The Borrower agrees to pay on demand all reasonable costs and expenses in connection with the
+preparation, execution, delivery, administration (excluding any cost or expenses for administration related to the overhead of the Administrative Agent),
+modiﬁcation and amendment of this Agreement and the documents to be delivered hereunder, including, without limitation, the reasonable fees and out-of-pocket
+expenses of counsel for the Administrative Agent and the Joint Bookrunners with respect thereto and with respect to advising the Administrative Agent as to its
+rights and responsibilities under this Agreement (which, insofar as such costs and expenses relate to the preparation, execution and delivery of this Agreement and
+the closing hereunder, shall be limited to the reasonable fees and expenses of Cahill, Gordon & Reindel LLP and NautaDutilh), and all costs and expenses of the
+Lenders and the Administrative Agent, if any (including, without limitation, reasonable counsel fees and expenses of the Lenders and the Administrative Agent), in
+connection with the enforcement (whether through negotiations, legal proceedings or otherwise) of this Agreement and the other documents to be delivered
+hereunder.
+(b) BlepgyrnenLQfLIBiQRateiLcans,. If any payment of principal of LIBO Rate Loan is made other than on the last day of the Interest Period for
+such Loan or at its maturity, as a result of a payment pursuant to Section 2.11, acceleration of the maturity of the Loans pursuant to Section 6.02, an assignment
+made as a result of a demand by the Borrower pursuant to Section 9.07(a) or for any other reason, the Borrower shall, upon demand by any Lender (with a copy of
+such demand to the Administrative Agent), pay to the Administrative Agent for the account of such Lender any amounts required to compensate such Lender for
+any additional losses, costs or expenses which it may reasonably incur as a result of such payment, including, without limitation, any loss (excluding loss of
+anticipated profits), cost or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired by any Lender to fund or maintain
+such Loan. Without prejudice to the survival of any other agreement of the Borrower or Mondeléz hereunder, the agreements and obligations of the Borrower and
+Mondeléz contained in Section 202(0), 2.05, 2.12, 2.15, this Section 9.04(b) and Section 9.04(c) shall survive the payment in full of principal and interest
+hereunder.
+(c) Indemniﬁcation. The Borrower agrees to indemnify and hold harmless each Agent and each Lender and each of their respective affiliates,
+control persons, directors, officers, employees, attorneys and agents (each, an “ Indemnified Partyj’) from and against any and all claims, damages, losses, liabilities
+and expenses (including, without limitation, reasonable fees and disbursements of counsel) which may be incurred by or asserted against any Indemnified Party, in
+each case in connection with or arising out of, or in connection with the preparation for or defense of, any investigation, litigation, or proceeding (i) related to this
+Agreement or any of the other documents delivered hereunder, the Loans or any transaction or proposed transaction (whether or not consummated) in which any
+proceeds of any Borrowing are applied or proposed to be applied, directly or indirectly, by the Borrower, whether or not such Indemniﬁed Party is a party to such
+transaction, or (ii) related to the Borrower’s or Mondeléz’s consummation of any transaction or proposed transaction contemplated hereby (whether or not
+consummated) or entering into this Agreement, or to any actions or omissions of the Borrower or Mondeléz, any of their respective Subsidiaries or afﬁliates or any
+of its or their respective ofﬁcers, directors, employees or agents in connection therewith, in each case whether or not an Indemnified Party is a party thereto and
+whether or not such investigation, litigation or proceeding is brought by Mondeléz or the Borrower or any other Person; provided , however , that neither the
+Borrower nor Mondeléz shall be required to indemnify an Indemnified Party from or against any portion of such claims, damages, losses, liabilities or expenses that
+is found in a final, non-appealable judgment by a court of competent jurisdiction to have resulted from the gross negligence, bad faith or willful misconduct of such
+Indemniﬁed Party.
+-46-

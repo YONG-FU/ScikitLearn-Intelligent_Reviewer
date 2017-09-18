@@ -1,0 +1,48 @@
+Valuation and Impairment of Marketable Securities
+The Company’s investments in available-for-sale securities are reported at fair value. Unrealized gains and losses related to changes
+in the fair value of securities are recognized in accumulated other comprehensive income, net of tax, in the Company’s Consolidated
+Balance Sheets. Changes in the fairvalue of available-for-sale securities impact the Company’s net income only when such securities
+are sold or an other-than-temporary impairment is recognized. Realized gains and losses on the sale of securities are determined
+by specific identification of each security’s cost basis. The Company regularly reviews its investment portfolio to determine if any
+security is other-than-temporarily impaired, which would require the Company to record an impairment charge in the period any
+such determination is made. In making this determination, the Company evaluates, among other things, the duration and extent to
+which the fair value of a security is less than its cost; the financial condition of the issuer and any changes thereto; and the Company’s
+intent to sell, or whether it will more likely than not be required to sell, the security before recovery of its amortized cost basis. The
+Company’s assessment of whether a security is other-than-temporarily impaired could change in the future due to new developments
+or changes in assumptions related to any particular security, which would have an adverse impact on the Company’s operating
+results.
+Inventory Valuation, Valuation of Manufacturing-Related Assets and Estimation of Purchase Commitment Cancellation Fees
+The Company must purchase components and build inventory in advance of product shipments and has invested in manufacturing-
+related assets, including capital assets held at its suppliers’ facilities. In addition, the Company has made prepayments to certain
+of its suppliers associated with long-term supply agreements to secure supply of inventory components. The Company records a
+write-down for inventories of components and products, including third-party products held for resale, which have become obsolete
+or are in excess of anticipated demand or net realizable value. The Company performs a detailed review of inventory that considers
+multiple factors including demand forecasts, product life cycle status, product development plans, current sales levels and component
+cost trends.The Company also reviews its manufacturing-related capital assets and inventory prepayments for impairment whenever
+events or circumstances indicate the carrying amount of such assets may not be recoverable. If the Company determines that an
+asset is not recoverable, it records an impairment loss equal to the amount by which the carrying value of such an asset exceeds
+its fair value.
+The industries in which the Company competes are subject to a rapid and unpredictable pace of product and component obsolescence
+and demand changes. In certain circumstances the Company may be required to record additional write-downs of inventory and/
+or impairments of manufacturing-related assets or inventory prepayments. These circumstances include future demand or market
+conditions for the Company’s products being less favorable than forecasted, unforeseen technological changes or changes to the
+Company’s product development plans that negatively impact the utility of any of these assets, or significant deterioration in the
+financial condition of one or more of the Company’s suppliers that hold any of the Company’s manufacturing-related assets or to
+whom the Company has made an inventory prepayment. Such write-downs would adversely affect the Company’s financial condition
+and operating results in the period when the additional write-downs were recorded.
+The Company accrues for estimated purchase commitment cancellation fees related to inventory orders that have been cancelled
+or are expected to be cancelled. Consistent with industry practice, the Company acquires components through a combination of
+purchase orders, supplier contracts, and open orders in each case based on projected demand. Manufacturing purchase obligations
+typically cover the Company’s forecasted component and manufacturing requirements for periods up to 150 days. If there is an
+abrupt and substantial decline in demand for one or more ofthe Company’s products, a change in the Company’s product development
+plans, or an unanticipated change in technological requirements for any of the Company’s products, the Company may be required
+to record additional accruals for cancellation fees that would adversely affect its results of operations in the period when the
+cancellation fees were identified and recorded.
+Warranty Costs
+The Company accrues for the estimated cost of warranties in the period the related revenue is recognized based on historical and
+projected warranty claim rates, historical and projected cost-per—claim and knowledge of specific product failures that are outside
+of the Company’s typical experience. The Company regularly reviews these estimates and the current installed base of products
+subject to warranty protection to assess the appropriateness of its recorded warranty liabilities and adjusts the amounts as necessary.
+If actual product failure rates or repair costs differ from estimates, revisions to the estimated warranty liabilities would be required
+and could materially affect the Company’s financial condition and operating results.
+Apple Inc. | 2016 Form 10-K l 34

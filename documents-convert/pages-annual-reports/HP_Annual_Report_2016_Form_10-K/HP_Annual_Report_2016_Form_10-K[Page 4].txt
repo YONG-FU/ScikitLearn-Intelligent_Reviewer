@@ -1,0 +1,50 @@
+Table of contents
+PART I
+ITEM 1. Business.
+Business Overview
+We are a leading global provider of products, technologies, software, solutions and services to individual consumers,
+small- and medium-sized businesses (“SMBs”) and large enterprises, including customers in the government, health and
+education sectors.
+HP was incorporated in 1947 under the laws of the state of California as the successor to a partnership founded in 1939
+by William R. Hewlett and David Packard. Effective in May 1998, we changed our state of incorporation from California to
+Delaware.
+HP Inc. Separation Transaction
+On November 1, 2015 (the “Distribution Date”), we completed the separation of Hewlett Packard Enterprise Company
+(“Hewlett Packard Enterprise”), Hewlett-Packard Company’s former enterprise technology infrastructure, software, services
+and financing businesses (the “S eparation”). In connection with the Separation, Hewlett-Packard Company changed its name to
+HP Inc. (“HP”).
+On the Distribution Date, each of our stockholders of record as of the close of business on October 21, 2015 (the “Record
+Date”) received one share of Hewlett Packard Enterprise common stock for every one share of our common stock held as of the
+Record Date. We distributed a total of approximately 1.8 billion shares of Hewlett Packard Enterprise common stock to our
+stockholders. Hewlett Packard Enterprise is an independent public company trading on the New York Stock Exchange
+(“NYSE”) under the symbol “HPE”. After the Separation, we do not beneficially own any shares of Hewlett Packard Enterprise
+common stock.
+In connection with the Separation, we and Hewlett Packard Enterprise have entered into a separation and distribution
+agreement as well as various other agreements that provide a framework for the relationships between the parties going
+forward, including among others a tax matters agreement, an employee matters agreement, a transition service agreement, a
+real estate matters agreement, a master commercial agreement and an information technology service agreement.
+HP Products and Services; Segment Information
+We are a leading global provider of personal computing and other access devices, imaging and printing products, and
+related technologies, solutions and services. We sell to individual consumers, small- and medium-sized businesses and large
+enterprises, including customers in the government, health and education sectors. We have three segments for financial
+reporting purposes: Personal Systems, Printing and Corporate Investments. The Personal Systems segment offers Commercial
+personal computers (“PCs”), Consumer PCs, workstations, thin clients, Commercial tablets and mobility devices, retail point-
+of-sale (“POS”) systems, displays and other related accessories, software, support, and services for the commercial and
+consumer markets. The Printing segment provides consumer and commercial printer hardware, supplies, media, solutions and
+services, as well as scanning devices. Corporate Investments includes HP Labs and certain business incubation projects.
+In each of the past three fiscal years, notebook PCs, printing supplies, printing Commercial Hardware and desktop PCs
+each accounted for more than 10% of our consolidated net revenue.
+A summary of our net revenue, earnings from operations and assets for our segments can be found in Note 3, “Segment
+Information” to the Consolidated Financial Statements in Item 8, which is incorporated herein by reference. A discussion of
+factors potentially affecting our operations is set forth in “Risk Factors” in Item 1A, which is incorporated herein by reference.
+Personal Systems
+Personal Systems provides Commercial PCs, Consumer PCs, workstations, thin clients, Commercial tablets and mobility
+devices, retail POS systems, displays and other related accessories, software, support and services for the commercial and
+consumer markets. We group Commercial notebooks, Commercial desktops, Commercial services, Commercial tablets and
+mobility devices, Commercial detachables, workstations, retail POS systems and thin clients into Commercial clients and
+Consumer notebooks, Consumer desktops, Consumer services and Consumer detachables into Consumer clients when
+describing performance in these markets. Both Commercial and Consumer PCs and Commercial tablets and mobility devices
+are based predominately on Microsoft Windows operating systems and use processors from Intel Corporation (“Intel”) and
+Advanced Micro Devices, Inc. (“AMD”). Personal Systems also maintains a multi-operating system, multi—architecture strategy
+using the Google Chrome and Android operating systems among others for notebooks and tablets.
+4

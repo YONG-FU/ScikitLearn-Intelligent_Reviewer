@@ -1,0 +1,21 @@
+Exhibit 12.1
+Apple Inc.
+Computation of Ratio of Earnings to Fixed Charges
+(In millions, except ratios)
+7 Years ended 7
+September 24, September 26, September 27, September 28, September 29,
+2016 2015 2014 2013 2012
+Earnings: 7 7 7 7 7 7 7 7 7 7
+I Earnings before provision for I
+income taxes $ 61,372 $ 72,515 $ 53,483 $ 50,155 $ 55,763
+I Add: Fixed Charges 1,644 892 527 265 98
+' Total Earnings is 63,0167 ’$ 73,407’ ’$ 54,010’ ’$ 50,420’ ’$ 55,861 ’
+Fixed Charges (1):
+Interest Expense $ 1,456 $ 733 $ 384 $ 136 $ —
+Interest component of rental
+expense 188 159 143 129 98
+Total Fixed Charges :$ 1,644: :$ 892: :$ 527: :$ 265: :$ 98:
+Ratio of Earnings to Fixed
+Charges (2) 38 82 102 190 570
+(1) Fixed charges include the portion of rental expense that management believes is representative of the interest component.
+(2) The ratio of earnings to fixed charges is computed by dividing Total Earnings by Total Fixed Charges.

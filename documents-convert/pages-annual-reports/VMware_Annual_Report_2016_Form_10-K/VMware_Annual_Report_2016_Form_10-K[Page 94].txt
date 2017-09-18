@@ -1,0 +1,42 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Long-lived assets by geographic area, which primarily include property and equipment, net, as of December 31, 2016 and 2015 were as follows (table in
+millions):
+December 31,
+2016 2015
+[United States 8 784 s 831 1
+International 132 148
+1 Total $ 916 s 979 1
+No individual country other than the United States accounted for 10% or more of these assets as of December 31, 2016 and 2015 , respectively.
+VMware’s product and service solutions are organized into three main product groups:
+° SDDC or Software-Defined Data Center
+0 Hybrid Cloud Computing
+0 End-User Computing
+VMware develops and markets product and service offerings within each of these three product groups. Additionally, synergies are leveraged across these
+three product areas. VMware’s products and service solutions from each of its product groups may also be bundled as part of an enterprise agreement arrangement
+or packaged together and sold as a suite. Accordingly, it is not practicable to determine revenue by each of the three product groups described above.
+P. Selected Quarterly Financial Data (unaudited)
+Quarterly financial data for 2016 and 2015 were as follows (tables in millions, except per share amounts):
+2016, Q1 2016 Q2 2016 Q3 2016 Q4 2016
+[Revenue 8 1,589 $ 1,693 $ 1,778 $ 2,032 1
+Net income 161 265 319 441
+Net income per share, basic $ 0.38 $ 0.62 $ 0.76 $ 1.07 ‘
+Net income per share, diluted $ 0.38 $ 0.62 $ 0.75 $ 1.04
+2015 Q1 2015 Q2 2015 Q3 2015 Q4 2015
+[Revenue 8 1,511 8 1,521 $ 1,672 8 1,868 1
+Net income 196 172 256 373
+Net income per share, basic $ 0.46 $ 0.41 $ 0.61 $ 0.89 ‘
+Net income per share, diluted $ 0.45 $ 0.40 $ 0.60 $ 0.88
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+We carried out an evaluation required by the Securities Exchange Act of 1934, amended (the “Exchange Act”), under the supervision and with the
+participation of our principal executive ofﬁcer and principal ﬁnancial ofﬁcer, of the effectiveness of the design and operation of our disclosure controls and
+procedures, as defined in Rule 13a-15(e) of the Exchange Act, as of the end of the period covered by this report. Based on this evaluation, our principal executive
+ofﬁcer and principal ﬁnancial officer concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were effective to
+provide reasonable assurance that information required to be disclosed by us in the reports that we ﬁle or submit under the Exchange Act is recorded, processed,
+summarized and reported within the time periods speciﬁed in the Securities and Exchange Commission’s rules and forms and to provide reasonable assurance that
+such information is accumulated and
+9 1

@@ -1,0 +1,34 @@
+Table,0f,C,0ntents
+Critical Accounting Polrcres and Estimates
+Our discussion and analysis of our ﬁnancial condition and results of operations is based upon our consolidated ﬁnancial statements, which have been prepared
+in accordance with GAAP. The preparation of these consolidated ﬁnancial statements requires us to make estimates, judgments, and assumptions that affect the
+reported amounts of assets, liabilities, revenue and expenses, and the related disclosure of contingent assets and liabilities. We base our estimates on historical
+experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments
+about, among other things, the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these
+estimates.
+An accounting policy is considered to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at
+the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimate that are reasonably likely
+to occur, could materially impact the consolidated ﬁnancial statements. We believe that the following critical accounting policies reflect the more signiﬁcant
+estimates and assumptions used in the preparation of our consolidated ﬁnancial statements.
+Management has discussed the development and selection of these critical accounting estimates with the Audit and Finance Committee (the “Audit Committee”)
+of our Board, and the Audit Committee has reviewed the disclosure below. In addition, there are other items within our ﬁnancial statements that require
+estimation, but are not deemed critical as defined above. Changes in estimates used in these and other items could have a material impact on our consolidated
+ﬁnancial statements.
+Revenue Recognition. Our revenue is generated from search and display advertising, and other sources. Display advertising revenue is generated from the
+display of graphical, non-graphical, and video advertisements and search advertising revenue is generated from clicks on text-based links to advertisers’
+websites that appear primarily on search results pages, and from a revenue sharing arrangement with Yahoo Japan for search technology and services. Other
+revenue consists of listings-based services revenue, e—commerce transaction revenue, royalties, patent licenses and fees revenue. While the majority of our
+revenue transactions contain standard business terms and conditions, there are certain transactions that contain contract-speciﬁc business terms and
+conditions. In addition, we enter into certain sales transactions that involve multiple elements (arrangements with more than one deliverable). We also enter into
+arrangements to purchase goods and/or services from certain customers. As a result, signiﬁcant contract interpretation is sometimes required to determine the
+appropriate accounting for these transactions including: (1) whether an arrangement exists; (2) whether fees are ﬁxed or determinable; (3) how the arrangement
+consideration should be allocated among potential multiple elements; (4) establishing selling prices for deliverables considering multiple factors; (5) when to
+recognize revenue on the deliverables; (6) whether all elements of the arrangement have been delivered; (7) whether the arrangement should be reported gross
+as a principal versus net as an agent; (8) whether we receive a separately identiﬁable beneﬁt from the purchase arrangements with certain customers for which
+we can reasonably estimate fair value; and (9) whether the consideration received from a vendor should be characterized as revenue or a reimbursement of
+costs incurred. In addition, our revenue recognition policy requires an assessment as to whether collection is reasonably assured, which inherently requires us to
+evaluate the creditworthiness of our customers. Changes in judgments on these assumptions could materially impact the timing or amount of revenue
+recognition.
+Income Taxes. Significant judgment is required in evaluating our uncertain tax positions and determining our provision for income taxes. See Note 16
+—“lncome Taxes” in the Notes to our
+84

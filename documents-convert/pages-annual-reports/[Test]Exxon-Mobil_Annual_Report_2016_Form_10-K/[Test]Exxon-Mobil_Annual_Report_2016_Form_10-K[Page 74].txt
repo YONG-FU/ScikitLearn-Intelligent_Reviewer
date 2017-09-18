@@ -1,0 +1,49 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The accompanying consolidated financial statements and the supporting and supplemental material are the responsibility of the
+management of Exxon Mobil Corporation.
+The Corporation’s principal business is energy, involving the worldwide exploration, production, transportation and sale of crude
+oil and natural gas (Upstream) and the manufacture, transportation and sale of petroleum products (Downstream). The
+Corporation is also a major worldwide manufacturer and marketer of petrochemicals (Chemical).
+The preparation of financial statements in conformity with US. Generally Accepted Accounting Principles (GAAP) requires
+management to make estimates that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosure of
+contingent assets and liabilities. Actual results could differ from these estimates. Prior years’ data has been reclassified in certain
+cases to conform to the 2016 presentation basis.
+1. Summary of Accounting Policies
+Principles of Consolidation
+The Consolidated Financial Statements include the accounts of subsidiaries the Corporation controls. They also include the
+Corporation’s share of the undivided interest in certain upstream assets, liabilities, revenues and expenses.
+Amounts representing the Corporation’s interest in entities that it does not control, but over which it exercises significant
+inﬂuence, are included in “Investments, advances and long-term receivables”. The Corporation’s share of the net income of these
+companies is included in the Consolidated Statement of Income caption “Income from equity affiliates”.
+Majority ownership is normally the indicator of control that is the basis on which subsidiaries are consolidated. However, certain
+factors may indicate that a majority-owned investment is not controlled and therefore should be accounted for using the equity
+method of accounting. These factors occur where the minority shareholders are granted by law or by contract substantive
+participating rights. These include the right to approve operating policies, expense budgets, financing and investment plans, and
+management compensation and succession plans.
+Evidence of loss in value that might indicate impairment of investments in companies accounted for on the equity method is
+assessed to determine if such evidence represents a loss in value of the Corporation’s investment that is other than temporary.
+Examples of key indicators include a history of operating losses, negative earnings and cash ﬂow outlook, significant downward
+revisions to oil and gas reserves, and the financial condition and prospects for the investee’s business segment or geographic
+region. If evidence of an other than temporary loss in fair value below carrying amount is determined, an impairment is
+recognized. In the absence of market prices for the investment, discounted cash ﬂows are used to assess fair value.
+The Corporation’s share of the cumulative foreign exchange translation adjustment for equity method investments is reported in
+Accumulated Other Comprehensive Income.
+Revenue Recognition
+The Corporation generally sells crude oil, natural gas and petroleum and chemical products under short-term agreements at
+prevailing market prices. In some cases (e. g., natural gas), products may be sold under long-term agreements, with periodic price
+adjustments. Revenues are recognized when the products are delivered, which occurs when the customer has taken title and has
+assumed the risks and rewards of ownership, prices are fixed or determinable and collectibility is reasonably assured.
+Revenues from the production of natural gas properties in which the Corporation has an interest with other producers are
+recognized on the basis of the Corporation’s net working interest. Differences between actual production and net working interest
+volumes are not significant.
+Purchases and sales of inventory with the same counterparty that are entered into in contemplation of one another are combined
+and recorded as exchanges measured at the book value of the item sold.
+Sales-Based Taxes
+The Corporation reports sales, excise and value-added taxes on sales transactions on a gross basis in the Consolidated Statement
+of Income (included in both revenues and costs).
+Derivative Instruments
+The Corporation makes limited use of derivative instruments. The Corporation does not engage in speculative derivative activities
+or derivative trading activities, nor does it use derivatives with leveraged features. When the Corporation does enter into
+derivative transactions, it is to offset exposures associated with interest rates, foreign currency exchange rates and hydrocarbon
+prices that arise from existing assets, liabilities and forecasted transactions.
+70

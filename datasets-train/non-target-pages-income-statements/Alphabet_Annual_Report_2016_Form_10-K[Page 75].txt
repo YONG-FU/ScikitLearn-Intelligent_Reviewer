@@ -1,0 +1,37 @@
+Ia,ble,oLC,ontents Alphabet Inc.
+Year Ended December 31,
+: 2014 :
+: Class A Class B Class C :
+I Basic net income per share: _ _ I
+Numerator
+I Allocation of undistributed earnings - continuing operations $ 5,700 $ 1,107 $ 6,813 I
+Allocation of undistributed earnings - discontinued operations 216 42 258
+I Total $ 5,916 ‘ $ 1,149 ‘ $ 7,071 I
+Denominator
+I Number of shares used in per share computation 282,877 54,928 338,130 I
+Basic net income per share:
+I Continuing operations $ 20.15 $ 20.15 $ 20.15 I
+Discontinued operations 0.76 0.76 0.76
+I Basic net income per share 20.91 20.91 20.91
+Diluted net income per share:
+I Numerator I
+Allocation of undistributed earnings for basic computation - continuing operations $ 5,700 $ 1,107 $ 6,813
+I Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares 1,107 0 O I
+Reallocation of undistributed earnings (20) (18) 20
+I Allocation of undistributed earnings - continuing operations :$ 6,787 1,089 6,833I
+Allocation of undistributed earnings for basic computation - discontinued operations 216 42 258
+I Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares 42 0 O I
+Reallocation of undistributed earnings (1) (1) 1
+I Allocation of undistributed earnings - discontinued operations :$ 257 41 259I
+Denominator
+I Number of shares used in basic computation 282,877 54,928 338,130 I
+Weighted-average effect of dilutive securities
+I Add: I
+Conversion of Class B to Class A common shares outstanding 54,928 0 O
+I Restricted stock units and other contingently issuable shares 4,572 0 6,563 I
+Number of shares used in per share computation : 342,377 54,928 344,693 :
+I Diluted net income per share: : I
+Continuing operations $ 19.82 $ 19.82 $ 19.82
+I Discontinued operations 0.75 0.75 0.75 I
+Diluted net income per share :$ 20.57 20.57:_:$ 20.57 :
+72

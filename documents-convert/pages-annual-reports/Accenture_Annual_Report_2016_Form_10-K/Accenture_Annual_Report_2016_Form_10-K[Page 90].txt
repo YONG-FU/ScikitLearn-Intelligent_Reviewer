@@ -1,0 +1,53 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+10. RETIREMENT AND PROFIT SHARING PLANS
+Defined Benefit Pension and Postretirement Plans
+In the United States and certain other countries, the Company maintains and administers deﬁned benefit
+retirement plans and postretirement medical plans for certain current, retired and resigned employees. In addition, the
+Company’s U.S. defined beneﬁt pension plans include a frozen plan for former pre-incorporation partners, which is
+unfunded. Benefits under the employee retirement plans are primarily based on years of service and compensation
+during the years immediately preceding retirement or termination of participation in the plan. The deﬁned beneﬁt
+pension disclosures include the Company’s US. and material non-U.S. defined beneﬁt pension plans.
+Assumptions
+The weighted-average assumptions used to determine the defined benefit pension obligations as of August 31
+and the net periodic pension expense were as follows:
+Pension Plans Postretirement Plans
+August August August
+August 31, August 31, August 31, 31, 31, 31,
+7 2016 77 2015 77 2014 77 2016 77 2015 77 2014 7
+’ ” ” " u.s. ”u.s.”u.s.*
+and and and
+Non- Non- Non- Non- Non- Non-
+U.S. US. US. US. US. US. US. US. US.
+Plans 7 7 Plans 7 7 Plans 7 Plans 7 7 Plans 7 7 Plans 7 7 Plans 7 7 Plans 7 7 Plans 7
+Discount rate for determining projected 7 7 7 7 7 7 7 ‘
+benefit obligation 3.50% 2.40% 4.50% 3.47% 4.25% 3.53% 3.51% 4.46% 4.25%l
+Discount rate for determining net periodic
+pension expense 4.50% 3.47% 4.25% 3.53% 5.00% 4.18% 4.46% 4.25% 4.96%
+{Long term rate of return on plan assets 4.75% 3.99% 5.50% 4.55% 5.50% 4.79% 4.54% 5.05% 4.87%}
+Rate of increase in future compensation
+for determining projected beneﬁt
+obligation 2.57% 3.47% 3.65% 3.56% 3.65% 3.75% N/A N/A N/A
+Rate of increase in future compensation
+for determining net periodic pension
+expense 3.60% 3.56% 3.65% 3.75% 3.60% 3.79% N/A N/A N/A
+Beginning in fiscal 2016, the Company changed the method it uses to estimate the service and interest cost
+components of net periodic pension expense. Historically, the Company selected a discount rate for the US. plans by
+matching the plans’ cash flows to that of the average of two yield curves that provide the equivalent yields on zero-
+coupon corporate bonds for each maturity. The discount rate assumption for the non-U.S. Plans primarily reflected the
+market rate for high-quality, ﬁxed-income debt instruments. Beginning in ﬁscal 2016, the Company utilized a full yield
+curve approach to estimate these components by applying specific spot rates along the yield curve used in the
+determination of the beneﬁt obligation to the relevant projected cash ﬂows. The Company made this change to improve
+the correlation between projected benefit cash flows and the corresponding yield curve spot rates and to provide a
+more precise measurement of service and interest costs. This change does not affect the measurement of the
+Company’s total benefit obligations. The Company accounted forthis change as a change in estimate and, accordingly,
+recognized its effect prospectively beginning in ﬁscal 2016.
+The discount rate assumptions are based on the expected duration of the beneﬁt payments for each of the
+Company’s defined beneﬁt pension and postretirement plans as of the annual measurement date and are subject to
+change each year.
+The expected long-term rate of return on plan assets should, over time, approximate the actual long-term returns
+on defined benefit pension and postretirement plan assets and is based on historical returns and the future expectations
+for returns for each asset class, as well as the target asset allocation of the asset portfolio.
+F- 26

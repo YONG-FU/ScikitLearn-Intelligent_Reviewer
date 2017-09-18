@@ -1,0 +1,48 @@
+customers may use our services in unanticipated ways that may cause a disruption in services for other customers
+attempting to access their data. As we acquire companies, we may encounter difficulty in incorporating the
+acquired technologies into our services and maintaining the quality standards that are consistent with our brand
+and reputation. Since our customers use our services for important aspects of their business, any errors, defects,
+disruptions in service or other performance problems could hurt our reputation and may damage our customers’
+businesses. As a result, customers could elect to not renew our services or delay or withhold payment to us. We
+could also lose future sales or customers may make warranty or other claims against us, which could result in an
+increase in our provision for doubtful accounts, an increase in collection cycles for accounts receivable or the
+expense and risk of litigation.
+Interruptions or delays in services from our third-party data center hosting facilities or cloud computing
+platform providers could impair the delivery of our services and harm our business.
+We currently serve our customers from third-party data center hosting facilities and cloud computing
+platform providers located in the United States and other countries. Any damage to, or failure of, our systems
+generally could result in interruptions in our services. We have from time to time experienced interruptions in our
+services and such interruptions may occur in the future. Interruptions in our services may reduce our revenue,
+cause us to issue credits or pay penalties, cause customers to terminate their subscriptions and adversely affect
+our attrition rates and our ability to attract new customers, all of which would reduce our revenue. Our business
+would also be harmed if our customers and potential customers believe our services are unreliable.
+As part of our current disaster recovery and business continuity arrangements, our production environment
+and all of our customers’ data are currently replicated in near real-time in a separate facility located elsewhere.
+Companies and products added through acquisition may be served through alternate facilities. We do not control
+the operation of any of these facilities, and they may be vulnerable to damage or interruption from earthquakes,
+ﬂoods, fires, power loss, telecommunications failures and similar events. They may also be subject to break-ins,
+sabotage, intentional acts of vandalism and similar misconduct, as well as local administrative actions, changes to
+legal or permitting requirements and litigation to stop, limit or delay operation. Despite precautions taken at these
+facilities, the occurrence of a natural disaster or an act of terrorism, a decision to close the facilities without
+adequate notice or other unanticipated problems at these facilities could result in lengthy interruptions in our
+services. Even with disaster recovery and business continuity arrangements, our services could be interrupted.
+When we add data centers and add capacity, we may move or transfer our data and our customers’ data.
+Despite precautions taken during this process, any unsuccessful data transfers may impair the delivery of our
+services, which may damage our business.
+Privacy concerns and laws, evolving regulation of cloud computing, cross-border data transfer
+restrictions and other domestic or foreign regulations may limit the use and adoption of our services and
+adversely affect our business.
+Regulation related to the provision of services on the Internet is increasing, as federal, state and foreign
+governments continue to adopt new laws and regulations addressing data privacy and the collection, processing,
+storage and use of personal information. In some cases, foreign data privacy laws and regulations, such as the
+European Union’s Data Protection Directive, and the country-specific laws and regulations that implement that
+directive, also govern the processing of personal information. Further, laws are increasingly aimed at the use of
+personal information for marketing purposes, such as the European Union’s e-Privacy Directive, and the country-
+specific regulations that implement that directive. Such laws and regulations are subject to new and differing
+interpretations and may be inconsistent among jurisdictions. These and other requirements could reduce demand
+for our services or restrict our ability to store and process data or, in some cases, impact our ability to offer our
+services in certain locations or our customers’ ability to deploy our solutions globally. For example, in October
+2015, the European Court of Justice invalidated the U.S.-EU Safe Harbor framework that had been in place since
+2000, which allowed companies to meet certain European legal requirements for the transfer of personal data
+from the European Economic Area to the United States. While other adequate legal mechanisms to lawfully
+13

@@ -1,0 +1,49 @@
+Table of Contents
+Business Combinations
+We allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed,
+assumed equity awards, as well as to in-process research and development based upon their estimated fair values at the acquisition
+date. The purchase price allocation process requires management to make significant estimates and assumptions, especially at the
+acquisition date with respect to intangible assets, deferred revenue obligations and equity assumed.
+Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical
+experience and information obtained from the management of the acquired companies and are inherently uncertain. Examples of
+critical estimates in valuing certain of the intangible assets we have acquired or may acquire in the future include but are not
+limited to:
+- future expected cash ﬂows from software license sales, subscriptions, support agreements, consulting contracts and
+acquired developed technologies and patents;
+- expected costs to develop the in—process research and development into commercially viable products and estimated
+cash ﬂows from the projects when completed,
+- the acquired company ’s trade name and trademarks as well as assumptions about the period of time the acquired trade
+name and trademarks will continue to be used in the combined company’s product portfolio; and
+- discount rates.
+In connection with the purchase price allocations for our acquisitions, we estimate the fair value of the deferred revenue
+obligations assumed. The estimated fair value of the support obligations is determined utilizing a cost build-up approach. The cost
+build-up approach determines fair value by estimating the costs related to fulfilling the obligations plus a normal profit margin.
+The estimated costs to fulfill the obligations are based on the historical costs related to fulﬁlling the obligations.
+In connection with the purchase price allocations for our acquisitions, we estimate the fair value of the equity awards
+assumed. The estimated fair value is determined utilizing a modiﬁed binomial option pricing model which assumes employees
+exercise their stock options when the share price exceeds the strike price by a certain dollar threshold. If the acquired company
+has significant historical data on their employee’s exercise behavior, then this threshold is determined based upon the acquired
+company’s history. Otherwise, our historical exercise experience is used to determine the exercise threshold. Zero coupon yields
+implied by US. Treasury issuances, implied volatility for our common stock and our historical forfeiture rate are other inputs to
+the binomial model.
+Unanticipated events and circumstances may occur which may affect the accuracy or validity of such assumptions, estimates
+or actual results.
+Goodwill Impairment
+We complete our goodwill impairment test on an annual basis, during the second quarter of our fiscal year, or more frequently,
+if changes in facts and circumstances indicate that an impairment in the value of goodwill recorded on our balance sheet may
+exist. As part of our annual goodwill impairment test, we first evaluate goodwill to determine if it is more likely than not that the
+occurrence of an event or change in circumstances has reduced the fair value of a reporting segment below its carrying value. This
+qualitative assessment requires that we consider events or circumstances that may include macroeconomic conditions, industry
+and market considerations, cost factors, overall financial performance, changes in management or key personnel, changes in
+strategy and changes in customers.
+If the qualitative assessment indicates that the two-step quantitative analysis should be performed, we exercise judgment
+at various steps, including the identification of reporting segments, assignment of goodwill to reporting segments, and determination
+of the fair value of each reporting segment. In order to estimate the fair value of goodwill, we typically estimate future revenue,
+consider market factors and estimate our future cash ﬂows. Based on these key assumptions, judgments and estimates, we determine
+whether we need to record an impairment charge to reduce the value of the asset carried on our balance sheet to its estimated fair
+value. Assumptions, judgments and estimates about future values are complex and often subjective. They can be affected by a
+variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our
+business strategy or our internal forecasts. Although we believe the assumptions, judgments and estimates we have made in the
+past have been reasonable and appropriate, different assumptions, judgments and estimates could materially aﬁect our reported
+ﬁnancial results.
+39

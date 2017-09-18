@@ -1,0 +1,30 @@
+Iablre,of,C,ontents
+classiﬁed within Level 2 of the fair value hierarchy, as these securities are measured using quoted prices for identical or similar instruments in markets that are not
+active, and model-based valuation techniques for which all significant assumptions are observable. Such valuations are determined by a third party pricing service.
+The investments under the funded deferred compensation plan are accounted for as trading securities and unrealized gains or losses are included in earnings. The
+fair value of these investments are determined based on quoted market prices (Level 1).
+We believe recorded values of all of our financial instruments approximate their current fair values because of their nature, stated interest rates and respective
+maturity dates or durations.
+The following tables provide fair value measurement information for our marketable securities and deferred compensation fund investment assets as of
+December 31, 2016 and 2015 :
+As of December 31, 2016
+Fair Value Measurement Using:
+Quoted Signiﬁcant
+Prices Other Signiﬁcant
+in Active Observable Unobservable
+Carrying Total Fair Markets Inputs Inputs
+Amount Value (Level 1) (Level 2) (Level 3)
+(in thousands)
+[Financial Assets: 1
+Marketable securities
+1 Municipal bonds — available for sale 8 67,730 $ 67,730 $ — $ 67,730 $ — l
+Deferred compensation fund
+1 Money Market (1) $ 3,147 $ 3,147 $ — $ 3,147 $ — l
+Balanced and Lifestyle 7,162 7,162 7,162 — —
+1 Large Cap Growth 5,583 5,583 5,583 — — 1
+Small Cap Growth 2,933 2,933 2,933 — —
+1 Fixed Income 2,752 2,752 2,752 — — 1
+International 1,132 1,132 1,132 — —
+1 Mid Cap Growth 1,410 _ 1,410 _ 1,410 _ — _ — l
+Deferred compensation fund $ 24,119 $ 24,119 $ 20,972 $ 3,147 $ —
+44

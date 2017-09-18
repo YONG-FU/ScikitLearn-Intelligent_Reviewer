@@ -1,0 +1,49 @@
+EMC INSURANCE GROUP INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Description of Business
+EMC Insurance Group Inc., a majority owned subsidiary of Employers Mutual Casualty Company (Employers Mutual),
+is an insurance holding company with operations in property and casualty insurance and reinsurance. The Company conducts
+its property and casualty insurance operations through the following subsidiaries: EMCASCO Insurance Company, Illinois
+EMCASCO Insurance Company and Dakota Fire Insurance Company, and its reinsurance operations through its subsidiary,
+EMC Reinsurance Company. The Company also has an excess and surplus lines insurance agency subsidiary, EMC
+Underwriters, LLC. The term “Company” is used interchangeably to describe EMC Insurance Group Inc. (Parent Company
+only) and EMC Insurance Group Inc. and its subsidiaries.
+The Company writes property and casualty insurance in both commercial and personal lines of insurance, with a focus
+on medium-sized commercial accounts. Approximately 37 percent of the premiums written are in Iowa and contiguous states.
+The Company’s reinsurance business is primarily written through a quota share reinsurance agreement with Employers Mutual.
+A small portion of the assumed reinsurance business is written on a direct basis, outside the quota share reinsurance agreement.
+Principles of Consolidation and Basis of Presentation
+The consolidated financial statements have been prepared on the basis of US. generally accepted accounting principles
+(GAAP), which differ in some respects from those followed in reports to insurance regulatory authorities. All significant inter-
+company balances and transactions have been eliminated.
+The preparation of financial statements in conformity with GAAP requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the
+date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting periods. Actual
+results could differ from those estimates. The Company has evaluated all subsequent events through the date the financial
+statements were issued.
+Property and Casualty Insurance and Reinsurance Operations
+Premiums written is the amount charged for policies issued during a reporting period. Property and casualty insurance
+premiums are recognized as revenue ratably over the terms of the respective policies. Unearned premiums are calculated on
+the daily pro rata method. Both domestic and foreign assumed reinsurance premiums are recognized as revenues ratably over
+the terms of the related contracts and underlying policies. Amounts paid as ceded reinsurance premiums are reported as
+prepaid reinsurance premiums and are amortized over the remaining contract period in proportion to the amount of reinsurance
+protection provided. Reinsurance reinstatement premiums are recognized in the same period as the loss event that gave rise to
+the reinstatement premiums.
+Costs related to the acquisition of insurance contracts are deferred and amortized to expense as the associated premium
+revenue is recognized. Only incremental costs or costs directly related to the successful acquisition of new or renewal
+insurance contracts are capitalized. Accordingly, acquisition costs consist of commissions, premium taxes, and salary and
+benefit expenses of employees directly involved in the underwriting of insurance policies that are successfully issued.
+The method followed in computing deferred policy acquisition costs limits the amount of such deferred costs to the
+estimated realizable value. In determining estimated realizable value, the computation gives effect to the premium to be
+earned, related investment income, anticipated losses and settlement expenses, anticipated policyholder dividends, and certain
+other costs expected to be incurred to administer the insurance policies as the premium is earned. The anticipated losses and
+settlement expenses are not discounted and are based on the Company’s projected loss and settlement expense ratios for the
+next twelve months, which include catastrophe loads based on historical results adjusted for recent trends. The occurrence of a
+significant catastrophic event, and/or the accumulation of catastrophe losses would not have a direct impact on the
+determination of premium deficiencies; however, such occurrences would be included in the historical results that are used to
+establish the catastrophe loads. A premium deficiency is first recognized by expensing the amount of unamortized deferred
+policy acquisition costs necessary to eliminate the deficiency. If the premium deficiency is greater than the unamortized
+deferred policy acquisition costs, a liability is accrued for the excess deficiency. The Company did not record a premium
+deficiency for the years ended December 31, 2016, 2015 or 2014.
+106

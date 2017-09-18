@@ -1,0 +1,47 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Credit Agreement
+On March 2, 2012, we entered into a five-year $1 billion senior unsecured revolving credit agreement (the “Credit
+Agreement”), providing for loans to us and certain of our subsidiaries. Pursuant to the terms of the Credit Agreement, we may,
+subject to the agreement of the applicable lenders, request up to an additional $500 million in commitments, for a maximum
+aggregate commitment of $1.5 billion. Loans under the Credit Agreement will bear interest at either (i) LIBOR plus a margin,
+based on our public debt ratings, ranging from 0.795% and 1.3% or (ii) the base rate, which is defined as the highest of (a) the
+agent’s prime rate, (b) the federal funds effective rate plus 0.50% or (c) LIBOR plus 1.00% plus a margin, based on our debt
+ratings, ranging from 0.00% to 0.30%. Commitment fees are payable quarterly at rates between 0.08% and 0.20% per year, also
+based on our debt ratings. Subject to certain conditions stated in the Credit Agreement, we and any of our subsidiaries designated
+as additional borrowers may borrow, prepay and re-borrow amounts under the revolving credit facility at any time during the term
+of the Credit Agreement.
+The Credit Agreement contains customary representations, warranties, affirmative and negative covenants, including a
+ﬁnancial covenant, events of default and indemnification provisions in favor of the lenders. The negative covenants include
+restrictions regarding the incurrence of liens and indebtedness, certain merger and acquisition transactions, dispositions and other
+matters, all subject to certain exceptions. The financial covenant, based on a quarterly financial test, requires us not to exceed a
+maximum leverage ratio.
+On March 1, 2013, we exercised an option under the Credit Agreement to extend the maturity date of the Credit Agreement
+by one year to March 2, 2018.
+On July 27, 2015, we entered into an amendment to further extend the maturity date of the Credit Agreement to July 27,
+2020 and reallocated the facility among the syndicate of lenders that are parties to the Credit Agreement.
+The facility will terminate and all amounts owing thereunder will be due and payable on the maturity date unless (a) the
+commitments are terminated earlier upon the occurrence of certain events, including an event of default, or (b) the maturity date
+is further extended upon our request, subject to the agreement of the lenders.
+As of December 2, 2016, there were no outstanding borrowings under this Credit Agreement and we were in compliance
+with all covenants.
+NOTE 16. N ON-OPERATING INCOME (EXPENSE)
+Non-operating income (expense) for fiscal 2016, 2015 and 2014 included the following (in thousands):
+7 2016 7 7 2015 7 7 2014 7
+Interest and other income (expense), net:
+I Interest income 55 47,340 $ 28,759 $ 21,355 l
+Foreign exchange gains (losses) (35,716) (20,130) (18,840)
+I Realized gains on fixed income investment 2,880 3,309 4,024 l
+Realized losses on fixed income investment (985) (354) (97)
+1 Other f 29 f f 22,325 i f 825 1
+Interest and other income (expense), net $ 13,548 $ 33,909 $ 7,267
+l Interest expense 8 (70,442)_7$ (64,184)_7$ (5 9,732):
+Investment gains (losses), net:
+] Realized investment gains $ 4,964 $ 2,760 $ 1,298 l
+Unrealized investment gains 1 86 — 9 12
+] Realized investment losses (6,720) (206) (1,054)}
+Unrealized investment losses — (1,593) —
+l Investment gains (losses), net 755 (1,570)_7$ 961 “733 1,156 l
+Non-operating income (expense), net :55 (5 8,464): :$ (29,314): :$ (51,309):
+98

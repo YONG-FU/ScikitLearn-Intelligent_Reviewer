@@ -1,0 +1,45 @@
+1 2 O | JAGUAR LAND ROVER AUTOMOTIVE PLC
+Annual Report 2015—16
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTI N U ED
+34 FINANCIAL INSTRUMENTS (CONTINUED)
+_(E) LIQUIDITY RISK (CONTINUED)
+Carrying Contractual 1 year 1 to <2 2 to <5 5 years
+amount cash flows or less years years and over
+_As at 31 March 2014 Em Em Em Em Em Em
+Financial liabilities
+Long-term borrowings 1,843 2,667 117 116 768 1,666
+Short-term borrowings 167 167 167 — — —
+Finance lease obligations 18 20 6 6 8 —
+Other ﬁnancial liabilities 208 231 195 13 23 —
+Accounts payable 4,787 4,787 4,787 — — —
+Derivative ﬁnancial instruments 120 130 71 48 11 —
+Total contractual maturities 7,143 8,002 5,343 183 810 1,666
+(G) CREDIT RISK
+The majority of the Group’s credit risk pertains to the risk of ﬁnancial loss arising from counterparty default on cash investments.
+All Group cash is invested according to strict credit criteria and actively monitored by Group Treasury in conjunction with the
+current market valuation of derivative contracts. To support this, the Board has implemented an investment policy which
+places limits on the maximum cash investment that can be made with any single counterparty depending on their published
+external credit rating.
+To a lesser extent the Group has an exposure to counterparties on trade receivables. The Group will seek to mitigate credit risk
+on sales to third parties through the use of payment at the point of delivery, credit insurance and letters of credit from banks
+which meet internal rating criteria.
+None of the ﬁnancial instruments of the Group result in material concentrations of credit risks.
+EXPOSURE TO CREDIT RISK
+The carrying amount of ﬁnancial assets represents the maximum credit exposure.
+FINANCIAL ASSETS
+None of the Group’s cash equivalents, including term deposits with banks, are past due or impaired. Regarding other ﬁnancial
+assets that are neither past due nor impaired, there were no indications as at 31 March 2016 (2015, 2014: no indications) that
+defaults in payment obligations will occur.
+Trade and other receivables past due and impaired are set out below:
+' 2016 2016 2015 2015 2014 2014
+Gross Impairment Gross Impairment Gross Impairment
+As at 31 March Em Em Em Em Em Em
+Not yet due 967 — 1,070 — 795 2
+Overdue < 3 months 145 31 56 — 52 —
+Overdue >3<6 months 22 22 4 2 4 —
+Overdue >6 months 12 7 12 9 10 6
+Total 1,146 60 1,142 11 861 8
+Included within trade receivables is £116 million (2015: £156 million, 2014: £167 million) of receivables which are part of a debt
+factoring arrangement. These assets do not qualify for derecognition due to the recourse arrangements in place. The related
+liability of £116 million (2015: E156 million, 2014: £167 million) is in short—term borrowings. Both the asset and associated
+liability are stated at fair value.

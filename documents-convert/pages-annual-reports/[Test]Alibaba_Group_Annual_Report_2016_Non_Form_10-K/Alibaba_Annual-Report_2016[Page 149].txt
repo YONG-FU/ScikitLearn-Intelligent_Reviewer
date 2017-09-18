@@ -1,0 +1,49 @@
+Share-based awards relating to Ant Financial Services
+Junhan made grants of certain share—based awards similar to share appreciation awards linked to the valuation
+of Ant Financial Services to a substantial number of our employees. The vesting of such awards is conditional
+upon the fulfillment of requisite services to us, and such awards will be settled in cash by Junhan upon their
+disposal by the holders. Junhan has the right to repurchase the vested awards from the holders upon an initial
+public offering of Ant Financial Services or the termination of the employment of the employees with us at a price
+to be determined based on the then fair market value of Ant Financial Services. We have no obligation to
+reimburse Junhan, Ant Financial Services or its subsidiaries for the cost associated with these awards. The cost
+relating to such share-based awards is recognized by us as a shareholder contribution as the awards will ultimately
+be settled in cash by Junhan. The awards are accounted for as financial derivatives and initially measured at their
+fair value, and the related share-based compensation expense will be recognized over the requisite service period.
+Subsequent changes in the fair value of the awards are recorded in the consolidated income statements through
+the date on which the underlying awards are settled by Junhan. See note 8(d) to our consolidated financial
+statements for the years ended March 31, 2014, 2015 and 2016 included elsewhere in this annual report. The fair
+values of the underlying equity are primarily determined by reference to the BEV of Ant Financial Services which
+is based on the contemporaneous valuation reports or recent financing transactions. Given that the determination
+of the BEV of Ant Financial Services requires the judgments and is beyond our control, the magnitude of the
+related accounting impact is unpredictable and may affect our consolidated income statement significantly.
+As of March 31, 2016, the total unamortized share-based compensation expense related to (i) ordinary shares
+of us and our subsidiaries and (ii) awards linked to the valuation of Ant Financial Services that we expect to
+recognize was RMB13,709 million (US$2,120 million) and RMB2,542 million with a weighted-average remaining
+requisite service period of 2.1 years and 1.7 years, respectively. To the extent the actual forfeiture rate is different
+from what we have anticipated, share-based compensation expense related to these awards will be different from
+our expectations. Furthermore, share-based compensation expense will be affected by changes in the fair value of
+our shares, as certain share-based awards were granted to non-employees where the unvested portions of the
+awards are re-measured at each reporting date through the vesting dates in the future. As of March 31, 2016,
+share-based awards granted to non-employees included 384,116 share options and 5,880,443 RSUs. In addition,
+share-based compensation expense will also be affected by changes in the fair value of awards granted to our
+employees by Junhan, which is controlled by Jack Ma. Ant Financial Services has informed us that they expect
+Junhan will also issue additional share-based awards to our employees from time to time in the future. See
+“Item 7. Major Shareholders and Related Party Transactions — B. Related Party Transaction — Agreements and
+Transactions Related to Ant Financial Services and its Subsidiaries — Ownership of Ant Financial Services and
+Alipay.” The expenses associated with these awards will be recognized across the functions in which the award
+recipients are employed and may continue to be significant in future periods.
+Equity-settled Donation Expense
+In October 2013, we granted options to acquire 50,000,000 of our ordinary shares to a non-profit organization
+designated by Jack Ma and Joe Tsai, subject to irrevocable instructions to designate and transfer these share
+options to the separate charitable trusts to be established by them. 35,000,000 and 15,000,000 of these share
+options have been transferred to the separate charitable trusts established by Jack Ma and Joe Tsai, respectively.
+These share options were approved by our board of directors and the options are not subject to any vesting
+condition and are exercisable for a period of four years starting from the grant date. The exercise price of these
+options is US$25.00 per share based on a fair market value appraisal process. For each of the eight years
+beginning one year after the date of listing of our ordinary shares on a recognized stock exchange, the charitable
+trusts are permitted to sell only up to 6,250,000 ordinary shares (or one-eighth of the total number of ordinary
+shares subject to the options) per year excluding such number of unsold ordinary shares carried forward from
+previous years. The fair value of the share options was determined using the Black-Scholes option valuation model,
+which requires inputs such as the fair value of the underlying restricted shares, risk-free interest rate, expected
+dividend yield, expected life and expected volatility. As we do not have a history of granting such options for
+144

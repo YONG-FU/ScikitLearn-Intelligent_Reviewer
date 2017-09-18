@@ -1,0 +1,37 @@
+Exhibit 12
+RITE AID CORPORATION AND SUBSIDIARIES
+STATEMENT REGARDING COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+We have calculated the ratio of earnings to fixed charges in the following table by dividing
+earnings by fixed charges. For this purpose, earnings include pre-tax income from continuing operations
+plus fixed charges, before capitalized interest. Fixed charges include interest, whether expensed or
+capitalized, amortization of debt expense, preferred stock dividend requirement and that portion of
+rental expense which is representative of the interest factor in those rentals.
+Year Ended
+February 27, February 28, March 1, March 2, March 3,
+2016 2015 2014 2013 2012
+(52 Weeks) (52 Weeks) (52 Weeks) (52 Weeks) (53 Weeks)
+(dollars in thousands)
+Fixed charges:
+Interest expense . . . . . . . . . . . . . . . . . . . $ 449,574 $ 397,612 $424,591 $515,421 $ 529,255
+Interest portion of net rental expense(1) . . 324,449 321,495 317,592 317,080 325,631
+Fixed charges before capitalized interest
+and preferred stock dividend
+requirements . . . . . . . . . . . . . . . . . . . . 774,023 719,107 742,183 832,501 854,886
+Preferred stock dividend requirements(2) . — — 16,636 21,056 19,838
+Capitalized interest . . . . . . . . . . . . . . . . . 196 145 197 399 315
+Total fixed charges . . . . . . . . . . . . . . . . . 774,219 719,252 759,016 853,956 875,039
+Earnings:
+Income (loss) before income taxes . . . . . . 278,404 426,820 250,218 7,505 (392,257)
+Preferred stock dividend requirements(2) . — — (16,636) (21,056) (19,838)
+Fixed charges before capitalized interest . . 774,023 719,107 758,819 853,557 874,724
+Total adjusted earnings . . . . . . . . . . . . . . 1,052,427 1,145,927 992,401 840,006 462,629
+Earnings to fixed charges excess (deficiency) $ 278,208 $ 426,675 $233,385 $(13,950) $(412,410)
+Ratio of earnings to fixed charges(3) . . . . 1.36 1.59 1.31 — —
+(1) The interest portion of net rental expense is estimated to be equal to one-third of the minimum
+rental expense for the period.
+(2) The preferred stock dividend requirement is computed as the pre-tax earnings that would be
+required to cover preferred stock dividends.
+(3) For the years ended March 3, 2012, and March 2, 2013, earnings were insufficient to cover fixed
+charges by approximately $412.4 million, and $14.0 million, respectively. For the years ended
+March 1, 2014, February 28, 2015 and February 27, 2016, earnings were sufficient to cover fixed
+charges by approximately $233.4 million, $426.7 million and $278.2 million, respectively.

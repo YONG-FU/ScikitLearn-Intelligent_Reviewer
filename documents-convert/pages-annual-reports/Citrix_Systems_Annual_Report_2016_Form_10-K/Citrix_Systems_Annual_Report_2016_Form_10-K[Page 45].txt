@@ -1,0 +1,51 @@
+An analysis of our reportable segment net revenue is presented below:
+Revenue Revenue
+7 Year Ended December 31, 7 Growth Growth
+7 2016 7 7 2015 7 7 2014 7 2016 to 2015 7 7 2015 to 2014 7
+7 7 7 7 7(In thousands) 7 7 7 7 7
+Enterprise and Service Provider $ 2,736,080 $ 2,646,154 $ 2,563,064 3.4% 3.2%
+GoTo Business 7 682,185 7 7 629,440 7 7 579,792 7 8.4% 8.6%
+Consolidated net revenues 77$ 3,418,265 7 77$ 3,275,594 7 77$ 3,142,856 7 4.4% 4.2%
+With respect to our segment revenues, the increase in net revenues for the comparative periods presented was due
+primarily to the factors previously discussed above. See Note 11 of our consolidated financial statements included in this
+Annual Report on Form 10-K for the year ended December 31, 2016 for additional information on our segment revenues.
+Cost ofNez‘ Revenues
+2016 2015
+: Year Ended December 31’ : Compared to Compared to
+7 2016 7 7 2015 7 7 2014 7 7 2015 7 7 2014 7
+7 7 (In thousands)
+Cost of product and license revenues $ 121,391 $ 118,265 $ 124,110 $ 3,126 $ (5,845)
+Cost of services and maintenance revenues 377,731 364,916 349,683 12,815 15,233
+Amortization of product related intangible assets 59,291 74,912 93,43 1 (15,621) (18,5 1 9)
+Impairment of product related intangible assets 1,128 56,271 52,995 (55,143) 3,276
+Total cost of net revenues $ 559,541 $ 614,364 $ 620,219 $ (54,823) $ (5,855)
+Cost of product and license revenues consists primarily of hardware, shipping expense, royalties, product media and
+duplication, manuals and packaging materials. Cost of services and maintenance revenues consists primarily of compensation
+and other personnel-related costs of providing technical support and consulting, as well as the costs related to providing our
+software as a service offerings, which includes the cost to support the voice and Video offerings in our Communications Cloud
+products. Also included in Cost of net revenues is amortization of product related intangible assets and impairment of product
+related intangible assets.
+Cost of product and license revenues increased during 2016 when compared to 2015 primarily due to higher sales of our
+Delivery Networking products, some of which contain hardware components that have a higher cost than our software
+products. Cost of product and license revenues decreased during 2015 when compared to 2014 primarily due to lower sales of
+our Delivery Networking products, some of which contain hardware components that have a higher cost than our other
+products. We currently expect cost of product and license revenues will decrease when comparing the first quarter of 20 17 to
+the first quarter of 20 16.
+Cost of services and maintenance revenues increased during 2016 compared to 2015 primarily due to an increase in sales
+of GoTo Business products of $26.8 million and Cloud Services of $4.2 million, partially offset by a decrease in
+implementation services and product training and certification costs of $20.1 million related to our Workspace Services
+solutions. Cost of services and maintenance revenues increased during 2015 compared to 2014 primarily due to an increase in
+sales of our Cloud Services products of $24.7 million, GoTo Business products of $2.9 million, and support and maintenance
+costs related to our Workspace Services and Delivery Networking products of $2.9 million. These increases are partially offset
+by a decrease in implementation services and product training and certification costs of $15.6 million related to our Workspace
+Services solutions. We currently expect cost of services and maintenance revenues, excluding the GoTo Business, will increase
+when comparing the first quarter of 2017 to the first quarter of 20 16 consistent with the increase in Software as a Service
+revenues, excluding the GoTo Business, and License updates and maintenance revenues as discussed above.
+Amortization of product related intangible assets decreased during 2016 as compared to 2015 primarily due to lower
+amortization of certain intangible assets becoming fully amortized as a result of impairments during 2015. Amortization of
+product related intangible assets decreased during 2015 as compared to 2014 primarily due to lower amortization of certain
+intangible assets becoming fully amortized as a result of impairments during 2015 and 2014.
+Impairment of product related intangible assets decreased during 2016 as compared to 2015 primarily due to the
+impairments of certain acquired intangible assets in 2015. Impairment of product related intangible assets increased during
+2015 as compared to 2014 primarily due to an increase in impairments related to certain acquired intangible assets in 2015.
+4 1

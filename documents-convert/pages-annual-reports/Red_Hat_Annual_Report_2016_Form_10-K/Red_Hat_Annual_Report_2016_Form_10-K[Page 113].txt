@@ -1,0 +1,41 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+NOTE 19—Earnings Per Share
+The Company computes basic net income per common share by dividing net income available to common
+stockholders by the weighted average number of common shares outstanding. Diluted net income per common
+share is computed by dividing net income by the weighted average number of common shares and dilutive
+potential common share equivalents then outstanding. Potential common share equivalents consist of shares
+issuable upon the exercise of stock options or vesting of share-based awards.
+The following table reconciles the numerators and denominators of the earnings per share (“EPS”)
+calculation for the years ended February 29, 2016, February 28, 2015 and February 28, 2014 (in thousands,
+except per share amounts):
+Year ended Year ended Year ended
+February 29, February 28, February 28,
+2016 2015 2014
+Net income, basic and diluted .................................. $199,365 $180,201 $178,292
+Weighted average common shares outstanding . . . . . . . . . . . . . . . . . . . . . 182,817 186,529 189,920
+Incremental shares attributable to assumed vesting or exercise of
+outstanding equity award shares 3,020 2,717 2,116
+Dilutiveeffectofconvertiblenotes.............................. 282 — —
+Dilutedshares............................................... 186,119 189,246 192,036
+Netincomepershare-diluted.................................. $ 1.07 $ 0.95 $ 0.93
+With respect to the Company’s convertible notes, the Company has the option to pay cash or deliver, as the
+case may be, either cash, shares of its common stock or a combination of cash and shares of its common stock for
+the aggregate amount due upon conversion of the convertible notes. The Company’s intent is to settle the
+principal amount of the convertible notes in cash upon conversion. As a result, upon conversion of the
+convertible notes, only the amounts payable in excess of the principal amounts of the convertible notes are
+considered in diluted earnings per share under the treasury stock method. See NOTE 22—Convertible Notes to
+the Company’s Consolidated Financial Statements for detailed information on the convertible notes.
+Warrants to purchase 10,965,630 shares of the Company’s common stock at $101.65 per share were
+outstanding during the ﬁscal years ended February 29, 2016 and February 28, 2015 but were not included in the
+computation of diluted EPS because the warrants’ exercise price was greater than the average market price of the
+Company’s common stock during the related period.
+The following share awards are not included in the computation of diluted earnings per share because the
+aggregate value of proceeds considered received upon either exercise or vesting was greater than the average
+market price of the Company’s common stock during the related periods and the effect of including such share
+awards in the computation would be anti-dilutive (in thousands):
+Year ended Year ended Year ended
+February 29, February 28, February 28,
+: 2016 : : 2015 : : 2014 :
+Number of shares considered anti-dilutive for calculating diluted EPS . . a 121 360
+109

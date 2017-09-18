@@ -1,0 +1,57 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+Revenues from contracts for non-technology integration consulting services with fees based on time and materials
+or cost-plus are recognized as the services are performed and amounts are earned. The Company considers amounts
+to be earned once evidence of an arrangement has been obtained, services are delivered, fees are ﬁxed or determinable,
+and collectibility is reasonably assured. In such contracts, the Company’s efforts, measured by time incurred, typically
+are provided in less than a year and represent the contractual milestones or output measure, which is the contractual
+earnings pattern. For non-technology integration consulting contracts with fixed fees, the Company recognizes
+revenues as amounts become billable in accordance with contract terms, provided the billable amounts are not
+contingent, are consistent with the services delivered and are earned. Contingent or incentive revenues relating to
+non-technology integration consulting contracts are recognized when the contingency is satisfied and the Company
+concludes the amounts are earned.
+Outsourcing contracts typically span several years and involve complex delivery, often through multiple workforces
+in different countries. In a number of these arrangements, the Company hires client employees and becomes
+responsible for certain client obligations. Revenues are recognized on outsourcing contracts as amounts become
+billable in accordance with contract terms, unless the amounts are billed in advance of performance of services, in
+which case revenues are recognized when the services are performed and amounts are earned. Revenues from time-
+and-materials or cost-plus contracts are recognized as the services are performed. In such contracts, the Company’s
+effort, measured by time incurred, represents the contractual milestones or output measure, which is the contractual
+earnings pattern. Revenues from unit-priced contracts are recognized as transactions are processed based on objective
+measures of output. Revenues from ﬁxed-price contracts are recognized on a straight-line basis, unless revenues are
+earned and obligations are fulfilled in a different pattern. Outsourcing contracts can also include incentive payments
+for benefits delivered to clients. Revenues relating to such incentive payments are recorded when the contingency is
+satisfied and the Company concludes the amounts are earned.
+Costs related to delivering outsourcing services are expensed as incurred with the exception of certain transition
+costs related to the set-up of processes, personnel and systems, which are deferred during the transition period and
+expensed evenly over the period outsourcing services are provided. The deferred costs are specific internal costs or
+incremental external costs directly related to transition or set-up activities necessary to enable the outsourced services.
+Generally, deferred amounts are protected in the event of early termination of the contract and are monitored regularly
+for impairment. Impairment losses are recorded when projected remaining undiscounted operating cash ﬂows of the
+related contract are not sufficient to recover the carrying amount of contract assets. Deferred transition costs were
+$709,444 and $630,420 as of August 31, 2016 and 2015, respectively, and are included in Deferred contract costs.
+Amounts billable to the client for transition or set-up activities are deferred and recognized as revenue evenly over the
+period outsourcing services are provided. Deferred transition revenues were $604,674 and $522,968 as of August 31,
+2016 and 2015, respectively, and are included in non-current Deferred revenues. Contract acquisition and origination
+costs are expensed as incurred.
+The Company enters into contracts that may consist of multiple deliverables. These contracts may include any
+combination of technology integration consulting services, non-technology integration consulting services or
+outsourcing services described above. Revenues for contracts with multiple deliverables are allocated based on the
+lesser ofthe element’s relative selling price orthe amount that is not contingent on future delivery of another deliverable.
+The selling price ofeach deliverable is determined by obtaining third party evidence of the selling price forthe deliverable
+and is based on the price charged when largely similar services are sold on a standalone basis by the Company to
+similarly situated customers. If the amount of non-contingent revenues allocated to a deliverable accounted for under
+the percentage-of—completion method of accounting is less than the costs to deliver such services, then such costs
+are deferred and recognized in future periods when the revenues become non-contingent. Revenues are recognized
+in accordance with the Company’s accounting policies for the separate deliverables when the services have value on
+a stand-alone basis, selling price of the separate deliverables exists and, in arrangements that include a general right
+of refund relative to the completed deliverable, performance of the in-process deliverable is considered probable and
+substantially in the Company’s control. While determining fair value and identifying separate deliverables require
+judgment, generally fair value and the separate deliverables are readily identiﬁable as the Company also sells those
+deliverables unaccompanied by other deliverables.
+Revenues recognized in excess of billings are recorded as Unbilled services. Billings in excess of revenues
+recognized are recorded as Deferred revenues until revenue recognition criteria are met. Client prepayments (even if
+nonrefundable) are deferred and recognized over future periods as services are delivered or performed.
+F- 11

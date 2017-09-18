@@ -1,0 +1,47 @@
+A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (35%
+in 2016, 2015 and 2014) to income before provision for income taxes for 2016, 2015 and 2014, is as follows (dollars in millions):
+2016 2015 2014
+Computed expected tax ’8 21,480 ’ ’8 25,380 ’ ’8 18,719 ’
+State taxes, net of federal effect 553 680 469
+Indefinitely invested earnings of foreign subsidiaries (5,582) (6,470) (4,744)
+Domestic production activities deduction (382) (426) (495)
+Research and development credit, net (371) (171) (88)
+Other (13) 128 112
+Provision for income taxes :$ 15,685 :$ 19,121 :$ 13,973
+I Effective tax rate L 25.6%: L 26.4%: L 26.1%:
+The Company’s income taxes payable have been reduced by the tax benefits from employee stock plan awards. For RSUs, the
+Company receives an income tax benefit upon the award’s vesting equal to the tax effect of the underlying stock’s fair market value.
+The Company had net excess tax benefits from equity awards of $379 million, $748 million and $706 million in 2016, 2015 and 2014,
+respectively, which were reflected as increases to common stock.
+As of September 24, 2016 and September 26, 2015, the significant components of the Company’s deferred tax assets and liabilities
+were (in millions):
+2016 2015
+Deferred tax assets:
+I Accrued liabilities and other reserves $ 4,135 $ 4,205 I
+Basis of capital assets 2,107 2,238
+I Deferred revenue 1,717 1,941
+Deferred cost sharing 667 667
+Share-based compensation 601 575
+Unrealized losses — 564
+' Other 788 721
+Total deferred tax assets, net of valuation allowance of $0 7 10,0157 7 10,911 7
+Deferred tax liabilities: 7 7 7 7
+Unremitted earnings of foreign subsidiaries 31,436 26,868
+' Other 485 303
+Total deferred tax liabilities * 31,921 i * 27,171 *
+Net deferred tax liabilities :8 (21 ,906): :8 (16,260):
+Deferred tax assets and liabilities reflect the effects of tax losses, credits and the future income tax effects of temporary differences
+between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases and
+are measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected
+to be recovered or settled.
+Uncertain Tax Positions
+Tax positions are evaluated in a two-step process. The Company first determines whether it is more likely than not that a tax position
+will be sustained upon examination. If a tax position meets the more-likely-than-not recognition threshold it is then measured to
+determine the amount of benefit to recognize in the financial statements. The tax position is measured as the largest amount of
+benefit that is greaterthan 50% likely of being realized upon ultimate settlement.The Company classifies gross interest and penalties
+and unrecognized tax benefits that are not expected to result in payment or receipt of cash within one year as non-current liabilities
+in the Consolidated Balance Sheets.
+As of September 24, 2016, the total amount of gross unrecognized tax benefits was $7.7 billion, of which $2.8 billion, if recognized,
+would affect the Company’s effective tax rate. As of September 26, 2015, the total amount of gross unrecognized tax benefits was
+$6.9 billion, of which $2.5 billion, if recognized, would affect the Company’s effective tax rate.
+Apple Inc. | 2016 Form 10-K l 56

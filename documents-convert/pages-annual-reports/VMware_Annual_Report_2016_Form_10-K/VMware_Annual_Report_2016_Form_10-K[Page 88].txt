@@ -1,0 +1,45 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Awards under the 2007 Plan may be in the form of stock-based awards, such as restricted stock units, or stock options. VMware’s Compensation and
+Corporate Governance Committee determines the vesting schedule for all equity awards. Generally, restricted stock grants made under the 2007 Plan have a three -
+year to four -year period over which they vest and vest 25% the first year and semi-annually thereafter. The exercise price for a stock option awarded under the
+2007 Plan shall not be less than 100% of the fair market value of VMware Class A common stock on the date of grant. Most options granted under the 2007 Plan
+vest 25% after the first year and monthly thereafter over the following three years and expire between six and seven years from the date of grant. VMware utilizes
+both authorized and unissued shares to satisfy all shares issued under the 2007 Plan. At December 31, 2016 , there were an aggregate of 12.8 million shares of
+common stock available for issuance pursuant to future grants under the 2007 Plan.
+VMware Stock Repurchases
+During January 2017, VMware’s board of directors authorized the repurchase of up to $1,200 million of VMware’s Class A common stock through the end of
+ﬁscal 2018. Stock will be purchased from time to time, in the open market or through private transactions, subject to market conditions. The timing of any
+repurchases and the actual number of shares repurchased will depend on a variety of factors, including VMware’s stock price, cash requirements for operations and
+business combinations, corporate, legal and regulatory requirements and other market and economic conditions. VMware is not obligated to purchase any shares
+under its stock repurchase programs. Purchases can be discontinued at any time VMware believes additional purchases are not warranted. All shares repurchased
+under VMware’s stock repurchase programs are retired.
+On December 15, 2016, VMware entered into a stock purchase agreement with Dell to purchase $500 million of VMware Class A common stock. Through
+December 31, 2016, VMware had purchased 4.8 million shares for $375 million . On February 15, 2017, the stock purchase agreement with Dell was completed. A
+total of $500 million was paid in exchange for 6.2 million shares. The aggregate number of shares purchased was determined based upon the volume-weighted
+average priced during a deﬁned period, less an agreed upon discount. Refer to Note B for further information.
+During April 2016, VMware’s board of directors authorized the repurchase of up to an aggregate of $1,200 million of VMware’s Class A common stock
+through the end of 2016. The aggregate authorized stock repurchase amount of $1,200 million included the amount remaining from VMware’s previous stock
+repurchase authorization announced on January 27, 2015 of $835 million . All shares repurchased under VMware’s stock repurchase programs were retired. The
+cumulative authorized amount for stock repurchases was fully utilized during the fourth quarter of 20 16.
+Excluding the stock purchase agreement with Dell as described above, the following table summarizes stock repurchase authorizations, which were open or
+completed during the years ended December 31, 2016 , 2015 , and 2014 (amount in table in millions):
+Authorization Date Amount Authorized Expiration Date Status
+I April 18, 2016 $1,200 December 31, 2016 Completed in 2016 l
+January 27, 2015 1,000 December 31, 2017 Completed in 2016
+I August 6, 2014 1,000 December 31, 2016 Completed in 2015 ‘
+August 7, 2013 700 December 31, 2015 Completed in 2014
+The following table summarizes stock repurchase activity, including shares purchased from Dell, during the years ended December 31, 2016 , 2015 , and 2014
+(aggregate purchase price in millions, shares in thousands):
+For the Year Ended December 31,
+2016 2015 2014
+’Aggregate purchase price $ 1,575 $ 1,125 $ 700 ‘
+Class A common shares repurchased 21,281 13,495 7,642
+lWeighted-average price per share $ 73.99 $ 83.36 $ 91.61 ‘
+The aggregate purchase price of repurchased shares includes commissions and is classified as a reduction to additional paid-in capital.
+VMware Restricted Stock
+VMware’s restricted stock primarily consists of restricted stock unit (“RSU”) awards granted to employees. The value of RSU grants is based on VMware’s
+stock price on the date of grant. The shares underlying the RSU awards are not issued until the RSUs vest. Upon vesting, each RSU converts into one share of
+VMware Class A common stock.
+85

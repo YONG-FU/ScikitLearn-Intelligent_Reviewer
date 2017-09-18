@@ -1,0 +1,46 @@
+Exhibit No: Description of Exhibits
+10.4+* Senior Management Change in Control Severance Policy (incorporated by reference to Exhibit
+10.14 to the registrant’s Annual Report on Form 10-K filed with the SEC on April 25 , 2012
+(File no. 001-33162))
+10.5+* Executive Variable Compensation Plan (incorporated by reference to Exhibit 10.15 to the
+registrant’s Annual Report on Form 10-K filed with the SEC on April 25, 2013 (File no.
+001-33 162))
+10.6+* Executive Employment Agreement, dated December 19, 2007, between Red Hat, Inc. and James
+M. Whitehurst (incorporated by reference to Exhibit 10.18 to the registrant’s Annual Report on
+Form 10-K filed with the SEC on April 25, 2013 (File no. 001-33162))
+10.7+* Form of Director Deferred Stock Unit Agreement (Vested) adopted June 19, 2008 (incorporated
+by reference to Exhibit 10.12 to the registrant’s Annual Report on Form 10-K filed with the
+SEC on April 24, 2014 (File no. 001-33162))
+10.8+* Form of Director Deferred Stock Unit Agreement (With Vesting) adopted June 19, 2008
+(incorporated by reference to Exhibit 10.13 to the registrant’s Annual Report on Form 10-K
+filed with the SEC on April 24, 2014 (File no. 001-33162))
+10.9+* Form of Director Restricted Stock Agreement adopted June 19, 2008 (incorporated by reference to
+Exhibit 10.14 to the registrant’s Annual Report on Form 10-K filed with the SEC on April 24,
+2014 (File no. 001-33162))
+1010+"< Senior Management Severance Plan (incorporated by reference to Exhibit 10.15 to the registrant’s
+Annual Report on Form 10-K filed with the SEC on April 24, 2014 (File no. 001-33162))
+1011+"< Form of Executive Agreement by and between Red Hat, Inc. and each participant in the
+registrant’s Senior Management Severance Plan (incorporated by reference to Exhibit 10.16 to
+the registrant’s Annual Report on Form 10-K filed with the SEC on April 24, 2014 (File no.
+001-33 162))
+10.12+>‘< Letter Agreement dated December 23, 2008 between Red Hat, Inc. and James M. Whitehurst
+amending the Executive Employment Agreement between the parties dated December 19, 2007
+(incorporated by reference to Exhibit 10.17 to the registrant’s Annual Report on Form 10-K
+filed with the SEC on April 24, 2014 (File no. 001-33162))
+1013+"< Employee Inventions Assignment and Restrictive Obligations Agreement dated January 1, 2008
+between Red Hat, Inc. and James M. Whitehurst (incorporated by reference to Exhibit 10.18 to
+the registrant’s Annual Report on Form 10-K filed with the SEC on April 24, 2014 (File no.
+001-33 162))
+1014+"< Clawback Policy of Red Hat, Inc. adopted May 13, 2009 (incorporated by reference to Exhibit
+10.16 to the registrant’s Annual Report on Form 10-K filed with the SEC on April 28, 2015
+(File no. 001-33162))
+1015+"< Red Hat, Inc. Stock Ownership Policy for Directors and Senior Executives, amended and restated
+as of March 21, 2011 (incorporated by reference to Exhibit 99.1 to the registrant’s Current
+Report on Form 8-K filed with the SEC on March 25 , 2011 (File no. 001-33162))
+1016+"< Form of Performance Restricted Stock Agreement adopted May 19, 2010 (incorporated by
+reference to Exhibit 99.4 to the registrant’s Current Report on Form 8-K filed with the SEC on
+May 25, 2010 (File no. 001-33162))
+1017+"< Form of Restricted Stock Unit Agreement (N on-Executive Participants) adopted August 11, 2010
+(incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q
+filed with the SEC on October 8, 2010 (File no. 001-33162))
+1 19

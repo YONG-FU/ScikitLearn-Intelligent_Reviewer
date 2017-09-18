@@ -1,0 +1,41 @@
+The following table presents the aggregate maturities of investments in debt securities classified as available for sale as of
+December 31, 2016:
+Due Fair Value
+Oneyearorless $3,254
+Onetotwoyears 25
+Other-than-temporary declines and impairments in the values of these investments recognized in 0|&E were not material in 2016,
+2015 and 2014.
+Fair- value considerations ’5
+0
+We measure and report certain financial assets and liabilities at fair value on a recurring basis. Fair value is defined as the price "
+that would be received to sell an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for E
+the asset or liability in an orderly transaction between market participants on the measurement date. 2
+The three-level hierarchy discussed below indicates the extent and level ofjudgment used to estimate fair-value measurements.
+0 Level 1— Uses unadjusted quoted prices that are available in active markets for identical assets or liabilities as of the
+reporting date.
+0 Level 2— Uses inputs other than Level 1 that are either directly or indirectly observable as of the reporting date through
+correlation with market data, including quoted prices for similar assets and liabilities in active markets and quoted prices
+in markets that are not active. Level 2 also includes assets and liabilities that are valued using models or other pricing
+methodologies that do not require significant judgment since the input assumptions used in the models, such as interest
+rates and volatility factors, are corroborated by readily observable data. We utilize a third-party data service to provide
+Level 2 valuations. We verify these valuations for reasonableness relative to unadjusted quotes obtained from brokers or
+dealers based on observable prices for similar assets in active markets.
+0 Level 3— Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant
+management judgment. These values are generally determined using pricing models that utilize management estimates
+of market participant assumptions. As of December 31, 2016 and 2015, we had no Level 3 assets or liabilities, other than ‘
+certain assets held by our postretirement plans.
+The following are our assets and liabilities that were accounted for at fair value on a recurring basis. These tables do not include
+cash on hand, assets held by our postretirement plans, or assets and liabilities that are measured at historical cost or any basis
+other than fair value.
+December 31 , 2016 December 31, 2015
+Level 1 Level 2 Total Level 1 Level 2 Total
+Assets:
+Moneymarketfunds $ 346 $ — $ 346 $ 395 $ — $ 395
+Corporateobligations.............................. — 651 651 — 417 417
+US. government agency and Treasury securities . . . . . . . . . 2,042 240 2,282 1,828 350 2,178
+Mutualfunds.................................... 201 — 201 187 — 187
+Totalassets....................................... $2,589 $891 $3,480 $2,410 $767 $3,177
+Liabilities:
+Deferredcompensation $ 218 $ — $ 218 $198 $ — $198
+Totalliabilities $ 218 $ — $ 218 $198 $ — $198
+TEXAS INSTRUMENTS - 2016 FORM 10-K 47

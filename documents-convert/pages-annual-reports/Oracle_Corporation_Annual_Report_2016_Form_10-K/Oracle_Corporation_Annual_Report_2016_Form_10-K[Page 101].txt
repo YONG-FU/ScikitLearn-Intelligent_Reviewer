@@ -1,0 +1,37 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Allowances for Doubtful Accounts
+We record allowances for doubtful accounts based upon a speciﬁc review of all signiﬁcant outstanding invoices. For those invoices not speciﬁcally reviewed,
+provisions are provided at differing rates, based upon the age of the receivable, the collection history associated with the geographic region that the receivable was
+recorded in and current economic trends. We write-off a receivable and charge it against its recorded allowance when we have exhausted our collection efforts
+without success.
+Concentrations of Risk
+Financial instruments that are potentially subject to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities, derivatives
+and trade receivables. Our cash and cash equivalents are generally held with large, diverse financial institutions worldwide to reduce the amount of exposure to any
+single ﬁnancial institution. Investment policies have been implemented that limit purchases of marketable debt securities to investment-grade securities. Our
+derivative contracts are transacted with various ﬁnancial institutions with high credit standings. We generally do not require collateral to secure accounts
+receivable. The risk with reSpect to trade receivables is mitigated by credit evaluations we perform on our customers, the short duration of our payment terms for
+the signiﬁcant majority of our customer contracts and by the diversification of our customer base. No single customer accounted for 10% or more of our total
+revenues in ﬁscal 2016, 2015 or 2014.
+We outsource the design, manufacturing, assembly and delivery of certain of our hardware products to a variety of companies, many of which are located outside
+the United States. Further, we have simplified our supply chain processes by reducing the number of third-party manufacturing partners and the number of
+locations where these third-party manufacturers build our hardware products. Any inability of these third-party manufacturing partners to fulfill orders for our
+hardware products could adversely impact future operating results of our hardware business.
+Inventories
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost, which approximates actual cost, on a ﬁrst-in, ﬁrst-out basis.
+We evaluate our ending inventories for estimated excess quantities and obsolescence. This evaluation includes analysis of sales levels by product and projections of
+future demand within specific time horizons (generally six to nine months). Inventories in excess of future demand are written down and charged to hardware
+products expenses. In addition, we assess the impact of changing technology to our inventories and we write down inventories that are considered obsolete. At the
+point of loss recognition, a new, lower-cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration
+or increase in that newly established cost basis.
+Other Receivables
+Other receivables represent value-added tax and sales tax receivables associated with the sale of our products and services to third parties. Other receivables are
+included in prepaid expenses and other current assets in our consolidated balance sheets and totaled $816 million and $817 million at May 31, 2016 and 2015,
+respectively.
+Deferred Sales Commissions
+We defer sales commission expenses associated with our cloud SaaS, PaaS and IaaS offerings, and recognize the related expenses over the non-cancelable term of
+the related contracts, which are typically one to three years. Amortization of deferred sales commissions is included as a component of sales and marketing
+expenses in our consolidated statements of operations.
+99

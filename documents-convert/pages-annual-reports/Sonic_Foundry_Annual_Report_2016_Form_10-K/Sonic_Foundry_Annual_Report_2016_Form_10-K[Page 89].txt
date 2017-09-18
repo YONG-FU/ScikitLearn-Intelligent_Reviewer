@@ -1,0 +1,52 @@
+Sonic Foundry, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Years Ended
+September 30,
+2016 :: 2015
+Operating activities
+Net loss 53 (3,317) $ (4,525)
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+Amortization of other intangibles 652 669
+Depreciation and amortization of property and equipment 1,553 1,599
+Loss on sale of ﬁxed assets 72 —
+Provision for doubtful accounts 75 57
+Deferred taxes 341 53
+Stock-based compensation expense related to stock options and warrants 861 963
+Remeasurement gain on subordinated debt (3) (202)
+Remeasurement gain on derivative liability (58) (11)
+Changes in operating assets and liabilities:
+Accounts receivable 1,341 (4,379)
+Inventories 5 14 (344)
+Prepaid expenses and other current assets (532) 169
+Accounts payable and accrued liabilities (966) 111
+Other long-term liabilities (60) (86)
+Unearned revenue 1,243 2,800
+Net cash provided by (used in) operating activities 7 1,716 7 7 (3,126)
+Investing activities
+Purchases of property and equipment (339) (722)
+Net cash used in investing activities 7 (339) 7 (722)
+Financing activities
+Proceeds from notes payable 500 2,336
+Proceeds from line of credit 17,845 8,535
+Payments on notes payable (1,693) (2,894)
+Payments on line of credit (17,958) (6,727)
+Payment of debt issuance costs (36) (122)
+Proceeds from issuance of common stock and warrants 66 710
+Proceeds from exercise of common stock options — 41
+Payments on capital lease and ﬁnancing arrangements (278) (252)
+Net cash provided by (used in) ﬁnancing activities 7 (1,554) 7 1,627 7
+Changes in cash and cash equivalents due to changes in foreign currency 7 (5) 7 (147)
+Net decrease in cash and cash equivalents 7 (182) 7 (2,368)
+Cash and cash equivalents at beginning of period 7 1,976 7 7 4,344 7
+Cash and cash equivalents at end of period 1,794 7 1,976 7
+Supplemental cash ﬂow information:
+Interest paid 53 529 $ 424
+Income taxes paid, foreign 27 31
+Non-cash ﬁnancing and investing activities:
+Property and equipment ﬁnanced by capital lease or accounts payable 402 292
+Debt discount 16 179
+Stock issued for board of director's fees 164 —
+Warrants issued for investor relations services 14 —
+See accompanying notes to the consolidated ﬁnancial statements.
+49

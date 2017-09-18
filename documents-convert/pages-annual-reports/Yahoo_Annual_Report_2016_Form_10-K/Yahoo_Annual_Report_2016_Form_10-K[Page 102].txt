@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+Yahoo! Inc.
+Notes to Consolidated Financial Statements
+Note 1 The Company and Summary of Significant Accounting Polimes
+The Company. Yahoo! Inc., together with its consolidated subsidiaries (“Yahoo” or the “Company”), is a guide to digital information discovery, focused on
+informing, connecting, and entertaining users through its search, communications, and digital content products. By creating highly personalized experiences, the
+Company helps users discover the information that matters most to them around the world—on mobile or desktop. The Company creates value for advertisers
+with a streamlined, simple advertising technology that leverages Yahoo’s data, content, and technology to connect advertisers with their target audiences.
+Advertisers can build their businesses through advertising to targeted audiences on the Company’s online properties and services (“Yahoo Properties”) and a
+distribution network of third party entities (“Afﬁliates”) who integrate the Company’s advertising offerings into their websites or other offerings (“Afﬁliate sites”).
+The Company’s revenue is generated principally from search and display advertising. The Company manages and measures its business geographically,
+principally in the Americas, EMEA (Europe, Middle East, and Africa) and Asia Paciﬁc.
+Basis of Presentation. The consolidated ﬁnancial statements include the accounts of Yahoo! Inc. and its majority-owned or othen/vise controlled subsidiaries.
+All intercompany accounts and transactions have been eliminated. Investments in entities in which the Company can exercise significant inﬂuence, but does not
+own a majority equity interest or othenNise control, are accounted for using the equity method and are included as investments in equity interests on the
+consolidated balance sheets. The Company has included the results of operations of acquired companies from the date of the acquisition.
+The preparation of consolidated ﬁnancial statements in conformity with generally accepted accounting principles (“GAAP”) in the United States (“US”) requires
+management to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses and the related
+disclosure of contingent assets and liabilities. On an ongoing basis, the Company evaluates its estimates, including those related to revenue, the useful lives of
+long-lived assets including property and equipment and intangible assets, investment fair values, originally developed content, acquired content, stock-based
+compensation, goodwill, income taxes, contingencies, and restructuring charges. The Company bases its estimates of the carrying value of certain assets and
+liabilities on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, when these carrying values are
+not readily available from other sources. Actual results may differ from these estimates.
+Concentration of Risk. Financial instruments that potentially subject the Company to significant concentration of credit and equity price risk consist primarily
+of cash equivalents, marketable securities (including Alibaba Group Holding Limited (“Alibaba Group”) and Hortonworks, lnc. (“Hortonworks”) equity securities,
+as well as our portfolio of marketable debt securities), accounts receivable, and derivative financial instruments. The primary focus of the Company’s investment
+strategy is to preserve capital and meet liquidity requirements. A large portion of the Company’s cash and cash equivalents and short-term and long-term
+investments is managed by external managers within the guidelines of the Company’s investment policy. The Company’s investment policy addresses the level
+of credit exposure by limiting the concentration in any one corporate issuer or sector and establishing a minimum allowable credit rating. To manage the risk
+exposure, the Company maintains its portfolio of cash and cash equivalents and short-term and long-term investments in marketable securities, including US.
+and foreign government, agency, municipal and highly rated corporate debt obligations and money market funds.
+101

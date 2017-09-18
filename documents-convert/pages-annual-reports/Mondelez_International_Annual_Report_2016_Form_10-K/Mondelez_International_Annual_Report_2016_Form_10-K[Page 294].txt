@@ -1,0 +1,25 @@
+“ Base Rate Loan ” means a Loan that bears interest as provided in Section 2.04(a)(i).
+“ Board,” means the Board of Governors of the Federal Reserve System of the United States (or any successor).
+“ Borrower Agent” means agents of Mondeléz or the Borrower acting in capacity with, or benefitting from, this Agreement or the proceeds of any
+Loan.
+“ Borrower ” has the meaning specified in the preamble hereto.
+“ Borrowing” means a group of Three-Year Loans or Five-Year Loans, as the case may be, of the same Type, made, converted or continued on the
+same date and, in the case of Eurodollar Loans, as to which a single Interest Period is in effect.
+“ B,usiness,Day:” means a day of the year on which banks are not required or authorized by law to close in New York City and, if the applicable
+Business Day relates to any LIBO Rate Loans, on which dealings are carried on in the London interbank market and banks are open for business in London.
+“ Commission,” means the United States Securities and Exchange Commission.
+“ Commitment ” means as to any Lender, such Lender’s Three-Year Loan Commitment and such Lender’s F ive-Year Loan Commitment (or any
+combination thereof, as the context may require).
+“ CommitmenLEees,” has the meaning specified in Section 2.09(a).
+“ Consolidated Tangible Assets ” means the total assets appearing on a consolidated balance sheet of Mondeléz and its Subsidiaries, less goodwill and
+other intangible assets and the minority interests of other Persons in such Subsidiaries, all as determined in accordance with GAAP.
+“ Convert ,” “ Conversion ” and “ Converted ” each refers to a conversion of Loans of one Type into Loans of the other Type pursuant to Section 2.06,
+2.08 or 2.13.
+“ Co-Syndication Agents ” means Bank of America, NA, The Bank of Tokyo-Mitsubishi UFJ, Ltd, Credit Suisse Securities (USA) LLC, Goldman
+Sachs Bank USA, HSBC Securities (USA) Inc. and Mizuho Bank, Ltd.
+“ Debt,” means (i) indebtedness for borrowed money or for the deferred purchase price of property or services, whether or not evidenced by bonds,
+debentures, notes or similar instruments, (ii) obligations as lessee under leases that, in accordance with accounting principles generally accepted in the United
+States, are recorded as capital leases, and (iii) obligations under direct or indirect guaranties in respect of, and obligations (contingent or otherwise) to purchase or
+otherwise acquire, or otherwise to assure a creditor against loss in respect of, indebtedness or obligations of any other Person of the kinds referred to in clause (i) or
+(ii) above.
+-4-

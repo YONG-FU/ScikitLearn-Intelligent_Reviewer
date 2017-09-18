@@ -1,0 +1,43 @@
+PART I
+Item 1. Business
+Zix Corporation (“Zix®,” the “Company,” “we,” “our,” or “us”) offers email encryption, data loss prevention (“DLP”) and Bring-Your—Own-Device
+(“BYOD”) security to meet business data protection and compliance needs. We primarily serve organizations in the healthcare, ﬁnancial services, insurance
+and government sectors, including signiﬁcant federal ﬁnancial regulators, such as all members of the Federal Financial Institutions Examination Council
+(“FFIEC”), divisions of the U.S. Treasury, the US. Securities and Exchange Commission (“SEC”), 30 percent of US. banks, more than 30 Blue Cross Blue
+Shield organizations and more than 1,200 US. hospitals.
+Zix® Email Encryption enables the secure exchange of emails that include sensitive information through a comprehensive secure messaging service,
+which allows an enterprise to use policy-driven rules to determine which email messages should be sent securely to comply with regulations or company-
+deﬁned policies.
+The main differentiator for Zix Email Encryption in the marketplace is its exceptional ease of use. The best example of this is its ability to provide
+transparent delivery of encrypted email. Most email encryption solutions are focused on the sender. They typically introduce an added burden on recipients,
+often requiring additional steps and passwords. We designed our solution to alleviate the recipient’s burden by enabling the delivery of encrypted email
+automatically and transparently. Zix enables transparent delivery through (1) ZixDirectorjy®, the world’s largest email encryption community, which is
+designed to share identities of our tens of millions of members (growing by approximately 170,000 members per week), (2) Zix’s patented Best Method of
+Delivery®, which is designed to deliver email in the most secure, most convenient method possible for the recipient, and (3) ZixGateway®, which
+automatically encrypts and decrypts messages with sensitive content. The result is the industry’s most advanced transparent encrypted email, such that secure
+email can be exchanged without extra steps or passwords for both senders and receivers. Zix delivers more than 1.5 million encrypted messages on a typical
+business day. On average, 70% of those encrypted messages are exchanged transparently between senders and recipients.
+Zix launched ZixQuarantineSM, formerly ZixDLP®, an email—speciﬁc solution in early 2013. By focusing strictly on email, ZixQuarantine addresses
+business’s greatest source of data loss — corporate email. The straightforward DLP approach decreases the complexity and cost often associated with other
+DLP solutions. ZixQuarantine is also designed to reduce deployment time from months to hours and minimize impact on customer resources and workﬂow. In
+addition, ZixQuarantine offers a convenient experience for both employees interacting with the solution and administrators managing the system.
+Leveraging the company’s leadership and expertise in email encryption, ZixQuarantine uses Zix’s proven policy and content scanning capabilities
+with quarantine ﬁinctionality and an intuitive interface, which allow administrators to (1) easily deﬁne policies and create custom content ﬁlters for
+quarantining email messages, (2) conveniently manage quarantined messages using ﬂexible searching and ﬁltering options, (3) release or delete individual or
+multiple quarantined messages with one click, (4) review reports that monitor quarantine activities and trends and (5) automate custom notiﬁcations
+informing employees of quarantined messages.
+ZixQuarantine is available as an add-on for existing Zix customers or as a bundle with Zix Email Encryption for new customers. ZixQuarantine is also
+available as a standalone solution that can easily integrate with most email systems and email encryption solutions.
+In late 2013, Zix launched ZixOne®, a unique mobile email app that solves the key IT challenge created by the BYOD trend in the workplace. BYOD
+describes the increasing trend of employees using their personal devices to conduct work. ZixOne provides access to corporate email while never allowing
+that data to be persistently stored on the device where it is vulnerable to loss or theft. If the device is lost or stolen, an administrator can simply disable access
+to corporate email from that device through ZixOne.
+Unlike other BYOD solutions, ZixOne meets employee demands of convenience, control and privacy while giving companies the ability to secure
+corporate data and meet compliance needs. With seamless access to work email in a secure, simple-to-use environment, employees can stay productive while
+preserving device independence. ABYOD solution that is acceptable to employees and yet provides strong data protection for corporate data solves one of
+today’s greatest IT management challenges.
+Our business operations and service offerings are supported by the ZixData CenterTM, a SOC3 certiﬁed, SOC2 accredited, PCI DSS V3 .2 certiﬁed
+facility. The operations of the ZixData Center are independently audited annually to maintain AICPA SOC3 certiﬁcation in the areas of security,
+conﬁdentiality, integrity and availability. Auditors also produce a SOC2 report on the effectiveness of operational controls used over the audit period. The
+ZixData Center is staffed 24 hours a day with a track record that exceeds 99.99% availability.
+3

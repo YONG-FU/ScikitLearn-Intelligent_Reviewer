@@ -1,0 +1,40 @@
+extent lawful on any interest not paid on such unpaid principal, in each case at the rate provided in the Notes and in Section 4.01 hereof.
+Section 3.06 Notes Redeemed or Purchased in Part.
+Upon surrender of a Note that is redeemed or purchased in part, the Issuers will issue and, upon receipt of an Authentication Order, the Trustee will
+authenticate for the Holder at the expense of the Issuers a new Note equal in principal amount to the unredeemed or unpurchased portion of the Note
+surrendered.
+Section 3.07 Optional Redemption.
+(a)
+(1) At any time prior to January 15, 2020, the Issuers may on any one or more occasions redeem up to 35% of the aggregate principal amount of
+the Notes (including any Additional Notes) issued under this Indenture at a redemption price of 105.250% of the principal amount with an amount not
+to exceed the net cash proceeds of one or more Equity Offerings, plus accrued and unpaid interest to, but excluding, the Redemption Date (subject to
+the right of Holders of record on the relevant record date to receive interest due on an Interest Payment Date that is on or prior to the Redemption Date);
+provided that:
+(i) at least 65% of the aggregate principal amount of Notes originally issued under this Indenture (excluding Notes held by TLLP and its
+Subsidiaries and excluding any Additional Notes) remains outstanding immediately after the occurrence of such redemption; and
+(ii) the redemption occurs Within 180 days of the date of the closing of such Equity Offering.
+(2) On or after January 15, 2021, the Issuers may redeem all or a part of the Notes at the redemption prices (expressed as percentages of principal
+amount) set forth below plus accrued and unpaid interest on the Notes redeemed, to, but excluding, the applicable Redemption Date, if redeemed
+during the twelve-month period beginning on January 15 of each year indicated below, subject to the rights of Holders of Notes on the relevant record
+date to receive interest on the relevant Interest Payment Date:
+Year Percentage
+2021 102 .625 %
+2022 101 .3 13 %
+2023 and thereafter 100.000 %
+(3) At any time prior to January 15, 2021, the Issuers may also redeem all or a part of the Notes at a redemption price equal to 100% of the
+principal amount of Notes redeemed plus the Applicable Premium as of, and accrued and unpaid interest thereon to, but excluding, the redemption date
+(the "RedemptionDate"), subject to the rights of Holders of Notes on the relevant record date to receive interest due on the relevant Interest Payment
+Date. The notice need not set forth the Applicable Premium but only the manner of calculation of the redemption price. With respect to any redemption
+pursuant to this Section 3 .07(a)(3), the Issuers shall notify the Trustee of the Applicable Premium with respect to the Notes promptly after the
+calculation thereof and the Trustee shall not be responsible for such calculation.
+(b) Any redemption pursuant to this Section 3.07 shall be made pursuant to the provisions of Sections 3.01 through 3.06 hereof.
+(0) Unless the Issuers default in the payment of the redemption price, interest will cease to accrue on the Notes or portions thereof called for redemption
+on the applicable Redemption Date.
+Section 3.08 Mandatory Redemption.
+Neither of the Issuers is required to make mandatory redemption or sinking fund payments with respect to the Notes.
+The Issuers are not prohibited from acquiring the Notes by means other than a redemption, whether pursuant to a tender offer, open market purchase or
+otherwise, so long as the acquisition does not violate the terms of this Indenture.
+Section 3.09 Offer to Purchase by Application of Excess Proceeds.
+In the event that, pursuant to Section £1.10, hereof, the Issuers are required to commence an offer to all Holders to purchase Notes (an “Asse,t,SalenOffer”),
+it will follow the procedures speciﬁed below.
+-28-

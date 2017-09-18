@@ -1,0 +1,40 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Reorganization Items.
+The components of our reorganization items were as follows (in thousands):
+l Successor Company _ _ Predecessor Company 1
+Year Ended Six Months Ended Six Months Ended Year Ended
+1 December 31, 2016 _ December 31,2015 _ _ June 30,2015 _ December 31,2014 1
+Gain on settlement of liabilities
+subject to compromise $ — $ — $ 1,775,787 $ —
+Net gain on fresh start fair value
+adjustments — — 261,772 —
+Reorganization-related professional
+fees and other costs (803) _ 1,467 _ _ (80,685) _ (71,601)
+I Total reorganization items 55 (803) _ $ 1,467 _ _ $ 1,956,874 _ $ (71,601)!
+4. Impairment, Restructuring and Other Charges
+Long-Lived Asset Impairment.
+During 2016, we reviewed our Nextel Brazil segment for potential impairment. While we are focused on effectively managing our business in Brazil, we
+are also considering potential strategic alternatives with third parties. Taking into consideration the current macroeconomic conditions in Brazil, our history
+of operating losses and the available sources of capital to fund our business plan, we currently believe that the most likely outcome for the future of our
+business is the sale of Nextel Brazil. We compared the carrying value of Nextel Brazil's long-lived assets to our estimate of undiscounted future cash ﬂows.
+Our estimate of undiscounted future cash ﬂows was probability-weighted and took into consideration our ability to obtain capital necessary to ﬁnd our
+business plan. In addition, we assumed that the proceeds from any potential sale of Nextel Brazil would be signiﬁcantly less than its carrying value. Based on
+our estimates, we determined that the carrying value of our Nextel Brazil segment was not fully recoverable.
+As a result, we recorded a non—cash asset impairment charge of $1.34 billion to reduce the carrying values of Nextel Brazil's long-lived assets to their
+respective fair values. We estimated the fair value of our Nextel Brazil segment using a market approach. While we may ultimately complete a sale with a
+third party that is valued at more or less than our current market value, we estimated the fair value of our equity based on our market capitalization and
+combined it with the fair value of our outstanding debt obligations to determine the impairment charge. See Note 8 for more information on our estimate of
+the fair value of our debt obligations. We allocated the non-cash asset impairment charge ﬁrst to reduce the $36.8 million carrying value of our trademark
+intangible asset to zero, and the remainder between property, plant and equipment and spectrum licenses on a pro rata basis.
+0th er Asset Impairments.
+During 2016, Nextel Brazil recognized $11.0 million, in non-cash asset impairment charges primarily related to the abandonment of certain transmitter
+and receiver sites that are no longer required in its business.
+During the six months ended December 31, 2015 and the six months ended June 30, 2015, we recognized $12.6 million and $31.1 million in non-cash
+asset impairment charges, the majority of which related to the shutdown or abandonment of transmitter and receiver sites that are no longer required in Nextel
+Brazil's business, retail store closures related to the realignment of distribution channels in Brazil and the discontinuation of certain information technology
+projects in Brazil and at the corporate level.
+In 2014, we evaluated strategic options for the next generation of our push-to-talk services and determined that, for one of these options, further
+development was no longer probable. As a result, we recognized a $42.8 million asset impairment charge which was recognized at the corporate level.
+We also recognized a $6.4 million asset impairment charge at the corporate level related to the sale of our corporate aircraft in 2014.
+F—21

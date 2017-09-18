@@ -1,0 +1,55 @@
+New Accounting Pronouncements Not Yet Adopted
+In May 2014, the FASB updated its guidance related to the Revenue from Contracts with Customers Topic 606 of the
+ASC. The objective of this update (and other related following updates) is to improve the reporting of revenue by providing a
+more robust framework for addressing revenue issues, and improved disclosure requirements. Current revenue recognition
+guidance in US. GAAP is comprised of broad revenue recognition concepts together with numerous revenue requirements for
+particular industries or transactions, which sometimes result in different accounting for economically similar transactions. This
+guidance is to be applied retrospectively to annual and interim reporting periods beginning after December 15, 2017, with early
+adoption permitted as of the original effective date (annual and interim reporting periods beginning after December 15,
+2016). The Company will adopt this guidance during the first quarter of 20 1 8. Since premium revenue from insurance
+contracts is excluded from the scope of this updated guidance, adoption is expected to have little or no impact on the
+consolidated financial condition or operating results of the Company. The Company's largest non-premium revenue items are
+service charges related to the billing of the pool participants' direct written premiums to policyholders, and commission income
+on excess and surplus lines business marketed by EMC Underwriters, LLC, both of which are included in "Other income" in
+the consolidated statements of income.
+In January 2016, the FASB updated its guidance related to the Financial Instruments-Overall Subtopic 825-10 of the
+ASC. The objective of this update is to enhance the reporting model for financial instruments to provide financial statement
+users with more decision-useful information. The major change in reporting from this update that will impact the Company is a
+requirement that equity investments (excluding those accounted for under the equity method of accounting or those that are
+consolidated) be measured at fair value, with changes in fair value recognized in net income. While all of the Company's
+equity investments are already measured at fair value (with the exception of those that are consolidated and those that are
+accounted for under the equity method of accounting), the Company currently classifies all of its investments in equity
+securities as available-for—sale, and as such, the changes in fair value are currently recognized in other comprehensive income
+rather than net income. This guidance is to be applied to annual and interim reporting periods beginning after December 15,
+2017, with recognition of a cumulative-effect adjustment to the balance sheet as of the beginning of the fiscal year of
+adoption. Early adoption is not permitted. The Company will adopt this guidance during the first quarter of 20 1 8. Adoption is
+not expected to impact consolidated stockholders’ equity, but is expected to introduce a material amount of volatility to the
+Company's operating results.
+In February 2016, the FASB issued updated guidance in Leases Topic 842 of the ASC, which supersedes the guidance in
+Leases Topic 840 of the ASC. The objective of this update is to increase transparency and comparability among organizations
+by requiring recognition of lease assets and lease liabilities on the balance sheet, and disclosure of key information about
+leasing arrangements. This guidance is eﬁective for interim and annual periods beginning after December 15, 2018, and is to
+be applied using a modified retrospective approach. Early adoption is permitted. The Company will adopt this guidance
+during the first quarter of 2019. Management continues to research this guidance, which thus far has lead management to a
+preliminary determination that this update will not have a material impact to the Company's consolidated ﬁnancial condition or
+operating results.
+In June 2016, the FASB issued updated guidance in Financial Instruments-Credit Losses Topic 326 of the ASC. The
+objective of this update is to provide information about expected credit losses on financial instruments and other commitments
+to extend credit. Specifically, this updated guidance replaces the current incurred loss impairment methodology, which delays
+recognition of a loss until it is probable a loss has been incurred, with a methodology that reﬂects expected credit losses
+considering a broader range of reasonable and supportable information. This guidance covers financial assets that are not
+accounted for at fair value through net income, thus will not be applicable to the Company's equity investments upon
+implementation of the updated guidance described above for the Financial Instruments-Overall Subtopic 825-10. This
+guidance is effective for interim and annual periods beginning after December 15, 2019, and is to be applied with a cumulative-
+effect adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is eﬁective
+(modified-retrospective approach). Early adoption is permitted, but only to fiscal years beginning after December 15, 2018.
+The Company will adopt this guidance during the first quarter of 2020. The Company is currently evaluating the impact this
+guidance will have on the Company's consolidated financial condition and operating results.
+2. AFFILIATION AND TRANSACTIONS WITH AFFILIATES
+The operations of the Company are highly integrated with those of Employers Mutual through participation in a property
+and casualty reinsurance pooling agreement (the "pooling agreement"), a quota share retrocessional reinsurance agreement (the
+"quota share agreement") and inter-company reinsurance programs. All transactions occurring under the pooling agreement,
+quota share agreement and the inter-company reinsurance programs are based on statutory accounting principles. Certain
+adjustments are made to the statutory-basis amounts assumed by the property and casualty insurance subsidiaries and the
+reinsurance subsidiary to bring the amounts into compliance with GAAP.
+111

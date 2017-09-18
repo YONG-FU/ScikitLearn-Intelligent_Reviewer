@@ -1,0 +1,48 @@
+NOTE 21—EARNINGS PER SHARE
+Basic earnings per share are computed by dividing net income, attributable to OpenText, by the weighted average number
+of Common Shares outstanding during the period. Diluted earnings per share are computed by dividing net income, attributable
+to OpenText, by the shares used in the calculation of basic earnings per share plus the dilutive effect of Common Share
+equivalents, such as stock options, using the treasury stock method. Common Share equivalents are excluded from the
+computation of diluted earnings per share if their effect is anti-dilutive.
+7 Year Ended June 30, 7
+’ 2016 _ 2015 _ 2014 ’
+{Basie earnings per share ‘
+Net income attributable to OpenText $ 284,477 $ 234,327 $ 218,125
+[Basic earnings per share attributable to OpenText $ 2.34 $ 1.92 $ 1.82 l
+Diluted earnings per share
+{Net income attributable to OpenText 8 284,477 7 73; 234,327 7 73; 218,125 1
+Diluted earnings per share attributable to OpenText $ 2.33 $ 1.91 $ 1.81
+[Weighted-average number of shares outstanding |
+Basic 121,463 122,092 119,674
+[Effect of dilutive securities 575 865 902 l
+Diluted T 122,038 77 T 122,957 77 T 120,576,,
+{Excluded as anti-dilutive* * 2,729 i 3 1,859 i i 880 l
+* Represents options to purchase Common Shares excluded from the calculation of diluted earnings per share because the
+exercise price of the stock options was greater than or equal to the average price of the Common Shares during the period.
+NOTE 22—RELATED PARTY TRANSACTIONS
+Our procedure regarding the approval of any related party transaction requires that the material facts of such transaction
+be reviewed by the independent members of the Audit Committee and the transaction be approved by a majority of the
+independent members of the Audit Committee. The Audit Committee reviews all transactions in which we are, or will be, a
+participant and any related party has or will have a direct or indirect interest. In determining whether to approve a related party
+transaction, the Audit Committee generally takes into account, among other facts it deems appr0priate, whether the transaction
+is on terms no less favorable than terms generally available to an unaﬂiliated third party under the same or similar
+circumstances; the extent and nature of the related person’s interest in the transaction; the benefits to the Company of the
+proposed transaction; if applicable, the effects on a director’s independence; and if applicable, the availability of other sources
+of comparable services or products.
+During the year ended June 30, 2016, Mr. Stephen Sadler, a director, earned $0.8 million (June 30, 2015—$0.5 million,
+June 30, 2014—$0.7 million) in consulting fees from OpenText for assistance with acquisition-related business activities.
+Mr. Sadler abstained from voting on all transactions from which he would potentially derive consulting fees.
+NOTE 23—SUBSEQUEN T EVENTS
+Internal Reorganization
+In July 2016, we implemented a reorganization of our subsidiaries worldwide with the view to continuing to enhance
+operational and administrative eﬂiciencies through further consolidated ownership, management, and development of our
+intellectual property (IP) in Canada, continuing to reduce the number of entities in our group and working towards our
+objective of having a single operating legal entity in each jurisdiction. We believe our reorganization also reduces our exposure
+to global political and tax uncertainties, particularly in Europe. We believe that further consolidating our IP in Canada will
+continue to ensure appropriate legal protections for our consolidated IP, simplify legal, accounting and tax compliance, and
+improve our global cash management.
+A material tax benefit, currently expected to be several hundred million dollars, associated with the recognition of a net
+deferred tax asset is expected to be realized upon the completion of the IP reorganization in the first quarter of Fiscal 2017. This
+is anticipated to have a material impact of reducing our tax provision in Fiscal 2017 as well as our consolidated income tax rate
+in Fiscal 2017.
+150

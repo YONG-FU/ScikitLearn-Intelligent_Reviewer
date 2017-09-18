@@ -1,0 +1,45 @@
+Real estate and equity securities - These securities consist of direct investments in the stock of publicly traded companies.
+Such investments are valued based on the closing price reported in an active market on which the individual securities are
+traded. As such, the direct investments are classiﬁed as Level 1.
+Cash equivalents - Primarily certiﬁcates of deposit, commercial paper, and repurchase agreements.
+Exchange traded funds - Valued at the closing price of the exchange traded fund's shares.
+Hedge funds - Consists of direct investments in hedge funds through limited partnership interests. Net asset values are based
+on the estimated fair value of the ownership interest in the investment as determined by the General Partner. The majority of
+the holdings of the hedge funds are in equity securities traded on public exchanges. The investment terms of the hedge
+funds allow capital to be redeemed quarterly given prior notice with certain limitations. Hedge funds measured at fair value
+using the net asset value per share practical expedient have not been categorized in the fair value hierarchy and are being
+presented in the tables above to permit a reconciliation of the fair value hierarchy to the total plan assets.
+Money market funds - Money market funds measured at fair value using the net asset value per share practical expedient
+have not been categorized in the fair value hierarchy and are being presented in the tables above to permit a reconciliation of
+the fair value hierarchy to the total plan assets.
+Other - Primarily insurance contracts for international plans and also futures contracts and over-the-counter options. These
+investments are valued based on the closing prices of future contracts or indices as available on Bloomberg or similar
+service, and private equity investments.
+For additional information regarding fair value measurements, see Note 12.
+Deﬁned Contribution Plans
+The Company has various deﬁned contribution beneﬁt plans, primarily consisting of the plans in the United States. The
+total contributions related to these plans are charged to expense and were as follows:
+[2016 $ 72]
+2015 137
+[2014 141]
+Note 8. COMMITMENTS AND CONTINGENCIES
+Legal Contingencies
+Eaton is subject to a broad range of claims, administrative and legal proceedings such as lawsuits that relate to contractual
+allegations, tax audits, patent infringement, personal injuries, antitrust matters and employment-related matters. Eaton is also
+subject to asbestos claims from historic products which may have contained asbestos. Insurance may cover some of the costs
+associated with these claims. Although it is not possible to predict with certainty the outcome or cost of these matters, the
+Company believes they will not have a material adverse effect on the consolidated ﬁnancial statements. During the fourth
+quarter of 2016, the Company was able to resolve several insurance matters. In total, the income from insurance matters was
+$68.
+In December 2010, a Brazilian court held that a judgment obtained by a Brazilian company, Raysul, against another
+Brazilian company, Saturnia, which was sold by Eaton in 2006, could be enforced against Eaton Ltda. The judgment was based
+on an alleged violation of an agency agreement between Raysul and Saturnia. At March 3 l, 2016, the Company had a total
+accrual of 100 Brazilian Reais related to this matter ($31 based on June 2016 exchange rates). In June 2016, Eaton signed a
+settlement agreement and resolved the matter, which did not have a material impact on the consolidated ﬁnancial statements.
+On October 5, 2006, ZF Meritor LLC and Meritor Transmission Corporation (collectively, Meritor) ﬁled an action against
+Eaton in the United States District Court for Delaware. The action sought damages, which would have been trebled under
+United States antitrust laws, as well as injunctive relief and costs. The suit alleged that Eaton engaged in anti-competitive
+conduct against Meritor in the sale of heavy-duty truck transmissions in North America. On June 23, 2014, Eaton announced it
+signed a settlement agreement with Meritor in the amount of $500 that resolved the lawsuit and removed the uncertainty of a
+trial and appeal process. On July 16, 2014, Eaton paid Meritor the $500.
+38

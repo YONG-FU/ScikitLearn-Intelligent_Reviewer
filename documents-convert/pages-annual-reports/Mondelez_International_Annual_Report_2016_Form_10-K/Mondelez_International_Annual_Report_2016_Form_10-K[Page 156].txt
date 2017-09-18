@@ -1,0 +1,36 @@
+SECTION 306. Mutilated, Destroyed, Lost and Stolen Securities.
+If (i) any mutilated Security is surrendered to the Trustee for such Security or the Company and the Trustee for a Security receive evidence to their
+satisfaction of the destruction, loss or theft of any Security, and (ii) there is delivered to the Company and such Trustee such security or indemnity as may be
+required by them to save each of them and any agent of either of them harmless, then, in the absence of written notice to the Company or such Trustee that such
+Security has been acquired by a protected purchaser (as deﬁned in Article 8 of the New York Uniform Commercial Code), the Company shall execute and upon its
+written request such Trustee shall authenticate and deliver, in lieu of any such destroyed, lost or stolen Security or in exchange for such mutilated Security.
+In case any such mutilated, destroyed, lost or stolen Security has become or is about to become due and payable, the Company in its discretion may, instead
+of issuing a new Security, pay such Security (without surrender thereof except in the case of a mutilated Security) if the applicant for such payment shall furnish to
+the Company and the Trustee for such Security such security or indemnity as may be required by them to save each of them harmless, and in case of destruction,
+loss or theft, evidence satisfactory to the Company and such Trustee and any agent of either of them of the destruction, loss or theft of such Security and the
+ownership thereof
+Upon the issuance of any new Security under this Section, the Company may require the payment of a sum sufficient to cover any tax or other governmental
+charge that may be imposed in relation thereto and any other expenses (including all fees and expenses of the Trustee for such Security) connected therewith.
+Every new Security of any series issued pursuant to this Section in lieu of any destroyed, lost or stolen Security or in exchange for any mutilated Security
+shall constitute an original additional contractual obligation of the Company, whether or not the destroyed, lost or stolen Security shall be at any time enforceable
+by anyone, and each such new Security shall be at any time enforceable by anyone, and each such new Security shall be entitled to all the benefits of this Indenture
+equally and proportionately with any and all other Securities of the same series, duly issued hereunder.
+The provisions of this Section are exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the replacement or payment
+of mutilated, destroyed, lost or stolen Securities.
+SECTION 307. Payment of Interest; Interest Rights Preserved.
+Interest on any Registered Security which is payable, and is punctually paid or duly provided for, on any Interest Payment Date shall, if so provided in such
+Security, be paid to the Person in whose name that Security (or one or more Predecessor Securities) is registered at the close of business on the Regular Record Date
+for such interest payment.
+Unless otherwise provided with respect to the Securities of any series, payment of interest may be made at the option of the Company by check mailed or
+delivered to the address of the Person entitled thereto as such address shall appear in the Security Register or by transfer to an account maintained by the payee with
+a bank located inside the United States.
+Notwithstanding the foregoing, a Holder of $1,000,000 or more in aggregate principal amount of Securities of any series in definitive form, whether having
+identical or different terms and provisions, having the same Interest Payment Dates will, at the option of the Company, be entitled to receive interest payments,
+other than at Maturity, by wire transfer of immediately available funds if appr0priate wire transfer instructions have been received in writing by the Trustee for the
+Securities of such series at least 15 days prior to the applicable Interest Payment Date. Any wire instructions received by the Trustee for the Securities of such series
+shall remain in effect until revoked by the Holder.
+Unless otherwise provided or contemplated by Section 301, every permanent Global Security will provide that interest, if any, payable on any Interest
+Payment Date will be paid to each of Euroclear and Clearstream with respect to that portion of such permanent Global Security held for its account by the
+Depositary. Each of Euroclear and Clearstream will in such circumstances credit the interest received by it in respect of such permanent Global Security to the
+accounts of the beneficial owners thereof.
+1 8

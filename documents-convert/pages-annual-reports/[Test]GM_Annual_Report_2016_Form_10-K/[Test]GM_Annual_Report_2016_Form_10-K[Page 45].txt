@@ -1,0 +1,47 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+prevailing market interest rates. To help mitigate interest rate risk or mismatched funding, GM Financial may employ hedging strategies to lock in the
+interest rate spread.
+Fixed interest rate receivables purchased by GM Financial may be pledged to secure borrowings under its credit facilities. Amounts borrowed under these
+credit facilities bear interest at variable rates that are subject to frequent adjustments to reﬂect prevailing market interest rates. To protect the interest rate
+spread within each credit facility, GM Financial is contractually required to enter into interest rate cap agreements in connection with borrowings under its
+credit facilities.
+In GM Financial's securitization transactions it can transfer ﬁxed rate ﬁnance receivables to securitization trusts that, in turn, sell either ﬁxed rate or
+ﬂoating rate securities to investors. Derivative ﬁnancial instruments, such as interest rate swaps and caps, are used to manage the gross interest rate spread on
+the ﬂoating rate transactions.
+GM Financial had interest rate swaps and caps in asset positions with notional amounts of $22.7 billion and $10.4 billion and in liability positions with
+notional amounts of $29.5 billion and $13.9 billion at December 31, 2016 and 2015. The fair value of these derivative ﬁnancial instruments in asset
+positions was insigniﬁcant and in liability positions was $341 million and insigniﬁcant at December 31, 2016 and 2015.
+The following table summarizes GM Financial's interest rate sensitive assets and liabilities, excluding derivatives, by year of expected maturity and the fair
+value of those assets and liabilities at December 31, 2016:
+2017 2018 2019 2020 2021 Thereafter Fair Value
+Assets
+Retail finance receivables
+I Principal amounts $ 12,978 $ 9,169 $ 5,866 $ 3,189 $ 1,425 $ 559 $ 32,067 I
+Weighted-average annual percentage rate 8.26% 8.17% 8.10% 8.05% 8.28% 10.51%
+ICommercial ﬁnance receivables I
+Principal amounts $ 10,395 $ 109 $ 103 $ 96 $ 157 $ 136 $ 10,672
+I Weighted-average annual percentage rate 5.06% 4.13% 4.14% 4.16% 4.20% 4.14% I
+ILiabilities I
+Secured Debt:
+I Credit facilities I
+Principal amounts $ 8,582 $ 873 $ 314 $ 41 $ 7 $ — $ 9,812
+I Weighted-average interest rate 2.60% 5.56% 5.78% 9.48% 8.65% —% I
+Securitization notes
+I Principal amounts 8 12,686 $ 10,700 $ 4,566 $ 1,223 $ 341 $ — $ 29,545 I
+Weighted-average interest rate 1.94% 2.10% 2.38% 2.85% 2.80% —%
+IUnsecured Debt: I
+Senior notes
+I Principal amounts 8 2,854 $ 3,086 $ 5,877 $ 4,650 $ 4,750 $ 7,791 $ 29,182 I
+Weighted-average interest rate 3 .48% 3.08% 2.65% 3.02% 3.83% 3 .81%
+I Credit facilities and other unsecured debt I
+Principal amounts $ 4,474 $ 1,081 $ 474 $ — $ — $ — $ 6,038
+I Weighted-average interest rate 6.23% 6.13% 3.03% —% —% —% I
+The impact of GM Financial's discount rate, prepayment and credit loss assumptions is consistent with assumptions applied to interest rate sensitive assets
+and liabilities reported at December 31, 2015. GM Financial estimates the realization of ﬁnance receivables in future periods using discount rate, prepayment
+and credit loss assumptions similar to its historical experience. Credit facilities and securitization notes payable amounts have been classiﬁed based on
+expected payoff. Senior notes principal amounts have been classiﬁed based on maturity.
+Foreign Currency Exchange Rate Risk GM Financial is exposed to foreign currency risk due to the translation and remeasurement of the results of certain
+international operations into US. Dollars as part of the consolidation process. Fluctuations in foreign currency exchange rates can therefore create volatility
+in the results of operations and may adversely affect GM Financial's ﬁnancial condition.
+42

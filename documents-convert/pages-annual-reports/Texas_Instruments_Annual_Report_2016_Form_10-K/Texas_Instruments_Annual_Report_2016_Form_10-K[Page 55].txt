@@ -1,0 +1,49 @@
+Contributions to the plans meet or exceed all minimum funding requirements. We expect to contribute about $100 million to our
+retirement benefit plans in 2017. The amounts shown for underfunded U.S. defined benefit plans were for non-qualified pension
+plans, which we do not fund because contributions to them are not tax deductible.
+Accumulated benefit obligations, which are generally less than the projected benefit obligations as they exclude the impact
+of future salary increases, were $926 million and $948 million as of December 31, 2016 and 2015, respectively, for the U.S.
+defined benefit plans, and $2.22 billion and $2.09 billion as of December 31, 2016 and 2015, respectively, for the non-U.S. defined
+benefit plans.
+The change in AOCI is as follows:
+a:
+U.S. Defined o'
+Benefit U.S. Retiree Health Care Non-U.S. Defined Benefit Total "
+Net Net Net Net E
+Actuarial Actuarial Prior Service Actuarial Prior Service Actuarial Prior Service 0
+Loss Loss Credit Loss Credit Loss Credit .3.
+AOCI balance, net of taxes, December 31,
+$167 $80 $(13) $303 $(7) $550 $(20)
+Changes in AOCI by category:
+Adjustments................... (10) (27) — 86 — 49 —
+Recognized within Net income . . . . . (42) (7) 3 (27) 2 (76) 5
+Taxeffect..................... 18 12 (1) (11) (1) 19 (2)
+Total change to AOCI . . . . . . . . . . . . (34) (22) 2 48 1 (8) 3
+AOCI balance, net of taxes,
+December31,2016.............. $133 $ 58 $(11) $351 $ (6) $542 $(17)
+The estimated amounts of net actuarial loss and unrecognized prior service credit included in A001 as of December 31, 2016,
+that are expected to be amortized into net periodic benefit cost over the next fiscal year are: $15 million and none for the U.S.
+defined benefit plans; $4 million and ($4) million for the U.S. retiree health care benefit plan; and $27 million and ($2) million for .
+the non-U.S. defined benefit plans.
+Information on plan assets
+We report and measure the plan assets of our defined benefit pension and other postretirement plans at fair value. The tables
+below set forth the fair value of our plan assets using the same three-level hierarchy of fair-value inputs described in Note 8. With
+the adoption of ASU 2015-07, certain assets are no longer subject to disclosure by level of fair value but have been included in the
+tables below to permit reconciliation to the total plan assets. See Note 2 for more information.
+December 31, 2016
+Level 1 Level 2 Level 3 Other (a) Total
+Assets of U.S. defined benefit plan:
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ — $ — $ — $ 685 $ 685
+Equitysecurities............................................ — — — 349 349
+Total $ — $ — $— $1,034 $1,034
+Assets of U.S. retiree health care plan:
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ 180 $ 3 $ — $ 44 $ 227
+Equitysecurities............................................ — — — 207 207
+Total $180 $ 3 $— $ 251 $ 434
+Assets of non-U.S. defined benefit plans:
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . .. $ 19 $127 $— $1,508 $1,654
+Equitysecurities............................................ 5 18 — 629 652
+— — 3 — 3
+Total $ 24 $145 $ 3 $2,137 $2,309
+(a) Consists of bond index and equity index funds, measured at net asset value per share.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 51

@@ -1,0 +1,54 @@
+OTHER
+Non-GAAP Information
+The comparability of certain of the Company’s financial measures was impacted by non-recurring
+adjustments related to the Umi trademark impairment, an adjustment to reverse the deferred tax
+liability on corporate-owned life insurance policies, and the gain from the final adjustment to the
+earnout payment related to the 2011 acquisition of Bogs. To provide additional information to
+investors to facilitate the comparison of past and present performance, the Company presented
+non-GAAP financial measures that exclude the financial impact of these non-recurring adjustments.
+These non-GAAP financial measures were used internally by management in evaluating the results
+of operations, but they are not intended to replace the presentation of financial results in accordance
+with GAAP. A reconciliation of the non-GAAP financial measures to their nearest comparable GAAP
+financial measures, as presented in the Consolidated Statements of Earnings, is provided in the table
+below.
+Reconciliation of Non-GAAP Financial Measures
+The following is a reconciliation of GAAP Financial Measures to Non-GAAP Financial Measures
+for the twelve-month periods ended December 31, 2016 and 2015.
+Twelve Months Ended December 31, 2016 Twelve Months Ended December 31, 2015
+GAAP Non-GAAP GAAP Non-GAAP
+Measures Measures Measures Measures
+(As Reported) Adjustments (As Adjusted) (As Reported) Adjustments (As Adjusted)
+Net sales . . . . . . . . . $296,933 $296,933 $320,617 $320,617
+Cost of sales . . . . . . 184,890 184,890 199,008 199,008
+Gross earnings . . . . . 112,043 112,043 121,609 121,609
+Selling and
+administrative
+expenses . . . . . . . 90,807 (1,770)“) 89,037 91,824 458(3) 92,282
+Earnings from
+operations . . . . . . . 21,236 23,006 29,785 29,327
+Interest income . . . . . 763 763 936 936
+Interest expense . . . . (436) (436) (181) (181)
+Other income
+(expense), net . . . . 514 514 (1,425) (1,425)
+Earnings before
+provision for income
+taxes . . . . . . . . . . 22,077 23,847 29,115 28,657
+Provision for income
+taxes . . . . . . . . . . 5,084 3,832” 8,916 10,962 (179)<3> 10,783
+Net earnings . . . . . . . 16,993 14,931 18,153 17,874
+Net earnings (loss)
+attributable to
+noncontrolling
+interest . . . . . . . . . 521 521 (59) (59)
+Net earnings
+attributable to
+Weyco Group, Inc... $ 16,472 $ 14,410 $ 18,212 $ 17,933
+Earnings per share
+Basic . . . . . . . . . . $ 1.57 (0.20) $ 1.37 $ 1.69 (0.03) $ 1.66
+Diluted . . . . . . . . . $ 1.56 (0.20) $ 1.36 $ 1.68 (0.03) $ 1.65
+(1) Umi trademark impairment
+(2) Includes a $3.1 million adjustment to reverse deferred taxes on corporate-owned life insurance
+policies, and the tax effect of the Umi trademark impairment
+(3) Gain from the final adjustment to the earnout payment relating to the 2011 acquisition of Bogs,
+and the related tax effect.
+21

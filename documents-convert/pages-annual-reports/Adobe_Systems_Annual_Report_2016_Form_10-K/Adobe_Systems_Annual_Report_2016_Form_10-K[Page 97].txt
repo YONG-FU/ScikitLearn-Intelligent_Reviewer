@@ -1,0 +1,48 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 15. DEBT
+Our long-term debt as of December 2, 2016 and November 27, 2015 consisted of the following (in thousands):
+7 2016 7 7 2015 7
+[Notes $ 1,888,951 $ 1,887,410 1
+Fair value of interest rate swap 7 13,117 7 7 19,821 7
+{Adjusted carrying value of Notes 1,902,068 1,907,231 l
+Senior Notes
+In February 2010, we issued $600 million of 3.25% senior notes due February 1, 2015 (the “2015 Notes”) and $900 million
+of 4.75% senior notes due February 1, 2020 (the “2020 Notes”). Our proceeds were $1.5 billion and were net of an issuance
+discount of $6.6 million. In addition, we incurred issuance costs of $10.7 million. Both the discount and issuance costs were or
+are being amortized to interest expense over the respective terms of the 2015 and 2020 Notes using the effective interest method.
+The 2015 and 2020 Notes rank equally with our other unsecured and unsubordinated indebtedness. The effective interest rate
+including the discount and issuance costs was 3.45% for the 2015 Notes and is 4.92% for the 2020 Notes. Interest is payable semi-
+annually, in arrears, on February 1 and August 1, and commenced on August 1, 2010. The 2015 Notes were settled on February 1,
+2015, as discussed below.
+In June 2014, we entered into interest rate swaps with a total notional amount of $900 million designated as a fair value
+hedge related to our 2020 Notes. The interest rate swaps effectively convert the fixed interest rate on our 2020 Notes to a ﬂoating
+interest rate based on LIBOR plus a fixed number of basis points. Under the terms of the swaps, we will pay monthly interest at
+the one-month LIBOR ﬂoating interest rate plus a spread of a fixed number of basis points on the $900 million notional amount.
+In exchange, we will receive 4.75% fixed rate interest from the swap counterparties. See Note 5 for further details regarding our
+interest rate swap derivatives.
+In December 2014, prior to issuing new long-term fixed rate debt, we entered into an interest rate lock agreement on a
+notional amount of $600 million to hedge against the variability of future interest payments due to changes in the benchmark
+interest rate. This instrument was designated as a cash ﬂow hedge. See Note 5 for further details regarding our interest rate lock
+agreement.
+In January 2015, we issued $1 billion of 3.25% senior notes due February 1, 2025 (the “2025 Notes”). Our proceeds were
+approximately $989.3 million which is net of an issuance discount of $10.7 million. In addition, we incurred issuance costs of
+$7.9 million. Both the discount and issuance costs are being amortized to interest expense over the term of the 2025 Notes using
+the effective interest method. The 2025 Notes rank equally with our other unsecured and unsubordinated indebtedness. The eﬁective
+interest rate including the discount, issuance costs and interest rate agreement is 3.67% for the 2025 Notes. Interest is payable
+semi-annually, in arrears on February 1 and August 1, commencing on August 1, 2015. Aportion of the proceeds from this offering
+was used to repay $600 million in aggregate principal amount of the 2015 Notes plus accrued and unpaid interest due February 1,
+2015. The remaining proceeds were used for general corporate purposes.
+As of December 2, 2016, our outstanding notes payable consists of the 2020 Notes and 2025 Notes (the “Notes”) with a
+total carrying value of $1.90 billion. Based on quoted prices in inactive markets, the fair value of the Notes was $1.97 billion as
+of December 2, 2016. The total fair value of $1.97 billion excludes the eﬁect of fair value hedge of the 2020 Notes for which we
+entered into interest rate swaps as described above.
+We may redeem the Notes at any time, subject to a make-whole premium. In addition, upon the occurrence of certain change
+of control triggering events, we may be required to repurchase the Notes, at a price equal to 101% of their principal amount, plus
+accrued and unpaid interest to the date of repurchase. The Notes also include covenants that limit our ability to grant liens on
+assets and to enter into sale and leaseback transactions, subject to signiﬁcant allowances. As of December 2, 2016, we were in
+compliance with all of the covenants.
+In February 2016 and August 2016, we made semi-annual interest payments on our 2020 and 2025 Notes each totaling
+$376 million.
+97

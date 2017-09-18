@@ -1,0 +1,40 @@
+Pension Beneﬁts Other Beneﬁts
+(In thousands) : 2016 2015 2014 : : 2016 2015 2014 :
+[Components of Net Periodic Beneﬁt Cost : T: T: T: J
+Service cost $ 10,417 $ 11,517 $ 9,425 $ 426 $ 444 $ 538
+[ Interest cost 18,752 18,314_ 19,340 946— 863— 1,107[
+Expected return on plan assets (34,751) (34,130) (32,944) — — —
+[ Amortization of transition amounts 2 2 2 — — — [
+Amortization of prior service (credit) cost (14) 66 84 (419) (335) (335)
+[ Recognized net actuarial losses 11,921_ 15,545_ 8,639 68— 27— 182[
+Settlement loss 5 641 290 — — —
+[ Termination benefits _ _ _ _ _ _ [
+Net periodic benefit cost s 6,332 11,955 4,836 1,021 999 1,492 :
+Actuarial gains and losses are amortized over the average future working lifetime of the active population in the plan
+using the projected unit credit method. This approximates 11 years.
+Amounts included in accumulated other comprehensive income expected to be recognized in 2017 net periodic benefit
+costs.
+(In thousands) Pension Beneﬁts Other Beneﬁts
+[Loss recognition 12,255 103 J
+Prior service credit recognition (15) (288)
+[Transition obligation recognition 1 — [
+Information for pension plans with an accumulated benefit obligation in excess of plan assets.
+(In thousands) 2016 2015
+[Aggregate accumulated benefit obligations (ABO) 147,531 147,864 [
+Aggregate projected benefit obligations (PBO) 160,543 161,009
+[Aggregate fair value of plan assets 26,9 86 26,844 [
+7 Pension Beneﬁts 7 7 Other Beneﬁts 7
+2016 2015 2016 2015
+[Assumptions used to determine benefit obligations : T: T: T: [
+Average discount rate 3.67% 3.92% 4.05% 4.20%
+[ Rate of compensation increase 299% 3.06% _ _ [
+Assumptions used to determine net periodic benefit cost
+[ Average discount rate 3.92% 3.63% 4.20% 385%
+Expected return on plan assets 8.18% 8.17% — —
+[ Rate of compensation increase 306% 3.03% _ __[
+Discount rates were determined using various corporate bond indexes as indicators of interest rate levels and movements
+and by matching our projected benefit obligation payment stream to current yields on high quality bonds.
+The expected return on assets for the 2016 net periodic pension cost was determined by multiplying the expected returns
+of each asset class (based on historical returns) by the expected percentage of the total portfolio invested in that asset class. A
+total return was determined by summing the expected returns over all asset classes.
+70

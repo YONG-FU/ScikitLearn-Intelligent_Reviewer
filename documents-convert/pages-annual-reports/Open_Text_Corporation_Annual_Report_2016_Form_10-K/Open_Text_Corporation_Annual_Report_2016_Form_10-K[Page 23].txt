@@ -1,0 +1,55 @@
+applicable, certain of our license arrangements have required us to make a limited confidential disclosure of portions of the
+source code for our software products, or to place such source code into escrow for the protection of another party. Despite the
+precautions we have taken, unauthorized third parties, including our competitors, may be able to copy certain portions of our
+software products or reverse engineer or obtain and use information that we regard as pr0prietary. Also, our competitors could
+independently develop technologies that are perceived to be substantially equivalent or superior to our technologies. Our
+competitive position may be adversely affected by our possible inability to eﬁectively protect our intellectual property. In
+addition, certain of our products contain open source software. Licensees of open source software may be required to make
+public certain source code, to license pr0prietary software for free or to make certain derivative works available to others.
+While we monitor and control the use of open source software in our products and in any third party software that is
+incorporated into our products, and we try to ensure that no open source software is used in such a way as to require us to
+disclose the source code to the related product or service, there can be no guarantee that such use could not inadvertently occur.
+If this happened it could harm our intellectual property position and have a material adverse effect on our business, results of
+operations and financial condition.
+Other companies may claim that we infringe their intellectual property, which could materially increase costs and materially
+harm our ability to generate future revenues and proﬁts
+Claims of infringement are becoming increasingly common as the software industry develops and as related legal
+protections, including copyrights and patents, are applied to software products. Although we do not believe that our products
+infringe on the rights of third parties, third parties have and will continue to assert infringement claims against us in the future.
+Although most of our technology is proprietary in nature, we do include certain third party and open source software in our
+software products. In the case of third party software, we believe this software is licensed from the entity holding the
+intellectual property rights. Although we believe that we have secured proper licenses for all third-party intellectual property
+that is integrated into our products, third parties may continue to assert infringement claims against us in the future, including
+the sometimes aggressive and opportunistic actions of non-practicing entities whose business model is to obtain patent-
+licensing revenues from operating companies such as us. Any such assertion, regardless of merit, may result in litigation or may
+require us to obtain a license for the intellectual property rights of third parties. Such licenses may not be available or they may
+not be available on commercially reasonable terms. In addition, as we continue to develop software products and expand our
+portfolio using new technology and innovation, our exposure to threats of infringement may increase. Any infringement claims
+and related litigation could be time-consuming, disruptive to our ability to generate revenues or enter into new market
+opportunities and may result in significantly increased costs as a result of our defense against those claims or our attempt to
+license the intellectual property rights or rework our products to avoid infringement of third party rights. Typically our
+agreements with our partners and customers contain provisions which require us to indemnify them for damages sustained by
+them as a result of any infringement claims involving our products. Any of the foregoing infringement claims and related
+litigation could have a significant adverse impact on our business and operating results as well as our ability to generate future
+revenues and profits.
+The loss of licenses to use third-party software or the lack of support or enhancement of such software could adversely
+affect our business
+We currently depend upon a limited number of third-party software products. If such software products were not
+available, we might experience delays or increased costs in the development of our software products. For a limited number of
+our product modules, we rely on software products that we license from third-parties, including software that is integrated with
+internally developed software and which is used in our products to perform key functions. These third-party software licenses
+may not continue to be available to us on commercially reasonable terms and the related software may not continue to be
+appropriately supported, maintained, or enhanced by the licensors. The loss by us of the license to use, or the inability by
+licensors to support, maintain, or enhance any of such software, could result in increased costs, lost revenues or delays until
+equivalent software is internally developed or licensed from another third party and integrated with our software. Such
+increased costs, lost revenues or delays could adversely affect our business.
+Current and future competitors could have a significant impact on our ability to generate future revenues and profits
+The markets for our software products and services are intensely competitive and are subject to rapid technological
+change and other pressures created by changes in our industry. The convergence of many technologies has resulted in
+unforeseen competitors arising from companies that were traditionally not viewed as threats to our marketplace. We expect
+competition to increase and intensify in the future as the pace of technological change and adaptation quickens and as
+additional companies enter our markets, including those competitors who oﬁer similar solutions as we do, but offer it through a
+different form of delivery. Numerous releases of competitive products have occurred in recent history and are expected to
+continue in the future. We may not be able to compete effectively with current competitors and potential entrants into our
+marketplace. We could lose market share if our current or prospective competitors: (i) introduce new competitive products or
+15

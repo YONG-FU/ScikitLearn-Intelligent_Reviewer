@@ -1,0 +1,45 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+8. Share-based awards (Continued)
+(a) Share options relating to ordinary shares of the Company (Continued)
+The fair value of each option grant is estimated on the date of grant using the Black-Scholes model and the
+assumptions below:
+Year ended March 31,
+2014 2015 2016
+Risk-free interest rate (i) 0.69% - 1.52% 1.38% - 1.99% 1.24% - 1.79%
+Expected dividend yield (ii) 0% 0% 0%
+Expected life (years) (iii) 4.25 - 4.38 4.25 - 5.75 4.25 — 5.75
+Expected volatility (iv) 37.0% - 39.3% 35.0% - 40.8% 33.4% - 35.7%
+(i) Risk-free interest rate is based on the yields of United States Treasury securities with maturities similar to
+the expected life of the share options in effect at the time of grant.
+(ii) Expected dividend is assumed to be 0% as the Company has no history or expectation of paying a
+dividend on its ordinary shares.
+(iii) Expected life of share options is based on the average between the vesting period and the contractual
+term for each grant.
+(iv) Expected volatility is assumed based on the historical volatility of the Company’s comparable companies
+in the period equal to the expected life of each grant.
+As of March 31, 2016, there were RMB1,021 million of unamortized compensation costs related to these
+outstanding share options, net of expected forfeitures and after re-measurement applicable to share options
+granted to non-employees. These amounts are expected to be recognized over a weighted average period of
+2.8 years.
+During the years ended March 31, 2014, 2015 and 2016, the Company recognized share—based compensation
+expense of RMB417 million, RMB1,152 million and RMB578 million, respectively, in connection with the
+above share options, net of reimbursement from Ant Financial Services (Note 23).
+(b) Restricted shares and RSUs relating to ordinary shares of the Company
+A summary of the changes in the restricted shares and RSUs related to ordinary shares granted by the
+Company during the year ended March 31, 2016 is as follows:
+Number Weighted-
+of restricted average
+shares and grant date
+RSUs fair value
+US$
+Awarded and unvested at April 1, 2015 67,981,170 45.68
+Granted 30,865,598 72.30
+Vested (20,813,741) 34.60
+Cancelled/forfeited (6,196,662) 52.35
+Awarded and unvested at March 31, 2016 71,836,365 59.75
+Expected to vest at March 31, 2016 (i) 62,144,018 58.25
+(i) Restricted shares and RSUs expected to vest are the result of applying the pre-vesting forfeiture rate
+assumptions to total outstanding restricted shares and RSUs.
+F-62

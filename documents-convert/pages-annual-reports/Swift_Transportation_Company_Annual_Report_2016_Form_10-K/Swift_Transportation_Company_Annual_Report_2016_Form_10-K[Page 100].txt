@@ -1,0 +1,45 @@
+Based on the information currently available from the diagnostic phase, management cannot yet determine the
+quantitative impact on the financial statements; however, the impact is expected to be immaterial (potentially
+with changes only to the timing of revenue recognition between reportable periods, as well as changes in the
+requirements for accounting policy and other new disclosures). The financial impact is expected to be
+quantifiable by the time the Company files its first Quarterly Report on Form 10-0 in 2017, at which time the
+Company will be transitioning into the design and planning phase of implementing ASC Topic 606. Since we
+are continuing to evaluate the impact of ASC Topic 606, our disclosures around our preliminary assessments
+are subject to change.
+(2) The amendments to ASC Topic 718, Compensation — Stock Compensation, that are expected to affect the
+Company are discussed below.
+- Accounting for Income Tax Beneﬁts/Deﬁciencies: All excess tax benefits and tax deficiencies (including
+tax benefits of dividends on share-based payment awards) should be recognized as income tax expense
+or benefit in the income statement. The tax effects of exercised or vested awards should be treated as
+discrete items in the reporting period in which they occur. An entity should also recognize excess tax
+benefits regardless of whether the benefit reduces taxes payable in the current period. Modified
+retrospective application is required, by means of a cumulative-effect adjustment to equity.
+Upon adoption, the Company will need to reclassify approximately $16.8 million in historical net tax benefit/
+deficiency amounts previously recorded within additional paid-in capital into retained earnings/accumulated
+deficit. Going forward, tax benefit/deficiency amounts will be recorded in net income.
+- Classiﬁcation of Excess Tax Beneﬁts on the Statement of Cash Flows: Excess tax benefits should be
+classified along with other income tax cash flows as an operating activity. Application is permitted to be
+prospective or retrospective.
+Current GAAP requires classification within cash flows from financing activities. The Company presents
+its statement of cash flows using the indirect method, which presents excess tax benefits within cash flows
+from financing activities and a corresponding offset within the net income reconciliation of cash flows from
+operating activities. As such, the Company will need to reclassify the excess tax benefit amounts out of
+cash flows from financing activities and into cash flows from operating activities, upon adoption.
+Management expects to apply these amendments retrospectively.
+- Forfeitures: An entity can make an entity-wide accounting policy election to either estimate the number of
+awards that are expected to vest (current GAAP) or account for forfeitures when they occur. Modified
+retrospective application is required, by means of a cumulative-effect adjustment to equity.
+Upon adoption, the Company expects to transition to accounting for forfeitures when they occur. This
+would result in approximately a $2.5 million unfavorable cumulative-effect adjustment to retained earnings/
+accumulated deficit to catch-up the previously unrecognized stock-based compensation associated with
+historical assumed forfeiture rates. Going forward, forfeitures will be recorded as favorable adjustments
+to stock-based compensation as they occur.
+- Ctassiﬁcatioozoi:EmgxeejaxeszEatdzonzttzejtatemenLoLCastL/EtowsiWhenaoimﬁyeolildtonotds,
+Soatesjorlax;withholdingoucooses: Cash paid by an employer when directly withholding shares for tax-
+withholding purposes should be classified as a financing activity. Retrospective application is required.
+Beginning in 2016, the Company began allowing certain members of management to have shares withheld
+for taxes when their restricted stock awards and performance units vest. As such, upon adopting the
+amendments in this ASU, the Company will need to present the amounts out of cash flows from operating
+activities and into cash flows from financing activities for the periods presented. For 2016, the amount
+was approximately $0.5 million.
+96

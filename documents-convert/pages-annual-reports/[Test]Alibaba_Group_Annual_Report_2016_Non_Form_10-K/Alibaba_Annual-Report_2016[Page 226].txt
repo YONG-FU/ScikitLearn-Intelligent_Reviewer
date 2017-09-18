@@ -1,0 +1,53 @@
+ALIBABA GROUP HOLDING LIMITED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year ended March 31,
+2014 2015 2016
+RMB RMB RMB US$
+(Note 2(a))
+(in millions)
+Cash ﬂows from operating activities:
+Net income 23,403 24,320 71,289 11,056
+Adjustments to reconcile net income to net cash provided by operating activities:
+Revaluation of previously held equity interest — (6,535) (18,603) (2,885)
+Loss (Gain) on disposals of equity investees 3 (128) (3,089) (479)
+Realized and unrealized gain related to investment securities (90) (178) (906) (141)
+Change in fair value of other assets and liabilities (98) 102 84 13
+Gain on disposals of other subsidiaries (387) (307) (26,913) (4,174)
+Depreciation and amortization of property and equipment and land use rights 1,339 2,326 3,770 584
+Amortization of intangible assets 315 2,089 2,931 455
+Tax benefits from share-based awards — — (1,120) (174)
+Share-based compensation expense 2,844 13,028 16,082 2,494
+Equity-settled donation expense 1,269 — — —
+Impairment of cost method equity investees and investment securities 119 419 1,864 289
+Impairment of goodwill 44 175 455 71
+Gain on disposals of property and equipment — (13) (11) (2)
+Amortization of restructuring reserve (Note 4(b)) — 166 264 41
+Share of results of equity investees 203 1,590 1,730 269
+Deferred income taxes 1,466 1,659 1,226 190
+Allowance for doubtful accounts relating to micro loans 442 650 (9) (1)
+Changes in assets and liabilities, net of effects of acquisitions and disposals:
+Restricted cash and escrow receivables (1,329) (851) — —
+Prepayments, receivables and other assets (12,742) (13,927) (4,012) (622)
+Income tax payable 1,008 1,410 1,237 192
+Accrued expenses, accounts payable and other liabilities 5,336 11,415 8,104 1,257
+Merchant deposits 1,628 2,490 113 18
+Deferred revenue and customer advances 1,606 1,317 2,350 364
+Net cash provided by operating activities 26,379 41,217 56,836 8,815
+Cash ﬂows from investing activities:
+(Increase) Decrease in short-term investments, net (8,304) (1,113) 4,619 716
+Decrease in restricted cash 199 1,139 746 116
+(Increase) Decrease in trading investment securities, net (147) (16) 9 1
+Acquisitions of available-for-sale and held-to-maturity securities (2,972) (11,801) (15,363) (2,382)
+Disposals of available-for-sale and held-to-maturity securities 372 939 2,177 338
+Acquisitions of equity investees (16,468) (23,430) (37,625) (5,835)
+Disposals of equity investees 89 99 10,021 1,554
+Acquisitions of:
+Land use rights and construction in progress (1,491) (2,935) (5,407) (839)
+Other property, equipment and intangible assets (3,285) (4,770) (5,438) (843)
+Cash paid for business combinations, net of cash acquired (732) (10,255) (1,495) (232)
+Deconsolidation and disposal of subsidiaries, net of cash proceeds
+(Note 4(b) and (e)) (46) (1,271) 4,890 758
+Loans to employees, net of repayments (212) (40) 35 5
+Net cash used in investing activities (32,997) (53,454) (42,831) (6,643)
+The accompanying notes form an integral part of these consolidated financial statements.
+F-1O

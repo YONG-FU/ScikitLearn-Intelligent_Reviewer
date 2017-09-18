@@ -1,0 +1,45 @@
+Marketing Cloud. The Marketing Cloud enables companies to plan, personalize and optimize one-to-one
+customer interactions. Our customers use the Marketing Cloud to map customer journeys to digital
+marketing interactions across email, mobile, social, web and connected products. With the Marketing
+Cloud, customer data can also be integrated with the Sales Cloud and Service Cloud in the form of leads,
+contacts and customer service cases to give companies a complete View of their customers.
+Community Cloud. The Community Cloud enables companies to engage directly with groups of people
+by giving them access to relevant information, apps and experts, creating trusted, branded destinations for
+customers, partners and employees to collaborate.
+Analytics Cloud. The Analytics Cloud is an app for business intelligence powered by our Wave platform.
+It enables companies to quickly deploy sales, service, marketing and custom analytics apps using any data
+source. Our customers use the Analytics Cloud to enable any employee to quickly and easily explore
+business data, uncover new insights, make smarter decisions and take action from anywhere on popular
+mobile devices.
+IoT Cloud. The IoT Cloud, which we announced in September 2015, connects billions of events from
+devices, sensors, apps and more from the Internet of Things to Salesforce—enabling companies to take
+action in a connected world. Our customers use the IoT Cloud to process massive quantities of data, build
+smarter, more personalized actions and engage proactively with customers in real time. We are currently
+piloting this new offering with several enterprises.
+App Cloud. The App Cloud is an app development platform that includes Force, Heroku, Enterprise and
+Lightning—along with shared identity, data and network services to empower companies to deliver
+connected apps for any business need. In addition, the App Cloud’s platform services include Trailhead,
+an interactive learning environment for all Salesforce developers, and the AppExchange, Salesforce’s
+enterprise app marketplace. The App Cloud empowers companies with everything they need to build apps
+quickly, in any language, for any device, and manage them in a single enterprise cloud environment.
+Professional Cloud Services
+We offer professional cloud services including consulting, deployment, training, user-centric design and
+integration to our customers to facilitate faster adoption of our cloud solutions and enable customer success. We
+also offer architects and innovation program teams that act as advisors to plan and execute digital transformations
+for our customers, mission critical support, cloud specialists and admin and configuration services that allow our
+customers to make the best use of our technology.
+We offer several education service offerings to our customers and partners, ranging from introductory
+online courses to advanced architecture certifications. With the Trailhead learning platform, our customers and
+partners have free online access to courses that address topics such as using and administering our services and
+developing on our platform. For more advanced education, we offer instructor-led and online courses to certify
+our customers and partners on architecting, administering, deploying and developing our services. In addition,
+there is a selection of online educational classes available at no charge to customers that subscribe to our
+customer service plans.
+Business Benefits of Using Our Solution
+The key advantages of our solution include:
+Secure, private, scalable and reliable. Our service has been designed to provide our customers with
+privacy and high levels of performance, reliability and security. We have built, and continue to invest in, a
+comprehensive security infrastructure, including firewalls, intrusion detection systems, and encryption for
+transmissions over the Internet, which we monitor and test on a regular basis. We built and maintain a multi-
+tenant application architecture that has been designed to enable our service to scale securely, reliably and
+5

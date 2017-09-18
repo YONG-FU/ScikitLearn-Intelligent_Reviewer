@@ -1,0 +1,44 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Consolidated
+Predecessor Fresh Start Successor
+Company Adjustments Company
+Land $ 3,341 $ — $ 3,341
+1 Leasehold improvements 3 5 ,515 (20,18 8) 15,327 1
+Network equipment, communication towers and network software 1,819,759 (1,291,712) 528,047
+1 Software, ofﬁce equ_ipment, ﬁlmiture and ﬁxtures and other 342,210 (261,342) 80,868 1
+Less: Accumulated depreciation and amortization (1,207,834) _ 1,207,834 _ —
+1 992,991 (365,408) 627,583 1
+Construction in progress 86,956 _ (11,111) _ 75,845
+1 $ 1,079,947 its (376,519)7_$ 703,4281
+(t) Reﬂects the impact of fresh start adjustments on our intangible assets (in thousands):
+Nextel Brazil
+Predecessor Fresh Start Successor
+Company _ Adjustments _ Company
+1 Licenses $ 553,076 $ 513,002 $ 1,066,0781
+Customer relationships — 29,000 29,000
+In Brazil, our spectrum holdings include 20 megahertz, or MHz, of 1.9 gigahertz, or GHz,/2.1 GHz spectrum and 20 MHz of 1.8 GHz spectrum that
+support our WCDMAnetwork and, in Rio de Janeiro, our LTE network. We also have spectrum holdings in the 800 MHZ specialized mobile radio,
+or SMR, spectrum band that currently can only be used to support our iDEN network. We valued Nextel Brazil's spectrum licenses using both the
+income approach and the market approach. The resulting value of these licenses was similar to the prices observed for comparable licenses in Brazil
+in recent guideline transactions. Our income approach used the Greenﬁeld method speciﬁcally, whereby we estimated the discounted ﬁlture cash
+ﬂows of a hypothetical start-up business, based on certain assumptions, including: (i) forecasted revenues, proﬁt margins, capital expenditures and
+cash ﬂows attributable to the spectrum for the period from July 1, 2015 to June 1, 2041. This date represents the end of the current term of our
+spectrum licenses, including renewals solely at our option; and (ii) a discount rate of 16.5%, which is based on an after-tax weighted average cost of
+capital.
+We valued our customer relationships using the excess earnings method, which is a form of the income approach, by estimating the discounted
+future cash ﬂows attributable to existing subscribers. This estimation was based on certain assumptions, including: (i) forecasted revenues and cash
+ﬂows attributable to the current subscriber base beginning on July 1, 2015; (ii) a churn rate ranging from 1.9% to 2.6%; and (iii) a discount rate of
+16.5%, based on an after-tax weighted average cost of capital.
+Corporate
+Predecessor Fresh Start Successor
+Company _ Adjustments _ Company
+1 Trade name 18,000 20,700 38,700 1
+Our trade name represents the right to use the Nextel name exclusively in our markets. We valued our trade name using the relief from
+royalty method, a form of the income approach that estimates the amount a market participant would pay to utilize that trade name, based on
+certain assumptions, including (i) forecasted revenues attributable to the trade name from July 1, 2015 to June 1, 2041; (ii) a royalty rate of 0.25 %
+of expected revenues determined with regard to comparable market transactions; and (iii) a discount rate of 16.5%, which was based on an after-tax
+weighted average cost of capital.
+(g) Represents a $13.5 million decrease in non-income based tax assets to reduce their values to their estimated fair values based on discounted cash
+ﬂows to reﬂect the timing of their anticipated realization and a $5.2 million write-off of prepaid rent.
+F-19

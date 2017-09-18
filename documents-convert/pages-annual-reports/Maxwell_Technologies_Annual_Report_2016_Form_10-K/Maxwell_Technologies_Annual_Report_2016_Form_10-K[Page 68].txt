@@ -1,0 +1,41 @@
+The Company is required to pay an annual commitment fee of $125,000 , and an unused commitment fee of the average daily unused amount of the
+Revolving Line of Credit, payable monthly, equal to a per annum rate in a range of 0.30% to 0.50% , as determined by the Company’s leverage ratio on the last day
+of the previous fiscal quarter. No amounts have been borrowed under the Revolving Line of Credit as of December 31, 2016 .
+Former Credit Facility
+In December 2011, the Company obtained a secured credit facility in the form of a revolving line of credit (the “Former Revolving Line of Credit”) and an
+equipment term loan (the “Equipment Term Loan”) (together, the “Former Credit Facility”). Borrowings under the Former Credit Facility bore interest, payable
+monthly, at either (i) the bank’s prime rate or (ii) LIBOR plus 2.25% , at the Company’s option subject to certain limitations. The Equipment Term Loan was
+available to ﬁnance 80% of eligible equipment purchases made between April 1, 2011 and April 30, 2012. During this period, the Company borrowed $5.0 million
+under the Equipment Term Loan. The balance of the Equipment Term Loan was paid in full by the maturity date of April 30, 2015. Concurrently with entering into
+the Loan Agreement described above, in July 2015, the Company repaid all outstanding loans under the Former Revolving Line of Credit and the Former Credit
+Facility was terminated. The Company did not incur any early termination or prepayment penalties under the Former Credit Facility in connection with the above
+transactions.
+Other Long-term Borrowings
+Maxwell SA has various financing agreements for vehicles. These agreements are for up to an original three -year repayment period with interest rates
+ranging from 0.9% to 3.9% . At December 31, 2016 and 2015 , $83,000 and $91,000 , respectively, was outstanding under these agreements.
+Note 7—Fair Value Measurement
+The Company records certain ﬁnancial instruments at fair value in accordance with the Fair Value Measurements and Disclosures Topic of the FASB ASC.
+Historically, the financial instruments to which this topic applied were foreign currency forward contracts and pension assets. The fair value of foreign currency
+forward contracts was recorded as a liability or asset in the consolidated balance sheets. During the second quarter of 2016, the Company ceased using foreign
+currency forward contracts to hedge foreign currency exposure as management determined its foreign currency exposure is no longer significant. Therefore, no
+foreign currency forward contracts were outstanding as of December 31, 2016 . As of December 31, 2015, the fair value of the Company’s foreign currency
+forward contracts was an asset of $16,000 , which was recorded in “trade and other accounts receivable” in the consolidated balance sheet. The fair value of
+derivative instruments was measured using models following quoted market prices in active markets for identical instruments, which is a Level 2 input under the
+fair value hierarchy of the Fair Value Measurements and Disclosures Topic of the FASB ASC. Also see Note 8, Foreign Currency Derivative Instruments , and
+Note 13, Pension and Other Postretirement Beneﬁt Plans , of this Annual Report on Form 10-K, for further discussion of fair value measurements.
+The carrying value of short-term and long-term borrowings approximates fair value because of the relative short maturity of these instruments and the
+interest rates the Company could currently obtain.
+Note 8—Foreign Currency Derivative Instruments
+The Company has historically used forward contracts to hedge certain monetary assets and liabilities, primarily receivables, payables, and cash balances,
+denominated in foreign currencies. During the year ended December 31, 2016, the Company ceased using foreign currency forward contracts to hedge foreign
+currency exposure as management determined its foreign currency exposure is no longer significant. The change in fair value of these forward contracts
+represented a natural hedge as gains and losses on these instruments partially offset the changes in the fair value of the underlying monetary assets and liabilities
+due to movements in currency exchange rates. These forward contracts generally expired in one month. These contracts were considered economic hedges but were
+not designated as hedges under the Derivatives and Hedging Topic of the FASB ASC, therefore, the change in the fair value of the instruments was recognized
+each period in the consolidated statements of operations.
+The net losses on foreign currency forward contracts included in “foreign currency exchange loss, net” in the consolidated statements of operations are as
+follows (in thousands):
+Year Ended December 31,
+2016 _ 2015 _ 2014
+'Total loss $ (88) $ (720) $ (5,265) l
+65

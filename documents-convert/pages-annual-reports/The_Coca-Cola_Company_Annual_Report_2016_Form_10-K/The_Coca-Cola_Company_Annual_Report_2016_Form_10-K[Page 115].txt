@@ -1,0 +1,46 @@
+Obligations and Funded Status
+The following table sets forth the changes in benefit obligations and the fair value of plan assets for our benefit plans (in
+millions):
+Pension Benefits Other Benefits
+Year Ended December 31, 2016 2015 2016 2015
+:Benefit obligation at beginning of year1 $ 9,159 $ 10,346 $ 940 $ 1,006 :
+Service cost 239 265 22 27
+Interest cost 319 379 31 37
+Foreign currency exchange rate changes (38) (309) (2) (l4)
+Amendments 17 6 (4) (10)
+Actuarial loss (gain) 441 (479) 20 (54)
+Benefits paid2 (346) (353) (64) (59)
+Business combinations — 1 — —
+Divestitures3 (16) (218) (2) —
+Settlements“ (384) (499) — —
+Special termination benefits 37 21 2 2
+Other — (1) 19 57
+:Benefit obligation at end of year1 $ 9,428 $ 9,159 $ 962 $ 940
+7F air value of plan assets at beginning of year $ 7,689 $ 8,902 $ 245 $ 246 7
+Actual return on plan assets 690 (44) 8 (3)
+Employer contributions 718 121 — —
+Foreign currency exchange rate changes (70) (322) — —
+Benefits paid (270) (270) (3) (3)
+Divestitures3 (16) (206) — —
+Settlements“ (374) (486) — —
+Other 4 (6) 5 5
+P air value of plan assets at end of year $ 8,371 $ 7,689 $ 255 $ 245 7
+Net liability recognized $ (1,057) 0 (1,470) $ (707) $ (695)
+1 For pension benefit plans, the benefit obligation is the projected benefit obligation. For other benefit plans, the benefit obligation is the
+accumulated postretirement benefit obligation. The accumulated benefit obligation for our pension plans was $9,141 million and
+$8,868 million as of December 31, 2016 and 2015, respectively.
+2 Benefits paid to pension plan participants during 2016 and 2015 included $76 million and $83 million, respectively, in payments related to
+unfunded pension plans that were paid from Company assets. Benefits paid to participants of other benefit plans during 2016 and 2015
+included $61 million and $56 million, respectively, that were paid from Company assets.
+3 Divestitures are primarily related to the deconsolidation of the Company's German bottling operations in May 2016. These operations were
+classified as held for sale as of December 31, 2015. Refer to Note 2.
+4 Settlements are primarily related to the Company's North America refranchising and productivity, restructuring and integration initiatives.
+Refer to Note 2 and Note 18.
+Pension and other benefit amounts recognized in our consolidated balance sheets are as follows (in millions):
+Pension Benefits Other Benefits
+December 31, : 2016 2015: : 2016 2015:
+iNoncurrent asset $ 572 $ 454 $ — $ —7
+Current liability (71) (72) (23) (21)
+Long-term liability (1,558) (1,852) (684) (674)
+Net liability recognized $ (1,057) $ (1,470) $ (7 07) $ (695)
+l 13

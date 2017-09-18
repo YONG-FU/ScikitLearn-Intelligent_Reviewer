@@ -1,0 +1,44 @@
+Table,of,C,ontents
+Year Ended Maijl,
+Percent Change Percent Change
+(Dollars in millions) _ 2016 Actual Constant 2015 Actual Constant 2014
+Cloud Infrastructure as a Service Revenues: l
+Americas $ 470 6% 9% $ 444 33% 35% $ 335
+EMEA 139 7% 14% 129 37% 41% 94 1
+Asia Paciﬁc 37 7% 21% 35 28% 39% 27
+1 Total revenues 646 6% 11% 608 33% 36% 4561
+Expenses:
+[Cloud infrastructure as a service (1) 362 6% 10% 339 12% 14% 304 1
+Sales and marketing (1) 76 -16% -14% 90 46% 50% 61
+:Stock-based compensation 5 -2% -2% 5 27% 27% 4 \
+Amortization of intangible assets (2) 5 34% 34% 4 * * —
+1 Total expenses 448 2% 5% 438 19% 21% 369]
+Total Margin 198: 17% 24% 170: 97% 103% 87
+{Total Margin % 31% 28% 19%
+% Revenues by Geogiaplzy:
+!Americas 73% 73% 73% 1
+EMEA 21% 21% 21%
+!Asia Paciﬁc 6% 6% 6% 1
+(1) Excluding stock-based compensation
+(2) Included as a component of ‘Amortization of Intangible Assets’ in our consolidated statements of operations
+* Not meaningful
+Fiscal 2016 Compared to Fiscal 2015: Excluding the effects of unfavorable currency rate ﬂuctuations of 5 percentage points, total cloud IaaS revenues
+increased during fiscal 2016 due to growth in our Oracle Managed Cloud Services offerings and incremental revenue contributions from our recent acquisitions.
+Excluding the effects of currency rate ﬂuctuations, the Americas region contributed 62%, the EMEA region contributed 27% and the Asia Pacific region
+contributed 11% to the increase in cloud IaaS revenues during fiscal 2016.
+On a constant currency basis, total cloud IaaS expenses increased during fiscal 2016 primarily due to increased infrastructure expenses to support our increase in
+cloud IaaS revenues.
+Excluding the effects of unfavorable currency exchange variances, total margin and margin as a percentage of revenues increased in fiscal 2016 as total revenues
+increased at a faster rate than our total expenses for this operating segment.
+Fiscal 2015 Compared to Fiscal 2014: On a constant currency basis, total cloud IaaS revenues increased during fiscal 2015 primarily due to contributions from
+our acquisitions. Excluding the effects of currency rate ﬂuctuations, the Americas region contributed 70%, the EMEA region contributed 24% and the Asia Pacific
+region contributed 6% to the increase in cloud IaaS revenues during ﬁscal 2015.
+On a constant currency basis, total cloud IaaS expenses increased in fiscal 2015 primarily due to increased employee related expenses associated with increased
+headcount and increased infrastructure expenses to support our increase in IaaS revenues.
+Excluding the effects of unfavorable currency exchange variances, total margin and margin as a percentage of revenues increased in ﬁscal 2015 as total revenues
+increased at a faster rate than our total expenses for this operating segment.
+Software License Updates and Product Support: Software license updates and product support revenues are typically generated through the sale of software
+support contracts related to on-premise new software licenses purchased by our customers. Our software license updates and product support offerings include
+software license updates, which grant on-premise software customers rights to unspecified product upgrades and maintenance releases and patches released during
+the support period, and product support including internet access to
+61

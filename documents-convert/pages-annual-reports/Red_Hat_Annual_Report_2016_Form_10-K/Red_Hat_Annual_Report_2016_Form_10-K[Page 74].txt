@@ -1,0 +1,47 @@
+the average exchange rates for each applicable month in a period. To the extent the US. dollar weakens against
+foreign currencies, the translation of these foreign currency statements results in increased revenue and operating
+expenses for our non-US. operations. Similarly, our revenue and operating expenses for our non-US. operations
+decreases if the US. dollar strengthens against foreign currencies.
+Using the average foreign currency exchange rates from our prior fiscal year ended February 28, 2015, our
+revenue and operating expenses from non-U.S. operations for the year ended February 29, 2016 would have been
+higher than we reported by approximately $120.8 million and $97.3 million, respectively, which would have
+resulted in income from operations being higher by $23.5 million.
+Convertible notes
+In October 2014, we issued $805.0 million of 0.25% convertible notes due 2019. The convertible notes have
+a fixed annual interest rate of 0.25%, and therefore we do not have economic interest rate exposure on the
+convertible notes. However, the fair market value of the convertible notes is exposed to interest rate risk.
+Generally, the fair market value of the convertible notes will increase as interest rates fall and decrease as interest
+rates rise. For further discussion regarding the fair value of the convertible notes, see NOTE 22—Convertible
+Notes to our Consolidated Financial Statements.
+In connection with the sale of the convertible notes, we entered into convertible note hedge transactions and
+warrant transactions. The convertible note hedge transactions are expected to offset the potential dilution with
+respect to shares of our common stock upon any conversion of the convertible notes and/or offset any cash
+payments that we are required to make in excess of the principal amount of the converted notes, as the case may
+be. The warrant transactions will have a dilutive effect with respect to our common stock to the extent that the
+market price per share of our common stock, as measured under the terms of the warrant transactions, exceeds
+the applicable strike price of the warrants. However, subject to certain conditions, we may elect to settle all of the
+warrants in cash. The initial strike price of the warrants is $101.65 per share. The number of shares of our
+common stock underlying the warrants is 10,965,630 shares, subject to anti-dilution adjustments. The convertible
+note hedge and warrants are both considered indexed to our common stock and classified as equity; therefore, the
+convertible note hedge and warrants are not accounted for as derivative instruments.
+Derivative instruments
+We transact business in various foreign countries and are, therefore, subject to risk of foreign currency
+exchange rate ﬂuctuations. From time to time we enter into forward contracts to economically hedge
+transactional exposure associated with commitments arising from trade accounts receivable, trade accounts
+payable and fixed purchase obligations denominated in a currency other than the functional currency of the
+respective operating entity. All derivative instruments are recorded on the Consolidated Balance Sheets at their
+respective fair market values. We have elected not to prepare and maintain the documentation required to qualify
+our forward contracts for hedge accounting treatment and, therefore, changes in fair value are recorded in our
+Consolidated Statements of Operations. For further discussion related to our management of foreign currency
+risk see NOTE 10—Derivative Instruments to our Consolidated Financial Statements.
+The aggregate notional amount of outstanding forward contracts at February 29, 2016 was $72.6 million.
+The fair value of these outstanding contracts at February 29, 2016 was a gross $0.6 million asset and a gross $0.5
+million liability, and is recorded in Other current assets and Accounts payable and accrued expenses,
+respectively, on our Consolidated Balance Sheets. The forward contracts generally expire within three months of
+the period ended February 29, 2016. The forward contracts will settle in Australian dollars, Hong Kong dollars,
+Japanese yen, Norwegian krona, Singapore dollars, Swedish krona, Swiss francs and US. dollars.
+The aggregate notional amount of outstanding forward contracts at February 28, 2015 was $108.1 million.
+The fair value of these outstanding contracts at February 28, 2015 was a gross $0.1 million asset and a gross $0.7
+million liability, and is recorded in Other current assets and Accounts payable and accrued expenses, respectively
+on our Consolidated Balance Sheets.
+70

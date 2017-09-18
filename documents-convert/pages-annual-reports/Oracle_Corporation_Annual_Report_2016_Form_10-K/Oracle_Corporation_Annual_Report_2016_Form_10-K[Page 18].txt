@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Our tape storage product line includes Oracle StorageTek libraries, drives, virtualization systems, media and associated software packages that provide data
+lifecycle management, deep analytics and file access through the familiar “drag-and-drop” paradigm. Oracle’s Virtual Storage Manager 7 offers the only storage for
+mainframe environments with cloud access built in to significantly lower costs of storing and archiving mainframe data. In addition to serving in tape’s traditional
+role as enterprise data backup, these products are intended to provide robust, scalable solutions at a lower total cost of ownership for long-term data archiving and
+preservation in vertical industries such as communications, energy, healthcare and internet, among others.
+Networking and Data Center Fabric Products
+Our networking and data center fabric products, including Oracle Virtual Networking, and Oracle InfiniBand and Ethernet technologies, are used with our server
+and storage products and are integrated into our management tools to help enterprise customers improve infrastructure performance, reduce cost and complexity
+and simplify storage and server connectivity.
+Industry-Specific Hardware Oﬂerings
+We offer hardware products and services designed for certain speciﬁc industries. Our point-of-sale hardware offerings include point-of-sale terminals and related
+hardware that are designed for managing businesses within the food and beverage, hotel and retail industries, among others. Our hardware products and services for
+communications networks include network signaling, policy control and subscriber data management solutions, and session border control technology, among
+others.
+Oracle Solaris and Oracle Linux Operating Systems, Virtualization and Other Hardware-Related Software
+The Oracle Solaris operating system is designed to provide a reliable, secure and scalable operating system environment through significant kernel feature
+development, networking, security, and file system technologies as well as close integration with hardware features. This design provides us with an ability to
+combine Oracle Solaris with our own hardware components to achieve certain performance and efﬁciency advantages in comparison to our competitors. The
+Oracle Solaris operating system is based on the UNIX operating system, but is unique among UNIX systems in that it is available on our SPARC servers and X86
+servers. We also support Oracle Solaris deployed on other companies’ hardware products.
+The Oracle Linux operating system is optimized for cloud computing and enterprise workloads including databases, middleware and applications. The operating
+system offers technologies such as containers and OpenStack support. Oracle Linux also has unique features for the enterprise such as Ksplice, which enables users
+to patch the Oracle Linux operating system while in use.
+Oracle provides a broad portfolio of virtualization solutions from the desktop to the data center. Oracle VM is server virtualization software for both Oracle SPARC
+and x86 servers and supports both Oracle and non-Oracle applications. Oracle VM software is designed to enable different applications to share a single physical
+system for higher utilization and efficiency and simplify software deployment by enabling pre-configured software images to be created and rapidly deployed
+without installation or configuration errors. In addition, Oracle Solaris 11 provides comprehensive, built-in virtualization capabilities for both SPARC and x86
+servers, networking and storage resources.
+In addition to Oracle Solaris and Oracle Linux operating systems and Oracle’s virtualization software, we also develop a range of other hardware-related software,
+including deve10pment tools, compilers, management tools for servers and storage, diagnostic tools and file systems.
+Management Software
+Oracle invests in a range of management technologies and products in order to meet the needs of customers building and efficiently operating complex IT
+environments, including both end users’ and service providers’ cloud environments. Oracle Enterprise Manager is a comprehensive management solution for all
+Oracle infrastructure, platform and applications technologies and provides an integrated view of the entire IT lifecycle including deployment, monitoring and
+lifecycle management. Oracle Enterprise Manager can be applied to
+16

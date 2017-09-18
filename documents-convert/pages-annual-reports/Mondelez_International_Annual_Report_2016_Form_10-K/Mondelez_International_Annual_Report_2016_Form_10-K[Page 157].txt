@@ -1,0 +1,53 @@
+Any interest on any Registered Security of any particular series which is payable, but is not punctually paid or duly provided for, on any Interest Payment
+Date (herein called “Defaulted Interest”) shall forthwith cease to be payable to the registered Holder on the relevant Regular Record Date by virtue of having been
+such Holder; and such Defaulted Interest may be paid by the Company, at its election in each case, as provided in clause (1) or (2) below:
+(1) The Company may elect to make payment of any Defaulted Interest to the Persons in whose names the Registered Securities of that series (or their
+respective Predecessor Securities) are registered at the close of business on a Special Record Date for the payment of such Defaulted Interest, which shall be
+fixed in the following manner. The Company shall notify the Trustee for the Registered Securities of such series in writing in the form of an Ofﬁcers’
+Certificate of the amount of Defaulted Interest proposed to be paid on each Registered Security of that series and the date of the proposed payment, and at the
+same time the Company shall deposit with such Trustee an amount of money in the currency or currency unit in which the Securities of such series are
+payable (except as otherwise speciﬁed pursuant to Section 301 for the Securities of such series and except as provided in Sections 311(b) and 311(d)), equal
+to the aggregate amount proposed to be paid in respect of such Defaulted Interest or shall make arrangements satisfactory to such Trustee for such deposit
+prior to the date of the proposed payment, such money when deposited to be held in trust for the beneﬁt of the Persons entitled to such Defaulted Interest as
+in this clause provided. Thereupon the Company shall ﬁx a Special Record Date for the payment of such Defaulted Interest which shall not be more than 15
+days and not less than 10 days prior to the date of the proposed payment and not less than 10 days after the receipt by the Trustee of the written notice of the
+proposed payment. The Company shall promptly notify the Trustee in writing of such Special Record Date and, in the name and at the expense of the
+Company, the Trustee shall cause notice of the proposed payment of such Defaulted Interest and the Special Record Date therefor to be mailed, ﬁrst-class
+postage prepaid, to each Holder of Registered Securities of that series at his address as it appears in the Security Register not less than 10 days prior to such
+Special Record Date. Notice of the proposed payment of such Defaulted Interest and the Special Record Date therefor having been mailed as aforesaid, such
+Defaulted Interest shall be paid to the Persons in whose names the Registered Securities of that series (or their respective Predecessor Securities) are
+registered on such Special Record Date and shall no longer be payable pursuant to the following clause (2);
+(2) The Company may make payment of any Defaulted Interest on Registered Securities of any particular series in any other lawful manner not
+inconsistent with the requirements of any securities exchange on which the Registered Securities may be listed, and upon such notice as may be required by
+such exchange, if, after written notice is given by the Company to the Trustee for the Securities of such series of the proposed manner of payment pursuant to
+this clause, such manner of payment shall be deemed practicable by such Trustee. Subject to the foregoing provisions of this Section and Section 305, each
+Security delivered under this Indenture upon registration of transfer of or in exchange for or in lieu of any other Security shall carry the rights to interest
+accrued and unpaid, and to accrue, which were carried by such other Security. The Trustee shall not at any time be under any duty or responsibility to any
+Holder to determine the Defaulted Interest, or with respect to the nature, extent, or calculation of the amount of Defaulted Interest owed, or with respect to
+the method employed in such calculation of the Defaulted Interest.
+SECTION 308. Persons Deemed Owners.
+Prior to due presentment of a Registered Security for registration of transfer, the Company, the Trustee for such Security and any agent of the Company or
+such Trustee may treat the Person in whose name any such Security is registered as the owner of such Security for the purpose of receiving payment of principal of,
+and premium, if any, and (subject to Section 307) interest, if any, on such Security and for all other purposes whatsoever, whether or not such Security be overdue,
+and none of the Company, such Trustee or any agent of the Company or such Trustee shall be affected by notice to the contrary.
+None of the Company, the Trustee, any Paying Agent or the Security Registrar will have any responsibility or liability for any aspect of the records relating
+to or payments made on account of beneﬁcial ownership interests of a Global Security or for maintaining, supervising or reviewing any records relating to such
+beneﬁcial ownership interests.
+SECTION 309. Cancellation.
+All Securities surrendered for payment, redemption, registration of transfer or exchange, or delivered in satisfaction of any sinking fund payment, shall, if
+surrendered to any Person other than the Trustee for such Securities, be delivered to such Trustee and, in the case of Registered Securities, shall be promptly
+canceled by it in accordance with its applicable procedures. The Company may at any time deliver to the Trustee for Securities of a series for cancellation any
+Securities previously authenticated and delivered hereunder which the Company may have acquired in any manner whatsoever, and all Securities so delivered shall
+be promptly canceled by such Trustee. Notwithstanding any other provision of this Indenture to the contrary, in the case of a series, all the Securities of which are
+not to be originally issued at one time, a Security of such series shall not be deemed to have been Outstanding at any time hereunder if and to the extent that,
+subsequent to the authentication and delivery thereof, such Security is delivered to the Trustee for such Security for cancellation by the Company or any agent
+thereof upon the failure of the original purchaser thereof to make payment therefor against delivery thereof, and any Security so delivered to such Trustee shall be
+promptly canceled by it. No Securities shall be authenticated in lieu of or in exchange for any Securities canceled as provided in this Section, except as expressly
+permitted by this Indenture. All canceled Securities held by the Trustee for such Securities shall be cancelled by such Trustee in accordance with its standard
+procedures and, upon the Company’s written request, a certificate of cancellation evidencing such disposition of Securities shall be provided to the Company by
+such Trustee. In the case of any temporary Global Security, which shall be disposed of if the entire aggregate principal amount of the Securities represented thereby
+has been exchanged, the certiﬁcate of disposition shall state that all certiﬁcates required pursuant to Section 304 hereof, substantially in the form of Exhibit B
+hereto (or in the form of any substitute exhibit as provided in the last paragraph of Section 304), to be given by Euroclear or Clearstream, have been duly presented
+to the Trustee for such Securities by Euroclear or Clearstream, as the case may be. Permanent Global Securities shall not be disposed of until exchanged in full for
+deﬁnitive Securities or until payment thereon is made in full.
+1 9

@@ -1,0 +1,44 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+8. Investments, Advances and Long-Term Receivables
+Dec. 31, Dec. 31,
+2016 2015
+(millions of dollars)
+Companies carried at equity in underlying assets
+Investments 20,810 20,337
+Advances 9,443 9,1 10
+Total equity company investments and advances 30,253 29,447
+Companies carried at cost or less and stock investments carried at fair value 154 274
+Long-term receivables and miscellaneous investments at cost or less, net of reserves
+of $4,141 million and $3,040 million 4,695 4,524
+Total 7 35,102 34,245 7
+9. Property, Plant and Equipment and Asset Retirement Obligations
+December 31, 2016 December 31, 2015
+Property, Plant and Equipment Cost Net Cost Net
+(millions of dollars)
+Upstream 355,265 195,904 347,821 203,822
+Downstream 47,915 20,588 50,742 21,330
+Chemical 34,098 17,401 32,481 16,247
+Other 16,637 10,331 16,293 10,206
+Total : 453,915 244,224 447,337 251,605:
+Continued weakness in the upstream industry environment during 2016, continued weak financial results for several assets in
+North America, and a reduction in the mid-point of the ranges of the Corporation’s long-term oil and natural gas prices developed
+as part of its annual planning and budgeting cycle led the Corporation to conclude that the facts and circumstances supported
+performing an impairment assessment of certain long-lived assets, notably North America natural gas assets and certain other
+assets across the remainder of its Upstream operations. The assessment reﬂected long-term crude and natural gas prices which are
+consistent with the mid-point of the ranges that management uses to evaluate investment opportunities and which are in the range
+of long-term price forecasts published by third-party industry experts and government agencies. This assessment indicated that
+the vast majority of asset groups have future undiscounted cash ﬂow estimates exceeding carrying values. However, the carrying
+values for certain asset groups in the United States exceeded the estimated cash ﬂows. As a result, the Corporation’s fourth
+quarter 2016 results include a before-tax charge of $3.3 billion to reduce the carrying value of those assets to fair value. The asset
+groups subject to this impairment charge are primarily dry gas operations in the Rocky Mountains region of the United States
+with large undeveloped acreage positions. The impairment charge is recognized in the line “Depreciation and depletion” on the
+Consolidated Statement of Income and recorded in “Accumulated depreciation and depletion”.
+The assessment of fair values required the use of Level 3 inputs. The principal parameters used to establish fair values included
+estimates of both proved and unproved reserves, future commodity prices which were consistent with the average of third-party
+industry experts and government agencies, drilling and development costs, discount rates ranging from 5.5 percent to 8 percent
+depending on the characteristics of the asset group, and comparable market transactions. Due to the inherent difficulty in
+predicting future commodity prices, and the relationship between industry prices and costs, it is not practicable to reasonably
+estimate the existence or range of any potential future impairment charges related to the Corporation’s long-lived assets.
+Accumulated depreciation and depletion totaled $209,691 million at the end of 2016 and $195,732 million at the end of 2015.
+Interest capitalized in 2016, 2015 and 2014 was $708 million, $482 million and $344 million, respectively.
+79

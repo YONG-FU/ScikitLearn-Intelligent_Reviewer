@@ -1,0 +1,53 @@
+The two-class method is an earnings allocation method for computing earnings / (loss) per share when a
+company’s capital structure includes either two or more classes of common stock or common stock and participating
+securities. This method determines earnings / (loss) per share based on dividends declared on common stock and
+participating securities (i.e., distributed earnings), as well as participation rights of participating securities in any
+undistributed earnings.
+Foreign Currency Translation
+The assets and liabilities of foreign companies are translated at year-end exchange rates. Results of operations
+are translated at average rates of exchange in effect during the year. The resulting translation adjustment is included
+as a separate component in the Stockholders’ Equity section of our Consolidated Balance Sheets, in the caption
+“Accumulated other comprehensive loss, net of income taxes.”
+Recent Accounting Pronouncements
+In November 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update
+(“ASU”) 2016-18, "Statement of Cash Flow: Restricted cash,” which amends the guidance in Accounting Standards
+Codification (“ASC”) 230 on the classification and presentation of restricted cash in the statement of cash ﬂows. The
+key requirements of the ASU are: (1) all entities should include in its cash and cash-equivalent balances in the
+statement of cash ﬂows those amounts that are deemed to be restricted cash and restricted cash equivalents, (2) a
+reconciliation between the statement of financial position and the statement of cash ﬂows must be disclosed when the
+statement of financial position includes more than one line item for cash, cash equivalents, restricted cash, and
+restricted cash equivalents, (3) changes in restricted cash and restricted cash equivalents that result from transfers
+between cash, cash equivalents, and restricted cash and restricted cash equivalents should not be presented as cash
+ﬂow activities in the statement of cash ﬂows and (4) an entity with a material balance of amounts generally described
+as restricted cash and restricted cash equivalents must disclose information about the nature of the restrictions.This
+guidance becomes effective for Company for fiscal years beginning after December 15, 2017, and interim periods
+within those fiscal years. Early adoption is permitted. We are currently in the process of evaluating the impact of the
+new cash ﬂow guidance.
+In August 2016, the FASB issued ASU 2016-15, “Statement of Cash Flows: Classification of Certain Cash
+Receipts and Cash Payments,” which amends the guidance in ASC 230 on the classification of certain cash receipts
+and cash payments in the statement of cash ﬂows. The primary purpose of this ASU is to reduce the diversity in
+practice that has resulted from the lack of consistent principles on this topic. The ASU’s amendments add or clarify
+guidance on eight cash ﬂows issues: debt prepayment or debt extinguishment costs, settlement of zero-coupon debt
+instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective
+interest rate of the borrowing, contingent consideration payments made after a business combination, proceeds from
+the settlement of insurance claims, proceeds from the settlement of corporate-owned life insurance policies, including
+bank-owned life insurance policies, distributions received from equity method investees, beneficial interests in
+securitization transactions, and separately identifiable cash ﬂows and application of the predominance principle. This
+guidance becomes effective for the Company for fiscal years beginning after December 15, 2017, and interim periods
+within those fiscal years. Early adoption is permitted, including adoption in an interim period. All amendments must
+be adopted in the same period. We are currently in the process of evaluating the impact of the new cash ﬂow
+guidance.
+In March 2016, the FASB issued ASU 2016-09, “Compensation — Stocl< Compensation,” which provides
+guidance on accounting for share-based payment transactions, including the income tax consequences, classification
+of awards as either equity or liabilities, and classification on the statement of cash ﬂows. This guidance becomes
+effective for the Company for fiscal years beginning after December 25, 2016. Early application is permitted.
+Amendments related to the timing of when excess tax benefits are recognized and classified on the statement of cash
+ﬂows, forfeitures, minimum statutory withholding requirements, and intrinsic value will be applied using a modified
+retrospective transition method by means of a cumulative-effect adjustment to equity as of the beginning of the
+period in which the guidance is adopted. Amendments related to the presentation of employee taxes paid on the
+statement of cash ﬂows when the Company withholds shares to meet the minimum statutory withholding
+requirement will be applied retrospectively. Amendments requiring recognition of excess tax benefits and tax
+deficiencies in the income statement and the practical expedient for estimating expected term will be applied
+prospectively. The Company may elect to apply the amendments related to the presentation of excess tax benefits on
+the statement of cash ﬂows using either a prospective transition method or a retrospective transition method. We are
+P. 64 — THE NEW YORK TIMES COMPANY

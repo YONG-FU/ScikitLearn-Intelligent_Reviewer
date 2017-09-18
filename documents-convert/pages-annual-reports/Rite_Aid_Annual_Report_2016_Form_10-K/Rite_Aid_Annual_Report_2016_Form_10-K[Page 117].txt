@@ -1,0 +1,44 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+12. Goodwill and Other Intangibles (Continued)
+Below is a summary of the changes in the carrying amount of goodwill by segment for the fiscal
+years ended February 27, 2016 and February 28, 2015:
+Retail Pharmacy
+Pharmacy Services Total
+Balance,March1,2014................... $ — — —
+Acquisitions........................... 76,124 — 76,124
+Balance, February 28, 2015 . . . . . . . . . . . . . . . . $76,124 $3 — $ 76,124
+Acquisition (see Note 2. Acquisition) . . . . . . . . . — 1,637,351 1,637,351
+Balance, February 27, 2016 . . . . . . . . . . . . . . . . $76,124 $1,637,351 $1,713,475
+The Company’s intangible assets are finite-lived and amortized over their useful lives. Following is
+a summary of the Company’s finite-lived and indefinitely-lived intangible assets as of February 27, 2016
+and February 28, 2015.
+2016 2015
+Remaining Remaining
+Weighted Weighted
+Gross Average Gross Average
+Carrying Accumulated Amortization Carrying Accumulated Amortization
+Amount Amortization Net Period Amount Amortization Net Period
+Favorable leases
+and other . . . . . $ 665,197 $ (507,776)$ 157,421 8 years $ 653,377 $ (481,041) $172,336 8 years
+Prescription files . . 1,541,518 (1,285,633) 255,885 3 years 1,440,154 (1,191,010) 249,144 3 years
+Customer
+relationships(a) . 465,000 (44,203) 420,797 17 years — — —
+CMS license . . . . . 57,500 (1,572) 55,928 25 years — — —
+Claims adjudication
+and other
+developed
+software . . . . . . 59,000 (5,760) 53,240 7 years — — —
+Trademarks. . . . . . 20,100 (1,373) 18,727 10 years — — —
+Backlog . . . . . . . . 11,500 (2,619) 8,881 3 years — — —
+Total finite . . . . . . $2,819,815 $(1,848,936) 970,879 $2,093,531 $(1,672,051) $421,480
+Trademarks. . . . . . 33,500 — 33,500 Indefinite — — —
+Total . . . . . . . . . . $2,853,315 $(1,848,936) $1,004,379 $2,093,531 $(1,672,051) $421,480
+(a) —Amortized on an accelerated basis which is determined based on the remaining useful economic lives of the
+customer relationships that are expected to contribute directly or indirectly to future cash ﬂows.
+Also included in other non-current liabilities as of February 27, 2016 and February 28, 2015 are
+unfavorable lease intangibles with a net carrying amount of $46,947 and $55,571, respectively. These
+intangible liabilities are amortized over their remaining lease terms at time of acquisition.
+117

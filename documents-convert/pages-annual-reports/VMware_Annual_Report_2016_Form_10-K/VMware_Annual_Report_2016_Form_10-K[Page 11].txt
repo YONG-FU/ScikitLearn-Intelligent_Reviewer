@@ -1,0 +1,42 @@
+Iablre,of,C,ontents
+infrastructure and enterprise IT solutions industry. These alliances may result in more compelling product and service offerings than we offer.
+Our partners and members of our developer and technology partner ecosystem. We face competition from our partners. For example, third parties currently
+selling our products and services could build and market their own competing products and services or market competing products and services of other vendors.
+Additionally, as formerly distinct sectors of enterprise IT such as software-based virtualization and hardware-based server, networking and storage solutions
+converge, we also increasingly compete with companies who are members of our developer and technology partner ecosystem. Consequently, we may ﬁnd it more
+difﬁcult to continue to work together productively on other projects, and the advantages we derive from our ecosystem could diminish. This competition could
+result in increased pricing pressure and sales and marketing expenses, thereby materially reducing our operating margins, and could also prevent our new products
+and services from gaining market acceptance, thereby harming our ability to increase, or causing us to lose, market share.
+Intellectual Property
+As of December 31, 2016, over 1,300 patents issued by the United States Patent and Trademark Office have been granted or assigned to us. We also have been
+granted or assigned patents from other countries. These patents cover various aspects of our server virtualization and other technologies. The granted US. patents
+expire beginning in 2018, with the last of the expiration dates being in 2035. We also have numerous pending US. provisional and non-provisional patent
+applications, and numerous pending foreign and international patent applications, that cover other aspects of our virtualization and other technologies.
+We have federal trademark registrations in the United States for “VMW ARE,” “VMWORLD,” “VSPHERE,” “VMW ARE VCLOUD,” “VMW ARE VIEW,”
+“VMOTION,” “HORIZON,” “AIRWATCH,” “VREALIZE,” “VFABRIC,” “VCLOUD,” “VMWARE NSX” and numerous other trademarks. We have also
+registered trademarks in a number of foreign countries.
+We rely on a combination of patent, trademark, copyright and trade secret laws in the United States and other jurisdictions, as well as confidentiality
+procedures and contractual provisions to protect our intellectual property rights and our brand.
+We enforce our intellectual property rights in the United States and a number of foreign countries. Despite our efforts, the steps we have taken to protect our
+proprietary rights may not be adequate to preclude misappropriation of our proprietary information or infringement of our intellectual property rights, and our
+ability to police such misappropriation or infringement is uncertain, particularly in countries outside of the United States. US. patent filings are intended to provide
+the holder with a right to exclude others from making, using, offering to sell, selling or importing into the US. products covered by the claims of granted patents.
+Our granted US. patents, and any future patents (to the extent they are issued), may be contested, circumvented or invalidated in the future. Moreover, the
+rights granted under any issued patents may not provide us with proprietary protection or competitive advantages, and we may not be able to prevent third parties
+from infringing these patents. Therefore, the exact effect of our patents and the other steps we have taken to protect our intellectual property cannot be predicted
+with certainty.
+Employees
+As of December 31, 2016, we had approximately 19,900 employees in 116 offices worldwide, less than 5% of which were contracted through Dell. None of
+our employees are represented by labor unions, and we consider current employee relations to be good.
+We contract with Dell to utilize personnel who are dedicated to work for VMware on a full-time basis. These individuals are located in countries in which we
+do not currently have an operating subsidiary and are predominantly dedicated to our sales and marketing efforts. We use contractors from time to time for
+temporary assignments and in locations in which we do not currently have operating subsidiaries. In the event that these contractor resources were not available,
+we do not believe that this would have a material adverse effect on our operations.
+Available Information
+Our website is located at www.vmware.com, and our investor relations website is located at http://ir.vmware.com. Our goal is to maintain the Investor
+Relations website as a portal through which investors can easily find or navigate to pertinent information about us, all of which is made available free of charge,
+including:
+° our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as
+reasonably practicable after we electronically file that material with or furnish it to the Securities and Exchange Commission (“SEC”);
+0 announcements of investor conferences, speeches and events at which our executives discuss our products, services and competitive strategies;
+1 0

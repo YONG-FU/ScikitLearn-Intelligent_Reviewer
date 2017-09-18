@@ -1,0 +1,47 @@
+The funded status of our qualified and non-qualified pension plans as of December 25, 2016 is as follows:
+7 December 25, 2016 7
+Qualified Non-Qualified
+(In thousands) Plans Plans All Plans
+|Pension obligation $ 1,798,652 $ 240,399 $ 2,039,051 ‘
+iFair value of plan assets 1,576,760 — 1,576,760,
+jPension underfunded/unfunded obligation, net $ (221,892) $ (240,399) $ (462,291)j
+We made contributions of approximately $8 million to certain qualified pension plans in 2016. We expect
+contributions to total approximately $9 million to satisfy minimum funding requirements in 2017.
+Pension expense is calculated using a number of actuarial assumptions, including an expected long-term rate of
+return on assets (for qualified plans) and a discount rate. Our methodology in selecting these actuarial assumptions is
+discussed below.
+In determining the expected long-term rate of return on assets, we evaluated input from our investment
+consultants, actuaries and investment management firms, including our review of asset class return expectations, as
+well as long-term historical asset class returns. Projected returns by such consultants and economists are based on
+broad equity and bond indices. Our objective is to select an average rate of earnings expected on existing plan assets
+and expected contributions to the plan (less plan expenses to be incurred) during the year. The expected long-term
+rate of return determined on this basis was 7.00% at the beginning of 2016. Our plan assets had an average rate of
+return of approximately 10.36% in 2016 and an average annual return of approximately 6.85% over the three-year
+period 2014-2016. We regularly review our actual asset allocation and periodically rebalance our investments to meet
+our investment strategy.
+The market-related value of plan assets is multiplied by the expected long-term rate of return on assets to
+compute the expected return on plan assets, a component of net periodic pension cost. The market-related value of
+plan assets is a calculated value that recognizes changes in fair value over three years.
+Based on the composition of our assets at the end of the year, we estimated our 2017 expected long-term rate of
+return to be 6.75%. If we had decreased our expected long-term rate of return on our plan assets by 50 basis points to
+6.50% in 2016, pension expense would have increased by approximately $8 million in 2016 for our qualified pension
+plans. Our funding requirements would not have been materially affected.
+We determined our discount rate using a Ryan ALM, Inc. Curve (the “Ryan Curve”). The Ryan Curve provides
+the bonds included in the curve and allows adjustments for certain outliers (i.e., bonds on ”watch”). We believe the
+Ryan Curve allows us to calculate an appropriate discount rate.
+To determine our discount rate, we project a cash ﬂow based on annual accrued benefits. For active
+participants, the benefits under the respective pension plans are projected to the date of termination. The projected
+plan cash ﬂow is discounted to the measurement date, which is the last day of our fiscal year, using the annual spot
+rates provided in the Ryan Curve. A single discount rate is then computed so that the present value of the benefit cash
+ﬂow equals the present value computed using the Ryan Curve rates.
+The weighted-average discount rate determined on this basis was 4.31% for our qualified plans and 4.17% for
+our non-qualified plans as of December 25, 2016.
+If we had decreased the expected discount rate by 50 basis points for our qualified plans and our non-qualified
+plans in 2016, pension expense would have increased by approximately $1 million as of December 25, 2016 and our
+pension obligation would have increased by approximately $124 million.
+We will continue to evaluate all of our actuarial assumptions, generally on an annual basis, and will adjust as
+necessary. Actual pension expense will depend on future investment performance, changes in future discount rates,
+the level of contributions we make and various other factors.
+We also recognize the present value of pension liabilities associated with the withdrawal from multiemployer
+pension plans. Our multiemployer pension plan withdrawal liability was approximately $113 million as of
+THE NEW YORK TIMES COMPANY — P. 45

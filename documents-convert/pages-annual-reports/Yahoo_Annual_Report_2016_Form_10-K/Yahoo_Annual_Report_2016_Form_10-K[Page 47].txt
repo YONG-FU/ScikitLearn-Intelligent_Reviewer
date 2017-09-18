@@ -1,0 +1,31 @@
+Table,0f,C,0ntents
+The 2013 Security Incident, the 2014 Security Incident, and the Cookie Forging Activity are collectively referred to herein as the “Security Incidents.” V\ﬁth respect
+to each of the Security Incidents, the impacted users and appropriate regulatory and law enforcement agencies have been notiﬁed.
+The Company, with the assistance of outside forensic experts, has concluded its investigation of the Security Incidents. The Company continues to work with
+US. law enforcement authorities on these matters.
+Current and Future Expenses and Losses
+We recorded expenses of $16 million related to the Security Incidents in the year ended December 31, 2016, of which $5 million was associated with the
+ongoing forensic investigation and remediation activities and $11 million was associated with nonrecurring legal costs. The Security Incidents did not have a
+material adverse impact on our business, cash ﬂows, financial condition, or results of operations for the year ended December 31, 2016. However, we have
+subsequently incurred additional expenses related to the Security Incidents to investigate and take remedial actions to notify and protect our users and systems,
+and expect to continue to incur investigation, remediation, legal, and other expenses associated with the Security Incidents in the foreseeable future. We will
+recognize and include these expenses as part of our operating expenses as they are incurred. The Company does not have cybersecurity liability insurance.
+Litigation, Claims, and Governmental Investigations
+To date, approximately 43 putative consumer class action lawsuits have been ﬁled against the Company in US. federal and state courts, and in foreign courts,
+relating to the Security Incidents. The plaintiffs, who purport to represent various classes of users, generally claim to have been harmed by the Company’s
+alleged actions and/or omissions in connection with the Security Incidents and assert a variety of common law and statutory claims seeking monetary damages
+or other related relief. In addition, a putative stockholder class action has been ﬁled against the Company, and certain current ofﬁcers of the Company, asserting
+claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and seeking class certification, unspeciﬁed damages, interest, and an award of
+attorney’s fees and costs. Four stockholder derivative actions have also been filed purportedly on behalf of the Company against current and former directors
+and ofﬁcers. See Note 12—“Commitments and Contingencies” in the Notes to our consolidated ﬁnancial statements for additional information. Additional lawsuits
+and claims related to the Security Incidents may be asserted by or on behalf of users, partners, shareholders, or others seeking damages or other related relief.
+In addition, the Company is cooperating with federal, state, and foreign governmental ofﬁcials and agencies seeking information and/or documents about the
+Security Incidents and related matters, including the US. Securities and Exchange Commission (“SEC”), the US. Federal Trade Commission, the US.
+Attorney’s Office for the Southern District of New York, and two State Attorneys General.
+Independent Committee Investigation
+As previously disclosed, an independent committee (the “Independent Committee”) of the Board of Directors (the “Board”) has investigated the Security Incidents
+and related matters, including the scope of knowledge within the Company in 2014 of access to Yahoo’s network by the state-sponsored actor responsible for
+the theft and related incidents, the Company’s internal and external reporting processes and remediation efforts related to the 2014 Security Incident and related
+incidents. The Independent Committee has concluded its investigation, although it will continue to review developments regarding the Security Incidents and
+report to the Board on these issues, and cooperate with various government entities. The Independent Committee was assisted by independent counsel,
+46

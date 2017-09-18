@@ -1,0 +1,49 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES — (continued)
+The noncontrolling interest as recorded in the Consolidated Balance Sheets at December 31,
+2016 and 2015, included foreign currency translation adjustments of approximately ($1,065,000) and
+($1 ,061 ,000), respectively.
+The following presents a tabular disclosure about changes in accumulated other comprehensive
+loss (dollars in thousands):
+Foreign Defined
+Currency Benefit
+Translation Pension
+Adjustments Items Total
+Balance, December 31, 2014 . . . . . . . . . . . . . . . . . . $(2,894) $(15,136) $(18,030)
+Other comprehensive (loss) income before
+reclassifications .......................... (2,797) 1,285 (1,512)
+Amounts reclassified from accumulated other
+comprehensiveloss....................... — 1,075 1,075
+Net current period other comprehensive (loss)
+(2,797) 2,360 (437)
+Balance, December 31, 2015 . . . . . . . . . . . . . . . . . . $(5,691) $(12,776) $(18,467)
+Other comprehensive income before
+reclassifications.......................... 202 765 967
+Amounts reclassified from accumulated other
+comprehensiveloss....................... — 931 931
+Net current period other comprehensive income . . . . 202 1,696 1,898
+Balance, December 31, 2016 . . . . . . . . . . . . . . . . . . $(5,489) $(11,080) $(16,569)
+The following presents a tabular disclosure about reclassification adjustments out of accumulated
+other comprehensive loss during the years ended December 31, 2016 and 2015 (dollars in
+thousandsy
+. . Affected line
+Amztzmsrtrsstrref"m g2:
+comprehensuve loss for the where net
+year ended December 31, income is
+2016 2015 presented
+Amortization of defined benefit pension items
+Priorservicecost........................ $(262) $(112) (1)
+Actuariallosses......................... 1,789 1,874 (1)
+Totalbeforetax......................... 1,527 1,762
+Taxbenefit............................ (596) (687)
+Netoftax............................. $931 $1,075
+(1) These amounts were included in the computation of net periodic pension cost. See Note 11 for
+additional details.
+Stock-Based Compensation —At December 31, 2016, the Company had two stock-based
+employee compensation plans, which are described more fully in Note 17. The Company accounts
+for these plans under the recognition and measurement principles of ASC 718, Compensation —
+Stock Compensation, (“ASC 718”). The Company’s policy is to estimate the fair market value of each
+option award granted on the date of grant using the Black-Scholes option pricing model. The
+Company estimates the fair value of each restricted stock award based on the fair market value of
+40

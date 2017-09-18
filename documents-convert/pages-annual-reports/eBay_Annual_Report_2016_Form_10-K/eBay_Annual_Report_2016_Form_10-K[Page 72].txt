@@ -1,0 +1,49 @@
+We have a foreign exchange exposure management program designed to identify
+material foreign currency exposures, manage these exposures and reduce the potential
+effects of currency fluctuations on our reported consolidated cash flows and results of
+operations through the purchase of foreign currency exchange contracts. The effectiveness of
+the program and resulting usage of foreign exchange derivative contracts is at times limited
+by our ability to achieve cash flow hedge accounting. Subsequent to the Distribution, fewer of
+our currency flows meet the US. GAAP criteria for cash flow hedge accounting. While,
+economically, we face the same currency risks, our statement of income is more subject to
+volatility due to currency fluctuations. These foreign currency exchange contracts are
+accounted for as derivative instruments; for additional details related to our derivative
+instruments, please see “Note 9 — Derivative Instruments” to our consolidated financial
+statements included in this report.
+We use foreign exchange derivative contracts and invest non-U.S. cash in US.
+denominated investments to ultimately protect our forecasted U.S. dollar-equivalent earnings
+from adverse changes in foreign currency exchange rates. These hedging contracts reduce,
+but do not entirely eliminate, the impact of adverse currency exchange rate movements. Most
+of these contracts are designated as cash flow hedges for accounting purposes. For qualifying
+cash flow hedges, the effective portion of the derivative’s gain or loss is initially reported as a
+component of accumulated other comprehensive income (“A001”) and subsequently
+reclassified into earnings in the same period the forecasted transaction affects earnings. The
+ineffective portion of the unrealized gains and losses on these contracts, if any, is recorded
+immediately in earnings. For contracts not designated as cash flow hedges for accounting
+purposes, the derivative’s gain or loss is recognized immediately in earnings in our
+consolidated statement of income. However, only certain revenue and costs are eligible for
+cash flow hedge accounting.
+Certain of our foreign subsidiaries hold U.S. denominated marketable securities. The US.
+dollar/Euro is the primary foreign exchange exposure for these nonfunctional currency
+denominated marketable securities. These marketable securities are classified as
+available—for-sale and as such, fluctuations in the foreign exchange are recorded in
+accumulated other comprehensive income within the consolidated balance sheet. These
+fluctuations are subsequently reclassified from accumulated other comprehensive income to
+interest and other, net in the period in which the marketable securities are sold. The realized
+foreign exchange gains and losses on these securities offset a portion of the foreign exchange
+fluctuations in earnings for the company.
+The following table illustrates the fair values of outstanding foreign exchange contracts
+designated as cash flow hedges and nonfunctional currency denominated marketable
+securities and the before-tax effect on fair values of a hypothetical adverse change in the
+foreign exchange rates that existed as of December 31, 2016. The sensitivities for foreign
+currency contracts and nonfunctional currency denominated marketable securities are based
+on a 20% adverse change in foreign exchange rates, against relevant functional currencies.
+Fair Value Fair Value
+Asset/(Liability) Sensitivity (1)
+(ln_mi||ions)
+I Foreign exchange contracts — Cash flow hedges $ 64 $(126) ‘
+Marketable Securities $878 $(176)
+(1) A hypothetical adverse change of 20% in the foreign exchange rates as of December 31, 2016, would have resulted in a before-tax
+loss of $126 million and $176 million to be recorded in A001 related to foreign exchange contracts designated as cash flow hedges
+and nonfunctional currency denominated marketable securities.
+65

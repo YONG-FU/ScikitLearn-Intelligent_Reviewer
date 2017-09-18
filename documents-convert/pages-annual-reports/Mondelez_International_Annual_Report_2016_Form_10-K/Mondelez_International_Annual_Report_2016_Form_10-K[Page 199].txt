@@ -1,0 +1,24 @@
+provided that if on any date of determination (x) a rating is available on such date from only one of Standard & Poor’s and Moody’s but not the other, the
+Applicable Interest Rate Margin shall be determined by reference to the then available rating; (y) no rating is available from either of Standard & Poor’s or
+Moody’s, the Applicable Interest Rate Margin shall be determined by reference to the rating of any other nationally recognized statistical rating organization
+designated by Mondelez and approved in writing by the Required Lenders and (z) no rating is available from any of Standard & Poor’s, Moody’s or any other
+nationally recognized statistical rating organization designated by Mondeléz and approved in writing by the Required Lenders, the Applicable Interest Rate Margin
+shall be 0.250% as to any Base Rate Advance and 1.250% as to any LIBO Rate Advance.
+“ Applicable Lending Ofﬁce ” means, with respect to each Lender, such Lender’s Domestic Lending Ofﬁce in the case of a Pro Rata Advance and, in
+the case of a Competitive Bid Advance, the ofﬁce of such Lender notiﬁed by such Lender to the Administrative Agent as its Applicable Lending Office with respect
+to such Competitive Bid Advance.
+“ Assignment and Acceptance ” means an assignment and acceptance entered into by a Lender and an Eligible Assignee, and accepted by the
+Administrative Agent in substantially the form of Exhibit C hereto.
+“ Augmenting Lender ” has the meaning assigned to such term in Section 2.18(a).
+“ Bail:In,Action,” means the exercise of any Write-Down and Conversion Powers by the applicable EEA Resolution Authority in respect of any
+liability of an EEA Financial Institution.
+“ Bail:In,Legislation” means, with reSpect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European
+Parliament and of the Council of the European Union, the implementing law for such EEA Member Country from time to time which is described in the EU Bail-In
+Legislation Schedule.
+“ BaseiRate,” means a ﬂuctuating interest rate per annum in effect from time to time, which rate per annum shall at all times be equal to the highest of:
+(i) the rate of interest announced publicly by the Administrative Agent in New York, New York, from time to time, as the Administrative Agent’s prime rate;
+(ii) 1/2 of one percent per annum above the Federal Funds Effective Rate; and
+(iii) the LIBO Rate for Dollars for a one month Interest Period appearing on Reuters Screen LIBOROl on such day (or if such day is not a Business Day, the
+immediately preceding Business Day) plus 1% per annum;
+provided that in no event shall the Base Rate be less than zero.
+-3-

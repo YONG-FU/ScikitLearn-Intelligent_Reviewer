@@ -1,0 +1,37 @@
+Deferred Income Tax Assets and Liabilities
+Components of current and noncurrent deferred income taxes follow:
+7 20 1 6 7 7 201 5 7
+Noncurrent Noncurrent
+assets and assets and
+7 liabilities 7 7 liabilities 7
+[Accruals and other adjustments [
+Employee beneﬁts $ 761 $ 808
+[ Depreciation and amortization (1,823) (1,824)[
+Other accruals and adjustments 796 717
+[United States federal income tax loss carryforwards 51 20[
+United States federal income tax credit carryforwards 182 183
+United States state and local tax loss carryforwards and
+tax credit carryforwards 63 63
+Other foreign tax loss carryforwards 1,715 2,265
+[Other foreign income tax credit carryforwards 63 70]
+Valuation allowance for income tax loss and income tax
+credit carryforwards (1,728) (2,3 15)
+[Other valuation allowances (41) (15)[|
+Total deferred income taxes :$ 39 : :$ (28):
+In July 2013, the FASB issued Accounting Standards Update No. 2013-11, Presentation of an Unrecognized Tax Beneﬁt
+When a Net Operating Loss Carryforward, a Similar Loss, or a Tax Credit Carryforward Exists (ASU 2013-11). ASU 2013-11
+requires the netting of unrecognized tax benefits against a deferred tax asset for a loss or other carryforward that would apply in
+settlement of the uncertain tax positions except where the deferred tax asset or other carryforward are not available for use. The
+adoption of this standard resulted in a reduction of the Company’s consolidated long term deferred tax assets by $331 in 2016
+and $262 in 2015.
+At December 31, 2016, certain Irish and non-United States subsidiaries had tax loss carryforwards and income tax credit
+carryforwards that are available to reduce future taxable income and tax liabilities. These carryforwards and their respective
+expiration dates are summarized below:
+2017 2022 2027 2032 Not
+through through through through subject to Valuation
+: 2021 :_: 2026 :_: 2031 :_: 2036 expiration allowance :
+[Ireland and Non-US. income tax loss carryforwards $ 652 $ 7,476 $ 3 $ $ 3,685 $ [
+Ireland and Non-U.S. deferred income tax assets for
+income tax loss carryforwards 76 688 1 950 (1,607)
+[Ireland and Non-US. income tax credit carryforwards 10 21 2 7 30 (31)[
+42

@@ -1,0 +1,52 @@
+Research and Development
+We focus our research and development efforts on developing new products and core technologies in our core markets
+and to further enhancing the functionality, reliability, performance and ﬂexibility of existing products. We solicit extensive
+feedback concerning product development from customers, both directly from and indirectly through our channel distributors.
+We believe that our software development teams and core technologies represent a significant competitive advantage for
+us. Included in the software development teams are individuals focused on research activities that include prototyping ways to
+integrate emerging technologies and standards into our product offerings, such as emerging Web services technologies,
+management standards and Microsoft's newest technologies. Many groups within the software development teams have
+expertise in Extensible Markup Language, or XML, based software development, integration of acquired technology, multi-tier
+Web-based application development and deployment, SSL secure access, hypervisor technologies, cloud technologies,
+networking technologies, VoIP-based audio technology, Web-based Video technology and building SaaS. We incurred research
+and development expenses of approximately $489.3 million in 2016, $564.0 million in 2015 and $553.8 million in 2014.
+Sales, Marketing and Services
+We market and license our products and services through multiple channels worldwide, including selling through resellers
+and direct over the Web. Our partner community comprises thousands of value-added resellers known as Citrix Solution
+Advisers, VADs, cloud service providers, SIs, ISVs and OEMs. Distribution channels are managed by our worldwide sales and
+services organization. Partners receive training and certification opportunities to support our portfolio of products, solutions
+and services. In addition, the GoTo Business segment provided our collaboration and data sharing offerings through direct
+corporate sales, our partner community, and direct through our websites.
+We reward our partners that provide sales expertise, services delivery, customer education, technical implementation and
+support of the Citrix portfolio of products through our Citrix Advisor Rewards program. We continue to focus on increasing the
+productivity of our existing partners, and building capacity through targeted recruitment, introducing programs to increase
+partner mindshare, limit channel conﬂict and increase partner loyalty to us.
+As we lead with the cloud, we have been cultivating a global base of partners within the Citrix Service Provider
+program. These partners, consisting of managed service providers, IT hosting companies and telcos, license our desktop,
+application, networking and enterprise mobility management products on a monthly subscription basis. With these technologies
+partners then create various vertically differentiated offers of their own, consisting of cloud-hosted applications and cloud-
+hosted desktops, which they then resell both to SMBs and to enterprise IT. Besides supplying technology, we are actively
+engaged in assisting these partners develop their hosted businesses either within their data centers or leveraging public cloud
+infrastructure by supplying business and marketing assistance.
+For all of our channels, we regularly take actions to improve the effectiveness of our partner programs and further
+strengthen our channel relationships through management of non-performing partners, recruitment of partners with expertise in
+selling into new markets and forming additional strategic global and national partnerships. Engagement with SIs and ISVs
+continues to be a substantial part of our strategic roadmap within large enterprise and government markets. Our integrator
+partnerships include organizations such as Accenture, Capgemini, Computer Sciences Corporation, Dimension Data, HPE,
+Fujitsu, IBM Global Services, and Wipro, among others. Computer Sciences Corporation, Fujitsu, HPE, IBM and Wipro all
+deliver offerings powered by the Citrix Workspace Suite. The ISV program maintains a strong representation across targeted
+industry verticals including healthcare, financial services and telecommunications. Members in the ISV program include
+Allscripts, Cemer Corporation, Epic Systems Corporation, McKesson Corporation, and Siemens Medical Health Solutions,
+among several others.
+Our corporate marketing organization provides sales and industry event support, demand generation, Web and social
+marketing, sales tools and collateral, advertising, direct mail, industry analyst relations and public relations coverage to our
+indirect channels to aid in market development and in attracting new customers. Our partner development organization actively
+supports our partners to improve their commitment and capabilities with Citrix solutions. Our customer sales organization
+consists of field-based sales engineers and corporate sales professionals who work directly with our largest customers, and
+coordinate integration services provided by our partners. Additional sales personnel, working in central locations and in the
+field, provide support including recruitment of prospective partners and technical training with respect to our products.
+In fiscal years 2016 and 2015, there were no individual customers that accounted for over 10% of our total net revenues.
+In fiscal year 2014, one distributor, Ingram Micro, accounted for 13% of our total net revenues. Our distributor arrangements
+with Ingram Micro consist of several non-exclusive, independently negotiated agreements with its subsidiaries, each of which
+covers different countries or regions. Each agreement is negotiated separately and is independent of any other contract (such as
+9

@@ -1,0 +1,40 @@
+Revenue Recognition
+The Company derives its revenues from two sources: (1) subscription revenues, which are comprised of
+subscription fees from customers accessing the Company’s enterprise cloud computing services and from
+customers paying for additional support beyond the standard support that is included in the basic subscription
+fees; and (2) related professional services such as process mapping, project management, implementation
+services and other revenue. “Other revenue” consists primarily of training fees.
+The Company commences revenue recognition when all of the following conditions are satisfied:
+0 there is persuasive evidence of an arrangement;
+0 the service has been or is being provided to the customer;
+0 the collection of the fees is reasonably assured; and
+0 the amount of fees to be paid by the customer is fixed or determinable.
+The Company’s subscription service arrangements are non-cancelable and do not contain refund-type
+provisions.
+Subscription and Support Revenues
+Subscription and support revenues are recognized ratably over the contract terms beginning on the
+commencement date of each contract, which is the date the Company’s service is made available to customers.
+Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue,
+depending on whether the revenue recognition criteria have been met.
+Professional Services and Other Revenues
+The majority of the Company’s professional services contracts are on a time and material basis. When these
+services are not combined with subscription revenues as a single unit of accounting, as discussed below, these
+revenues are recognized as the services are rendered for time and material contracts, and when the milestones are
+achieved and accepted by the customer for fixed price contracts. Training revenues are recognized as the services
+are performed.
+Multiple Deliverable Arrangements
+The Company enters into arrangements with multiple deliverables that generally include multiple subscriptions,
+premium support and professional services. If the deliverables have standalone value upon delivery, the Company
+accounts for each deliverable separately. Subscription services have standalone value as such services are often sold
+separately. In determining whether professional services have standalone value, the Company considers the following
+factors for each professional services agreement: availability of the services from other vendors, the nature of the
+professional services, the timing of when the professional services contract was signed in comparison to the
+subscription service start date and the contractual dependence of the subscription service on the customer’ s satisfaction
+with the professional services work. To date, the Company has concluded that all of the professional services included
+in multiple deliverable arrangements executed have standalone value.
+Multiple deliverables included in an arrangement are separated into different units of accounting and the
+arrangement consideration is allocated to the identified separate units based on a relative selling price hierarchy.
+The Company determines the relative selling price for a deliverable based on its vendor-specific objective
+evidence of selling price (“VSOE”), if available, or its best estimate of selling price (“BESP”), if VSOE is not
+available. The Company has determined that third-party evidence of selling price (“T PE”) is not a practical
+82

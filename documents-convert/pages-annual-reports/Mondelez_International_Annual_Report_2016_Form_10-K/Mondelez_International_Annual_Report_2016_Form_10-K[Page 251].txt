@@ -1,0 +1,22 @@
+SECTION 9.06 Binding Effect . This Agreement shall be binding upon and inure to the beneﬁt of Mondeléz, each of the Borrowers, the
+Administrative Agent and each Lender and their respective successors and assigns, except that neither any Borrower nor Mondeléz shall have the right to assign its
+rights hereunder or any interest herein without the prior written consent of each of the Lenders.
+SECTION 9.07 AssignmentsiandParticipatiQns,.
+(a) ASSjgnmentoﬁLendeLleigatiQns,. Each Lender may assign to one or more Persons all or a portion of its rights and obligations under this
+Agreement (including, without limitation, all or a portion of its Commitment and the Pro Rata Advances owing to it), subject to the following:
+(i) each such assignment shall be of a constant, and not a varying, percentage of all rights and obligations under this Agreement (other than, except in
+the case of an assignment made pursuant to Section 9.07(h), any Competitive Bid Advances owing to such Lender or any Competitive Bid Notes held by it);
+(ii) the amount of the Commitment of the assigning Lender being assigned pursuant to each such assignment (determined as of the date of the
+Assignment and Acceptance with respect to such assignment) shall in no event, other than with respect to assignments to other Lenders, or afﬁliates of
+Lenders, or assignment of the entire Commitment amount held by such Lender or the entire amount of Pro Rata Advances owing to such Lender, be less than
+$10,000,000, subject in each case to reduction at the sole discretion of Mondeléz, and shall be an integral multiple of $1,000,000;
+(iii) each such assignment shall be to an Eligible Assignee,
+(iv) each such assignment shall require the prior written consent of (x) the Administrative Agent, and (y) unless an Event of Default under Sections
+6.01(a) or (e) has occurred and is continuing, Mondeléz (such consents not to be unreasonably withheld or delayed and such consents by Mondeléz shall be
+deemed given if no objection is received by the assigning Lender and the Administrative Agent from Mondeléz within twenty (20) Business Days after
+written notice of such proposed assignment has been delivered to Mondeléz); provided, that no consent of the Administrative Agent or Mondeléz shall be
+required for an assignment to another Lender or an afﬁliate of a Lender; and
+(v) the parties to each such assignment shall execute and deliver to the Administrative Agent for its acceptance and recording in the Register, an
+Assignment and Acceptance, together with a processing and recordation fee of $3,500 (unless such assignment is made to an affiliate of the transferring
+Lender) provided, that, if such assignment is made pursuant to Section 9.07(h), Mondeléz shall pay or cause to be paid such $3,500 fee.
+-55-

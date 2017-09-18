@@ -1,0 +1,43 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(g) Revenue recognition (Continued)
+Membership and storefront fees
+The Company earns membership revenue from wholesale sellers in respect of the sale of membership
+packages and subscriptions which allow them to host premium storefronts on the Company’s wholesale
+marketplaces. The Company also earns revenue from merchants who subscribe to Wangpu, the Company’s
+storefront software that includes a suite of tools that assist merchants in upgrading, decorating and managing
+their storefronts on retail marketplaces. These service fees are paid in advance for a specific contracted service
+period. All these fees are initially deferred when received and revenue is recognized ratably over the term of
+the respective service contracts as the services are provided.
+Cloud computing
+The Company earns revenue from cloud computing from the provision of services such as elastic computing,
+database services and storage and large scale computing services, as well as web hosting and domain name
+registration. Revenue is recognized at the time when the services are provided or ratably over the term of the
+service contracts as appropriate.
+Interest and other income
+Interest income on micro loans (Note 2(r)) is recognized as other revenue using the effective interest rate
+method which is reviewed and adjusted periodically based on changes in estimated cash ﬂows. The Company
+disposed of certain equity interests and assets primarily relating to the micro loan business and related services
+and ceased to generate interest income on micro loans upon the completion of the restructuring of Payment
+Services during the year ended March 31, 2015 (Note 4(b)). Other interest income is recognized on a
+time-proportion basis using the effective interest method, and is classified as “interest and investment income”
+in the consolidated income statements. Other than the above, receipts of fees in respect of all other incidental
+services provided by the Company, including mobile value-added services, are recognized when services are
+delivered and the amounts relating to such incidental services are not material to the Company’s
+total revenue.
+(h) Cost of revenue
+Cost of revenue consists primarily of staff costs and share-based compensation expense, payment processing
+fees, expenses associated with the operation of the Company’s websites, such as bandwidth and co-location
+fees, depreciation and maintenance costs for computers, servers, call centers and other equipment, traffic
+acquisition costs, logistics costs and other related incidental expenses that are directly attributable to the
+Company’s principal operations.
+(i) Product development expenses
+Product development expenses consist primarily of staff costs and share-based compensation expense and
+other related incidental expenses that are directly attributable to the development, maintenance and
+enhancement of the infrastructure, applications, operating systems, software, database and network for the
+Company’s marketplaces, mobile products as well as transaction and service platforms. In addition, royalty fees
+accrued and paid to Yahoo up to the closing of the Company’s initial public offering in September 2014 are
+recorded as part of product development expenses (Note 23).
+F-22

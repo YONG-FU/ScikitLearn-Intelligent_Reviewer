@@ -1,0 +1,48 @@
+° Restructuring charges —- We have incurred restructuring charges that are included in our GAAP financial statements,
+primarily related to workforce reductions and estimated costs of exiting facility lease commitments. We exclude these
+items from our non-GAAP financial measures when evaluating our continuing business performance as such items
+vary significantly based on the magnitude of the restructuring action and do not reﬂect expected future operating
+expenses. In addition, these charges do not necessarily provide meaningful insight into the fundamentals of current or
+historical operations of our business.
+- Beneﬁt from adoption of software development activities —- In 2014, we recognized a benefit to non-income related
+tax expense associated with the adoption of software development activities. We exclude this item from our non—
+GAAP financial measures because transactions of this nature occur infrequently and are not considered part of our core
+business operations.
+- Amortization of debt discount and issuance costs and amortization of capitalized interest expense — In February
+2014, we issued $690 million of convertible senior notes due 2019 with a coupon interest rate of 0%. The imputed
+interest rate of the convertible senior notes was approximately 3.2%. This is a result of the debt discount recorded for
+the conversion feature that is required to be separately accounted for as equity under GAAP, thereby reducing the
+carrying value of the convertible debt instrument. The debt discount is amortized as interest expense together with the
+issuance costs of the debt. All of our interest expense is comprised of these non-cash components and is excluded from
+management's assessment of our operating performance because management believes the non-cash expense is not
+representative of ongoing operating performance.
+° Gains and losses on investments — We have recorded gains and losses from the disposition and impairment of certain
+investments. We believe excluding these amounts from our non-GAAP financial measures is useful to investors as the
+types of events giving rise to them occur infrequently and are not representative of our core business operations and
+ongoing operating performance.
+0 Legal matter costs — We have incurred losses from the settlement of legal matters and costs with respect to our
+internal US. Foreign Corrupt Practices Act investigation in addition to the disgorgement we were required to pay to
+resolve it. We believe excluding these amounts from our non-GAAP financial measures is useful to investors as the
+types of events giving rise to them are not representative of our core business operations.
+0 Income tax effect of non-GAAP adjustments and certain discrete tax items — The non-GAAP adjustments
+described above are reported on a pre-tax basis. The income tax effect of non-GAAP adjustments is the difference
+between GAAP and non-GAAP income tax expense. Non-GAAP income tax expense is computed on non-GAAP pre-
+tax income (GAAP pre-tax income adjusted for non-GAAP adjustments) and excludes certain discrete tax items (such
+as recording or releasing of valuation allowances), if any. We believe that applying the non-GAAP adjustments and
+their related income tax effect allows us to highlight income attributable to our core operations.
+The following table reconciles GAAP income from operations to non-GAAP income from operations and non-GAAP
+operating margin for the years ended December 31, 2016, 2015 and 2014 (in thousands):
+2016 2015 2014
+Income from operations 55 459,594 $ 466,150 $ 489,519
+Amortization of acquired intangible assets 26,642 27,067 32,057
+Stock-based compensation 144,506 126,677 1 1 1,996
+Amortization of capitalized stock-based compensation and capitalized interest
+expense 15,439 13,618 10,506
+Restructuring charges 10,301 767 1,1 89
+Acquisition-related costs 1,064 865 4,807
+Legal matter costs 890 3,291 285
+Benefit from adoption of software development activities ; ; (2,670)
+Non-GAAP income from operations 755 658,436 7 735 638,435 7 735 647,689 7
+GAAP operating margin 20% 21% 25%
+Non-GAAP operating margin 28% 29% 33%
+36

@@ -1,0 +1,43 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+18. Retirement Plans (Continued)
+The table below sets forth reconciliation from the beginning of the year for both the benefit
+obligation and plan assets of the Company’s defined benefit plans, as well as the funded status and
+amounts recognized in the Company’s balance sheet as of February 27, 2016 and February 28, 2015:
+Deﬁned Benefit Nonqualified Executive
+Pension Plan Retirement Plan
+2016 2015 2016 2015
+Change in benefit obligations:
+Benefit obligation at end of prior year. . . . . . . . . . . . . . $167,256 $148,596 $ 12,685 $ 12,865
+Servicecost................................. 1,498 2,543 — —
+Interestcost................................. 6,398 6,474 475 542
+Distributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (7,408) (12,190) (1,540) (1,616)
+Change due to change in assumptions . . . . . . . . . . . . . . — — — —
+Actuarial (gain) loss . . . . . . . . . . . . . . . . . . . . . . . . . . . (11,270) 21,833 (574) 894
+Benefit obligation at end of year . . . . . . . . . . . . . . . . . . . $156,474 $167,256 $ 11,046 $ 12,685
+Change in plan assets:
+Fair value of plan assets at beginning of year . . . . . . . . . $129,934 $128,984 $ — $ —
+Employer contributions . . . . . . . . . . . . . . . . . . . . . . . . — 1,159 1,540 1,616
+Actual return on plan assets . . . . . . . . . . . . . . . . . . . . . (12,309) 11,981 — —
+Distributions (including expenses paid by the plan) . . . . (7,408) (12,190) (1,540) (1,616)
+Fair value of plan assets at end of year . . . . . . . . . . . . . . . $110,217 $129,934 $ — $ —
+Funded status ................................. $(46,257) $(37,322) $(11,046) $(12,685)
+Net amount recognized . . . . . . . . . . . . . . . . . . . . . . . . . . $(46,257) $(37,322) $(11,046) $(12,685)
+Amounts recognized in consolidated balance sheets
+consisted of:
+Prepaidpensioncost.......................... $ — $ —$ — $ —
+Accrued pension liability. . . . . . . . . . . . . . . . . . . . . . . . (46,257) (37,322) (11,046) (12,685)
+Net amount recognized . . . . . . . . . . . . . . . . . . . . . . . . . . $(46,257) $(37,322) $(11,046) $(12,685)
+Amounts recognized in accumulated other comprehensive
+loss consist of:
+Netactuarialloss............................. $(53,825) $(50,146)$ — $ —
+Priorservicecost............................. — (67) — —
+Amountrecognized............................. $(53,825) $(50,213)$ — $ —
+The estimated net actuarial loss and prior service cost amounts that will be amortized from
+accumulated other comprehensive loss into net periodic pension expense in fiscal 2017 are $4,529 and
+$0, respectively.
+The accumulated benefit obligation for the defined benefit pension plan was $156,474 and
+$167,256 as of February 27, 2016 and February 28, 2015, respectively. The accumulated benefit
+133

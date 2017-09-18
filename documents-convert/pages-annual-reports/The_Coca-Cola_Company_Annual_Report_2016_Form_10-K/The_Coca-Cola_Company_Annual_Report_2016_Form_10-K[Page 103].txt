@@ -1,0 +1,48 @@
+The following table summarizes the notional values and pretax impact of changes in the fair values of instruments designated
+as net investment hedges (in millions):
+7 Notional Amount 7 7 Gain (Loss) Recognized in OCI 7
+: as of December 31, 7 7 Year Ended December 31,
+7 2016 2015 2016 2015 2014 7
+Foreign currency contracts $ 100 $ 1,347 $ (237) $ 661 $ 80
+Foreign currency denominated debt 11,113 10,912 304 (24) _
+Total $ 11,213 $ 12,259 $ 67 $ 637 $ 80 7
+The Company reclassified net deferred losses of $77 million related to the deconsolidation of our German bottling operations
+from AOCI into earnings during the year ended December 31, 2016. The Company did not reclassify any deferred gains or
+losses related to net investment hedges from AOCI to earnings during the years ended December 31, 2015 and 2014. In
+addition, the Company did not have any ineffectiveness related to net investment hedges during the years ended December 31,
+2016, 2015 and 2014. The cash inﬂows and outﬂows associated with the Company's derivative contracts designated as net
+investment hedges are classified in the line item other investing activities in our consolidated statements of cash ﬂows.
+Economic Won-Designated) Hedging Strategy
+In addition to derivative instruments that are designated and qualify for hedge accounting, the Company also uses certain
+derivatives as economic hedges of foreign currency, interest rate and commodity exposure. Although these derivatives were not
+designated and/or did not qualify for hedge accounting, they are eﬁective economic hedges. The changes in fair value of
+economic hedges are immediately recognized into earnings.
+The Company uses foreign currency economic hedges to offset the earnings impact that ﬂuctuations in foreign currency
+exchange rates have on certain monetary assets and liabilities denominated in nonfunctional currencies. The changes in fair
+value of economic hedges used to offset those monetary assets and liabilities are immediately recognized into earnings in the
+line item other income (loss) — net in our consolidated statements of income. In addition, we use foreign currency economic
+hedges to minimize the variability in cash ﬂows associated with ﬂuctuations in foreign currency exchange rates. The changes in
+fair values of economic hedges used to offset the variability in US. dollar net cash ﬂows are recognized into earnings in the
+line items net operating revenues or cost of goods sold in our consolidated statements of income, as applicable. The total
+notional values of derivatives related to our foreign currency economic hedges were $5,276 million and $3,605 million as of
+December 31, 2016 and 2015, respectively.
+The Company also uses certain derivatives as economic hedges to mitigate the price risk associated with the purchase of
+materials used in the manufacturing process and for vehicle fuel. The changes in fair values of these economic hedges are
+immediately recognized into earnings in the line items net operating revenues, cost of goods sold, and selling, general and
+administrative expenses in our consolidated statements of income, as applicable. The total notional values of derivatives related
+to our economic hedges of this type were $447 million and $893 million as of December 31, 2016 and 2015, respectively.
+The following table presents the pretax impact that changes in the fair values of derivatives not designated as hedging
+instruments had on earnings during the years ended December 31, 2016, 2015 and 2014 (in millions):
+Derivatives Not Designated Location of Gain (Loss) : Year Ended December 31’ :
+gas Hedging Instruments Recognized in Income 2016 2015 2014 7
+Foreign currency contracts Net operating revenues $ (45) $ 41 $ (6)
+Foreign currency contracts Cost of goods sold 4 3 —
+Foreign currency contracts Other income (loss) — net (168) (92) (85)
+Commodity contracts Net operating revenues 10 (16) (48)
+Commodity contracts Cost of goods sold 75 (209) (8)
+Commodity contracts Selling, general and administrative expenses 6 (25) (79)
+Interest rate contracts Interest expense (39) — —
+Other derivative instruments Selling, general and administrative expenses 16 1 24
+Other derivative instruments Other income (loss) — net (15) (37) 39 7
+Total $ (156) $ (334) $ (163)
+10 1

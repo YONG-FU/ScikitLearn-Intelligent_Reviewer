@@ -1,0 +1,56 @@
+Table of contents
+Third-party claims of intellectual property infringement are commonplace in our industry and successful third-party claims
+may limit or disrupt our ability to sell our products and services.
+Third parties also may claim that we or customers indemnified by us are infringing upon their intellectual property rights.
+For example, patent assertion entities may purchase intellectual property assets for the purpose of asserting claims of
+infringement and attempting to extract settlements from companies such as us and our customers. If we cannot or do not license
+allegedly infringed intellectual property at all or on reasonable terms, or if we are required to substitute similar technology from
+another source, our operations could be adversely aﬁected. Even if we believe that intellectual property claims are without
+merit, they can be time-consuming and costly to defend against and may divert management’s attention and resources away
+from our business. Claims of intellectual property infringement also might require us to redesign affected products, enter into
+costly settlement or license agreements, pay costly damage awards, or face a temporary or permanent injunction prohibiting us
+from importing, marketing or selling certain of our products. Even if we have an agreement to indemnify us against such costs,
+the indemnifying party may be unable or unwilling to uphold its contractual obligations to us.
+Further, our results of operations and cash ﬂows have been and could continue to be affected in certain periods and on an
+ongoing basis by the imposition, accrual and payment of copyright levies or similar fees. In certain countries (primarily in
+Europe), proceedings are ongoing or have been concluded in which groups representing copyright owners have sought or are
+seeking to impose upon and collect from us levies upon equipment (such as PCs, MFDS and printers) alleged to be copying
+devices under applicable laws. Other such groups have also sought to modify existing levy schemes to increase the amount of
+the levies that can be collected from us. Other countries that have not imposed levies on these types of devices are expected to
+extend existing levy schemes, and countries that do not currently have levy schemes may decide to impose copyright levies on
+these types of devices. The total amount of the copyright levies will depend on the types of products determined to be subject to
+the levy, the number of units of those products sold during the period covered by the levy, and the per unit fee for each type of
+product, all of which are affected by several factors, including the outcome of ongoing litigation involving us and other
+industry participants and possible action by the legislative bodies in the applicable countries, and could be substantial.
+Consequently, the ultimate impact of these copyright levies or similar fees, and our ability to recover such amounts through
+increased prices, remains uncertain.
+The allocation of intellectual property rights between Hewlett Packard Enterprise and HP as part of the Separation, and the
+shared use of certain intellectual property rights following the Separation, could adversely impact our reputation, our ability
+to enforce certain intellectual property rights that are important to us and our competitive position.
+In connection with the Separation, Hewlett-Packard Company allocated to each of Hewlett Packard Enterprise and
+HP the intellectual property assets relevant to their respective businesses. The terms of the Separation include cross-licenses
+and other arrangements to provide for certain ongoing use of intellectual property in the existing operations of both businesses.
+For example, through a joint brand holding structure, both Hewlett Packard Enterprise and HP will retain the ability to make
+ongoing use of certain variations of the legacy Hewlett-Packard and HP branding, respectively. There is a risk that the joint
+brand holding structure may impair the enforcement of HP’s trademark rights against third parties that infringe them.
+Furthermore, as a result of this shared use of the legacy branding there is a risk that conduct or events adversely affecting the
+reputation of Hewlett Packard Enterprise could also adversely affect the reputation of HP. In addition, as a result of the
+allocation of intellectual property as part of the Separation, we no longer own intellectual property allocated to Hewlett Packard
+Enterprise and our resulting intellectual property ownership position could adversely affect our position and options relating to
+patent enforcement, patent licensing and cross-licensing, our ability to sell our products or services, our competitive position in
+the industry and our ability to enter new product markets.
+Our business and financial performance could suffer if we do not manage the risks associated with our services business
+properly.
+The risks that accompany our services business differ from those of our other businesses and include the following:
+- The success of our services business is to a significant degree dependent on our ability to retain our signiﬁcant
+services clients and maintain or increase the level of revenues from these clients. We may lose clients due to their
+merger or acquisition, business failure, contract expiration or their selection of a competing service provider or
+decision to in—source services. In addition, we may not be able to retain or renew relationships with our significant
+clients. As a result of business downturns or for other business reasons, we are also vulnerable to reduced business
+from our clients, which can reduce the scope of services provided and the prices for those services. We may not be
+able to replace the revenue and earnings from any such lost clients or reductions in services. In addition, our
+contracts may allow a client to terminate the contract for convenience, and we may not be able to fully recover
+our investments in such circumstances.
+- The pricing and other terms of some of our service agreements require us to make estimates and assumptions at
+the time we enter into these contracts that could differ from actual results. Any increased or unexpected costs or
+21

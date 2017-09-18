@@ -1,0 +1,48 @@
+Analytics
+Analytics solutions help organizations gain insight from their structured and unstructured information, make predictions,
+visualize and report on business processes, customer interactions and a myriad of other sources of information. This analytical
+data can then be used to refine business processes or content utilization, make predictions, identify trends, improve customer
+service or be applied in a multitude of different scenarios. OpenText Analytics solutions include:
+- Embedded Reporting and Visualization is used to embed reports and visualizations of data in an array of
+applications, including the OpenText EIM Suites and many third party data sources.
+- Big Data Analysis is the analysis of large sets of information from databases, files, ERP and Customer Relationship
+Management (CRM) systems and a variety of other sources. Modeling and predictive algorithms may be applied to
+this data using OpenText solutions to extract meaningful insight or predictive models to solve customer problems or
+help with operational insight.
+Discovery:
+Discovery solutions organize and visualize all relevant content and make it possible for business users to quickly locate
+information and make better informed decisions based on timely, contextualized information. Discovery solutions include:
+° Search addresses information security and productivity requirements by securely indexing all information for fast
+retrieval and real-time monitoring.
+° Semantic Navigation improves the end-user experience of websites by enabling intuitive visual exploration of site
+content through contextual navigation.
+- Auto-Classiﬁcation improves the quality of information governance through intelligent metadata extraction and
+accurate classification of information.
+- InfoFusion makes it possible for organizations to deal with the issue of so-called “information silos” resulting from,
+for instance, numerous disconnected information sources across the enterprise. Using a framework of adapters, an
+information access platform allows organizations to consolidate, decommission, archive and migrate content from
+virtually any system or information repository.
+OpenText Revenues
+Our business consists of four revenue streams: license, cloud services and subscriptions, customer support, and
+professional service and other. For information regarding our revenues and assets by geography for Fiscal 2016, Fiscal 2015
+and Fiscal 2014, see note 19 “Segment Information” in the Notes to Consolidated Financial Statements included in Item 8 to
+this Annual Report on Form 10-K.
+License
+License revenues consist of fees earned from the licensing of software products to our customers. Our license revenues
+are impacted by the strength of general economic and industry conditions, the competitive strength of our software products,
+and our acquisitions. The decision by a customer to license our software products often involves a comprehensive
+implementation process across the customer’s network or networks and the licensing and implementation of our software
+products may entail a significant commitment of resources by prospective customers. As revenue from cloud services and
+subscriptions has increased in recent years, license revenues have decreased as a proportion of our total revenues.
+Cloud services and subscriptions
+Cloud services and subscription revenues consist of (i) software as a service offerings (ii) managed service arrangements
+and (iii) subscription revenues relating to on premise oﬁerings. These offerings allow customers to transmit a variety of
+content between various mediums and to securely manage enterprise information without the commitment of investing in
+related hardware infrastructure.
+In addition, we offer B2B integration solutions, such as messaging services, and managed services. Messaging services
+allow for the automated and reliable exchange of electronic transaction information, such as purchase orders, invoices,
+shipment notices and other business documents, among businesses worldwide. Managed services provide an end-to-end fully
+outsourced B2B integration solution to our customers, including program implementation, operational management, and
+customer support. These services enable customers to effectively manage the ﬂow of electronic transaction information with
+their trading partners and reduce the complexity of disparate standards and communication protocols.
+8

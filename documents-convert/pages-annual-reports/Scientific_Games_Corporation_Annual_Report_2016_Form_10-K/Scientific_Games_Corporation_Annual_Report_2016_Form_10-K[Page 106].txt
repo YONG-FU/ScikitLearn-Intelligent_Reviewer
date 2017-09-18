@@ -1,0 +1,42 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+interest at a weighted-average ﬁxed rate of2. 151% and receive interest at the greater of 1% or the prevailing three-month
+LIBOR rate. The total notional amount of interest rate swaps outstanding was $700.0 million as of both December 31, 2016 and
+20 15 .
+These hedges are highly effective in offsetting changes in our future expected cash ﬂows due to the ﬂuctuation in the
+three-month LIBOR rate associated with our variable rate debt. The effectiveness of these hedges is measured quarterly on a
+retrospective basis. As a result of the effective matching of the critical terms on our variable rate interest expense being hedged
+to the hedging instruments being used, we have not measured any hedge ineffectiveness to date. All gains and losses from these
+hedges are recorded in Other comprehensive income (loss) until the future underlying payment transactions occur. Any realized
+gains or losses resulting from the hedges will be recognized (together with the hedged transaction) as interest expense. We
+estimate the fair value of our interest rate swap contracts by discounting the future cash ﬂows of both the fixed rate and variable
+rate interest payments based on market yield curves. The inputs used to measure the fair value of our interest rate swap
+contracts are categorized as Level 2 in the fair value hierarchy.
+The following table shows the losses (gains) on our interest rate swap contracts:
+7 Year Ended December 31, 7
+I : 2016 2015 2014 :
+I Losses (gains) recorded in accumulated other comprehensive loss, net of tax $ (3.0) $ (1.6) $ 5.0 1
+Realized losses recorded in interest expense 8.2 5.2 —
+We expect to reclassify additional losses of $6.7 million from accumulated other comprehensive loss to interest
+expense in the next twelve months. The following table shows the fair value of our hedges:
+7 As of December 31, 7
+: 2016 2015 :
+I Accrued liabilities $ 6.7 $ 7.9 1
+Other long-term liabilities 0.2 4.0
+I Total fair value ;$ 6.9 1 '$ 11.9 1
+Set forth below are the classes of assets and liabilities measured at fair value on a non-recurring basis at December 31,
+2015:
+Book Value
+as of Weighted-
+December Total Valuation Average
+7 Level 1 7 7 Level 2 7 7 Level 3 7 7 31, 2015 7 7 Loss 7 7 Technique 7 7 Discount Rate 7
+Property and Equipment Market
+- Waukegan facility (1) $— $— $15.0 $14.5 $(6.6) Approach n/a
+Relief From
+Intangibles - Trade Royalty
+Namesa) $— $— $97.5 $95.6 $(l28.6) Method 9%
+(1) The book value was reduced by estimate selling costs of $0.5 million. See Note 11.
+(2) The book value of the trade name assets as of December 31, 2015 includes additional amortization of $1.9 million recorded after the fair value measurement dates as of June 30, 2015 and
+September 30, 2015. See Note 11.
+106

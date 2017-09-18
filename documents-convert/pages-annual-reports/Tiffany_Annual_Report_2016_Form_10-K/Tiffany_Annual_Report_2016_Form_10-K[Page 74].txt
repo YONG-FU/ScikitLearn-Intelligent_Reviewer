@@ -1,0 +1,45 @@
+Long-Term Debt Maturities
+Aggregate maturities of long-term debt as of January 31, 2017 are as follows:
+Amount 3
+Years Ending January 31, (in millions) 7
+2018 $ —
+2019 —
+2020 —
+2021 _
+2022 _
+Thereafter 888.0
+7 $ 888.0 7
+3 Amounts exclude any unamortized discount or premium.
+Letters of Credit
+211,)
+The Company has available letters of credit and financial guarantees of $76.1 million of which $26.4 million was
+i outstanding at January 31, 2017. Of those available letters of credit and financial guarantees, $57.5 million expires
+3 within one year. These amounts do not include letters of credit issued under the Credit Facilities.
+H. HEDGING INSTRUMENTS
+Background Information
+The Company uses derivative financial instruments, including interest rate swaps, cross-currency swaps, forward
+contracts, put option contracts and net-zero-cost collar arrangements (combination of call and put option contracts)
+to mitigate a portion of its exposures to changes in interest rates, foreign currency and precious metal prices.
+Derivative Instruments Designated as Hedging Instruments. If a derivative instrument meets certain hedge
+accounting criteria, it is recorded on the consolidated balance sheet at its fair value, as either an asset or a liability,
+with an offset to current or comprehensive earnings, depending on whether the hedge is designated as one of the
+following on the date it is entered into:
+0 Fair Value Hedge — A hedge of the exposure to changes in the fair value of a recognized asset or liability or an
+unrecognized firm commitment. For fair value hedge transactions, both the effective and ineffective portions of
+the changes in the fair value of the derivative and changes in the fair value of the item being hedged are
+recorded in current earnings.
+0 Cash Flow Hedge — A hedge of the exposure to variability in the cash flows of a recognized asset, liability or a
+forecasted transaction. For cash flow hedge transactions, the effective portion of the changes in fair value of
+derivatives are reported as other comprehensive income ("0Cl") and are recognized in current earnings in the
+period or periods during which the hedged transaction affects current earnings. Amounts excluded from the
+effectiveness calculation and any ineffective portions of the change in fair value of the derivative are recognized
+in current earnings.
+The Company formally documents the nature of and relationships between the hedging instruments and hedged
+items for a derivative to qualify as a hedge at inception and throughout the hedged period. The Company also
+documents its risk management objectives, strategies for undertaking the various hedge transactions and method of
+assessing hedge effectiveness. Additionally, for hedges of forecasted transactions, the significant characteristics and
+expected terms of a forecasted transaction must be identified, and it must be probable that each forecasted
+transaction will occur. If it were deemed probable that the forecasted transaction would not occur, the gain or loss on
+the derivative financial instrument would be recognized in current earnings. Derivative financial instruments
+TIFFANY & co.
+K-68

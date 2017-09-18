@@ -1,0 +1,43 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Accumulated Other Comprehensive Income (Loss)
+The changes in components of accumulated other comprehensive income (loss) during the years ended December 31, 2016 and 2015 were as follows (tables in
+millions):
+Unrealized Gain (Loss) on Unrealized Gain (Loss) on
+Available-for-Sale Securities Forward Contracts Total
+[Balance January 1, 2015 $ — $ (1) $ (1) l
+Unrealized gains (losses), net of tax provision (benefit) of 33(4), 33
+— and 39(4) (7) _ — _ (7)
+)Other comprehensive income (loss), net (7) — (7) 1
+Balance, December 31, 2015 (7) (1) (8)
+IUnrealized gains (losses), net of tax provision (benefit) of $(4), $
+|— and $(3) (6) 1 (5)
+Amounts reclassiﬁed from accumulated other comprehensive
+income (loss) to the consolidated statement of income, net of tax
+(provision) beneﬁt of $3, $— and $3 5 (1) 4
+lOther comprehensive income (loss), net (1) _ — _ (1) 1
+Balance, December 31, 2016 $ (8) $ (1) $ (9)
+Unrealized gains on VMware’s available-for—sale securities are reclassiﬁed to investment income on the consolidated statements of income in the period that
+such gains are realized.
+The effective portion of gains (losses) resulting from changes in the fair value of forward contracts designated as cash ﬂow hedging instruments is reclassified
+to its related operating expense line item on the consolidated statements of income in the same period that the underlying expenses are incurred. The amounts
+recorded to their related operating expense functional line items on the consolidated statements of income during the years ended December 31, 2016 and 2015
+were not significant to the individual functional line items.
+0. Segment Information
+VMware operates in one reportable operating segment, thus all required ﬁnancial segment information can be found on the consolidated financial statements.
+Operating segments are deﬁned as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision
+maker in deciding how to allocate resources and assessing performance. VMware’s chief operating decision maker allocates resources and assesses performance
+based upon discrete financial information at the consolidated level.
+Revenue by geographic area for the years ended December 31, 2016 , 2015 and 2014 was as follows (table in millions):
+For the Year Ended December 31,
+2016 2015 2014
+[United States 3 3,588 $ 3,311 $ 2,912 1
+International 3,505 3,260 3,123
+1 Total $ 7,093 $ 6,571 $ 6,035 1
+Revenue by geographic area is based on the ship-to addresses of VMware’s customers. No individual country other than the United States accounted for 10%
+or more of revenue for the years ended December 31, 2016 , 2015 and 2014 .
+One customer accounted for 15% of revenue during each of the years ended December 31, 2016 , 2015 and 2014 , respectively, and another customer
+accounted for 12% , 12% and 13% of revenue during the years ended December 31, 2016 , 2015 and 2014 , respectively. A third customer accounted for 10% ,
+11% and 11% of revenue during the years ended December 31, 2016 , 2015 and 2014 , respectively.
+90

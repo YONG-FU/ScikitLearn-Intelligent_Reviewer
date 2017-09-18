@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(w) Intangible assets (Continued)
+value upon acquisition. Separately identifiable intangible assets that have determinable lives continue to be
+amortized over their estimated useful lives using the straight-line method as follows:
+User base and customer relationships 2 - 6 years
+Trade names, trademarks and domain names 3 — 12 years
+Developed technology and patents 2 - 5 years
+Licenses and copyrights 1 — 5 years
+Non compete agreements over the contracted term from 2 - 6 years
+Separately identifiable intangible assets to be held and used are reviewed for impairment whenever events or
+changes in circumstances indicate that the carrying amount of such assets may not be recoverable.
+Determination of recoverability is based on an estimate of undiscounted future cash ﬂows resulting from the
+use of the asset and its eventual disposition. Measurement of any impairment loss for identifiable intangible
+assets is based on the amount by which the carrying amount of the assets exceeds the fair value of the assets.
+(X) Goodwill
+Goodwill represents the excess of the purchase consideration over the fair value of the identifiable tangible
+and intangible assets acquired and liabilities assumed of the acquired entity as a result of the Company’s
+acquisitions of interests in its subsidiaries and VIEs. Goodwill is not amortized but is tested for impairment on
+an annual basis, or more frequently if events or changes in circumstances indicate that it might be impaired.
+The Company first assesses qualitative factors to determine whether it is necessary to perform the two-step
+quantitative goodwill impairment test. In the qualitative assessment, the Company considers primary factors
+such as industry and market considerations, overall financial performance of the reporting unit, and other
+specific information related to the operations. Based on the qualitative assessment, if it is more likely than not
+that the fair value of each reporting unit is less than the carrying amount, the quantitative impairment test
+is performed.
+In performing the two-step quantitative impairment test, the first step compares the fair values of each
+reporting unit to its carrying amount, including goodwill. If the fair value of each reporting unit exceeds its
+carrying amount, goodwill is not considered to be impaired and the second step will not be required. If the
+carrying amount of a reporting unit exceeds its fair value, the second step compares the implied fair value of
+goodwill to the carrying value of a reporting unit’s goodwill. The implied fair value of goodwill is determined
+in a manner similar to accounting for a business combination with the allocation of the assessed fair value
+determined in the first step to the assets and liabilities of the reporting unit. The excess of the fair value of
+the reporting unit over the amounts assigned to the assets and liabilities is the implied fair value of goodwill.
+This allocation process is only performed for the purposes of evaluating goodwill impairment and does not
+result in an entry to adjust the value of any assets or liabilities. Application of a goodwill impairment test
+requires significant management judgment, including the identification of reporting units, assigning assets,
+liabilities and goodwill to reporting units, and determining the fair value of each reporting unit.
+(y) Impairment of long-lived assets other than goodwill
+The Company reviews long-lived assets for impairment whenever events or changes in circumstances indicate
+that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is
+F-28

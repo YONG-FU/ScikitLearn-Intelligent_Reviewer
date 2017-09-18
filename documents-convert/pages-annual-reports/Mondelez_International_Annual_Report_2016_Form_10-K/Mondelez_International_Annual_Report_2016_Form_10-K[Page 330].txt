@@ -1,0 +1,33 @@
+SECTION 7.05 Indemniﬁcation . The Lenders agree to indemnify the Administrative Agent (to the extent not reimbursed by Mondeléz or the
+Borrower), ratably according to the respective principal amounts of the Loans then owing to each of them (or if no Loans are at the time outstanding, ratably
+according to the respective amounts of their Commitments), from and against any and all liabilities, obligations, losses, damages, penalties, actions, judgments,
+suits, costs, expenses or disbursements of any kind or nature whatsoever that may be imposed on, incurred by, or asserted against the Administrative Agent in any
+way relating to or arising out of this Agreement or any action taken or omitted by the Administrative Agent under this Agreement, in each case, to the extent
+relating to the Administrative Agent in its capacity as such (collectively, the “ Indemnifiedﬂostsf), providedthat no Lender shall be liable for any portion of the
+Indemniﬁed Costs resulting from the Administrative Agent’s gross negligence or willful misconduct. Without limitation of the foregoing, each Lender agrees to
+reimburse the Administrative Agent promptly upon demand for its ratable share of any out-of-pocket expenses (including counsel fees) incurred by the
+Administrative Agent in connection with the preparation, execution, delivery, administration, modiﬁcation, amendment or enforcement (whether through
+negotiations, legal proceedings or otherwise) of, or legal advice in respect of rights or responsibilities under, this Agreement, to the extent that the Administrative
+Agent is not reimbursed for such expenses by Mondeléz or the Borrower. In the case of any investigation, litigation or proceeding giving rise to any Indemniﬁed
+Costs, this Section 7.05 applies whether any such investigation, litigation or proceeding is brought by the Administrative Agent, any Lender or a third party.
+SECTION 7.06 SuccessorIAdministrativeAgent,. The Administrative Agent may resign at any time by giving written notice thereof to the Lenders
+and Mondeléz and may be removed at any time with or without cause by the Required Lenders. Upon the resignation or removal of the Administrative Agent, the
+Required Lenders shall have the right to appoint a successor Administrative Agent (with the consent of Mondeléz so long as no Event of Default shall have
+occurred and be continuing). If no successor Administrative Agent shall have been so appointed by the Required Lenders, and shall have accepted such
+appointment, within 30 days after the retiring Administrative Agent’s giving of notice of resignation or the Required Lenders’ removal of the retiring
+Administrative Agent, then the retiring Administrative Agent may (with the consent of Mondeléz so long as no Event of Default shall have occurred and be
+continuing), on behalf of the Lenders, appoint a successor Administrative Agent, which shall be (a) a Lender and (b) a commercial bank organized under the laws of
+the United States of America or of any State thereof and having a combined capital and surplus of at least $500,000,000. Upon the acceptance of any appointment
+as Administrative Agent hereunder by a successor Administrative Agent, such successor Administrative Agent shall thereupon succeed to and become vested with
+all the rights, powers, discretion, privileges and duties of the retiring Administrative Agent, and the retiring Administrative Agent shall be discharged from its duties
+and obligations under this Agreement; proxidedjhat should the Administrative Agent for any reason not appoint a successor Administrative Agent, which it is
+under no obligation to do, then the rights, powers, discretion, privileges and duties referred to in this Section 7.06 shall be vested in the Required Lenders until a
+successor Administrative Agent has been appointed. After any retiring Administrative Agent’s resignation or removal hereunder as Administrative Agent, the
+provisions of this Article VII shall inure to its benefit as to any actions taken or omitted to be taken by it while it was Administrative Agent under this Agreement.
+SECTION 7.07 Administrative Agent, Joint Bookrunners, Joint Lead Arrangers and Co-Syndication Agents . (i) JPMorgan Chase Bank, NA. has
+been designated as Administrative Agent under this Agreement, (ii) JPMorgan Chase Bank, NA, The Bank of Tokyo-Mitsubishi UFJ, Ltd., Credit Suisse
+Securities (USA) LLC, Goldman Sachs Bank USA, HSBC Securities (USA) Inc. and Merrill Lynch, Pierce, F enner & Smith Incorporated have been designated as
+Joint Lead Arrangers and Joint Bookrunners under this Agreement and (iii) Bank of America, NA, The Bank of Tokyo-Mitsubishi UFJ, Ltd., Credit Suisse
+Securities (USA) LLC, Goldman Sachs Bank USA and HSBC Securities (USA) Inc. have been designated as Co-Syndication Agents under this Agreement, but the
+use of the aforementioned titles does not impose on any of them any duties or obligations greater than those of any other Lender.
+-40-

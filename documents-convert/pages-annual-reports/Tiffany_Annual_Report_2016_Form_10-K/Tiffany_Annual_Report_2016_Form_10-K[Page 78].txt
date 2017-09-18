@@ -1,0 +1,34 @@
+The Company's derivative instruments are considered Level 2 instruments for the purposes of determining fair value.
+The Company's foreign exchange forward contracts, as well as its put option contracts and cross-currency swaps, are
+primarily valued using the appropriate foreign exchange spot rates. The Company's precious metal forward contracts
+and collars are primarily valued using the relevant precious metal spot rate. The Company's interest rate swaps were
+primarily valued using the 3-month LIBOR rate. For further information on the Company's hedging instruments and
+program, see "Note H. Hedging Instruments."
+Financial assets and liabilities carried at fair value at January 31, 2017 are classified in the table below in one of
+the three categories described above:
+: Estimated Fair Value : Total Fair
+(in millions) Level 1 Level 2 Level 3 Value 7
+Financial assets
+Marketable securities a $ 36.4 $ — $ — $ 36.4
+7 Time depositsb 57.8 — — 57.8
+Derivatives designated as hedging instruments:
+Precious metal forward contracts 0 — 3.6 — 3.6
+Precious metal collars C — 0.4 — 0.4
+:U
+z Foreign exchange forward contracts C — 9.6 — 9.6
+i Derivatives not designated as hedging instruments:
+Foreign exchange forward contractsC 7 — 0.3 — 0.3 7
+Total financial assets r$ 94.2 $ 13.9 $ — $ 108.1 7
+: Estimated Fair Value : Total Fair
+(in millions) Level 1 Level 2 Level 3 Value 7
+Financial liabilities
+Derivatives designated as hedging instruments:
+Precious metal forward contracts d $ — $ 5.4 $ — $ 5.4
+Precious metal collarsd — 0.3 — 0.3
+Foreign exchange forward contracts d — 0.6 — 0.6
+Cross-currency swaps d — 0.4 — 0.4
+Derivatives not designated as hedging instruments:
+Foreign exchange forward contracts d 7 — 2.2 — 2.2 7
+Total financial liabilities r$ — $ 8.9 $ — $ 8.9 r
+TIFFANY & co.
+K-72

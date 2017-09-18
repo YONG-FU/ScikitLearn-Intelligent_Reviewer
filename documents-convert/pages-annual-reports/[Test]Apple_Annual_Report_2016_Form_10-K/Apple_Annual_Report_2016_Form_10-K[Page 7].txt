@@ -1,0 +1,52 @@
+iPod
+iPod is the Company’s line of portable digital music and media players, which includes iPod touch, iPod nano® and iPod shuffle®.
+All iPods work with iTunes to purchase and synchronize content. iPod touch, based on the Company’s iOS operating system, is a
+flash-memory-based iPod that works with the iTunes Store, App Store and iBooks Store for purchasing and playing digital content
+and apps.
+Developer Programs
+The Company’s developer programs support app developers with building, testing and distributing apps for iOS, macOS, watchOS
+and tvOS. Developer program membership provides access to beta software and advanced app capabilities (e.g.,
+CloudKit®, HealthKitTM and Apple Pay), the ability to test apps using TestFlight®, distribution on the App Store, access to App Analytics
+and code-level technical support. Developer programs also exist for businesses creating apps for internal use (the Apple Developer
+Enterprise Program) and developers creating accessories for Apple devices (the MFi Program). All developers, even those who are
+not developer program members, can sign in with their Apple ID to post on the Apple Developer Forums and use Xcode®, the
+Company’s integrated development environment for creating apps for Apple platforms. Xcode includes project management tools;
+analysis tools to collect, display and compare app performance data; simulation tools to locally run, test and debug apps; and tools
+to simplify the design and development of user interfaces. All developers also have access to extensive technical documentation
+and sample code.
+Markets and Distribution
+The Company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government
+markets. The Company sells its products and resells third-party products in most of its major markets directly to consumers and
+small and mid-sized businesses through its retail and online stores and its direct sales force. The Company also employs a variety
+of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and value-added resellers. During
+2016, the Company’s net sales through its direct and indirect distribution channels accounted for 25% and 75%, respectively, of total
+net sales.
+The Company believes that sales of its innovative and differentiated products are enhanced by knowledgeable salespersons who
+can convey the value of the hardware and software integration and demonstrate the unique solutions that are available on its products.
+The Company further believes providing direct contact with its targeted customers is an effective way to demonstrate the advantages
+of its products over those of its competitors and providing a high-quality sales and after-sales support experience is critical to
+attracting new and retaining existing customers.
+To ensure a high-quality buying experience for its products in which service and education are emphasized, the Company continues
+to build and improve its distribution capabilities by expanding the number of its own retail stores worldwide. The Company’s retail
+stores are typically located at high-traffic locations in quality shopping malls and urban shopping districts. By operating its own stores
+and locating them in desirable high-traffic locations the Company is better positioned to ensure a high quality customer buying
+experience and attract new customers. The stores are designed to simplify and enhance the presentation and marketing of the
+Company’s products and related solutions.The retail stores employ experienced and knowledgeable personnel who provide product
+advice, service and training and offer a wide selection of third-party hardware, software and other accessories that complement the
+Company’s products.
+The Company has also invested in programs to enhance reseller sales by placing high-quality Apple fixtures, merchandising materials
+and other resources within selected third-party reseller locations. Through the Apple Premium Reseller Program, certain third-party
+resellers focus on the Apple platform by providing a high level of product expertise, integration and support services.
+The Company is committed to delivering solutions to help educators teach and students learn. The Company believes effective
+integration of technology into classroom instruction can result in higher levels of student achievement and has designed a range of
+products, services and programs to address the needs of education customers. The Company also supports mobile learning and
+real-time distribution of, and access to, education related materials through iTunes U, a platform that allows students and teachers
+to share and distribute educational media online. The Company sells its products to the education market through its direct sales
+force, select third-party resellers and its retail and online stores.
+The Company also sells its hardware and software products to enterprise and government customers in each of its reportable
+operating segments. The Company’s products are deployed in these markets because of their performance, productivity, ease of
+use and seamless integration into information technology environments. The Company’s products are compatible with thousands
+of third-party business applications and services, and its tools enable the development and secure deployment of custom applications
+as well as remote device administration.
+No single customer accounted for more than 10% of net sales in 2016, 2015 and 2014.
+Apple Inc. I 2016 Form 10-K | 4

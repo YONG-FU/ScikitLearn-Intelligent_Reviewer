@@ -1,0 +1,36 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+10. Earnings per share (Continued)
+The following table sets forth the computation of basic and diluted net income per share/ADS for the
+following periods:
+Year ended March 31,
+2014 2015 2016
+(in millions of RMB, except share
+data and per share data)
+Numerator:
+Net income attributable to ordinary shareholders for computing net
+income per ordinary share — basic 23,076 24,149 71,460
+Reversal of accretion of Convertible Preference Shares 31 15 —
+Reversal of dividend of Convertible Preference Shares 208 97 —
+Net income attributable to ordinary shareholders for computing net
+income per ordinary share — diluted 23,315 24,261 71,460
+Shares (denominator);
+Weighted average number of shares used in calculating net income per
+ordinary share — basic (million shares) 2,175 2,337 2,458
+Adjustments for dilutive share options and RSUs (million shares) 66 120 104
+Conversion of Convertible Preference Shares (million shares) 91 43 —
+Weighted average number of shares used in calculating net income per
+ordinary share — diluted (million shares) 2,332 2,500 2,562
+Net income per ordinary share/ADS — basic (RMB) 10.61 10.33 29.07
+Net income per ordinary share/ADS — diluted (RMB) 10.00 9.70 27.89
+11. Restricted cash
+As at March 31,
+2015 2016
+(in millions of RMB)
+Cash pledged for a bank in connection with its loan facilities for option exercise in favor
+of employees of the Company and its related companies 997 302
+Cash pledged for treasury management activities 1,013 760
+Others 287 284
+2,297 1,346
+F-66

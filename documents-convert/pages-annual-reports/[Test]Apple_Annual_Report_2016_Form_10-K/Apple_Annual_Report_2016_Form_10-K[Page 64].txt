@@ -1,0 +1,52 @@
+The Company has entered, and in the future may enter, into accelerated share repurchase arrangements (‘ASRs”) with financial
+institutions. In exchange for up-front payments, the financial institutions deliver shares of the Company’s common stock during the
+purchase periods of each ASR. The total number of shares ultimately delivered, and therefore the average repurchase price paid
+per share, is determined at the end of the applicable purchase period of each ASR based on the volume weighted-average price
+of the Company’s common stock during that period. The shares received are retired in the periods they are delivered, and the up-
+front payments are accounted for as a reduction to shareholders’ equity in the Company’s Consolidated Balance Sheets in the
+periods the payments are made. The Company reflects the ASRs as a repurchase of common stock in the period delivered for
+purposes of calculating earnings per share and as forward contracts indexed to its own common stock. The ASRs met all of the
+applicable criteria for equity classification, and therefore were not accounted for as derivative instruments.
+The following table shows the Company’s ASR activity and related information during the years ended September 24, 2016 and
+September 26, 2015:
+Number of Average ASR
+Purchase Period Shares Repurchase Amount
+End Date (in thousands) Price Per Share (in millions)
+August 2016 ASR ’ November 20167 ’ 22,468 ’ <1) ’ (0’ ’$ 3,000’
+May 2016 ASR August 2016 60,452 ‘2) $ 99.25 $ 6,000
+November 2015 ASR April 2016 29,122 $ 103.02 $ 3,000
+May 2015 ASR July 2015 48,293 $ 124.24 $ 6,000 I
+I August 2014 ASR February 2015 81,525 $ 110.40 $ 9,000
+'January 2014 ASR December 2014 134,247 $ 89.39 $ 12,000 I
+(1) “Number of Shares” represents those shares delivered in the beginning of the purchase period and does not represent the final
+number of shares to be delivered under the ASR. The total number of shares ultimately delivered, and therefore the average
+repurchase price paid per share, will be determined at the end of the purchase period based on the volume-weighted average
+price of the Company’s common stock during that period. The August 2016 ASR purchase period will end in or before November
+2016.
+(2) Includes 48.2 million shares delivered and retired at the beginning of the purchase period, which began in the third quarter of
+2016, and 12.3 million shares delivered and retired at the end of the purchase period, which concluded in the fourth quarter of
+2016.
+Additionally, the Company repurchased shares of its common stock in the open market, which were retired upon repurchase, during
+the periods presented as follows:
+Number of Average
+Shares Repurchase Amount
+(in thousands) Price Per Share (in millions)
+2016:
+I Fourth quarter 28,579 $ 104.97 $ 3,000 I
+Third quarter 41,238 $ 97.00 4,000
+Second quarter 71,766 $ 97.54 7,000
+First quarter 7 25,984 $ 115.45 7 3,000
+Total open market common stock repurchases 167,567: :$ 17,000:
+2015: i i i 7
+Fourth quarter 121,802 $ 115.15 $ 14,026
+Third quarter 31,231 $ 128.08 4,000
+Second quarter 56,400 $ 124.11 7,000
+First quarter 45,704 $ 109.40 5,000
+Total open market common stock repurchases 255,137: :$ 30,026:
+Note 8 — Comprehensive Income
+Comprehensive income consists of two components, net income and OCI. OCI refers to revenue, expenses, and gains and losses
+that under GAAP are recorded as an element of shareholders’ equity but are excluded from net income.The Company’s OCI consists
+of foreign currency translation adjustments from those subsidiaries not using the US. dollar as their functional currency, net deferred
+gains and losses on certain derivative instruments accounted for as cash flow hedges and unrealized gains and losses on marketable
+securities classified as available-for-sale.
+Apple Inc. I 2016 Form 10-K I 61

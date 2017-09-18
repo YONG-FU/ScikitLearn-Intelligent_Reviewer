@@ -1,0 +1,34 @@
+The following table presents information about the Company’s assets and liabilities that are measured at fair
+value as of January 31, 2016 and indicates the fair value hierarchy of the valuation (in thousands):
+Quoted Prices in Signiﬁcant Other Signiﬁcant
+Active Markets Observable Unobservable Balances as of
+for Identical Assets Inputs Inputs January 31,
+Description 7 (Level 1) 7 7 (Level 2) 7 7 (Level 3) 7 7 2016 7
+Cash equivalents (1):
+Timedeposits $ 0 $ 236,798 $ 0 $ 236,798
+Money market mutual funds . . . . . . . . 216,107 0 0 216,107
+Commercial Paper . . . . . . . . . . . . . . . . 0 159,230 0 159,230
+Agency and sovereign paper . . . . . . . . 0 13,599 0 13,599
+Marketable securities:
+Corporate notes and obligations . . . . . 0 947,681 0 947,681
+US. treasury securities . . . . . . . . . . . . 0 157,944 0 157,944
+Mortgage backed obligations . . . . . . . 0 104,025 0 104,025
+Asset backed securities . . . . . . . . . . . . 0 271,252 0 271,252
+Municipal securities . . . . . . . . . . . . . . 0 45,137 0 45,137
+Foreign government obligations . . . . . 0 18,051 0 18,051
+US. agency obligations . . . . . . . . . . . . 0 16,086 0 16,086
+Coveredbonds................... 0 6,838 0 6,838
+Foreign currency derivative
+contracts(2)....................... 0 4,731 0 4,731
+Total Assets ......................... $216,107 $1,981,372 $ 0 $2,197,479
+Liabilities
+Foreign currency derivative
+contracts(3)....................... $ 0 $ 14,025 $ 0 $ 14,025
+TotalLiabilities...................... $ 0 $ 14,025 $ 0 $ 14,025
+(1) Included in “cash and cash equivalents” in the accompanying consolidated balance sheet as of January 31,
+2016, in addition to $532.6 million of cash.
+(2) Included in “prepaid expenses and other current assets” in the accompanying consolidated balance sheet as
+of January 31, 2016.
+(3) Included in “accounts payable, accrued expenses and other liabilities” in the consolidated balance sheet as
+of January 31, 2016.
+91

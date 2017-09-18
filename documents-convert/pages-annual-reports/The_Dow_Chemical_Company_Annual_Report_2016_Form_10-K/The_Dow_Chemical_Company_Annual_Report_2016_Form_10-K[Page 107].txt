@@ -1,0 +1,48 @@
+NOTE 11 — FINANCIAL INSTRUMENTS
+The following table summarizes the fair value of financial instruments at December 31, 2016 and 2015:
+Fair Value of Financial Instruments at December 31 7
+: 2016 :: 2015 :
+Fair Fair
+In millions Cost Gain Loss Value Cost Gain Loss Value
+[Marketable securities: (1)
+Debt securities:
+| Government debt (2) $ 607 $ 13 $ (1_2) $ 608 $ 597 $ 22 $ (7) $ 612 l
+: Corporate bonds 623 27 (5) 645 633 26 (8) 651 :
+| Total debt securities $ 1,230 $ 40 $ (g) $ 1,253 $ 1,230 $ 48 $ (1_5) $ 1,263 l
+: Equity securities 658 98 (50) 706 555 108 (60) 603 :
+lTotal marketable securities $ 1,888 $ 138 $ (67) $ 1,959 $ 1,785 $ 156 $ (75) $ 1,866
+Long-term debt including debt 7
+due within one year (3) $ (21,091) $ 129 $ (1,845) $ (22,807) $ (16,756) $ 424 $ (1,668) $ (18,000)
+{Derivatives relating to:
+Interest rates $ 7 7 $ 7 7 $ (5) $ (5) $ 7 7 $ 7 7 $ (4) $ (4)
+| Commodities (4) $ 4 $ 56 $ (213) $ (157) $ 4 $ 6 $ (248) $ (242)]
+: Foreign currency $ 7 7 $ 84 $ (30) $ 54 $ 7 7 $ 109 $ (32) $ 77 :
+(1) Included in “Other investments” in the consolidated balance sheets.
+(2) U.S. Treasury obligations, U.S. agency obligations, agency mortgage-backed securities and other municipalities’ obligations.
+(3) Cost includes fair value adjustments of $18 million at December 31, 2016 and $18 million at December 31, 2015.
+(4) Presented net of cash collateral, as disclosed in Note 12.
+Cost approximates fair value for all other financial instruments.
+Investments
+The Company’s investments in marketable securities are primarily classified as available-for-sale securities. The following
+table provides the investing results from available-for—sale securities for the years ended December 31, 2016, 2015 and 2014.
+Investing Results 7
+In millions 2 01 6 2015 2014 :
+|Proceeds from sales of available-for-sale securities $ 535 $ 565 $ 675 l
+Gross realized gains $ 58 $ 96 $ 99
+lGross realized losses $ (2) $ (14) $ (6)1
+The following table summarizes the contractual maturities of the Company’s investments in debt securities:
+Contractual Maturities of Debt Securities at December 31, 2016 7
+In millions Amortized Casi Fair Value
+|Within one year $ 33 $ 32 |
+One to five years 331 341
+|SiX to ten years 665 664 ‘
+After ten years 201 216
+[Total $ 1,230 $ 1,253
+At December 31, 2016, the Company had $261 million ($3,354 million at December 31, 2015) of held-to-maturity securities
+(primarily Treasury Bills) classified as cash equivalents, as these securities had maturities of three months or less at the time of
+purchase. The Company’s investments in held-to-maturity securities are held at amortized cost, which approximates fair value.
+At December 31, 2016, the Company had investments in money market funds of $239 million classified as cash equivalents
+($1,689 million at December 31, 2015).
+The net unrealized gain/loss from mark-to-market adjustments recognized in earnings on trading securities held at the end of
+the year was a $6 million loss in 2016, a $2 million loss in 2015 and a $3 million gain in 2014.
+99

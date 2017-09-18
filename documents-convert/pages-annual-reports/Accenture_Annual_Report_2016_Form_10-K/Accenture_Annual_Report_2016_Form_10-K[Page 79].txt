@@ -1,0 +1,39 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+On May 28, 2014, the FASB issued ASU No. 2014-09 (Accounting Standard Codiﬁcation 606), Revenue from
+Contracts with Customers, which will replace most existing revenue recognition guidance in US. GAAP. The core
+principle of the ASU is that an entity should recognize revenue forthe transfer of goods or services equal to the amount
+that it expects to be entitled to receive for those goods or services. The ASU requires additional disclosure about the
+nature, amount, timing and uncertainty of revenue and cash ﬂows arising from customer contracts, including signiﬁcant
+judgments and changes in judgments. The ASU will be effective for the Company beginning September 1, 2018,
+including interim periods in its ﬁscal year 2019, and allows for both retrospective and modiﬁed retrospective methods
+of adoption. The Company will adopt the guidance on September 1, 2018 and apply the modified retrospective method.
+The Company is assessing the impact of this ASU on its Consolidated Financial Statements.
+2. EARNINGS PER SHARE
+Basic and diluted earnings per share were calculated as follows:
+7 Fiscal 7
+i 2016 is 2015 is 2014 i
+I Basic Earnings per share I
+Net income attributable to Accenture plc $ 4,111,892 $ 3,053,581 $ 2,941,498
+I Basic weighted average Class A ordinary shares 624,797,820 626,799,586 634,216,250 I
+Basic earnings per share $ 6.58 $ 4.87 $ 4.64
+IDiluted Earnings per share : I
+Net income attributable to Accenture plc $ 4,111,892 $ 3,053,581 $ 2,941,498
+Net income attributable to noncontrolling interests in Accenture Holdings
+plc and Accenture Canada Holdings Inc. (1) 195,560 178,925 187,107
+Net income for diluted earnings per share calculation $ 4,307,452 $ 3,232,506 $ 3,128,605
+I Basic weighted average Class A ordinary shares 624,797,820 626,799,586 634,216,250 I
+Class A ordinary shares issuable upon redemption/exchange of
+noncontrolling Interests (1) 29,712,982 36,693,816 40,333,904
+I Diluted effect of employee compensation related to Class A ordinary shares 13,105,585 15,094,672 17,689,942 I
+Diluted effect of share purchase plans related to Class A ordinary shares 153,887 168,996 149,870
+I Diluted weighted average Class A ordinary shares 7 667,770,274, 7 678,757,070, 7 692,389,966I
+Diluted earnings per share $ 6.45 $ 4.76 $ 4.52
+(1) Diluted earnings per share assumes the redemption of all Accenture Holdings plc ordinary shares owned by
+holders of noncontrolling interests and the exchange of all Accenture Canada Holdings Inc. exchangeable
+shares for Accenture plc ClassA ordinary shares, on a one-for-one basis. The income effect does not take
+into account “Net income attributable to noncontrolling interests—other,” since those shares are not redeemable
+or exchangeable for Accenture plc Class A ordinary shares.
+F-15

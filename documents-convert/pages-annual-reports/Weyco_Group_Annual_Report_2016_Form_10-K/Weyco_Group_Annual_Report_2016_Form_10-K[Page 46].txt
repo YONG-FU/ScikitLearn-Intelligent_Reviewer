@@ -1,0 +1,47 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES — (continued)
+one year. Additional ASUs have been issued as part of the overall new revenue guidance. This new
+revenue standard permits the use of either the retrospective or cumulative effect transition method.
+The Company has begun its initial assessment of the new revenue standard, with a focus on
+identifying the contracts with customers and assessing whether and what performance obligations
+exist. Based on our preliminary assessment to date, the Company does not expect that the adoption
+of this new standard will have a material impact on its consolidated financial statements. The
+Company currently plans to adopt the new standard in the first quarter of 2018. The Company is
+continuing its assessment, which may identify other impacts.
+3. FAIR VALUE OF FINANCIAL INSTRUMENTS
+ASC 820, Fair Value Measurements and Disclosures (“ASC 820”) defines fair value as the price
+that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date. ASC 820 also establishes the following three-level
+hierarchy for fair value measurements based upon the sources of data and assumptions used to
+develop the fair value measurements:
+Level 1 — unadjusted quoted market prices in active markets for identical assets or liabilities that
+are publicly accessible.
+Level 2 — quoted prices for similar assets or liabilities in active markets, quoted prices for
+identical or similar assets or liabilities in markets that are not active and inputs (other than
+quoted prices) that are observable for the asset or liability, either directly or indirectly.
+Level 3 — unobservable inputs that reflect the Company’s assumptions, consistent with
+reasonably available assumptions made by other market participants.
+The carrying amounts of all short-term financial instruments, except marketable securities and
+foreign exchange contracts, approximate fair value due to the short-term nature of those instruments.
+Marketable securities are carried at amortized cost. The fair value disclosures of marketable
+securities are Level 2 valuations as defined by ASC 820, consisting of quoted prices for identical or
+similar assets in markets that are not active. See Note 4. Foreign exchange contracts are carried at
+fair value. The fair value measurements of foreign exchange contracts are based on observable
+market transactions of spot and forward rates, and thus represent level 2 valuations as defined by
+ASC 820. The Company’s contingent consideration was measured at fair value. See Note 10.
+4. INVESTMENTS
+Below is a summary of the amortized cost and estimated market values of the Company’s
+marketable securities as of December 31, 2016, and 2015. The estimated market values provided
+are Level 2 valuations as defined by ASC 820.
+2016 2015
+Amortized Market Amortized Market
+Cost Value Cost Value
+(Dollars in thousands)
+Municipal bonds:
+Current........................... $4,601 $4,610 $4,522 $4,546
+Due from one through five years . . . . . . . . . 12,133 12,486 12,395 13,057
+Due from six through ten years . . . . . . . . . . 7,705 7,804 6,929 7,217
+Due from eleven through twenty years . . . . 1,223 1,222 1,361 1,391
+Total............................ $25,662 $26,122 $25,207 $26,211
+42

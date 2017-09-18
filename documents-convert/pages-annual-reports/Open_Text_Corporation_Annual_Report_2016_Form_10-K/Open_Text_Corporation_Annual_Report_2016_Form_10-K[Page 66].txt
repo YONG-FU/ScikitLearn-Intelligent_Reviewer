@@ -1,0 +1,50 @@
+Reconciliation of selected GAAP-based measures to Non-GAAP-based measures for the year ended June 30, 2014
+(in thousands except for per share data)
+Year Ended June 30, 2014 7
+7 Non-GAAP- 7
+GAAP-based based
+Measures Non-GAAP- Measures
+GAAP-based % of Total based % of Total
+Measures Revenue Adjustments Note Measures Revenue
+Cost of revenues
+[Cloud services and subscriptions $ 142,193 $ (342) (1) $ 141,851 [
+Customer support 96,068 (754) (1) 95,314
+[Professional service and other 189,403 (855) (1) 188,548 [
+Amortization of acquired technology-based intangible assets 69,917 (69,917) (2) —
+GAAP-based gross proﬁt and gross margin (%) /
+Non-GAAP-based gross proﬁt and gross margin (%) 1,113,957 68.6% 71,868 (3) 1,185,825 73.0%
+Operating expenses
+[Research and development 176,834 (2,356) (1) 174,478 [
+Sales and marketing 346,941 (7,312) (1) 339,629
+[General and administrative 142,080 (8,287) (1) 133,793 [
+Amortization of acquired customer-based intangible assets 81,023 (81,023) (2) —
+[ Special charges (recoveries) 31,3 14 (31,3 14) (4) — [
+GAAP-based income from operations and operating margin (%) /
+Non-GAAP-based income from operations and operating margin (%) 300,528 18.5% 202,160 (5) 502,688 30.9%
+[Other income (expense), net 3,941 (3,941) (6) — [
+Provision for (recovery of) income taxes 58,461 9,569 (7) 68,030
+GAAP-based net income / N on-GAAP-based net income, attributable
+to OpenText 218,125 188,650 (8) 406,775
+GAAP-based earnings per share / Non GAAP-based earnings per
+share-diluted, attributable to OpenText $ 1.81 $ 1.56 (8) $ 3.37
+(1) Adjustment relates to the exclusion of share-based compensation expense from our Non-GAAP-based operating expenses as this expense is excluded
+from our internal analysis of operating results.
+(2) Adjustment relates to the exclusion of amortization expense from our Non-GAAP-based operating expenses as the timing and frequency of
+amortization expense is dependent on our acquisitions and is hence excluded from our internal analysis of operating results.
+(3) GAAP-based and Non-GAAP-based gross profit stated in dollars and gross margin stated as a percentage of total revenue.
+(4) Adjustment relates to the exclusion of Special charges (recoveries) from our Non-GAAP-based operating expenses as Special charges (recoveries)
+are generally incurred in the periods following the relevant acquisitions, include one-time, non-recurring charges or recoveries, and are not indicative
+or related to continuing operations and are therefore excluded from our internal analysis of operating results. See note 17 "Special Charges
+(Recoveries)" to our Consolidated Financial Statements for more details.
+(5) GAAP-based and Non-GAAP-based income from operations stated in dollars and operating margin stated as a percentage of total revenue.
+(6) Adjustment relates to the exclusion of Other income (expense) from our Non-GAAP-based operating expenses as Other income (expense) relates
+primarily to the transactional impact of foreign exchange and is generally not indicative or related to continuing operations and is therefore excluded
+from our internal analysis of operating results.
+(7) Adjustment relates to differences between the GAAP-based tax provision rate of approximately 21% and a Non-GAAP-based tax rate of 14.3%;
+these rate differences are due to the income tax effects of expenses that are excluded for the purpose of calculating Non-GAAP-based adjusted net
+income. Such excluded expenses include amortization, share-based compensation, Special charges (recoveries) and other income (expense), net. Also
+excluded are tax expense items unrelated to current period income such as changes in reserves for tax uncertainties and valuation allowance reserves,
+tax arising on internal reorganizations, and “book to return” adjustments for tax return filings and tax assessments (in total “adjusted expenses”). In
+arriving at our Non-GAAP-based tax rate of 14.3%, we analyzed the individual adjusted expenses and took into consideration the impact of statutory
+tax rates from local jurisdictions incurring the expense.
+58

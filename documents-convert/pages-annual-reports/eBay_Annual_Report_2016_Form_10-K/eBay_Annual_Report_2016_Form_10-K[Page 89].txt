@@ -1,0 +1,44 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Foreign currency
+Most of our foreign subsidiaries use the local currency of their respective countries as
+their functional currency. Assets and liabilities are translated into U.S. dollars using exchange
+rates prevailing at the balance sheet date, while revenues and expenses are translated at
+average exchange rates during the year. Gains and losses resulting from the translation of our
+consolidated balance sheet are recorded as a component of accumulated other
+comprehensive income.
+Gains and losses from foreign currency transactions are recognized as interest and other,
+net.
+Derivative instruments
+We use derivative financial instruments, primarily forwards, options and swaps, to hedge
+certain foreign currency and interest rate exposures. We may also use other derivative
+instruments not designated as hedges, such as forwards to hedge foreign currency balance
+sheet exposures. We do not use derivative financial instruments for trading purposes. See
+“Note 9 — Derivative Instruments” for a full description of our derivative instrument activities
+and related accounting policies.
+Concentration of credit risk
+Our cash, cash equivalents, accounts receivable and derivative instruments are potentially
+subject to concentration of credit risk. Cash and cash equivalents are placed with financial
+institutions that management believes are of high credit quality. Our accounts receivable are
+derived from revenue earned from customers. In each of the years ended December 31, 2016,
+2015 and 2014, no customer accounted for more than 10% of net revenues. Our derivative
+instruments expose us to credit risk to the extent that our counterparties may be unable to
+meet the terms of the agreements.
+Recent accounting pronouncements
+In 2015, the FASB issued new guidance related to presentation of debt issuance costs. The
+new standard requires that debt issuance costs related to a recognized debt liability be
+presented in the balance sheet as a direct deduction from the carrying amount of that debt
+liability. The new standard is effective for fiscal years, and interim periods within those fiscal
+years, beginning after December 15, 2015. We adopted this standard retrospectively in the first
+quarter of 2016. The balance sheet as of December 31, 2015 was retrospectively adjusted,
+which resulted in reductions to other assets of $30 million and long-term debt of $30 million.
+In 2014, the Financial Accounting Standards Board (“FASB”) issued new accounting
+guidance related to revenue recognition. This new standard will replace all current GAAP
+guidance on this topic and eliminate all industry-specific guidance. The new revenue
+recognition guidance provides a unified model to determine when and how revenue is
+recognized. The core principle is that a company should recognize revenue to depict the
+transfer of promised goods or services to customers in an amount that reflects the
+consideration for which the entity expects to be entitled in exchange for those goods or
+services. In 2016, the FASB issued several amendments to the standard, including principal
+versus agent considerations when another party is involved in providing goods or services to a
+F—13

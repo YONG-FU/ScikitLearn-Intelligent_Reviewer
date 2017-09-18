@@ -1,0 +1,44 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Short-Term Investments. We classify investments in debt securities as available-for—sale as of the balance sheet date and report them at fair value. We
+record unrealized gains and losses, net of income tax, as other comprehensive income or loss. We report realized gains or losses, as determined on a speciﬁc
+identiﬁcation basis, and other-than—temporary declines in value, if any, in net other expense in our consolidated statement of comprehensive (loss) income.
+We assess declines in the value of individual investments to determine whether the decline is other-than-temporary and thus the investment is impaired. We
+make these assessments by considering available evidence, including changes in general market conditions, speciﬁc industry and individual company data,
+the length of time and the extent to which the market value has been less than cost, the ﬁnancial condition and near-term prospects of the individual
+company and our intent and ability to hold the investment. As of December 31, 2016, the time deposits we held were not material. As of December 31, 2015,
+we had $9.3 million in time deposits. See Note 8 for additional information.
+Handset and Accessory Inventory. We record handsets and accessories at the lower of cost or their net realizable value. We determine cost by the
+weighted average costing method. We expense handset costs at the time of sale and classify such costs in cost of handsets and accessories. Inventory cost
+includes amounts associated with non-income based taxes.
+We analyze the net realizable value of handset and accessory inventory on a periodic basis. This analysis includes an assessment of the obsolescence of
+individual devices, our sales forecasts and other factors. For the year ended December 31, 2016, we recorded losses related to inventory obsolescence of $1.7
+million. In addition, for the six months ended December 31, 2015 and for the year ended December 31, 2014, we recorded losses related to inventory
+obsolescence of $2.2 million and $29.3 million, respectively. We did not record any losses related to inventory obsolescence during the six months ended
+June 30, 2015.
+Property, Plant and Equipment. We record property, plant and equipment, including improvements that extend useﬁll lives or enhance functionality,
+at cost, while we charge maintenance and repairs to expense as incurred.
+We capitalize internal and external costs incurred to develop intemal-use software, which consist primarily of costs related to conﬁguration, interfaces,
+installation and testing. We also capitalize internal and external costs incurred to develop speciﬁed upgrades and enhancements if they result in signiﬁcant
+additional ﬁinctionalities for our existing software. We expense all costs related to evaluation of software needs, data conversion, training, maintenance and
+otherpost-implementation operating activities.
+We calculate depreciation using the straight-line method based on estimated useful lives ranging from 3 to 30 years for network equipment,
+communication towers and network software and 3 to 10 years for software, ofﬁce equipment, ﬁlmiture and ﬁxtures, and other, which includes non—network
+internal use software. We include depreciation expense on our capital leases in accumulated depreciation. We amortize leasehold improvements over the
+shorter of the lease terms or the useful lives of the improvements.
+Construction in progress includes internal and external labor, materials, transmission and related equipment, engineering, site development, interest
+and other costs relating to the construction and development of our wireless network. We do not depreciate assets under construction until they are ready for
+their intended use. We capitalize interest and other costs, including labor and software upgrades, which are applicable to the construction of, and signiﬁcant
+improvements that enhance functionality to, our network equipment.
+As of June 30, 2015, in connection with the implementation of fresh start accounting, we adjusted our property, plant and equipment to its estimated
+fair value and revised the depreciable lives. We will continue to periodically review the depreciation method, useful lives and estimated salvage value of our
+property, plant and equipment and revise those estimates if current estimates are signiﬁcantly different from previous estimates.
+Asset Retirement Obligations. We record an asset retirement obligation, or ARO, and an associated asset retirement cost, or ARC, when we have a
+legal obligation in connection with the retirement of tangible long-lived assets. Our obligations arise from certain of our leases and relate primarily to the
+cost of removing our communication towers and network equipment from leased sites. We recognize an ARC, and the associated ARC, in the period in which
+it is incurred at fair value computed using discounted cash ﬂow techniques. The liability is then accreted over time until the obligation is settled and the
+ARC is depreciated over the useful life of the related assets.
+We make adjustments for changes to either the timing or amount of the estimated future settlement obligation in the period incurred. We recognize
+increases in the present value of the AROs as an additional liability and add this amount to the carrying amount of the associated ARC. We record decreases
+as a reduction in both the recorded liability and the carrying amount of the associated ARC.
+F—l 1

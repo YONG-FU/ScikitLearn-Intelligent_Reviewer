@@ -1,0 +1,53 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+7 Year Ended December 31, 7
+: 2016 7 7 2015 2014
+Contractual interest expense 7$ 7,187 7 7$ 7,188 $ 4,792 7
+Amortization of debt issuance costs 3,863 3,974 2,461
+Amortization of debt discount 33,014 32,039 20,832
+$ 44,064 $ 43,201 $ 28,085
+See Note 5 to the Company's consolidated financial statements for fair value disclosures related to the Company's
+Convertible Notes.
+Convertible Note Hedge ana1 Warrant Transactions
+In connection with the pricing of the Convertible Notes, the Company entered into convertible note hedge transactions
+relating to approximately 16.0 million shares of common stock (the "Bond Hedges"), with J PMorgan Chase Bank, National
+Association, London Branch; Goldman, Sachs & Co.; Bank of America, NA; and Royal Bank of Canada (the “Option
+Counterparties”) and also entered into separate warrant transactions (the "Initial Warrant Transactions") with each of the Option
+Counterparties relating to approximately 16.0 million shares of common stock.
+The Bond Hedges are generally expected to reduce the potential dilution upon conversion of the Convertible Notes and/or
+offset any payments in cash, shares of common stock or a combination of cash and shares of common stock, at the Company ’s
+election, that the Company is required to make in excess of the principal amount of the Convertible Notes upon conversion of
+any Convertible Notes, as the case may be, in the event that the market price per share of common stock, as measured under the
+terms of the Bond Hedges, is greater than the strike price of the Bond Hedges, which initially corresponds to the conversion
+price of the Convertible Notes and is subject to anti-dilution adjustments substantially similar to those applicable to the
+conversion rate of the Convertible Notes. The Warrant Transactions will separately have a dilutive effect to the extent that the
+market value per share of common stock, as measured under the terms of the Warrant Transactions, exceeds the applicable
+strike price of the warrants issued pursuant to the Warrant Transactions (the “Warrants”). The initial strike price of the Warrants
+is $120.00 per share. The Warrants will expire in ratable portions on a series of expiration dates commencing after the maturity
+of the Convertible Notes. The Bond Hedges and Warrants are not marked to market. The value of the Bond Hedges and
+Warrants were initially recorded in stockholders' equity and continue to be classiﬁed within stockholders' equity. As of
+December 31, 2016, no warrants have been exercised.
+Aside from the initial payment of a premium to the Option Counterparties under the Bond Hedges, which amount is
+partially offset by the receipt of a premium under the Warrant Transactions, the Company is not required to make any cash
+payments to the Option Counterparties under the Bond Hedges and will not receive any proceeds if the Warrants are exercised.
+13. CREDIT FACILITY
+Effective January 7, 2015, the Company entered into a Credit Facility with a group of financial institutions (the
+“Lenders”). The Credit Facility provides for a five year revolving line of credit in the aggregate amount of $250.0 million,
+subject to continued covenant compliance. The Company may elect to increase the revolving credit facility by up to $250.0
+million if existing or new lenders provide additional revolving commitments in accordance with the terms of the Credit
+Agreement. A portion of the revolving line of credit (i) in the aggregate amount of $25.0 million may be available for issuances
+of letters of credit and (ii) in the aggregate amount of $10.0 million may be available for swing line loans, as part of, not in
+addition to, the aggregate revolving commitments. The Credit Facility bears interest at the LIBOR plus 1.10% and adjusts in
+the range of 1.00% to 1.30% above LIBOR based on the ratio of the Company’s total debt to its adjusted earnings before
+interest, taxes, depreciation, amortization and certain other items (“EBITDA”) as defined in the agreement. In addition, the
+Company is required to pay a quarterly facility fee ranging from 0.125% to 0.20% of the aggregate revolving commitments
+under the Credit Facility and based on the ratio of the Company ’s total debt to the Company’s consolidated EBITDA. As of
+December 31, 2016, there were no amounts outstanding under the Credit Facility.
+The Credit Agreement contains certain financial covenants that require the Company to maintain a consolidated leverage
+ratio of not more than 3.5: 1.0 and a consolidated interest coverage ratio of not less than 3.0: 1.0. In addition, the Credit
+Agreement contains customary affirmative and negative covenants, including covenants that limit or restrict the ability of the
+Company to grant liens, merge, dissolve or consolidate, dispose of all or substantially all of its assets, pay dividends during the
+existence of a default under the Credit Agreement, change its business and incur subsidiary indebtedness, in each case subject
+to customary exceptions for a credit facility of this size and type. The Company was in compliance with these covenants as of
+December 31, 2016.
+F-34

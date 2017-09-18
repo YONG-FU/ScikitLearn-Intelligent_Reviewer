@@ -1,0 +1,43 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 1: Overview and Summary of Signiﬁcant Accounting Policies (Continued)
+HP evaluates each deliverable in an arrangement to determine whether it represents a separate unit of accounting. A
+deliverable constitutes a separate unit of accounting when it has standalone value to the customer. For deliverables with no
+standalone value, HP recognizes revenue consistent with the pattern of delivery of the final deliverable. If the arrangement
+includes a customer-negotiated refund or return right or other contingency relative to the delivered items, and the delivery and
+performance of the undelivered items is considered probable and substantially within HP’s control, the delivered element
+constitutes a separate unit of accounting. In arrangements with combined units of accounting, changes in the allocation of the
+transaction price among elements may impact the timing of revenue recognition for the contract but will not change the total
+revenue recognized for the contract.
+Net revenue
+Hardware
+Under HP’s standard terms and conditions of sale, HP transfers title and risk of loss to the customer at the time product is
+delivered to the customer and recognizes revenue accordingly, unless customer acceptance is uncertain or significant
+obligations to the customer remain. HP reduces revenue for estimated customer returns, price protection, rebates and other
+programs offered under sales agreements established by HP with its distributors and resellers. HP records revenue from the sale
+of equipment under sales-type leases as revenue at the inception of the lease. HP accrues the estimated cost of post-sale
+obligations, including standard product warranties, based on historical experience at the time HP recognizes revenue.
+Services
+HP recognizes revenue from fixed-price support or maintenance contracts ratably over the contract period and recognizes
+the costs associated with these contracts as incurred.
+Deferred revenue
+HP records amounts invoiced to customers in excess of revenue recognized as deferred revenue until the revenue
+recognition criteria are satisfied. HP records revenue that is earned and recognized in excess of amounts invoiced on services
+contracts as trade receivables. Deferred revenue represents amounts invoiced in advance for product support contracts and
+product sales.
+Shipping and Handling
+HP includes costs related to shipping and handling in Cost of revenue.
+Stock-Based Compensation
+HP determines stock-based compensation expense based on the measurement date fair value of the award. HP recognizes
+compensation cost only for those awards expected to meet the service and performance vesting conditions on a straight—line
+basis over the requisite service period of the award. HP determines compensation costs at the aggregate grant level for service-
+based awards and at the individual vesting tranche level for awards with performance and/or market conditions. HP estimates
+the forfeiture rate based on its historical experience.
+Retirement and Post-Retirement Plans
+HP has various defined benefit, other contributory and noncontributory retirement and post-retirement plans. HP generally
+amortizes unrecognized actuarial gains and losses on a straight-line basis over the average remaining estimated service life of
+participants. In limited cases, HP amortizes actuarial gains and losses using the corridor approach. See Note 5, “Retirement and
+Post-Retirement Benefit Plans” for a full description of these plans and the accounting and funding policies.
+Advertising
+64

@@ -1,0 +1,32 @@
+Table,0f,C,ontents
+local currencies into U.S. dollars. Our ﬁnancial results are also subject to changes in exchange rates that impact the settlement of transactions in non-local
+currencies. The carrying values of our equity investments in any equity investee are also subject to ﬂuctuations in the exchange rates of foreign currencies.
+We use derivative instruments, such as foreign currency fonNard contracts, to partially offset certain exposures to fluctuations in foreign currency exchange rates.
+The use of such instruments may not offset any, or more than a portion, of the adverse ﬁnancial effects of unfavorable movements in foreign currency exchange
+rates. Any losses on these instruments that we experience may adversely impact our ﬁnancial results, cash ﬂows and ﬁnancial condition. Further, we hedge a
+portion of our net investment in Yahoo Japan Corporation (“Yahoo Japan”) with currency fonNard contracts. If the Japanese yen has appreciated at maturity
+beyond the contract execution rate, we would be required to settle the contract by making a cash payment which could be material and could adversely impact
+our cash flows and financial condition. See Part II, Item 7A—“Quantitative and Qualitative Disclosures About Market Risk” of this Annual Report.
+Acquisitions and strategic investments could result in adverse impacts on our operations and in unanticipated liabilities.
+We have acquired, and have made strategic investments in, a number of companies (including through joint ventures). Such acquisitions and strategic
+investments to date were accompanied by a number of risks, including:
+- the difficulty of integrating the operations, personnel, systems, and controls of acquired companies as a result of cultural, regulatory, systems, and
+operational differences;
+- the potential disruption of our ongoing business and distraction of management;
+- the incurrence of additional operating losses and operating expenses of the businesses we acquired or in which we invested;
+- the difﬁculty of integrating acquired technology and rights into our services and unanticipated expenses related to such integration;
+- the failure to successfully further develop an acquired business or technology and any resulting impairment of amounts currently capitalized as intangible
+assets;
+- the failure of strategic investments to perform as expected or to meet financial projections;
+- the potential for patent and trademark infringement and data privacy and security claims against the acquired companies, or companies in which we have
+invested;
+- litigation or other claims in connection with acquisitions, acquired companies, or companies in which we have invested;
+- the impairment or loss of relationships with customers and partners of the companies we acquired or in which we invested or with our customers and
+partners as a result of the integration of acquired operations;
+- the impairment of relationships with, or failure to retain, employees of acquired companies or our existing employees as a result of integration of new
+personnel;
+- the impairment of goodwill and/or purchased long-lived assets;
+- our lack of, or limitations on our, control over the operations of ourjoint venture companies;
+- in the case of foreign acquisitions and investments, the impact of particular economic, tax, currency, political, legal and regulatory risks associated with
+specific countries; and
+26

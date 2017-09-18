@@ -1,0 +1,45 @@
+The following table summarizes RSU activity for the year ended December 31, 2016 (in thousands, except for per share data):
+Weighted Average
+Grant Date
+Shares _ Fair Value
+'Nonvested at December 31, 2015 885 $ 7.36 ‘
+Granted 1,353 6.00
+’Released (225) 7.20 l
+Forfeited (265) 6.86
+'Nonvested at December 31, 2016 1,748 $ 6.40 l
+The weighted average grant date fair value of RSUs granted in the years ended December 31, 2016 , 2015 and 2014 was $6.00 , $7.02 and $12.63 ,
+respectively. The release date fair value of RSUs in the years ended December 31, 2016 , 2015 and 2014 was $1.3 million , $0.5 million and $0.6 million ,
+respectively. As of December 31, 2016 , there was $5.6 million of unrecognized compensation cost related to nonvested RSU awards. The cost is expected to be
+recognized over a weighted average period of 2.2 years .
+RSU activity included 46,224 , 214,831 and 50,000 PSUs granted in the years ended December 31, 2016 , 2015 and 2014 with a weighted average grant date
+fair value of $5.08 , $7.18 and $10.85 per share, respectively, with vesting contingent upon specified Company performance conditions or objectives.
+Additionally, for the year ended December 31, 2016 , RSUs granted included 313,460 market-condition PSUs with a weighted average grant date fair value
+of $7.76 . The market-condition PSUs will be earned based on the level of the Company’s stock price performance against a determined market index over one ,
+two and three -year performance periods. The market-condition PSUs have the potential to vest between 0% and 200% depending on the Company’s stock price
+performance and the recipients must remain employed through the end of each performance period in order to vest. No market-condition PSUs were granted during
+the year ended December 31, 2015 . For the year ended December 31, 2014, RSUS granted included 70,000 market-condition PSUs with a weighted average grant
+date fair value of $7.71 per share. These PSUs have the potential to vest upon the achievement of certain stock price thresholds and the completion of three years of
+continuous employment from the date of grant. The fair value of market-condition PSUs granted was calculated using a Monte Carlo valuation model with the
+following assumptions:
+Years Ended December 31,
+2016 2014
+’Expected dividend yield —% —%1
+Expected volatility 62% 65%
+[Risk—free interest rate 1.07% 086%
+Expected term (in years) 3.0 3.0
+The following table summarizes the amount of compensation expense recognized for RSUs for the years ended December 31, 2016 , 2015 and 2014 (in
+thousands):
+Years Ended December 31,
+2016 _ 2015 _ 2014
+’Service-based restricted stock units $ 2,243 $ 1,362 $ 749 ‘
+Performance-based restricted stock units 103 (28) 28
+’Market-condition restricted stock units 869 128 90 ‘
+Total compensation expense recognized for employee restricted stock units $ 3,215 $ 1,462 $ 867
+Employee Stock Purchase Plan
+In 2013, the Company amended and restated the 2004 Employee Stock Purchase Plan (“ESPP”). Pursuant to the ESPP, the aggregate number of shares of
+common stock which may be purchased shall not exceed 1,000,000 shares of common stock of the Company. For the years ended December 31, 2016 and 2015 ,
+111,832 and 145,733 shares, respectively, were purchased under the ESPP.
+The ESPP permits substantially all employees to purchase common stock through payroll deductions, at 85% of the lower of the trading price of the stock at
+the beginning or at the end of each six -month offering period. The number of shares purchased is based on participants” contributions made during the offering
+period.
+68

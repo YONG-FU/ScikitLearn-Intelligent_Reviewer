@@ -1,0 +1,46 @@
+14. Employee Beneﬁt Plan
+The Company has established a savings plan for its employees that is designed to be qualified under Section 401(k) of the
+Internal Revenue Code. Eligible employees are permitted to contribute to this plan through payroll deductions within statutory
+and plan limits. The Company contributed approximately $13.7 million, $13.1 million and $16.6 million of cash to the savings
+plan for the years ended December 31, 2016, 2015 and 2014, respectively, under a matching program.
+15. Stock-Based Compensation
+Equity Plans
+In May 2013, the Company's stockholders approved the Akamai Technologies, Inc. 2013 Stock Incentive Plan (the "2013
+Plan"). The 2013 Plan replaced the Akamai Technologies, Inc. 2009 Stock Incentive Plan (the "2009 Plan”), which in turn
+replaced the Akamai Technologies, Inc. 2006 Stock Incentive Plan, the Akamai Technologies, Inc. 2001 Stock Incentive Plan
+and the Akamai Technologies, Inc. 1998 Stock Incentive Plan (together with the 2009 Plan, the "Previous Plans"). The
+Company no longer issues equity awards under the Previous Plans, and they solely exist to satisfy outstanding equity awards
+previously granted under those plans. The 2013 Plan allows for the issuance of incentive stock options, non-statutory stock
+options, stock appreciation rights, restricted stock, restricted stock units, other stock-based awards and cash-based awards up to
+11.0 million shares of common stock to employees, officers, directors, consultants and advisers of the Company. Additionally,
+the Company may grant up to 3.8 million shares of common stock thereunder that were available for grant under the 2009 Plan
+immediately prior to stockholder approval of the 2013 Plan. Any shares of common stock that are currently outstanding under
+the Previous Plans that are terminated, canceled, surrendered or forfeited will become available to grant under the 2013 Plan.
+As of December 31, 2016, the Company had reserved approximately 6.6 million shares of common stock available for future
+issuance of equity awards under the 2013 Plan.
+The Company has assumed certain stock option plans and the outstanding stock options of companies that it has acquired
+(“Assumed Plans”). Stock options outstanding as of the date of acquisition under the Assumed Plans were exchanged for the
+Company’s stock options and adjusted to reﬂect the appropriate conversion ratio as specified by the applicable acquisition
+agreement, but are otherwise administered in accordance with the terms of the Assumed Plans. Stock options under the
+Assumed Plans generally vest over four years and expire ten years from the date of grant.
+The 1999 Employee Stock Purchase Plan ("1999 ESPP") permits eligible employees to purchase up to 1.5 million shares
+each June 1 and December 1, provided that the aggregate number of shares issued shall not exceed 20.0 million. The 1999
+ESPP allows participants to purchase shares of common stock at a 15% discount from the fair market value of the stock as
+determined on specific dates at six-month intervals. During the years ended December 31, 2016, 2015 and 2014, the Company
+issued 0.9 million, 0.7 million and 0.7 million shares under the 1999 ESPP, respectively, with a weighted average purchase
+price per share of $46.23, $52.05 and $41.76, respectively. Total cash proceeds from the purchase of shares under the 1999
+ESPP in the years ended December 31, 2016, 2015 and 2014 were $39.9 million, $34.8 million and $29.3 million, respectively.
+As of December 31, 2016, approximately $5.1 million had been withheld from employees for future purchases under the 1999
+ESPP.
+Stock-Based Compensation Expense
+The following table summarizes the components of total stock-based compensation expense included in the Company’s
+consolidated statements of income for the years ended December 31, 2016, 2015 and 2014 (in thousands):
+2016 2015 2014
+Cost of revenue $ 18,287 $ 14,145 $ 11,934
+Research and development 29,739 23,927 19,341
+Sales and marketing 55,407 53,542 47,570
+General and administrative 41,073 35,063 33,151
+Total stock-based compensation 144,506 126,677 11 1,996
+Provision for income taxes (49,014) (49,033) (39,182)
+Total stock-based compensation, net of taxes :$ 95,492 :$ 77,644 :$ 72,814
+74

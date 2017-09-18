@@ -1,0 +1,46 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Years Ended December 31, 2016, 2015 and 2014
+12. INCOME TAXES — (continued)
+The differences between the U.S. federal statutory income tax rate and the Company’s effective
+tax rate were as follows for the years ended December 31, 2016, 2015 and 2014:
+2016 2015 2014
+U.S. federal statutory income tax rate . . . . . . . . . . 35.0% 35.0% 35.0%
+State income taxes, net of federal tax benefit . . . . 3.5 3.4 2.8
+Non-taxable municipal bond interest . . . . . . . . . . . (1.0) (1.0) (1.2)
+Foreign income tax rate differences . . . . . . . . . . . (0.6) 0.4 (0.8)
+Life insurance deferred tax reversal . . . . . . . . . . . (14.2) — —
+0.3 (0.1) 0.4
+Effectivetaxrate......................... 23.0% 37.7% 36.2%
+The decrease in the provision for income taxes and the effective tax rate for 2016 was primarily
+due to a one-time adjustment related to corporate-owned life insurance policies. In the fourth quarter
+of 2016, the Company reviewed its liquidity needs and sources of capital, including evaluating
+whether it would need the cash available under corporate-owned life insurance policies on two former
+executives. It was determined that the chances were remote that the Company would need to
+surrender the policies to satisfy liquidity needs, and, as a result, the Company reversed the
+$3.1 million deferred tax liability related to the policies.
+The foreign component of pretax net earnings was $2.7 million, $1.3 million and $5.0 million for
+2016, 2015 and 2014, respectively. As of December 31, 2016, the total amount of unremitted foreign
+earnings was $7.3 million. A deferred tax liability has not been recorded on these unremitted earnings
+because the Company intends to permanently reinvest such earnings outside of the US. Future
+dividends, if any, would be paid only out of current year earnings. If the remaining unremitted foreign
+earnings at December 31, 2016 were to be repatriated in the future, the related deferred tax liability
+would not have a material impact on the Company’s financial statements.
+The components of deferred taxes as of December 31, 2016, and 2015 were as follows:
+2016 2015
+(Dollars in thousands)
+Deferred income tax assets:
+Accountsreceivablereserves $ 341 $ 422
+Pensionliability................................... 11,002 11,931
+Accruedliabilities................................. 2,648 2,383
+Carryfowardlosses................................ 129 —
+Foreign currency losses on intercompany loans . . . . . . . . . . . 53 148
+14,173 14,884
+Deferred income tax liabilities:
+Inventory and related reserves . . . . . . . . . . . . . . . . . . . . . . . (3,744) (3,552)
+Cashvalueoflifeinsurance (441) (3,517)
+Property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . (1,483) (1,420)
+lntangibleassets.................................. (8,284) (7,753)
+Prepaid expenses and other assets . . . . . . . . . . . . . . . . . . . . (264) (249)
+(14,216) (16,491)
+Net deferred income tax liabilities . . . . . . . . . . . . . . . . . . . . . $ (43) $ (1,607)
+52

@@ -1,0 +1,29 @@
+SECTION 507. Limitation on Suits.
+No Holder of any Security of any particular series shall have any right to institute any proceeding, judicial or otherwise, with respect to this Indenture, or for
+the appointment of a receiver or trustee, or for any other remedy hereunder, unless:
+(1) an Event of Default with respect to that series shall have occurred and be continuing and such Holder shall have previously given written notice to
+the Trustee for the Securities of such series of such default and the continuance thereof;
+(2) the Holders of not less than 25% in principal amount of the Outstanding Securities of that series shall have made written request to the Trustee for
+the Securities of such series to institute proceedings in respect of such Event of Default in its own name as Trustee hereunder,
+(3) such Holder or Holders have offered to such Trustee indemnity or security satisfactory to it against the costs, expenses and liabilities to be incurred
+in compliance with such request;
+(4) such Trustee for 60 days after its receipt of such notice, request and offer of indemnity or security has failed to institute any such proceeding; and
+(5) no direction inconsistent with such written request has been given to such Trustee during such 60-day period by the Holders of a majority in
+principal amount of the Outstanding Securities of that series; it being understood and intended and being expressly covenanted by the taker and holder of
+every Security, with every other taker and holder with the Trustee that no one or more Holders of Securities of that series shall have any right in any manner
+whatever by Virtue of, or by availing of, any provision of this Indenture to affect, disturb or prejudice the rights of any other Holders of Securities of that
+series, or to enforce any right under this Indenture, except in the manner herein provided and for the equal and ratable benefit of all the Holders of Securities
+of that series (it being understood that the Trustee does not have an affirmative duty to ascertain whether or not such actions or forbearances are unduly
+prejudicial to such Holders).
+SECTION 508. Unconditional Right of Holders to Receive Principal, Premium, if any, and Interest, if any.
+Notwithstanding any other provision in this Indenture, the Holder of any Security shall have the right which is absolute and unconditional to receive payment
+of principal of, and premium, if any, and (subject to Section 307) interest, if any, on such Security on the respective Stated Maturities expressed in such Security
+(or, in the case of redemption, on the Redemption Date) and to institute suit for the enforcement of any such payment, and such right shall not be impaired without
+the consent of such Holder.
+SECTION 509. Restoration of Rights and Remedies.
+If the Trustee for the Securities of any series or any Holder of a Security has instituted any proceeding to enforce any right or remedy under this Indenture
+and such proceeding has been discontinued or abandoned for any reason, or has been determined adversely to such Trustee or to such Holder, then and in every
+such case the Company, such Trustee and the Holders of Securities shall, subject to any determination in such proceeding, be restored severally and respectively to
+their former positions hereunder, and thereafter all rights and remedies of such Trustee and such Holders shall continue as though no such proceeding had been
+instituted.
+28

@@ -1,0 +1,45 @@
+Software and Services.
+Our software and services revenue relates primarily to: (i) software license sales; and (ii) professional services to implement the software.
+The accounting for software license arrangements, especially when software is sold in a multiple-element arrangement, can be complex and requires considerable
+judgment. Key factors considered in accounting for software license and related services include the following criteria: (i) the identification of the separate elements of
+the arrangement; (ii) the determination of whether any undelivered elements are essential to the functionality of the delivered elements; (iii) the assessment of whether
+the software, if hosted, should be accounted for as a services arrangement and thus outside the scope of the software revenue recognition literature; (iv) the determination
+of vendor specific objective evidence (“VSOE”) of fair value for the undelivered element(s) of the arrangement; (V) the assessment of whether the software license fees
+are fixed or determinable; (Vi) the determination as to whether the fees are considered collectible; and (vii) the assessment of whether services included in the
+arrangement represent signiﬁcant production, customization or modification of the software. The evaluation of these factors, and the ultimate revenue recognition
+decision, requires significant judgments to be made by us. The judgments made in this area could have a significant effect on revenues recognized in any period by
+changing the amount and/or the timing of the revenue recognized. In addition, because software licenses typically have little or no direct, incremental costs related to the
+recognition of the revenue, these judgments could also have a significant effect on our results of operations.
+The initial sale of software products generally requires significant production, modification or customization and thus falls under the guidelines of contract accounting. In
+these software license arrangements, the elements of the arrangements are typically a software license, professional services, and maintenance. When we have VSOE of
+fair value for the maintenance, which we generally do, we allocate a portion of the total arrangement fee to the maintenance element based on its VSOE of fair value, and
+the balance of the arrangement fee is subject to contract accounting using the percentage-of-completion (“POC”) method of accounting. Under the POC method of
+accounting, software license and professional services revenues are typically recognized as the professional services related to the software implementation project are
+performed. We are using hours performed on the project as the measure to determine the percentage of the work completed.
+In certain instances, we sell software license volume upgrades, which provide our clients the right to use our software to process higher transaction volume levels. In
+these instances, if: (i) maintenance is the only undelivered element of the software arrangement; (ii) we have VSOE of fair value for the maintenance related to the
+volume upgrade; and (iii) we meet the other revenue recognition criteria, we recognize the software license revenue on the effective date of the volume upgrade.
+A portion of our professional services revenues does not include an element of software delivery (e.g., business consulting services, etc.), and thus, do not fall within the
+scope of specific authoritative accounting literature for software arrangements. In these cases, revenues from fixed-price, professional service contracts are recognized
+using a method consistent with the proportional performance method, which is relatively consistent with our POC methodology. Under a proportional performance
+model, revenue is recognized by allocating revenue between reporting periods based on relative service provided in each reporting period, and costs are generally
+recognized as incurred. We utilize an input-based approach (i.e., hours worked) for purposes of measuring performance on these types of contracts. Our input measure is
+considered a reasonable surrogate for an output measure. In instances when the work performed on fixed price agreements is of relatively short duration, or if we are
+unable to make reasonably dependable estimates at the outset of the arrangement, we use the completed contract method of accounting whereby revenue is recognized
+when the work is completed.
+Our use of the POC and proportional performance methods of accounting on professional services engagements requires estimates of the total project revenues, total
+project costs and the expected hours necessary to complete a project. Changes in estimates as a result of additional information or experience on a project as work
+progresses are inherent characteristics of the POC and proportional performance methods of accounting as we are exposed to various business risks in completing these
+engagements. The estimation process to support these methods of accounting is more difficult for projects of greater length and/or complexity. The judgments and
+estimates made in this area could: (i) have a significant effect on revenues recognized in any period by changing the amount and/or the timing of the revenue recognized;
+and/or (ii) impact the expected profitability of a project, including whether an overall loss on an arrangement has occurred. To mitigate the inherent risks in using the
+POC and proportional performance methods of accounting, we track our performance on projects and reevaluate the appropriateness of our estimates as part of our
+monthly accounting cycle.
+Revenues from professional services contracts billed on a time-and-materials basis are recognized as the services are performed and as amounts due from clients are
+deemed collectible and contractually non-refundable.
+Maintenance.
+Our maintenance revenue relates primarily to support of our software once it has been implemented. Maintenance revenues are recognized ratably over the software
+maintenance period. Our maintenance consists primarily of client and product support, technical updates (e.g., bug fixes, etc.), and unspecified upgrades or enhancements
+to our software products. If specified upgrades or enhancements are offered in an arrangement, which is rare, they are accounted for as a separate element of the software
+arrangement.
+50

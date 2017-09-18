@@ -1,0 +1,33 @@
+Table of Contents
+From time to time we enter into license agreements that automatically convert to fully paid-up licenses upon expiration or upon reaching certain milestones. For
+example, Tessera, Inc's license agreement with Texas Instruments, Inc. automatically converted to a fully paid-up license on December 31, 2013, assuming that
+Texas Instruments complied with all terms and conditions of the license agreement up through its expiration. We may not receive further royalties from licensees
+for any licensed technology under those agreements if they convert to fully paid-up licenses because such licensees will be entitled to continue using some, if not
+all, of the relevant intellectual property or technology under the terms of the license agreements without further payment, even if relevant patents or technologies
+are still in effect. If we cannot find another source of revenue to replace the revenues from these license agreements converting to fully paid-up licenses, our results
+of operations following such conversion would be materially adversely affected.
+A signiﬁcant amount of our royalty revenues comes from a few end markets and products, and our business could be harmed if demand for these market
+segments or products declines.
+A signiﬁcant portion of our royalty revenues comes from the manufacture and sale of packaged semiconductor chips for DRAM, application-specific standard
+product semiconductors, application-specific integrated circuits and memory. In addition, we derive substantial revenues from the incorporation of our technology
+into mobile devices, consumer products and computer hardware. If demand for semiconductors in any one or a combination of these market segments or products
+declines, our royalty revenues will be reduced significantly and our business would be harmed.
+The long-term success of our business is dependent on a royalty-based business model, which is inherently risky.
+The long-term success of our business is dependent on future royalties paid to us by licensees. Royalty payments under our licenses may be based, among other
+things, upon the number of electrical connections to the semiconductor chip in a package covered by our licensed technology, a percent of net sales, a rate per
+package, a per unit sold basis or a fixed quarterly amount. We are dependent upon our ability to structure, negotiate and enforce agreements for the determination
+and payment of royalties, as well as upon our licensees' compliance with their agreements. We face risks inherent in a royalty-based business model, many of
+which are outside of our control, such as the following:
+the rate of adoption and incorporation of our technology by semiconductor manufacturers, and assemblers, manufacturers of consumer and
+* communication electronics, and the automotive and surveillance industry;
+the willingness and ability of materials and equipment suppliers to produce materials and equipment that support our licensed technology, in a
+* quantity sufficient to enable volume manufacturing;
+* the ability of our licensees to purchase such materials and equipment on a cost-effective and timely basis;
+the length of the design cycle and the ability of us and our customers to successfully integrate certain of our F otoNation technologies into their
+* integrated circuits;
+* the demand for products incorporating semiconductors that use our licensed technology;
+* the cyclicality of supply and demand for products using our licensed technology;
+* the impact of economic downturns; and
+* the timing of receipt of royalty reports may not meet our revenue recognition criteria resulting in ﬂuctuation in our results of operations.
+It is difﬁcult for us to verify royalty amounts owed to us under our licensing agreements, and this may cause us to lose revenues.
+10

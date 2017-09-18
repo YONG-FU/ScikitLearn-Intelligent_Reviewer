@@ -1,0 +1,27 @@
+Note 5 Income Taxes
+The components of income before income taxes are as follows:
+i 2016 2015 2014
+[United States 3 2,630 * $ 2,879 * *3; 2,557]
+Foreign : 5,923 4,563 6,200 :
+[ $ 8,553 _$ 7,442 _$ 8,757 l
+The provision for income taxes consisted of the following:
+: 2016 2015 2014
+[Current US. Federal $ 1,219 $ 1,143 $ 1,364 1
+Foreign 824 773 851
+[ State : 77 65 210l
+: 2,120 1,981 2,425 :
+[Deferredz US. Federal 109 (14) (33)]|
+Foreign (33) (32) (60)
+1 State : (22)_ 6_ (133)}
+: 54 (40)_ (226)
+l $ 2,174 _$ 1,941 _$ 2,199 l
+A reconciliation of the US. Federal statutory tax rate to our annual taX rate is as follows:
+: 2016 2015 2014
+[Us Federal statutory taX rate 35.0% 35.0% 35.0%}
+State income tax, net of U.S. Federal taX benefit 0.4 0.6 0.6
+[Lower taxes on foreign results (8.0) (10.5) (8.6) I
+Impact of Venezuela impairment charges 6.4 ~
+[Tax settlements (3.1) I
+Other, net : (2.0) (2.3) (1.9) :
+[Annual tax rate : 25.4 %_ 26.1%_ 25.1%}
+98

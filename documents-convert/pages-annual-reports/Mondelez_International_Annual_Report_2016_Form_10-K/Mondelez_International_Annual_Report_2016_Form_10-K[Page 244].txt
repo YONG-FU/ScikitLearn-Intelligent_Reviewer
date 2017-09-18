@@ -1,0 +1,20 @@
+SECTION 7.07 Administrative Agent. Joint Bookrunners, Joint Lead Arrangers and Co-Syndication Agents . (i) JPMorgan Chase Bank, NA. has
+been designated as Administrative Agent under this Agreement, (ii) JPMorgan Chase Bank, NA, Citigroup Global Markets Inc., Credit Suisse Securities (USA)
+LLC, HSBC Securities (USA) Inc. and Merrill Lynch, Pierce, F enner & Smith Incorporated have been designated as Joint Bookrunners under this Agreement,
+(iii) JPMorgan Chase Bank, NA, Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, HSBC Securities (USA) Inc. and Merrill Lynch, Pierce,
+F enner & Smith Incorporated have been designated as Joint Lead Arrangers under this Agreement and (iv) Bank of America, NA, Citibank, NA, Credit Suisse
+Securities (USA) LLC and HSBC Securities (USA) Inc. have been designated as Co-Syndication Agents under this Agreement, but the use of the aforementioned
+titles does not impose on any of them any duties or obligations greater than those of any other Lender.
+SECTION 7.08 Withholding Tax . To the extent required by any applicable law, the Administrative Agent may withhold from any payment to any
+Lender an amount equivalent to any applicable withholding tax. Without limiting or expanding the provisions of Section 2.15(a) or (0), each Lender shall, and does
+hereby, indemnify the Administrative Agent against, and shall make payable in respect thereof within 30 days after demand therefor, any and all Taxes and any and
+all related losses, claims, liabilities and expenses (including fees, charges and disbursements of any counsel for the Administrative Agent) incurred by or asserted
+against the Administrative Agent by the Internal Revenue Service or any other Governmental Authority as a result of the failure of the Administrative Agent to
+properly withhold tax from amounts paid to or for the account of such Lender for any reason (including, without limitation, because the appropriate form was not
+delivered or not properly executed, or because such Lender failed to notify the Administrative Agent of a change in circumstance that rendered the exemption from,
+or reduction of withholding tax ineffective). A certificate as to the amount of such payment or liability delivered to any Lender by the Administrative Agent shall be
+conclusive absent manifest error. Each Lender hereby authorizes the Administrative Agent to set off and apply any and all amounts at any time owing to such
+Lender under this Agreement or any Note against any amount due the Administrative Agent under this Section 7.08. The agreements in this Section 7.08 shall
+survive the resignation and/or replacement of the Administrative Agent, any assignment of rights by, or the replacement of, a Lender, the termination of the
+Agreement and the repayment, satisfaction or discharge of all other Obligations.
+-48-

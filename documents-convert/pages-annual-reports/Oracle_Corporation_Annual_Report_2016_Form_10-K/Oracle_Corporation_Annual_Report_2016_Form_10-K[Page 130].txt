@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+domestic audit issues considered in the aggregate, we believe it was reasonably possible that, as of May 31, 2016, the gross unrecognized tax beneﬁts related to
+these audits could decrease (whether by payment, release, or a combination of both) in the next 12 months by as much as $228 million ($176 million net of
+offsetting tax beneﬁts). Our US. federal income tax returns have been examined for all years prior to ﬁscal 2007 and we are no longer subject to audit for those
+periods. Our US. state income tax returns, with some exceptions, have been examined for all years prior to fiscal 2004 and we are no longer subject to audit for
+those periods.
+Internationally, tax authorities for numerous non-U.S. jurisdictions are also examining returns affecting our unrecognized tax beneﬁts. We believe it was
+reasonably possible that, as of May 31, 2016, the gross unrecognized tax beneﬁts, could decrease (whether by payment, release, or a combination of both) by as
+much as $199 million ($74 million net of offsetting tax beneﬁts) in the next 12 months, related primarily to transfer pricing. Other issues are related to years with
+expiring statutes of limitation. With some exceptions, we are generally no longer subject to tax examinations in non-US. jurisdictions for years prior to fiscal 1997.
+We believe that we have adequately provided under GAAP for outcomes related to our tax audits. However, there can be no assurances as to the possible outcomes
+or any related financial statement effect thereof. On July 27, 2015, in Aliera Corp. v. Commissioner , the US. Tax Court issued an opinion related to the treatment
+of stock-based compensation expense in an intercompany cost-sharing arrangement. A final decision has yet to be issued by the US. Tax Court due to other
+outstanding issues related to the case. At this time, the US Department of the Treasury has not withdrawn the requirement to include stock-based compensation
+from its regulations. We have reviewed this case and its impact on Oracle and concluded that no adjustment to the consolidated ﬁnancial statements is appropriate
+at this time. We will continue to monitor ongoing developments and potential impacts to our consolidated financial statements.
+We are under audit by the IRS and various other domestic and foreign tax authorities with regards to income tax and indirect tax matters and are involved in
+various challenges and litigation in a number of countries, including, in particular, India, Brazil, and Korea, where the amounts under controversy are significant. In
+some, although not all, cases, we have reserved for potential adjustments to our provision for income taxes and accrual of indirect taxes that may result from
+examinations by, or any negotiated agreements with, these tax authorities or final outcomes in judicial proceedings, and we believe that the ﬁnal outcome of these
+examinations, agreements or judicial proceedings will not have a material effect on our results of operations. If events occur which indicate payment of these
+amounts is unnecessary, the reversal of the liabilities would result in the recognition of benefits in the period we determine the liabilities are no longer necessary. If
+our estimates of the federal, state, and foreign income tax liabilities and indirect tax liabilities are less than the ultimate assessment, it would result in a further
+charge to expense.
+16. SEGMENT INFORMATION
+ASC 280, Segment Reporting , establishes standards for reporting information about operating segments. Operating segments are deﬁned as components of an
+enterprise about which separate ﬁnancial information is available that is evaluated regularly by the chief operating decision maker, or decision-making group, in
+deciding how to allocate resources and in assessing performance. Our chief operating decision makers are our Chief Executive Officers. We are organized
+geographically and by line of business. While our Chief Executive Officers evaluate results in a number of different ways, the line of business management
+structure is the primary basis for which the allocation of resources and ﬁnancial results are assessed.
+We have three businesses—cloud and on-premise software, hardware and services—which are further divided into certain operating segments. Our cloud and on-
+premise software business is comprised of three operating segments: (1) cloud software and on-premise software, which includes our cloud SaaS and PaaS
+offerings, (2) cloud IaaS and (3) software license updates and product support. Our hardware business is comprised of two operating segments: (1) hardware
+products and (2) hardware support. All other operating segments are combined under our services business.
+128

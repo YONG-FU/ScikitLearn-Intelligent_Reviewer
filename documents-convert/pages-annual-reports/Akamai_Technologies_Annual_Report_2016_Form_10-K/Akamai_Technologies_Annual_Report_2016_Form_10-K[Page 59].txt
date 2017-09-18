@@ -1,0 +1,50 @@
+Goodwill, Acquired Intangible Assets and Long-Lived Assets
+Goodwill is the amount by which the cost of acquired net assets in a business combination exceeds the fair value of the net
+identifiable assets on the date of purchase and is carried at its historical cost. The Company tests goodwill for impairment on an
+annual basis or more frequently if events or changes in circumstances indicate that the asset might be impaired. The Company
+performs its impairment test of goodwill as of December 3 1. As of December 31, 2016, 2015 and 2014, the fair value of the
+Company's reporting unit was substantially in excess of the carrying value. The tests did not result in an impairment to goodwill
+during the years ended December 31, 2016, 2015 and 2014.
+Acquired intangible assets consist of completed technologies, customer relationships, trademarks and trade names, non-
+compete agreements and acquired license rights. Acquired intangible assets, other than goodwill, are amortized over their
+estimated useful lives based upon the estimated economic value derived from the related intangible asset.
+Long-lived assets, including property and equipment and acquired intangible assets, are reviewed for impairment whenever
+events or changes in circumstances, such as service discontinuance, technological obsolescence, significant decreases in the
+Company’s market capitalization, facility closures or work-force reductions indicate that the carrying amount of the long-lived
+asset may not be recoverable. When such events occur, the Company compares the carrying amount of the asset to the
+undiscounted expected future cash ﬂows related to the asset. If this comparison indicates that an impairment is present, the
+amount of the impairment is calculated as the difference between the carrying amount and the fair value of the asset.
+Revenue Recognition
+The Company recognizes service revenue in accordance with the authoritative guidance for revenue recognition, including
+guidance on revenue arrangements with multiple deliverables. Revenue is recognized only when the price is fixed or
+determinable, persuasive evidence of an arrangement exists, the service is performed and collectability of the resulting receivable
+is reasonably assured.
+The Company primarily derives revenue from the sale of services to customers executing contracts having terms of one year
+or longer. These contracts generally commit the customer to a minimum of monthly, quarterly or annual level of usage and
+specify the rate at which the customer must pay for actual usage above the monthly, quarterly or annual minimum. For contracts
+with a monthly commitment, the Company recognizes the monthly minimum as revenue each month, provided that an
+enforceable contract has been signed by both parties, the service has been delivered to the customer, the fee for the service is
+fixed or determinable and collection is reasonably assured. Should a customer’s usage of the Company's services exceed the
+monthly, quarterly or annual minimum, the Company recognizes revenue for such excess in the period of additional usage. For
+annual or other non-monthly period revenue commitments, the Company recognizes revenue monthly based upon the customer’s
+actual usage each month of the commitment period and only recognizes any remaining committed amount for the applicable
+period in the last month thereof.
+The Company typically charges its customers an integration fee when the services are first activated. Integration fees are
+recorded as deferred revenue and recognized as revenue ratably over the estimated life of the customer arrangement. The
+Company also derives revenue from services sold as discrete, non-recurring events or based solely on usage. For these services,
+the Company recognizes revenue once the event or usage has occurred.
+When more than one element is contained in a revenue arrangement, the Company determines the fair value for each element
+in the arrangement based on vendor-specific objective evidence (“VSOE”) for each respective element, including any renewal
+rates for services contractually offered to the customer. Elements typically included in the Company's multiple element
+arrangements consist of its core services —- the delivery of content, applications and software over the Internet —- as well as mobile
+and security solutions and enterprise professional services. These elements have value to the customer on a stand-alone basis in
+that they can be sold separately by another vendor. Generally, there is no right of return relative to these services.
+The Company typically uses VSOE to determine the fair value of its separate elements. All stand-alone sales of professional
+services are reviewed to establish the average stand-alone selling price for those services. For the Company's core services, the
+fair value is the price charged for a single deliverable on a per unit basis when it is sold separately.
+For arrangements in which the Company is unable to establish VSOE, third party evidence ("TPE") of the fair value of each
+element is determined based upon the price charged when the element is sold separately by another vendor. For arrangements in
+which the Company is unable to establish VSOE or TPE for each element, the Company uses the best estimate of selling price
+("BESP") to determine the fair value of the separate deliverables. The Company estimates BESP based upon a management-
+approved listing of unit pricing for all solutions and pre-established discount levels for each solution that takes into consideration
+57

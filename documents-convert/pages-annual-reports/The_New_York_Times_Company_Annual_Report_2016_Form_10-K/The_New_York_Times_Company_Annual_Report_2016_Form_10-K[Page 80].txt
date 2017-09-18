@@ -1,0 +1,38 @@
+Benefit Obligation and Plan Assets
+The changes in the benefit obligation and plan assets and other amounts recognized in other comprehensive
+loss were as follows:
+December 25, 2016 December 27, 2015
+: Non- : : Non- :
+Qualified Qualified Qualified Qualified
+(In thousands) Plans Plans All Plans Plans Plans All Plans
+[Change in benefit obligation [
+Benefit obligation at beginning of year $ 1,851,910 $ 247,087 $ 2,098,997 $ 2,101,573 $ 267,824 $ 2,369,397
+[Service cost 8,991 143 9,134 11,932 157 12,089 [
+Interest cost 66,293 8,172 74,465 74,536 10,060 84,596
+[Plan participants’ contributions 9 — 9 20 — 20[
+Actuarial loss/(gain) 23,994 2,695 26,689 (129,187) (14,372) (143,559)
+[Curtailments — (1,599) (1,599) (1 ,264) — (1 ,264)[
+Lump-sum settlement paid (48,413) — (48,413) (98,348) — (98,348)
+[Benefits paid (104,132) (15,992) (120,124) (107,352) (16,231) (123,583)[
+Effects of change in currency conversion — (107) (107) — (351) (351 )7
+[Benefit obligation at end of year 1,798,652 240,399 2,039,051 1,851,910 247,087 2,098,997[
+Change in plan assets
+[Fair value of plan assets at beginning of year 1,579,356 — 1,579,356 1,837,250 — 1,837,250[
+Actual return on plan assets 142,137 — 142,137 (59,342) — (59,342)
+[Employer contributions 7,803 15,992 23,795 7,128 16,231 23,359 [
+Plan participants’ contributions 9 — 9 20 — 20
+[Lump-sum settlement paid (48,413) — (48,413) (98,348) — (98,348)[
+iBenefits paid (104,132) (15,992) (120,124) (107,352) (16,231) (123,583)
+[Fair value of plan assets at end of year 1,576,760 — 1,576,760 1,579,356 — 1,579,356[
+Net amount recognized $ (221,892) $ (240,399) $ (462,291) $ (272,554) $ (247,087) $ (519,641)
+[Amount recognized in the Consolidated Balance Sheets [
+Current liabilities $ — $ (16,818) $ (16,818) $ — $ (16,043) $ (16,043)
+[Noncurrent liabilities (221 ,892) (223,581) (445,473) (272,554) (231 ,044) (503,598)[
+Net amount recognized $ (221,892) $ (240,399) $ (462,291) $ (272,554) $ (247,087) $ (519,641)
+[Amount recognized in accumulated other comprehensive loss [
+Actuarial loss $ 765,096 $ 98,855 $ 863,951 $ 821,648 $ 100,344 $ 921 ,992
+[Prior service credit (22,676) — (22,676) (24,621) — (24,621 )[
+:Total $ 742,420 $ 98,855 $ 841,275 $ 797,027 $ 100,344 $ 897,371 :
+The accumulated benefit obligation for all pension plans was $2.0 billion and $2.1 billion as of December 25,
+2016 and December 27, 2015, respectively.
+P. 76 — THE NEW YORK TIMES COMPANY

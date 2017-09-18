@@ -1,0 +1,49 @@
+The following table summarizes stock option activity for 2016:
+Stock Options : 2016
+Exercise
+Shares in thousands Shares Price (1)
+|Outstanding at J anuary_1, 2016 41,461 $ 35.50 I
+Granted 2,988 $ 46.01
+lExercised (9,061) $ 35.89 I
+:Forfeited/Expired (618) $ 41.56 :
+|Outstanding at December 31, 2016 34,770 $ 36.20 I
+Remaining contractual life in years 5.24
+1 Aggregate intrinsic value in millions $ 731
+Exercisable at December 31, 2016 28,932 $ 33.96 7
+l Remaining contractual life in years 4.60 l
+: Aggregate intrinsic value in millions $ 673 :
+(1) Weighted-average per share.
+Additional Information about Stock Options
+In millions, except per share amounts 2 01 6 2015 2014
+[Weighted—average fair value per share of options granted 33 10.95 $ 11.61 $ 11.49
+Total compensation expense for stock option plans 55 32 $ 55 $ 65
+1: Related tax benefit 33 12 $ 20 $ 24
+Total amount of cash received from the exercise of options 55 312 $ 377 $ 810
+|Total intrinsic value of options exercised (1) $ 153 $ 175 $ 300 l
+: Related tax benefit 55 57 $ 65 $ 111 :
+(1) Diﬁerence between the market price at exercise and the price paid by the employee to exercise the options.
+Total unrecognized compensation cost related to unvested stock option awards of $16 million at December 31, 2016, is
+expected to be recognized over a weighted-average period of 0.84 years.
+Deferred Stock
+The Company grants deferred stock to certain employees. The grants vest after a designated period of time, generally one to
+three years. The following table shows changes in nonvested deferred stock:
+iDeferred Stock : 2016
+Grant Date
+Shares in thousands Shares Fair Value (1)
+|Nonvested at J anuary_1, 2016 7,979 $ 40.96 I
+Granted 2,134 $ 46.25
+|Vested (3,525) $ 32.16 I
+:Canceled (206) $ 43.70 :
+(Nonvested at December 31, 2016 6,382 $ 47.49
+(1) Weighted-average per share.
+Additional Information about Deferred Stock
+In millions, except per share amounts 2 01 6 2015 2014
+(Weighted—average fair value per share of deferred stock granted 33 46.25 $ 49.42 $ 46.88
+Total fair value of deferred stock vested and delivered (1) $ 166 $ 162 $ 156 7
+1 Related tax benefit 55 61 $ 60 $ 58 1
+Total compensation expense for deferred stock awards 55 97 $ 110 $ 99 7
+1 Related tax benefit 3; 36 $ 41 $ 371
+(1) Includes the fair value of shares vested in prior years and delivered in the reporting year.
+Total unrecognized compensation cost related to deferred stock awards of $75 million at December 31, 2016, is expected to be
+recognized over a weighted-average period of 0.86 years. At December 31, 2016, approximately 26,000 deferred shares with a
+138

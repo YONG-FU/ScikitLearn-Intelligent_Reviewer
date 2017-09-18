@@ -1,0 +1,46 @@
+The reconciliation of the U.S. federal statutory income tax rate to our effective income tax rate is as follows:
+Year Ended December 31,
+2016 2015 2014
+IFederal statutory rate 34 % — 34 % — 34 %I
+Change in valuation allowance (14) (17) (39)
+IStock-based compensation (13) (7) (2) I
+Expiration of tax attributes (1 1) (18) (4)
+IState income taxes, net of federal tax beneﬁt 2 3 3 I
+Impact of foreign earnings 1 1 1
+IT ax contingencies, net of reversals — — 1 I
+Other (2) 1 1
+I Effective income tax rate (3 )% _ (3 )% _ (5)%I
+Deferred Tax Assets, Liabilities and Valuation Allowance
+Deferred income taxes reﬂect the net tax effects of temporary differences between the carrying amount of assets and liabilities for ﬁnancial reporting purposes
+and the amounts for income tax purposes. Signiﬁcant components of our deferred tax assets and liabilities are as follows:
+December 31,
+2016 2015
+IDeferred tax assets: _ I
+Net operating loss carryforwards $ 77,357 $ 73,903
+I Research and experimentation credit carryforwards 11,849 11,688 I
+Foreign tax credit carryforwards 3,575 3,884
+I Deferred stock-based compensation 1,705 2,623 I
+Depreciation and amortization 1,241 1,800
+I Reserves and accrued expenses 623 606 I
+Capital loss carryforwards — 35 8
+I Other 43 8 _ 490 I
+Total gross deferred tax assets 96,788 95,352
+IDeferred taX liabilities: I
+Foreign earnings (327) (376)
+I Other (269) _ (317) I
+Total gross deferred tax liabilities (5 96) (693)
+ILess valuation allowance (96,079) _ (94,524) I
+Net deferred tax assets $ 1 13 $ 135
+With the adoption of Accounting Standards Update No. 2015-17 in the fourth quarter of 2015, we were required to classify all deferred tax assets and
+liabilities, and any related valuation allowance, as non-current on the balance sheet. We elected to prospectively adopt the accounting standard in the
+beginning of our fourth quarter of 2015 and prior periods in the consolidated balance sheets were not retrospectively adjusted. Therefore, we have not
+classiﬁed any portion of our net deferred tax asset balance as current as of December 31, 2016 and 2015 . The non-current portion of the net deferred tax asset
+balance was $1 13 and $135 as of December 31, 2016 and 2015, respectively, and is included in other assets, net in our consolidated balance sheets.
+ASU 2016-09 is effective for the Company on January 1, 2017. Due to the ﬁll valuation allowance on the US. net deferred tax assets, we do not expect the
+adoption of this update to impact our ﬁnancial position, results of operations, or cash ﬂows.
+We continue to record a ﬁll valuation allowance against our U.S. net deferred tax assets as of December 31, 2016 and 2015 as it is not more likely than not
+that we will realize a beneﬁt from these assets in a future period. We have not provided a valuation allowance against any of our foreign net deferred tax
+assets as we have concluded it is more likely than not that we will realize a beneﬁt from these assets in a ﬁJture period because our subsidiaries in these
+jurisdictions are cost-plus taxpayers. The net valuation allowance increased $1,555, increased $1,732 and increased $3,656 for the years ended December 31,
+2016, 2015, and 2014, respectively.
+5 8

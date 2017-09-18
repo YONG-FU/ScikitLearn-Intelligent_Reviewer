@@ -1,0 +1,48 @@
+How Akamai helps:
+Our strategy is to bridge the gap between our customers' online goals and the difficulty of leveraging the Internet by
+providing technology that optimizes and secures the delivery of online content and applications. We deliver a wide spectrum of
+content, from media and software downloads to dynamic and personalized data for many of the world’s most important
+applications. We offer online solutions for delivery, acceleration, and security services to the owners of major websites and
+applications. We are trusted by a large fraction of the world’s most important brands, including many media companies, e-
+retailers, major governments, financial institutions, and other leading enterprises. Across all of these customers, our mission is
+to make the Internet fast, reliable and secure.
+At the core of this mission is the Akamai Intelligent Platform, a globally-distributed computing platform, comprising more
+than 200,000 servers deployed in more than 1,600 networks and 131 countries around the world, tied together with
+sophisticated software and algorithms. Our software also resides on over 100 million end user devices, as part of our work on
+client-assisted delivery for large media files. This platform is architected to enable us to constantly monitor Internet conditions
+to:
+- identify, absorb and block security threats;
+- efficiently route traffic away from Internet trouble spots;
+- detect what devices individuals are using and optimize delivery to them;
+- provide our customers with business and technical insights into their online operations; and
+- understand different types of traffic visiting websites so that customers can deal with them as desired.
+We believe that our unique technology leveraging a virtual Internet on top of the real Internet, our ability to efficiently
+manage a platform with millions of components, our high-quality intellectual property portfolio, our strong relationships with
+over 1,600 leading telecommunications carriers and thousands of major brands on the web, and our relentless and personalized
+attention to customer and partner needs create significant value for shareholders and provide a meaningful edge against the
+many competitors that desire to acquire a share of our business.
+Our Solutions
+Pelformance and Security Solutions
+Web and Mobile Performance Solutions
+The ultimate goal of our web and mobile performance business is to make dynamic websites and applications have instant
+response times, no matter where the user is, what device or browser they are using, or how they are connected to the Internet.
+This is accomplished through a variety of advanced technologies embedded into our platform, which can be thought of as a
+virtual Internet overlaying the real Internet. Key offerings include:
+- Ion — Ion is a situational performance solution that consists of an integrated suite of web delivery, acceleration and
+optimization technologies that make real-time optimization decisions based on the requirements of the device, network
+location and browser. Ion is designed to simplify increasingly complex web delivery and enable a faster website
+experience that is highly available, secure and scalable to meet peak capacity demands.
+- Dynamic Site Accelerator — Dynamic Site Accelerator is designed to help customers experience globally consistent
+and faster website performance, handling the specific requirements of dynamically-generated content. Our platform
+continuously pulls and caches fresh site content onto Akamai servers, automatically directs content requests to an
+optimal server, routes the request via the most reliable path to data centers to retrieve and deliver dynamic interactive
+content.
+- IP Application Accelerator — IP Application Accelerator is designed to enable enterprises to deliver Internet Protocol-
+based applications to globally-distributed users quickly, securely and reliably without the expense of building out and
+supporting dedicated IT infrastructure. These applications include real-time interactive web conferencing and
+virtualized applications and desktops, in addition to supporting hosting and software as a service, or SaaS, providers in
+the delivery of remote desktop management, hosted email, archiving and other applications.
+° Global Traffic Management —- Global Traffic Management is designed to ensure responsiveness to end user requests by
+leveraging our global load balancing technology. Unlike traditional hardware-based solutions that reside within the
+data center, our Global Traffic Management service is a fault-tolerant solution that makes intelligent routing decisions
+5

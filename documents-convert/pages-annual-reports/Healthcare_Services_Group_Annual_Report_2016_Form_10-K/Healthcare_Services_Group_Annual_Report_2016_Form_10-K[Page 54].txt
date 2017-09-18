@@ -1,0 +1,42 @@
+Iablre,of,C,ontents
+The tables below provide a reconciliation between the tax expense computed by applying the statutory federal income tax rate to income before income taxes and
+the provision for income taxes:
+Year Ended December 31,
+2016 2015 2014
+(in thousands)
+’Income tax expense computed at statutory rate 33 42,136 $ 31,418 $ 11,098 ‘
+Increases (decreases) resulting from:
+I State income taxes, net of federal tax beneﬁt 5,064 4,015 998 ‘
+Federal jobs credits (4,550) (3,900) (2,925)
+] Tax exempt interest (457) (132) (13) l
+Other, net 798 339 700
+’Income tax expense $ 42,991 $ 31,740 $ 9,858 l
+Management performs an evaluation each period of its tax positions taken and expected to be taken in tax returns. The evaluation is performed on positions relating
+to tax years that remain subject to examination by major tax jurisdictions, the earliest of which is the tax year ended December 31, 2011. Based on our evaluation,
+management has concluded that there are no signiﬁcant uncertain tax positions requiring recognition in our ﬁnancial statements. Therefore, the table reporting on
+the change in the liability for unrecognized tax beneﬁts during the year ended December 31, 2016 is omitted as there is no activity to report in such account for the
+year ended December 31, 2016 , and there was no balance of unrecognized tax beneﬁts at the beginning of the year.
+We may from time to time be assessed interest or penalties by major tax jurisdictions, although any such assessments historically have been minimal and
+immaterial to our financial results. In the event we have received an assessment for interest and/or penalties, it has been classified in the financial statements as
+selling, general and administrative expense.
+Note 13—Related Party Transactions
+A director is a member of a law firm which was retained by us. During the years ended December 31, 2016 , 2015 and 2014 , fees paid by us to such firm did not
+exceed $120 thousand in any period. Additionally, such fees did not exceed, in any period, 5% of such ﬁrm’s revenues or the Company’s revenues.
+Note 14—Segment Information
+Reportable Operating Segments
+We manage and evaluate our operations in two reportable segments: Housekeeping (housekeeping, laundry, linen and other services), and Dietary (dietary
+department services). Although both segments serve the same client base and share many operational similarities, they are managed separately due to distinct
+differences in the type of services provided, as well as the specialized expertise required of the professional management personnel responsible for delivering each
+segment’s services. We consider the various services provided within each reportable segment to comprise an identifiable reportable operating segment since such
+services are rendered pursuant to a single service agreement, specific to that reportable segment, as well as the fact that the delivery of the respective reportable
+segment’s services are managed by management personnel exclusive to the particular reportable segment.
+The Company’s accounting policies for the segments are generally the same as the Company’s significant accounting policies. Differences between the reportable
+segments’ operating results and other disclosed data and our consolidated financial statements relate primarily to corporate level transactions and recording of
+transactions at the reportable segment level which use methods other than generally accepted accounting principles. There are certain inventories and supplies that
+are primarily expensed when incurred within the operating segments, while they are capitalized for the consolidated financial statements. As discussed, most
+corporate expense is not allocated to the operating segments, and such expenses include corporate salary and benefit costs, certain legal costs, information
+technology costs, depreciation, amortization of finite lived intangibles, share based compensation costs and other corporate specific costs. Additionally, there are
+allocations for workers compensation and general liability expense within the operating segments that differ from our actual expense recorded for US. GAAP.
+Segment amounts disclosed are prior to any elimination entries made in consolidation.
+All revenues and net income are earned in one geographic area, the United States.
+53

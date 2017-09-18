@@ -1,0 +1,44 @@
+December 31,
+2016 _ 2015
+IProperty and equipment, net: I
+Machinery, furniture and ofﬁce equipment $ 62,583 $ 76,077
+I Computer hardware and software 10,071 12,235 I
+Leasehold improvements 20,320 16,883
+I Construction in progress 1,401 _ 2,527 I
+Property and equipment, gross 94,375 107,722
+I Less accumulated depreciation and amortization (68,255) (75,3 98) I
+Total property and equipment, net $ 26,120 $ 32,324
+Accounts payable and accrued liabilities:
+I Accounts payable $ 13,109 $ 22,291 I
+Income tax payable 1,066 1,376
+I Accrued warranty 1,213 1,288 I
+Other accrued liabilities 3,793 9,030
+ITotal accounts payable and accrued liabilities $ 19,181 $ 33,985 I
+Accumulated Other Comprehensive Income
+Foreign Accumulated
+Currency Other
+Translation Deﬁned Beneﬁt Comprehensive Affected Line Items in the
+Adjustment _ Pension Plan _ Income _ Statement of Operations
+IBalance as ofDecember 31, 2015 $ 9,933 $ (5,039) $ 4,894 I
+Other comprehensive income (loss) before reclassification (2,107) — (2,107)
+Amounts reclassiﬁed from accumulated other comprehensive Cost 9? Sales, Selling, General and
+, Admmlstratrve and Research and
+Income (IOSS) — _ 2:6 1 3 _ 2:6 1 3 Development Expense
+Net other comprehensive income (loss) for the
+year ended December 31, 2016 (2,107) 2,613 506
+IBalance as of December 31, 2016 $ 7,826 $ (2,426) $ 5,400 I
+Note 3—Goodwill
+The Company performs an impairment test for goodwill annually according to the Intangibles—Goodwill and Other Topic of the FASB ASC. The Company
+ﬁrst makes a qualitative assessment of the likelihood of goodwill impairment and if it concludes that it is more likely than not that the carrying amount of a
+reporting unit is greater than its fair value, then it will be required to perform the ﬁrst step of a two-step quantitative impairment test. Otherwise, performing the
+two-step impairment test is not required. Qualitative factors assessed at the reporting unit level include, but are not limited to, changes in industry and market
+structure, competitive environments, planned capacity and new product launches, cost factors such as raw material prices and ﬁnancial performance of the
+reporting unit. The Company may also determine to skip the qualitative assessment in any year and move directly to the quantitative test.
+The ﬁrst step of the two-step quantitative impairment test consists of estimating the fair value and comparing the estimated fair value with the carrying value
+of the reporting unit. If the fair value is less than the carrying value, a second step is performed to compute the amount of the impairment by determining an
+implied fair value of goodwill. The implied fair value of goodwill is the residual fair value derived by deducting the fair value of a reporting unit’s assets and
+liabilities from its estimated total fair value, which was calculated in step one. An impairment charge would represent the excess of the carrying amount of the
+reporting unit’s goodwill over the implied fair value of the goodwill. The guidance requires goodwill to be reviewed annually at the same time every year or when
+an event occurs or circumstances change such that it is reasonably possible that an impairment may exist. The Company selected December 31 as its annual testing
+date.
+62

@@ -1,0 +1,46 @@
+The provision for income taxes in the accompanying consolidated statements of operations differs from the amount calculated by applying the statutory
+income tax rate to loss before income taxes. The primary components of such difference are as follows (in thousands):
+Years Ended December 31,
+2016 _ 2015 _ 2014
+'Taxes at federal statutory rate $ (6,650) $ (6,028) $ (655) ‘
+State taxes, net of federal beneﬁt (208) (236) (90)
+’Effect of tax rate differential for foreign subsidiary (2,985) (2,641) (3,570) ‘
+Valuation allowance, including tax beneﬁts of stock activity 10,272 3,894 4,698
+’Foreign taxes on unremitted earnings 1,204 2,085 1,590 ‘
+Stock-based compensation 441 134 621
+’Foreign withholding taxes 260 180 — ‘
+Return to provision adjustments 1,062 1,131 536
+’SubpartF income inclusion 906 5,914 1,167 1
+Other (157) 170 49
+1 Tax provision $ 4,145 $ 4,603 $ 4,346 l
+The Company has established a valuation allowance against its US. federal and state deferred tax assets due to the uncertainty surrounding the realization of
+such assets as evidenced by the cumulative losses from operations through December 31, 2016 . Management periodically evaluates the recoverability of the
+deferred tax assets. At such time as it is determined that it is more likely than not that deferred assets are realizable, the valuation allowance will be reduced
+accordingly and recorded as a tax benefit, with the exception of $15.5 million which will impact additional paid in capital as discussed below. The Company has
+recorded a valuation allowance of $78.4 million as of December 31, 2016 to reﬂect the estimated amount of deferred tax assets that may not be realized. The
+Company increased its valuation allowance by $10.3 million for the year ended December 31, 2016 .
+At December 31, 2016 , the Company has federal and state net operating loss carryforwards of approximately $186.8 million and $48.4 million ,
+respectively. The federal tax loss carryforwards will begin to expire in 2020 and the state tax loss carryforwards will begin to expire in 2016. In addition, the
+Company has research and development and other tax credit carryforwards for federal and state income tax purposes as of December 31, 2016 of $6.9 million and
+$8.6 million , respectively. The federal credits will begin to expire in 2019 unless utilized and the state credits have an indefinite life. Pursuant to Internal Revenue
+Code Sections 382 and 383, use of the Company’s federal net operating loss and credit carryforwards may be limited upon a cumulative change in ownership of
+more than 50% within a three-year period.
+Excess tax benefits associated with stock option exercises, restricted stock unit vesting, restricted stock grants, and disqualifying dispositions of both
+incentive stock options and stock issued from the Company’s Employee Stock Purchase Plan in the amount of $3.5 million for 2016 and 2015 , did not reduce
+current income taxes payable and, accordingly, are not included in the deferred tax asset relating to net operating loss carryforwards, but are included with the
+federal and state net operating loss carryforwards disclosed in this footnote. The tax beneﬁts associated with stock option deductions from 1998 to 2005 in the
+amount of $15.5 million were not recorded in additional paid-in capital because their realization was not more likely than not to occur and, consequently, a
+valuation allowance was recorded against the entire benefit.
+The Company was granted a tax holiday in Switzerland, which was effective as of January 1, 2012 for up to 10 years. The tax holiday is conditioned upon the
+Company meeting certain employment and investment thresholds. As of January 1, 2017, the Company is no longer eligible for the tax holiday due to not meeting
+the employment threshold. The impact of the tax holiday decreased foreign taxes by $0.6 million and $0.7 million for 2016 and 2015 , respectively. The benefit of
+the tax holiday on net loss per diluted share was $0.02 for 2016 and 2015 .
+The Company records US. income taxes on the undistributed earnings of foreign subsidiaries unless the subsidiaries” earnings are considered indefinitely
+reinvested outside of the US. As of December 31, 2016 , the Company has recorded a $4.9 million deferred tax liability for Swiss withholding taxes associated
+with $97.6 million of undistributed earnings of its Swiss subsidiary that are no longer considered indefinitely reinvested. In the event that the Company repatriates
+these funds, this withholding tax would become payable to the Swiss government. During the years ended December 31, 2016, 2015 and 2014 , income tax expense
+associated with undistributed earnings of its Swiss subsidiary that are no longer considered indefinitely reinvested was $1.2 million , $2.1 million and $1.6 million ,
+respectively. As of December 31, 2016 , there were no undistributed earnings considered indefinitely reinvested. Determination of the amount of any unrecognized
+deferred income tax liability on the excess of the financial reporting basis over the tax basis of investments in foreign subsidiaries is not practicable because of the
+complexities of the hypothetical calculation.
+71

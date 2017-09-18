@@ -1,0 +1,36 @@
+amount of any increase or decrease in the aggregate principal amount of outstanding Notes represented thereby shall be made by the Trustee, the Depositary
+or the Custodian, at the direction of the Trustee, in accordance with instructions given by the Holder thereof as required by ,S.e,c,ti,on,2.0,6, hereof.
+Section 2.02 Execution and Authentication.
+At least one Ofﬁcer shall sign the Notes for each of the Issuers by manual or facsimile signature. If an Ofﬁcer of the Issuers whose signature is on a Note
+no longer holds that office at the time a Note is authenticated, the Note shall nevertheless be valid. ANote shall not be valid until authenticated by the
+manual signature of the Trustee. The signature shall be conclusive evidence that the Note has been authenticated under this Indenture.
+The Trustee will, upon receipt of a written order of the Issuers signed by two Ofﬁcers of each Issuer (an “Authentication Order”), authenticate Notes for
+original issue that may be validly issued under this Indenture, including any Additional Notes. The aggregate principal amount of Notes outstanding at any
+time may not exceed the aggregate principal amount of Notes authorized for issuance by the Issuers pursuant to one or more Authentication Orders, except as
+provided in Section}. 01 hereof
+The Trustee may appoint an authenticating agent acceptable to the Issuers to authenticate Notes. An authenticating agent may authenticate Notes
+whenever the Trustee may do so. Each reference in this Indenture to authentication by the Trustee includes authentication by such agent. An authenticating
+agent has the same rights as an Agent to deal with Holders or an Afﬁliate of the Issuers.
+Section 2.03 Registrar and Paying Agent.
+The Issuers shall maintain an ofﬁce or agency where Notes may be presented for registration of transfer or for exchange (“Registrar”) and an ofﬁce or
+agency where Notes may be presented for payment (“Péayiingﬁgent”). The Registrar shall keep a register of the Notes and of their transfer and exchange. The
+Issuers may appoint one or more co-registrars and one or more additional paying agents. The term “Registrar” includes any co-registrar and the term “Paying
+Agent” includes any additional paying agent. The Issuers may change any Paying Agent or Registrar without notice to any Holder. The Issuers shall notify
+the Trustee in writing of the name and address of any Agent not a party to this Indenture. If the Issuers fail to appoint or maintain another entity as Registrar
+or Paying Agent, the Trustee shall act as such. TLLP, Finance Corp. or any of TLLP’s Subsidiaries may act as Paying Agent or Registrar.
+The Issuers initially appoint The Depository Trust Company (“1111C”) to act as Depositary with respect to the Global Notes.
+The Issuers initially appoint the Trustee to act as the Registrar and Paying Agent and to act as Custodian with respect to the Global Notes.
+Section 2.04 Paying Agent to Hold Money in Trust.
+The Issuers shall require each Paying Agent other than the Trustee to agree in writing that the Paying Agent shall hold in trust for the beneﬁt of Holders
+or the Trustee all money held by the Paying Agent for the payment of principal of, or premium or interest, if any, on the Notes, and shall notify the Trustee of
+any default by the Issuers in making any such payment. While any such default continues, the Trustee may require a Paying Agent to pay all money held by
+it to the Trustee. The Issuers at any time may require a Paying Agent to pay all money held by it to the Trustee. Upon payment over to the Trustee, the Paying
+Agent (if other than TLLP or a Subsidiary) shall have no further liability for the money. If TLLP or a Subsidiary acts as Paying Agent, it shall segregate and
+hold in a separate trust fund for the beneﬁt of the Holders all money held by it as Paying Agent. Upon any bankruptcy or reorganization proceedings relating
+to TLLP, the Trustee shall serve as Paying Agent for the Notes.
+Section 2.05 Holder Lists.
+The Trustee shall preserve in as current a form as is reasonably practicable the most recent list available to it of the names and addresses of all Holders
+and shall otherwise comply with TIA § 312(a). If the Trustee is not the Registrar, the Issuers shall provide to a Responsible Ofﬁcer of the Trustee at least seven
+Business Days before each Interest Payment Date and at such other times as the Trustee may request in writing, a list in such form and as of such date as the
+Trustee may reasonably require of the names and addresses of the Holders of Notes and the Issuers shall otherwise comply with TIA § 312(a).
+-20-

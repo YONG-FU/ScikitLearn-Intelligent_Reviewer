@@ -1,0 +1,39 @@
+NOTE 19—SEGMENT INFORMATION
+ASC Topic 280, “Segment Reporting” (Topic 280), establishes standards for reporting, by public business enterprises,
+information about operating segments, products and services, geographic areas, and major customers. The method of
+determining what information, under Topic 280, to report is based on the way that an entity organizes operating segments for
+making operational decisions and how the entity ’s management and chief operating decision maker (CODM) assess an entity’s
+financial performance. Our operations are analyzed by management and our CODM as being part of a single industry segment:
+the design, development, marketing and sales of Enterprise Information Management software and solutions.
+The following table sets forth the distribution of revenues, by significant geographic area, for the periods indicated:
+7 Year Ended June 30, 7
+2016 2015 2014
+[ Revenues: : I
+Canada $ 107,217 $ 113,780 $ 1 17,225
+[ United States 915,615 887,895 725,852 1
+United Kingdom 185,631 201,059 169,511
+[ Germany 155,201 169,538 162,966 1
+Rest of Europe 270,114 267,702 255,419
+[ All other countries 190,450 211,943 193,726 1
+Total revenues 8 1,824,228 ' 8 1,851,917 ‘ 8 1,624,699
+The following table sets forth the distribution of long-lived assets, representing property and equipment and intangible
+assets, by significant geographic area, as of the periods indicated below.
+As of June 30, As of June 30,
+2016 2015
+[Long-lived assets: : ‘
+Canada 55 145,927 $ 64,622
+[ United States 546,788 653,576 1
+United Kingdom 20,042 10,988
+[ Germany 4,878 5,320 1
+Rest of Europe 76,560 73,905
+[ All other countries 35,705 31,487 1
+Total 8 829,900 ’8 839,898
+NOTE 20—SUPPLEMENTAL CASH FLOW DISCLOSURES
+Year Ended June 30,
+: 2016 2015 2014 :
+[Cash paid during the period for interest :8 72,058 i (1) :$ 34,658 : :$ 26,697 1
+Cash received during the period for interest 55 3,659 $ 3,905 $ 2,463
+{Cash paid during the period for income taxes 3; 40,431 $ 25,870 3; 39,8 34 I
+(1) We issued Senior Notes 2023 on January 15, 2015. Interest owing on Senior Notes 2023 is payable semi-annually, with the
+first payment of $22.5 million made on July 15, 2015 (see note 10).
+149

@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+pertain to the periodic interest settlements are classified as operating activities and the cash ﬂows that pertain to the principal balance are classiﬁed as ﬁnancing
+activities.
+We do not use any cross-currency swap agreements for trading purposes.
+Net Investment Hedge=Foreign Currency Borrowings
+In July 2013, we designated our July 2025 Notes as a net investment hedge of our investments in certain of our international subsidiaries that use the Euro as their
+functional currency in order to reduce the volatility in stockholders’ equity caused by the changes in foreign currency exchange rates of the Euro with respect to the
+US. Dollar.
+We used the spot method to measure the effectiveness of our net investment hedge. Under this method, for each reporting period, the change in the carrying value
+of the Euro-denominated July 2025 Notes due to remeasurement of the effective portion is reported in accumulated other comprehensive loss in our consolidated
+balance sheet and the remaining change in the carrying value of the ineffective portion, if any, is recognized in non-operating income (expense), net in our
+consolidated statements of operations. We evaluate the effectiveness of our net investment hedge at the beginning of every quarter. We did not record any
+ineffectiveness for fiscal 2016, 2015 or 2014.
+Foreign Currency Forward Contracts Not Designated as Hedges
+We transact business in various foreign currencies and have established a program that primarily utilizes foreign currency forward contracts to offset the risks
+associated with the effects of certain foreign currency exposures. Under this program, our strategy is to enter into foreign currency forward contracts so that
+increases or decreases in our foreign currency exposures are offset by gains or losses on the foreign currency forward contracts in order to mitigate the risks and
+volatility associated with our foreign currency transactions. We may suspend this program from time to time. Our foreign currency exposures typically arise from
+intercompany sublicense fees, intercompany loans and other intercompany transactions that are generally expected to be cash settled in the near term. Our foreign
+currency forward contracts are generally short-term in duration. Our ultimate realized gain or loss with respect to currency ﬂuctuations will generally depend on the
+size and type of cross-currency exposures that we enter into, the currency exchange rates associated with these exposures and changes in those rates, the net
+realized and unrealized gains or losses on foreign currency forward contracts to offset these exposures and other factors.
+Neither do we use these foreign currency forward contracts for trading purposes nor do we designate these forward contracts as hedging instruments pursuant to
+ASC 815. Accordingly, we recorded the fair values of these contracts as of the end of our reporting period to our consolidated balance sheet with changes in fair
+values recorded to our consolidated statement of operations. The balance sheet classification for the fair values of these forward contracts is prepaid expenses and
+other current assets for forward contracts in an unrealized gain position and other current liabilities for forward contracts in an unrealized loss position. The
+statement of operations classification for changes in fair values of these forward contracts is non-operating income (expense), net, for both realized and unrealized
+gains and losses.
+As of May 31, 2016 and 2015, respectively, the notional amounts of the forward contracts we held to purchase US. Dollars in exchange for other major
+international currencies were $2.7 billion and $2.2 billion, respectively, and the notional amounts of forward contracts we held to sell US. Dollars in exchange for
+other major international currencies were $2.0 billion and $1.2 billion, respectively. The fair values of our outstanding foreign currency forward contracts were
+nominal at May 31, 2016 and 2015.
+Included in our non-operating income (expense), net were $97 million, $60 million and $(69) million of net gains (losses) related to these forward contracts for the
+years ended May 31, 2016, 2015 and 2014, respectively. The cash ﬂows related to these foreign currency contracts are classified as operating activities.
+117

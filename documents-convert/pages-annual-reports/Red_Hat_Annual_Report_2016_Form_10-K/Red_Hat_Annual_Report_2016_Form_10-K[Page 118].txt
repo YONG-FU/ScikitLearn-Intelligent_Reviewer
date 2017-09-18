@@ -1,0 +1,35 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+The fair value of the convertible notes, which was determined based on inputs that are observable in the
+market (Level 2), and the carrying value of convertible notes (the carrying value excludes the equity component
+of the convertible notes classified in equity) is as follows (in thousands):
+7 As of February 29, 2016 7
+Fair Value Carrying Value
+Convertiblenotes $714,950 $723,942
+Convertible note hedge transactions and warrant transactions
+On October 1, 2014, the Company entered into convertible note hedge transactions and warrant transactions
+with certain of the Initial Purchasers of the convertible notes or their respective affiliates (the “Option
+Counterparties”).
+The convertible note hedge transactions are expected to offset the potential dilution with respect to shares of
+the Company’s common stock upon any conversion of the convertible notes and/or offset any cash payments the
+Company is required to make in excess of the principal amount of the converted notes, as the case may be. To
+partially offset the $148.0 million cost of the convertible note hedge transactions, the Company issued warrants and
+received proceeds of $79.8 million. The number of shares of the Company’s common stock underlying the warrants
+total 10,965,630, the same number of shares underlying the convertible notes and the convertible note hedge
+transactions. The combination of the convertible note hedge transactions and the warrant transactions effectively
+increases the initial conversion price of the convertible notes from $73.41 per share to $101.65 per share. As a
+result, the warrant transactions will have a dilutive effect with respect to the Company’s common stock to the extent
+that the market price per share of the Company’s common stock, as measured under the terms of the warrant
+transactions, exceeds the $101.65 strike price of the warrants. However, subject to certain conditions, the Company
+may elect to settle all of the warrants in cash. The $101.65 strike price of the warrants represents a premium of
+approximately 80% over the $56.47 per share closing price of the Company’s common stock on October 1, 2014.
+The purchase of convertible note hedges and proceeds from issuance of warrants were recorded in
+stockholders’ equity and will continue to be classified as stockholders’ equity.
+NOTE 23—Accumulated Other Comprehensive Loss
+Accumulated other comprehensive loss was comprised of the following (in thousands):
+February 29, February 28,
+: 2016 : : 2015 :
+Accumulated loss from foreign currency translation adjustment . . . . . . . . . . . . . . . . . . $(73,776) $(60,986)
+Accumulated unrealized gain (loss), net of tax, on available-for-sale securities . . . . . . (673) 365
+Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $(74,449) $(60,621)
+1 14

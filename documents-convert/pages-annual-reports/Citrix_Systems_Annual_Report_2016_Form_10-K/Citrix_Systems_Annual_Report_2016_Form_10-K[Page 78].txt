@@ -1,0 +1,55 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+to achieving technological feasibility have not been significant and substantially all software development costs have been
+expensed as incurred.
+Internal Use Sofnvare
+In accordance with the authoritative guidance, the Company capitalizes external direct costs of materials and services and
+internal costs such as payroll and benefits of those employees directly associated with the development of new functionality in
+internal use software. The amount of costs capitalized in 2016 and 2015 relating to internal use software was $36.2 million and
+$46.2 million, respectively. These costs are being amortized over the estimated useful life of the software, which is generally
+three to seven years, and are included in property and equipment in the accompanying consolidated balance sheets. The total
+amounts charged to expense relating to internal use software was approximately $49.6 million, $44.6 million and $37.3 million,
+during the years ended December 31, 2016, 2015 and 2014, respectively.
+The Company capitalized costs related to internally developed computer software to be sold as a service related to its
+Cloud Services products and GoTo Business oﬁerings, incurred during the application development stage, of $48.6 million and
+$47.7 million, during the years ended December 31, 2016 and December 31, 2015, respectively, and is amortizing these costs
+over the expected lives of the related services, which is generally two years, and are included in property and equipment in the
+accompanying consolidated balance sheets. The total amounts charged to expense relating to internally developed computer
+software to be sold as a service was approximately $43.9 million, $37.2 million and $29.5 million, during the years ended
+December 31, 2016, 2015 and 2014, respectively.
+Revenue Recognition
+Net revenues include the following categories: Product and licenses, SaaS, License updates and maintenance and
+Professional services. Product and licenses revenues primarily represent fees related to the licensing of the Company’s software
+and hardware appliances. These revenues are reﬂected net of sales allowances, cooperative advertising agreements, partner
+incentive programs and provisions for returns. SaaS revenues consist primarily of fees related to online service agreements,
+which are recognized ratably over the contract term, which is typically 12 months. In addition, SaaS revenues may also include
+set-up fees, which are recognized ratably over the contract term or the expected customer life, whichever is longer. License
+updates and maintenance revenues consist of fees related to the Subscription Advantage program and maintenance fees, which
+include technical support and hardware and software maintenance. Subscription Advantage and maintenance fees are
+recognized ratably over the term of the contract, which is typically 12 to 24 months. The Company capitalizes certain third-
+party commissions related to Subscription Advantage, maintenance and support renewals. The capitalized commissions are
+amortized to Sales, marketing and services expense at the time the related deferred revenue is recognized as revenue. Hardware
+and software maintenance and support contracts are typically sold separately. Hardware maintenance includes technical
+support, the latest software upgrades when and if they become available, and replacement of malfunctioning appliances.
+Dedicated account management is available as an add-on to the program for a higher level of service. Software maintenance,
+including the new Customer Success Services, includes unlimited technical support, immediate access to software upgrades,
+enhancements and maintenance releases when and if they become available during the term of the contract and configuration
+and installation support along with acceleration and automation tools. Professional services revenues are comprised of fees
+from consulting services related to the implementation of the Company’s products and fees from product training and
+certification, which are recognized as the services are provided.
+The Company recognizes revenue when it is earned and when all of the following criteria are met: (1) persuasive evidence
+of the arrangement exists; (2) delivery has occurred or the service has been provided and the Company has no remaining
+obligations; (3) the fee is fixed or determinable; and (4) collectability is probable.
+The majority of the Company’s product and license revenue consists of revenue from the sale of software products.
+Software sales generally include a perpetual license to the Company’s software and is subject to the industry speciﬁc software
+revenue recognition guidance. In accordance with this guidance, the Company allocates revenue to license updates related to its
+stand-alone software and any other undelivered elements of the arrangement based on vendor specific objective evidence
+(“VSOE”) of fair value of each element and such amounts are deferred until the applicable delivery criteria and other revenue
+recognition criteria described above have been met. The balance of the revenues, net of any discounts inherent in the
+arrangement, is recognized at the outset of the arrangement using the residual method as the product licenses are delivered. If
+management cannot objectively determine the fair value of each undelivered element based on VSOE of fair value, revenue
+recognition is deferred until all elements are delivered, all services have been performed, or until fair value can be objectively
+determined.
+For hardware appliance and software transactions, the arrangement consideration is allocated to stand-alone software
+deliverables as a group and the non-software deliverables based on the relative selling prices using the selling price hierarchy in
+F-12

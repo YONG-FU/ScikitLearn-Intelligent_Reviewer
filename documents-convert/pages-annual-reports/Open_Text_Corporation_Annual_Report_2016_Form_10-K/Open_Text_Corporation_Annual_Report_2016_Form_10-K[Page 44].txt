@@ -1,0 +1,53 @@
+This release is the most functionally and integration-complete EIM platform that we have released to date and we believe
+it is well suited to drive our go-to-market plan for years to come.
+We see an opportunity to help our customers become “digital businesses” and, with Release 16 as well as our recent
+acquisitions, we believe we have a strong platform to integrate personalized analytics and insights onto our OpenText EIM
+suites of products, which will further our vision to enable “the digital world” and strengthen our position among leaders in
+EIM.
+We also believe our diversified geographic profile helps strengthen our position and helps to reduce the impact of a
+downturn in the economy that may occur in any one specific region.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The preparation of financial statements in conformity with US. GAAP requires us to make estimates, judgments and
+assumptions that affect the amounts reported in the Consolidated Financial Statements. These estimates, judgments and
+assumptions are evaluated on an ongoing basis. We base our estimates on historical experience and on various other
+assumptions that we believe are reasonable at that time, the results of which form the basis for making judgments about the
+carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ materially
+from those estimates. The accounting policies that reﬂect our more significant estimates, judgments and assumptions and which
+we believe are the most critical to aid in fully understanding and evaluating our reported financial results include the following:
+(i) Revenue recognition,
+(ii) Capitalized software,
+(iii) Business combinations,
+(iv) Goodwill,
+(v) Acquired intangibles,
+(vi) Restructuring charges,
+(vii) Foreign currency, and
+(viii) Income taxes.
+Revenue recognition
+We recognize revenues in accordance with Accounting Standard Codification (ASC) Topic 985-605, “Software Revenue
+Recognition” (Topic 985-605).
+We record product revenues from software licenses and products when persuasive evidence of an arrangement exists, the
+software product has been shipped, there are no significant uncertainties surrounding product acceptance by the customer, the
+fees are fixed and determinable, and collection is considered probable. We use the residual method to recognize revenues on
+delivered elements when a license agreement includes one or more elements to be delivered at a future date if evidence of the
+fair value of all undelivered elements exists. If an undelivered element for the arrangement exists under the license
+arrangement, revenues related to the undelivered element is deferred based on vendor-specific objective evidence (VSOE) of
+the fair value of the undelivered element.
+Our multiple-element sales arrangements include arrangements where software licenses and the associated post contract
+customer support (PCS) are sold together. We have established VSOE of the fair value of the undelivered PCS element based
+on the contracted price for renewal PCS included in the original multiple element sales arrangement, as substantiated by
+contractual terms and our significant PCS renewal experience, from our existing worldwide base. Our multiple element sales
+arrangements generally include irrevocable rights for the customer to renew PCS after the bundled term ends. The customer is
+not subject to any economic or other penalty for failure to renew. It is our experience that customers generally exercise their
+renewal PCS option. In the renewal transaction, PCS is sold on a stand-alone basis to the licensees one year or more after the
+original multiple element sales arrangement. The exercised renewal PCS price is consistent with the renewal price in the
+original multiple element sales arrangement, although an adjustment to reﬂect consumer price changes is common.
+If VSOE of fair value does not exist for all undelivered elements, all revenues are deferred until suﬂicient evidence exists
+or all elements have been delivered.
+Cloud services and subscription revenues consist of (i) software as a service offerings (ii) managed service arrangements
+and (iii) subscription revenues relating to on premise oﬁerings. The customer contracts for each of these three offerings are
+long term contracts (greater than twelve months) and are based on the customer’s usage over the contract period. The revenue
+associated with such contracts is recognized once usage has been measured, the fee is fixed and determinable and collection is
+probable.
+In certain managed services arrangements, we sell transaction processing along with implementation and start-up
+services. The implementation and start-up services do not have stand-alone value and, therefore, they do not qualify as separate
+36

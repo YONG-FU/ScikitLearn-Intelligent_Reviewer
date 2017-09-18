@@ -1,0 +1,45 @@
+Consolidated Balance Sheet Data:
+As of March 31,
+2012 2013 2014 2015 2016
+RMB RMB RMB RMB RMB US$
+(in millions)
+Cash and cash equivalents and short-term investments . 21,744 32,686 43,632 122,341 111,518 17,295
+Investment securities and investment in equity
+investeesa). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,483 2,426 22,131 52,146 125,031 19,390
+Property and equipment, net . . . . . . . . . . . . . . . . . . . 2,463 3,808 5,581 9,139 13,629 2,114
+Goodwill and intangible assets. . . . . . . . . . . . . . . . . . 11,791 11,628 13,699 48,508 87,015 13,495
+Total assets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47,210 63,786 111,549 255,434 364,450 56,521
+Current bank borrowings . . . . . . . . . . . . . . . . . . . . . 1,283 3,350 1,100 1,990 4,304 667
+Securedborrowings......................... — 2,098 9,264 — — —
+Non-current bank borrowings . . . . . . . . . . . . . . . . . . — 22,462 30,711 1,609 1,871 290
+Unsecured senior notes . . . . . . . . . . . . . . . . . . . . . . — — — 48,994 51,596 8,002
+Redeemable preference shares. . . . . . . . . . . . . . . . . . — 5,191 — — — —
+Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12,797 52,740 70,731 97,363 114,561 17,767
+Convertible preference sharesa) . . . . . . . . . . . . . . . . . — 10,447 10,284 — — —
+Total Alibaba Group Holding Limited shareholders’
+equity (deficits) . . . . . . . . . . . . . . . . . . . . . . . . . . 31,488 (24) 29,338 145,439 216,987 33,652
+Total equity(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34,383 513 30,417 157,413 249,539 38,700
+(1) Includes both current and non-current investment securities and investment in equity investees.
+(2) Upon the completion of our initial public offering in September 2014, all of our then outstanding convertible preference shares were
+converted into ordinary shares.
+(3) The decrease from March 31, 2012 to March 31, 2013 was primarily due to the repurchase of our ordinary shares from Yahoo in
+September 2012 and the privatization of Alibaba.com, partially offset by the issuance of ordinary shares to finance the repurchase. The
+increase from March 31, 2014 to March 31, 2015 was primarily due to the issuance of our ordinary shares in connection with our initial public
+offering in September 2014 and net income for fiscal year 2015.
+Selected Operating Data
+GMV
+The following chart sets forth the GMV transacted on our China retail marketplaces and mobile GMV as a
+percentage of GMV for the periods indicated:
+Three months ended
+Jun. 30, Sep. 30, Dec. 31, Mar. 31, Jun. 30, Sep. 30, Dec. 31, Mar. 31,
+2014 2014 2014 2015 2015 2015 2015 2016
+(in billions of RMB, except percentages)
+GMV“)
+Taobao Marketplace GMV . . . . . . . . 342 380 494 381 427 438 563 449
+Tmall GMV . . . . . . . . . . . . . . . . . . 159 176 293 219 246 275 401 293
+Total GMV . . . . . . . . . . . . . . . . . 501 556 787 600 673 713 964 742
+Mobile GMV (as a percentage of total
+33% 36% 42% 51% 55% 62% 68% 73%
+(1) GMV generated from traffic through Juhuasuan is recorded as either Taobao Marketplace GMV or Tmall GMV depending on which of these
+two marketplaces the transaction is completed.
+6

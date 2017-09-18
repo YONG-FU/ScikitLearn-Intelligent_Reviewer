@@ -1,0 +1,47 @@
+SECTION 310. Computation of Interest.
+Except as otherwise specified as contemplated by Section 301 for Securities of any particular series, interest on the Securities of each series shall be
+computed on the basis of a 360-day year of twelve 30-day months.
+SECTION 311. Currency and Manner of Payments in Respect of Securities.
+Unless otherwise specified in accordance with Section 301 with respect to any series of Securities, the following provisions shall apply:
+(a) Except as provided in paragraphs (b) and (d) below, principal of, and premium, if any, and interest on Securities of any series denominated in a
+Foreign Currency or currency unit will be payable by the Company in Dollars based on the equivalent of that Foreign Currency or currency unit converted into
+Dollars in the manner described in paragraph (c) below.
+(b) It may be provided pursuant to Section 301 with reSpect to Registered Securities of any series denominated in a Foreign Currency or currency unit
+that Holders shall have the option, subject to paragraph ((1) below, to receive payments of principal of, and premium, if any, and interest on such Registered
+Securities in such Foreign Currency or currency unit by delivering to the Trustee (or to any duly appointed Paying Agent) for the Registered Securities of that series
+a written election, to be in form and substance satisfactory to such Trustee (or to any such Paying Agent), not later than the close of business on the Election Date
+immediately preceding the applicable payment date. If a Holder so elects to receive such payments in such Foreign Currency or currency unit, such election will
+remain in effect for such Holder until changed by such Holder by written notice to the Trustee (or to any such Paying Agent) for the Registered Securities of that
+series; provided, however, that any such change must be made not later than the close of business on the Election Date immediately preceding the next payment
+date to be effective for the payment to be made on such payment date; and provided, further, that no such change or election may be made with respect to payments
+to be made on any Registered Security of such series with reSpect to which an Event of Default has occurred, the Company has exercised any defeasance,
+satisfaction or discharge options pursuant to Article Four or notice of redemption has been given by the Company pursuant to Article Eleven. If any Holder makes
+any such election, such election will not be effective as to any transferee of such Holder and such transferee shall be paid in Dollars unless such transferee makes an
+election as specified above; provided, however, that such election, if in effect while funds are on deposit with respect to the Registered Securities of such series as
+described in Section 404 or 405, will be effective on any transferee of such Holder unless otherwise specified pursuant to Section 301 for such Registered
+Securities. Any Holder of any such Registered Security who shall not have delivered any such election to the Trustee (or to any duly appointed Paying Agent) for
+the Registered Securities of such series not later than the close of business on the applicable Election Date will be paid the amount due on the applicable payment
+date in Dollars.
+(c) With respect to any Registered Securities of any series denominated in a Foreign Currency or currency unit and payable in Dollars, the amount of
+Dollars so payable will be determined by the Currency Determination Agent based on the indicative quotation in The City of New York selected by the Currency
+Determination Agent at approximately 11:00 am, New York City time, on the second Business Day preceding the applicable payment date that yields the largest
+number of Dollars on conversion of Foreign Currency or currency units. Such selection shall be made from among the quotations appearing on the bank composite
+or multi-contributor pages of the Reuters Monitor Foreign Exchange Service or, if not available, the Bridge Telerate Monitor Foreign Exchange Service, for three
+(or two if three are not available) major banks in The City of New York. The first three (or two) such banks selected by the Currency Determination Agent which
+are offering quotes on the Reuters Foreign Exchange Service, as the case may be, shall be used. If such quotations are unavailable from either such foreign
+exchange service, such selection shall be made from the quotations received by the Currency Determination Agent from no more than three nor less than two
+recognized foreign exchange dealers in The City of New York selected by the Currency Determination Agent and approved by the Company (one of which may be
+the Currency Determination Agent) for the purchase by the quoting dealer, for settlement on such payment date, of the aggregate amount of the Foreign Currency or
+currency unit payable on such payment date in respect of all Registered Securities denominated in such Foreign Currency or currency unit and for which the
+applicable dealer commits to execute a contract. If fewer than two such bid quotations are available at 11:00 am, New York City time, on the second Business Day
+preceding the applicable payment date, such payment will be based on the Market Exchange Rate as of the second Business Day preceding the applicable payment
+date. If the Market Exchange Rate for such date is not then available, payments shall be made in the Foreign Currency or currency unit.
+((1) If a Conversion Event occurs with respect to a Foreign Currency or currency unit in which Registered Securities of any series are payable, then
+with respect to each date for the payment of principal of, and premium, if any, and interest on the Registered Securities of that series occurring after the last date on
+which such Foreign Currency or currency unit was used, the Company may make such payment in Dollars. The Dollar amount to be paid by the Company to the
+Trustee for the Registered Securities of such series and by such Trustee or any Paying Agent for the Registered Securities of such series to the Holders of such
+Registered Securities with respect to such payment date shall be determined by the Currency Determination Agent on the basis of the Market Exchange Rate as of
+the second Business Day preceding the applicable payment date or, if such Market Exchange Rate is not then available, on the basis of the most recently available
+Market Exchange Rate, or as otherwise established pursuant to Section 301 with respect to such Notes. Any payment in respect of such Registered Security made
+under such circumstances in Dollars will not constitute an Event of Default hereunder.
+20

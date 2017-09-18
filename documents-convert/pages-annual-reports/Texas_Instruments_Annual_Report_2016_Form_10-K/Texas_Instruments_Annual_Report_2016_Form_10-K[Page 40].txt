@@ -1,0 +1,49 @@
+In March 2016, the FASB issued ASU No. 2016-09, Compensation — Stock Compensation (Topic 718): Improvements to Employee
+Share-Based PaymentAccounting. This standard provides for several changes to the accounting for stock compensation, including
+a requirement that certain income-tax effects of awards be recognized in Net income in the period in which the awards are settled
+or vested, rather than recognized as Paid-in capital in the equity section of the balance sheet. The standard also changes the
+presentation of excess tax benefits and statutory tax withholdings in the statement of cash flows. This standard is effective for
+interim and annual periods beginning January 1, 2017; however, early adoption is permitted. We elected to adopt this standard in
+the fourth quarter of 2016, which requires us to reflect any adjustments as of January 1, 2016, the beginning of the annual period
+that includes the adoption. Each of the provisions within this standard has its own specified transition method; some have been
+applied prospectively and others have been applied on a retrospective basis.
+'3 The primary effects of early adoption on our financial statements are as follows:
+:1
+f 0 Income statement effects: Prospective basis — Net excess tax benefits and deficiencies will now be included in Provision for
+9 income taxes, rather than in Paid-in capital. The new standard requires this to be adopted on a prospective basis, with an
+5‘ initial adjustment to interim periods in the year of adoption. We recorded adjustments within Provision for income taxes,
+rather than in Paid-in capital, for excess tax benefits of $43 million, $40 million and $50 million for the first, second and
+third quarters of 2016, respectively. Excess tax benefits for the fourth quarter of 2016 were $17 million, for a total of
+$150 million recognized for all of 2016. See Note 6 for more information on income taxes. This standard also affects the
+average shares outstanding used in the diluted EPS calculation. The effects of these adjustments are shown in the table
+below. Results for prior annual periods were not affected.
+0 Cash flow effects: Retrospective basis — Excess tax benefits are now included in Cash flows from operating activities rather
+than Cash flows from financing activities in our Consolidated Statements of Cash Flows. We elected to apply this change in
+presentation retrospectively, and thus, prior periods have been adjusted. Taxes paid for employee shares withheld upon the
+vesting of RSUs are now included in Cash flows from financing activities in our Consolidated Statements of Cash Flows.
+This change is required to be applied retrospectively, and thus, prior periods have been adjusted.
+Under this standard, entities are permitted to make an accounting policy election to either estimate forfeitures on stock
+compensation awards, as previously required, or to recognize forfeitures as they occur. We elected not to change our policy on
+accounting for forfeitures and will continue to estimate forfeitures expected to occur in determining the amount of compensation
+cost to be recognized in each period.
+The effects of our adoption of the new standard on our unaudited quarterly results for 2016 are as follows:
+Quarter
+1st 2nd 3rd
+Reported Recast Reported Recast Reported Recast
+Income statement data:
+Provisionforincometaxes $ 282 $ 239 $ 323 $ 283 $ 413 $ 363
+Netincome................................... 668 711 779 819 968 1,018
+Average diluted shares outstanding, in millions . . . . . . . . . 1,018 1,022 1,016 1,020 1,017 1,023
+BasicEPS $ 0.65 $ 0.70 $ 0.77 $ 0.81 $ 0.95 $1.00
+DilutedEPS $ 0.65 $ 0.69 $ 0.76 $ 0.79 $ 0.94 $ 0.98
+Cash flow data:
+Cash flows from operating activities . . . . . . . . . . . . . . . . . $ 547 $ 653 $ 1,069 $ 1,109 $1,413 $1,465
+Cash flows from financing activities . . . . . . . . . . . . . . . . . (839) (945) (1,180) (1,220) (676) (728)
+Certain annual cash flow information has also been adjusted to reflect select aspects of the new standard that are applied
+retrospectively. The impact to our previously reported annual results is as follows:
+For Years Ended December 31,
+2015 2014
+Reported Recast Reported Recast
+Cashflowsfromoperatingactivities $ 4,268 $ 4,397 $ 3,892 $ 4,054
+Cash flows from financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (4,165) (4,294) (3,943) (4,105)
+36 TEXAS INSTRUMENTS - 2016 FORM 10-K

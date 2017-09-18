@@ -1,0 +1,35 @@
+“ Competitive Bid Reduction ” has the meaning specified in Section 2.01.
+“ ConsolidatedLTangibleiAssets,” means the total assets appearing on a consolidated balance sheet of Mondeléz and its Subsidiaries, less goodwill and
+other intangible assets and the minority interests of other Persons in such Subsidiaries, all as determined in accordance with GAAP.
+“ Convert,” “ Conversion,” and “ Converted,” each refers to a conversion of Pro Rata Advances of one Type into Pro Rata Advances of the other Type
+pursuant to Section 2.06, 2.08 or 2.13.
+“ C,o;S,y,ndicationAgents,” means Bank of America, NA, Citibank, NA, Credit Suisse Securities (USA) LLC and HSBC Securities (USA) Inc.
+“ Debt” means (i) indebtedness for borrowed money or for the deferred purchase price of property or services, whether or not evidenced by bonds,
+debentures, notes or similar instruments, (ii) obligations as lessee under leases that, in accordance with accounting principles generally accepted in the United
+States, are recorded as capital leases, and (iii) obligations under direct or indirect guaranties in respect of, and obligations (contingent or otherwise) to purchase or
+otherwise acquire, or otherwise to assure a creditor against loss in respect of, indebtedness or obligations of any other Person of the kinds referred to in clause (i) or
+(ii) above.
+“ Default,” means any event specified in Section 6.01 that would constitute an Event of Default but for the requirement that notice be given or time
+elapse or both.
+“ DefaultingLender,” means any Lender, as reasonably determined by the Administrative Agent, that has (a) failed to fund any portion of its Advances
+within three Business Days of the date required to be funded by it hereunder, unless such Lender notifies the Administrative Agent and the Borrower in writing that
+such failure is the result of such Lender’s determination that one or more conditions precedent to the funding has not been satisfied, (b) notified any Borrower, the
+Administrative Agent or any Lender in writing that it does not intend to comply with any of its funding obligations under this Agreement or has made a public
+statement to the effect that it does not intend to comply with its funding obligations under this Agreement or generally under other agreements in which it commits
+to extend credit, (0) failed, within three Business Days after written request by the Administrative Agent, to confirm that it will comply with the terms of this
+Agreement relating to its obligations to fund prospective Advances, provided that such Lender shall cease to be a Defaulting Lender pursuant to this clause (0) upon
+the Administrative Agent’s receipt of such confirmation in form and substance satisfactory to the Administrative Agent, (d) otherwise failed to pay over to the
+Administrative Agent or any other Lender any other amount required to be paid by it hereunder within three Business Days of the date when due, or (e) become the
+subject of a bankruptcy, insolvency proceeding or Bail-In Action, or has had a receiver, conservator, trustee or custodian appointed for it, or has taken any action in
+furtherance of, or indicating its consent to, approval of or acquiescence in any such proceeding or appointment or has a parent company that has become the subject
+of a bankruptcy or insolvency proceeding, or has had a receiver, conservator, trustee or custodian appointed for it, or has taken any action in furtherance of, or
+indicating its consent to, approval of or acquiescence in any such proceeding or appointment, in the case of clauses (a) through (d) unless the subject of a good faith
+dispute and such Lender has notified the Administrative Agent in writing of such; provided that, for the avoidance of doubt, a Lender shall not be a Defaulting
+Lender solely by Virtue of (i) the ownership or acquisition of any ownership interest in such Lender or a parent company thereof or the exercise of control over a
+Lender or parent company thereof by a Governmental Authority or instrumentality thereof or (ii) in the case of a solvent Lender or parent company thereof, as the
+case may be, the precautionary appointment of an administrator, guardian, custodian or other similar official by a Governmental Authority under or based on the
+law of the country where such Person is subject to home jurisdiction supervision if applicable law requires that such appointment not be publicly disclosed in any
+such case, where such action does not result in or provide such Lender with immunity from the jurisdiction of the courts within the United States or from the
+enforcement of judgments or writs of attachment on its assets or permit such Lender (or Governmental Authority or instrumentality) to reject, repudiate, disavow or
+disafﬁrm any contracts or agreements made with such Lender.
+-5-

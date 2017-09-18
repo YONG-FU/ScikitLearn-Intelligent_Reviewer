@@ -1,0 +1,44 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+The fair values of our money market mutual funds and time deposits are based on the closing price of these assets as of the
+reporting date. We classify our money market mutual funds and time deposits as Level 1.
+Our Level 2 over-the-counter foreign currency and interest rate swap derivatives are valued using pricing models and
+discounted cash ﬂow methodologies based on observable foreign exchange and interest rate data at the measurement date.
+Our deferred compensation plan assets consist of money market mutual funds and other mutual funds.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+We also have direct investments in privately held companies accounted for under the cost method, which are periodically
+assessed for other-than-temporary impairment. If we determine that an other-than-temporary impairment has occurred, we write
+down the investment to its fair value. We estimate fair value of our cost method investments considering available information
+such as pricing in recent rounds of financing, current cash positions, earnings and cash ﬂow forecasts, recent operational performance
+and any other readily available market data. During fiscal 2016, we determined there were immaterial other-than-temporary
+impairments on certain of our cost method investments and wrote down the investments to fair value. During fiscal 2015, we
+determined there were no other-than-temporary impairments on our cost method investments.
+As of December 2, 2016, the carrying value of our lease receivables approximated fair value, based on Level 2 valuation
+inputs which include Treasury rates, London Interbank Offered Rate (“LIBOR”) interest rates and applicable credit spreads. See
+Note I 4 for further details regarding our investment in lease receivables.
+The fair value of our senior notes was $1.97 billion as of December 2, 2016, based on observable market prices in less
+active markets and categorized as Level 2. See Note I 5 for further details regarding our debt.
+NOTE 5. DERIVATIVES AND HEDGIN G ACTIVITIES
+Hedge Accounting and Hedging Programs
+We recognize derivative instruments and hedging activities as either assets or liabilities in our Consolidated Balance Sheets
+and measure them at fair value. Gains and losses resulting from changes in fair value are accounted for depending on the use of
+the derivative and whether it is designated and qualifies for hedge accounting.
+We evaluate hedge effectiveness at the inception of the hedge prospectively as well as retrospectively, and record any
+ineffective portion of the hedging instruments in interest and other income (expense), net on our Consolidated Statements of
+Income. The net gain (loss) recognized in interest and other income (expense), net for cash ﬂow hedges due to hedge ineffectiveness
+was insigniﬁcant for all fiscal years presented. The time value of purchased contracts is recorded in interest and other income
+(expense), net in our Consolidated Statements of Income.
+The bank counterparties to these contracts expose us to credit-related losses in the event of their nonperformance which
+are largely mitigated with collateral security agreements that provide for collateral to be received or posted when the net fair value
+of certain financial instruments ﬂuctuates from contractually established thresholds. In addition, we enter into master netting
+arrangements which have the ability to further limit credit-related losses with the same counterparty by permitting net settlement
+of transactions. Our hedging policy also establishes maximum limits for each counterparty to mitigate any concentration of risk.
+Balance Sheet Hedging=Hedges of Foreign Currency Assets and Liabilities
+We also hedge our net recognized foreign currency denominated assets and liabilities with foreign exchange forward
+contracts to reduce the risk that the value of these assets and liabilities will be adversely affected by changes in exchange rates.
+These contracts hedge assets and liabilities that are denominated in foreign currencies and are carried at fair value with changes
+in the fair value recorded to interest and other income (expense), net in our Consolidated Statements of Income. These contracts
+do not subject us to material balance sheet risk due to exchange rate movements because gains and losses on these derivatives are
+intended to offset gains and losses on the assets and liabilities being hedged.
+79

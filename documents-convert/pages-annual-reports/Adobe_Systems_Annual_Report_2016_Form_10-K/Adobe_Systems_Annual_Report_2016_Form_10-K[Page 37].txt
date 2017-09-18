@@ -1,0 +1,50 @@
+Table of Contents
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+T he following discussion should be read in conjunction with our Consolidated Financial Statements and Notes thereto.
+ACQUISITIONS
+During fiscal 2015, we completed our acquisition of privately held F otolia, a leading marketplace for royalty-free photos,
+images, graphics and HD videos, for $807.5 million. During fiscal 2015, we integrated F otolia into our Digital Media reportable
+segment.
+We also completed other immaterial business acquisitions during the fiscal years presented. Pro forma information has not
+been presented for any of our fiscal 2016, 2015 and 2014 acquisitions as the impact to our Consolidated Financial Statements was
+not material.
+Subsequent to December 2, 2016, we completed our acquisition of TubeMogul, a publicly held video advertising platform
+company, for approximately $549 million in cash consideration, as well as the assumption of certain employee equity awards. The
+initial purchase accounting for this transaction has not yet been completed given the short period of time between the acquisition
+date and the issuance of these financial statements. TubeMogul will be integrated into our Digital Marketing reportable segment
+for financial reporting purposes in the first quarter of fiscal 2017.
+See Note 2 of our Notes to Consolidated Financial Statements for further information regarding these acquisitions.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+In preparing our Consolidated Financial Statements in accordance with GAAP and pursuant to the rules and regulations of
+the SEC, we make assumptions, judgments and estimates that affect the reported amounts of assets, liabilities, revenue and expenses,
+and related disclosures of contingent assets and liabilities. We base our assumptions, judgments and estimates on historical
+experience and various other factors that we believe to be reasonable under the circumstances. Actual results could differ materially
+from these estimates under different assumptions or conditions. On a regular basis, we evaluate our assumptions, judgments and
+estimates. We also discuss our critical accounting policies and estimates with the Audit Committee of the Board of Directors.
+We believe that the assumptions, judgments and estimates involved in the accounting for revenue recognition, business
+combinations, goodwill impairment and income taxes have the greatest potential impact on our Consolidated Financial Statements.
+These areas are key components of our results of operations and are based on complex rules requiring us to make judgments and
+estimates, so we consider these to be our critical accounting policies. Historically, our assumptions, judgments and estimates
+relative to our critical accounting policies have not differed materially from actual results.
+Revenue Recognition
+Our revenue is derived from the subscription, non-software related hosted services, perpetual and term-based licensing of
+software products, associated software maintenance and support plans, consulting services, training and technical support. Most
+of our enterprise customer arrangements are complex, involving multiple solutions and various license rights, bundled with post-
+contract customer support and other meaningful rights that together provide a complete end-to-end solution to the customer.
+Throughout the contract period, customers use our solutions to complete various phases of the creative and/or marketing processes
+allowing them to concurrently work on multiple projects. In response to evolving customer and market expectations, we frequently
+expand and improve our technology to keep up with the pace of change, to provide enhancements to our tools to meet industry
+needs and to provide support at each stage of the customer ’5 life cycle.
+We recognize revenue when all four revenue recognition criteria have been met: persuasive evidence of an arrangement
+exists, we have delivered the product or performed the service, the fee is fixed or determinable and collection is probable.
+Determining whether and when some of these criteria have been satisfied often involves assumptions and judgments that can have
+a signiﬁcant impact on the timing and amount of revenue we report.
+We enter into multiple element revenue arrangements in which a customer may purchase a combination of software, upgrades,
+maintenance and support, hosted services and consulting.
+For our software and software-related multiple element arrangements, we must: (1) determine whether and when each
+element has been delivered; (2) determine whether undelivered products or services are essential to the functionality of the delivered
+products and services, (3) determine the fair value of each undelivered element using vendor-specific objective evidence (“VS OE”);
+and (4) allocate the total price among the various elements. VSOE of fair value is used to allocate a portion of the price to the
+undelivered elements and the residual method is used to allocate the remaining portion to the delivered elements. Absent VSOE,
+37

@@ -1,0 +1,47 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+Deferred Tax Assets and Liabilities
+The tax effects of the temporary differences that gave rise to significant portions of the deferred tax assets and liabilities
+as of December 2, 2016 and November 27, 2015 are presented below (in thousands):
+2016 2015
+Deferred tax assets: : : : :
+I Acquired technology $ 7,421 $ 9,071 I
+Reserves and accruals 35,440 33,251
+I Deferred revenue 21,039 17,110 I
+Unrealized losses on investments 2,391 5,505
+I Stock-based compensation 56,353 59,103 I
+Net operating loss carryforwards of acquired companies 31,305 20,877
+I Credit carryforwards 63,315 57,568 I
+Capitalized expenses 15,571 17,566
+I Benefits relating to tax positions 39,492 43,095 I
+Other 26,439 20,648
+I Total gross deferred tax assets : 298,766 283,794 I
+Deferred tax asset valuation allowance (24,265) (21,286)
+I Total deferred tax assets 274,501 _ 262,508 I
+Deferred tax liabilities: _ _
+I Depreciation and amortization 78,619 62,143 I
+Undistributed earnings of foreign subsidiaries 292,844 249,159
+I Acquired intangible assets 120,698 159,415 I
+Total deferred tax liabilities _ 492,161 _ 470,717
+I Net deferred tax liabilities s 217,660 ’$ 208,209 I
+The deferred tax assets and liabilities for fiscal 2016 and 2015 include amounts related to various acquisitions. The total
+change in deferred tax assets and liabilities includes changes that are recorded to other comprehensive income, additional paid-
+in capital, goodwill, unrecognized tax benefits and retained earnings.
+We provide US. income taxes on the earnings of foreign subsidiaries unless the subsidiaries’ earnings are considered
+permanently reinvested outside the United States. To the extent that the foreign earnings previously treated as permanently
+reinvested are repatriated, the related US. tax liability may be reduced by any foreign income taxes paid on these earnings. As of
+December 2, 2016, the cumulative amount of earnings upon which US. income taxes have not been provided is approximately
+$4.2 billion. The unrecognized deferred tax liability for these earnings is approximately $1.1 billion.
+As of December 2, 2016, we have net operating loss carryforwards of approximately $83.5 million for federal and $36.4
+million for state. We also have state and foreign tax credit carryforwards of approximately $70.6 million and $17.4 million,
+respectively. The net operating loss carryforward assets and tax credits will expire in various years from fiscal 2017 through 2035 .
+The state tax credit carryforwards can be carried forward indefinitely. The net operating loss carryforward assets and certain credits
+are subject to an annual limitation under Internal Revenue Code Section 382, but are expected to be fully realized.
+In addition, we have been tracking certain deferred tax attributes of approximately $55.3 million which have not been
+recorded in the financial statements pursuant to accounting standards related to stock-based compensation. Pursuant to these
+standards, the benefit of these deferred tax assets is not recorded to equity unless it reduces taxes payable.
+As of December 2, 2016, a valuation allowance of $24.3 million has been established for certain deferred tax assets related
+to the impairment of investments and certain state and foreign assets. For fiscal 2016, the total change in the valuation allowance
+was immaterial.
+86

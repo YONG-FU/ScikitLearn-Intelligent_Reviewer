@@ -1,0 +1,41 @@
+Douglas Dynamics, Inc.
+Notes to Consolidated Financial Statements (Continued)
+Years ended December 31, 2016, 2015 and 2014
+(Dollars in Thousands Except Per Share Data)
+11. Employee Retirement Plans (Continued)
+The assumed discount and healthcare cost trend rates are summarized as follows:
+Year Ended
+December 31
+2016 2015 2014
+Discountrate 4.1% 3.7% 4.5%
+Immediate healthcare cost trend rate ..................... * **
+Ultimate healthcare cost trend rate. . . . . . . . . . . . . . . . . . . . . . . 4.5 4.5 4.5
+Assumed annual reduction in trend rate . . . . . . . . . . . . . . . . . .. * **
+Participation....................................... 6O 60 60
+* Health Care Cost Trend rate is assumed to be 7.0% beginning in 2016 gradually reducing
+to an ultimate rate of 4.5% in 2025.
+** Health Care Cost Trend rate is assumed to be 7.0% beginning in 2015 gradually reducing
+to an ultimate rate of 4.5% in 2024.
+*** Health Care Cost Trend rate is assumed to be 7.0% and 6.0% for Pre-65 participants and
+Post-65 participants, respectively, beginning in 2014 gradually reducing to an ultimate rate
+of 4.5% in 2023.
+The discount rate used to determine the benefit obligation at December 31, 2016 and 2015 is 3.7%
+and 4.5%, respectively. For December 31, 2016, the health care cost trend rate is assumed to be 7.0%
+beginning in 2016 gradually reducing to an ultimate rate of 4.5% in 2025. For December 31, 2015, the
+health care cost trend rate is assumed to be 7.0% beginning in 2015 gradually reducing to an ultimate
+rate of 4.5% in 2024. For December 31, 2014, the health care cost trend rate is assumed to be 7.0% for
+participants under 65 and 6.0% for those over 65 beginning in 2014 gradually reducing to an ultimate
+rate of 4.5% in 2023 for both participants under 65 and over 65.
+A one percentage point change in the healthcare cost trend rate would have the following effect at
+December 31, 2016:
+1% 1%
+Increase Decrease
+Effect on total service and interest cost . . . . . . . . . . . . . . . . . . . . $ 62 $ (54)
+Effect on postretirement benefit obligation . . . . . . . . . . . . . . . . . 822 (721)
+Amounts included in other comprehensive loss, net of tax, at December 31, 2016, which have not
+yet been recognized in net periodic pension or OPEB cost, were net actuarial gain (loss) of ($6,414)
+and $937 for the pension plans and postretirement healthcare benefit plans, respectively. The estimated
+actuarial gain (loss) for the defined benefit plans that will be amortized from accumulated other
+comprehensive loss into net periodic pension or OPEB cost during 2017 are ($723) and $107 for the
+pension plans and postretirement healthcare benefit plans, respectively.
+F-41

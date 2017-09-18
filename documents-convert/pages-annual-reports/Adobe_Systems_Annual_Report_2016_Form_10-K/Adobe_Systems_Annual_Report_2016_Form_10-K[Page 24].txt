@@ -1,0 +1,48 @@
+Table of Contents
+we possess on behalf of our customers, our operations could be disrupted, our reputation could be damaged and we could be subject
+to claims or other liabilities. In addition, such perceived or actual unauthorized disclosure of the information we collect or breach
+of our security could damage our reputation, result in the loss of customers and harm our business.
+Because of the large amount of data that our customers collect and manage using our hosted solutions, it is possible that
+hardware or software failures or errors in our systems (or those of our third-party service providers) could result in data loss or
+corruption, cause the information that we collect to be incomplete or contain inaccuracies that our customers regard as signiﬁcant
+or cause us to fail to meet committed service levels. Furthermore, our ability to collect and report data may be delayed or interrupted
+by a number of factors, including access to the Internet, the failure of our network or software systems, security breaches or
+significant variability in visitor traﬁic on customer websites. In addition, computer viruses or other malware may harm our systems,
+causing us to lose data, and the transmission of computer viruses or other malware could expose us to litigation. We may also find,
+on occasion, that we cannot deliver data and reports to our customers in near real time because of a number of factors, including
+significant spikes in customer activity on their websites or failures of our network or software. If we supply inaccurate information
+or experience interruptions in our ability to capture, store and supply information in near real time or at all, our reputation could
+be harmed and we could lose customers, or we could be found liable for damages or incur other losses.
+Changes in accounting principles, or intelpretations thereoﬁ could have a significant impact on our ﬁnancial position and
+results of operations.
+We prepare our Consolidated Financial Statements in accordance with accounting principles generally accepted in the United
+States of America (“GAAP”). These principles are subject to interpretation by the SEC and various bodies formed to interpret and
+create appropriate accounting principles. A change in these principles can have a significant effect on our reported results and may
+even retroactively affect previously reported transactions. Additionally, the adoption of new or revised accounting principles may
+require that we make significant changes to our systems, processes and controls.
+For example, the Financial Accounting Standards Board (“FASB”) has issued new accounting standards for revenue
+recognition and leasing and while we know they will have an impact, we are still evaluating the extent that these new accounting
+standards will have on our consolidated financial statements and related disclosures. Changes resulting from these new standards
+may result in materially different financial results and may require that we change how we process, analyze and report financial
+information and that we change financial reporting controls. For additional information regarding these updated standards, see the
+section titled “Recent Accounting Pronouncements Not Yet Effective” within Part II. Item 8, Note 1. Basis of Presentation and
+Significant Accounting Policies.”
+We may not realize the anticipated benefits of past or future acquisitions, and integration of these acquisitions may disrupt our
+business and management.
+We may not realize the anticipated benefits of an acquisition of a company, division, product or technology, each of which
+involves numerous risks. These risks include:
+- difficulty in integrating the operations and personnel of the acquired business,
+- difficulty in eﬁectively integrating the acquired technologies, products or services with our current technologies,
+products or services,
+- difficulty in maintaining controls, procedures and policies during the transition and integration,
+- entry into markets in which we have minimal prior experience and where competitors in such markets have stronger
+market positions;
+- disruption of our ongoing business and distraction of our management and other employees from other opportunities
+and challenges;
+- inability to retain personnel of the acquired business,
+- inability to retain key customers, distributors, vendors and other business partners of the acquired business;
+- inability to achieve the financial and strategic goals for the acquired and combined businesses,
+- inability to take advantage of anticipated tax benefits;
+- incurring acquisition-related costs or amortization costs for acquired intangible assets that could impact our operating
+results;
+24

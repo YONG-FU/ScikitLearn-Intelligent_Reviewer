@@ -1,0 +1,29 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+$2,791 at December 31, 2016 and December 31, 2015, respectively. The change in fair value on these instruments is
+recorded directly in cost of sales or selling, marketing and administrative expense, depending on the nature of the
+underlying exposure.
+Interest Rate Risk
+In order to manage interest rate exposure, from time to time we enter into interest rate swap agreements to protect
+against unfavorable interest rate changes relating to forecasted debt transactions. These swaps are designated as cash
+ﬂow hedges, with gains and losses deferred in other comprehensive income to be recognized as an adjustment to
+interest expense in the same period that the hedged interest payments affect earnings. We had one interest rate swap
+agreement in a cash ﬂow hedging relationship with a notional amount of $500,000 at December 31, 2015. This
+interest rate swap agreement was settled in connection with the issuance of debt in August 2016, resulting in a
+payment of approximately $87,000 which is reﬂected as an operating cash ﬂow within the Consolidated Statement of
+Cash Flows.
+We also manage our targeted mix of fixed and ﬂoating rate debt with debt issuances and by entering into fixed-t0-
+ﬂoating interest rate swaps in order to mitigate ﬂuctuations in earnings and cash ﬂows that may result from interest
+rate volatility. These swaps are designated as fair value hedges, for which the gain or loss on the derivative and the
+offsetting loss or gain on the hedged item are recognized in current earnings as interest expense (income), net. We had
+one interest rate derivative instrument in a fair value hedging relationship with a notional amount of $350,000 at
+December 31, 2016 and 2015.
+Equity Price Risk
+We are exposed to market price changes in certain broad market indices related to our deferred compensation
+obligations to our employees. To mitigate this risk, we use equity swap contracts to hedge the portion of the exposure
+that is linked to market-level equity returns. These contracts are not designated as hedges for accounting purposes and
+are entered into for periods of 3 to 12 months. The change in fair value of these derivatives is recorded in selling,
+marketing and administrative expense, together with the change in the related liabilities. The notional amount of the
+contracts outstanding at December 31, 2016 was $22,099.
+66

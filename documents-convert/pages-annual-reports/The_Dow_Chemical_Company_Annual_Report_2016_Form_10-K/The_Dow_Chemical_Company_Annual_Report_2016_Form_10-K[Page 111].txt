@@ -1,0 +1,41 @@
+The Company also uses foreign exchange forward contracts, options and cross-currency swaps that are not designated as
+hedging instruments primarily to manage foreign currency exposure. The Company had open foreign exchange contracts and
+cross-currency swaps with various expiration dates to buy, sell or exchange foreign currencies with a gross notional US. dollar
+equivalent of $12,388 million at December 31, 2016 ($14,515 million at December 31, 2015) and had no open interest rate
+swaps at December 31, 2016 and December 31, 2015.
+The following table provides the fair value and gross balance sheet classification of derivative instruments at December 31,
+2016 and 2015:
+Fair Value of Derivative Instruments
+In millions Balance Sheet Classiﬁcation 2016 2015
+[Asset Derivatives
+Derivatives designated as hedges:
+| Commodities Other current assets $ 42 $ 3 ‘
+Commodities Deferred charges and other assets 10 r r
+l Foreign currency Accounts and notes receivable — Other 90 5
+Total derivatives designated as hedges $ 142 $ 8
+|Derivatives not designated as hedges: l
+Commodities Other current assets 55 13 $ 4
+| Commodities Deferred charges and other assets 12 ; l
+: Foreign currency Accounts and notes receivable — Other 103 156 i
+l Total derivatives not designated as hedges $ 128 $ 160
+:Total asset derivatives 55 270 $ 168 7
+[Liability Derivatives l
+Derivatives designated as hedges:
+| Interest rates Accrued and other current liabilities $ 3 $ 3 ‘
+Interest rates Other noncurrent obligations 2 1
+| Commodities Accrued and other current liabilities 32 28 ‘
+Commodities Other noncurrent obligations 196 234
+l Foreign currency Accrued and other current liabilities 55 1
+7 Total derivatives designated as hedges $ 288 $ 267 7
+|Derivatives not designated as hedges: l
+Commodities Accrued and other current liabilities $ 4 $ * i
+| Commodities Other noncurrent obligations 2 ; ‘
+Foreign currency Accounts payable — Other 84 83
+l Total derivatives not designated as hedges $ 90 $ 83
+Total liability derivatives 55 378 $ 350 7
+Foreign currency derivatives not designated as hedges are oﬁset by foreign exchange gains or losses resulting from the
+underlying exposures of foreign currency denominated assets and liabilities. The amount charged on a pretax basis related to
+foreign currency derivatives not designated as a hedge, which is included in "Sundry income (expense) - net" in the
+consolidated statements of income, was a loss of $180 million for 2016, loss of $318 million for 2015 and loss of $333 million
+for 2014. See Note 13 for the net impact of foreign exchange transactions.
+103

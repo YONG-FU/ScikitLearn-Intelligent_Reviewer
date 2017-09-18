@@ -1,0 +1,52 @@
+IaibleiofiCiontents Alphabet Inc.
+7 As of December 31, 2016 :
+7 Fair Value of Fair Value of
+Derivatives Derivatives Not
+Designated as Designated as Total Fair
+7 Balance Sheet Location 7 7 Hedging Instruments 7 7 Hedging Instruments 7 7 Value 7
+Derivative Assets:
+[Level 2: [
+Foreign exchange Prepaid revenue share,
+contracts expenses and other
+assets, current and non-
+current 7$ 5397 7$ 577 7$ 5967
+[ Total :$ 539 :_:$ 57 :_:$ 596 [
+Derivative Liabilities: 7 7 7 7 7 7
+[Level 2: [
+Foreign exchange Accrued expenses and
+contracts other liabilities, current
+and non-current $ 4 $ 9 $ 13
+Interest rate contracts Accrued expenses and
+other liabilities, current
+and non-current O O O
+“‘3' $ 4 $ 9 $ 13
+The effect of derivative instruments in cash flow hedging relationships on income and other comprehensive
+income (OCI) is summarized below (in millions):
+Gains (Losses) Recognized in OCI
+7 on Derivatives Before Tax Effect (Effective Portion) 7
+7 Year Ended December 31, 7
+Derivatives in Cash Flow Hedging Relationship
+7 2014 7 7 2015 7 7 2016 7
+[Foreign exchange contracts $ 929 $ 964 $ 773 [
+Interest rate contracts 7 (31), 7 07 7 07
+[Total :$ 898 : :$ 964: :$ 773 [
+: Gains (Losses) Reclassified from AOCI into Income (Effective Portion) :
+7 Year Ended December 31, 7
+Derivatives in Cash Flow Hedging 7 7
+Relationship 7 Location 7 7 2014 7 7 2015 7 7 2016 7
+[Foreign exchange contracts Revenues $ 171 $ 1,399 $ 539 [
+Interest rate contracts Other income
+(expense), net 4 5 5
+[Total $ 175$ 1,404 $ 544[
+Gains (Losses) Recognized in Income on Derivatives (Amount (1)
+7 Excluded from Effectiveness Testing and Ineffective Portion) 7
+Year Ended December 31,
+Derivatives in Cash Flow Hedging
+Relationship 7 Location 7 7 2014 7 7 2015 2016 7
+Foreign exchange contracts Other income [
+(expense), net $ (279) $ (297) $ (381)l
+Interest rate contracts Other income
+(expense), net 4 0 0
+[Total $ (275) $ (297) $ (381)!
+(1) Gains (losses) related to the ineffective portion of the hedges were not material 7in all periods presented. 7
+58

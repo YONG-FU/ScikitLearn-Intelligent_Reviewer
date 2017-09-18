@@ -1,0 +1,43 @@
+Iablre,of,C,ontents
+the functional currency for all of VMware's legal entities. At the time a non-US. dollar transaction is recorded, the value of the transaction is converted into US.
+dollars at the exchange rate in effect for the month in which each order is booked. As a result, the amount of license and total revenue derived from these
+transactions will be impacted by foreign currency exchange ﬂuctuations.
+Additionally, a portion of our operating expenses, primarily the cost of personnel to deliver technical support on our products and professional services, sales
+and sales support and research and development, are denominated in foreign currencies, primarily those currencies in which we also invoice and collect. As
+exchange rates vary, operating results may differ materially from expectations.
+To manage the risk associated with ﬂuctuations in foreign currency exchange rates, we utilize derivative financial instruments, principally foreign currency
+forward contracts (“forward contracts”), as described below.
+Cash Flow Hedging Activities. To mitigate our exposure to foreign currency ﬂuctuations resulting from operating expenses denominated in certain foreign
+currencies, we enter into forward contracts. We enter into forward contracts annually, which have maturities of twelve months or less. As of December 31, 2016
+and 2015, we had outstanding forward contracts with a total notional value of $22 million and $213 million , respectively. The fair value of these forward
+contracts was not signiﬁcant as of December 31, 2016 and 2015.
+Forward Contracts Not Designated as Hedges. We enter into forward contracts to offset the foreign currency risk associated with net outstanding monetary
+asset and liability positions. Our forward contracts are traded on a monthly basis and typically have a contractual term of one month. As of December 31, 2016 and
+2015, we had outstanding forward contracts with a total notional value of $875 million and $721 million , respectively. The fair value of these forward contracts
+was not significant as of December 31, 2016 and 2015.
+Sensitivity Analysis. There can be no assurance that our hedging activities will adequately protect us against the risks associated with foreign currency
+ﬂuctuations. A hypothetical adverse foreign currency exchange rate movement of 10% would have resulted in a potential loss of $90 million in fair value of our
+forward contracts as of December 31, 2016. This sensitivity analysis disregards any offsetting gain that may be associated with the underlying foreign-currency
+denominated assets and liabilities that we hedge.
+This analysis also assumes a parallel adverse shift of all foreign currency exchange rates against the US. dollar; however, foreign currency exchange rates do
+not always move in such a manner and actual results may differ materially. We do not, and do not intend to use derivative ﬁnancial instruments for trading or
+speculative purposes. Refer to Note H to the consolidated ﬁnancial statements in Part II, Item 8 of this Annual Report on Form 10-K for further information.
+Interest Rate Risk
+Fixed Income Securities
+Our fixed income investment portfolio is denominated in US. dollars and consists of various sectors at different maturities. Our primary objective for holding
+fixed income securities is to achieve an appropriate investment return consistent with preserving principal and managing risk.
+Sensitivity Analysis. At any time, a sharp rise in interest rates or credit spreads could have a material adverse impact on the fair value of our fixed income
+investment portfolio. Hypothetical increases in interest rates of 50 basis points and 100 basis points would have decreased the fair value of our fixed income
+investment portfolio as of December 31, 2016 by $39 million and $77 million, respectively. Hypothetical decreases in interest rates of 50 basis points and 100 basis
+points would have increased the fair value of our fixed income investment portfolio as of December 31, 2016 by $39 million and $77 million, respectively.
+This sensitivity analysis assumes a parallel shift of all interest rates; however, interest rates do not always move in such a manner and actual results may differ
+significantly. We monitor our interest rate and credit risk, including our credit exposures to specific rating categories and to individual issuers. These instruments
+are not leveraged and we do not intend to use them for speculative purposes. Refer to Notes F and G to the consolidated financial statements in Part II, Item 8 of
+this Annual Report on Form 10-K for further information.
+Equity Price Risk
+Strategic Investments
+Our strategic investments include privately held companies which are considered to be in the start-up or development stages and are inherently risky. The
+technologies or products these companies have under development are typically in the early stages and may never materialize, which could result in a loss of a
+substantial part of our initial investment in these companies. The carrying values of our strategic investments were accounted for under the cost method. We
+evaluate the strategic investments in our portfolio to assess whether they are other-than-temporarily impaired. The evaluation is based on information
+50

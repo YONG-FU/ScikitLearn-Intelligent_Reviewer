@@ -1,0 +1,34 @@
+(FINANCIAL STATEMENTS — NOTE 9 i)
+The following table represents the fair value of assets supporting separate accounts by major
+investment category:
+Year ended December 31,
+r 2016 2015 r
+7 (In thousands) 7
+Fixed—income securities $ 999,435 $ 932,934
+Equity securities 1,264,270 1,109,610
+Cash and cash equivalents 30,064 24,003
+Due to/from funds (5,941) (2,817)
+Other 125 169
+Total separate accounts assets $2,287,953 $2,063,899
+(9) Insurance Reserves
+Changes in policy claims and other benefits payable were as follows:
+Year ended December 31,
+r 2016 2015 2014 r
+7 (In thousands) 7
+Policy claims and other benefits @yable, beginning of period $ 238,157 $ 245,829 $ 238,750
+Less reinsured policy claims and other benefits payable 263,003 264,049 248,185
+Net balance, beginning of period (24,846) (18,220) (9,435)
+Incurred related to current year 143,518 138,139 129,869
+Incurred related to prior years (522) 212 674
+Total incurred 142,996 138,351 130,543
+Claims paid related to current year, net of reinsured policy claims
+received (203,015) (167,621) (155,357)
+Reinsured policy claims received related to prior years, net of
+claims paid 29,546 23,661 21,881
+Total paid (173,469) (143,960) (133,476)
+Sale of DBL — — (5,047)
+Foreign currency translation 260 (1,017) (805)
+Net balance, end of period (55,059) (24,846) (18,220)
+Add reinsured policy claims and other benefits payable 323,195 263,003 264,049
+Balance, end of period $ 268,136 $ 238,157 $ 245,829
+Primerica 2016 Annual Report 127

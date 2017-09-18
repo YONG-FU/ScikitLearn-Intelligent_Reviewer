@@ -1,0 +1,46 @@
+IableofContents
+During 2016, three distributors, who purchased software licenses and software support from us for resale to end-user customers directly or via resellers, each
+accounted for over 10% of our consolidated revenue. Arrow Electronics, Inc., Tech Data Corporation and Ingram Micro, Inc. accounted for 15% , 12% and 10% ,
+respectively, of our consolidated revenue in 2016. Our distribution agreements are typically terminable at will by either party upon 30 to 90 days’ prior written
+notice to the other party, and neither party has any obligation to purchase or sell any products under the agreement.
+Competition
+The virtualization, cloud computing, end-user computing and software-defined data center industries are interrelated and rapidly evolving, and we face intense
+competition across all the markets for our products and services. We believe that the key factors in our ability to successfully compete include the level of
+reliability, interoperability and new functionality of our product and service offerings; the ability of our product offerings to support multiple hardware platforms,
+operating systems, applications frameworks and public cloud platforms; our ability to anticipate customer needs in rapidly evolving markets for IT resources; the
+pricing of our product and service offerings; the ability to integrate open source technologies that are critical in private and public cloud computing architectures;
+the ability to attract and retain key employees; and the ability to maintain and expand our ecosystem of technology partners, service providers and sales channel
+partners. While we believe that we are a technology leader in virtualization and cloud infrastructure solutions and have a strong, favorable image with our
+customers, many of our current or potential competitors have longer operating histories, greater name recognition, larger customer bases and significantly greater
+ﬁnancial, technical, sales, marketing and other resources than we do. Additionally, the adoption of public cloud, micro-services, containers and open source
+technologies has the potential to erode our profitability.
+We face competition from, among others:
+Providers of public cloud infrastructure and SaaS-based offerings. As businesses increasingly utilize public cloud and SaaS-based offerings, they are building
+more of their new compute workloads off-premises and may also shift some of their existing workloads. As a result, the demand for on-premises IT resources is
+expected to slow, and our products and services will need to increasingly compete for customers’ IT workloads with off-premises public cloud and SaaS-based
+offerings. If we fail to develop products and services that address evolving customer requirements and that complement and or compete with off-premises compute
+resources offered by competitors, the demand for our virtualization products and services may decline, and we could experience lower growth. Additionally, vCAN
+offerings from our partners and certain vCloud Air offerings may compete directly with infrastructure-as-a-service (“IaaS”) offerings from various public cloud
+providers such as AWS and Microsoft. In October 2016, we announced a strategic alliance with AWS to deliver a vSphere—based cloud service running on AWS.
+Although we expect our strategic alliance to provide significant advantages to customers when it is generally available, our strategic alliance with Amazon and our
+vCAN offerings from our other partners may not prevent or completely offset a decline in demand for our virtualization products and services. Our strategic
+alliance with Amazon may also be seen as competitive with vCAN offerings and adversely affect our relationship with vCAN partners.
+Large, diversiﬁed enterprise software and hardware companies. These competitors supply a wide variety of products and services to, and have well-
+established relationships with, our current and prospective end users. For example, small- to medium-sized businesses and companies in emerging markets that are
+evaluating the adoption of virtualization-based technologies and solutions may be inclined to consider Microsoft solutions because of their existing use of
+Windows and Ofﬁce products. Some of these competitors have in the past and may in the future take advantage of their existing relationships to engage in business
+practices that make our products and services less attractive to our end users. Other competitors have limited or denied support for their applications running in
+VMware virtualization environments. In addition, these competitors could integrate competitive capabilities into their existing products and services and make
+them available without additional charge. For example, Oracle provides free server virtualization software intended to support Oracle and non-Oracle applications,
+and Microsoft offers its own server, network and storage virtualization software packaged with its Windows Server product and offers built-in virtualization in the
+client version of Windows. As a result, existing and prospective VMware customers may elect to use products that are perceived to be “free” or “very low cost”
+instead of purchasing VMware products and services for certain applications where they do not believe that more advanced and robust capabilities are required.
+Companies offering competing platforms based on open source technologies. Open source technologies for virtualization, containerization and cloud platforms
+such as Xen, KVM, Docker, Rocket and OpenStack appear to provide pricing competition and enable competing vendors to leverage these open source
+technologies to compete directly with our SDDC initiative. Enterprises and service providers have shown interest in building their own clouds based on open
+source projects such as OpenStack, and other companies have indicated their intention to expand offerings of virtual management and cloud computing solutions as
+well. Additionally, a number of enterprise IT hardware vendors have released solutions based on OpenStack including IBM and Cisco.
+Other industry alliances. Many of our competitors have entered into or extended partnerships or other strategic relationships to offer more comprehensive
+virtualization and cloud computing solutions than they individually had offered. We expect these trends to continue as companies attempt to strengthen or maintain
+their positions in the evolving virtualization
+9

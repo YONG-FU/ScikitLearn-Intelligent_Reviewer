@@ -1,0 +1,39 @@
+Table,0f,C,0ntents
+The following tables present summarized information by segment (in thousands):
+Years Ended December 31,
+2014 2015 2016
+Revenue by segment (1) : l
+Am'eﬂcas $ 3:53.961 $ 391520 $ 4.32.836
+| EMEA 314,833 343,545 391,168 I
+Asia Paciﬁc 725,439 647,885 598,531
+| Total Releﬂue 4,818,133 4,958,301 5,159,135 I
+TAC by iegment (1) :
+| Americas 155,545 188,125 1,453,221 I
+EMEAii 3_6,8_67 51,284 144,547
+| Asia Paciﬁc 14,119 31,505 43,018 I
+Total 1A0 25,531 83,514 1,550,185
+Revenue ex—TAC by segment: I
+Americas 3351316 3185915 2.109.915
+| EMEA 331,955 285,352 253,221 I
+Asia Paciﬁc 711,320 616,380 555,513
+| Total Revenue ex—TAC 4,4_0_Q,5_Q2 4,995,181 3,518,359 I
+Direct costs by segment (2) :
+| Americas 249,911 284,815 253,010 I
+EMEAii 81,490 95,185 51,597
+1 Asia Paciﬁc __ 195,910 195,055 185,195 I
+pral operaﬂgcosts (3) i 2,_6_0_Q,577 2,582,235 2,2ﬁ,842
+Gains on sales of patents and land (91,894) (1 _1,_1_0,0) (121,559) I
+Asset impairment charge — 44,3_81 —
+goodwill impiairmeﬂLcﬂajge 85,414 4,450,831 3_94,90_1 l
+lntangipE assets impairment charge — 15,g3 81,535
+ilepreciation and amortization 6_0_6,5_6_8 6_0_9,6_1_3 501,555 I
+Stock-based compensation expense 420_,174 451,1_5_3 491,952
+Restructuring chargﬁ, net 103,450 104,019 88,629 I
+Income (loss) from operations 5 142,942 5 (4,748,494) 5 (645,058)
+(1) Commencing in the second quarter of 2016, TAC payments related to the Microsoft Search Agreement, which previously would have been recorded as a
+reduction to revenue, began to be recorded as cost of revenue—TAC due to a required change in revenue presentation. See Note 1—“The Company
+and Summary of Significant Accounting Policies” and Note 19—“Microsoft Search Agreement” for additional information.
+(2) Direct costs for each segment include certain cost of revenue—other and costs associated with the local sales teams. Prior to the second quarter of
+2016, certain account management costs associated with Yahoo Properties were managed locally and included as direct costs for each segment. Prior
+period amounts have been revised to conform to the current presentation.
+164

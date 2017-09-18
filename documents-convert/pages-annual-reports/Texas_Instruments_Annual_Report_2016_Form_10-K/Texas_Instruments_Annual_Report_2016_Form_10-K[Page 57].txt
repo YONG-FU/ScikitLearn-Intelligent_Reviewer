@@ -1,0 +1,47 @@
+Assumptions for the expected long-term rate of return on plan assets are based on future expectations for returns for each asset
+class and the effect of periodic target asset allocation rebalancing. We adjust the results for the payment of reasonable expenses
+of the plan from plan assets. We believe our assumptions are appropriate based on the investment mix and long-term nature of the
+plans’ investments. Assumptions used for the non-U.S. defined benefit plans reflect the different economic environments within the
+various countries.
+The target allocation ranges for the plans that hold a substantial majority of the defined benefit assets are as follows:
+U.S. Defined U.S. Retiree Non-U.S.
+Asset Category Benefit Health Care Defined Benefit
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . 65% 50% — 65% 60% — 100% g
+Equitysecurities................................................ 35% 35%—50% 0%—40% 6
+We rebalance the plans’ investments when they are not within the target allocation ranges. E
+ll.
+Weighted average asset allocations as of December 31 are as follows:
+U.S. Defined U.S. Retiree Non-U.S.
+Benefit Health Care Defined Benefit
+Asset Category 2016 2015 2016 2015 2016 2015
+Fixed income securities and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . 66% 65% 52% 50% 72% 70%
+Equitysecurities................................................ 34% 35% 48% 50% 28% 30%
+None of the plan assets related to the defined benefit pension plans and retiree health care benefit plan are directly invested in Tl
+common stock. As of December 31, 2016, we do not expect to return any of the defined benefit pension plans’ assets to Tl in the
+next 12 months.
+The following assumed future benefit payments to plan participants in the next 10 years are used to measure our benefit
+obligations. Almost all of the payments, which may vary significantly from these assumptions, will be made from plan assets
+and not from company assets. .
+U.S. Defined U.S. Retiree Non-U.S.
+Benefit Health Care Defined Benefit
+$128 $32 $82
+120 32 84
+86 33 87
+91 33 89
+2021 101 32 91
+450 151 489
+Assumed health care cost trend rates for the U.S. retiree health care benefit plan as of December 31 are as follows:
+2016 2015
+Assumedhealthcarecosttrendratefornextyear.................................................6.75% 7.00%
+Ultimatetrendrate........................................................................5.00% 5.00%
+Yearinwhichultimatetrendrateisreached 2024 2024
+A one percentage point increase or decrease in health care cost trend rates over all future periods would have increased or
+decreased the accumulated postretirement benefit obligation for the U.S. retiree health care benefit plan as of December 31, 2016,
+by $2 million. The service cost and interest cost components of 2016 plan expense would have increased or decreased by less
+than $1 million.
+Deferred compensation arrangements
+We have a deferred compensation plan that allows U.S. employees whose base salary and management responsibility exceed a
+certain level to defer receipt of a portion of their cash compensation. Payments under this plan are made based on the participant’s
+distribution election and plan balance. Participants can earn a return on their deferred compensation based on notional
+investments in the same investment funds that are offered in our defined contribution plans.
+TEXAS INSTRUMENTS - 2016 FORM 10-K 53

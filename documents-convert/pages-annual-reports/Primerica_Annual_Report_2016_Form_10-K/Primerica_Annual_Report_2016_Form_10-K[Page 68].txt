@@ -1,0 +1,46 @@
+(ITEM 6. SELECTED FINANCIAL DATA :)
+ITEM 6. SELECTED FINANCIAL DATA.
+The selected financial data should be read in conjunction with the section entitled "Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” and our consolidated
+financial statements and accompanying notes included elsewhere in this report.
+Year ended December 31,
+r 2016 2015 2014 2013 2012 i
+7 (In thousands, except per-share amounts)
+Statements of income data
+Revenues:
+Direct premiums $ 2,444,268 $ 2,345,444 $ 2,301,332 $ 2,265,191 $ 2,231,032
+Ceded premiums (1,600,559) (1,595,220) (1,616,817) (1,644,158) (1,663,753)
+Net premiums 843,709 750,224 684,515 621,033 567,279
+Commissions and fees 541,686 537,146 527,166 471,803 429,044
+Net investment income 79,025 76,509 86,473 88,752 100,804
+Realized investment gains (losses), including
+other-than-temporary impairment losses 4,088 (1,738) (261) 6,246 11,382
+Other, net 50,576 42,058 39,203 39,584 41,992
+Total revenues 1,519,084 1,404,199 1,337,096 1,227,418 1,150,501
+Benefits and expenses:
+Benefits and claims 367,655 339,315 311,417 279,931 254,048
+Amortization of deferred policy acquisition
+costs 180,582 157,727 144,378 129,183 118,598
+Sales commissions 272,815 274,893 268,775 232,237 204,569
+Insurance expenses 132,348 123,030 113,871 103,748 89,081
+Insurance commissions 17,783 16,340 15,353 16,530 21,724
+Interest expense 28,691 33,507 34,570 35,018 33,101
+Other operating expenses 181,615 168,406 173,010 185,765 163,258
+Total benefits and expenses 1,181,489 1,113,218 1,061,374 982,412 884,379
+Income from continuing operations before
+income taxes 337,595 290,981 275,722 245,006 266,122
+Income taxes 118,181 101,110 95,888 86,305 92,813
+Income from continuing gperations 219,414 189,871 179,834 158,701 173,309
+Income from discontinued operations, net
+of income taxes — — 1,578 4,024 497
+Net income $ 219,414 $ 189,871 $ 181,412 $ 162,725 $ 173,806
+Basic earnings per share:
+Continuinggperations $ 4.59 $ 3.70 $ 3.26 $ 2.80 $ 2.76
+Discontinued operations — — 0.03 0.07 0.01
+Basic earnings per share $ 4.59 $ 3.70 $ 3.29 $ 2.87 $ 2.77
+Diluted earnings per share:
+Continuing operations $ 4.59 $ 3.70 $ 3.26 $ 2.76 $ 2.70
+Discontinued operations — — 0.03 0.07 0.01
+Diluted earnings per share $ 4.59 $ 3.70 $ 3.29 $ 2.83 $ 2.71
+Dividends declared per share $ 0.70 $ 0.64 $ 0.48 $ 0.44 $ 0.24
+56 Freedom Lives Here“

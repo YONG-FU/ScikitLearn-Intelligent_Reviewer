@@ -1,0 +1,40 @@
+“Asset Sale” means:
+(1) the sale, lease, conveyance or other disposition of any assets or rights; provided that the sale, lease, conveyance or other disposition of all or
+substantially all of the assets of TLLP and its Restricted Subsidiaries taken as a whole will be governed by Section 4.15 hereof and/or Section 5.01
+hereof and not by Section 4.10 hereof; and
+(2) the issuance of Equity Interests in any of TLLP’s Restricted Subsidiaries or the sale of Equity Interests in any of its Restricted Subsidiaries.
+Notwithstanding the preceding, none of the following items will be deemed to be an Asset Sale:
+(1) any sale, assignment, lease, license, transfer, abandonment or other disposition of (A) damaged, worn-out, unserviceable or other obsolete or
+excess equipment or other property or (B) other property no longer necessary for the proper conduct of the business of TLLP or any of its Subsidiaries;
+(2) any single transaction or series of related transactions that: (a) involves assets having a Fair Market Value of less than $25 .0 million or (b)
+results in net proceeds to TLLP and its Restricted Subsidiaries of less than $25 .0 million;
+(3) a transfer of assets between or among TLLP and its Restricted Subsidiaries;
+(4) an issuance of Equity Interests by a Restricted Subsidiary of TLLP to TLLP or to a Restricted Subsidiary of TLLP;
+(5) the sale or lease of products, equipment, services or accounts receivable in the ordinary course of business;
+(6) the trade, sale, exchange or other disposition of cash or Cash Equivalents, Hedging Obligations or other ﬁnancial instruments;
+(7) a Restricted Payment that does not Violate Section 4.07 hereof or a Permitted Investment;
+(8) any lease of assets entered into in the ordinary course of business and with respect to which TLLP or any Restricted Subsidiary of TLLP is the
+lessor and the lessee has no option to purchase such assets for less than fair market value at any time the right to acquire such asset occurs;
+(9) any trade or exchange by TLLP or any Restricted Subsidiary of properties or assets of any type for properties or assets of any type owned or
+held by another Person, including any disposition of some or all of the Equity Interests of a Restricted Subsidiary, provided that the fair market value of
+the properties or assets traded or exchanged by TLLP or such Restricted Subsidiary (together with any cash or Cash Equivalent together with the
+liabilities assumed) is reasonably equivalent to the fair market value of the properties or assets (together with any cash or Cash Equivalent together with
+liabilities assumed) to be received by TLLP or such Restricted Subsidiary; and provided further that any cash received must be applied in accordance
+with Section £1.10 hereof;
+(10) the disposition of assets received in settlement of debts accrued in the ordinary course of business;
+(1 1) the creation or perfection of a Lien that is not prohibited by Section 4.12 hereof;
+(12) surrender or waiver of contract rights or the settlement, release or surrender of contract, tort or other claims of any kind;
+(13) the grant in the ordinary course of business of any non—exclusive license of patents, trademarks, registrations therefor and other similar
+intellectual property; and
+(14) any disposition of defaulted receivables that arose in the ordinary course of business for collection.
+“Attn'bytableiﬂebt” in respect of a sale-and-leaseback transaction means, at the time of determination, the present value (discounted at the interest rate
+borne by the Notes, compounded annually) of the obligation of the lessee for net rental payments during the remaining term of the lease included in such
+sale-and-leaseback transaction including any period for which such lease has been extended or may, at the option of the lessor, be extended. As used in the
+preceding sentence, “net rental payments” under any lease for any such period shall mean the sum of rental and other payments required to be paid with
+respect to such period by the lessee thereunder, excluding any amounts required to be paid by such lessee on account of maintenance and repairs, insurance,
+taxes, assessments, water rates, utilities, operating and labor costs and other items that do not constitute payment for property rights. In the case of any lease
+that is terminable by the lessee upon payment of penalty, such net rental payment shall also include the amount of such penalty, but no rent shall be
+considered as required to be paid under such lease subsequent to the ﬁrst date upon which it may be so terminated.
+“Alaiilableicash” has the meaning assigned to such term in the Partnership Agreement, as in effect on the Issue Date.
+“BankruptcyiLaw” means Title 11, US. Code, as amended, or any similar federal or state law for the relief of debtors.
+-2-

@@ -1,0 +1,44 @@
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+An expected return on plan asset methodology is utilized to calculate ﬁJture pension expense for certain signiﬁcant funded beneﬁt plans. Amarket-related
+value of plan assets methodology is also utilized that averages gains and losses on the plan assets over a period of years to determine ﬁlture pension expense.
+The methodology recognizes 60% of the difference between the fair value of assets and the expected calculated value in the ﬁrst year and 10% of that
+difference over each of the next four years.
+The discount rate assumption is established for each of the retirement-related beneﬁt plans at their respective measurement dates. In the US. we use a cash
+ﬂow matching approach that uses projected cash ﬂows matched to spot rates along a high quality corporate bond yield curve to determine the present value
+of cash ﬂows to calculate a single equivalent discount rate. Effective 2016 we applied the individual annual yield curve rates instead of the single equivalent
+discount rate to determine the service cost and interest cost for our pension and OPEB plans. This reﬁnement more speciﬁcally links the cash ﬂows related to
+service cost and interest cost to bonds maturing in their year of payment.
+The beneﬁt obligation for pension plans in Canada, the UK. and Germany represents 91% of the non-US. pension beneﬁt obligation at December 31,
+2016. The discount rates for plans in Canada, the UK. and Germany are determined using a cash ﬂow matching approach similar to the US. approach.
+Plan Asset Valuation Due to the lack of timely available market information for certain investments in the asset classes described below as well as the
+inherent uncertainty of valuation, reported fair values may differ from fair values that would have been used had timely available market information been
+available.
+Common and Preferred Stock Common and preferred stock for which market prices are readily available at the measurement date are valued at the last
+reported sale price or official closing price on the primary market or exchange on which they are actively traded and are classiﬁed in Level 1. Such equity
+securities for which the market is not considered to be active are valued via the use of observable inputs, which may include, among others, the use of
+adjusted market prices last available, bids or last available sales prices and/or other observable inputs and are classiﬁed in Level 2. Common and preferred
+stock classiﬁed in Level 3 are privately issued securities or other issues that are valued via the use of valuation models using signiﬁcant unobservable inputs
+that generally consider, among others, aged (stale) pricing, earnings multiples, discounted cash ﬂows and/or other qualitative and quantitative factors.
+Debt Securities Valuations for debt securities are based on quotations received from independent pricing services or from dealers who make markets in
+such securities. Debt securities priced via pricing services that utilize matrix pricing which considers readily observable inputs such as the yield or price of
+bonds of comparable quality, coupon, maturity and type as well as dealer supplied prices, are classiﬁed in Level 2. Debt securities that are typically priced by
+dealers and pricing services via the use of proprietary pricing models which incorporate signiﬁcant unobservable inputs are classiﬁed in Level 3. These
+inputs primarily consist of yield and credit spread assumptions, discount rates, prepayment curves, default assumptions and recovery rates.
+Investment Funds, Private Equity and Debt Investments and Real Estate Investments Investment funds, private equity and debt investments and real estate
+investments are valued based on the Net Asset Value (NAV) per Share (or its equivalent) as a practical expedient to estimate fair value due to the absence of
+readily available market prices.
+NAV‘s are provided by the respective investment sponsors or investment advisers and are subsequently reviewed and approved by management. In the
+event management concludes a reported NAV does not reﬂect fair value or is not determined as of the ﬁnancial reporting measurement date, we will consider
+whether and when deemed necessary to make an adjustment at the balance sheet date. In determining whether an adjustment to the external valuation is
+required, we will review material factors that could affect the valuation, such as changes in the composition or performance of the underlying investments or
+comparable investments, overall market conditions, expected sale prices for private investments which are probable of being sold in the short-term and other
+economic factors that may possibly have a favorable or unfavorable effect on the reported external valuation.
+Stock Incentive Plans Our stock incentive plans include RSUs, RSAs, Performance Share Units (PSUs) and stock options. We measure and record
+compensation expense based on the fair value of our common stock on the date of grant for RSUs, RSAs and PSUs and the grant date fair value of stock
+options determined utilizing a lattice model or the Black-Scholes-Merton formula. Compensation cost for awards that do not have an established accounting
+grant date is based on the fair value of our common stock at the end of each reporting period. We record compensation cost for RSUs, RSAs and PSUs on a
+straight-line basis over the entire vesting period, or for retirement eligible employees over the requisite service period. We use the graded vesting method to
+record compensation cost for stock options over the lesser of the vesting period or the time period an employee becomes eligible
+5 3

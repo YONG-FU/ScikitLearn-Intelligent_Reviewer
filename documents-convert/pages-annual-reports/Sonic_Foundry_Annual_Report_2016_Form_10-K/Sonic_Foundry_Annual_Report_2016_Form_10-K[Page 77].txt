@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+the Company compares the estimated fair value of the goodwill to its carrying value. The second step, if necessary, measures the
+amount of impairment, if any, by comparing the implied fair value of goodwill to its carrying value.
+In ﬁscal 2016 and 2015, we performed the two-step goodwill test and determined that the fair value of goodwill was more than
+the carrying value. For purposes of the ﬁscal 2016 and 2015 tests, goodwill balances are evaluated within three separate reporting
+units. The Company has recognized no impairment charges as of September 30, 2016 or as of September 30, 2015.
+If we had determined that the fair value of goodwill is less than its carrying value, based upon the annual test or the existence of
+one or more indicators of impairment, we would then measure impairment based on a comparison of the implied fair value of
+goodwill with the carrying amount of goodwill. To the extent the carrying amount of goodwill is greater than the implied fair
+value of goodwill, we would record an impairment charge for the difference.
+Long-lived assets and intangible assets other than goodwill are evaluated for impairment whenever events or changes in
+circumstances indicate that the carrying value of an asset may not be recoverable based on expected undiscounted cash ﬂows
+attributable to that asset. For the years ended September 30, 2016 and 2015, no events or changes in circumstances occurred that
+required this analysis.
+Valuation allowance for net deferred tax assets
+Deferred tax assets and liabilities are determined based on differences between the financial statement and tax bases of assets and
+liabilities using enacted tax rates in effect in the years in which the differences are expected to reverse. We do not provide for
+US. income taxes on the undistributed earnings of our foreign subsidiaries, which we consider to be permanently invested outside
+of the US.
+We make judgments regarding the realizability of our deferred tax assets. The balance sheet carrying value of our net deferred
+tax assets is based on whether we believe that it is more likely than not that we will generate sufficient future taxable income to
+realize these deferred tax assets after consideration of all available evidence. We regularly review our deferred tax assets for
+recoverability considering historical profitability, projected future taxable income, the expected timing of the reversals of existing
+temporary diﬁerences and tax planning strategies. In assessing the need for a valuation allowance, we consider both positive and
+negative evidence related to the likelihood of realization of the deferred tax assets. The weight given to the positive and negative
+evidence is commensurate with the extent to which the evidence may be objectively verified. As such, it is generally difficult for
+positive evidence regarding projected future taxable income exclusive of reversing taxable temporary differences to outweigh
+objective negative evidence of recent ﬁnancial reporting losses. Generally, cumulative loss in recent years is a significant piece
+of negative evidence that is difficult to overcome in determining that a valuation allowance is not needed.
+As of September 30, 2016 and 2015, valuation allowances have been established for all US. and for certain foreign deferred tax
+assets which we believe do not meet the “more likely than not” criteria for recognition. If we are subsequently able to utilize all
+or a portion of the deferred tax assets for which a valuation allowance has been established, then we may be required to recognize
+these deferred tax assets through the reduction of the valuation allowance which could result in a material benefit to our results
+of operations in the period in which the benefit is determined.
+Accounting for stock-based compensation
+The Company uses a lattice valuation model to account for all employee stock options granted. The lattice valuation model is a
+more ﬂexible analysis to value options because of its ability to incorporate inputs that change over time, such as actual exercise
+behavior of option holders. The Company uses historical data to estimate the option exercise and employee departure behavior
+in the lattice valuation model. Expected volatility is based on historical volatility of the Company’s stock. The Company considers
+all employees to have similar exercise behavior and therefore has not identified separate homogenous groups for valuation. The
+expected term of options granted is derived from the output of the option pricing model and represents the period of time that
+37

@@ -1,0 +1,25 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+16. Stock Option and Stock Award Plans (Continued)
+Stock Options
+The Company determines the fair value of stock options issued on the date of grant using the
+Black-Scholes-Merton option—pricing model. The following weighted average assumptions were used for
+options granted in fiscal 2016, 2015 and 2014:
+2016 2015 2014
+Expected stock price volatility(1). . . . . . . . . . . . . . 56% 74% 85%
+Expected dividend yield(2) . . . . . . . . . . . . . . . . . . 0.00% 0.00% 0.00%
+Risk-free interest rate(3) . . . . . . . . . . . . . . . . . . . 1.70% 1.70% 1.45%
+Expected option 1ife(4). . . . . . . . . . . . . . . . . . . . . 5.5 years 5.5 years 5.5 years
+(1) The expected volatility is based on the historical volatility of the stock price over the most
+recent period equal to expected life of the option.
+(2) The dividend rate that will be paid out on the underlying shares during the expected term
+of the options. The Company does not currently pay dividends on its common stock, as
+such, the dividend rate is assumed to be zero percent.
+(3) The risk free interest rate is equal to the rate available on United States Treasury
+zero-coupon issues as of the grant date of the option with a remaining term equal to the
+expected term.
+(4) The period of time for which the option is expected to be outstanding. The Company
+analyzed historical exercise behavior.
+127

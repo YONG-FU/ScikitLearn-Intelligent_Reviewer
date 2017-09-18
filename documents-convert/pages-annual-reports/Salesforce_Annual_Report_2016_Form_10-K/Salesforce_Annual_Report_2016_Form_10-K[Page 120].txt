@@ -1,0 +1,41 @@
+9. Earnings/Loss Per Share
+Basic earnings/loss per share is computed by dividing net income (loss) by the weighted-average number of
+common shares outstanding for the ﬁscal period. Diluted earnings/loss per share is computed by giving effect to
+all potential weighted average dilutive common stock, including options, restricted stock units, warrants and the
+convertible senior notes. The dilutive effect of outstanding awards and convertible securities is reﬂected in
+diluted earnings per share by application of the treasury stock method. Diluted loss per share for fiscal 2016,
+2015 and 2014 are the same as basic loss per share as there is a net loss in these periods and inclusion of
+potentially issuable shares is anti-dilutive.
+A reconciliation of the denominator used in the calculation of basic and diluted loss per share is as follows
+(in thousands):
+: Fiscal Year Ended January 31, :
+: 2016 : : 2015 : : 2014 :
+Numerator:
+Netloss $(47,426) $(262,688) $(232,175)
+Denominator:
+Weighted-average shares outstanding for basic loss
+pershare................................. 661,647 624,148 597,613
+Effect of dilutive securities:
+Convertibleseniornotes 0 0 0
+Employeestockawards................... 0 0 0
+Warrants............................... 0 0 0
+Adjusted weighted-average shares outstanding and
+assumed conversions for diluted loss per share . . . 661,647 624,148 597,613
+The weighted-average number of shares outstanding used in the computation of basic and diluted
+earnings/loss per share does not include the effect of the following potential outstanding common stock. The
+effects of these potentially outstanding shares were not included in the calculation of diluted earnings/loss per
+share because the effect would have been anti-dilutive (in thousands):
+7 Fiscal Year Ended January 31, 7
+2016 : : 2015 : : 2014
+EmployeeStockawards 26,615 22,157 19,664
+Convertibleseniornotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 17,309 25,953 43,965
+Warrants 17,309 37,517 44,253
+10. Commitments
+Letters of Credit
+As of January 31, 2016, the Company had a total of $81.9 million in letters of credit outstanding
+substantially in favor of certain landlords for office space. These letters of credit renew annually and expire at
+various dates through December 2030.
+Leases
+The Company leases facilities space and certain ﬁxed assets under non-cancelable operating and capital
+leases with various expiration dates.
+1 13

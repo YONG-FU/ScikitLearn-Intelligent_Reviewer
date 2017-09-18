@@ -1,0 +1,44 @@
+Problems with enforcing our intellectual property rights or using third party intellectual property could negatively affect our business, ﬁnancial
+condition and ﬁnancial results.
+We rely on a combination of contractual rights, trademarks, trade secrets, patents and copyrights to establish and protect intellectual property rights
+and other proprietary rights in our products and services. These intellectual property rights or other proprietary rights might be challenged, invalidated or
+circumvented. The steps we have taken to protect our proprietary information may not prevent its misuse, theft or misappropriation. Competitors may
+independently develop technologies or products that are substantially equivalent or superior to our products or that inappropriately incorporate our
+intellectual property rights or other proprietary technology into their products. Competitors may hire our former employees who may misappropriate our
+intellectual property rights or other proprietary technology. Some jurisdictions may not provide adequate legal protection of our intellectual property rights
+or other proprietary technology.
+We may have to defend or assert our rights in intellectual property that we use in our services, and we could be found to infringe the intellectual
+property rights of others, which could be disruptive and expensive to our business.
+We may have to defend against claims that we or our customers are inﬁinging the rights of third parties in patents, copyrights, trademarks and other
+intellectual property. If we acquire technology to include in our products from third parties, our exposure to inﬁingement actions may increase because we
+must rely upon these third parties to verify the origin and ownership of such technology. Also, we may be required to spend signiﬁcant resources to monitor
+and protect our intellectual property rights, including initiating claims or litigation against third parties for infringement or misappropriation. Intellectual
+property litigation and controversies are disruptive and expensive, Whether or not resolved in our favor. Even unmeritorious claims brought against us or our
+customers may harm our reputation and customer relationships, may cause us to incur signiﬁcant legal and other fees to defend, and may have to be settled
+for signiﬁcant amounts. Infringement claims against us could require us to develop non-infringing services or enter into expensive royalty or licensing
+arrangements. Our business, ﬁnancial condition and ﬁnancial results could be materially adversely affected if we are not able to develop non-infringing
+technology or license technology on commercially reasonable terms.
+We may face risks from using “open source” software that could negatively affect our business, ﬁnancial condition and ﬁnancial results.
+Like many other software companies, we use “open source” software in order to take advantage of common industry building blocks and to add
+functionality to our products quickly and inexpensively. Open source software license terms could adversely affect our intellectual property rights in our
+products that include open source software. Depending upon how the open source software is deployed, we could be required to offer products that use the
+open source software for no cost, or make available the source code for modiﬁcations or derivative works. Any of these obligations could have an adverse
+impact on our intellectual property rights and revenue from products incorporating the open source software. Using open source code could also cause us to
+inadvertently inﬁinge third-party intellectual property rights or require us to publicly disclose proprietary information. We have processes and controls in
+place that are designed to address these risks and concerns, but we cannot be sure that our process or controls will be sufﬁcient to mitigate all risk in this
+regard. Open source software might also introduce security vulnerabilities or defective functionality. The open source community may not always respond
+with adequate urgency to mitigate the impacts of such defects.
+We rely on the availability of third-party intellectual property, which may not be accessible to us on reasonable terms or at all.
+Some of our products include third party intellectual property, which may require licenses from third parties. Based on past experience and industry
+practice, we believe that such licenses can be obtained on reasonable terms; however, there can be no assurance that we will be able to obtain the necessary
+licenses for new or current products on acceptable terms or at all. Failure to obtain such licenses may limit our ability to sell our products, which could have a
+material adverse effect on our business, ﬁnancial condition and ﬁnancial results.
+We may fail to recruit and retain key personnel, which could impair our ability to meet key objectives.
+Our success depends on our ability to attract and retain highly-skilled technical, managerial, sales, and marketing personnel. Changes in key
+personnel may be disruptive to our business. It could be difﬁcult, time consuming and expensive to replace key personnel. Integrating new key personnel
+may be difﬁcult and costly. Volatility, lack of positive performance in our stock price or changes to our overall compensation program including our stock
+incentive program may adversely affect our ability to retain key employees, many of whom are compensated, in part, based on the performance of our stock
+price. The loss of services of any of our key personnel, the inability to retain and attract qualiﬁed personnel in the ﬁlture or delays in hiring required
+personnel could make it difﬁcult to meet key objectives. Any of these impairments related to our key personnel could negatively affect our business,
+ﬁnancial condition and ﬁnancial results.
+13

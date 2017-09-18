@@ -1,0 +1,50 @@
+Investments in Equity and Debt Securities
+The carrying values of our investments in equity securities are determined using the equity method, the cost method or the fair
+value method. We account for investments in companies that we do not control or account for under the equity method either at
+fair value or under the cost method, as applicable. Investments in equity securities, other than investments accounted for under
+the equity method, are carried at fair value if the fair value of the security is readily determinable. Equity investments carried at
+fair value are classified as either trading or available-for—sale securities. Realized and unrealized gains and losses on trading
+securities and realized gains and losses on available-for—sale securities are included in net income. Unrealized gains and losses,
+net of deferred taxes, on available-for—sale securities are included in our consolidated balance sheets as a component of
+accumulated other comprehensive income (loss) ("AOCI"), except for the change in fair value attributable to the currency risk
+being hedged, if applicable, which is included in net income. Trading securities are reported as either marketable securities or
+other assets in our consolidated balance sheets. Securities classiﬁed as available-for—sale are reported as either marketable
+securities or other investments in our consolidated balance sheets, depending on the length of time we intend to hold the
+investment. Investments in equity securities that do not qualify for fair value accounting or equity method accounting are
+accounted for under the cost method. In accordance with the cost method, our initial investment is recorded at cost and we
+record dividend income when applicable dividends are declared. Cost method investments are reported as other investments in
+our consolidated balance sheets.
+Our investments in debt securities are carried at either amortized cost or fair value. Investments in debt securities that the
+Company has the positive intent and ability to hold to maturity are carried at amortized cost and classified as held-to-maturity.
+Investments in debt securities that are not classified as held-to-maturity are carried at fair value and classified as either trading
+or available-for-sale.
+The following table presents the carrying values of our investments in equity and debt securities (in millions):
+Percentage
+Carrying of Total
+December 31, 2016 Value Assets1
+Equity method investments 38 16,260 19%
+Securities classified as available-for-sale 6,413 7
+Securities classified as trading 384 *
+Cost method investments 140 *
+Total $ 23,197 27%?
+* Accounts for less than 1 percent of the Company's total assets.
+1 The total percentage does not add due to rounding.
+Investments classified as trading securities are not assessed for impairment, since they are carried at fair value with the change
+in fair value included in net income. We review our investments in equity and debt securities that are accounted for using the
+equity method or cost method or that are classified as available-for-sale or held-to-maturity each reporting period to determine
+whether a significant event or change in circumstances has occurred that may have an adverse effect on the fair value of each
+investment. When such events or changes occur, we evaluate the fair value compared to our cost basis in the investment. We
+also perform this evaluation every reporting period for each investment for which our cost basis has exceeded the fair value.
+The fair values of most of our Company's investments in publicly traded companies are often readily available based on quoted
+market prices. For investments in nonpublicly traded companies, management's assessment of fair value is based on valuation
+methodologies including discounted cash ﬂows, estimates of sales proceeds and appraisals, as appropriate. We consider the
+assumptions that we believe hypothetical marketplace participants would use in evaluating estimated future cash ﬂows when
+employing the discounted cash ﬂow or estimates of sales proceeds valuation methodologies. The ability to accurately predict
+future cash ﬂows, especially in emerging and developing markets, may impact the determination of fair value.
+In the event the fair value of an investment declines below our cost basis, management is required to determine if the decline in
+fair value is other than temporary. If management determines the decline is other than temporary, an impairment charge is
+recorded. Management's assessment as to the nature of a decline in fair value is based on, among other things, the length of
+time and the extent to which the market value has been less than our cost basis, the financial condition and near-term prospects
+of the issuer, and our intent and ability to retain the investment for a period of time sufficient to allow for any anticipated
+recovery in market value.
+36

@@ -1,0 +1,53 @@
+CITRIX SYSTEMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+7. EMPLOYEE STOCK-BASED COMPENSATION AND BENEFIT PLANS
+Plans
+The Company’s stock-based compensation program is a long-term retention program that is intended to attract and
+reward talented employees and align stockholder and employee interests. As of December 31, 2016, the Company had one
+stock-based compensation plan under which it was granting equity awards. The Company is currently granting stock-based
+awards from its 2014 Equity Incentive Plan (the "2014 Plan"). In December 2014, the Company's Board of Directors approved
+the 2015 Employee Stock Purchase Plan (the “2015 ESPP”), which was approved by stockholders at the Company's Annual
+Meeting of Stockholders held on May 28, 2015. The 2015 ESPP has replaced the Company's Amended and Restated 2005
+Employee Stock Purchase Plan (as amended, the "2005 ESPP"). In connection with certain of the Company’s acquisitions, the
+Company has assumed certain plans from acquired companies. The Company’s Board of Directors has provided that no new
+awards will be granted under the Company’s acquired stock plans. The Company’s superseded and expired stock plans include
+the Amended and Restated 2005 Equity Incentive Plan and the 2005 ESPP.
+Under the terms of the 2014 Plan, the Company is authorized to grant incentive stock options (“ISOs”), non-qualified
+stock options (“NSOS”), non-vested stock, non-vested stock units, stock appreciation rights (“SARs”), and performance units
+and to make stock-based awards to full and part-time employees of the Company and its subsidiaries or aﬁiliates, where legally
+eligible to participate, as well as to consultants and non-employee directors of the Company. SARs and ISOs are not currently
+being granted. Currently, the 2014 Plan provides for the issuance of 29,000,000 shares of common stock. In addition, shares of
+common stock underlying any awards granted under the Company’s Amended and Restated 2005 Equity Incentive Plan, as
+amended, that are forfeited, canceled or otherwise terminated (other than by exercise) are added to its shares of common stock
+available for issuance under the 2014 Plan. Under the 2014 Plan, NSOs must be granted at exercise prices no less than fair
+market value on the date of grant. Non-vested stock awards may be granted for such consideration in cash, other property or
+services, or a combination thereof, as determined by the Company’s Compensation Committee of its Board of Directors. Stock-
+based awards are generally exercisable or issuable upon vesting. The Company ’s policy is to recognize compensation cost for
+awards with only service conditions and a graded vesting schedule on a straight-line basis over the requisite service period for
+the entire award. As of December 31, 2016, there were 20,068,672 shares of common stock reserved for issuance pursuant to
+the Company’s stock-based compensation plans, including authorization under its 2014 Plan to grant stock-based awards
+covering 15,584,300 shares of common stock.
+Under the 2015 ESPP, all full-time and certain part-time employees of the Company are eligible to purchase common
+stock of the Company twice per year at the end of a six-month payment period (a “Payment Period”). During each Payment
+Period, eligible employees who so elect may authorize payroll deductions in an amount no less than 1% nor greater than 10%
+of his or her base pay for each payroll period in the Payment Period. At the end of each Payment Period, the accumulated
+deductions are used to purchase shares of common stock from the Company up to a maximum of 12,000 shares for any one
+employee during a Payment Period. Shares are purchased at a price equal to 85% of the fair market value of the Company’s
+common stock, on either the first business day of the Payment Period or the last business day of the Payment Period, whichever
+is lower. Employees who, after exercising their rights to purchase shares of common stock in the 2015 ESPP, would own shares
+representing 5% or more of the voting power of the Company’s common stock, are ineligible to continue to participate under
+the 2015 ESPP. The 2015 ESPP provides for the issuance of a maximum of 16,000,000 shares of common stock. As of
+December 31, 2016, 3,872,661 shares had been issued under the 2005 ESPP. As of December 31, 2016, 974,830 shares have
+been issued under the 2015 ESPP. The Company recorded stock-based compensation costs related to its employee stock
+purchase plans of $8.8 million, $7.6 million and $5.2 million for the years ended December 31, 2016, 2015 and 2014,
+respectively.
+The Company used the Black-Scholes model to estimate the fair value of its Employee Stock Purchase Plan awards with
+the following weighted-average assumptions:
+Year Ended Year Ended
+December 31, 2016 December 31, 2015
+Expected volatility factor 027.041 035
+Risk free interest rate 0,25%—0_42% 025%
+Expected dividend yield 0% 0%
+Expected life (in years) 0.5 0.5
+The Company determined the expected volatility factor by considering the implied volatility in six-month market-traded
+F-21

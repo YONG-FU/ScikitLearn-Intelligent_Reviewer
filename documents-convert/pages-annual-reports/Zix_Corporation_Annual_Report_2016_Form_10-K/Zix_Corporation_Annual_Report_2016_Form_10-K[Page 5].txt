@@ -1,0 +1,42 @@
+Zix Email Encryption and ZixQuarantine focus on the secure (i.e., encrypted) delivery and data loss prevention sub-segments of the email security
+market. We view our primary competitors in this space to be Proofpoint Inc., Microsoft, Barracuda Networks, and Sophos Inc. Technically, while these
+companies offer “send-to-anyone” encrypted email, we believe they are unable to offer the beneﬁts that come from access to the ZixDirectory, use of our Best
+Method of Delivery protocol, and the industry’s only transparent email encryption. Nevertheless, some of these competitors are large enterprises with
+substantial ﬁnancial and technical resources that exceed those we possess.
+As discussed above, with the introduction of ZixOne, the Company entered the BYOD mobile device security market. In the BYOD market, we view
+our primary competitors as companies that provide enterprise mobility management (“EMM”), which includes but is not limited to mobile device
+management (“MDM”), containerization and app wrapping technology. EMM is premised on storing business data on an employee’s personally owned
+device. In order to secure business data on personal devices, EMM requires individual users to permit their employer access to and control over personally
+owned smartphones and tablet computers and therefore can create user concerns about loss of control and privacy of their devices. In contrast, ZixOne
+enables Android® or IOS® mobile devices to View remotely stored corporate email, calendar and contacts, and to interact with that data. ZixOne more
+effectively protects business email data by never allowing it to be stored on the device, where it might be subjected to exposure from theft or loss of the
+device. Moreover, ZixOne does not require employees to relinquish device control or personal privacy to their employer. We believe these differentiators
+make ZixOne an attractive BYOD solution. Competitors have an established brand in the market with substantial ﬁnancial and technical resources that
+exceed those we possess. We view our primary competitors in this space to be AirWatch/VMware, Citrix (with XenMobile), Good Technology (purchased by
+Blackberry), IBM/Fiberlink (with MaaS3 60), Microsoft (with ActiveSync), and MobileIron.
+Regulatory Drivers
+We have been successful in securing additional market penetration for Zix Email Encryption in our target vertical markets of healthcare, ﬁnance
+services and government due to regulations that address the need for data privacy and security.
+In addition to the need to protect personal data and sensitive business communication, demand for email encryption in the healthcare sector,
+including business associates of healthcare providers, is augmented by regulatory requirements under HIPAA and HITECH Act. The Privacy and Security
+rules under those acts provide severe penalties for violations, include strict breach notiﬁcation requirements, and allow states to pursue HIPAA Violations. In
+the ﬁnancial services industry, ﬁnancial institutions and their service providers are subject to the GLBA, which is enforced by the US. Federal Trade
+Commission (“FTC”). The FTC has issued guidance saying that businesses that transmit sensitive data by email should be sure to encrypt the data.
+In choosing an email security provider, companies are inﬂuenced by the solutions chosen by their regulators. Our customers include all of the federal
+regulators that comprise the FFIEC as well as the state banking regulators in more than twenty states. Our service is also a recommended solution of the
+Conference of State Bank Supervisors, whose members regulate the more than 4,800 state-chartered banks in the US.
+Additionally, state data breach laws and privacy regulations, along with highly publicized breaches, have enhanced security awareness in vertical
+markets outside of healthcare and ﬁnancial services and have prompted affected organizations to consider adopting systems that ensure data security and
+privacy. Even where there are no speciﬁc regulations, businesses may require email protection to adhere to evolving industry best practices for protecting
+sensitive information.
+Sales and Marketing
+We sell our Zix Email Encryption, Zix DLP and ZixOne Services through a direct sales force that focuses on larger businesses and a telesales force that
+focuses on small to medium-sized accounts. We also use a network of resellers and other distribution partners, including other service providers seeking an
+email encryption offering in an original equipment manufacturing (“OEM”)—like relationship. New ﬁrst year orders (“NFYOs”), deﬁned as the twelve month
+value of orders received from new customers, derived from our value-added resellers, OEM and third party distribution channels for 2016 were 57% of the
+total new ﬁrst year orders compared to 64% in 2015. Google, Inc. continues to be our largest third party reseller representing approximately 5% of NFYOs in
+2016. As of December 31, 2016, we had 270 value-added resellers and 139 managed security service providers across the US.
+Employees
+We had 201 employees as of December 31, 2016. The majority of our employees are located in Dallas, Texas. We also have a sales ofﬁce in
+Burlington, Massachusetts; and a smaller ofﬁce located in Ottawa, Ontario, Canada.
+5

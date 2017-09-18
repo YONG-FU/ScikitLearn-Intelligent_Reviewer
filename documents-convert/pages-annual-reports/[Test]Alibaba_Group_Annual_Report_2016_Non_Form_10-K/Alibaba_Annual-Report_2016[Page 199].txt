@@ -1,0 +1,50 @@
+Taxation of Dividends
+Subject to the discussion under “— Passive Foreign Investment Company” below, the gross amount of
+distributions on the ADSs or ordinary shares (including any amounts withheld to reﬂect PRC withholding taxes)
+will be taxable as dividends, to the extent paid out of our current or accumulated earnings and profits, as
+determined under United States federal income tax principles. Such income (including withheld taxes) will be
+includable in your gross income as ordinary income on the day actually or constructively received by you, in the
+case of the ordinary shares, or by the depositary, in the case of ADSs. Such dividends will not be eligible for the
+dividends received deduction allowed to corporations under the Code. The following discussion assumes that all
+dividends will be paid in US. dollars.
+With respect to non-corporate United States investors, certain dividends received from a qualified foreign
+corporation may be subject to reduced rates of taxation. A foreign corporation is treated as a qualified foreign
+corporation with respect to dividends received from that corporation on ordinary shares (or ADSs backed by such
+shares) that are readily tradable on an established securities market in the United States. United States Treasury
+Department guidance indicates that our ADSs (which are listed on the New York Stock Exchange) are readily
+tradable on an established securities market in the United States. Thus, we believe that dividends we pay on our
+ordinary shares that are represented by ADSs will meet the conditions required for the reduced tax rate. Since we
+do not expect that our ordinary shares will be listed on an established securities market, we do not believe that
+dividends that we pay on our ordinary shares that are not represented by ADSs currently meet the conditions
+required for these reduced tax rates. There can be no assurance that our ADSs will be considered readily tradable
+on an established securities market in subsequent years. A qualified foreign corporation also includes a foreign
+corporation that is eligible for the benefits of certain income tax treaties with the United States. In the event that
+we were deemed to be a PRC resident enterprise under the EIT Law, although no assurance can be given, we
+might be eligible for the benefits of the income tax treaty between the United States and the PRC, which is
+hereinafter referred to as the Treaty, and if we were eligible for such benefits, dividends we pay on our ordinary
+shares, regardless of whether such shares are represented by ADSs, would be eligible for the reduced rates of
+taxation. See “— People’s Republic of China Taxation.” Non-corporate United States Holders that do not meet a
+minimum holding period requirement during which they are not protected from the risk of loss or that elect to
+treat the dividend income as “investment income” pursuant to Section 163(d)(4) of the Code will not be eligible
+for the reduced rates of taxation regardless of our status as a qualified foreign corporation. In addition, the rate
+reduction will not apply to dividends if the recipient of a dividend is obligated to make related payments with
+respect to positions in substantially similar or related property. This disallowance applies even if the minimum
+holding period has been met. You should consult your own tax advisors regarding the application of these rules
+given your particular circumstances.
+Non-corporate United States Holders will not be eligible for reduced rates of taxation on any dividends
+received from us if we are a passive foreign investment company, or PFIC, in the taxable year in which such
+dividends are paid or in the preceding taxable year. See “— Passive Foreign Investment Company” below.
+In the event that we were deemed to be a PRC resident enterprise under the EIT Law, you might be subject
+to PRC withholding taxes on dividends paid to you with respect to the ADSs or ordinary shares. See “— People’s
+Republic of China Taxation.” In that case, subject to certain conditions and limitations, PRC withholding taxes on
+dividends would be treated as foreign taxes eligible for credit against your United States federal income tax
+liability. For purposes of calculating the foreign tax credit, dividends paid on the ADSs or ordinary shares will be
+treated as foreign-source income and will generally constitute passive category income. However, in certain
+circumstances, if you have held the ADSs or ordinary shares for less than a specified minimum period during
+which you are not protected from risk of loss, or are obligated to make payments related to the dividends, you will
+not be allowed a foreign tax credit for any PRC withholding taxes imposed on dividends paid on the ADSs or
+ordinary shares. If you are eligible for Treaty benefits, any PRC taxes on dividends will not be creditable against
+your United States federal income tax liability to the extent withheld at a rate exceeding the applicable Treaty rate.
+The rules governing the foreign tax credit are complex. You are urged to consult your tax advisor regarding the
+availability of the foreign tax credit under your particular circumstances.
+194

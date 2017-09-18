@@ -1,0 +1,13 @@
+﻿.idea/workspace.xml
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs
+/.idea
+/.idea
+/apiModel/__pycache__
+/__pycache__
+/Report_Reader/apiModel/__pycache__
+/ModuleDefinition/__pycache__

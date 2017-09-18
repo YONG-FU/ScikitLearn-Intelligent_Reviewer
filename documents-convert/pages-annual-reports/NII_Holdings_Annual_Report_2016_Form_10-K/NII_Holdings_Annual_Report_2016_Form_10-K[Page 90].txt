@@ -1,0 +1,42 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Capital Operating
+Leases Leases Total
+2017 $ 55,708 $ 126,011 $ 181,719
+12018 47,269 112,167 159,436 ‘
+2019 41,397 103,531 144,928
+12020 41,613 94,241 135,854 ‘
+2021 41,519 85,644 127,163
+’Thereafter 631,216 _ 203,718 _ 834,934 1
+Total minimum lease Qyments 85 8,722 725,312 1,5 84,034
+[Lessz imputed interest (762,000) _ — _ (762,000) 1
+Total $ 96,722 $ 725,312 $ 822,034
+Brazil RAN Sharing Commitment.
+In May 2016, Nextel Brazil entered into an amendment to a nationwide roaming voice and data services agreement with Telefonica Brazil, S.A., or
+Telefonica, to reduce the usage rates for roaming trafﬁc. Concurrently, Nextel Brazil entered into a 10-year RAN sharing agreement with Telefonica, under
+which Telefonica will permit Nextel Brazil to use some of its tower and equipment infrastructure to transmit telecommunications signals on Nextel Brazil's
+spectrum. Nextel Brazil expects to use this agreement to fulﬁll the regulatory coverage obligations under its spectrum licenses rather than utilizing its own
+network. These agreements require Nextel Brazil to meet certain minimum annual commitments over a ﬁve-year period totaling 800 million Brazilian reais,
+or approximately $246.2 million based on foreign currency exchange rates at the time, which replaced the remaining commitments under the original
+roaming agreement. Nextel Brazil was required to prepay 250 million Brazilian reais, or approximately $76.9 million based on foreign currency exchange
+rates at the time, shortly after the agreements became effective with receipt of regulatory approvals, which occurred in August 2016.
+We are allocating the aggregate 800 million Brazilian reais in minimum payments on a relative fair value basis to the services being received. We are
+recognizing approximately 318 million Brazilian reais on a ratable basis over a period of ﬁve years for the amended roaming agreement, which began in
+August 2016, and approximately 482 million Brazilian reais over a period of approximately eight years for the RAN sharing agreement, which began in
+October2016.
+In the fourth quarter of 2016, Nextel Brazil negotiated the early termination of leases for approximately 600 transmitter and receiver sites in connection
+with this RAN sharing agreement and recognized restructuring costs related to these terminations. See Note 4 for more information. We expect to incur
+restructuring costs of approximately $30.0 million in 2017 in connection with the termination of an additional 1,400 transmitter and receiver sites in low-
+usage areas.
+Equipment, Handsets and Other Commitments.
+We are a party to purchase agreements with various suppliers, under which we have committed to purchase equipment, network services and handsets
+that will be used or sold in the ordinary course of business. As of December 31, 2016, we are committed to purchase $439.1 million in total under these
+arrangements, which includes amounts related to the RAN sharing agreement discussed above, $276.2 million of which we are committed to pay in 2017,
+$87.9 million of which we are committed to pay in 2018 and 2019, and the remaining $75.0 million of which we are committed to pay in 2020 and 2021.
+These amounts do not represent our entire anticipated purchases in the future, but represent only those items that are the subject of contractual
+obligations. Our commitments are generally determined based on noncancelable quantities or termination amounts. We also purchase products and services
+as needed with no ﬁrm commitment. Amounts actually paid under some of these agreements will likely be higher due to variable components of these
+agreements. The more signiﬁcant variable components that determine the ultimate obligation owed include such items as hours contracted, subscribers and
+other factors. In addition, we are a party to various arrangements that are conditional in nature and obligate us to make payments only upon the occurrence of
+certain events, such as the delivery of functioning software or a product.
+F—33

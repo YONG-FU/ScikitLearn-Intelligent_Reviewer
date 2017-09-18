@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+- The systems through which we provide our products and services are highly technical, complex, and interdependent. Design errors might exist in these
+systems, or might be introduced when we make modifications, which might cause service malfunctions or require services to be taken ofﬂine while
+corrective responses are developed.
+- Despite our implementation of security measures, our servers and platforms are vulnerable to computer viruses, malware, worms, hacking, physical and
+electronic break-ins, router disruption, sabotage or espionage, and other disruptions from unauthorized access and tampering (including through social
+engineering such as phishing attacks), as well as coordinated denial-of-service attacks. We may not be in a position to promptly address attacks or to
+implement adequate preventative measures if we are unable to immediately detect such attacks. Such events could result in large expenditures to
+investigate or remediate, to recover data, to repair or replace networks, information systems, or platforms, including changes to security measures, to
+deploy additional personnel, to defend litigation or regulatory actions or to protect against similar future events, and may cause damage to our reputation or
+loss of revenue.
+- We rely on third-party providers over which we have little or no control for our principal Internet connections and co-location of a signiﬁcant portion of our
+data servers, as well as for our payment processing capabilities and key components or features of certain of our products and services. Any disruption of
+the services they provide us or any failure of these third-party providers to handle higher volumes of use could, in turn, cause delays or disruptions in our
+services and loss of revenue. In addition, if our agreements with these third-party providers are terminated for any reason, we might not have a readily
+available alternative.
+Prolonged delays or disruptions to our service could result in a loss of users, damage to our brands, legal costs or liability, and harm to our operating results.
+Technologies, tools, software, and applications could block our advertisements, impair our ability to deliver interest-based advertising, or shift the
+location in which advertising appears, which could harm our operating results.
+Technologies, tools, software, and applications (including new and enhanced browsers) have been developed and are likely to continue to be developed that can
+block or allow users to opt out of display, search, and interest-based advertising and content, delete or block the cookies used to deliver such advertising, or shift
+the location in which advertising appears on pages so that our advertisements do not show up in the most monetizable places on our pages or are obscured.
+Most of our revenue is derived from fees paid by advertisers in connection with the display of graphical and non—graphical advertisements or clicks on search
+advertisements on web pages. As a result, the adoption of such technologies, tools, software, and applications could reduce the number of search and display
+advertisements that we are able to deliver and/or our ability to deliver interest-based advertising and this, in turn, could reduce our advertising revenue and
+operating results.
+If we are unable to recruit, hire, motivate, and retain key personnel, we may not be able to execute our business plan.
+Our business is dependent on our ability to recruit, hire, motivate, and retain talented, highly skilled personnel. Achieving this objective may be difﬁcult due to
+many factors, including the pending Sale transaction with Verizon; the intense competition for such highly skilled personnel in the San Francisco Bay Area and
+other metropolitan areas where our ofﬁces are located; competitors’ hiring practices; the effectiveness of our compensation and retention programs; and
+ﬂuctuations in global economic and industry conditions. If we do not succeed in retaining and motivating our existing key employees, and in attracting new key
+personnel, we may be unable to meet our business plan and as a result, our revenue and proﬁtability may decline.
+23

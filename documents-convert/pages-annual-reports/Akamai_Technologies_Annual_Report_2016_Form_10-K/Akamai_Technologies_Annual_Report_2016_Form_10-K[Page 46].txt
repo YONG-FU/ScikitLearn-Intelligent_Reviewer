@@ -1,0 +1,47 @@
+Accounts Receivable and Related Reserves
+Trade accounts receivable are recorded at the invoiced amounts and do not bear interest. In addition to trade accounts
+receivable, our accounts receivable balance includes unbilled accounts that represent revenue recorded for customers that is
+typically billed within one month. We record reserves against our accounts receivable balance. These reserves consist of
+allowances for doubtful accounts and revenue from certain customers on a cash-basis. Increases and decreases in the allowance
+for doubtful accounts are included as a component of general and administrative expense in the consolidated statements of
+income. Increases in the reserve for cash-basis customers are recorded as a reduction of revenue. The reserve for cash-basis
+customers increases as services are provided to customers for which collection is no longer reasonably assured. The reserve
+decreases and revenue is recognized when and if cash payments are received.
+Estimates are used in determining these reserves and are based upon our review of outstanding balances on a customer-
+specific, account-by-account basis. The allowance for doubtful accounts is based upon a review of customer receivables from
+prior sales with collection issues where we no longer believe that the customer has the ability to pay for prior services provided.
+We perform ongoing credit evaluations of our customers. If such an evaluation indicates that payment is no longer reasonably
+assured for services provided, any future services provided to that customer will result in creation of a cash basis reserve until
+we receive consistent payments.
+Valuation and Impairment ofMarketable Securities
+We measure the fair value of our financial assets and liabilities at the end of each reporting period. Fair value is defined as
+the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most
+advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+We have certain financial assets and liabilities recorded at fair value (principally cash equivalents and short— and long-term
+marketable securities) that have been classified as Level 1, 2 or 3 within the fair value hierarchy. Fair values determined by
+Level 1 inputs utilize quoted prices (unadjusted) in active markets for identical assets or liabilities that we can access at the
+reporting date. Fair values determined by Level 2 inputs utilize data points other than quoted prices included within Level 1
+that are observable for the asset or liability, either directly or indirectly. Fair values determined by Level 3 inputs are based on
+unobservable data points for the asset or liability.
+Marketable securities are considered to be impaired when a decline in fair value below cost basis is determined to be other-
+than-temporary. We periodically evaluate whether a decline in fair value below cost basis is other-than-temporary by
+considering available evidence regarding these investments including, among other factors, the duration of the period that, and
+extent to which, the fair value is less than cost basis, the financial health of and business outlook for the issuer, including
+industry and sector performance and operational and financing cash flow factors, overall market conditions and trends and our
+intent and ability to retain our investment in the security for a period of time sufficient to allow for an anticipated recovery in
+market value. Once a decline in fair value is determined to be other-than-temporary, a write-down is recorded and a new cost
+basis in the security is established. Assessing the above factors involves inherent uncertainty. Write-downs, if recorded, could
+be materially different from the actual market performance of marketable securities in our portfolio if, among other things,
+relevant information related to our investments and marketable securities was not publicly available or other factors not
+considered by us would have been relevant to the determination of impairment.
+Impairment and Useful Lives ofLong-Lived Assets
+We review our long-lived assets, such as property and equipment and acquired intangible assets, for impairment whenever
+events or changes in circumstances indicate that the carrying amount of the assets may not be recoverable. Events that would
+trigger an impairment review include a change in the use of the asset or forecasted negative cash ﬂows related to the asset.
+When such events occur, we compare the carrying amount of the asset to the undiscounted expected future cash ﬂows related to
+the asset. If this comparison indicates that impairment is present, the amount of the impairment is calculated as the difference
+between the carrying amount and the fair value of the asset. If a readily determinable market price does not exist, fair value is
+estimated using discounted expected cash ﬂows attributable to the asset. The estimates required to apply this accounting policy
+include forecasted usage of the long-lived assets, the useful lives of these assets and expected future cash flows. Changes in
+these estimates could materially impact results from operations.
+44

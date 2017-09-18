@@ -1,0 +1,25 @@
+(f) If a payment made to a Lender hereunder or under any Note would be subject to US. federal withholding tax imposed pursuant to FATCA if such
+Lender were to fail to comply with the applicable reporting requirements of FATCA (including those contained in Sections 1471(b) or 1472(b) of the Internal
+Revenue Code, as applicable), such Lender shall provide each of the Administrative Agent, Mondelez and each applicable Borrower, at the time or times prescribed
+by law and as reasonably requested by the Administrative Agent, Mondeléz or the applicable Borrower, such documentation prescribed by applicable law
+(including as prescribed by Section 1471(b)(3)(C)(i) of the Internal Revenue Code) and such additional documentation reasonably requested by the Administrative
+Agent, Mondeléz or the applicable Borrower as may be necessary for the Administrative Agent, Mondeléz or the applicable Borrower to comply with their
+obligations under F ATCA and to determine whether such Lender has complied with such Lender’s obligations under FATCA and the amount, if any, to deduct and
+withhold from such payment. Thereafter, each such Lender shall provide additional documentation (i) to the extent documentation previously provided has become
+inaccurate or invalid or has otherwise ceased to be effective or (ii) as reasonably requested by the Administrative Agent, Mondeléz or the applicable Borrower.
+Solely for purposes of this paragraph (f), “FATCA” shall include any amendments made to FATCA after the date of this Agreement.
+(g) In the event that a Designated Subsidiary is a Foreign Subsidiary of Mondeléz, each Lender shall promptly complete and deliver to such
+Borrower and the Administrative Agent, or, at their request, to the applicable taxing authority, so long as such Lender is legally eligible to do so, any certificate or
+form reasonably requested in writing by such Borrower or the Administrative Agent and required by applicable law in order to secure any applicable exemption
+from, or reduction in the rate of, deduction or withholding of the applicable Home Jurisdiction Non-US. Withholding Taxes for which such Borrower is required to
+pay additional amounts pursuant to this Section 2.15.
+(h) Any Lender claiming any additional amounts payable pursuant to this Section 2.15 agrees to use reasonable efforts (consistent with its internal
+policy and legal and regulatory restrictions) to select or change the jurisdiction of its Applicable Lending Office if the making of such a selection or change would
+avoid the need for, or reduce the amount of, any such additional amounts that may thereafter accrue and would not, in the reasonable judgment of such Lender be
+otherwise materially economically disadvantageous to such Lender.
+(i) From and after the Effective Date, solely for purposes of F ATCA, the Borrowers and the Administrative Agent shall treat, and the Lenders hereby
+authorize the Borrowers and the Administrative Agent to treat, the Agreement and all advances made hereunder (including any Loans made under this Agreement
+or the Existing Credit Agreement) as not qualifying as “grandfathered obligations” within the meaning of Treasury Regulation section 1.1471-2(b)(2)(i).
+(j) Each Lender hereby authorizes the Administrative Agent to deliver to a Borrower and Mondeléz and to any successor Administrative Agent any
+documentation provided by such Lender to the Administrative Agent pursuant to paragraph (e), (f) or (g) of this Section 2.15.
+-3 1-

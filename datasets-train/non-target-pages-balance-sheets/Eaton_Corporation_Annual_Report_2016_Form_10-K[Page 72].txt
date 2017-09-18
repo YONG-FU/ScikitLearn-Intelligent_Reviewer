@@ -1,0 +1,49 @@
+CONDENSED CONSOLIDATING BALANCE SHEETS
+DECEMBER 31, 2015
+Eaton
+Corporation Eaton Other Consolidating
+plc Corporation Guarantors subsidiaries adjustments Total
+[Assets 7 ’7 ’7 ’7 ’7 ’7
+Current assets
+] Cash 8 — $ 26 $ 7 $ 235 $ — $ 268]
+Short—term investments — — 2 175 — 177
+[ Accounts receivable — net — 512 1,036 1,931 — 3,479]
+Intercompany accounts receivable 1 842 3,903 3,033 (7,779) —
+] Inventory — 357 658 1,388 (80) 2,323 ]
+Prepaid expenses and other
+current assets — 77 41 228 23 369
+] Total current assets * 1 1,814 5,647 6,990 (7,836)” 6,616]
+[Property, plant and equipment - net — 930 751 1,884 — 3,565 ]
+[Other noncurrent assets ]
+Goodwill — 1,355 6,295 5,829 — 13,479
+] Other intangible assets — 182 3,634 2,198 — 6,014]
+Deferred income taxes — 1,016 — 218 (872) 362
+] Investment in subsidiaries 29,627 12,931 60,216 9,968 (112,742) —]
+Intercompany loans receivable — 8,641 1,573 44,835 (55,049) —
+[ Other assets 7 —7 7 492 7 7 122 7 7 346 7 7 —7 7 960
+Total assets :$ 29,628 :53 27,361 :$ 78,238 is 72,268 :8 (176,499):$ 30,996:
+Liabilities and shareholders’
+equity
+[Current liabilities ]
+Short—term debt $ — $ 408 $ — $ 18 $ — $ 426
+[ Current portion of long—term debt — 1 240 1 — 242]
+Accounts payable — 392 266 1,100 — 1,758
+[ Intercompany accounts payable 219 4,009 2,380 1,171 (7,779) —]
+Accrued compensation — 77 53 236 — 366
+] Other current liabilities 7 1 T 644 T 319 T 874 T (5); 1,833
+Total current liabilities : 220 i : 5,531 i : 3,258 i : 3,400 i : (7,784): : 4,625 :
+Noncurrent liabilities
+] Long—term debt — 7,053 675 17 1 7,746]
+Pension liabilities — 639 165 782 — 1,586
+[ Other postretirement beneﬁts ]
+liabilities — 245 1 18 77 — 440
+Deferred income taxes — — 8 1 8 444 (872) 3 90
+] Intercompany loans payable 14,222 2,962 36,436 1,429 (5 5,049) —]
+Other noncurrent liabilities 7 —7 7 346 7 7 200 7 7 432 7 7 —7 7 978 7
+] Total noncurrent liabilities : 14,222 : 11,245 : 38,412 : 3,181 : (55,920): 11,140 ]
+[Shareholders’ equity ]
+Eaton shareholders’ equity 15,186 10,585 36,568 65,650 (112,803) 15,186
+[ Noncontrolling interests 7 — T — T — T 37 T 8 T 45
+Total equity : 15,186 : : 10,585: : 36,568: : 65,687: : (112,795): : 15,231 i
+] Total liabilities and equity :$ 29,628 :$ 27,361 :$ 78,238 :$ 72,268 :$ (176,499):$ 30,996 ]
+65

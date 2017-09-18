@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+this Annual Report. A summary of our domestic and international revenues and long-lived assets is set forth in Note 16 of Notes to Consolidated Financial
+Statements included elsewhere in this Annual Report.
+We also market our product offerings worldwide through indirect channels. The companies that comprise our indirect channel network are members of the Oracle
+Partner Network. The Oracle Partner Network is a global program that manages our business relationships with a large, broad-based network of companies,
+including independent software and hardware vendors, system integrators and resellers that deliver innovative solutions and services based upon our product
+offerings. By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the Oracle Partner
+Network program extends our market reach by providing our partners with the resources they need to be successful in delivering solutions to customers globally.
+The majority of our hardware products are sold through indirect channels including independent distributors and value-added resellers.
+Seasonality and Cyclicality
+Our quarterly revenues have historically been affected by a variety of seasonal factors, including the structure of our sales force incentive compensation plans,
+which are common in the technology industry. In each fiscal year, our total revenues and operating margins are typically highest in our fourth fiscal quarter and
+lowest in our first ﬁscal quarter. The operating margins of our businesses (in particular, our cloud software and on-premise software and hardware segments) are
+generally affected by seasonal factors in a similar manner as our revenues as certain expenses within our cost structure are relatively fixed in the short term. See
+“Selected Quarterly Financial Data” in Item 7 of this Annual Report for a more complete description of the seasonality and cyclicality of our revenues, expenses
+and margins.
+Competition
+We face intense competition in all aspects of our business. The nature of the IT industry creates a competitive landscape that is constantly evolving as ﬁrms
+emerge, expand or are acquired, as technology evolves and as customer demands and competitive pressures otherwise change.
+Our customers are demanding less complexity and lower total cost in the implementation, sourcing, integration and ongoing maintenance of their enterprise
+software and hardware. Our enterprise cloud and on-premise software and hardware offerings compete directly with some offerings from some of the largest and
+most competitive companies in the world, including Microsoft Corporation (Microsoft), International Business Machines Corporation (IBM), Intel, Hewlett-
+Packard Enterprise, SAP SE and Amazon.com, Inc. and smaller companies like salesforcecom, inc. and Workday, Inc., as well as many others. In addition, due to
+the low barriers to entry in many of our market segments, new technologies and new and growing competitors frequently emerge to challenge our offerings. Our
+competitors range from companies offering broad IT solutions across many of our lines of business to vendors providing point solutions, or offerings focused on a
+speciﬁc functionality, product area or industry. In addition, as we expand into new market segments, we face increased competition as we compete with existing
+competitors, as well as firms that may be partners in other areas of our business and other firms with whom we have not previously competed. Moreover, we or our
+competitors may take certain strategic actions—including acquisitions, partnerships and joint ventures, or repositioning of product lines—which invite even greater
+competition in one or more product offering categories.
+Key competitive factors in each of the segments in which we currently compete and may compete in the future include: total cost of ownership, performance,
+scalability, reliability, security, functionality, efficiency, speed to production and quality of technical support. Our product and service sales (and the relative
+strength of our products and services versus those of our competitors) are also directly and indirectly affected by the following, among other things:
+- the adoption of cloud-based IT offerings including SaaS, PaaS and IaaS offerings;
+- ease of deployment, use and maintenance of our products and services offerings;
+- compatibility between Oracle products and services deployed within on-premise IT environments and public cloud IT environments, including our Oracle
+Cloud environments;
+1 8

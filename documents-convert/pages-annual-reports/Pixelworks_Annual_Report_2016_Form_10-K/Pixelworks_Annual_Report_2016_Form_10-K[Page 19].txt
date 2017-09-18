@@ -1,0 +1,41 @@
+Our effective income tax rate is subject to unanticipated changes in, or different interpretations of tax rules and regulations and forecasting our effective
+income tax rate is complex and subject to uncertainty.
+As a global company, we are subject to taxation by a number of taxing authorities and as such, our tax rates vary among the jurisdictions in which we operate.
+Unanticipated changes in our tax rates could affect our future results of operations. Our effective tax rates could be adversely affected by changes in the mix
+of earnings in countries with differing statutory tax rates, changes in tax laws or the interpretation of tax laws either in the US. or abroad, or by changes in the
+valuation of our deferred tax assets and liabilities. The ultimate outcomes of any ﬁiture tax audits are uncertain, and we can give no assurance as to whether
+an adverse result from one or more of them would have a material effect on our operating results and ﬁnancial position.
+The computation of income tax expense is complex as it is based on the laws of numerous tax jurisdictions and requires signiﬁcant judgment on the
+application of complicated rules governing accounting for tax provisions under US generally accepted accounting principles. Income tax expense for
+interim quarters is based on our forecasted tax rate for the year, which includes forward looking ﬁnancial projections, including the expectations of proﬁt and
+loss by jurisdiction, and contains numerous assumptions. For these reasons, our tax rate may be materially different than our forecast.
+We rely upon certain critical information systems for the operation of our business, and the failure of any critical information system may result in serious
+harm to our business.
+We maintain and rely upon certain critical information systems for the effective operation of our business. These information systems include
+telecommunications, the Internet, our corporate intranet, various computer hardware and software applications, network communications and e-mail. These
+information systems are subject to attacks, failures and access denials from a number of potential sources including Viruses, destructive or inadequate code,
+power failures, and physical damage to computers, communication lines and networking equipment. To the extent that these information systems are under
+our control, we have implemented security procedures, such as Virus protection software and emergency recovery processes, to address the outlined risks.
+Security procedures for information systems cannot be guaranteed to be failsafe and our inability to use or access these information systems at critical times
+could compromise the timely and efﬁcient operation of our business. Additionally, any compromise of our information security could result in the
+unauthorized publication of our conﬁdential business or proprietary information, cause an interruption in our operations, result in the unauthorized release of
+customer or employee data, result in a Violation of privacy or other laws, or expose us to a risk of litigation or damage our reputation, any or all of which
+could harm our business and operating results.
+Environmental laws and regulations have caused us to incur, and may again cause us to incur, significant expenditures to comply with applicable laws
+and regulations, and we may be assessed considerable penalties for noncompliance.
+We are subject to numerous environmental laws and regulations. Compliance with current or future environmental laws and regulations could require us to
+incur substantial expenses which could harm our business, ﬁnancial condition and results of operations. We have worked, and will continue to work, with our
+suppliers and customers to ensure that our products are compliant with enacted laws and regulations. Failure by us or our contract manufacturers to comply
+with such legislation could result in customers refusing to purchase our products and could subject us to signiﬁcant monetary penalties in connection with a
+violation, either of which would have a material adverse effect on our business, ﬁnancial condition and results of operations.
+CompgyzRisksRelate,d,to,the,S,emiconductorilndusmyia nd,O,u1;Ma1:kets
+Our highly integrated products and high-speed mixed signal products are difficult to manufacture without defects and the existence of defects could result
+in increased costs, delays in the availability of our products, reduced sales of products or claims against us.
+The manufacture of semiconductors is a complex process and it is often difﬁcult for semiconductor foundries to produce semiconductors free of defects.
+Because many of our products are more highly integrated than other semiconductors and incorporate mixed signal analog and digital signal processing,
+multi—chip modules and embedded memory technology, they are even more difﬁcult to produce without defects. Defective products can be caused by design
+or manufacturing difﬁculties. Identifying quality problems can be performed only by analyzing and testing our semiconductors in a system after they have
+been manufactured. The difﬁculty in identifying defects is compounded because the process technology is unique to each of the multiple semiconductor
+foundries we contract with to manufacture our products. Despite testing by both our customers and us, errors or performance problems may be found in
+existing or new semiconductors. Failure to achieve defect-free products may result in increased costs and delays in the availability of our products.
+1 9

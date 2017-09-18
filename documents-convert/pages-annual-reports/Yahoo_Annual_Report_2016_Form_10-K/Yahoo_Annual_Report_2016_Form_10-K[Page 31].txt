@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+and update our methodologies for monitoring, gathering, and calculating these metrics. In addition, from time to time we provide, or rely on, certain other metrics,
+including those relating to the reach and effectiveness of our ads.
+While our metrics are based on what we believe to be reasonable measurements and methodologies, there are inherent challenges in deriving our metrics
+across large online and mobile populations around the world. In addition, our user metrics may differ from estimates published by third parties or from similar
+metrics of our competitors due to differences in methodology. Furthermore, over time we may revise or cease reporting certain metrics that we no longer believe
+are useful or meaningful measures of our performance and add new metrics which we believe are better measurements of performance.
+If advertisers, publishers or partners do not perceive our metrics to be accurate, or if we discover material inaccuracies in our metrics, it could negatively affect
+our reputation, business and ﬁnancial results.
+Any failure to scale and adapt our existing technology architecture to manage expansion of user-facing services and to respond to rapid
+technological change could adversely affect our business.
+As some of the most visited sites on the Internet, Yahoo Properties deliver a significant number of products, services, page views, and advertising impressions to
+users around the world. We expect our products and services to continue to expand and change signiﬁcantly and rapidly in the future to accommodate new
+technologies, new devices, new Internet advertising solutions, and new means of content delivery.
+In addition, widespread adoption of new Internet, networking or telecommunications technologies, or other technological or platform changes, could require
+substantial expenditures to modify or adapt our services or infrastructure. The technology architectures and platforms utilized for our services are highly complex
+and may not provide satisfactory security features or support in the future, as usage increases and products and services expand, change, and become more
+complex. In the future, we may make additional changes to our existing, or move to completely new, architectures, platforms and systems, such as the changes
+we have made in response to the increased use of mobile devices such as tablets and smartphones. Such changes may be technologically challenging to
+develop and implement, may take time to test and deploy, may cause us to incur substantial costs or data loss, and may cause changes, delays or interruptions
+in service. These changes, delays, or interruptions in our service may cause our users, Affiliates and other advertising platform participants to become
+dissatisﬁed with our service or to move to competing providers or seek remedial actions or compensation. Further, to the extent that demands for our services
+increase, we will need to expand our infrastructure, including the capacity of our hardware servers and the sophistication of our software. This expansion is likely
+to be expensive and complex and require additional technical expertise. As we acquire users who rely upon us for a wide variety of services, it becomes more
+technologically complex and costly to retrieve, store, and integrate data that will enable us to track each user’s preferences. Any difﬁculties experienced in
+adapting our architectures, platforms and infrastructure to accommodate increased trafﬁc, to store user data, and track user preferences, together with the
+associated costs and potential loss of trafﬁc, could harm our operating results, cash flows from operations, and ﬁnancial condition.
+We rely on third parties to provide the technologies necessary to deliver content, advertising, and services to our users, and any change in the
+licensing terms, costs, availability, or acceptance of these formats and technologies could adversely affect our business.
+We rely on third parties to provide the technologies that we use to deliver the majority of the content, advertising, and services to our users. There can be no
+assurance that these providers will
+30

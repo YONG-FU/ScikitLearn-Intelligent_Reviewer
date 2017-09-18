@@ -1,0 +1,42 @@
+Forward-Looking Statements
+This annual report on Form 1 0-K contains “forward-looking statements ” within the meaning of the Private Securities
+Litigation Reform Act of 1995. Theseforward-looking statements are subject to risks and uncertainties and are based on the
+beliefs and assumptions of our management based on information currently available to them. Use of words such as
+“believes, ” "continues," “expects, ” “anticipates, ” “intends, ” “plans, ” “estimates, ” “forecasts, ” “should, ” “may, ” “could, ”
+“likely ” or similar expressions indicates a forward-looking statement. F orward-looking statements are not guarantees of future
+performance and involve risks, uncertainties and assumptions. Important factors that could cause actual results to diﬁer
+materially from the forward-looking statements include, but are not limited to, those set forth under the heading “Risk
+Factors, ” elsewhere in this Annual Report on Form 1 0-K. We disclaim any obligation to update any forward-looking
+statements as a result of new information, future events or otherwise.
+PART I
+Item 1. Business
+Akamai provides cloud services for delivering, optimizing and securing content and business applications over the Internet.
+As a global leader in content delivery network, or CDN, services, our goal is to make the Internet fast, reliable and secure for
+our customers.
+Our Strategy —Addressing the Needs of our Customers in the Internet Age
+The Internet plays a crucial role in the way companies, government agencies and other enterprises conduct business and
+reach the public, but the world around us is rapidly evolving. In recent years, we have seen a dramatic increase in the use of
+social media for sharing photos, videos and ideas. More consumers are "cutting the cord" and consuming entertainment over the
+Internet rather than through traditional cable. Web pages are more complex with advertisements, videos, graphics and other
+third party content, causing speed and reliability to suffer. Online transactions and media are increasingly moving to mobile
+devices. More and more, government agencies want citizens to pay their taxes, submit applications and request information
+online. Security threats have grown more complex and arise more frequently. Enterprise applications are moving from behind
+the firewall to the cloud. Smart enterprises want to take advantage of these trends safely, profitably and intelligently.
+What our customers want to do:
+- provide consumers with superior online experiences when they access websites and applications from all types of
+devices from anywhere in the world;
+- handle transactions securely and protect sensitive information;
+- affordably present vibrant and engaging streaming content, including high definition, or HD, video, music and games;
+- leverage the growth in the use of mobile devices to reach more consumers and provide dynamic experiences;
+° scale and secure the enterprise network; and
+- receive data about usage of their websites and applications.
+What makes it diﬂicult to achieve those goals:
+- doing it yourself — building out data centers, coping with the technology changes, and dealing with sudden traffic
+spikes —- is difficult and expensive;
+- lack of a coordinated security system to protect against hackers, bots and other malefactors that want to steal assets
+and disrupt the functioning of the web;
+- mobile networks tend to be slower and less reliable than the fixed line Internet and present other challenges;
+- traffic congestion at data centers and between networks;
+- it can be difficult to understand actual user experiences given myriad devices and locations; and
+- coping with “last mile” issues —- such as bandwidth constraints between consumers and their Internet access provider.
+4

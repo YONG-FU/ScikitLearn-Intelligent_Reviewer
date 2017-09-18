@@ -1,0 +1,49 @@
+NII HOLDINGS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATENIENTS
+Predecessor Successor
+Company Reorganization Fresh Start Company
+June 30, 2015 Adjustments Adjustments July 1, 2015
+(in thousands)
+ASSETS
+ICurrent assets I
+Cash and cash equivalents $ 1,199,441 $ (776,306) (a) $ — $ 423,135
+I Short-term investments 97,395 — — 97,395 I
+Accounts receivable, net 174,649 — — 174,649
+I Handset and accessory inventory 49,835 — — 49,835 I
+Prepaid expenses and other 159,346 — (19,494) ((1) 139,852
+I Assets related to discontinued operations 242,487 — — 242,487 I
+Total current assets 1,923,153 (776,306) (19,494) 1,127,353
+IProperty, plant and equipment, net 1,079,947 — (376,519) (e) 703,428 I
+IntangibIe assets, net — 571,076 — 562,702 (1) 1,133,778
+IOther assets 516,235 — (18,739) (g) 497,496 I
+Assets related to discontinued operations 32,246 — (13,104) (h) 19,142
+I Total assets $ 4,122,657 $ (776,306) $ 134,846 $ 3,481,197 I
+I LIABILITIES AND STOCKHOLDERS’ (DEFICIT) EQUITY I
+Liabilities not subject to compromise
+I Current liabilities I
+Accounts payable $ 102,3 17 $ — $ — $ 102,3 17
+I Accrued expenses and other 323,480 — (2,677) (i) 320,803 I
+Deferred revenues 17,908 — (1,805) (j) 16,103
+I Current portion of long-term debt 667,617 — 2,616 (k) 670,233 I
+Liabilities related to discontinued operations 96,161 — (1,727) (h) 94,434
+I Total current liabilities 1,207,483 — (3,593) 1,203,890 I
+Long-term debt 176,738 — (72,355) (k) 104,383
+IOther long-term liabilities 149,632 — (56,541) (1) 93,091 I
+Liabilities related to discontinued operations 5,763 — 6,405 (h) 12,168
+I Total liabilities not subject to compromise 1,539,616 — (126,084) 1,413,532 I
+Liabilities subject to compromise 4,591,452 (4,591,452) (b) — —
+IStockholders’ (deﬁcit) equity I
+Undesignated preferred stock — Successor
+Company — — — —
+I Undesignated preferred stock — Predecessor I
+Comgy — — — —
+Common stock — Successor Company — 100 (b) — 100
+I Common stock — Predecessor Comgy 172 (172) (c) — — I
+Paid-in capital — Successor Company — 2,067,565 (b) — 2,067,565
+I Paid-in capital - Predecessor Compgy 1,522,320 (1,522,320) (c) — — I
+Accumulated deficit (2,418,560) 3,269,973 (c) (851,413) (m) —
+I Accumulated other comprehensive loss (1,112,343) — 1,112,343 (m) — I
+Total stockholders’ (deﬁcit) equity (2,008,411) 3,815,146 260,930 2,067,665
+I Total liabilities and stockholders’ (deﬁcit) I
+equity $ 4,122,657 $ (776,306) $ 134,846 $ 3,481,197
+F—l 7

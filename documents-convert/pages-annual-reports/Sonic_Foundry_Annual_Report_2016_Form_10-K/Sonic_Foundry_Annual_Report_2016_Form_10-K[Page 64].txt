@@ -1,0 +1,46 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+- Negative impact to our results of operations because of the depreciation and amortization of amounts related to acquired
+intangible assets, fixed assets and deferred compensation, and the loss of acquired deferred revenue and unbilled deferred
+revenue;
+- Delays in customer purchases due to uncertainty related to any acquisition;
+- The need to implement controls, procedures and policies at the acquired company;
+- Challenges caused by distance, language and cultural differences;
+- In the case of foreign acquisitions, the challenges associated with integrating operations across diﬁerent cultures and
+languages and currency, technological, employee and other regulatory risks and uncertainties in the economic, social and
+political conditions associated with specific countries; and
+- The tax effects of any such acquisitions.
+Our failure to successfully manage the acquisitions of Mediasite K and Sonic Foundry International, or other future acquisitions,
+strategic alliances or partnerships could seriously harm our operating results. In addition, our stockholders would be diluted if we
+finance the future acquisitions, strategic alliances or partnerships by incurring convertible debt or issuing equity securities.
+If potential customers or competitors use open source software to develop products that are competitive with our products and
+services, we may face decreased demand and pressure to reduce the prices for our products.
+The growing acceptance and prevalence of open source software may make it easier for competitors or potential competitors to
+develop software applications that compete with our products, or for customers and potential customers to internally develop
+software applications that they would otherwise have licensed from us. One of the aspects of open source software is that it can
+be modified or used to develop new software that competes with prOprietary software applications, such as ours. Such competition
+can develop without the degree of overhead and lead time required by traditional pr0prietary software companies. As open source
+offerings become more prevalent, customers may defer or forego purchases of our products, which could reduce our sales and
+lengthen the sales cycle for our products or result in the loss of current customers to open source solutions. If we are unable to
+differentiate our products from competitive products based on open source software, demand for our products and services may
+decline, and we may face pressure to reduce the prices of our products, which would hurt our profitability. If our use of open-
+source is challenged and construes unfavorably, our operating results could be adversely impacted.
+We use open source software in our application suite. Although we monitor our use of open source software closely, the terms of
+many open source licenses have not been interpreted by United States courts, and there is risk that such licenses could be construed
+in a manner that imposes unanticipated conditions or restrictions on our ability to commercialize our products. In such event, we
+could be required to re-engineer our technology or to discontinue offering all or a portion of our products in the event re-
+engineering cannot be accomplished on a timely basis, any of which could adversely aﬁect our business, operating results and
+ﬁnancial condition.
+Our customers may use our products to share conﬁdential and sensitive information, and if our system security is breached,
+our reputation could be harmed and we may lose customers.
+Our customers may use our products and services to share conﬁdential and sensitive information, the security of which is critical
+to their business. Third parties may attempt to breach our security for customer hosted content or the networks of our customers.
+Malicious third-parties may also conduct attacks designed to temporarily deny customers access to our services. Customers may
+take inadequate security precautions with their sensitive information and may inadvertently make that information public. We
+may be liable to our customers or subject to fines for a breach in security, and any breach could harm our reputation and cause us
+to lose customers. In addition, customers are vulnerable to computer viruses, physical or electronic break-ins and similar
+disruptions, which could lead to interruptions, delays or loss of data. We may be required to expend significant capital and other
+resources to further protect against security breaches or to resolve problems caused by any breach, including litigation-related
+expenses if we are sued.
+24

@@ -1,0 +1,41 @@
+Weighted-average assumptions used in the actuarial computations to determine net periodic postretirement
+cost were as follows:
+December 25, December 27, December 28,
+201 6 201 5 201 4
+|Discount rate for determining projected benefit obligation 4.05% 3.74% 4.22%!
+Discount rate in effect for determining service cost 4.24% 3.74% 4.22%
+[Discount rate in effect for determining interest cost 2.96% 3.74% 4.22%]
+Estimated increase in compensation level 3.50% 3.50% 3.50%
+The assumed health-care cost trend rates were as follows:
+December 25, December 27,
+201 6 2015
+lHeaIth-care cost trend rate 8.00% 7.20%!
+Rate to which the cost trend rate is assumed to decline (ultimate trend rate) 5.00% 5.00%
+[Year that the rate reaches the ultimate trend rate 2025 2023 l
+Because our health-care plans are capped for most participants, the assumed health-care cost trend rates do not
+have a significant effect on the amounts reported for the health-care plans. A one-percentage point change in assumed
+health-care cost trend rates would have the following effects:
+One-Percentage Point
+(In thousands) Increase Decrease
+|Effect on total service and interest cost for 2016 $ 56 $ (51 )1
+Effect on accumulated postretirement benefit obligation as of December 25, 2016 $ 2,352 $ (2,061)
+The following benefit payments (net of plan participant contributions) under our Company’s postretirement
+plans, which reﬂect expected future services, are expected to be paid:
+(In thousands) Amount
+l 201 7 $ 7,227 l
+201 8 6,795
+[201 9 6,303 I
+2020 5,890
+[2021 5,466 I
+2022-2026 (1) 21,984
+( 1) While benefit payments under these plans are expected to continue beyond 2026, we have presented in this table only those benefit
+payments estimated over the next 10 years.
+We accrue the cost of certain benefits provided to former or inactive employees after employment, but before
+retirement. The cost is recognized only when it is probable and can be estimated. Benefits include life insurance,
+disability benefits and health-care continuation coverage. The accrued obligation for these benefits amounted to $11.4
+million as of December 25, 2016 and $12.9 million as of December 27, 2015.
+In October 2014, the SOA released new mortality tables that increased life expectancy assumptions. During the
+fourth quarter of 2014, we adopted the new mortality tables and revised the mortality assumptions used in
+determining our pension and postretirement benefit obligations. The net impact to our postretirement obligations
+resulting from the new mortality assumptions was an increase of $4.2 million.
+THE NEW YORK TIMES COMPANY — P. 87

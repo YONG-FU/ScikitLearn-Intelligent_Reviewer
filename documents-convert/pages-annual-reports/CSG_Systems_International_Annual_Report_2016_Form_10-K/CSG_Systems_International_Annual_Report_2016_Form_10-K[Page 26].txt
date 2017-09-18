@@ -1,0 +1,41 @@
+Stock-Based Compensation Expense
+Stock-based compensation expense is included in the following captions in our Income Statement (in thousands):
+2016 2015 2014
+l _ — —
+Cost of cloud and related solut10ns $ 3,958 $ 2,589 $ 3,203 j
+Cost of software and services 1,348 2,563 1,071
+:Cost of maintenance 371 204 201 1
+Research and development 3,339 3,206 2,343
+|Selling,_general and administrative 13,779 12,809 9,837 l
+Restructuring (80 )_ (241 )_ -
+j Total stock-based compensation expense 22,715 _$ 21,130 _$ 16,655]
+See Notes 2 and 11 to our Financial Statements for additional discussion of our stock-based compensation expense.
+Amortization of Acquired Intangible Assets
+Amortization of acquired intangible assets is included in the following captions in our Income Statement (in thousands):
+2016 _ 2015 _ 2014
+{Cost of cloud and related solutions 1,092 $ 1,347 $ 1,305 j
+Cost of maintenance 7,397 _ 10,636 _ 14,103
+I Total amortization of acquired intangible assets 8,489 _$ 11,983 _$ 15,408]
+See Note 4 to our Financial Statements for additional discussion of our amortization of acquired intangible assets.
+Critical Accounting Policies
+The preparation of our Financial Statements in conformity with accounting principles generally accepted in the US. requires us to select appropriate accounting policies,
+and to make judgments and estimates affecting the application of those accounting policies. In applying our accounting policies, different business conditions or the use
+of different assumptions may result in materially different amounts reported in our Financial Statements.
+We have identified the most critical accounting policies that affect our financial position and the results of our operations. These critical accounting policies were
+determined by considering our accounting policies that involve the most complex or subjective decisions or assessments. The most critical accounting policies identified
+relate to: (i) revenue recognition; (ii) impairment assessments of goodwill and other long-lived assets; (iii) income taxes; and (iv) loss contingencies. These critical
+accounting policies, as well as our other significant accounting policies, are disclosed in the notes to our Financial Statements.
+Revenue Recognition. The revenue recognition policy that involves the most complex or subjective decisions or assessments that may have a material impact on our
+business’ operations relates to the accounting for certain software license and services arrangements. For the 2016, 2015, and 2014, software and services revenues was
+approximately 10%, 12% and 14%, respectively, of our total revenues.
+The accounting for software license arrangements, especially when software is sold in a multiple-element arrangement, can be complex and may require considerable
+judgment. Key factors considered in accounting for software license and related services include the following criteria: (i) the identification of the separate elements of
+the arrangement; (ii) the determination of whether any undelivered elements are essential to the functionality of the delivered elements; (iii) the assessment of whether
+the software, if hosted, should be accounted for as a services arrangement and thus outside the scope of the software revenue recognition literature; (iv) the determination
+of vendor specific objective evidence (“VSOE”) of fair value for the undelivered element(s) of the arrangement; (v) the assessment of whether the software license fees
+are fixed or determinable; (vi) the determination as to whether the fees are considered collectible; and (Vii) the assessment of whether services included in the
+arrangement represent significant production, customization or modification of the software. The evaluation of these factors, and the ultimate revenue recognition
+decision, requires significant judgments to be made by us. The judgments made in this area could have a significant effect on revenues recognized in any period by
+changing the amount and/or the timing of the revenue recognized. In addition, because software licenses typically have little or no direct, incremental costs related to the
+recognition of the revenue, these judgments could also have a significant effect on our results of operations.
+25

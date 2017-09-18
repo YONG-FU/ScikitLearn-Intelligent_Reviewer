@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+For originally developed content, the Company performs regular recoverability assessments on a program-by—program basis. If there are any events or changes
+in circumstances indicating that the Company should assess whether the fair value of originally developed content is less than its unamortized costs, the
+Company performs a fair value analysis using an expected cash ﬂow approach. The amount by which the unamortized costs of the originally developed content
+exceed estimated fair value is charged to expense as an asset impairment. During the year ended December 31, 2015, the Company recorded an asset
+impairment charge of $16 million related to originally developed content.
+For acquired content, the Company compares the net realizable value on a program-by—program basis with the unamortized cost. The amount by which the
+unamortized costs of the acquired content exceed net realizable value is charged to expense as an asset impairment. During the year ended December 31 ,
+2015, the Company recorded an asset impairment charge of $28 million related to acquired content, primarily driven by a reduction of forecasted revenues to be
+generated from advertising on Yahoo Properties.
+Investments in Equity Interests. Investments in the common stock of entities in which the Company can exercise signiﬁcant inﬂuence but does not own a
+majority equity interest or othenNise control are accounted for using the equity method and are included as investments in equity interests on the consolidated
+balance sheets. The Company records its share of the results of these companies one quarter in arrears within earnings in equity interests in the consolidated
+statements of operations. Investments in privately held equity interests in which the Company cannot exercise signiﬁcant inﬂuence are accounted for using the
+cost method of accounting.
+The Company reviews its investments for other-than-temporary impairment whenever events or changes in business circumstances indicate that the carrying
+value of the investment may not be fully recoverable. Investments identified as having an indication of impairment are subject to further analysis to determine if
+the impairment is other-than-temporary and this analysis requires estimating the fair value of the investment. The determination of fair value of the investment
+involves considering factors such as the stock prices of public companies in which the Company has an equity investment, current economic and market
+conditions, the operating performance of the companies including current earnings trends and forecasted cash flows, and other company and industry specific
+information.
+Leasing. The Company leases ofﬁce space and data centers under operating leases and certain data center equipment under capital lease agreements with
+original lease periods up to 15 years. Assets acquired under capital leases are amortized over the lesser of the useful life of the asset or the lease term. For the
+years ended December 31, 2014, 2015, and 2016, the Company expensed $5 million, $4 million, and $3 million of interest related to capital leases, respectively,
+which approximated the cash payments made for interest. As of December 31 , 2015 and 2016, the Company had net capital lease obligations included in other
+short-term and long-term liabilities on the consolidated balance sheets of $33 million and $23 million, respectively. Certain of the operating lease agreements
+contain rent holidays and rent escalation provisions. For purposes of recognizing these lease incentives on a straight-line basis over the term of the lease, the
+Company uses the date that the Company has the right to control the asset to begin rent expense. Lease renewal periods are considered on a
+lease-by—lease basis and are generally not included in the period of straight-line recognition of rent expense.
+The Company establishes assets and liabilities for the estimated construction costs incurred under build—to—suit lease arrangements to the extent the Company is
+involved in the construction of structural improvements or take construction risk prior to commencement of a lease. Upon the right to control the facilities under
+build-to-suit leases, the Company assesses whether these arrangements
+106

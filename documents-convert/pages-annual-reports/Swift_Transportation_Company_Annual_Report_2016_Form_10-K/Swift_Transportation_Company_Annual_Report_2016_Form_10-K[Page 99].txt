@@ -1,0 +1,52 @@
+Expected
+Adoption Date Financial
+Date Issued : :Reference : :Description : :and Method : :Statement Impact :
+’January 2016-01: Financial The amendments in this ASU address January Not expected
+2016 Instruments — various aspects of recognition, 2018, to be material.
+Overall (Subtopic measurement, presentation, and Modified
+825-10) — disclosure of financial instruments. retrospective
+Recognition and They additionally establish ASC Topic
+Measurement of 321 — Investments - Equity Securities,
+Financial Assets and which applies to investments in equity
+Financial Liabilities securities and other ownership interests
+in an entity, including investments in
+partnerships, unincorporated joint
+ventures, and limited liability companies.
+August 2015-14: Revenue This ASU deferred the effective date of January Currently
+2015 from Contracts With ASU 2014-09 (Topic 606) to annual 2018, under 1
+Customers (Topic reporting periods beginning after Modified evaluation ( )
+606) — Deferral of December 15, 2017. retrospective
+the Effective Date
+July 2015 2015-11: Inventory The amendments in this ASU simplify January Not expected
+(Topic 330) — subsequent measurement of inventory 2017, to be material.
+Simplifying the for all inventory measurement methods, prospective Due to the
+Measurement of except for last-in-first-out. Entities will nature of the
+inventory be required to measure inventory at the Company's
+lower of cost and net realizable value, inventory
+instead of the previously issued balances
+guidance of lower of cost or market. (spare parts,
+tires, fuel, and
+supplies),
+inventory is
+predominantly
+stated at cost.
+(1) Management is in the diagnostic phase of assessing the financial and business impacts of implementing ASC
+Topic 606, Revenue from Contracts With Customers, including identifying revenue sources within the Company's
+lines of business, reviewing a sample of contracts, and developing a preliminary assessment. Based upon
+these preliminary procedures, management anticipates that the following key considerations will impact the
+Company's accounting and reporting under the new standard:
+- identification of what constitutes a contract in Swift's business practices,
+- variability in individual contracts, such as customer-specific terms that may vary from the master agreement,
+- principal versus agent determinations,
+- timing of revenue recognition (for example, point-in-time versus over time and/or accelerated versus
+deferred),
+- single versus multiple performance obligations,
+- new/changed estimates and managementjudgments (for example, system estimation of in-transit accruals
+versus manual estimation),
+- disaggregation of revenue by category within segments, and
+- others.
+Management expects that there will also be changes in sales, contracting, accounting, reporting, tax, debt
+covenants, and other business processes, policies, and controls, as a result of implementing ASC Topic 606.
+The Company is currently underway with implementing a new ERP system, which will also affect the
+implementation process.
+95

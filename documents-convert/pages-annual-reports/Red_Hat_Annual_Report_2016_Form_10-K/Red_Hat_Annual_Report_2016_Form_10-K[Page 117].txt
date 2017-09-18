@@ -1,0 +1,43 @@
+RED HAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+The Indenture contains customary terms and covenants, including that upon certain events of default
+occurring and continuing, either the Trustee or the holders of at least 25% in principal amount of the outstanding
+convertible notes may declare 100% of the principal of, and accrued and unpaid interest, if any, on, all the
+convertible notes to be due and payable.
+In accounting for the issuance of the convertible notes, the Company separated the convertible notes into
+liability and equity components. The carrying amount of the liability component was calculated by measuring the
+estimated fair value of a similar liability that does not have an associated convertible feature. The carrying
+amount of the equity component representing the conversion option was determined by deducting the fair value
+of the liability component from the face value of the convertible notes as a whole. The excess of the face value of
+the convertible notes as a whole over the carrying amount of the liability component (the “debt discount”) is
+amortized to interest expense over the term of the convertible notes using the effective interest method with an
+effective interest rate of 2.86% per annum. The equity component is not remeasured as long as it continues to
+meet the conditions for equity classification.
+As of February 29, 2016, the Notes consisted of the following (in thousands):
+February 29,
+: 2016 :
+Liability component
+$805,000
+Less:debtissuancecosts (10,029)
+Less:debtdiscount (71,029)
+Netcarryingamount $723,942
+Equitycomponent(l) $ 96,890
+(1) Recorded in the Consolidated Balance Sheet in Additional paid-in capital.
+In accounting for the transaction costs related to the convertible note issuance, the Company allocated the
+total amount incurred of $15.2 million to the liability and equity components based on their relative fair values.
+Issuance costs attributable to the liability component totaled $13.4 million and are being amortized to interest
+expense over the term of the convertible notes using the effective interest method. The remaining $1.8 million of
+issuance costs have been allocated to the equity component and are included in Additional paid-in capital on the
+Company’s Consolidated Balance Sheet as of February 29, 2016. Additionally, the Company recorded a deferred
+tax asset of $0.7 million related to the $1.8 million equity component of transactional costs which are deductible
+for tax purposes.
+The following table includes total interest expense recognized related to the convertible notes for the fiscal
+years ended February 29, 2016 and February 28, 2015 (in thousands):
+Year ended Year ended
+February 29, February 28,
+: 2016 : : 2015 :
+Coupon rate 0.25% per year, payable semiannually ............................ $ 2,012 $ 805
+Amortization of convertible note issuance costs—liability component . . . . . . . . . . . . . 2,433 935
+Accretionofdebtdiscount................................................ 18,570 7,292
+Total interest expense related to convertible notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $23,015 $9,032
+1 13

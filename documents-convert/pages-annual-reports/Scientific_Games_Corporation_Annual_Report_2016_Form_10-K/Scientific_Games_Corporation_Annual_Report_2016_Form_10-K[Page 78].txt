@@ -1,0 +1,44 @@
+SCIENTIFIC GAMES CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in USD, table amounts in millions, except per share amounts)
+the foreign currency financial statements are accumulated as a separate component of accumulated other comprehensive loss in
+stockholders' deﬁcit. Gains or losses resulting from foreign currency transactions are included in other (expense) income, net.
+See Note 20.
+Comprehensive loss
+We include and separately classify in comprehensive loss unrealized gains and losses from our foreign currency
+translation adjustments, certain gains or losses associated with pension or other post-retirement benefits, including prior service
+costs or credits and transition assets or obligations, and the effective portion of derivative financial instruments designated as
+hedging instruments.
+Business combinations
+We account for business combinations in accordance with ASC 805. This standard requires the acquiring entity in a
+business combination to recognize all (and only) the assets acquired and liabilities assumed in the transaction and establishes
+the acquisition-date fair value as the measurement objective for all assets acquired and liabilities assumed in a business
+combination. Certain provisions of this standard prescribe, among other things, the determination of acquisition-date fair value
+of consideration paid in a business combination (including contingent consideration) and the exclusion of transaction and
+acquisition related restructuring costs ﬁom acquisition accounting.
+New accounting guidance - Adopted
+In August 2014, the FASB issued ASU No. 2014-15, Presentation of Financial Statements - Going Concern (Subtopic
+205 -4 0). The guidance is intended to define management’s responsibility to evaluate whether there is substantial doubt about an
+organization’s ability to continue as a going concern and to provide related footnote disclosures. This ASU provides guidance to
+an organization’s management, with principles and definitions that are intended to reduce diversity in the timing and content of
+disclosures that are commonly provided by organizations today in the financial statement footnotes. We adopted this guidance
+prospectively at the beginning of the fourth quarter of 2016. The adoption of this guidance did not have an eﬁect on our
+ﬁnancial condition, results of operations, cash ﬂows, or disclosures.
+New accounting guidance - Not yet adopted
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers. ASU 2014-09 combined
+with all subsequent amendments (collectively ASC 606) provides guidance outlining a single comprehensive revenue model in
+accounting for revenue from contracts with customers. ASC 606 supersedes existing revenue recognition guidance, including
+industry-specific guidance, and replaces it with a ﬁve-step revenue model with a core principle that "an entity recognizes
+revenue to depict the transfer of promised goods or services to customers in an amount that reﬂects the consideration to which
+the entity expects to be entitled in exchange for those goods or services." This guidance is effective for fiscal years beginning
+after December 15, 2017 and interim periods within those ﬁscal years. We will adopt this guidance at the beginning of the first
+quarter of 20 1 8, using a modified retrospective application approach.
+Our current assessment of the anticipated impact of adopting this guidance on revenue recognition for our business
+segments is as follows:
+(1) Interactive - we do not anticipate a material impact on timing or amount of revenue.
+(2) Gaming - we are currently assessing the adoption impact; however we do anticipate that WAP jackpot payments
+will no longer be treated as an expense but rather will be treated as a reduction to revenue. For the years ended
+December 31, 2016, 2015 and 2014 we recognized WAP jackpot expense of $29.8 million, $38.1 million and $26.7
+million, respectively.
+(3) Lottery - we are currently assessing the adoption impact.
+78

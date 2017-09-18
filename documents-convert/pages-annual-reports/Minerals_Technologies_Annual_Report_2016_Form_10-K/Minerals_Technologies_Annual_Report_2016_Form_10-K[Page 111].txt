@@ -1,0 +1,44 @@
+MINERALS TECHNOLOGIES INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table summarizes the changes in other comprehensive income (loss) by component:
+I Year Ended December 31, I
+| 2016 | 2015 |
+T t- f- T t- f-
+Pre-Tax ax Ne 0 Pre-Tax ax Ne 0
+Amount (Expense) Tax Amount (Expense) Tax
+Benefit Amount Beneﬁt Amount
+I (millions of dollars) I
+Foreign currency translation adjustment (40.2) ~ $ (40.2) (76.6) - $ (76.6)
+Pension plans:
+Net actuarial gams (losses) and pr10r serv1ce costs arismg during the (12.5) 4.1 (8.4) 0.5 0.5 1.0
+per10d
+Amortization of net actuarial (gains) losses and prior service costs 8.0 (2.8) 5.2 9.6 (3.3) 6.3
+Unrealized gains (losses) on cash ﬂow hedges 2.4 (0.8) 1.6 - - -
+Total other comprehensive income (loss) (42.3): 0.5 $ (41.8): (66.5): $ (2.8): $ (69.3):
+The pre—tax amortization amounts of pension plans in the table above are included within the components of net periodic
+pension benefit costs (see note 15) and the related tax amounts are included within provision for taxes on income line within
+Consolidated Statements of Income.
+Note 20. Accounting for Asset Retirement Obligations
+The Company records asset retirement obligations in which the Company will be required to retire tangible long-lived
+assets. These are primarily related to its PCC satellite facilities and mining operations. The Company has also recorded the
+provisions related to conditional asset retirement obligations at its facilities. The Company has recorded asset retirement
+obligations at all of its facilities except where there are no contractual or legal obligations. The associated asset retirement
+costs are capitalized as part of the carrying amount of the long-lived asset.
+The following is a reconciliation of asset retirement obligations as of December 31, 2016 and 2015:
+| | 2016 | 2015 |
+| (millions of dollars) |
+Asset retirement liability, beginning of period $ 21.4 $ 23 .0
+Accretion expense 2.5 2.8
+Reversals - (1 .0)
+Payments (1.6) (1.9)
+Foreign currency translation 7 (0.8), r (1.5),
+Asset retirement liability, end of period $ 21.5 $ 21.4
+The Company mines various minerals using a surface mining process that requires the removal of overburden. In certain
+areas and under various governmental regulations, the Company is obligated to restore the land comprising each mining site
+to its original condition at the completion of the mining activity. This liability will be adjusted to reﬂect the passage of time,
+mining activities, and changes in estimated future cash outﬂows
+The current portion of the liability of approximately $2.1 million is included in other current liabilities and the long-term
+portion of the liability of approximately $19.4 million is included in other non-current liabilities in the Consolidated Balance
+Sheet as of December 31, 2016.
+Accretion expense is included in cost of goods sold in the Company's Consolidated Statements of Income.
+F-35

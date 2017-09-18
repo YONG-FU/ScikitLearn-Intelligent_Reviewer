@@ -1,0 +1,49 @@
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. The following fair value hierarchy prioritizes inputs to
+valuation techniques used to measure fair value.
+Level 1 - Unadjusted quoted prices for identical assets or liabilities in active markets that the Company has the ability
+to access.
+Level 2 - Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets
+or liabilities in inactive markets; or valuations based on models where the significant inputs are observable
+(e. g., interest rates, yield curves, prepayment speeds, default rates, loss severities, etc.) or can be
+corroborated by observable market data.
+Level 3 - Prices or valuation techniques that require significant unobservable inputs because observable inputs are not
+available. The unobservable inputs may reﬂect the Company’s own judgments about the assumptions that
+market participants would use.
+The Company uses an independent pricing source to obtain the estimated fair values of a majority of its securities,
+subject to an internal validation. The fair values are based on quoted market prices, where available. This is typically the case
+for equity securities and money market funds, which are accordingly classiﬁed as Level 1 fair value measurements. In cases
+where quoted market prices are not available, fair values are based on a variety of valuation techniques depending on the type
+of security. Fixed maturity securities, non-redeemable preferred stocks and various short-term investments in the Company’s
+portfolio may not trade on a daily basis; however, observable inputs are utilized in their valuations, and these securities are
+therefore classified as Level 2 fair value measurements. Following is a brief description of the various pricing techniques used
+by the independent pricing source for different asset classes.
+° US. Treasury securities (including bonds, notes, and bills) are priced according to a number of live data sources,
+including active market makers and inter-dealer brokers. Prices from these sources are reviewed based on the
+sources” historical accuracy for individual issues and maturity ranges.
+° U.S. government-sponsored agencies and corporate securities (including fixed-rate corporate bonds and medium-
+term notes) are priced by determining a bullet (non-call) spread scale for each issuer for maturities going out to forty
+years. These spreads represent credit risk and are obtained from the new issue market, secondary trading, and dealer
+quotes. An option adjusted spread model is incorporated to adjust spreads of issues that have early redemption
+features. The final spread is then added to the US. Treasury curve.
+° Obligations of states and political subdivisions are priced by tracking and analyzing actively quoted issues and
+reported trades, material event notices and benchmark yields. Municipal bonds with similar characteristics are
+grouped together into market sectors, and internal yield curves are constructed daily for these sectors. Individual
+bond evaluations are extrapolated from these sectors, with the ability to make individual spread adjustments for
+attributes such as discounts, premiums, alternative minimum tax, and/or whether or not the bond is callable.
+- Mortgage-backed and asset-backed securities are first reviewed for the appropriate pricing speed (if prepayable),
+spread, yield and volatility. The securities are priced with models using spreads and other information solicited
+from market buy- and sell-side sources, including primary and secondary dealers, portfolio managers, and research
+analysts. To determine a tranche’s price, first the benchmark yield is determined and adjusted for collateral
+performance, tranche level attributes and market conditions. Then the cash ﬂow for each tranche is generated (using
+consensus prepayment speed assumptions including, as appropriate, a prepayment projection based on historical
+statistics of the underlying collateral). The tranche-level yield is used to discount the cash ﬂows and generate the
+price. Depending on the characteristics of the tranche, a volatility-driven, multi-dimensional single cash ﬂow
+stream model or an option-adjusted spread model may be used. When cash ﬂows or other security structure or
+market information is not available, broker quotes may be used.
+On a quarterly basis, the Company receives from its independent pricing service a list of fixed maturity securities, if any,
+that were priced solely from broker quotes. For these securities, fair value may be determined using the broker quotes, or by
+the Company using similar pricing techniques as the Company’s independent pricing service. Depending on the level of
+observable inputs, these securities would be classified as Level 2 or Level 3 fair value measurements. At December 31, 2016
+and 2015, the Company had no securities priced solely from broker quotes.
+136

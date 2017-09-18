@@ -1,0 +1,42 @@
+Iable,of,Contents
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+As we operate globally, we are primarily exposed to currency exchange rate, commodity price and interest rate market risks. We monitor and
+manage these exposures as part of our overall risk management program. Our risk management program focuses on the unpredictability of ﬁnancial
+markets and seeks to reduce the potentially adverse effects that the volatility of these markets may have on our operating results. We principally
+utilize derivative instruments to reduce signiﬁcant, unanticipated earnings ﬂuctuations that may arise from volatility in currency exchange rates,
+commodity prices and interest rates. For additional information on our derivative activity and the types of derivative instruments we use to hedge our
+currency exchange, commodity price and interest rate exposures, see Note 8, Financial Instruments .
+Many of our non-U.S. subsidiaries operate in functional currencies other than the U.S. dollar. Fluctuations in currency exchange rates create volatility
+in our reported results as we translate the balance sheets, operating results and cash flows of these subsidiaries into the U.S. dollar for consolidated
+reporting purposes. The translation of non-U.S. dollar denominated balance sheets and statements of earnings of our subsidiaries into the U.S. dollar
+for consolidated reporting generally results in a cumulative translation adjustment to other comprehensive income within equity. A stronger U.S.
+dollar relative to other functional currencies adversely affects our consolidated earnings and net assets while a weaker US. dollar beneﬁts our
+consolidated earnings and net assets. While we hedge signiﬁcant forecasted currency exchange transactions as well as certain net assets of non-
+U.S. operations and other currency impacts, we cannot fully predict or eliminate volatility arising from changes in currency exchange rates on our
+consolidated financial results. See Consolidated Results of Operations and Results of Operations by Reportable Segment under Discussion and
+Analysis of Historical Results for currency exchange effects on our ﬁnancial results. For additional information on the impact of currency policies,
+Brexit, recent currency devaluations, the deconsolidation of our Venezuelan operation and the historical remeasurement of our Venezuelan net
+monetary assets on our ﬁnancial condition and results of operations, also see Note 1, Summary of Signiﬁcant Accounting Policies—Currency
+Translation and Highly Inflationary Accounting .
+We also continually monitor the market for commodities that we use in our products. Input costs may ﬂuctuate widely due to international demand,
+weather conditions, government policy and regulation and unforeseen conditions. To manage input cost volatility, we enter into forward purchase
+agreements and other derivative ﬁnancial instruments. We also pursue productivity and cost saving measures and take pricing actions when
+necessary to mitigate the impact of higher input costs on earnings.
+We regularly evaluate our variable and fixed-rate debt as well as current and expected interest rates in the markets in which we raise capital. Our
+primary exposures include movements in U.S. Treasury rates, corporate credit spreads, London Interbank Offered Rates (“LIBOR”), Euro Interbank
+Offered Rate (“EURIBOR”) and commercial paper rates. We periodically use interest rate swaps and forward interest rate contracts to achieve a
+desired proportion of variable versus ﬁxed rate debt based on current and projected market conditions. In addition to using interest rate derivatives to
+manage future interest payments, during 2016, we retired $6.2 billion of our long-term debt and related costs and issued $6.4 billion of lower
+borrowing cost debt. Our weighted-average interest rate on our total debt as of December 31, 2016 was 2.2%, down from 3.7% as of December 31,
+2015.
+There were no significant changes in the types of derivative instruments we use to hedge our exposures between December 31, 2015 and
+December 31, 2016. See Note 8, Financial Instruments , for more information on 2016 derivative activity.
+Value at Risk:
+We use a value at risk (“VAR”) computation to estimate: 1) the potential one-day loss in the fair value of our interest rate-sensitive ﬁnancial
+instruments; and 2) the potential one-day loss in pre-tax earnings of our currency and commodity price-sensitive derivative ﬁnancial instruments. The
+VAR analysis was done separately for our currency exchange, ﬁxed income and commodity risk portfolios as of each quarter end during the periods
+presented below. The instruments included in the VAR computation were currency exchange forwards and options for currency exchange risk, debt
+and swaps for interest rate risk, and commodity forwards, futures and options for commodity risk. Excluded from the computation were anticipated
+transactions, currency trade payables and receivables, and net investments in non-U.S. subsidiaries, which the above-mentioned instruments are
+intended to hedge.
+58

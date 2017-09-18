@@ -1,0 +1,40 @@
+Table of Contents
+Amazon Instant Video, Amazon Music, the Fire TV app, Audible Audiobooks, Cloud Drive, Cloud Player, Amazon Web Services, and Amazon Mobile Ad
+Network infringe seven related US. Patents: Nos. 7,334,720; 7,942,317; 8,033,458; 8,061,598; 8,118,221; 8,336,772; and 8,794,516, all entitled “Data
+Storage and Access Systems.” In May 2015, the case was stayed until further notice. The complaint seeks an unspeciﬁed amount of damages, an injunction,
+enhanced damages, attorneys’ fees, costs, and interest. We dispute the allegations of wrongdoing and intend to defend ourselves vigorously in this matter.
+In March 2015, Zitovault, LLC ﬁled a complaint against Amazon.com, Inc., Amazon.com, LLC, Amazon Web Services, Inc., and Amazon Web Services,
+LLC for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges that Elastic Compute Cloud, Virtual
+Private Cloud, Elastic Load Balancing, Auto-Scaling, and Elastic Beanstalk infringe US. Patent No. 6,484,257, entitled “System and Method for
+Maintaining NNumber of Simultaneous Cryptographic Sessions Using a Distributed Computing Environment.” The complaint seeks injunctive relief, an
+unspeciﬁed amount of damages, enhanced damages, attorneys’ fees, costs, and interest. In January 2016, the case was transferred to the United States District
+Court for the Western District of Washington. In June 2016, the case was stayed pending resolution of a review petition we ﬁled with the United States Patent
+and Trademark Ofﬁce. We dispute the allegations of wrongdoing and intend to defend ourselves vigorously in this matter.
+In June 2015, the European Commission opened a proceeding against Amazon.com, Inc. and Amazon EU S.a r.l. to investigate whether provisions in
+Amazon’s contracts with European publishers violate European competition rules. We believe we comply with European competition rules and are
+cooperating with the Commission.
+In November 2015, Eolas Technologies, Inc. ﬁled a complaint against Amazon.com, Inc. in the United States District Court for the Eastern District of
+Texas. The complaint alleges, among other things, that the use of “interactive features” on www.amazon.com, including “search suggestions and search
+results,” infringes US. Patent No. 9,195,507, entitled “Distributed Hypermedia Method and System for Automatically Invoking External Application
+Providing Interaction and Display of Embedded Objects Within A Hypermedia Document.” The complaint sought a judgment of inﬁingement together with
+costs and attorneys’ fees. In February 2016, Eolas ﬁled an amended complaint seeking, among other things, an unspeciﬁed amount of damages. We dispute
+the allegations of wrongdoing and intend to defend ourselves vigorously in this matter.
+In September 2016, Broadcom Corporation and Avago Technologies General IP (Singapore) PTE Ltd. ﬁled a complaint against Amazon.com, Inc. and
+Amazon Web Services, Inc. in the United States District Court for the Central District of California. The complaint alleges, among other things, that certain
+Fire devices infringe US. Patent Nos. 5,870,087, entitled “MPEG Decoder System and Method Having a Uniﬁed Memory for Transport Decode and System
+Controller Function,” 6,982,663, entitled “Method and System for Symbol Binarization,” 7,006,636, entitled “Coherence-Based Audio Coding and
+Synthesis,” 7,583,805, entitled “Late Reverberation-Based Synthesis of Auditory Scenes,” and 8,284,844, entitled “Video Decoding System Supporting
+Multiple Standards.” The complaint also alleges that certain Kindle and Fire devices, and the Dash Button and Amazon Echo, infringe US. Patent No.
+6,430,148, entitled “Multidirectional Communication Systems,” and that certain Fire devices and the Amazon Echo infringe US. Patent No. 6,766,389,
+entitled “System on a Chip for Networking.” The complaint also alleges that Amazon Web Services’ Elastic Transcoder and CloudFront infringe US. Patent
+No. 7,296,295, entitled “Media Processing System Supporting Different Media Formats Via Server-Based Transcoding,” that Amazon Elastic Transcoder
+infringes US. Patent No. 6,744,387, entitled “Method and System for Symbol Binarization,” that CloudFront infringes US. Patent No. 6,341,375, entitled
+“Video on Demand DVD System,” and that Elastic Compute Cloud inﬁinges US. Patent No. 6,501,480, entitled “Graphics Accelerator.” The complaint seeks
+injunctive relief, an unspeciﬁed amount of damages, enhanced damages, attorneys’ fees, and costs. We dispute the allegations of wrongdoing and intend to
+defend ourselves vigorously in this matter.
+The outcomes of our legal proceedings are inherently unpredictable, subject to signiﬁcant uncertainties, and could be material to our operating results
+and cash ﬂows for a particular period. In addition, for some matters for which a loss is probable or reasonably possible, an estimate of the amount of loss or
+range of losses is not possible and we may be unable to estimate the possible loss or range of losses that could potentially result from the application of non-
+monetary remedies.
+See also “Note 10—Income Taxes.”
+60

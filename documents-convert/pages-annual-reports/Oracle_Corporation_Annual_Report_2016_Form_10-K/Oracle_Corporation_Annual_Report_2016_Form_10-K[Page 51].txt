@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+When possible, we establish VSOE of selling price for deliverables in software and non-software multiple-element arrangements using the price charged for a
+deliverable when sold separately and for software license updates and product support and hardware support, based on the renewal rates offered to customers. TPE
+is established by evaluating similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are
+unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing
+historical transactions, including transactions whereby the deliverable was sold on a standalone basis and considering several other external and internal factors
+including, but not limited to, pricing practices including discounting, margin objectives, competition, contractually stated prices, the geographies in which we offer
+our products and services, the type of customer (i.e., distributor, value-added reseller, government agency and direct end user, among others) and the stage of the
+product lifecycle. The determination of ESP is made through consultation with and approval by our management, taking into consideration our pricing model and
+go-to-market strategy. As our, or our competitors’, pricing and go—to-market strategies evolve, we may modify our pricing practices in the future, which could
+result in changes to our determination of VSOE, TPE and ESP. As a result, our future revenue recognition for multiple-element arrangements could differ
+materially from our results in the current period. Selling prices are analyzed on an annual basis or more frequently if we experience signiﬁcant changes in our
+selling prices.
+RevenueReco gnitionllolicies,Applicable1o,b,oth,S,oftware,and,Non:soﬁware,Elements
+Revenue Recognition for Multiple-Element Arrangements—Arrangements with Software and Non-software Elements
+We also enter into multiple-element arrangements that may include a combination of our various software related and non-software related products and services
+offerings including new software licenses, software license updates and product support, cloud SaaS, PaaS and IaaS offerings, hardware products, hardware
+support, consulting, advanced customer support services and education. In such arrangements, we ﬁrst allocate the total arrangement consideration based on the
+relative selling prices of the software group of elements as a whole and to the non-software elements. We then further allocate consideration within the software
+group to the respective elements within that group following the guidance in ASC 985-605 and our policies as described above. After the arrangement
+consideration has been allocated to the elements, we account for each respective element in the arrangement as described above.
+Other Revenue Recognition Policies Applicable to Software and Non-software Elements
+Many of our software arrangements include consulting implementation services sold separately under consulting engagement contracts and are included as a part of
+our services business. Consulting revenues from these arrangements are generally accounted for separately from new software licenses revenues because the
+arrangements qualify as services transactions as deﬁned in ASC 985-605. The more signiﬁcant factors considered in determining whether the revenues should be
+accounted for separately include the nature of services (i.e., consideration of whether the services are essential to the functionality of the licensed product), degree
+of risk, availability of services from other vendors, timing of payments and impact of milestones or acceptance criteria on the realizability of the software license
+fee. Revenues for consulting services are generally recognized as the services are performed. If there is a signiﬁcant uncertainty about the project completion or
+receipt of payment for the consulting services, revenues are deferred until the uncertainty is sufficiently resolved. We estimate the proportional performance on
+contracts with ﬁxed or “not to exceed” fees on a monthly basis utilizing hours incurred to date as a percentage of total estimated hours to complete the project. If
+we do not have a sufficient basis to measure progress towards completion, revenues are recognized when we receive ﬁnal acceptance from the customer that the
+services have been completed. When total cost estimates exceed revenues, we accrue for the estimated losses immediately using cost estimates that are based upon
+an average fully burdened daily rate applicable to the consulting organization delivering the services. The complexity of the estimation process and factors relating
+to the assumptions, risks and uncertainties inherent with the application of the proportional performance method of accounting affects the amounts of revenues and
+related expenses reported in our consolidated ﬁnancial statements. A number of internal and external factors can affect our estimates, including labor rates,
+utilization and efficiency variances and specification and testing requirement changes.
+49

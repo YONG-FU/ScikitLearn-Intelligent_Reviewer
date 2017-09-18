@@ -1,0 +1,53 @@
+plans. These estimates require our judgment about discount rates used to determine these obligations, expected returns on plan
+assets, rates of future compensation increases, rates of increase in future health care costs, participant withdrawal and mortality
+rates and participant retirement ages. Differences between our estimates and actual results may significantly affect the cost of
+our obligations under these plans and could cause net periodic benefit costs and credits to change materially from year-to-year.
+Discount rates and plan asset valuations are point-in-time measures. The discount rate assumptions used in determining
+projected beneﬁt obligations are based on published long-term bond indices or a company-specific yield curve model. Expected
+returns on plan assets are based on our historical returns by asset class.
+Please refer to Note 14 to the Consolidated Financial Statements in Part II Item 8 of this Form 10-K for further details on
+the funded status of our pension and post-retirement benefit plans.
+The following table summarizes the impact of changes in significant actuarial assumptions on our December 31, 2016
+actuarial valuations.
+Impact of Changes in Actuarial Assumptions
+7 Change in Discount Change in Expected Change in Market Value 7
+Rate Return of Assets
+(In thousands) ’ 1% (1)% ’ ’ 1% (1)% ’ ’ 5% (5)% ’
+[ (Decrease) increase in net benefit cost $ (5,906) $ 7,189 $ (4,336) $ 4,340 $ (936) $ 901 J
+(Decrease) increase in projected beneﬁt obligation (65,405) 7 8,8 32 — — — —
+1 Increase (decrease) in funded status 65,405 (7 8,832) — — 21,663 (21,663)}
+Stock Compensation. We sponsor both a Management and a Non-Employee Directors' Equity Incentive plan which
+provide for grants of stock options, restricted stock and other equity-based vehicles such as restricted stock units and
+performance stock units; all of which are recognized as compensation expense based on grant date fair value. Stock options are
+valued using the Black-Scholes option pricing model. Performance stock units that have a market condition are valued on the
+grant date using a Monte Carlo simulation valuation model. We believe these valuation models are appropriate for use based
+and are consistent with models used by our peer companies. Please refer to Note 10 to the Consolidated Financial Statements in
+Part II Item 8 of this Form 10-K for further details on the assumptions used in these valuation models.
+Revenue Recognition. Revenue from the sale of products is recognized when title, ownership and the risk of loss have
+transferred to the customer, which generally occurs either when product is shipped to the customer or, in the case of most US.
+distributor customers, when product is delivered to the distributor's delivery site. We establish our shipping terms according to
+local practice and market characteristics. We do not ship product unless we have an order or other documentation authorizing
+shipment to our customers. We make appropriate provisions for uncollectible accounts receivable and product returns, both of
+which have historically been insignificant in relation to our net sales. Certain distributor customers receive price rebates based
+on their level of purchases and other performance criteria that are documented in established distributor programs. These
+rebates are accrued as a reduction of net sales as they are earned by the customer.
+Goodwill In the fourth quarter of each year, or more ﬁequently if indicators of impairment exist or if a decision is made
+to sell a business, we evaluate goodwill for impairment. A significant amount of judgment is involved in determining if an
+indicator of impairment has occurred. Such indicators may include a decline in expected cash ﬂows, a significant adverse
+change in the business climate, unanticipated competition, slower growth rates, or negative developments in equity and credit
+markets, among others.
+All goodwill is assigned to and evaluated for impairment at the reporting unit level, which is defined as an operating
+segment or one level below an operating segment. For goodwill impairment testing purposes, we consider our operating
+segments to be our reporting units. The evaluation of impairment involves using either a qualitative or quantitative approach as
+outlined in Accounting Standards Codification (ASC) Topic 35 0. The qualitative evaluation is an assessment of factors to
+determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value, including
+goodwill. Factors considered as part of the qualitative assessment include entity-specific industry, market and general economic
+conditions. In 2016, we elected to bypass the qualitative evaluation for all of our reporting units and performed a two-step
+quantitative test at October 1, 2016. Quantitative testing involves comparing the estimated fair value of each reporting unit to its
+carrying value. We estimate reporting unit fair value using a weighted average of fair values determined by discounted cash
+ﬂow (DCF) and market approach methodologies, as we believe both are equally important indicators of fair value. A number of
+signiﬁcant assumptions and estimates are involved in the application of the DCF model, including sales volumes and prices,
+costs to produce, tax rates, capital spending, discount rates, and working capital changes. Cash ﬂow forecasts are generally
+based on approved business unit operating plans for the early years and historical relationships in later years. The betas used in
+calculating the individual reporting units’ weighted average cost of capital (WACC) rate are estimated for each reporting unit
+32

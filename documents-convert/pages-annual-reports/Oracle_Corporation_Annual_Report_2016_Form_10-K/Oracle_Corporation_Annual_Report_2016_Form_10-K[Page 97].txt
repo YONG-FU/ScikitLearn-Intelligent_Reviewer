@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+arrangements generally do not include a general right of return relative to the delivered products. Where the aforementioned criteria for a separate unit of
+accounting are not met, the deliverable is combined with the undelivered element(s) and treated as a single unit of accounting for the purposes of allocation of the
+arrangement consideration and revenue recognition. For those units of accounting that include more than one deliverable but are treated as a single unit of
+accounting, we generally recognize revenues over the contractual period of the arrangement, or in the case of our cloud offerings, we generally recognize revenues
+over the contractual term of the cloud software subscription. For the purposes of revenue classification of the elements that are accounted for as a single unit of
+accounting, we allocate revenue to the respective revenue line items within our consolidated statements of operations based on a rational and consistent
+methodology utilizing our best estimate of relative selling prices of such elements.
+For our non-software multiple-element arrangements, we allocate revenue to each element based on a selling price hierarchy at the arrangement’s inception. The
+selling price for each element is based upon the following selling price hierarchy: VSOE if available, third-party evidence (TPE) if VSOE is not available, or
+estimated selling price (ESP) if neither VSOE nor TPE are available (a description as to how we determine VSOE, TPE and ESP is provided below). If a tangible
+hardware product includes software, we determine whether the tangible hardware product and the software work together to deliver the product’s essential
+functionality and, if so, the entire product is treated as a non-software deliverable. The total arrangement consideration is allocated to each separate unit of
+accounting for each of the non-software deliverables using the relative selling prices of each unit based on the aforementioned selling price hierarchy. We limit the
+amount of revenue recognized for delivered elements to an amount that is not contingent upon future delivery of additional products or services or meeting of any
+speciﬁed performance conditions.
+When possible, we establish VSOE of selling price for deliverables in software and non-software multiple-element arrangements using the price charged for a
+deliverable when sold separately and for software license updates and product support and hardware support, based on the renewal rates offered to customers. TPE
+is established by evaluating similar and interchangeable competitor products or services in standalone arrangements with similarly situated customers. If we are
+unable to determine the selling price because VSOE or TPE does not exist, we determine ESP for the purposes of allocating the arrangement by reviewing
+historical transactions, including transactions whereby the deliverable was sold on a standalone basis and considering several other external and internal factors
+including, but not limited to, pricing practices including discounting, margin objectives, competition, contractually stated prices, the geographies in which we offer
+our products and services, the type of customer (i.e., distributor, value-added reseller, government agency and direct end user, among others) and the stage of the
+product lifecycle. The determination of ESP is made through consultation with and approval by our management, taking into consideration our pricing model and
+go-to-market strategy. As our, or our competitors’, pricing and go-to-market strategies evolve, we may modify our pricing practices in the future, which could
+result in changes to our determination of VSOE, TPE and ESP. As a result, our future revenue recognition for multiple-element arrangements could differ
+materially from our results in the current period. Selling prices are analyzed on an annual basis or more frequently if we experience signiﬁcant changes in our
+selling prices.
+Revenue Recognition Policies Applicable to both Software and Non-software Elements
+Revenue Recognition for Multiple-Element Arrangements—Arrangements with Software and Non-software Elements
+We also enter into multiple-element arrangements that may include a combination of our various software related and non-software related products and services
+offerings including new software licenses, software license updates and product support, cloud SaaS, PaaS and IaaS offerings, hardware products, hardware
+support, consulting, advanced customer support services and education. In such arrangements, we first allocate the total arrangement consideration based on the
+relative selling prices of the software group of elements as a whole and
+95

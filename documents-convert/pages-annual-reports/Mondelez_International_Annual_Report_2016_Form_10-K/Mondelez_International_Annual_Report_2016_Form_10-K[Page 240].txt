@@ -1,0 +1,25 @@
+(e) Any Borrower or Mondeléz or any Major Subsidiary shall generally not pay its debts as such debts become due, or shall admit in writing its
+inability to pay its debts generally, or shall make a general assignment for the beneﬁt of creditors; or any proceeding shall be instituted by or against any
+Borrower or Mondeléz or any Major Subsidiary seeking to adjudicate it a bankrupt or insolvent, or seeking liquidation, winding up, reorganization,
+arrangement, adjustment, protection, relief, or composition of it or its debts under any law relating to bankruptcy, insolvency or reorganization or relief of
+debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee, or other similar official for it or for any substantial part of its
+property, and, in the case of any such proceeding instituted against it (but not instituted by it), either such proceeding shall remain undismissed or unstayed
+for a period of 60 days or any of the actions sought in such proceeding (including, without limitation, the entry of an order for relief against it or the
+appointment of a receiver, trustee, custodian or other similar official for it or for any of its property constituting a substantial part of the property of Mondeléz
+and its Subsidiaries taken as a whole) shall occur, or any Borrower or Mondeléz or any Major Subsidiary shall take any corporate action to authorize any of
+the actions set forth above in this subsection (e); or
+(f) Any judgment or order for the payment of money in excess of $100,000,000 shall be rendered against any Borrower or Mondeléz or any Major
+Subsidiary and there shall be any period of 60 consecutive days during which a stay of enforcement of such unsatisﬁed judgment or order, by reason of a
+pending appeal or otherwise, shall not be in effect; or
+(g) Any Borrower, Mondeléz or any ERISA Afﬁliate shall incur, or shall be reasonably likely to incur, liability as a result of one or more of the
+following: (i) the occurrence of any ERISA Event; (ii) the partial or complete withdrawal of any Borrower, Mondeléz or any ERISA Afﬁliate from a
+Multiemployer Plan; or (iii) the reorganization or termination of a Multiemployer Plan, in each case that would, individually or in the aggregate, materially
+adversely affect the ﬁnancial condition or operations of Mondeléz and its Subsidiaries taken as a whole, provided , however , that no Default or Event of
+Default under this Section 6.01(g) shall be deemed to have occurred if the Borrower, Mondeléz or any ERISA Afﬁliate shall have made arrangements
+satisfactory to the PBGC or the Required Lenders to discharge or otherwise satisfy such liability (including the posting of a bond or other security), or
+(h) So long as any Subsidiary of Mondeléz is a Designated Subsidiary, the Guaranty provided by Mondeléz under Article VIII hereof shall for any
+reason cease (other than in accordance with the provisions of Article VIII) to be valid and binding on Mondeléz or Mondeléz shall so state in writing.
+SECTION 6.02 Lenders ’ Rights upon Event of Default . If an Event of Default occurs and is continuing, then the Administrative Agent shall at the
+request, or may with the consent, of the Required Lenders, by notice to Mondelez:
+(a) declare the obligation of each Lender to make further Advances to be terminated, whereupon the same shall forthwith terminate, and
+-44-

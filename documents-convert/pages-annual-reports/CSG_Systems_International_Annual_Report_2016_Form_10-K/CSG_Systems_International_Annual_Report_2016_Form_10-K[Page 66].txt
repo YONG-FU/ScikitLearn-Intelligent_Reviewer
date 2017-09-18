@@ -1,0 +1,42 @@
+8. Employee Retirement Beneﬁt Plans
+Deﬁned Contribution-Type Plans. We sponsor defined contribution plans covering substantially all our U.S.-based employees. Participants may contribute up to 100% of
+their annual wages, subject to certain limitations, as pretax, salary deferral contributions. We make certain matching, and at our discretion, service-based contributions to
+the plan. The expense related to matching and service-related contributions for 2016, 2015, and 2014 was $9.9 million, $9.7 million, and $9.0 million, respectively. We
+also have defined contribution-type plans for certain of our non-U.S.-based employees. The total contributions made to these plans in 2016, 2015, and 2014 were $3.9
+million, $3.7 million, and $5.0 million, respectively.
+9. Commitments, Guarantees and Contingencies
+Operating Leases. We lease certain ofﬁce and production facilities under non-cancellable operating leases, with the longest lease that runs through July 2025. The leases
+generally are renewable and provide for the payment of real estate taxes and certain other occupancy expenses. Future aggregate minimum lease payments under these
+facilities are as follows: 2017 - $13.0 million; 2018 - $12.4 million; 2019 - $10.5 million; 2020 - $7.5 million; 2021 - $7.0 million; and thereafter - $21.6 million. Total
+rent expense for 2016, 2015, and 2014 was $14.5 million, $17.1 million, and $19.9 million, respectively.
+Service Agreements. We have an agreement with Infocrossing LLC (“Infocrossing”), a Wipro Limited company, to provide us outsourced data center services. We
+amended our previous agreement with Infocrossing in 2015, which extended the term of the agreement through June 30, 2022. We outsource the data processing and
+related computer services required for the operation of our outsourced ACP solutions. Our ACP proprietary software and other software applications are run in an
+outsourced data center environment in order to obtain the necessary computer processing capacity and other computer support services without us having to make the
+substantial capital and infrastructure investments that would be necessary for us to provide these services internally. Our clients are connected to the outsourced data
+center environment through a combination of private and commercially-provided networks. Our ACP cloud-based solutions are generally considered to be mission
+critical customer management systems by our clients. As a result, we are highly dependent upon Infocrossing for system availability, security, and response time.
+Warranties. We generally warrant that our solutions and related offerings will conform to published specifications, or to specifications provided in an individual client
+arrangement, as applicable. The typical warranty period is 90 days from delivery of the solution or offering. For certain service offerings we provide a limited warranty
+for the duration of the services provided. We generally warrant that services will be performed in a professional and workmanlike manner. The typical remedy for breach
+of warranty is to correct or replace any defective deliverable, and if not possible or practical, we will accept the return of the defective deliverable and refund the amount
+paid under the client arrangement that is allocable to the defective deliverable. Our contracts also generally contain limitation of damages provisions in an effort to reduce
+our exposure to monetary damages arising from breach of warranty claims. Historically, we have incurred minimal warranty costs, and as a result, do not maintain a
+warranty reserve.
+Product and Services Indemniﬁcations. Our arrangements with our clients generally include an indemnification provision that will indemnify and defend a client in
+actions brought against the client that claim our products and/or services infringe upon a copyright, trade secret, or valid patent. Historically, we have not incurred any
+significant costs related to such indemnification claims, and as a result, do not maintain a reserve for such exposure.
+Claims for Company Non-performance. Our arrangements with our clients typically cap our liability for breach to a specified amount of the direct damages incurred by
+the client resulting from the breach. From time-to-time, these arrangements may also include provisions for possible liquidated damages or other financial remedies for
+our non-performance, or in the case of certain of our outsourced customer care and billing solutions, provisions for damages related to service level performance
+requirements. The service level performance requirements typically relate to system availability and timeliness of service delivery. As of December 31, 2016, we believe
+we have adequate reserves, based on our historical experience, to cover any reasonably anticipated exposure as a result of our nonperformance for any past or current
+arrangements with our clients.
+Indemniﬁcations Related to Oﬁ‘icers and the Board of Directors. We have agreed to indemnify members of our Board of Directors (the “Board”) and certain of our
+officers if they are named or threatened to be named as a party to any proceeding by reason of the fact that they acted in such capacity. We maintain directors’ and
+officers’ (“D&O”) insurance coverage to protect against such losses. We have not historically incurred any losses related to these types of indemnifications, and are not
+aware of any pending or threatened actions or claims against any ofﬁcer or member of our Board. As a result, we have not recorded any liabilities related to such
+indemnifications as of December 31, 2016. In addition, as a result of the insurance policy coverage, we believe these indemnification agreements are not significant to
+our results of operations.
+Legal Proceedings. From time-to-time, we are involved in litigation relating to claims arising out of our operations in the normal course of business.
+65

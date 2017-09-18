@@ -1,0 +1,47 @@
+Concentration of Risk
+Credit Risk
+Financial instruments that potentially subject us to a concentration of credit risk consist of cash, cash equivalents, restricted
+cash, accounts receivable, customer notes receivable and interest rate swaps. Our cash equivalents are primarily invested in money
+market funds with high credit quality ﬁnancial institutions in the United States. At times, these deposits and securities may be in
+excess of insured limits.
+As of December 31, 2016, and 2015, our accounts receivable were derived primarily from amounts to be received from financial
+institutions and leasing companies offering various ﬁnancing products to our customers, sales of regulatory credits, as well as the
+development and sales of powertrain components and systems to automotive original equipment manufacturers (OEMS). In addition,
+our accounts receivable were also derived from the sale of our energy generation and storage products, including any receivables from
+leasing solar energy systems as well as power purchase agreements. The associated risk of concentration is mitigated by placing liens
+on the related solar energy systems. The associated risk of concentration for interest rate swaps is mitigated by transacting with
+several highly rated multinational banks. We maintain reserves for any amounts that we consider to be uncollectable.
+At December 31, 2016, one customer represented approximately 10% of our total accounts receivable balance. At December 31,
+2015, the same customer represented approximately 15% of our total accounts receivable balance.
+Supply Risk
+The majority of our suppliers are currently single source suppliers, despite efforts to qualify and obtain components from
+multiple sources whenever feasible. The loss of any single or limited source supplier or the disruption in the supply of components
+from these suppliers could lead to vehicle design changes, increased costs and delays in vehicle deliveries to our customers, which
+could hurt our relationships with our customers and result in negative publicity, damage to our brand and a material and adverse effect
+on our business, prospects, financial condition and operating results.
+Inventory Valuation
+Inventories are stated at the lower of cost or market. Cost is computed using standard cost for vehicles and energy storage
+products, which approximates actual cost on a first-in, ﬁrst-out basis. In addition, cost for solar energy systems are recorded using
+actual cost. We record inventory write-downs for excess or obsolete inventories based upon assumptions about on current and future
+demand forecasts. If our inventory on hand is in excess of our future demand forecast, the excess amounts are written off.
+We also review inventory to determine whether its carrying value exceeds the net amount realizable upon the ultimate sale of
+the inventory. This requires us to determine the estimated selling price of our vehicles less the estimated cost to convert inventory on
+hand into a finished product. Once inventory is written-down, a new, lower-cost basis for that inventory is established and subsequent
+changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis.
+Should our estimates of future selling prices or production costs change, additional and potentially material increases to this
+reserve may be required. A small change in our estimates may result in a material charge to our reported financial results.
+Operating Lease Vehicles
+Vehicles delivered under our resale value guarantee program, vehicles that are leased as part of our leasing programs as well as
+any vehicles that are sold with a significant buy-back guarantee are classified as operating lease vehicles as the related revenue
+transactions are treated as operating leases. Operating lease vehicles are recorded at cost less accumulated depreciation. Depreciation
+is computed using the straight-line method over the expected operating lease term. The total cost of operating lease vehicles recorded
+in the Consolidated Balance Sheets as of December 31, 2016 and 2015 was $3.53 billion and $2.00 billion. Accumulated depreciation
+related to leased vehicles as of December 31, 2016, and 2015 was $399.5 million and $216.5 million.
+Solar Energy Systems, Leased and To Be Leased
+We, through the acquisition of SolarCity, are the operating lessor of the solar energy systems under leases that qualify as
+operating leases. Our leases are accounted for in accordance with ASC 840, Leases. To determine lease classification, we evaluate
+lease terms to determine whether there is a transfer of ownership or bargain purchase option at the end of the lease, whether the lease
+term is greater than 75% of the useful life, or whether the present value of minimum lease payments exceed 90% of the fair value at
+lease inception. We utilize periodic appraisals to estimate useful life and fair values at lease inception, and residual values at lease
+termination. Solar energy systems are stated at cost, less accumulated depreciation.
+68

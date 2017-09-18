@@ -1,0 +1,43 @@
+In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows: Restricted Cash (T opic 23 0). The ASU
+requires that a statement of cash ﬂows explain the change during the period in the total of cash, cash equivalents, and amounts
+generally described as restricted cash or restricted cash equivalents. Therefore, amounts generally described as restricted cash and
+restricted cash equivalents should be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-
+period total amounts shown on the statement of cash ﬂows. The ASU is effective for fiscal years, and interim periods within those
+fiscal years, beginning after December 15, 2017, with early adoption permitted. We are currently evaluating the potential impact of
+adopting the ASU on our consolidated financial statements.
+In October 2016, the FASB issued ASU No. 2016-16, Income Taxes: Intra-Entity Transfers of Assets Other Than Inventory
+(Topic 740). The ASU requires the recognition of current and deferred income taxes for intra-entity transfers of assets other than
+inventory. The ASU is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017,
+with early adoption permitted. We are currently evaluating the impact of the ASU on our consolidated financial statements.
+Note 3 - Acquisition of SolarCity
+Transaction Overview
+On November 21, 2016 (the “Acquisition Date”), we completed our acquisition of SolarCity. As of the acquisition date, our
+CEO was the chair of SolarCity’s Board of Directors. Pursuant to the Agreement and Plan of Merger (the “Merger Agreement”), each
+issued and outstanding share of SolarCity common stock was converted into 0.110 (the “Exchange Ratio”) shares of Tesla common
+stock. SolarCity options and restricted stock unit awards were assumed by Tesla and converted into corresponding equity awards in
+respect of Tesla common stock based on the Exchange Ratio, with the awards retaining the same vesting and other terms and
+conditions as in effect immediately prior to the acquisition.
+Fair Value of Consideration Transferred
+The acquisition date fair value of the consideration transferred totaled $2.1 billion, which consisted of the following (in
+thousands, except for share and per share amounts):
+Total fair value of Tesla common stock
+issued (11,124,497 shares issued at $185.04 per share) $ 2,058,477
+Fair value of replacement Tesla stock
+options and restricted stock units for vested SolarCity awards... 87,500
+Total purchase price :$ 2,145,977:
+In addition, we also assumed unvested SolarCity awards of $95.9 million which will be recognized as stock-based compensation
+expense over the remaining requisite service period. Per ASC 805, Business Combinations, the replacement of stock options or other
+share-based payment awards in conjunction with a business combination represents a modification of share-based payment awards
+that must be accounted for in accordance with ASC 718, Compensation—Stock Compensation. As a result of our obligation to issue
+replacement awards, a portion of the fair-value-based measure of replacement awards is included in measuring the purchase
+consideration transferred in the business combination. To determine the portion of the replacement awards that is part of the purchase
+consideration, we measured the fair value of both the replacement awards and the historical awards as of the Acquisition Date, in
+accordance with ASC 718. The fair value of the replacement awards, whether vested or unvested, was included in the purchase
+consideration to the extent that pre-acquisition services had been rendered.
+Transaction costs of $21.7 million were expensed as incurred in selling, general and administrative expense of our Consolidated
+Statements of Operations.
+Fair Value of Assets Acquired and Liabilities Assumed
+We accounted for the acquisition using the purchase method of accounting for business combinations under ASC 805, Business
+Combinations. The total purchase price is allocated to the tangible and identifiable intangible assets acquired and liabilities and
+noncontrolling interests assumed based on their estimated fair values as of the Acquisition Date.
+73

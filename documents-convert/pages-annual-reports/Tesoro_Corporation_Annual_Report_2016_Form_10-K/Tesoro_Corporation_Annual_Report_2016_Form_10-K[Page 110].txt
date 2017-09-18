@@ -1,0 +1,43 @@
+[ mm GONSOA WW ]
+0 The 2011 Plan permits the grant of options, SARs, restricted common stock, restricted stock units and incentive bonuses (which may be paid in cash,
+stock or a combination thereof), any of which may be performance-based. The 2011 Plan became effective in May 2011 and no awards may be granted
+under the 2011 Plan on or after February 2021. Stock options may be granted at exercise prices not less than the fair market value on the date the
+options are granted.
+0 The 2006 Plan permits the grant of options, restricted common stock, deferred stock units, performance stock awards, other stock-based awards and
+cash-based awards. The 2006 Plan became effective in May 2006. Stock options may be granted at exercise prices not less than the fair market value on
+the date the options are granted. Options granted become exercisable after one year in 33% annual increments and expire 10 years from the date of
+grant. No further awards may be granted under this plan.
+0 The Amended and Restated Executive Long-Term Incentive Plan, which expired in May 2006, allowed grants in a variety of forms, including restricted
+stock, nonqualiﬁed stock options, SARs, performance share and performance unit awards. As of December 31, 2016 and 2015, we no longer have
+outstanding awards in this plan, although there were awards outstanding during 2015 which were all exercised.
+0 The 1995 Non-Employee Director Stock Option Plan provided for the grant of nonqualiﬁed stock options over the life of the plan to eligible non-
+employee directors of Tesoro. These automatic, non-discretionary stock options were granted at an exercise price equal to the fair market value per
+share of Tesoro’s common stock at the date of grant. The term of each option is 10 years, and an option becomes exercisable six months after it is
+granted. The plan expired in February 2010 and no further options may be granted under this plan.
+TLGP maintains a unit-based compensation plan for officers and directors of TLGP and its afﬁliates. The TLLP 2011 Long-Term Incentive Plan, as amended
+and restated in October 2016, ("TLLP Plan”) permits the grant of options, restricted units, phantom units, unit appreciation rights, distribution equivalent rights,
+unit awards and other unit-based awards. Awards granted during 2016 under the TLLP Plan will be settled with TLLP units. Compensation expense for these
+awards was not material to our consolidated financial statements for the years ended December 31, 2016, 2015, or 2014.
+STOCK-BASED COMPENSATION EXPENSE (BENEFIT) (in millions)
+Years Ended December 31,
+2016 2015 2014
+Stock appreciation rights $ (14) $ 25 $ 15
+Performance share awards 10 11 17
+Market stock units 29 27 17
+Restricted common stock 5 4 3
+Other 5 8 3
+Total Stock-Based Compensation Expense $ 35 $ 75 $ 55
+We have aggregated expenses for certain award types as they are not considered signiﬁcant. The income tax effect recognized in the income statement for
+stock-based compensation was a beneﬁt of $28 million, $28 million and $24 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+Included in the tax benefit of $28 million for the year ended December 31, 2016 was $16 million of tax benefit attributable to excess tax beneﬁts from exercises
+and vestings that occurred during the year, the effects of which were recorded in the Statement of Consolidated Operations pursuant to ASU 2016-09. The
+reduction in current taxes payable recognized from tax deductions resulting from exercises and vestings under all of our stock-based compensation
+arrangements totaled $37 million, $75 million and $46 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+STOCK APPRECIATION RIGHTS
+A SAR entitles an employee to receive cash in an amount equal to the excess of the fair market value of one share of common stock on the date of exercise
+over the grant price of the SAR. Our SARs become exercisable after three years and expire seven years from the date of grant. The fair value of each SAR is
+estimated at the end of each reporting period using the Black-Scholes option-pricing model. We did not grant SARs to our employees during the years ended
+December 31, 2016, 2015 or 2014. We paid cash of $21 million, $44 million and $31 million to settle SARs exercised during 2016, 2015 and 2014, respectively.
+We had $6 million and $41 million recorded in other current liabilities associated with our SARs awards in our consolidated balance sheets at December 31,
+2016 and 2015, respectively.
+December 31, 2016 | 105

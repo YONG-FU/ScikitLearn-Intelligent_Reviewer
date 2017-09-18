@@ -1,0 +1,43 @@
+(7) that Holders Whose Notes are being purchased only in part will be issued new Notes equal in principal amount to the unpurchased portion of
+the Notes surrendered, which unpurchased portion must be equal to $2,000 in principal amount or an integral multiple of $ 1 ,000 in excess thereof.
+The Issuers will comply with the requirements of Rule 14e-1 under the Exchange Act and any other securities laws and regulations thereunder to the
+extent those laws and regulations are applicable in connection with the repurchase of the Notes as a result of a Change of Control Triggering Event. To the
+extent that the provisions of any securities laws or regulations conﬂict with the provisions of this Indenture, the Issuers will comply with the applicable
+securities laws and regulations and will not be deemed to have breached its obligations under this Section £1.15, by Virtue of such compliance.
+(b) On the Change of Control Payment Date, the Issuers will, to the extent lawﬁil:
+(1) accept for payment all Notes orportions of Notes properly tendered pursuant to the Change of Control Offer;
+(2) deposit with the Paying Agent an amount equal to the Change of Control Payment in respect of all Notes or portions of such Notes properly
+tendered pursuant to the Change of Control Offer; and
+(3) deliver or cause to be delivered to the Trustee the Notes accepted for purchase together with an Ofﬁcers’ Certiﬁcate stating the aggregate
+principal amount of Notes or portions of such Notes being purchased by the Issuers.
+The Paying Agent will promptly mail to each Holder properly tendered the Change of Control Payment for such Notes
+(or, if all the Notes are then in global form, it will make such payment through the facilities of DTC), and the Trustee will promptly authenticate and mail (or
+cause to be transferred by book entry) to each Holder a new Note equal in principal amount to any unpurchased portion of the Notes surrendered, if any;
+provided, that each new Note will be in a principal amount of $2,000 or an integral multiple of $ 1,000 in excess thereof The Issuers will publicly announce
+the results of the Change of Control Offer on or as soon as practicable after the Change of Control Payment Date.
+(c) Notwithstanding anything to the contrary in this Section 4.15, the Issuers will not be required to make a Change of Control Offer upon a Change of
+Control Triggering Event if (1) a third party makes the Change of Control Offer in the manner, at the times and otherwise in compliance with the requirements
+set forth in this Section A .15, and purchases all Notes properly tendered and not withdrawn under the Change of Control Oﬁ‘er or (2) notice of redemption has
+been given pursuant to ,S,e,c,ti,on,3,.0,7, hereof, unless and until there is a default in payment of the applicable redemption price.
+((1) A Change of Control Offer may be made with respect to the Notes in advance of a Change of Control Triggering Event, and conditioned upon the
+occurrence of such Change of Control Triggering Event or such other conditions as may be described in the notice delivered to holders as described above, if
+a deﬁnitive agreement for the Change of Control Triggering Event is in place at the time of making the Change of Control Offer. If a Change of Control Offer
+is subject to satisfaction of one or more conditions precedent, the notice delivered to Holders shall state that, in the Issuers’ discretion, the Change of Control
+Payment Date may be delayed until such time (including more than 60 days after the date the notice was delivered) as any or all such conditions shall be
+satisﬁed, or such Change of Control Payment Date may not occur and such notice may be rescinded in the event that any or all such conditions shall not have
+been satisﬁed by the Change of Control Payment Date, or by the Change of Control Payment Date so delayed, or such notice may be rescinded at any time in
+the Issuers’ discretion if in the good faith judgment of the Issuers any or all of such conditions will not be satisﬁed.
+(e) With respect to the Notes, in the event that Holders of not less than 90% of the aggregate principal amount of the outstanding Notes tender and do
+not withdraw such Notes in a Change of Control Offer and TLLP (or the third party making the Change of Control Offer as provided above) purchases all of
+the Notes validly tendered and not withdrawn by such Holders, TLLP or such third party shall have the right, upon not less than 15 nor more than 60 days’
+prior notice, given not more than 30 days following the purchase pursuant to the Change of Control Offer described above, to redeem all of the Notes that
+remain outstanding following such purchase at a redemption price equal to 101% of the aggregate principal amount of such Notes, plus accrued and unpaid
+interest on the Notes that remain outstanding to the date of redemption (subject to the right of Holders of record on the relevant record date to receive interest
+due on an Interest Payment Date that is on or prior to the Redemption Date).
+Section 4.16 Additional Guarantors.
+If, after the Issue Date, any wholly-owned Domestic Subsidiary (other than Finance Corp.) of TLLP that is not already a Guarantor guarantees any other
+Indebtedness of either of the Issuers under a Credit Facility in an aggregate principal amount in excess of $50.0 million, then that Subsidiary will become a
+Guarantor by executing and delivering a supplemental indenture to the Trustee within 30 Business Days of the date on which it guaranteed or incurred such
+Indebtedness; provided that the preceding shall not apply to Subsidiaries of TLLP that have been properly designated as Unrestricted Subsidiaries in
+accordance with this Indenture for so long
+-41-

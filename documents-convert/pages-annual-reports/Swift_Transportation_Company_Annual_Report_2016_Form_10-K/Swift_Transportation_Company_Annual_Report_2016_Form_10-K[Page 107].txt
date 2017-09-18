@@ -1,0 +1,36 @@
+Deferred Income Taxes — The components of the net deferred tax asset (liability) included in "Deferred income
+taxes" in the consolidated balance sheets were:
+December 31,
+7 2016 2015 7
+(In thousands)
+Deferred tax assets:
+Self-insurance accruals $ 73,654 $ 66,949
+Allowance for doubtful accounts 8,036 11,448
+Amortization ofstock options 6,397 8,923
+Accrued liabilities 15,366 1,773
+Vacation accrual 5,358 4,990
+Other 7 8,940” 11,5897
+Total deferred tax assets 117,751 105,672
+Valuation allowance 7 —” —7
+Total deferred tax assets, net 117,751 105,672
+Deferred tax liabilities:
+Property and equipment, principally due to differences in depreciation (420,975) (434,802)
+Prepaid taxes, licenses, and permits deducted for tax purposes (13,284) (14,083)
+Cancellation of debt (3,747) (5,622)
+Intangible assets (106,143) (110,546)
+Other 7 (1,324) 7 (4,451)
+Deferred tax liabilities 7 (545,473) 7 (569,504)
+Deferred income taxes 77$ (427,722) 77$ (463,832)
+Valuation Allowance — As of December 31, 2016, the Company had federal and state net operating loss
+carryforwards remaining, with estimated tax effects of $0.5 million and $0.1 million, respectively. The federal and
+state net operating losses will expire at various times between 2017 and 2030. The Company has not established
+a valuation allowance as it has been determined that, based upon available evidence, a valuation allowance is not
+required. Management asserts that it is more likely than not that the results of future operations will generate
+sufficient taxable income to realize the deferred tax assets. All other deferred tax assets are expected to be realized
+and utilized by continued profitability in future periods.
+Cumulative Undistributed Foreign Earnings — United States income and foreign withholding taxes have not
+been provided on approximately $36.3 million of cumulative undistributed earnings of foreign subsidiaries as of
+December 31 , 2016. The earnings are considered to be permanently reinvested outside the United States. As such,
+under current law, the Company is not required to provide United States income taxes on these earnings until they
+are repatriated in the form of dividends or otherwise.
+103

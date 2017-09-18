@@ -1,0 +1,36 @@
+Table,0f,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Property, Plant and Equipment
+Property, plant and equipment are stated at the lower of cost or realizable value, net of accumulated depreciation. Depreciation is computed using the straight-line
+method based on estimated useful lives of the assets, which range from one to 40 years. Leasehold improvements are amortized over the lesser of the estimated
+useful lives of the improvements or the lease terms, as apprOpriate. Property, plant and equipment are periodically reviewed for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not be recoverable. We did not recognize any significant property impairment charges
+in ﬁscal 2016, 2015 or 2014.
+Goodwill, Intangible Assets and Impairment Assessments
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and intangible assets acquired. Intangible assets
+that are not considered to have an indefinite useful life are amortized over their useful lives, which generally range from one to 10 years. Each period we evaluate
+the estimated remaining useful lives of purchased intangible assets and whether events or changes in circumstances warrant a revision to the remaining periods of
+amortization.
+The carrying amounts of our goodwill and intangible assets are periodically reviewed for impairment (at least annually for goodwill and indeﬁnite lived intangible
+assets) and whenever events or changes in circumstances indicate that the carrying value of these assets may not be recoverable. According to ASC 350, Intangibles
+— Goodwill and Other , we can opt to perform a qualitative assessment to test a reporting unit’s goodwill for impairment or we can directly perform the two-step
+impairment test. Based on our qualitative assessment, if we determine that the fair value of a reporting unit is more likely than not (i.e., a likelihood of more than 50
+percent) to be less than its carrying amount, the two-step impairment test will be performed. In the first step, we compare the fair value of each reporting unit to its
+carrying value. If the fair value of the reporting unit exceeds the carrying value of the net assets assigned to that unit, goodwill is not considered impaired and we
+are not required to perform further testing. If the carrying value of the net assets assigned to the reporting unit exceeds the fair value of the reporting unit, then we
+must perform the second step of the impairment test in order to determine the implied fair value of the reporting unit’s goodwill. If the carrying value of a reporting
+unit’s goodwill exceeds its implied fair value, then we would record an impairment loss equal to the difference. We did not recognize any goodwill impairment
+charges in fiscal 2016 or 2014. During ﬁscal 2015, we recognized a $186 million goodwill impairment loss (refer to Note 7 below for additional information).
+Recoverability of finite lived intangible assets is measured by comparison of the carrying amount of the asset to the future undiscounted cash ﬂows the asset is
+expected to generate. Recoverability of indeﬁnite lived intangible assets is measured by comparison of the carrying amount of the asset to its fair value. If the asset
+is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset. We
+did not recognize any intangible asset impairment charges in ﬁscal 2016, 2015 or 2014.
+Derivative Financial Instruments
+During ﬁscal 2016, 2015 and 2014, we used derivative and non-derivative financial instruments to manage foreign currency and interest rate risks (see Note 11
+below for additional information). We account for these instruments in accordance with ASC 815, Derivatives and Hedging (ASC 815), which requires that every
+derivative instrument be recorded on the balance sheet as either an asset or liability measured at its fair value as of the reporting date. ASC 815 also requires that
+changes in our derivatives’ fair values be recognized in earnings, unless specific hedge accounting and documentation criteria are met (i.e., the instruments are
+accounted for as hedges).
+100

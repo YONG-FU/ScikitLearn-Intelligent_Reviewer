@@ -1,0 +1,49 @@
+Table of Contents
+Digital Marketing
+The markets in which our Digital Marketing business unit competes are growing rapidly and characterized by intense
+competition. Our Adobe Marketing Cloud solutions face competition from large companies such as Google, IBM, Marketo, Oracle,
+salesforce.com, SAP, SAS, Yahoo! , Verizon, Teradata and others, in addition to point product solutions and focused competitors.
+Additionally, new competitors are constantly entering these markets. Some of these competitors provide SaaS solutions to
+customers, generally through a web browser, while others provide software that is installed by customers directly on their servers.
+In addition, we compete at times with our customers’ or potential customers’ internally developed applications. Of the competitors
+listed above, no single company has products identical to our Adobe Marketing Cloud offerings. Adobe Marketing Cloud competes
+in a variety of areas, including: reporting and analytics; cross-channel marketing and optimization; online and social marketing;
+audience management; advertising and real-time bidding technology; video delivery and monetization; web experience
+management and others.
+Many of the companies with which we compete offer a variety of products or services and as a result could also bundle
+their products or services, which may result in these companies effectively selling their products or services at or below market
+prices for individual products. In addition, large software, internet and database management companies have expanded their
+offerings in the digital marketing area, either by developing competing services or by acquiring existing competitors or strategic
+partners of ours. We believe competitive factors in our markets include the proven performance, security, scalability, ﬂexibility
+and reliability of services; the strategic relationships and integration with third-party applications; the intuitiveness and visual
+appeal of user interfaces; demonstrable cost-effective beneﬁts to customers; pricing; the ﬂexibility of services to match changing
+business demands; enterprise-level customer service and training; perceived market leadership; the usability of services; real-time
+data and reporting; independence from portals and search engines; the ability to deploy the services globally; and success in
+educating customers in how to utilize services eﬁectively. We believe we compete favorably with both the enterprise and low-
+cost alternatives based on many of these competitive factors including our strong feature set, the breadth of our offerings, our
+focus on global, multi-brand companies, our superior user experience, tools for building multi-screen, cross-channel applications,
+standards-based architecture, scalability and performance and leadership in industry standards efforts.
+Creative and digital agencies, as well as 81s, are increasingly investing in acquiring their own digital marketing technology
+to complement their creative services offerings. Adobe may face competition from these agencies and 81s as they come to market
+with best-of-breed offerings in one or more digital marketing capabilities, or if agencies attempt to create a more complete
+technology platform offering. We believe our creative tools heritage diﬁerentiates us from our competitors. We have worked
+closely with marketing and creative customers for over thirty years. We also believe we have leadership in this space, with current
+customers representing leading global brands. Our comprehensive solutions extend more broadly than any other company in
+serving the needs of marketers and addressing this market opportunity; we integrate content and data, analytics, personalization,
+digital experience management, cross-channel campaign management, audience management, video delivery and monetization
+and social capabilities in our Adobe Marketing Cloud. Most importantly, we provide a vision for our digital marketing customers
+as we engage with them across the important aspects of their business, extending from their use of Creative Cloud and Document
+Cloud to how they manage, deliver, measure and monetize their content with our Adobe Marketing Cloud.
+Print and Publishing
+Our Print and Publishing product offerings face competition from large-scale electronic and web publishing systems, XML-
+based publishing companies as well as lower-end desktop publishing products. Depending on the product line, competition is
+based on a number of factors, including: the quality and features of products, ease-of-use, printer service support, the level of
+customization and integration with other publishing system components, the number of hardware platforms supported, service
+and price. We believe we can successfully compete based upon the quality and features of our products, our strong brand among
+users, the widespread adoption of our products among printer service bureaus, and our extensive application programming
+interfaces.
+In printing technologies, we believe the principal competitive factors for OEMs in selecting a page description language
+or a printing technology are product capabilities, market leadership, reliability, price, support and engineering development
+assistance. We believe that our competitive advantages include our technology competency, OEM customer relationships and our
+intellectual property portfolio.
+14

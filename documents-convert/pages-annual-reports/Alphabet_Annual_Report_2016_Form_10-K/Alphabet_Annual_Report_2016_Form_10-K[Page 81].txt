@@ -1,0 +1,48 @@
+IaibleiofiCiontents Alphabet Inc.
+Deferred Income Taxes
+Deferred income taxes reflect the net effects of temporary differences between the carrying amounts of assets
+and liabilities for financial reporting purposes and the amounts used for income tax purposes. Signiﬁcant components
+of our deferred tax assets and liabilities are as follows (in millions):
+7 As of December 31, 7
+’ 2015 _ 2016 ’
+I Deferred tax assets: l
+Stock-based compensation expense $ 534 $ 574
+] Accrued employee beneﬁts 832 939 ‘
+Accruals and reserves not currently deductible 245 500
+1 Tax credits 503 631 1
+Basis difference in investment of Arris 1,357 1,327
+] Prepaid cost sharing 3,468 4,409 ‘
+Other 7 931 7 7 9267
+] Total deferred tax assets 7 7,8707 7 9,306l
+Valuation allowance (1,732) (2,076)
+] Total deferred tax assets net of valuation allowance 6,138 7,230 l
+Deferred tax liabilities:
+I Depreciation and amortization (1,126) (877):
+Identiﬁed intangibles (787) (844)
+] Renewable energy investments (529) (788):
+Foreign earnings (3,468) (4,409)
+l Other f (166)? (155)}
+Total deferred tax liabilities 7 (6,076) 7 (7,073)
+[Net deferred tax assets $ 62 $ 157‘
+As of December 31, 2016, our federal and state net operating loss carryforwards for income tax purposes were
+approximately $592 million and $681 million. If not utilized, the federal net operating loss carryforwards will begin to
+expire in 2021 and the state net operating loss carryforwards will begin to expire in 2017. It is more likely than not that
+our state net operating loss carryforwards will not be realized; therefore, we have recorded a valuation allowance
+against them. The net operating loss carryforwards are subject to various annual limitations under the tax laws of the
+differentjurisdictions. Our foreign net operating loss carryforwards for income tax purposes were $304 million that will
+begin to expire in 2022.
+As of December 31 , 2016, our California research and development credit carryforwards for income tax purposes
+were approximately $1,515 million that can be carried over indeﬁnitely. We believe the state tax credit is not likely to
+be realized. Our foreign tax credit carryforwards for income tax purposes were approximately $166 million that will
+start to expire in 2025. We believe it is more likely than not that all of the foreign tax credit will be realized.
+As of December 31 , 2016, we maintained a valuation allowance with respect to certain of our deferred tax assets
+relating primarily to investment losses that are capital in nature, California deferred tax assets, and certain foreign net
+operating losses that we believe are not likely to be realized. We established a deferred tax asset for the book-to-tax
+basis difference in our investments in Arris shares received from the sale of the Motorola Home business to Arris in
+2013. Since any future losses to be recognized upon the sale ofArris shares will be capital losses, a valuation allowance
+has been recorded against this deferred tax asset to the extent such deferred tax asset is not likely to be covered by
+capital gains generated as of 2016. We reassess the valuation allowance quarterly and if future evidence allows for a
+partial or full release of the valuation allowance, a tax beneﬁt will be recorded accordingly.
+As a result of the Altera opinion, we have recognized a deferred tax asset of $4.4 billion and a deferred tax liability
+of $4.4 billion. Refer to above for more details on the Altera case.
+78

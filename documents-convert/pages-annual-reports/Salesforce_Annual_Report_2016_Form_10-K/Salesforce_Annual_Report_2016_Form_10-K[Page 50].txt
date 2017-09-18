@@ -1,0 +1,47 @@
+aggregate unbilled deferred revenue will change from year-to-year depending in part upon the number and dollar
+amount of subscription agreements at particular stages in their renewal cycle. Such ﬂuctuations are not a reliable
+indicator of future revenues. Unbilled deferred revenue does not include minimum revenue commitments from
+indirect sales channels, as we recognize revenue, deferred revenue, and any unbilled deferred revenue upon sell-
+through to an end user customer.
+Cost of Revenues and Operating Expenses
+Cost of Revenues. Cost of subscription and support revenues primarily consists of expenses related to delivering
+our service and providing support, the costs of data center capacity, depreciation or operating lease expense associated
+with computer equipment and software, allocated overhead, amortization expense associated with capitalized software
+related to our services and acquired developed technologies and certain fees paid to various third parties for the use of
+their technology, services and data. We allocate overhead such as information technology infrastructure, rent and
+occupancy charges based on headcount. Employee benefit costs and taxes are allocated based upon a percentage of
+total compensation expense. As such, general overhead expenses are reﬂected in each cost of revenue and operating
+expense category. Cost of professional services and other revenues consists primarily of employee-related costs
+associated with these services, including stock-based expenses, the cost of subcontractors and allocated overhead. The
+cost of providing professional services is signiﬁcantly higher as a percentage of the related revenue than for our
+enterprise cloud computing subscription service due to the direct labor costs and costs of subcontractors.
+We intend to continue to invest additional resources in our enterprise cloud computing services. For
+example, we have invested in additional database software and we plan to increase the capacity that we are able
+to offer globally through data centers and third party infrastructure providers. As we acquire new businesses and
+technologies, the amortization expense associated with this activity will be included in cost of revenues.
+Additionally, as we enter into new contracts with third parties for the use of their technology, services or data, or
+as our sales volume grows, the fees paid to use such technology or services may increase. The timing of these
+additional expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of
+revenues, in the affected periods.
+Research and Development. Research and development expenses consist primarily of salaries and related
+expenses, including stock-based expenses, the costs of our development and test data center and allocated
+overhead. We continue to focus our research and development efforts on adding new features and services,
+integrating acquired technologies, increasing the functionality and security and enhancing the ease of use of our
+enterprise cloud computing services. Our proprietary, scalable and secure multi-tenant architecture enables us to
+provide all of our customers with a service based on a single version of our application. As a result, we do not
+have to maintain multiple versions, which enables us to have relatively lower research and development expenses
+as compared to traditional enterprise software companies.
+We expect that in the future, research and development expenses will increase in absolute dollars and may
+increase as a percentage of total revenues as we invest in building the necessary employee and system
+infrastructure required to support the development of new, and improve existing, technologies and the integration
+of acquired businesses and technologies.
+Marketing and Sales. Marketing and sales expenses are our largest cost and consist primarily of salaries and
+related expenses, including stock-based expenses, for our sales and marketing staff, including commissions,
+payments to partners, marketing programs and allocated overhead. Marketing programs consist of advertising,
+events, corporate communications, brand building and product marketing activities.
+We plan to continue to invest in marketing and sales by expanding our domestic and international selling
+and marketing activities, building brand awareness, attracting new customers and sponsoring additional
+marketing events. The timing of these marketing events, such as our annual and largest event, Dreamforce, will
+affect our marketing costs in a particular quarter. We expect that in the future, marketing and sales expenses will
+increase in absolute dollars and continue to be our largest cost.
+43

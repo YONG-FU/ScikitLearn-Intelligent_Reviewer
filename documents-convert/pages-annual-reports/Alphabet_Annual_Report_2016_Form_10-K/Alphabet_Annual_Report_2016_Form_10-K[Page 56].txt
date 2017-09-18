@@ -1,0 +1,39 @@
+IaibleiofiCiontents Alphabet Inc.
+entity from the Master Glossary of the Accounting Standards Codiﬁcation (ASC), thereby removing the ﬁnancial
+reporting distinction between development stage entities and other reporting entities. The additional elimination of
+related consolidation guidance requires companies with interests in development stage entities to reassess whether
+such entities are variable interest entities under ASC Topic 810, Consolidation. We adopted this standard in the ﬁrst
+quarter of2016 on a retrospective basis. The adoption of this standard did not have a material impact on our consolidated
+ﬁnancial statements. Additional disclosures have been made related to certain entities that are now considered variable
+interest entities under this standard. See Note 7 for details.
+In February 2015, the FASB issued Accounting Standards Update No. 2015-02 (ASU 2015-02) "Consolidation
+(Topic 810): Amendments to the Consolidation Analysis." ASU 2015-02 changes the analysis that a reporting entity
+must perform to determine whether it should consolidate certain types of legal entities. We adopted this standard in
+the first quarter of 2016 on a retrospective basis. The adoption of this standard did not have a material impact on our
+consolidated ﬁnancial statements but resulted in additional investments being considered variable interest entities.
+In March 2016, the FASB issued Accounting Standards Update No. 2016-09 (ASU 2016-09) "Compensation—
+Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting." We have elected
+to early adopt these amendments beginning in the ﬁrst quarter of 2016. Stock-based compensation
+excess tax benefits or deficiencies are now reflected in the Consolidated Statements of Income as a component of
+the provision for income taxes, whereas they previously were recognized in equity. Additionally, our Consolidated
+Statements of Cash Flows now include excess tax beneﬁts as an operating activity, with the prior periods adjusted
+accordingly. Finally, we have elected to account for forfeitures as they occur, rather than estimate expected
+forfeitures. As a result of the adoption of ASU 2016-09, the Consolidated Statements of Cash Flows for the twelve
+months ended December 31, 2014 and 2015 were adjusted as follows: $648 million and $548 million increases to net
+cash provided by operating activities, respectively, and $648 million and $548 million increases to net cash used in
+ﬁnancing activities, respectively.
+Revision of Previously Disclosed Information
+During the third quarter of 2016, we identiﬁed an omission in our supplemental disclosure of cash paid for income
+taxes in the Consolidated Statements of Cash Flows. We have evaluated the materiality of the impact quantitatively
+and qualitatively and concluded it was not material to any of the prior periods impacted. We elected to revise the
+supplemental disclosure for the comparable periods presented. The revision only impacted our supplemental
+disclosures included in the Consolidated Statements of Cash Flows.
+Prior Period Reclassifications
+Certain amounts in prior periods have been reclassiﬁed to conform with current period presentation.
+Note 2. Financial Instruments
+We classify our cash equivalents and marketable securities within Level 1 or Level 2 in the fair value hierarchy
+because we use quoted market prices or alternative pricing sources and models utilizing market observable inputs to
+determine their fair value. We classify our foreign currency and interest rate derivative contracts primarily within Level
+2 in the fair value hierarchy as the valuation inputs are based on quoted prices and market observable data of similar
+instruments.
+53

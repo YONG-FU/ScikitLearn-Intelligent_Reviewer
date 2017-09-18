@@ -1,0 +1,49 @@
+Table of Contents
+Adobe Audience Manager
+Adobe Audience Manager is a data management platform that helps digital publishers build unique audience proﬁles in
+order to identify the most valuable segments and use them across any digital channel. Adobe Audience Manager consolidates
+audience information from all available sources. It then identifies, quantifies, and optimizes high-value target audiences, which
+can then be offered to advertisers via an integrated, secure, privacy-friendly management system that works across all advertising
+distribution platforms. Adobe Audience Manager provides access to multiple data sources, offering digital publishers the ability
+to use a wide variety of third-party data as well as Audience Manager’s private data co-op.
+Adobe Primetime
+Adobe Primetime is a modular platform for video publishing, advertising, and analytics, enabling content programmers
+and distributors to profit from their video content by making every screen a TV-including personal computer, smartphone and
+tablet screens. When integrated with the Adobe Marketing Cloud, media sellers can optimize campaign and advertisement delivery
+in real time. Primetime consists of the following components: PayTV Pass, a universal system for validating access to pay TV
+content, DRM, which is digital rights management technology to protect video content from unauthorized copying or access, Ad
+Insertion, providing for the seamless insertion of advertisements into live and video-on—demand content; Ad Decisioning, providing
+for the ability to determine which advertisements should be published; and Video Player SDK, which gives programmers and
+distributors the ability to measure, analyze and optimize online video delivery.
+T ubeMogul
+We acquired TubeMogul in December 2016 following the end of our fiscal year. Our TubeMogul solution enables advertisers
+to plan, buy, measure and optimize global advertising spend from a single platform. Our platform incorporates our proprietary
+programmatic technologies, including real-time bidding, automated optimization and advanced audience targeting capabilities,
+and integrates key third-party technologies. Through an intuitive user interface, our customers are able to control and automate
+advertising spend across the various sources of inventory, including inventory acquired directly from individual publishers, to
+reach targeted audiences across digital devices at any time. In addition, by using a single platform, our customers benefit from
+comprehensive, real-time reporting that is comparable across sources of inventory, geographies, digital devices and ad formats.
+We make our cloud-based platform available through two offerings: Platform Direct, which allows advertisers to continuously
+run campaigns through a self-serve model, and Platform Services, which allows advertisers to specify campaign objectives and
+have our team execute on their behalf using our platform.
+Other Products and Solutions
+We also offer a broad range of other enterprise and digital media products and solutions. Information about other
+products not referenced here can be found on our corporate website, www.adobe.com, under the “Products” tab available in the
+“Menu.”
+COMPETITION
+The markets for our products and services are characterized by intense competition, new industry standards, evolving
+business and distribution models, disruptive software and hardware technology developments, frequent new product introductions,
+short product life cycles, price cutting with resulting downward pressure on gross margins and price sensitivity on the part of
+consumers. Our future success will depend on our ability to enhance and better integrate our existing products, introduce new
+products on a timely and cost-effective basis, meet changing customer needs, provide best-in-class information security to build
+customer confidence and combat cyber-attacks, extend our core technology into new applications and anticipate and respond to
+emerging standards, business models, software delivery methods and other technological changes.
+Digital Media
+No single company has oﬂerings identical to our Creative Cloud products and services, but we face collective competition
+from a variety of point offerings, free products and downloadable apps. Our competitors include offerings from companies such
+as Apple, Autodesk, Avid, Corel, Microsoft, Quark, Getty Images, Shutterstock and others, as well as from many lower-end
+offerings available on touch-enabled devices via app stores, and from various open source initiatives. We believe our greatest
+advantage in this space is the scope of our integrated solutions, which work together as part of Creative Cloud. With Creative
+Cloud we also compete favorably on the basis of features and functionality, ease of use, product reliability, value and performance
+characteristics.
+12

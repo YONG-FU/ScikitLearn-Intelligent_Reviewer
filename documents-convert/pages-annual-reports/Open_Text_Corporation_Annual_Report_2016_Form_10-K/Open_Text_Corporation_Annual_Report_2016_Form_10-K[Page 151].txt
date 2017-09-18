@@ -1,0 +1,54 @@
+Fair Value of Derivative Instruments in the Consolidated Balance Sheets (see note 15)
+As of June 30, 2016 As of June 30, 2015
+Fair Value Fair Value
+Derivatives Balance Sheet Location Asset (Liability) Asset (Liability)
+Foreign currency forward contracts designated as Prepaid expenses and
+cash ﬂow hedges other current assets 73; 792 7 7$ 273 7
+Eﬁ’ects of Derivative Instruments on Income and Other Comprehensive Income (OCI)
+7 Year Ended June 30, 2016 7
+Location of Amount of Gain or
+Gain or (Loss) (Loss) Recognized
+Location of Recognized in
+Gain or (Loss) in Income on Income on
+Amount of Gain or Reclassiﬁed Amount of Gain or Derivatives Derivatives
+(Loss) from (Loss) Reclassiﬁed (Ineffective (Ineffective
+Recognized in OCI Accumulated from Portion and Portion
+on OCI into Accumulated OCI Amount and Amount
+Derivatives Income into Excluded from Excluded
+Derivatives in Cash Flow (Effective (Effective Income (Effective Effectiveness from Effectiveness
+7Hedging Relationship Portion) Portion) Portion) Testing) Testing) 7
+Operating
+Foreign currency forward contracts $ (3,502) expenses $ (4,021) N/A 39 —
+7 Year Ended June 30, 2015 7
+Location of Amount of Gain or
+Gain or (Loss) (Loss) Recognized
+Location of Recognized in
+Gain or (Loss) in Income on Income on
+Amount of Gain or Reclassiﬁed Amount of Gain or Derivatives Derivatives
+(Loss) from (Loss) Reclassiﬁed (Ineffective (Ineffective
+Recognized in OCI Accumulated from Portion and Portion
+on OCI into Accumulated OCI Amount and Amount
+Derivatives Income into Excluded from Excluded
+Derivatives in Cash Flow (Effective (Effective Income (Effective Effectiveness from Effectiveness
+Hedging Relationship Portion) Portion) Portion) Testing) Testing)
+Operating
+Foreign currency forward contracts $ (8,252) expenses $ (7,769) N/A 39 —
+NOTE 17—SPECIAL CHARGES (RECOVERIES)
+Special charges include costs that relate to certain restructuring initiatives that we have undertaken from time to time
+under our various restructuring plans, as well as acquisition-related costs and other miscellaneous charges.
+7 Year Ended June 30, 7
+7 2016 7 7 2015 7 7 2014
+{Fiscal 2015 Restructuring Plan 8 22,179 $ 8,218 $ — I
+OpenText/GXS Restructuring Plan (3,427) 8,163 19,306
+Restructuring Plans prior to OpenText/GXS
+Restructurlng Plan (108) (1,809) 7,492
+Acquisition-related costs 7,710 4,462 10,074
+1 Other charges (recoveries) 8,492 (6,211) (5,558)]l
+Total is 34,846 i is 12,823 : $ 31,314 7
+Fiscal 2015 Restructuring Plan
+In the third quarter of Fiscal 2015 and in the context of the acquisition of Actuate Corporation (Actuate), we began to
+implement restructuring activities to streamline our operations (OpenText/Actuate Restructuring Plan). We subsequently
+announced, on May 20, 2015 that we were initiating a restructuring program in conjunction with organizational changes to
+support our cloud strategy and drive further operational eﬂiciencies. These charges are combined with the OpenText/Actuate
+Restructuring Plan (collectively referred to as the Fiscal 2015 Restructuring Plan) and are presented below. The Fiscal 2015
+143

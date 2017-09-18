@@ -1,0 +1,41 @@
+Note 15—Other Income (Loss), Net
+(In thousands) 2016 2015 2014
+[Interest income $ 2,827 $ 1,525 $ 1,822 j
+Gain on asset dispositions, net 593 1,724 2,094
+[omen net 710 836 (1,101)}
+Disposal of non-core product lines — (4,223) —
+[Impairment of intangible assets — (723) — l
+Land impairment loss — — (50)
+[Total other income (loss), net 0 4,130 $ (861) $ 2,765 |
+During the year ended December 31, 2016, we recognized $2.8 million of income related to interest earned on cash
+balances and notes receivable from insurance companies. Please refer to Note 19 Contingencies to the Consolidated Financial
+Statements in Part II Item 8 of this Form 10-K for further discussion on the Company's notes receivable from insurance
+companies.
+During the year ended December 31, 2015, we recorded $4.2 million of losses associated with the disposal of net assets
+related to the Safety Works business in our Americas segment. A discounted cash ﬂow valuation was also performed and
+showed that the book value of intangible assets used to support certain non-core product sales exceeded their fair value by $0.7
+million in our Americas segment. Additionally, we recognized a $2.0 million gain on the sale of property in Australia, which is
+part of our International segment, as the Company continues to right-size operations and optimize its global footprint.
+During the year ended December 31, 2014, we recognized a $2.2 million gain on the sale of detector tube assets in our
+International segment. All proceeds associated with this transaction were collected in 2014. Under the terms of the transitional
+agreements, we continued to manufacture and sell detector tubes on behalf of the buyer until mid-2014.
+Note 16—Leases
+We lease oﬁice space, manufacturing and warehouse facilities, automobiles and other equipment under operating lease
+arrangements. Rent expense was $12.6 million in 2016, $10.8 million in 2015 and $11.7 million in 2014. Minimum rent
+commitments under noncancellable leases are $12.2 million in 2017, $11.0 million in 2018, $10.6 million in 2019, $5.2 million
+in 2020, $4.2 million in 2021 and $7.0 million thereafter.
+Note 17—Derivative Financial Instruments
+As part of our currency exchange rate risk management strategy, we enter into certain derivative foreign currency forward
+contracts that do not meet the US. GAAP criteria for hedge accounting, but which have the impact of partially offsetting certain
+foreign currency exposures. We account for these forward contracts on a full mark-to-market basis and report the related gains
+or losses in currency exchange losses (gains) in the consolidated statement of income. At December 31, 2016, the notional
+amount of open forward contracts was $75.3 million and the unrealized gain on these contracts was $0.3 million. All open
+forward contracts will mature during the first quarter of 20 17.
+The following table presents the balance sheet location and fair value of assets and liabilities associated with derivative
+financial instruments.
+7 December 31, 7
+(In thousands) 2016 2015
+[Derivatives not designated as hedging instruments: J
+Foreign exchange contracts: other current liabilities $ 258 $ 581
+{Foreign exchange contracts: other current assets 566 401 l
+73

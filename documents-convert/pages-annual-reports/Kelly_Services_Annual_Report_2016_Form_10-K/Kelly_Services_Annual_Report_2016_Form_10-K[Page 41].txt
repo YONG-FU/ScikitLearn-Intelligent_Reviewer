@@ -1,0 +1,53 @@
+We monitor the credit ratings of our major banking partners on a regular basis and have regular discussions with them. Based
+on our reviews and communications, we believe the risk of one or more of our banks not being able to honor commitments is
+insigniﬁcant. We also review the ratings and holdings of our money market funds and other investment vehicles regularly to
+ensure high credit quality and access to our invested cash.
+Critical Accounting Estimates
+We prepare our consolidated ﬁnancial statements in conformity with accounting principles generally accepted in the United
+States. In this process, it is necessary for us to make certain assumptions and related estimates affecting the amounts reported
+in the consolidated ﬁnancial statements and the attached notes. Actual results can differ from assumed and estimated amounts.
+Critical accounting estimates are those that we believe require the most difﬁcult, subjective or complex judgments, often as a
+result of the need to make estimates about the effect of matters that are inherently uncertain. We base our estimates on
+historical experience and on various other assumptions we believe to be reasonable under the circumstances, the results of
+which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from
+other sources. Judgments and uncertainties affecting the application of those estimates may result in materially different
+amounts being reported under different conditions or using different assumptions. We consider the following estimates to be
+most critical in understanding the judgments involved in preparing our consolidated ﬁnancial statements.
+Workers ’ Compensation
+In the U.S., we have a combination of insurance and self-insurance contracts under which we effectively bear the ﬁrst $1.0
+million of risk per single accident. There is no aggregate limitation on our per-accident exposure under these insurance and
+self-insurance programs. We establish accruals for workers’ compensation utilizing actuarial methods to estimate the
+undiscounted future cash payments that will be made to satisfy the claims, including an allowance for incurred-but-not-reported
+claims. Beginning in Q3 2016, we retained an independent consulting actuary to establish ultimate loss forecasts for the
+current and prior accident years of our insurance and self-insurance programs. Previously, we performed such analysis
+internally. The consulting actuary establishes loss development factors, based on our historical claims experience as well as
+industry experience, and applies those factors to current claims information to derive an estimate of our ultimate claims
+liability. In preparing the estimates, the consulting actuary also considers the nature, frequency and severity of the claims;
+reserving practices of our third party claims administrators; performance of our medical cost management and return to work
+programs; changes in our territory and business line mix; and current legal, economic and regulatory factors such as industry
+estimates of medical cost trends. Where appropriate, multiple generally accepted actuarial techniques are applied and tested in
+the course of preparing the loss forecast. We use the ultimate loss forecasts, as developed by the consulting actuary, to establish
+total expected program costs for each accident year by adding our estimates of non-loss costs such as claims handling fees and
+excess insurance premiums. When claims exceed the applicable loss limit or self-insured retention and realization of recovery
+of the claim from existing insurance policies is deemed probable, we record a receivable from the insurance company for the
+excess amount.
+We evaluate the accrual regularly throughout the year and make adjustments as needed. The ultimate cost of these claims may
+be greater than or less than the established accrual. While we believe that the recorded amounts are reasonable, there can be no
+assurance that changes to our estimates will not occur due to limitations inherent in the estimation process. In the event we
+determine that a smaller or larger accrual is appropriate, we would record a credit or a charge to cost of services in the period in
+which we made such a determination. The accrual for workers’ compensation, net of related receivables which are included in
+prepaid expenses and other current assets and other assets in the consolidated balance sheet, was $59.7 million and $57.3
+million at year-end 2016 and 2015, respectively.
+Income Taxes
+Income tax expense is based on expected income and statutory tax rates in the various jurisdictions in which we operate.
+Judgment is required in determining our income tax expense. We establish accruals for uncertain tax positions under generally
+accepted accounting principles, which require that a position taken or expected to be taken in a tax return be recognized in the
+consolidated ﬁnancial statements when it is more likely than not (i.e., a likelihood of more than ﬁfty percent) the position
+would be sustained upon examination by tax authorities who have full knowledge of all relevant information. A recognized tax
+position is then measured at the largest amount of beneﬁt that is greater than ﬁfty percent likely of being realized upon ultimate
+settlement.
+Our effective tax rate includes the impact of accruals and changes to accruals that we consider appropriate, as well as related
+interest and penalties. A number of years may lapse before a particular matter, for which we have or have not established an
+accrual, is audited and ﬁnally resolved. While it is often difﬁcult to predict the ﬁnal outcome or the timing of resolution of any
+particular tax matter, we believe that our accruals are appropriate under generally accepted accounting principles. Favorable or
+34

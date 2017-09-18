@@ -1,0 +1,39 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. General
+CSG Systems International, Inc. (the “Company”, “CSG”, or forms of the pronoun “we”), a Delaware corporation, was formed in October 1994 and is based in
+Englewood, Colorado. We are a provider of business support solutions, primarily serving the global communications industry. We have over thirty years of experience
+supporting communications service providers’ management of their revenue, customer interactions, and digital ecosystem as they advance their Video, voice, data
+content, and digital services to consumers. Over the years, we have focused our research and development (“R&D”) and acquisition investments on expanding our
+solution set to address the complex, transformative needs of service providers. We are a S&P SmallCap 600 company.
+The accompanying Consolidated Financial Statements (“Financial Statements”) are prepared in conformity with accounting principles generally accepted (“GAAP”) in
+the United States (“US”).
+2. Summary of Signiﬁcant Accounting Policies
+Principles of Consolidation. Our Financial Statements include all of our accounts and our subsidiaries’ accounts. All material intercompany accounts and transactions
+have been eliminated.
+Translation of Foreign Currency. Our foreign subsidiaries use the local currency of the countries in which they operate as their functional currency. Their assets and
+liabilities are translated into US. dollars at the exchange rates in effect at the balance sheet date. Revenues, expenses, and cash ﬂows are translated at the average rates of
+exchange prevailing during the period. Foreign currency translation adjustments are included in comprehensive income in stockholders’ equity. Foreign currency
+transaction gains and losses are included in the determination of net income.
+Use of Estimates in Preparation of Our Financial Statements. The preparation of our Financial Statements requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of our Financial Statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ from those estimates. The more critical estimates and related assumptions that affect our
+financial position and results of operations are in the areas of: (i) revenue recognition; (ii) impairment assessments of goodwill and other long-lived assets; (iii) income
+taxes; and (iv) loss contingencies.
+Revenue Recognition. We use various judgments and estimates in connection with the determination of the amount of revenues to be recognized in each accounting
+period. Our primary revenue recognition criteria include: (i) persuasive evidence of an arrangement; (ii) delivery; (iii) ﬁxed or determinable fees; and (iv) collectability of
+fees.
+CloudandRelatedSolutions.
+Our cloud and related solutions revenue relates to: (i) our cloud-based, revenue management and content monetization solutions, and various related services; and (ii) our
+managed services offering in which we operate software solutions (primarily our software solutions) on behalf of our clients.
+We contract for our cloud-based solutions using long-term arrangements whose terms have typically ranged from three to ten years. The long-term cloud-based
+arrangements include multiple services delivered each month, to include such things as: (i) revenue billing and data processing services; (ii) business support services
+(e.g., workforce management tools, consumer credit verifications, etc); (iii) content monetization and delivery functions; and (iv) customer statement invoice printing
+and mailing services. The fees for these deliverables typically are billed to our clients monthly based upon actual monthly volumes and/or usage of services (e.g., the
+number of client customers processed on our systems, the number of transactions processed on our systems, and/or the quantity and content of the monthly statements
+and mailings processed through our systems) or on a fixed monthly fee.
+We contract for our other related solutions such as managed services using long-term arrangements whose terms have typically ranged from three to five years. Under
+managed services agreements, we may operate software products (primarily our software solutions) on behalf of our clients: (i) out of a client’s data center; (ii) out of a
+data center we own and operate; or (iii) out of a third-party data center we contract with for such services. Managed services can also include us providing other services,
+such as transitional services, fulﬁllment, remittance processing, operational consulting, back office, and end user billing services.
+We recognize cloud and related solutions revenue on a monthly basis as we provide the services.
+49

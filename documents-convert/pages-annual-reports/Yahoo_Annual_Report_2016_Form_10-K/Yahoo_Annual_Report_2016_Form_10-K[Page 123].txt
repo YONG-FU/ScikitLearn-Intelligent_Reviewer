@@ -1,0 +1,29 @@
+Table,of,C,ontents
+Property and Equipment, Net
+As of December 31, property and equipment, net consisted of the following (in thousands):
+2015 2016
+Land (1) $ 21 5&0 $ 89,950 I
+Buildingsij-Z) 7 7 810,083 935,515
+Leasehold improvements (2) 252,985 249,698 I
+Computers and equipment (2) 2,&3_,ﬂ 3 1,901,619
+.C_apitaIize,d,spitwa£e,andia,bpr 6:13.758 619,902 I
+Furniture and ﬁxtures (1) 86g 8 74,526
+Assets not yet in use 83,164 15,505 I
+r 2 7 7 7 4,g6_5.5_61 3,916.25
+,Less: accumulated depreciation and amortization (2) (2,718,238) (2,736,788) I
+Total property and equipment, net 8 1,547,323 $ 1,209,937:
+(1) During 2016, the Company completed the sale of certain property located in Santa Clara, California. The total carrying value of the property assets was
+$126 million, which mostly pertained to the land.
+(2) The Company recorded assets under capital leases, primarily for computers and equipment and leasehold improvements, which had gross carrying
+values of $82 million and $57 million as of December 31 , 2015 and 2016, respectively. Accumulated amortization related to these capital leases totaled
+$75 million and $52 million as of December 31, 2015 and 2016, respectively.
+Other Long- Term Assets and Investments
+As of December 31, other long-term assets and investments consisted of the following (in thousands):
+2015 2016
+Deferred income taxes $ 21,35 $ 18,228 I
+investments in privately-geld companies 82,610 82,280
+,Hortonworks equ_ity securities and warrants 163,085 6_0,7_7_4 l
+foreign currency forward and option contracts 18_3 —
+Other 74,768 44,2774
+Total other long-term assets and investments $ 342,390: $ 206,059
+122

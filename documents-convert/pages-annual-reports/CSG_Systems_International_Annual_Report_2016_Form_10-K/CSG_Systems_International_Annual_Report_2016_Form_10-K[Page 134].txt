@@ -1,0 +1,43 @@
+Pages where conﬁdential treatment has been requested are stamped “Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled
+with the Commission,” and places where information has been redacted have been marked with (***).
+Exhibit 10.24BH
+ONE HUNDRED TENTH AMENDMENT
+TO THE
+CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT
+BETWEEN
+CSG SYSTEMS, INC.
+AND
+CHARTER COMMUNICATIONS HOLDING COMPANY, LLC
+This One Hundred Tenth Amendment (the “Amendment”) is made by and between CSG Systems, Inc. (“CSG”), and Charter Communications Holding Company,
+LLC (“Customer”). CSG and Customer entered into a certain CSG Master Subscriber Management System Agreement executed March 13, 2003 (CSG document no.
+1926320), and effective as of April 1, 2003, as amended (the “Agreement”), and now desire to further amend the Agreement in accordance with the terms and conditions
+set forth in this Amendment. If the terms and conditions set forth in this Amendment shall be in conﬂict with the Agreement, the terms and conditions of this
+Amendment shall control. Any terms in initial capital letters or all capital letters used as a deﬁned term but not defined in this Amendment, shall have the meaning set
+forth in the Agreement. Upon execution of this Amendment by the parties, any subsequent reference to the Agreement between the parties shall mean the Agreement as
+amended by this Amendment. Except as amended by this Amendment, the terms and conditions set forth in the Agreement shall continue in full force and effect
+according to their terms.
+WHEREAS, Customer has previously purchased and CSG has provided the Front Counter Enhancement (as defined in the Agreement) for Customer’s use, pursuant to
+the Agreement, as more particularly described in the Seventeenth Amendment to Schedule 1—9 (New York City Division Addendum) of the Agreement, effective as of
+October 24, 2012 (CSG document no. 2313135) (the “Addendum”), as amended by the Eighty-seventh Amendment to the Agreement, effective as of August 25, 2014
+(CSG document no. 2506640) (the “87th Amendment”); and
+WHEREAS, Customer desires to use and CSG agrees to provide a further enhancement to Customer’s Front Counter Enhancement.
+NOW, THEREFORE, CSG and Customer agree as follows, as of the Effective Date (defined below):
+1. Customer hereby requests and CSG agrees to implement an enhancement to Customer’s Front Counter Enhancement such that the Front Counter
+receipt printer will have the capability to support Customer’s virtual desktop infrastructure (“VDI”) (herein, the “VDI Enhancement”).
+2. Additionally, CSG and Customer agree that the fees reﬂected in the Addendum shall be deleted in their entirety.
+3 . As a result, Schedule F , “Fees,” shall be amended to add the following fees:
+I Description of Item/Unit of Measure I Frequency: I Fee I
+IX.Front Counter Enhancement I I I
+I 1.Implementation Fee (Note 1) I I
+I 2.******* Recurringﬂipport Fee (Note 4)7(Note 5)7(Note 6) I ******* I
+B.Front Counter VDI Enhancement I I I
+I 1.VDI Enhancement Implementation Fee (Note 2) I I
+******* Recurring ******* Fee (for **** and ******** *******
+l ******* ***** for, ************,the Front CounterEnhancement and the Frontl I I
+counter VDI Enhancement)i(Note 3)7(Note 4)7(Note 5)7(Note 6)
+Note 1 : Implementation shall be set forth in a separately executed Statement of Work.
+Note 2 : The VDI Enhancement Implementation Fee shall be set forth in that certain mutually agreed upon Statement of Work entitled “Add Virtual Desk Infrastructure (VDI) Enhancement to
+Front Counter Receipt Printer” (CSG document no. 4113083) (the “SOW”).
+Note 3: Upon completion ofthe implementation ofthe VDI Enhancement CSG shall provide an **** and ******** (***) ***** of ******* for, ************, the
+Front Counter Enhancement and the Front Counter VDI Enhancement (the “********** ******* *****”). CSG shall invoice Customer and Customer shall pay the
+********* ******* *** for, ************, the Front Counter Enhancement and the Front Counter VDI Enhancement as provided in section B2 of the above table.

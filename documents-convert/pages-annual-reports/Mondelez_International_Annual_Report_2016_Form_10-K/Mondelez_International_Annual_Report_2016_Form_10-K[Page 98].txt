@@ -1,0 +1,43 @@
+Iable,of,ContentS
+Components of Net Periodic Pension Cost:
+Net periodic pension cost consisted of the following:
+U.S. Plans Non-U.S. Plans
+For the Years Ended December 31, For the Years Ended December 31,
+2016 2015 2014 2016 2015 2014
+(in millions)
+Service cost $ 57 $ 64 $ 57 $ 147 $ 188 $ 184 l
+interest cost 61 67 67 229 307 388
+Qpected return on plan assets (9_7) (SE) (8_1) (418) (478) (485))
+Amortization:
+Net loss from experience I
+differences 42 43 29 120 141 106
+Prior service cost (1) 2 2 2 (3) 15 —
+Settlement losses and
+l other expenses (2) 30_ 19 _ 28_ 6 _ 2_ 14
+Net periodic pension cost 95 102 102 81: 175 207
+(1) For the year ended December 31, 2015, amortization of prior service cost includes $17 million of pension curtailment losses related to employees who transitioned to
+JDE upon the contribution of our global coffee business. Refer to Note 2 , Divestitures and Acquisitions — JDE Coffee Business Transactions , for more information.
+(2) Settlement losses include $15 million for the year ended December 31, 2016 and $9 million for the year ended December 31, 2015 of pension settlement losses for
+employees who elected lump-sum payments in connection with our 2014-2018 Restructuring Program. Retired employees who elected lump-sum payments resulted
+in net settlement losses in 2016 of $15 million for our U.S. plans and $6 million for our non-U.S. plans and in 2015 of $10 million for our U.S. plans and $2 million for
+our non-U.S. plans. Employees who elected lump-sum payments in connection with our 2012-2014 Restructuring Program and cost saving initiatives and retired
+employees who elected lump-sum payments resulted in net settlement losses for our U.S. plans of $28 million in 2014. In addition, we incurred special termination
+beneﬁt costs of $2 million in 2014 in the non-U.S. plans related to the 2012-2014 Restructuring Program. See Note 6, Restructuring Programs , for more information.
+We recorded an additional $90 million of pension settlement losses related to the coffee business transactions within the gain on the coffee business transactions.
+Refer to Note 2 , Divestitures and Acquisitions — JDE Coffee Business Transactions , for more information.
+For the U.S. plans, we determine the expected return on plan assets component of net periodic benefit cost using a calculated market return value
+that recognizes the cost over a four year period. For our non-U.S. plans, we utilize a similar approach with varying cost recognition periods for some
+plans, and with others, we determine the expected return on plan assets based on asset fair values as of the measurement date.
+As of December 31, 2016, for the combined U.S. and non-U.S. pension plans, we expected to amortize from accumulated other comprehensive
+earnings / (losses) into net periodic pension cost during 2017:
+0 an estimated $202 million of net loss from experience differences; and
+0 $1 million of estimated prior service credit.
+We used the following weighted-average assumptions to determine our net periodic pension cost:
+U.S. Plans Non-U.S. Plans
+For the Years Ended December 31, For the Years Ended December 31,
+2016 2015 2014 2016 2015 2014
+Discount rate 4.50% 4.20% 5.10% 3.11% 2.99% 4.03% l
+Expected rate of return on
+éplan assets 6.75% 7.25% 7.75% 5.87% 5.96% 6.17%
+Rate of compensation increase 4.00% 4.00% 4.00% 3.18% 3.26% 3.63% l
+95

@@ -1,0 +1,36 @@
+(FINANCIAL STATEMENTS — NOTE 13 i)
+The calculation of basic and diluted EPS follows:
+7 Year ended December 31, r
+f 2016 2015 2014 f
+(In thousands, except
+per-share amounts)
+Basic EPS:
+Numerator (continuing operations):
+Income from continuinggperations $219,414 $189,871 $179,834
+Income attributable to unvested participating securities (1,835) (1,572) (2,038)
+Income from continuing operations used in calculating basic EPS $217,579 $188,299 $177,796
+Numerator (discontinued operations):
+Income from discontinued operations $ — $ — $ 1,578
+Income attributable to unvested participating securities — — (18)
+Income from discontinued operations used in calculating basic EPS $ — $ — $ 1,560
+Denominator:
+Weighted—average vested shares 47,411 50,881 54,567
+Basic EPS from continuing operations $ 4.59 $ 3.70 $ 3.26
+Basic EPS from discontinued operations $ — $ — $ 0.03
+Diluted EPS:
+Numerator (continuing operations):
+Income from continuinggperations $219,414 $189,871 $179,834
+Income attributable to unvested participating securities (1,833) (1,571) (2,037)
+Income from continuing operations used in calculating diluted EPS $217,581 $188,300 $177,797
+Numerator (discontinued operations):
+Income from discontinued operations $ — $ — $ 1,578
+Income attributable to unvested participating securities — — (18)
+Income from discontinued operations used in calculating diluted
+EPS $ — $ — $ 1,560
+Denominator:
+Weighted—average vested shares 47,411 50,881 54,567
+Dilutive effect of incremental shares to be issued for equity awards 42 32 31
+Weighted—average shares used in calculating diluted EPS 47,453 50,913 54,598
+Diluted EPS from continuing operations $ 4.59 $ 3.70 $ 3.26
+Diluted EPS from discontinued operations $ — $ — $ 0.03
+Primerica 2016 Annual Report 133

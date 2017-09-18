@@ -1,0 +1,44 @@
+IableoﬁContents
+OpenStack, and other companies have indicated their intention to expand offerings of virtual management and cloud computing solutions as well. Additionally, a
+number of enterprise IT hardware vendors have released solutions based on OpenStack including IBM and Cisco.
+Other industry alliances . Many of our competitors have entered into or extended partnerships or other strategic relationships to offer more comprehensive
+virtualization and cloud computing solutions than they individually had offered. We expect these trends to continue as companies attempt to strengthen or maintain
+their positions in the evolving virtualization infrastructure and enterprise IT solutions industry. These alliances may result in more compelling product and service
+offerings than we offer.
+Our partners and members of our developer and technology partner ecosystem . We face competition from our partners. For example, third parties currently
+selling our products and services could build and market their own competing products and services or market competing products and services of other vendors.
+Additionally, as formerly distinct sectors of enterprise IT such as software-based virtualization and hardware-based server, networking and storage solutions
+converge, we also increasingly compete with companies who are members of our developer and technology partner ecosystem. Consequently, we may ﬁnd it more
+difﬁcult to continue to work together productively on other projects, and the advantages we derive from our ecosystem could diminish.
+This competition could result in increased pricing pressure and sales and marketing expenses, thereby materially reducing our operating margins, and could
+also prevent our new products and services from gaining market acceptance, thereby harming our ability to increase, or causing us to lose, market share.
+The loss of key management personnel could harm our business.
+We depend on the continued services of key management personnel. We generally do not have employment or non-compete agreements with our employees,
+and, therefore, they could terminate their employment with us at any time without penalty and could pursue employment opportunities with any of our competitors.
+In addition, we do not maintain any key-person life insurance policies. The loss of key management personnel could harm our business.
+Competition for our target employees is intense and costly, and we may not be able to attract and retain highly skilled employees.
+To execute on our strategy, we must continue to attract and retain highly qualified personnel. Competition for these personnel is intense, especially for senior
+sales executives and engineers with signiﬁcant experience designing and developing software and cloud offerings. We may not be successful in attracting and
+retaining qualiﬁed personnel. We have in the past experienced, and we expect to continue to experience in the future, difﬁculty in hiring and retaining highly
+skilled employees with appropriate qualifications. Many of the companies with which we compete for experienced personnel have greater resources than we have.
+Research and development personnel are also aggressively recruited by startup and emerging growth companies, which are especially active in many of the
+technical areas and geographic regions in which we conduct product and service development. Competition for our key personnel results in increased costs in the
+form of cash and stock-based compensation and can have a dilutive impact on our stock. If we fail to attract new personnel or fail to retain and motivate our current
+personnel, our business and future growth prospects could suffer.
+Adverse economic conditions may harm our business.
+Our business depends on the overall demand for information technology (“IT”) and on the economic health of our current and prospective customers. The
+purchase of our products and services is often discretionary and may involve a significant commitment of capital and other resources. Weak economic conditions
+or signiﬁcant uncertainty regarding the stability of financial markets could adversely impact our business, financial condition and operating results in a number of
+ways, including by lengthening sales cycles, affecting the size of enterprise agreements (“EAs”) that customers will commit to, reducing the level of our non-EA
+transactional sales, lowering prices for our products and services, reducing unit sales and reducing the rate of adoption of our products and services by new
+customers and the willingness of current customers to purchase upgrades to our existing products and services. For example, a recurrence of the sovereign debt
+crisis in Europe, repercussions from the vote by the United Kingdom to exit the European Union or that region’s failure to recover from recession would threaten
+to suppress demand and our customers’ access to credit in that region, which is an important market for our products and services. In response to sustained
+economic uncertainty, many national and local governments that are current or prospective customers for our products and services, including the US. federal
+government, have made, or threatened to make, significant spending cutbacks which could reduce the amount of government spending on IT and the potential
+demand for our products and services from the government sector.
+Regional economic uncertainty can also result in general and ongoing tightening in the credit markets, lower levels of liquidity, increases in the rates of default
+and bankruptcy and signiﬁcant volatility in the credit, equity and fixed income markets. Changes in governmental ﬁscal, monetary and tax policies may also
+impact interest rates on credit and debt, which have been at historically low levels for several years. As a result, current or potential customers may be unable to
+fund software
+14

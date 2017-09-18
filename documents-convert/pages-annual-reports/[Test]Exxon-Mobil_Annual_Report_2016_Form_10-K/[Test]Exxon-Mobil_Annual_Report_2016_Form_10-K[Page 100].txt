@@ -1,0 +1,25 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Other Postretirement
+Fair Value Measurement
+at December 31, 2015, Using:
+Net
+Asset
+Level 1 Level 2 Level 3 Value (1) Total
+(millions of dollars)
+Asset category:
+Equity securities
+U.S. - - - 96 96
+Non-US. - - - 67 67
+Private equity - - - - -
+Debt securities
+Corporate - 79 (2) - - 79
+Government - 170 (2) - - 170
+Asset-backed - 1 (2) - - 1
+Cash - - - 1 1
+Total at fair value 7 - 250 - 164 4147
+(1) Per AS U 2015-07, certain instruments that are measured at fair value using the Net Asset Value (NAV) per share practical
+expedient have not been categorized in the fair value hierarchy. The fair value amounts presented in this table are intended
+to permit reconciliation of the fair value hierarchy to the total value of plan assets.
+(2) For corporate, government and asset-backed debt securities, fair value is based on observable inputs of comparable market
+transactions.
+96

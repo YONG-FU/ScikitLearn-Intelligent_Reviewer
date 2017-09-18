@@ -1,0 +1,45 @@
+result in errors in, or a failure of, our services, which could harm our business. These hardware, software and
+cloud computing platforms may not continue to be available at reasonable prices, on commercially reasonable
+terms or at all. Any loss of the right to use any of these hardware, software or cloud computing platforms could
+significantly increase our expenses and otherwise result in delays in the provisioning of our services until
+equivalent technology is either developed by us, or, if available, is identified, obtained through purchase or
+license and integrated into our services.
+The market in which we participate is intensely competitive, and if we do not compete effectively, our
+operating results could be harmed.
+The market for enterprise applications and platform services is highly competitive, rapidly evolving and
+fragmented, and subject to changing technology, shifting customer needs and frequent introductions of new
+products and services. We compete primarily with generalized platforms and vendors of packaged business
+software, as well as companies offering enterprise apps, including CRM, collaboration and business intelligence
+software. We also compete with internally developed apps and face competition from enterprise software
+vendors and online service providers who may develop toolsets and products that allow customers to build new
+applications that run on the customers’ current infrastructure or as hosted services. Our current competitors
+include:
+0 on premise offerings from enterprise software application vendors;
+° cloud computing application service providers;
+0 software companies that provide their product or service free of charge, and only charge a premium for
+advanced features and functionality;
+0 social media companies;
+0 traditional platform development environment companies;
+0 cloud computing development platform companies;
+0 internally developed applications (by our potential customers’ IT departments); and
+0 Internet of Things platforms from large companies that have existing relationships with hardware and
+software companies.
+Many of our current and potential competitors enjoy substantial competitive advantages, such as greater
+name recognition, longer operating histories and larger marketing budgets, as well as substantially greater
+financial, technical and other resources. In addition, many of our current and potential competitors have
+established marketing relationships and access to larger customer bases, and have major distribution agreements
+with consultants, system integrators and resellers. As a result, our competitors may be able to respond more
+quickly and effectively than we can to new or changing opportunities, technologies, standards or customer
+requirements. Furthermore, because of these advantages, even if our services are more effective than the products
+and services that our competitors offer, potential customers might select competitive products and services in lieu
+of purchasing our services. For all of these reasons, we may not be able to compete successfully against our
+current and future competitors.
+We are subject to risks associated with our strategic investments. Other-than-temporary impairments in
+the value of our investments could negatively impact our ﬁnancial results.
+We invest in early-to-late stage companies for strategic reasons and to support key business initiatives, and
+may not realize a return on our strategic investments. Many such companies generate net losses and the market
+for their products, services or technologies may be slow to develop, and, therefore, are dependent on the
+availability of later rounds of financing from banks or investors on favorable terms to continue their operations.
+The financial success of our investment in any company is typically dependent on a liquidity event, such as a
+public offering, acquisition or other favorable market event reﬂecting appreciation to the cost of our initial
+15

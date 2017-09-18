@@ -1,0 +1,46 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Deferred tax assets and liabilities are recognized for future tax consequences resulting from differences between the carrying amounts of assets and liabilities
+and their respective tax bases using enacted tax rates in effect for the year in which the differences are expected to be reversed. Significant deferred tax assets and
+liabilities consisted of the following (table in millions):
+December 31,
+2016 2015
+IDeferred tax assets: I
+Unearned revenue $ 324 $ 320
+I Accruals and other 66 60 I
+Stock-based compensation 75 73
+I Tax credit and net operating loss carryforwards 175 162 I
+Other assets, net 33 19
+I Intangible and other non-current assets 57 65 I
+Basis difference on investment in business 20 20
+I Gross deferred tax assets 750 719 I
+Valuation allowance (166) (144)
+I Total deferred tax assets 584 575 I
+Deferred tax liabilities:
+I Property, plant and equipment, net (122) _ (119) I
+Net deferred tax assets $ 462 $ 456
+VMware has US federal net operating loss carryforwards of $91 million from acquisitions made since 2007 . These operating loss carryforwards expire at
+different periods through 2035 . Portions of these carryforwards are subject to annual limitations. VMware expects to be able to fully utilize these net operating
+losses against future income. VMware also has state net operating loss carryforwards of $131 million , resulting from acquisitions since 2007, expiring at different
+periods through 2036 .
+VMware has California research and development (“R&D”) credit carryforwards for income tax purposes of $113 million that can be carried over indefinitely.
+VMware also has R&D credit carryforwards for Massachusetts and Georgia of approximately $7 million and $9 million , respectively, which expire at different
+periods through 2031 . VMware has non-US. net operating losses of $16 million resulting from certain foreign operations and non-US. acquisitions in 2014 .
+These net operating losses have various carryforward periods, including certain portions that can be carried over indefinitely.
+VMware determined that the realization of deferred tax assets relating to portions of the state net operating loss carryforwards, state R&D tax credits, capital
+losses, and certain non-US net operating losses did not meet the more-likely-than-not threshold, and accordingly, a valuation allowance of $139 million was
+recorded. If, in the future, new evidence supports the realization of the deferred tax assets related to these items, the valuation allowance will be reversed and a tax
+benefit will be recorded accordingly.
+VMware believes it is more-likely-than-not that the net deferred tax assets as of December 31, 2016 and 2015, will be realized in the foreseeable future as
+VMware believes that it will generate sufficient taxable income in future years. VMware's ability to generate sufficient taxable income in future years in
+appropriate tax jurisdictions will determine the amount of net deferred tax asset balances to be realized in future periods. During the years ended December 31,
+2016 and December 31, 2015, the total change in the valuation allowance was $22 million and $38 million , respectively. The increases in the valuation allowance
+were primarily due to the California R&D credits and capital losses generated in each respective year.
+US income taxes have not been provided on certain undistributed earnings of non-US subsidiaries of approximately $5,354 million and $4,473 million at
+December 31, 2016 and 2015 , respectively, because such earnings are considered to be reinvested indefinitely outside of the United States, or will be remitted
+substantially free of additional US. tax. VMware’s rate of taxation in non-U.S. jurisdictions is lower than the US. tax rate. VMware’s non-US. income is
+primarily earned by VMware’s subsidiaries in Ireland, where the statutory tax rate is 12.5% . Recent developments in non-US. tax jurisdictions and unfavorable
+changes in non-US tax laws and regulations could have an adverse effect on VMware’s annual effective tax rate in the future. All income earned abroad, except
+for previously taxed income for US. tax purposes, is considered indefinitely
+82

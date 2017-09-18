@@ -1,0 +1,43 @@
+Problems with or price increases by third parties who provide services to us or to our
+sellers could harm our business.
+A number of third parties provide services to us or to our sellers. Such services include
+seller tools that automate and manage listings, merchant tools that manage listings and
+interface with inventory management software, storefronts that help our sellers list items and
+shipping providers that deliver goods sold on our platform, among others. Financial or
+regulatory issues, labor issues (e.g., strikes, lockouts, or work stoppages), or other problems
+that prevent these companies from providing services to us or our sellers could harm our
+business.
+Price increases by, or service terminations, disruptions or interruptions at, companies that
+provide services to us and our sellers and clients could also reduce the number of listings on
+our platforms or make it more difficult for our sellers to complete transactions, thereby
+harming our business. Some third parties who provide services to us or our sellers may have or
+gain market power and be able to increase their prices to us without competitive constraint. In
+addition, the US. Postal Service, which is facing ongoing fiscal challenges, has instituted
+postal rate increases and announced that it is considering closing thousands of local post
+offices and ending Saturday mail delivery. While we continue to work with global carriers to
+offer our sellers a variety of shipping options and to enhance their shipping experience, postal
+rate increases may reduce the competitiveness of certain sellers’ offerings, and postal service
+changes could require certain sellers to utilize alternatives which could be more expensive or
+inconvenient, which could in turn decrease the number of transactions on our sites, thereby
+harming our business.
+We have outsourced certain functions to third-party providers, including some customer
+support and product development functions, which are critical to our operations. If our service
+providers do not perform satisfactorily, our operations could be disrupted, which could result
+in user dissatisfaction and could harm our business.
+There can be no assurance that third parties who provide services directly to us or our
+sellers will continue to do so on acceptable terms, or at all. If any third parties were to stop
+providing services to us or our sellers on acceptable terms, including as a result of bankruptcy,
+we may be unable to procure alternatives from other third parties in a timely and efficient
+manner and on acceptable terms, or at all.
+Our developer platforms, which are open to merchants and third-party developers,
+subject us to additional risks.
+We provide third—party developers with access to application programming interfaces,
+software development kits and other tools designed to allow them to produce applications for use,
+with a particular focus on mobile applications. There can be no assurance that merchants or third—
+party developers will develop and maintain applications and services on our open platforms on a
+timely basis or at all, and a number of factors could cause such third-party developers to curtail or
+stop development for our platforms. In addition, our business is subject to many regulatory
+restrictions. It is possible that merchants and third-party developers who utilize our development
+platforms or tools could violate these regulatory restrictions and we may be held responsible for
+such violations, which could harm our business.
+30

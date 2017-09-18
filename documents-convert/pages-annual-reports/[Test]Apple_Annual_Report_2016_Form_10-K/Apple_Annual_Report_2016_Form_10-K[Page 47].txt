@@ -1,0 +1,52 @@
+Notes to Consolidated Financial Statements
+Note 1 — Summary of Significant Accounting Policies
+Apple Inc. and its wholly-owned subsidiaries (collectively ‘Apple” or the “Company”) designs, manufactures and markets mobile
+communication and media devices, personal computers and portable digital music players, and sells a variety of related software,
+services, accessories, networking solutions and third-party digital content and applications.The Company sells its products worldwide
+through its retail stores, online stores and direct sales force, as well as through third-party cellular network carriers, wholesalers,
+retailers and value-added resellers. In addition, the Company sells a variety of third-party Apple-compatible products, including
+application software and various accessories through its retail and online stores. The Company sells to consumers, small and mid-
+sized businesses and education, enterprise and government customers.
+Basis of Presentation and Preparation
+The accompanying consolidated financial statements include the accounts of the Company. Intercompany accounts and transactions
+have been eliminated. In the opinion of the Company’s management, the consolidated financial statements reflect all adjustments,
+which are normal and recurring in nature, necessary for fair financial statement presentation.The preparation of these consolidated
+financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires management to make
+estimates and assumptions that affect the amounts reported in these consolidated financial statements and accompanying notes.
+Actual results could differ materially from those estimates. Certain prior period amounts in the consolidated financial statements
+have been reclassified to conform to the current period’s presentation.
+The Company’s fiscal year is the 52 or 53-week period that ends on the last Saturday of September. The Company’s fiscal years
+2016, 2015 and 2014 ended on September 24, 2016, September 26, 2015 and September 27, 2014, respectively, and each spanned
+52 weeks. An additional week is included in the first fiscal quarter approximately every five or six years to realign fiscal quarters with
+calendar quarters, which will next occur in the first quarter of the Company's fiscal year ending September 30, 2017. Unless otherwise
+stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in September and
+the associated quarters, months and periods of those fiscal years.
+During 2016, the Company adopted an accounting standard that simplified the presentation of deferred income taxes by requiring
+deferred tax assets and liabilities be classified as noncurrent in a classified statement of financial position.The Company has adopted
+this accounting standard prospectively; accordingly, the prior period amounts in the Company’s Consolidated Balance Sheets within
+this Annual Report on Form 10-K were not adjusted to conform to the new accounting standard. The adoption of this accounting
+standard was not material to the Company’s consolidated financial statements.
+Revenue Recognition
+Net sales consist primarily of revenue from the sale of hardware, software, digital content and applications, accessories, and service
+and support contracts.The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred,
+the sales price is fixed or determinable and collection is probable. Product is considered delivered to the customer once it has been
+shipped and title, risk of loss and rewards of ownership have been transferred. For most of the Company’s product sales, these
+criteria are met at the time the product is shipped. For online sales to individuals, for some sales to education customers in the U.S.,
+and for certain other sales, the Company defers revenue until the customer receives the product because the Company retains a
+portion of the risk of loss on these sales during transit. For payment terms in excess of the Company’s standard payment terms,
+revenue is recognized as payments become due unless the Company has positive evidence that the sales price is fixed or
+determinable, such as a successful history of collection, without concession, on comparable arrangements.The Company recognizes
+revenue from the sale of hardware products, software bundled with hardware that is essential to the functionality of the hardware
+and third-party digital content sold on the iTunes Store in accordance with general revenue recognition accounting guidance. The
+Company recognizes revenue in accordance with industry specific software accounting guidance for the following types of sales
+transactions: (i) standalone sales of software products, (ii) sales of software upgrades and (iii) sales of software bundled with
+hardware not essential to the functionality of the hardware.
+For the sale of most third-party products, the Company recognizes revenue based on the gross amount billed to customers because
+the Company establishes its own pricing for such products, retains related inventory risk for physical products, is the primary obligor
+to the customer and assumes the credit risk for amounts billed to its customers. For third-party applications sold through the App
+Store and Mac App Store and certain digital content sold through the iTunes Store, the Company does not determine the selling
+price of the products and is not the primary obligor to the customer. Therefore, the Company accounts for such sales on a net basis
+by recognizing in net sales only the commission it retains from each sale. The portion of the gross amount billed to customers that
+is remitted by the Company to third-party app developers and certain digital content owners is not reflected in the Company’s
+Consolidated Statements of Operations.
+Apple Inc. | 2016 Form 10-K I 44

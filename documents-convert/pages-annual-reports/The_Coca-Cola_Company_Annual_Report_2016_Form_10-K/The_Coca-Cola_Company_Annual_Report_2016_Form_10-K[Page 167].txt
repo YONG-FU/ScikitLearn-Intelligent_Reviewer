@@ -1,0 +1,24 @@
+Exhibit 12.1
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+Year Ended December 31,
+: 2016 2015 2014 2013 2012 :
+(In millions except ratios)
+EARNINGS:
+Income from continuing operations before income taxes and changes
+in accounting principles $ 8,136 $ 9,605 $ 9,325 $ 11,477 $ 11,809
+Fixed charges 804 931 569 553 486
+Less:
+Capitalized interest, net (3) (1) (1) (1) (1)
+Equity (income) loss — net of dividends (449) (122) (371) (201) (426)
+: Adjusted earnings $ 8,488 $ 10,413 8 9,522 $ 11,828 8 11,868
+:FIXED CHARGES: *
+Gross interest incurred $ 736 $ 857 $ 484 $ 464 $ 398
+Interest portion of rent expense 68 74 85 89 88
+Total fixed charges 8 804 8 931 8 569 8 553 8 486
+: Ratios of earnings to fixed charges 10.6 11.2 16.7 21.4 24.4
+As of December 31, 2016, the Company was contingently liable for guarantees of indebtedness owed by third parties, including
+certain variable interest entities, in the amount of $5 87 million. Fixed charges for these contingent liabilities have not been
+included in the computation of the above ratios, as the amounts are immaterial and, in the opinion of management, it is not
+probable that the Company will be required to satisfy the guarantees. The interest amount in the above table does not include
+interest expense associated with unrecognized tax benefits.

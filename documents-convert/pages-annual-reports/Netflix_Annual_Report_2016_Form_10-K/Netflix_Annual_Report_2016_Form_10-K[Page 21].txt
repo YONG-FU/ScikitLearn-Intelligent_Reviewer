@@ -1,0 +1,41 @@
+Table of Contents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Overview and Results of Operations
+The following represents our consolidated performance highlights:
+As of/ Year Ended December 31, Change
+2016 2015 2014 2016 vs. 2015 2015 vs. 2014
+(in thousands, except revenue per membership and percentages)
+{Global streaming memberships 93,796 74,762 57,391 25% 30 % 1
+Global streaming average monthly revenue per paying membership $ 8.61 $ 8.15 $ 8.20 6% (1)%
+[Revenues $ 8,830,669 $ 6,779,511 $ 5,504,656 30% 23 % 1
+Operating income $ 379,793 $ 305,826 $ 402,648 24% (24)%
+iNet income 8 186,678 $ 122,641 $ 266,799 52% (54)%\
+Consolidated revenues for the year ended December 31, 2016 increased as compared to the year ended December 31, 2015 due to growth in the average
+number of paid streaming memberships globally, the majority of which was growth in our international memberships reﬂecting our expansion and focus on Netﬂix
+as a global internet TV network. The impact from membership growth was coupled with an increase in global streaming average monthly revenue per paying
+membership resulting from price changes and plan mix partially offset by unfavorable foreign currency ﬂuctuations impacting our International streaming
+segment. The increase in operating income and net income is due primarily to increased revenues partially offset by increased content expenses as we continue to
+acquire, license and produce content, including more Netﬂix originals, as well as increased marketing and headcount costs to support our international expansion.
+Net income was further impacted by the increase in interest expense associated with our debt issuances as well as to an increase in our effective tax rate, slightly
+offset by gains on foreign currency denominated transactions. We intend to focus on growing our global operating margin in 2017.
+We offer three types of streaming membership plans. In the US. our "basic" plan is priced at $7.99 per month and includes access to standard deﬁnition
+quality streaming on a single screen at a time. Our "standard" plan is our most popular streaming plan and is priced at $9.99 per month and includes access to high
+definition quality streaming on two screens concurrently. Our "premium" plan is priced at $11.99 per month and includes access to high deﬁnition and ultra-high
+definition quality content on four screens concurrently. Internationally, the membership plans are structured similarly to the US. and range in price from the US.
+dollar equivalent of approximately $5.00 to $18.00 per month.
+We expect that from time to time the prices of our membership plans in each country may change. For instance, in May 2014, in the U.S., we increased the
+price of our standard plan from $7.99 per month to $8.99 per month with existing memberships grandfathered for a two year period. In October 2015, in the U.S.,
+we increased the price of this same standard plan from $8.99 per month to $9.99 per month with existing memberships grandfathered for a one year period. In
+2016, we phased out grandfathered pricing, giving members the option of electing the basic streaming plan at $7.99 per month, continuing on the standard
+streaming plan at the higher price of $9.99 per month, or electing the premium plan at $11.99 per month.
+The following represents the key elements to our segment results of operations:
+- We deﬁne contribution profit (loss) as revenues less cost of revenues and marketing expenses incurred by the segment. We believe this is an important
+measure of our operating segment performance as it represents each segment's performance before global corporate costs.
+- For the Domestic and International streaming segments, content expenses, which include the amortization of the streaming content assets and other
+expenses associated with the licensing and acquisition of streaming content, represent the vast majority of cost of revenues. Streaming content rights were
+generally obtained for our current geographic regions. As we expanded internationally, we obtained additional rights for the new geographies. With our
+global expansion, we now aSpire to obtain global rights for our content. We allocate this content between the Domestic and International segments based
+on estimated fair market value. Other cost of revenues such as streaming delivery expenses, customer service and payment processing fees, including
+those we pay to our integrated payment partners, tend to be lower as a percentage of total cost of revenues . We have built our own global content
+delivery network ("Open Connect") to help us efficiently stream a high volume of content to our members over the internet. Streaming
+1 8

@@ -1,0 +1,45 @@
+Iablre,of,C,ontents
+arrangements that entitle a customer to specified upgrades or new license products until the product obligations have been fulfilled.
+Professional services include design, implementation and training. Professional services are not considered essential to the functionality of our products
+because services do not alter the product capabilities and may be performed by customers or other vendors. Revenue from professional services engagements
+performed for a ﬁxed fee, for which we are able to make reasonably dependable estimates of progress toward completion, is recognized on a proportional
+performance basis assuming all other revenue recognition criteria are met. Revenue for professional services engagements billed on a time and materials basis is
+recognized as the hours are incurred.
+Rebate Reserves
+We offer rebates to certain channel partners, which are recognized as a reduction to revenue or unearned revenue. Rebates based on actual partner sales are
+recognized as a reduction of revenue as the underlying revenue is recognized. Rebates earned based upon partner achievement of cumulative level of sales are
+recognized as a reduction of revenue proportionally for each sale that is required to achieve the target.
+The estimated reserves for channel rebates and sales incentives are based on channel partners’ actual performance against the terms and conditions of the
+programs, historical trends and the value of the rebates. The accuracy of these reserves for these rebates and sales incentives depends on our ability to estimate
+these items and could have a significant impact on the timing and amount of revenue we report.
+Accounting for Income Taxes
+We are included in the Dell consolidated group for US. federal income tax purposes, and expect to continue to be included in such consolidated group for
+periods in which Dell owns at least 80% of the total voting power and value of our outstanding stock as calculated for US. federal income tax purposes. The
+percentage of voting power and value calculated for US. federal income tax purposes may differ from the percentage of outstanding shares beneficially owned by
+Dell due to the greater voting power of our Class B common stock as compared to our Class A common stock and other factors. Each member of a consolidated
+group during any part of a consolidated return year is jointly and severally liable for tax on the consolidated return of such year and for any subsequently
+determined deficiency thereon. However, our income tax expense and the related income tax balance sheet accounts are derived primarily assuming we filed a
+separate tax return. However, certain transactions that we and Dell are parties to are assessed using consolidated tax return rules. The difference between the
+income taxes payable that is calculated on a separate tax return basis and the amount actually paid to Dell pursuant to our tax sharing agreement with Dell is
+presented as a component of additional paid-in capital. Our assumptions, judgments and estimates used to calculate our income tax expense considers current tax
+laws, our interpretation of current tax laws and possible outcomes of current and future audits conducted by foreign and domestic tax authorities.
+We establish reserves for income taxes to address potential exposures involving tax positions that could be challenged by federal, state and foreign tax
+authorities, which may result in proposed assessments. In the ordinary course of our global business there are many intercompany transactions, including the
+transfer of intellectual property, where the ultimate tax determination could be challenged by the tax authorities. Our assumptions, estimates, and judgments used
+to determine the reserve relating to these positions considers current tax laws, interpretation of current tax laws and possible outcomes of current and future
+examinations conducted by tax authorities. As part of the Dell consolidated group, and separately, we are subject to the periodic examination of our income tax
+returns by the Internal Revenue Service and other domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these
+examinations to determine the adequacy of our reserves and any potential adjustments that may result from the current and future examinations. We believe such
+estimates to be reasonable; however, the ﬁnal determination from examinations and changes in tax laws could significantly impact the amounts provided for
+income taxes in the consolidated financial statements.
+We are subject to tax in the United States, and in multiple foreign tax jurisdictions. Our US. liquidity needs are currently satisfied using cash ﬂows generated
+from our US. Operations, borrowings, or both. We also utilize a variety of tax planning strategies in an effort to ensure that our worldwide cash is available in
+locations in which it is needed. Currently, we do not provide US. income taxes on undistributed earnings of our non-US. subsidiaries. These undistributed
+earnings are considered permanently reinvested outside the United States. While we do not anticipate changing our intention regarding permanently reinvested
+earnings, if certain foreign earnings previously treated as permanently reinvested are repatriated, the related US. tax liability may be reduced by any non-US.
+income taxes paid on these earnings.
+Our deferred tax assets reﬂect our estimates of the amount and category of future taxable income, such as income from operations and capital gains, and also
+take into account valuation allowances that consider other key factors that might restrict our ability to realize the deferred tax assets. Actual operating results and
+the underlying amount and category of income in future years could render our current assumptions, judgments and estimates of recoverable net deferred taxes
+inaccurate.
+48

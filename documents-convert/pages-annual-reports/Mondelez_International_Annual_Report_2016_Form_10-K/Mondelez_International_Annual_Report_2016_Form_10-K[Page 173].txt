@@ -1,0 +1,43 @@
+(0) Upon request of any such successor Trustee, the Company shall execute any and all instruments for more fully and certainly vesting in and confirming to
+such successor Trustee all such rights, powers and trusts referred to in Subsections (a) or (b) of this Section, as the case may be.
+(d) No successor Trustee shall accept its appointment unless at the time of such acceptance such successor Trustee for the Securities of any series shall be
+qualified and eligible under this Article.
+SECTION 612. Merger, Conversion, Consolidation or Succession to Business.
+Any corporation into which the Trustee for the Securities of any series may be merged or converted or with which it may be consolidated, or any corporation
+resulting from any merger, conversion or consolidation to which such Trustee shall be a party, or any corporation succeeding to all or substantially all of the
+corporate trust business of such Trustee, shall be the successor of such Trustee hereunder, provided such corporation shall be otherwise qualified and eligible under
+this Article, without the execution or filing of any paper or any further act on the part of any of the parties hereto. In case any Securities shall have been
+authenticated, but not delivered, by the Trustee or the Authenticating Agent for such series then in office, any successor by merger, conversion or consolidation to
+such authenticating Trustee or Authenticating Agent, as the case may be, may adopt such authentication and deliver the Securities so authenticated with the same
+effect as if such successor Trustee or successor Authenticating Agent had itself authenticated such Securities.
+SECTION 613. Preferential Collection of Claims Against Company.
+If and when the Trustee shall be or shall become a creditor, directly or indirectly, secured or unsecured, of the Company (or any other obligor upon the Debt
+Securities), the Trustee shall be subject to the provisions of the Trust Indenture Act regarding collection of claims against the Company (or any such other obligor).
+A Trustee who has resigned or been removed shall be subject to Section 311(a) of the Trust Indenture Act to the extent indicated.
+SECTION 614. Authenticating Agents.
+From time to time the Trustee for the Securities of any series may appoint one or more Authenticating Agents with respect to the Securities of such series,
+which may include the Company or any Affiliate of the Company, with power to act on the Trustee’s behalf in the authentication and delivery of Securities of such
+series in connection with transfers and exchanges under Sections 304, 305 and 1107 as fully to all intents and purposes as though such Authenticating Agent had
+been expressly authorized by those Sections of this Indenture to authenticate and deliver Securities of such series. For all purposes of this Indenture, the
+authentication and delivery of Securities of such series by an Authenticating Agent for such Securities pursuant to this Section shall be deemed to be authentication
+and delivery of such Securities “by the Trustee” for the Securities of such series. Any such Authenticating Agent shall at all times be a corporation organized and
+doing business under the laws of the United States or of any State, authorized under such laws to exercise corporate trust powers, having a combined capital and
+surplus of at least $50,000,000 and subject to supervision or examination by federal or State authority. If such Authenticating Agent publishes reports of condition
+at least annually pursuant to law or the requirements of such supervising or examining authority, then for the purposes of this Section the combined capital and
+surplus of such corporation shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published. If at any time an
+Authenticating Agent for any series of Securities shall cease to be eligible in accordance with the provisions of this Section, such Authenticating Agent shall resign
+immediately in the manner and with the effect specified in this Section.
+Any corporation into which any Authenticating Agent may be merged or converted or with which it may be consolidated, or any corporation resulting from
+any merger, consolidation or conversion to which any Authenticating Agent shall be a party, or any corporation succeeding to all or substantially all of the corporate
+trust business of any Authenticating Agent, shall be the successor of such Authenticating Agent hereunder, if such successor corporation is otherwise eligible under
+this Section, without the execution or filing of any paper or any further act on the part of the parties hereto or the Authenticating Agent or such successor
+corporation.
+Any Authenticating Agent for any series of Securities may resign at any time by giving written notice of resignation to the Trustee for such series and to the
+Company. The Trustee for any series of Securities may at any time terminate the agency of any Authenticating Agent by giving written notice of termination to
+such Authenticating Agent and to the Company in the manner set forth in Section 105. Upon receiving such a notice of resignation or upon such a termination, or in
+case at any time any Authenticating Agent for any series of Securities shall cease to be eligible under this Section, the Trustee for such series may appoint a
+successor Authenticating Agent, shall give written notice of such appointment to the Company and shall give written notice of such appointment to all Holders of
+Securities of such series in the manner set forth in Section 106. Any successor Authenticating Agent, upon acceptance of its appointment hereunder, shall become
+vested with all the rights, powers and duties of its predecessor hereunder, with like effect as if originally named as an Authenticating Agent. No successor
+Authenticating Agent shall be appointed unless eligible under the provisions of this Section.
+35

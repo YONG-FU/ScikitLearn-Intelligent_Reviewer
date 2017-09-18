@@ -1,0 +1,49 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 7: Taxes on Earnings (Continued)
+7 As of October 31 7
+7 2016 7 7 2015
+7 Deferred Deferred 7 7 Deferred Deferred 7
+Tax Tax Tax Tax
+7 Assets 7 7 Liabilities 7 : Assets : : Liabilities :
+7 7 7 In millions
+’Loss and credit carryforwards $ 8,725 $ — $ 7,395 $ (14)}
+Unremitted earnings of foreign subsidiaries — (5,179) — (5,112)
+I Inventory valuation — (12) 5 — ‘
+Intercompany transactions—profit in inventory — — 7 (1 10)
+’Intercompany transactions—excluding inventory 2,5 60 — 2,069 — 1
+Fixed assets 274 — 692 (420)
+’Warranty 248 _ 386 (6):
+Employee and retiree benefits 592 — 1,728 (689)
+’Accounts receivable allowance 117 — 100 — ‘
+Intangible assets 23 (213) — (126)
+’Restructuring and other 17 — 19 — ‘
+Deferred revenue 206 — 201 (2)
+{Other f 399 (99)? 500 (116):
+Gross deferred tax assets and liabilities 7 13,161 7 7 (5,503) 7 13,102 7 7 (6,595)
+I Valuation allowances (8,520) — (7,114) — 1
+Net deferred tax assets and liabilities $ 4,641 $ (5,503) EB 5,988 $ (6,595)
+In 2015, the FASB issued Accounting Standards Update (“ASU”) 2015-17, “Balance Sheet Classification of Deferred
+Taxes”, which simplifies the presentation of deferred income taxes. This guidance requires that deferred tax liabilities and
+assets be classified as non-current in a classified statement of financial position. HP early adopted the FASB’s new accounting
+guidance prospectively for the interim period beginning November 1, 2015; thus, the prior reporting period was not
+retrospectively adjusted.
+Current and long-term deferred tax assets and liabilities included in the Consolidated Balance Sheets as follows:
+As of October 31
+7 2016 7 7 2015 7
+’ In millions 7
+1 Current deferred tax assets 55 — $ 1,047 1
+Current deferred tax liabilities — (57)
+{Long-term deferred tax assets 254 216 1
+Long-term deferred tax liabilities (1,116) (1,813)
+[Total is (8621s (607):
+Excess tax benefits of approximately zero and $64 million were recorded resulting from the exercise of employee stock
+options and other employee stock programs during ﬁscal years 2016 and 2015. Tax deficits of approximately $43 million were
+recorded in ﬁscal year 2014. The historical statements of stockholders’ (deficit) equity have not been revised to reﬂect the eﬁect
+of the Separation. For further information on discontinued operations, see Note 2, “Discontinued Operations”.
+HP periodically engages in intercompany advanced royalty payment arrangements that may result in advance payments
+between subsidiaries in different tax jurisdictions. When the local tax treatment of the intercompany licensing arrangements
+differs from US. GAAP treatment, deferred taxes are recognized. During fiscal year 2016, HP executed intercompany
+advanced royalty payment arrangements resulting in advanced payments of $1.2 billion. During fiscal year 2015, HP executed
+93

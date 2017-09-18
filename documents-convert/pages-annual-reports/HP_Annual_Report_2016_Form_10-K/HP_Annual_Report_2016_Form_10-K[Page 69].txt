@@ -1,0 +1,46 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 2: Discontinued Operations (Continued)
+7 For the ﬁscal years ended October 31 7
+2015 2014
+: In miliions :
+{Depreciation and amortization $ 3,657 $ 3,861 ‘
+Purchases of property, plant and equipment EB 3,020 $ 3,228
+The following table presents assets and liabilities that were transferred to Hewlett Packard Enterprise as of November 1,
+2015 and are presented as discontinued operations on the Consolidated Balance Sheets as of October 31, 2015:
+In millions
+I Cash and cash equivalents $ 9,849 ‘
+Accounts receivable 8,538
+I Financing receivables 2,918 ‘
+Inventory 2,197
+I Other current assets 7,090 l
+Total current assets of discontinued operations :58 30,592 :
+lProperty, plant and equipment 33 9,598 ‘
+Goodwill 27,261
+{Long-term financing receivables and other non-current assets 9,472 ‘
+Total non-current assets of discontinued operations :58 46,331 :
+{Notes payable and short-term borrowings :55 691 ‘
+Accounts payable 5,762
+{Employee compensation and benefits 2,861 ‘
+Taxes on earnings 587
+{Deferred revenue 5,148 ‘
+Other accrued liabilities 6,472
+I Total current liabilities of discontinued operations :58 21,521 l
+Long-term debt 38 15,103
+1 Other non-current liabilities 7,346 l
+Total non-current liabilities of discontinued operations :58 22,449 :
+Subsequent to the Separation, in conformity with the separation agreement, HP made a final cash transfer of $526 million
+to Hewlett Packard Enterprise.
+Note 3: Segment Information
+HP is a leading global provider of personal computing and other access devices, imaging and printing products, and
+related technologies, solutions and services. HP sells to individual consumers, small- and medium-sized businesses (“SMBS”)
+and large enterprises, including customers in the government, health and education sectors.
+HP’s operations are organized into three segments for financial reporting purposes: Personal Systems, Printing and
+Corporate Investments. HP’s organizational structure is based on a number of factors that the chief operating decision maker
+uses to evaluate, view and run its business operations, which include, but are not limited to, customer base and homogeneity of
+products and technology. The segments are based on this organizational structure and information reviewed by HP’s chief
+operating decision maker to evaluate segment results. The chief operating decision maker uses several metrics to evaluate the
+performance of the overall business, including earnings from operations, and uses these results to allocate resources to each of
+the segments.
+69

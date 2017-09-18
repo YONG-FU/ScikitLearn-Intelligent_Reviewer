@@ -1,0 +1,29 @@
+The amortized cost and estimated fair value of securities available-for—sale as of December 31, 2016 and 2015 are as
+follows. All securities are classified as available-for—sale and are carried at fair value.
+December 31, 2016 Gross Gross
+Amortized unrealized unrealized Estimated
+($ in thousands) cost gains losses fair values
+Securities available-for—sale:
+Fixed maturity securities:
+I U.S. treasury $ 7,841 $ — $ 11 $ 7,830 I
+U.S. government-sponsored agencies 249,495 311 10,609 239,197
+I Obligations of states and political subdivisions 319,663 17,034 940 335,757 I
+Commercial mortgage-backed 37,964 741 1,133 37,572
+I Residential mortgage-backed 102,307 1,435 7,308 96,434 I
+Other asset-backed 26,592 732 931 26,393
+I Corporate 445,663 12,232 1,379 456,516 I
+Total fixed maturity securities : 1,189,525 32,485 22,311 1,199,699 :
+I Equity securities: I
+I Common stocks: I
+Financial services 22,922 12,410 210 35,122
+I Information technology 19,832 10,739 29 30,542 I
+Healthcare 16,092 8,700 85 24,707
+I Consumer staples 13,438 5,787 125 19,100 I
+Consumer discretionary 14,812 7,672 163 22,321
+I Energy 14,276 4,873 78 19,071 I
+Industrials 13,005 11,258 18 24,245
+I Other 13,071 5,345 32 18,384 I
+Non-redeemable preferred stocks 20,031 483 167 20,347
+I Total equity securities 147,479 _ 67,267 _ 907 _ 213,839 I
+Total securities available-for—sale $ 1,337,004 _$ 99,752 _$ 23,218 _$ 1,413,538
+141

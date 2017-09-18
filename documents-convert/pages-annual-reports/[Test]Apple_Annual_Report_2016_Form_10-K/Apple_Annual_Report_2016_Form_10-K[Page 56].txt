@@ -1,0 +1,50 @@
+The following table shows the notional amounts of the Company’s outstanding derivative instruments and credit risk amounts
+associated with outstanding or unsettled derivative instruments as of September 24, 2016 and September 26, 2015 (in millions):
+2016 2015
+Notional Credit Risk Notional Credit Risk
+Amount Amount Amount Amount
+lnstruments designated as accounting hedges: 7 7 7 7 7 7 7 7
+Foreign exchange contracts $ 44,678 $ 518 $ 70,054 $ 1,385
+Interest rate contracts $ 24,500 $ 728 $ 18,750 $ 394
+lnstruments not designated as accounting hedges: I
+Foreign exchange contracts $ 54,305 $ 153 $ 49,190 $ 109 '
+The notional amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and do
+not represent the amount of the Company’s exposure to credit or market loss. The credit risk amounts represent the Company’s
+gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties failed to
+perform according to the terms of the contract, based on then-current currency or interest rates at each respective date. The
+Company’s exposure to credit loss and market risk will vary over time as currency and interest rates change. Although the table
+above reflects the notional and credit risk amounts of the Company’s derivative instruments, it does not reflect the gains or losses
+associated with the exposures and transactions that the instruments are intended to hedge. The amounts ultimately realized upon
+settlement of these financial instruments, together with the gains and losses on the underlying exposures, will depend on actual
+market conditions during the remaining life of the instruments.
+The Company generally enters into master netting arrangements, which are designed to reduce credit risk by permitting net settlement
+of transactions with the same counterparty. To further limit credit risk, the Company generally enters into collateral security
+arrangements that provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates
+from contractually established thresholds. The Company presents its derivative assets and derivative liabilities at their gross fair
+values in its Consolidated Balance Sheets. The net cash collateral received by the Company related to derivative instruments under
+its collateral security arrangements was $163 million as of September 24, 2016 and $1.0 billion as of September 26, 2015, which
+were recorded as accrued expenses in the Consolidated Balance Sheets.
+Under master netting arrangements with the respective counterparties to the Company’s derivative contracts, the Company is
+allowed to net settle transactions with a single net amount payable by one party to the other. As of September 24, 2016 and
+September 26, 2015, the potential effects of these rights of set-off associated with the Company’s derivative contracts, including the
+effects of collateral, would be a reduction to both derivative assets and derivative liabilities of $1.5 billion and $2.2 billion, respectively,
+resulting in a net derivative asset of $160 million and a net derivative liability of $78 million, respectively.
+Accounts Receivable
+Trade Receivables
+The Company has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers,
+value-added resellers, small and mid-sized businesses and education, enterprise and government customers. The Company
+generally does not require collateral from its customers; however, the Company will require collateral in certain instances to limit
+credit risk. In addition, when possible, the Company attempts to limit credit risk on trade receivables with credit insurance for certain
+customers or by requiring third-party financing, loans or leases to support credit exposure. These credit-financing arrangements are
+directly between the third-party financing company and the end customer. As such, the Company generally does not assume any
+recourse or credit risk sharing related to any of these arrangements.
+As of September 24, 2016 and September 26, 2015, the Company had one customer that represented 10% or more of total trade
+receivables, which accounted for 10% and 12%, respectively. The Company’s cellular network carriers accounted for 63% and 71%
+of trade receivables as of September 24, 2016 and September 26, 2015, respectively.
+Vendor Non-Trade Receivables
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these
+vendors who manufacture sub-assemblies or assemble final products for the Company. The Company purchases these components
+directly from suppliers. Vendor non-trade receivables from two of the Company’s vendors accounted for 47% and 21% of total vendor
+non-trade receivables as of September 24, 2016 and three of the Company’s vendors accounted for 38%, 18% and 14% of total
+vendor non-trade receivables as of September 26, 2015.
+Apple Inc. | 2016 Form 10-K l 53

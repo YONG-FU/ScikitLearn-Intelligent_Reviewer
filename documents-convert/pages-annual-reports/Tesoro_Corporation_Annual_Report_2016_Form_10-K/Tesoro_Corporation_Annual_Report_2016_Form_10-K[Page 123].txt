@@ -1,0 +1,35 @@
+@WW ]
+CONDENSED CONSOLIDATING STATEMENT OF CASH FLOWS FOR THE YEAR ENDED DECEMBER 31, 2015
+(In millions)
+Guarantor Non- Consolidating
+Parent Subsidiaries Guarantors Adjustments Consolidated
+Cash Flows From (Used in) Operating Activities
+Net cash from operating activities 5 11 5 2,030 $ 293 $ (203) $ 2,131
+Cash Flows From (Used in) Investing Activities
+Capital expenditures — (646) (384) — (1,030)
+Acquisitions — (91) (6) — (97)
+Intercompany notes, net 1,041 — — (1,041) —
+Notes to general partner — — (250) 250 —
+Other investing activities — (2) — — (2)
+Net cash from (used in) investing activities 1,041 (739) (640) (791) (1,129)
+Cash Flows From (Used in) Financing Activities
+Borrowings under revolving credit agreements — — 476 — 476
+Repayments on revolving credit agreements — — (431) — (431)
+Borrowings under term loan credit agreements — — 250 — 250
+Repayments of debt (398) (6) — — (404)
+Dividend payments (228) — — — (228)
+Proceeds from stock options exercised 13 — — — 13
+Net proceeds from issuance of TLLP common units — — 99 — 99
+Notes from general partner 250 — — (250) —
+Distributions to noncontrolling interest — — (182) — (182)
+Purchases of common stock (644) — — — (644)
+Taxes paid related to net share settlement of equity awards (45) — — — (45)
+Net intercompany borrowings (repayments) — (1,371) 330 1,041 —
+Distributions to TLLP unitholders and general partner — — (203) 203 —
+Payments of debt issuance costs — — (2) — (2)
+Excess tax benefits from stock-based compensation arrangements — 38 — — 38
+Net cash from (used in) financing activities (1,052) (1,339) 337 994 (1,060)
+Decrease in Cash and Cash Equivalents — (48) (10) — (58)
+Cash and Cash Equivalents, Beginning of Year — 943 57 — 1,000
+Cash and Cash Equivalents, End of Year S — S 895 $ 47 $ — S 942
+118 | Tesoro Corporation

@@ -1,0 +1,25 @@
+“ Eurocurrency Lending Office ” means, with reSpect to any Lender, the ofﬁce of such Lender specified as its “ Eurocurrency Lending Ofﬁce ”
+opposite its name on Schedule II hereto or in the Assignment and Acceptance pursuant to which it became a Lender (or, if no such office is speciﬁed, its Domestic
+Lending Ofﬁce), or such other office of such Lender as such Lender may from time to time specify to Mondeléz and the Administrative Agent.
+“ Eurocurrency Liabilities ” has the meaning assigned to that term in Regulation D of the Board, as in effect from time to time.
+“ EuLocuxrencyiRatcLResenveiBQLcentagg” for any Interest Period, for all LIBO Rate Advances or Floating Rate Bid Advances comprising part of the
+same Borrowing owing to a Lender which is a member of the Federal Reserve System, means the reserve percentage applicable for such Lender two Business Days
+before the ﬁrst day of such Interest Period under regulations issued from time to time by the Board for determining the maximum reserve requirement (including,
+without limitation, any emergency, supplemental or other marginal reserve requirement) for a member bank of the Federal Reserve System in New York City with
+reSpect to liabilities or assets consisting of or including Eurocurrency Liabilities (or with respect to any other category of liabilities that includes deposits by
+reference to which the interest rate on LIBO Rate Advances or Floating Rate Bid Advances is determined) having a term equal to such Interest Period.
+“ EyentofDefault,” has the meaning speciﬁed in Section 6.01.
+“ Existing Credit Agreement ” means Mondeléz’s existing U.S. $4,500,000,000 5-Year Revolving Credit Agreement dated as of October 10, 2013, as
+amended, restated, supplemented or otherwise modified in accordance with its terms, as in effect immediately prior to the amendment and restatement pursuant to
+the terms hereof.
+“ ExtendingLender,” has the meaning specified in Section 2.10(b).
+“ Extension Date ” has the meaning specified in Section 2.10(b).
+“ EacilityLEee,” has the meaning specified in Section 2.09(a).
+“ FATCA ” means Sections 1471 through 1474 of the Internal Revenue Code as enacted as of the date hereof or any amended or successor version that
+is substantively comparable and not materially more onerous to comply with, and, in each case, regulations promulgated thereunder or official interpretations
+thereof, any agreements entered into pursuant to Section 1471(b)(1) of the Internal Revenue Code as of the date hereof (or any amended or successor version
+described above), and any intergovernmental agreement between the United States and another jurisdiction implementing the foregoing (or any law, regulation or
+other ofﬁcial administrative interpretation implementing such an intergovernmental agreement).
+“ FCPA,” means the United States Foreign Corrupt Practices Act of 1977.
+“ EederaLBankrupticyLCode,” means the Bankruptcy Reform Act of 1978, as amended from time to time.
+-8-

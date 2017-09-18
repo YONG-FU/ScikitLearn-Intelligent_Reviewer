@@ -1,0 +1,46 @@
+US. income and foreign withholding taxes have not been provided on approximately $3.3 billion of cumulative undistributed
+earnings of foreign subsidiaries and equity investees. We intend to reinvest these earnings for the foreseeable future. If these
+amounts were distributed to the US, in the form of dividends or otherwise, we would be subject to additional US. income
+taxes, which could be material. Determination of the amount of unrecognized deferred income tax liabilities on these earnings
+is not practicable because of the complexities with its hypothetical calculation, and the amount of liability, if any, is dependent
+on circumstances existing if and when remittance occurs.
+Tax effect of temporary differences and carryforwards that comprise significant portions of deferred tax assets and liabilities (in
+millions):
+[ mam ]_[ 1333922212635 ]
+[Deferred tax assets: [
+Property, plant and equipment $ 56.8 $ 54.4
+[Accrued occupancy costs 104.5 95.6 [
+Accrued compensation and related costs 88.6 81.6
+[Stored value card liability 124.2 97.2 [
+Stock-based compensation 138.3 135.5
+[Net operating losses 79.0 93.4 [
+Litigation charge 862.3 931.0
+[Other 197.4 171.3 [
+Total $ 1,651.1 $ 1,660.0
+[Valuation allowance (70.3) (143 .7)[
+Total deferred tax asset, net of valuation allowance $ 1,580.8 $ 1,516.3
+[Deferred tax liabilities: [
+Property, plant and equipment (445.7) (150.5)
+[Intangible assets and goodwill (175.9) (176.7)[
+Other 7 (88.5) 7 (51.7)
+[Total f (7101), f (378.9)[
+Net deferred tax asset $ 870.7 $ 1,137.4
+[Reported as: i 7: [
+Deferred income tax assets 885.4 1,180.8
+[Deferred income tax liabilities (included in Other long-term liabilities) (14.7) (43.4)[
+Net deferred tax asset $ 870.7 $ 1,137.4
+(1) We have adjusted the presentation of certain gross deferred tax assets and liabilities as of September 27, 2015 in the above
+table to conform to our presentation as of October 2, 2016.
+The valuation allowance as of October 2, 2016 and September 27, 2015 is primarily related to net operating losses and other
+deferred tax assets of consolidated foreign subsidiaries. The net change in the total valuation allowance was a decrease of $73.4
+million and $23.1 million for fiscal 2016 and 2015, respectively.
+As of October 2, 2016, we had state tax credit carryforwards of $24.9 million with an expiration date of fiscal 2024 and foreign
+net operating loss carryforwards of $264.2 million, the majority of which has no expiration date.
+Uncertain Tax Positions
+As of October 2, 2016, we had $146.5 million of gross unrecognized tax benefits of which $102.0 million, if recognized, would
+affect our effective tax rate. We recognized a benefit of $3.6 million, an expense of $0.7 million and an expense of $5.9 million
+of interest and penalties in income tax expense, prior to the benefit of the federal tax deduction, for fiscal 2016, 2015 and 2014,
+respectively. As of October 2, 2016 and September 27, 2015, we had accrued interest and penalties of $7.7 million and $11.3
+million, respectively, before the benefit of the federal tax deduction, included within other long-term liabilities on our
+consolidated balance sheets.
+80 Starbucks Corporation 2016 Form 10-K

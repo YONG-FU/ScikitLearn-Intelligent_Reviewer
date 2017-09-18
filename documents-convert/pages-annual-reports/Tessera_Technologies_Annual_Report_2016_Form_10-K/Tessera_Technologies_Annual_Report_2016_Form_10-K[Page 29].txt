@@ -1,0 +1,45 @@
+Table of Contents
+Weighted average number of shares used in per — — — —
+share calculation-basic (2) 51,802 52,819 5 3,346 51,977 51,082
+Weighted average number of shares used in per
+share calculation-diluted (2) 52,586 53,563 53,346 52,250 51,443
+December 31,
+2015 2014 2013 2012 2011
+(in thousands)
+Consolidated balance sheets data:
+Cash, cash equivalents and short-term
+investments 33 381,744 $ 434,421 $ 359,587 $ 442,603 $ 492,445
+Working capital $ 390,880 $ 441,484 $ 353,822 $ 422,114 $ 481,427
+lTotal assets 33 539,352 $ 577,123 $ 484,753 $ 705,102 $ 716,526 ‘
+Long-term liabilities $ 3,417 $ 1,738 $ 5,827 $ 9,505 $ 5,017
+'Total stockholders’ equity $ 515,157 $ 541,359 $ 440,437 $ 642,425 $ 670,679 ‘
+(1) Prior to 2014, revenue as part of a settlement of a patent infringement dispute from previously unlicensed parties was previously classiﬁed as past production
+payments, which was deﬁned as royalty payments for the use of our intellectual property. This revenue has been reclassiﬁed and is included in "Royalty and
+license fees."
+(2) See Note 10 of the Notes to Consolidated Financial Statements for an explanation of the methods used to determine the number of shares used to compute per
+share amounts.
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+T he following discussion (presented in thousands, except for percentages) should be read in conjunction with our consolidated ﬁnancial statements and notes
+thereto.
+Business Overview
+Tessera Technologies, Inc., including its Invensas, F otoNation and Ziptronix subsidiaries, licenses its technologies and intellectual property to customers for use in
+areas such as mobile computing and communications, memory and data storage, and 3-D Integrated Circuit (“3D-IC”) technologies, among others. Our
+technologies include semiconductor packaging and interconnect solutions, including xFD ® , BVA ® , ZiBond ® , and DBI ® , and products and solutions for
+mobile and computational imaging, including our F aceTools ® , F acePower ® , F otoSavvy ® , DigitalAperture TM , IrisCam TM , LifeFocus TM , face beautiﬁcation,
+red-eye removal, High Dynamic Range, autofocus, panorama, and image stabilization intellectual property.
+Our business underwent many changes during 2013 and 2014, as summarized under the heading “Overview” in Part I, Item 1- Business of this Annual Report.
+In this document, the operations and financial results of the Micro-Optics business, the Zhuhai Facility and our memslcam manufacturing operations outlined under
+the heading “Overview” in Part I, Item 1- Business of this Annual Report, will be considered discontinued operations. All other ﬁnancial results, unless otherwise
+noted, are included in continuing operations.
+Results of Operations
+We have had signiﬁcant events that have occurred over the past three years that affect the comparability of our financial statements. Key events and their financial
+impacts include the following:
+0 In January 2015, we entered into an agreement with Amkor Technology, Inc. ("Amkor") to settle all pending litigation and arbitration proceedings
+between Amkor and Tessera, Inc. Under the terms of the agreement, Amkor agreed to pay us a total of $155 million comprised of sixteen equal quarterly
+recurring payments which commenced in the first quarter of 20 1 5 and will continue through the fourth quarter of 20 1 8.
+0 We entered into new license agreements with Samsung Electronics Co., Ltd. in 2014. In 2014 and 2015, Samsung Electronics Co., Ltd. accounted for
+24% and 19%, respectively, of our total revenues.
+0 We entered into new license agreements with Micron Technology Inc. in 2014. In 2015, Micron Technology Inc. accounted for 15% of total revenue.
+- PTI, a customer that accounted for 10% or more of total revenues for the year ended December 31, 2012, ceased making payments in 2012, which caused
+a substantial adverse impact to our royalty revenue in 2013. In February
+28

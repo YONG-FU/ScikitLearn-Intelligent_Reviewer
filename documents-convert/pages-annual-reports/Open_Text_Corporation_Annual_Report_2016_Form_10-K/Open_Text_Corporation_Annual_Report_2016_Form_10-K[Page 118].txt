@@ -1,0 +1,55 @@
+OPEN TEXT CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(In thousands of US. dollars, except share data)
+June 30, 2016 June 30, 2015
+ASSETS * * * *
+[Cash and cash equivalents $ 1,283,757 $ 699,999 [
+Short-term investments 1 1,839 1 1,166
+[Accounts receivable trade, net of allowance for doubtful accounts of $6,740 as of [
+June 30, 2016 and $5,987 as ofJune 30, 2015 (note 3) 285,904 284,131
+Income taxes recoverable (note 14) 31,752 21,151
+[Prepaid expenses and other current assets 59,021 _ 53,191 [
+Total current assets 1,672,273 1,069,638
+[Property and equipment (note 4) 183,660 160,419 ]
+Goodwill (note 5) 2,325,586 2,161,592
+[Acquired intangible assets (note 6) 646,240 679,479 [
+Deferred tax assets (note 14) 241,161 181,587
+[Other assets (note 7) 53,697 54,946 [
+Deferred charges (note 8) 22,776 37,265
+[Long-term income taxes recoverable (note 14) 7 8,751 8,404
+Total assets 73; 5,154,144 73; 4,353,330
+[ LIABILITIES AND SHAREHOLDERS’ EQUITY : i i ]
+Current liabilities:
+[ Accounts anble and accrued liabilities (note 9) $ 257,450 $ 241,370 [
+Current portion of long-term debt (note 10) 8,000 8,000
+[ Deferred revenues 373,549 358,066 [
+Income taxes payable (note 14) 7 32,030 17,001 7
+[ Total current liabilities 671,029 624,437 J
+Long-term liabilities:
+[ Accrued liabilities (note 9) 29,848 34,682 [
+Deferred credits (note 8) 8,357 12,943
+[ Pension liability _(note 11) 61,993 56,737 [
+Long-term debt (note 10) 2,137,987 1,549,370
+[ Deferred revenues 37,461 28,223 1
+Long-term income taxes p_ayable (note 14) 149,041 151,484
+[ Deferred tax liabilities (note 14) 7 79,231 65,647[
+Total long-term liabilities 2,503,918 1,899,086
+[Shareholders’ eqigty: [
+Share capital (note 12)
+[ 121,404,677 and 122,293,986 Common Shares issued and outstanding at June [
+30, 2016 and June 30, 2015, respectively; Authorized Common Shares:
+unlimited 817,788 808,010
+Additional paid-in capital 147,280 126,417
+[ Accumulated other comprehensive income 46,310 51,828 [
+Retained earnings 992,546 863,015
+[ Treasury stock, at cost (633,647 shares at June 30, 2016 and 625,725 at June 30, [
+2015, respectively) (25,268) (19,986)l
+Total OpenText shareholders' equity 7 1,978,656 7 7 1,829,284
+[ Non-controlling interests 541 _ 523 [
+Total shareholders’ equity 7 1,979,197 7 1,829,807
+[ Total liabilities and shareholders’ equity 73; 5,154,144 7 73; 4,353,330
+Guarantees and contingencies (note 13)
+Related party transactions (note 22)
+Subsequent events (note 23)
+See accompanying Notes to Consolidated Financial Statements
+1 10

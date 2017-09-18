@@ -1,0 +1,40 @@
+RITE AID CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+For the Years Ended February 27, 2016, February 28, 2015 and March 1, 2014
+(In thousands, except per share amounts)
+20. Segment Reporting (Continued)
+The following is a reconciliation of net income to Adjusted EBIT DA for fiscal 2016, 2015 and
+2014:
+February 27, February 28, March 1,
+2016 2015 2014
+(52 weeks) (52 weeks) (52 weeks)
+Netincome......................... $165,465 $2,109,173 $249,414
+Interest expense . . . . . . . . . . . . . . . . . . . . 449,574 397,612 424,591
+Income tax expense . . . . . . . . . . . . . . . . . 139,297 158,951 161,883
+Income tax valuation allowance reduction . (26,358) (1,841,304) (161,079)
+Depreciation and amortization expense . . . 509,212 416,628 403,741
+LIFO charge (credit) . . . . . . . . . . . . . . . . 11,163 (18,857) 104,142
+Lease termination and impairment charges 48,423 41,945 41,304
+Loss on debt retirements, net . . . . . . . . . . 33,205 18,512 62,443
+72,281 40,183 38,520
+Adjusted EBITDA. . . . . . . . . . . . . . . . . . . . $1,402,262 $ 1,322,843 $1,324,959
+The following is balance sheet information for the Company’s reportable segments:
+Retail Pharmacy
+Pharmacy Services Eliminations(2) Consolidated
+February 27, 2016:
+Total Assets . . . . . . . . . . . . . . . . . . . . . . . . . $8,468,186 $2,948,548 $(139,724) $11,277,010
+Goodwill........................... 76,124 1,637,351 — 1,713,475
+Additions to property and equipment and
+intangible assets . . . . . . . . . . . . . . . . . . . . 667,719 2,276 — 669,995
+February 28, 2015:
+TotalAssets......................... $8,777,425 $ — $ — $8,777,425
+Goodwill........................... 76,124 — — 76,124
+Additions to property and equipment and
+intangible assets . . . . . . . . . . . . . . . . . . . . 539,386 — — 539,386
+(2) Intersegment eliminations include netting of the Pharmacy Services segment long-term deferred tax
+liability of $116,027 against the Retail Pharmacy segment long-term deferred tax asset for
+consolidation purposes in accordance with ASC 740, and intersegment accounts receivable of
+$23,697, as of February 27, 2016, that represents amounts owed from the Pharmacy Services
+segment to the Retail Pharmacy segment that are created when Pharmacy Services segment
+customers use Retail Pharmacy segment stores to purchase covered products.
+141

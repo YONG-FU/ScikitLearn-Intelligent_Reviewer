@@ -1,0 +1,43 @@
+- establish restrictions that limit or otherwise affect the deployment of transmitter and receiver sites needed to support the coverage and capacity of
+our networks;
+- establish minimum network construction, coverage or quality of service obligations that can result in increased capital investments or require other
+changes to our business;
+- establish prices Nextel Brazil is required to charge for its services or impose other terms of service that can affect our revenues or costs; or
+- impose foreign ownership limitations on telecommunications providers that may affect our ability to own and operate our business.
+There has also been an increased focus on service and quality standards in Brazil as the local government monitors telecommunications providers' voice
+quality, customer complaints, call failure rates, capacity to handle call trafﬁc levels in peak calling periods and failed interconnection of calls, which could
+potentially increase our operating costs and affect rates charged to subscribers. In addition, regulations in Brazil permit third parties, including our
+competitors, to challenge our actions or decisions of the regulators that potentially beneﬁt us, such as decisions regarding the allocation and licensing of
+spectrum. If our competitors are successﬁil in pursuing claims such as these, or if the regulators in Brazil take actions against us in response to actions
+initiated by our competitors, our ability to grow our business and improve our results of operations could be adversely affected.
+Finally, rules and regulations affecting placement and construction of our transmitter and receiver sites affect our ability to deploy and operate our
+networks, and therefore impact our business strategies. In some instances, local governments have adopted very stringent rules and regulations related to the
+placement and construction of wireless towers, which can signiﬁcantly impede the planned expansion of our service coverage area or require us to remove or
+modify existing towers, which can result in unplanned costs, negatively impact network performance and impose new and onerous taxes and fees.
+Compliance with such laws, rules and regulations could increase the time and costs associated with our planned network deployments. The propagation
+characteristics of the spectrum bands being used to support our WCDMA network in Brazil and the coverage requirements associated with the spectrum
+licenses being utilized in Brazil, require substantially more transmitter and receiver sites to meet the minimum coverage requirements of those licenses and to
+provide coverage to the areas needed to provide competitive services. In addition, our licenses in Brazil require us to build our networks within prescribed
+time periods, and failure to meet the requirements may result in enforcement of performance bonds related to the licenses, forfeiture of the channels and
+revocation of licenses. Rules and regulations affecting tower placement and construction could make it difficult to meet our build requirements in a timely
+manner or at all, which could lead us to incur unplanned costs or result in ﬁnes or, in some instances, the loss of spectrum licenses. We expect that when we
+complete the implementation of our radio access network, or RAN, sharing agreement with Telefonica, under which Telefonica permits Nextel Brazil to use
+some of its tower and equipment infrastructure to transmit telecommunications signals on Nextel Brazil's spectrum, Nextel Brazil will be in compliance with
+the applicable operational requirements of its licenses in all material respects.
+d. We pay signiﬁcant import duties on our network equipment and handsets, and any increases could impact our ﬁnancial results.
+Our operations are highly dependent upon the successful and cost-efﬁcient importation of network equipment and handsets and other devices from
+locations outside Brazil. Network equipment and handsets may be subject to signiﬁcant import duties and other taxes. Any signiﬁcant increase in import
+duties in the ﬁiture could signiﬁcantly increase our costs. To the extent we cannot pass these costs on to our customers, our ﬁnancial results will be
+negatively impacted.
+e. We are subject to taxes, which may reduce the revenues of our operating subsidiary in Brazil, reduce the amounts we receive from Nextel Brazil or may
+increase our tax costs.
+The government in Brazil, including the local municipalities, has increasingly turned to new taxes, as well as aggressive interpretations of current tax
+law, as a method of increasing revenue. For example, Nextel Brazil is required to pay two types of income taxes, which include a corporate income tax and a
+social contribution tax, and is subject to various types of non-income related taxes, including value-added tax, excise tax, service tax, importation tax and
+property tax. In addition, the reduction in tax revenues resulting from the economic downturn that has occurred in the last several years has led to proposals
+and new laws that increase the taxes imposed on sales of handsets and on telecommunications services. The provisions of new tax laws may attempt to
+prohibit us from passing these taxes on to our customers or our ability to do so may be limited by competitive conditions. These taxes may reduce the amount
+of earnings that we can generate from our services or in some cases may result in operating losses.
+Distributions of earnings and other payments, including interest, received from Nextel Brazil may be subject to withholding taxes imposed by Brazil.
+Any of these taxes will reduce the amount of after-tax cash we can receive from our operations.
+16

@@ -1,0 +1,41 @@
+SECTION 510. Rights and Remedies Cumulative.
+Except as otherwise provided with respect to the replacement or payment of mutilated, destroyed, lost or stolen Securities in the last paragraph of
+Section 306, no right or remedy herein conferred upon or reserved to the Trustee for the Securities of any series or to the Holders of Securities is intended to be
+exclusive of any other right or remedy, and every right and remedy shall, to the extent permitted by law, be cumulative and in addition to every other right and
+remedy given hereunder or now or hereafter existing at law or in equity or otherwise. The assertion or employment of any right or remedy hereunder, or otherwise,
+shall not prevent the concurrent assertion or employment of any other appropriate right or remedy.
+SECTION 511. Delay or Omission Not Waiver.
+No delay or omission of the Trustee for the Securities of any series or of any Holder of any Security of such series to exercise any right or remedy accruing
+upon any Event of Default with respect to the Securities of such series shall impair any such right or remedy or constitute a waiver of any such Event of Default or
+an acquiescence therein. Every right and remedy given by this Article or by law to such Trustee for the Securities of any series or to the Holders may be exercised
+from time to time, and as often as may be deemed expedient, by such Trustee or by the Holders, as the case may be.
+SECTION 512. Control by Holders.
+The Holders of not less than a majority in principal amount of the Outstanding Securities of any particular series shall have the right to direct the time,
+method and place of conducting any proceeding for any remedy available to the Trustee for the Securities of such series with respect to the Securities of that series
+or exercising any trust or power conferred on such Trustee with respect to such Securities, provided that:
+(1) such direction shall not be in conﬂict with any rule of law or with this Indenture and could not involve the Trustee in personal liability; and
+(2) such Trustee may take any other action deemed proper by such Trustee which is not inconsistent with such direction.
+SECTION 513. Waiver of Past Defaults.
+The Holders of not less than a majority in principal amount of the Outstanding Securities of any particular series may on behalf of the Holders of all the
+Securities of that series waive any past default hereunder with respect to that series and its consequences, except:
+(1) a default in the payment of principal of, or premium, if any, or interest, if any, on any Security of that series; or
+(2) a default with respect to a covenant or provision hereof which under Article Nine cannot be modiﬁed or amended without the consent of the Holder
+of each Outstanding Security of that series affected.
+Upon any such waiver, such default shall cease to exist, and any Event of Default arising therefrom shall be deemed to have been cured, for every purpose of
+this Indenture; but no such waiver shall extend to any subsequent or other default or impair any right consequent thereon.
+SECTION 514. Undertaking for Costs.
+All parties to this Indenture agree, and each Holder of any Security by his acceptance thereof shall be deemed to have agreed, that any court may in its
+discretion require, in any suit for the enforcement of any right or remedy under this Indenture or in any suit against the Trustee for the Securities of any series for
+any action taken or omitted by it as Trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its
+discretion assess reasonable costs, including reasonable and documented attorneys’ fees and expenses, against any party litigant in such suit, having due regard to
+the merits and good faith of the claims or defenses made by such party litigant; but the provisions of this Section shall not apply to any suit instituted by the Trustee
+for the Securities of any series, to any suit instituted by any Holder, or group of Holders, holding in the aggregate more than 10% in principal amount of the
+Outstanding Securities of any particular series or to any suit instituted by any Holder of any Security for the enforcement of the payment of principal of, or
+premium, if any, or interest, if any, on any Security of such series.
+SECTION 515. Waiver of Stay or Extension Laws.
+The Company covenants (to the extent that it may lawfully do so) that it will not at any time insist upon, or plead, or in any manner whatsoever claim or take
+the benefit or advantage of, any stay or extension law wherever enacted, now or at any time hereafter in force, which may affect the covenants or the performance
+of this Indenture; and the Company (to the extent that it may lawfully do so) hereby expressly waives all benefit or advantage of any such law, and covenants that it
+will not hinder, delay or impede the execution of any power herein granted to the Trustee for any series of Securities, but will suffer and permit the execution of
+every such power as though no such law had been enacted.
+29

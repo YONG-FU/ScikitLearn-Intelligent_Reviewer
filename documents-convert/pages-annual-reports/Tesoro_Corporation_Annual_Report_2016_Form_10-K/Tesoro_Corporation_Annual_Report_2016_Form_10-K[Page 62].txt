@@ -1,0 +1,42 @@
+[ QUA EATIVE QUALIT'ATIVE DISGLOSUR ]
+We believe the governance structure that we have in place is adequate given the size and sophistication of our commodity optimization, inventory
+management and trading activities. Our governance over commodity activities includes regular monitoring of the performance of our risk management strategies
+and limits over dollar and volume based transactional authority, commodity position, aggregate spread, stop-loss and value-at-risk. Performance against our
+strategies and authorized limits is monitored daily via position reports and proﬁt and loss analysis and is reviewed on a regular basis, at least monthly, by our risk
+committee.
+COMPOSITION OF NET GAIN (LOSS) ON OUR COMMODITY DERIVATIVE POSITIONS (in millions)
+Years ended December 31,
+2016 2015
+Unrealized gain carried on open derivative positions from prior period $ (44) $ (177)
+Realized gain on settled derivative positions 26 412
+Unrealized gain (loss) on open net derivative positions (49) 44
+Net Gain (Loss) $ (67) $ 279
+Our open derivative positions at December 31, 2016 will expire at various times through 2018. We prepared a sensitivity analysis to estimate our exposure
+to market risk associated with our derivative instruments. Based on our open net positions at December 31, 2016, a 1% change in quoted market prices of our
+derivative instruments, assuming all other factors remain constant, could change the fair value of our derivative instruments and pre-tax operating income by
+approximately $4 million. This analysis may differ from actual results.
+With the exception of a small amount of condensate and pipeline loss allowances, TLLP is not exposed to commodity price risk with respect to any of the
+crude oil, natural gas, NGLs or reﬁned products that are handled. See Note 3 to our consolidated financial statements in Item 8 for additional information on our
+Keep-Whole Commodity Agreement.
+COUNTERPARTY CREDIT RISK
+We have exposure to concentrations of credit risk related to our counterparties' ability to meet their contractual payment obligations, and the potential
+non-performance by counterparties to deliver contracted commodities or services at the contracted price. Customer concentrations within the refining industry
+and oil and gas producers may affect our overall exposure to counterparty risk because these customers may be similarly impacted by changes in economic or
+other conditions. In addition, ﬁnancial services companies are the counterparties in certain of our price risk management activities, and such ﬁnancial services
+companies could be adversely impacted by periods of uncertainty and illiquidity in the credit or capital markets. We have credit management processes in place
+by which we closely monitor the status of our counterparties by performing ongoing credit evaluations of their ﬁnancial condition. In certain circumstances, we
+require prepayments, letters of credit or other credit enhancement.
+INTEREST RATE RISK
+Our use of ﬁxed or variable-rate debt directly exposes us to interest rate risk. Fixed rate debt, such as our senior notes, exposes us to changes in the fair
+value of our debt due to changes in market interest rates. Fixed rate debt also exposes us to the risk that we may need to reﬁnance maturing debt with new debt
+at higher rates or that our current ﬁxed rate debt may be higher than the current market. Variable-rate debt, such as borrowings under our Revolving Credit
+Facility, exposes us to short-term changes in market rates that impact our interest expense. The fair value of our debt was estimated primarily using quoted
+market prices. The carrying and fair values of our debt were approximately $7.0 billion and $7.3 billion at December 31, 2016, respectively, and approximately
+$4.1 billion for both the carrying and fair values at December 31, 2015. These carrying and fair values of our debt do not consider the unamortized issuance
+costs, which are netted against our total debt. Unless interest rates increase signiﬁcantly in the future, our exposure to interest rate risk should be minimal. With
+all other variables constant, a 0.25% change in the interest rate associated with the borrowings outstanding would change annual interest expense by less than
+$1 million under any of our variable-rate debt. We currently do not use interest rate swaps to manage our exposure to interest rate risk; however, we continue
+to monitor the market and our exposure, and may in the future enter into these transactions to mitigate risk. We believe in the short-term we have acceptable
+interest rate risk and continue to monitor the risk on our long-term obligations. There were no borrowings outstanding under the Revolving Credit Facility and
+TLLP Dropdown Credit Facility, and $330 million borrowings outstanding under the TLLP Revolving Credit Facility as of December 31, 2016.
+December 31, 2016 | 59

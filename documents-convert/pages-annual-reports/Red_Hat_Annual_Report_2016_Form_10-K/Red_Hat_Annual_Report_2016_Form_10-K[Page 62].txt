@@ -1,0 +1,46 @@
+Revenue
+Subscription revenue
+Subscription revenue, which is primarily comprised of direct and indirect sales of Red Hat offerings,
+increased by 15.5%, or $242.2 million, to $1.80 billion for the year ended February 29, 2016 from $1.56 billion
+for the year ended February 28, 2015.
+Revenue derived from the sale of subscriptions supporting our Infrastructure-related offerings, increased by
+11.8%, or $155.8 million, to $1.48 billion for the year ended February 29, 2016 from $1.32 billion for the year
+ended February 28, 2015 and includes a favorable revenue adjustment of $5.3 million related to cloud-usage
+revenues through our CCSP program, as described further in NOTE 2—Summary of Significant Accounting
+Policies to our Consolidated Financial Statements. The remaining increase in subscription revenue is primarily
+due to increases in volumes sold, including additional subscriptions attributable to geographic expansion and the
+continued migration of customers to our open source Linux platform from proprietary operating systems.
+Revenue derived from the sale of subscriptions supporting our Application Development-related and other
+emerging technology offerings increased by 36.5%, or $86.4 million, to $323.0 million for the year ended
+February 29, 2016 from $236.5 million for the year ended February 28, 2015. The increase is primarily due to
+additional subscriptions for Red Hat JBoss Middleware offerings. We expect the growth rate of revenue derived
+from our Application Development-related and other emerging technology offerings to exceed the growth rate of
+revenue derived from our Infrastructure-related offerings as our Application Development-related and other
+emerging technology offerings continue to gain broader market acceptance in the enterprise IT environment.
+Training and services revenue
+Training revenue includes fees paid by our customers for delivery of educational materials and instruction.
+Services revenue includes fees received from customers for consulting services regarding our offerings,
+deployment of Red Hat technologies and for delivery of added functionality to Red Hat technologies for our
+major customers and OEM partners. Total training and services revenue increased by 9.0%, or $20.5 million, to
+$248.8 million for the year ended February 29, 2016 from $228.3 million for the year ended February 28, 2015.
+Training revenue increased by 1.9%, or $1.1 million. Our services revenue increased by 11.3%, or $19.4 million,
+as a result of an increase in consulting engagements driven by increased demand for our open source solutions.
+We expect services revenue to continue growing, though at a slower pace than subscription revenue as we
+continue to expand our reach by enabling our channel partners to provide consulting services on our behalf.
+Combined training and services revenue as a percentage of total revenue was 12.1% and 12.8% for the year
+ended February 29, 2016 and February 28, 2015, respectively.
+Cost of revenue
+Cost of subscription revenue
+The cost of subscription revenue primarily consists of expenses we incur to support, distribute, and package
+Red Hat offerings. These costs include labor-related costs to provide technical support, security updates and
+fixes, as well as costs for fulfillment. Cost of subscription revenue increased by 12.2%, or $13.8 million, to
+$126.7 million for the year ended February 29, 2016 from $112.9 million for the year ended February 28, 2015.
+Employee-related expenses increased $10.6 million for the year ended February 29, 2016 as compared to the year
+ended February 28, 2015, due to the expansion of our technical staff in order to meet the demands of our growing
+subscriber base for support, security updates and ﬁxes. The remaining increase relates primarily to increased
+expense of $1.4 million related to facility and technology infrastructure enhancements. As the number of open
+source technology subscriptions continues to increase, we expect associated support costs will continue to
+increase, although we anticipate this will occur at an overall slower rate than that of subscription revenue growth
+due to economies of scale. Gross profit margin on subscriptions was 93.0% and 92.8% for the year ended
+February 29, 2016 and February 28, 2015, respectively.
+58

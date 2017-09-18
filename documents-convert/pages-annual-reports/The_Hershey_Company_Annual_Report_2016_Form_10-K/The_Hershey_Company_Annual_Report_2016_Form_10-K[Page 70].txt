@@ -1,0 +1,49 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Income Statement Impact of Derivative Instruments
+The effect of derivative instruments on the Consolidated Statements of Income for the years ended December 31, 2016
+and December 31, 2015 was as follows:
+Non-designated
+7 Hedges 7 7 Cash Flow Hedges 7
+Gains (losses)
+Gains (losses) reclassiﬁed from
+recognized in other accumulated OCI Gains recognized
+Gains (losses) comprehensive into income in income
+recognized in income income (“OCI”) (effective portion) (ineffective
+7 (a) 7 7 (effective portion) 7 7 (b) 7 7 portion) (c) 7
+7 2016 2015 7 7 2016 2015 7 7 2016 2015 7 7 2016 2015 7
+Commodities futures and 7 7 7 7 7 7 7 7
+options $(171,753) $(2,777) $ 7 7 $ 84,382 $ 30,783 $40,600 $ 7 7 $ 987
+Foreign exchange contracts (46) 487 (5,485) (155) (5,625) 956 7 7 7 7
+linterest rate swap agreements 7 7 7 7 (47,223) (22,388) (8,676) (4,922) 7 7 7 7 ‘
+Deferred compensation
+derivatives 2,203 173 _ 7 7 7 7 7 7 7 7 _ 7 7 7 7
+lTotal :$(169,596) $(2,117):_:$ (52,708) $ 61,839 16,482 $36,634 7 7 $ 987 l
+(a) Gains (losses) recognized in income for non-designated commodities futures and options contracts were included
+in cost of sales. Gains (losses) recognized in income for non-designated foreign currency forward exchange
+contracts and deferred compensation derivatives were included in selling, marketing and administrative expenses.
+(b) Gains (losses) reclassified from AOCI into income were included in cost of sales for commodities futures and
+options contracts and for foreign currency forward exchange contracts designated as hedges of purchases of
+inventory or other productive assets. Other gains (losses) for foreign currency forward exchange contracts were
+included in selling, marketing and administrative expenses. Losses reclassified from AOCI into income for
+interest rate swap agreements were included in interest expense.
+(0) Gains representing hedge ineﬁectiveness were included in cost of sales for commodities futures and options
+contracts.
+The amount of pretax net losses on derivative instruments, including interest rate swap agreements, foreign currency
+forward exchange contracts and options, commodities futures and options contracts, and other commodity derivative
+instruments expected to be reclassified into earnings in the next 12 months was approximately $7,824 as of
+December 31, 2016. This amount was primarily associated with interest rate swap agreements.
+Fair Value Hedgﬁ
+For the years ended December 31, 2016 and 2015, we recognized a net pretax benefit to interest expense of $4,365 and
+$6,905 relating to our fixed-to-ﬂoating interest swap arrangements.
+6. FAIR VALUE MEASUREMENTS
+Accounting guidance on fair value measurements requires that financial assets and liabilities be classified and
+disclosed in one of the following categories of the fair value hierarchy:
+Level 1 —- Based on unadjusted quoted prices for identical assets or liabilities in an active market.
+Level 2 —- Based on observable market-based inputs or unobservable inputs that are corroborated by market data.
+Level 3 —- Based on unobservable inputs that reﬂect the entity's own assumptions about the assumptions that a market
+participant would use in pricing the asset or liability.
+We did not have any level 3 financial assets or liabilities, nor were there any transfers between levels during the
+periods presented.
+68

@@ -1,0 +1,46 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+1. Organization and principal activities
+Alibaba Group Holding Limited (the “Company,” and where appropriate, the term “Company” also refers to
+its subsidiaries and variable interest entities as a whole), was incorporated in the Cayman Islands on June 28,
+1999. The Company is a holding company and conducts its businesses primarily through its subsidiaries and
+variable interest entities (“VIEs”). The Company is principally engaged in online and mobile commerce
+through offering of products, services and technology that enable merchants, brands and other businesses to
+transform the way they market, sell and operate in the People’s Republic of China (the “PRC” or “China”)
+and internationally. Major shareholders of the Company include SoftBank Corp. (“SoftBank”) and
+Yahoo! Inc. (“Yahoo”).
+The Company’s core commerce business is comprised of marketplaces operating in retail commerce in China,
+wholesale commerce in China and international and cross-border commerce. Retail commerce in China
+operated by the Company includes the China online commerce destination (“Taobao Marketplace”);
+(ii) the China third-party platform for brands and retailers (“Tmall”) and (iii) the sales and marketing
+platform for ﬂash sales (“Juhuasuan”). Wholesale commerce in China operated by the Company includes the
+China domestic wholesale marketplace (“1688.com”). International and cross-border commerce operated by
+the Company includes the global marketplace targeting consumers from around the world to buy directly
+from manufacturers and distributors in China (“AliExpress”); (ii) a platform within the Tmall for overseas
+brands and retailers to reach Chinese consumers without the need for physical operations in China (“Tmall
+Global”) and (iii) the wholesale marketplace for global trade (‘iAlibabacom”).
+In addition, the Company is a provider of public cloud services which offers a complete suite of cloud services:
+including elastic computing, database, storage and content delivery network, large scale computing, security
+and management and application services, to third-party customers (“Alibaba Cloud Computing”). The
+Company also operates business in mobile media and entertainment through three distribution platforms,
+UCWeb mobile media, game publishing and multi-screen entertainment as well as content creation and
+production companies in film, music and sports. The Company also participates in the logistics and local
+services sectors through investments in Cainiao Network (Note 4(w)) and Koubei (Note 4(n)), respectively. In
+addition, the Company has a profit sharing interest in Ant Financial Services (Note 4(b)), the financial
+services group that operates through Alipay.com Co., Ltd. (“Alipay”), a third-party online payment platform in
+China. The Company makes available online payment processing services (“Payment Services”) on its
+marketplaces through an arrangement with Alipay.
+The Company derives substantially all of its revenue from the PRC.
+2. Summary of significant accounting policies
+(a) Basis of presentation
+The accompanying consolidated financial statements are prepared in accordance with accounting principles
+generally accepted in the United States of America (“US GAAP”).
+Translations of balances in the consolidated balance sheet, consolidated income statement, consolidated
+statement of comprehensive income and statement of cash ﬂows from Renminbi (“RMB”) into the United
+States Dollar (“USES”) as of and for the year ended March 31, 2016 are solely for the convenience of the
+readers and were calculated at the rate of US$1.00=RMB6.4480, representing the exchange rate set forth in
+the H10 statistical release of the Federal Reserve Board on March 31, 2016. No representation is made that
+the RMB amounts could have been, or could be, converted, realized or settled into US$ at that rate on
+March 31, 2016, or at any other rate.
+F-13

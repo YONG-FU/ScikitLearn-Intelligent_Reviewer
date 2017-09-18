@@ -1,0 +1,46 @@
+Customer Support
+The first year of our customer support offering is usually purchased by customers together with the license of our EIM
+software products. Customer support is typically renewed on an annual basis and historically customer support revenues have
+been a significant portion of our total revenue. Through our OpenText customer support programs, customers receive access to
+software upgrades, a knowledge base, discussions, product information, and an online mechanism to post and review “trouble
+tickets”. Additionally, our customer support teams handle questions on the use, configuration, and functionality of OpenText
+products and can help identify software issues, develop solutions, and document enhancement requests for consideration in
+future product releases.
+Professional Service and Other
+We provide consulting and learning services to customers and generally these services relate to the implementation,
+training and integration of our licensed product oﬁerings into the customer's systems.
+Our consulting services help customers build solutions that enable them to leverage their investments in our technology
+and in existing enterprise systems. The implementation of these services can range from simple modifications to meet specific
+departmental needs to enterprise applications that integrate with multiple existing systems.
+Our learning services consultants analyze our customers' education and training needs, focusing on key learning
+outcomes and timelines, with a view to creating an appropriate education plan for the employees of our customers who work
+with our products. Education plans are designed to be ﬂexible and can be applied to any phase of implementation: pilot, roll-
+out, upgrade or refresher. OpenText learning services employ a blended approach by combining mentoring, instructor-led
+courses, webinars, eLearning and focused workshops.
+Marketing and Sales
+Customers
+Our customer base consists of a number of Global 10,000 organizations as well as mid-market companies and
+government agencies. Historically, including in Fiscal 2016, no single customer has accounted for 10% or more of our total
+revenues.
+Global Distribution Channels
+We operate on a global basis and in Fiscal 2016 we generated approximately 58% of our revenues from our “Americas”
+region, which consists of countries in North, Central, and South America, approximately 33% from our "EMEA" region, which
+primarily consists of countries in Europe, Africa, and the Middle East, and approximately 9% from our "Asia Pacific" region,
+which primarily consists of Japan, Australia, China, Korea, Philippines, Singapore and New Zealand. We make direct sales of
+products and services through our global network of subsidiaries.
+Partners and Alliances
+We also market our products and services worldwide through indirect channels. We partner with prominent organizations
+in the enterprise software and hardware industries in an effort to enhance the value of our solutions and the investments our
+customers have made in their existing systems. We strive to create mutually beneficial relationships with global systems
+integrators, consultants, and software and hardware developers that augment and extend our products and services. Through
+these relationships, we and our partners are better able to fulfill key market objectives, drive new business, establish a
+competitive advantage, and create demonstrable business value.
+Our strategic partners are:
+OpenT ext and SAP AG (SAP)
+OpenText and SAP have shared many years of partnership and close collaboration. Our solutions help customers improve
+the way they manage content from SAP systems in order to assist them to improve efficiency in key processes, manage
+compliance and reduce costs. Our targeted solutions let customers create, access, manage and securely archive content for SAP
+systems, including data, multimedia content, and documents. In addition, our solutions for SAP allow customers to address
+stringent requirements for risk reduction, operational efficiency and information technology consolidation. OpenText products
+are typically used by SAP customers as part of their key business processes.
+9

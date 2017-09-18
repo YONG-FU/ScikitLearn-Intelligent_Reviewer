@@ -1,0 +1,44 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+available-for—sale securities. VMware may sell these securities at any time for use in current operations or for other purposes, such as consideration for acquisitions
+and strategic investments.
+Fixed income investments are reported at fair value and unrealized gains and losses on these investments, net of taxes, are included in accumulated other
+comprehensive income (loss), a component of stockholders’ equity. Realized gains or losses are included on the consolidated statements of income. Gains and
+losses on the sale of fixed income securities issued by the same issuer and of the same type are determined using the first-in ﬁrst-out (“FIFO”) method. When a
+determination has been made that an other-than-temporary decline in fair value has occurred, the amount of the decline that is related to a credit loss is realized and
+is included on the consolidated statements of income.
+Cash balances that are restricted pursuant to the terms of various agreements are classified as restricted cash and included in other current assets and other
+assets in the accompanying consolidated balance sheets. As of December 31, 2016 and 2015 the total amount of VMware’s restricted cash was $20 million and
+$19 million , respectively.
+As of December 31, 2016 , VMware’s total cash, cash equivalents and short-term investments were $7,985 million , of which $6,921 million was held outside
+the United States.
+Allowance for Doubtful Accounts
+VMware maintains an allowance for doubtful accounts for estimated losses on uncollectible accounts receivable. The allowance for doubtful accounts
+considers such factors as creditworthiness of VMware’s customers, historical experience, the age of the receivable, and current economic conditions. The
+allowance for doubtful accounts was insignificant for all periods presented.
+Property and Equipment, Net
+Property and equipment, net is recorded at cost. Depreciation commences upon placing the asset in service and is recognized on a straight-line basis over the
+estimated useful life of the assets, as follows:
+’Buildings Term of underlying land lease ‘
+Land improvements 15 years
+’Furniture and fixtures 7 years ‘
+Equipment 3 to 6 years
+lSoftware 3 to 8 years ‘
+Leasehold improvements 20 years, not to exceed the shorter of the estimated useful life or remaining lease
+term
+Upon retirement or disposition, the asset cost and related accumulated depreciation are removed with any gain or loss recognized on the consolidated
+statements of income. Repair and maintenance costs that do not extend the economic life of the underlying assets are expensed as incurred.
+Capitalized Software Development Costs
+Costs associated with internal-use software systems, including those used to provide hosted services, during the application development stage are capitalized.
+Capitalization of costs begins when the preliminary project stage is completed, management has committed to funding the project, and it is probable that the
+project will be completed and the software will be used to perform the function intended. Capitalization ceases at the point when the project is substantially
+complete and is ready for its intended purpose. The capitalized amounts are included in property and equipment, net on the consolidated balance sheets.
+Deve10pment costs of software to be sold, leased, or otherwise marketed are subject to capitalization beginning when technological feasibility for the product
+has been established and ending when the product is available for general release. During the years presented, software development costs incurred for products
+during the time period between reaching technological feasibility and general release were not material and accordingly were expensed as incurred.
+Business Combinations
+For business combinations, VMware recognizes the identifiable assets acquired, the liabilities assumed, and any non-controlling interests in an acquiree, which
+are measured based on the acquisition date fair value. Goodwill is measured as the excess of consideration transferred over the net amounts of the identifiable
+tangible and intangible assets acquired and the liabilities assumed at the acquisition date.
+62

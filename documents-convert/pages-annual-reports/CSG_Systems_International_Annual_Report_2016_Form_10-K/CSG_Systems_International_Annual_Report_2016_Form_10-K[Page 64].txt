@@ -1,0 +1,49 @@
+The difference between our income tax provision computed at the statutory Federal income tax rate and our financial statement income tax related to continuing
+operations is summarized as follows (in thousands):
+2016 _ 2015 _ 2014
+:Provision at Federal rate of 35% $ 35,000 $ 33,719 $ 21,533 )
+State income taxes, net of Federal impact 2,662 2,652 2,132
+Research and experimentation credits (3) (2,135) (450))
+Tax uncertainties (2,5 97) (166) 187
+:Section 199 manufacturing deduction (4,060) (2,884) (1,936))
+Foreign rate differential 857 688 2,847
+)Valuation allowance for deferred tax assets 1,287 919 3,602 )
+Other impact of foreiggperations 2,157 283 (3,555)
+[Other 882 _ 698 _ 1,451 1
+Total income tax provision 33 37,1 17 $ 33,774 33 25,81 1
+We have undistributed earnings of approximately $43 million from certain foreign subsidiaries. We intend to indefinitely reinvest these foreign earnings, therefore, a
+provision has not been made for income taxes that might be payable upon remittance of such earnings. Determination of the amount of unrecognized deferred tax liability
+on unremitted foreign earnings is not practicable because of the complexities of the hypothetical calculation.
+Deferred Income Taxes. Net deferred income tax assets as of December 31, 2016 and 2015 are as follows (in thousands):
+2016 2015
+Deferred income tax assets $ 65,690 $ 77,270 )
+Deferred income tax liabilities (§,748) (£576)
+)Valuation allowance (17,823) (17,414))
+Net deferred income tax assets $ 14,119 $ 17,280
+The components of our net deferred income tax assets (liabilities) as of December 31, 2016 and 2015 are as follows (in thousands):
+2016 2015
+Net deferred income tax assets: )
+Accrued expenses and reserves 15 13,252 $ 14,001
+) Stock-based compensation 5,066 5,528 )
+Software 912 602
+) Client contracts and related intangibles (590) (2,079))
+Goodwill (8,336) (2,590)
+) Net operating loss carryforwards 36,123 38,726 )
+Propgty and equipment (8,672) (2,244)
+) Convertible debt securities (@994) ($353))
+Deferred revenue 3,556 4,268
+) Facility abandonments 2,273 2,374 )
+Contingent p_ayments 848 849
+I Other 3,630 2,294 )
+Total deferred income tax assets 31,968 34,876
+) Less: valuation allowance (17,750) _ (17,414))
+Net deferred income tax assets $ 14,218 $ 17,462
+Net deferred income tax liabilities: )
+Other 15 (26) $ (182)
+) Total deferred income tax liabilities (2_6) (182))
+Less: valuation allowance (73) -
+) Net deferred income tax liabilities 55 (ﬂ) $ (182 ))
+We regularly assess the likelihood of the future realization of our deferred income tax assets. To the extent we believe that it is more likely than not that a deferred
+income tax asset will not be realized, a valuation allowance is established. As of December 31, 2016, we believe that between: (i) carryback opportunities to past periods
+with taxable income; and (ii) sufﬁcient taxable income to be
+63

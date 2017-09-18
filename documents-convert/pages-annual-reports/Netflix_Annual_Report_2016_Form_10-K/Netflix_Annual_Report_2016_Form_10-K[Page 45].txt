@@ -1,0 +1,50 @@
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Year Ended December 31,
+2016 2015 2014
+1Cash ﬂows from operating activities: — — 1
+Net income $ 186,678 $ 122,641 $ 266,799
+1Adjustments to reconcile net income to net cash (used in) provided by operating activities: 1
+Additions to streaming content assets (8,653,286) (5,771,652) (3,773,019)
+1 Change in streaming content liabilities 1,772,650 1,162,413 593,125 1
+Amortization of streaming content assets 4,788,498 3,405,382 2,656,279
+1 Amortization of DVD content assets 78,952 79,380 71,491 1
+Depreciation and amortization of property, equipment and intangibles 57,528 62,283 54,028
+1 Stock-based compensation expense 173,675 124,725 115,239 1
+Excess tax beneﬁts from stock-based compensation (65,121) (80,471) (89,341)
+1 Other non-cash items 40,909 31,628 15,282 1
+Deferred taxes (46,847) (58,655) (30,063)
+1 Changes in operating assets and liabilities: 1
+Other current assets 46,970 18,693 (9,198)
+1 Accounts payable 32,247 51,615 83,812 1
+Accrued expenses 68,706 48,810 55,636
+1 Deferred revenue 96,751 72,135 58,819 1
+Other non-current assets and liabilities (52,294) (18,366) (52,406)
+1 Net cash (used in) provided by operating activities (1,473,984) _ (749,439) _ 16,483 1
+Cash ﬂows from investing activities: _ _
+1Acquisition of DVD content assets (77,177) (77,958) (74,790) 1
+Purchases of property and equipment (107,653) (91,248) (69,726)
+10ther assets (941) (1,912) 1,334 1
+Purchases of short-term investments (187,193) (371,915) (426,934)
+1Proceeds from sale of short-term investments 282,484 259,079 385,300 1
+Proceeds from maturities of short-term investments 140,245 104,762 141,950
+1 Net cash provided by (used in) investing activities 49,765 — (179,192) — (42,866) 1
+Cash ﬂows from ﬁnancing activities: — —
+1Proceeds from issuance of debt 1,000,000 1,500,000 400,000 1
+Issuance costs (10,700) (17,629) (7,080)
+1Proceeds from issuance of common stock 36,979 77,980 60,544 1
+Excess tax benefits from stock-based compensation 65,121 80,471 89,341
+10ther financing activities 230 (545) (1,093) 1
+Net cash provided by financing activities 1,091,630 _ 1,640,277 _ 541,712
+1Effect of exchange rate changes on cash and cash equivalents (9,165) — (15,924) — (6,686) 1
+Net (decrease) increase in cash and cash equivalents (341,754) 695,722 508,643
+1Cash and cash equivalents, beginning ofyear 1,809,330 1,113,608 604,965 1
+Cash and cash equivalents, end of year $ 1,467,576 — $ 1,809,330 — $ 1,113,608
+1Supplemental disclosure: : W W 1
+Income taxes paid $ 26,806 $ 27,658 $ 50,573
+11nterest paid 138,566 111,761 41,085 1
+Change in investing activities included in liabilities 27,504 (4,978) 12,295
+See accompanying notes to consolidated financial statements.
+42

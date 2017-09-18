@@ -1,0 +1,36 @@
+Pages where conﬁdential treatment has been requested are stamped “Conﬁdential Treatment Requested and the Redacted Material has been separately ﬁled
+with the Commission,” and places where information has been redacted have been marked with (***).
+Exhibit 10.24BG
+ONE HUNDRED NINTH AMENDMENT
+TO THE
+CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT
+BETWEEN
+CSG SYSTEMS, INC.
+AND
+CHARTER COMMUNICATIONS HOLDING COMPANY, LLC
+This One Hundred Ninth Amendment (the “Amendment”) is made by and between CSG Systems, Inc. (“CSG”), and Charter Communications Holding Company,
+LLC (“Customer”). CSG and Customer entered into a certain CSG Master Subscriber Management System Agreement executed March 13, 2003 (CSG document no.
+1926320), and effective as of April 1, 2003, as amended (the “Agreement”), and now desire to further amend the Agreement in accordance with the terms and conditions
+set forth in this Amendment. If the terms and conditions set forth in this Amendment shall be in conﬂict with the Agreement, the terms and conditions of this
+Amendment shall control. Any terms in initial capital letters or all capital letters used as a deﬁned term but not defined in this Amendment, shall have the meaning set
+forth in the Agreement. Upon execution of this Amendment by the parties, any subsequent reference to the Agreement between the parties shall mean the Agreement as
+amended by this Amendment. Except as amended by this Amendment, the terms and conditions set forth in the Agreement shall continue in full force and effect
+according to their terms.
+CSG and Customer agree as follows, as of the Effective Date (deﬁned below):
+1. CSG and Customer agree that Customer has previously purchased, and CSG has previously provided, workstations of Customer Interaction Tracking® (“CIT”) and
+Hosted Third Party Communication Software for CIT. Customer now desires to use and CSG agrees to provide CIT and Hosted Third Party Communication
+Software for CIT on an enterprise wide basis. As a result, ScheduleE, “Fees,” therefore, shall be amended as follows:
+a. CSG PRODUCTS, Section I “Call Center,” Subsection E., “CIT,” and the accompanying Note 3, shall be deleted in their entirety and replaced with the
+following:
+I Description of Item/U nit of Measure I Frequency I Fee I
+| E. CIT | | |
+I 1. Third Party Communication Software for CIT (per ****) (required for CIT) (Note 3) I I $****** I
+Note 3: Third Party Communication Software for CIT shall not be subject to fee increases per third party vendor agreements; however, such fee shall be subject to Section 5.4,
+“Adjustment to Fees,” of the Agreement.
+b. Item number ** of “The ******* *** *** ***** *** ********* **** ***** **** ******** *** *********” as set in Section under
+SERVICES, for Video and Non-Rated High Speed Data shall be deleted in its entirety and replaced with the following:
+**>l< *** ******** ******* *** *********** *>l<* ******** ******* ******** including ******* ******** ****** *******, ****** *********** and ********
+(refer to Section I under CSG PRODUCTS for items that are and from the ***)
+2. As a further result, CSG and Customer agree that Schedule B , “BASIC PRODUCTS AND ADDITIONAL PRODUCTS AND ASSOCIATED EXHIBITS,” shall
+be amended by deleting that section of “Product Descriptions” of ScheduleiBientitled “Customer Interaction Tracking (CIT)” in its entirety and replacing it as
+follows:

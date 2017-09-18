@@ -1,0 +1,41 @@
+@WW ]
+NOTE 13 — INCOME TAXES
+COMPONENTS OF INCOME TAX EXPENSE FROM CONTINUING OPERATIONS (in millions)
+Years Ended December 31,
+2016 2015 2014
+Current:
+Federal $ 195 $ 697 $ 244
+State 36 172 42
+Deferred:
+Federal 167 76 212
+State 29 (9) 49
+Income Tax Expense $ 427 $ 936 $ 547
+We record deferred tax assets and liabilities for future income tax consequences that are attributable to differences between the ﬁnancial statement
+carrying amount of assets and liabilities and their income tax bases.
+DEFERRED TAX ASSETS AND LIABILITIES (in millions)
+December 31,
+2016 2015
+Deferred tax assets:
+Accrued pension and other postretirement benefits $ 152 $ 141
+Accrued employee compensation liabilities 90 101
+Accrued environmental remediation liabilities 79 87
+Other accrued liabilities 34 50
+Stock-based compensation 34 47
+Net operating losses 23 —
+Tax credit carryforwards 8 8
+Asset retirement obligations 6 12
+Investment in partnerships — 20
+Other 24 10
+Total deferred tax assets 450 476
+Less: valuation allowance (26) (7)
+Total deferred tax assets, net $ 424 $ 469
+Deferred tax liabilities:
+Accelerated depreciation and property related items $ 1,357 $ 1,341
+Deferred maintenance costs, including refinery turnarounds 248 224
+Inventory 117 22
+Investment in partnerships 61 —
+Amortization of intangible assets 59 64
+Other 10 40
+Total deferred tax liabilities 1,852 1,691
+Deferred Tax Liabilities, Net $ 1,428 $ 1,222
+94 | Tesoro Corporation

@@ -1,0 +1,35 @@
+Table,0f,C,0ntents
+Exhibit
+Number Description
+10.8 Yahoo Japan License Agreement dated April 1, 1996 by and between the Registrant and Yahoo Japan Corporation (previously ﬁled as
+Exhibit 10.43 to Amendment No. 2 to the Registrant’s Registration Statement on Form S-3, Registration No. 333-100298, ﬁled on
+December 23, 2002 and incorporated herein by reference).
+10.9 Amendment to Yahoo Japan License Agreement dated September 12, 1997 by and between the Registrant and Yahoo Japan Corporation
+(previously ﬁled as Exhibit 10.40 to Amendment No. 1 of the Registrant’s Registration Statement on Form S-3, Registration No. 333-100298,
+ﬁled on November 27, 2002 and incorporated herein by reference).
+10.10 Amendment No. 2 to Yahoo Japan License Agreement dated January 31, 2005 by and between the Registrant and Yahoo Japan
+Corporation (previously ﬁled as Exhibit 10.30 to the Registrant’s Annual Report on Form 10-K filed March 11, 2005 and incorporated herein
+by reference).
+10.111‘ Amendment No. 3 to Yahoo! Japan License Agreement, effective as of April 29, 2016, by and between the Registrant and Yahoo Japan
+Corporation (previously ﬁled as Exhibit 10.11 to the Registrant’s Quarterly Report on Form 10—Q ﬁled August 8, 2016 and incorporated herein
+by reference).
+10.12+ Yahoo! Inc. Executive Incentive Plan for 2016 (previously ﬁled as Exhibit 10.11(B) to the Registrant’s Quarterly Report on Form 10—Q ﬁled
+May 10, 2016 and incorporated herein by reference).
+10.13(A)+ Form of Severance Agreement (2013 version) (previously filed as Exhibit 10.6 to the Registrant’s Current Report on Form 8-K ﬁled March 6,
+2013 and incorporated herein by reference).
+10.13(B)+ Form of Amendment to Executive Severance Agreement (previously ﬁled as Exhibit 10.12(B) to the Registrant’s Quarterly Report on Form
+10—Q ﬁled May 10, 2016 and incorporated herein by reference).
+10.14(A)+ Yahoo! Inc. Change in Control Employee Severance Plan for Level I and Level II Employees, as amended on December 10, 2008
+(previously filed as Exhibit 10.15 to the Registrant’s Annual Report on Form 10-K filed February 27, 2009 and incorporated herein by
+reference).
+10.14(B)+ Amendment, dated April 10, 2016, to Amended and Restated Yahoo! Inc. Change in Control Employee Severance Plan for Level I and Level
+II Employees (previously ﬁled as Exhibit 10.1 to the Registrant’s Current Report on Form 8-K ﬁled April 14, 2016 and incorporated herein by
+reference).
+10.15(A)1- Letter Agreement, dated July 29, 2009, between the Registrant and Microsoft Corporation (previously filed as Exhibit 10.21(A) to the
+Registrant’s Quarterly Report on Form 10—Q ﬁled November 6, 2009 and incorporated herein by reference).
+10.15(B)T Search and Advertising Services and Sales Agreement, dated December 4, 2009, between the Registrant and Microsoft Corporation
+(previously filed as Exhibit 10.18(B) to the Registrant’s Annual Report on Form 10-K ﬁled February 26, 2010 and incorporated herein by
+reference).
+10.15(C)-|- License Agreement, dated December 4, 2009, between the Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.18(C) to the
+Registrant’s Annual Report on Form 10-K ﬁled February 26, 2010 and incorporated herein by reference).
+179

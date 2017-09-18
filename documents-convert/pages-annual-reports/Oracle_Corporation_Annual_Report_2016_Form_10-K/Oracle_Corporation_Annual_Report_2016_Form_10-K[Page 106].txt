@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+In January 2016, the FASB issued ASU 2016-01, Financial Instruments—Overall (Subtopic 825-10) : Recognition and Measurement of Financial Assets and
+Financial Liabilities (ASU 2016-01), which addresses certain aspects of recognition, measurement, presentation, and disclosure of ﬁnancial instruments. ASU
+2016-01 is effective for us in our ﬁrst quarter of ﬁscal 2019, and earlier adoption is not permitted except for certain provisions. We currently do not expect that our
+pending adoption of ASU 2016-01 will have a material effect on our consolidated financial statements.
+Stock-based Compensation: In March 2016, the FASB issued ASU 2016-O9, Compensation—Stock Compensation (Topic 718): Improvements to Employee
+Share-Based Payment Accounting (ASU 2016-O9). ASU 2016-09 changes how companies account for certain aspects of stock-based awards to employees,
+including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classification in the statement of cash ﬂows. ASU
+2016-09 is effective for us in our ﬁrst quarter of fiscal 2018, and earlier adoption is permitted. We believe we will early adopt ASU 2016-09 in the ﬁrst quarter of
+fiscal 2017 and are currently evaluating the impact of our pending adoption on our consolidated financial statements. We currently believe the most significant
+impact of our adoption of ASU 2016-09 to our consolidated financial statements will be to recognize certain tax beneﬁts or tax shortfalls upon a restricted-stock
+award vesting or stock option exercise event relative to the deferred tax asset position established in our provision for income taxes line of our consolidated
+statement of operations instead of to consolidated equity. During fiscal 2016, 2015 and 2014, we recorded $141 million, $267 million and $254 million to
+consolidated equity as tax beneﬁts from our stock plans.
+Leases: In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) (ASU 2016-02). ASU 2016-02 requires companies to generally recognize on the
+balance sheet operating and ﬁnancing lease liabilities and corresponding right-of-use assets. ASU 2016-02 is effective for us in our first quarter of ﬁscal 2020 on a
+modiﬁed retrospective basis, and earlier adoption is permitted. We are currently evaluating the impact of our pending adoption of ASU 2016-02 on our
+consolidated ﬁnancial statements, and we currently expect that most of our operating lease commitments will be subject to the new standard and recognized as
+operating lease liabilities and right-of-use assets upon our adoption of ASU 2016-02, which will increase our total assets and total liabilities that we report relative
+to such amounts prior to adoption.
+Revenue Recognition: In May 2014, the FASB issued ASU 2014-09, Revenue ﬂom Contracts with Customers: Topic 606 and issued subsequent amendments to
+the initial guidance in August 2015, March 2016, April 2016 and May 2016 within ASU 2015-04, ASU 2016-08, ASU 2016-10 and ASU 20 16- 12, respectively
+(ASU 2014-09, ASU 2015-04, ASU 2016-08, ASU 2016-10 and ASU 2016-12 collectively, Topic 606). Topic 606 supersedes nearly all existing revenue
+recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an
+amount that reﬂects the consideration that is expected to be received for those goods or services. Topic 606 defines a ﬁve-step process to achieve this core principle
+and, in doing so, it is possible more judgment and estimates may be required within the revenue recognition process than are required under existing GAAP,
+including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the
+transaction price to each separate performance obligation, among others. Topic 606 is effective for us as of either our first quarter of fiscal 2018 or our ﬁrst quarter
+of ﬁscal 2019 using either of two methods: (1) retrospective application of Topic 606 to each prior reporting period presented with the option to elect certain
+practical expedients as deﬁned within Topic 606 or (2) retrospective application of Topic 606 with the cumulative effect of initially applying Topic 606 recognized
+at the date of initial application and providing certain additional disclosures as deﬁned per Topic 606. Preliminarily, we plan to adopt Topic 606 in the ﬁrst quarter
+of ﬁscal 2019 pursuant to the aforementioned adoption method (1) and we do not believe there will be a material impact to our revenues upon adoption. We are
+continuing to evaluate the impacts of our pending adoption of Topic 606 and our preliminary assessments are subject to change.
+104

@@ -1,0 +1,44 @@
+our performance relative to that of our competitors. Our method of computing Adjusted EBITDA is consistent with that
+used in our debt covenants, specifically our leverage ratio, and is also routinely reviewed by management for that purpose.
+The following table is a GAAP to non-GAAP reconciliation for consolidated Adjusted EBITDA:
+7 Year Ended December 31, 7
+: 2016 7 7 2015 7 7 2014 7 7 2013 7 7 2012
+7 7 7 7 7 (In thousands) 7 7 7 7 7
+Net income $ 149,267 $ 197,577 $ 161,152 $ 155,422 $ 140,087
+Adjusted for:
+Depreciation and amortization of
+property and equipment................. 267,134 251,735 221,122 226,008 218,839
+Amortization of intangibles............. 16,814 16,814 16,814 16,814 16,925
+Interest expense 30,598 38,350 80,064 99,534 122,049
+Derivative interest expense — 3,972 6,495 3,852 5,101
+Interest income (2.634) (2,526) (2,909) (2,474) (2,156)
+Income tax expense 7 65,702” 119,209” 89,474” 100,982” 61,614
+EBITDA 7 526,881 H 625,131 H 572,212” 600,138” 562,459,
+Non-cash impairments (1’ 807 — 2,308 — 3,387
+Non-cash equity compensation (2).. 6,017 6,525 5,396 4,645 4,890
+Loss on debt extinguishment (3) — 9,567 39,909 5,540 22,219
+Excludable transaction costs (4) — — — 4,913 —
+Non-cash impairments of non-
+operating assets (5) 7 —” 1,480” —” —” 5.9797
+Adjusted EBITDA :$ 533,705: :$ 642,703: :$ 619,825: :$ 615,236: :$ 598,934:
+(1) Refer to footnote (1) to the Adjusted EPS reconciliation for a description of "Non-cash impairments."
+(2) Represents recurring non-cash equity compensation expense, on a pre-tax basis. In accordance with the terms of
+the 2015 Agreement, this expense is added back in the calculation of Adjusted EBITDA for covenant compliance
+purposes. In addition to non-cash equity compensation in 2013, Central incurred a $0.9 million one-time charge for
+certain options that accelerated upon closing of the Central Acquisition.
+(3) For 2014 and 2015, refer to "Loss on Debt Extinguishment" discussion under "Results of Operations — Consolidated
+Operating and Other Expenses," below. In 2013, we incurred a $5.5 million loss on debt extinguishment resulting
+from the repayment in full of certain outstanding Central debt at closing of the Central Acquisition, resulting in a loss
+on debt extinguishment of $0.5 million, and $5.0 million from the replacement of the 2012 Agreement with the 2013
+Agreement. In 2012, we incurred $20.9 million in loss on debt extinguishment from replacing the previous first lien
+term loan with the 2012 Agreement and $1.3 million from redeeming the remaining fixed rate notes.
+(4) Refer to footnote (5) to the Adjusted EPS reconciliation for a description of "Excludable transaction costs."
+(5) For 2015, refer to "Non-cash impairments of non-operating assets" discussion under "Results of Operations —
+Consolidated Operating and Other Expenses," below. In 2012, non-cash impairments of non-operating assets
+pertained to Swift Power Services, LLC ("SPS"), an entity in which we owned a minority interest and held a secured
+promissory note. SPS failed to make its first scheduled principal payment to us on the secured promissory note, as
+well as a quarterly interest payment on December 31, 2012. This was due to a decline in its financial performance
+resulting from, among other things, a legal dispute with the former owners and its primary customer. This caused us
+to evaluate the secured promissory note due from SP8 for impairment, which resulted in a $6.0 million pre-tax
+adjustment that was recorded in "Impairments of non-operating assets" in the fourth quarter of 2012.
+50

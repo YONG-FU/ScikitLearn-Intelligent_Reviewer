@@ -1,0 +1,50 @@
+Reconciliation of selected GAAP-based measures to Non-GAAP-based measures for the year ended June 30. 20162
+(In thousands except for per share amoun ts)
+7 Year Ended June 30, 2016 7
+GAAP-based Non-GAAP-
+Non-GAAP-
+GAAP-based Measures . based
+Measures % of Total Adjustments Note Mbased Measures
+Revenue easures % of Total
+7 Revenue 7
+Cost of revenues 7 7
+Cloud services and subscriptions $ 244,021 $ (953) (1) $ 243,068
+Customer support 89,861 (900) (1) 88,961
+Professional service and other 155,584 (1,626) (1) 153,958
+Amortization of acquired technology-based intangible assets 74,238 (74,238) (2) —
+GAAP-based gross profit and gross margin (%) /
+Non-GAAP-based gross profit and gross margin (%) 1,250,228 68.5 % 77,717 (3) 1,327,945 72.8 %
+Operating expenses
+Research and development 194,057 (2,824) (1) 191,233
+Sales and marketing 344,235 (12,069) (1) 332,166
+General and administrative 140,397 (7,606) (1) 132,791
+Amortization of acquired customer-based intangible assets 113,201 (113,201) (2) —
+Special charges (recoveries) 34,846 (34,846) (4) —
+GAAP-based income from operations and operating margin (%) /
+Non-GAAP-based income from operations and operating margin (%) 368,563 20.2 % 248,263 (5) 616,826 33.8 %
+Other income (expense), net (1,423) 1,423 (6) —
+Provision for (recovery of) income taxes 6,282 101,793 (7) 108,075
+GAAP-based net income / Non-GAAP-based net income,
+attributable to OpenText 284,477 147,893 (8) 432,370
+GAAP-based earnings per share / Non GAAP-based earnings per
+share-diluted, attributable to OpenText $ 2.33 $ 1.21 (8) $ 3.54
+(1) Adjustment relates to the exclusion of share-based compensation expense from our Non-GAAP-based operating expenses as this expense is excluded from our
+internal analysis of operating results.
+(2) Adjustment relates to the exclusion of amortization expense from our Non-GAAP-based operating expenses as the timing and frequency of amortization
+expense is dependent on our acquisitions and is hence excluded from our internal analysis of operating results.
+(3) GAAP-based and Non-GAAP-based gross profit stated in dollars, and gross margin stated as a percentage of total revenue.
+(4) Adjustment relates to the exclusion of Special charges (recoveries) from our Non-GAAP-based operating expenses as Special charges (recoveries) are generally
+incurred in the periods following the relevant acquisitions, including one-time non-recurring charges or recoveries, and are not indicative or related to
+continuing operations and are therefore excluded from our internal analysis of operating results.
+(5) GAAP-based and Non-GAAP-based income from operations stated in dollars, and operating margin stated as a percentage of total revenue.
+(6) Adjustment relates to the exclusion of Other income (expense) from our Non-GAAP-based operating expenses as Other income (expense) relates primarily to
+the transactional impact of foreign exchange and is generally not indicative or related to continuing operations and is therefore excluded from our internal
+analysis of operating results.
+(7) Adjustment relates to differences between the GAAP-based tax provision rate of approximately 2% and a Non-GAAP-based tax rate of 20%; these rate
+differences are due to the income tax effects of expenses that are excluded for the purpose of calculating Non-GAAP-based adjusted net income. Such
+excluded expenses include amortization, share-based compensation, Special charges (recoveries) and other income (expense), net. Also excluded are tax
+expense items unrelated to current period income such as changes in reserves for tax uncertainties and valuation allowance reserves, tax arising on internal
+reorganizations, and “book to return” adjustments for tax return filings and tax assessments (in total “adjusted expenses”). In arriving at our Non-GAAP-based
+tax rate of 20%, we analyzed the individual adjusted expenses and took into consideration the impact of statutory tax rates from local jurisdictions incurring
+the expense.
+(8) Reconciliation of GAAP-based net income to Non-GAAP-based net income:

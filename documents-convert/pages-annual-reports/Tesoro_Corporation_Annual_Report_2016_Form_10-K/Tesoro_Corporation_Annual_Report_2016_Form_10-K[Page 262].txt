@@ -1,0 +1,39 @@
+“S&P” means Standard & Poor’s Ratings Services, a division of The McGraw—Hill Companies, Inc., or any successor to the rating agency business
+thereof.
+“SEC,” means the Securities and Exchange Commission.
+“Secun'tiesAct” means the Securities Act of 1933, as amended.
+"Seniorjndebtedness" means with respect to any Person, Indebtedness of such Person, unless the instrument creating or evidencing such Indebtedness
+provides that such Indebtedness is subordinate in right of payment to the Notes or the Note Guarantee of such Person, as the case may be.
+“ggniﬁcanLSubsidiaryj means any Subsidiary that would be a “signiﬁcant subsidiary” as deﬁned in Article 1, Rule 1-02 of Regulation S—X,
+promulgated pursuant to the Securities Act, as such Regulation is in effect on the Issue Date.
+“Stated Maturity” means, with respect to any installment of interest or principal on any series of Indebtedness, the date on which the payment of
+interest or principal was scheduled to be paid in the documentation governing such Indebtedness as of the Issue Date, and will not include any contingent
+obligations to repay, redeem or repurchase any such interest or principal prior to the date originally scheduled for the payment thereof.
+“,Sub,or,dinated,leigation” means any Indebtedness of TLLP (whether outstanding on the Issue Date or thereafter incurred) which pursuant to a written
+agreement is subordinate or junior in right of payment to the Notes and any Indebtedness of a Guarantor (whether outstanding on the Issue Date or thereafter
+incurred) which pursuant to a written agreement is subordinate or junior in right of payment to its Note Guarantee.
+“Subsidiary: means, with respect to any speciﬁed Person:
+(1) any corporation, association or other business entity (other than a partnership or limited liability company) of which more than 50% of the
+total voting power of shares of the Voting Stock is at the time owned, directly or indirectly, by that Person or one or more of the other Subsidiaries of
+that Person (or a combination thereof); and
+(2) any partnership (whether general or limited) or limited liability company (a) the sole general partner or managing member of which is such
+Person or a Subsidiary of such Person, or (b) if there are more than a single general partner or member, either (X) the only general partners or managing
+members of which are such Person or one or more Subsidiaries of such Person (or any combination thereof) or (y) such Person owns, directly or
+indirectly, a majority of the outstanding general partner interests, member interests or other Voting Stock of such partnership or limited liability
+company, respectively.
+"SynthetiqLeaseinligation,” means the monetary obligation of a Person under (a) a so-called synthetic, off-balance sheet or tax retention lease, or (b)
+an agreement for the use or possession of property (including sale and leaseback transactions), in each case, creating obligations that do not appear on the
+balance sheet of such Person but which, upon the application of any bankruptcy, insolvency, reorganization or similar laws affecting creditors’ rights
+generally to such Person, would be characterized as the Indebtedness of such Person (without regard to accounting treatment).
+“ILA,” means the Trust Indenture Act of 1939 (15 U.S.C. §§ 77aaa—77bbbb), as in effect on the date on which this Indenture is qualiﬁed under the TIA;
+provided, however, that in the event the TIA is amended after such date, “TIA” means, to the extent required by such amendment, the Trust Indenture Act of
+1939, as so amended.
+“Treasury Rate” means, with respect to the Notes, as of any Redemption Date, the yield to maturity as of such Redemption Date of United States
+Treasury securities with a constant maturity (as compiled and published in the most recent Federal Reserve Statistical Release H15 (519) that has become
+publicly available at least two Business Days prior to the Redemption Date (or, if such Statistical Release is no longer published, any publicly available
+source of similar market data)) most nearly equal to the period from the Redemption Date to January 15, 2021; provided, however, that if the period from the
+Redemption Date to January 15, 2021, is less than one year, the weekly average yield on actually traded United States Treasury securities adjusted to a
+constant maturity of one year will be used.
+“Trustee” means US. Bank National Association, as trustee, until a successor replaces it in accordance with the applicable provisions of this Indenture
+and thereafter means the successor serving hereunder.
+-18-

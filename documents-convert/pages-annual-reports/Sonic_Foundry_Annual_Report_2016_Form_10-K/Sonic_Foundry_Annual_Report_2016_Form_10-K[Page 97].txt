@@ -1,0 +1,45 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+Financial Instruments Not Measured at Fair Value
+The Company’s other ﬁnancial instruments consist primarily of cash and cash equivalents, accounts receivable, accounts payable
+and debt instruments, excluding the PFG debt. The book values of cash and cash equivalents, accounts receivable, debt (excluding
+the PF G debt) and accounts payable are considered to be representative of their respective fair values. The carrying value of
+capital lease obligations and debt (excluding the PFG debt), including the current portion, approximates fair market value as the
+variable and fixed rate approximates the current market rate of interest available to the Company.
+Legal Contingencies
+In June 2014, the Company entered into a settlement agreement with Astute Technology, LLC (“Astute”). The key terms of the
+agreement were: 1) a grant of a non-revocable license of Astute patents to the Company; 2) a grant of a fully paid, non-refundable
+license of certain Sonic Foundry patents to Astute; 3) both Astute and our customer agreed to identify three meetings they
+currently capture that the other party will not seek or respond to any request for proposal; and 4) a payment of $1.35 million to
+Astute. Pursuant to the settlement agreement, the payments were made in three equal amounts with the first paid in June 2014,
+the second paid in October 2014 and the ﬁnal installment paid in March 2015. The Company contributed $1.1 million of the
+$1.35 million payable to Astute with our customer paying the residual amount. Of the $1.1 million, $428 thousand related to prior
+use and was recorded as a charge to income during ﬁscal 2014. The remaining $672 thousand was recorded as a product right
+asset, which is being amortized, on a straight-line basis, over the remaining life of the patents, through 2020. Future amounts due
+to Astute were accrued for as of the time of settlement.
+No legal contingencies were recorded for the either of the years ended September 30, 2016 or 2015, respectively.
+Stock-Based Compensation
+The Company uses a lattice valuation model to account for all employee stock options granted. The lattice valuation model is a
+more ﬂexible analysis to value options because of its ability to incorporate inputs that change over time, such as actual exercise
+behavior of option holders. The Company uses historical data to estimate the option exercise and employee departure behavior
+in the lattice valuation model. Expected volatility is based on historical volatility of the Company’s stock. The Company considers
+all employees to have similar exercise behavior and therefore has not identified separate homogeneous groups for valuation. The
+expected term of options granted is derived from the output of the option pricing model and represents the period of time that
+options granted are expected to be outstanding. The risk-free rate for periods the options are expected to be outstanding is based
+on the US. Treasury yields in effect at the time of grant. F orfeitures are based on actual behavior patterns. The expected exercise
+factor and forfeiture rates are calculated using historical exercise and forfeiture activity for the previous three years.
+The fair value of each option grant is estimated using the assumptions in the following table:
+: Years Ending September 30, :
+: 2016 : : 2015 :
+Expected life 4.9 — 5.0 years 4.8 — 5.0 years
+Risk-free interest rate 0.84%—1.23% 0.96%-1.05%
+Expected volatility 53.8%-57.2% 45.5%-50.0%
+Expected forfeiture rate 10.3 %—11.8% 10.7 %—12.0%
+Expected exercise factor 1.35-1.44 1.40-1.43
+Expected dividend yield —% —%
+Common Stock Warrants
+On December 22, 2014, the company issued 74,802 warrants to two individuals, one of which is the Chairman of the Company’s
+Board of Directors, in combination with the sale of a like number of shares of common stock. These warrants were immediately
+exercisable, expire ﬁve years after the date of issuance and have an exercise price of $14.00. The remaining contractual life of
+57

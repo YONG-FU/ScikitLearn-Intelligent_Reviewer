@@ -1,0 +1,48 @@
+As of December 31, 2016, our liability to participants of the deferred compensation plans was $218 million and is recorded in
+Deferred credits and other liabilities on our Consolidated Balance Sheets. This amount reflects the accumulated participant
+deferrals and earnings thereon as of that date. As of December 31, 2016, we held $201 million in mutual funds related to these
+plans that are recorded in Long-term investments on our Consolidated Balance Sheets, and serve as an economic hedge against
+changes in fair values of our other deferred compensation liabilities. We record changes in the fair value of the liability and the
+related investment in SG&A as discussed in Note 8.
+11. Debt and lines of credit
+Short-term borrowings
+.ﬂ
+3 We maintain a line of credit to support commercial paper borrowings, if any, and to provide additional liquidity through bank loans.
+3 AS of December 31, 2016, we had a variable-rate revolving credit facility from a consortium of investment-grade banks that allows
+3 us to borrow up to $2 billion until March 2021. The interest rate on borrowings under this credit facility, if drawn, is indexed to the
+5: applicable London Interbank Offered Rate (LIBOR). As of December 31, 2016, our credit facility was undrawn and we had no
+commercial paper outstanding.
+Long-term debt
+In May 2016, we issued a principal amount of $500 million of fixed-rate, long-term debt due in 2022. We incurred $3 million of
+issuance and other related costs, which are amortized to Interest and debt expense over the term of the debt. The proceeds of the
+offering were $499 million, net of the original issuance discount, and were used toward the repayment of a portion of $1.0 billion
+of maturing debt retired in May 2016.
+In May 2015, we issued a principal amount of $500 million of fixed-rate, long-term debt due in 2020. We incurred $3 million of
+issuance and other related costs, which are amortized to Interest and debt expense over the term of the debt. The proceeds of the
+offering were $498 million, net of the original issuance discount, and were used toward the repayment of a portion of the debt that
+matured in August 2015. We retired $250 million of maturing debt in April 2015 and another $750 million in August 2015.
+In March 2014, we issued an aggregate principal amount of $500 million of fixed-rate, long-term debt, with $250 million due in
+2017 and $250 million due in 2021. We incurred $3 million of issuance and other related costs, which are amortized to Interest
+and debt expense over the term of the debt. The proceeds of the offering were $498 million, net of the original issuance discount,
+and were used toward the repayment of the $1.0 billion of debt that matured in May 2014.
+Long-term debt outstanding is as follows:
+December 31,
+2016 2015
+Notesdue2016at2.375% $ — $1,000
+Notesdue2017at0.875%............................................................ 250 250
+Notes due 2017 at 6.60% (assumed with National acquisition) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 375 375
+Notesdue2018at1.00%............................................................. 500 500
+Notesdue2019at1.65%............................................................. 750 750
+Notesdue2020at1.75%............................................................. 500 500
+Notesdue2021at2.75%............................................................. 250 250
+Notesdue2022at1.85%............................................................. 500 —
+Notesdue2023at2.25%............................................................. 500 500
+3,625 4,125
+Net unamortized discounts, premiums and debt issuance costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (16) (5)
+Total debt, including net unamortized discounts, premiums and debt issuance costs . . . . . . . . . . . . . . . . . 3,609 4,120
+Currentportionoflong-termdebt....................................................... (631) (1,000)
+$2,978 $ 3,120
+Interest and debt expense was $80 million in 2016, $90 million in 2015 and $94 million in 2014. This was net of the amortization
+of the debt discounts, premiums and debt issuance costs. Cash payments for interest on long-term debt were $88 million in 2016,
+$99 million in 2015 and $102 million in 2014. Capitalized interest was not material.
+54 TEXAS INSTRUMENTS - 2016 FORM 10-K

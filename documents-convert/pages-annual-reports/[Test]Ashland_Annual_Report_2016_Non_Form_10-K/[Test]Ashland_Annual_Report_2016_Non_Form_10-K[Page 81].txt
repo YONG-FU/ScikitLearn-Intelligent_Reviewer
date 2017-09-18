@@ -1,0 +1,51 @@
+(In millions) 2016 2015 2014
+Loss (gain) on pension and other postretirement plan remeasurement:
+Change in discount rate and other actuarial assumptions (a) $ 398 $ 13 $ 369
+Change in mortality table/assumptions (a) (32) 47 149
+Actual return on plan assets (a) (321) (15) (309)
+Expected return on plan assets (a) 192 216 237
+Total actuarial loss on pension and other postretirement plan
+remeasurement 237 261 446
+Curtailment, settlement and other (gain) loss (113) (1 1) l 1
+Total loss on pension and other postretirement plan remeasurement 124 250 457
+Less: Actuarial loss recognized in discontinued operations — 2 44
+Less: Curtailment, settlement and other gain in discontinued operations — (7) (25)
+Total loss on pension and other postretirement plan
+remeasurement from continuing operations 8 1247 733 255 7 8 438 7
+(a) For additional information on key assumptions and actual plan asset performance in each year, see the “Actuarial assumptions” discussion within this section:
+Actuarial assumptions
+Ashland’s pension and other postretirement obligations and annual expense calculations are based on a number of key
+assumptions including the discount rate at which obligations can be effectively settled, the anticipated rate of compensation increase,
+the expected long-term rate of return on plan assets and certain employee-related factors, such as turnover, retirement age and
+mortality. Because Ashland’s retiree health care plans contain various caps that limit Ashland’s contributions and because medical
+inﬂation is expected to continue at a rate in excess of these caps, the health care cost trend rate has no significant impact on
+Ashland’s postretirement health care benefit costs.
+Ashland developed the discount rate used to determine the present value of its obligations under the US. pension and
+postretirement health and life plans by matching the stream of benefit payments from the plans to spot rates determined from an
+actuarial-developed yield curve, the above mean yield curve, based on high-quality corporate bonds. Ashland uses this approach
+to reﬂect the specific cash ﬂows of these plans when determining the discount rate. Non-U.S. pension plans followed a similar
+process based on financial markets in those countries where Ashland provides a defined benefit pension plan.
+During 2016, Ashland changed the method used to estimate the service and interest cost components of net periodic benefit
+cost for pension and other postretirement benefits. This change compared to the previous method resulted in a decrease in the
+service and interest cost components for pension and other postretirement benefit costs during the quarter. Historically, Ashland
+estimated these service and interest cost components utilizing a single weighted-average discount rate derived from the yield curve
+used to measure the benefit obligation at the beginning of the period. Ashland has elected to utilize a full yield curve approach in
+the estimation of these components by applying the specific spot rates along the yield curve used in the determination of the benefit
+obligation to the relevant projected cash ﬂows. Ashland has made this change to provide a more precise measurement of service
+and interest costs by improving the correlation between projected benefit cash ﬂows to the corresponding spot yield curve rates.
+This change does not affect the measurement of Ashland’s total benefit obligations or annual net periodic benefit costs as the
+change in the service and interest costs will be oﬁset in the actuarial gain or loss reported, which typically occurs during the fourth
+fiscal quarter. Ashland has accounted for this change as a change in accounting estimate that is inseparable from a change in
+accounting principle and accordingly has accounted for it prospectively.
+Accordingly Ashland’s 2016 expense, excluding actuarial gains and losses, for both US. and non-US. pension plans is
+determined using the discount rate as of the beginning of the fiscal year. The service cost and interest cost discount rates for 2016
+expense were 3.94% and 3.30%, respectively. For 2015 and 2014 Ashland’s expense, excluding actuarial gains and losses, for
+both US. and non-U.S. pension plans was determined using the weighted-average discount rate as of the beginning of the fiscal
+year, which were 4. 18%, and 4.68%, respectively. The 2016 discount rates used for the postretirement health and life plans service
+cost and interest cost were 4.31% and 3.04%, respectively. The weighted—average discount rates used for the postretirement health
+and life plans were 3.85%, and 4.28% for the years ended September 30, 2015, and 2014, respectively. The actuarial gains and
+losses recognized within the Statements of Consolidated Comprehensive Income are calculated using updated actuarial assumptions
+(including discount rates) as of the measurement date, which for Ashland is the end of the fiscal year, unless a plan qualifies for
+a remeasurement during the year. The weighted-average discount rate at the end of fiscal 2016 was 3.38% for the pension plans
+and 3.14% for the postretirement health and life plans.
+M—36

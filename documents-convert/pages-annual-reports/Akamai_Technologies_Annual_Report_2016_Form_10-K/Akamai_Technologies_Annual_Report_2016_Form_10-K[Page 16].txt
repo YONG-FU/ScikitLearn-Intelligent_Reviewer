@@ -1,0 +1,41 @@
+We may have insufficient transmission and co-location space, which could result in disruptions to our services and loss of
+revenue.
+Our operations are dependent in part upon transmission capacity provided by third party telecommunications network
+providers and access to co-location facilities to house our servers. There can be no assurance that we are adequately prepared
+for unexpected increases in bandwidth demands by our customers, particularly those under cyber-attack. The bandwidth we
+have contracted to purchase may become unavailable for a variety of reasons, including payment disputes, network providers
+going out of business, natural disasters, networks imposing traffic limits or governments adopting regulations that impact
+network operations. In some regions, network providers may choose to compete with us and become unwilling to sell us
+adequate transmission capacity at fair market prices. This risk is heightened where market power is concentrated with one or a
+few major networks. We also may be unable to move quickly enough to augment capacity to reﬂect growing traffic or security
+demands. Failure to put in place the capacity we require could result in a reduction in, or disruption of, service to our customers
+and ultimately a loss of those customers. In recent years, it has become increasingly expensive to house our servers at network
+facilities. We expect this trend to continue. In addition, customers have increasingly elected to transmit their content over our
+SSL network, which is more costly for us to operate and could require significant additional investment for us. These increased
+expenses have made, and will make, it more costly for us to expand our operations and more difficult for us to maintain or
+improve our profitability.
+Acquisitions and other strategic transactions we complete could result in operating diﬂ‘iculties, dilution, diversion of
+management attention and other harmful consequences that may adversely impact our business and results of operations.
+We expect to pursue acquisitions and other types of strategic relationships that involve technology sharing or close
+cooperation with other companies. Acquisitions and other complex transactions are accompanied by a number of risks,
+including the following:
+- difficulty integrating the operations and personnel of acquired companies;
+° potential disruption of our ongoing business;
+° potential distraction of management;
+° diversion of business resources from core operations;
+° expenses related to the transactions;
+0 failure to realize synergies or other expected benefits;
+0 increased accounting charges such as impairment of goodwill or intangible assets, amortization of intangible assets
+acquired and a reduction in the useful lives of intangible assets acquired; and
+° potential unknown liabilities associated with acquired businesses.
+Any inability to integrate completed acquisitions or combinations in an efficient and timely manner could have an adverse
+impact on our results of operations. If we use a significant portion of our available cash to pay for acquisitions that are not
+successful, it could harm our balance sheet and limit our ﬂexibility to pursue other opportunities without having enjoyed the
+intended benefits of the acquisition. As we complete acquisitions, we may encounter difficulty in incorporating acquired
+technologies into our offerings while maintaining the quality standards that are consistent with our brand and reputation. If we
+are not successful in completing acquisitions or other strategic transactions that we may pursue in the future, we may incur
+substantial expenses and devote significant management time and resources without a successful result. Future acquisitions
+could require use of substantial portions of our available cash or result in dilutive issuances of securities. Technology sharing or
+other strategic relationships we enter into may give rise to disputes over intellectual property ownership, operational
+responsibilities and other significant matters. Such disputes may be expensive and time-consuming to resolve.
+14

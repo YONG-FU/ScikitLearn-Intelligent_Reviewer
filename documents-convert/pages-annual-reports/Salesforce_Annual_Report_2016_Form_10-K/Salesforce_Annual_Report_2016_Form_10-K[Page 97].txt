@@ -1,0 +1,28 @@
+As of January 31, 2016, the following marketable securities were in an unrealized loss position (in
+thousands):
+7 Less than 12 Months 7 7 12 Months or Greater : : Total :
+7 Unrealized 7 Unrealized Unrealized
+:Fair Value : Losses : :Fair Value : Losses : :Fair Value : Losses :
+Corporate notes and obligations . . . . $531,258 $(2,472) $48,047 $(511) $579,305 $(2,983)
+U.S. treasury securities . . . . . . . . . . . 50,434 (56) 0 0 50,434 (56)
+Mortgage backed obligations . . . . . . . 61,055 (274) 4,780 (49) 65,835 (323)
+Asset backed securities . . . . . . . . . . . 135,917 (199) 5,490 (27) 141,407 (226)
+Municipal securities . . . . . . . . . . . . . . 4,553 (4) 1,959 (2) 6,512 (6)
+US. agency obligations . . . . . . . . . . . 5,989 (6) 0 0 5,989 (6)
+Foreign government obligations . . . . 5,523 (5) 0 0 5,523 (5)
+$794,729 $(3,016) $60,276 $(589) $855,005 $(3,605)
+The unrealized loss for each individual fixed rate marketable securities was less than $115,000. The
+Company does not believe any of the unrealized losses represent an other-than-temporary impairment based on
+its evaluation of available evidence as of January 31, 2016. The Company expects to receive the full principal
+and interest on all of these marketable securities.
+Fair Value Measurement
+All of the Company’s cash equivalents, marketable securities and foreign currency derivative contracts are
+classified within Level 1 or Level 2 because the Company’s cash equivalents, marketable securities and foreign
+currency derivative contracts are valued using quoted market prices or alternative pricing sources and models
+utilizing observable market inputs.
+The Company uses a three-tier fair value hierarchy, which prioritizes the inputs used in the valuation
+methodologies in measuring fair value:
+Level 1. Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2. Other inputs that are directly or indirectly observable in the marketplace.
+Level 3. Unobservable inputs which are supported by little or no market activity.
+90

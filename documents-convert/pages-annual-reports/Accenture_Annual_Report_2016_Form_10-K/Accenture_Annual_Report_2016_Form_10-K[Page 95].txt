@@ -1,0 +1,43 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+Fair Value Measurements
+Fair value is the price that would be received upon sale of an asset or paid upon transfer of a liability in an orderly
+transaction between market participants at the measurement date and in the principal or most advantageous market
+for that asset or liability. The fair value should be calculated based on assumptions that market participants would use
+in pricing the asset or liability, not on assumptions specific to the entity.
+The three-level hierarchy of fair value measurements is based on whether the inputs to those measurements
+are observable or unobservable. Observable inputs reflect market data obtained from independent sources, while
+unobservable inputs reﬁectthe Company’s market assumptions. The fair-value hierarchy requires the use of observable
+market data when available and consists of the following levels:
+- Level 1—Quoted prices for identical instruments in active markets;
+- Level 2—Quoted prices for similar instruments in active markets; quoted prices for identical or similar
+instruments in markets that are not active; and model-derived valuations in which all signiﬁcant inputs are
+observable in active markets; and
+- Level 3—Valuations derived from valuation techniques in which one or more signiﬁcant inputs are
+unobservable.
+The fair values of deﬁned beneﬁt pension and postretirement plan assets as of August 31, 2016 were as follows:
+US. Plans
+7 Level 1 7 7 Level 2 7 7 Level 3 7 7 Total 7
+Fixed Income 7 7 7 7 7 7 7 7
+I US. government, state and local debt securities _ 359,583 _ 359,583 I
+Non-U.S. government debt securities _ 38,232 — 38,232
+I US. corporate debt securities _ 614,136 — 614,136 I
+Non-U.S. corporate debt securities _ 79,124 _ 79,124
+I Mutual fund debt securities 286,360 — — 286,360 I
+Cash and short-term investments _ 451 ,130 _ 451,130
+I Total $ 286,360 $ 1,542,205 $ —_$ 1,828,565I
+Non-U. S. Plans
+7 Level 1 Level 2 Level 3 Total 7
+IEquity I
+Mutual fund equity securities $ _ $ 311,324 $ — $ 311,324
+IFixed Income I
+Non-U.S. government debt securities 91 ,745 _ _ 91 ,745
+I Mutual fund debt securities 15,508 524,472 _ 540,080 I
+Cash and short-term investments 19,382 4,043 _ 23,430
+I Insurance contracts — 72,525 — 72,525 I
+Other 7 —7 7 42,050, i —f f 42,050,
+I Total :$ 126,735: is 954,419: is —: :$ 1,081,154I
+There were no transfers between Levels 1 and 2 during ﬁscal 2016.
+F- 31

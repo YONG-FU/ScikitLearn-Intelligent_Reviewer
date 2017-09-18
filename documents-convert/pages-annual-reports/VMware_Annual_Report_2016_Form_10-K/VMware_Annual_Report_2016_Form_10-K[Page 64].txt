@@ -1,0 +1,46 @@
+Table of Contents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+Returns Reserves
+With limited exceptions, VMware’s return policy does not allow product returns for a refund. VMware estimates and records reserves for product returns at
+the time of sale based on historical return rates. Am0unts are recorded as a reduction of revenue or unearned revenue. Returns reserves were not material for all
+periods presented.
+Multiple-Element Arrangements
+VMware enters into multiple-element revenue arrangements in which a customer may purchase a combination of software, maintenance and support, training,
+consulting services and hosted services. For multiple-element arrangements with software elements, VMware allocates and defers revenue for the undelivered
+elements based on fair value using vendor-specific objective evidence (“VSOE”) and applies the residual method to allocate the remaining fee to the delivered
+products and services. If a product or service included in a software-related multiple-element arrangement has not been delivered, and is not considered essential to
+the functionality of the delivered products or services, VMware must determine the fair value of each undelivered product or service using VSOE. Absent VSOE,
+revenue is deferred until VSOE of fair value exists for each of the undelivered products or services, or until all elements of the arrangement have been delivered.
+However, if the only undelivered element without VSOE is maintenance and support, the entire arrangement fee is recognized ratably over the performance period.
+VSOE of fair value for an undelivered element is generally based on historical stand-alone sales to third parties. In limited instances, for an offering that is not
+yet sold, VSOE is the price established by management if it is probable that the price will not change when introduced to the marketplace, including through the
+use of a contractually stated renewal rate. In determining VSOE of fair value, VMware requires that the selling prices for a product or service fall within a
+reasonable pricing range. VMware has established VSOE for its software maintenance and technical support services, consulting services and training.
+For multiple-element arrangements that contain software and non-software elements, VMware allocates revenue to software or software-related elements as a
+group and any non-software elements separately based on relative selling prices using the selling price hierarchy. The relative selling price for each deliverable is
+determined using VSOE, if it exists, or third-party evidence (“TPE”) of selling price. TPE of selling price is based on evaluation of prices charged for competitor
+products or services sold to similarly situated customers. As VMware’s offerings contain significant proprietary technology and provide different features and
+functionality, comparable prices of similar products typically cannot be obtained and relied upon.
+If neither VSOE nor TPE of selling price exists for a deliverable, VMware uses its best estimate of selling price (“BESP”) for that deliverable. The objective
+of BESP is to determine the price at which VMware would transact a sale if the product or service were sold on a stand-alone basis. VMware determines BESP by
+considering its overall pricing objectives and practices across different sales channels and geographies, market conditions, and historical sales. VMware uses BESP
+in the allocation of arrangement consideration for non-software elements. Once value is allocated to software or software-related elements as a group, revenue is
+then recognized when the relevant revenue recognition criteria are met.
+A specified upgrade obligation is created in the event VMware publicly announces new specific features, functionalities or entitlements to software upgrades
+or license products that have not been made available. VMware generally does not have VSOE of fair value for specified upgrades or license products.
+Accordingly, revenue recognition is deferred for multiple-element arrangements that entitle a customer to specified upgrades or new license products until the
+product obligations have been fulfilled.
+Unearned revenue substantially consists of payments received in advance of revenue recognition for products and services described above.
+Foreign Currency Remeasurement
+The US dollar is the functional currency of VMware’s foreign subsidiaries. VMware records net gains and losses resulting from foreign exchange
+transactions as a component of foreign currency exchange gains and losses in other income (expense), net on the consolidated statements of income. These gains
+and losses are net of those recognized on foreign currency forward contracts (“forward contracts”) not designated as hedges that VMware enters into to partially
+mitigate its exposure to foreign currency ﬂuctuations. Net losses were $8 million , $11 million and $8 million during the years ended December 31, 2016 , 2015
+and 2014 , respectively.
+Cash and Cash Equivalents, Short-Term Investments, and Restricted Cash
+VMware invests primarily in money market funds, highly liquid debt instruments of the United States (“US”) government and its agencies, municipal
+obligations, and US. and foreign corporate debt securities. All highly liquid investments with maturities of 90 days or less from date of purchase are classified as
+cash equivalents and all highly liquid investments with maturities of greater than 90 days from date of purchase as short—term investments. Short—term investments
+are classified as
+6 1

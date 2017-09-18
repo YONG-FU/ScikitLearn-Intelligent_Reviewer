@@ -1,0 +1,25 @@
+“ FATCA ” means Sections 1471 through 1474 of the Internal Revenue Code as enacted as of the date hereof or any amended or successor version that
+is substantively comparable and not materially more onerous to comply with, and, in each case, regulations promulgated thereunder or official interpretations
+thereof, any agreements entered into pursuant to Section 1471(b)(1) of the Internal Revenue Code as of the date hereof (or any amended or successor version
+described above), and any intergovernmental agreement between the United States and another jurisdiction implementing the foregoing (or any law, regulation or
+other official administrative interpretation implementing such an intergovernmental agreement).
+“ FCPA,” means the United States Foreign Corrupt Practices Act of 1977.
+“ Federal Bankrupticy Code ” means the Bankruptcy Reform Act of 1978, as amended from time to time.
+“ Federal Funds Effective Rate ” means, for any day, the weighted average (rounded upwards, if necessary, to the next 1/ 100 of 1%) of the rates on
+overnight Federal funds transactions with members of the Federal Reserve System, as published on the next succeeding Business Day by the Federal Reserve Bank
+of New York, or, if such rate is not so published for any day that is a Business Day, the average (rounded upwards, if necessary, to the next 1/ 100 of 1%) of the
+quotations for such day for such transactions received by the Administrative Agent from three Federal funds brokers of recognized standing selected by it.
+“ Fee Letter ” means the administrative agent fee letter, dated as of September 28, 2016, between Mondeléz and the Administrative Agent.
+“ Five-jﬁeaLCommitment” means as to any Lender (i) the Dollar amount set forth opposite such Lender’s name on Schedule I hereto under the
+heading F ive-Year Commitment, or (ii) if such Lender has entered into an Assignment and Acceptance, the Dollar amount set forth for such Lender as such
+Lender’s F ive-Year Commitment in the Register maintained by the Administrative Agent, pursuant to Section 9.07(d), in each case as such amount may be reduced
+pursuant to Section 2.10.
+“ Five-Year Funding Date ” has the meaning specified in Section 2.01(a).
+“ Five;¥ea1; Loans,” means loans borrowed hereunder maturing on the F ive-Year Termination Date.
+“ Five-LYeariMaturityLDate,” means the date that is the fifth anniversary of the F ive-Year Funding Date.
+“ Five-Year Note ” a promissory note of the Borrower payable to any Lender (or its registered assigns), delivered pursuant to a request made under
+Section 2.17 in substantially the form of Exhibit A-1 hereto, evidencing the aggregate indebtedness of the Borrower to such Lender resulting from the Five-Year
+Loans made by such Lender to the Borrower.
+“ Foreign Subsidiary: ” means, with respect to any Person, each Subsidiary of such Person that is not organized under the laws of the United States of
+America, any state thereof or the District of Columbia.
+-8-

@@ -1,0 +1,33 @@
+Table,0f,C,0ntents
+Recent Accounting Pronouncements
+For information with reSpect to recent accounting pronouncements and the impact of these pronouncements on our consolidated ﬁnancial statements, see Note 1 of
+Notes to Consolidated Financial Statements included elsewhere in this Annual Report.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+Cash, Cash Equivalents, Marketable Securities and Interest Income Risk
+Our bank deposits and time deposits are generally held with large, diverse ﬁnancial institutions worldwide with high investment-grade credit ratings or financial
+institutions that meet investment-grade ratings criteria, which we believe mitigates credit risk and certain other risks. In addition, as of May 31, 2016, substantially
+all of our marketable securities are high quality with approximately 28% having maturity dates within one year and 72% having maturity dates within one to six
+years (a description of our marketable securities held is included in Note 3 and Note 4 of Notes to Consolidated Financial Statements included elsewhere in this
+Annual Report and “Liquidity and Capital Resources” above). We hold a mix of both ﬁxed and ﬂoating-rate debt securities. The fair values of our fixed-rate debt
+securities are impacted by interest rate movements and if interest rates would have been higher by 50 basis points as of May 31, 2016, we estimate the change
+would have decreased the fair values of our marketable securities holdings by $282 million. Our ﬂoating-rate debt securities serve to lower the overall risk to our
+investments portfolio associated with the risk of rising interest rates. Substantially all of our marketable securities are designated as available-for-sale. We generally
+do not use our investments for trading purposes.
+Changes in the overall level of interest rates affect the interest income that is generated from our cash, cash equivalents and marketable securities. For ﬁscal 2016,
+total interest income was $538 million with our cash, cash equivalents and marketable securities investments yielding an average 1.16% on a worldwide basis. The
+table below presents the approximate fair values of our cash, cash equivalents and marketable securities and the related weighted-average interest rates for our
+investment portfolio at May 31, 2016 and 2015.
+Mayﬂ,
+2016 2015
+Weighted- Weighted-
+Average Average
+Interest Interest
+(Dollars in millions) Fair Value Rate Fair Value Rate
+Cash and cash equivalents $ 20,152 0.35% $ 21,716 0.36%—‘
+Marketable securities 35,973 1.62% 32,652 1.07%
+I Total cash, cash equivalents and marketable securities 56,125 1.16% 54,368 0.79% 1
+Interest Expense Risk
+Interest Expense Risk — Fixed t0 Variable Interest Rate Swap Agreements
+Our total borrowings were $43.9 billion as of May 31, 2016, consisting of $37.8 billion of ﬁxed-rate borrowings, $2.3 billion of ﬂoating-rate borrowings (Floating-
+Rate Notes) and $3.8 billion of short-term borrowings under a revolving credit agreement (Short-Term Borrowings).
+77

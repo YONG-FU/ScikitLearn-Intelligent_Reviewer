@@ -1,0 +1,35 @@
+Table,of,C,ontents
+Infrastructure Technologieis
+Oracle infrastructure technologies consist of our hardware products including Oracle Engineered Systems, servers, storage, networking, industry-specific hardware,
+virtualization software, operating systems, management software and related hardware services including support. These complement our Oracle Cloud IaaS
+offerings described above.
+Our infrastructure technologies help customers manage growing amounts of data and business requirements, meet increasing compliance and regulatory demands
+and reduce energy, space and operational costs. Our infrastructure technologies support many of the world’s largest cloud and on-premise IT environments,
+including the Oracle Cloud. Our infrastructure technologies are designed to seamlessly connect cloud and on-premise IT environments to further enable
+interoperability, interchangeability and extendibility. We design our infrastructure technologies to work in customer environments that may include other Oracle or
+non-Oracle hardware or software components. Our ﬂexible and open approach provides Oracle customers with a broad range of choices in how they deploy our
+infrastructure technologies, which we believe is a priority for our customers.
+We focus the operation and integration of our infrastructure technologies to make them easier to deploy, manage and maintain for our customers and to improve
+computing performance relative to our competitors” offerings. For example, our Oracle Engineered Systems are designed to integrate multiple Oracle technology
+components to work together to deliver improved performance, availability, security and operational efficiency relative to our competitors’ products. These same
+Oracle technology components are tested together and supported together to streamline system deployment and maintenance cycles. We also engineer our hardware
+products with virtualization and management capabilities to enable the rapid deployment and efficient management of cloud and on-premise IT infrastructures.
+Our infrastructure technologies are substantially marketed, sold and delivered through our hardware business, which includes our hardware products segment and
+hardware support segment. Our hardware products revenues represented 7% of our total revenues in fiscal 2016 and 8% of our total revenues in each of fiscal 2015
+and 2014. Our hardware support revenues represented 6% of our total revenues in each of fiscal 2016, 2015 and 2014.
+Oracle Engineered Systems
+Oracle Engineered Systems are core to our hardware offerings and are important elements of our data center and cloud computing offerings including the Oracle
+Cloud. These pre-integrated products are designed to integrate multiple Oracle technology components to work together to deliver improved performance,
+availability, security and operational efficiency relative to our competitors’ products; to be upgraded effectively and efﬁciently; and to simplify maintenance cycles
+by providing a single solution for software patching. Oracle Engineered Systems are tested before they are shipped to customers and delivered ready-to-run,
+enabling customers to shorten deployment time to production. We offer certain of our Oracle Engineered Systems technologies through ﬂexible deployment
+options including as a cloud service and for on-premise IT environments. Oracle Engineered Systems include:
+- Oracle Exadata Database Machine, a family of integrated software and hardware products that combines our database, storage and operating system
+software with our server, storage and networking hardware and is designed to provide a high performance database system for online transaction
+processing, database consolidation and data warehousing applications;
+- Oracle Exalogic Elastic Cloud, an engineered system that combines Oracle Fusion Middleware software with our server, storage and networking
+hardware to run Java and non-Java applications and provide customers with an applications platform for cloud computing;
+- Oracle Exalytics In-Memory Machine, a single server that is designed to be configured for in-memory analytics for business intelligence workloads;
+° Oracle SuperCluster, a general purpose engineered system that combines the optimized database performance of Oracle Exadata storage and the
+accelerated application performance on a SPARC/Solaris platform;
+14

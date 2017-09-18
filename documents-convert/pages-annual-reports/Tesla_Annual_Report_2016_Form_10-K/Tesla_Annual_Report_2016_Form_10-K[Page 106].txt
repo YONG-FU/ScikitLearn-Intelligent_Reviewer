@@ -1,0 +1,50 @@
+Note 20 - Deﬁned Contribution Plan
+We have a 401(k) savings plan (“the 401(k) plan”) which qualiﬁes as a deferred salary arrangement under section 401(k) of the
+Internal Revenue Code. Under the 401(k) plan, participating employees may elect to contribute up to 100% of their eligible
+compensation, subject to certain limitations. We assumed the SolarCity 401(k) plan, or the Retirement Plan, available to employees
+who meet the Retirement Plan’s eligibility requirements. Participants may elect to contribute a percentage of their compensation to the
+Retirement Plan, up to a statutory limit. Participants are fully vested in their contributions. We did not make any contributions to the
+Retirement Plan during the years ended December 31, 2016, 2015 and 2014.
+Note 21 — Related Party Transactions
+Through the SolarCity acquisition, we have entered into the following related party transactions (in thousands):
+December 31, 2016
+Solar bonds issued to related parties $ 265,100
+Convertible senior notes due to related parties 13,000
+Due to related parties (primarily accrued interest on the
+Solar Bonds and Convertible Senior notes, included in
+accrued and other current liabilities)...................................... $ 5,136
+The related party transactions were primarily issuances and maturities of Solar Bonds held by SpaceX, our Chief Executive
+Officer, SolarCity’s Chief Executive Officer, and SolarCity’s Chief Technology Officer and issuances of convertible senior notes to
+an entity affiliated with our Chief Executive Officer and SolarCity’s Chief Executive Officer. SpaceX is considered a related party
+because our Chief Executive Officer is the Chief Executive Officer, Chief Technology Officer, Chairman, and a significant
+stockholder of SpaceX.
+As of December 31, 2016, SpaceX held $90.0 million in aggregate principal amount of 4.40% Solar Bonds due in March 2017
+and $75.0 million in aggregate principal amount of 4.40% Solar Bonds due in June 2017. In addition, our Chief Executive Officer,
+SolarCity’s Chief Executive Officer, and SolarCity’s Chief Technology Officer collectively held $100.0 million in aggregate principal
+amount of 6.50% Solar Bonds due in February 2018.
+From the Acquisition Date through December 31, 2016, the interest expense recognized for debt held by related parties was not
+material.
+Note 22 - Quarterly Results of Operations (Unaudited)
+The following table includes selected quarterly results of operations data for the years ended December 31, 2016 and 2015 (in
+thousands, except per share amounts):
+Three months ended
+March 31 June 30 September 30 December 31
+2016
+Total revenues $ 1,147,048 $ 1,270,017 $ 2,298,436 $ 2,284,631
+Gross 252,468 274,776 636,735 435,278
+Net income (loss) attributable to common stockholders (282,267) (293,188) 21,878 (121,337)
+Net income (loss) per share of common stock attributable to
+common stockholders,basic (2.13) (2.09) 0.15 (0.78)
+Net income (loss) per share of common stock attributable to
+common stockholders, (2.13) (2.09) 0.14 (0.78)
+2015
+Total revenues $ 939,880 $ 954,976 $ 936,789 $ 1,214,379
+Gross 260,073 213,370 231,496 218,564
+Net loss attributable to common stockholders........................ (154,181) (184,227) (229,858) (320,397)
+Net loss per share of common stock attributable to
+common stockholders,basic (1.22) (1.45) (1.78) (2.44)
+Net loss per share of common stock attributable to
+common stockholders, (1.22) (1.45) (1.78) (2.44)
+Net loss per share of common stock attributable to common stockholders, basic and diluted for the four quarters of each fiscal
+year may not sum to the total for the year because of the different numbers of shares outstanding during each period.
+103

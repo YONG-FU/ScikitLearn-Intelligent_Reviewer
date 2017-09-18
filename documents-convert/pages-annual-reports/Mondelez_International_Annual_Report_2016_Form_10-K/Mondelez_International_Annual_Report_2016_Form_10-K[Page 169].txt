@@ -1,0 +1,38 @@
+SECTION 602. Notice of Defaults.
+Within 90 days after the occurrence of any default hereunder with respect to Securities of any particular series, the Trustee for the Securities of such series
+shall give to Holders of Securities of that series, in the manner set forth in Section 106, notice of such default actually known to a Responsible Officer of such
+Trustee, unless such default shall have been cured or waived; provided, however, that, except in the case of a default in the payment of principal of, or premium, if
+any, or interest, if any, on any Security of that series, or in the deposit of any sinking fund payment with respect to Securities of that series, such Trustee shall be
+protected in withholding such notice if and so long as the board of directors, the executive committee or a trust committee of directors or Responsible Ofﬁcers of
+such Trustee in good faith determines that the withholding of such notice is in the interest of the Holders of Securities of that series; and provided, further, that in
+the case of any default of the character specified in Section 501(3) with respect to Securities of that series no such notice to Holders shall be given until at least 30
+days after the occurrence thereof. For the purpose of this Section, the term “default” means any event which is, or after notice or lapse of time or both would
+become, an Event of Default with respect to Securities of that series.
+SECTION 603. Certain Rights of Trustee.
+Except as otherwise provided in Section 601:
+(a) the Trustee for any series of Security may conclusively rely and shall be protected in acting or refraining from acting upon any resolution,
+certificate, statement, instrument, opinion, report, notice, request, discretion, consent, order, bond, debenture or other paper or document believed by it to be
+genuine and to have been signed or presented by the proper party or parties;
+(b) any request or direction of the Company mentioned herein shall be sufﬁciently evidenced by a Company Request or Company Order and any
+resolution of the Board of Directors may be sufﬁciently evidenced by a Board Resolution;
+(0) whenever in the administration of this Indenture such Trustee shall deem it desirable that a matter be proved or established prior to taking, suffering
+or omitting any action hereunder, such Trustee (unless other evidence be herein speciﬁcally prescribed) may, in the absence of gross negligence or willful
+misconduct on its part, conclusively rely upon an Ofﬁcers’ Certiﬁcate;
+((1) such Trustee may consult with counsel of its selection and the advice of such counsel or any Opinion of Counsel shall be full and complete
+authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in reliance thereon;
+(e) such Trustee shall be under no obligation to exercise any of the rights or powers vested in it by this Indenture at the request or direction of any of
+the Holders of Securities of any series pursuant to this Indenture for which it is acting as Trustee, unless such Holders shall have offered to such Trustee security or
+indemnity satisfactory to it against the costs, expenses and liabilities which might be incurred by it in compliance with such request or direction;
+(f) such Trustee shall not be bound to make any investigation into the facts or matters stated in any resolution, certiﬁcate, statement, instrument,
+Opinion, report, notice, request, discretion, consent, order, bond, debenture, note, other evidence of indebtedness or other paper or document, but such Trustee, in its
+discretion, may make such further inquiry or investigation into such facts or matters at it may see ﬁt, and, if such Trustee shall determine to make such further
+inquiry or investigation, it shall be entitled to examine the books, records and premises of the Company, personally or by agent or attorney at the sole cost of the
+Company and shall incur no liability or additional liability of any kind by reason of such inquiry or investigation;
+(g) such Trustee may execute any of the trusts or powers hereunder or perform any duties hereunder either directly or by or through agents or attorneys
+and such Trustee shall not be responsible for any misconduct or negligence on the part of any agent or attorney appointed with due care by it hereunder;
+(h) the Trustee shall not be charged with knowledge of any default or Event of Default with respect to the Securities unless either (1) a Responsible
+Ofﬁcer shall have actual knowledge of such default or Event of Default or (2) written notice of such default or Event of Default shall have been given to the
+Trustee, at the Corporate Trust Office of the Trustee, by the Company or by any Holder of the Securities, and such notice references the Securities and the
+Indenture. Notwithstanding the foregoing, the Trustee should be deemed to have knowledge of any default or Event of Default with respect to matters set forth in
+Sections 501(1) and 501(2);
+3 1

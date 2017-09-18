@@ -1,0 +1,40 @@
+The computations of basic and diluted net income attributable to PepsiCo per common share are as follows:
+: 2016 _ 2015 _ 2014 :
+Income Shares“) Income Shares(a) Income Shares“)
+[Net income attributable to PepsiCo 7$ 6,329 7”$ 5,452 27$ 6,513 I I
+Preferred shares:
+[ Dividends (1) (1) (1) I
+Redemption premium (5) (5) (9)
+[Net income available for PepsiCo 7 7 7 7 7 7 ]
+common shareholders 7$ 6,323 7 1,439 $ 5,446 7 1,469 $ 6,503 7 1,509
+Basic net income attributable to if if if if if if
+PepsiCo per common share S 4.39 7 $ 3.71 7 $ 4.31 7
+[Net income available for PepsiCo 7 7 7 7 7 7 ]
+common shareholders $ 6,323 1,439 $ 5,446 1,469 $ 6,503 1,509
+Dilutive securities:
+Stock options, RSUs, PSUs,
+l PEPunits and Other 1 12 15 17 l
+ESOP convertible preferred stock 5 1 6 1 10 1
+[Diluted is 6,329 ‘ 1,452 ‘5 5,452 ‘ 1,485 ‘$ 6,513 _ 1,527 \
+Diluted net income attributable to
+PepsiCo per common share S 4.36 7 $ 3.67 7 $ 4.27 7
+(a) Weighted—average common shares outstanding (in millions).
+Out-of-the-money options excluded from the calculation of diluted earnings per common share are as follows:
+7 201677 201577 20147
+[Out-of-the-money options (a) 7 0.7 1.5 I
+Average exercise price per option 33 99.98 $ 99.25 $ 82.25
+(a) In millions.
+Note 11 Preferred Stock
+As of December 31, 2O 16 and December 26, 2015, there were 3 million shares of convertible preferred stock
+authorized. The preferred stock was issued for an ES OP established by Quaker and these shares are redeemable
+for common stock by the ESOP participants. Quaker made the final award to its ESOP in June 2001. The
+preferred stock accrues dividends at an annual rate of $5.46 per share. As of December 31, 2016 and
+December 26, 2015, there were 803,953 preferred shares issued and 122,553 and 135,053 shares outstanding,
+respectively. The outstanding preferred shares had a fair value of $64 million as of December 31, 2016 and
+$67 million as of December 26, 2015. Each share is convertible at the option of the holder into 4.9625 shares
+of common stock. The preferred shares may be called by us upon written notice for redemption under certain
+conditions, including, among other things, upon termination of the ESOP in accordance with the ESOP’s
+terms, at the greater of $78 per share plus accrued and unpaid dividends or the fair market value of the
+preferred stock.
+Activities of our preferred stock are included in the equity statement.
+121

@@ -1,0 +1,48 @@
+2015
+Cash and Short-Term Long-Term
+Adjusted Unrealized Unrealized Fair Cash Marketable Marketable
+Cost Gains Losses Value Equivalents Securities Securities
+Cash 76 11,3897 7$ —7 7$ —7 7$ 11,3897 7$ 11,3897 7$ — s —
+7Level1: 7
+7 Money market funds 1,798 _ _ 1,798 1,798 _ _ 7
+' Mutual funds 1,772 — (144) 1,628 — 1,628 —
+Subtotal 7 3,5707 7 —7 7 (144)7 7 3,4267 7 1,7987 7 1,6287 7 —7
+7Level2: 7
+7 U.S. Treasury securities 34,902 181 (1) 35,082 — 3,498 31,584
+U.S. agency securities 5,864 14 — 5,878 841 767 4,270
+7 Non-U.S. government
+securities 6,356 45 (167) 6,234 43 135 6,056
+7 Certificates of deposit and
+time deposits 4,347 — — 4,347 2,065 1,405 877
+Commercial paper 6,016 — — 6,016 4,981 1,035 —
+Corporate securities 116,908 242 (985) 116,165 3 11,948 104,214
+Municipal securities 947 5 _ 952 _ 48 904
+7 Mortgage- and asset-backed 7
+securities 16,121 87 (31) 16,177 — 17 16,160
+Subtotal 7 191,461 7 7 5747 7 (1,184) 7 190,851 7 7 7,9337 7 18,8537 7 164,0657
+' Total is 206,420 8 5747 is (1,328) is 205,666 is 21,120, is 20,481 7 is 164,065
+The Company may sell certain of its marketable securities prior to their stated maturities for strategic reasons including, but not
+limited to, anticipation of credit deterioration and duration management. The maturities of the Company’s long-term marketable
+securities generally range from one to five years.
+The Company considers the declines in market value of its marketable securities investment portfolio to be temporary in nature.
+The Company typically invests in highly-rated securities, and its investment policy generally limits the amount of credit exposure to
+any one issuer. The policy generally requires investments to be investment grade, with the primary objective of minimizing the
+potential risk of principal loss. Fair values were determined for each individual security in the investment portfolio. When evaluating
+an investment for other-than-temporary impairment the Company reviews factors such as the length of time and extent to which fair
+value has been below its cost basis, the financial condition of the issuer and any changes thereto, changes in market interest rates
+and the Company’s intent to sell, or whether it is more likely than not it will be required to sell the investment before recovery of the
+investment’s cost basis.As of September 24, 2016, the Company does not consider any of its investments to be other-than-temporarily
+impaired.
+Derivative Financial Instruments
+The Company may use derivatives to partially offset its business exposure to foreign currency and interest rate risk on expected
+future cash flows, on net investments in certain foreign subsidiaries and on certain existing assets and liabilities. However, the
+Company may choose not to hedge certain exposures for a variety of reasons including, but not limited to, accounting considerations
+and the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a
+portion of the financial impact resulting from movements in foreign currency exchange or interest rates.
+To help protect gross margins from fluctuations in foreign currency exchange rates, certain of the Company’s subsidiaries whose
+functional currency is the U.S. dollar may hedge a portion of forecasted foreign currency revenue, and subsidiaries whose functional
+currency is not the U.S. dollar and who sell in local currencies may hedge a portion of forecasted inventory purchases not denominated
+in the subsidiaries’ functional currencies. The Company may enter into forward contracts, option contracts or other instruments to
+manage this risk and may designate these instruments as cash flow hedges.The Company typically hedges portions of its forecasted
+foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+Apple Inc. | 2016 Form 10-K l 50

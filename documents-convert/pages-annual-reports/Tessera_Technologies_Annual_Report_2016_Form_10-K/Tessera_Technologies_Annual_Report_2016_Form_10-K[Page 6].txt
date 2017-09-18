@@ -1,0 +1,38 @@
+Table of Contents
+assets of this business were sold during the 2013 sale except for the related land and building and certain fabrication assets. We retained those assets and leased
+them to the buyer until they were sold in August of 20 14.
+- In 2013, we closed our leased manufacturing facility in Zhuhai, China (the "Zhuhai Facility") and consolidated our manufacturing capabilities into
+Taiwan. By closing the Zhuhai Facility, our strategy was to no longer supply the whole camera module. Our primary focus was developing the memslcam actuator,
+the imaging software and user applications, and manufacturing and supplying only the lens barrel. As a result of this closure, certain assets in the Zhuhai Facility
+were considered impaired or written off entirely. The assets of this facility were either sold or transferred to our memslcam manufacturing operations in Taiwan.
+- In January 2014, we announced the cessation of all memslcam manufacturing operations. As part of these efforts, we are no longer operating facilities in
+Arcadia, California, Rochester, New York, Hsinchu, Taiwan and Japan. As a result of these actions, certain assets were impaired or were written off entirely and
+restructuring and other charges were taken in 2013 and the ﬁrst half of 2014. All material assets of these operations were sold or licensed to a third party in
+December 2014.
+In this document, the operations and financial results of these operations are considered discontinued operations. For further discussion of these transactions, see
+Note 6 - " Discontinued Operations ", Note 9 - " Goodwill and Identiﬁed Intangible Assets " and Note 16 - "Restructuring, Impairment of Long-Lived Assets and
+Other Charges and Gain on Sale of Patents " in the Notes to Consolidated Financial Statements.
+As a result of the actions noted above, during the first quarter of 20 14, we determined that we operate our business in one operating segment, focused on the
+monetization of intellectual property, both internally developed and acquired, through royalties, licenses and other means. Previously, we operated in two operating
+segments - Intellectual Property and DigitalOptics. All financial results and discussions below relate to continuing operations unless otherwise specified and
+conform to our determination that we now operate in a single operating segment.
+Customers
+Our technologies have been licensed to more than 100 companies. These customers include Intel Corporation, LG Electronics, Micron Technology, Inc., Samsung
+Electronics Co. Ltd, Shenzhen O-Film Tech Co., LTD, SK hynix Inc. and Sony Corporation, among others.
+Sales and Marketing
+Our sales activities focus primarily on developing direct relationships at the technical, marketing and executive management levels. Product marketing focuses on
+identifying the needs and product requirements of our customers. Product marketing also manages the development of all of our technologies throughout the
+development cycle and creates the required marketing materials to assist with the adoption of the technologies.
+Research & Development
+Our research and development groups work closely with our sales and marketing groups, as well as our customers and partners, to bring our technologies to market
+in a timely, high-quality and cost efﬁcient manner. As of December 31, 2015, we employed 180 engineers and technologists devoted to semiconductor packaging,
+other semiconductor technologies and imaging technologies. Research and development and other related costs totaled approximately $32.2 million, $32.3 million
+and $28.1 million for the years ended December 31, 2015, 2014 and 2013, respectively.
+Intellectual Property Portfolio
+As of December 31, 2015, we owned approximately 4,036 patents and patent applications, comprised of approximately
+2,255 United States patents and patent applications and approximately 1,781 foreign patents and patent applications. The expiration dates of our issued patents
+range from 2016 to 2034.
+We evaluate intellectual property portfolios for purchase in the fields of advanced semiconductor packaging, circuity technologies, and related ﬁelds. Our
+evaluation criteria for patent acquisitions include, for example: the sales and profitability of the relevant products, our View of the prospects of the market for the
+relevant products, size of the portfolio, legal criteria and our assessment of the likelihood of obtaining negotiated licenses.
+5

@@ -1,0 +1,39 @@
+The amortized cost and estimated fair value of fixed maturity and equity securities at December 31, 2016 were as
+follows:
+Gross Gross
+Amortized unrealized unrealized Estimated
+($ in thousands) cost gains losses fair values
+Securities available-for—sale:
+Fixed maturity securities:
+I U.S. treasury $ 7,841 $ — $ 11 $ 7,830 I
+U.S. government-sponsored agencies 249,495 31 1 10,609 239,197
+I Obligations of states and political subdivisions 319,663 17,034 940 335,757 I
+Commercial mortgage-backed 37,964 741 1,133 37,572
+I Residential mortgage-backed 102,307 1,435 7,308 96,434 I
+Other asset-backed 26,592 732 931 26,393
+I Corporate 445,663 12,232 1,379 456,516 I
+Total fixed maturity securities : 1,189,525 32,485 22,311 1,199,699 :
+I Equity securities: I
+I Common stocks: I
+Financial services 22,922 12,410 210 35,122
+I Information technology 19,832 10,739 29 30,542 I
+Healthcare 16,092 8,700 85 24,707
+I Consumer staples 13,438 5,787 125 19,100 I
+Consumer discretionary 14,8 12 7,672 163 22,321
+I Energy 14,276 4,873 78 19,071 I
+Industrials 13,005 11,258 18 24,245
+I Other 13,071 5,345 32 18,384 I
+Non-redeemable preferred stocks 20,031 483 167 20,347
+I Total equity securities : 147,479 67,267 907 213,839 I
+Total securities available-for-sale $ 1,337,004 _ $ 99,752 _ $ 23,218 _ $ 1,413,538
+The Company’s property and casualty insurance subsidiaries have $250 million of surplus notes issued to Employers
+Mutual. The interest rate on the surplus notes is 1.35 percent. Reviews of the interest rate are conducted by the Inter-Company
+Committees of the boards of directors of the Company and Employers Mutual every five years, with the next review due in
+2018. Payments of interest and repayments of principal can only be made out of the applicable subsidiary’s statutory surplus
+and are subject to prior approval by the insurance commissioner of the respective states of domicile. The surplus notes are
+subordinate and junior in right of payment to all obligations or liabilities of the applicable insurance subsidiaries. Total interest
+expense incurred on these surplus notes was $337,000 in each year 2016, 2015 and 2014. At December 31, 2016, the
+Company’s property and casualty insurance subsidiaries had received approval for the payment of interest accrued on the
+surplus notes during 2016.
+As of December 31, 2016, the Company had no material commitments for capital expenditures.
+88

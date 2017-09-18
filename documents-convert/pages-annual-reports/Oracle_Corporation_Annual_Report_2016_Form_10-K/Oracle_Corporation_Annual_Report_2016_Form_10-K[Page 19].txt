@@ -1,0 +1,35 @@
+Table,of,C,ontents
+cloud, traditional on-premise and hybrid cloud environments in a seamless manner via a single interface, which accelerates customer deployment of and transition
+to the cloud with Oracle products. Oracle also enhances and integrates with certain key open technologies including OpenStack, which is broadly supported by
+Oracle products for customers that require seamless integration with this method of cloud management and provisioning. The combination of Oracle’s
+comprehensive solutions and investments in open standards allows Oracle customers to manage Oracle products efficiently across a range of IT offerings from
+traditional on-premise environments to the most advanced cloud architectures.
+Hardware Support
+Our hardware support offerings provide customers with software updates for software components that are essential to the functionality of our hardware products,
+such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support services. We continue to
+evolve hardware support processes that are intended to proactively identify and solve quality issues and to increase the amount of new and renewed hardware
+support contracts sold in connection with the sales of our hardware products. Hardware support contracts are generally priced as a percentage of the net hardware
+products fees.
+Services
+We offer services solutions to help customers and partners maximize the performance of their investments in Oracle application, platform and infrastructure
+technologies. We believe our services are differentiated based on our focus on Oracle technologies, extensive experience and broad sets of intellectual property and
+best practices. Our services business represented 9% of our total revenues in each of fiscal 2016 and 2015, and 10% of our total revenues in fiscal 2014. Our
+services business, which is comprised of the remainder of our operating segments, offers the following:
+- consulting services that are designed to help our customers and global system integrator partners more successfully architect and deploy our offerings,
+including IT strategy alignment, enterprise architecture planning and design, initial software implementation and integration, and ongoing software
+enhancements and upgrades. We utilize a global, blended delivery model to optimize value for our customers and partners, consisting of on-premise
+consultants from local geographies, industry specialists and consultants from our global delivery and solution centers;
+- advanced customer support services, which are provided on-premise and remotely to our customers to enable increased performance and higher
+availability of their Oracle products and services and also include certain other services; and
+- education services for Oracle products and services, including training and certification programs that are offered to customers, partners and employees
+through a variety of formats, including instructor-led classes at our education centers, live Virtual training, self-paced online training, private events and
+custom training.
+Marketing and Sales
+We directly market and sell our products and services to businesses of many sizes and in many industries, government agencies and educational institutions. We
+also market and sell our offerings through indirect channels. No single customer accounted for 10% or more of our total revenues in fiscal 2016, 2015 or 2014.
+In the United States, our sales and services employees are based in our headquarters and in field offices throughout the country. Outside the United States, our
+international subsidiaries sell, support and service our offerings in their local countries as well as within other foreign countries where we do not operate through a
+direct sales subsidiary. Our geographic coverage allows us to draw on business and technical expertise from a global workforce, provides stability to our operations
+and revenue streams to offset geography specific economic trends and offers us an opportunity to take advantage of new markets for our offerings. Our
+international operations subject us to certain risks, which are more fully described in “Risk Factors” included in Item 1A of
+17

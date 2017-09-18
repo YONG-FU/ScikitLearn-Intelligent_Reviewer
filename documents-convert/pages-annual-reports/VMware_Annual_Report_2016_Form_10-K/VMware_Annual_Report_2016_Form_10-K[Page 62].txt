@@ -1,0 +1,43 @@
+IablrebﬁContents
+VMware, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+A. Overview and Basis of Presentation
+Company and Background
+VMware, Inc. (“VMware” or the “Company”) is a leader in virtualization and cloud infrastructure solutions that enable businesses to transform the way they
+build, deliver and consume information technology (“IT”) resources in a manner that is based on their specific needs. VMware’s virtualization infrastructure
+solutions, which include a suite of products and services designed to deliver a software-defined data center, run on industry-standard desktop computers, servers
+and mobile devices and support a wide range of operating system and application environments, as well as networkng and storage infrastructures.
+Basis of Presentation
+The consolidated ﬁnancial statements and accompanying notes have been prepared in accordance with accounting principles generally accepted in the United
+States of America (“GAAP”) and pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) for annual financial reporting.
+VMware was incorporated as a Delaware corporation in 1998, was acquired by EMC Corporation (“EMC”) in 2004 and conducted its initial public offering of
+VMware’s Class A common stock in August 2007. Effective September 7, 2016, Dell Technologies Inc. (“Dell”) (formerly Denali Holding Inc.) acquired EMC,
+and majority control of VMware (the “Dell Acquisition”). As a result of the Dell Acquisition, EMC became a wholly-owned subsidiary of Dell and VMware
+became an indirectly-held, majority-owned subsidiary of Dell. As of December 31, 2016 , Dell controlled 82.8% of VMware’s outstanding common stock and
+97.7% of the combined voting power of VMware’s outstanding common stock, including 38 million shares of VMware’s Class A common stock and all of
+VMware’s Class B common stock.
+Michael S. Dell was elected to the VMware Board of Directors as Chairman and Egon Durban was elected to the VMware Board. As VMware is a majority-
+owned and controlled subsidiary of Dell, its results of operations and financial position are consolidated with Dell’s financial statements. Pushdown accounting
+was not applied as a result of the Dell Acquisition and consequently no change in basis was reﬂected in VMware’s consolidated ﬁnancial statements. Transactions
+prior to the effective date of the Dell Acquisition represent transactions only with EMC and its consolidated subsidiaries (“Parent”).
+On October 25, 2016, the VMware Board of Directors approved a change to VMware’s ﬁscal year from a fiscal year ending on December 31 of each calendar
+year to a ﬁscal year consisting of a 52- or 53-week period ending on the Friday nearest to January 31 of each year. The change in VMware’s fiscal year was
+effective January 1, 2017. As a result of the change, the Company had a transition period that began on January 1, 2017 and ended on February 3, 2017, and
+VMware’s first full ﬁscal year under the revised ﬁscal calendar began on February 4, 2017 and will end on February 2, 2018. The Company plans to include its
+ﬁnancial statements for the approximately one-month transition period in its Quarterly Report on Form 10-Q ﬁled for the fiscal quarter ended May 5, 2017.
+Management believes the assumptions underlying the consolidated financial statements are reasonable. However, the amounts recorded for VMware’s
+intercompany transactions with Dell and its consolidated subsidiaries may not be considered arm’s length with an unrelated third party. Therefore, the financial
+statements included herein may not necessarily reﬂect the results of operations, ﬁnancial position and cash ﬂows had VMware engaged in such transactions with
+an unrelated third party during all periods presented. Accordingly, VMware’s historical ﬁnancial information is not necessarily indicative of what the Company’s
+results of operations, financial position and cash ﬂows will be in the future if and when VMware contracts at arm’s length with unrelated third parties for products
+and services the Company receives from and provides to Dell.
+Principles of Consolidation
+The consolidated ﬁnancial statements include the accounts of VMware and subsidiaries in which VMware has a controlling financial interest. Non-controlling
+interests are presented as a separate component within total stockholders’ equity and represent the equity and cumulative pro-rata share of the results of operations
+attributable to the non-controlling interests. The portion of results of operations attributable to the non-controlling interests is eliminated in other income (expense),
+net on the consolidated statements of income and is not presented separately as the amount was not material for the periods presented. During 2016, VMware
+acquired all of the non-controlling interests previously presented as a separate component within total stockholders’ equity.
+All intercompany transactions and account balances between VMware and its subsidiaries have been eliminated in consolidation. Transactions with Dell and
+its consolidated subsidiaries are generally settled in cash and are classiﬁed on the consolidated statements of cash ﬂows based upon the nature of the underlying
+transaction.
+59

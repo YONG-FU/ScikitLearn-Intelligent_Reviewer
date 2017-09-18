@@ -1,0 +1,54 @@
+standard using the modified retrospective approach, under which the cumulative effect of initially applying the new guidance is
+recognized as an adjustment to the opening balance of retained earnings in the first quarter of 2018.
+In July 2015, the FASB issued ASU 2015-11, "Inventory (Topic 330): Simplifying the Measurement of Inventory," which
+applies to inventory that is measured using FIFO or average cost. Under the updated guidance, an entity should measure
+inventory that is within scope at the lower of cost and net realizable value, which is the estimated selling prices in the ordinary
+course of business, less reasonably predictable costs of completion, disposal and transportation. Subsequent measurement is
+unchanged for inventory that is measured using LIFO. This ASU is effective for annual and interim periods beginning after
+December 15, 2016, and should be applied prospectively with early adoption permitted at the beginning of an interim or annual
+reporting period. The Company will adopt the new guidance in the first quarter of 2017, and the adoption of this guidance will
+not have a material impact on the consolidated financial statements.
+In January 2016, the FASB issued ASU 2016-01, "Financial Instruments - Overall (Subtopic 825-10): Recognition and
+Measurement of Financial Assets and Financial Liabilities," which amends the guidance in US. GAAP on the classification and
+measurement of financial instruments. Changes to the current guidance primarily affects the accounting for equity investments,
+financial liabilities under the fair value option, and the presentation and disclosure requirements for financial instruments. In
+addition, the ASU clarifies guidance related to the valuation allowance assessment when recognizing deferred tax assets
+resulting from unrealized losses on available-for-sale debt securities. The new standard is eﬁective for fiscal years and interim
+periods beginning after December 15, 2017, and upon adoption, an entity should apply the amendments by means of a
+cumulative-effect adjustment to the balance sheet at the beginning of the first reporting period in which the guidance is
+effective. Early adoption is not permitted except for the provision to record fair value changes for financial liabilities under the
+fair value option resulting from instrument-specific credit risk in other comprehensive income. The Company is currently
+evaluating the impact of adopting this guidance.
+In February 2016, the FASB issued ASU 2016-02, "Leases (Topic 842)," which requires organizations that lease assets to
+recognize on the balance sheet the assets and liabilities for the rights and obligations created by those leases. The new guidance
+requires that a lessee recognize assets and liabilities for leases with lease terms of more than twelve months and recognition,
+presentation and measurement in the financial statements will depend on its classification as a finance or operating lease. In
+addition, the new guidance will require disclosures to help investors and other financial statement users better understand the
+amount, timing and uncertainty of cash ﬂows arising from leases. Lessor accounting remains largely unchanged from current
+US. GAAP but does contain some targeted improvements to align with the new revenue recognition guidance issued in 2014.
+The new standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018,
+using a modified retrospective approach, and early adoption is permitted. The Company is currently evaluating the impact of
+adopting this guidance.
+In March 2016, the FASB issued ASU 2016-09, "Compensation - Stock Compensation (Topic 718): Improvements to
+Employee Share-Based Payment Accounting," which simplifies several aspects of the accounting for share-based payment
+awards to employees, including the accounting for income taxes, forfeitures, statutory tax withholding requirements and
+classification in the statement of cash ﬂows. The new standard is eﬁective for fiscal years, and interim periods within those
+fiscal years, beginning after December 15, 2016. Early adoption is permitted in any annual or interim period for which financial
+statements have not yet been issued, and all amendments in the ASU that apply must be adopted in the same period. The
+Company will adopt the new guidance in the first quarter of 20 17. Under the new guidance, excess tax benefits related to equity
+compensation will be recognized in the "Provision for income taxes" in the consolidated statements of income rather than in
+"Additional paid-in capital" in the consolidated balance sheets and will be applied on a prospective basis. Changes to the
+statements of cash ﬂows related to the classification of excess tax benefits and employee taxes paid for share-based payment
+arrangements will be implemented on a retrospective basis. The Company does not expect further impacts from the guidance.
+In August 2016, the FASB issued ASU 2016—15, "Statement of Cash Flows (Topic 230): Classification of Certain Cash
+Receipts and Cash Payments," which addresses the diversity in practice in how certain cash receipts and cash payments are
+presented and classified in the statement of cash ﬂows with respect to eight specific cash ﬂow issues. The new standard is
+effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017. The amendments
+should be applied using a retrospective transition method to each period presented, if practicable. Early adoption is permitted,
+including adoption in an interim period, and any adjustments should be reﬂected as of the beginning of the fiscal year that
+includes the interim period. All amendments must be adopted in the same period. The Company is currently evaluating the
+impact of adopting this guidance.
+In October 2016, the FASB issued ASU 2016— 16, "Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than
+Inventory," which requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset other than
+inventory when the transfer occurs. The amendments are eﬁective for fiscal years, and interim periods within those fiscal years,
+80

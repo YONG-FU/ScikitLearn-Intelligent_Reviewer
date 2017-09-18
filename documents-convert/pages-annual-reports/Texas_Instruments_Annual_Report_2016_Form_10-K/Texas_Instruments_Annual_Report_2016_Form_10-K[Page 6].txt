@@ -1,0 +1,41 @@
+PART I
+ITEM 1. Business.
+We design and make semiconductors that we sell to electronics designers and manufacturers all over the world. We began
+operations in 1930. We are incorporated in Delaware, headquartered in Dallas, Texas, and have design, manufacturing or sales
+operations in more than 30 countries. We have two reportable segments: Analog and Embedded Processing. We report the results
+of our remaining business activities in Other. In 2016, we generated $13.37 billion of revenue.
+1‘ We focus our resources on Analog and Embedded Processing because we believe that these segments’ long product life cycles,
+3 intrinsic diversity and need for less capital-intensive manufacturing provide a combination of stability, profitability and strong cash
+3 generation. This business model is the foundation of our capital management strategy, which is based on our belief that free cash
+a flow growth is important for maximizing shareholder value over the long term. We also believe that free cash flow will be valued
+5‘ only If It IS productively Invested In the busrness or returned to shareholders. Free cash flow IS cash flow from operations less
+capital expenditures.
+Product information
+Semiconductors are electronic components that serve as the building blocks inside modern electronic systems and equipment.
+Semiconductors, generally known as “chips,” combine multiple transistors to form a complete electronic circuit. We have tens of
+thousands of products that are used to accomplish many different things, such as converting and amplifying signals, interfacing
+with other devices, managing and distributing power, processing data, canceling noise and improving signal resolution. This broad
+portfolio includes products that are integral to almost all electronic equipment.
+Our segments represent groups of similar products that are combined on the basis of similar design and development
+requirements, product characteristics, manufacturing processes and distribution channels. 0ur segments also reflect how
+management allocates resources and measures results. Additional information regarding each segment follows.
+Analog
+Analog generated $8.54 billion of revenue in 2016. Analog semiconductors change real-world signals, such as sound, temperature,
+pressure or images, by conditioning them, amplifying them and often converting them to a stream of digital data that can be
+processed by other semiconductors, such as embedded processors. Analog semiconductors also are used to manage power in all
+electronic equipment by converting, distributing, storing, discharging, isolating and measuring electrical energy, whether the
+equipment is plugged into a wall or running off a battery. 0ur Analog products are used in many markets, particularly personal
+electronics and industrial.
+Sales of our Analog products generated about 64 percent of our revenue in 2016. According to external sources, the market
+for analog semiconductors was about $48 billion in 2016. Our Analog segment’s revenue in 2016 was about 18 percent of this
+fragmented market, the leading position. We believe we are well positioned to increase our market share over time.
+In 2016, our Analog segment included the following major product lines: High Volume Analog & Logic (HVAL), Power Management
+(Power), High Performance Analog (HPA) and Silicon Valley Analog (SVA).
+HVAL
+HVAL included high-volume integrated products that support applications like automotive safety systems, touchscreen controllers,
+low-voltage motor drivers and integrated motor controllers.
+Power
+Power included products that help customers manage power in electronic systems. Our broad portfolio of Power products is
+designed to manage power requirements using battery management solutions, portable power components, power supply controls
+and point-of-load products.
+2 TEXAS INSTRUMENTS - 2016 FORM 10-K

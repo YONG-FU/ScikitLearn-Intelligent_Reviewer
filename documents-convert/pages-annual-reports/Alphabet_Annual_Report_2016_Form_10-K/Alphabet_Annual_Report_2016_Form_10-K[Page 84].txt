@@ -1,0 +1,45 @@
+IaibleiofiCiontents Alphabet Inc.
+Stock-based compensation (SBC) and depreciation, amortization, and impairment are included in segment
+operating income (loss) as below (in millions):
+7 Year Ended December 31, 7
+7 2014 2015 2016 7
+[Stock-based compensation: l
+Google $ 3,686 $ 4,610 $ 5,926
+l Other Bets 333 475 647 i
+Reconciling items<3> 7 151 7 7 1187 7 1307
+] Total stock-based compensation“) $ 4,175 $ 5,203 $ 6,703l
+lDepreciation, amortization, and impairment: ‘
+Google $ 4,779 $ 4,839 $ 5,800
+l Other Bets 147 203 340 i
+Reconciling items<5> 7 537 7 21 7 7 47
+Total depreciation, amortization, and impairment as 7 7 7 7 7 7
+presented on the Consolidated Statements of Cash Flows 8 4,9797 8 5,0637 7$ 6,1447
+(3) Reconciling items represent corporate administrative costs that are not allocated to individual segments. 7 7 7
+(4) For purposes of segment reporting, we deﬁne SBC as awards accounted for under FASB ASC Topic 718 that we expect to
+settle in stock. SBC for segment reporting does not include expenses related to awards that we expect to ultimately settle in
+cash. For the year ended December 31, 2014, amounts exclude SBC from discontinued operations.
+(5) Reconciling items are primarily related to corporate administrative costs and other miscellaneous items that are not allocated
+to individual segments. Forthe year ended December31,2014, reconciling items primarily representdepreciation, amortization
+and impairment related to Motorola Mobile.
+Revenues by geography are based on the billing addresses of our customers. The following tables set forth
+revenues and long-lived assets by geographic area (in millions):
+7 Year Ended December 31, 7
+7 2014 2015 2016
+lRevenues: i
+United States $ 29,482 $ 34,810 $ 42,781
+i United Kingdom 6,483 7,067 7,737 i
+Rest of the world 7 30,036 7 7 33,112 7 7 39,704 7
+l Total revenues 76 66,001 7 76 74,9897 6 90,272l
+As of As of
+December 31, December 31,
+2015 7 2016
+[Long-lived assets: i
+United States $ 43,686 $ 47,383
+i international 13,661 _ 14,706 i
+Total long-lived assets 77$ 57,3477 77$ 62,0897
+Note 16. Subsequent Event
+In January 2017, Temasek, a Singapore-based investment company, signed a binding commitment to purchase
+a non-controlling interest in Verily for an aggregate of $800 million in cash. We closed the first tranche of the investment
+in February 2017 and anticipate closing the second and ﬁnal tranche upon completion of certain terms in the second
+half of 2017. The transaction will be accounted for as an equity transaction with no gain or loss recognized.
+81

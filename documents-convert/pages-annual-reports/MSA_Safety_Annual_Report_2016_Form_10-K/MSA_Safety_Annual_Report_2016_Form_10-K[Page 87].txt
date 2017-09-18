@@ -1,0 +1,40 @@
+The operations of this business qualify as a component of an entity under FASB ASC 205—20 "Presentation of Financial
+Statements - Discontinued Operations", and thus the operations have been reclassified as discontinued operations and prior
+periods have been reclassified to conform to this presentation.
+Summarized financial information for discontinued operations is as follows:
+Year ended December 31,
+(In thousands) : 2016 2015 2014 :
+[Discontinued Operations : T: T: [
+Net sales $ 5,261 $ 43,043 $ 47,516
+[Other income, net 596 580 660 [
+Cost and expenses:
+[ Cost of products sold 4,819_ 34,764_ 38,259[
+Selling, general and administrative 937 6,680 7,650
+[ Restructuring and other charges — 14 — [
+Currency exchange losses (gains), net 18 266 (116)
+[Income from discontinued operations before income taxes : 83 T: 1,899 T: 2,383 [
+Provision for income taxes 328 574 607
+[(Loss) income from discontinued operations, net of tax (245):$ 1,325 :$ 1,776 [
+The following assets and liabilities are included in the balance sheet line items noted below and are included in the
+International Segment detail in Note 7.
+December 31,
+(In thousands) : 2016 2015 :
+[Discontinued Operations assets and liabilities : T: [
+Trade receivables, less allowance for doubtful accounts 33 — $ 4,832
+[Inventories — 8,499 [
+Net property — 449
+[Other assets — 791 [
+Total assets : — 14,571 :
+[Accounts payable — 2,745j
+Accrued and other liabilities 686 748
+[Total liabilities : 686 T: 3,493 |
+Net (liabilities) assets (686)—$ 11,078 :
+The following summary provides financial information for discontinued operations related to net (income) loss related to
+noncontrolling interests:
+Year ended December 31,
+(In thousands) : 2016 2015 2014 :
+[Net (income) loss attributable to noncontrolling interests : T: T: [
+(Income) loss from continuing operations $ (1,416) $ 2,971 $ 1,296
+[ Income from discontinued operations (510) (108) (717)]l
+Net (income) loss 6 (1,926)_$ 2,863 579 i
+79

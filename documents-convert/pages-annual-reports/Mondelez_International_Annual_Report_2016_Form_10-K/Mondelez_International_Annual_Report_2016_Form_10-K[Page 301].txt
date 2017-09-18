@@ -1,0 +1,24 @@
+(c) if the Interpolated Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest Period
+shall be the Historical Screen Rate, or
+(d) if the Historical Screen Rate shall not be available at the applicable time for the applicable Interest Period, then the LIBO Rate for such Interest
+Period shall be the Interpolated Historical Screen Rate,
+provided that in no event shall the LIBO Rate be less than 0% for the purposes of this Agreement.
+“ LIBQ,Rate,Loan,” means a Loan that bears interest as provided in Section 2.04(a)(ii).
+“ Lien ” has the meaning specified in Section 5.02(a).
+“ Loans,” means the Five-Year Loans and the Three-Year Loans, collectively.
+“ Majorjubsidiary: means any Subsidiary of Mondeléz (a) more than 50% of the voting securities of which is owned directly or indirectly by
+Mondeléz, (b) which is organized and existing under, or has its principal place of business in, the United States or any political subdivision thereof, Canada or any
+political subdivision thereof, any country which is a member of the European Union on the date hereof or any political subdivision thereof, or Switzerland, Norway
+or Australia or any of their respective political subdivisions, and (c) which has at any time total assets (after intercompany eliminations) exceeding $1,000,000,000.
+“ Marginjtockf’ means margin stock, as defined in Regulation U.
+“ MaturityLDate,” means the Three-Year Maturity Date and the F ive-Year Maturity Date.
+“ Minimum Shareholders’ quty: means Total Shareholders’ Equity of not less than $24,600,000,000.
+“ Mondeljz,” has the meaning specified in the preamble.
+“ Moody’is” means Moody’s Investors Service, Inc. and any successor thereto.
+“ MultiemplioyeriPlan,” means a multiemployer plan, as defined in Section 4001(a)(3) of ERISA, to which any Obligor or any ERISA Affiliate is
+making or accruing an obligation to make contributions, or has within any of the preceding five plan years made or accrued an obligation to make contributions,
+such plan being maintained pursuant to one or more collective bargaining agreements.
+“ MultipleEmplioyeriPlan,” means a single employer plan, as defined in Section 4001(a)(15) of ERISA, that (a) is maintained for employees of any
+Obligor or any ERISA Affiliate and at least one Person other than such Obligor and the ERISA Affiliates or (b) was so maintained and in respect of which such
+Obligor or any ERISA Affiliate could have liability under Section 4064 or 4069 of ERISA in the event such plan has been or were to be terminated.
+-11-

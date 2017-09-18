@@ -1,0 +1,45 @@
+Table of Contents
+the processing of these outstanding claim payments. On a regular basis, claims reserve valuations are provided by independent third-party actuaries to ensure
+liability estimates are appr0priate. To limit exposure to some risks, the Company maintains insurance coverage with varying limits and retentions, including stop-
+loss insurance coverage for workers' compensation, general liability and auto liability.
+Income Taxes
+Income taxes are accounted for under the balance sheet method. Deferred tax assets and liabilities are recognized for the estimated future tax consequences
+attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases ("temporary
+differences"). Deferred tax assets and liabilities are measured using enacted tax rates in effect for the year in which those temporary differences are expected to be
+recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rate is recognized in income in the period that includes the enactment date.
+Deferred tax assets are evaluated for future realization and reduced by a valuation allowance to the extent that a portion is not more likely than not to be realized.
+Many factors are considered when assessing whether it is more likely than not that the deferred tax assets will be realized, including recent cumulative earnings,
+expectations of future taxable income, carryforward periods, and other relevant quantitative and qualitative factors. The recoverability of the deferred tax assets is
+evaluated by assessing the adequacy of future expected taxable income from all sources, including reversal of taxable temporary differences, forecasted operating
+earnings and available tax planning strategies. These sources of income rely heavily on estimates.
+In determining the provision for income taxes, an annual effective income tax rate is used based on annual income, permanent differences between book and tax
+income, and statutory income tax rates. Discrete events such as audit settlements or changes in tax laws are recognized in the period in which they occur.
+The Company records a liability for unrecognized tax benefits resulting from uncertain tax positions taken or expected to be taken in a tax return. The Company
+records interest and penalties related to unrecognized tax benefits in interest expense and operating, selling, general and administrative expenses, respectively, in
+the Company's Consolidated Statements of Income. Refer to Note 9 for additional income tax disclosures.
+Revenue Recognition
+Sales
+The Company recognizes sales revenue, net of sales taxes and estimated sales returns, at the time it sells merchandise to the customer. Digital retail sales include
+shipping revenue and are recorded upon delivery to the customer.
+Membership Fee Revenue
+The Company recognizes membership fee revenue both in the US. and internationally over the term of the membership, which is typically 12 months. The
+following table summarizes membership fee activity for fiscal 2016 , 2015 and 2014 :
+Fiscal Years Ended January 31,
+(Amounts in millions) 2016 _ 2015 _ 2014
+’Deferred membership fee revenue, beginning of year $ 759 $ 641 $ 575 ‘
+Cash received from members 1,333 1,410 1,249
+lMembership fee revenue recognized (1,348) (1,292) (1,183) ‘
+Deferred membership fee revenue, end of year $ 744 $ 759 $ 641
+Membership fee revenue is included in membership and other income in the Company's Consolidated Statements of Income. The deferred membership fee is
+included in accrued liabilities in the Company's Consolidated Balance Sheets.
+Shopping Cards
+Customer purchases of shopping cards are not recognized as revenue until the card is redeemed and the customer purchases merchandise using the shopping card.
+Shopping cards in the US. do not carry an expiration date; therefore, customers and members can redeem their shopping cards for merchandise indefinitely.
+Shopping cards in certain foreign countries where the Company does business may have expiration dates. A certain number of shopping cards, both with and
+without expiration dates, will not be fully redeemed. Management estimates unredeemed shopping cards and recognizes revenue for these amounts over shopping
+card historical usage periods based on historical redemption rates. Management periodically reviews and updates its estimates of usage periods and redemption
+rates.
+Financial and Other Services
+The Company recognizes revenue from service transactions at the time the service is performed. Generally, revenue from services is classified as a component of
+net sales in the Company's Consolidated Statements of Income.
+34

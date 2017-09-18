@@ -1,0 +1,49 @@
+Table,of,C,ontents
+ORACLE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENT%(Continued)
+May 31, 2016
+Year Ended Mayﬂ,
+(in millions) _ 2016 2015 2014
+Cloud software and on-premise software: I
+Revenues (1) $ 9,488 $ 10,025 $ 10,542
+I Cloud software as a service and platform as a service expenses 1,116 742 437 I
+Sales and distribution expenses 6,010 5,812 5,666
+I Margin (2) $ 2,362 $ 3,471 8 4,4391
+Cloud infrastructure as a service:
+I Revenues $ 646 $ 608 $ 456 I
+Cloud infrastructure as a service expenses 352 329 304
+I Sales and distribution expenses 74 89 61I
+Margin (2) $ 220 $ 190 $ 91
+:Software license updates and product support: I
+Revenues (1) $ 18,863 $ 18,858 $ 18,209
+I Software license updates and product support expenses 1,077 1,130 1,111I
+Margin (2) $ 17,786 $ 17,728 $ 17,098
+I Total cloud and on-premise software business: I
+Revenues (1) $ 28,997 $ 29,491 $ 29,207
+I Expenses 8,629 8,102 7,579I
+Margin (2) $ 20,368 $ 21,389 $ 21,628
+Hardware products: I
+Revenues $ 2,471 $ 2,825 $ 2,976
+I Hardware products expenses 1,364 1,465 1,516 I
+Sales and distribution expenses 850 864 940
+I Margin (2) $ 257 $ 496 $ 5201
+Hardware support:
+I Revenues (1) $ 2,198 $ 2,384 $ 2,407 I
+Hardware support expenses 665 783 802
+I Margin (2) $ 1,533 $ 1,601 8 1,6051
+Total hardware business:
+I Revenues (1) $ 4,669 $ 5,209 $ 5,383 I
+Expenses 2,879 3,112 3,258
+I Margin (2) $ 1,790 $ 2,097 $ 2,125?
+Total services business:
+I Revenues (1) $ 3,391 $ 3,553 $ 3,716 I
+Services expenses 2,645 2,818 2,822
+I Margin (2) $ 746 $ 735 $ 8941
+Totals:
+I Revenues (1) $ 37,057 $ 38,253 $ 38,306 I
+Expenses 14,153 14,032 13,659
+I Margin (2) $ 22,904 $ 24,221 $ 24,647]
+(1) Cloud software and on—premise software, software license updates and product support and hardware support revenues for management reporting included revenues related to cloud SaaS and PaaS, software
+support and hardware support contracts that would have otherwise been recorded by the acquired businesses as independent entities but were not recognized in our consolidated statements of operations for
+the periods presented. See Note 10 for an explanation of these adjustments and the table below for a reconciliation of our total operating
+130

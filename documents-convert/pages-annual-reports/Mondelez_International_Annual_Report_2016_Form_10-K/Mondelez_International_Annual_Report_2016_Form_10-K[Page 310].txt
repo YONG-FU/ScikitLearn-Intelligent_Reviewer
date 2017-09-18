@@ -1,0 +1,26 @@
+(b) Other Fees . The Borrower shall pay to the Administrative Agent for its own account or for the accounts of the Joint Lead Arrangers or Lenders,
+as applicable, such fees, and at such times, as shall have been separately agreed between the Borrower and the Administrative Agent or the Joint Lead Arrangers.
+SECTION 2.10 Optional Termination or Reduction of Commitments . The Borrower shall have the right, upon at least three Business Days’ notice
+to the Administrative Agent, to terminate in whole or reduce ratably in part the respective Three-Year Commitments or F ive-Year Commitments of the Lenders;
+provided that each partial reduction shall be in the aggregate amount of no less than $50,000,000 or the remaining balance if less than $50,000,000.
+SECTION 2.11 Optional Prergvments of Loans . The Borrower may, in the case of any LIBO Rate Loan, upon at least three Business Days’ notice
+to the Administrative Agent or, in the case of any Base Rate Loan, upon notice given to the Administrative Agent not later than 9:00 am. (New York City time) on
+the date of the proposed prepayment, in each case stating the proposed date and aggregate principal amount of the prepayment, and if such notice is given the
+Borrower shall, prepay the outstanding principal amount of such Loans in whole or ratably in part, together with accrued interest to the date of such prepayment on
+the principal amount prepaid; provided , however , that (x) each partial prepayment shall be in an aggregate principal amount of no less than $50,000,000 or the
+remaining balance if less than $50,000,000 and (y) in the event of any such prepayment of a LIBO Rate Loan, the Borrower shall be obligated to reimburse the
+Lenders in respect thereof pursuant to Section 9.04(b).
+SECTION 2.12 Increased Costs .
+(a) QQSISILQmLChangexinLawiQLAuthoritiﬁs,. If, due to either (i) the introduction after the date hereof of or any change (other than any change by
+way of imposition or increase of reserve requirements to the extent such change is included in the Eurocurrency Rate Reserve Percentage) in or in the interpretation,
+application or administration of any law or regulation or (ii) the compliance with any guideline or request promulgated after the date hereof from any central bank
+or other Governmental Authority (whether or not having the force of law), there shall be any increase in the cost to any Lender of agreeing to make or making,
+funding or maintaining LIBO Rate Loans (excluding for purposes of this Section 2.12 any such increased costs resulting from (i) Taxes or Other Taxes (as to which
+Section 2.15 shall govern) or (ii) taxes referred to in Section 2.15(a)(i), (ii), (iii), (iv), (v) or (vi)), then the Borrower shall within twenty (20) Business Days after
+receipt by the Borrower of demand by such Lender (with a copy of such demand to the Administrative Agent), pay to the Administrative Agent for the account of
+such Lender additional amounts sufficient to compensate such Lender for such increased cost; provided, howeyen, that before making any such demand, each
+Lender agrees to use reasonable efforts (consistent with its internal policy and legal and regulatory restrictions) to designate a different Domestic Lending Office if
+the making of such a designation would avoid the need for, or reduce the amount of, such increased cost and would not, in the reasonable judgment of such Lender
+be otherwise disadvantageous to such Lender. A certificate as to the amount of such increased cost, submitted to Mondeléz, the Borrower and the Administrative
+Agent by such Lender shall be conclusive and binding upon all parties hereto for all purposes, absent manifest error.
+-20-

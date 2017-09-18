@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+Exhibit
+Number Description
+10.15(D)-|- First Amendment to Search and Advertising Services and Sales Agreement, dated as of July 14, 2010, by and between the Registrant
+and Microsoft Corporation (previously filed as Exhibit 10.18(D) to the Registrant’s Quarterly Report on Form 10—Q ﬁled May 10, 2011 and
+incorporated herein by reference).
+10.15(E)1' Second Amendment to Search and Advertising Services and Sales Agreement, dated as of October 10, 2010, by and between the
+Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.18(E) to the Registrant’s Quarterly Report on Form 10-Q filed May 10,
+2011 and incorporated herein by reference).
+10.15(F)T Third Amendment to Search and Advertising Services and Sales Agreement, dated as of March 31, 2011, by and between the Registrant
+and Microsoft Corporation (previously filed as Exhibit 10.18(F) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 10, 2011 and
+incorporated herein by reference).
+10.15(G)f Amendment No. 1 to License Agreement, dated as of October 10, 2010, by and between the Registrant and Microsoft Corporation
+(previously ﬁled as Exhibit 10.18(G) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 10, 2011 and incorporated herein by
+reference).
+10.15(H)-|- Fourth Amendment to Search and Advertising Services and Sales Agreement, dated as of December 13, 2010, by and between the
+Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.18(H) to Amendment No. 1 to the Registrant’s Quarterly Report on
+Form 10—Q filed December 2, 2011 and incorporated herein by reference).
+10.15(I)1- Fifth Amendment to Search and Advertising Services and Sales Agreement, dated as of July 2, 2011, by and between the Registrant and
+Microsoft Corporation (previously ﬁled as Exhibit 10.18(I) to Amendment No. 1 to the Registrant’s Quarterly Report on Form 10—Q ﬁled
+December 2, 2011 and incorporated herein by reference).
+10.15(J)T Sixth Amendment to Search and Advertising Services and Sales Agreement, dated as of October 14, 2011, by and between the
+Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.18(J) to the Registrant’s Quarterly Report on Form 10—Q ﬁled
+November 7, 2011 and incorporated herein by reference).
+10.15(K)1- Seventh Amendment to Search and Advertising Services and Sales Agreement, dated as of January 1, 2012, by and between the
+Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.16(K) to the Registrant’s Quarterly Report on Form 10—Q ﬁled
+August 9, 2012 and incorporated herein by reference).
+10.15(L)1- Eighth Amendment to Search and Advertising Services and Sales Agreement, dated as of June 6, 2012, by and between the Registrant
+and Microsoft Corporation (previously ﬁled as Exhibit 10.16(L) to the Registrant’s Quarterly Report on Form 10-Q ﬁled August 9, 2012 and
+incorporated herein by reference).
+10.15(M)1- Ninth Amendment to Search and Advertising Services and Sales Agreement, dated as of June 27, 2013, by and between the Registrant
+and Microsoft Corporation (previously ﬁled as Exhibit 10.16(M) to the Registrant’s Quarterly Report on Form 10-Q ﬁled August 8, 2013
+and incorporated herein by reference).
+10.15(N)-|- Tenth Amendment to Search and Advertising Services and Sales Agreement, effective as of March 23, 2015, by and between the
+Registrant and Microsoft Corporation (previously ﬁled as Exhibit 10.13(N) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 7,
+2015 and incorporated herein by reference).
+180

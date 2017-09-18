@@ -1,0 +1,32 @@
+Table,0f,C,0ntents
+Other Income (Expense), Net
+Other income (expense), net was as follows (in thousands):
+Years Ended December 31,
+2014 2015 2016
+Interest and investment income $ 25,309 $ 34,383 $ 60,931 I
+lnLerest expensiﬁi , _ (6_8,8_5_1) (7_1.§5_6_5) (Z3183)
+gain on sale of Alibaba Group ADSS 19,319,437 _ _ j
+fGain7(loss)ion Hortonworks warrants 9_8_,_0_6_2 (1_9_,1_9_9) (50,046)
+foreign exchange_(loss)_gain (1_4,6_8_7) (242,226) 4,282 j
+Other 7 9,169 3,125 4,700
+| Total other income (e_xpense)_, net $ 10,369,430 $ (75782) $ (5§,915)J
+Interest and investment income consists of income earned from cash and cash equivalents in bank accounts and marketable debt securities. Interest and
+investment income increased $27 million and $8 million for the years ended December 31, 2016 and 2015, respectively, compared to 2015 and 2014,
+respectively. The increase for the year ended December 31, 2016 was primarily due to an increase in interest income on our portfolio of investments as a result
+of increases in short-term interest rates as well as a higher average invested balance.
+Interest expense is related to the $1.4375 billion of Notes we issued in November 2013, interest expense on notes payable related to building obligations, and
+capital lease obligations for data centers. Interest expense increased $2 million and $3 million for the years ended December 31, 2016 and 2015, respectively,
+compared to 2015 and 2014, respectively, primarily due to the accreted non—cash interest expense related to the Notes.
+For the year ended December 31, 2014, we recorded a pre-tax gain of approximately $10 billion related to the sale of Alibaba Group ADSs.
+We hold warrants that vested upon the December 12, 2014 initial public offering of Hortonworks Inc. (“Hortonworks”), which entitle us to purchase an aggregate
+of 3.7 million shares of Hortonworks common stock upon exercise of the warrants. We hold 6.5 million preferred warrants that are exercisable for 3.25 million
+shares of common stock at an exercise price of $0.01 per share, as well as 0.5 million common warrants that are exercisable for 0.5 million shares of common
+stock at an exercise price of $8.46 per share. We determined the estimated fair value of the warrants using the Black-Scholes model. For the years ended
+December 31, 2016 and 2015, we recorded losses of $50 million and $19 million, respectively, due to the change in estimated fair value of the Hortonworks
+warrants during the period, which was recorded through other income (expense), net in our consolidated statements of operations. During the year ended
+December 31, 2014, we recorded a gain of $57 million upon the initial public offering of Hortonworks and a $41 million gain related to the mark to market of the
+warrants held as of December 31, 2014, which were included within other income (expense), net on the consolidated statements of operations.
+Foreign exchange (loss) gain consists of foreign exchange gains and losses due to re-measurement of monetary assets and liabilities denominated in
+non-functional currencies, and unrealized and realized foreign currency transaction gains and losses, including gains and losses related to balance sheet
+hedges.
+67

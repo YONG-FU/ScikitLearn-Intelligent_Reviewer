@@ -1,0 +1,43 @@
+operating expenses from operations for our non-U.S. operations. Similarly, our revenue and operating expenses
+will decrease for our non-US. operations if the US. dollar strengthens against foreign currencies.
+Using the average foreign currency exchange rates from our prior fiscal year ended February 28, 2015, our
+revenue and operating expenses from non-U.S. operations for the fiscal year ended February 29, 2016 would
+have been higher than we reported by approximately $120.8 million and $97.3 million, respectively, which
+would have resulted in income from operations being higher by $23.5 million.
+Business combinations
+Ansible
+On October 16, 2015 we completed our acquisition of all of the shares of Ansible for approximately $126.0
+million. Ansible is a provider of IT automation solutions that allows its users to manage applications across
+hybrid cloud environments. The acquisition is intended to augment our management portfolio and help customers
+to deploy and manage applications across private and public clouds, speed service delivery through development
+and operations initiatives, streamline OpenStack installations and upgrades and accelerate container adoption by
+simplifying orchestration and configuration. We incurred approximately $3.9 million in transaction costs,
+including legal and accounting fees, relating to the acquisition. These transaction costs have been expensed as
+incurred and included in general and administrative expense on the Company’s Consolidated Statement of
+Operations for the fiscal year ended February 29, 2016.
+F eedHenry
+On October 8, 2014, we completed our acquisition of all of the shares of FeedHenry for approximately
+$80.2 million. FeedHenry is a provider of cloud-based enterprise mobile application platforms. The acquisition is
+intended to expand our portfolio of application development, integration and platform as a service solutions,
+enabling us to support mobile application development in public and private environments. We incurred
+approximately $1.1 million in transaction costs including legal and accounting fees relating to the acquisition.
+These transaction costs have been expensed as incurred and included in general and administrative expense on
+our Consolidated Statement of Operations for the year ended February 28, 2015.
+eNovance
+On June 24, 2014, we completed our acquisition of all of the shares of eNovance, a provider of open source
+cloud computing services, for $67.6 million. The acquisition is intended to assist in advancing our market
+position in OpenStack, and the addition of eNovance’s systems integration capabilities and engineering talent is
+expected to help meet growing demand for enterprise OpenStack consulting, design and deployment. We
+incurred approximately $0.9 million in transaction costs including legal and accounting fees relating to the
+acquisition. These transaction costs have been expensed as incurred and included in general and administrative
+expense on our Consolidated Statement of Operations for the year ended February 28, 2015.
+Inktank
+On April 30, 2014, we completed our acquisition of all of the shares of Inktank, a provider of scale-out,
+open source storage systems, whose technology, Inktank Ceph Enterprise, delivers object and block storage
+software to enterprises deploying public or private clouds for consideration of $152.5 million. The acquisition is
+intended to complement our existing GlusterFS-based storage and Red Hat Enterprise Linux OpenStack Platform
+offerings. We incurred approximately $2.0 million in transaction costs, including legal and accounting fees
+relating to the acquisition. These transaction costs have been expensed as incurred and are included in general
+and administrative expense on our Consolidated Statement of Operations for the the year ended February 28,
+2015.
+52

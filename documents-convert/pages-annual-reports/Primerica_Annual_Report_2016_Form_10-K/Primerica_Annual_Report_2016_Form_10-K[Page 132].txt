@@ -1,0 +1,51 @@
+(FINANCIAL STATEMENTS — NOTE 5 :)
+requesting a reassessment from an alternative methodologies that incorporate market
+pricing service or other qualified source as information, such as index prices or discounting
+necessary. We do not adjust quotes or prices expected future cash flows based on underlying
+except in a rare circumstance to resolve a known collateral, and quotes from market participants,
+error. to estimate fair value. If these measures are not
+. . . . deemed observable for a particular security, the
+Because many fixed—maturity securities do not . . . . . .
+. . . . . . security Will be claSSIfied as Level 3 In the fair
+trade on a daily ba5is, third—party pricmg serwces .
+. . . . value hierarchy.
+generally determine fair value usmg industry—
+standard methodologies, which vary by asset Where specific market information is unavailable
+class. For corporate, government, and agency for certain securities, pricing models produce
+securities, these methodologies include estimates of fair value primarily using Level 2
+developing prices by incorporating available inputs along with certain Level 3 inputs. These
+market information such as U.S. Treasury curves, models include matrix pricing. The pricing matrix
+benchmarking of similar securities including new uses current treasury rates and credit spreads
+issues, sector groupings, quotes from market received from third—party sources to estimate
+participants and matrix pricing. Observable fair value. The credit spreads incorporate the
+information is compiled and integrates relevant issuer’s industry— or issuer—specific credit
+credit information, perceived market movements characteristics and the security’s time to
+and sector news. Additionally, security prices are maturity, if warranted. Remaining unpriced
+periodically back—tested to validate and/or refine securities are valued using an estimate of fair
+models as conditions warrant. Market indicators value based on indicative market prices that
+and industry and economic events are also include significant unobservable inputs not
+monitored as triggers to obtain additional data. based on, nor corroborated by, market
+For certain structured securities (such as information, including the utilization of
+mortgage—and assets—backed securities) with non—binding broker quotes.
+I'mlﬁed tradmg aCt'V'ty.’ thwd—party pncmg . . The roll—forward of the Level 3 assets measured
+serVIces generally use industry—standard pricmg . . . .
+at fair value on a recurring ba5is was as follows.
+Year ended
+7 December 31, r
+r 72016 2015:
+7 (In thousands) 7
+Level 3 assets, beginning of period $ 783 $1,165
+Net unrealized gains (losses) included in other comprehensive income (23) (26)
+Realized gains (losses) and accretion (amortization) recognized in earnings, including
+OTTI 7 4
+Purchasesll) 7,556 —
+Settlements (161) (168)
+Transfers into Level 3 1 —
+Transfers out of Level 3 — (192)
+Level 3 assets, end of period $8,162 $ 783
+(1) During the year ended December 31, 2016, purchases of Level 3 assets primarily consisted of newly—issued fixed-maturity
+securities in the fourth quarter for which observable inputs, most notably quoted prices, used to derive valuations are not
+yet readily available.
+We obtain independent pricing quotes based on period for all securities in Level 2. Those inputs
+observable inputs as of the end of the reporting include benchmark yields, reported trades,
+120 Freedom Lives Here“

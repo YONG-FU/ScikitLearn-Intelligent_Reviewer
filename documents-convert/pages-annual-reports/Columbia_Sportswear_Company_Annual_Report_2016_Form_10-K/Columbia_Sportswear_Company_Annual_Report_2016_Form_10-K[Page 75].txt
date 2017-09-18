@@ -1,0 +1,42 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(Continued)
+The Company actively manages the risk of changes in functional currency equivalent cash ﬂows resulting from
+anticipated non-functional currency denominated purchases and sales. Our subsidiaries and joint venture that use European
+euros, Canadian dollars, Japanese yen, or Chinese renminbi as their functional currency are primarily exposed to changes
+in functional currency equivalent cash ﬂows from anticipated US. dollar inventory purchases. The Company's prAna
+subsidiary uses US. dollars as its functional currency and is exposed to anticipated Canadian dollar denominated sales. The
+Company manages these risks by using currency forward and option contracts formally designated and effective as cash
+ﬂow hedges. Hedge effectiveness is generally determined by evaluating the ability of a hedging instrument's cumulative
+change in fair value to offset the cumulative change in the present value of expected cash ﬂows on the underlying exposures.
+For forward contracts, the change in fair value attributable to changes in forward points is excluded from the determination
+of hedge effectiveness and included in current cost of sales for hedges of anticipated US. dollar inventory purchases and
+in net sales for hedges of anticipated Canadian dollar sales. For option contracts, the change in fair value attributable to
+changes in time value is excluded from the assessment of hedge effectiveness and included in current period cost of sales.
+Hedge ineffectiveness was not material during the years ended December 31, 2016, 2015 and 2014.
+The Company also uses foreign currency forward contracts not formally designated as hedges using euros, yen,
+Canadian dollars, and Swiss francs to manage the consolidated currency exchange risk associated with the remeasurement
+of non-functional currency denominated monetary assets and liabilities. Non-functional currency denominated monetary
+assets and liabilities consist primarily of cash and cash equivalents, short-term investments, payables, and intercompany
+loans. The gains and losses generated on these currency forward contracts not formally designated as hedges are expected
+to be largely offset in other non-operating income (expense), net by the gains and losses generated from the remeasurement
+of the non-functional currency denominated monetary assets and liabilities.
+The following table presents the gross notional amount of outstanding derivative instruments (in thousands):
+7 December 31, 7
+: 2016 7 7 2015
+lDerivative instruments designated as cash ﬂow hedges: ‘
+Currencyforwardcontracts................................................ $ 206,000 $161,000
+lDerivative instruments not designated as hedges: l
+Currencyforwardcontracts................................................ 184,940 113,195
+At December 31, 2016, approximately $6,984,000 of deferred net gains on both outstanding and matured derivatives
+accumulated in other comprehensive income are expected to be reclassified to income before tax during the next twelve
+months as aresult of underlying hedged transactions also being recorded in net income. Actual amounts ultimately reclassified
+to net income are dependent on US. dollar exchange rates in effect against the euro, Canadian dollar, yen, and renminbi
+when outstanding derivative contracts mature.
+At December 31, 2016, the Company's derivative contracts had remaining maturities of less than two years. The
+maximum net exposure to any single counterparty, which is generally limited to the aggregate unrealized gain of all contracts
+with that counterparty, was less than $4,000,000 at December 31, 2016. All of the Company's derivative counterparties have
+investment grade credit ratings. The Company is a party to master netting arrangements that contain features that allow
+counterparties to net settle amounts arising from multiple separate derivative transactions or net settle in the case of certain
+triggering events such as a bankruptcy or major default of one of the counterparties to the transaction. Finally, the Company
+has not pledged assets or posted collateral as a requirement for entering into or maintaining derivative positions.
+69

@@ -1,0 +1,43 @@
+further discussion of our operating segments. See Part I, Item 1A, “Risk Factors,” for a discussion of some of the
+risks attendant to our operations, including foreign operations.
+Subscription revenue by product group
+Subscription revenue for our Infrastructure-related offerings (Red Hat Enterprise Linux, Red Hat Satellite,
+Red Hat Enterprise Virtualization and related offerings) as a percentage of our total revenue were 72.1%, 74.0%
+and 76.3% for fiscal 2016, fiscal 2015 and fiscal 2014, respectively. Subscription revenue for our Application
+Development-related offerings (Red Hat J Boss Middleware) and other emerging technology offerings (including
+our cloud offerings, Red Hat Mobile and Red Hat Storage) as a percentage of our total revenue were 15.7%,
+13.2% and 10.8% for fiscal 2016, ﬁscal 2015 and fiscal 2014, respectively. For additional financial information
+about our products and services, see NOTE 20—Segment Reporting to our Consolidated Financial Statements.
+Customers
+We sell our offerings to enterprises in a variety of industries, including financial services, government,
+healthcare, retail, telecommunications and transportation. For the ﬁscal year ended February 29, 2016, the US.
+government and its agencies represented in the aggregate approximately 10% of our total revenue. For the fiscal
+years ended February 28, 2015 and February 28, 2014, no customer accounted for more than 10% of our total
+revenue.
+Backlog
+We define total backlog as the value of non-cancellable subscription and service agreements, including total
+deferred revenue, which is billed, plus the value of non-cancellable subscription and service agreements to be
+billed in the future and not reﬂected in our ﬁnancial statements. The value of non-cancellable subscription and
+service agreements at February 29, 2016 included deferred revenue classified as a current liability of $1.27
+billion and long-term deferred revenue of $449.6 million. The value of non-cancellable subscription and service
+agreements to be billed in the future and not reﬂected in our financial statements is in excess of $410.0 million.
+The portion of total backlog at February 29, 2016 that we expect to be billed during the fiscal year ending
+February 28, 2017 is in excess of $275.0 million. At February 28, 2015, the value of non-cancellable subscription
+and service agreements included deferred revenue classified as a current liability of $1.10 billion and long-term
+deferred revenue of $387.2 million. The value of non-cancellable subscription and service agreements to be
+billed in the future and not reﬂected in our financial statements at February 28, 2015 was in excess of $380.0
+million.
+We report our off-balance sheet backlog as a conservative approximation, often describing the amount as
+“in excess of”, primarily because the value of underlying contracts is derived from data not yet subjected to the
+complete application of our revenue recognition policies. We endeavor to derive the value of our off-balance
+sheet backlog in a consistent manner year over year and therefore believe the amounts are comparable.
+Seasonality
+Our fourth fiscal quarter has historically been our strongest quarter for billing both new business and
+renewals. For a more detailed discussion, see Part II, Item 7, “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations.”
+BUSINESS STRATEGY
+Our business strategy is to partner with our customers as they maintain, migrate or modernize existing
+infrastructure and utilize new architectures. We implement our business strategy through (i) driving the
+widespread adoption of our offerings, (ii) expanding our portfolio of technology offerings that enable cloud
+computing, (iii) investing in the development of open source technologies and promoting the use of our
+8

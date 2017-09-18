@@ -1,0 +1,51 @@
+Our operations are analyzed by management and our chief operating decision maker (CODM) as being part of a single
+industry segment: the design, development, marketing and sales of Enterprise Information Management software and solutions.
+Therefore, our goodwill impairment assessment is based on the allocation of goodwill to a single reporting unit.
+We perform a qualitative assessment to test our reporting unit's goodwill for impairment. Based on our qualitative
+assessment, if we determine that the fair value of our reporting unit is more likely than not (i.e., a likelihood of more than 50
+percent) to be less than its carrying amount, the two step impairment test is performed. In the first step, we compare the fair
+value of our reporting unit to its carrying value. If the fair value of the reporting unit exceeds its carrying value, goodwill is not
+considered impaired and we are not required to perform further testing. If the carrying value of the net assets of our reporting
+unit exceeds its fair value, then we must perform the second step of the two step impairment test in order to determine the
+implied fair value of our reporting unit's goodwill. If the carrying value our reporting unit's goodwill exceeds its implied fair
+value, then an impairment loss equal to the difference would be recorded.
+Acquired intangibles
+Acquired intangibles consist of acquired technology and customer relationships associated with various acquisitions.
+Acquired technology is initially recorded at fair value based on the present value of the estimated net future income-
+producing capabilities of software products acquired on acquisitions. We amortize acquired technology over its estimated
+useful life on a straight-line basis.
+Customer relationships represent relationships that we have with customers of the acquired companies and are either
+based upon contractual or legal rights or are considered separable; that is, capable of being separated from the acquired entity
+and being sold, transferred, licensed, rented or exchanged. These customer relationships are initially recorded at their fair value
+based on the present value of expected future cash ﬂows. We amortize customer relationships on a straight-line basis over their
+estimated useful lives.
+We continually evaluate the remaining estimated useful life of our intangible assets being amortized to determine whether
+events and circumstances warrant a revision to the remaining period of amortization.
+Restructuring charges
+We record restructuring charges relating to contractual lease obligations and other exit costs in accordance with ASC
+Topic 420, “Exit or Disposal Cost Obligations” (Topic 420). Topic 420 requires that a liability for a cost associated with an exit
+or disposal activity be recognized and measured initially at its fair value in the period in which the liability is incurred. In order
+to incur a liability pursuant to Topic 420, our management must have established and approved a plan of restructuring in
+sufficient detail. A liability for a cost associated with involuntary termination benefits is recorded when benefits have been
+communicated and a liability for a cost to terminate an operating lease or other contract is incurred when the contract has been
+terminated in accordance with the contract terms or we have ceased using the right conveyed by the contract, such as vacating a
+leased facility.
+The recognition of restructuring charges requires us to make certain judgments regarding the nature, timing and amount
+associated with the planned restructuring activities, including estimating sub-lease income and the net recoverable amount of
+equipment to be disposed of. At the end of each reporting period, we evaluate the appropriateness of the remaining accrued
+balances.
+Foreign currency
+Our Consolidated Financial Statements are presented in US. dollars. In general, the functional currency of our
+subsidiaries is the local currency. For each subsidiary, assets and liabilities denominated in foreign currencies are translated into
+US dollars at the exchange rates in effect at the balance sheet dates and revenues and expenses are translated at the average
+exchange rates prevailing during the month of the transaction. The effect of foreign currency translation adjustments not
+aﬁecting net income are included in Shareholders' equity under the “Cumulative translation adjustment” account as a
+component of “Accumulated other comprehensive income”. Transactional foreign currency gains (losses) included in the
+Consolidated Statements of Income under the line item “Other income (expense) net” for Fiscal 2016, Fiscal 2015 and Fiscal
+2014 were $(1.9) million, $(3l.0) million and $4.0 million, respectively.
+Income taxes
+We account for income taxes in accordance with ASC Topic 740, “Income Taxes” (Topic 740). Deferred tax assets and
+liabilities arise from temporary diﬁerences between the tax bases of assets and liabilities and their reported amounts in the
+Consolidated Financial Statements that will result in taxable or deductible amounts in future years. These temporary differences
+are measured using enacted tax rates. A valuation allowance is recorded to reduce deferred tax assets to the extent that we
+39

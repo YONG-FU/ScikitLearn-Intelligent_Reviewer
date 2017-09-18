@@ -1,0 +1,44 @@
+Iablrebeontents
+Anti-takeover provisions in Delaware law and our charter documents could discourage takeover attempts.
+As our controlling stockholder, Dell has the ability to prevent a change in control of VMware. Provisions in our certificate of incorporation and bylaws may
+also have the effect of delaying or preventing a change of control or changes in our management. These provisions include the following:
+0 the division of our board of directors into three classes, with each class serving for a staggered three-year term, which prevents stockholders from electing
+an entirely new board of directors at any annual meeting;
+0 the right of the board of directors to elect a director to fill a vacancy created by the expansion of the board of directors;
+0 following a 355 Distribution of Class B common stock by Dell to its stockholders, the restriction that a beneficial owner of 10% or more of our Class B
+common stock may not vote in any election of directors unless such person or group also owns at least an equivalent percentage of Class A common stock
+or obtains approval of our board of directors prior to acquiring beneficial ownership of at least 5% of Class B common stock;
+0 the prohibition of cumulative voting in the election of directors or any other matters, which would otherwise allow less than a majority of stockholders to
+elect director candidates;
+0 the requirement for advance notice for nominations for election to the board of directors or for proposing matters that can be acted upon at a stockholders’
+meeting;
+0 the ability of the board of directors to issue, without stockholder approval, up to 100,000,000 shares of preferred stock with terms set by the board of
+directors, which rights could be senior to those of common stock; and
+0 in the event that Dell or its successor-in-interest no longer owns shares of our common stock representing at least a majority of the votes entitled to be cast
+in the election of directors, stockholders may not act by written consent and may not call special meetings of the stockholders.
+In addition, we have elected to apply the provisions of Section 203 of the Delaware General Corporation Law. These provisions may prohibit large stockholders, in
+particular those owning 15% or more of our outstanding voting stock, from merging or combining with us. These provisions in our certificate of incorporation and
+bylaws and under Delaware law could discourage potential takeover attempts and could reduce the price that investors might be willing to pay for shares of our
+common stock.
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+None.
+ITEM 2. PROPERTIES
+As of December 31, 2016, we owned or leased the facilities described below:
+Approximate
+Location Sq. Ft. Principal Use(s)
+Palo Alto, CA owned: 1,492,802 (1) Executive and administrative offices, sales and marketing, and
+R&D
+North and Latin American region (excluding Palo leased: 1,105,910 (2) Administrative offices, sales and marketing, R&D and data
+Alto, CA) center
+Asia Pacific region leased: 1,214,958 Administrative offices, sales and marketing, R&D and data
+center
+Europe, Middle East and Africa region leased: 604,775 Administrative offices, sales and marketing, R&D and data
+center
+(1) Represents all of the right, title and interest purchased in ground leases, which expire in 2046, covering the property and improvements located at VMware’s
+Palo Alto, California campus. Of the total square feet owned, approximately 86,000 square feet were under construction as of December 31, 2016. In addition,
+we have the right to build an additional 100,000 square feet on the campus, if needed, to accommodate expansion.
+(2) Includes leased space for a Washington data center facility, for which VMware is considered to be the owner for accounting purposes.
+We believe that our current facilities are suitable for our current employee headcount and will sustain us through 2017, but we intend to add new facilities or
+expand existing facilities as needed as we add employees and expand our operations. We believe that suitable additional or substitute space will be available as
+needed to accommodate expansion of our operations.
+30

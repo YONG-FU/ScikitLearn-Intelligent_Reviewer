@@ -1,0 +1,53 @@
+The summarized financial information that follows represents the combined accounts (at 100 percent) of the principal
+nonconsolidated affiliates.
+Summarized Balance Sheet Information at December 31 7
+:In millions 2016 ( 1) 2015 (2) :
+|Current assets 33 6,092 $ 8,794 l
+:Noncurrent assets 28,588 31,723 :
+[Total assets 33 34,680 $ 40,517 ,1
+Current liabilities $ 3,953 $ 9,850 *
+lNoncurrent liabilities 23,223 21,461 1
+;Total liabilities $ 27,176 $ 31,311 ;
+[Noncontrolling interests 33 300 $ 663 j
+(1) The summarized balance sheet information for 2016 does not include Dow
+Corning.
+(2) The summarized balance sheet information for 2015 does not include
+Univation; MEGlobal is included as part of EQUATE.
+Summarized Income Statement Information 7
+In millions 2016 (1) 2015 (2) 2014
+| Sales 33 12,003 $ 15,468 $ 19,333 I
+Gross profit 55 2,5 18 $ 3,206 $ 3,526
+Net income 33 831 $ 1,343 $ 1,673 l
+(1) The summarized income statement information for 2016 includes the results of
+Dow Corning through May 31, 2016.
+(2) The summarized income statement information for 2015 includes the results of
+Univation through April 30, 2015 and MEGlobal through November 30, 2015.
+NOTE 10 — GOODWILL AND OTHER INTANGIBLE ASSETS
+The following table shows changes in the carrying amount of goodwill for the years ended December 31, 2016 and 2015, by
+operating segment:
+Goodwill Performance
+Agricultural Consumer Infrastructure Materials & Performance
+In millions Sciences Solutions Solutions Chemicals Plastics Total
+|Balance at January_1, 2015 $ 1,558 $ 4,389 $ 4,451 $ 809 $ 1,425 $ 12,632 I
+Divestiture of ANGUS
+Chemical Company " ’ " ’ ’ ’ (292) ’ ’ (292)
+[Divestiture of the Sodium l
+Borohydride business ’ ’ ’ ’ ; (45) ; (45)]
+Sale of Agricultural Sciences
+product lines (16) " ’ ’ ’ ’ ’ ’ ’ (16)
+lDivestiture of AgroFresh (101) a a ; ; ; (101)l
+Split-off of the chlorine value
+chain " ’ " ’ ’ ’ (71) ’ ’ (71)
+Goodwill related to the
+[ Coodetec acquisition 31 * * ; ; ; 31 I
+Goodwill related to the
+Univation step acquisition " ’ " ’ ’ ’ ’ ’ 141 141
+[Foreign currency impact a a (15) (69) (10) (31) (125):1
+,Balance at December 31, 2015 $ 1,472 $ 4,374 $ 4,382 $ 391 $ 1,535 $ 12,154 7
+[Acquisition of an aniline plant a a a a ; 37 ; 37
+Sale of product lines r s (Q) r r a a (5) (1_5)
+[ Goodwill related to the DCC 1
+Transaction a a 1,705 1,524 ; ; 3,229
+Foreign currency impact r a (52) (66) (3) (12) (133)
+[Balance at December 31, 2016 $ 1,472 $ 6,017 $ 5,840 $ 425 $ 1,518 $ 15,272 1
+96

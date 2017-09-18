@@ -1,0 +1,47 @@
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS=(C0ntinued)
+A reconciliation of the common shares used in the denominator for computing basic and diluted EPS is as follows (in
+thousands, except per share amounts):
+7 Year Ended December 31, 7
+7 2016 2015 2014 ’
+Weighted average common shares outstanding, used in computing basic
+earningspershare............................................. 69,683 70,162 69,807
+Effect of dilutive stock options and restricted stock units. . . . . . . . . . . . . . . . . 949 902 874
+Weighted—average common shares outstanding, used in computing diluted
+earningspershare.............................................i 70,632_ 71,064_ 70,681:
+Earnings per share of common stock attributable to Columbia Sportswear
+Company:
+[ s 2.75 $ 2.48 $ 1.97[
+2.72 2.45 1.94
+Stock options and service-based restricted stock units representing 517,654, 154,170 and 409,250 shares of common
+stock for the years ended December 31, 2016, 2015 and 2014, respectively, were outstanding but were excluded in the
+computation of diluted EPS because their effect would be anti-dilutive as a result of applying the treasury stock method. In
+addition, performance-based restricted stock units representing 63,430, 122,858 and 120,363 shares for the years ended
+December 31, 2016, 2015 and 2014, respectively, were outstanding but were excluded from the computation of diluted EPS
+because these shares were subject to performance conditions that had not been met.
+NOTE 17—ACCUMULATED OTHER COMPREHENSIVE LOSS
+Accumulated other comprehensive loss, net of applicable taxes, reported on the Company's Consolidated Balance
+Sheets consists of unrealized gains and losses on available-for—sale securities, unrealized gains and losses on derivative
+transactions and foreign currency translation adjustments. The following table sets forth the changes in accumulated other
+comprehensive income attributable to Columbia Sportswear Company, net of related tax eﬁects, for the years ended
+December 31, 2016, 2015 and 2014 (in thousands):
+Unrealized Unrealized holding Foreign
+gains (losses) gains (losses) on currency
+on available for derivative translation
+7 sale securities transactions :_:adjustments Total :
+[BalanceatJanuary1,2014........................... $ (6) $ 1,244 $ 34,122 $35,360[
+Other comprehensive income (loss) before reclassifications . 10 9,462 (21,288) (11,816)
+[Amounts reclassified from other comprehensive income . . . — _ (1,711) — _ (1,711)
+Net other comprehensive income (loss) during the year . . . . : 10 7,751 (27,288)) (19,527)
+[BalanceatDecember31,2014........................ 4 8,995 6,834 15,833[
+Other comprehensive income (loss) before reclassifications . (6) 9,791 (QJSS) (£970)
+[Amounts reclassified from other comprehensive income . . . — _ (Q,699)_ — _7(Q,699)j
+Net other comprehensive income (loss) during the year . . . . : (6)_: (2,908)) (33,755)) (36,669)
+[Balance at December 31, 2015. . . . . . . . . . . . . . . . . . . . . . .. (2) 6,087 (26,921) (20,836)[
+Other comprehensive income (loss) before reclassifications . (2) 420 (2,465) (2,047)
+[Amounts reclassified from other comprehensive income . . . — _ 266 _ — _ 266[
+Net other comprehensive income (loss) during the year . . . . : (2)) 686 (2,465)) (1,781)
+[Balance at December 31, 2016. . . . . . . . . . . . . . . . . . . . . . .. 77$ (4) 77$ 6,773 i 77$ (29,386) $(22,617)[
+All reclassification adjustments related to derivative transactions are recorded in cost of sales on the Consolidated
+Statements of Operations. See Note 19 for further information regarding derivative instrument reclassification adjustments.
+66

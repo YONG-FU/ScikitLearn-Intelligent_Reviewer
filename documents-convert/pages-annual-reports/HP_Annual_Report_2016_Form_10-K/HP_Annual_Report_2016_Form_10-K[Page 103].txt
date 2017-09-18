@@ -1,0 +1,47 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 11: Financial Instruments (Continued)
+Other derivatives not designated as hedging instruments consist primarily of forward contracts used to hedge foreign
+currency-denominated balance sheet exposures. HP uses total return swaps to hedge its executive deferred compensation plan
+liability.
+For derivative instruments not designated as hedging instruments, HP recognizes changes in fair value of the derivative
+instrument, as well as the offsetting change in the fair value of the hedged item, in Interest and other, net in the Consolidated
+Statements of Earnings in the period of change.
+Hedge Effectiveness
+For interest rate swaps designated as fair value hedges, HP measures hedge eﬁectiveness by offsetting the change in fair
+value of the hedged item with the change in fair value of the derivative. For foreign currency options and forward contracts
+designated as cash ﬂow hedges, HP measures hedge effectiveness by comparing the cumulative change in fair value of the
+hedge contract with the cumulative change in fair value of the hedged item, both of which are based on forward rates. HP
+recognizes any ineﬁective portion of the hedge in the Consolidated Statements of Earnings in the same period in which
+ineffectiveness occurs. Amounts excluded from the assessment of effectiveness are recognized in the Consolidated Statements
+of Earnings in the period they arise.
+Fair Value of Derivative Instruments in the Consolidated Balance Sheets
+The gross notional and fair value of derivative instruments in the Consolidated Balance Sheets was as follows:
+7 As of October 31, 2016 7 7 As of October 31, 2015 7
+7 Other Other 7 7 Other Other 7
+Outstanding Other Non- Other Non- Outstanding Other Non- Other Non-
+Gross Current Current Accrued Current Gross Current Current Accrued Current
+7 Notional 7 7 Assets 7 7 Assets 7 iLiabilities 7 iLiabilitics 7 7 Notional 7 7 Assets 7 7 Assets 7 iLiabilities 7 7 Liabilities 7
+In millions
+Derivatives designated as hedging
+instruments
+Fair value hedges:
+’Interest rate contracts $ 2,000 $ — $ 48 $ — $ — $ 3,175 $ 1 $ 37 $ — $ — ‘
+Cash ﬂow hedges:
+Foreign currency contracts 7 11,852 7 2037 7 637 7 527 7 127 7 10,859 7 1717 7 107 7 1657 7 79‘
+Total derivatives designated as 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+hedging instruments 7 13,852 7 7 203 7 7 111 7 7 52 7 7 12 7 7 14,034 7 7 172 7 7 47 7 7 165 7 7 79 7
+Derivatives not designated as
+hedging instruments
+Foreign currency contracts 3,934 11 — 31 — 8,955 33 1 37 23
+’Otherderivatives 7 1507 7 —7 7 —7 7 27 7 —7 7 1737 7 57 7 —7 7 —7 7
+Total derivatives not designated 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+as hedging instruments 4,084 11 — 33 — 9,128 38 1 37 23
+’Total derivatives :$ 17,936: :$ 214: :$ 111: :$ 85: :$ 12: :$ 23,162: :$ 210: :$ 48: :$ 202: :$ 102]
+Ofﬁetting of Derivative Instruments
+HP recognizes all derivative instruments on a gross basis in the Consolidated Balance Sheets. HP does not offset the fair
+value of its derivative instruments against the fair value of cash collateral posted under its collateral security agreements. As of
+October 31, 2016 and 2015, information related to the potential effect of HP’s master netting agreements and collateral security
+agreements was as follows:
+103

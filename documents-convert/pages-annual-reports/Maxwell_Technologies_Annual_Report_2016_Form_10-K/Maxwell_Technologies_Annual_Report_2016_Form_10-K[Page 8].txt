@@ -1,0 +1,34 @@
+0 minimal to no maintenance requirements;
+0 “life of the application” durability; and
+- minimal environmental issues associated with disposal because they contain no heavy metals.
+With no moving parts and negligible chemical reactions involved in their energy storage mechanism, ultracapacitors provide a simple and highly reliable
+solution to buffer short-term mismatches between power available and power required. Additionally, ultracapacitors offer the advantage of storing energy in the
+same form in which it is used, as electricity.
+Emerging applications, including electric power in vehicles, stabilization of renewable power including solar and wind, and highly reliable, maintenance-
+free, backup power for telecommunications, information technology and industrial installations, are creating significant opportunities for more efficient and reliable
+energy storage and power delivery products. In many applications, power demand varies widely from moment to moment, and peak power demand typically is
+much greater than the average power requirement. For example, automobiles require 10 times more power to accelerate than to maintain a constant speed, and
+forklifts require more power to lift a heavy pallet of material than to move from place to place within a warehouse.
+Engineers historically have addressed transient peak power requirements by over-sizing the engine, battery or other primary energy source to satisfy all of a
+system’s power demands, including demands that occur infrequently and may last only fractions of a second. Sizing a primary power source to meet brief peak
+power requirements, rather than for average power requirements, is costly and inefficient. When a primary energy source is coupled with ultracapacitors, which can
+deliver or absorb brief bursts of high power on demand for periods of time ranging from fractions of a second to several minutes, the primary energy source can be
+smaller, lighter and less expensive.
+The following diagram depicts the separation of a primary energy storage source from a peak power delivery component to satisfy the requirements of a
+particular application. Components that enable this separation allow designers to optimize the size, efficiency and cost of the entire electrical power system.
+Peak Power Application Model
+5 L mum 'DEMUEEW." Fe: 7
+z l irnlmmc |
+.
+1
+-~:. ks; ’ "
+IEIEEIEEE! ‘ | E2
+i
+~ _ _ _;_
+ICEMFE HE, LLJI‘ L - ' h _
+4‘"- ACEEMHLDEQSEmilmwmﬂimﬁfml
+l'gl HLEQUEBEli’liﬂ-ﬂﬁ '
+Although batteries remain the most widely used component for both energy storage and peak power delivery, ﬂywheels, ultracapacitors and more advanced
+batteries now enable system designers to separate and optimize these functions. Based in part on our ultracapacitor products’ declining cost, high performance and
+“life-of-the-application” durability, they are becoming a preferred solution for many energy storage and power delivery applications.
+6

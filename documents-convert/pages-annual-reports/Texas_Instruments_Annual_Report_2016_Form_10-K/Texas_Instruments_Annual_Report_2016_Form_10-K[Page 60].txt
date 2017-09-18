@@ -1,0 +1,35 @@
+13. Supplemental financial information
+Acquisition charges
+Acquisition charges represent the ongoing amortization of intangible assets resulting from the acquisition of National
+Semiconductor Corporation. These amounts are included in Other for segment reporting purposes, consistent with how
+management measures the performance of its segments. See Note 9 for additional information.
+For Years Ended
+December31,
+Other Income (Expense), Net (O|&E) 2016 2015 2014
+'3 lncomefrom settlementsrelatedtointellectualpropertyinfringement $188 $— $—
+g 14 14 14
+_. lnterestincome.................................................................. 11 6 7
+9 lnvestmentgains(losses)........................................................... 5 3 5
+5‘ Currencyexchangegains(losses)..................................................... 2 5 (4)
+Taxinterestincome(expense) (3) 8 6
+(6) (4) (7)
+$211 $32 $21
+December31,
+Prepaid Expenses and Other Current Assets 2016 2015
+Prepaidtaxesonintercompanyinventoryprofits,net $ 566 $ 801
+Otherprepaidexpensesandcurrentassets................................................ 344 199
+$ 910 $1,000
+_ Depreciable December 31’
+Property, Plant and EqUIpment at Cost Lives (Years) 2016 2015
+n/a $127 $127
+Buildingsandimprovements................................................ 5-40 2,753 2,789
+Machineryandequipment.................................................. 2-10 2,043 2,549
+$4,923 $5,465
+December31,
+Accumulated Other Comprehensive Income (Loss), Net of Taxes (AOCI) 2016 2015
+Postretirement benefit plans:
+Netactuarialloss.................................................................. $ (542) $(550)
+Priorservicecredit................................................................. 17 20
+Cashflowhedgederivative (1) (2)
+$ (526) $(532)
+56 TEXASINSTRUMENTS - 2016FORM10-K

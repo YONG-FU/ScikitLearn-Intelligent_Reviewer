@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+8. Share-based awards (Continued)
+(b) Restricted shares and RSUs relating to ordinary shares of the Company (Continued)
+As of March 31, 2015 and 2016, 6,447,715 and 5,880,443 outstanding RSUs were granted to non-employees,
+respectively. These awards are subject to re-measurement through each vesting date to determine the
+appropriate share-based compensation expense.
+As of March 31, 2016, there were RMB12,688 million of unamortized compensation costs related to these
+outstanding restricted shares and RSUs, net of expected forfeitures and after re-measurement applicable to
+these awards granted to non-employees. These amounts are expected to be recognized over a weighted
+average period of 2.1 years.
+During the years ended March 31, 2014, 2015 and 2016, the Company recognized share—based compensation
+expense of RMB2,378 million, RMB7,767 million and RMB9,915 million, respectively, in connection with the
+above restricted shares and RSUs, net of reimbursement from Ant Financial Services (Note 23).
+(c) Partner Capital Investment Plan relating to ordinary shares of the Company
+During the years ended March 31, 2014 and 2015, the Company offered selected members of the Alibaba
+Partnership subscription rights to acquire restricted shares of the Company. These rights and the underlying
+restricted shares are only subject to a non-compete provision but not other vesting conditions (employment or
+otherwise) and they entitle the holders to purchase restricted shares at US$14.50 per share during a four-year
+period. Upon the exercise of such rights, the underlying ordinary shares may not be transferred for a period of
+eight years from the date of subscription of the relevant rights. The number of ordinary shares underlying
+these rights is 18,000,000 shares of which the rights to subscribe 14,500,000 shares were offered and subscribed
+up to March 31, 2016. These rights were accounted for as a noncontrolling interest of the Company as such
+rights were issued by the subsidiaries and classified as equity at the subsidiary level. Share-based compensation
+expense of nil, RMB211 million and nil was recognized in connection with these rights for the years ended
+March 31, 2014, 2015 and 2016, respectively.
+The fair value of each right to acquire restricted shares is estimated on the subscription date using the Black-
+Scholes model and the assumptions below:
+Year ended
+March 31,
+2014 2015
+Risk-free interest rate (i) 1.03% 1.50%
+Expected dividend yield (ii) 0% 0%
+Expected life (years) (iii) 4.00 4.00
+Expected volatility (iv) 36.9% 38.1%
+Discount for post-vesting sale restrictions (v) 38.0% 35.0%
+(i) Risk-free interest rate is based on the yields of United States Treasury securities with maturities similar to
+the expected life of the share-based awards in effect at the time of grant.
+(ii) Expected dividend is assumed to be 0% as the Company has no history or expectation of paying a
+dividend on its ordinary shares.
+(iii) Expected life of the rights is based on management’s estimate on timing of redemption for ordinary
+shares by the participants.
+F-63

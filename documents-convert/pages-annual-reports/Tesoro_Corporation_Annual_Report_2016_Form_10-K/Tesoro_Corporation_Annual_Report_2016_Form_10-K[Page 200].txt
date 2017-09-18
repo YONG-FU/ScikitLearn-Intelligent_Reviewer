@@ -1,0 +1,41 @@
+(14) the incurrence of Indebtedness arising from agreements with T LLP or any of its Restricted Subsidiaries providing for indemniﬁcation,
+adjustment of purchase price, earn—outs, or similar obligations, in each case, incurred or assumed in connection with the disposition or acquisition of
+any business, assets or a Subsidiary in accordance with the terms of this Indenture, other than guarantees of Indebtedness incurred or assumed by any
+Person acquiring all or any portion of such business, assets or Subsidiary for the purpose of ﬁnancing such acquisition; and
+(15) the incurrence by TLLP or any of its Restricted Subsidiaries of additional Indebtedness in an aggregate principal amount at any time
+outstanding, not to exceed the greater of (a) $250.0 million and (b) 5.0% of Consolidated Net Tangible Assets (determined as of the date of incurrence
+and after giving effect to the use of proceeds therefrom).
+TLLP will not incur, and will not permit any Guarantor to incur, any Indebtedness (including Permitted Debt) that is contractually subordinated in right
+of payment to any other Indebtedness of TLLP or such Guarantor unless such Indebtedness is also contractually subordinated in right of payment to the Notes
+and the applicable Note Guarantee on substantially identical terms; provided, however, that no Indebtedness shall be deemed to be contractually
+subordinated in right of payment to any other Indebtedness of TLLP solely by virtue of being unsecured or by virtue of being secured on a ﬁrst or junior Lien
+basis.
+For purposes of determining compliance with this Section 4.09, in the event that an item of proposed Indebtedness (including Acquired Debt) meets the
+criteria of more than one of the categories of Permitted Debt described in clauses (1) through (15) above, or is entitled to be incurred pursuant to Section
+4.09(a) hereof, TLLP will be permitted to classify all or a portion of such item of Indebtedness on the date of its incurrence, or later reclassify all or a portion
+of such item of Indebtedness, in any manner that complies with this Section 4.09; provided that Indebtedness under the Credit Agreements outstanding on
+the Issue Date will initially be deemed to have been incurred on such date in reliance on the exception provided by clause (1) of the deﬁnition of “Permitted
+Debt.”
+The accrual of interest, the accretion or amortization of original issue discount, the payment of interest on any Indebtedness in the form of additional
+Indebtedness with the same terms, the reclassiﬁcation of preferred stock as Indebtedness due to a change in accounting principles, and the payment of
+dividends on Disqualiﬁed Equity in the form of additional shares of the same class of Disqualiﬁed Equity will not be deemed to be an incurrence of
+Indebtedness or an issuance of Disqualiﬁed Equity for purposes of this Section 4.09. Notwithstanding any other provision of this Section 4.09, the maximum
+amount of Indebtedness that TLLP or any Restricted Subsidiary may incur pursuant to this Section 4.09 shall not be deemed to be exceeded solely as a result
+of ﬂuctuations in exchange rates or currency values.
+The amount of any Indebtedness outstanding as of any date will be:
+(1) the accreted value of the Indebtedness, in the case of any Indebtedness issued with original issue discount;
+(2) the principal amount of the Indebtedness, in the case of any other Indebtedness; and
+(3) in respect of Indebtedness of another Person secured by a Lien on the assets of the speciﬁed Person, the lesser of:
+(A) the Fair Market Value of such assets at the date of determination; and
+(B) the amount of the Indebtedness of the other Person.
+For purposes of determining compliance with any US. dollar-denominated restriction on the incurrence of Indebtedness, the US. dollar-equivalent
+principal amount of Indebtedness denominated in a foreign currency shall be calculated based on the relevant currency exchange rate in effect on the date
+such Indebtedness was incurred, in the case of term debt, or ﬁrst committed, in the case of revolving credit debt; provided that if such Indebtedness is incurred
+to reﬁnance other Indebtedness denominated in a foreign currency, and such reﬁnancing would cause the applicable US. dollar-denominated restriction to be
+exceeded if calculated at the relevant currency exchange rate in effect on the date of such reﬁnancing, such U.S. dollar-denominated restriction shall be
+deemed not to have been exceeded so long as the principal amount of such reﬁnancing Indebtedness does not exceed (i) the principal amount of such
+Indebtedness being reﬁnanced plus (ii) the aggregate amount of fees, underwriting discounts, premiums and other costs and expenses incurred in connection
+with such reﬁnancing. The principal amount of any Indebtedness incurred to reﬁnance other Indebtedness, if incurred in a different currency from the
+Indebtedness being reﬁnanced, shall be calculated based on the currency exchange rate applicable to the currencies in which such respective Indebtedness is
+denominated that is in effect on the date of such reﬁnancing.
+-3 6-

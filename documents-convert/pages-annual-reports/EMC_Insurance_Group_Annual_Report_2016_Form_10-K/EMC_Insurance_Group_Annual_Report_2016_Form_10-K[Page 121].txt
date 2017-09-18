@@ -1,0 +1,46 @@
+Goodwill
+Goodwill represents the excess of cost over the fair value of net assets of acquired subsidiaries. Goodwill is not
+amortized, but is instead subject to impairment if the carrying value of the goodwill exceeds the estimated fair value of net
+assets. If the carrying amount of the reporting unit (including goodwill) exceeds the computed fair value, an impairment loss is
+recognized through the income statement equal to the excess amount, but not greater than the balance of the
+goodwill. Goodwill was not deemed to be impaired in 2016, 2015 or 2014.
+Accounting Pronouncements Adopted
+In February 2015, the FASB updated its guidance related to the Consolidation Topic 810 of the (ASC). The objective of
+this update is to improve consolidation guidance through changes in the analysis that a reporting entity must perform to
+determine whether it should consolidate certain types of legal entities. The guidance modifies the evaluation of whether limited
+partnerships and similar legal entities are variable interest entities or voting interest entities, while also eliminating the
+presumption that a general partner should consolidate a limited partnership. This guidance was effective for interim and annual
+periods beginning after December 15, 2015, and was to be applied either retrospectively or through a modified retrospective
+approach by recording a cumulative-effect adjustment to equity as of the beginning of the fiscal year of adoption. The
+Company adopted this guidance in the first quarter of 2016. Adoption of this guidance did not have an impact on the
+consolidated financial condition or operating results of the Company.
+In May 2015, the FASB updated its guidance related to the Financial Services-Insurance Topic 944 of the ASC. The
+objective of this update is to add disclosures which provide transparency of significant estimates made in measuring the
+liability for losses and settlement expenses, thus providing more insight into an insurance entity's ability to underwrite and
+anticipate costs associated with claims. The new disclosures primarily include incurred and paid claims development tables
+prepared net of reinsurance (not to exceed ten years), and a reconciliation of the carrying amount of the liability for losses and
+settlement expenses. Also included (for each accident year of incurred claims development disclosed), is disclosure of incurred
+but not reported (IBNR) loss reserves, claim frequency information, and the average annual percentage payout of incurred
+claims by age. This guidance is applied to annual reporting periods beginning after December 15, 2015, and certain disclosures
+to interim reporting periods beginning after December 15, 2016. The Company adopted this guidance during the fourth quarter
+of 2016 (see note 4). Since the guidance only affects disclosure, adoption had no impact on the consolidated financial
+condition or operating results of the Company.
+In August 2014, the FASB updated its guidance related to the Presentation of Financial Statements - Going Concern
+Subtopic 205-40 of the ASC. The objective of this update is to provide guidance regarding management’s responsibility to
+evaluate whether there is substantial doubt about an entity’s ability to continue as a going concern, and to provide related
+footnote disclosures if indeed substantial doubts do exist. This guidance is effective for annual periods ending after December
+15, 2016, and for interim and annual reporting periods thereafter. The Company adopted this guidance in the fourth quarter of
+2016. Management completed an evaluation and determined no disclosures were necessary.
+In March 2016, the FASB updated its guidance related to Stock Compensation Topic 718 of the ASC. The objective of
+this update is to simplify the accounting for employee share-based payments. The provisions applicable to the Company
+primarily involve the accounting treatment for excess tax benefits, which is the excess of the actual tax benefit realized by the
+Company upon the exercise of non-qualified stock options (by Employers Mutual's employees) over the deferred income tax
+benefit previously recognized in conjunction with the compensation expense (tax deficiency if the actual tax benefit realized is
+less than the previously recognized deferred income tax benefit). The FASB permitted early prospective adoption of these
+provisions, and the Company elected to adopt effective January 1, 2016. As a result, effective January 1, 2016, the Company
+no longer records to additional paid-in capital the excess tax beneﬁts (deficiencies) allocated to it through the pooling
+agreement, but instead recognizes these amounts through the consolidated statements of income as components of current and
+deferred income taxes. The requirement that these excess tax benefits (deficiencies) be reﬂected as financing cash ﬂows in the
+consolidated statements of cash ﬂows was also removed, and these amounts are now reﬂected as cash ﬂows from operating
+activities on a prospective basis.
+110

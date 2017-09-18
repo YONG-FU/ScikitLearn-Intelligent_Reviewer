@@ -1,0 +1,48 @@
+Table of Contents
+ADOBE SYSTEMS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+tax, as a component of other comprehensive income in stockholders” equity and reclassified into revenue at the time the forecasted
+transactions occur.
+Concentration of Risk
+Financial instruments that potentially subject us to concentrations of credit risk are short-term fixed-income investments,
+structured repurchase transactions, foreign currency and interest rate hedge contracts and trade receivables.
+Our investment portfolio consists of investment-grade securities diversified among security types, industries and issuers.
+Our cash and investments are held and primarily managed by recognized financial institutions that follow our investment policy.
+Our policy limits the amount of credit exposure to any one security issue or issuer and we believe no significant concentration of
+credit risk exists with respect to these investments.
+We enter into foreign currency hedge contracts with bank counterparties that could expose us to credit related losses in the
+event of their nonperformance. This is largely mitigated with collateral security agreements that provide for collateral to be received
+or posted when the net fair value of certain financial instruments ﬂuctuates from contractually established thresholds. In addition,
+we enter into master netting arrangements which have the ability to further limit credit related losses with the same counterparty
+by permitting net settlement transactions.
+The aggregate fair value of foreign currency contracts in net asset positions as of December 2, 2016 and November 27,
+2015 was $38.1 million and $19.1 million respectively. These amounts represent the maximum exposure to loss at the reporting
+date as a result of all of the counterparties failing to perform as contracted. These exposures could be reduced by certain immaterial
+liabilities included in master netting arrangements with those same counterparties.
+Credit risk in receivables is limited to OEMs, dealers and distributors of hardware and software products to the retail market,
+customers to whom we license software directly and our SaaS offerings. A credit review is completed for our new distributors,
+dealers and OEMs. We also perform ongoing credit evaluations of our customers’ financial condition and require letters of credit
+or other guarantees, whenever deemed necessary. The credit limit given to the customer is based on our risk assessment of their
+ability to pay, country risk and other factors and is not contingent on the resale of the product or on the collection of payments
+from their customers. If we license our software or provide SaaS services to a customer where we have a reason to believe the
+customer’s ability to pay is not probable, due to country risk or credit risk, we will not recognize the revenue. We will revert to
+recognizing the revenue on a cash basis, assuming all other criteria for revenue recognition has been met.
+We derive a significant portion of our OEM PostScript and Other licensing revenue from a small number of OEMs. Our
+OEMs on occasion seek to renegotiate their royalty arrangements. We evaluate these requests on a case-by-case basis. If an
+agreement is not reached, a customer may decide to pursue other options, which could result in lower licensing revenue for us.
+Recent Accounting Pronouncements
+There have been no new accounting pronouncements made effective during fiscal 2016 that have significance, or potential
+significance, to our Consolidated Financial Statements.
+Recent Accounting Pronouncements Not Yet Effective
+On May 28, 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers, requiring an entity to
+recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. The
+updated standard will replace most existing revenue recognition guidance in US. GAAP when it becomes eﬁective and permits
+the use of either the retrospective or cumulative effect transition method. In August 2015, the FASB issued ASU No. 2015-14,
+Revenue from Contracts with Customers: Deferral of the Effective Date, which deferred the effective date of the new revenue
+standard for periods beginning after December 15, 2016 to December 15 , 2017, with early adoption permitted but not earlier than
+the original eﬁective date. Accordingly, the updated standard is effective for us in the first quarter of fiscal 2019 and we do not
+plan to early adopt. We have not yet selected a transition method and we are currently evaluating the effect that the updated standard
+will have on our consolidated financial statements and related disclosures.
+While we are continuing to assess all potential impacts of the new standard, we currently believe the most significant impact
+relates to our accounting for arrangements that include term-based software licenses bundled with maintenance and support. Under
+72

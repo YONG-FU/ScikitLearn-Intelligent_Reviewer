@@ -1,0 +1,43 @@
+Our subscription service arrangements are non-cancelable and do not contain refund-type provisions.
+Subscription and Support Revenues
+Subscription and support revenues are recognized ratably over the contract terms beginning on the
+commencement date of each contract, which is the date our service is made available to customers. Amounts that
+have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on
+whether the revenue recognition criteria have been met.
+Professional Services and Other Revenues
+The majority of our professional services contracts are on a time and material basis. When these services are
+not combined with subscription revenues as a single unit of accounting, as discussed below, these revenues are
+recognized as the services are rendered for time and material contracts, and when the milestones are achieved and
+accepted by the customer for ﬁxed price contracts. Training revenues are recognized after the services are
+performed.
+Multiple Deliverable Arrangements
+We enter into arrangements with multiple deliverables that generally include multiple subscriptions,
+premium support, and professional services. If the deliverables have standalone value upon delivery, we account
+for each deliverable separately. Subscription services have standalone value as such services are often sold
+separately. In determining whether professional services have standalone value, we consider the following
+factors for each professional services agreement: availability of the services from other vendors, the nature of the
+professional services, the timing of when the professional services contract was signed in comparison to the
+subscription service start date, and the contractual dependence of the subscription service on the customer’s
+satisfaction with the professional services work. To date, we have concluded that all of the professional services
+included in multiple deliverable arrangements executed have standalone value.
+Multiple deliverables included in an arrangement are separated into different units of accounting and the
+arrangement consideration is allocated to the identified separate units based on a relative selling price hierarchy.
+We determine the relative selling price for a deliverable based on its vendor-specific objective evidence of selling
+price (“VSOE”), if available, or our best estimate of selling price (“BESP”), if VSOE is not available. We have
+determined that third-party evidence (“TPE”) is not a practical alternative due to differences in our service
+offerings compared to other parties and the availability of relevant third-party pricing information. The amount of
+revenue allocated to delivered items is limited by contingent revenue, if any.
+For certain professional services, we have established VSOE as a consistent number of standalone sales of
+this deliverable have been priced within a reasonably narrow range. We have not established VSOE for our
+subscription services due to lack of pricing consistency, the introduction of new services and other factors.
+Accordingly, we use our BESP to determine the relative selling price.
+We determined BESP by considering our overall pricing objectives and market conditions. Signiﬁcant
+pricing practices taken into consideration include our discounting practices, the size and volume of our
+transactions, the customer demographic, the geographic area where our services are sold, our price lists, our go-
+to-market strategy, historical standalone sales and contract prices. The determination of BESP is made through
+consultation with and approval by management, taking into consideration the go-to-market strategy. As our go-
+to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes in
+relative selling prices, including both VSOE and BESP.
+Deferred Revenue. The deferred revenue balance does not represent the total contract value of annual or
+multi-year, non-cancelable subscription agreements. Deferred revenue primarily consists of billings or payments
+45

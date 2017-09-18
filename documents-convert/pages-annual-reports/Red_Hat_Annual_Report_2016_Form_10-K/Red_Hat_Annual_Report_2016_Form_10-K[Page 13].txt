@@ -1,0 +1,43 @@
+technologies by software developers globally, (iv) pursuing strategic acquisitions and alliances, (V) increasing
+revenue from our existing customer base, (Vi) increasing revenue by promoting a range of services to help our
+customers derive additional value, (vii) expanding routes to market, and (viii) growing our presence in
+international markets.
+Driving the widespread adoption of our offerings
+We believe that our open source offerings are a catalyst for change in the IT industry, enabling new
+deployments and migrations, which encourage a larger ecosystem of compatible hardware and software
+solutions. We seek to drive further adoption of our offerings by enhancing the value of our offerings through
+frequent and continuing innovations, supporting new and emerging technologies such as OpenStack and
+containers, and leveraging new delivery models such as on-demand consumption. Additionally, we believe the
+increasing use of Linux, middleware and other open source technologies in cloud environments can provide us
+with a greater ability to penetrate existing, and generate new, customer and partner opportunities. We also seek to
+encourage users of free versions of our technologies to become paying customers by helping these users
+understand the value proposition of our subscription offerings.
+Expanding our portfolio of technology offerings that enable cloud computing
+We intend to continue to expand our offerings that enable customers to increase their deployments of public
+and private clouds in their enterprise environments. Additionally, we expect to continue to expand our
+management and other technology offerings that help our customers to optimize resource allocation and enhance
+performance, agility and ﬂexibility in hybrid cloud environments.
+Investing in the development of open source technologies and promoting the use of our technologies by
+software developers globally
+We intend to continue to invest significant resources in the development of open source technologies,
+capitalizing on our substantial experience working with open source development communities. We expect this
+continued investment to take the form of expenditures on internal development efforts, as well as continued
+funding of third-party open source projects and the expansion of our developer services. Additionally, we believe
+that by expanding and empowering the developers that use our technologies, we can enhance our technical
+leadership position and drive additional growth.
+Pursuing strategic acquisitions and alliances
+We expect to continue to pursue a selective acquisition strategy as opportunities arise to complement and
+expand our technology offerings and service capabilities. In our fiscal year ended February 29, 2016, we
+completed the acquisition of Ansible, Inc. (“Ansible”) a provider of IT automation solutions that allows its users
+to manage applications across hybrid cloud environments. The acquisition is intended to augment our
+management portfolio and help customers to deploy and manage applications across private and public clouds,
+speed service delivery through development and operations initiatives, streamline OpenStack installations and
+upgrades and accelerate container adoption by simplifying orchestration and configuration.
+We also intend to create and extend our strategic alliances where it is beneficial to our business. To facilitate
+the widespread deployment of Red Hat offerings, we will continue efforts to build broader and deeper
+relationships with hardware and software providers and CCSPs critical to our customers.
+Increasing revenue from our existing customer base
+We seek to build upon the relationships we have with our current customers in an effort to generate
+additional revenue by renewing and increasing existing subscriptions and promoting our other technology
+offerings.
+9

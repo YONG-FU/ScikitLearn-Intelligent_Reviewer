@@ -1,0 +1,52 @@
+unfavorable adjustments of the accrual for any particular issue would be recognized as an increase or decrease to our income
+tax expense in the period of a change in facts and circumstances. Our current tax accruals are presented in the consolidated
+balance sheet within income and other taxes and long-term tax accruals are presented in the consolidated balance sheet within
+other long-term liabilities.
+Tax laws require items to be included in the tax return at different times than the items are reﬂected in the consolidated
+financial statements. As a result, the income tax expense reﬂected in our consolidated financial statements is different than the
+liability reported in our tax return. Some of these differences are permanent, which are not deductible or taxable on our tax
+return, and some are temporary differences, which give rise to deferred tax assets and liabilities. Deferred tax assets generally
+represent items that can be used as a tax deduction or credit in our tax return in future years for which we have already recorded
+the tax benefit in our consolidated income statement. We establish valuation allowances for our deferred tax assets when the
+amount of expected future taxable income is not likely to support the use of the deduction or credit. Deferred tax liabilities
+generally represent items for which we have already taken a deduction on our tax return, but have not yet recognized as
+expense in our consolidated financial statements. Our net deferred tax asset is recorded using currently enacted tax laws, and
+may need to be adjusted in the event tax laws change.
+The US. work opportunity credit is allowed for wages earned by employees in certain targeted groups. The actual amount of
+creditable wages in a particular period is estimated, since the credit is only available once an employee reaches a minimum
+employment period and the employee’s inclusion in a targeted group is certified by the applicable state. As these events often
+occur after the period the wages are earned, judgment is required in determining the amount of work opportunity credits
+accrued for in each period. We evaluate the accrual regularly throughout the year and make adjustments as needed.
+Goodwill
+We test goodwill for impairment annually and whenever events or circumstances make it more likely than not that an
+impairment may have occurred. Generally accepted accounting principles require that goodwill be tested for impairment at a
+reporting unit level. We have determined that our reporting units are the same as our operating and reportable segments. If we
+have determined it is more likely than not the fair value for one or more reporting units is greater than their carrying value, we
+may use a qualitative assessment for the annual impairment test.
+In conducting the qualitative assessment, we assess the totality of relevant events and circumstances that affect the fair value or
+carrying value of the reporting unit. Such events and circumstances may include macroeconomic conditions, industry and
+competitive environment conditions, overall financial performance, reporting unit speciﬁc events and market considerations.
+We may also consider recent valuations of the reporting unit, including the magnitude of the difference between the most recent
+fair value estimate and the carrying value, as well as both positive and adverse events and circumstances, and the extent to
+which each of the events and circumstances identified may affect the comparison of a reporting unit’s fair value with its
+carrying value.
+For reporting units where the qualitative assessment is not used, goodwill is tested for impairment using a two-step process. In
+the first step, the estimated fair value of a reporting unit is compared to its carrying value. If the estimated fair value of a
+reporting unit exceeds the carrying value of the net assets assigned to a reporting unit, goodwill is not considered impaired and
+no further testing is required. To derive the estimated fair value of reporting units, we primarily relied on an income approach.
+Under the income approach, estimated fair value is determined based on estimated future cash ﬂows discounted by an
+estimated weighted-average cost of capital, which reﬂects the overall level of inherent risk of the reporting unit being
+measured. Estimated future cash ﬂows are based on our internal projection model. Assumptions and estimates about future
+cash ﬂows and discount rates are complex and often subjective. They can be affected by a variety of factors, including external
+factors such as industry and economic trends, and internal factors such as changes in our business strategy and our internal
+forecasts.
+If the carrying value of the net assets assigned to a reporting unit exceeds the estimated fair value of a reporting unit, a second
+step of the impairment test is performed in order to determine the implied fair value of a reporting unit’s goodwill.
+Determining the implied fair value of goodwill requires valuation of a reporting unit’s tangible and intangible assets and
+liabilities in a manner similar to the allocation of purchase price in a business combination. If the carrying value of a reporting
+unit’s goodwill exceeds its implied fair value, goodwill is deemed impaired and is written down to the extent of the difference.
+We completed our annual impairment test for all reporting units with goodwill in the fourth quarter for the fiscal year ended
+2016 and 2015 and determined that goodwill was not impaired. In 2016, we elected to perform a step one quantitative
+assessment for the Americas Commercial, Americas PT, and OCG reporting units. In 2015, we elected to perform a step one
+quantitative assessment for the Americas Commercial, Americas PT, OCG and APAC PT reporting units.
+35

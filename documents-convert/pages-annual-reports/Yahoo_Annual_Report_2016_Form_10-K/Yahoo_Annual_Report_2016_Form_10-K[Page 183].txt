@@ -1,0 +1,38 @@
+Table,0f,C,0ntents
+Exhibit
+Number Description
+10.17(B)+ Form of Severance Agreement between the Registrant and Marissa A. Mayer (previously ﬁled as Exhibit 10.7 to the Registrant’s Current
+Report on Form 8-K ﬁled March 6, 2013 and incorporated herein by reference).
+10.17(C)+ Form of Restricted Stock Unit Award Agreement (Retention and Grant), between the Registrant and Marissa A. Mayer (previously ﬁled as
+Exhibit 1022(C) to the Registrant’s Quarterly Report on Form 10-Q ﬁled August 9, 2012 and incorporated herein by reference).
+10.17(B)+ Performance Stock Option Agreement (Retention Grant), including Notice of Grant, dated November 29, 2012, between the Registrant
+and Marissa A. Mayer (previously ﬁled as Exhibit 1021(D) to the Registrant’s Annual Report on Form 10-K ﬁled March 1, 2013 and
+incorporated herein by reference).
+10.17(E)+ First Amendment, dated April 14, 2014, to Performance Stock Option Agreement (Retention Grant), between the Registrant and Marissa
+A. Mayer (previously ﬁled as Exhibit 10.17(K) to the Registrant’s Quarterly Report on Form 10—Q filed May 8, 2014 and incorporated
+herein by reference).
+10.17(F)+ Second Amendment, dated April 17, 2015, to Performance Stock Option Agreement (Retention Grant), between the Registrant and
+Marissa A. Mayer (previously ﬁled as Exhibit 10.15(O) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 7, 2015 and
+incorporated herein by reference).
+10.17(G)+ Restricted Stock Unit Award Agreement, including Notice of Grant, dated February 27, 2014, between the Registrant and Marissa A.
+Mayer (previously filed as Exhibit 10.17(I) to the Registrant’s Quarterly Report on Form 10—Q ﬁled May 8, 2014 and incorporated herein by
+reference).
+10.17(H)+ Performance Restricted Stock Unit Award Agreement, including Notice of Grant, dated February 27, 2014, between the Registrant and
+Marissa A. Mayer (previously filed as Exhibit 10.17(J) to the Registrant’s Quarterly Report on Form 10—Q ﬁled May 8, 2014 and
+incorporated herein by reference).
+10.17(|)+ Restricted Stock Unit Award Agreement, including Notice of Grant, dated March 6, 2015, between the Registrant and Marissa A. Mayer
+(previously ﬁled as Exhibit 10.15(N) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 7, 2015 and incorporated herein by
+reference).
+10.17(J)+ Performance Restricted Stock Unit Award Agreement, including Notice of Grant, dated March 6, 2015, between the Registrant and
+Marissa A. Mayer (previously filed as Exhibit 10.15(M) to the Registrant’s Quarterly Report on Form 10-Q ﬁled May 7, 2015 and
+incorporated herein by reference).
+10.17(K)+ Third Amendment, dated March 31, 2016, to Performance Stock Option Agreement (Retention Grant), between the Registrant and
+Marissa A. Mayer (previously filed as Exhibit 10.16(K) to the Registrant’s Quarterly Report on Form 10—Q filed May 10, 2016 and
+incorporated herein by reference).
+10.17(L)+ Restricted Stock Unit Award Agreement, including Notice of Grant, dated March 7, 2016, between the Registrant and Marissa A. Mayer
+(previously ﬁled as Exhibit 10.16(L) to the Registrant’s Quarterly Report on Form 10—Q ﬁled May 10, 2016 and incorporated herein by
+reference).
+10.17(M)+ Performance Restricted Stock Unit Award Agreement, including Notice of Grant, dated March 7, 2016, between the Registrant and
+Marissa A. Mayer (previously ﬁled as Exhibit 10.16(M) to the Registrant’s Quarterly Report on Form 10-Q filed May 10, 2016 and
+incorporated herein by reference).
+182

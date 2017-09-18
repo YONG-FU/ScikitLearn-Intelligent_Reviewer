@@ -1,0 +1,43 @@
+enhancements, upgrades to the technologies, each if and when available, and compatibility with an ecosystem of
+certified hardware and software. A subscription also includes access to the Red Hat Customer Portal, which
+provides customers with services such as our knowledge base, product usage documentation and account
+management tools. In addition, our customers are eligible to participate in Red Hat’s Open Source Assurance
+program, which provides certain protections in the event of an intellectual property infringement claim based on
+our offerings.
+Our offerings
+Our offerings are designed to provide customers with high-performing, scalable, ﬂexible, reliable and secure
+technologies that meet the information technology (“IT”) needs of enterprises and service providers. Customers
+can also take advantage of the interoperability of our software offerings to build a variety of deployment models
+on which to run their applications, whether in traditional or cloud environments. Cloud computing is a term used
+to refer to an IT infrastructure that enables the use of a shared pool of computing resources (such as networks,
+processors, storage platforms, operating systems, and applications) by multiple users. Computing resources that
+are made available to the general public by an entity that controls and operates those resources is referred to as a
+public cloud, while computing resources that are operated solely for the benefit of a single organization is
+referred to as a private cloud. We also integrate several of our offerings in an effort to facilitate hybrid cloud
+computing, which enables an organization to use both off-premise (public cloud) and on-premise (private cloud
+or internal data center) IT resources to create a computing environment that seeks to optimize efficiency and
+agility while providing increased security.
+Our offerings include:
+Infrastructure-related Oﬁerings
+- Red Hat Enterprise Linux—an operating system platform that runs on a broad range of hardware and is
+used in physical, virtual, container and cloud environments.
+° Red Hat Satellite—a system management offering that is designed to make Red Hat infrastructure easier
+to deploy, scale and manage across physical and virtual servers, as well as in cloud environments.
+- Red Hat Enterprise Virtualization—software that allows customers to utilize and manage a common
+hardware infrastructure to run multiple operating systems and applications. Our virtualization offerings
+are designed to permit customers to optimize resource allocation and operational ﬂexibility in their IT
+environments.
+Application Development-related and Other Emerging Technology Offerings
+° Red Hat JBoss Middleware—a suite of offerings used to (i) develop, deploy and manage applications,
+(ii) integrate applications, data and devices and (iii) automate business processes across physical,
+virtual, cloud and mobile environments.
+° Red Hat cloud offerings—software that enables customers to build and manage various cloud
+computing environments (virtualized and container-based), including Red Hat Enterprise Linux
+OpenStack Platform, Red Hat Cloud Infrastructure, OpenShift by Red Hat, Red Hat CloudForms and
+Ansible Tower.
+- Red Hat Mobile—a software development platform that enables customers to develop, integrate, deploy
+and manage mobile applications for the enterprise.
+° Red Hat Storage—software that enables customers to treat physical server storage as a scalable, shared,
+centrally-managed pool of virtual storage and to manage large, unstructured or semi-structured data in
+physical, virtual and cloud environments.
+4

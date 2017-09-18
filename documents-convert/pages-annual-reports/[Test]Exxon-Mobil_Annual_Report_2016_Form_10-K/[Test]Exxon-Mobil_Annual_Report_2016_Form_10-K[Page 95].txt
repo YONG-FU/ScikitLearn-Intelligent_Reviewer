@@ -1,0 +1,36 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The long—term expected rate of return on funded assets shown below is established for each benefit plan by developing a
+forward—looking, long—term return assumption for each asset class, taking into account factors such as the expected real return for
+the specific asset class and inﬂation. A single, long-term rate of return is then calculated as the weighted average of the target
+asset allocation percentages and the long-term return assumption for each asset class.
+Other
+Pension Beneﬁts Postretirement
+U.S. N on-U.S. Beneﬁts
+2016 2015 2014 2016 2015 2014 2016 2015 2014
+Weighted-average assumptions used to
+determine net periodic benefit cost for
+years ended December 31 (percent)
+Discount rate 4.25 4.00 5.00 3.60 3.10 4.30 4.25 4.00 5.00
+Long-term rate of return on funded assets 6.50 7.00 7.25 5.25 5.90 6.30 6.50 7.00 7 .25
+Long-term rate of compensation increase 5.75 5.75 5.75 4.80 5.30 5.40 5.75 5.7 5 5.75
+Components of net periodic benefit cost (millions ofdollars)
+Service cost 810 864 677 585 689 590 153 170 140
+Interest cost 793 785 807 844 850 1,138 344 346 383
+Expected return on plan assets (726) (830) (799) (927) (1,094) (1,193) (25) (28) (37)
+Amortization of actuarial loss/(gain) 492 544 409 5 36 730 628 153 206 116
+Amortization of prior service cost 6 6 8 54 87 120 (30) (24) 14
+Net pension enhancement and
+curtailment/ settlement cost 319 499 276 2 22 - - - -
+Net periodic benefit cost 7 1,694 1,868 1,378 1,094 1,284 1,283 595 670 6167
+Changes in amounts recorded in accumulated
+other comprehensive income:
+Net actuarial loss/(gain) 27 592 2,494 (156) (1,375) 2,969 (555) (589) 1,518
+Amortization of actuarial (loss)/gain (811) (1,043) (685) (53 8) (752) (628) (153) (206) (116)
+Prior service cost/(credit) - - (25) 32 (401) (70) - (535) -
+Amortization of prior service (cost)/credit (6) (6) (8) (54) (87) (120) 30 24 (14)
+Foreign exchange rate changes - - - (108) (1,126) (688) 5 (31) (8)
+Total recorded in other comprehensive income (790) (457) 1,776 (824) (3,741) 1,463 (673) (1,337) 1,380
+Total recorded in net periodic benefit cost and
+other comprehensive income, before tax 7 904 1,411 3,154 270 (2,457) 2,746 (78) (667) 1,996
+Costs for defined contribution plans were $399 million, $405 million and $393 million in 2016, 2015 and 2014, respectively.
+91

@@ -1,0 +1,40 @@
+ARTICLE 6
+DEFAULTS AND REMEDIES
+Section 6.01 Events of Default.
+Each of the following is an “Elentiofllefault” with respect to the Notes:
+(1) default for 30 days in the payment when due of interest with respect to the Notes;
+(2) default in the payment when due (at maturity, upon redemption (or otherwise) of the principal of, or premium, if any, on, the Notes;
+(3) failure by TLLP or any of its Restricted Subsidiaries for 30 days after written notice to TLLP by the Trustee or Holders of at least 25% in
+aggregate principal amount of the Notes then outstanding voting as a single class to make a Change of Control Offer within the time periods set forth,
+or consummate a purchase of the Notes when required pursuant to the terms described, in Section 4;: or comply with the provisions of SectionilLl
+hereof;
+(4) failure by TLLP for 120 days after written notice to TLLP by the Trustee or the Holders of at least 25% in aggregate principal amount of the
+Notes then-outstanding voting as a single class to comply with Section $03,;
+(5) failure by TLLP or any of its Restricted Subsidiaries for 60 days after written notice to TLLP by the Trustee or the Holders of at least 25% in
+aggregate principal amount of the Notes then-outstanding voting as a single class to comply with any of the other agreements herein; or
+(6) default under any mortgage, indenture or instrument under which there may be issued or by which there may be secured or evidenced any
+Indebtedness for money borrowed by TLLP or any of its Restricted Subsidiaries (or the payment of which is guaranteed by TLLP or any of its Restricted
+Subsidiaries), whether such Indebtedness or Guarantee now exists, or is created after the Issue Date, if that default:
+(A) is caused by a failure to pay principal on such Indebtedness prior to the expiration of the grace period provided in such Indebtedness (a
+“P;ayment,Default”); or
+(B) results in the acceleration of such Indebtedness prior to its express maturity,
+and, in each case, the principal amount of any such Indebtedness, together with the principal amount of any other such Indebtedness under which there
+has been a Payment Default or the maturity of which has been so accelerated, aggregates, without duplication, $100.0 million or more;
+(7) failure by an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary to pay ﬁnal judgments entered by a court or courts
+of competent jurisdiction aggregating in excess of $100.0 million (excluding amounts covered by insurance policies issued by reputable and credit
+worthy insurance companies for which coverage has not been disclaimed), which judgments are not paid, discharged or stayed for a period of 60 days;
+(8) an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted Subsidiaries of TLLP that, taken
+together, would constitute a Signiﬁcant Subsidiary pursuant to or within the meaning of Bankruptcy Law:
+(A) commences a voluntary case,
+(B) consents to the entry of an order for relief against it in an involuntary case,
+(C) consents to the appointment of a custodian of it or for all or substantially all of its property,
+(D) makes a general assignment for the beneﬁt of its creditors, or
+(E) generally is not paying its debts as they become due;
+(9) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+(A) is for relief against an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted
+Subsidiaries of the TLLP that, taken together, would constitute a Signiﬁcant Subsidiary in an involuntary case;
+(B) appoints a custodian of an Issuer or any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted
+Subsidiaries of TLLP that, taken together, would constitute a Signiﬁcant Subsidiary or for all or substantially all of the property of an Issuer or
+any of TLLP’s Restricted Subsidiaries that is a Signiﬁcant Subsidiary or any group of Restricted Subsidiaries of TLLP that, taken together, would
+constitute a Signiﬁcant Subsidiary; or
+-44-

@@ -1,0 +1,37 @@
+Table,0f,C,0ntents
+- we may be unable to obtain timely approvals from, or may otherwise have certain limitations, restrictions, penalties or other sanctions imposed on us by,
+worker councils or similar bodies under applicable employment laws as a result of an acquisition, which could adversely affect our integration plans in
+certain jurisdictions and potentially increase our integration and restructuring expenses;
+- we may be unable to obtain required approvals from governmental authorities under competition and antitrust laws on a timely basis, if at all, which
+could, among other things, delay or prevent us from completing a transaction, otherwise restrict our ability to realize the expected financial or strategic
+goals of an acquisition or have other adverse effects on our current business and operations;
+° our use of cash to pay for acquisitions may limit other potential uses of our cash, including stock repurchases, dividend payments and retirement of
+outstanding indebtedness;
+- we may significantly increase our interest expense, leverage and debt service requirements if we incur additional debt to pay for an acquisition and we
+may have to delay or not proceed with a substantial acquisition if we cannot obtain the necessary funding to complete the acquisition in a timely manner
+or on favorable terms;
+° to the extent that we issue a signiﬁcant amount of equity securities in connection with future acquisitions, existing stockholders may be diluted and
+earnings per share may decrease; and
+- we may experience additional or unexpected changes in how we are required to account for our acquisitions pursuant to US. generally accepted
+accounting principles, including arrangements that we assume from an acquisition.
+The occurrence of any of these risks could have a material adverse effect on our business, results of operations, ﬁnancial condition or cash ﬂows, particularly in the
+case of a larger acquisition or several concurrent acquisitions.
+Our hardware revenues and profitability could decline if we do not manage the risks associated with our hardware business. Our hardware business may
+adversely affect our overall profitability if we do not effectively manage the associated risks. We may not achieve our estimated revenue, profit or other financial
+projections with respect to our hardware business in a timely manner or at all due to a number of factors, including:
+- demand for competing hardware technologies such as cloud infrastructure compute and storage services, which could adversely affect demand for our
+hardware products offerings;
+° our hardware business has higher expenses as a percentage of revenues, and thus has been less proﬁtable, than our cloud and on-premise software
+business;
+° our focus on our more proﬁtable Oracle Engineered Systems, such as our Oracle Exadata Database Machine, Oracle Exalogic Elastic Cloud, Oracle
+Exalytics In-Memory Machine and Oracle SuperCluster products, which are in the relatively early stages of adoption by our customers, and the de-
+emphasis of our lower profit margin commodity hardware products, which could adversely affect our hardware revenues because the lower proﬁt
+products have historically constituted a larger portion of our hardware revenues;
+- as we develop and introduce new versions or next generations of our hardware products, customers may defer or delay purchases of existing hardware
+products and wait for these new releases, all of which could adversely affect our hardware revenues in the short term;
+- a greater risk of material charges that could adversely affect our operating results, such as potential write-downs and impairments of our inventories;
+higher warranty expenses than what we experience in our cloud and on-premise software and services businesses; and amortization and potential
+impairment of intangible assets associated with our hardware business;
+- we may not be able to increase sales of hardware support contracts or such increase may take longer than we anticipate, which could result in lower
+revenues and proﬁtability, or slower than expected growth of such revenues and profitability; and
+29

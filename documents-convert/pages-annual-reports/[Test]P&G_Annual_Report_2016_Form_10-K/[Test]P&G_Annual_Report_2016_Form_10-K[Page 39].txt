@@ -1,0 +1,48 @@
+36 The Procter & Gamble Company
+Consolidated Balance Sheets
+Amounts,i,n,mj,l,lj,o,n,s,;jﬁeaLsiendedilunejﬂ 2 0 1 6 _ 2 0 1 5
+lAssets 1
+CURRENT ASSETS
+lCaSh and cash equivalents $ 7,102 $ 6,836 l
+Available-for-sale investment securities 6,246 4,767
+lAccountS receivable 4,373 4,568 l
+INVENTORIES
+l Materials and supplies 1,188 1,266 l
+Work in process 563 525
+1 Finished goods 2,965 _ 3,188 1
+Total inventories 4,716 4,979
+lDeferred income taxes 1,507 1,356 l
+Prepaid expenses and other current assets 2,653 2,708
+lCurrent assets held for sale 7,185 _ 4,432 l
+TOTAL CURRENT ASSETS 33,782 _ 29,646
+lPROPERTY, PLANT AND EQUIPMENT, NET 19,385 19,655 1
+GOODWILL 44,350 44,622
+lTRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 24,527 25,010 l
+NONCURRENT ASSETS HELD FOR SALE — 5,204
+lOTHER NONCURRENT ASSETS 5,092 _ 5,358 1
+TOTAL ASSETS $ 127,136 $ 129,495
+lLiabilitiesandShareholders'Eq 1
+CURRENT LIABILITIES
+lAccountS {Eyable $ 9,325 $ 8,138 l
+Accrued and other liabilities 7,449 8,091
+lCurrent liabilities held for sale 2,343 1,543 l
+Debt due within one year 11,653 _ 12,018
+lTOTAL CURRENT LIABILITIES 30,770 _ 29,790 l
+LONG-TERM DEBT 18,945 18,327
+[DEFERRED INCOME TAXES 9,113 9,179 l
+NONCURRENT LIABILITIES HELD FOR SALE — 717
+lOTHER NONCURRENT LIABILITIES 10,325 _ 8,432 l
+TOTAL LIABILITIES 69,153 _ 66,445
+lSHAREHOLDERS' EQUITY 1
+Convertible Class A preferred stock, stated value $1 per Share (600 Shares authorized) 1,038 1,077
+lNon—Voting Class B preferred stock, stated value $1 per Share (200 Shares authorized) — — l
+Common stock, stated value $1 per Share (10,000 shares authorized; shares issued: 2016 - 4,009.2, 2015 - 4,009.2 ) 4,009 4,009
+lAdditional paid-in capital 63,714 63,852 1
+Reserve for ESOP debt retirement (1,290) (1,320)
+lAccumulated other comprehensive income/(loss) (15,907) (12,780) l
+Treasury stock, at cost (shares held: 2016 - 1,341.2, 2015 - 1,294.7) (82,176) (77,226)
+lRetained earnings 87,953 84,807 1
+Noncontrolling interest 642 _ 631
+lTOTAL SHAREHOLDERS' EQUITY 57,983 _ 63,050 1
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY S 127 3136 : :$ 129,495 :
+See accompanying Notes to Consolidated Financial Statements.

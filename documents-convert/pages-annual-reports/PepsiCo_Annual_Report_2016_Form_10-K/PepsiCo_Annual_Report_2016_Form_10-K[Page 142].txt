@@ -1,0 +1,32 @@
+The following table summarizes the reclassifications from accumulated other comprehensive loss to the
+income statement:
+Amount Reclassiﬁed from
+Accumulated Other Affected Line Item in the
+Comprehensive Loss Income Statement
+: 2016 2015 2014 : : :
+ICurrency translation: : : I
+Venezuelan entities $ = $ 111 $ 7 7 Venezuela impairment charges
+ICash ﬂow hedges: I
+I Foreign exchange contracts $ 2 $ (3) $ — Net revenue I
+Foreign exchange contracts (46) (94) (16) Cost of sales
+I Interest rate derivatives 187 174 233 Interest expense I
+Commodity contracts 3 9 31 Cost of sales
+I Selling, general and I
+Commodity contracts 4 11 1 administrative expenses
+Net losses before tax : 150 97 249 :
+I Tax amounts 7 (63) 7 (47) 7 (95) I
+Net losses after tax S 877 733 50 7 725 154 7
+IPension and retiree medical items: I
+I Amortization of net prior service credit (a) $ (39) $ (41) $ (6) I
+Amortization of net losses (a) 209 281 226
+I Settlement/curtailment (a) 237 6 149 I
+Net losses before tax 407 246 369
+I Tax amounts (144) (74) (122) I
+Net losses after tax $ 263 $ 172 $ 247
+I Venezuelan entities $ = $ 20 $ 7 7 Venezuela impairment charges I
+I Tax amount 7 =7 7 (4) 7 —7 I
+Net losses after tax 7$ =7 7$ 16 7 7$ r *7
+Total net losses reclassified for the year, net of tax $ 350 $ 349 $ 401
+(a) These items are included in the components of net periodic benefit cost for pension and retiree medical plans (see Note 7 for additional
+details).
+123

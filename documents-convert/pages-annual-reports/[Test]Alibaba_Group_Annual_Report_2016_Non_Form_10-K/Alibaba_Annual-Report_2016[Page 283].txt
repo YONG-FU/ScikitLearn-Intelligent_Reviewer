@@ -1,0 +1,47 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+12. Investment securities and fair value disclosure
+As of March 31, 2015
+Gross Gross Provision
+Original unrealized unrealized for decline Fair
+cost gains losses in value value
+(in millions of RMB)
+Assets
+Trading securities:
+Listed equity securities 619 115 (58) — 676
+Financial derivatives 86 532 (1) — 617
+Available-for-sale securities:
+Listed equity securities and other treasury investments 8,261 3,822 (446) — 11,637
+Equity fund 184 52 — — 236
+Held-to-maturity securities 1,384 — — — 1,384
+Convertible bonds accounted for under the fair value
+option 3,983 150 (414) — 3,719
+14,517 4,671 (919) — 18,269
+As of March 31, 2016
+Gross Gross Provision
+Original unrealized unrealized for decline Fair
+cost gains losses in value value
+(in millions of RMB)
+Assets
+Trading securities:
+Listed equity securities 646 230 (105) — 771
+Financial derivatives 7 171 — — 178
+Available-for-sale securities:
+Listed equity securities and other treasury investments 12,701 5,940 (438) (957) 17,246
+Held-to-maturity securities 10,760 — — (7) 10,753
+Convertible bonds accounted for under the fair value
+option 4,256 366 — — 4,622
+28,370 6,707 (543) (964) 33,570
+During the years ended March 31, 2015 and 2016, the Company completed several investments accounted for
+as investment securities. Details of these significant investments are summarized in Note 4.
+During the years ended March 31, 2014, 2015 and 2016, gross realized gain of RMB148 million,
+RMB141 million and RMB1,012 million and gross realized loss of RMB160 million, RMB97 million and
+RMB410 million from disposals of investment securities were recognized in the consolidated income
+statements, respectively. During the years ended March 31, 2014, 2015 and 2016, impairment loss of nil, nil
+and RMB962 million were charged in the consolidated income statements, respectively, as a result of other
+than temporary decline in values related to a listed equity security and a held—to-maturity security.
+As of March 31, 2014, 2015 and 2016, net unrealized gains of RMB299 million, RMB3,384 million and
+RMB5,502 million on available-for-sale securities were recorded in accumulated other comprehensive income,
+respectively. For available-for-sale securities with unrealized loss, their related aggregate fair values amounted
+F-67

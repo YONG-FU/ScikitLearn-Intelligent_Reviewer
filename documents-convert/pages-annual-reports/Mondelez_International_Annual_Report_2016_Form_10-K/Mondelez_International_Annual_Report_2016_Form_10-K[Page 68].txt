@@ -1,0 +1,60 @@
+Iable,of,Contents
+M ondeléz International, Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+For the Years Ended December 31
+(in millions of U.S. dollars)
+2016 2015 2014
+CASH PROVIDED BY / (USED IN) OPERATING ACTIVITIES I
+Net earnings $ 1,669 $ 7,291 $ 2,201
+I Adjustments to reconcile net earnings to operating cash flows: I
+Depreciation and amortization 823 894 1,059
+I Stock-based compensation expense 140 136 141 I
+Deferred income tax beneﬁt (141) (3_0) (186)
+I Asset impairments and accelerated depreciation 446 345 240I
+Loss on early extinguishment of debt 428 748 493
+I Loss on deconsolidation of Venezuela — 778 — I
+Gains on divestitures and JDE coffee business transactions (9) (6,822) —
+I JDE coffee business transactions currency-related net gains — (436) (628)I
+Gain on equ_ity method investment exchange (4_3) — —
+I Equ_ity method investment net earnings (301) (5_6) (113)I
+Distributions from equ_ity method investments 75 58 63
+I Other non-cash items, net (£1) 199 (134)I
+Change in assets and liabilities, net of acquisitions and divestitures:
+I Receivables, net 31 44 184 I
+Inventories, net 62 (4_9) (188)
+I Accounts p_ayable 409 659 387I
+Other current assets (176) 28 (8_6)
+I Other current liabilities 60 152 135 I
+Change in pension and postretirement assets and liabilities, net (592) (211) (6)
+I Net cash provided by _operating activities 2,838 3,728 3,562]
+CASH PROVIDED BY/ (USED IN) INVESTING ACTIVITIES
+I Capital expenditures (1,224) (1,514) (1 ,642)I
+Proceeds from JDE coffee business transactions
+curren1cy hedgg settlements — 1,050 —
+I Acquisitions, net of cash received (246) (527) (DI
+Proceeds from JDE coffee business transaction and divestitures,
+net of disbursements 303 4,735 —
+I Reduction of cash due to Venezuela deconsolidation — (611) — I
+Capital contribution to JDE — (544) —
+I Proceeds from sale of mperty,_plant and eqL_Iipment and other assets 138 60 71
+Net cash (used in) / provided by investing activities (1,029) 2,649 (1,642)
+CASH PROVIDED BY / (USED IN) FINANCING ACTIVITIES I
+Issuances of commercial p_apg, maturitiesﬁgreater than 90 days 11,540 613 2,082
+I Rep_ayments of commercial {@pg, maturities greater than 90 days (1,031) (710) (2,713)I
+Net (r_ep_ayments) / issuances of other short-term borrowings 1,741 (931) 398
+I Long-term debt proceeds 5,640 4,624 3,032 I
+ngierm debt_r_epaid (@339 ($915) @1017)
+rRepurchase of Common Stock (2,601) (3,622) (1 ,700)]
+Dividends paid (1,094) (1,008) (964)
+| Other 129 126 194]
+Net cash used in ﬁnancing activities (1,862) (5,883) (2,688)
+Effect of exchange rate changes on cash and cash equivalents (E) (255) (223)]
+Cash and cash equivalents:
+L(Decrease) / increase (129) 239 (991)I
+Balance at beginning of period 1,870 1,631 2,622
+I Balance at end of period r$ 1,741 $ 1,870 $ 1,631]
+Cash paid: 1 1 1 7
+Vlnterest $ 630 $ 747 $ 827]
+Income taxes 8 527 S 745 3 1,238
+See accompanying notes to the consolidated ﬁnancial statements.
+65

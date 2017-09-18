@@ -1,0 +1,42 @@
+Iable,of,Contents
+In January 2016, the FASB issued an ASU that provides updated guidance for the recognition, measurement, presentation and disclosure of ﬁnancial
+assets and liabilities. The standard requires that equity investments (other than those accounted for under equity method of accounting or those that
+result in consolidation of the investee) be measured at fair value, with changes in fair value recognized in net income. The standard also impacts
+ﬁnancial liabilities under the fair value option and the presentation and disclosure requirements for ﬁnancial instruments. The ASU is effective for
+ﬁscal years beginning after December 15, 2017. This ASU is not expected to have a signiﬁcant impact on our consolidated ﬁnancial statements.
+In May 2014, the FASB issued an ASU on revenue recognition from contracts with customers. The ASU outlines a new, single comprehensive model
+for companies to use in accounting for revenue. The core principle is that an entity should recognize revenue to depict the transfer of control over
+promised goods or services to a customer in an amount that reflects the consideration the entity expects to be entitled to receive in exchange for the
+goods or services. The ASU also requires additional disclosure about the nature, amount, timing and uncertainty of revenue and cash ﬂows from
+customer contracts, including signiﬁcantjudgments made in recognizing revenue. In 2016, the FASB issued several ASUs that clariﬁed principal
+versus agent (gross versus net) revenue presentation considerations, confirmed certain prepaid stored-value products should be accounted for under
+the new revenue recognition ASU and not under other U.S. GAAP and clariﬁed the guidance for identifying performance obligations within a contract
+and the accounting for licenses. The FASB also issued two ASUs providing technical corrections, narrow scope exceptions and practical expedients
+to clarify and improve the implementation of the new revenue recognition guidance. The revenue guidance is effective for annual reporting periods
+beginning after December 15, 2017, with early adoption permitted as of the original effective date (annual reporting periods beginning after
+December 15, 2016). The ASU may be applied retrospectively to historical periods presented or as a cumulative-effect adjustment as of the date of
+adoption. We plan to adopt the new standard on January 1, 2018 on a full retrospective basis. We continue to make signiﬁcant progress on
+quantifying the impact of the ASU on our consolidated ﬁnancial statements and planning the final process, policy and disclosure changes that will go
+into effect on January 1, 2018. At this time, we do not expect a material impact from adopting the new revenue standards.
+Reclassiﬁcations:
+Certain amounts previously reported have been reclassiﬁed to conform to current-year presentation. See Segment Change above and Notes 5,
+Goodwill and Intangible Assets , 6, Restructuring Programs, and 16, Segment Reporting , for information on changes in prior-period segment
+goodwill, segment earnings and segment net asset reclassiﬁcations made in connection with the segment change that went into effect on October 1,
+2016. We also reclassiﬁed certain amounts previously reported within our consolidated statements of comprehensive earnings and Note 13,
+Reclassiﬁcations from Accumulated Other Comprehensive Income, to be consistent with the current-year presentation.
+Note 2. Divestitures and Acquisitions
+JDE Coffee Business Transactions:
+On July 2, 2015, we completed transactions to combine our wholly owned coffee businesses with those of DE Master Blenders 1753 B.V. (“DEMB”)
+to create a new company, JDE. Following the exchange of a portion of our investment in JDE for an interest in Keurig in March 2016, we held a
+26.5% equity interest in JDE. (See discussion of the Keurig Transaction below.) The remaining 73.5% equity interest in JDE was held by a subsidiary
+of Acorn Holdings B.V. (“AHBV,” owner of DEMB prior to July 2, 2015). Following the transactions discussed under JDE Stock-Based Compensation
+Arrangements below, as of December 31, 2016, we hold a 26.4% equity interest in JDE.
+The consideration we received in the JDE coffee business transactions completed on July 2, 2015 consisted of 6 3.8 billion of cash ($4.2 billion as of
+July 2, 2015), a 43.5% equity interest in JDE (prior to the decrease in ownership due to the Keurig transaction and the compensation arrangements
+discussed below) and $794 million in receivables (related to sales price adjustments and tax formation cost payments). During the third quarter of
+2015, we also recorded $283 million of cash and receivables from JDE related to reimbursement of costs that we incurred in separating our coffee
+businesses. The cash and equity consideration we received at closing reflects our retaining our interest in our Korea-based joint venture, DSF.
+During the second quarter of 2015, we also completed the sale of our interest in a Japanese coffee joint venture, Ajinomoto General Foods, Inc.
+(“AGF”). In lieu of contributing our interest in the AGF joint venture to JDE, we contributed the net cash proceeds from this sale as part of the overall
+JDE coffee business transactions. See Other Divestitures and Acquisitions for a discussion of the AGF divestiture.
+74

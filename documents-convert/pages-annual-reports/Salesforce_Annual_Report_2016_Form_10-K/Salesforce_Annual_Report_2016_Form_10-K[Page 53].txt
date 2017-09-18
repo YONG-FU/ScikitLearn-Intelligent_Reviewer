@@ -1,0 +1,45 @@
+received in advance of revenue recognition from subscription services described above and is recognized as the
+revenue recognition criteria are met. We generally invoice customers in annual installments. The deferred
+revenue balance is inﬂuenced by several factors, including seasonality, the compounding effects of renewals,
+invoice duration, invoice timing, size and new business linearity within the quarter.
+Deferred revenue that will be recognized during the succeeding twelve month period is recorded as current
+deferred revenue and the remaining portion is recorded as noncurrent.
+Deferred Commissions. We defer commission payments to our direct sales force. The commissions are
+deferred and amortized to sales expense over the non-cancelable terms of the related subscription contracts with
+our customers, which are typically 12 to 36 months. The commission payments, which are paid in full the month
+after the customer’s service commences, are a direct and incremental cost of the revenue arrangements. The
+deferred commission amounts are recoverable through the future revenue streams under the non-cancelable
+customer contracts. We believe this is the preferable method of accounting as the commission charges are so
+closely related to the revenue from the non-cancelable customer contracts that they should be recorded as an
+asset and charged to expense over the same period that the subscription revenue is recognized.
+During fiscal 2016, we deferred $380.0 million of commission expenditures and we amortized $319.1 million
+to sales expense. During the same period a year ago, we deferred $320.9 million of commission expenditures and
+we amortized $257.6 million to sales expense. Deferred commissions on our consolidated balance sheets totaled
+$449.1 million at January 31, 2016 and $388.2 million at January 31, 2015.
+Capitalized Internal- Use Software Costs. We are required to follow the guidance of Accounting Standards
+Codification 350 (“ASC 350”), Intangibles- Goodwill and Other in accounting for the cost of computer software
+developed for internal-use and the accounting for web-based product development costs. ASC 350 requires
+companies to capitalize qualifying computer software costs, which are incurred during the application
+development stage, and amortize these costs on a straight-line basis over the estimated useful life of the
+respective asset. We deliver our enterprise cloud computing solutions as a service via all the major Internet
+browsers and on leading major mobile device operating systems. As a result of this software as a service delivery
+model, we believe we have larger capitalized costs as compared to traditional enterprise software companies as
+they are required to use a different accounting standard.
+Costs related to preliminary project activities and post implementation activities are expensed as incurred.
+Internal-use software is amortized on a straight-line basis over its estimated useful life. We evaluate the useful
+lives of these assets on an annual basis and test for impairment whenever events or changes in circumstances
+occur that could impact the recoverability of these assets.
+Business Combinations. Accounting for business combinations requires us to make significant estimates and
+assumptions, especially at the acquisition date with respect to tangible and intangible assets acquired and
+liabilities assumed and pre-acquisition contingencies. We use our best estimates and assumptions to accurately
+assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date.
+Examples of critical estimates in valuing certain of the intangible assets and goodwill we have acquired
+include but are not limited to:
+0 future expected cash ﬂows from subscription and support contracts, professional services contracts,
+other customer contracts and acquired developed technologies and patents;
+0 the acquired company’s trade name, trademark and existing customer relationship, as well as
+assumptions about the period of time the acquired trade name and trademark will continue to be used in
+our offerings;
+° uncertain tax positions and tax related valuation allowances assumed; and
+0 discount rates.
+46

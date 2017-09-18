@@ -1,0 +1,46 @@
+The Dow Chemical Company and Subsidiaries
+PART II, Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Dow’s business operations give rise to market risk exposure due to changes in foreign exchange rates, interest rates, commodity
+prices and other market factors such as equity prices. To manage such risks effectively, the Company enters into hedging
+transactions, pursuant to established guidelines and policies, that enable it to mitigate the adverse eﬁects of financial market
+risk. Derivatives used for this purpose are designated as hedges per the accounting guidance related to derivatives and hedging
+activities, where appropriate. A secondary objective is to add value by creating additional non-specific exposure within
+established limits and policies; derivatives used for this purpose are not designated as hedges. The potential impact of creating
+such additional exposures is not material to the Company’s results.
+The global nature of Dow’s business requires active participation in the foreign exchange markets. As a result of investments,
+production facilities and other operations on a global basis, the Company has assets, liabilities and cash ﬂows in currencies
+other than the US. dollar. The primary objective of the Company’s foreign exchange risk management is to optimize the US.
+dollar value of net assets and cash ﬂows, keeping the adverse impact of currency movements to a minimum. To achieve this
+objective, the Company hedges on a net exposure basis using foreign currency forward contracts, over-the-counter option
+contracts, cross-currency swaps, and nonderivative instruments in foreign currencies. Exposures primarily relate to assets,
+liabilities and bonds denominated in foreign currencies, as well as economic exposure, which is derived from the risk that
+currency ﬂuctuations could affect the dollar value of future cash flows related to operating activities. The largest exposures are
+denominated in European currencies, the Japanese yen and the Chinese yuan, although exposures also exist in other currencies
+of Asia Pacific, Latin America, Middle East, Africa and India.
+The main objective of interest rate risk management is to reduce the total funding cost to the Company and to alter the interest
+rate exposure to the desired risk profile. Dow uses interest rate swaps, “swaptions,” and exchange-traded instruments to
+accomplish this objective. The Company’s primary exposure is to the US. dollar yield curve.
+Dow has a portfolio of equity securities derived primarily from the investment activities of its insurance subsidiaries. This
+exposure is managed in a manner consistent with the Company’s market risk policies and procedures.
+Inherent in Dow’s business is exposure to price changes for several commodities. Some exposures can be hedged effectively
+through liquid tradable financial instruments. Feedstocks for ethylene production and natural gas constitute the main
+commodity exposures. Over-the-counter and exchange traded instruments are used to hedge these risks, when feasible.
+Dow uses value-at-risk (“VAR”), stress testing and scenario analysis for risk measurement and control purposes. VAR estimates
+the maximum potential loss in fair market values, given a certain move in prices over a certain period of time, using specified
+confidence levels. The VAR methodology used by the Company is a variance/covariance model. This model uses a 97.5 percent
+confidence level and includes at least one year of historical data. The 2016 and 2015 year-end and average daily VAR for the
+aggregate of all positions are shown below. These amounts are immaterial relative to the total equity of the Company.
+iTotal Daily VAR by Exposure Type at December 31 7 2016 7 7 2015
+7In millions 7 Y ear-end Average, 7 Y ear-end Average7
+|Commodities $ 24 $ 23 $ 21 $ 20 l
+Equities $ 17 $ 16 $ 15 $ 16
+lForeign exchange 35 28 $ 9 $ 1 $ 2 1
+Interest rate $ 82 $ 90 $ 96 $ 103
+[Composite $ 151 $ 138 $ 133 $ 14171
+The Company’s daily VAR for the aggregate of all positions increased from a composite VAR of $133 million at December 31,
+2015 to a composite VAR of $151 million at December 31, 2016. The primary driver of the higher composite VAR was an
+increase in the foreign exchange VAR due to increased managed long-term exposures and higher portfolio currency volatilities.
+The commodities and equities VARs increased due to a rise in the market value of holdings. The interest rate VAR declined due
+to lower volatility. See Note 11 to the Consolidated Financial Statements for further disclosure regarding market risk.
+67

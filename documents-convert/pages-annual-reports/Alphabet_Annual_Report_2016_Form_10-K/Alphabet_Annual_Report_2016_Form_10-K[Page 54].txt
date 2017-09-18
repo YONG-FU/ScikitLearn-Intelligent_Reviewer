@@ -1,0 +1,52 @@
+IaibleiofiCiontents Alphabet Inc.
+in service for our intended use. Depreciation for equipment commences once it is placed in service and depreciation
+for buildings and leasehold improvements commences once they are ready for our intended use. Land is not
+depreciated.
+Inventory
+Inventory consists primarily of finished goods and is stated at the lower of cost and net realizable value. Cost is
+computed using the ﬁrst-in, ﬁrst-out method.
+Software Development Costs
+We expense software development costs, including costs to develop software products orthe software component
+of products to be sold, leased, or marketed to external users, before technological feasibility is reached. Technological
+feasibility is typically reached shortly before the release of such products and as a result, development costs that meet
+the criteria for capitalization were not material for the periods presented.
+Software development costs also include costs to develop software to be used solely to meet internal needs and
+cloud based applications used to deliver our services. We capitalize development costs related to these software
+applications once the preliminary project stage is complete and it is probable that the project will be completed and
+the software will be used to perform the function intended. Costs capitalized for developing such software applications
+were not material for the periods presented.
+Business Combinations
+We include the results of operations of the businesses that we acquire as of the acquisition date. We allocate
+the purchase price of our acquisitions to the assets acquired and liabilities assumed based on their estimated fair
+values. The excess of the purchase price over the fair values of these identiﬁable assets and liabilities is recorded as
+goodwill. Acquisition-related expenses are recognized separately from the business combination and are expensed
+as incurred.
+Long-Lived Assets, Goodwill and Other Acquired Intangible Assets
+We review property and equipment, long-term prepayments and intangible assets, excluding goodwill, for
+impairment whenever events or changes in circumstances indicate the carrying amount may not be recoverable. We
+measure recoverability of these assets by comparing the carrying amounts to the future undiscounted cash flows that
+the assets or the asset group are expected to generate. If the carrying value of the assets are not recoverable, the
+impairment recognized is measured as the amount by which the carrying value of the asset exceeds its fair market
+value. In 2014, we recorded impairments of intangible assets, including an impairment of $378 million in the third
+quarter of 2014 related to a patent licensing royalty asset. Impairments of intangible assets were not material in 2015
+or2016.
+We allocate goodwill to reporting units based on the reporting unit expected to beneﬁt from the business
+combination. We evaluate our reporting units when changes in our operating structure occur, and if necessary, reassign
+goodwill using a relative fair value allocation approach. We test our goodwill for impairment at least annually, or more
+frequently if events or changes in circumstances indicate that the asset may be impaired. No goodwill impairment has
+been identiﬁed in any of the years presented.
+Intangible assets with deﬁnite lives are amortized over their estimated useful lives. We amortize intangible assets
+on a straight-line basis with definite lives over periods ranging from one to twelve years.
+Income Taxes
+We account for income taxes using the asset and liability method, under which we recognize the amount of taxes
+payable or refundable for the current year and deferred tax assets and liabilities for the future tax consequences of
+events that have been recognized in our financial statements or tax returns. We measure current and deferred tax
+assets and liabilities based on provisions of enacted tax law. We evaluate the realization of our deferred tax assets
+based on all available evidence and establish a valuation allowance to reduce deferred tax assets when it is more-
+likely-than-not that they will not be realized.
+We recognize the financial statement effects of a tax position when it is more-likely-than not that, based on
+technical merits, the position will be sustained upon examination. The tax benefits of the position recognized in the
+ﬁnancial statements are then measured based on the largest amount of benefit that is greater than 50% likely to be
+realized upon settlement with a taxing authority. In addition, we recognize interest and penalties related to unrecognized
+tax beneﬁts as a component of the income tax provision.
+51

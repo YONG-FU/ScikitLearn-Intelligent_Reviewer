@@ -1,0 +1,54 @@
+(ITEM 8. FINANCIAL STATEMENTS )
+PRIM ERICA, INC. AN D SU BSIDIARIES
+Consolidated Statements of Cash Flows
+Year ended December 31,
+i 2016 2015 2014 i
+: (In thousands) :
+Cash flows from operating activities:
+Net income 55 219,414 $ 189,871 $ 181,412
+Adjustments to reconcile net income to cash provided by (used in) operating activities:
+Change in future policy benefits and other policy liabilities 256,520 242,957 257,908
+Deferral of policy acquisition costs (376,879) (326,197) (289,945)
+Amortization of deferred policy acquisition costs 180,582 157,727 144,378
+Deferred tax provision 44,316 38,292 25,757
+Change in income taxes 25,341 700 1,090
+Realized investment (gains) losses, including other—than—temporary impairments (4,088) 1,738 261
+Gain from sale of business, net — — (1,578)
+Accretion and amortization of investments (1,411) (1,343) (4,825)
+Depreciation and amortization 14,595 10,998 12,266
+Change in due from reinsurers (72,880) (49,966) (90,024)
+Change in agent balances, due premiums and other receivables (20,069) (11,379) (11,047)
+Trading securities sold, matured, or called (acquired), net (2,051) 2,308 5,232
+Share—based compensation 13,442 14,948 17,982
+Change in other operating assets and liabilities, net 15,335 (11,565) (11,535)
+Net cash provided by (used in) operating activities 292,167 259,089 237,332
+Cash flows from investing activities:
+Available-for-sale investments sold, matured or called:
+Fixed—maturity securities — sold 91,666 130,608 109,681
+Fixed—maturity securities — matured or called 254,585 247,771 314,589
+Equity securities 8,572 4,894 2,351
+Available-for-sale investments acquired:
+Fixed—maturity securities (386,394) (433,457) (425,904)
+Equity securities (2,683) (882) (11,878)
+Purchases of property and equipment and other investing activities, net (13,669) (7,399) (7,484)
+Proceeds from sale of business — — 3,000
+Cash collateral received (returned) on loaned securities, net 2,164 21,271 (39,641)
+Sales (purchases) of short-term investments using securities lending collateral, net (2,164) (21,271) 39,641
+Net cash provided by (used in) investing activities (47,923) (58,465) (15,645)
+Cash flows from financing activities:
+Dividends paid (33,367) (32,807) (26,512)
+Common stock repurchased (150,057) (200,084) (147,922)
+Excess tax benefits on share-based compensation 2,260 5,162 5,804
+Tax withholdings on share-based compensation (3,970) (7,675) (6,377)
+Cash proceeds from stock options exercised — 136 —
+Payments of deferred financing costs — — (876)
+Net cash provided by (used in) financing activities (185,134) (235,268) (175,883)
+Effect of foreign exchange rate changes on cash 572 (5,059) (2,789)
+Change in cash and cash equivalents 59,682 (39,703) 43,015
+Cash and cash equivalents, beginning of period 152,294 191,997 148,982
+Cash and cash equivalents, end of period 55 211,976 $ 152,294 $ 191,997
+Supplemental disclosures of cash flow information:
+Income taxes paid 55 45,402 $ 62,116 $ 66,077
+Interest paid 27,992 32,386 33,058
+See accompanying notes to consolidated financial statements.
+Primerica 2016 Annual Report 97

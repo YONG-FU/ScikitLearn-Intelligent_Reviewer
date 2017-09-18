@@ -1,0 +1,35 @@
+eBay Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Fair Value of Derivative Contracts
+The fair values of our outstanding derivative instruments as of December 31, 2016 and 2015
+were as follows (in millions):
+December 31, December 31,
+: Balance Sheet Location :_: 2016 :_: 2015 :
+I Derivative Assets: $
+Foreign exchange contracts designated
+as cash flow hedges Other Current Assets $ 67 $42
+Foreign exchange contracts not
+designated as hedging instruments Other Current Assets 64 14
+Interest rate contracts designated as
+fair value hedges Other Assets 23 41
+I Total derivative assets $154 $97 ‘
+Derivative Liabilities:
+Foreign exchange contracts designated
+as cash flow hedges Other Current Liabilities $ 3 $ 1
+Foreign exchange contracts not
+designated as hedging instruments Other Current Liabilities 45 24
+I Total derivative liabilities $ 48 $25 ‘
+Total fair value of derivative
+instruments $106 $72
+Under the master netting agreements with the respective counterparties to our derivative
+contracts, subject to applicable requirements, we are allowed to net settle transactions of the
+same type with a single net amount payable by one party to the other. However, we have
+elected to present the derivative assets and derivative liabilities on a gross basis on our
+consolidated balance sheet. As of December 31, 2016, the potential effect of rights of set-off
+associated with the foreign exchange contracts would be an offset to both assets and
+liabilities by $48 million, resulting in net derivative assets and net derivative liabilities of
+$83 million and $1 million, respectively. We are not required to pledge, nor are we entitled to
+receive, collateral related to our foreign exchange derivative transactions. As of December 31,
+2016, we had neither pledged nor received collateral related to our interest rate derivative
+transactions.
+F-28

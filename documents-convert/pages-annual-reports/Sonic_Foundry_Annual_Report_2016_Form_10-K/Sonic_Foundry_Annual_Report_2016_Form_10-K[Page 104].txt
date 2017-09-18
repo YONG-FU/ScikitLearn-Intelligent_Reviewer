@@ -1,0 +1,44 @@
+Sonic Foundry, Inc.
+Annual Report on Form 10-K
+For the Year Ended September 30, 2016
+The proceeds from the Loan and Security Agreement were allocated between the PF G Debt and the Warrant Debt (inclusive of
+its conversion feature) based on their relative fair value on the date of issuance which resulted in initial carrying values of $1.322
+million and $178 thousand, respectively. The conversion feature of $17 8 thousand is treated together as a debt discount on the
+PF G Debt and will be accreted to interest expense under the effective interest method over the three-year term of the PFG Debt
+and the five-year term of the Warrant Debt. For fiscal 2016, the Company recorded accretion of discount expenses associated
+with the warrants issued with the PF G loan of $17 thousand as well as $71 thousand related to amortization of the debt discount.
+For ﬁscal 2015, the Company recorded accretion of discount expense associated with the warrants issued with the PFG loan of
+$5 thousand as well as $22 thousand related to amortization of the debt discount.
+The fair values of term debt and warrant debt are based on the present value of expected future cash ﬂows and assumptions about
+current interest rates and the creditworthiness of the Company (Level 3). At December 14, 2015, the carrying amounts of the
+Company’s term debt and warrant debt totaled $1.322 million and $178 thousand, respectively. At December 14, 2015, the
+Company’s term debt and warrant debt were recorded at fair value. At September 30, 2016, the derivative liability was remeasured
+at fair value. The fair value of the bifurcated conversion feature represented by the warrant derivative liability is based on a Black
+Scholes option pricing model with assumptions for stock price, exercise price, volatility, expected term, risk free interest rate and
+dividend yield similar to those described previously for share-based compensation which were generally observable (Level 2).
+On October 5, 2015, the Company and PF G entered into a Modification No. 1 to the Loan and Security Agreement (“Modification
+No. 1”). Under Modiﬁcation No. 1: (i) the Liquidity covenant was modiﬁed to require minimum Liquidity (as defined) with
+respect to the Company only, on a monthly basis, of at least 1.5 : 1.0 at the last day of each month, replacing the previous Liquidity
+requirement of 1.35 : 1 .0 for each month-end that is not the last day of a fiscal quarter, and 15:10 for each month-end that is the
+last day of a fiscal quarter, and (ii) the Minimum Debt Service covenant was replaced with a requirement to maintain, commencing
+September 30, 2015, a Minimum EBITDA, as defined, on a trailing six month period, of at least $1.00 plus the net change in
+Deferred Revenue, as defined, with such covenant measured as of the last day of each fiscal quarter.
+At September 30, 2016, a balance of $1.3 million was outstanding on the term debt with PFG, with an eﬁective interest rate of
+ten-and-three-quarters percent (10.75%). At September 30, 2015, a balance of $1.5 million with outstanding on the term debt
+with PFG.
+The Term Loan is collateralized by substantially all the Company’s assets, including intellectual property, subject to a ﬁrst lien
+held by Silicon Valley Bank, The Term Loan requires compliance with the same ﬁnancial covenants as set forth in the loan from
+Silicon Valley Bank. At September 30, 2016, the Company was in compliance with all covenants in the Loan and Security
+Agreement, as amended.
+Other Indebtedness
+At September 30, 2016, no balance was outstanding on the notes payable to Mitsui Sumitomo Bank. The outstanding balance
+was $25 thousand at September 30, 2015. At September 30, 2016, a balance of $198 thousand was outstanding on the line of
+credit with Mitsui Sumitomo Bank. At September 30, 2015, a balance of $418 thousand was outstanding on the line of credit.
+The notes and credit facility are both related to Mediasite K.K., and both accrue an annual interest rate of approximately one-
+and-one half percent (1.575%).
+At September 30, 2016, a balance of $93 thousand was outstanding on the subordinated note payable related to the acquisition of
+Sonic Foundry International, with an annual interest rate of six-and-one half percent (6.5%). The outstanding balance was $278
+thousand at September 30, 2015.
+At September 30, 2016 and 2015 , no balance was outstanding on the subordinated payable related to the acquisition of Mediasite
+KK after paying off the outstanding balance in January 2015.
+64

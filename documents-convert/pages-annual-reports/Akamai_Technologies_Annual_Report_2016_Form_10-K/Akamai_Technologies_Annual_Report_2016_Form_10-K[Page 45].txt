@@ -1,0 +1,44 @@
+We typically charge customers an integration fee when the services are first activated. The integration fees are recorded as
+deferred revenue and recognized as revenue ratably over the estimated life of the customer arrangement. We also derive
+revenue from services sold as discrete, non-recurring events or based solely on usage. For these services, we recognize revenue
+once the event or usage has occurred.
+When more than one element is contained in a revenue arrangement, we determine the fair value for each element in the
+arrangement based on vendor-specific objective evidence, or VSOE, for each respective element, including any renewal rates
+for services contractually offered to the customer. Elements typically included in our multiple element arrangements consist of
+our core services —- the delivery of content, applications and software over the Internet —- as well as mobile and security
+solutions and enterprise professional services. These elements have value to our customers on a stand-alone basis in that they
+can be sold separately by another vendor. Generally, there is no right of return relative to these services.
+We typically use VSOE to determine the fair value of our separate elements. All stand-alone sales of professional services
+are reviewed to establish the average stand-alone selling price for those services. For our core services, the fair value is the
+price charged for a single deliverable on a per unit basis when it is sold separately.
+For arrangements in which we are unable to establish VSOE, third party evidence, or TPE, of the fair value of each
+element is determined based upon the price charged when the element is sold separately by another vendor. For arrangements in
+which we are unable to establish VSOE or TPE for each element, we use the best estimate of selling price, or BESP, to
+determine the fair value of the separate deliverables. We estimate BESP based upon a management-approved price list and pre-
+established discount levels for each solution that takes into consideration volume, geography and industry lines. We allocate
+arrangement consideration across the multiple elements using the relative selling price method.
+At the inception of a customer contract, we make an estimate as to that customer’s ability to pay for the services provided.
+We base our estimate on a combination of factors, including the successful completion of a credit check or financial review, our
+collection experience with the customer and other forms of payment assurance. Upon the completion of these steps, we
+recognize revenue monthly in accordance with our revenue recognition policy. If we subsequently determine that collection
+from the customer is not reasonably assured, we record an allowance for doubtful accounts and bad debt expense for all of that
+customer’s unpaid invoices and cease recognizing revenue for continued services provided until cash is received from the
+customer. Changes in our estimates and judgments about whether collection is reasonably assured would change the timing of
+revenue or amount of bad debt expense that we recognize.
+We also sell our services through a reseller channel. Assuming all other revenue recognition criteria are met, we recognize
+revenue from reseller arrangements based on the reseller’s contracted non-refundable minimum purchase commitments over
+the term of the contract, plus amounts sold by the reseller to its customers in excess of the minimum commitments. Amounts
+attributable to this excess usage are recognized as revenue in the period in which the service is provided.
+From time to time, we enter into contracts to sell our services or license our technology to unrelated enterprises at or about
+the same time we enter into contracts to purchase products or services from the same enterprises. If we conclude that these
+contracts were negotiated concurrently, we record as revenue only the net cash received from the vendor, unless the product or
+service received has a separate and identifiable benefit and the fair value to us of the vendor’s product or service can be
+objectively established.
+We may from time to time resell licenses or services of third parties. We record revenue for these transactions on a gross
+basis when we have risk of loss related to the amounts purchased from the third party and we add value to the license or
+service, such as by providing maintenance or support for such license or service. If these conditions are present, we recognize
+revenue when all other revenue recognition criteria are satisfied.
+Deferred revenue represents amounts billed to customers for which revenue has not been recognized. Deferred revenue
+primarily consists of the unearned portion of monthly billed service fees, prepayments made by customers for future periods,
+deferred integration and activation set-up fees and amounts billed under customer arrangements with extended payment terms.
+43

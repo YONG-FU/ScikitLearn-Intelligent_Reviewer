@@ -1,0 +1,48 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+17. Pension and Other Postretirement Beneﬁts
+The benefit obligations and plan assets associated with the Corporation’s principal beneﬁt plans are measured on December 31.
+Pension Beneﬁts Other Postretirement
+U.S. N on-U.S. Beneﬁts
+2016 2015 2016 2015 2016 2015
+(percent)
+Weighted-average assumptions used to determine
+benefit obligations at December 31
+Discount rate 4.25 4.25 3.00 3.60 4.25 4.25
+Long-term rate of compensation increase 5.75 5.75 4.00 4.80 5.75 5.7 5
+(millions of dollars)
+Change in benefit obligation
+Benefit obligation at January 1 19,583 20,529 25,117 30,047 8,282 9,436
+Service cost 810 864 585 689 153 170
+Interest cost 793 785 844 850 344 346
+Actuarial loss/(gain) 250 (545) 1,409 (1,517) (560) (617)
+Benefits paid (1) (2) (1,476) (2,050) (1,228) (1,287) (537) (482)
+Foreign exchange rate changes - - (1,520) (3,242) 16 (106)
+Amendments, divestments and other - - (11) (423) 102 (465)
+Benefit obligation at December 31 7 19,960 19,583 25,196 25,117 7,800 8,282
+Accumulated benefit obligation at December 31 16,245 15,666 22,867 22,362 - -
+(I) Beneﬁt payments for funded and unfunded plans.
+(2) For 2016 and 2015, other postretirement beneﬁts paid are net of $22 million and $15 million of Medicare subsidy receipts,
+respectively.
+For selection of the discount rate for U.S. plans, several sources of information are considered, including interest rate market
+indicators and the discount rate determined by use of a yield curve based on high-quality, noncallable bonds with cash ﬂows that
+match estimated outﬂows for benefit payments. For major non-U.S. plans, the discount rate is determined by using bond
+portfolios with an average maturity approximating that of the liabilities or spot yield curves, both of which are constructed using
+high-quality, local-currency-denominated bonds.
+The measurement of the accumulated postretirement benefit obligation assumes a health care cost trend rate of 4.5 percent in
+2018 and subsequent years. A one-percentage-point increase in the health care cost trend rate would increase service and interest
+cost by $76 million and the postretirement benefit obligation by $862 million. A one—percentage-point decrease in the health care
+cost trend rate would decrease service and interest cost by $58 million and the postretirement benefit obligation by $687 million.
+Pension Beneﬁts Other Postretirement
+U.S. N on-U.S. Beneﬁts
+2016 2015 2016 2015 2016 2015
+(millions of dollars)
+Change in plan assets
+Fair value at January 1 10,985 12,915 18,417 20,095 414 468
+Actual return on plan assets 949 (307) 2,443 918 20 -
+Foreign exchange rate changes - - (1,452) (2,109) - -
+Company contribution 2,068 - 492 515 36 42
+Benefits paid (1) (1,209) (1,623) (857) (890) (59) (96)
+Other - - - (1 12) - -
+Fair value at December 31 7 12,793 10,985 19,043 18,417 411 4147
+(I) Beneﬁt payments for funded plans.
+89

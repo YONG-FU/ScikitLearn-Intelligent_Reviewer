@@ -1,0 +1,45 @@
+Deferred Revenue and Unbilled Accounts Receivable . Client payments and billed amounts due from clients in excess of revenue recognized are recorded as deferred
+revenue. Deferred revenue amounts expected to be recognized within the next twelve months a re classified as current liabilities. Revenue recognized prior to the
+scheduled billing date is recorded as unbilled accounts receivable.
+Postage. We pass through to our clients the cost of postage that is incurred on behalf of those clients, and typically require an advance payment on expected postage
+costs. These advance payments are included in client deposits in the accompanying Consolidated Balance Sheets (“Balance Sheets” or “Balance Sheet”) and are
+classified as current liabilities regardless of the contract period. We net the cost of postage against the postage reimbursements for those clients where we require advance
+deposits, and include the net amount (which is not material) in cloud and related solutions revenues.
+Cash and Cash Equivalents. We consider all highly liquid investments with original maturities of three months or less at the date of purchase to be cash equivalents. As
+of December 31, 2016 and 2015, our cash equivalents consist primarily of institutional money market funds, commercial paper, and time deposits held at major banks.
+As of December 31, 2016 and 2015, we had $4.3 million and $5.0 million, respectively, of restricted cash that serves to collateralize outstanding letters of credit. This
+restricted cash is included in cash and cash equivalents in our Balance Sheet.
+Short-term Investments and Other Financial Instruments . Our financial instruments as of December 31, 2016 and 2015 include cash and cash equivalents, short-term
+investments, accounts receivable, accounts payable, and debt. Because of their short maturities, the carrying amounts of cash equivalents, accounts receivable, and
+accounts payable approximate their fair value.
+Our short-term investments and certain of our cash equivalents are considered “available-for—sale” and are reported at fair value in our Balance Sheets, with unrealized
+gains and losses, net of the related income tax effect, excluded from earnings and reported in a separate component of stockholders’ equity. Realized and unrealized gains
+and losses were not material in any period presented.
+Primarily all short-term investments held by us as of December 31, 2016 and 2015 have contractual maturities of less than two years from the time of acquisition. Our
+short-tenn investments at December 31, 2016 and 2015 consisted almost entirely of fixed income securities. Proceeds from the sale/maturity of short-term investments in
+2016, 2015, and 2014 were $157.8 million, $193.0 million, and $197.5 million, respectively.
+The following table represents the fair value hierarchy based upon three levels of inputs, of which Levels 1 and 2 are considered observable and Level 3 is unobservable,
+for our ﬁnancial assets and liabilities measured at fair value (in thousands):
+December 31, 2016 December 31, 2015
+Level 1 _ Level 2 _ Total _ Level 1 _ Level 2 _ Total
+LAssets: 4
+Cash equivalents:
+l Money market funds 6,531 — 6,531 35,730 — 35,730 l
+Commercial p_aper — 24,826 24,826 — 17,245 17,245
+:Short-term investments: l
+Corporate debt securities — 109,140 109,140 — 77,898 77,898
+1 Municipal bonds — — — — 2,763 2,763 1
+US. government agency bonds — 26,513 26,513 — 16,201 16,201
+I Asset-backed securities — _ 14,494 _ 14,494 _ — _ 11,443 _ 11,443 )
+Total $ 6,531 $ 174,973 $ 181,504 $ 35,730 $ 125,550 $ 161,280
+Valuation inputs used to measure the fair values of our money market funds were derived from quoted market prices. The fair values of all other ﬁnancial instruments are
+based upon pricing provided by third-party pricing services. These prices were derived from observable market inputs.
+We have chosen not to measure our debt at fair value, with changes recognized in earnings each reporting period. The following table indicates the carrying value and
+estimated fair value of our debt as of the indicated periods (in thousands):
+December 31, 2016 December 31, 2015
+Carrying Fair Carrying Fair
+Value _ Value _ Value _ Value
+I Credit agreement (carryglg value including current maturities) $ 135,000 $ 135,000 $ 142,500 $ 142,500 l
+2010 Convertible debt (par value) 34,722 74,795 150,000 237,900
+[2016 Convertible debt (par value) 230,000 258,175 — —l
+5 1

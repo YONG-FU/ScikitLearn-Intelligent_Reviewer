@@ -1,0 +1,44 @@
+ALIBABA GROUP HOLDING LIMITED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED MARCH 31, 2014, 2015 AND 2016
+2. Summary of significant accounting policies (Continued)
+(g) Revenue recognition (Continued)
+In delivery of these online marketing services, the Company, through the third-party marketing affiliate
+program, also places the P4P marketing services content of the participating merchants on third-party websites
+in the forms of picture or text links through contextual relevance technology to match merchants’ marketing
+content to the textual content of the third-party website and the users’ attributes based on the Company’s
+systems and algorithms. When such links on third-party websites are clicked, users are diverted to a landing
+page of the Company’s marketplaces where listings of the participating merchant as well as similar products or
+services of other merchants are presented. These other merchants may include those also participating in the
+online marketing services through the third-party marketing affiliate program or those only purchasing online
+marketing services on the Company’s own marketplaces, as well as, in some cases, those who do not purchase
+online marketing services at all. Revenue is only recognized when such users further click on the P4P
+marketing content on such landing pages. In limited cases, the Company may embed a search box for one of
+its marketplaces on such third-party websites, and when a keyword is input into the search box, the user will
+be diverted to the Company’s website where search results are presented and revenue can be generated
+through a similar mechanism. For third—party marketing affiliates with whom the Company has an
+arrangement to share such revenue, traffic acquisition cost is also recognized at the same time if the P4P
+marketing content on the landing page clicked by the users is from merchants participating in the third-party
+marketing affiliate program. The Company places display marketing content on third-party websites in a
+similar manner. A substantial portion of online marketing services revenue generated through the third-party
+marketing affiliate program represented P4P marketing services revenue for each of the years presented. P4P
+marketing service revenue as well as display marketing revenue generated on the Company’s marketplaces or
+through the third-party marketing affiliate program are recorded on a gross basis principally because the
+Company is the primary obligor to the merchants in the arrangements.
+The Company receives placement services fees from merchants on promotional slots for a specified period on
+the Company’s Juhuasuan marketplace and recognizes those fees as revenue when the underlying promotional
+services are provided.
+In addition, the Company offers the Taobaoke program which generates commissions from merchants for
+transactions completed and settled by consumers sourced from certain third party marketing affiliates’
+websites. The Company’s portion of commission revenue generated through third party marketing affiliates’
+websites is recognized at the time when the underlying transaction is completed and is recorded on a net basis
+principally because the Company is not the primary obligor as it does not have latitude in establishing prices
+or does not have inventory risk. In certain occasions where the Company is obligated to pay for website
+inventory costs in fixed amounts to third-party marketing affiliates regardless of whether commission revenue
+is generated from these marketing affiliates, such commission revenue is recorded on a gross basis.
+Commissions on transactions
+The Company earns commissions from merchants when transactions are completed and settled on certain
+retail marketplaces of the Company. Such commissions are generally determined as a percentage based on the
+value of merchandise being sold by the merchants. Revenue related to commissions is recognized in the
+consolidated income statements at the time when the underlying transaction is completed.
+F-21

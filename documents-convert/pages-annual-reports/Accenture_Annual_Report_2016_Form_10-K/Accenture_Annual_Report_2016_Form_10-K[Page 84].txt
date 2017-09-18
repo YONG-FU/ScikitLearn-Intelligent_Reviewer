@@ -1,0 +1,57 @@
+Table of Contents
+ACCENTURE PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (continued)
+(In thousands of US. dollars, except share and per share amounts or as otherwise disclosed)
+7. DERIVATIVE FINANCIAL INSTRUMENTS
+In the normal course of business, the Company uses derivative ﬁnancial instruments to manage foreign currency
+exchange rate risk. Derivative transactions are governed by a uniform set of policies and procedures covering areas
+such as authorization, counterparty exposure and hedging practices. Positions are monitored using techniques such
+as market value and sensitivity analyses. The Company does not enter into derivative transactions fortrading purposes.
+The Company classiﬁes cash ﬂows from its derivative programs as cash ﬂows from operating activities in the
+Consolidated Cash Flows Statements.
+Certain derivatives also give rise to credit risks from the possible non-performance by counterparties. Credit risk
+is generally limited to the fair value of those contracts that are favorable to the Company, and the maximum amount
+of loss due to credit risk, based on the gross fair value of all of the Company’s derivative ﬁnancial instruments, was
+$129,603 as ofAugust 31, 2016.
+The Company also utilizes standard counterparty master agreements containing provisions for the netting of
+certain foreign currency transaction obligations and for set-off of certain obligations in the event of an insolvency of
+one of the parties to the transaction. These provisions may reduce the Company’s potential overall loss resulting from
+the insolvency of a counterparty and reduce a counterparty’s potential overall loss resulting from the insolvency of the
+Company. Additionally, these agreements contain early termination provisions triggered by adverse changes in a
+counterparty’s credit rating, thereby enabling the Company to accelerate settlement of a transaction prior to its
+contractual maturity and potentially decrease the Company’s realized loss on an open transaction. Similarly, a
+decrement in the Company’s credit rating could trigger a counterparty’s early termination rights, thereby enabling a
+counterparty to accelerate settlement of a transaction prior to its contractual maturity and potentially increase the
+Company’s realized loss on an open transaction. The aggregate fair value of the Company’s derivative instruments
+with credit-risk-related contingent features that are in a liability position as of August 31, 2016 was $33,774.
+The Company’s derivative ﬁnancial instruments consist of deliverable and non-deliverable foreign currency
+forward contracts. Fair values for derivative financial instruments are based on prices computed using third-party
+valuation models and are classiﬁed as Level 2 in accordance with the three-level hierarchy of fair value measurements.
+All of the signiﬁcant inputs to the third-party valuation models are observable in active markets. Inputs include current
+market-based parameters such as fonNard rates, yield curves and credit default swap pricing. For additional information
+related to the three-level hierarchy of fair value measurements, see Note 10 (Retirement and Proﬁt Sharing Plans) to
+these Consolidated Financial Statements.
+Cash Flow Hedges
+Certain of the Company’s subsidiaries are exposed to currency risk through their use of resources supplied by
+the Company’s Global Delivery Network. To mitigate this risk, the Company uses foreign currency fonNard contracts
+to hedge the foreign exchange risk of the forecasted intercompany expenses denominated in foreign currencies for
+up to three years in the future. The Company has designated these derivatives as cash ﬂow hedges. As of August 31,
+2016 and 2015, the Company held no derivatives that were designated as fair value or net investment hedges.
+In order for a derivative to qualify for hedge accounting, the derivative must be formally designated as a fair value,
+cash ﬂow or net investment hedge by documenting the relationship between the derivative and the hedged item. The
+documentation includes a description of the hedging instrument, the hedged item, the risk being hedged, the Company’s
+risk management objective and strategy for undertaking the hedge, the method for assessing the effectiveness of the
+hedge and the method for measuring hedge ineffectiveness. Additionally, the hedge relationship must be expected to
+be highly effective at offsetting changes in either the fair value or cash flows of the hedged item at both inception of
+the hedge and on an ongoing basis. The Company assesses the ongoing effectiveness of its hedges using the
+Hypothetical Derivative Method, which measures hedge ineffectiveness based on a comparison of the change in fair
+value of the actual derivative designated as the hedging instrument and the change in fair value of a hypothetical
+derivative. The hypothetical derivative would have terms that identically match the critical terms of the hedged item. The
+Company measures and records hedge ineffectiveness at the end of each ﬁscal quarter.
+For a cash flow hedge, the effective portion of the change in estimated fair value of a hedging instrument is
+recorded in Accumulated other comprehensive loss as a separate component ofShareholders’ Equity and is reclassiﬁed
+into Cost of services in the Consolidated Income Statement during the period in which the hedged transaction is
+recognized. The amounts related to derivatives designated as cash flow hedges that were reclassified into Cost of
+services were a net gain of $23,004 and $15,207 during ﬁscal 2016 and 2015, respectively, and a net loss of $101 ,026
+during ﬁscal 2014. The ineffective portion of the change in fair value of a cash flow hedge is recognized immediately
+F- 20

@@ -1,0 +1,9 @@
+Table,0f,C,ontents
+In addition, under certain circumstances, convertible debt instruments (such as the Notes) that may be settled entirely or partly in cash are currently accounted
+for utilizing the treasury stock method, the effect of which is that the shares issuable upon conversion of the Notes are not included in the calculation of diluted
+earnings per share except to the extent that the conversion value of the Notes exceeds their principal amount. Under the treasury stock method, for diluted
+earnings per share purposes, the transaction is accounted for as if the number of shares of common stock that would be necessary to settle such excess, if we
+elected to settle such excess in shares, are issued. We cannot be sure that the accounting standards in the future will continue to permit the use of the treasury
+stock method. If we are unable to use the treasury stock method in accounting for the shares issuable upon conversion of the Notes, then our diluted earnings
+per share would be adversely affected.
+36

@@ -1,0 +1,46 @@
+- during the five business day period after any five consecutive trading day period in which the trading price per $1,000
+principal amount of Notes for each trading day of the measurement period was less than 98% of the product of the last
+reported sale price of the Company's common stock and the conversion rate on each such trading day; or upon the
+occurrence of specified corporate events.
+On or after August 15, 2018, holders may convert all or any portion of their Notes at any time prior to the close of business
+on the second scheduled trading day immediately preceding the maturity date, regardless of the foregoing circumstances.
+Upon conversion, the Company, at its election, may pay or deliver to holders cash, shares of the Company's common stock
+or a combination of cash and shares of the Company's common stock. The initial conversion rate is 11.1651 shares of the
+Company's common stock per $1,000 principal amount, which is equivalent to an initial conversion price of approximately
+$89.56 per share, subject to adjustments in certain events, and represents a potential conversion into 7.7 million shares.
+In accounting for the issuance of the Notes, the Company separated the Notes into liability and equity components.
+The carrying cost of the liability component was calculated by measuring the fair value of a similar debt obligation that does
+not have an associated convertible feature. The carrying amount of the equity component representing the conversion option
+was determined by deducting the fair value of the liability component from the par value of the Notes. The difference between
+the principal amount of the Notes and the proceeds allocated to the liability component (“debt discount”) is amortized to
+interest expense using the effective interest method over the term of the Notes. The equity component is recorded in additional
+paid-in capital in the consolidated balance sheet and will not be remeasured as long as it continues to meet the conditions for
+equity classification.
+In accounting for the transaction costs related to the issuance of the Notes, the Company allocated the total transaction
+costs incurred to the liability and equity components based on their relative values. Transaction costs attributable to the liability
+component are being amortized to interest expense over the term of the Notes, and transaction costs attributable to the equity
+component are netted against the equity component of the Notes in stockholders’ equity.
+The Notes consisted of the following components as of December 31, 2016 and 2015 (in thousands):
+December 31, December 31,
+2016 2015
+Liability component: 7 7 7 7
+Principal $ 690,000 $ 690,000
+Less: debt discount and issuance costs, net of amortization 7 (49,913), 7 (71,953),
+Net carrying amount *$ 640,087 ’ s 618,047 *
+Equity component: $ 101,276 $ 101,276 I
+The estimated fair value of the Notes at December 31, 2016 was $721.4 million. The fair value was determined based
+on the quoted price of the Notes in an inactive market on the last trading day of the reporting period and has been classified as
+Level 2 within the fair value hierarchy. Based on the closing price of the Company's common stock of $66.68 on December 31,
+2016, the value of the Notes if converted to common stock was less than the principal amount of $690.0 million.
+The Company used $62.0 million of the proceeds from the offering to repurchase shares of its common stock, concurrent
+with the issuance of the Notes. The repurchase was made in accordance with the share repurchase program previously approved
+by the Board of Directors (Note 12). Additionally, $23.3 million of the proceeds was used for the net cost of convertible note
+hedge and warrant transactions. The remaining net proceeds are for working capital, share repurchases and other general
+corporate purposes, as well as for potential acquisitions and strategic transactions.
+Note Hedge
+To minimize the impact of potential dilution upon conversion of the Notes, the Company entered into convertible note
+hedge transactions with respect to its common stock in February 2014. The Company paid $101.3 million for the note hedge
+transactions. The note hedge transactions cover approximately 7.7 million shares of the Company’s common stock at a strike
+price that corresponds to the initial conversion price of the Notes, also subject to adjustment, and are exercisable upon
+conversion of the Notes. The note hedge transactions are intended to reduce dilution in the event of conversion of the Notes.
+70

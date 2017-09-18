@@ -1,0 +1,42 @@
+December 3 1‘ 2015 Carrying Estimated
+(SS in thousands) amounts fair values
+Assets:
+Fixed maturity securities available-for-sale:
+I U.S. treasury $ 12,589 $ 12,589 I
+U.S. government-sponsored agencies 202,666 202,666
+I Obligations of states and political subdivisions 344,359 344,359 I
+Commercial mortgage-backed 46,108 46,108
+I Residential mortgage-backed 88,543 88,543 I
+Other asset-backed 17,844 17,844
+I Corporate 448,916 448,916 I
+Total fixed maturity securities available-for—sale : 1,161,025 1,161,025 :
+I Equity securities available-for—sale: I
+I Common stocks: I
+Financial services 33,955 33,955
+I Information technology 28,102 28,102 I
+Healthcare 25,894 25,894
+I Consumer staples 18,200 18,200 I
+Consumer discretionary 1 8,923 1 8,923
+I Energy 21,068 21,068 I
+Industrials 20,416 20,416
+I Other 20,683 20,683 I
+Non-redeemable preferred stocks 19,002 19,002
+I Total equity securities available-for-sale 7 206,243 _ 206,243 I
+I Short-term investments 38,599 38,599 I
+ILiabilities: I
+Surplus notes 25,000 10,823
+The estimated fair values of fixed maturity and equity securities is based on quoted market prices, where available. In
+cases where quoted market prices are not available, fair values are based on a variety of valuation techniques depending on the
+type of security.
+Short-term investments generally include money market funds, US. Treasury bills and commercial paper. Short-term
+investments are carried at fair value, which approximates cost, due to the highly liquid nature of the securities. Short-term
+securities are classified as Level 1 fair value measurements when the fair values can be validated by recent trades. When recent
+trades are not available, fair value is deemed to be the cost basis and the securities are classiﬁed as Level 2 fair value
+measurements.
+The estimated fair value of the surplus notes is derived by discounting future expected cash ﬂows at a rate deemed
+appropriate. The discount rate was set at the average of current yields-to-maturity on several insurance company surplus notes
+that are traded in observable markets, adjusted upward by 50 basis points to reﬂect illiquidity and perceived risk premium
+differences. Other assumptions include a 25 -year term (the surplus notes have no stated maturity date) and an interest rate that
+continues at the current 1.35 percent interest rate. The rate is typically adjusted every five years and is based upon the then-
+current Federal Home Loan Bank borrowing rate for 5-year funds available to Employers Mutual.
+135

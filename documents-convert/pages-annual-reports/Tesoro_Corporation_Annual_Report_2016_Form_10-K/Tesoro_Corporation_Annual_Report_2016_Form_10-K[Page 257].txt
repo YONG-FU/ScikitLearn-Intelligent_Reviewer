@@ -1,0 +1,43 @@
+For purposes of determining compliance with Section 4.09 hereof, in the event that any Non—Recourse Debt of any of TLLP’s Unrestricted Subsidiaries
+ceases to be Non-Recourse Debt of such Unrestricted Subsidiary, such event will be deemed to constitute an incurrence of Indebtedness by a Restricted
+Subsidiary of TLLP.
+“NoteiGuarantee” means the Guarantee by each Guarantor of the Issuers’ obligations under this Indenture and the Notes, executed pursuant to the
+provisions of this Indenture.
+“Notes,” has the meaning assigned to it in the preamble to this Indenture. The Initial Notes and the Additional Notes shall be treated as a single class for
+all purposes under this Indenture, and unless the context otherwise requires, all references to the Notes shall include the Initial Notes and any Additional
+Notes.
+“Obligations” means any principal, interest, penalties, fees, indemniﬁcations, reimbursements, damages and other liabilities payable under the
+documentation governing any Indebtedness.
+“Ofﬁcer” means, with respect to any Person, the Chairman of the Board, the Chief Executive Ofﬁcer, the President, the Chief Operating Officer, the
+Chief Financial Ofﬁcer, the Treasurer, any Assistant Treasurer, the Controller, the Secretary or any Vice President of such Person (or, if such Person is a limited
+partnership, the general partner of such Person).
+“Ofﬁcers’ Certiﬁcate” means a certiﬁcate signed on behalf of a Person by two Officers of such Person that meets the requirements set forth in this
+Indenture. An Ofﬁcers’ Certiﬁcate required to be delivered by the Issuers shall be signed by two Ofﬁcers of each Issuer.
+“OmnibusAgreement” means the Third Amended and Restated Omnibus Agreement, dated as of July 1, 2014, among T esoro Corporation, Tesoro
+Reﬁning and Marketing Company, Tesoro Companies, Inc., Tesoro Alaska Company, TLLP and the General Partner, as may be amended, supplemented or
+modiﬁed; provided such amendment, supplement or modiﬁcation is not disadvantageous in any material respect to the holders of notes when taken as a
+whole as compared to the Omnibus Agreement as in effect on the Issue Date, as determined in good faith by TLLP.
+“QperatingSurpluS” has the meaning assigned to such term in the Partnership Agreement, as in effect on the Issue Date.
+“Opinion of Counsel” means an opinion from legal counsel who is reasonably acceptable to the Trustee, that meets the requirements of Section 12.05
+hereof. The counsel may be an employee of or counsel to TLLP, the General Partner, any Subsidiary of TLLP or the General Partner or the Trustee.
+“Participant,” means, with respect to the Depositary, Euroclear or Clearstream, a Person who has an account with the Depositary, Euroclear or
+Clearstream, respectively (and, with respect to DTC, shall include Euroclear and Clearstream).
+“Partnership Agreement” means the First Amended and Restated Agreement of Limited Partnership of Tesoro Logistics LP, dated as of April 26, 2011,
+as such may be further amended, modiﬁed or supplemented from time to time.
+“BermittedAcquisitionjndebtedness” means Indebtedness or Disqualiﬁed Equity of TLLP or any of its Restricted Subsidiaries to the extent such
+Indebtedness or Disqualiﬁed Equity was Indebtedness or Disqualiﬁed Equity of (i) a Subsidiary prior to the date on which such Subsidiary became a
+Restricted Subsidiary or (ii) a Person that merged with or consolidated into TLLP or a Restricted Subsidiary; provided that on the date such Subsidiary
+became a Restricted Subsidiary or the date such Person was merged and amalgamated into TLLP or a Restricted Subsidiary, as applicable, after giving pro
+forma effect thereto, (a) TLLP would be permitted to incur at least $1.00 of additional Indebtedness pursuant to the Fixed Charge Coverage Ratio test
+described under Section 4.09(a) hereof or (b) the Fixed Charge Coverage Ratio for TLLP would be equal to or greater than the Fixed Charge Coverage Ratio
+for TLLP immediately prior to such transaction.
+“BermittedBusiness” means either (1) marketing, gathering, transporting (by barge, pipeline, ship, truck or other modes of hydrocarbon transportation),
+terminalling, storing, producing, acquiring, developing, exploring for, exploiting, processing, fractionation, dehydrating and otherwise handling crude oil,
+gas, casinghead gas, drip gasoline, natural gasoline, condensates, distillates, liquid hydrocarbons, asphalt, gaseous hydrocarbons and all other constituents,
+elements, compounds or products reﬁned or processed from any of the foregoing, which activities shall include, for the avoidance of doubt, constructing
+pipeline, platform, dehydration, processing, fractionation, storing and other energy-related facilities, and activities or services reasonably related or ancillary
+thereto, including entering into purchase and sale agreements, supply agreements and Hedging Obligations related to
+these businesses, (2) any other business that generates gross income at least 90% of which constitutes “qualifying income” under Section 7704(d) of the Code
+or (3) any activity that is ancillary, complementary or incidental to or necessary or appropriate for the activities described in clauses (1) or (2) of this
+deﬁnition.
+-13-

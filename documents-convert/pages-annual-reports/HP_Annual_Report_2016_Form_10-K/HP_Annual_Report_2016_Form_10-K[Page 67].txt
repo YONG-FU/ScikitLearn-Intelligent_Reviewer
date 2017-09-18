@@ -1,0 +1,51 @@
+Table of Contents
+HP INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements (Continued)
+Note 1: Overview and Summary of Signiﬁcant Accounting Policies (Continued)
+HP reviews goodwill for impairment annually during its fourth quarter and whenever events or changes in circumstances
+indicate the carrying amount of goodwill may not be recoverable. HP can opt to perform a qualitative assessment to test a
+reporting unit’s goodwill for impairment or HP can directly perform the two-step impairment test. Based on the qualitative
+assessment, if HP determines that the fair value of a reporting unit is more likely than not (i.e., a likelihood of more than 50
+percent) to be less than its carrying amount, the two-step impairment test will be performed.
+In the first step of the impairment test, HP compares the fair value of each reporting unit to its carrying amount with the
+fair values derived most significantly from the income approach, and to a lesser extent, the market approach. Under the income
+approach, HP estimates the fair value of a reporting unit based on the present value of estimated future cash ﬂows. HP bases
+cash ﬂow projections on management’s estimates of revenue growth rates and operating margins, taking into consideration
+industry and market conditions. HP bases the discount rate on the weighted-average cost of capital adjusted for the relevant risk
+associated with business-specific characteristics and the uncertainty related to the reporting unit’s ability to execute on the
+projected cash ﬂows. Under the market approach, HP estimates fair value based on market multiples of revenue and earnings
+derived from comparable publicly-traded companies with similar operating and investment characteristics as the reporting unit.
+HP weights the fair value derived from the market approach depending on the level of comparability of these publicly-traded
+companies to the reporting unit. When market comparables are not meaningful or not available, HP estimates the fair value of a
+reporting unit using only the income approach.
+In order to assess the reasonableness of the estimated fair value of HP’s reporting units, HP compares the aggregate
+reporting unit fair value to HP’s market capitalization on an overall basis and calculates an implied control premium (the excess
+of the sum of the reporting units” fair value over HP’s market capitalization on an overall basis). HP evaluates the control
+premium by comparing it to observable control premiums from recent comparable transactions. If the implied control premium
+is determined to not be reasonable in light of these recent transactions, HP reevaluates its reporting unit fair values, which may
+result in an adjustment to the discount rate and/or other assumptions. This reevaluation could result in a change to the estimated
+fair value for certain or all reporting units.
+If the fair value of a reporting unit exceeds the carrying amount of the net assets assigned to that reporting unit, goodwill
+is not impaired and no further testing is required. If the fair value of the reporting unit is less than its carrying amount, then HP
+performs the second step of the goodwill impairment test to measure the amount of impairment loss, if any. In the second step,
+HP measures the reporting unit’s assets, including any unrecognized intangible assets, liabilities and non-controlling interests at
+fair value in a hypothetical analysis to calculate the implied fair value of goodwill for the reporting unit in the same manner as
+if the reporting unit was being acquired in a business combination. If the implied fair value of the reporting unit’s goodwill is
+less than its carrying amount, the difference is recorded as an impairment loss.
+Debt and Marketable Equity Securities Investments
+Debt and marketable equity securities are generally considered available-for—sale and are reported at fair value with
+unrealized gains and losses, net of applicable taxes, in Accumulated other comprehensive loss in the Consolidated Balance
+Sheets. Realized gains and losses for available-for—sale securities are calculated based on the specific identification method and
+included in Interest and other, net in the Consolidated Statements of Earnings. HP monitors its investment portfolio for potential
+impairment on a quarterly basis. When the carrying amount of an investment in debt securities exceeds its fair value and the
+decline in value is determined to be other-than—temporary (i.e., when HP does not intend to sell the debt securities and it is not
+more likely than not that HP will be required to sell the debt securities prior to anticipated recovery of its amortized cost basis),
+HP records an impairment charge to Interest and other, net in the amount of the credit loss and the remaining amount, if any, is
+recorded in Accumulated other comprehensive loss in the Consolidated Balance Sheets.
+Derivatives
+HP uses derivative instruments, primarily forwards, swaps, and at times, options, to hedge certain foreign currency and
+interest rate exposures. HP also may use other derivative instruments not designated as hedges, such as forwards used to hedge
+foreign currency balance sheet exposures. HP does not use derivative instruments for speculative purposes. See Note 11,
+“Financial Instruments” for a full description of HP’s derivative financial instrument activities and related accounting policies.
+Loss Contingencies
+67

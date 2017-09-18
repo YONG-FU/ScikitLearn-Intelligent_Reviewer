@@ -1,0 +1,27 @@
+(f) If a payment made to a Lender hereunder or under any Note would be subject to US. federal withholding tax imposed pursuant to FATCA if such
+Lender were to fail to comply with the applicable reporting requirements of FATCA (including those contained in Sections 1471(b) or 1472(b) of the Internal
+Revenue Code, as applicable), such Lender shall provide each of the Administrative Agent, Mondeléz and the Borrower, at the time or times prescribed by law and
+as reasonably requested by the Administrative Agent, Mondeléz or the Borrower, such documentation prescribed by applicable law (including as prescribed by
+Section 1471(b)(3)(C)(i) of the Internal Revenue Code) and such additional documentation reasonably requested by the Administrative Agent, Mondeléz or the
+Borrower as may be necessary for the Administrative Agent, Mondeléz or the Borrower to comply with their obligations under F ATCA and to determine whether
+such Lender has complied with such Lender’s obligations under FATCA and the amount, if any, to deduct and withhold from such payment. Thereafter, each such
+Lender shall provide additional documentation (i) to the extent documentation previously provided has become inaccurate or invalid or has otherwise ceased to be
+effective or (ii) as reasonably requested by the Administrative Agent, Mondeléz or the Borrower. Solely for purposes of this paragraph (f), “FATCA” shall include
+any amendments made to F ATCA after the date of this Agreement.
+(g) Each Lender shall promptly complete and deliver to the Borrower and the Administrative Agent, or, at their request, to the applicable taxing
+authority, so long as such Lender is legally eligible to do so, any certificate or form reasonably requested in writing by the Borrower or the Administrative Agent
+and required by applicable law in order to secure any applicable exemption from, or reduction in the rate of, any withholding taxes imposed by the Netherlands for
+which the Borrower or Mondeléz is required (or would otherwise be required) to pay additional amounts pursuant to this Section 2.15.
+(h) Any Lender claiming any additional amounts payable pursuant to this Section 2.15 agrees to use reasonable efforts (consistent with its internal
+policy and legal and regulatory restrictions) to select or change the jurisdiction of its Domestic Lending Office if the making of such a selection or change would
+avoid the need for, or reduce the amount of, any such additional amounts that may thereafter accrue and would not, in the reasonable judgment of such Lender be
+otherwise materially economically disadvantageous to such Lender.
+(i) Each Lender hereby authorizes the Administrative Agent to deliver to the Borrower and Mondeléz and to any successor Administrative Agent any
+documentation provided by such Lender to the Administrative Agent pursuant to paragraph (e), (f) or (g) of this Section 2.15.
+(j) If any Lender or the Administrative Agent, as the case may be, obtains a refund of any Tax for which payment has been made pursuant to this
+Section 2.15, or, in lieu of obtaining such refund, such Lender or the Administrative Agent applies the amount that would otherwise have been refunded as a credit
+against payment of a liability in respect of taxes, which refund or credit in the good faith judgment of such Lender or the Administrative Agent, as the case may be,
+(and without any obligation to disclose its tax records) is allocable to such payment made under this Section 2.15, the amount of such refund or credit (together with
+any interest received thereon and reduced by reasonable out-of-pocket costs incurred in obtaining such refund or credit and by any applicable taxes) promptly shall
+be paid to the Borrower to the extent payment has been made in full by the Borrower pursuant to this Section 2.15.
+-25-

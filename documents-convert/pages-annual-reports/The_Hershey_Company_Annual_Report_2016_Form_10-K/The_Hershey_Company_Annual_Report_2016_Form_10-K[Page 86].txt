@@ -1,0 +1,49 @@
+THE HERSHEY C OlVIPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+For the years ended December 31, 2016 2015 2014 7
+lUnits granted 545,750 381,407 331,788 1
+Weighted-average fair value at date of grant $ 93.55 $ 104.68 $ 115.57
+lMonte Carlo simulation assumptions: l
+Estimated values 55 38.02 $ 61.22 $ 80.95
+] Dividend yields 2.5% 2.0% 1.8%}
+Expected volatility 17.0% 14.9% 15.5%
+0 “Estimated values” means the fair value for the market-based total shareholder return component of
+each PSU at the date of grant using a Monte Carlo simulation model;
+0 “Dividend yields” means the sum of dividends declared for the four most recent quarterly periods,
+divided by the average price of our Common Stock for the comparable periods;
+0 “Expected volatility” means the historical volatility of our Common Stock over the expected term of
+each grant.
+The fair value of shares vested totaled $22,062, $46,113 and $57,360 in 2016, 2015 and 2014, respectively.
+Deferred PSUs, deferred RSUs and deferred stock units representing directors” fees totaled 483,465 units as of
+December 31, 2016. Each unit is equivalent to one share of the Company’s Common Stock.
+11. SEGMENT INFORMATION
+Our organizational structure is designed to ensure continued focus on North America, coupled with an emphasis on
+profitable growth in our focus international markets. Our business is organized around geographic regions, which
+enables us to build processes for repeatable success in our global markets. As a result, we have defined our operating
+segments on a geographic basis, as this aligns with how our Chief Operating Decision Maker (“CODM”) manages our
+business, including resource allocation and performance assessment. Our North America business, which generates
+approximately 88% of our consolidated revenue, is our only reportable segment. None of our other operating
+segments meet the quantitative thresholds to qualify as reportable segments; therefore, these operating segments are
+combined and disclosed below as International and Other.
+0 North America - This segment is responsible for our traditional chocolate and non-chocolate confectionery
+market position, as well as our grocery and growing snacks market positions, in the United States and
+Canada. This includes developing and growing our business in chocolate and non-chocolate confectionery,
+pantry, food service and other snacking product lines.
+0 International and Other - International and Other is a combination of all other operating segments that are
+not individually material, including those geographic regions where we operate outside of North America.
+We currently have operations and manufacture product in China, Mexico, Brazil, India and Malaysia,
+primarily for consumers in these regions, and also distribute and sell confectionery products in export markets
+of Asia, Latin America, Middle East, Europe, Africa and other regions. This segment also includes our global
+retail operations, including Hershey's Chocolate World stores in Hershey, Pennsylvania, New York City, Las
+Vegas, Shanghai, Niagara Falls (Ontario), Dubai, and Singapore, as well as operations associated with
+licensing the use of certain of the Company's trademarks and products to third parties around the world.
+For segment reporting purposes, we use “segment income” to evaluate segment performance and allocate resources.
+Segment income excludes unallocated general corporate administrative expenses, unallocated mark-to-market gains
+and losses on commodity derivatives, business realignment and impairment charges, acquisition integration costs, the
+non-service related portion of pension expense and other unusual gains or losses that are not part of our measurement
+of segment performance. These items of our operating income are managed centrally at the corporate level and are
+excluded from the measure of segment income reviewed by the CODM as well the measure of segment performance
+used for incentive compensation purposes.
+Accounting policies associated with our operating segments are generally the same as those described in Note 1.
+84

@@ -1,0 +1,47 @@
+- NetScaler SD- WAN increases the security, performance and reliability of traditional enterprise applications, SaaS
+applications and virtual desktops for remote users. It is an integrated platform that can help customers eﬁectively and
+economically increase WAN throughput while accelerating enterprise applications and ensuring the performance and
+availability of mission critical applications through a hybrid WAN architecture.
+Cloud Services
+Citrix cloud-based services enable our customers to provide a ﬂexible way to manage their applications and data. This
+cloud-based approach is designed to provide reduced infrastructure, centralized control and SaaS-style updates, contributing to
+lower administration cost and complexity.
+° ShareFile is a secure, cloud-based file sharing and storage solution built for business, giving users enterprise-class
+data services across all corporate and personal mobile devices, while maintaining total IT control. ShareFile delivers
+the data fabric of our integrated platform for secure app, data and network delivery through Citrix Cloud. ShareFile
+protects data throughout the storage and transfer process, using up to 256-bit encryption and SSL or Transport Layer
+Security, or TLS encryption protocols for transfer and 256-bit encryption for files at rest on ShareFile servers.
+Password protection and granular access to folders and files stored with ShareFile ensure that data remains in control
+of the company. With ShareFile Enterprise, organizations can manage their data on—premises in customer managed
+StorageZones, select Citrix managed secure cloud options or create a mix of both to meet the needs for data
+sovereignty, compliance, performance and costs. Additionally, ShareFile supports e-signature, feedback and approval
+workﬂows that help businesses adopt the mobile, digital office.
+- Citrix Cloud delivers our XenApp, XenDesktop, XenMobile, ShareFile and NetScaler Gateway services virtually
+through the cloud so customers can easily and rapidly configure and deliver workspaces to meet the needs of given
+functions, roles or vertical segments; ﬂexibly integrate apps and data across any cloud, platform or device; set and
+monitor access, security and data sovereignty rules across their entire infrastructure; and monitor and manage all
+corporate apps, data and networks through a unified control console. This cloud-based approach means reduced
+infrastructure, centralized control and SaaS-style updates, contributing to lower administration cost and complexity.
+Go To Business
+The GoTo Business was composed of the Communications Cloud and Workﬂow Cloud products that allow organizations
+to enable mobile workstyles and offer employees the ability to move seamlessly across a diverse mix of devices and collaborate
+and share information.
+Communications Cloud
+° GOT oMeeting was our easy-to-use, secure and cost-effective product for online meetings, sales demonstrations and
+collaborative gatherings and comes equipped with integrated conference dial-in numbers, Voice over Internet Protocol,
+or VoIP and HDFaces high-definition video conferencing.
+° GOT 0 Webinar was our easy-to-use, do-it—yourself, full-featured webinar product, allowing organizations to increase
+market reach and effectively present online to geographically dispersed audiences.
+° GOT 0T raining was our easy-to-use and secure online training product that enables individuals and enterprises to
+provide interactive training sessions to customers and employees in any location.
+- Open Voice was our reservation-less audio conferencing service, providing robust web-based account tools that allows
+user provisioning and audio meeting controls for users to manage small and large audio conferences without operator
+assistance.
+° Grasshopper was our provider of cloud-based telephony solutions for small businesses that allows organizations to
+establish professional voice presence (e.g., interactive voice response (IVR), routing, voicemail) without costly
+hardware investments and enables employees to use their personal devices to make and receive calls from their
+business line via a mobile app.
+Workﬂow Cloud
+° GoToMyPC was our online service that enables mobile workstyles by providing secure, remote access to a PC or Mac
+from virtually any Internet-connected computer, as well as from supported iOS or Android mobile devices.
+5

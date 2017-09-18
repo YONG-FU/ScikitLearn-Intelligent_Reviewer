@@ -1,0 +1,41 @@
+Summary of Signiﬁcant Accounting Policies
+Revenue Recognition
+We recognize revenue for products and services when: (i) a persuasive evidence of an arrangement exists; (ii) delivery has
+occurred and there are no uncertainties regarding customer acceptance; (iii) pricing or fees are fixed or determinable; and (iv)
+collection is reasonably assured.
+Automotive Revenue
+Automotive revenue includes revenues related to deliveries of new vehicles, sales of regulatory credits to other automotive
+manufacturers, and specific other elements that meet the definition of a deliverable under multiple-element accounting guidance
+including free access to our Supercharger network, free internet connectivity, and future free over-the-air software updates. These
+deliverables are valued on a stand-alone basis and we recognize their revenue over our performance period, which is generally the
+eight-year life of the vehicle, except for internet connectivity which is over the free four year period. If we sell a deliverable
+separately, we use that pricing to determine its fair value; otherwise, we use third party pricing of similar options, our best estimated
+selling price by considering costs used to develop and deliver the service, and other information which may be available.
+As of December 31, 2016, and 2015 we had deferred $291.2 million and $138.2 million related to the purchase of vehicle
+maintenance and service plans, access to our Supercharger network, internet connectivity, autopilot and over-the-air software updates.
+At the time of revenue recognition, we record a reserve against revenue for estimated future product returns. Such estimates are
+based on historical experience and are immaterial in all periods presented.
+Automotive Leasing Revenue
+Automotive leasing revenue includes revenue recognized under lease accounting guidance for our direct leasing programs as
+well as programs with resale value guarantees. See “Resale Value Guarantees and Other Financing Programs” and “Direct Vehicle
+Leasing Program” for further details.
+Resale Value Guarantees and Other Financing Programs
+Vehicle sales to customers with a resale value guarantee
+We offered resale value guarantees or similar buy-back terms to all customers who purchase vehicles and who financed their
+vehicle through one of our speciﬁed commercial banking partners. Subsequent to June 30, 2016, this program is available only in
+certain international markets. Under this program, customers have the option of selling their vehicle back to us during the guarantee
+period for a determined resale value. Guarantee periods generally range from 36 to 39 months. Although we receive full payment for
+the vehicle sales price at the time of delivery, we are required to account for these transactions as operating leases. The amount of sale
+proceeds equal to the resale value guarantee is deferred until the guarantee expires or is exercised. The remaining sale proceeds are
+deferred and recognized on a straight-line basis over the stated guarantee period to automotive leasing revenue. The guarantee period
+expires at the earlier of the end of the guarantee period or the pay-off of the initial loan. We capitalize the cost of these vehicles on our
+Consolidated Balance Sheets as operating lease vehicles, net, and depreciate their value, less salvage value, to cost of automotive
+leasing revenue over the same period.
+In cases when a customer retains ownership of a vehicle at the end of the guarantee period, the resale value guarantee liability
+and any remaining deferred revenue balances related to the vehicle are settled to automotive leasing revenue and the net book value of
+the leased vehicle is expensed to costs of automotive leasing revenue. In cases when customers return the vehicle back to us during the
+guarantee period, we purchase the vehicle from the customer in an amount equal to the resale value guarantee and settle any remaining
+deferred balances to automotive leasing revenue and we reclassify the net book value of the vehicle on our balance sheet to pre-owned
+vehicle inventory. As of December 31, 2016 and December 31, 2015, $179.5 million and $136.8 million of the guarantees were
+exercisable by customers within the next twelve months.
+6 1
