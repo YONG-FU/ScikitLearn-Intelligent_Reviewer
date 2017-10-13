@@ -1,7 +1,4 @@
-from .keywordModel import Keyword, KeywordSchema
-from .predictResultModel import PredictResult, PredictResultSchema
 from marshmallow import Schema, fields, post_load
-from bson import ObjectId
 
 # Model class for a report
 class Report:

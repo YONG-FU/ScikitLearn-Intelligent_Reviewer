@@ -10,9 +10,10 @@ class DataAccess:
         if testMode == True:
             client = MongoClient()
         else:
-            uri = "report-reader.southeastasia.cloudapp.azure.com:27017"
-            client = MongoClient(uri)
-            # client = MongoClient()
+            # uri = "report-reader.southeastasia.cloudapp.azure.com:27017"
+            # client = MongoClient(uri)
+            client = MongoClient()
+
         self._database = client['report-reader-database']
         self._collection = self._database['reports']
         subject = subject.lower()
@@ -26,8 +27,8 @@ class DataAccess:
 
     def getIdAndNames(self):
         report_list = []
-        # for report in self._collection.find({}, {'_id': 1, 'name': 1, 'size': 1, 'reportScore': 1}):
-        for report in self._collection.find({}, {'_id': 1, 'name': 1, 'size': 1, 'reportScore': 1, 'completionRate': 1}):
+        for report in self._collection.find({}, {'_id': 1, 'name': 1, 'size': 1, 'reportScore': 1}):
+        # for report in self._collection.find({}, {'_id': 1, 'name': 1, 'size': 1, 'reportScore': 1, 'completionRate': 1}):
         # for report in self._collection.find({'name': {'$regex': '.*Test.*'}}, {'_id': 1, 'name': 1, 'size': 1, 'reportScore': 1, 'completionRate': 1}):
             report.update({"id": str(report["_id"])})
             del report["_id"]

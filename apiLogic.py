@@ -1,4 +1,3 @@
-from apiModel.reportModel import Report
 from apiModel.keywordModel import Keyword, KeywordSchema
 from apiModel.valueModel import Value
 from predictionModel import PredictionModel
@@ -10,7 +9,6 @@ import jieba
 import re
 from chinese_digit import ChineseDigit
 import csv
-# import numpy
 
 class ApiLogic:
     def getAvailableReports(self, subject):

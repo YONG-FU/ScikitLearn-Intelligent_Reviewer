@@ -2,11 +2,11 @@ from os import listdir, stat
 from pymongo import MongoClient
 
 # Local Connection Database
-# client = MongoClient()
+client = MongoClient()
 
 # Cloud Connection Database
-uri = "report-reader.southeastasia.cloudapp.azure.com:27017"
-client = MongoClient(uri)
+# uri = "report-reader.southeastasia.cloudapp.azure.com:27017"
+# client = MongoClient(uri)
 
 database = client["report-reader-database"]
 collection = database["verdicts"]
